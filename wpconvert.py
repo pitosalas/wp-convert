@@ -8,9 +8,6 @@ MAX_API_PAGES = 3
 
 class WPConvert:
     def __init__(self):
-        self.text_maker = html2text.HTML2Text()
-        self.text_maker.protect_links = True
-        self.text_maker.wrap_links = False
         self.posts = []
         
     def retrieve_posts(self):
@@ -43,7 +40,7 @@ class WPConvert:
             print(response.text)
 
     def process_a_post(self, post) -> dict:
-       result = {"title": post['title']['rendered'], "content": self.text_maker.handle(post['content']['rendered']),
+       result = {"title": post['title']['rendered'], "content": post['content']['rendered'],
                  "date": post['date'].replace('T', ' ').replace('Z', ''), "slug": post['slug']}
        return result
 
@@ -54,19 +51,23 @@ class WPConvert:
 
 class BlogGenerator:
     def __init__(self):
+        self.text_maker = html2text.HTML2Text()
+        self.text_maker.protect_links = True
+
         pass
 
     def generate(self, posts):
     # Ensure the '_posts' directory exists
-        directory = "_posts"
+        directory = "links"
         if not os.path.exists(directory):
             os.makedirs(directory)
 
         for post in posts:
+            content = self.text_maker.handle(post['content'])
             filename = f"{post['date']}-{post['title'].replace(' ', '-')}.md"
             file_path = os.path.join(directory, self.sanitize_filename(filename))
             with open(file_path, 'w', encoding='utf-8') as file:
-                file.write(post['content'])
+                file.write(content)
 
     def sanitize_filename(self, filename):
         filename = re.sub(r'[\\/*?:"<>|]', "_", filename)  # Replace forbidden characters with underscore
