@@ -6,5 +6,3 @@ docs_dir: docs
 plugins:
     - search
     - awesome-pages
-home:
-    - indexes/links-1.md
