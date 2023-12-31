@@ -1,10 +1,10 @@
-site_name: Salas.com Some Stuff I just figured out
+site_name: Salas.com
+site_description: Pito Salas Link Blog and More
+site_author: Pito Salas
+copyright: Pito Salas 2023
 docs_dir: docs
-nav:
-    - Home: index.md
-    - About: about.md
-    - License: license.md
-    - test: test.md
-    - welcome: welcome.md
-theme: material
-
+plugins:
+    - search
+    - awesome-pages
+home:
+    - indexes/links-1.md
