@@ -1,7 +1,9 @@
 nav:
     - Indexes: indexes
-    - Curacao Notes: curacao.md
-    - Finding a Job: finding-a-job.md
-    - Independend Study: independent-study.md
-    - Keeping Up: keeping-up.md
-    - Recommendations: recommendations.md
+    - Pages:
+        - Curacao Notes: curacao.md
+        - Finding a Job: finding-a-job.md
+        - Independend Study: independent-study.md
+        - Keeping Up: keeping-up.md
+        - Recommendations: recommendations.md
+    - Links: links

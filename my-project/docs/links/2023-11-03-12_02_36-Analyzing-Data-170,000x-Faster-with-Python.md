@@ -1,3 +1,6 @@
+---
+title: Analyzing Data
+---
 ### Analyzing Data 170,000x Faster with Python
 
 
