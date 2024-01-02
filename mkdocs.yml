@@ -6,5 +6,9 @@ docs_dir: docs
 plugins:
     - search
     - blog
+    - tags:
+        enabled: true
+        tags: true
+        tags_file: tags.md
 theme:
     name: material
