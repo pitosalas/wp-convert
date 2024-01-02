@@ -1,0 +1,10 @@
+site_name: Salas.com
+site_description: Pito Salas Link Blog and More
+site_author: Pito Salas
+copyright: Pito Salas 2023
+docs_dir: docs
+plugins:
+    - search
+    - blog
+theme:
+    name: material
