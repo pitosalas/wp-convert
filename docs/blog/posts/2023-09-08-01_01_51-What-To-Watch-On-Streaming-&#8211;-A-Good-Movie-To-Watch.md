@@ -2,6 +2,9 @@
 title: "What To Watch On Streaming &#8211; A Good Movie To Watch"
 author: Pito Salas
 date: 2023-06-14 15:00:00
+tags:
+    - main
+    - all
 ---
 
 

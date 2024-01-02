@@ -2,6 +2,9 @@
 title: "The costly mistake so many make with numpy and pandas"
 author: Pito Salas
 date: 2023-06-14 15:00:00
+tags:
+    - main
+    - all
 ---
 
 

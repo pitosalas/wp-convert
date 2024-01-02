@@ -2,6 +2,9 @@
 title: "Refactoring: Improving the Design of Existing Code (My Notes and Highlights)"
 author: Pito Salas
 date: 2023-06-14 15:00:00
+tags:
+    - main
+    - all
 ---
 
 

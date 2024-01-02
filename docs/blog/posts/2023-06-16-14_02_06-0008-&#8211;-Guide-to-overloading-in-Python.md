@@ -2,6 +2,9 @@
 title: "0008 &#8211; Guide to overloading in Python"
 author: Pito Salas
 date: 2023-06-14 15:00:00
+tags:
+    - main
+    - all
 ---
 
 

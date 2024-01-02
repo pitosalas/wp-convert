@@ -2,6 +2,9 @@
 title: "Top 7 Featured DEV Posts from the Past Week"
 author: Pito Salas
 date: 2023-06-14 15:00:00
+tags:
+    - main
+    - all
 ---
 
 

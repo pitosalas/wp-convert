@@ -2,6 +2,9 @@
 title: "Making the EM5 mk 2 High Res Mode Sing By Brad Nichol | Steve Huff Hi-Fi and Photo"
 author: Pito Salas
 date: 2023-06-14 15:00:00
+tags:
+    - main
+    - all
 ---
 
 

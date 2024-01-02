@@ -2,6 +2,9 @@
 title: "Here is what ChatGPT (and Claude) are good for!"
 author: Pito Salas
 date: 2023-06-14 15:00:00
+tags:
+    - main
+    - all
 ---
 ![](https://i0.wp.com/salas.com/wp-
 content/uploads/2023/07/Screenshot-2023-07-13-at-3.53.58-PM.png?resize=584%2C387&ssl=1)

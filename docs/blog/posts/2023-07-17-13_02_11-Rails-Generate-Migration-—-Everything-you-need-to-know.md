@@ -2,6 +2,9 @@
 title: "Rails Generate Migration — Everything you need to know"
 author: Pito Salas
 date: 2023-06-14 15:00:00
+tags:
+    - main
+    - all
 ---
 
 

@@ -2,6 +2,9 @@
 title: "My $500M Mars Rover Mistake: A Failure Story — Chris Lewicki"
 author: Pito Salas
 date: 2023-06-14 15:00:00
+tags:
+    - main
+    - all
 ---
 
 
