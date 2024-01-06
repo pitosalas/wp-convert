@@ -93,6 +93,8 @@ class BlogGenerator:
                 print(tag_text)
             tag_text = "none" if tag_text is None else tag_text
             tags_string += f"\n    - {tag_text}"
+        if tags_string != "":
+            tags_string = f"\ntags:{tags_string}"
         return tags_string
     
     def start_index_page(self):
@@ -139,8 +141,7 @@ class BlogGenerator:
             markdown =f"""---
 title: "{title}"
 author: Pito Salas
-date: {date}
-tags: {tags}
+date: {date}{tags}
 ---
 {content}
 """

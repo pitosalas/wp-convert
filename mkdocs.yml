@@ -6,8 +6,13 @@ docs_dir: docs
 theme:
   name: material
 plugins:
+  - search
   - blog:
       blog_dir: .
+  - tags:
+      enabled: true
+      tags: true
+      tags_file: tags.md
 nav:
   - Blog:
     - index.md
@@ -17,4 +22,3 @@ nav:
   - pages/curacao.md
   - pages/recommendations.md
   - tags.md
-
