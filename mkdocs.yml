@@ -22,3 +22,5 @@ nav:
   - pages/curacao.md
   - pages/recommendations.md
   - tags.md
+extra_css:
+  - mystyle.css
