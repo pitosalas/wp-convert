@@ -1,10 +1,13 @@
 ---
 title: "GPT Engineer: Build an Entire App with a Single Prompt"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-07-07 12:01:59
+tags: 
+    - automation
+    - ChatGPT
+    - cooltool
+    - Programming
+    - python
 ---
 
 

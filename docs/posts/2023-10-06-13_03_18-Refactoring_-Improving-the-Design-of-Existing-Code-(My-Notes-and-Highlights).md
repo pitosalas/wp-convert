@@ -1,10 +1,14 @@
 ---
 title: "Refactoring: Improving the Design of Existing Code (My Notes and Highlights)"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-10-06 13:03:18
+tags: 
+    - best-bet
+    - fowler
+    - howto
+    - refactoring
+    - review
+    - software-engineering
 ---
 
 

@@ -1,10 +1,11 @@
 ---
 title: "Practical Stimulus: Building a Counter Component"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-08-24 11:03:56
+tags: 
+    - howto
+    - javascript
+    - stimulus
 ---
 
 

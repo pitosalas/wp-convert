@@ -1,10 +1,12 @@
 ---
 title: "How To Use RTK GPS On A ROS Robot"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-11-16 12:01:20
+tags: 
+    - gps
+    - howto
+    - robotics
+    - rtk
 ---
 
 

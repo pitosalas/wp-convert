@@ -1,10 +1,13 @@
 ---
 title: "Introduction &#8211; Ruby Science by thoughtbot"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-10-24 12:02:06
+tags: 
+    - best-bet
+    - howto
+    - patterns
+    - ruby
+    - software-engineering
 ---
 
 

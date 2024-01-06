@@ -1,10 +1,12 @@
 ---
 title: "NandGame &#8211; Build a computer from scratch."
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-09-08 21:02:29
+tags: 
+    - circuit
+    - cpu
+    - game
+    - nand
 ---
 
 

@@ -1,10 +1,12 @@
 ---
 title: "Are Your Students Ready for AI?"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-07-07 12:02:02
+tags: 
+    - ChatGPT
+    - explainer
+    - opinion
+    - teaching
 ---
 
 

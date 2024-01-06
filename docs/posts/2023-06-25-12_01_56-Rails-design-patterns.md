@@ -1,10 +1,14 @@
 ---
 title: "Rails design patterns"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-06-25 12:01:56
+tags: 
+    - explainer
+    - howto
+    - interactor
+    - patterns
+    - presenter
+    - rails
 ---
 
 

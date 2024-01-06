@@ -1,10 +1,13 @@
 ---
 title: "How to Use AI to Do Stuff: An Opinionated Guide"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-07-15 15:01:56
+tags: 
+    - ai
+    - ChatGPT
+    - LLM
+    - recommendations
+    - review
 ---
 
 

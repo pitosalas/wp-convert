@@ -1,10 +1,12 @@
 ---
 title: "Document Your Python Code and Projects With ChatGPT – Real Python"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-11-15 13:02:08
+tags: 
+    - ChatGPT
+    - docstrings
+    - documentation
+    - python
 ---
 
 

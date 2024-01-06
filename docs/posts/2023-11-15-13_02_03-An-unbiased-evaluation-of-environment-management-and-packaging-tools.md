@@ -1,10 +1,13 @@
 ---
 title: "An unbiased evaluation of environment management and packaging tools"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-11-15 13:02:03
+tags: 
+    - build
+    - poetry
+    - pyenv
+    - python
+    - version-manager
 ---
 
 

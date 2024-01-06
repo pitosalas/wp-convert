@@ -1,10 +1,11 @@
 ---
 title: "RFC processes are a poor fit for most organizations &#8211; Jacob Kaplan-Moss"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-12-03 13:01:59
+tags: 
+    - best-practices
+    - decision making
+    - rfc
 ---
 
 

@@ -1,10 +1,11 @@
 ---
 title: "20 Things I&#8217;ve Learned in my 20 Years as a Software Engineer"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-12-19 14:01:20
+tags: 
+    - advice
+    - lessons-learned
+    - software-engineering
 ---
 
 

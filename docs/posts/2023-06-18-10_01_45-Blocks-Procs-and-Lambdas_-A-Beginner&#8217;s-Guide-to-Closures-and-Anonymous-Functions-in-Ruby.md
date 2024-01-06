@@ -1,10 +1,15 @@
 ---
 title: "Blocks Procs and Lambdas: A Beginner&#8217;s Guide to Closures and Anonymous Functions in Ruby"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-06-18 10:01:45
+tags: 
+    - block
+    - blocks
+    - explainer
+    - functions
+    - lambda
+    - proc
+    - ruby
 ---
 
 

@@ -1,10 +1,13 @@
 ---
 title: "Static Site Generators"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-12-30 15:46:59
+tags: 
+    - blog
+    - nanoc
+    - python
+    - static-site-generator
+    - wordpress
 ---
 
 

@@ -1,10 +1,13 @@
 ---
 title: "0008 &#8211; Guide to overloading in Python"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-06-16 14:02:06
+tags: 
+    - explainer
+    - functions
+    - language
+    - overloading
+    - python
 ---
 
 

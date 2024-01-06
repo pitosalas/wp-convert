@@ -1,10 +1,12 @@
 ---
 title: "Writing an Operating System From Scratch"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-09-08 01:02:00
+tags: 
+    - howto
+    - operating-system
+    - OS
+    - project
 ---
 
 

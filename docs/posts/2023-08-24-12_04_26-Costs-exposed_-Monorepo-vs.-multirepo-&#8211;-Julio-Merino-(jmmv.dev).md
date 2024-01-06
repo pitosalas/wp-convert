@@ -1,10 +1,13 @@
 ---
 title: "Costs exposed: Monorepo vs. multirepo &#8211; Julio Merino (jmmv.dev)"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-08-24 12:04:26
+tags: 
+    - comparison
+    - git
+    - github
+    - monorepo
+    - repositories
 ---
 
 

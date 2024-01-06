@@ -1,10 +1,11 @@
 ---
 title: "The Worst Programmer I Know"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-09-06 00:01:49
+tags: 
+    - 10x
+    - metrics
+    - productivity
 ---
 
 

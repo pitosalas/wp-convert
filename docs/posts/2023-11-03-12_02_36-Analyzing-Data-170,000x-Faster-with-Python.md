@@ -1,10 +1,14 @@
 ---
 title: "Analyzing Data 170,000x Faster with Python"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-11-03 12:02:36
+tags: 
+    - howto
+    - numba
+    - numpy
+    - optimization
+    - python
+    - source-code
 ---
 
 

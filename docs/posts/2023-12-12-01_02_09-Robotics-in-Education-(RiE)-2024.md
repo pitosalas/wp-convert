@@ -1,10 +1,8 @@
 ---
 title: "Robotics in Education (RiE) 2024"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-12-12 01:02:09
+tags: 
 ---
 
 

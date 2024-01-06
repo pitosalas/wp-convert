@@ -1,10 +1,12 @@
 ---
 title: "Lessons From Debugging"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-10-03 13:03:46
+tags: 
+    - best-bet
+    - best-practices
+    - debugging
+    - howto
 ---
 
 

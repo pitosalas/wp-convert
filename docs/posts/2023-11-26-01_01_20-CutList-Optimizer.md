@@ -1,10 +1,12 @@
 ---
 title: "CutList Optimizer"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-11-26 01:01:20
+tags: 
+    - cutting
+    - plywood
+    - saw
+    - woodworking
 ---
 
 

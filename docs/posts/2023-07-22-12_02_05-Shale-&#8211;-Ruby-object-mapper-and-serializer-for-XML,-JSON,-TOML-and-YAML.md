@@ -1,10 +1,13 @@
 ---
 title: "Shale &#8211; Ruby object mapper and serializer for XML, JSON, TOML and YAML"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-07-22 12:02:05
+tags: 
+    - cooltool
+    - gem
+    - object oriented
+    - ruby
+    - text
 ---
 
 

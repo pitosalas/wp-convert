@@ -1,10 +1,13 @@
 ---
 title: "Developing a Multithreaded Kernel From Scratch!"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-10-26 19:03:37
+tags: 
+    - course
+    - education
+    - kernel
+    - operating-system
+    - udemy
 ---
 
 

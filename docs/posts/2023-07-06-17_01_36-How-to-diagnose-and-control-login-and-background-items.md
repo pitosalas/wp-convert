@@ -1,10 +1,11 @@
 ---
 title: "How to diagnose and control login and background items"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-07-06 17:01:36
+tags: 
+    - cli
+    - macos
+    - startup
 ---
 
 

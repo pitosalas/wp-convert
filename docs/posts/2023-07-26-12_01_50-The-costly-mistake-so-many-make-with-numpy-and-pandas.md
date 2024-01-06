@@ -1,10 +1,12 @@
 ---
 title: "The costly mistake so many make with numpy and pandas"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-07-26 12:01:50
+tags: 
+    - numpy
+    - pandas
+    - perormance
+    - python
 ---
 
 

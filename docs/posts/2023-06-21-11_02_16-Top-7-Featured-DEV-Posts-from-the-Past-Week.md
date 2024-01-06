@@ -1,10 +1,13 @@
 ---
 title: "Top 7 Featured DEV Posts from the Past Week"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-06-21 11:02:16
+tags: 
+    - coding
+    - git
+    - howto
+    - releasing
+    - software-engineering
 ---
 
 

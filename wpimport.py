@@ -1,17 +1,18 @@
+import json
 import os
 import requests
 import html2text
 import re
 from datetime import datetime
 
-
-MAX_API_PAGES = 10
+MAX_API_PAGES = 100
 LINKS_PER_PAGE = 100
 
 class WPImport:
     def __init__(self):
         self.posts = []
-        
+        self.tags = {}
+
     def retrieve_posts(self):
         # Endpoint for the WordPress post API, replace with your WordPress site URL
         url = "http://www.salas.com/wp-json/wp/v2/posts"
@@ -35,7 +36,6 @@ class WPImport:
         if response.status_code == 200:
             # Parse JSON response
             posts = response.json()
-
             for post in posts:
                 self.posts.append(action(post))
         else:
@@ -43,14 +43,22 @@ class WPImport:
             print(response.text)
 
     def process_a_post(self, post) -> dict:
-       result = {"title": post['title']['rendered'], "content": post['content']['rendered'],
-                 "date": post['date'].replace('T', ' ').replace('Z', ''), "slug": post['slug']}
-       return result
-
+        return {
+            "title": post['title']['rendered'],
+            "content": post['content']['rendered'],
+            "date": post['date'].replace('T', ' ').replace('Z', ''),
+            "slug": post['slug'],
+            "tags": post['tags']
+        }
+    
+    def retrieve_tags_from_file(self):
+        with open('tags.json') as json_file:
+            self.tags = json.load(json_file)
+    
     def run(self):
-        response = self.retrieve_posts()
-        self.process_posts(response, self.process_a_post)
-
+        self.retrieve_posts()
+        self.retrieve_tags_from_file()
+        print("done")
 
 class BlogGenerator:
     def __init__(self):
@@ -62,16 +70,31 @@ class BlogGenerator:
         self.index_directory = "index"
         os.makedirs(self.index_directory, exist_ok=True)
 
-    def generate(self, posts):
+    def generate(self, posts, tags):
         self.cp_number = 0
         self.start_index_page()
+        self.tags = tags
         for post in posts:
             content = self.text_maker.handle(post['content'])
             title = post['title']
             date = post['date']
+            tags = self.generate_tags_string(post['tags'])
             self.add_post_to_index_page(title, content, date)
-            self.save_individual_post(title, content, date)
+            self.save_individual_post(title, content, date, tags)
 
+    def generate_tags_string(self, tags):
+        tags_string = ""
+        for tag_as_int in tags:
+            tag_as_int = str(tag_as_int)
+            tag_text = self.tags.get(tag_as_int)
+            if tag_text is None:
+                tag_text = "none"
+            else:
+                print(tag_text)
+            tag_text = "none" if tag_text is None else tag_text
+            tags_string += f"\n    - {tag_text}"
+        return tags_string
+    
     def start_index_page(self):
         self.index_count = 0
         self.index_text = ""
@@ -109,17 +132,15 @@ class BlogGenerator:
         date = datetime.strptime(date, date_format)
         return date.strftime("%b %d, %Y")
 
-    def save_individual_post(self, title, content, date):
+    def save_individual_post(self, title, content, date, tags):
         filename = f"{date}-{title.replace(' ', '-')}.md"
         file_path = os.path.join(self.posts_directory, self.sanitize_filename(filename))
         with open(file_path, 'w', encoding='utf-8') as file:
             markdown =f"""---
 title: "{title}"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: {date}
+tags: {tags}
 ---
 {content}
 """
@@ -133,9 +154,9 @@ tags:
 # Main program
 if __name__ == "__main__":
     wp_conv = WPImport()
-    wp_conv.run()
+    wp_conv.run()    
     blog_gen = BlogGenerator()
-    blog_gen.generate(wp_conv.posts)
+    blog_gen.generate(wp_conv.posts, wp_conv.tags)
     
     print("done")
 

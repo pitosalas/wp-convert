@@ -1,10 +1,12 @@
 ---
 title: "Rewriting the Ruby parser"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-06-16 06:02:25
+tags: 
+    - explainer
+    - parser
+    - ruby
+    - yarp
 ---
 
 

@@ -1,4 +1,4 @@
-### Links from Nov 26 to Dec 31
+### Links from May 29 to Dec 31
 
 #### Configuration in Python Applications: No Magic, Just Necessary Practice
 [ Configuration in Python Applications: No Magic, Just Necessary Practice](<
@@ -1126,122 +1126,124 @@ dicts?r=1slq0e&utm_medium=ios&utm_campaign=post>) –I won't make any dict joke
 * **date:** Jun 14, 2023
 * **tags:** TBD
 ---
-#### Configuration in Python Applications: No Magic, Just Necessary Practice
+#### Community by the Numbers Part One: Group Thresholds
 
 
-[ Configuration in Python Applications: No Magic, Just Necessary Practice](<
-https://robertrode.com/2023/10/02/configuration-in-python-applications-no-
-magic-just-necessary-practice.html>) –During the development of Python
-applications, I've continually asked myself how and when variables should be
-passed and initialized for the application's configuration. I want to be able
-to easily override the configuration for tests, for example, to use a local
-database for testing. But what exactly is application configuration, and why
-is it needed? The website a …
+[ Community by the Numbers, Part One: Group
+Thresholds](<http://www.lifewithalacrity.com/2008/09/group-threshold.html>) –
 
 
-* **date:** Dec 31, 2023
+* **date:** Jun 14, 2023
 * **tags:** TBD
 ---
-#### Static Site Generators
+#### Opinion | How Shoddy Data Becomes Sensational Research
 
 
-[ Static Site Generators](< https://www.fullstackpython.com/static-site-
-generator.html>) –A static site generator combines a markup language with a
-templating engine to produce HTML files. Learn more on Full Stack Python.
+[ Opinion | How Shoddy Data Becomes Sensational Research](<
+https://www.chronicle.com/article/how-shoddy-data-becomes-sensational-
+research?utm_source=Iterable&utm_medium=email&utm_campaign=campaign_7001852_nl_Academe-
+Today_date_20230608&cid=at&source=&sourceid=&sra=true>) –Academics are
+addicted to p-hacking, data torturing, and other statistical sins. We must
+break these habits.
 
 
-* **date:** Dec 30, 2023
+* **date:** Jun 11, 2023
 * **tags:** TBD
 ---
-#### Explore Integrations &#8211; IFTTT
+#### Ruby 3.2 runtime now available in AWS Lambda | Amazon Web Services
 
 
-[ Explore Integrations - IFTTT](< https://ifttt.com/explore>) –Get more from
-the services you love on IFTTT. Explore the latest tips and tricks, browse by
-category, or search by name.
+[ Ruby 3.2 runtime now available in AWS Lambda | Amazon Web Services](<
+https://aws.amazon.com/blogs/compute/ruby-3-2-runtime-now-available-in-aws-
+lambda/>) –Get started building with Ruby 3.2 today by making necessary
+changes for compatibility with Ruby 3.2, and specifying a runtime parameter
+value of ruby3.2 when creating or updating your Lambda functions.
 
 
-* **date:** Dec 30, 2023
+* **date:** Jun 08, 2023
 * **tags:** TBD
 ---
-#### Kagi Search
+#### Alternate Python REPL &#8211; bpython
 
 
-[ Kagi Search](< https://kagi.com/>) –Better search results with no ads.
-Welcome to Kagi (pronounced kah-gee), a paid search engine that gives power
-back to the user.
+[ Alternate Python REPL - bpython](< https://bpython-interpreter.org/>) –
 
 
-* **date:** Dec 22, 2023
+* **date:** Jun 07, 2023
 * **tags:** TBD
 ---
-#### Overview / Install — GitPython 3.1.37 documentation
+#### Git is simply too hard
 
 
-[ Overview / Install — GitPython 3.1.37 documentation](<
-https://gitpython.readthedocs.io/en/stable/intro.html>) –null
+[ Git is simply too hard](< https://changelog.com/posts/git-is-simply-too-
+hard>) –Git is actually sooo hard. Not just to learn, but also to use
+consistently. And I say that as a person who used it for probably over ten
+years. Here’s my thoughts on the matter.
 
 
-* **date:** Dec 20, 2023
+* **date:** Jun 06, 2023
 * **tags:** TBD
 ---
-#### 20 Things I&#8217;ve Learned in my 20 Years as a Software Engineer
+#### Introduction to Rails Engines &#8211; FastRuby.io | Rails Upgrade Service
 
 
-[ 20 Things I've Learned in my 20 Years as a Software Engineer](<
-https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-
-software-engineer/?utm_source=changelog-news>) –Important, Read This First
-You’re about to read a blog post with a lot of advice. Learning from those who
-came before us is instrumental to success, but we often forget an important
-caveat. Almost all advice is contextual, yet it is rarely delivered with any
-context. “You just need to charge more!” says the company […]
+[ Introduction to Rails Engines - FastRuby.io | Rails Upgrade Service](<
+https://www.fastruby.io/blog/introduction-to-rails-
+engines.html?utm_source=reddit&utm_campaign=rails-engines&utm_medium=link>)
+–An intro to Rails Engines are an architectural pattern that can be used to
+modularize or pack a Rails application. An article about this powerful f…
 
 
-* **date:** Dec 19, 2023
+* **date:** Jun 01, 2023
 * **tags:** TBD
 ---
-#### Robotics in Education (RiE) 2024
+#### Concerns in Rails: Everything You Need to Know
 
 
-[ Robotics in Education (RiE) 2024](< https://rie.science/2024/index.html>) –
+[ Concerns in Rails: Everything You Need to Know](<
+https://www.akshaykhot.com/how-rails-concerns-work-and-how-to-use-them/>)
+–Concerns are an important concept in Rails that can be confusing to
+understand for those new to Rails as well as seasoned practitioners. This post
+explains what concerns are, how they work, and how & when you should use them
+to simplify your code, with practical, real-world examples.
 
 
-* **date:** Dec 12, 2023
+* **date:** Jun 01, 2023
 * **tags:** TBD
 ---
-#### My $500M Mars Rover Mistake: A Failure Story — Chris Lewicki
+#### How-To Add Recommendations to a Rails App with pgvector and OpenAI
 
 
-[ My $500M Mars Rover Mistake: A Failure Story — Chris Lewicki](<
-https://www.chrislewicki.com/articles/failurestory?utm_source=hackernewsletter&utm_medium=email&utm_term=fav>)
-–Some mistakes feel worse than death.
+[ How-To Add Recommendations to a Rails App with pgvector and OpenAI](<
+https://link.medium.com/Xfk2UqtydAb>) –Creating recommendations with pgvector,
+ruby-openai, and the neighbor gem.
 
 
-* **date:** Dec 03, 2023
+* **date:** May 30, 2023
 * **tags:** TBD
 ---
-#### RFC processes are a poor fit for most organizations &#8211; Jacob Kaplan-Moss
+#### pawurb/rails-brotli-cache: Rails cache using the Brotli algorithm offers better compression and performance.
 
 
-[ RFC processes are a poor fit for most organizations - Jacob Kaplan-Moss](<
-https://jacobian.org/2023/dec/1/against-rfcs/>) –The RFC process has been a
-huge success in defining the standards that run the Internet, but naively
-adopting this process for your company is a mistake. RFC processes tend to
-fail at most organizations because they lack a clear decision-making step.
+[ pawurb/rails-brotli-cache: Rails cache using the Brotli algorithm offers
+better compression and performance.](< https://github.com/pawurb/rails-brotli-
+cache>) –Rails cache using the Brotli algorithm offers better compression and
+performance. - GitHub - pawurb/rails-brotli-cache: Rails cache using the
+Brotli algorithm offers better compression and performa…
 
 
-* **date:** Dec 03, 2023
+* **date:** May 30, 2023
 * **tags:** TBD
 ---
-#### CutList Optimizer
+#### ‘Succession’ and the Future of Social Media
 
 
-[ CutList Optimizer](<
-https://cutlistoptimizer.com/?utm_campaign=Gareth%27s%20Tips,%20Tools,%20and%20Shop%20Tales&utm_medium=email&utm_source=Revue%20newsletter>)
-–Online panel cutting optimization software. Generate optimized cutting
-patterns based on the available stock sheets by nesting the required parts.
+[ ‘Succession’ and the Future of Social Media](<
+https://popula.com/2023/05/28/the-ourobouros-of-succession/>) –Sssssaga of a
+glossssy and glittering our bosses. Article is much more interesting than the
+title promises.
 
 
-* **date:** Nov 26, 2023
+* **date:** May 29, 2023
 * **tags:** TBD
 ---

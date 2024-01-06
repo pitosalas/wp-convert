@@ -1,10 +1,11 @@
 ---
 title: "Experiential Robotics Platform (XRP) Kit &#8211; Beta"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-07-07 12:01:54
+tags: 
+    - cooltool
+    - education
+    - robotics
 ---
 
 

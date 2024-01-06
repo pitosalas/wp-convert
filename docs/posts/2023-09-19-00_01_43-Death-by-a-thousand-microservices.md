@@ -1,10 +1,13 @@
 ---
 title: "Death by a thousand microservices"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-09-19 00:01:43
+tags: 
+    - architecture
+    - bike-shedding
+    - commentary
+    - microservice
+    - scaling
 ---
 
 

@@ -1,10 +1,13 @@
 ---
 title: "Lago Blog &#8211; ORMs are criticized for the wrong reasons"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-06-23 13:01:28
+tags: 
+    - explainer
+    - orm
+    - performance
+    - ruby
+    - sql
 ---
 
 

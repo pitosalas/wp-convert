@@ -1,10 +1,11 @@
 ---
 title: "Tracing the Lines: From the Telephone to Unix"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-09-08 01:01:27
+tags: 
+    - history
+    - pdp-11
+    - unix
 ---
 
 

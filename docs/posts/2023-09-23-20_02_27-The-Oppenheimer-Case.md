@@ -1,10 +1,8 @@
 ---
 title: "The Oppenheimer Case"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-09-23 20:02:27
+tags: 
 ---
 
 

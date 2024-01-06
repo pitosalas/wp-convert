@@ -1,10 +1,14 @@
 ---
 title: "Why did the #TwitterMigration fail?"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-06-15 20:01:45
+tags: 
+    - explainer
+    - federated
+    - fediverse
+    - mastodon
+    - scalability
+    - twitter
 ---
 
 

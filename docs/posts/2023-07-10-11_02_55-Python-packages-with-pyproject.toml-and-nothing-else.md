@@ -1,10 +1,14 @@
 ---
 title: "Python packages with pyproject.toml and nothing else"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-07-10 11:02:55
+tags: 
+    - explainer
+    - packaging
+    - poetry
+    - Programming
+    - python
+    - toml
 ---
 
 

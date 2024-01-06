@@ -1,10 +1,13 @@
 ---
 title: "Let&#8217;s Implement the Map Method from First Principles"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-09-09 13:01:06
+tags: 
+    - explainer
+    - lambda
+    - map
+    - proc
+    - ruby
 ---
 
 

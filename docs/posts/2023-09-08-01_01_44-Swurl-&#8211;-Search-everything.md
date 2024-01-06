@@ -1,10 +1,11 @@
 ---
 title: "Swurl &#8211; Search everything"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-09-08 01:01:44
+tags: 
+    - cooltoolm
+    - google
+    - search
 ---
 
 

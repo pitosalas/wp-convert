@@ -1,10 +1,13 @@
 ---
 title: "Excalidraw — Collaborative whiteboarding made easy"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-11-11 03:01:39
+tags: 
+    - diagrams
+    - drag-and-drop
+    - drawing
+    - illustration
+    - visualization
 ---
 
 

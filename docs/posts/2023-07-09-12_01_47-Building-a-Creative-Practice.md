@@ -1,10 +1,12 @@
 ---
 title: "Building a Creative Practice"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-07-09 12:01:47
+tags: 
+    - ai
+    - ChatGPT
+    - creativity
+    - generative-ai
 ---
 
 

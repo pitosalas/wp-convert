@@ -1,10 +1,12 @@
 ---
 title: "What is the difference between Turbo and Stimulus, and what exactly is Hotwire?"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-07-14 12:02:10
+tags: 
+    - explainer
+    - hotwire
+    - rails
+    - stimulus
 ---
 
 

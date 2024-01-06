@@ -1,10 +1,13 @@
 ---
 title: "A non-mathematical introduction to Kalman Filters for programmers &#8211; Pravesh Koirala"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-08-06 19:01:25
+tags: 
+    - code
+    - explainer
+    - kalman
+    - robot
+    - robotics
 ---
 
 

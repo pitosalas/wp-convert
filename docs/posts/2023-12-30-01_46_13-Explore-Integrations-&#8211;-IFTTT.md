@@ -1,10 +1,10 @@
 ---
 title: "Explore Integrations &#8211; IFTTT"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-12-30 01:46:13
+tags: 
+    - tag
+    - test
 ---
 
 

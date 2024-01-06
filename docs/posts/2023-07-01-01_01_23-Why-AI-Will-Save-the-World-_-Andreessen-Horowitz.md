@@ -1,10 +1,12 @@
 ---
 title: "Why AI Will Save the World | Andreessen Horowitz"
 author: Pito Salas
-date: 2023-06-14 15:00:00
-tags:
-    - main
-    - all
+date: 2023-07-01 01:01:23
+tags: 
+    - ai
+    - marc-andreesen
+    - opinion
+    - pmarca
 ---
 
 
