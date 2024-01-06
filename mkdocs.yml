@@ -10,9 +10,9 @@ plugins:
   - blog:
       blog_dir: .
   - tags:
-    enabled: true
-    tags: true
-    tags_file: tags.md
+      enabled: true
+      tags: true
+      tags_file: tags.md
 
 nav:
   - Blog:
