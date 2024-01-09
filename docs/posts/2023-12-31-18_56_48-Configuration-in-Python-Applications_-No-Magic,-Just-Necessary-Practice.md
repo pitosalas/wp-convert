@@ -7,6 +7,8 @@ tags:
     - python
     - tips
 ---
+
+
 [ Configuration in Python Applications: No Magic, Just Necessary Practice](<
 https://robertrode.com/2023/10/02/configuration-in-python-applications-no-
 magic-just-necessary-practice.html>) –During the development of Python
