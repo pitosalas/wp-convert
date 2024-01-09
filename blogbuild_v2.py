@@ -36,7 +36,7 @@ class BlogBuild:
 
     def generate_original_posts(self):
         pass
-
+re.
     def generate_wp_posts(self):
         count = 0
         for post in self.wp_posts:
@@ -85,9 +85,9 @@ class BlogBuild:
 
     def generate_tags_string(self, tags):
         tags_string = ""
-        for tag_as_int in tags:
-            tag_as_int = str(tag_as_int)
-            tag_text = self.tags.get(tag_as_int)
+        for tag_id in tags:
+            tag_id = str(tag_id)
+            tag_text = self.tags.get(tag_id)
             if tag_text is None:
                 tag_text = "none"
             tag_text = "none" if tag_text is None else tag_text
