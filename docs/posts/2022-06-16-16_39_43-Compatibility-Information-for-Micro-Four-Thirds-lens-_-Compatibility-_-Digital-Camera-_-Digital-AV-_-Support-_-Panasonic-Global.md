@@ -3,6 +3,12 @@ title: "Compatibility Information for Micro Four Thirds lens | Compatibility | D
 author: Pito Salas
 date: 2022-06-16 16:39:43
 tags:
-    - camera, lens, panasonic, olympus, chart, compatibility, OIS
+    - camera
+    - lens
+    - panasonic
+    - olympus
+    - chart
+    - compatibility
+    - OIS
 ---
 

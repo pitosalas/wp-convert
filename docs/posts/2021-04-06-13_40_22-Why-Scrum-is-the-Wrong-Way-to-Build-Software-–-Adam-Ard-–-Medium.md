@@ -6,4 +6,5 @@ tags:
     - scrum
 ---
 
+
 (**Web site except:** A brief list of what Scrum gets wrong) 

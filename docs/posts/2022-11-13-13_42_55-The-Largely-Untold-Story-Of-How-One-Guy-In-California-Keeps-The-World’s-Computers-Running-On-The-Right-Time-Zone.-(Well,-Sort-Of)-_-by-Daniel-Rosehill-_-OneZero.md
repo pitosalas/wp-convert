@@ -3,7 +3,10 @@ title: "The Largely Untold Story Of How One Guy In California Keeps The World’
 author: Pito Salas
 date: 2022-11-13 13:42:55
 tags:
-    - daniel rosehill, medium
+    - daniel
+    - rosehill
+    - medium
 ---
+
 
 (**Web site except:** Always a great story. People like this should be compensated!) 

@@ -3,6 +3,11 @@ title: "A nice list of so-called “dark patterns”, user interface techniques 
 author: Pito Salas
 date: 2023-03-19 11:04:06
 tags:
-    - dark-patterns, ux, design, user-interface, explainer, cooltool
+    - dark-patterns
+    - ux
+    - design
+    - user-interface
+    - explainer
+    - cooltool
 ---
 

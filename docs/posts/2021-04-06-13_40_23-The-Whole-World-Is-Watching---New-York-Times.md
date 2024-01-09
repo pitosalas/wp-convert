@@ -6,4 +6,5 @@ tags:
     - tomfriendman
 ---
 
+
 (**Web site except:** The blogosphere has made the global discussion so much richer — and each of us so much more transparent.) 

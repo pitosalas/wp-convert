@@ -6,4 +6,5 @@ tags:
     - blockchain
 ---
 
+
 (**Web site except:** We just need to make sure that whatever is being stored within a block can interact with previous copies or iterations of itself.) 

@@ -3,7 +3,9 @@ title: "Switching from Java to Kotlin: 5 exciting features for Android Developer
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - java kotlin
+    - java
+    - kotlin
 ---
+
 
 (**Web site except:** Everyone must learn Kotlin, immediately!) 

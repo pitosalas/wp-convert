@@ -6,4 +6,5 @@ tags:
     - arguments
 ---
 
+
 (**Web site except:** I got an email asking for my opinion about when to use keyword arguments. I thought I'd expand my answer into a full article about Ruby method arguments so everyone can benefit! Ruby is very flexible when) 

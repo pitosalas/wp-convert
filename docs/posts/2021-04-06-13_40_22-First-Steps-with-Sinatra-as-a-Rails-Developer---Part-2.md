@@ -6,4 +6,5 @@ tags:
     - sinatra
 ---
 
+
 (**Web site except:** The second part of the guide how to work with the Sinatra framework. How to connect Sinatra with ActiveRecord? Few tips how to deploy Sinatra app using Heroku.) 

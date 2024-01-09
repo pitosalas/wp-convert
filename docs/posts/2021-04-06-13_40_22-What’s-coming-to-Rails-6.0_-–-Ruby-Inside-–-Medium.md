@@ -6,4 +6,5 @@ tags:
     - rails
 ---
 
+
 (**Web site except:** Rails 6 will help with database sharding!) 

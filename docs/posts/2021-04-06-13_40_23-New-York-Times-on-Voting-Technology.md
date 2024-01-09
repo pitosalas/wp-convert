@@ -6,4 +6,5 @@ tags:
     - Elections
 ---
 
+
 (**Web site except:** A couple of days the New York Times Editorial page commented on Voting Technology in an editorial titled “The Voters Will Pay”. Some bits that interested me (but you should read the who…) 

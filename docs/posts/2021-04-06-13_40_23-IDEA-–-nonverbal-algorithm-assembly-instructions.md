@@ -6,4 +6,5 @@ tags:
     - algorithm
 ---
 
+
 (**Web site except:** IDEA is a series of nonverbal algorithm assembly instructions, created by Sándor P. Fekete and Sebastian Morr.) 

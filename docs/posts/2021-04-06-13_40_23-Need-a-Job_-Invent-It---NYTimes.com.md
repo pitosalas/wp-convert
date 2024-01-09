@@ -6,4 +6,5 @@ tags:
     - nytimes
 ---
 
+
 (**Web site except:** Finding a job is so 20th century. That is why young people today need to be more “innovation ready” than “college ready.”) 

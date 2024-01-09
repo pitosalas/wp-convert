@@ -6,4 +6,5 @@ tags:
     - computer
 ---
 
+
 (**Web site except:** Good insights about what is learned and what is useful in a computer Science curriculum.) 

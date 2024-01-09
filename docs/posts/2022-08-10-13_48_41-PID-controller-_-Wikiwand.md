@@ -3,8 +3,12 @@ title: "PID controller | Wikiwand"
 author: Pito Salas
 date: 2022-08-10 13:48:41
 tags:
-    - pid, control, robotics, explainer
+    - pid
+    - control
+    - robotics
+    - explainer
 ---
+
 
 (**Web site except:** A proportional–integral–derivative controller is a control loop mechanism employing feedback that is widely used in industrial control systems and a variety of other applications requiring continuously modulated control. A PID controller continuously calculates an error value 
   

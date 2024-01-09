@@ -3,7 +3,12 @@ title: "A High-Level Grammar of Interactive Graphics | Vega-Lite"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - visualization graphics charts javascript json
+    - visualization
+    - graphics
+    - charts
+    - javascript
+    - json
 ---
+
 
 (**Web site except:** Looks really useful) 

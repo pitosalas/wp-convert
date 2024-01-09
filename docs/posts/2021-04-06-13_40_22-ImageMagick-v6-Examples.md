@@ -6,4 +6,5 @@ tags:
     - Ruby
 ---
 
+
 (**Web site except:** Use ImageMagick® to create, edit, compose, and convert bitmap images. Resize an image, crop it, change its shades and colors, add captions, and more.) 

@@ -3,8 +3,13 @@ title: "How to post Instagram posts on Mastodon using IFTTT"
 author: Pito Salas
 date: 2022-12-05 02:05:11
 tags:
-    - mastodon, web, web-hook, ifttt, api
+    - mastodon
+    - web
+    - web-hook
+    - ifttt
+    - api
 ---
+
 
 (**Web site except:** As you can tell, I've been trying this and it is a little squirly. But I think I got it to work. 
 

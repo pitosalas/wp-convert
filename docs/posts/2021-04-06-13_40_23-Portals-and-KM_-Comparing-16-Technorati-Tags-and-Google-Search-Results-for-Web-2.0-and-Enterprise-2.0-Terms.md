@@ -3,7 +3,9 @@ title: "Portals and KM: Comparing 16 Technorati Tags and Google Search Results f
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - tagging google
+    - tagging
+    - google
 ---
+
 
 (**Web site except:** An interesting analsys) 

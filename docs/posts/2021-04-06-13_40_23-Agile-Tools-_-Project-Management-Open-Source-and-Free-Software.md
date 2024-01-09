@@ -6,4 +6,5 @@ tags:
     - scrum
 ---
 
+
 (**Web site except:** Looks like a nice overview of scrum ideas) 

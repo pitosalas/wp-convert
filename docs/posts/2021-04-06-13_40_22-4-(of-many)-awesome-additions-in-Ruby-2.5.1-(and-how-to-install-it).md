@@ -6,4 +6,5 @@ tags:
     - ruby
 ---
 
+
 (**Web site except:** Also a quick aside on Ruby Structs and how to leverage it) 

@@ -6,4 +6,5 @@ tags:
     - magic
 ---
 
+
 (**Web site except:** Posted in r/ruby by u/igorspringer • 28 points and 6 comments) 

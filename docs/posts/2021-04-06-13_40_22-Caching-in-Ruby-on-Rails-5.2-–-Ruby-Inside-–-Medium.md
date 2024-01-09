@@ -6,4 +6,5 @@ tags:
     - caching
 ---
 
+
 (**Web site except:** A copy of the chapter 14 about Caching of the “Learn Rails 5.2” book (Amazon Link, Apress Link) which was published in April 2018 by…) 

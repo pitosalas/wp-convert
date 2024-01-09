@@ -6,4 +6,5 @@ tags:
     - stevejobs
 ---
 
+
 (**Web site except:** Blog Post: Steve Jobs' commencement address at Stanford) 

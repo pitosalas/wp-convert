@@ -3,8 +3,12 @@ title: "CardBoard Basics: Full Series with Advanced Basics plus Tools"
 author: Pito Salas
 date: 2021-12-16 13:04:14
 tags:
-    - model, maker, cardboard, youtube
+    - model
+    - maker
+    - cardboard
+    - youtube
 ---
+
 
 (**Web site except:** All three cardboard videos in One, adjusted sound, new footage and all new footage and voice over and music for the tools section.
 

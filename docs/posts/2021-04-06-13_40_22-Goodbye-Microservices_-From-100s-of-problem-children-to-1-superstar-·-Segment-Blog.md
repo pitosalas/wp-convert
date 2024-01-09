@@ -6,4 +6,5 @@ tags:
     - microservice
 ---
 
+
 (**Web site except:** The Segment team's latest thinking on all things data, product, marketing, and growth.) 

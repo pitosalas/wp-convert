@@ -6,4 +6,5 @@ tags:
     - testing
 ---
 
+
 (**Web site except:** Check out our blog post Testing Rails Service Oriented Architecture from Big Nerd Ranch. Learn more and read it now!) 

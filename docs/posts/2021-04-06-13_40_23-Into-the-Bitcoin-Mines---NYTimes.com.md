@@ -6,4 +6,5 @@ tags:
     - nytimes
 ---
 
+
 (**Web site except:** On the flat lava plain of Reykjanesbaer, Iceland, near the Arctic Circle, you can find the mines of Bitcoin.) 

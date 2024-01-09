@@ -4,4 +4,5 @@ author: Pito Salas
 date: 2021-04-06 13:40:22
 ---
 
+
 (**Web site except:** Creating wireframes and mock-ups is quite easy to do digitally these days. Applications are available everywhere, and there's one for every style.) 

@@ -6,4 +6,5 @@ tags:
     - javascript
 ---
 
+
 (**Web site except:** If we could explain the success of JavaScript with just one word what would it be?) 

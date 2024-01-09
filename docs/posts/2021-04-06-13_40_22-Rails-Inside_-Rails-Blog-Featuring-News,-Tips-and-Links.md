@@ -6,4 +6,5 @@ tags:
     - Rails
 ---
 
+
 (**Web site except:** Ruby on Rails related news, tips and reviews.) 

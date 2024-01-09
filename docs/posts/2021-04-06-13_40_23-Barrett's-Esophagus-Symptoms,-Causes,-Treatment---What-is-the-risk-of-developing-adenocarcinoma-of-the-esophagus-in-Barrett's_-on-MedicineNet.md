@@ -6,4 +6,5 @@ tags:
     - medical
 ---
 
+
 (**Web site except:** Barrett's esophagus is a complication of chronic gastroesophageal reflux disease (GERD). GERD is the reflux of acidic fluid from the stomach into the esophagus, and is classically associated with heartburn. Learn more about Barrett's estophagus, including symptoms and causes.) 

@@ -6,4 +6,5 @@ tags:
     - watches
 ---
 
+
 (**Web site except:** Junkers 6164-5 Watch Spitzbergen honors the flights of the JUNKERS-airplane F13 across the northern ice world under extreme arctic conditions. It features white luminous hands and indices, and a Miyota 821A 21-jewel automatic movement.) 

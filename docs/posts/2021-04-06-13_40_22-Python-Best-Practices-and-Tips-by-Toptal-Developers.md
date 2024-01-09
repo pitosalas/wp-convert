@@ -6,4 +6,5 @@ tags:
     - python
 ---
 
+
 (**Web site except:** This resource contains a collection of Python best practices and Python tips provided by our Toptal network members.) 

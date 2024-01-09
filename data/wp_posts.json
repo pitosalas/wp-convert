@@ -1,0 +1,379 @@
+[
+    {
+        "id": 4769,
+        "date": "2024-01-06T16:02:01",
+        "date_gmt": "2024-01-06T16:02:01",
+        "guid": {
+            "rendered": "https://salas.com/?p=4769"
+        },
+        "modified": "2024-01-06T16:02:01",
+        "modified_gmt": "2024-01-06T16:02:01",
+        "slug": "understanding-numeric-data-types-in-python",
+        "status": "publish",
+        "type": "post",
+        "link": "https://salas.com/2024/01/06/understanding-numeric-data-types-in-python/",
+        "title": {
+            "rendered": "Understanding numeric data types in python"
+        },
+        "content": {
+            "rendered": "<p><a href=\" https://fullspeedpython.com/articles/understanding-numeric-data-types/\"> Understanding numeric data types in python</a> \u2013</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Understanding numeric data types in python \u2013</p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "comment_status": "open",
+        "ping_status": "open",
+        "format": "standard",
+        "categories": [
+            1
+        ],
+        "tags": [
+            1033,
+            2612,
+            1692,
+            2451
+        ]
+    },
+    {
+        "id": 4767,
+        "date": "2023-12-31T18:56:48",
+        "date_gmt": "2023-12-31T18:56:48",
+        "guid": {
+            "rendered": "https://salas.com/?p=4767"
+        },
+        "modified": "2023-12-31T18:56:48",
+        "modified_gmt": "2023-12-31T18:56:48",
+        "slug": "configuration-in-python-applications-no-magic-just-necessary-practice",
+        "status": "publish",
+        "type": "post",
+        "link": "https://salas.com/2023/12/31/configuration-in-python-applications-no-magic-just-necessary-practice/",
+        "title": {
+            "rendered": "Configuration in Python Applications: No Magic, Just Necessary Practice"
+        },
+        "content": {
+            "rendered": "<p><a href=\" https://robertrode.com/2023/10/02/configuration-in-python-applications-no-magic-just-necessary-practice.html\"> Configuration in Python Applications: No Magic, Just Necessary Practice</a> \u2013During the development of Python applications, I&#8217;ve continually asked myself how and when variables should be passed and initialized for the application&#8217;s configuration. I want to be able to easily override the configuration for tests, for example, to use a local database for testing. But what exactly is application configuration, and why is it needed? The website\u00a0a &#8230;</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Configuration in Python Applications: No Magic, Just Necessary Practice \u2013During the development of Python applications, I&#8217;ve continually asked myself how and when variables should be passed and initialized for the application&#8217;s configuration. I want to be able to easily override &hellip; <a href=\"https://salas.com/2023/12/31/configuration-in-python-applications-no-magic-just-necessary-practice/\">Continue reading <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "comment_status": "open",
+        "ping_status": "open",
+        "format": "standard",
+        "categories": [
+            1
+        ],
+        "tags": [
+            1221,
+            1692,
+            2181
+        ]
+    },
+    {
+        "id": 4765,
+        "date": "2023-12-30T15:46:59",
+        "date_gmt": "2023-12-30T15:46:59",
+        "guid": {
+            "rendered": "https://salas.com/?p=4765"
+        },
+        "modified": "2023-12-30T15:46:59",
+        "modified_gmt": "2023-12-30T15:46:59",
+        "slug": "static-site-generators",
+        "status": "publish",
+        "type": "post",
+        "link": "https://salas.com/2023/12/30/static-site-generators/",
+        "title": {
+            "rendered": "Static Site Generators"
+        },
+        "content": {
+            "rendered": "<p><a href=\" https://www.fullstackpython.com/static-site-generator.html\"> Static Site Generators</a> \u2013A static site generator combines a markup language with a templating engine to produce HTML files. Learn more on Full Stack Python.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Static Site Generators \u2013A static site generator combines a markup language with a templating engine to produce HTML files. Learn more on Full Stack Python.</p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "comment_status": "open",
+        "ping_status": "open",
+        "format": "standard",
+        "categories": [
+            1
+        ],
+        "tags": [
+            717,
+            2611,
+            1692,
+            2610,
+            2130
+        ]
+    },
+    {
+        "id": 4763,
+        "date": "2023-12-30T01:46:13",
+        "date_gmt": "2023-12-30T01:46:13",
+        "guid": {
+            "rendered": "https://salas.com/?p=4763"
+        },
+        "modified": "2023-12-30T01:46:13",
+        "modified_gmt": "2023-12-30T01:46:13",
+        "slug": "explore-integrations-ifttt",
+        "status": "publish",
+        "type": "post",
+        "link": "https://salas.com/2023/12/30/explore-integrations-ifttt/",
+        "title": {
+            "rendered": "Explore Integrations &#8211; IFTTT"
+        },
+        "content": {
+            "rendered": "<p><a href=\" https://ifttt.com/explore\"> Explore Integrations &#8211; IFTTT</a> \u2013Get more from the services you love on IFTTT. Explore the latest tips and tricks, browse by category, or search by name.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Explore Integrations &#8211; IFTTT \u2013Get more from the services you love on IFTTT. Explore the latest tips and tricks, browse by category, or search by name.</p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "comment_status": "open",
+        "ping_status": "open",
+        "format": "standard",
+        "categories": [
+            1
+        ],
+        "tags": [
+            2609,
+            2276
+        ]
+    },
+    {
+        "id": 4701,
+        "date": "2023-12-22T21:05:21",
+        "date_gmt": "2023-12-22T21:05:21",
+        "guid": {
+            "rendered": "https://salas.com/?p=4701"
+        },
+        "modified": "2023-12-22T21:05:21",
+        "modified_gmt": "2023-12-22T21:05:21",
+        "slug": "kagi-search",
+        "status": "publish",
+        "type": "post",
+        "link": "https://salas.com/2023/12/22/kagi-search/",
+        "title": {
+            "rendered": "Kagi Search"
+        },
+        "content": {
+            "rendered": "<p><a href=\" https://kagi.com/\"> Kagi Search</a> \u2013Better search results with no ads. Welcome to Kagi (pronounced kah-gee), a paid search engine that gives power back to the user.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Kagi Search \u2013Better search results with no ads. Welcome to Kagi (pronounced kah-gee), a paid search engine that gives power back to the user.</p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "comment_status": "open",
+        "ping_status": "open",
+        "format": "standard",
+        "categories": [
+            1
+        ],
+        "tags": []
+    },
+    {
+        "id": 4699,
+        "date": "2023-12-20T19:02:32",
+        "date_gmt": "2023-12-20T19:02:32",
+        "guid": {
+            "rendered": "https://salas.com/?p=4699"
+        },
+        "modified": "2023-12-20T19:02:32",
+        "modified_gmt": "2023-12-20T19:02:32",
+        "slug": "overview-install-gitpython-3-1-37-documentation",
+        "status": "publish",
+        "type": "post",
+        "link": "https://salas.com/2023/12/20/overview-install-gitpython-3-1-37-documentation/",
+        "title": {
+            "rendered": "Overview / Install \u2014 GitPython 3.1.37 documentation"
+        },
+        "content": {
+            "rendered": "<p><a href=\" https://gitpython.readthedocs.io/en/stable/intro.html\"> Overview / Install \u2014 GitPython 3.1.37 documentation</a> \u2013null</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Overview / Install \u2014 GitPython 3.1.37 documentation \u2013null</p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "comment_status": "open",
+        "ping_status": "open",
+        "format": "standard",
+        "categories": [
+            1
+        ],
+        "tags": [
+            811,
+            1134,
+            1692,
+            2608
+        ]
+    },
+    {
+        "id": 4697,
+        "date": "2023-12-19T14:01:20",
+        "date_gmt": "2023-12-19T14:01:20",
+        "guid": {
+            "rendered": "https://salas.com/?p=4697"
+        },
+        "modified": "2023-12-19T14:01:20",
+        "modified_gmt": "2023-12-19T14:01:20",
+        "slug": "20-things-ive-learned-in-my-20-years-as-a-software-engineer",
+        "status": "publish",
+        "type": "post",
+        "link": "https://salas.com/2023/12/19/20-things-ive-learned-in-my-20-years-as-a-software-engineer/",
+        "title": {
+            "rendered": "20 Things I&#8217;ve Learned in my 20 Years as a Software Engineer"
+        },
+        "content": {
+            "rendered": "<p><a href=\" https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/?utm_source=changelog-news\"> 20 Things I&#8217;ve Learned in my 20 Years as a Software Engineer</a> \u2013Important, Read This First You\u2019re about to read a blog post with a lot\u00a0of advice. Learning from those who came before us is instrumental to success, but we often forget an important caveat. Almost all advice is contextual, yet it is rarely delivered with any context. \u201cYou just need to charge more!\u201d says the company [\u2026]</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>20 Things I&#8217;ve Learned in my 20 Years as a Software Engineer \u2013Important, Read This First You\u2019re about to read a blog post with a lot\u00a0of advice. Learning from those who came before us is instrumental to success, but we &hellip; <a href=\"https://salas.com/2023/12/19/20-things-ive-learned-in-my-20-years-as-a-software-engineer/\">Continue reading <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "comment_status": "open",
+        "ping_status": "open",
+        "format": "standard",
+        "categories": [
+            1
+        ],
+        "tags": [
+            608,
+            2607,
+            1888
+        ]
+    },
+    {
+        "id": 4695,
+        "date": "2023-12-12T01:02:09",
+        "date_gmt": "2023-12-12T01:02:09",
+        "guid": {
+            "rendered": "https://salas.com/?p=4695"
+        },
+        "modified": "2023-12-12T01:02:09",
+        "modified_gmt": "2023-12-12T01:02:09",
+        "slug": "robotics-in-education-rie-2024",
+        "status": "publish",
+        "type": "post",
+        "link": "https://salas.com/2023/12/12/robotics-in-education-rie-2024/",
+        "title": {
+            "rendered": "Robotics in Education (RiE) 2024"
+        },
+        "content": {
+            "rendered": "<p><a href=\" https://rie.science/2024/index.html\"> Robotics in Education (RiE) 2024</a> \u2013</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Robotics in Education (RiE) 2024 \u2013</p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "comment_status": "open",
+        "ping_status": "open",
+        "format": "standard",
+        "categories": [
+            1
+        ],
+        "tags": []
+    },
+    {
+        "id": 4693,
+        "date": "2023-12-03T13:02:05",
+        "date_gmt": "2023-12-03T13:02:05",
+        "guid": {
+            "rendered": "https://salas.com/?p=4693"
+        },
+        "modified": "2023-12-03T13:02:05",
+        "modified_gmt": "2023-12-03T13:02:05",
+        "slug": "my-500m-mars-rover-mistake-a-failure-story-chris-lewicki",
+        "status": "publish",
+        "type": "post",
+        "link": "https://salas.com/2023/12/03/my-500m-mars-rover-mistake-a-failure-story-chris-lewicki/",
+        "title": {
+            "rendered": "My $500M Mars Rover Mistake: A Failure Story \u2014 Chris Lewicki"
+        },
+        "content": {
+            "rendered": "<p><a href=\" https://www.chrislewicki.com/articles/failurestory?utm_source=hackernewsletter&#038;utm_medium=email&#038;utm_term=fav\"> My $500M Mars Rover Mistake: A Failure Story \u2014 Chris Lewicki</a> \u2013Some mistakes feel worse than death.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>My $500M Mars Rover Mistake: A Failure Story \u2014 Chris Lewicki \u2013Some mistakes feel worse than death.</p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "comment_status": "open",
+        "ping_status": "open",
+        "format": "standard",
+        "categories": [
+            1
+        ],
+        "tags": [
+            1003,
+            1368,
+            1442,
+            2606,
+            1929
+        ]
+    },
+    {
+        "id": 4691,
+        "date": "2023-12-03T13:01:59",
+        "date_gmt": "2023-12-03T13:01:59",
+        "guid": {
+            "rendered": "https://salas.com/?p=4691"
+        },
+        "modified": "2023-12-03T13:01:59",
+        "modified_gmt": "2023-12-03T13:01:59",
+        "slug": "rfc-processes-are-a-poor-fit-for-most-organizations-jacob-kaplan-moss",
+        "status": "publish",
+        "type": "post",
+        "link": "https://salas.com/2023/12/03/rfc-processes-are-a-poor-fit-for-most-organizations-jacob-kaplan-moss/",
+        "title": {
+            "rendered": "RFC processes are a poor fit for most organizations &#8211; Jacob Kaplan-Moss"
+        },
+        "content": {
+            "rendered": "<p><a href=\" https://jacobian.org/2023/dec/1/against-rfcs/\"> RFC processes are a poor fit for most organizations &#8211; Jacob Kaplan-Moss</a> \u2013The RFC process has been a huge success in defining the standards that run the Internet, but naively adopting this process for your company is a mistake. RFC processes tend to fail at most organizations because they lack a clear decision-making step.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>RFC processes are a poor fit for most organizations &#8211; Jacob Kaplan-Moss \u2013The RFC process has been a huge success in defining the standards that run the Internet, but naively adopting this process for your company is a mistake. RFC &hellip; <a href=\"https://salas.com/2023/12/03/rfc-processes-are-a-poor-fit-for-most-organizations-jacob-kaplan-moss/\">Continue reading <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "comment_status": "open",
+        "ping_status": "open",
+        "format": "standard",
+        "categories": [
+            1
+        ],
+        "tags": [
+            700,
+            929,
+            2416
+        ]
+    }
+]

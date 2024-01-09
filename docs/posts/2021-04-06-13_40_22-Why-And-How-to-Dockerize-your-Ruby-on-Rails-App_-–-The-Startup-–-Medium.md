@@ -6,4 +6,5 @@ tags:
     - ruby
 ---
 
+
 (**Web site except:** It seems like every other startup has added a Docker angle to their pitch. Many developers choose Rails because it allows them to be…) 

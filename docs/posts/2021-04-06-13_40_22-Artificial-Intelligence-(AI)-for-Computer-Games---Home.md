@@ -6,4 +6,5 @@ tags:
     - Design
 ---
 
+
 (**Web site except:** Companion site for the book Artificial Intelligence for Computer Games: An Introduction. Includes bibliography, errata, chapter guide, and relevant links.) 

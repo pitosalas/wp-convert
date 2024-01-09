@@ -6,4 +6,5 @@ tags:
     - Olin
 ---
 
+
 (**Web site except:** Eric Ries' presentation on lean startups. From Steve Blank's Customer Development course at Berkeley. Learn more and hear the audio at http://bit.ly/3qsvJ.) 

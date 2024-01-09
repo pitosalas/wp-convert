@@ -3,7 +3,12 @@ title: "My Productivity Boosters — A random collection of tricks and tools —
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - boosters, productivity, tools, tricks, howto
+    - boosters
+    - productivity
+    - tools
+    - tricks
+    - howto
 ---
+
 
 (**Web site except:** Some good ideas...) 

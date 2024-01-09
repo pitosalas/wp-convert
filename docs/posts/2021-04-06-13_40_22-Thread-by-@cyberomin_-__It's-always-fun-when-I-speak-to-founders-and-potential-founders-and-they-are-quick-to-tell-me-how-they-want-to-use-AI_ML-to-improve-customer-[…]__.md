@@ -6,4 +6,5 @@ tags:
     - sql
 ---
 
+
 (**Web site except:** Thread by @cyberomin: "It's always fun when I speak to founders and potential founders and they are quick to tell me how they want to use AI/ customer retention and improve LTV. Truth is, they don't even need ML. A properly written SQL is what you ne […]") 

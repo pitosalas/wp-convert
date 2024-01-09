@@ -6,4 +6,5 @@ tags:
     - serverless
 ---
 
+
 (**Web site except:** The serverless world is pretty awesome once you find the right tools — and burn the middle layer to the ground After the tour-de-force of Serverlessconf in October, I decided my entire company would be going serverless. I spent the first couple of months beating my head against the wall trying to migrate a Python Flask app to Lambda — […]) 
