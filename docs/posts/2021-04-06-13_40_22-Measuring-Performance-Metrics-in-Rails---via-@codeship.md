@@ -3,8 +3,7 @@ title: "Measuring Performance Metrics in Rails - via @codeship"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - performance
-    - rails
+    - performance-rails
 ---
 
 

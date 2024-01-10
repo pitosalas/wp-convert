@@ -3,12 +3,7 @@ title: "Analyzing Data 170,000x Faster with Python"
 author: Pito Salas
 date: 2023-11-03 11:24:31
 tags:
-    - python
-    - optimization
-    - numpy
-    - numba
-    - source-code
-    - howto
+    - python-optimization-numpy-numba-source-code-howto
 ---
 Very nice example of optimizing code, and showing at least one example of how to make a python program ultra fast. 
 

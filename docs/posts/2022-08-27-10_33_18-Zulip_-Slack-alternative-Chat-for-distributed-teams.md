@@ -3,9 +3,7 @@ title: "Zulip: Slack alternative Chat for distributed teams"
 author: Pito Salas
 date: 2022-08-27 10:33:18
 tags:
-    - slack
-    - cooltool
-    - alternative
+    - slack-cooltool-alternative
 ---
 
 

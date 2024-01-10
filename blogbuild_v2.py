@@ -4,17 +4,21 @@ import json
 import html
 import re
 from datetime import datetime
+from pathlib import Path
+import shutil
 
-
+POSTS_DIRECTORY = "docs/posts"
 class BlogBuild:
     def __init__(self):
         self.text_maker = html2text.HTML2Text()
         self.text_maker.protect_links = True
-        self.posts_directory = "docs/posts"
-        os.makedirs(self.posts_directory, exist_ok=True)
-
+        directory = Path(POSTS_DIRECTORY)
+        if directory.exists():
+            shutil.rmtree(directory)
+        directory.mkdir()  
+        
     def retrieve_tags_from_file(self):
-        with open('data/tags.json') as json_file:
+        with open('data/wp_tags.json') as json_file:
             self.tags = json.load(json_file)
     
     def retrieve_drops_from_file(self):
@@ -31,12 +35,12 @@ class BlogBuild:
         self.retrieve_tags_from_file()
         self.retrieve_wp_posts_from_file()
         self.generate_drop_posts()
-        # self.generate_wp_posts()
+        self.generate_wp_posts()
         # self.generate_original_posts()
 
     def generate_original_posts(self):
         pass
-re.
+
     def generate_wp_posts(self):
         count = 0
         for post in self.wp_posts:
@@ -60,8 +64,14 @@ re.
             date = self.fix_drop_date(drop['created'])
             rawtags = self.fix_drop_tags(drop['tags'])
             if rawtags not in ['', 'None', ['']]:
-                tags_str = f"""\ntags:"""
+                tags_str = """\ntags:"""
                 for tag in rawtags:
+                    if re.match(r"^\d+$", tag):
+                        tag = "N" + tag
+                        print(f"""*** {tag} ***""")
+                    if re.match(r".*[,+.=:!'].*", tag) is not None:
+                        print(f"""***** {tag}""")
+                        tag = "FOOBAR"
                     tags_str += f"""\n    - {tag}"""
             else:
                 tags_str = ""
@@ -76,7 +86,11 @@ re.
         return content
     
     def fix_drop_tags(self, tags):
-        return re.split(', | |,', tags)
+
+        ret_tag = re.split(', | |,', tags)
+        if ret_tag != tags:
+            print(f"""{tags} -> {ret_tag}""")
+        return ret_tag
 
     def fix_drop_date(self, date_string):
         parsed_date = datetime.fromisoformat(date_string.rstrip("Z"))
@@ -91,7 +105,7 @@ re.
             if tag_text is None:
                 tag_text = "none"
             tag_text = "none" if tag_text is None else tag_text
-            if type(tag_text) == int:
+            if isinstance(tag_text, int):
                 tag_text = str(tag_text)
             tags_string += f"\n    - {tag_text}"
         if tags_string != "":
@@ -102,7 +116,7 @@ re.
         title = html.unescape(title)
         title = title.replace('"', '\\"')        
         filename = f"{date}-{title.replace(' ', '-')}.md"
-        file_path = os.path.join(self.posts_directory, self.sanitize_filename(filename))
+        file_path = os.path.join(POSTS_DIRECTORY, self.sanitize_filename(filename))
         with open(file_path, 'w', encoding='utf-8') as file:
             markdown =f"""---
 title: "{title}"

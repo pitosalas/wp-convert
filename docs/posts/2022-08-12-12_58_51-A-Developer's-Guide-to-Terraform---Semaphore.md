@@ -3,10 +3,7 @@ title: "A Developer's Guide to Terraform - Semaphore"
 author: Pito Salas
 date: 2022-08-12 12:58:51
 tags:
-    - terraform
-    - configuration
-    - howto
-    - explainer
+    - terraform-configuration-howto-explainer
 ---
 
 

@@ -3,10 +3,7 @@ title: "Understanding the Numbers and Letters on a LiPo Battery"
 author: Pito Salas
 date: 2021-05-21 15:20:51
 tags:
-    - robotics
-    - howto
-    - battery
-    - lipo
+    - robotics-howto-battery-lipo
 ---
 
 

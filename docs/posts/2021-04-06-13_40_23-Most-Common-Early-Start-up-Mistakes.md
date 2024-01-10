@@ -3,9 +3,7 @@ title: "Most Common Early Start-up Mistakes"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - found
-    - cofounder
-    - entrepreneurship
+    - found-cofounder-entrepreneurship
 ---
 
 

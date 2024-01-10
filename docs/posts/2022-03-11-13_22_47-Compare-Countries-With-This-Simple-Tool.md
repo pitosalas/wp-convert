@@ -3,11 +3,7 @@ title: "Compare Countries With This Simple Tool"
 author: Pito Salas
 date: 2022-03-11 13:22:47
 tags:
-    - fun
-    - information
-    - geography
-    - map
-    - sizes
+    - fun-information-geography-map-sizes
 ---
 
 

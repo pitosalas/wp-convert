@@ -3,11 +3,7 @@ title: "How an internet mapping glitch turned a random Kansas farm into a digita
 author: Pito Salas
 date: 2022-01-05 14:52:56
 tags:
-    - internet
-    - funny
-    - glitch
-    - gps
-    - latlong
+    - internet-funny-glitch-gps-latlong
 ---
 
 

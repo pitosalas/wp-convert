@@ -3,10 +3,7 @@ title: "Architecting Rails Apps as Microservices | via @codeship"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - rails
-    - apps
-    - microservices
-    - soa
+    - rails-apps-microservices-soa
 ---
 
 

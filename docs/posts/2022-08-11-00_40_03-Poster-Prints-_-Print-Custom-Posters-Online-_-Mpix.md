@@ -3,12 +3,7 @@ title: "Poster Prints | Print Custom Posters Online : Mpix"
 author: Pito Salas
 date: 2022-08-11 00:40:03
 tags:
-    - photo
-    - quality
-    - printing
-    - large
-    - service
-    - poster
+    - photo-quality-printing-large-service-poster
 ---
 
 

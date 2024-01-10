@@ -3,10 +3,7 @@ title: "Specifications Grading: A Method for Improving Student Performance"
 author: Pito Salas
 date: 2023-08-21 17:40:34
 tags:
-    - grading
-    - specs-grading
-    - howto
-    - bookmark
+    - grading-specs-grading-howto-bookmark
 ---
 An excellent book. Well written. Detailed. And it was the original book on Specs Grading (I think).
 

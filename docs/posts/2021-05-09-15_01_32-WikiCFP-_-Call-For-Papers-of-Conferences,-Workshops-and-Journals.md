@@ -3,10 +3,7 @@ title: "WikiCFP : Call For Papers of Conferences, Workshops and Journals"
 author: Pito Salas
 date: 2021-05-09 15:01:32
 tags:
-    - conferences
-    - papers
-    - computer-science
-    - journals
+    - conferences-papers-computer-science-journals
 ---
 
 

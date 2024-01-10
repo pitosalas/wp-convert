@@ -3,9 +3,7 @@ title: "SuperMagnetMan - Neodymium Magnets, Many Shapes & Sizes!"
 author: Pito Salas
 date: 2023-01-31 13:22:13
 tags:
-    - magnets
-    - diy
-    - shopping
+    - magnets-diy-shopping
 ---
 
 

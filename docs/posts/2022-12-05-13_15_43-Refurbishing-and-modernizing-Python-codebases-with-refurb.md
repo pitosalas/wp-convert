@@ -3,12 +3,7 @@ title: "Refurbishing and modernizing Python codebases with refurb"
 author: Pito Salas
 date: 2022-12-05 13:15:43
 tags:
-    - python
-    - code-smells
-    - smells
-    - code
-    - tool
-    - howto
+    - python-code-smells-smells-code-tool-howto
 ---
 
 

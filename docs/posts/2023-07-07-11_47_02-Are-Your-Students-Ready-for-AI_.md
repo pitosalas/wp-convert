@@ -3,10 +3,7 @@ title: "Are Your Students Ready for AI?"
 author: Pito Salas
 date: 2023-07-07 11:47:02
 tags:
-    - ChatGPT
-    - opinion
-    - explainer
-    - teaching
+    - ChatGPT-opinion-explainer-teaching
 ---
 An ok article about this very timely question.
 

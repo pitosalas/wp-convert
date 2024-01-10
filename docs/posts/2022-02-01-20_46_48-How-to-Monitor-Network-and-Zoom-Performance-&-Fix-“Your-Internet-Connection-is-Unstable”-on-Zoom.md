@@ -3,10 +3,7 @@ title: "How to Monitor Network and Zoom Performance & Fix “Your Internet Conne
 author: Pito Salas
 date: 2022-02-01 20:46:48
 tags:
-    - zoom
-    - network
-    - performance
-    - howto
+    - zoom-network-performance-howto
 ---
 
 

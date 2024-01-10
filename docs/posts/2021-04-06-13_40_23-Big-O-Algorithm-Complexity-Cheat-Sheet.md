@@ -3,11 +3,7 @@ title: "Big-O Algorithm Complexity Cheat Sheet"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - big-o
-    - computer-science
-    - algorithm
-    - cheat-sheet
-    - explainer
+    - big-o-computer-science-algorithm-cheat-sheet-explainer
 ---
 
 

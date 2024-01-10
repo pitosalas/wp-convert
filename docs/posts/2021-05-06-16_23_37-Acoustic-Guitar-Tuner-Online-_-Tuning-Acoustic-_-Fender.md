@@ -3,9 +3,7 @@ title: "Acoustic Guitar Tuner Online | Tuning Acoustic | Fender"
 author: Pito Salas
 date: 2021-05-06 16:23:37
 tags:
-    - acoustic
-    - guitar
-    - howto
+    - acoustic-guitar-howto
 ---
 
 

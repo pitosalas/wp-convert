@@ -3,8 +3,7 @@ title: "Ruby’s New Infinite Range Syntax: (0..) – Square Corner Blog – Med
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - ruby
-    - syntax
+    - ruby-syntax
 ---
 
 

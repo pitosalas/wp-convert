@@ -3,9 +3,7 @@ title: "How to avoid making your microservices too small: An interview with Darb
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - microservice
-    - soa
-    - services
+    - microservice-soa-services
 ---
 
 

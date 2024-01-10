@@ -3,9 +3,7 @@ title: "How Top-Performing College Grads Fall Into the ‘Prestige Career’ Tra
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - prestige
-    - college
-    - career
+    - prestige-college-career
 ---
 
 

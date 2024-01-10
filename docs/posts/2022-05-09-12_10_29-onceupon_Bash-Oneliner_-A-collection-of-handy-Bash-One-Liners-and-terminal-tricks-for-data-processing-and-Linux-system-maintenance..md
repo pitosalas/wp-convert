@@ -3,9 +3,7 @@ title: "onceupon/Bash-Oneliner: A collection of handy Bash One-Liners and termin
 author: Pito Salas
 date: 2022-05-09 12:10:29
 tags:
-    - bash
-    - cheatsheet
-    - howto
+    - bash-cheatsheet-howto
 ---
 
 

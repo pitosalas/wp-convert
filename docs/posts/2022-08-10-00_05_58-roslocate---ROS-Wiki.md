@@ -3,12 +3,7 @@ title: "roslocate - ROS Wiki"
 author: Pito Salas
 date: 2022-08-10 00:05:58
 tags:
-    - ROS
-    - esoteric
-    - coding
-    - package
-    - locate
-    - howto
+    - ROS-esoteric-coding-package-locate-howto
 ---
 
 

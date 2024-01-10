@@ -3,10 +3,7 @@ title: "The Difference Between load, autoload, require, and require_relative in 
 author: Pito Salas
 date: 2023-02-03 16:59:27
 tags:
-    - ruby
-    - explainer
-    - require
-    - require_relative
+    - ruby-explainer-require-require_relative
 ---
 
 

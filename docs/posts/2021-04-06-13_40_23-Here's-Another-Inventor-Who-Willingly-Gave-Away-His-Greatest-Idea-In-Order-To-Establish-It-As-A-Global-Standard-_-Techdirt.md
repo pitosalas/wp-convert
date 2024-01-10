@@ -3,10 +3,7 @@ title: "Here's Another Inventor Who Willingly Gave Away His Greatest Idea In Ord
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - inventor
-    - patents
-    - invention
-    - ideas
+    - inventor-patents-invention-ideas
 ---
 
 

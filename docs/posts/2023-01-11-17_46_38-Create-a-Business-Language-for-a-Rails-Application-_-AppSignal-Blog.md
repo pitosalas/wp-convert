@@ -3,10 +3,7 @@ title: "Create a Business Language for a Rails Application | AppSignal Blog"
 author: Pito Salas
 date: 2023-01-11 17:46:38
 tags:
-    - ruby
-    - rubyist
-    - parsing
-    - parser
+    - ruby-rubyist-parsing-parser
 ---
 
 

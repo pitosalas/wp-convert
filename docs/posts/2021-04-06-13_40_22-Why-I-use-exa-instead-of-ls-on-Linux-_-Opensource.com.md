@@ -3,12 +3,7 @@ title: "Why I use exa instead of ls on Linux | Opensource.com"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - ls
-    - exa
-    - cli
-    - howto
-    - linux
-    - tools
+    - ls-exa-cli-howto-linux-tools
 ---
 
 

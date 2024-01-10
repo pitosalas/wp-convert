@@ -3,10 +3,7 @@ title: "André Staltz - JavaScript Getter-Setter Pyramid"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - functions
-    - callbacks
-    - promises
-    - JavaScript
+    - functions-callbacks-promises-JavaScript
 ---
 
 

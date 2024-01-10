@@ -3,11 +3,7 @@ title: "The Basics of Database Sharding - Brent Ozar Unlimited®"
 author: Pito Salas
 date: 2022-03-24 13:03:30
 tags:
-    - sharding
-    - partitioning
-    - scaling
-    - architecture
-    - database
+    - sharding-partitioning-scaling-architecture-database
 ---
 
 

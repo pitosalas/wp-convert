@@ -3,9 +3,7 @@ title: "Functools — The Power of Higher-Order Functions in Python"
 author: Pito Salas
 date: 2021-07-02 02:25:06
 tags:
-    - python
-    - functional
-    - explainer
+    - python-functional-explainer
 ---
 
 

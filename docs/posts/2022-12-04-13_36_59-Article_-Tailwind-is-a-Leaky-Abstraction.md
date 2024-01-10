@@ -3,9 +3,7 @@ title: "Article: Tailwind is a Leaky Abstraction"
 author: Pito Salas
 date: 2022-12-04 13:36:59
 tags:
-    - css
-    - styling
-    - tailwind
+    - css-styling-tailwind
 ---
 
 

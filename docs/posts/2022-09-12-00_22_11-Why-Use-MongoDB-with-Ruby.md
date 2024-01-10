@@ -3,9 +3,7 @@ title: "Why Use MongoDB with Ruby"
 author: Pito Salas
 date: 2022-09-12 00:22:11
 tags:
-    - ruby
-    - mongodb
-    - howto
+    - ruby-mongodb-howto
 ---
 
 

@@ -3,8 +3,7 @@ title: "How do I use Ruby for shell scripting? - Stack Overflow"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - ruby
-    - shell
+    - ruby-shell
 ---
 
 

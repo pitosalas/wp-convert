@@ -3,9 +3,7 @@ title: "Selecting a programming language can be a form of premature optimization
 author: Pito Salas
 date: 2021-11-19 01:00:50
 tags:
-    - python
-    - performance
-    - opinion
+    - python-performance-opinion
 ---
 
 

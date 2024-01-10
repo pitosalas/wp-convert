@@ -3,9 +3,7 @@ title: "Metaprogramming: Writing in Ruby with... Ruby | Toptal"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - metaprogramming
-    - programming
-    - ruby
+    - metaprogramming-programming-ruby
 ---
 
 

@@ -3,10 +3,7 @@ title: "Thinking in Hotwire: Progressive Enhancement"
 author: Pito Salas
 date: 2022-08-21 23:06:01
 tags:
-    - rails
-    - hotwire
-    - howto
-    - review
+    - rails-hotwire-howto-review
 ---
 
 

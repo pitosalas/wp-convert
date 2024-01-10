@@ -3,11 +3,7 @@ title: "Python SSH Tutorial"
 author: Pito Salas
 date: 2022-01-01 21:52:09
 tags:
-    - paramiko
-    - tutorial
-    - howto
-    - ssh
-    - python
+    - paramiko-tutorial-howto-ssh-python
 ---
 
 

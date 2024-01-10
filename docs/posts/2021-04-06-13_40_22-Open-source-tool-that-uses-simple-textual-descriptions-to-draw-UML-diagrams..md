@@ -3,10 +3,7 @@ title: "Open-source tool that uses simple textual descriptions to draw UML diagr
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - chart
-    - diagram
-    - flowchart
-    - tools
+    - chart-diagram-flowchart-tools
 ---
 
 

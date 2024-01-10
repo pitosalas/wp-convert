@@ -3,11 +3,7 @@ title: "Camp Chef Smoke Vault 24\" Review"
 author: Pito Salas
 date: 2023-04-17 00:37:35
 tags:
-    - smoker
-    - barbq
-    - cookling
-    - grill
-    - propane-gas
+    - smoker-barbq-cookling-grill-propane-gas
 ---
 
 

@@ -3,9 +3,7 @@ title: "An intro to Stimulus JS: well-factored JavaScript for server-rendered ap
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - stimulus
-    - javascript
-    - rails
+    - stimulus-javascript-rails
 ---
 
 

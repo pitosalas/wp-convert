@@ -3,9 +3,7 @@ title: "Keyword (Named) Arguments in Python: How to Use Them - Trey Hunner"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - keyword
-    - arguments
-    - python
+    - keyword-arguments-python
 ---
 
 

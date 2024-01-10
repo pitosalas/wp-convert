@@ -3,10 +3,7 @@ title: "Alex Payne — Letter To A Young Programmer Considering A Startup"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - entrepreneurship
-    - entrepreneurs
-    - startup
-    - programmer
+    - entrepreneurship-entrepreneurs-startup-programmer
 ---
 
 

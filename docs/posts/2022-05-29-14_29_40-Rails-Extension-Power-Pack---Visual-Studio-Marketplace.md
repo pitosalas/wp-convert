@@ -3,10 +3,7 @@ title: "Rails Extension Power Pack - Visual Studio Marketplace"
 author: Pito Salas
 date: 2022-05-29 14:29:40
 tags:
-    - vscode
-    - rails
-    - howto
-    - extensions
+    - vscode-rails-howto-extensions
 ---
 
 

@@ -3,10 +3,7 @@ title: "Become a Self-Driving Car Engineer"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - self-driving
-    - engineer
-    - course
-    - udacity
+    - self-driving-engineer-course-udacity
 ---
 
 

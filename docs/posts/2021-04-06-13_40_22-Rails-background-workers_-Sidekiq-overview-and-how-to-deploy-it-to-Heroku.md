@@ -3,9 +3,7 @@ title: "Rails background workers: Sidekiq overview and how to deploy it to Herok
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - errors
-    - heroku
-    - ruby
+    - errors-heroku-ruby
 ---
 
 

@@ -3,11 +3,7 @@ title: "TSPSIs and How I Write"
 author: Pito Salas
 date: 2022-12-28 01:29:55
 tags:
-    - writing
-    - howto
-    - technique
-    - academic
-    - ai
+    - writing-howto-technique-academic-ai
 ---
 
 

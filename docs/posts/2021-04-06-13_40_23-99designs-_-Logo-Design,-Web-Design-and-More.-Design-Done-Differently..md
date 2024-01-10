@@ -3,10 +3,7 @@ title: "99designs | Logo Design, Web Design and More. Design Done Differently."
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - design
-    - icons
-    - graphics
-    - samples
+    - design-icons-graphics-samples
 ---
 
 

@@ -3,10 +3,7 @@ title: "The world in which IPv6 was a good design"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - internet
-    - networking
-    - tcpip
-    - technical
+    - internet-networking-tcpip-technical
 ---
 
 

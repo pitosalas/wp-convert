@@ -3,10 +3,7 @@ title: "haokaiyang/Mac-QuickLook: QuickLook plugins and packages"
 author: Pito Salas
 date: 2022-03-15 18:18:39
 tags:
-    - mac
-    - macos
-    - quicklook
-    - github
+    - mac-macos-quicklook-github
 ---
 
 

@@ -3,9 +3,7 @@ title: "How to Post to Mastodon From Anything Using IFTTT - K²R"
 author: Pito Salas
 date: 2022-11-13 12:55:50
 tags:
-    - mastodon
-    - ifttt
-    - howto
+    - mastodon-ifttt-howto
 ---
 
 

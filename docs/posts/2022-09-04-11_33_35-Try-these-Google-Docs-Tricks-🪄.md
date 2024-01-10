@@ -3,11 +3,7 @@ title: "Try these Google Docs Tricks 🪄"
 author: Pito Salas
 date: 2022-09-04 11:33:35
 tags:
-    - google
-    - googledocs
-    - howto
-    - cooltool
-    - recomendo
+    - google-googledocs-howto-cooltool-recomendo
 ---
 
 

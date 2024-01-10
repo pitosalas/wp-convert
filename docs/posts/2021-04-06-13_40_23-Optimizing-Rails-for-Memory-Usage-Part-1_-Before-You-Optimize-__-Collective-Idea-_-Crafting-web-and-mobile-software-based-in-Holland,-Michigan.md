@@ -3,8 +3,7 @@ title: "Optimizing Rails for Memory Usage Part 1: Before You Optimize // Collect
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - Software
-    - Engineering
+    - Software-Engineering
 ---
 
 

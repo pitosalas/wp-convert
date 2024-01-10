@@ -3,12 +3,7 @@ title: "QUT Robot Academy"
 author: Pito Salas
 date: 2021-04-13 21:37:36
 tags:
-    - learn
-    - robotics
-    - course
-    - online
-    - video
-    - howto
+    - learn-robotics-course-online-video-howto
 ---
 
 

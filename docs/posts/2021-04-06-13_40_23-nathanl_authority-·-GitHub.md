@@ -3,9 +3,7 @@ title: "nathanl/authority · GitHub"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - rails
-    - gem
-    - ruby
+    - rails-gem-ruby
 ---
 
 

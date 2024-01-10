@@ -3,11 +3,7 @@ title: "The Sudden Rise of the Lab-Leak Theory"
 author: Pito Salas
 date: 2021-05-28 22:00:51
 tags:
-    - virus
-    - science
-    - covid
-    - new-yorker
-    - article
+    - virus-science-covid-new-yorker-article
 ---
 
 

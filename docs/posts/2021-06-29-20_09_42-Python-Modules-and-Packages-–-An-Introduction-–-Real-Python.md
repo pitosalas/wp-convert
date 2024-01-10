@@ -3,11 +3,7 @@ title: "Python Modules and Packages – An Introduction – Real Python"
 author: Pito Salas
 date: 2021-06-29 20:09:42
 tags:
-    - python
-    - packages
-    - modularity
-    - howto
-    - modules
+    - python-packages-modularity-howto-modules
 ---
 
 

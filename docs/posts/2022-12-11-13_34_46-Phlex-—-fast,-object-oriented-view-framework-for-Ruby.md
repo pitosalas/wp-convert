@@ -3,11 +3,7 @@ title: "Phlex — fast, object-oriented view framework for Ruby"
 author: Pito Salas
 date: 2022-12-11 13:34:46
 tags:
-    - rsils
-    - ruby
-    - views
-    - howto
-    - gem
+    - rsils-ruby-views-howto-gem
 ---
 
 

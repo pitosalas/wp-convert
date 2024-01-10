@@ -3,10 +3,7 @@ title: "How to Add Swap Space on Ubuntu 20.04"
 author: Pito Salas
 date: 2021-06-04 18:15:40
 tags:
-    - swap
-    - ubuntu
-    - howto
-    - raspi
+    - swap-ubuntu-howto-raspi
 ---
 
 

@@ -3,10 +3,7 @@ title: "Bash vs Zsh vs Fish | Zell Liew"
 author: Pito Salas
 date: 2021-05-02 11:30:53
 tags:
-    - bash
-    - fish
-    - comare
-    - shell
+    - bash-fish-comare-shell
 ---
 
 

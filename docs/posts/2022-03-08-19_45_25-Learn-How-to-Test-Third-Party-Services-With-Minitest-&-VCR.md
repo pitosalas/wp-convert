@@ -3,11 +3,7 @@ title: "Learn How to Test Third Party Services With Minitest & VCR"
 author: Pito Salas
 date: 2022-03-08 19:45:25
 tags:
-    - api
-    - services
-    - testing
-    - minitest
-    - soa
+    - api-services-testing-minitest-soa
 ---
 
 

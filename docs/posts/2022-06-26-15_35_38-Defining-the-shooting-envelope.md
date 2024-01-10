@@ -3,11 +3,7 @@ title: "Defining the shooting envelope"
 author: Pito Salas
 date: 2022-06-26 15:35:38
 tags:
-    - photography
-    - envelope
-    - theory
-    - testing
-    - cameras
+    - photography-envelope-theory-testing-cameras
 ---
 
 

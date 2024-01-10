@@ -3,9 +3,7 @@ title: "Bitcoin Developer Responds To MtGox - Business Insider"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - bitcoin
-    - security
-    - cryptography
+    - bitcoin-security-cryptography
 ---
 
 

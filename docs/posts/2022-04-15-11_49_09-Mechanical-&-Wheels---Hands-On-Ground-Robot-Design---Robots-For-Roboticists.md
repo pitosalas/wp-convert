@@ -3,11 +3,7 @@ title: "Mechanical & Wheels - Hands On Ground Robot Design - Robots For Robotici
 author: Pito Salas
 date: 2022-04-15 11:49:09
 tags:
-    - robots
-    - robotics
-    - design
-    - hardware
-    - howto
+    - robots-robotics-design-hardware-howto
 ---
 
 

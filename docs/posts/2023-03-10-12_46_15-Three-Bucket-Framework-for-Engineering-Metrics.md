@@ -3,11 +3,7 @@ title: "Three-Bucket Framework for Engineering Metrics"
 author: Pito Salas
 date: 2023-03-10 12:46:15
 tags:
-    - software-engineering
-    - management
-    - metrics
-    - effectiveness
-    - productivity
+    - software-engineering-management-metrics-effectiveness-productivity
 ---
 
 

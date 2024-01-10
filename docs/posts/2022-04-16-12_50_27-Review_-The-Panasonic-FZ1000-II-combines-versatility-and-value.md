@@ -3,10 +3,7 @@ title: "Review: The Panasonic FZ1000 II combines versatility and value"
 author: Pito Salas
 date: 2022-04-16 12:50:27
 tags:
-    - camera
-    - panansonic
-    - FZ1000-II
-    - photo
+    - camera-panansonic-FZ1000-II-photo
 ---
 
 

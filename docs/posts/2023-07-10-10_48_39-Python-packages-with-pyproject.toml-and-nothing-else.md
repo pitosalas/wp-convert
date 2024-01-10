@@ -3,12 +3,7 @@ title: "Python packages with pyproject.toml and nothing else"
 author: Pito Salas
 date: 2023-07-10 10:48:39
 tags:
-    - python
-    - packaging
-    - explainer
-    - programming
-    - toml
-    - poetry
+    - python-packaging-explainer-programming-toml-poetry
 ---
 Super useful somewhat demystification of the #chaotic world of #python #packaging
 

@@ -3,10 +3,7 @@ title: "Open Source Load Testing Tools: Which One Should You Use? | BlazeMeter"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - testing
-    - sinatra
-    - scaling
-    - review
+    - testing-sinatra-scaling-review
 ---
 
 

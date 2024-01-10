@@ -3,10 +3,7 @@ title: "A Nibble of Git's Object Store"
 author: Pito Salas
 date: 2022-12-11 13:40:17
 tags:
-    - git
-    - storage
-    - internals
-    - explainer
+    - git-storage-internals-explainer
 ---
 
 

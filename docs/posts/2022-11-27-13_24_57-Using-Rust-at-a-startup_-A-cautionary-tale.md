@@ -3,10 +3,7 @@ title: "Using Rust at a startup: A cautionary tale"
 author: Pito Salas
 date: 2022-11-27 13:24:57
 tags:
-    - rust
-    - programming
-    - programming-language
-    - coding
+    - rust-programming-programming-language-coding
 ---
 
 

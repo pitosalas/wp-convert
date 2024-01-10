@@ -3,11 +3,7 @@ title: "Six Rules of Thumb for Scaling Software Architectures"
 author: Pito Salas
 date: 2022-01-05 15:26:21
 tags:
-    - scaling
-    - software
-    - engineering
-    - youre-not-google
-    - rules-of-thumb
+    - scaling-software-engineering-youre-not-google-rules-of-thumb
 ---
 
 

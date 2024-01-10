@@ -3,11 +3,7 @@ title: "Introduction to Vector"
 author: Pito Salas
 date: 2022-07-24 21:07:27
 tags:
-    - python
-    - package
-    - vector
-    - 2d
-    - 3d
+    - python-package-vector-2d-3d
 ---
 
 

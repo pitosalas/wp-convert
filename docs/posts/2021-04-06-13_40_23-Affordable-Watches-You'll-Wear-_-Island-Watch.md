@@ -3,8 +3,7 @@ title: "Affordable Watches You'll Wear | Island Watch"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - watches
-    - longisland
+    - watches-longisland
 ---
 
 

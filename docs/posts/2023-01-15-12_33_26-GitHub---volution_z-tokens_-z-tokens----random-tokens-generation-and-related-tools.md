@@ -3,10 +3,7 @@ title: "GitHub - volution/z-tokens: z-tokens -- random tokens generation and rel
 author: Pito Salas
 date: 2023-01-15 12:33:26
 tags:
-    - password
-    - cli
-    - rust
-    - utility
+    - password-cli-rust-utility
 ---
 
 

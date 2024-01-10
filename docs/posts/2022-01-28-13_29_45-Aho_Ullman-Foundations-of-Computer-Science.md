@@ -3,11 +3,7 @@ title: "Aho/Ullman Foundations of Computer Science"
 author: Pito Salas
 date: 2022-01-28 13:29:45
 tags:
-    - computer-science
-    - teaching
-    - learning
-    - fundamentals
-    - textbook
+    - computer-science-teaching-learning-fundamentals-textbook
 ---
 
 

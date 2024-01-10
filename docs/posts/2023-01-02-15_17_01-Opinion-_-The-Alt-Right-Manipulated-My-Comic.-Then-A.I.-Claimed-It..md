@@ -3,12 +3,7 @@ title: "Opinion | The Alt-Right Manipulated My Comic. Then A.I. Claimed It."
 author: Pito Salas
 date: 2023-01-02 15:17:01
 tags:
-    - art
-    - ChatGPT
-    - creativity
-    - plagiarism
-    - article
-    - nyt
+    - art-ChatGPT-creativity-plagiarism-article-nyt
 ---
 
 

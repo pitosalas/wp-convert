@@ -3,11 +3,7 @@ title: "The Missing Semester of Your CS Education"
 author: Pito Salas
 date: 2023-03-03 12:32:19
 tags:
-    - education
-    - computer-science
-    - software-engineering
-    - explainer
-    - course
+    - education-computer-science-software-engineering-explainer-course
 ---
 
 

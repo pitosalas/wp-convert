@@ -3,12 +3,7 @@ title: "From speech to insights: The value of the human voice"
 author: Pito Salas
 date: 2022-11-24 00:44:05
 tags:
-    - voice
-    - speech
-    - otp
-    - calls
-    - recognition
-    - research
+    - voice-speech-otp-calls-recognition-research
 ---
 
 

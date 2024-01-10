@@ -3,11 +3,7 @@ title: "Reference-Letter.com: Letter of recommendation made easy"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - reference
-    - business
-    - howto
-    - letter
-    - template
+    - reference-business-howto-letter-template
 ---
 
 

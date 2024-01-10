@@ -3,12 +3,7 @@ title: "GPT in 60 Lines of NumPy | Jay Mody"
 author: Pito Salas
 date: 2023-02-12 13:15:30
 tags:
-    - python
-    - chat-gpt
-    - machine-learning
-    - neural-network
-    - explainer
-    - source-code
+    - python-chat-gpt-machine-learning-neural-network-explainer-source-code
 ---
 
 

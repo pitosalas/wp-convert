@@ -3,11 +3,7 @@ title: "Building A Virtual Machine inside ChatGPT"
 author: Pito Salas
 date: 2022-12-04 12:05:15
 tags:
-    - text-generation
-    - chat-gpt
-    - linux
-    - shell
-    - the-matrix
+    - text-generation-chat-gpt-linux-shell-the-matrix
 ---
 
 

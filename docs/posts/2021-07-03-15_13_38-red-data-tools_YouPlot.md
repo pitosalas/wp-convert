@@ -3,11 +3,7 @@ title: "red-data-tools/YouPlot"
 author: Pito Salas
 date: 2021-07-03 15:13:38
 tags:
-    - cli
-    - plot
-    - ruby
-    - tool
-    - howto
+    - cli-plot-ruby-tool-howto
 ---
 
 

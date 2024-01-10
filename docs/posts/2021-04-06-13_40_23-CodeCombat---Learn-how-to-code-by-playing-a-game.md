@@ -3,9 +3,7 @@ title: "CodeCombat - Learn how to code by playing a game"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - coding
-    - programming
-    - game
+    - coding-programming-game
 ---
 
 

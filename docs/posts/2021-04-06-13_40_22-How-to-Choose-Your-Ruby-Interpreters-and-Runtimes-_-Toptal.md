@@ -3,12 +3,7 @@ title: "How to Choose Your Ruby Interpreters and Runtimes | Toptal"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - concurrency
-    - ruby
-    - tips
-    - runtimes
-    - jruby
-    - mri
+    - concurrency-ruby-tips-runtimes-jruby-mri
 ---
 
 

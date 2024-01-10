@@ -3,9 +3,7 @@ title: "Forget about algorithms and models — learn how to solve problems first
 author: Pito Salas
 date: 2022-12-08 12:13:33
 tags:
-    - programming
-    - teaching
-    - problem-solving
+    - programming-teaching-problem-solving
 ---
 
 

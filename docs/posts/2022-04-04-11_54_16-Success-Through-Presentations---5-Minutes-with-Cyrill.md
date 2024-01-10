@@ -3,12 +3,7 @@ title: "Success Through Presentations - 5 Minutes with Cyrill"
 author: Pito Salas
 date: 2022-04-04 11:54:16
 tags:
-    - video
-    - presentations
-    - academia
-    - teaching
-    - hiwto
-    - howto
+    - video-presentations-academia-teaching-hiwto-howto
 ---
 
 

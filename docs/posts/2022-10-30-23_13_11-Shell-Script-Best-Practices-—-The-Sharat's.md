@@ -3,10 +3,7 @@ title: "Shell Script Best Practices — The Sharat's"
 author: Pito Salas
 date: 2022-10-30 23:13:11
 tags:
-    - shell
-    - bash
-    - best-practices
-    - howto
+    - shell-bash-best-practices-howto
 ---
 
 

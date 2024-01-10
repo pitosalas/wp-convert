@@ -3,11 +3,7 @@ title: "6 Ways to Prevent Your Heroku App From Sleeping | Quick Left"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - explanation
-    - hacks
-    - performance
-    - Heroku
-    - howto
+    - explanation-hacks-performance-Heroku-howto
 ---
 
 

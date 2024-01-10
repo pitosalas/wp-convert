@@ -3,7 +3,6 @@ title: "Voting Information Project: Introducing the Voting Information Project"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - Elections
-    - Weather
+    - Elections-Weather
 ---
 

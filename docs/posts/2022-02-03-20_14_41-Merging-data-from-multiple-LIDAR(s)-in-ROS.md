@@ -3,11 +3,7 @@ title: "Merging data from multiple LIDAR(s) in ROS"
 author: Pito Salas
 date: 2022-02-03 20:14:41
 tags:
-    - ros
-    - lidar
-    - point-cloud
-    - merging
-    - howto
+    - ros-lidar-point-cloud-merging-howto
 ---
 
 

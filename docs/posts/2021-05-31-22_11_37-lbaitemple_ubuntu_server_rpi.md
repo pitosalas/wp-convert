@@ -3,10 +3,7 @@ title: "lbaitemple/ubuntu_server_rpi"
 author: Pito Salas
 date: 2021-05-31 22:11:37
 tags:
-    - ubuntu
-    - server
-    - howto
-    - raspi
+    - ubuntu-server-howto-raspi
 ---
 
 

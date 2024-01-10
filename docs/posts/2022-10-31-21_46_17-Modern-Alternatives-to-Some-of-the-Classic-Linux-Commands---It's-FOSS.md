@@ -3,12 +3,7 @@ title: "Modern Alternatives to Some of the Classic Linux Commands - It's FOSS"
 author: Pito Salas
 date: 2022-10-31 21:46:17
 tags:
-    - cli
-    - linux
-    - ls
-    - fd
-    - fast
-    - alternative
+    - cli-linux-ls-fd-fast-alternative
 ---
 
 

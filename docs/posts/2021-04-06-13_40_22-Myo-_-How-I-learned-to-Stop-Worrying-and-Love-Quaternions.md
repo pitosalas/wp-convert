@@ -3,9 +3,7 @@ title: "Myo | How I learned to Stop Worrying and Love Quaternions"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - Quaternions
-    - robotics
-    - 3d
+    - Quaternions-robotics-3d
 ---
 
 

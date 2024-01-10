@@ -3,9 +3,7 @@ title: "Grilling Food & Grilling Tips | Kingsford | Kingsford®"
 author: Pito Salas
 date: 2021-05-06 16:13:59
 tags:
-    - grill
-    - food
-    - howto
+    - grill-food-howto
 ---
 
 

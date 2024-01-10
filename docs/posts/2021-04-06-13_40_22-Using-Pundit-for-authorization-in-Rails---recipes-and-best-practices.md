@@ -3,10 +3,7 @@ title: "Using Pundit for authorization in Rails - recipes and best practices"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - pundit
-    - rails
-    - recipes
-    - authorization
+    - pundit-rails-recipes-authorization
 ---
 
 

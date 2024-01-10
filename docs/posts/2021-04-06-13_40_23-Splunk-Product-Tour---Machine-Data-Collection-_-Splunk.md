@@ -3,9 +3,7 @@ title: "Splunk Product Tour - Machine Data Collection | Splunk"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - collection
-    - bigdata
-    - charts
+    - collection-bigdata-charts
 ---
 
 

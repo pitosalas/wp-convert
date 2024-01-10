@@ -3,10 +3,7 @@ title: "Get started with Sinatra | Tutorial | .net magazine"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - sinatra
-    - tutorial
-    - rails
-    - ruby
+    - sinatra-tutorial-rails-ruby
 ---
 
 

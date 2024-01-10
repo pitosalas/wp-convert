@@ -3,11 +3,7 @@ title: "Visual design rules you can safely follow every time"
 author: Pito Salas
 date: 2023-02-07 01:19:13
 tags:
-    - design
-    - visual
-    - howto
-    - rules-of-thumb
-    - graphic-design
+    - design-visual-howto-rules-of-thumb-graphic-design
 ---
 
 

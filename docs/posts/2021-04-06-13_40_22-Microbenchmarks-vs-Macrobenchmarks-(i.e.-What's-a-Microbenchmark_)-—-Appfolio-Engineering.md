@@ -3,9 +3,7 @@ title: "Microbenchmarks vs Macrobenchmarks (i.e. What's a Microbenchmark?) — A
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - ruby
-    - engineering
-    - benchmarking
+    - ruby-engineering-benchmarking
 ---
 
 

@@ -3,12 +3,7 @@ title: "Git Good - The magic of keeping a clean Git history | Blog | simplabs"
 author: Pito Salas
 date: 2022-03-17 18:09:43
 tags:
-    - git
-    - howto
-    - github
-    - branch
-    - rebase
-    - reset
+    - git-howto-github-branch-rebase-reset
 ---
 
 

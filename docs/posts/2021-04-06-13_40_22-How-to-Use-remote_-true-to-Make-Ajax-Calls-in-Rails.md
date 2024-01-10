@@ -3,9 +3,7 @@ title: "How to Use remote: true to Make Ajax Calls in Rails"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - remote
-    - ajax
-    - rails
+    - remote-ajax-rails
 ---
 
 

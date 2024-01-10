@@ -3,11 +3,7 @@ title: "The lines of code that changed everything."
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - bugs
-    - hacks
-    - code
-    - interesting
-    - history
+    - bugs-hacks-code-interesting-history
 ---
 
 

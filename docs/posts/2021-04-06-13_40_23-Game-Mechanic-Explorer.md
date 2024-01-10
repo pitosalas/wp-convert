@@ -3,11 +3,7 @@ title: "Game Mechanic Explorer"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - javascript
-    - game
-    - game-programming
-    - programming
-    - development
+    - javascript-game-game-programming-programming-development
 ---
 
 

@@ -3,9 +3,7 @@ title: "The Baseline Costs of JavaScript Frameworks – uncommon"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - javascript
-    - frameworks
-    - costs
+    - javascript-frameworks-costs
 ---
 
 

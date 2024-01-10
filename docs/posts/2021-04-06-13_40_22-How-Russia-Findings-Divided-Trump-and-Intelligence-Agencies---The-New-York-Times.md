@@ -3,11 +3,7 @@ title: "How Russia Findings Divided Trump and Intelligence Agencies - The New Yo
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - nyt
-    - nytimes
-    - russia
-    - trump
-    - intelligence
+    - nyt-nytimes-russia-trump-intelligence
 ---
 
 

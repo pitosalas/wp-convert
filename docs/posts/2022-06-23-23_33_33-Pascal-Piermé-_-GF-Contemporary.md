@@ -3,8 +3,7 @@ title: "Pascal Piermé | GF Contemporary"
 author: Pito Salas
 date: 2022-06-23 23:33:33
 tags:
-    - art
-    - paintings
+    - art-paintings
 ---
 
 

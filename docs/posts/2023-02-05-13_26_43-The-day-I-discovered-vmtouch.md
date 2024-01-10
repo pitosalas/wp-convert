@@ -3,11 +3,7 @@ title: "The day I discovered vmtouch"
 author: Pito Salas
 date: 2023-02-05 13:26:43
 tags:
-    - sqlite
-    - performance
-    - database
-    - caching
-    - scalability
+    - sqlite-performance-database-caching-scalability
 ---
 
 

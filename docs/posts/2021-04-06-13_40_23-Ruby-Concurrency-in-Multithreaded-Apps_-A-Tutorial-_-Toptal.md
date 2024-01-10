@@ -3,11 +3,7 @@ title: "Ruby Concurrency in Multithreaded Apps: A Tutorial | Toptal"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - ruby
-    - concurrency
-    - performance
-    - threads
-    - processes
+    - ruby-concurrency-performance-threads-processes
 ---
 
 

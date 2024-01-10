@@ -3,11 +3,7 @@ title: "From Ruby to Crystal? Writing and distributing a CLI tool—Martian Chro
 author: Pito Salas
 date: 2023-05-19 12:12:35
 tags:
-    - crystal
-    - ruby
-    - cli
-    - crossplatform
-    - golang
+    - crystal-ruby-cli-crossplatform-golang
 ---
 
 

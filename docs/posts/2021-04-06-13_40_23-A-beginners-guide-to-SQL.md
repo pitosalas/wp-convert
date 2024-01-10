@@ -3,8 +3,7 @@ title: "A beginners guide to SQL"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - sql
-    - guide
+    - sql-guide
 ---
 
 

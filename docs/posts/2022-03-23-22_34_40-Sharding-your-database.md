@@ -3,11 +3,7 @@ title: "Sharding your database"
 author: Pito Salas
 date: 2022-03-23 22:34:40
 tags:
-    - database
-    - sharding
-    - partitioning
-    - scaling
-    - performance
+    - database-sharding-partitioning-scaling-performance
 ---
 
 

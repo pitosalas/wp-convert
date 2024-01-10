@@ -3,12 +3,7 @@ title: "10 BEST Performance Testing Tools | Load Testing Tools (2022)"
 author: Pito Salas
 date: 2022-01-12 14:33:41
 tags:
-    - tools
-    - performance
-    - scaling
-    - review
-    - howto
-    - cosi105
+    - tools-performance-scaling-review-howto-cosi105
 ---
 
 

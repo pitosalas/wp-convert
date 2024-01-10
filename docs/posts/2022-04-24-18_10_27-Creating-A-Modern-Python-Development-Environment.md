@@ -3,13 +3,7 @@ title: "Creating A Modern Python Development Environment"
 author: Pito Salas
 date: 2022-04-24 18:10:27
 tags:
-    - python
-    - developer
-    - configuration
-    - power
-    - tips
-    - WiFi
-    - howto
+    - python-developer-configuration-power-tips-WiFi-howto
 ---
 
 

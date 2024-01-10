@@ -3,13 +3,7 @@ title: "Blocks, Procs, and Lambdas: A Beginner's Guide to Closures and Anonymous
 author: Pito Salas
 date: 2023-06-18 09:40:30
 tags:
-    - ruby
-    - explainer
-    - blocks
-    - lambda
-    - functions
-    - proc
-    - block
+    - ruby-explainer-blocks-lambda-functions-proc-block
 ---
 This excellent article does a great job at explaining the Ruby features block, lambda and proc.
 

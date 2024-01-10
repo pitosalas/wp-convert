@@ -3,10 +3,7 @@ title: "Learn SQL: Aggregate Functions"
 author: Pito Salas
 date: 2022-10-17 17:46:35
 tags:
-    - sql
-    - howto
-    - explainer
-    - aggregates
+    - sql-howto-explainer-aggregates
 ---
 
 

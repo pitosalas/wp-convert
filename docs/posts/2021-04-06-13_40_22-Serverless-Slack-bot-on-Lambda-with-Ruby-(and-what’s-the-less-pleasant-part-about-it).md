@@ -3,10 +3,7 @@ title: "Serverless Slack bot on Lambda with Ruby (and what’s the less pleasant
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - aws
-    - ruby
-    - serverless
-    - lambda
+    - aws-ruby-serverless-lambda
 ---
 
 

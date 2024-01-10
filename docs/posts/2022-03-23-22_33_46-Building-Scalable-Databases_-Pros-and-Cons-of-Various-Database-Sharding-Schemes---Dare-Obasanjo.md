@@ -3,16 +3,7 @@ title: "Building Scalable Databases: Pros and Cons of Various Database Sharding 
 author: Pito Salas
 date: 2022-03-23 22:33:46
 tags:
-    - scaling
-    - database
-    - performance
-    - sharding
-    - paritioning
-    - performance
-    - b-trees
-    - hashtables
-    - indexes
-    - databases
+    - scaling-database-performance-sharding-paritioning-performance-b-trees-hashtables-indexes-databases
 ---
 
 

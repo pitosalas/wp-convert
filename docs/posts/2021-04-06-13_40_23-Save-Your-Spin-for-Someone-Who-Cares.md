@@ -3,8 +3,7 @@ title: "Save Your Spin for Someone Who Cares"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - entrepreneurship
-    - entrepreneur
+    - entrepreneurship-entrepreneur
 ---
 
 

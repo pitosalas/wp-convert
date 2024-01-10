@@ -3,10 +3,7 @@ title: "Things You Should Know About Databases"
 author: Pito Salas
 date: 2022-07-01 11:24:39
 tags:
-    - howto
-    - database
-    - explainer
-    - tutorial
+    - howto-database-explainer-tutorial
 ---
 
 

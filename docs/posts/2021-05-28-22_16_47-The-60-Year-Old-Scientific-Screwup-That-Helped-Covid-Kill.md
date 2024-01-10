@@ -3,10 +3,7 @@ title: "The 60-Year-Old Scientific Screwup That Helped Covid Kill"
 author: Pito Salas
 date: 2021-05-28 22:16:47
 tags:
-    - covid
-    - science
-    - article
-    - wired
+    - covid-science-article-wired
 ---
 
 

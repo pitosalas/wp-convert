@@ -3,11 +3,7 @@ title: "brandonhilkert/sucker_punch: Sucker Punch is a Ruby asynchronous process
 author: Pito Salas
 date: 2022-03-28 17:14:11
 tags:
-    - aynchronous
-    - ruby
-    - background
-    - heroku
-    - howto
+    - aynchronous-ruby-background-heroku-howto
 ---
 
 

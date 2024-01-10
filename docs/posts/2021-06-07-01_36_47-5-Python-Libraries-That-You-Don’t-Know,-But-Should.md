@@ -3,10 +3,7 @@ title: "5 Python Libraries That You Don’t Know, But Should"
 author: Pito Salas
 date: 2021-06-07 01:36:47
 tags:
-    - python
-    - library
-    - package
-    - google-maps
+    - python-library-package-google-maps
 ---
 
 

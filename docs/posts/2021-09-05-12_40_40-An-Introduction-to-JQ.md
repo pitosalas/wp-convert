@@ -3,11 +3,7 @@ title: "An Introduction to JQ"
 author: Pito Salas
 date: 2021-09-05 12:40:40
 tags:
-    - jq
-    - json
-    - cli
-    - howto
-    - cooltool
+    - jq-json-cli-howto-cooltool
 ---
 
 

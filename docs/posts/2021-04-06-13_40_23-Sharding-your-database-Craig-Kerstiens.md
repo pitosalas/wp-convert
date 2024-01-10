@@ -3,8 +3,7 @@ title: "Sharding your database Craig Kerstiens"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - sharding
-    - database
+    - sharding-database
 ---
 
 

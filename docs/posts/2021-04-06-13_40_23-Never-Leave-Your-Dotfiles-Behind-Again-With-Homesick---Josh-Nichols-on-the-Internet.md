@@ -3,9 +3,7 @@ title: "Never Leave Your Dotfiles Behind Again With Homesick - Josh Nichols on t
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - dotfiles
-    - shell
-    - macosx
+    - dotfiles-shell-macosx
 ---
 
 

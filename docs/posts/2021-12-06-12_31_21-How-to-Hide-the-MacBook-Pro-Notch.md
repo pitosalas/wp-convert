@@ -3,10 +3,7 @@ title: "How to Hide the MacBook Pro Notch"
 author: Pito Salas
 date: 2021-12-06 12:31:21
 tags:
-    - mbp
-    - notch
-    - app
-    - macos
+    - mbp-notch-app-macos
 ---
 
 

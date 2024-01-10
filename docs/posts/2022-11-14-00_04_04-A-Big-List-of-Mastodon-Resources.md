@@ -3,9 +3,7 @@ title: "A Big List of Mastodon Resources"
 author: Pito Salas
 date: 2022-11-14 00:04:04
 tags:
-    - mastodon
-    - information
-    - background
+    - mastodon-information-background
 ---
 
 

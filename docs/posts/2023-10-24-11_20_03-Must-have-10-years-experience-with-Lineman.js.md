@@ -3,11 +3,7 @@ title: "Must have 10 years experience with Lineman.js"
 author: Pito Salas
 date: 2023-10-24 11:20:03
 tags:
-    - lineman
-    - js
-    - javascript
-    - strategy
-    - open-source
+    - lineman-js-javascript-strategy-open-source
 ---
 
 

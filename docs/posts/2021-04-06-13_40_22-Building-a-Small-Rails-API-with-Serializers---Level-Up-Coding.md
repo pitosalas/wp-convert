@@ -3,10 +3,7 @@ title: "Building a Small Rails API with Serializers - Level Up Coding"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - coding
-    - howto
-    - rails
-    - api
+    - coding-howto-rails-api
 ---
 
 

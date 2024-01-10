@@ -3,9 +3,7 @@ title: "Marker detection · Clover"
 author: Pito Salas
 date: 2022-03-26 17:48:42
 tags:
-    - aruco
-    - aruco-detect
-    - howto
+    - aruco-aruco-detect-howto
 ---
 
 

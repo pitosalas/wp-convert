@@ -3,10 +3,7 @@ title: "Stripe is Silently Recording Your Movements On its Customers' Websites Â
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - security
-    - privacy
-    - stripe
-    - spying
+    - security-privacy-stripe-spying
 ---
 
 

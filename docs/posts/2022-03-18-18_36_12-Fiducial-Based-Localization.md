@@ -3,9 +3,7 @@ title: "Fiducial-Based Localization"
 author: Pito Salas
 date: 2022-03-18 18:36:12
 tags:
-    - aruco-detect
-    - fiducial
-    - fiducial-slam
+    - aruco-detect-fiducial-fiducial-slam
 ---
 
 

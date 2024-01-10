@@ -3,9 +3,7 @@ title: "How I Almost Destroyed a £50 million War Plane and The Normalisation of
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - competence
-    - checklists
-    - normalization
+    - competence-checklists-normalization
 ---
 
 

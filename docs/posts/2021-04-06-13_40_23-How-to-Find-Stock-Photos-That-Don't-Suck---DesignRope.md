@@ -3,10 +3,7 @@ title: "How to Find Stock Photos That Don't Suck - DesignRope"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - photos
-    - stock
-    - design
-    - photography
+    - photos-stock-design-photography
 ---
 
 

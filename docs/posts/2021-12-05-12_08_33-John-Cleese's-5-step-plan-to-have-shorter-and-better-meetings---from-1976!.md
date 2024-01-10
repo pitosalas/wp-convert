@@ -3,10 +3,7 @@ title: "John Cleese's 5-step plan to have shorter and better meetings - from 197
 author: Pito Salas
 date: 2021-12-05 12:08:33
 tags:
-    - meetings
-    - efficiency
-    - people
-    - time
+    - meetings-efficiency-people-time
 ---
 
 

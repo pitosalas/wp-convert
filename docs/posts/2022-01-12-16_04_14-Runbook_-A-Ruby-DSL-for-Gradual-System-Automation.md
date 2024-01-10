@@ -3,11 +3,7 @@ title: "Runbook: A Ruby DSL for Gradual System Automation"
 author: Pito Salas
 date: 2022-01-12 16:04:14
 tags:
-    - howto
-    - automation
-    - devops
-    - runbook
-    - cosi105
+    - howto-automation-devops-runbook-cosi105
 ---
 
 

@@ -3,9 +3,7 @@ title: "Top 10 errors from 1000+ Ruby on Rails projects (and how to avoid them)"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - errors
-    - rails
-    - ruby
+    - errors-rails-ruby
 ---
 
 

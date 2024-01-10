@@ -3,8 +3,7 @@ title: "Reinvent the Wheel"
 author: Pito Salas
 date: 2022-10-26 12:34:29
 tags:
-    - engineering
-    - hands-on
+    - engineering-hands-on
 ---
 
 

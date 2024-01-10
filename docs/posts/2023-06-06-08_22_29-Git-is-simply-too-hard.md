@@ -3,8 +3,7 @@ title: "Git is simply too hard"
 author: Pito Salas
 date: 2023-06-06 08:22:29
 tags:
-    - git
-    - opinion
+    - git-opinion
 ---
 Great comments which I agree with!
 

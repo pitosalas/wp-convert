@@ -3,11 +3,7 @@ title: "Geometry (Points, Vectors and Normals)"
 author: Pito Salas
 date: 2021-06-09 02:58:18
 tags:
-    - geometry
-    - math
-    - explainer
-    - matrix
-    - vector
+    - geometry-math-explainer-matrix-vector
 ---
 
 

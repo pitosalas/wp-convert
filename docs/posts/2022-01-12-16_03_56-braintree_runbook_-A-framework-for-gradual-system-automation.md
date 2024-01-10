@@ -3,10 +3,7 @@ title: "braintree/runbook: A framework for gradual system automation"
 author: Pito Salas
 date: 2022-01-12 16:03:56
 tags:
-    - automation
-    - devops
-    - tools
-    - howto
+    - automation-devops-tools-howto
 ---
 
 

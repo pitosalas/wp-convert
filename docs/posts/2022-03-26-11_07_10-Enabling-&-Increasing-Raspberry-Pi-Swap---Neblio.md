@@ -3,11 +3,7 @@ title: "Enabling & Increasing Raspberry Pi Swap - Neblio"
 author: Pito Salas
 date: 2022-03-26 11:07:10
 tags:
-    - raspi
-    - raspberry-pi
-    - swap
-    - howto
-    - crash
+    - raspi-raspberry-pi-swap-howto-crash
 ---
 
 

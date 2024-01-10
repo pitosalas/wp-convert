@@ -3,10 +3,7 @@ title: "ibraheemdev/modern-unix"
 author: Pito Salas
 date: 2021-06-21 02:29:54
 tags:
-    - cli
-    - linux
-    - howto
-    - best
+    - cli-linux-howto-best
 ---
 
 

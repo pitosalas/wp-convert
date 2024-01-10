@@ -3,10 +3,7 @@ title: "Refactoring and Design Patterns"
 author: Pito Salas
 date: 2021-12-28 12:37:22
 tags:
-    - refactoring
-    - patterns
-    - ruby
-    - howto
+    - refactoring-patterns-ruby-howto
 ---
 
 

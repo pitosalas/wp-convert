@@ -3,10 +3,7 @@ title: "Altair: Declarative Visualization in Python"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - python
-    - jupyter
-    - visualization
-    - vega-lite
+    - python-jupyter-visualization-vega-lite
 ---
 
 

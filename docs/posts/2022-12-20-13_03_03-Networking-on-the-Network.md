@@ -3,11 +3,7 @@ title: "Networking on the Network"
 author: Pito Salas
 date: 2022-12-20 13:03:03
 tags:
-    - research
-    - networking
-    - careers
-    - phd
-    - cooltool
+    - research-networking-careers-phd-cooltool
 ---
 
 

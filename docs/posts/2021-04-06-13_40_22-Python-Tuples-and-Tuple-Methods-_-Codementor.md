@@ -3,9 +3,7 @@ title: "Python Tuples and Tuple Methods | Codementor"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - tuples
-    - python
-    - methods
+    - tuples-python-methods
 ---
 
 

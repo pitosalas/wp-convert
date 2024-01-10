@@ -3,9 +3,7 @@ title: "#1 Online Wholesale Matboard Supplier, Quality Pre Cut, Custom Mat Board
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - photography
-    - framing
-    - art
+    - photography-framing-art
 ---
 
 

@@ -3,9 +3,7 @@ title: "Writing Code Without Plain Text Files"
 author: Pito Salas
 date: 2023-01-30 13:27:16
 tags:
-    - unison
-    - ide
-    - programming
+    - unison-ide-programming
 ---
 
 

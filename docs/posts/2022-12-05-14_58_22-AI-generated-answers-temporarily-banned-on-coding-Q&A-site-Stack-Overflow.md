@@ -3,12 +3,7 @@ title: "AI-generated answers temporarily banned on coding Q&A site Stack Overflo
 author: Pito Salas
 date: 2022-12-05 14:58:22
 tags:
-    - stackoverflow
-    - ChatGPT
-    - cheating
-    - plagiarism
-    - teaching
-    - artcile
+    - stackoverflow-ChatGPT-cheating-plagiarism-teaching-artcile
 ---
 
 

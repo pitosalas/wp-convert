@@ -3,11 +3,7 @@ title: "Welcome to WeBWorK"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - math
-    - education
-    - mathematics
-    - learning
-    - edtech
+    - math-education-mathematics-learning-edtech
 ---
 
 

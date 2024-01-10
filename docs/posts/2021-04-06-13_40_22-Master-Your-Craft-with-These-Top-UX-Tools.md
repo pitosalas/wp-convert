@@ -3,10 +3,7 @@ title: "Master Your Craft with These Top UX Tools"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - tools
-    - design
-    - UI
-    - UX
+    - tools-design-UI-UX
 ---
 
 

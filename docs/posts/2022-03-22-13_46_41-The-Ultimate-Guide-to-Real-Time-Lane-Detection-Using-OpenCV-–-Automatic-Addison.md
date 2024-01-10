@@ -3,11 +3,7 @@ title: "The Ultimate Guide to Real-Time Lane Detection Using OpenCV – Automati
 author: Pito Salas
 date: 2022-03-22 13:46:41
 tags:
-    - opencv
-    - ros
-    - autonomous-cars
-    - robotics
-    - edge-detection
+    - opencv-ros-autonomous-cars-robotics-edge-detection
 ---
 
 

@@ -3,10 +3,7 @@ title: "6 Stages of Linux Boot Process (Startup Sequence)"
 author: Pito Salas
 date: 2021-06-03 17:05:11
 tags:
-    - boot
-    - linux
-    - operating-system
-    - description
+    - boot-linux-operating-system-description
 ---
 
 

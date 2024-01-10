@@ -3,11 +3,7 @@ title: "Efficient multi-SONAR with Arduino-like systems – Wimble Robotics"
 author: Pito Salas
 date: 2022-12-23 19:14:46
 tags:
-    - robotics
-    - ultrasonic
-    - cpp
-    - howto
-    - code
+    - robotics-ultrasonic-cpp-howto-code
 ---
 
 

@@ -3,12 +3,7 @@ title: "Rails design patterns"
 author: Pito Salas
 date: 2023-06-25 11:23:01
 tags:
-    - rails
-    - patterns
-    - howto
-    - explainer
-    - interactor
-    - presenter
+    - rails-patterns-howto-explainer-interactor-presenter
 ---
 Fantastic overview of the most common rails patterns. I think it’s pretty up to date and comprehensive.
 

@@ -3,11 +3,7 @@ title: "4 Rules for Intuitive UX – Learn UI Design"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - UI
-    - howto
-    - explainer
-    - rules
-    - UX
+    - UI-howto-explainer-rules-UX
 ---
 
 

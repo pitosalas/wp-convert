@@ -3,9 +3,7 @@ title: "“The Lean Startup” is an unproductive legend"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - leanstartup
-    - startup
-    - lean
+    - leanstartup-startup-lean
 ---
 
 

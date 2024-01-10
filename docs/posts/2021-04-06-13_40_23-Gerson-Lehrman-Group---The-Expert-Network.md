@@ -3,9 +3,7 @@ title: "Gerson Lehrman Group - The Expert Network"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - financial
-    - jasonjones
-    - blogbridge
+    - financial-jasonjones-blogbridge
 ---
 
 

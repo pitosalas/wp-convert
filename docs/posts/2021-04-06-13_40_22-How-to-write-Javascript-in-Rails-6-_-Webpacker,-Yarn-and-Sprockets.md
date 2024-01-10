@@ -3,9 +3,7 @@ title: "How to write Javascript in Rails 6 | Webpacker, Yarn and Sprockets"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - javascript
-    - yarn
-    - rails
+    - javascript-yarn-rails
 ---
 
 

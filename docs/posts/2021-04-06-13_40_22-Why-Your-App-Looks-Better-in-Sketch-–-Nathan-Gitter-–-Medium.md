@@ -3,8 +3,7 @@ title: "Why Your App Looks Better in Sketch – Nathan Gitter – Medium"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - design
-    - sketch
+    - design-sketch
 ---
 
 

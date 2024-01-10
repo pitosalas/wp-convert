@@ -3,10 +3,7 @@ title: "Heroku Alternatives for Python-based Applications"
 author: Pito Salas
 date: 2022-10-20 00:35:12
 tags:
-    - heroku
-    - python
-    - alternatives
-    - review
+    - heroku-python-alternatives-review
 ---
 
 

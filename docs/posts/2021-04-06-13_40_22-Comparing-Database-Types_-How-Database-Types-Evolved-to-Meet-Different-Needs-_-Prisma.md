@@ -3,10 +3,7 @@ title: "Comparing Database Types: How Database Types Evolved to Meet Different N
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - taxonomy
-    - database
-    - types
-    - explainer
+    - taxonomy-database-types-explainer
 ---
 
 

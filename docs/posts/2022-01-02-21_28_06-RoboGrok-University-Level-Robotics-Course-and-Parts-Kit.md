@@ -3,14 +3,7 @@ title: "RoboGrok University-Level Robotics Course and Parts Kit"
 author: Pito Salas
 date: 2022-01-02 21:28:06
 tags:
-    - robotics
-    - course
-    - hands-on
-    - robotics
-    - kit
-    - robots
-    - course
-    - theory
+    - robotics-course-hands-on-robotics-kit-robots-course-theory
 ---
 
 

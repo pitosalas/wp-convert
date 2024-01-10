@@ -3,10 +3,7 @@ title: "Civitas Learning | Student Success Platform & Services - Civitas Learnin
 author: Pito Salas
 date: 2021-10-08 15:10:46
 tags:
-    - learning
-    - data
-    - datascience
-    - otp
+    - learning-data-datascience-otp
 ---
 
 

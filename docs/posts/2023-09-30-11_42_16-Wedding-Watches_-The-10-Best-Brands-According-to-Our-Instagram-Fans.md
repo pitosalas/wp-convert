@@ -3,10 +3,7 @@ title: "Wedding Watches: The 10 Best Brands According to Our Instagram Fans"
 author: Pito Salas
 date: 2023-09-30 11:42:16
 tags:
-    - watches
-    - guide
-    - buy
-    - shop
+    - watches-guide-buy-shop
 ---
 
 

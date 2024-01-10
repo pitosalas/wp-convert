@@ -3,10 +3,7 @@ title: "Scalable architecture without magic (and how to build it if you’re not
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - architecture
-    - software-engineering
-    - scaling
-    - scalability
+    - architecture-software-engineering-scaling-scalability
 ---
 
 

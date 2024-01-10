@@ -3,11 +3,7 @@ title: "Home | Old Book Illustrations"
 author: Pito Salas
 date: 2022-01-02 12:16:47
 tags:
-    - illustration
-    - images
-    - old
-    - cooltool
-    - free
+    - illustration-images-old-cooltool-free
 ---
 
 

@@ -3,9 +3,7 @@ title: "SQL queries don't start with SELECT - Julia Evans"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - sql
-    - syntax
-    - tips
+    - sql-syntax-tips
 ---
 
 

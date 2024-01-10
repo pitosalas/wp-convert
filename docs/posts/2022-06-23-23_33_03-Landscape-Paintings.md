@@ -3,8 +3,7 @@ title: "Landscape Paintings"
 author: Pito Salas
 date: 2022-06-23 23:33:03
 tags:
-    - art
-    - paintings
+    - art-paintings
 ---
 
 

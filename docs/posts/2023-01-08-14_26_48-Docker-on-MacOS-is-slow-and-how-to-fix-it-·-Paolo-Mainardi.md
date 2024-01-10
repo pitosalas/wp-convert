@@ -3,10 +3,7 @@ title: "Docker on MacOS is slow and how to fix it · Paolo Mainardi"
 author: Pito Salas
 date: 2023-01-08 14:26:48
 tags:
-    - docker
-    - macos
-    - howto
-    - performance
+    - docker-macos-howto-performance
 ---
 
 

@@ -3,11 +3,7 @@ title: "Custom vinyl stickers, decals, labels. High quality printing at low pric
 author: Pito Salas
 date: 2022-01-24 02:00:10
 tags:
-    - stickers
-    - ecommerce
-    - order
-    - online
-    - shop
+    - stickers-ecommerce-order-online-shop
 ---
 
 

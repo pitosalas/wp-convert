@@ -3,9 +3,7 @@ title: "How To Build A Ruby Gem With Bundler, Test-Driven Development, Travis CI
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - thor
-    - ruby
-    - development
+    - thor-ruby-development
 ---
 
 

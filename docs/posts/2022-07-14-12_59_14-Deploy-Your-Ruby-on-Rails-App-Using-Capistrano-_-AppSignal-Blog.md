@@ -3,12 +3,7 @@ title: "Deploy Your Ruby on Rails App Using Capistrano | AppSignal Blog"
 author: Pito Salas
 date: 2022-07-14 12:59:14
 tags:
-    - capistrano
-    - rails
-    - deployment
-    - ruby
-    - production
-    - howto
+    - capistrano-rails-deployment-ruby-production-howto
 ---
 
 

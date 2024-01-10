@@ -3,11 +3,7 @@ title: "huginn/huginn: Create agents that monitor and act on your behalf."
 author: Pito Salas
 date: 2022-12-27 12:17:04
 tags:
-    - ifttt
-    - opensource
-    - events
-    - logic
-    - dispatch
+    - ifttt-opensource-events-logic-dispatch
 ---
 
 

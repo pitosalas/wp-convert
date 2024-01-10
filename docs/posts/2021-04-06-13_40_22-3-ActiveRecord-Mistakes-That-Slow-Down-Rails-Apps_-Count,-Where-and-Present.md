@@ -3,9 +3,7 @@ title: "3 ActiveRecord Mistakes That Slow Down Rails Apps: Count, Where and Pres
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - rails
-    - activerecord
-    - mistakes
+    - rails-activerecord-mistakes
 ---
 
 

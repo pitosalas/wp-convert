@@ -3,11 +3,7 @@ title: "A non-mathematical introduction to Kalman Filters for programmers - Prav
 author: Pito Salas
 date: 2023-08-06 18:34:12
 tags:
-    - robot
-    - robotics
-    - kalman
-    - code
-    - explainer
+    - robot-robotics-kalman-code-explainer
 ---
 
 

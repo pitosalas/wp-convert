@@ -3,11 +3,7 @@ title: "Rad-hi/Obstacle-Avoidance-ROS: A ROS node that allows for a naive obstac
 author: Pito Salas
 date: 2022-02-03 20:28:04
 tags:
-    - robotics
-    - lidar
-    - ros
-    - obstacle-avoidance
-    - howto
+    - robotics-lidar-ros-obstacle-avoidance-howto
 ---
 
 

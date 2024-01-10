@@ -3,10 +3,7 @@ title: "What Is ChatGPT Doing … and Why Does It Work?"
 author: Pito Salas
 date: 2023-02-17 12:42:58
 tags:
-    - stephen-wolfram
-    - chat-gpt
-    - machine-learning
-    - neural-nets
+    - stephen-wolfram-chat-gpt-machine-learning-neural-nets
 ---
 
 

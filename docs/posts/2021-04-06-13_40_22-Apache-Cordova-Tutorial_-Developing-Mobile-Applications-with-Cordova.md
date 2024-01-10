@@ -3,12 +3,7 @@ title: "Apache Cordova Tutorial: Developing Mobile Applications with Cordova"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - apache
-    - cordoba
-    - mobile
-    - phonegap
-    - tutorial
-    - howto
+    - apache-cordoba-mobile-phonegap-tutorial-howto
 ---
 
 

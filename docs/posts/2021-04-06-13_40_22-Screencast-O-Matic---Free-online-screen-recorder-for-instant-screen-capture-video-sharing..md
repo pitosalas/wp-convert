@@ -3,8 +3,7 @@ title: "Screencast-O-Matic - Free online screen recorder for instant screen capt
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - Dev
-    - Tools
+    - Dev-Tools
 ---
 
 

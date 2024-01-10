@@ -3,10 +3,7 @@ title: "Our Golang Frameworks vs Ruby Frameworks Expert Guide for Software Devel
 author: Pito Salas
 date: 2022-05-08 11:48:24
 tags:
-    - golang
-    - rails
-    - frsmework
-    - web
+    - golang-rails-frsmework-web
 ---
 
 

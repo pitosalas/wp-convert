@@ -3,9 +3,7 @@ title: "Thoughtful: Google and HTTP"
 author: Pito Salas
 date: 2022-07-16 12:17:54
 tags:
-    - dave-winer
-    - thinker
-    - blog
+    - dave-winer-thinker-blog
 ---
 
 

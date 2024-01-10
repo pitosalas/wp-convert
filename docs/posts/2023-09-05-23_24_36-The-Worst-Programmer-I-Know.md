@@ -3,9 +3,7 @@ title: "The Worst Programmer I Know"
 author: Pito Salas
 date: 2023-09-05 23:24:36
 tags:
-    - productivity
-    - metrics
-    - 10x
+    - productivity-metrics-10x
 ---
 
 

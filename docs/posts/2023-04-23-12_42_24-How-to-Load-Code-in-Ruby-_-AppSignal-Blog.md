@@ -3,11 +3,7 @@ title: "How to Load Code in Ruby | AppSignal Blog"
 author: Pito Salas
 date: 2023-04-23 12:42:24
 tags:
-    - ruby
-    - zeitwerk
-    - auto-load
-    - require
-    - require-relative
+    - ruby-zeitwerk-auto-load-require-require-relative
 ---
 
 

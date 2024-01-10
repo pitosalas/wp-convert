@@ -3,11 +3,7 @@ title: "Meet Zig: The modern alternative to C"
 author: Pito Salas
 date: 2023-03-10 11:27:59
 tags:
-    - c
-    - clang
-    - programming
-    - language
-    - system
+    - c-clang-programming-language-system
 ---
 
 

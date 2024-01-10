@@ -3,10 +3,7 @@ title: "Full-Stack Toolbox 🧰: Python🐍 Edition"
 author: Pito Salas
 date: 2024-01-06 15:55:16
 tags:
-    - python
-    - visualization
-    - framework
-    - list
+    - python-visualization-framework-list
 ---
 
 

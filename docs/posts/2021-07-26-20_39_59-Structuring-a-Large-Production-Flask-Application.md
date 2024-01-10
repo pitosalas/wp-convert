@@ -3,12 +3,7 @@ title: "Structuring a Large Production Flask Application"
 author: Pito Salas
 date: 2021-07-26 20:39:59
 tags:
-    - python
-    - flask
-    - architecture
-    - structure
-    - scale
-    - howto
+    - python-flask-architecture-structure-scale-howto
 ---
 
 

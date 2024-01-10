@@ -3,11 +3,7 @@ title: "An Introduction to Graphviz via R. Kelly’s “Trapped in the Closet”
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - graphviz
-    - graphing
-    - charts
-    - ruby
-    - dsl
+    - graphviz-graphing-charts-ruby-dsl
 ---
 
 

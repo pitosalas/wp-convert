@@ -3,11 +3,7 @@ title: "Python behind the scenes #11: how the Python import system works"
 author: Pito Salas
 date: 2021-07-17 12:44:19
 tags:
-    - python
-    - import
-    - import-statement
-    - explainer
-    - in-depth
+    - python-import-import-statement-explainer-in-depth
 ---
 
 

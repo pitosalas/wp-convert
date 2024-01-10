@@ -3,11 +3,7 @@ title: "How The Post is replacing Mapbox with open source solutions - Kevin Scha
 author: Pito Salas
 date: 2023-02-17 19:57:14
 tags:
-    - map
-    - mapbox
-    - open-source
-    - mapping
-    - washington-post
+    - map-mapbox-open-source-mapping-washington-post
 ---
 
 

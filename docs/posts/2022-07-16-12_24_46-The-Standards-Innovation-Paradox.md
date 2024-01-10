@@ -3,10 +3,7 @@ title: "The Standards Innovation Paradox"
 author: Pito Salas
 date: 2022-07-16 12:24:46
 tags:
-    - dave-winer
-    - thinker
-    - blog
-    - standards
+    - dave-winer-thinker-blog-standards
 ---
 
 

@@ -3,10 +3,7 @@ title: "iCal ( iCalendar ) Publishing to *.ics file through RubyOnRails « first
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - ical
-    - publishing
-    - rubyonrails
-    - ruby
+    - ical-publishing-rubyonrails-ruby
 ---
 
 

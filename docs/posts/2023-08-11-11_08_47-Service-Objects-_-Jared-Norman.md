@@ -3,10 +3,7 @@ title: "Service Objects | Jared Norman"
 author: Pito Salas
 date: 2023-08-11 11:08:47
 tags:
-    - ruby
-    - howto
-    - explainer
-    - service-objects
+    - ruby-howto-explainer-service-objects
 ---
 Good article on an arcane topic that the ruby community loves to debate and discuss.
 

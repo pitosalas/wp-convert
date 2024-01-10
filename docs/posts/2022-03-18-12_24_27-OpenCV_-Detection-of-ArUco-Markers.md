@@ -3,12 +3,7 @@ title: "OpenCV: Detection of ArUco Markers"
 author: Pito Salas
 date: 2022-03-18 12:24:27
 tags:
-    - opencv
-    - tutorial
-    - howto
-    - course
-    - robotics
-    - computer-vision
+    - opencv-tutorial-howto-course-robotics-computer-vision
 ---
 
 

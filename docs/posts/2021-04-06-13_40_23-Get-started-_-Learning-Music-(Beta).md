@@ -3,10 +3,7 @@ title: "Get started | Learning Music (Beta)"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - music
-    - tutorial
-    - education
-    - synthesizer
+    - music-tutorial-education-synthesizer
 ---
 
 

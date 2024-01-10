@@ -3,9 +3,7 @@ title: "How Kubernetes Reinvented Virtual Machines (in a good sense)"
 author: Pito Salas
 date: 2022-08-14 14:11:40
 tags:
-    - kubernetes
-    - k3s
-    - explainer
+    - kubernetes-k3s-explainer
 ---
 
 

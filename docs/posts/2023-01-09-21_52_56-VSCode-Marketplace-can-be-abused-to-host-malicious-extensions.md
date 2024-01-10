@@ -3,13 +3,7 @@ title: "VSCode Marketplace can be abused to host malicious extensions"
 author: Pito Salas
 date: 2023-01-09 21:52:56
 tags:
-    - coding
-    - visual
-    - studio
-    - code
-    - vscode
-    - hacker
-    - malware
+    - coding-visual-studio-code-vscode-hacker-malware
 ---
 
 

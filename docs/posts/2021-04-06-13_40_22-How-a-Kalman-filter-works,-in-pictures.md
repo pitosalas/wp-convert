@@ -3,10 +3,7 @@ title: "How a Kalman filter works, in pictures"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - kalman
-    - filters
-    - robotics
-    - kalmanfilters
+    - kalman-filters-robotics-kalmanfilters
 ---
 
 

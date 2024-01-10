@@ -3,10 +3,7 @@ title: "Powering your Ruby & Rails development with Pry! – Tiago Parreira – 
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - rails
-    - ruby
-    - debugging
-    - pry
+    - rails-ruby-debugging-pry
 ---
 
 

@@ -3,13 +3,7 @@ title: "A Nibble of Geohashes in Go - by Kurt - Get Code"
 author: Pito Salas
 date: 2022-12-28 13:14:51
 tags:
-    - algorithm
-    - geo
-    - geohash
-    - geocode
-    - latlong
-    - howto
-    - explainer
+    - algorithm-geo-geohash-geocode-latlong-howto-explainer
 ---
 
 

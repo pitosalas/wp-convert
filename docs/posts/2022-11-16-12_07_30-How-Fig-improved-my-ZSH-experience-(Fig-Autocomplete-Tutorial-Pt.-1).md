@@ -3,13 +3,7 @@ title: "How Fig improved my ZSH experience (Fig Autocomplete Tutorial Pt. 1)"
 author: Pito Salas
 date: 2022-11-16 12:07:30
 tags:
-    - oh-my-zsh
-    - zshell
-    - howto
-    - performance
-    - explainer
-    - shell
-    - cli
+    - oh-my-zsh-zshell-howto-performance-explainer-shell-cli
 ---
 
 

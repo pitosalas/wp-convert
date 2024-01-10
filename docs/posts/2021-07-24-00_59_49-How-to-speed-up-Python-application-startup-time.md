@@ -3,11 +3,7 @@ title: "How to speed up Python application startup time"
 author: Pito Salas
 date: 2021-07-24 00:59:49
 tags:
-    - howto
-    - performance
-    - python
-    - wheel
-    - import
+    - howto-performance-python-wheel-import
 ---
 
 

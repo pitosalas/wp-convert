@@ -3,10 +3,7 @@ title: "11 rules for buying an ebike, and the 11 ebikes to buy now"
 author: Pito Salas
 date: 2022-03-20 12:22:39
 tags:
-    - ebike
-    - shopping
-    - electric
-    - electric-bike
+    - ebike-shopping-electric-electric-bike
 ---
 
 

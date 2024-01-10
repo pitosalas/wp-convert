@@ -3,9 +3,7 @@ title: "Using Concurrent Ruby in a Ruby on Rails Application | BigBinary Blog"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - concurrency
-    - ruby
-    - techniques
+    - concurrency-ruby-techniques
 ---
 
 

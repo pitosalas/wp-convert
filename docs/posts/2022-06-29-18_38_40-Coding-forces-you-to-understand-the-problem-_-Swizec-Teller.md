@@ -3,9 +3,7 @@ title: "Coding forces you to understand the problem | Swizec Teller"
 author: Pito Salas
 date: 2022-06-29 18:38:40
 tags:
-    - coding
-    - learning
-    - programming
+    - coding-learning-programming
 ---
 
 

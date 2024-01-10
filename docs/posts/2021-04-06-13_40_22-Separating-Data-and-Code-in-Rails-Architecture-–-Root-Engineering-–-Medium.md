@@ -3,10 +3,7 @@ title: "Separating Data and Code in Rails Architecture – Root Engineering – 
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - OO
-    - procedural
-    - functional
-    - stateless
+    - OO-procedural-functional-stateless
 ---
 
 

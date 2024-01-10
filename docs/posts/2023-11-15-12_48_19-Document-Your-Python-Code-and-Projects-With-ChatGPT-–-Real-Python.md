@@ -3,10 +3,7 @@ title: "Document Your Python Code and Projects With ChatGPT – Real Python"
 author: Pito Salas
 date: 2023-11-15 12:48:19
 tags:
-    - python
-    - chatgpt
-    - documentation
-    - docstrings
+    - python-chatgpt-documentation-docstrings
 ---
 
 

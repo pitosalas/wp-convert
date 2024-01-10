@@ -3,11 +3,7 @@ title: "Costs exposed: Monorepo vs. multirepo - Julio Merino (jmmv.dev)"
 author: Pito Salas
 date: 2023-08-24 11:47:58
 tags:
-    - repositories
-    - git
-    - github
-    - monorepo
-    - comparison
+    - repositories-git-github-monorepo-comparison
 ---
 I’ve never used a large monorepo myself, but they do seem to be the way to go.
 

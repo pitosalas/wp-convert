@@ -3,12 +3,7 @@ title: "GitHub - kochrt/markwhen: Make a cascading timeline from markdown-like t
 author: Pito Salas
 date: 2022-06-26 14:52:30
 tags:
-    - howto
-    - time
-    - timeline
-    - markdown
-    - schedule
-    - visualize
+    - howto-time-timeline-markdown-schedule-visualize
 ---
 
 

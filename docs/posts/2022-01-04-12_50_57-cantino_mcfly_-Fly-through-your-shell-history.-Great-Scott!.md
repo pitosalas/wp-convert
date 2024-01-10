@@ -3,11 +3,7 @@ title: "cantino/mcfly: Fly through your shell history. Great Scott!"
 author: Pito Salas
 date: 2022-01-04 12:50:57
 tags:
-    - tool
-    - cli
-    - history
-    - command
-    - linux
+    - tool-cli-history-command-linux
 ---
 
 

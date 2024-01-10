@@ -3,10 +3,7 @@ title: "The strange relationship between objects, functions, generators and coro
 author: Pito Salas
 date: 2022-06-30 12:43:36
 tags:
-    - python
-    - howto
-    - objects
-    - functions
+    - python-howto-objects-functions
 ---
 
 

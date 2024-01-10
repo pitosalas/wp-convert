@@ -3,10 +3,7 @@ title: "3 ways to detect slow queries in PostgreSQL"
 author: Pito Salas
 date: 2022-03-16 15:35:04
 tags:
-    - performance
-    - scale
-    - postgres
-    - sql
+    - performance-scale-postgres-sql
 ---
 
 

@@ -3,12 +3,7 @@ title: "Introducing scikit-geometry"
 author: Pito Salas
 date: 2022-07-15 14:05:49
 tags:
-    - robotics
-    - geometry
-    - python
-    - package
-    - howto
-    - cooltool
+    - robotics-geometry-python-package-howto-cooltool
 ---
 
 

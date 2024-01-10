@@ -1,12 +1,7 @@
 import json
-import os
 import requests
-import html2text
-import re
-from datetime import datetime
-import html
 
-MAX_API_PAGES = 3000
+MAX_API_PAGES = 5
 
 class WpImport:
     def __init__(self):
@@ -41,12 +36,13 @@ class WpImport:
             print("Failed to retrieve posts. Status code:", response.status_code)
             print(response.text)
 
-    def process_a_post(self, post) -> dict:
-        self.drop_unneeded_keys(post)
-        self.convert_values(post)
+    def process_a_post(self, post: dict) -> dict:
+        post = self.drop_unneeded_keys(post)
+        post = self.convert_values(post)
+        return(post)
     
     def convert_values(self, post):
-        pass
+        return post
     
     def drop_unneeded_keys(self, post):
         post.pop('sticky', None)
@@ -59,13 +55,12 @@ class WpImport:
 
     def save_posts(self):
         # save posts as a json file
-        with open('keep_safe/posts.json', 'w') as outfile:
+        with open('data/wp_posts.json', 'w') as outfile:
             json.dump(self.posts, outfile)
 
     def run(self):
         self.retrieve_posts()
         self.save_posts()
-        print("done")
 
 # Main program
 if __name__ == "__main__":

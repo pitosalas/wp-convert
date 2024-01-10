@@ -3,10 +3,7 @@ title: "Object-Oriented Discrete Event Simulation — with SimPy"
 author: Pito Salas
 date: 2022-11-25 16:54:28
 tags:
-    - simulation
-    - discrete
-    - howto
-    - explainer
+    - simulation-discrete-howto-explainer
 ---
 
 

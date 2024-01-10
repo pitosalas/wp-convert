@@ -3,8 +3,7 @@ title: "Follow these practical principles to get well-designed microservices bou
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - microservices
-    - soa
+    - microservices-soa
 ---
 
 

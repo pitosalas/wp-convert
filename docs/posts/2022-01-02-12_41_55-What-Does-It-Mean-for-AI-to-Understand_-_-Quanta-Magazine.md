@@ -3,11 +3,7 @@ title: "What Does It Mean for AI to Understand? | Quanta Magazine"
 author: Pito Salas
 date: 2022-01-02 12:41:55
 tags:
-    - roread
-    - ai
-    - turing-test
-    - quants
-    - cooltool
+    - roread-ai-turing-test-quants-cooltool
 ---
 
 

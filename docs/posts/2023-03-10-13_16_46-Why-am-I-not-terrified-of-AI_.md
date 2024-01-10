@@ -3,10 +3,7 @@ title: "Why am I not terrified of AI?"
 author: Pito Salas
 date: 2023-03-10 13:16:46
 tags:
-    - ai
-    - ChatGPT
-    - philosophy
-    - dense
+    - ai-ChatGPT-philosophy-dense
 ---
 
 

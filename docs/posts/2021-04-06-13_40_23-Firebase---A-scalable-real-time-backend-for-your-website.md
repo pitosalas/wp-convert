@@ -3,9 +3,7 @@ title: "Firebase - A scalable real-time backend for your website"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - database
-    - mobile
-    - javascript
+    - database-mobile-javascript
 ---
 
 

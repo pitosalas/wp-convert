@@ -3,8 +3,7 @@ title: "Building Globally Distributed, Mission Critical Applications: Lessons Fr
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - Software
-    - Engineering
+    - Software-Engineering
 ---
 
 

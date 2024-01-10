@@ -3,12 +3,7 @@ title: "Testing network services in Ruby is easier than you think"
 author: Pito Salas
 date: 2022-03-04 12:53:06
 tags:
-    - testing
-    - doubles
-    - ruby
-    - network
-    - soa
-    - cosi105
+    - testing-doubles-ruby-network-soa-cosi105
 ---
 
 

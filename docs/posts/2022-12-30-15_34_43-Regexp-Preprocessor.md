@@ -3,10 +3,7 @@ title: "Regexp Preprocessor"
 author: Pito Salas
 date: 2022-12-30 15:34:43
 tags:
-    - regexp
-    - preprocessor
-    - pomsky
-    - howto
+    - regexp-preprocessor-pomsky-howto
 ---
 
 

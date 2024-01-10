@@ -3,11 +3,7 @@ title: "Everything you need to know"
 author: Pito Salas
 date: 2022-08-24 16:37:44
 tags:
-    - hci
-    - ui
-    - research
-    - document
-    - quirky
+    - hci-ui-research-document-quirky
 ---
 
 

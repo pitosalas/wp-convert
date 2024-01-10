@@ -3,11 +3,7 @@ title: "Curaçao Jews Home page"
 author: Pito Salas
 date: 2023-09-08 00:15:43
 tags:
-    - curacao
-    - jews
-    - snoa
-    - jewish
-    - history
+    - curacao-jews-snoa-jewish-history
 ---
 Web site with info about Curacao jews
 

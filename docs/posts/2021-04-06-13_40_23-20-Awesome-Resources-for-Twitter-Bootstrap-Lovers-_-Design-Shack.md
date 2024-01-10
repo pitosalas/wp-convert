@@ -3,12 +3,7 @@ title: "20 Awesome Resources for Twitter Bootstrap Lovers | Design Shack"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - bootstrap
-    - design
-    - css
-    - resources
-    - html
-    - link
+    - bootstrap-design-css-resources-html-link
 ---
 
 

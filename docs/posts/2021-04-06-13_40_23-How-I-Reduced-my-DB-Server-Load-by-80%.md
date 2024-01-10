@@ -3,8 +3,7 @@ title: "How I Reduced my DB Server Load by 80%"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - Software
-    - Engineering
+    - Software-Engineering
 ---
 
 

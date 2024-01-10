@@ -3,10 +3,7 @@ title: "The Practical Effects of the GVL on Scaling in Ruby"
 author: Pito Salas
 date: 2022-05-28 14:29:10
 tags:
-    - ruby
-    - scale
-    - howto
-    - threads
+    - ruby-scale-howto-threads
 ---
 
 

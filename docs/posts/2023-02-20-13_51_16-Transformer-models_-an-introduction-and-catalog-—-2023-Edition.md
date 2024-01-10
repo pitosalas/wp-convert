@@ -3,11 +3,7 @@ title: "Transformer models: an introduction and catalog — 2023 Edition"
 author: Pito Salas
 date: 2023-02-20 13:51:16
 tags:
-    - ai
-    - transformers
-    - neural-networks
-    - index
-    - list
+    - ai-transformers-neural-networks-index-list
 ---
 
 

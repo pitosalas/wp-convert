@@ -3,9 +3,7 @@ title: "Tutorials for Raspberry Pi – Instructions & Projects"
 author: Pito Salas
 date: 2023-09-08 00:16:54
 tags:
-    - raspberry-pi
-    - tutorials
-    - cooltools
+    - raspberry-pi-tutorials-cooltools
 ---
 Always good to have tutorials!
 

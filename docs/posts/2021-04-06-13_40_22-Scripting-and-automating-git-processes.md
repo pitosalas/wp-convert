@@ -3,12 +3,7 @@ title: "Scripting and automating git processes"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - scripting
-    - automation
-    - cli
-    - ruby
-    - bash
-    - tips
+    - scripting-automation-cli-ruby-bash-tips
 ---
 
 

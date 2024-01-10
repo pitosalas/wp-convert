@@ -3,8 +3,7 @@ title: "Accelerate Python code 100x by import taichi as ti | Taichi Docs"
 author: Pito Salas
 date: 2022-09-12 12:20:02
 tags:
-    - python
-    - performance
+    - python-performance
 ---
 
 

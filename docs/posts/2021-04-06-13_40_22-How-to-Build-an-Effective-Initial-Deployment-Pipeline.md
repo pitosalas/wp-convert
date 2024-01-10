@@ -3,11 +3,7 @@ title: "How to Build an Effective Initial Deployment Pipeline"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - deployment
-    - devops
-    - cd
-    - ci
-    - pipeline
+    - deployment-devops-cd-ci-pipeline
 ---
 
 

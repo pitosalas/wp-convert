@@ -3,7 +3,6 @@ title: "Git for the lazy - Spheriki"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - Dev
-    - Tools
+    - Dev-Tools
 ---
 

@@ -3,9 +3,7 @@ title: "[Solved] Tutorial: GPIO/I2C/SPI-access without root-permissions"
 author: Pito Salas
 date: 2021-05-27 13:25:37
 tags:
-    - gpio
-    - raspberry-pi
-    - howto
+    - gpio-raspberry-pi-howto
 ---
 
 

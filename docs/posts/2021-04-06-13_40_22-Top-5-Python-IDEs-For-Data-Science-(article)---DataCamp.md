@@ -3,10 +3,7 @@ title: "Top 5 Python IDEs For Data Science (article) - DataCamp"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - python
-    - data
-    - science
-    - ide
+    - python-data-science-ide
 ---
 
 

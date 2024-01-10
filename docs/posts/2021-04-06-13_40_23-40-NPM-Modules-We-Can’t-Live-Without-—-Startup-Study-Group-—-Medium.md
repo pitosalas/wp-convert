@@ -3,8 +3,7 @@ title: "40 NPM Modules We Can’t Live Without — Startup Study Group — Mediu
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - nam
-    - javascript
+    - nam-javascript
 ---
 
 

@@ -3,9 +3,7 @@ title: "Unlock the Potential of VS Code for Ruby Programming"
 author: Pito Salas
 date: 2023-02-03 17:02:29
 tags:
-    - ruby
-    - vscode
-    - rubocop
+    - ruby-vscode-rubocop
 ---
 
 

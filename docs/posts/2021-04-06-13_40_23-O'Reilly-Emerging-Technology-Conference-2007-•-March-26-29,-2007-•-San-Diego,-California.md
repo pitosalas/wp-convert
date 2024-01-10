@@ -3,8 +3,7 @@ title: "O'Reilly Emerging Technology Conference 2007 • March 26-29, 2007 • S
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - etech
-    - math
+    - etech-math
 ---
 
 

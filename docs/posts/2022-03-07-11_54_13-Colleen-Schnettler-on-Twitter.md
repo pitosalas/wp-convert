@@ -3,10 +3,7 @@ title: "Colleen Schnettler on Twitter"
 author: Pito Salas
 date: 2022-03-07 11:54:13
 tags:
-    - rails
-    - activerecord
-    - howto
-    - joins
+    - rails-activerecord-howto-joins
 ---
 
 

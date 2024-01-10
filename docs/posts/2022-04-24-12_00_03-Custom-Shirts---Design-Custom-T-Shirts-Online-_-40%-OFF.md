@@ -3,9 +3,7 @@ title: "Custom Shirts - Design Custom T-Shirts Online | 40% OFF"
 author: Pito Salas
 date: 2022-04-24 12:00:03
 tags:
-    - t-shirt
-    - online
-    - custom
+    - t-shirt-online-custom
 ---
 
 

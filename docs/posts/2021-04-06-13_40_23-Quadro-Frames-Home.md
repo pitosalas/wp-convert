@@ -3,8 +3,6 @@ title: "Quadro Frames Home"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - frames
-    - photography
-    - MOUNTing
+    - frames-photography-MOUNTing
 ---
 

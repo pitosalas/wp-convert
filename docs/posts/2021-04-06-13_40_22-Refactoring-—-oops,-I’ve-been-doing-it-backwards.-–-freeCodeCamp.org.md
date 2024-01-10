@@ -3,10 +3,7 @@ title: "Refactoring — oops, I’ve been doing it backwards. – freeCodeCamp.o
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - tips
-    - antipattern
-    - refactoring
-    - howto
+    - tips-antipattern-refactoring-howto
 ---
 
 

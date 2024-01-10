@@ -3,10 +3,7 @@ title: "amazing little character based resource monitor"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - bash
-    - cli
-    - shell
-    - monitoring
+    - bash-cli-shell-monitoring
 ---
 
 

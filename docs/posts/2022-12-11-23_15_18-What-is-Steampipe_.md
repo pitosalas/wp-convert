@@ -3,12 +3,7 @@ title: "What is Steampipe?"
 author: Pito Salas
 date: 2022-12-11 23:15:18
 tags:
-    - aws
-    - saas
-    - administration
-    - sysadmin
-    - devops
-    - explainer
+    - aws-saas-administration-sysadmin-devops-explainer
 ---
 
 

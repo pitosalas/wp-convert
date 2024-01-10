@@ -3,9 +3,7 @@ title: "Why I can't recommend Clean Architecture by Robert C Martin"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - unclemartin
-    - architecture
-    - dev
+    - unclemartin-architecture-dev
 ---
 
 

@@ -3,11 +3,7 @@ title: "What kinds of Rails tests I write and what kinds I don't - Code with Jas
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - tests
-    - rails
-    - unittest
-    - tdd
-    - howto
+    - tests-rails-unittest-tdd-howto
 ---
 
 

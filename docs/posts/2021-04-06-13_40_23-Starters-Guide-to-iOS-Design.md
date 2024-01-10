@@ -3,10 +3,7 @@ title: "Starters Guide to iOS Design"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - ios
-    - design
-    - mockups
-    - graphics
+    - ios-design-mockups-graphics
 ---
 
 

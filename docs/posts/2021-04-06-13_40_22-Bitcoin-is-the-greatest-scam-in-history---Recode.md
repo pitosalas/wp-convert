@@ -3,10 +3,7 @@ title: "Bitcoin is the greatest scam in history - Recode"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - bitcoin
-    - btc
-    - article
-    - scams
+    - bitcoin-btc-article-scams
 ---
 
 

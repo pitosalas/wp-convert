@@ -3,10 +3,7 @@ title: "Welcome to Talking Points for Life"
 author: Pito Salas
 date: 2022-12-18 11:44:04
 tags:
-    - interview
-    - communicating
-    - relationships
-    - howto
+    - interview-communicating-relationships-howto
 ---
 
 

@@ -3,8 +3,7 @@ title: "How I served 100k users without breaking the server- or a dollar bill. |
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - amazon
-    - hosting
+    - amazon-hosting
 ---
 
 

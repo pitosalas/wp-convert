@@ -3,11 +3,7 @@ title: "Scaling services with Shard Manager - Facebook Engineering"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - scaling
-    - howto
-    - shard
-    - services.
-    - facebook
+    - scaling-howto-shard-services-facebook
 ---
 
 

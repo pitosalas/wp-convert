@@ -3,9 +3,7 @@ title: "Caddx Peanut Action Camera"
 author: Pito Salas
 date: 2021-11-20 12:56:32
 tags:
-    - camera
-    - robotics
-    - stabilized
+    - camera-robotics-stabilized
 ---
 
 

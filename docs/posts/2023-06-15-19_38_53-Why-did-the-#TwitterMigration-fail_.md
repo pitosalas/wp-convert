@@ -3,12 +3,7 @@ title: "Why did the #TwitterMigration fail?"
 author: Pito Salas
 date: 2023-06-15 19:38:53
 tags:
-    - mastodon
-    - fediverse
-    - federated
-    - scalability
-    - twitter
-    - explainer
+    - mastodon-fediverse-federated-scalability-twitter-explainer
 ---
 An excellent dissertation on mastodon, the fediverse, and trade offs, dangers, features and bugs. Very thoughtful and insightful.
 

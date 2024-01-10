@@ -3,12 +3,7 @@ title: "Using ROS on Raspberry Pi: Best Practices - The Robotics Back-End"
 author: Pito Salas
 date: 2022-03-26 14:13:07
 tags:
-    - raspi
-    - performance
-    - crash
-    - configuration
-    - setup
-    - raspberry-pi
+    - raspi-performance-crash-configuration-setup-raspberry-pi
 ---
 
 

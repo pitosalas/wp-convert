@@ -3,11 +3,7 @@ title: "Laurence Tratt: Why We Need to Know LR and Recursive Descent Parsing Tec
 author: Pito Salas
 date: 2023-01-17 12:54:40
 tags:
-    - parser
-    - top-down
-    - LR
-    - recursive-descent
-    - explainer
+    - parser-top-down-LR-recursive-descent-explainer
 ---
 
 

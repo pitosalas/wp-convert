@@ -3,11 +3,7 @@ title: "How to Test Ruby Code That Depends on External APIs"
 author: Pito Salas
 date: 2022-03-08 19:43:56
 tags:
-    - soa
-    - testing
-    - rspec
-    - ruby
-    - services
+    - soa-testing-rspec-ruby-services
 ---
 
 

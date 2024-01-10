@@ -3,10 +3,7 @@ title: "Docker concepts and terminology - Code with Jason"
 author: Pito Salas
 date: 2021-10-16 00:20:43
 tags:
-    - docker
-    - howto
-    - explainer
-    - jargon
+    - docker-howto-explainer-jargon
 ---
 
 

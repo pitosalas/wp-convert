@@ -3,8 +3,7 @@ title: "Learn advanced Rake in 7 episodes | Virtuous Code"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - rake
-    - ruby
+    - rake-ruby
 ---
 
 

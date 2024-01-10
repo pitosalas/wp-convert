@@ -3,11 +3,7 @@ title: "Effective Queries with Rails and PostgreSQL"
 author: Pito Salas
 date: 2022-09-10 11:15:53
 tags:
-    - postgres
-    - database
-    - sql
-    - ndex
-    - index
+    - postgres-database-sql-ndex-index
 ---
 
 

@@ -3,10 +3,7 @@ title: "SSL Cert Rotation with Runbook | dev/blesi"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - ssl
-    - cert
-    - rotation
-    - runbook
+    - ssl-cert-rotation-runbook
 ---
 
 

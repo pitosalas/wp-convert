@@ -3,11 +3,7 @@ title: "GameDev Pensieve"
 author: Pito Salas
 date: 2021-04-19 13:21:38
 tags:
-    - gaming
-    - decision
-    - making
-    - algorithms
-    - howto
+    - gaming-decision-making-algorithms-howto
 ---
 
 

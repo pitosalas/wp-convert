@@ -3,9 +3,7 @@ title: "verlab/gazebo_ros_model_color"
 author: Pito Salas
 date: 2021-05-28 22:10:42
 tags:
-    - robotics
-    - gazebo
-    - howto
+    - robotics-gazebo-howto
 ---
 
 

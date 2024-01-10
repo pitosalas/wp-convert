@@ -3,9 +3,7 @@ title: "UX Crash Course: 31 Fundamentals | The Hipper Element"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - UX
-    - tutorial
-    - development
+    - UX-tutorial-development
 ---
 
 

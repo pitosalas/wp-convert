@@ -3,11 +3,7 @@ title: "An Introduction to Ractors in Ruby | AppSignal Blog"
 author: Pito Salas
 date: 2022-12-22 22:08:21
 tags:
-    - ruby
-    - threads
-    - concurrency
-    - ractor
-    - explainer
+    - ruby-threads-concurrency-ractor-explainer
 ---
 
 

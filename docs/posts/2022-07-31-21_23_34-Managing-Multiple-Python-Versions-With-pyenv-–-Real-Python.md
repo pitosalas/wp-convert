@@ -3,12 +3,7 @@ title: "Managing Multiple Python Versions With pyenv – Real Python"
 author: Pito Salas
 date: 2022-07-31 21:23:34
 tags:
-    - python
-    - pyenv
-    - version-manager
-    - version
-    - manage
-    - howto
+    - python-pyenv-version-manager-version-manage-howto
 ---
 
 

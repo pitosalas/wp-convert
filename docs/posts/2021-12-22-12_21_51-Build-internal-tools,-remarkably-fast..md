@@ -3,11 +3,7 @@ title: "Build internal tools, remarkably fast."
 author: Pito Salas
 date: 2021-12-22 12:21:51
 tags:
-    - visualiztion
-    - tools
-    - howto
-    - dashboard
-    - product
+    - visualiztion-tools-howto-dashboard-product
 ---
 
 

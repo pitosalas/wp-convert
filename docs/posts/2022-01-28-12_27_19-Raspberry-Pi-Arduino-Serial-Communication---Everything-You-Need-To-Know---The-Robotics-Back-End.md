@@ -3,10 +3,7 @@ title: "Raspberry Pi Arduino Serial Communication - Everything You Need To Know 
 author: Pito Salas
 date: 2022-01-28 12:27:19
 tags:
-    - raspi
-    - arduino
-    - raspberry-pi
-    - trouble-shooting
+    - raspi-arduino-raspberry-pi-trouble-shooting
 ---
 
 

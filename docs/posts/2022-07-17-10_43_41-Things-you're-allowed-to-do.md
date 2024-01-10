@@ -3,9 +3,7 @@ title: "Things you're allowed to do"
 author: Pito Salas
 date: 2022-07-17 10:43:41
 tags:
-    - productivity
-    - advice
-    - personal
+    - productivity-advice-personal
 ---
 
 

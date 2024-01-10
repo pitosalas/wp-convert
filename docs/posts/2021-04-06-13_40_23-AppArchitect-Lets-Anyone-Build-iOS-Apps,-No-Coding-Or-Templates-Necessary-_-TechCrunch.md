@@ -3,9 +3,7 @@ title: "AppArchitect Lets Anyone Build iOS Apps, No Coding Or Templates Necessar
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - ios
-    - android
-    - development
+    - ios-android-development
 ---
 
 

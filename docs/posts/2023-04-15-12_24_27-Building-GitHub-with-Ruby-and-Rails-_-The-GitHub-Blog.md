@@ -3,10 +3,7 @@ title: "Building GitHub with Ruby and Rails | The GitHub Blog"
 author: Pito Salas
 date: 2023-04-15 12:24:27
 tags:
-    - ruby
-    - rails
-    - github
-    - ci
+    - ruby-rails-github-ci
 ---
 
 

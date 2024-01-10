@@ -3,11 +3,7 @@ title: "Choosing the right wall anchors - FineWoodworking"
 author: Pito Salas
 date: 2021-10-10 11:51:52
 tags:
-    - wood
-    - howto
-    - carpentry
-    - screws
-    - anchors
+    - wood-howto-carpentry-screws-anchors
 ---
 
 

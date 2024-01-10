@@ -3,13 +3,7 @@ title: "A Complete Guide to Lock Convoys | Dave Kilian's Blog"
 author: Pito Salas
 date: 2022-11-29 11:17:23
 tags:
-    - scale
-    - bottleneck
-    - locks
-    - lock
-    - performance
-    - code
-    - convoy
+    - scale-bottleneck-locks-lock-performance-code-convoy
 ---
 
 

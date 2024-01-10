@@ -3,11 +3,7 @@ title: "Simple 8-bit Assembler Simulator in Javascript"
 author: Pito Salas
 date: 2023-01-13 21:11:58
 tags:
-    - assembly
-    - education
-    - visual
-    - simulator
-    - explainer
+    - assembly-education-visual-simulator-explainer
 ---
 
 

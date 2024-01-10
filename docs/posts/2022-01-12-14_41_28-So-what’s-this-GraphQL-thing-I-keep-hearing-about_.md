@@ -3,11 +3,7 @@ title: "So what’s this GraphQL thing I keep hearing about?"
 author: Pito Salas
 date: 2022-01-12 14:41:28
 tags:
-    - graphql
-    - introduction
-    - api
-    - howto
-    - cosi105
+    - graphql-introduction-api-howto-cosi105
 ---
 
 

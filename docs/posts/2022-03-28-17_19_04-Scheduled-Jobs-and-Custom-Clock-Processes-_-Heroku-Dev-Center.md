@@ -3,12 +3,7 @@ title: "Scheduled Jobs and Custom Clock Processes | Heroku Dev Center"
 author: Pito Salas
 date: 2022-03-28 17:19:04
 tags:
-    - heroku
-    - scaling
-    - jobs
-    - background
-    - cron
-    - howto
+    - heroku-scaling-jobs-background-cron-howto
 ---
 
 

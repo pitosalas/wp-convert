@@ -3,8 +3,7 @@ title: "Why SQL is beating NoSQL, and what this means for the future of data"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - sql
-    - nisql
+    - sql-nisql
 ---
 
 

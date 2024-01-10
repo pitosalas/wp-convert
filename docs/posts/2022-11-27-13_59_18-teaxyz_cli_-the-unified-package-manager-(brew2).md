@@ -3,11 +3,7 @@ title: "teaxyz/cli: the unified package manager (brew2)"
 author: Pito Salas
 date: 2022-11-27 13:59:18
 tags:
-    - tea
-    - brew
-    - package
-    - installer
-    - explainer
+    - tea-brew-package-installer-explainer
 ---
 
 

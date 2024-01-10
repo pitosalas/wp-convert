@@ -3,12 +3,7 @@ title: "GitHub - johnkerl/miller: Miller is like awk, sed, cut, join, and sort f
 author: Pito Salas
 date: 2021-09-05 16:30:56
 tags:
-    - cli
-    - csv
-    - cooltool
-    - howto
-    - data
-    - json
+    - cli-csv-cooltool-howto-data-json
 ---
 
 

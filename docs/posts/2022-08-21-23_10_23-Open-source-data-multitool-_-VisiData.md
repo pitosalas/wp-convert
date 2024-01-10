@@ -3,10 +3,7 @@ title: "Open-source data multitool | VisiData"
 author: Pito Salas
 date: 2022-08-21 23:10:23
 tags:
-    - csv
-    - data
-    - cli
-    - cooltool
+    - csv-data-cli-cooltool
 ---
 
 

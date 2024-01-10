@@ -3,12 +3,7 @@ title: "Faster Rails: Eliminating N+1 queries - Semaphore"
 author: Pito Salas
 date: 2022-03-14 14:28:50
 tags:
-    - rails
-    - activerecord
-    - performance
-    - scale
-    - tuning
-    - n-plus-one
+    - rails-activerecord-performance-scale-tuning-n-plus-one
 ---
 
 

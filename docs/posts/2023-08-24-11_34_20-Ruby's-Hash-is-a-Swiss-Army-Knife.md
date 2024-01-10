@@ -3,10 +3,7 @@ title: "Ruby's Hash is a Swiss-Army Knife"
 author: Pito Salas
 date: 2023-08-24 11:34:20
 tags:
-    - ruby
-    - hash
-    - explainer
-    - howto
+    - ruby-hash-explainer-howto
 ---
 A nice review of all the things Ruby hashes can do and be used for.
 

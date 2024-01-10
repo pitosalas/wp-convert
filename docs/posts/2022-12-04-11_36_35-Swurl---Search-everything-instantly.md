@@ -3,12 +3,7 @@ title: "Swurl - Search everything instantly"
 author: Pito Salas
 date: 2022-12-04 11:36:35
 tags:
-    - search
-    - google
-    - instagrsm
-    - instagram
-    - limkedin
-    - linkedin
+    - search-google-instagrsm-instagram-limkedin-linkedin
 ---
 
 

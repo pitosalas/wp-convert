@@ -3,9 +3,7 @@ title: "CSS at Scale: LinkedIn’s New Open Source Projects Take on Stylesheet P
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - performance
-    - engineering
-    - css
+    - performance-engineering-css
 ---
 
 

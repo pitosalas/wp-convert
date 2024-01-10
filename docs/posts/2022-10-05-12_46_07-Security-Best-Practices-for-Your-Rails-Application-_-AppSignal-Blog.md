@@ -3,10 +3,7 @@ title: "Security Best Practices for Your Rails Application | AppSignal Blog"
 author: Pito Salas
 date: 2022-10-05 12:46:07
 tags:
-    - rails
-    - security
-    - howto
-    - hacking
+    - rails-security-howto-hacking
 ---
 
 

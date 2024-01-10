@@ -3,12 +3,7 @@ title: "Four Pricing Principles to Never Forget | Inside Intercom"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - Pricing
-    - entrepreneurship
-    - principles
-    - software
-    - services
-    - price
+    - Pricing-entrepreneurship-principles-software-services-price
 ---
 
 

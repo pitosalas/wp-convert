@@ -3,10 +3,7 @@ title: "Microsoft readies more Teams hybrid meeting features; frees up more Link
 author: Pito Salas
 date: 2021-12-18 01:15:36
 tags:
-    - msft
-    - hybrid
-    - teaching
-    - teams
+    - msft-hybrid-teaching-teams
 ---
 
 

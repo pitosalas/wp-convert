@@ -3,11 +3,7 @@ title: "Why You Should Use Data Classes in Python | Giuliano Pertile"
 author: Pito Salas
 date: 2022-09-22 11:49:46
 tags:
-    - python
-    - howto
-    - explainer
-    - data
-    - immutable
+    - python-howto-explainer-data-immutable
 ---
 
 

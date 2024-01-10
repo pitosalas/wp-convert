@@ -3,9 +3,7 @@ title: "The Testing Introduction I Wish I Had"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - learning
-    - testing
-    - tips
+    - learning-testing-tips
 ---
 
 

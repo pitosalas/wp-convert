@@ -3,10 +3,7 @@ title: "Python and TOML: New Best Friends – Real Python"
 author: Pito Salas
 date: 2022-08-13 17:37:29
 tags:
-    - toml
-    - configuration
-    - json
-    - ini
+    - toml-configuration-json-ini
 ---
 
 

@@ -3,11 +3,7 @@ title: "When to use gRPC vs GraphQL"
 author: Pito Salas
 date: 2022-12-11 13:32:12
 tags:
-    - api
-    - graphql
-    - rest
-    - grpc
-    - comparison
+    - api-graphql-rest-grpc-comparison
 ---
 
 

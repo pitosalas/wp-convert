@@ -3,13 +3,7 @@ title: "Camels and Rubber Duckies - Joel on Software"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - pricing
-    - software
-    - economics
-    - economy
-    - price
-    - startup
-    - entrepreneurship
+    - pricing-software-economics-economy-price-startup-entrepreneurship
 ---
 
 

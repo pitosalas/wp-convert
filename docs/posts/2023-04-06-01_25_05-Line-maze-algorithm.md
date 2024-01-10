@@ -3,10 +3,7 @@ title: "Line maze algorithm"
 author: Pito Salas
 date: 2023-04-06 01:25:05
 tags:
-    - robotics
-    - navigation
-    - line-following
-    - maze
+    - robotics-navigation-line-following-maze
 ---
 
 

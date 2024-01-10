@@ -3,11 +3,7 @@ title: "Polar plots with Matplotlib"
 author: Pito Salas
 date: 2022-08-16 17:21:07
 tags:
-    - matplotlib
-    - polar
-    - plot
-    - visualization
-    - howto
+    - matplotlib-polar-plot-visualization-howto
 ---
 
 

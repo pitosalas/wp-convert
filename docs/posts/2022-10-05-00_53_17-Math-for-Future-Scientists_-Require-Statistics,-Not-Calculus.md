@@ -3,12 +3,7 @@ title: "Math for Future Scientists: Require Statistics, Not Calculus"
 author: Pito Salas
 date: 2022-10-05 00:53:17
 tags:
-    - calculus
-    - statistics
-    - mathematics
-    - education
-    - highschool
-    - higher-education
+    - calculus-statistics-mathematics-education-highschool-higher-education
 ---
 
 

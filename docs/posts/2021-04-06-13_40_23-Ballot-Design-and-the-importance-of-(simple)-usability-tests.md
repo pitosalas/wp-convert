@@ -3,9 +3,7 @@ title: "Ballot Design and the importance of (simple) usability tests"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - voting
-    - ballots
-    - design
+    - voting-ballots-design
 ---
 
 

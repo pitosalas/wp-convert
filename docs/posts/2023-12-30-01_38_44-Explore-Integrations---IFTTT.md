@@ -3,8 +3,7 @@ title: "Explore Integrations - IFTTT"
 author: Pito Salas
 date: 2023-12-30 01:38:44
 tags:
-    - test
-    - tag
+    - test-tag
 ---
 This is the note that I added
 

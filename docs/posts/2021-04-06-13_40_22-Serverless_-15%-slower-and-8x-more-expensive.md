@@ -3,11 +3,7 @@ title: "Serverless: 15% slower and 8x more expensive"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - lambda
-    - serverless
-    - cost
-    - scale
-    - patterns
+    - lambda-serverless-cost-scale-patterns
 ---
 
 

@@ -3,11 +3,7 @@ title: "GPS – Bartosz Ciechanowski"
 author: Pito Salas
 date: 2022-12-27 12:23:40
 tags:
-    - gps
-    - satelites
-    - technology
-    - explainer
-    - localization
+    - gps-satelites-technology-explainer-localization
 ---
 
 

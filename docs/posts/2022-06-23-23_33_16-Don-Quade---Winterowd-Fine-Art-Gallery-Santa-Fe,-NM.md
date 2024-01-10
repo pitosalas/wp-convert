@@ -3,8 +3,7 @@ title: "Don Quade - Winterowd Fine Art Gallery Santa Fe, NM"
 author: Pito Salas
 date: 2022-06-23 23:33:16
 tags:
-    - art
-    - paintings
+    - art-paintings
 ---
 
 

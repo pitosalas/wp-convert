@@ -3,10 +3,7 @@ title: "Churn, Retention, and Reengaging Customers"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - customers
-    - churnrate
-    - revenue
-    - customerlifetimevalue
+    - customers-churnrate-revenue-customerlifetimevalue
 ---
 
 

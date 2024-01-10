@@ -3,12 +3,7 @@ title: "Free Interactive 3D Model for Drawing Figures, Dynamic Poses, and More -
 author: Pito Salas
 date: 2021-10-31 12:21:02
 tags:
-    - design
-    - art
-    - sketch
-    - human
-    - figure
-    - pose
+    - design-art-sketch-human-figure-pose
 ---
 
 

@@ -3,11 +3,7 @@ title: "New in Git: switch and restore"
 author: Pito Salas
 date: 2021-08-08 12:47:36
 tags:
-    - git
-    - github
-    - checkout
-    - new-feature
-    - howto
+    - git-github-checkout-new-feature-howto
 ---
 
 

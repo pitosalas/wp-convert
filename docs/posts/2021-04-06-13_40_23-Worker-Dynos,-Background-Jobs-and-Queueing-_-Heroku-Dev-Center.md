@@ -3,11 +3,7 @@ title: "Worker Dynos, Background Jobs and Queueing | Heroku Dev Center"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - heroku
-    - background-processing
-    - performance
-    - scaling
-    - howto
+    - heroku-background-processing-performance-scaling-howto
 ---
 
 

@@ -3,11 +3,7 @@ title: "Ask Guy Kawasaki Anything"
 author: Pito Salas
 date: 2023-11-12 11:24:46
 tags:
-    - gpt
-    - guy-kawasaki
-    - cooltool
-    - chat
-    - bot
+    - gpt-guy-kawasaki-cooltool-chat-bot
 ---
 
 

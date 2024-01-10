@@ -3,11 +3,7 @@ title: "How to setup a virtual desktop on Kubernetes in 15 minutes"
 author: Pito Salas
 date: 2022-07-03 02:01:59
 tags:
-    - k3s
-    - vnc
-    - howto
-    - kubernetes
-    - cluster
+    - k3s-vnc-howto-kubernetes-cluster
 ---
 
 

@@ -3,9 +3,7 @@ title: "Why skyscrapers are so short - Works in Progress"
 author: Pito Salas
 date: 2022-01-23 13:44:30
 tags:
-    - sky-scrapers
-    - elevators
-    - building
+    - sky-scrapers-elevators-building
 ---
 
 

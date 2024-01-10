@@ -3,11 +3,7 @@ title: "SSH Tips and Tricks | Carlos Becker"
 author: Pito Salas
 date: 2022-08-21 14:18:06
 tags:
-    - ssh
-    - tips
-    - shortcuts
-    - config
-    - howto
+    - ssh-tips-shortcuts-config-howto
 ---
 
 

@@ -3,10 +3,7 @@ title: "llm, ttok and strip-tags—CLI tools for working with ChatGPT and other 
 author: Pito Salas
 date: 2023-06-26 12:17:21
 tags:
-    - ChatGPT
-    - cli
-    - pipes
-    - cooltool
+    - ChatGPT-cli-pipes-cooltool
 ---
 For someone like me who is using chatGPT and friends all day long for work. This tool provides intriguing possibilities
 

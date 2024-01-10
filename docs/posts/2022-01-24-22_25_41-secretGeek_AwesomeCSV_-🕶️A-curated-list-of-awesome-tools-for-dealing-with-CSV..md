@@ -3,9 +3,7 @@ title: "secretGeek/AwesomeCSV: 🕶️A curated list of awesome tools for dealin
 author: Pito Salas
 date: 2022-01-24 22:25:41
 tags:
-    - csv
-    - tools
-    - howto
+    - csv-tools-howto
 ---
 
 

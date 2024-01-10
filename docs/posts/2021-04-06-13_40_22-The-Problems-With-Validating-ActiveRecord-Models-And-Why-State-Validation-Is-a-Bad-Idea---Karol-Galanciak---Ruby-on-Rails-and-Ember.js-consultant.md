@@ -3,10 +3,7 @@ title: "The Problems With Validating ActiveRecord Models And Why State Validatio
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - models
-    - validation
-    - activerecord
-    - ruby
+    - models-validation-activerecord-ruby
 ---
 
 

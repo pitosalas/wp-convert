@@ -3,9 +3,7 @@ title: "PyRobot: An Open Source Robotics Research Platform"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - robotics
-    - python
-    - ros
+    - robotics-python-ros
 ---
 
 

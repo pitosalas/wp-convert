@@ -3,10 +3,7 @@ title: "Bottlenecks of Scaleups"
 author: Pito Salas
 date: 2022-12-27 12:21:36
 tags:
-    - software-engineering
-    - thoughtworks
-    - scaling
-    - process
+    - software-engineering-thoughtworks-scaling-process
 ---
 
 

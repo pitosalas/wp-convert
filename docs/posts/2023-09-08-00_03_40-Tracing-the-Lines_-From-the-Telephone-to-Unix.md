@@ -3,9 +3,7 @@ title: "Tracing the Lines: From the Telephone to Unix"
 author: Pito Salas
 date: 2023-09-08 00:03:40
 tags:
-    - history
-    - unix
-    - pdp-11
+    - history-unix-pdp-11
 ---
 Great history about Unix!
 

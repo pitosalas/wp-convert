@@ -3,13 +3,7 @@ title: "Rails initializers you don't know about - Inflections"
 author: Pito Salas
 date: 2023-02-17 12:53:36
 tags:
-    - rails
-    - ruby
-    - ruby-on-rails
-    - initializers
-    - inflections
-    - fun
-    - explainer
+    - rails-ruby-ruby-on-rails-initializers-inflections-fun-explainer
 ---
 
 

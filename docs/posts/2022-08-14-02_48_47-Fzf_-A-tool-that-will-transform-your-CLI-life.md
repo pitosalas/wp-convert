@@ -3,10 +3,7 @@ title: "Fzf: A tool that will transform your CLI life"
 author: Pito Salas
 date: 2022-08-14 02:48:47
 tags:
-    - cli
-    - tool
-    - files
-    - search
+    - cli-tool-files-search
 ---
 
 

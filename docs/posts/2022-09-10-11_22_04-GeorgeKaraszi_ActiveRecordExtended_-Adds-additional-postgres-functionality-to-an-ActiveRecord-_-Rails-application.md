@@ -3,11 +3,7 @@ title: "GeorgeKaraszi/ActiveRecordExtended: Adds additional postgres functionali
 author: Pito Salas
 date: 2022-09-10 11:22:04
 tags:
-    - activerecord
-    - database
-    - postgres
-    - advanced
-    - gem
+    - activerecord-database-postgres-advanced-gem
 ---
 
 

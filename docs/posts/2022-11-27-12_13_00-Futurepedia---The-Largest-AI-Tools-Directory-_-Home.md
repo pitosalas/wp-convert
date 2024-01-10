@@ -3,9 +3,7 @@ title: "Futurepedia - The Largest AI Tools Directory | Home"
 author: Pito Salas
 date: 2022-11-27 12:13:00
 tags:
-    - photo
-    - ai
-    - converter
+    - photo-ai-converter
 ---
 
 

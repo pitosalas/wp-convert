@@ -3,10 +3,7 @@ title: "Facade Pattern in Rails for Performance and Maintainability | AppSignal 
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - howto
-    - pattern
-    - rails
-    - facade
+    - howto-pattern-rails-facade
 ---
 
 

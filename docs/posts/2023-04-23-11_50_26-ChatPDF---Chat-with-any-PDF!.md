@@ -3,10 +3,7 @@ title: "ChatPDF - Chat with any PDF!"
 author: Pito Salas
 date: 2023-04-23 11:50:26
 tags:
-    - ChatGPT
-    - pdf
-    - summarize
-    - summary
+    - ChatGPT-pdf-summarize-summary
 ---
 
 

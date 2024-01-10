@@ -3,10 +3,7 @@ title: "PID controller | Wikiwand"
 author: Pito Salas
 date: 2022-08-10 13:48:41
 tags:
-    - pid
-    - control
-    - robotics
-    - explainer
+    - pid-control-robotics-explainer
 ---
 
 

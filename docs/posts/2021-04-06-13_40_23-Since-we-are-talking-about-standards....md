@@ -3,9 +3,7 @@ title: "Since we are talking about standards..."
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - elections
-    - ttv
-    - osdv
+    - elections-ttv-osdv
 ---
 
 

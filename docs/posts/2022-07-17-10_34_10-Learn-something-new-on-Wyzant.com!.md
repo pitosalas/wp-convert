@@ -3,13 +3,7 @@ title: "Learn something new on Wyzant.com!"
 author: Pito Salas
 date: 2022-07-17 10:34:10
 tags:
-    - learn
-    - study
-    - tutor
-    - cooltool
-    - linear-algebra
-    - math
-    - statistics
+    - learn-study-tutor-cooltool-linear-algebra-math-statistics
 ---
 
 

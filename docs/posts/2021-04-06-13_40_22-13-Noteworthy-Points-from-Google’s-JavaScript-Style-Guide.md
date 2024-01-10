@@ -3,9 +3,7 @@ title: "13 Noteworthy Points from Google’s JavaScript Style Guide"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - code
-    - styles
-    - javascript
+    - code-styles-javascript
 ---
 
 

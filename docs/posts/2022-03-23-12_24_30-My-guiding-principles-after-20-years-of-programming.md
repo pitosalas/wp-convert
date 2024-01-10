@@ -3,10 +3,7 @@ title: "My guiding principles after 20 years of programming"
 author: Pito Salas
 date: 2022-03-23 12:24:30
 tags:
-    - software-engineering
-    - rules-of-thumb
-    - best-practices
-    - programming
+    - software-engineering-rules-of-thumb-best-practices-programming
 ---
 
 

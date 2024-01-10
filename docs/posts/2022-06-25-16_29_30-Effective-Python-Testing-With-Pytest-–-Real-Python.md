@@ -3,10 +3,7 @@ title: "Effective Python Testing With Pytest – Real Python"
 author: Pito Salas
 date: 2022-06-25 16:29:30
 tags:
-    - testing
-    - python
-    - pytest
-    - howto
+    - testing-python-pytest-howto
 ---
 
 

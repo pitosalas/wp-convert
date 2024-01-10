@@ -3,10 +3,7 @@ title: "Sinatra Forms Params - Learn.co"
 author: Pito Salas
 date: 2022-03-10 12:45:47
 tags:
-    - sinatra
-    - forms
-    - example
-    - tutorial
+    - sinatra-forms-example-tutorial
 ---
 
 

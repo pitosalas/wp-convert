@@ -3,10 +3,7 @@ title: "From Rails to Clojure, then to Java, then back to Rails - Engineering Ma
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - java
-    - clojure
-    - engineering
-    - rails
+    - java-clojure-engineering-rails
 ---
 
 

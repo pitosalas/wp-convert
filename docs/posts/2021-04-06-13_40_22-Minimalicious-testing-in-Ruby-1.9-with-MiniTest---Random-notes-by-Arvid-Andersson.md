@@ -3,8 +3,7 @@ title: "Minimalicious testing in Ruby 1.9 with MiniTest - Random notes by Arvid 
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - Software
-    - Engineering
+    - Software-Engineering
 ---
 
 

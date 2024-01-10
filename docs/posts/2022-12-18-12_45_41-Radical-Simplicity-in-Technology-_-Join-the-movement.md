@@ -3,12 +3,7 @@ title: "Radical Simplicity in Technology | Join the movement"
 author: Pito Salas
 date: 2022-12-18 12:45:41
 tags:
-    - architecture
-    - rails
-    - postgres
-    - simplify
-    - yagni
-    - insights
+    - architecture-rails-postgres-simplify-yagni-insights
 ---
 
 

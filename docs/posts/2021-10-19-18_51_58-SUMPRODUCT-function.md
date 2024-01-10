@@ -3,16 +3,7 @@ title: "SUMPRODUCT function"
 author: Pito Salas
 date: 2021-10-19 18:51:58
 tags:
-    - excel
-    - formula
-    - sheets
-    - google
-    - arrays
-    - sumproduct
-    - functions
-    - callbacks
-    - promises
-    - JavaScript
+    - excel-formula-sheets-google-arrays-sumproduct-functions-callbacks-promises-JavaScript
 ---
 
 

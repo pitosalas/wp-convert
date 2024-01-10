@@ -3,10 +3,7 @@ title: "Netplan network configuration tutorial for beginners - LinuxConfig.org"
 author: Pito Salas
 date: 2021-06-04 14:25:57
 tags:
-    - network
-    - ubuntu
-    - netplan
-    - howto
+    - network-ubuntu-netplan-howto
 ---
 
 

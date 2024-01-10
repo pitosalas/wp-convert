@@ -3,11 +3,7 @@ title: "The Ruby on Rails SaaS Template | Bullet Train"
 author: Pito Salas
 date: 2023-04-25 15:11:10
 tags:
-    - rails
-    - template
-    - agile
-    - framework
-    - ruby
+    - rails-template-agile-framework-ruby
 ---
 
 

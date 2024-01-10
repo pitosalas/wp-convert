@@ -3,10 +3,7 @@ title: "Simple sabotage field manual"
 author: Pito Salas
 date: 2023-01-22 12:28:30
 tags:
-    - sabotage
-    - cia
-    - explainer
-    - history
+    - sabotage-cia-explainer-history
 ---
 
 

@@ -3,9 +3,7 @@ title: "Freezing Python’s Dependency Hell in 2018 – tech-at-instacart"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - dependency
-    - python
-    - management
+    - dependency-python-management
 ---
 
 

@@ -3,13 +3,7 @@ title: "Scaling relational SQL databases"
 author: Pito Salas
 date: 2021-06-21 02:31:45
 tags:
-    - sql
-    - scalability
-    - performance
-    - howto
-    - relational
-    - db
-    - database
+    - sql-scalability-performance-howto-relational-db-database
 ---
 
 

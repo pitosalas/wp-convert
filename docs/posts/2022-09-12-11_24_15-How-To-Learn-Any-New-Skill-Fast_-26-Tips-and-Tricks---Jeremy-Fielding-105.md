@@ -3,9 +3,7 @@ title: "How To Learn Any New Skill Fast: 26 Tips and Tricks - Jeremy Fielding 10
 author: Pito Salas
 date: 2022-09-12 11:24:15
 tags:
-    - learn
-    - learning
-    - skills
+    - learn-learning-skills
 ---
 
 

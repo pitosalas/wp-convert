@@ -3,12 +3,7 @@ title: "Concerns in Rails: Everything You Need to Know"
 author: Pito Salas
 date: 2023-06-01 19:27:29
 tags:
-    - rails
-    - object-oriented-prpgramming
-    - oop
-    - concerns
-    - ruby
-    - modules
+    - rails-object-oriented-prpgramming-oop-concerns-ruby-modules
 ---
 
 

@@ -3,10 +3,7 @@ title: "CutList Optimizer"
 author: Pito Salas
 date: 2023-11-26 00:05:43
 tags:
-    - woodworking
-    - cutting
-    - saw
-    - plywood
+    - woodworking-cutting-saw-plywood
 ---
 Esoteric but very handy in woodworkling!
 

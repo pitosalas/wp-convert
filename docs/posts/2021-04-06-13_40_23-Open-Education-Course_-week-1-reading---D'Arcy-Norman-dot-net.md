@@ -3,9 +3,7 @@ title: "Open Education Course: week 1 reading - D'Arcy Norman dot net"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - daulist
-    - education2.0
-    - education
+    - daulist-education20-education
 ---
 
 

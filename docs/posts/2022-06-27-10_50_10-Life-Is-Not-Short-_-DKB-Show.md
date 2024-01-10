@@ -3,9 +3,7 @@ title: "Life Is Not Short | DKB Show"
 author: Pito Salas
 date: 2022-06-27 10:50:10
 tags:
-    - philosophy
-    - stoic
-    - life
+    - philosophy-stoic-life
 ---
 
 

@@ -3,9 +3,7 @@ title: "Blinksale | The easiest way to send invoices online"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - invoices
-    - howto
-    - lockin
+    - invoices-howto-lockin
 ---
 
 

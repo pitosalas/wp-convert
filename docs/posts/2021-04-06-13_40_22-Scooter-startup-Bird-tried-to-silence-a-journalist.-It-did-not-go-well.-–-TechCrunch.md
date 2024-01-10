@@ -3,11 +3,7 @@ title: "Scooter startup Bird tried to silence a journalist. It did not go well. 
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - ip
-    - hacking
-    - bird
-    - scooter
-    - ebay
+    - ip-hacking-bird-scooter-ebay
 ---
 
 

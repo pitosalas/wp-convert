@@ -3,12 +3,7 @@ title: "5 Useful jq Commands to Parse JSON on the CLI"
 author: Pito Salas
 date: 2021-08-20 15:00:30
 tags:
-    - jq
-    - howto
-    - json
-    - cli
-    - tools
-    - cooltool
+    - jq-howto-json-cli-tools-cooltool
 ---
 
 

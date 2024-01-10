@@ -3,10 +3,7 @@ title: "How to use an MPU9250 Accelerometer and Gyroscope With Arduino - Latest 
 author: Pito Salas
 date: 2022-01-13 01:10:01
 tags:
-    - robotics
-    - imu
-    - 9250
-    - explainer
+    - robotics-imu-9250-explainer
 ---
 
 

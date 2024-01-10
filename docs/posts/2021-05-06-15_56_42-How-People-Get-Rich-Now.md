@@ -3,11 +3,7 @@ title: "How People Get Rich Now"
 author: Pito Salas
 date: 2021-05-06 15:56:42
 tags:
-    - paulgraham
-    - rich
-    - essay
-    - money
-    - interesting
+    - paulgraham-rich-essay-money-interesting
 ---
 
 

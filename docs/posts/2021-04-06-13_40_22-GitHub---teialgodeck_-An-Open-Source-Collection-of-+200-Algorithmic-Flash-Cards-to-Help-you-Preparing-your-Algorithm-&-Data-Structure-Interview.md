@@ -3,10 +3,7 @@ title: "GitHub - teialgodeck: An Open-Source Collection of +200 Algorithmic Flas
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - cheatsheet
-    - howto
-    - algorithms
-    - interview
+    - cheatsheet-howto-algorithms-interview
 ---
 
 

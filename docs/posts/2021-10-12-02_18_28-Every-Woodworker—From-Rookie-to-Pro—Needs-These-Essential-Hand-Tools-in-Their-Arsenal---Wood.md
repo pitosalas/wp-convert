@@ -3,9 +3,7 @@ title: "Every Woodworker—From Rookie to Pro—Needs These Essential Hand Tools
 author: Pito Salas
 date: 2021-10-12 02:18:28
 tags:
-    - carpentry
-    - wood
-    - tools
+    - carpentry-wood-tools
 ---
 
 

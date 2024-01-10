@@ -3,9 +3,7 @@ title: "High speed balancing robot: introduction - Elexperiment.nl"
 author: Pito Salas
 date: 2022-01-07 23:17:21
 tags:
-    - howto
-    - balancing
-    - robotics
+    - howto-balancing-robotics
 ---
 
 

@@ -3,9 +3,7 @@ title: "k8s vs k3s: The Comprehensive Difference"
 author: Pito Salas
 date: 2022-07-02 20:19:25
 tags:
-    - medium
-    - k3s
-    - kubernetes
+    - medium-k3s-kubernetes
 ---
 
 

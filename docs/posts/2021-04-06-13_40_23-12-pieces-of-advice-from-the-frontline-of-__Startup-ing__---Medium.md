@@ -3,9 +3,7 @@ title: "12 pieces of advice from the frontline of \"Startup-ing\" - Medium"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - entrepreneurs
-    - entrepreneurship
-    - startup
+    - entrepreneurs-entrepreneurship-startup
 ---
 
 

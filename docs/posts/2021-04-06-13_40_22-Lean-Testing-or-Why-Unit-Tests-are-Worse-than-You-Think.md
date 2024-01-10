@@ -3,9 +3,7 @@ title: "Lean Testing or Why Unit Tests are Worse than You Think"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - testing
-    - unittest
-    - tdd
+    - testing-unittest-tdd
 ---
 
 

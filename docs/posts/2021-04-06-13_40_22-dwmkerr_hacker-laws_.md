@@ -3,10 +3,7 @@ title: "dwmkerr/hacker-laws:"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - laws
-    - principles
-    - theories
-    - patterns
+    - laws-principles-theories-patterns
 ---
 
 

@@ -3,10 +3,7 @@ title: "Robotics Lab @ Brandeis"
 author: Pito Salas
 date: 2022-12-05 02:01:57
 tags:
-    - brandeis
-    - robotics
-    - lab
-    - information
+    - brandeis-robotics-lab-information
 ---
 
 

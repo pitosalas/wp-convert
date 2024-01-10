@@ -3,10 +3,7 @@ title: "The Hundred-Year Programming Language"
 author: Pito Salas
 date: 2022-10-02 18:01:41
 tags:
-    - programming-language
-    - history
-    - cobol
-    - research
+    - programming-language-history-cobol-research
 ---
 
 

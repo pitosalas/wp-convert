@@ -3,10 +3,7 @@ title: "10 Awesome Modern Unix Command-Line Tools"
 author: Pito Salas
 date: 2022-08-09 18:48:23
 tags:
-    - unix
-    - cli
-    - cooltool
-    - howto
+    - unix-cli-cooltool-howto
 ---
 
 

@@ -3,13 +3,7 @@ title: "Learning Rust with ChatGPT, Copilot and Advent of Code"
 author: Pito Salas
 date: 2022-12-07 12:03:31
 tags:
-    - ChatGPT
-    - learning
-    - ethics
-    - rust
-    - advent-of-code
-    - explainer
-    - ai
+    - ChatGPT-learning-ethics-rust-advent-of-code-explainer-ai
 ---
 
 

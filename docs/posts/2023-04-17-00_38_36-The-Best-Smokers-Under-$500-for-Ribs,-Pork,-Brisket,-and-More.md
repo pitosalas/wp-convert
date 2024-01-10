@@ -3,9 +3,7 @@ title: "The Best Smokers Under $500 for Ribs, Pork, Brisket, and More"
 author: Pito Salas
 date: 2023-04-17 00:38:36
 tags:
-    - smoker
-    - propane-gas
-    - reviews
+    - smoker-propane-gas-reviews
 ---
 
 

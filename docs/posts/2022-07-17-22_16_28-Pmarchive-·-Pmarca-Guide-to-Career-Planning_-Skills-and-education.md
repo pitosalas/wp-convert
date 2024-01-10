@@ -3,16 +3,7 @@ title: "Pmarchive · Pmarca Guide to Career Planning: Skills and education"
 author: Pito Salas
 date: 2022-07-17 22:16:28
 tags:
-    - pmarca
-    - advice
-    - career
-    - strategy
-    - howto
-    - blog
-    - opinion
-    - college
-    - education
-    - education2.0
+    - pmarca-advice-career-strategy-howto-blog-opinion-college-education-education20
 ---
 
 

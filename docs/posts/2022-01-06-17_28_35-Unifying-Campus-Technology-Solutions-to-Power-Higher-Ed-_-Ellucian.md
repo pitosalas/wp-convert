@@ -3,9 +3,7 @@ title: "Unifying Campus Technology Solutions to Power Higher Ed | Ellucian"
 author: Pito Salas
 date: 2022-01-06 17:28:35
 tags:
-    - education
-    - software
-    - otp
+    - education-software-otp
 ---
 
 

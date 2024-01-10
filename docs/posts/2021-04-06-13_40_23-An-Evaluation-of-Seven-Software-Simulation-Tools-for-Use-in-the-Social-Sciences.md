@@ -3,8 +3,6 @@ title: "An Evaluation of Seven Software Simulation Tools for Use in the Social S
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - simulation
-    - software
-    - Weather
+    - simulation-software-Weather
 ---
 

@@ -3,12 +3,7 @@ title: "How to draw towns and cities for fantasy maps | The Kid Should See This"
 author: Pito Salas
 date: 2023-03-15 11:07:48
 tags:
-    - art
-    - games
-    - maps
-    - map
-    - drawing
-    - design
+    - art-games-maps-map-drawing-design
 ---
 
 

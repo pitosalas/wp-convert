@@ -3,12 +3,7 @@ title: "Remove Background From Images For Free – Erase.bg"
 author: Pito Salas
 date: 2021-11-22 18:40:55
 tags:
-    - image
-    - processing
-    - manipulation
-    - background
-    - free
-    - photo
+    - image-processing-manipulation-background-free-photo
 ---
 
 

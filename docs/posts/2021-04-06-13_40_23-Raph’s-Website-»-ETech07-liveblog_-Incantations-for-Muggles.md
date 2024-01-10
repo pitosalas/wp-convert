@@ -3,9 +3,7 @@ title: "Raph’s Website » ETech07 liveblog: Incantations for Muggles"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - printout
-    - danahboyd
-    - muggles
+    - printout-danahboyd-muggles
 ---
 
 

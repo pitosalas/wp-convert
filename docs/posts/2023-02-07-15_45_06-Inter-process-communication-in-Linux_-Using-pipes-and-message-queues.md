@@ -3,10 +3,7 @@ title: "Inter-process communication in Linux: Using pipes and message queues"
 author: Pito Salas
 date: 2023-02-07 15:45:06
 tags:
-    - unix
-    - message-queues
-    - howto
-    - explainer
+    - unix-message-queues-howto-explainer
 ---
 
 

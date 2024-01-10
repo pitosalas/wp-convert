@@ -3,9 +3,7 @@ title: "Stop Using the Git CLI"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - cli
-    - howto
-    - git
+    - cli-howto-git
 ---
 
 

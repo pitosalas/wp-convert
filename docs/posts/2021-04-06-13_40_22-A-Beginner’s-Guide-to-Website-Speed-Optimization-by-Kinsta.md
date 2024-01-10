@@ -3,8 +3,7 @@ title: "A Beginner’s Guide to Website Speed Optimization by Kinsta"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - Software
-    - Engineering
+    - Software-Engineering
 ---
 
 

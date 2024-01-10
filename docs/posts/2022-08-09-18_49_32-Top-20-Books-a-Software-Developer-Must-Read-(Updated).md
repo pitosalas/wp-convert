@@ -3,9 +3,7 @@ title: "Top 20 Books a Software Developer Must Read (Updated)"
 author: Pito Salas
 date: 2022-08-09 18:49:32
 tags:
-    - books
-    - software-engineering
-    - cooltool
+    - books-software-engineering-cooltool
 ---
 
 

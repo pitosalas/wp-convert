@@ -3,9 +3,7 @@ title: "Russian doll caching in Rails | AppSignal Blog"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - ruby
-    - rails
-    - caching
+    - ruby-rails-caching
 ---
 
 

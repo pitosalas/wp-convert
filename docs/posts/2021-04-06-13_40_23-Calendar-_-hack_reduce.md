@@ -3,9 +3,7 @@ title: "Calendar | hack/reduce"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - nonprofit
-    - pr
-    - hack
+    - nonprofit-pr-hack
 ---
 
 

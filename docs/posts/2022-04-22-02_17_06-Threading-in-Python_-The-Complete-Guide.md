@@ -3,11 +3,7 @@ title: "Threading in Python: The Complete Guide"
 author: Pito Salas
 date: 2022-04-22 02:17:06
 tags:
-    - python
-    - tutorial
-    - threads
-    - concurrency
-    - processing
+    - python-tutorial-threads-concurrency-processing
 ---
 
 

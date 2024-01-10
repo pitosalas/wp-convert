@@ -3,10 +3,7 @@ title: "Raspberry Pi Boot Process"
 author: Pito Salas
 date: 2021-06-03 17:09:38
 tags:
-    - boot
-    - pi
-    - raspi
-    - description
+    - boot-pi-raspi-description
 ---
 
 

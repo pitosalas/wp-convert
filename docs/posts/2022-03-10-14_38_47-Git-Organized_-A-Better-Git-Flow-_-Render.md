@@ -3,11 +3,7 @@ title: "Git Organized: A Better Git Flow | Render"
 author: Pito Salas
 date: 2022-03-10 14:38:47
 tags:
-    - git
-    - workflow
-    - howto
-    - tutorial
-    - advanced
+    - git-workflow-howto-tutorial-advanced
 ---
 
 

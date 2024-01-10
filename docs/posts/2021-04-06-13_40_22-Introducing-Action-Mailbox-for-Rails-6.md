@@ -3,9 +3,7 @@ title: "Introducing Action Mailbox for Rails 6"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - rails
-    - email
-    - actionmailbox
+    - rails-email-actionmailbox
 ---
 
 

@@ -3,12 +3,7 @@ title: "Git Timeline Generator | Preceden"
 author: Pito Salas
 date: 2022-06-05 14:41:10
 tags:
-    - git
-    - visualization
-    - commits
-    - free
-    - tool
-    - howto
+    - git-visualization-commits-free-tool-howto
 ---
 
 

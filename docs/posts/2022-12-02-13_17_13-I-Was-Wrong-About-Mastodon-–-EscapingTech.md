@@ -3,11 +3,7 @@ title: "I Was Wrong About Mastodon – EscapingTech"
 author: Pito Salas
 date: 2022-12-02 13:17:13
 tags:
-    - mastodon
-    - moderation
-    - fediverse
-    - federated
-    - explainer
+    - mastodon-moderation-fediverse-federated-explainer
 ---
 
 

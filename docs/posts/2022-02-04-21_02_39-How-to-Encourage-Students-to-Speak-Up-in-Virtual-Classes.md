@@ -3,12 +3,7 @@ title: "How to Encourage Students to Speak Up in Virtual Classes"
 author: Pito Salas
 date: 2022-02-04 21:02:39
 tags:
-    - otp
-    - participation
-    - howto
-    - teaching
-    - zoom
-    - meetings
+    - otp-participation-howto-teaching-zoom-meetings
 ---
 
 

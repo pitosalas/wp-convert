@@ -3,12 +3,7 @@ title: "How HC-SR04 Ultrasonic Sensor Works & How to Interface It With Arduino"
 author: Pito Salas
 date: 2022-12-23 19:16:15
 tags:
-    - robotics
-    - ultrasonic
-    - hc-s304
-    - arduino
-    - teensy
-    - howto
+    - robotics-ultrasonic-hc-s304-arduino-teensy-howto
 ---
 
 

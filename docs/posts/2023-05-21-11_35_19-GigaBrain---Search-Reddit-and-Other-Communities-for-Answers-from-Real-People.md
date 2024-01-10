@@ -3,10 +3,7 @@ title: "GigaBrain - Search Reddit and Other Communities for Answers from Real Pe
 author: Pito Salas
 date: 2023-05-21 11:35:19
 tags:
-    - shopping
-    - search
-    - reddit
-    - cooltool
+    - shopping-search-reddit-cooltool
 ---
 
 

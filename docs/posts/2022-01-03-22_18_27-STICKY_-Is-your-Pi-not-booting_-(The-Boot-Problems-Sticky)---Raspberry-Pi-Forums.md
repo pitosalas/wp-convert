@@ -3,9 +3,7 @@ title: "STICKY: Is your Pi not booting? (The Boot Problems Sticky) - Raspberry P
 author: Pito Salas
 date: 2022-01-03 22:18:27
 tags:
-    - raspi
-    - trouble-shooting
-    - boot
+    - raspi-trouble-shooting-boot
 ---
 
 

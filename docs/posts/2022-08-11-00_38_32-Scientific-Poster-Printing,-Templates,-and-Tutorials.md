@@ -3,11 +3,7 @@ title: "Scientific Poster Printing, Templates, and Tutorials"
 author: Pito Salas
 date: 2022-08-11 00:38:32
 tags:
-    - print
-    - poster
-    - academic
-    - large
-    - service
+    - print-poster-academic-large-service
 ---
 
 

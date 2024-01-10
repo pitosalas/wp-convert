@@ -3,11 +3,7 @@ title: "a list of open source alternatives to google internal tools."
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - tools
-    - google
-    - services
-    - howto
-    - list
+    - tools-google-services-howto-list
 ---
 
 

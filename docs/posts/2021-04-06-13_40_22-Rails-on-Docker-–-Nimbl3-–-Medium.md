@@ -3,9 +3,7 @@ title: "Rails on Docker – Nimbl3 – Medium"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - Rails
-    - docker
-    - deployment
+    - Rails-docker-deployment
 ---
 
 

@@ -3,8 +3,7 @@ title: "Quick and Dirty Data Analysis with Pandas"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - data-analysis
-    - pandas
+    - data-analysis-pandas
 ---
 
 

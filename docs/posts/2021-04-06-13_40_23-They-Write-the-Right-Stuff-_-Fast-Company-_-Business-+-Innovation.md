@@ -3,10 +3,7 @@ title: "They Write the Right Stuff | Fast Company | Business + Innovation"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - software
-    - failures
-    - errors
-    - testing
+    - software-failures-errors-testing
 ---
 
 

@@ -3,11 +3,7 @@ title: "MicroK8s - Zero-ops Kubernetes for developers, edge and IoT | MicroK8s"
 author: Pito Salas
 date: 2021-08-01 17:54:21
 tags:
-    - kubernetes
-    - scale
-    - micro
-    - k8s
-    - howto
+    - kubernetes-scale-micro-k8s-howto
 ---
 
 

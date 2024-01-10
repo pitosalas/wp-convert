@@ -3,10 +3,7 @@ title: "The What, the Why, and the How of Bloom Filter - The Lean Software Bouti
 author: Pito Salas
 date: 2022-09-10 11:24:02
 tags:
-    - bloom-filter
-    - algorithm
-    - howto
-    - set
+    - bloom-filter-algorithm-howto-set
 ---
 
 

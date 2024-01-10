@@ -3,10 +3,7 @@ title: "aruco/tutorials/aruco_detection/aruco_detection.markdown · 54e1b98ed694
 author: Pito Salas
 date: 2022-03-26 17:45:28
 tags:
-    - fiducial
-    - aruco
-    - aruco-detect
-    - howto
+    - fiducial-aruco-aruco-detect-howto
 ---
 
 

@@ -3,9 +3,7 @@ title: "The Role of Color in UX"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - emotions
-    - color
-    - UX
+    - emotions-color-UX
 ---
 
 

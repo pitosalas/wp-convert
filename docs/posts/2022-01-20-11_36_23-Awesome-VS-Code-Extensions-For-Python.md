@@ -3,10 +3,7 @@ title: "Awesome VS Code Extensions For Python"
 author: Pito Salas
 date: 2022-01-20 11:36:23
 tags:
-    - python
-    - vscose
-    - howto
-    - extensions
+    - python-vscose-howto-extensions
 ---
 
 

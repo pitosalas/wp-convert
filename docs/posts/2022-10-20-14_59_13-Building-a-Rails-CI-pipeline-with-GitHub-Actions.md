@@ -3,10 +3,7 @@ title: "Building a Rails CI pipeline with GitHub Actions"
 author: Pito Salas
 date: 2022-10-20 14:59:13
 tags:
-    - github-actions
-    - ci
-    - github
-    - heroku
+    - github-actions-ci-github-heroku
 ---
 
 

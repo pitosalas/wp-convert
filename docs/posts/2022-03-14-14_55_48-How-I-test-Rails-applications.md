@@ -3,10 +3,7 @@ title: "How I test Rails applications"
 author: Pito Salas
 date: 2022-03-14 14:55:48
 tags:
-    - rails
-    - testing
-    - tdd
-    - howto
+    - rails-testing-tdd-howto
 ---
 
 

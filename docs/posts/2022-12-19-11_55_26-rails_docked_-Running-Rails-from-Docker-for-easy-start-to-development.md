@@ -3,10 +3,7 @@ title: "rails/docked: Running Rails from Docker for easy start to development"
 author: Pito Salas
 date: 2022-12-19 11:55:26
 tags:
-    - rails
-    - docker
-    - tool
-    - cooltool
+    - rails-docker-tool-cooltool
 ---
 
 

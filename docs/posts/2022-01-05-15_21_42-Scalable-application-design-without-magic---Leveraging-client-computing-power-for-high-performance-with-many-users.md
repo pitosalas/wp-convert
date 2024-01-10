@@ -3,11 +3,7 @@ title: "Scalable application design without magic - Leveraging client computing 
 author: Pito Salas
 date: 2022-01-05 15:21:42
 tags:
-    - cloud
-    - howto
-    - scaling
-    - scale
-    - youre-not-google
+    - cloud-howto-scaling-scale-youre-not-google
 ---
 
 

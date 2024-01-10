@@ -3,10 +3,7 @@ title: "FEEDZY RSS Feeds #1 WordPress RSS Feed Plugin @ ThemeIsle"
 author: Pito Salas
 date: 2022-06-26 15:05:20
 tags:
-    - wordpress
-    - plugin
-    - rss
-    - feed
+    - wordpress-plugin-rss-feed
 ---
 
 

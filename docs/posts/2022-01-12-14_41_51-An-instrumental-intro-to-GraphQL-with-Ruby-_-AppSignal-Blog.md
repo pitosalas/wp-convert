@@ -3,10 +3,7 @@ title: "An instrumental intro to GraphQL with Ruby | AppSignal Blog"
 author: Pito Salas
 date: 2022-01-12 14:41:51
 tags:
-    - cosi105
-    - graphql
-    - howto
-    - ruby
+    - cosi105-graphql-howto-ruby
 ---
 
 

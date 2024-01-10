@@ -3,13 +3,7 @@ title: "HuskyLens – An AI Camera: Click, Learn, and Play | Vision Sensor | DFR
 author: Pito Salas
 date: 2022-06-12 00:01:06
 tags:
-    - robotics
-    - computer-vision
-    - ai
-    - camera
-    - ai
-    - camera
-    - huskylens
+    - robotics-computer-vision-ai-camera-ai-camera-huskylens
 ---
 
 

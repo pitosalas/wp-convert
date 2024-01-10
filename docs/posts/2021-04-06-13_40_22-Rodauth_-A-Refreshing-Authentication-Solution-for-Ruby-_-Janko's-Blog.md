@@ -3,10 +3,7 @@ title: "Rodauth: A Refreshing Authentication Solution for Ruby | Janko's Blog"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - howto
-    - roda
-    - authentication
-    - ruby
+    - howto-roda-authentication-ruby
 ---
 
 

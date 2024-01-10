@@ -3,10 +3,7 @@ title: "Introduction to Pattern Matching in Ruby"
 author: Pito Salas
 date: 2021-10-13 18:49:15
 tags:
-    - ruby
-    - pattern
-    - features
-    - pattern-matching
+    - ruby-pattern-features-pattern-matching
 ---
 
 

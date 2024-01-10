@@ -3,12 +3,7 @@ title: "Use Postgres for everything!"
 author: Pito Salas
 date: 2022-12-18 12:49:00
 tags:
-    - architecture
-    - simplify
-    - postgres
-    - insights
-    - yagni
-    - redis
+    - architecture-simplify-postgres-insights-yagni-redis
 ---
 
 

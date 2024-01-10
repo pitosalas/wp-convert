@@ -3,10 +3,7 @@ title: "Brandeis topo map done by Anthro Department"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - brandeis
-    - map
-    - google
-    - drone
+    - brandeis-map-google-drone
 ---
 
 

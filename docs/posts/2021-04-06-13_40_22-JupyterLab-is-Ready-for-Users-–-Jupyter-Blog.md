@@ -3,11 +3,7 @@ title: "JupyterLab is Ready for Users – Jupyter Blog"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - python
-    - Jupiter
-    - datascience
-    - notebook
-    - statistics
+    - python-Jupiter-datascience-notebook-statistics
 ---
 
 

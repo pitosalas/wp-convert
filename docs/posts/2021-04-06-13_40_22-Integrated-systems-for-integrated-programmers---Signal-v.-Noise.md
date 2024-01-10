@@ -3,10 +3,7 @@ title: "Integrated systems for integrated programmers - Signal v. Noise"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - architecture
-    - microservices
-    - monoliths
-    - design
+    - architecture-microservices-monoliths-design
 ---
 
 

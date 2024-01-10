@@ -3,10 +3,7 @@ title: "The Lab-Leak Hypothesis"
 author: Pito Salas
 date: 2021-05-28 21:54:23
 tags:
-    - science
-    - virus
-    - article
-    - new-york-magazine
+    - science-virus-article-new-york-magazine
 ---
 
 

@@ -3,10 +3,7 @@ title: "Algorithms from scratch: RANSAC"
 author: Pito Salas
 date: 2022-06-27 12:37:47
 tags:
-    - robotics
-    - line-fitting
-    - ransac
-    - howto
+    - robotics-line-fitting-ransac-howto
 ---
 
 

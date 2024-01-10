@@ -3,13 +3,7 @@ title: "CapRover · Free and Open Source PaaS!"
 author: Pito Salas
 date: 2022-11-28 11:24:40
 tags:
-    - pass
-    - heroku
-    - deployment
-    - tool
-    - cli
-    - howto
-    - explainer
+    - pass-heroku-deployment-tool-cli-howto-explainer
 ---
 
 

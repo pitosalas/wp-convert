@@ -3,11 +3,7 @@ title: "How to curve an exam and assign grades – David Richeson: Division by Z
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - grading
-    - teaching
-    - mathematics
-    - formula
-    - curves
+    - grading-teaching-mathematics-formula-curves
 ---
 
 

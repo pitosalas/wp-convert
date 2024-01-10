@@ -3,8 +3,7 @@ title: "The Royal Netherlands Embassy's Offices/Websites in the United States of
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - dutch
-    - holland
+    - dutch-holland
 ---
 
 

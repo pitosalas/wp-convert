@@ -3,9 +3,7 @@ title: "Thoughts on Python Poetry. Pip is hard enough, how much does… | by Dar
 author: Pito Salas
 date: 2022-11-13 13:46:23
 tags:
-    - poetry
-    - python
-    - howto
+    - poetry-python-howto
 ---
 
 

@@ -3,10 +3,7 @@ title: "Rewriting the Ruby parser"
 author: Pito Salas
 date: 2023-06-16 05:54:01
 tags:
-    - ruby
-    - parser
-    - yarp
-    - explainer
+    - ruby-parser-yarp-explainer
 ---
 Interesting in general. And from the perspective of parser engineering and trade offs.
 

@@ -3,12 +3,7 @@ title: "How to Frame a Roof (with Pictures) - wikiHow"
 author: Pito Salas
 date: 2022-12-06 11:20:14
 tags:
-    - model
-    - wood
-    - miniature
-    - roof
-    - truss
-    - howto
+    - model-wood-miniature-roof-truss-howto
 ---
 
 

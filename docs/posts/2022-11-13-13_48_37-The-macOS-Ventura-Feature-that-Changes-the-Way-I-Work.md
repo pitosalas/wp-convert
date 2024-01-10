@@ -3,10 +3,7 @@ title: "The macOS Ventura Feature that Changes the Way I Work"
 author: Pito Salas
 date: 2022-11-13 13:48:37
 tags:
-    - macos
-    - stage-manager
-    - windows
-    - review
+    - macos-stage-manager-windows-review
 ---
 
 

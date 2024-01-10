@@ -3,12 +3,7 @@ title: "The Good Research Code Handbook"
 author: Pito Salas
 date: 2022-06-23 23:11:43
 tags:
-    - python
-    - software-engineering
-    - standards
-    - recommendations
-    - programming
-    - languages
+    - python-software-engineering-standards-recommendations-programming-languages
 ---
 
 

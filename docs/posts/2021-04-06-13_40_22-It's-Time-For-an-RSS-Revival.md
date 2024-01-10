@@ -3,8 +3,7 @@ title: "It's Time For an RSS Revival"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - rss
-    - readers
+    - rss-readers
 ---
 
 

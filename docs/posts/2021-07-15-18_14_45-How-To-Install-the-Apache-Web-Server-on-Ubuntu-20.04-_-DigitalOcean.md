@@ -3,11 +3,7 @@ title: "How To Install the Apache Web Server on Ubuntu 20.04 | DigitalOcean"
 author: Pito Salas
 date: 2021-07-15 18:14:45
 tags:
-    - howto
-    - ubuntu
-    - apache
-    - sysadmin
-    - configuration
+    - howto-ubuntu-apache-sysadmin-configuration
 ---
 
 

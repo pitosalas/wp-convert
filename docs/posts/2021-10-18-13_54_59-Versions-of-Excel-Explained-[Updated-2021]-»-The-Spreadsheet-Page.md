@@ -3,9 +3,7 @@ title: "Versions of Excel Explained [Updated 2021] » The Spreadsheet Page"
 author: Pito Salas
 date: 2021-10-18 13:54:59
 tags:
-    - pivottables
-    - history
-    - excel
+    - pivottables-history-excel
 ---
 
 

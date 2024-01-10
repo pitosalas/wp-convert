@@ -3,11 +3,7 @@ title: "80 Characters per Line Is a Standard Worth Sticking to Even Today"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - characters
-    - line
-    - programming
-    - standard
-    - tips
+    - characters-line-programming-standard-tips
 ---
 
 

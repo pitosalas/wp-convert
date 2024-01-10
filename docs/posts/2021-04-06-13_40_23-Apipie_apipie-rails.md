@@ -3,11 +3,7 @@ title: "Apipie/apipie-rails"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - rails
-    - ruby
-    - rest
-    - api
-    - programming
+    - rails-ruby-rest-api-programming
 ---
 
 

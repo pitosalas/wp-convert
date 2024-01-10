@@ -3,9 +3,7 @@ title: "Calibrating a Monocular Camera with ROS - Robotics with ROS"
 author: Pito Salas
 date: 2022-03-18 18:38:50
 tags:
-    - raspi
-    - camera
-    - calibrate
+    - raspi-camera-calibrate
 ---
 
 

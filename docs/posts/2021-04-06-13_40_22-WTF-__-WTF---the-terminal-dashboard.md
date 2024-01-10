@@ -3,9 +3,7 @@ title: "WTF :: WTF - the terminal dashboard"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - cli
-    - terminal
-    - dashboard
+    - cli-terminal-dashboard
 ---
 
 

@@ -3,10 +3,7 @@ title: "How To Make a DIY Modern Birdhouse"
 author: Pito Salas
 date: 2021-06-19 20:47:45
 tags:
-    - build
-    - wood
-    - birdhouse
-    - mid-century-modern
+    - build-wood-birdhouse-mid-century-modern
 ---
 
 

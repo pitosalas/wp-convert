@@ -3,9 +3,7 @@ title: "‘Succession’ and the Future of Social Media"
 author: Pito Salas
 date: 2023-05-29 08:33:52
 tags:
-    - mastodon
-    - twitter
-    - social-media
+    - mastodon-twitter-social-media
 ---
 
 

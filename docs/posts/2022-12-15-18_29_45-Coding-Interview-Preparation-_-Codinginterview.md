@@ -3,8 +3,7 @@ title: "Coding Interview Preparation | Codinginterview"
 author: Pito Salas
 date: 2022-12-15 18:29:45
 tags:
-    - interview
-    - coding-interview
+    - interview-coding-interview
 ---
 
 

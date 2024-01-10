@@ -3,11 +3,7 @@ title: "Set Up A Docker Container To Test Your Rails App"
 author: Pito Salas
 date: 2021-07-03 15:14:30
 tags:
-    - ruby
-    - rails
-    - docker
-    - howto
-    - tutorial
+    - ruby-rails-docker-howto-tutorial
 ---
 
 

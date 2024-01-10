@@ -3,9 +3,7 @@ title: "Import CSV File Into PosgreSQL Table"
 author: Pito Salas
 date: 2021-10-14 23:40:49
 tags:
-    - csv
-    - data
-    - database
+    - csv-data-database
 ---
 
 

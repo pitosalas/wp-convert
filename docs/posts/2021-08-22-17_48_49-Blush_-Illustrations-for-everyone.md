@@ -3,11 +3,7 @@ title: "Blush: Illustrations for everyone"
 author: Pito Salas
 date: 2021-08-22 17:48:49
 tags:
-    - images
-    - cooltools
-    - custom
-    - clipart
-    - howto
+    - images-cooltools-custom-clipart-howto
 ---
 
 

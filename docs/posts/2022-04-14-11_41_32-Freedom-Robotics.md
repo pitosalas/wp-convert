@@ -3,10 +3,7 @@ title: "Freedom Robotics"
 author: Pito Salas
 date: 2022-04-14 11:41:32
 tags:
-    - robotics
-    - robot
-    - campusrover
-    - service
+    - robotics-robot-campusrover-service
 ---
 
 

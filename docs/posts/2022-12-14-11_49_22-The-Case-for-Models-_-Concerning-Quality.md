@@ -3,10 +3,7 @@ title: "The Case for Models | Concerning Quality"
 author: Pito Salas
 date: 2022-12-14 11:49:22
 tags:
-    - testing
-    - models
-    - design
-    - explainer
+    - testing-models-design-explainer
 ---
 
 

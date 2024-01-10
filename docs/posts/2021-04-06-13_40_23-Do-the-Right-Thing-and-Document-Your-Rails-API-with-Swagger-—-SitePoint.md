@@ -3,8 +3,7 @@ title: "Do the Right Thing and Document Your Rails API with Swagger — SitePoin
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - Software
-    - Engineering
+    - Software-Engineering
 ---
 
 

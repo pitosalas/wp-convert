@@ -3,9 +3,7 @@ title: "Guitar Scientist: Create Free Guitar Diagrams Online"
 author: Pito Salas
 date: 2021-05-06 16:21:11
 tags:
-    - diagrams
-    - guitar
-    - howto
+    - diagrams-guitar-howto
 ---
 
 

@@ -3,11 +3,7 @@ title: "Syllabi Policies for AI Generative Tools"
 author: Pito Salas
 date: 2023-09-08 00:07:21
 tags:
-    - fun
-    - literature
-    - clock
-    - time
-    - cooltool
+    - fun-literature-clock-time-cooltool
 ---
 Generates a quote from literature for every minute in the day! Fun!
 

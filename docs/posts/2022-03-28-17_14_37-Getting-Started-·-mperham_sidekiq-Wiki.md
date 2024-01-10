@@ -3,13 +3,7 @@ title: "Getting Started · mperham/sidekiq Wiki"
 author: Pito Salas
 date: 2022-03-28 17:14:37
 tags:
-    - ruby
-    - asynchronous
-    - background.
-    - queueing
-    - howto
-    - scaling
-    - performance
+    - ruby-asynchronous-background-queueing-howto-scaling-performance
 ---
 
 

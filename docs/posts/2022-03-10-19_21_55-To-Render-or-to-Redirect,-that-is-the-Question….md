@@ -3,11 +3,7 @@ title: "To Render or to Redirect, that is the Question…"
 author: Pito Salas
 date: 2022-03-10 19:21:55
 tags:
-    - sinatra
-    - howto
-    - sessions
-    - redirect
-    - render
+    - sinatra-howto-sessions-redirect-render
 ---
 
 

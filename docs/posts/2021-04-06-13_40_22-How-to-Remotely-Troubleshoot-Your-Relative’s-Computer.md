@@ -3,8 +3,7 @@ title: "How to Remotely Troubleshoot Your Relative’s Computer"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - remote-diagnostics
-    - computer
+    - remote-diagnostics-computer
 ---
 
 

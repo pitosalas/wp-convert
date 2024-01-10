@@ -3,9 +3,7 @@ title: "What Should You Do with Your Life? Directions and Advice - Alexey Guzey"
 author: Pito Salas
 date: 2022-07-17 10:39:28
 tags:
-    - advice
-    - growth
-    - personal
+    - advice-growth-personal
 ---
 
 

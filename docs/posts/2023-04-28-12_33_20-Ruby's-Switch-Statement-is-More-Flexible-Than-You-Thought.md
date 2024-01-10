@@ -3,11 +3,7 @@ title: "Ruby's Switch Statement is More Flexible Than You Thought"
 author: Pito Salas
 date: 2023-04-28 12:33:20
 tags:
-    - ruby
-    - case
-    - syntax
-    - advanced
-    - explainer
+    - ruby-case-syntax-advanced-explainer
 ---
 
 

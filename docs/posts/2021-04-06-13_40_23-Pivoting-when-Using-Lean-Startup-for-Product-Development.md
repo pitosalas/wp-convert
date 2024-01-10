@@ -3,8 +3,7 @@ title: "Pivoting when Using Lean Startup for Product Development"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - leanstartup
-    - pivoting
+    - leanstartup-pivoting
 ---
 
 

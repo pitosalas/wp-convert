@@ -3,10 +3,7 @@ title: "Rails Generate Migration — Everything you need to know"
 author: Pito Salas
 date: 2023-07-17 12:26:36
 tags:
-    - rails
-    - howto
-    - migration
-    - explainer
+    - rails-howto-migration-explainer
 ---
 Handy exhaustive list of rails generate migration commands.
 

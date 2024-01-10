@@ -3,10 +3,7 @@ title: "A few less-known Ruby (on Rails) methods, pt 1.: Array"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - rails
-    - goodies
-    - array
-    - ruby
+    - rails-goodies-array-ruby
 ---
 
 

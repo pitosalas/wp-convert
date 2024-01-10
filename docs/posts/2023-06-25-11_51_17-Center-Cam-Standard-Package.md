@@ -3,10 +3,7 @@ title: "Center Cam Standard Package"
 author: Pito Salas
 date: 2023-06-25 11:51:17
 tags:
-    - cooltool
-    - zoom
-    - eye
-    - camera
+    - cooltool-zoom-eye-camera
 ---
 This seems like a very good tool! We do so many zoom calls these days, not to mention teaching over zoom. We’re used to the off center eye contact. But I wonder whether people will notice when you use this that you’re looking right at them. Maybe it will make you more persuasive or help you do better in negotiations?
 

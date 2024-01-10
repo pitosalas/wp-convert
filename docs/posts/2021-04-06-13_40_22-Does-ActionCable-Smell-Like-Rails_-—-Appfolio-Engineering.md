@@ -3,10 +3,7 @@ title: "Does ActionCable Smell Like Rails? — Appfolio Engineering"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - WebSockets
-    - ruby
-    - rails
-    - actioncable
+    - WebSockets-ruby-rails-actioncable
 ---
 
 

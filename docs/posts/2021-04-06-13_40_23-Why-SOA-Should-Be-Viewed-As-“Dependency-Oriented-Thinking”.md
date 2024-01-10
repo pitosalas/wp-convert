@@ -3,12 +3,7 @@ title: "Why SOA Should Be Viewed As “Dependency-Oriented Thinking”"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - soa
-    - rest
-    - dependencies
-    - services
-    - online
-    - therapy
+    - soa-rest-dependencies-services-online-therapy
 ---
 
 

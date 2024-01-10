@@ -3,10 +3,7 @@ title: "Beware of Java Stream API Habits when Writing Kotlin Code | Codementor"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - api
-    - performance
-    - kotlin
-    - streams
+    - api-performance-kotlin-streams
 ---
 
 

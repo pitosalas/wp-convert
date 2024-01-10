@@ -3,10 +3,7 @@ title: "It's Time to Rethink Continuous Improvement - Ron Ashkenas - Harvard Bus
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - teaching
-    - entrepreneurship
-    - harvard
-    - business
+    - teaching-entrepreneurship-harvard-business
 ---
 
 

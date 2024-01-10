@@ -3,8 +3,7 @@ title: "4 Surprising Inside Tips for Attracting Investors - OPEN Forum :: Americ
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - investors
-    - entrepreneurship
+    - investors-entrepreneurship
 ---
 
 

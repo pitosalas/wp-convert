@@ -3,9 +3,7 @@ title: "An NFT That Saves Lives"
 author: Pito Salas
 date: 2021-05-06 16:04:17
 tags:
-    - lives
-    - nft
-    - paulgraham
+    - lives-nft-paulgraham
 ---
 
 

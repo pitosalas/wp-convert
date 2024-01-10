@@ -3,9 +3,7 @@ title: "Python mmap: Doing File I/O With Memory Mapping – Real Python"
 author: Pito Salas
 date: 2022-06-26 21:13:15
 tags:
-    - python
-    - mmap
-    - howto
+    - python-mmap-howto
 ---
 
 

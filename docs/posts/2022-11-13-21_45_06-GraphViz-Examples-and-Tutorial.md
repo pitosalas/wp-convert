@@ -3,9 +3,7 @@ title: "GraphViz Examples and Tutorial"
 author: Pito Salas
 date: 2022-11-13 21:45:06
 tags:
-    - graphviz
-    - howto
-    - tutorial
+    - graphviz-howto-tutorial
 ---
 
 

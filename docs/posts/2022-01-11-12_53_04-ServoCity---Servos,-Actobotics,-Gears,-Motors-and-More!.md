@@ -3,9 +3,7 @@ title: "ServoCity - Servos, Actobotics, Gears, Motors and More!"
 author: Pito Salas
 date: 2022-01-11 12:53:04
 tags:
-    - robotics
-    - parts
-    - shoppinh
+    - robotics-parts-shoppinh
 ---
 
 

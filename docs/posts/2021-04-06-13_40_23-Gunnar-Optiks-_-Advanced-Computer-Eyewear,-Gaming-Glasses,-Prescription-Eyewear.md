@@ -3,9 +3,7 @@ title: "Gunnar Optiks | Advanced Computer Eyewear, Gaming Glasses, Prescription 
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - glasses
-    - computer
-    - gunnar
+    - glasses-computer-gunnar
 ---
 
 

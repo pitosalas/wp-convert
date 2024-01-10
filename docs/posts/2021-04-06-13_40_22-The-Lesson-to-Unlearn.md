@@ -3,11 +3,7 @@ title: "The Lesson to Unlearn"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - paulgraham
-    - grades
-    - university
-    - students
-    - gpa
+    - paulgraham-grades-university-students-gpa
 ---
 
 

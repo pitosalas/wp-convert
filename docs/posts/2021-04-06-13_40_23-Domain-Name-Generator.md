@@ -3,10 +3,7 @@ title: "Domain Name Generator"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - dns
-    - names
-    - generator
-    - random
+    - dns-names-generator-random
 ---
 
 

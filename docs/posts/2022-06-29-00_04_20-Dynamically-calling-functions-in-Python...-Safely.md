@@ -3,10 +3,7 @@ title: "Dynamically calling functions in Python... Safely"
 author: Pito Salas
 date: 2022-06-29 00:04:20
 tags:
-    - python
-    - dynamic
-    - functions
-    - howto
+    - python-dynamic-functions-howto
 ---
 
 

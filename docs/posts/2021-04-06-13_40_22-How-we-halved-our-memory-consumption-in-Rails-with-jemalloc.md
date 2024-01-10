@@ -3,11 +3,7 @@ title: "How we halved our memory consumption in Rails with jemalloc"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - memory
-    - optimization
-    - rails
-    - performance
-    - ruby
+    - memory-optimization-rails-performance-ruby
 ---
 
 

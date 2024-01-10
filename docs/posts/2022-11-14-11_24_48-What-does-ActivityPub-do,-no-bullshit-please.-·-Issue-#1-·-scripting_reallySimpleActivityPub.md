@@ -3,8 +3,7 @@ title: "What does ActivityPub do, no bullshit please. · Issue #1 · scripting/r
 author: Pito Salas
 date: 2022-11-14 11:24:48
 tags:
-    - mastodon
-    - explainer
+    - mastodon-explainer
 ---
 
 

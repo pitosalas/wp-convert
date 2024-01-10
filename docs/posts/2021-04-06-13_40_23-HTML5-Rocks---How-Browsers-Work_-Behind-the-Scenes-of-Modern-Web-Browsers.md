@@ -3,9 +3,7 @@ title: "HTML5 Rocks - How Browsers Work: Behind the Scenes of Modern Web Browser
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - programming
-    - browsers
-    - browser
+    - programming-browsers-browser
 ---
 
 

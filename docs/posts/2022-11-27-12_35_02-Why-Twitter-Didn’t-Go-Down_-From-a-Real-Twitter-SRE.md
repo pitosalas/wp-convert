@@ -3,11 +3,7 @@ title: "Why Twitter Didn’t Go Down: From a Real Twitter SRE"
 author: Pito Salas
 date: 2022-11-27 12:35:02
 tags:
-    - twitter
-    - scale
-    - scaling
-    - caching
-    - cosi105
+    - twitter-scale-scaling-caching-cosi105
 ---
 
 

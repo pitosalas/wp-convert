@@ -3,9 +3,7 @@ title: "Gallery of free HTML snippets for Twitter Bootstrap. | Bootsnipp.com"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - bootstrap
-    - css
-    - html5
+    - bootstrap-css-html5
 ---
 
 

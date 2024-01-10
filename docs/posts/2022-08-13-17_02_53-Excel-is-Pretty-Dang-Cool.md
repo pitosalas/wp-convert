@@ -3,9 +3,7 @@ title: "Excel is Pretty Dang Cool"
 author: Pito Salas
 date: 2022-08-13 17:02:53
 tags:
-    - excel
-    - howto
-    - advanced
+    - excel-howto-advanced
 ---
 
 

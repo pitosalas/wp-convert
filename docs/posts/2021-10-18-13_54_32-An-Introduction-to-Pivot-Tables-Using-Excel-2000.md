@@ -3,10 +3,7 @@ title: "An Introduction to Pivot Tables Using Excel 2000"
 author: Pito Salas
 date: 2021-10-18 13:54:32
 tags:
-    - improv
-    - history
-    - pivottables
-    - excel
+    - improv-history-pivottables-excel
 ---
 
 

@@ -3,9 +3,7 @@ title: "WHCC | Professional Photo Lab"
 author: Pito Salas
 date: 2022-07-12 16:48:36
 tags:
-    - photo
-    - enlargement
-    - services
+    - photo-enlargement-services
 ---
 
 

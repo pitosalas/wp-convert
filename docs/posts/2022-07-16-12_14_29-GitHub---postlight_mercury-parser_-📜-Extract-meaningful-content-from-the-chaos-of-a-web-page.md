@@ -3,14 +3,7 @@ title: "GitHub - postlight/mercury-parser: 📜 Extract meaningful content from 
 author: Pito Salas
 date: 2022-07-16 12:14:29
 tags:
-    - url
-    - web
-    - scraper
-    - scraping
-    - js
-    - javascript
-    - library
-    - howto
+    - url-web-scraper-scraping-js-javascript-library-howto
 ---
 
 

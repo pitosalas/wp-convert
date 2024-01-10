@@ -3,10 +3,7 @@ title: "Lessons From Debugging"
 author: Pito Salas
 date: 2023-10-03 12:03:32
 tags:
-    - debugging
-    - howto
-    - best-bet
-    - best-practices
+    - debugging-howto-best-bet-best-practices
 ---
 
 

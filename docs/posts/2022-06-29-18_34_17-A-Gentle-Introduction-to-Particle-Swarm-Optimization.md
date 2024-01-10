@@ -3,12 +3,7 @@ title: "A Gentle Introduction to Particle Swarm Optimization"
 author: Pito Salas
 date: 2022-06-29 18:34:17
 tags:
-    - PSO
-    - machine-learning
-    - evolutionary-algorithms
-    - python
-    - py-sci-kit
-    - howto
+    - PSO-machine-learning-evolutionary-algorithms-python-py-sci-kit-howto
 ---
 
 

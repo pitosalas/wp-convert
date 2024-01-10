@@ -3,10 +3,7 @@ title: "How to make video calls almost as good as face-to-face | benkuhn.net"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - howto
-    - calls
-    - video
-    - zoom
+    - howto-calls-video-zoom
 ---
 
 

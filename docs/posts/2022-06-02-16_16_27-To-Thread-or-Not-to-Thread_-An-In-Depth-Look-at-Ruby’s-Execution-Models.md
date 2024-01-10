@@ -3,14 +3,7 @@ title: "To Thread or Not to Thread: An In-Depth Look at Ruby’s Execution Model
 author: Pito Salas
 date: 2022-06-02 16:16:27
 tags:
-    - ruby
-    - rails
-    - internals
-    - gvl
-    - processes
-    - threads
-    - cosi105
-    - explainer
+    - ruby-rails-internals-gvl-processes-threads-cosi105-explainer
 ---
 
 

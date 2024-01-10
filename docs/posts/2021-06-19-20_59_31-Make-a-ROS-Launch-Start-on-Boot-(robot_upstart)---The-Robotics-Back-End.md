@@ -3,9 +3,7 @@ title: "Make a ROS Launch Start on Boot (robot_upstart) - The Robotics Back-End"
 author: Pito Salas
 date: 2021-06-19 20:59:31
 tags:
-    - ros
-    - ubuntu
-    - howto
+    - ros-ubuntu-howto
 ---
 
 

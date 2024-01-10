@@ -3,10 +3,7 @@ title: "A closer look at Acorn, our open source precision farming rover - Resear
 author: Pito Salas
 date: 2022-12-29 01:20:56
 tags:
-    - robots
-    - farming
-    - acorn
-    - open-source
+    - robots-farming-acorn-open-source
 ---
 
 

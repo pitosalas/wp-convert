@@ -3,12 +3,7 @@ title: "Instrument Your Ruby App In Minutes with the Honeycomb Beeline for Ruby 
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - ruby
-    - instrumentation
-    - performance
-    - scale
-    - measurement
-    - rails
+    - ruby-instrumentation-performance-scale-measurement-rails
 ---
 
 

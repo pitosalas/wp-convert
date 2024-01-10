@@ -3,11 +3,7 @@ title: "Node is the WRONG runtime for serverless – A Cloud Guru"
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - Python
-    - node
-    - javascript
-    - lambda
-    - cloud
+    - Python-node-javascript-lambda-cloud
 ---
 
 

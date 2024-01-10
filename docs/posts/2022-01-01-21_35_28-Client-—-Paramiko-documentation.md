@@ -3,10 +3,7 @@ title: "Client — Paramiko documentation"
 author: Pito Salas
 date: 2022-01-01 21:35:28
 tags:
-    - ssh
-    - python
-    - package
-    - secure
+    - ssh-python-package-secure
 ---
 
 

@@ -3,10 +3,7 @@ title: "Integrity | Continuous Integration server"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - ruby
-    - rails
-    - deployment
-    - ci
+    - ruby-rails-deployment-ci
 ---
 
 

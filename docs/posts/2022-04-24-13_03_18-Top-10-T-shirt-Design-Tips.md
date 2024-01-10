@@ -3,10 +3,7 @@ title: "Top 10 T-shirt Design Tips"
 author: Pito Salas
 date: 2022-04-24 13:03:18
 tags:
-    - t-shirt
-    - design
-    - howto
-    - graphics
+    - t-shirt-design-howto-graphics
 ---
 
 

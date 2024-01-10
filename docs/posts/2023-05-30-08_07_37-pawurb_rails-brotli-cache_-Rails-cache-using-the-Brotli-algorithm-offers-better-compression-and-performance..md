@@ -3,11 +3,7 @@ title: "pawurb/rails-brotli-cache: Rails cache using the Brotli algorithm offers
 author: Pito Salas
 date: 2023-05-30 08:07:37
 tags:
-    - rails
-    - performance
-    - cache
-    - compression
-    - cooltool
+    - rails-performance-cache-compression-cooltool
 ---
 
 

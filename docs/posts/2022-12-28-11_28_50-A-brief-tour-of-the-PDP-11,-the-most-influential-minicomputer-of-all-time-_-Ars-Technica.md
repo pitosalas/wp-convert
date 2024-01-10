@@ -3,10 +3,7 @@ title: "A brief tour of the PDP-11, the most influential minicomputer of all tim
 author: Pito Salas
 date: 2022-12-28 11:28:50
 tags:
-    - pdp-11
-    - explainer
-    - architecture
-    - hardware
+    - pdp-11-explainer-architecture-hardware
 ---
 
 

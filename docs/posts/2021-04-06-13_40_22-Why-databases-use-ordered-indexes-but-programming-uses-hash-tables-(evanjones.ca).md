@@ -3,11 +3,7 @@ title: "Why databases use ordered indexes but programming uses hash tables (evan
 author: Pito Salas
 date: 2021-04-06 13:40:22
 tags:
-    - performance
-    - b-trees
-    - hashtables
-    - indexes
-    - databases
+    - performance-b-trees-hashtables-indexes-databases
 ---
 
 

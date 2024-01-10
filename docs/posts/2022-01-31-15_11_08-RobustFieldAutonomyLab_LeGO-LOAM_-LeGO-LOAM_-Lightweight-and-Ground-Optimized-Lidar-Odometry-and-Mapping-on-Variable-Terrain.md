@@ -3,9 +3,7 @@ title: "RobustFieldAutonomyLab/LeGO-LOAM: LeGO-LOAM: Lightweight and Ground-Opti
 author: Pito Salas
 date: 2022-01-31 15:11:08
 tags:
-    - robotics
-    - 119
-    - project-ideas
+    - robotics-119-project-ideas
 ---
 
 

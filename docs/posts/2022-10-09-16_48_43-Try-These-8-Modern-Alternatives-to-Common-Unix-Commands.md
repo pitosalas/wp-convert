@@ -3,11 +3,7 @@ title: "Try These 8 Modern Alternatives to Common Unix Commands"
 author: Pito Salas
 date: 2022-10-09 16:48:43
 tags:
-    - linux
-    - cli
-    - utilities
-    - howto
-    - best
+    - linux-cli-utilities-howto-best
 ---
 
 

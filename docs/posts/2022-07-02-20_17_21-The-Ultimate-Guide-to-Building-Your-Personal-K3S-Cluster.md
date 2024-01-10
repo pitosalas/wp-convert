@@ -3,9 +3,7 @@ title: "The Ultimate Guide to Building Your Personal K3S Cluster"
 author: Pito Salas
 date: 2022-07-02 20:17:21
 tags:
-    - k3s
-    - kubernetes
-    - raspi
+    - k3s-kubernetes-raspi
 ---
 
 

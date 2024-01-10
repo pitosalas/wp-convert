@@ -3,10 +3,7 @@ title: "4 Books For Intermediate Ruby And Rails Developers."
 author: Pito Salas
 date: 2022-07-17 22:28:29
 tags:
-    - books
-    - ruby
-    - advanced
-    - howto
+    - books-ruby-advanced-howto
 ---
 
 

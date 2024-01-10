@@ -3,9 +3,7 @@ title: "I absolutely adored Spock. Loving Dad was much more complicated. - The B
 author: Pito Salas
 date: 2021-06-17 19:23:50
 tags:
-    - boston
-    - spock
-    - startrek
+    - boston-spock-startrek
 ---
 
 

@@ -3,12 +3,7 @@ title: "5 ways to make HTTP requests in Ruby"
 author: Pito Salas
 date: 2022-12-03 20:34:42
 tags:
-    - ruby
-    - gem
-    - http
-    - tcp/ip
-    - howto
-    - explainer
+    - ruby-gem-http-tcp/ip-howto-explainer
 ---
 
 

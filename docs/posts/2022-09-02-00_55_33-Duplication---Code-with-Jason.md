@@ -3,10 +3,7 @@ title: "Duplication - Code with Jason"
 author: Pito Salas
 date: 2022-09-02 00:55:33
 tags:
-    - dry
-    - software-engineering
-    - programming
-    - duplication
+    - dry-software-engineering-programming-duplication
 ---
 
 

@@ -3,9 +3,7 @@ title: "Joost's Dev Blog: Why composition is often better than inheritance"
 author: Pito Salas
 date: 2021-04-06 13:40:23
 tags:
-    - composition
-    - inheritance
-    - engineering
+    - composition-inheritance-engineering
 ---
 
 

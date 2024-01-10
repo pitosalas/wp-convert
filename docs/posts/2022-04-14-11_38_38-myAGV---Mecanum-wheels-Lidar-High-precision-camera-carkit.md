@@ -3,9 +3,7 @@ title: "myAGV - Mecanum wheels Lidar High-precision camera carkit"
 author: Pito Salas
 date: 2022-04-14 11:38:38
 tags:
-    - campusrover
-    - robot
-    - kit
+    - campusrover-robot-kit
 ---
 
 
