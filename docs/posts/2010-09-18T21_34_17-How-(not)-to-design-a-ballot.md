@@ -5,7 +5,7 @@ date: 2010-09-18T21:34:17
 tags:
     - ballots
     - design
-    - elections
+    - election-tags
 ---
 
 

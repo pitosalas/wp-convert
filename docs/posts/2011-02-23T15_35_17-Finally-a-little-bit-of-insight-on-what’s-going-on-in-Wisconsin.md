@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2011-02-23T15:35:17
 tags:
     - davidbrooks
-    - wisconsin
+    - wiscon-tagsin
 ---
 
 

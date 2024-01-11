@@ -1,6 +1,8 @@
 ---
 title: "Aho/Ullman Foundations of Computer Science"
-author: Pito Salasurl: "http://infolab.stanford.edu/~ullman/focs.html" cover: "http://infolab.stanford.edu/~ullman/gifs/focs.gif" 
+author: Pito Salas
+url: "http://infolab.stanford.edu/~ullman/focs.html" 
+cover: "http://infolab.stanford.edu/~ullman/gifs/focs.gif" 
 date: 2022-01-28 13:29:45
 tags:
     - computer-science-teaching-learning-fundamentals-textbook

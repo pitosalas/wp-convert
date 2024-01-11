@@ -5,7 +5,7 @@ date: 2012-03-02T22:34:26
 tags:
     - box
     - humor
-    - irony
+    - iron-tagy
     - joke
     - nyt
     - research

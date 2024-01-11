@@ -3,7 +3,7 @@ title: "How are the New England Patriots like the United States Post Office?"
 author: Pito Salas
 date: 2008-12-14T23:04:12
 tags:
-    - usps-newenglandpatriots-postalservice-logos-icons
+    - usps-newenglandpatriots-postalservice-logos-icon-tags
 ---
 
 

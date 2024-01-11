@@ -1,6 +1,8 @@
 ---
 title: "Domain Name Generator"
-author: Pito Salasurl: "http://www.namestation.com/domain-search/random" cover: "https://static.namestation.com/2/logo/NameStationLogoCircle.png" 
+author: Pito Salas
+url: "http://www.namestation.com/domain-search/random" 
+cover: "https://static.namestation.com/2/logo/NameStationLogoCircle.png" 
 date: 2021-04-06 13:40:23
 tags:
     - dns-names-generator-random

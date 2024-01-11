@@ -1,6 +1,8 @@
 ---
 title: "10 practices for writing readable code"
-author: Pito Salasurl: "https://dev.to/gonedark/10-practices-for-readable-code-143a" cover: "https://res.cloudinary.com/practicaldev/image/fetch/s--8z3xgv1U--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/lk3i1t3mltxen8bk0epo.png" 
+author: Pito Salas
+url: "https://dev.to/gonedark/10-practices-for-readable-code-143a" 
+cover: "https://res.cloudinary.com/practicaldev/image/fetch/s--8z3xgv1U--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/lk3i1t3mltxen8bk0epo.png" 
 date: 2021-04-06 13:40:22
 tags:
     - code-practices-coding-style-cleancode

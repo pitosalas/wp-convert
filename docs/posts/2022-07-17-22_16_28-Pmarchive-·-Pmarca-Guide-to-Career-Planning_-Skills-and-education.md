@@ -1,6 +1,8 @@
 ---
 title: "Pmarchive · Pmarca Guide to Career Planning: Skills and education"
-author: Pito Salasurl: "https://fictivekin.github.io/pmarchive-jekyll//guide_to_career_planning_part2.html" cover: "https://fictivekin.github.io/pmarchive-jekyll//icon-512.png" 
+author: Pito Salas
+url: "https://fictivekin.github.io/pmarchive-jekyll//guide_to_career_planning_part2.html" 
+cover: "https://fictivekin.github.io/pmarchive-jekyll//icon-512.png" 
 date: 2022-07-17 22:16:28
 tags:
     - pmarca-advice-career-strategy-howto-blog-opinion-college-education-education20

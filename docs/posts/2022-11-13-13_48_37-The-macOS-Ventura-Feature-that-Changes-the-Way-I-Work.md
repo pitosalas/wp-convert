@@ -1,6 +1,8 @@
 ---
 title: "The macOS Ventura Feature that Changes the Way I Work"
-author: Pito Salasurl: "https://medium.com/@_alecfox/the-macos-ventura-feature-that-changes-the-way-i-work-4de02a20e905" cover: "https://miro.medium.com/max/1200/1*B6imb0g0KTt7x8DbBhNZQQ.png" 
+author: Pito Salas
+url: "https://medium.com/@_alecfox/the-macos-ventura-feature-that-changes-the-way-i-work-4de02a20e905" 
+cover: "https://miro.medium.com/max/1200/1*B6imb0g0KTt7x8DbBhNZQQ.png" 
 date: 2022-11-13 13:48:37
 tags:
     - macos-stage-manager-windows-review

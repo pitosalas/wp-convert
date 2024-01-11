@@ -1,6 +1,8 @@
 ---
 title: "Screencast-O-Matic - Free online screen recorder for instant screen capture video sharing."
-author: Pito Salasurl: "http://screencast-o-matic.com" cover: "https://dfjnl57l0uncv.cloudfront.net/cms-sandbox/wp-content/uploads/2018/07/17060220/Screencastomatic_Home.jpg" 
+author: Pito Salas
+url: "http://screencast-o-matic.com" 
+cover: "https://dfjnl57l0uncv.cloudfront.net/cms-sandbox/wp-content/uploads/2018/07/17060220/Screencastomatic_Home.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - Dev-Tools

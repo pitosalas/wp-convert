@@ -1,6 +1,8 @@
 ---
 title: "Rails initializers you don't know about - Inflections"
-author: Pito Salasurl: "https://blog.saeloun.com/2023/02/09/rails-initializers-you-dont-know-about-inflections" cover: "https://blog.saeloun.com/images/og_logo.png" 
+author: Pito Salas
+url: "https://blog.saeloun.com/2023/02/09/rails-initializers-you-dont-know-about-inflections" 
+cover: "https://blog.saeloun.com/images/og_logo.png" 
 date: 2023-02-17 12:53:36
 tags:
     - rails-ruby-ruby-on-rails-initializers-inflections-fun-explainer

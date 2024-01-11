@@ -1,6 +1,8 @@
 ---
 title: "20 Awesome Resources for Twitter Bootstrap Lovers | Design Shack"
-author: Pito Salasurl: "http://designshack.net/articles/css/20-awesome-resources-for-twitter-bootstrap-lovers" cover: "https://designshack.net/wp-content/uploads/bootstrap-resources.png" 
+author: Pito Salas
+url: "http://designshack.net/articles/css/20-awesome-resources-for-twitter-bootstrap-lovers" 
+cover: "https://designshack.net/wp-content/uploads/bootstrap-resources.png" 
 date: 2021-04-06 13:40:23
 tags:
     - bootstrap-design-css-resources-html-link

@@ -7,7 +7,7 @@ tags:
     - mapbox
     - mapping
     - open-source
-    - washington-post
+    - washington-tag-post
 ---
 
 

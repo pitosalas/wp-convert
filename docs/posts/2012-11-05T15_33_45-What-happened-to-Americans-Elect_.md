@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2012-11-05T15:33:45
 tags:
     - americans-elect
-    - elections
+    - election-tags
     - politics
 ---
 

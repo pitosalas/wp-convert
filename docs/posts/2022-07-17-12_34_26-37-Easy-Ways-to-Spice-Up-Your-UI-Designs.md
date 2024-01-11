@@ -1,6 +1,8 @@
 ---
 title: "37 Easy Ways to Spice Up Your UI Designs"
-author: Pito Salasurl: "https://www.learnui.design/blog/spice-up-designs.html" cover: "https://learnui.design/blog/img/posts/spice.png" 
+author: Pito Salas
+url: "https://www.learnui.design/blog/spice-up-designs.html" 
+cover: "https://learnui.design/blog/img/posts/spice.png" 
 date: 2022-07-17 12:34:26
 tags:
     - design-css-visual-rules-of-thumb-ux

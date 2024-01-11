@@ -3,9 +3,9 @@ title: "[GEEKY] Devise Gem – current favorite for authentication of Rails Appl
 author: Pito Salas
 date: 2011-05-21T20:27:05
 tags:
-    - authentication
+    - authentication-tag
     - rails
-    - railsconf
+    - railscon-tagf
 ---
 
 

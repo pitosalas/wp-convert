@@ -1,6 +1,8 @@
 ---
 title: "The WebKit Open Source Project"
-author: Pito Salasurl: "http://webkit.org" cover: "https://rdl.ink/render/http%3A%2F%2Fwebkit.org" 
+author: Pito Salas
+url: "http://webkit.org" 
+cover: "https://rdl.ink/render/http%3A%2F%2Fwebkit.org" 
 date: 2021-04-06 13:40:23
 tags:
     - blogbridge-opensource-safari

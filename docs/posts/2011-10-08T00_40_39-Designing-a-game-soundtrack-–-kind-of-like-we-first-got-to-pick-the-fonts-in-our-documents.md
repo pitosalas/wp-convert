@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2011-10-08T00:40:39
 tags:
     - audio
-    - fonts
+    - fon-tagts
     - games
     - macintosh
     - music

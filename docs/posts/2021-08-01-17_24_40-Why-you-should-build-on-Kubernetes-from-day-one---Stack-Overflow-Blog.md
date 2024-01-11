@@ -1,6 +1,8 @@
 ---
 title: "Why you should build on Kubernetes from day one - Stack Overflow Blog"
-author: Pito Salasurl: "https://stackoverflow.blog/2021/07/21/why-you-should-build-on-kubernetes-from-day-one/" cover: "https://149351115.v2.pressablecdn.com/wp-content/uploads/2021/07/blog-k8s.png" 
+author: Pito Salas
+url: "https://stackoverflow.blog/2021/07/21/why-you-should-build-on-kubernetes-from-day-one/" 
+cover: "https://149351115.v2.pressablecdn.com/wp-content/uploads/2021/07/blog-k8s.png" 
 date: 2021-08-01 17:24:40
 tags:
     - kubernetes-scalability-containers-howto

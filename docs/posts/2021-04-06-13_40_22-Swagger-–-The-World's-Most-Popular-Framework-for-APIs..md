@@ -1,6 +1,8 @@
 ---
 title: "Swagger – The World's Most Popular Framework for APIs."
-author: Pito Salasurl: "http://swagger.io" cover: "https://rdl.ink/render/http%3A%2F%2Fswagger.io" 
+author: Pito Salas
+url: "http://swagger.io" 
+cover: "https://rdl.ink/render/http%3A%2F%2Fswagger.io" 
 date: 2021-04-06 13:40:22
 tags:
     - Software-Engineering

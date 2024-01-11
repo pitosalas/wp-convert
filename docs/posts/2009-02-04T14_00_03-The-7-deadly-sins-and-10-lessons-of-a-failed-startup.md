@@ -3,7 +3,7 @@ title: "The 7 deadly sins and 10 lessons of a failed startup"
 author: Pito Salas
 date: 2009-02-04T14:00:03
 tags:
-    - dondodge
+    - don-tagdodge
     - startups
 ---
 

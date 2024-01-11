@@ -3,7 +3,7 @@ title: "Patents and perpetual motion machines"
 author: Pito Salas
 date: 2011-11-12T21:41:50
 tags:
-    - datacompression
+    - datacompression-tag
     - mathematics
     - patents
     - science

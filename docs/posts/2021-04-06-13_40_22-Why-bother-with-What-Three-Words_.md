@@ -1,6 +1,8 @@
 ---
 title: "Why bother with What Three Words?"
-author: Pito Salasurl: "https://shkspr.mobi/blog/2019/03/why-bother-with-what-three-words" cover: "https://shkspr.mobi/blog/wp-content/uploads/2014/11/Men-confused-by-a-map.jpg?w=640" 
+author: Pito Salas
+url: "https://shkspr.mobi/blog/2019/03/why-bother-with-what-three-words" 
+cover: "https://shkspr.mobi/blog/wp-content/uploads/2014/11/Men-confused-by-a-map.jpg?w=640" 
 date: 2021-04-06 13:40:22
 tags:
     - gps-geolocation-words-address

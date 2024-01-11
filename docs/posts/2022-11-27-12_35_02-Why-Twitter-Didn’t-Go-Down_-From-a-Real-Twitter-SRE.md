@@ -1,6 +1,8 @@
 ---
 title: "Why Twitter Didn’t Go Down: From a Real Twitter SRE"
-author: Pito Salasurl: "https://matthewtejo.substack.com/p/why-twitter-didnt-go-down-from-a" cover: "https://rdl.ink/render/https%3A%2F%2Fmatthewtejo.substack.com%2Fp%2Fwhy-twitter-didnt-go-down-from-a" 
+author: Pito Salas
+url: "https://matthewtejo.substack.com/p/why-twitter-didnt-go-down-from-a" 
+cover: "https://rdl.ink/render/https%3A%2F%2Fmatthewtejo.substack.com%2Fp%2Fwhy-twitter-didnt-go-down-from-a" 
 date: 2022-11-27 12:35:02
 tags:
     - twitter-scale-scaling-caching-cosi105

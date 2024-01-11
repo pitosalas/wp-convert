@@ -1,6 +1,8 @@
 ---
 title: "Crystal is not Ruby Pt. 2 – Runtime Revolution"
-author: Pito Salasurl: "https://revs.runtime-revolution.com/crystal-is-not-ruby-pt-2-7c3d988aa9a1" cover: "https://miro.medium.com/max/1024/1*FKeVrXDNC7Nnq5uD70YX8Q.jpeg" 
+author: Pito Salas
+url: "https://revs.runtime-revolution.com/crystal-is-not-ruby-pt-2-7c3d988aa9a1" 
+cover: "https://miro.medium.com/max/1024/1*FKeVrXDNC7Nnq5uD70YX8Q.jpeg" 
 date: 2021-04-06 13:40:22
 tags:
     - crystal-ruby

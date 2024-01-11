@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-03-01T19:30:51
 tags:
     - potus
-    - washingtonpost
+    - washington-tagpost
 ---
 
 

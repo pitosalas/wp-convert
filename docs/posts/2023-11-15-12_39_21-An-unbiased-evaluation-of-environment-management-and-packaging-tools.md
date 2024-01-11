@@ -1,6 +1,8 @@
 ---
 title: "An unbiased evaluation of environment management and packaging tools"
-author: Pito Salasurl: "https://alpopkes.com/posts/python/packaging_tools/" cover: "https://alpopkes.com/images/author/image_al.jpg" 
+author: Pito Salas
+url: "https://alpopkes.com/posts/python/packaging_tools/" 
+cover: "https://alpopkes.com/images/author/image_al.jpg" 
 date: 2023-11-15 12:39:21
 tags:
     - python-build-pyenv-poetry-version-manager

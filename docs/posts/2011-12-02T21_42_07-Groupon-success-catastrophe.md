@@ -5,8 +5,8 @@ date: 2011-12-02T21:42:07
 tags:
     - business
     - cupcakes
-    - groupon
-    - technology
+    - groupon-tag
+    - techno-taglogy
 ---
 
 

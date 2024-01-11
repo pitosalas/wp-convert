@@ -1,6 +1,8 @@
 ---
 title: "PID controller | Wikiwand"
-author: Pito Salasurl: "https://www.wikiwand.com/en/PID_controller" cover: "https://upload.wikimedia.org/wikipedia/commons/1/16/Pneumatische_regelaar.jpg" 
+author: Pito Salas
+url: "https://www.wikiwand.com/en/PID_controller" 
+cover: "https://upload.wikimedia.org/wikipedia/commons/1/16/Pneumatische_regelaar.jpg" 
 date: 2022-08-10 13:48:41
 tags:
     - pid-control-robotics-explainer

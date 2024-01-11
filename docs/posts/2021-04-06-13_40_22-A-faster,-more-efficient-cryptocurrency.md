@@ -1,6 +1,8 @@
 ---
 title: "A faster, more efficient cryptocurrency"
-author: Pito Salasurl: "http://news.mit.edu/2019/vault-faster-more-efficient-cryptocurrency-0124" cover: "https://news.mit.edu/sites/default/files/images/201901/MIT-Vault-Cryptocurrency.jpg" 
+author: Pito Salas
+url: "http://news.mit.edu/2019/vault-faster-more-efficient-cryptocurrency-0124" 
+cover: "https://news.mit.edu/sites/default/files/images/201901/MIT-Vault-Cryptocurrency.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - cryptography-cryptocurrency-bitcoin

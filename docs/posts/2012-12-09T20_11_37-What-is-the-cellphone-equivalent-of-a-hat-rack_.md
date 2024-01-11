@@ -3,10 +3,10 @@ title: "What is the cellphone equivalent of a hat rack?"
 author: Pito Salas
 date: 2012-12-09T20:11:37
 tags:
-    - addiction
-    - attention
-    - cellphone
-    - digital-masturbation
+    - addiction-tag
+    - attention-tag
+    - cellphon-tage
+    - digital-masturbation-tag
 ---
 
 

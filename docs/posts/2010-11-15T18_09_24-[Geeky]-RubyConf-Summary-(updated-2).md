@@ -6,7 +6,7 @@ tags:
     - code
     - rails
     - ruby
-    - rubyconf
+    - rubycon-tagf
 ---
 
 

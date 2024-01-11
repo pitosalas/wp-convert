@@ -1,6 +1,8 @@
 ---
 title: "Rails 5 Action Cable with Multiple Chatroom Subscriptions"
-author: Pito Salasurl: "https://www.thegreatcodeadventure.com/rails-5-action-cable-with-multiple-chatroom-subscriptions" cover: "https://rdl.ink/render/https%3A%2F%2Fwww.thegreatcodeadventure.com%2Frails-5-action-cable-with-multiple-chatroom-subscriptions" 
+author: Pito Salas
+url: "https://www.thegreatcodeadventure.com/rails-5-action-cable-with-multiple-chatroom-subscriptions" 
+cover: "https://rdl.ink/render/https%3A%2F%2Fwww.thegreatcodeadventure.com%2Frails-5-action-cable-with-multiple-chatroom-subscriptions" 
 date: 2021-04-06 13:40:22
 tags:
     - WebSocket-rails-actioncable

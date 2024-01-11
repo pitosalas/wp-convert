@@ -5,11 +5,11 @@ date: 2023-02-17T13:01:42
 tags:
     - explainer
     - fun
-    - inflections
+    - inflection-tags
     - initializers
     - rails
     - ruby
-    - ruby-on-rails
+    - ruby-on-tag-rails
 ---
 
 

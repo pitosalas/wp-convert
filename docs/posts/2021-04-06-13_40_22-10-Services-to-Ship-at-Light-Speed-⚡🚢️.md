@@ -1,6 +1,8 @@
 ---
 title: "10 Services to Ship at Light Speed ⚡🚢️"
-author: Pito Salasurl: "https://link.medium.com/LzL8HArenS" cover: "https://cdn-images-1.medium.com/fit/t/3560/2000/1*_hkOIh9tvIN3PLYml6o3xw.png" 
+author: Pito Salas
+url: "https://link.medium.com/LzL8HArenS" 
+cover: "https://cdn-images-1.medium.com/fit/t/3560/2000/1*_hkOIh9tvIN3PLYml6o3xw.png" 
 date: 2021-04-06 13:40:22
 tags:
     - free-services-rest

@@ -1,6 +1,8 @@
 ---
 title: "[Solved] Tutorial: GPIO/I2C/SPI-access without root-permissions"
-author: Pito Salasurl: "https://forum.up-community.org/discussion/2141/solved-tutorial-gpio-i2c-spi-access-without-root-permissions" cover: "https://rdl.ink/render/https%3A%2F%2Fforum.up-community.org%2Fdiscussion%2F2141%2Fsolved-tutorial-gpio-i2c-spi-access-without-root-permissions" 
+author: Pito Salas
+url: "https://forum.up-community.org/discussion/2141/solved-tutorial-gpio-i2c-spi-access-without-root-permissions" 
+cover: "https://rdl.ink/render/https%3A%2F%2Fforum.up-community.org%2Fdiscussion%2F2141%2Fsolved-tutorial-gpio-i2c-spi-access-without-root-permissions" 
 date: 2021-05-27 13:25:37
 tags:
     - gpio-raspberry-pi-howto

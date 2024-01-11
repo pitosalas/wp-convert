@@ -5,7 +5,7 @@ date: 2024-01-06T16:02:01
 tags:
     - explainer
     - numeric
-    - python
+    - python-tag
     - types
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: "How and why should you use JSON API in your Rails API? - Arkency Blog"
-author: Pito Salasurl: "https://blog.arkency.com/2016/02/how-and-why-should-you-use-json-api-in-your-rails-api" cover: "https://blog-arkency.imgix.net/json-api-rails-ams/header.jpg?w=768&h=758&fit=max" 
+author: Pito Salas
+url: "https://blog.arkency.com/2016/02/how-and-why-should-you-use-json-api-in-your-rails-api" 
+cover: "https://blog-arkency.imgix.net/json-api-rails-ams/header.jpg?w=768&h=758&fit=max" 
 date: 2021-04-06 13:40:23
 tags:
     - Software-Engineering

@@ -5,7 +5,7 @@ date: 2013-01-17T22:36:12
 tags:
     - calendar
     - design
-    - piano
+    - piano-tag
     - practice
     - seinfeld
 ---

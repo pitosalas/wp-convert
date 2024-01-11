@@ -1,6 +1,8 @@
 ---
 title: "GitHub Developer Pack Offer | Heroku"
-author: Pito Salasurl: "https://www.heroku.com/github-students" cover: "https://www.herokucdn.com/images/og.png" 
+author: Pito Salas
+url: "https://www.heroku.com/github-students" 
+cover: "https://www.herokucdn.com/images/og.png" 
 date: 2021-04-06 13:40:22
 tags:
     - students-github

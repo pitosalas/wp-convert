@@ -3,7 +3,7 @@ title: "[GEEKY] Too much authentication goodness"
 author: Pito Salas
 date: 2010-08-04T15:29:39
 tags:
-    - authentication-facebook
+    - authentication-tag-facebook
 ---
 
 

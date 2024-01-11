@@ -1,6 +1,8 @@
 ---
 title: "The Open Syllabus Project – Opening the curricular black box"
-author: Pito Salasurl: "http://opensyllabusproject.org" cover: "https://rdl.ink/render/http%3A%2F%2Fopensyllabusproject.org" 
+author: Pito Salas
+url: "http://opensyllabusproject.org" 
+cover: "https://rdl.ink/render/http%3A%2F%2Fopensyllabusproject.org" 
 date: 2021-04-06 13:40:23
 tags:
     - syllabus-teaching-education-open

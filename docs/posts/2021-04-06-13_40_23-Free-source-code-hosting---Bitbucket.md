@@ -1,6 +1,8 @@
 ---
 title: "Free source code hosting - Bitbucket"
-author: Pito Salasurl: "https://bitbucket.org" cover: "https://wac-cdn.atlassian.com/dam/jcr:a7a6a501-1329-4543-b204-093584908134/Bitbucket@2x-icon-blue.png" 
+author: Pito Salas
+url: "https://bitbucket.org" 
+cover: "https://wac-cdn.atlassian.com/dam/jcr:a7a6a501-1329-4543-b204-093584908134/Bitbucket@2x-icon-blue.png" 
 date: 2021-04-06 13:40:23
 tags:
     - programming-coding-repository

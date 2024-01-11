@@ -1,6 +1,8 @@
 ---
 title: "WTF :: WTF - the terminal dashboard"
-author: Pito Salasurl: "https://wtfutil.com" cover: "https://wtfutil.comstatic/card.png" 
+author: Pito Salas
+url: "https://wtfutil.com" 
+cover: "https://wtfutil.comstatic/card.png" 
 date: 2021-04-06 13:40:22
 tags:
     - cli-terminal-dashboard

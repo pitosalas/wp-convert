@@ -1,6 +1,8 @@
 ---
 title: "The Big List of Wireframe software | CssGalleries"
-author: Pito Salasurl: "http://www.cssgalleries.com/2009/11/the-big-list-of-wireframe-software" cover: "https://s0.wp.com/i/blank.jpg" 
+author: Pito Salas
+url: "http://www.cssgalleries.com/2009/11/the-big-list-of-wireframe-software" 
+cover: "https://s0.wp.com/i/blank.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - Design

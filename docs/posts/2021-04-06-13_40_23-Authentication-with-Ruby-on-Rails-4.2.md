@@ -1,6 +1,8 @@
 ---
 title: "Authentication with Ruby on Rails 4.2"
-author: Pito Salasurl: "http://www.amooma.de/screencasts/2015-02-02-authentication-rails-4.2" cover: "https://rdl.ink/render/http%3A%2F%2Fwww.amooma.de%2Fscreencasts%2F2015-02-02-authentication-rails-4.2" 
+author: Pito Salas
+url: "http://www.amooma.de/screencasts/2015-02-02-authentication-rails-4.2" 
+cover: "https://rdl.ink/render/http%3A%2F%2Fwww.amooma.de%2Fscreencasts%2F2015-02-02-authentication-rails-4.2" 
 date: 2021-04-06 13:40:23
 tags:
     - Software-Engineering

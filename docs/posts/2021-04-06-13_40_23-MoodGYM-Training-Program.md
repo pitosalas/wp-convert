@@ -1,6 +1,8 @@
 ---
 title: "MoodGYM Training Program"
-author: Pito Salasurl: "https://moodgym.anu.edu.au/welcome" cover: "https://rdl.ink/render/https%3A%2F%2Fmoodgym.anu.edu.au%2Fwelcome" 
+author: Pito Salas
+url: "https://moodgym.anu.edu.au/welcome" 
+cover: "https://rdl.ink/render/https%3A%2F%2Fmoodgym.anu.edu.au%2Fwelcome" 
 date: 2021-04-06 13:40:23
 tags:
     - mentalhealth-psychotherapy-therapy

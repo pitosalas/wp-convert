@@ -1,6 +1,8 @@
 ---
 title: "Falsehoods programmers believe about Unix time"
-author: Pito Salasurl: "https://alexwlchan.net/2019/05/falsehoods-programmers-believe-about-unix-time" cover: "https://alexwlchan.net/images/profile2020.jpg" 
+author: Pito Salas
+url: "https://alexwlchan.net/2019/05/falsehoods-programmers-believe-about-unix-time" 
+cover: "https://alexwlchan.net/images/profile2020.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - programmers-unix-esoterica-time

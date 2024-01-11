@@ -1,6 +1,8 @@
 ---
 title: "Understanding SettingwithCopyWarning in pandas"
-author: Pito Salasurl: "https://www.dataquest.io/blog/settingwithcopywarning" cover: "https://www.dataquest.io/wp-content/uploads/2015/12/settingwithcopywarning.png" 
+author: Pito Salas
+url: "https://www.dataquest.io/blog/settingwithcopywarning" 
+cover: "https://www.dataquest.io/wp-content/uploads/2015/12/settingwithcopywarning.png" 
 date: 2021-04-06 13:40:23
 tags:
     - datascience-pandas

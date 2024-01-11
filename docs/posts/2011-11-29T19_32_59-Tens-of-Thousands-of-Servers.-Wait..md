@@ -6,7 +6,7 @@ tags:
     - facebook
     - scalability
     - servers
-    - technology
+    - techno-taglogy
     - web
 ---
 

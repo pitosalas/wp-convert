@@ -5,7 +5,7 @@ date: 2012-01-11T20:40:36
 tags:
     - GEEKY
     - gigaom
-    - technology
+    - techno-taglogy
 ---
 
 

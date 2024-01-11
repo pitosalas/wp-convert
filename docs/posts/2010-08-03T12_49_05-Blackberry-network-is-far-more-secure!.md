@@ -3,7 +3,7 @@ title: "Blackberry network is far more secure!"
 author: Pito Salas
 date: 2010-08-03T12:49:05
 tags:
-    - iphone-blackberry-nyt-uae
+    - iphon-tage-blackberry-nyt-uae
 ---
 
 

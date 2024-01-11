@@ -1,6 +1,8 @@
 ---
 title: "The strange relationship between objects, functions, generators and coroutines"
-author: Pito Salasurl: "https://www.packt.com/bizarre-python/?utm_source=abyteofcodingnewsletter" cover: "https://www.packt.com/wp-content/uploads/2022/05/pexels-photo-821944.jpeg" 
+author: Pito Salas
+url: "https://www.packt.com/bizarre-python/?utm_source=abyteofcodingnewsletter" 
+cover: "https://www.packt.com/wp-content/uploads/2022/05/pexels-photo-821944.jpeg" 
 date: 2022-06-30 12:43:36
 tags:
     - python-howto-objects-functions

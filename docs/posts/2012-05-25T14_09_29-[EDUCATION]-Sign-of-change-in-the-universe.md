@@ -6,8 +6,8 @@ tags:
     - career
     - creativity
     - entrepeneurship
-    - higher-education
-    - innovation
+    - higher-education-tag
+    - inno-tagvation-tag
 ---
 
 

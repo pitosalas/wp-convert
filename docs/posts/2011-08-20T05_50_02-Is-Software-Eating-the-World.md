@@ -3,7 +3,7 @@ title: "Is Software Eating the World"
 author: Pito Salas
 date: 2011-08-20T05:50:02
 tags:
-    - andreeson
+    - andreeson-tag
     - software
 ---
 

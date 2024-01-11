@@ -1,6 +1,8 @@
 ---
 title: "The Ninja Platform | Ninja Blocks"
-author: Pito Salasurl: "http://ninjablocks.com" cover: "https://rdl.ink/render/http%3A%2F%2Fninjablocks.com" 
+author: Pito Salas
+url: "http://ninjablocks.com" 
+cover: "https://rdl.ink/render/http%3A%2F%2Fninjablocks.com" 
 date: 2021-04-06 13:40:23
 tags:
     - hardware-arduino

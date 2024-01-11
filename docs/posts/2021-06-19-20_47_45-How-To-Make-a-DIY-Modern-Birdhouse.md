@@ -1,6 +1,8 @@
 ---
 title: "How To Make a DIY Modern Birdhouse"
-author: Pito Salasurl: "https://www.curbly.com/how-to-make-a-birdhouse" cover: "http://assets.curbly.com/photos/0000/0013/5044/picture_1.png" 
+author: Pito Salas
+url: "https://www.curbly.com/how-to-make-a-birdhouse" 
+cover: "http://assets.curbly.com/photos/0000/0013/5044/picture_1.png" 
 date: 2021-06-19 20:47:45
 tags:
     - build-wood-birdhouse-mid-century-modern

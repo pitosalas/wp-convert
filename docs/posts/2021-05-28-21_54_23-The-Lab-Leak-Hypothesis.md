@@ -1,6 +1,8 @@
 ---
 title: "The Lab-Leak Hypothesis"
-author: Pito Salasurl: "https://nymag.com/intelligencer/article/coronavirus-lab-escape-theory.html" cover: "https://pyxis.nymag.com/v1/imgs/ebd/8ee/f519e633a0a5a723459d46eb33888358f8-Covid-LabLeak-Art-only-16x9.2x.rsocial.w600.jpg" 
+author: Pito Salas
+url: "https://nymag.com/intelligencer/article/coronavirus-lab-escape-theory.html" 
+cover: "https://pyxis.nymag.com/v1/imgs/ebd/8ee/f519e633a0a5a723459d46eb33888358f8-Covid-LabLeak-Art-only-16x9.2x.rsocial.w600.jpg" 
 date: 2021-05-28 21:54:23
 tags:
     - science-virus-article-new-york-magazine

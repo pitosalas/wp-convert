@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2011-05-25T12:58:01
 tags:
     - grades
-    - higher-education
+    - higher-education-tag
     - university
 ---
 

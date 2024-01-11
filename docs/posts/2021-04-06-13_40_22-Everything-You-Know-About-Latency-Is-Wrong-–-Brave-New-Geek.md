@@ -1,6 +1,8 @@
 ---
 title: "Everything You Know About Latency Is Wrong – Brave New Geek"
-author: Pito Salasurl: "http://bravenewgeek.com/everything-you-know-about-latency-is-wrong" cover: "https://bravenewgeek.com/wp-content/uploads/2015/10/Screen-Shot-2015-10-04-at-4.32.24-PM.png?w=640" 
+author: Pito Salas
+url: "http://bravenewgeek.com/everything-you-know-about-latency-is-wrong" 
+cover: "https://bravenewgeek.com/wp-content/uploads/2015/10/Screen-Shot-2015-10-04-at-4.32.24-PM.png?w=640" 
 date: 2021-04-06 13:40:22
 tags:
     - Software-Engineering

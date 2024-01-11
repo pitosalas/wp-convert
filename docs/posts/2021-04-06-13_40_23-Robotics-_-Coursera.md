@@ -1,6 +1,8 @@
 ---
 title: "Robotics | Coursera"
-author: Pito Salasurl: "https://www.coursera.org/specializations/robotics?authMode=login" cover: "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~SPECIALIZATION!~robotics/XDP~SPECIALIZATION!~robotics.jpeg" 
+author: Pito Salas
+url: "https://www.coursera.org/specializations/robotics?authMode=login" 
+cover: "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~SPECIALIZATION!~robotics/XDP~SPECIALIZATION!~robotics.jpeg" 
 date: 2021-04-06 13:40:23
 tags:
     - Robotics

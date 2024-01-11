@@ -5,7 +5,7 @@ date: 2023-07-10T12:01:56
 tags:
     - ChatGPT
     - cheating
-    - opinion
+    - opinion-tag
     - teaching
 ---
 

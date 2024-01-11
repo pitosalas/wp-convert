@@ -3,7 +3,7 @@ title: "Transparency Camp"
 author: Pito Salas
 date: 2009-03-01T12:10:39
 tags:
-    - sunlightfoundation
+    - sunlightfoundation-tag
     - tcamp09
     - transparency
 ---

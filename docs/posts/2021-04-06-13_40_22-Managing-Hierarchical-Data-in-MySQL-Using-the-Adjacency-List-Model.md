@@ -1,6 +1,8 @@
 ---
 title: "Managing Hierarchical Data in MySQL Using the Adjacency List Model"
-author: Pito Salasurl: "http://www.mysqltutorial.org/mysql-adjacency-list-tree" cover: "http://www.mysqltutorial.org/wp-content/uploads/2017/06/mysql-adjacency-list.png" 
+author: Pito Salas
+url: "http://www.mysqltutorial.org/mysql-adjacency-list-tree" 
+cover: "http://www.mysqltutorial.org/wp-content/uploads/2017/06/mysql-adjacency-list.png" 
 date: 2021-04-06 13:40:22
 tags:
     - sql-tips-data-modeling

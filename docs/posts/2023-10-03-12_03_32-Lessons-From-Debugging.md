@@ -1,6 +1,8 @@
 ---
 title: "Lessons From Debugging"
-author: Pito Salasurl: "https://matt-rickard.com/lessons-from-debugging?utm_source=changelog-news" cover: "https://matt-rickard.com/api/og?title=Lessons%20From%20Debugging" 
+author: Pito Salas
+url: "https://matt-rickard.com/lessons-from-debugging?utm_source=changelog-news" 
+cover: "https://matt-rickard.com/api/og?title=Lessons%20From%20Debugging" 
 date: 2023-10-03 12:03:32
 tags:
     - debugging-howto-best-bet-best-practices

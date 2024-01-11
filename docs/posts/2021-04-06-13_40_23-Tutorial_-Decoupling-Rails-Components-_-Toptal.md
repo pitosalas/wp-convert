@@ -1,6 +1,8 @@
 ---
 title: "Tutorial: Decoupling Rails Components | Toptal"
-author: Pito Salasurl: "https://www.toptal.com/ruby-on-rails/decoupling-rails-components" cover: "https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/15353/default-social-1-8644cb76eb27911e855db3b3e58503fc.png" 
+author: Pito Salas
+url: "https://www.toptal.com/ruby-on-rails/decoupling-rails-components" 
+cover: "https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/15353/default-social-1-8644cb76eb27911e855db3b3e58503fc.png" 
 date: 2021-04-06 13:40:23
 tags:
     - Software-Engineering

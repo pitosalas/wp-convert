@@ -1,6 +1,8 @@
 ---
 title: "A Gentle Introduction to Particle Swarm Optimization"
-author: Pito Salasurl: "https://machinelearningmastery.com/a-gentle-introduction-to-particle-swarm-optimization/" cover: "https://machinelearningmastery.com/wp-content/uploads/2021/08/3333025004_219a07456f_b.jpg" 
+author: Pito Salas
+url: "https://machinelearningmastery.com/a-gentle-introduction-to-particle-swarm-optimization/" 
+cover: "https://machinelearningmastery.com/wp-content/uploads/2021/08/3333025004_219a07456f_b.jpg" 
 date: 2022-06-29 18:34:17
 tags:
     - PSO-machine-learning-evolutionary-algorithms-python-py-sci-kit-howto

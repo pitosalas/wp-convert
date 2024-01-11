@@ -1,6 +1,8 @@
 ---
 title: "GitHub - volution/z-tokens: z-tokens -- random tokens generation and related tools"
-author: Pito Salasurl: "https://github.com/volution/z-tokens" cover: "https://repository-images.githubusercontent.com/29959242/d0734a7f-8c8f-41bb-a7ed-580df1445668" 
+author: Pito Salas
+url: "https://github.com/volution/z-tokens" 
+cover: "https://repository-images.githubusercontent.com/29959242/d0734a7f-8c8f-41bb-a7ed-580df1445668" 
 date: 2023-01-15 12:33:26
 tags:
     - password-cli-rust-utility

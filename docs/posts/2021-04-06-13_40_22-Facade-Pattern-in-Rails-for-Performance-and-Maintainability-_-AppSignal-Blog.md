@@ -1,6 +1,8 @@
 ---
 title: "Facade Pattern in Rails for Performance and Maintainability | AppSignal Blog"
-author: Pito Salasurl: "https://blog.appsignal.com/2020/03/18/facade-pattern-in-rails-for-performance-and-maintainability.html" cover: "https://blog.appsignal.com/images/blog/2020-03/facade-pattern-in-rails-for-performance-and-maintainability-twitter.jpg" 
+author: Pito Salas
+url: "https://blog.appsignal.com/2020/03/18/facade-pattern-in-rails-for-performance-and-maintainability.html" 
+cover: "https://blog.appsignal.com/images/blog/2020-03/facade-pattern-in-rails-for-performance-and-maintainability-twitter.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - howto-pattern-rails-facade

@@ -1,6 +1,8 @@
 ---
 title: "(1) ULTIMATE GUITAR TABS - 1,100,000 songs catalog with free Chords, Guitar Tabs, Bass Tabs, Ukulele Chords and Guitar Pro Tabs!"
-author: Pito Salasurl: "https://www.ultimate-guitar.com/" cover: "https://rdl.ink/render/https%3A%2F%2Fwww.ultimate-guitar.com%2F" 
+author: Pito Salas
+url: "https://www.ultimate-guitar.com/" 
+cover: "https://rdl.ink/render/https%3A%2F%2Fwww.ultimate-guitar.com%2F" 
 date: 2021-08-22 17:56:14
 tags:
     - chords-tab-music-guitar-songs-cooltool

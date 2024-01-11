@@ -1,6 +1,8 @@
 ---
 title: "How to use an MPU9250 Accelerometer and Gyroscope With Arduino - Latest Open Tech From Seeed"
-author: Pito Salasurl: "https://www.seeedstudio.com/blog/2020/06/17/how-to-use-an-mpu9250-accelerometer-and-gyroscope-with-arduino/" cover: "https://www.seeedstudio.com/blog/wp-content/uploads/2020/06/image-58.png" 
+author: Pito Salas
+url: "https://www.seeedstudio.com/blog/2020/06/17/how-to-use-an-mpu9250-accelerometer-and-gyroscope-with-arduino/" 
+cover: "https://www.seeedstudio.com/blog/wp-content/uploads/2020/06/image-58.png" 
 date: 2022-01-13 01:10:01
 tags:
     - robotics-imu-9250-explainer

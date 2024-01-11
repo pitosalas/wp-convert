@@ -1,6 +1,8 @@
 ---
 title: "Unlock the Potential of VS Code for Ruby Programming"
-author: Pito Salasurl: "https://betterprogramming.pub/unlock-the-potential-of-vs-code-for-ruby-programming-c8d853fc77ab" cover: "https://miro.medium.com/max/720/1*t8uaOgmePlVFQOGdPVeESw.png" 
+author: Pito Salas
+url: "https://betterprogramming.pub/unlock-the-potential-of-vs-code-for-ruby-programming-c8d853fc77ab" 
+cover: "https://miro.medium.com/max/720/1*t8uaOgmePlVFQOGdPVeESw.png" 
 date: 2023-02-03 17:02:29
 tags:
     - ruby-vscode-rubocop

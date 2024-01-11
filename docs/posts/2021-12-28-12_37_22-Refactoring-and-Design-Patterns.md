@@ -1,6 +1,8 @@
 ---
 title: "Refactoring and Design Patterns"
-author: Pito Salasurl: "https://refactoring.guru/" cover: "https://refactoring.guru/images/refactoring/social/facebook-share-preview.png?id=dbf9e98269595be86eb6" 
+author: Pito Salas
+url: "https://refactoring.guru/" 
+cover: "https://refactoring.guru/images/refactoring/social/facebook-share-preview.png?id=dbf9e98269595be86eb6" 
 date: 2021-12-28 12:37:22
 tags:
     - refactoring-patterns-ruby-howto

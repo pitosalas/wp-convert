@@ -3,7 +3,7 @@ title: "Sinking in a sea of documents"
 author: Pito Salas
 date: 2010-05-06T16:47:33
 tags:
-    - comprehension
+    - comprehension-tag
     - document
     - indexing
 ---

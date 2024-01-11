@@ -1,6 +1,8 @@
 ---
 title: "Installing Sun’s Java on CentOS 5.2 | Chris Schuld's Blog"
-author: Pito Salasurl: "http://chrisschuld.com/2008/10/installing-sun-java-on-centos-5-2" cover: "https://rdl.ink/render/http%3A%2F%2Fchrisschuld.com%2F2008%2F10%2Finstalling-sun-java-on-centos-5-2" 
+author: Pito Salas
+url: "http://chrisschuld.com/2008/10/installing-sun-java-on-centos-5-2" 
+cover: "https://rdl.ink/render/http%3A%2F%2Fchrisschuld.com%2F2008%2F10%2Finstalling-sun-java-on-centos-5-2" 
 date: 2021-04-06 13:40:22
 ---
 <img src=https://rdl.ink/render/http%3A%2F%2Fchrisschuld.com%2F2008%2F10%2Finstalling-sun-java-on-centos-5-2 width="500">

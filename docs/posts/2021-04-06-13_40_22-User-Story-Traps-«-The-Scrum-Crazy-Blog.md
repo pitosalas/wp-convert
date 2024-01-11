@@ -1,6 +1,8 @@
 ---
 title: "User Story Traps « The Scrum Crazy Blog"
-author: Pito Salasurl: "http://scrumcrazy.wordpress.com/2011/01/05/user-story-traps" cover: "https://scrumcrazy.files.wordpress.com/2019/09/cropped-cb_headshot.jpg?w=109" 
+author: Pito Salas
+url: "http://scrumcrazy.wordpress.com/2011/01/05/user-story-traps" 
+cover: "https://scrumcrazy.files.wordpress.com/2019/09/cropped-cb_headshot.jpg?w=109" 
 date: 2021-04-06 13:40:22
 tags:
     - Sittercity

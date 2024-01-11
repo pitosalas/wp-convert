@@ -1,6 +1,8 @@
 ---
 title: "Integrate Bootstrap 4 and Font Awesome 5 in Rails 6"
-author: Pito Salasurl: "https://medium.com/swlh/integrate-bootstrap-4-and-font-awesome-5-in-rails-6-fec52ee51753" cover: "https://miro.medium.com/max/1169/1*rWX27X1vtDVeDKGdfdky7w.png" 
+author: Pito Salas
+url: "https://medium.com/swlh/integrate-bootstrap-4-and-font-awesome-5-in-rails-6-fec52ee51753" 
+cover: "https://miro.medium.com/max/1169/1*rWX27X1vtDVeDKGdfdky7w.png" 
 date: 2021-04-06 13:40:22
 tags:
     - rails-bootstrap-webpacker

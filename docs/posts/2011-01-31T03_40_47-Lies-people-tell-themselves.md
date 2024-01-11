@@ -3,11 +3,11 @@ title: "Lies people tell themselves"
 author: Pito Salas
 date: 2011-01-31T03:40:47
 tags:
-    - arrington
-    - silliconvalley
+    - arrington-tag
+    - sillicon-tagvalley
     - sleep
     - startups
-    - technology
+    - techno-taglogy
 ---
 
 

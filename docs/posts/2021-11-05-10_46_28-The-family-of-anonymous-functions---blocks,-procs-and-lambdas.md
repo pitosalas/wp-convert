@@ -1,6 +1,8 @@
 ---
 title: "The family of anonymous functions - blocks, procs and lambdas"
-author: Pito Salasurl: "https://longliveruby.com/articles/the-family-of-anonymous-functions" cover: "https://longliveruby.herokuapp.com/assets/longliveruby.jpg" 
+author: Pito Salas
+url: "https://longliveruby.com/articles/the-family-of-anonymous-functions" 
+cover: "https://longliveruby.herokuapp.com/assets/longliveruby.jpg" 
 date: 2021-11-05 10:46:28
 tags:
     - ruby-blocks-howto-explainer

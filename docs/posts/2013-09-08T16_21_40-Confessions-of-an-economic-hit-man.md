@@ -5,7 +5,7 @@ date: 2013-09-08T16:21:40
 tags:
     - foreign-aid
     - military
-    - money
+    - mon-tagey
     - syria
     - war
 ---

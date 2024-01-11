@@ -1,6 +1,8 @@
 ---
 title: "Linux Process Management: Commands You Should Know - HostingAdvice.com | HostingAdvice.com"
-author: Pito Salasurl: "http://www.hostingadvice.com/blog/linux-process-management-commands-know" cover: "" 
+author: Pito Salas
+url: "http://www.hostingadvice.com/blog/linux-process-management-commands-know" 
+cover: "" 
 date: 2021-04-06 13:40:23
 tags:
     - linux-management-commands

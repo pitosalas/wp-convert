@@ -1,6 +1,8 @@
 ---
 title: "How an internet mapping glitch turned a random Kansas farm into a digital hell"
-author: Pito Salasurl: "https://splinternews.com/how-an-internet-mapping-glitch-turned-a-random-kansas-f-1793856052" cover: "https://x.kinja-static.com/assets/images/logos/placeholders/splinter.png" 
+author: Pito Salas
+url: "https://splinternews.com/how-an-internet-mapping-glitch-turned-a-random-kansas-f-1793856052" 
+cover: "https://x.kinja-static.com/assets/images/logos/placeholders/splinter.png" 
 date: 2022-01-05 14:52:56
 tags:
     - internet-funny-glitch-gps-latlong

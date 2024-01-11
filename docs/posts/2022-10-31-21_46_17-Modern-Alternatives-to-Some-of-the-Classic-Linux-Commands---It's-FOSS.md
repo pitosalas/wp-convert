@@ -1,6 +1,8 @@
 ---
 title: "Modern Alternatives to Some of the Classic Linux Commands - It's FOSS"
-author: Pito Salasurl: "https://itsfoss.com/legacy-linux-commands-alternatives/" cover: "https://itsfoss.com/wp-content/uploads/2022/01/penguins.png" 
+author: Pito Salas
+url: "https://itsfoss.com/legacy-linux-commands-alternatives/" 
+cover: "https://itsfoss.com/wp-content/uploads/2022/01/penguins.png" 
 date: 2022-10-31 21:46:17
 tags:
     - cli-linux-ls-fd-fast-alternative

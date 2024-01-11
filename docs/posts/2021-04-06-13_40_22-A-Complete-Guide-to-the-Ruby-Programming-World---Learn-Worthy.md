@@ -1,6 +1,8 @@
 ---
 title: "A Complete Guide to the Ruby Programming World - Learn Worthy"
-author: Pito Salasurl: "https://learnworthy.net/a-complete-guide-to-the-ruby-programming-world" cover: "https://learnworthy.net/wp-content/uploads/2019/08/A-Complete-Guide-to-the-Ruby-Programming-World.png" 
+author: Pito Salas
+url: "https://learnworthy.net/a-complete-guide-to-the-ruby-programming-world" 
+cover: "https://learnworthy.net/wp-content/uploads/2019/08/A-Complete-Guide-to-the-Ruby-Programming-World.png" 
 date: 2021-04-06 13:40:22
 tags:
     - programming-guide-ruby-overview

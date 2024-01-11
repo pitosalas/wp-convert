@@ -1,6 +1,8 @@
 ---
 title: "GitHub - denisidoro/navi: An interactive cheatsheet tool for the command-line"
-author: Pito Salasurl: "https://github.com/denisidoro/navi" cover: "https://avatars.githubusercontent.com/u/3226564?s=400&v=4" 
+author: Pito Salas
+url: "https://github.com/denisidoro/navi" 
+cover: "https://avatars.githubusercontent.com/u/3226564?s=400&v=4" 
 date: 2021-04-06 13:40:22
 tags:
     - cli-cheatsheet-shell-linux-howto-advice

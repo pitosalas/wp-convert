@@ -3,7 +3,7 @@ title: "Aaron Swartz: continuing developments"
 author: Pito Salas
 date: 2013-02-27T15:43:34
 tags:
-    - aaron-swartz
+    - aaron-tag-swartz
     - doj
     - legal
 ---

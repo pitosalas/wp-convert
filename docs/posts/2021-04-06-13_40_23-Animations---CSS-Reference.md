@@ -1,6 +1,8 @@
 ---
 title: "Animations - CSS Reference"
-author: Pito Salasurl: "http://cssreference.io/animations" cover: "https://cssreference.io/images/css-reference-share.png" 
+author: Pito Salas
+url: "http://cssreference.io/animations" 
+cover: "https://cssreference.io/images/css-reference-share.png" 
 date: 2021-04-06 13:40:23
 tags:
     - css-animations

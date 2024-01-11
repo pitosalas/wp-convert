@@ -5,7 +5,7 @@ date: 2012-09-25T19:53:43
 tags:
     - nyrb
     - philosophy
-    - religion
+    - religion-tag
 ---
 
 

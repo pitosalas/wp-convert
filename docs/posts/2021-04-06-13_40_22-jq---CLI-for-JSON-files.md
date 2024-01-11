@@ -1,6 +1,8 @@
 ---
 title: "jq - CLI for JSON files"
-author: Pito Salasurl: "https://stedolan.github.io/jq" cover: "https://rdl.ink/render/https%3A%2F%2Fstedolan.github.io%2Fjq" 
+author: Pito Salas
+url: "https://stedolan.github.io/jq" 
+cover: "https://rdl.ink/render/https%3A%2F%2Fstedolan.github.io%2Fjq" 
 date: 2021-04-06 13:40:22
 tags:
     - json-too-howto-jq-cooltool

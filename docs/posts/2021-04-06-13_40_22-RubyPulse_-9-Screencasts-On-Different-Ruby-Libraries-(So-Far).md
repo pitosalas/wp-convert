@@ -1,6 +1,8 @@
 ---
 title: "RubyPulse: 9 Screencasts On Different Ruby Libraries (So Far)"
-author: Pito Salasurl: "http://www.rubyinside.com/rubypulse-ruby-library-screencasts-2570.html" cover: "https://rdl.ink/render/http%3A%2F%2Fwww.rubyinside.com%2Frubypulse-ruby-library-screencasts-2570.html" 
+author: Pito Salas
+url: "http://www.rubyinside.com/rubypulse-ruby-library-screencasts-2570.html" 
+cover: "https://rdl.ink/render/http%3A%2F%2Fwww.rubyinside.com%2Frubypulse-ruby-library-screencasts-2570.html" 
 date: 2021-04-06 13:40:22
 tags:
     - ruby

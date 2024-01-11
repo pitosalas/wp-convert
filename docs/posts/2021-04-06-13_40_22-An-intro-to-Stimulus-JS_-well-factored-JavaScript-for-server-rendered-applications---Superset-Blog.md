@@ -1,6 +1,8 @@
 ---
 title: "An intro to Stimulus JS: well-factored JavaScript for server-rendered applications - Superset Blog"
-author: Pito Salasurl: "https://blog.supersetinc.com/2018/01/11/well-factored-javascript-server-rendered-applications-using-stimulus" cover: "https://blog.supersetinc.com/wp-content/uploads/2018/01/stimulus.jpg" 
+author: Pito Salas
+url: "https://blog.supersetinc.com/2018/01/11/well-factored-javascript-server-rendered-applications-using-stimulus" 
+cover: "https://blog.supersetinc.com/wp-content/uploads/2018/01/stimulus.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - stimulus-javascript-rails

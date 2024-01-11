@@ -1,6 +1,8 @@
 ---
 title: "A Complete Guide to Lock Convoys | Dave Kilian's Blog"
-author: Pito Salasurl: "https://davekilian.com/lock-convoys.html?utm_source=abyteofcodingnewsletter" cover: "https://rdl.ink/render/https%3A%2F%2Fdavekilian.com%2Flock-convoys.html%3Futm_source%3Dabyteofcodingnewsletter" 
+author: Pito Salas
+url: "https://davekilian.com/lock-convoys.html?utm_source=abyteofcodingnewsletter" 
+cover: "https://rdl.ink/render/https%3A%2F%2Fdavekilian.com%2Flock-convoys.html%3Futm_source%3Dabyteofcodingnewsletter" 
 date: 2022-11-29 11:17:23
 tags:
     - scale-bottleneck-locks-lock-performance-code-convoy

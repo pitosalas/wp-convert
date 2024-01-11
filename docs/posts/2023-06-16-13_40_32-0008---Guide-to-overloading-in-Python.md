@@ -1,6 +1,8 @@
 ---
 title: "0008 - Guide to overloading in Python"
-author: Pito Salasurl: "https://ceayo.neocities.org/posts/0008---guide-to-overloading-in-python/" cover: "https://ceayo.neocities.org/0008%20-%20Guide%20to%20overloading%20in%20Python.png" 
+author: Pito Salas
+url: "https://ceayo.neocities.org/posts/0008---guide-to-overloading-in-python/" 
+cover: "https://ceayo.neocities.org/0008%20-%20Guide%20to%20overloading%20in%20Python.png" 
 date: 2023-06-16 13:40:32
 tags:
     - python-overloading-functions-explainer-language

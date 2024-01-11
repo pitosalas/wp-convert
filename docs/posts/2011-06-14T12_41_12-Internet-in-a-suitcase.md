@@ -3,7 +3,7 @@ title: "Internet in a suitcase"
 author: Pito Salas
 date: 2011-06-14T12:41:12
 tags:
-    - cellphones
+    - cellphon-tages
     - internet
     - USA
 ---

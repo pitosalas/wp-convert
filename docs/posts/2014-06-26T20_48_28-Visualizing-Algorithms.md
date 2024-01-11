@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2014-06-26T20:48:28
 tags:
     - algorithms
-    - visualization
+    - visualization-tag
 ---
 
 

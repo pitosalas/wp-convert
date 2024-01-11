@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2023-07-07T12:01:54
 tags:
     - cooltool
-    - education
+    - education-tag
     - robotics
 ---
 

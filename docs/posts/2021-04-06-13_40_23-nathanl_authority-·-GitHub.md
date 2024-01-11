@@ -1,6 +1,8 @@
 ---
 title: "nathanl/authority · GitHub"
-author: Pito Salasurl: "https://github.com/nathanl/authority" cover: "https://avatars.githubusercontent.com/u/338814?s=400&v=4" 
+author: Pito Salas
+url: "https://github.com/nathanl/authority" 
+cover: "https://avatars.githubusercontent.com/u/338814?s=400&v=4" 
 date: 2021-04-06 13:40:23
 tags:
     - rails-gem-ruby

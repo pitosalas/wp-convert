@@ -1,6 +1,8 @@
 ---
 title: "What is Standards-based Grading? - TeacherEase"
-author: Pito Salasurl: "https://www.teacherease.com/standards-based-grading.aspx" cover: "https://rdl.ink/render/https%3A%2F%2Fwww.teacherease.com%2Fstandards-based-grading.aspx" 
+author: Pito Salas
+url: "https://www.teacherease.com/standards-based-grading.aspx" 
+cover: "https://rdl.ink/render/https%3A%2F%2Fwww.teacherease.com%2Fstandards-based-grading.aspx" 
 date: 2023-06-29 21:33:30
 ---
 <img src=https://rdl.ink/render/https%3A%2F%2Fwww.teacherease.com%2Fstandards-based-grading.aspx width="500">

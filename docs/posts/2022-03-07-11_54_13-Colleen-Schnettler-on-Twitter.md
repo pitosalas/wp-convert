@@ -1,6 +1,8 @@
 ---
 title: "Colleen Schnettler on Twitter"
-author: Pito Salasurl: "https://twitter.com/leenyburger/status/1499444001564413953/photo/1" cover: "https://pbs.twimg.com/media/FM8YWOOXEAQRRat.jpg:large" 
+author: Pito Salas
+url: "https://twitter.com/leenyburger/status/1499444001564413953/photo/1" 
+cover: "https://pbs.twimg.com/media/FM8YWOOXEAQRRat.jpg:large" 
 date: 2022-03-07 11:54:13
 tags:
     - rails-activerecord-howto-joins

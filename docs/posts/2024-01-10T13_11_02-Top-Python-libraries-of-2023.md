@@ -7,7 +7,7 @@ tags:
     - data-science
     - libraries
     - package
-    - python
+    - python-tag
 ---
 
 [ Top Python libraries of 2023](< https://tryolabs.com/blog/top-python-

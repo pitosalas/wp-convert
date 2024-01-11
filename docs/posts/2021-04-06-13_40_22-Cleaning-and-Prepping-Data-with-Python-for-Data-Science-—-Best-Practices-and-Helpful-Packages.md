@@ -1,6 +1,8 @@
 ---
 title: "Cleaning and Prepping Data with Python for Data Science — Best Practices and Helpful Packages"
-author: Pito Salasurl: "https://medium.com/@rrfd/cleaning-and-prepping-data-with-python-for-data-science-best-practices-and-helpful-packages-af1edfbe2a3" cover: "" 
+author: Pito Salas
+url: "https://medium.com/@rrfd/cleaning-and-prepping-data-with-python-for-data-science-best-practices-and-helpful-packages-af1edfbe2a3" 
+cover: "" 
 date: 2021-04-06 13:40:22
 tags:
     - howto-python-cleaning-data-datascience

@@ -1,6 +1,8 @@
 ---
 title: "Components · Bootstrap"
-author: Pito Salasurl: "http://getbootstrap.com/components" cover: "" 
+author: Pito Salas
+url: "http://getbootstrap.com/components" 
+cover: "" 
 date: 2021-04-06 13:40:23
 tags:
     - bootstrap-css-html5

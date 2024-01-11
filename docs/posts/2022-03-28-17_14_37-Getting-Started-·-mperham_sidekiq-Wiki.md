@@ -1,6 +1,8 @@
 ---
 title: "Getting Started · mperham/sidekiq Wiki"
-author: Pito Salasurl: "https://github.com/mperham/sidekiq/wiki/Getting-Started" cover: "https://repository-images.githubusercontent.com/3195124/9c297005-12fc-49fd-853e-67bba879a6f2" 
+author: Pito Salas
+url: "https://github.com/mperham/sidekiq/wiki/Getting-Started" 
+cover: "https://repository-images.githubusercontent.com/3195124/9c297005-12fc-49fd-853e-67bba879a6f2" 
 date: 2022-03-28 17:14:37
 tags:
     - ruby-asynchronous-background-queueing-howto-scaling-performance

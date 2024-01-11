@@ -1,6 +1,8 @@
 ---
 title: "Bitcoin has a dark side: its carbon footprint | PandoDaily"
-author: Pito Salasurl: "http://pando.com/2013/12/16/bitcoin-has-a-dark-side-its-carbon-footprint" cover: "https://assets.pando.com/uploads/2013/12/pollution.jpg" 
+author: Pito Salas
+url: "http://pando.com/2013/12/16/bitcoin-has-a-dark-side-its-carbon-footprint" 
+cover: "https://assets.pando.com/uploads/2013/12/pollution.jpg" 
 date: 2021-04-06 13:40:23
 tags:
     - bitcoin

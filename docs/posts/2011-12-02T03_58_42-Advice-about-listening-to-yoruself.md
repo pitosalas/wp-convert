@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2011-12-02T03:58:42
 tags:
     - advice
-    - decisions
+    - decision-tags
     - life
 ---
 

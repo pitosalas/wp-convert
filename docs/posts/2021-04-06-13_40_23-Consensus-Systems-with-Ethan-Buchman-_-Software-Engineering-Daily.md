@@ -1,6 +1,8 @@
 ---
 title: "Consensus Systems with Ethan Buchman | Software Engineering Daily"
-author: Pito Salasurl: "https://softwareengineeringdaily.com/2018/03/26/consensus-systems-with-ethan-buchman" cover: "https://softwareengineeringdaily.com/wp-content/uploads/2018/03/tendermint1.png" 
+author: Pito Salas
+url: "https://softwareengineeringdaily.com/2018/03/26/consensus-systems-with-ethan-buchman" 
+cover: "https://softwareengineeringdaily.com/wp-content/uploads/2018/03/tendermint1.png" 
 date: 2021-04-06 13:40:23
 tags:
     - consensus-systems-software

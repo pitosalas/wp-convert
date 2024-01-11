@@ -3,9 +3,9 @@ title: "Amazing Stuxnet story"
 author: Pito Salas
 date: 2010-12-01T12:28:21
 tags:
-    - 007
+    - Bond-007
     - iran
-    - james-bond
+    - james-bon-tagd
     - security
     - stuxnet
 ---

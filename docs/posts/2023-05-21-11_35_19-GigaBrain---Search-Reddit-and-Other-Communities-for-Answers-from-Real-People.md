@@ -1,6 +1,8 @@
 ---
 title: "GigaBrain - Search Reddit and Other Communities for Answers from Real People"
-author: Pito Salasurl: "https://thegigabrain.com/" cover: "https://thegigabrain.com/assets/192x192.png" 
+author: Pito Salas
+url: "https://thegigabrain.com/" 
+cover: "https://thegigabrain.com/assets/192x192.png" 
 date: 2023-05-21 11:35:19
 tags:
     - shopping-search-reddit-cooltool

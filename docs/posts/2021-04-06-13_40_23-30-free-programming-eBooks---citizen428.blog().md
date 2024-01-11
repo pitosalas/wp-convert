@@ -1,6 +1,8 @@
 ---
 title: "30 free programming eBooks - citizen428.blog()"
-author: Pito Salasurl: "http://citizen428.net/blog/2010/08/12/30-free-programming-ebooks" cover: "" 
+author: Pito Salas
+url: "http://citizen428.net/blog/2010/08/12/30-free-programming-ebooks" 
+cover: "" 
 date: 2021-04-06 13:40:23
 tags:
     - development-ebook-programming

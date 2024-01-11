@@ -5,7 +5,7 @@ date: 2013-02-23T18:36:44
 tags:
     - entrepeneurship
     - equity
-    - money
+    - mon-tagey
     - startups
 ---
 

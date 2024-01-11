@@ -1,6 +1,8 @@
 ---
 title: "Introduction - Docs - Foxglove Studio"
-author: Pito Salasurl: "https://foxglove.dev/docs/studio" cover: "https://foxglove.dev/images/og-image.png" 
+author: Pito Salas
+url: "https://foxglove.dev/docs/studio" 
+cover: "https://foxglove.dev/images/og-image.png" 
 date: 2022-03-18 19:49:21
 tags:
     - ros-rviz-windows-tools

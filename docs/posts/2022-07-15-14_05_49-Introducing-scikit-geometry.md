@@ -1,6 +1,8 @@
 ---
 title: "Introducing scikit-geometry"
-author: Pito Salasurl: "https://wolfv.medium.com/introducing-scikit-geometry-ae1dccaad5fd" cover: "https://miro.medium.com/max/1200/1*Ns12n2k0T3m0Hoe-5gg4kQ.png" 
+author: Pito Salas
+url: "https://wolfv.medium.com/introducing-scikit-geometry-ae1dccaad5fd" 
+cover: "https://miro.medium.com/max/1200/1*Ns12n2k0T3m0Hoe-5gg4kQ.png" 
 date: 2022-07-15 14:05:49
 tags:
     - robotics-geometry-python-package-howto-cooltool

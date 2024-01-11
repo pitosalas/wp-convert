@@ -1,6 +1,8 @@
 ---
 title: "Deploying Rails 6 application with Dokku - kukicola.io"
-author: Pito Salasurl: "https://kukicola.io/posts/deploying-rails-6-application-with-dokku" cover: "https://kukicola.io/assets/img/photo.jpg" 
+author: Pito Salas
+url: "https://kukicola.io/posts/deploying-rails-6-application-with-dokku" 
+cover: "https://kukicola.io/assets/img/photo.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - howto-scale-dokku-explainer-applications-rails

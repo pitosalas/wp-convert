@@ -1,6 +1,8 @@
 ---
 title: "Introduction to Bayesian Linear Regression – Towards Data Science"
-author: Pito Salasurl: "https://towardsdatascience.com/introduction-to-bayesian-linear-regression-e66e60791ea7?source=userActivityShare-d383785221d0-1523707926" cover: "https://miro.medium.com/max/1200/1*uW8VVFJtCjrbPu9P0q0Iog.jpeg" 
+author: Pito Salas
+url: "https://towardsdatascience.com/introduction-to-bayesian-linear-regression-e66e60791ea7?source=userActivityShare-d383785221d0-1523707926" 
+cover: "https://miro.medium.com/max/1200/1*uW8VVFJtCjrbPu9P0q0Iog.jpeg" 
 date: 2021-04-06 13:40:22
 tags:
     - regression-bayes-tagian-statistics

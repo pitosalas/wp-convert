@@ -1,6 +1,8 @@
 ---
 title: "The Sudden Rise of the Lab-Leak Theory"
-author: Pito Salasurl: "https://www.newyorker.com/news/annals-of-inquiry/the-sudden-rise-of-the-coronavirus-lab-leak-theory" cover: "https://media.newyorker.com/photos/60afb7b63c162291f832788b/1:1/w_1600,h_1600,c_limit/nyker-covid-leak.gif" 
+author: Pito Salas
+url: "https://www.newyorker.com/news/annals-of-inquiry/the-sudden-rise-of-the-coronavirus-lab-leak-theory" 
+cover: "https://media.newyorker.com/photos/60afb7b63c162291f832788b/1:1/w_1600,h_1600,c_limit/nyker-covid-leak.gif" 
 date: 2021-05-28 22:00:51
 tags:
     - virus-science-covid-new-yorker-article

@@ -3,7 +3,7 @@ title: "navigation/Tutorials/RobotSetup – ROS Wiki"
 author: Pito Salas
 date: 2022-04-13T15:31:15
 tags:
-    - navigation
+    - navigation-tag
 ---
 
 

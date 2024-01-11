@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2014-09-10T02:01:17
 tags:
     - computer-science
-    - machine-vision
+    - machine-vision-tag
 ---
 
 

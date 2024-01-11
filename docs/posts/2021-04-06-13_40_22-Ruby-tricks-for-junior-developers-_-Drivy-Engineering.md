@@ -1,6 +1,8 @@
 ---
 title: "Ruby tricks for junior developers | Drivy Engineering"
-author: Pito Salasurl: "https://drivy.engineering/ruby-tricks-for-junior-devs" cover: "https://getaround.tech/assets/img/og.jpg" 
+author: Pito Salas
+url: "https://drivy.engineering/ruby-tricks-for-junior-devs" 
+cover: "https://getaround.tech/assets/img/og.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - ruby-tricks-tips-engineering

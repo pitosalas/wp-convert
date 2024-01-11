@@ -1,6 +1,8 @@
 ---
 title: "Lessons Learned: What is customer development?"
-author: Pito Salasurl: "http://www.startuplessonslearned.com/2008/11/what-is-customer-development.html" cover: "https://lh4.googleusercontent.com/proxy/WK9xuxwT1npBlfjAYiilqvhhT6qOoQqK63T-liEqJz8_SkwHfmi5fTE_7FvnJ2p1XN8u78_MKwI9SrZPNXv_ABRSBjuMAqaZQAflpN0NT6oqenDyLDei=w1200-h630-p-k-no-nu" 
+author: Pito Salas
+url: "http://www.startuplessonslearned.com/2008/11/what-is-customer-development.html" 
+cover: "https://lh4.googleusercontent.com/proxy/WK9xuxwT1npBlfjAYiilqvhhT6qOoQqK63T-liEqJz8_SkwHfmi5fTE_7FvnJ2p1XN8u78_MKwI9SrZPNXv_ABRSBjuMAqaZQAflpN0NT6oqenDyLDei=w1200-h630-p-k-no-nu" 
 date: 2021-04-06 13:40:23
 tags:
     - startup-customerdevelopment-leanstartup

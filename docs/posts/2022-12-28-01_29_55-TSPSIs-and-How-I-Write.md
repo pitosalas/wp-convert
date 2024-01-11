@@ -1,6 +1,8 @@
 ---
 title: "TSPSIs and How I Write"
-author: Pito Salasurl: "https://universalprior.substack.com/p/tspsis-and-how-i-write?utm_source=substack&utm_medium=email" cover: "https://universalprior.substack.com/p/[object%20Object]" 
+author: Pito Salas
+url: "https://universalprior.substack.com/p/tspsis-and-how-i-write?utm_source=substack&utm_medium=email" 
+cover: "https://universalprior.substack.com/p/[object%20Object]" 
 date: 2022-12-28 01:29:55
 tags:
     - writing-howto-technique-academic-ai

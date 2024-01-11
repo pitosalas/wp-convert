@@ -5,7 +5,7 @@ date: 2009-04-09T13:00:02
 tags:
     - berkshire-hathaway
     - investing
-    - regulation
+    - regulation-tag
 ---
 
 

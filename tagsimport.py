@@ -11,16 +11,25 @@ def clean_tag(tag):
     """delete special characeters, change space to dash, detect excluded
     words and add "tag-" prefix.
     """
+    oldtag = tag
     outtag = re.sub(TAG_EXCLUDE_CHARACTERS, "", tag)
     if " " in outtag:
         outtag = re.sub("\\s", "-", outtag)
         print(f"""{tag} -> {outtag}""")
     for word in TAG_EXCLUDE_WORDS:
-        oldout = outtag
         outtag = outtag.replace(word, word+"-tag")
-        if oldout != outtag:
-            print(f"""{oldout} -> {outtag}""")
-        return outtag
+    outtag = handle_weird_special_cases(outtag)
+    if oldtag != outtag:
+        print(f"""{oldtag} -> {outtag}""")
+    return outtag
+
+def handle_weird_special_cases(s):
+    if s == "007":
+        return "Bond-007"
+    elif s == "1969":
+        return "year-1969"
+    else:
+        return s
 
 class TagsImport:
     def __init__(self):

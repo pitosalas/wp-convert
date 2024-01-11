@@ -1,6 +1,8 @@
 ---
 title: "Alex Payne — Letter To A Young Programmer Considering A Startup"
-author: Pito Salasurl: "http://al3x.net/2013/05/23/letter-to-a-young-programmer.html" cover: "" 
+author: Pito Salas
+url: "http://al3x.net/2013/05/23/letter-to-a-young-programmer.html" 
+cover: "" 
 date: 2021-04-06 13:40:23
 tags:
     - entrepreneurship-entrepreneurs-startup-programmer

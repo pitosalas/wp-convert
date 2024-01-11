@@ -1,6 +1,8 @@
 ---
 title: "Learning Containers From The Bottom Up - Ivan Velichko"
-author: Pito Salasurl: "https://iximiuz.com/en/posts/container-learning-path/" cover: "https://iximiuz.com/container-learning-path/docker-containerd-runc-2000-opt.png" 
+author: Pito Salas
+url: "https://iximiuz.com/en/posts/container-learning-path/" 
+cover: "https://iximiuz.com/container-learning-path/docker-containerd-runc-2000-opt.png" 
 date: 2021-11-27 17:27:50
 tags:
     - image-container-docker-linux-explainer

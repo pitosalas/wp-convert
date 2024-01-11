@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2012-10-20T20:25:02
 tags:
     - development
-    - education
+    - education-tag
     - research
 ---
 

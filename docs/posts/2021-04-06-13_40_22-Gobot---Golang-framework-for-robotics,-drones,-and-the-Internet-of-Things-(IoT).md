@@ -1,6 +1,8 @@
 ---
 title: "Gobot - Golang framework for robotics, drones, and the Internet of Things (IoT)"
-author: Pito Salasurl: "https://gobot.io" cover: "https://rdl.ink/render/https%3A%2F%2Fgobot.io" 
+author: Pito Salas
+url: "https://gobot.io" 
+cover: "https://rdl.ink/render/https%3A%2F%2Fgobot.io" 
 date: 2021-04-06 13:40:22
 tags:
     - robotics-framework

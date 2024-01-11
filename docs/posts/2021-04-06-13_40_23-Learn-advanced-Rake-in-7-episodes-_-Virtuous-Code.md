@@ -1,6 +1,8 @@
 ---
 title: "Learn advanced Rake in 7 episodes | Virtuous Code"
-author: Pito Salasurl: "http://devblog.avdi.org/2014/04/30/learn-advanced-rake-in-7-episodes" cover: "https://i2.wp.com/avdi.codes/wp-content/uploads/2019/06/cropped-favicon-extraced-from-linda-kerr-loga.png?fit=240%2C240&ssl=1" 
+author: Pito Salas
+url: "http://devblog.avdi.org/2014/04/30/learn-advanced-rake-in-7-episodes" 
+cover: "https://i2.wp.com/avdi.codes/wp-content/uploads/2019/06/cropped-favicon-extraced-from-linda-kerr-loga.png?fit=240%2C240&ssl=1" 
 date: 2021-04-06 13:40:23
 tags:
     - rake-ruby

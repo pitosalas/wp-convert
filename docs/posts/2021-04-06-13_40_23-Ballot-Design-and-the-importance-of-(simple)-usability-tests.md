@@ -1,6 +1,8 @@
 ---
 title: "Ballot Design and the importance of (simple) usability tests"
-author: Pito Salasurl: "http://www.trustthevote.org/ballot-design-and-the-importance-of-simple-usability-tests" cover: "https://trustthevote.org/wp-content/uploads/2018/10/ttv_symbol_color_check.png?w=237" 
+author: Pito Salas
+url: "http://www.trustthevote.org/ballot-design-and-the-importance-of-simple-usability-tests" 
+cover: "https://trustthevote.org/wp-content/uploads/2018/10/ttv_symbol_color_check.png?w=237" 
 date: 2021-04-06 13:40:23
 tags:
     - voting-ballots-design

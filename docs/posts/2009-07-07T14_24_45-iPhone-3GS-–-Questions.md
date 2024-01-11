@@ -3,7 +3,7 @@ title: "iPhone 3GS – Questions"
 author: Pito Salas
 date: 2009-07-07T14:24:45
 tags:
-    - iphone
+    - iphon-tage
 ---
 
 

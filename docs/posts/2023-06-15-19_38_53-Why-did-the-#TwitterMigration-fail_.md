@@ -1,6 +1,8 @@
 ---
 title: "Why did the #TwitterMigration fail?"
-author: Pito Salasurl: "https://blog.bloonface.com/2023/06/12/why-did-the-twittermigration-fail/" cover: "https://s0.wp.com/i/blank.jpg" 
+author: Pito Salas
+url: "https://blog.bloonface.com/2023/06/12/why-did-the-twittermigration-fail/" 
+cover: "https://s0.wp.com/i/blank.jpg" 
 date: 2023-06-15 19:38:53
 tags:
     - mastodon-fediverse-federated-scalability-twitter-explainer

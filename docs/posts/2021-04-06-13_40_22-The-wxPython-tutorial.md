@@ -1,6 +1,8 @@
 ---
 title: "The wxPython tutorial"
-author: Pito Salasurl: "http://zetcode.com/wxpython" cover: "https://rdl.ink/render/http%3A%2F%2Fzetcode.com%2Fwxpython" 
+author: Pito Salas
+url: "http://zetcode.com/wxpython" 
+cover: "https://rdl.ink/render/http%3A%2F%2Fzetcode.com%2Fwxpython" 
 date: 2021-04-06 13:40:22
 tags:
     - Ruby

@@ -3,7 +3,7 @@ title: "Vote Buying measures and countermeasures"
 author: Pito Salas
 date: 2012-10-12T18:51:38
 tags:
-    - elections
+    - election-tags
     - vote-buying
     - votes
     - voting

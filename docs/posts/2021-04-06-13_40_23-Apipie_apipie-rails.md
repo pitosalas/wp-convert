@@ -1,6 +1,8 @@
 ---
 title: "Apipie/apipie-rails"
-author: Pito Salasurl: "https://github.com/Apipie/apipie-rails#validators" cover: "https://avatars.githubusercontent.com/u/6650720?s=400&v=4" 
+author: Pito Salas
+url: "https://github.com/Apipie/apipie-rails#validators" 
+cover: "https://avatars.githubusercontent.com/u/6650720?s=400&v=4" 
 date: 2021-04-06 13:40:23
 tags:
     - rails-ruby-rest-api-programming

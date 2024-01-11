@@ -1,6 +1,8 @@
 ---
 title: "So what’s this GraphQL thing I keep hearing about?"
-author: Pito Salasurl: "https://www.freecodecamp.org/news/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf/" cover: "https://cdn-media-1.freecodecamp.org/images/1*uF2-YU2quykHIs4tKXy7sw.png" 
+author: Pito Salas
+url: "https://www.freecodecamp.org/news/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf/" 
+cover: "https://cdn-media-1.freecodecamp.org/images/1*uF2-YU2quykHIs4tKXy7sw.png" 
 date: 2022-01-12 14:41:28
 tags:
     - graphql-introduction-api-howto-cosi105

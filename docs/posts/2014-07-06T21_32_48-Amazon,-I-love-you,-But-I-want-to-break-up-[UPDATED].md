@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2014-07-06T21:32:48
 tags:
     - account-management
-    - amazon
+    - amazon-tag
     - lame
 ---
 

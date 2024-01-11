@@ -1,6 +1,8 @@
 ---
 title: "SUMPRODUCT function"
-author: Pito Salasurl: "https://support.microsoft.com/en-us/office/sumproduct-function-16753e75-9f68-4874-94ac-4d2145a2fd2e?ui=en-us&rs=en-us&ad=us" cover: "https://support.content.office.net/en-us/media/1acbe524-c074-46da-9707-ef3f8ffb84ba.jpg" 
+author: Pito Salas
+url: "https://support.microsoft.com/en-us/office/sumproduct-function-16753e75-9f68-4874-94ac-4d2145a2fd2e?ui=en-us&rs=en-us&ad=us" 
+cover: "https://support.content.office.net/en-us/media/1acbe524-c074-46da-9707-ef3f8ffb84ba.jpg" 
 date: 2021-10-19 18:51:58
 tags:
     - excel-formula-sheets-google-arrays-sumproduct-functions-callbacks-promises-JavaScript

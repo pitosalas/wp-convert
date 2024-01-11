@@ -3,7 +3,7 @@ title: "Engraving an iPhone knocks $25 off resale value"
 author: Pito Salas
 date: 2013-09-17T15:00:36
 tags:
-    - iphone
+    - iphon-tage
     - recycle
     - resale
     - trade-in

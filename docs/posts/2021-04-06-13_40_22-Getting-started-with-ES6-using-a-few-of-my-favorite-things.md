@@ -1,6 +1,8 @@
 ---
 title: "Getting started with ES6 using a few of my favorite things"
-author: Pito Salasurl: "https://medium.freecodecamp.org/getting-started-with-es6-using-a-few-of-my-favorite-things-ac89c27812e0?source=userActivityShare-d383785221d0-1523118581" cover: "https://cdn-media-1.freecodecamp.org/images/1*TjHw7JGRxc6RQ6cG-1uEow.jpeg" 
+author: Pito Salas
+url: "https://medium.freecodecamp.org/getting-started-with-es6-using-a-few-of-my-favorite-things-ac89c27812e0?source=userActivityShare-d383785221d0-1523118581" 
+cover: "https://cdn-media-1.freecodecamp.org/images/1*TjHw7JGRxc6RQ6cG-1uEow.jpeg" 
 date: 2021-04-06 13:40:22
 tags:
     - javascript-es6

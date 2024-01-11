@@ -1,6 +1,8 @@
 ---
 title: "Color Theory for Designers, Part 1: The Meaning of Color - Smashing Magazine"
-author: Pito Salasurl: "http://www.smashingmagazine.com/2010/01/28/color-theory-for-designers-part-1-the-meaning-of-color" cover: "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1b611976-9b91-4cc5-b3eb-a25749ab7b5b/colorstar.jpg" 
+author: Pito Salas
+url: "http://www.smashingmagazine.com/2010/01/28/color-theory-for-designers-part-1-the-meaning-of-color" 
+cover: "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1b611976-9b91-4cc5-b3eb-a25749ab7b5b/colorstar.jpg" 
 date: 2021-04-06 13:40:22
 ---
 <img src=https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1b611976-9b91-4cc5-b3eb-a25749ab7b5b/colorstar.jpg width="500">

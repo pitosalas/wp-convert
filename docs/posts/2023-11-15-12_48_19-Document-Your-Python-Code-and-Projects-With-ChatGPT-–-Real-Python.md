@@ -1,6 +1,8 @@
 ---
 title: "Document Your Python Code and Projects With ChatGPT – Real Python"
-author: Pito Salasurl: "https://realpython.com/document-python-code-with-chatgpt/" cover: "https://files.realpython.com/media/Documenting-Your-Code-with-the-Help-of-ChatGPT_Watermarked.daa041e7ad32.jpg" 
+author: Pito Salas
+url: "https://realpython.com/document-python-code-with-chatgpt/" 
+cover: "https://files.realpython.com/media/Documenting-Your-Code-with-the-Help-of-ChatGPT_Watermarked.daa041e7ad32.jpg" 
 date: 2023-11-15 12:48:19
 tags:
     - python-chatgpt-documentation-docstrings

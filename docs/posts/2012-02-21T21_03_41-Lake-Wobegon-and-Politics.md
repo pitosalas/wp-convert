@@ -3,9 +3,9 @@ title: "Lake Wobegon and Politics"
 author: Pito Salas
 date: 2012-02-21T21:03:41
 tags:
-    - lakewobegon
+    - lakewobegon-tag
     - politics
-    - prairiehomecomanion
+    - prairiehomecomanion-tag
     - rightofcenter
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: "Continuous integration vs. continuous delivery vs. continuous deployment |"
-author: Pito Salasurl: "https://www.atlassian.com/continuous-delivery/ci-vs-ci-vs-cd" cover: "https://rdl.ink/render/https%3A%2F%2Fwww.atlassian.com%2Fcontinuous-delivery%2Fci-vs-ci-vs-cd" 
+author: Pito Salas
+url: "https://www.atlassian.com/continuous-delivery/ci-vs-ci-vs-cd" 
+cover: "https://rdl.ink/render/https%3A%2F%2Fwww.atlassian.com%2Fcontinuous-delivery%2Fci-vs-ci-vs-cd" 
 date: 2021-04-06 13:40:22
 tags:
     - devops-ci-cd

@@ -6,7 +6,7 @@ tags:
     - block
     - blocks
     - explainer
-    - functions
+    - function-tags
     - lambda
     - proc
     - ruby

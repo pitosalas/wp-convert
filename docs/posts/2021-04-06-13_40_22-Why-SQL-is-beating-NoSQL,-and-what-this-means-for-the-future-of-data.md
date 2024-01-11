@@ -1,6 +1,8 @@
 ---
 title: "Why SQL is beating NoSQL, and what this means for the future of data"
-author: Pito Salasurl: "https://blog.timescale.com/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a?source=userActivityShare-d383785221d0-1523797371" cover: "https://blog.timescale.com/content/images/2018/12/gif6.gif" 
+author: Pito Salas
+url: "https://blog.timescale.com/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a?source=userActivityShare-d383785221d0-1523797371" 
+cover: "https://blog.timescale.com/content/images/2018/12/gif6.gif" 
 date: 2021-04-06 13:40:22
 tags:
     - sql-nisql

@@ -1,6 +1,8 @@
 ---
 title: "full featured html embeddable spreadsheet"
-author: Pito Salasurl: "https://github.com/mengshukeji/Luckysheet" cover: "https://repository-images.githubusercontent.com/264125852/b1125680-e2d2-11ea-9914-76f5d2e1541d" 
+author: Pito Salas
+url: "https://github.com/mengshukeji/Luckysheet" 
+cover: "https://repository-images.githubusercontent.com/264125852/b1125680-e2d2-11ea-9914-76f5d2e1541d" 
 date: 2021-04-06 13:40:22
 tags:
     - howto-spreadsheet-html-embedded

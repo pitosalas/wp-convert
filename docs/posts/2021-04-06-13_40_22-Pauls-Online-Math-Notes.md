@@ -1,6 +1,8 @@
 ---
 title: "Pauls Online Math Notes"
-author: Pito Salasurl: "https://tutorial.math.lamar.edu" cover: "https://rdl.ink/render/https%3A%2F%2Ftutorial.math.lamar.edu" 
+author: Pito Salas
+url: "https://tutorial.math.lamar.edu" 
+cover: "https://rdl.ink/render/https%3A%2F%2Ftutorial.math.lamar.edu" 
 date: 2021-04-06 13:40:22
 tags:
     - trigonometry-mathematics-tutorials-calculus

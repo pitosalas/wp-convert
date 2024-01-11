@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2013-08-22T18:04:31
 tags:
     - bad-practices
-    - consumer-reports
+    - con-tagsumer-reports
 ---
 
 

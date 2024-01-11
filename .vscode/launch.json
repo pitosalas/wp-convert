@@ -11,6 +11,16 @@
             "program": "${file}",
             "console": "integratedTerminal",
             "justMyCode": true
+        },
+        {
+            "name": "Python: mkdocs build",
+            "type": "python",
+            "request": "launch",
+            "program": "/Users/pitosalas/.pyenv/versions/3.12.0/lib/python3.12/site-packages/mkdocs/__main__.py",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "args": ["build"]
         }
+ 
     ]
 }

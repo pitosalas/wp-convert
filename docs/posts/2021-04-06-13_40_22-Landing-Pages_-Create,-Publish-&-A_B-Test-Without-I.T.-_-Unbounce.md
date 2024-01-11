@@ -1,6 +1,8 @@
 ---
 title: "Landing Pages: Create, Publish & A/B Test Without I.T. | Unbounce"
-author: Pito Salasurl: "http://unbounce.com" cover: "https://rdl.ink/render/http%3A%2F%2Funbounce.com" 
+author: Pito Salas
+url: "http://unbounce.com" 
+cover: "https://rdl.ink/render/http%3A%2F%2Funbounce.com" 
 date: 2021-04-06 13:40:22
 ---
 <img src=https://rdl.ink/render/http%3A%2F%2Funbounce.com width="500">

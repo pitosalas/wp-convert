@@ -5,7 +5,7 @@ date: 2022-07-17T13:01:47
 tags:
     - advice
     - growth
-    - personal
+    - person-tagal
 ---
 
 

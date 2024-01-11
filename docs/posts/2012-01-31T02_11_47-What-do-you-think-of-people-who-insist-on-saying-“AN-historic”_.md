@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2012-01-31T02:11:47
 tags:
     - english
-    - snooty
+    - sno-tagoty
     - words
 ---
 

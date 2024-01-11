@@ -3,7 +3,7 @@ title: "[GEEKY] Capistrano Colors"
 author: Pito Salas
 date: 2012-03-22T18:09:31
 tags:
-    - capistrano
+    - capistrano-tag
     - GEEKY
     - rails
 ---

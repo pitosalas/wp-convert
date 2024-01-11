@@ -1,6 +1,8 @@
 ---
 title: "Sheetsu Documentation"
-author: Pito Salasurl: "https://docs.sheetsu.com" cover: "https://sheetsu.com/lp-assets/image/og-image.png" 
+author: Pito Salas
+url: "https://docs.sheetsu.com" 
+cover: "https://sheetsu.com/lp-assets/image/og-image.png" 
 date: 2021-04-06 13:40:23
 tags:
     - REST-google-googledocs

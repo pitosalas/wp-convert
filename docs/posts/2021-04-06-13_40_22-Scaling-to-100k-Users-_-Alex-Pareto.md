@@ -1,6 +1,8 @@
 ---
 title: "Scaling to 100k Users | Alex Pareto"
-author: Pito Salasurl: "https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html" cover: "https://rdl.ink/render/https%3A%2F%2Falexpareto.com%2Fscalability%2Fsystems%2F2020%2F02%2F03%2Fscaling-100k.html" 
+author: Pito Salas
+url: "https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html" 
+cover: "https://rdl.ink/render/https%3A%2F%2Falexpareto.com%2Fscalability%2Fsystems%2F2020%2F02%2F03%2Fscaling-100k.html" 
 date: 2021-04-06 13:40:22
 tags:
     - scaling-howto

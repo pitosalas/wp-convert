@@ -1,6 +1,8 @@
 ---
 title: "Barrett's Esophagus Symptoms, Causes, Treatment - What is the risk of developing adenocarcinoma of the esophagus in Barrett's? on MedicineNet"
-author: Pito Salasurl: "http://www.medicinenet.com/barretts_esophagus/page6.htm" cover: "https://images.medicinenet.com/images/facebook/medicinenet/fb-mnet-default.jpg" 
+author: Pito Salas
+url: "http://www.medicinenet.com/barretts_esophagus/page6.htm" 
+cover: "https://images.medicinenet.com/images/facebook/medicinenet/fb-mnet-default.jpg" 
 date: 2021-04-06 13:40:23
 tags:
     - medical

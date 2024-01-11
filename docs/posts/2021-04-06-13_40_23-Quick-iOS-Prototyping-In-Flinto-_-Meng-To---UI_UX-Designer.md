@@ -1,6 +1,8 @@
 ---
 title: "Quick iOS Prototyping In Flinto | Meng To - UI/UX Designer"
-author: Pito Salasurl: "http://blog.mengto.com/quick-ios-prototyping-flinto" cover: "http://blog.mengto.com/wp-content/uploads/2013/05/intro-600x422.png" 
+author: Pito Salas
+url: "http://blog.mengto.com/quick-ios-prototyping-flinto" 
+cover: "http://blog.mengto.com/wp-content/uploads/2013/05/intro-600x422.png" 
 date: 2021-04-06 13:40:23
 tags:
     - prototyping-ios-design-mockups

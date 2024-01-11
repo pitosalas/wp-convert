@@ -1,6 +1,8 @@
 ---
 title: "Stock Photos: Download Stock Photography And Royalty Free Images By Dreamstime"
-author: Pito Salasurl: "http://www.dreamstime.com" cover: "" 
+author: Pito Salas
+url: "http://www.dreamstime.com" 
+cover: "" 
 date: 2021-04-06 13:40:23
 tags:
     - photography-stockphotos-image

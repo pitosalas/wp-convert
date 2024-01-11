@@ -1,6 +1,8 @@
 ---
 title: "The Second Edition of \"Refactoring\""
-author: Pito Salasurl: "https://martinfowler.com/articles/refactoring-2nd-ed.html" cover: "https://martinfowler.com/books/refact2.jpg" 
+author: Pito Salas
+url: "https://martinfowler.com/articles/refactoring-2nd-ed.html" 
+cover: "https://martinfowler.com/books/refact2.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - refactoring

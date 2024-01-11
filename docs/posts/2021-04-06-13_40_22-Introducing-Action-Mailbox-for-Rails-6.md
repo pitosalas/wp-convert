@@ -1,6 +1,8 @@
 ---
 title: "Introducing Action Mailbox for Rails 6"
-author: Pito Salasurl: "https://weblog.rubyonrails.org/2018/12/13/introducing-action-mailbox-for-rails-6" cover: "https://avatars.githubusercontent.com/u/4223" 
+author: Pito Salas
+url: "https://weblog.rubyonrails.org/2018/12/13/introducing-action-mailbox-for-rails-6" 
+cover: "https://avatars.githubusercontent.com/u/4223" 
 date: 2021-04-06 13:40:22
 tags:
     - rails-email-actionmailbox

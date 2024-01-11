@@ -1,6 +1,8 @@
 ---
 title: "The Ultimate Python Seaborn Tutorial: Gotta Catch 'Em All"
-author: Pito Salasurl: "https://elitedatascience.com/python-seaborn-tutorial" cover: "https://elitedatascience.com/wp-content/uploads/2017/04/python-seaborn-tutorial-feature-image.jpg" 
+author: Pito Salas
+url: "https://elitedatascience.com/python-seaborn-tutorial" 
+cover: "https://elitedatascience.com/wp-content/uploads/2017/04/python-seaborn-tutorial-feature-image.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - python-seaborn

@@ -1,6 +1,8 @@
 ---
 title: "How Good Is Your Test Suite? | Codementor"
-author: Pito Salasurl: "https://www.codementor.io/@lmuzinic/how-good-is-your-test-suite-g93tx6qot?utm_content=posts&utm_source=sendgrid&utm_medium=email&utm_term=post-g93tx6qot&utm_campaign=newsletter20180307" cover: "https://cdn.filestackcontent.com/56bublXcS7myC0b6QOSX" 
+author: Pito Salas
+url: "https://www.codementor.io/@lmuzinic/how-good-is-your-test-suite-g93tx6qot?utm_content=posts&utm_source=sendgrid&utm_medium=email&utm_term=post-g93tx6qot&utm_campaign=newsletter20180307" 
+cover: "https://cdn.filestackcontent.com/56bublXcS7myC0b6QOSX" 
 date: 2022-03-09 18:08:37
 tags:
     - testing-mutation-testing-properties-software-737-bugs-testing-airplane-warstories-quality

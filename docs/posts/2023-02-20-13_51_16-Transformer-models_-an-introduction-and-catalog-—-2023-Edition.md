@@ -1,6 +1,8 @@
 ---
 title: "Transformer models: an introduction and catalog — 2023 Edition"
-author: Pito Salasurl: "https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/?utm_source=abyteofcodingnewsletter" cover: "https://amatriain.net/blog/images/02-01.jpeg" 
+author: Pito Salas
+url: "https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/?utm_source=abyteofcodingnewsletter" 
+cover: "https://amatriain.net/blog/images/02-01.jpeg" 
 date: 2023-02-20 13:51:16
 tags:
     - ai-transformers-neural-networks-index-list

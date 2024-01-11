@@ -3,7 +3,7 @@ title: "Go See “The Cry of the Reed” right now"
 author: Pito Salas
 date: 2008-04-06T03:15:41
 tags:
-    - theatre-boston-huntington
+    - theatre-boston-tag-huntington-tag
 ---
 
 

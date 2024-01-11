@@ -1,6 +1,8 @@
 ---
 title: "If the OS landscape was disrupted, would Ruby have survived until today?!"
-author: Pito Salasurl: "https://blog.sideci.com/if-the-os-landscape-was-disrupted-would-ruby-have-survived-until-today-815a1bb063a6?source=userActivityShare-d383785221d0-1523020078" cover: "https://siderlabs.com/blog/wp-content/uploads/2020/11/img_5fbdd3fa2b634.jpg" 
+author: Pito Salas
+url: "https://blog.sideci.com/if-the-os-landscape-was-disrupted-would-ruby-have-survived-until-today-815a1bb063a6?source=userActivityShare-d383785221d0-1523020078" 
+cover: "https://siderlabs.com/blog/wp-content/uploads/2020/11/img_5fbdd3fa2b634.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - ruby

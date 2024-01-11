@@ -3,7 +3,7 @@ title: "Is Amazon using Wish List entries to pre-position inventory?"
 author: Pito Salas
 date: 2012-02-02T23:30:07
 tags:
-    - amazon
+    - amazon-tag
     - inventory
     - logistics
     - wishlist

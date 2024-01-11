@@ -1,6 +1,8 @@
 ---
 title: "Introduction | Crystal Programming Language"
-author: Pito Salasurl: "https://crystal-lang.org/docs/index.html" cover: "https://crystal-lang.org/images/icon.png" 
+author: Pito Salas
+url: "https://crystal-lang.org/docs/index.html" 
+cover: "https://crystal-lang.org/images/icon.png" 
 date: 2021-04-06 13:40:23
 tags:
     - crystal-programming-language-ruby

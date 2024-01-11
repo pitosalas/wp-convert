@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2012-02-29T02:22:39
 tags:
     - BlogBridge
-    - icons
+    - icon-tags
     - poll
 ---
 

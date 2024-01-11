@@ -3,9 +3,9 @@ title: "Loomio: Collaborative Decision Making"
 author: Pito Salas
 date: 2013-02-08T16:26:13
 tags:
-    - collaboration
-    - decision-making
-    - decisions
+    - collaboration-tag
+    - decision-tag-making
+    - decision-tags
     - loomio
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: "Building GitHub with Ruby and Rails | The GitHub Blog"
-author: Pito Salasurl: "https://github.blog/2023-04-06-building-github-with-ruby-and-rails/" cover: "https://github.blog/wp-content/uploads/2023/04/1200x630-Partnerships-Dark@2x.png" 
+author: Pito Salas
+url: "https://github.blog/2023-04-06-building-github-with-ruby-and-rails/" 
+cover: "https://github.blog/wp-content/uploads/2023/04/1200x630-Partnerships-Dark@2x.png" 
 date: 2023-04-15 12:24:27
 tags:
     - ruby-rails-github-ci

@@ -1,6 +1,8 @@
 ---
 title: "Fibers Are the Right Solution"
-author: Pito Salasurl: "https://www.codeotaku.com/journal/2018-11/fibers-are-the-right-solution/index" cover: "https://www.codeotaku.com/journal/2018-11/fibers-are-the-right-solution/preview.jpg" 
+author: Pito Salas
+url: "https://www.codeotaku.com/journal/2018-11/fibers-are-the-right-solution/index" 
+cover: "https://www.codeotaku.com/journal/2018-11/fibers-are-the-right-solution/preview.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - fibers-processes-concurrency

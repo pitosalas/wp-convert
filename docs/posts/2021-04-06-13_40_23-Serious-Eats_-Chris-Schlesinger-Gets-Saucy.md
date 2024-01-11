@@ -1,6 +1,8 @@
 ---
 title: "Serious Eats: Chris Schlesinger Gets Saucy"
-author: Pito Salasurl: "http://www.seriouseats.com/required_eating/2007/02/chris-schlesinger-gets-saucy.html" cover: "https://www.seriouseats.com/images/20070215scotchbonnets.jpg" 
+author: Pito Salas
+url: "http://www.seriouseats.com/required_eating/2007/02/chris-schlesinger-gets-saucy.html" 
+cover: "https://www.seriouseats.com/images/20070215scotchbonnets.jpg" 
 date: 2021-04-06 13:40:23
 tags:
     - food-innerbeauty

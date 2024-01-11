@@ -1,6 +1,8 @@
 ---
 title: "The Role of Color in UX"
-author: Pito Salasurl: "https://www.toptal.com/designers/ux/color-in-ux?_hsenc=p2ANqtz-86r4Ptj5Vm2KMFdFmpQZHWqcWX83qiQeFHzL2bgOyY6JTyhX2hnn8mWdZZ18o3-v948x7tkqNMcbPCeA9S46xB1FRQ5Q&_hsmi=65238686" cover: "https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/16782/image_12-76204aeb9faef819800989f38460159b.png" 
+author: Pito Salas
+url: "https://www.toptal.com/designers/ux/color-in-ux?_hsenc=p2ANqtz-86r4Ptj5Vm2KMFdFmpQZHWqcWX83qiQeFHzL2bgOyY6JTyhX2hnn8mWdZZ18o3-v948x7tkqNMcbPCeA9S46xB1FRQ5Q&_hsmi=65238686" 
+cover: "https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/16782/image_12-76204aeb9faef819800989f38460159b.png" 
 date: 2021-04-06 13:40:22
 tags:
     - emotions-color-UX

@@ -1,6 +1,8 @@
 ---
 title: "‘Succession’ and the Future of Social Media"
-author: Pito Salasurl: "https://popula.com/2023/05/28/the-ourobouros-of-succession/" cover: "https://popula.com/wp-content/uploads/2023/05/ken.jpg?resize=1200,630" 
+author: Pito Salas
+url: "https://popula.com/2023/05/28/the-ourobouros-of-succession/" 
+cover: "https://popula.com/wp-content/uploads/2023/05/ken.jpg?resize=1200,630" 
 date: 2023-05-29 08:33:52
 tags:
     - mastodon-twitter-social-media

@@ -1,6 +1,8 @@
 ---
 title: "How to Test Ruby Code That Depends on External APIs"
-author: Pito Salasurl: "https://www.honeybadger.io/blog/ruby-external-api-test/" cover: "https://www.honeybadger.io/images/pull_image.png" 
+author: Pito Salas
+url: "https://www.honeybadger.io/blog/ruby-external-api-test/" 
+cover: "https://www.honeybadger.io/images/pull_image.png" 
 date: 2022-03-08 19:43:56
 tags:
     - soa-testing-rspec-ruby-services

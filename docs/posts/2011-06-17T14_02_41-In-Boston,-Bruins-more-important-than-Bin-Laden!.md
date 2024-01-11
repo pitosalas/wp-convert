@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2011-06-17T14:02:41
 tags:
     - binladen
-    - bostonglobe
+    - boston-tagglobe
     - bruins
 ---
 

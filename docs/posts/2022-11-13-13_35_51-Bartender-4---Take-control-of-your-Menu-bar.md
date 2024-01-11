@@ -1,6 +1,8 @@
 ---
 title: "Bartender 4 - Take control of your Menu bar"
-author: Pito Salasurl: "https://www.macbartender.com/" cover: "https://www.macbartender.com/Bartender4/img/Icon-1024.png" 
+author: Pito Salas
+url: "https://www.macbartender.com/" 
+cover: "https://www.macbartender.com/Bartender4/img/Icon-1024.png" 
 date: 2022-11-13 13:35:51
 tags:
     - macos-add-on-howto-desktop-menu

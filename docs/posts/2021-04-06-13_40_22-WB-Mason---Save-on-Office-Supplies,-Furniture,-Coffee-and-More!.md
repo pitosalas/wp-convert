@@ -1,6 +1,8 @@
 ---
 title: "WB Mason - Save on Office Supplies, Furniture, Coffee and More!"
-author: Pito Salasurl: "http://www.wbmason.com/default.aspx" cover: "https://images.wbmason.com/240/wbtruck_white_background_meta2020.jpg" 
+author: Pito Salas
+url: "http://www.wbmason.com/default.aspx" 
+cover: "https://images.wbmason.com/240/wbtruck_white_background_meta2020.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - Brandeis

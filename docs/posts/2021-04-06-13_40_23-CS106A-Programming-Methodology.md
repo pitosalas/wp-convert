@@ -1,6 +1,8 @@
 ---
 title: "CS106A Programming Methodology"
-author: Pito Salasurl: "https://web.stanford.edu/class/cs106a" cover: "https://rdl.ink/render/https%3A%2F%2Fweb.stanford.edu%2Fclass%2Fcs106a" 
+author: Pito Salas
+url: "https://web.stanford.edu/class/cs106a" 
+cover: "https://rdl.ink/render/https%3A%2F%2Fweb.stanford.edu%2Fclass%2Fcs106a" 
 date: 2021-04-06 13:40:23
 tags:
     - education-cosi

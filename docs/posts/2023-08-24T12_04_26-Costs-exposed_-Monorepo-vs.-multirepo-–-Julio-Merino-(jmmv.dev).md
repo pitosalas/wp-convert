@@ -3,10 +3,10 @@ title: "Costs exposed: Monorepo vs. multirepo – Julio Merino (jmmv.dev)"
 author: Pito Salas
 date: 2023-08-24T12:04:26
 tags:
-    - comparison
+    - comparison-tag
     - git
     - github
-    - monorepo
+    - mon-tagorepo
     - repositories
 ---
 

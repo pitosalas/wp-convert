@@ -1,6 +1,8 @@
 ---
 title: "Coding Interview Preparation | Codinginterview"
-author: Pito Salasurl: "https://www.codinginterview.com/" cover: "https://rdl.ink/render/https%3A%2F%2Fwww.codinginterview.com%2F" 
+author: Pito Salas
+url: "https://www.codinginterview.com/" 
+cover: "https://rdl.ink/render/https%3A%2F%2Fwww.codinginterview.com%2F" 
 date: 2022-12-15 18:29:45
 tags:
     - interview-coding-interview

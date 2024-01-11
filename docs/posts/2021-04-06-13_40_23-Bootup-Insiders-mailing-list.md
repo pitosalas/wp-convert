@@ -1,6 +1,8 @@
 ---
 title: "Bootup Insiders mailing list"
-author: Pito Salasurl: "https://groups.google.com/forum#!forum/bootup-insiders" cover: "https://rdl.ink/render/https%3A%2F%2Fgroups.google.com%2Fforum%23!forum%2Fbootup-insiders" 
+author: Pito Salas
+url: "https://groups.google.com/forum#!forum/bootup-insiders" 
+cover: "https://rdl.ink/render/https%3A%2F%2Fgroups.google.com%2Fforum%23!forum%2Fbootup-insiders" 
 date: 2021-04-06 13:40:23
 ---
 <img src=https://rdl.ink/render/https%3A%2F%2Fgroups.google.com%2Fforum%23!forum%2Fbootup-insiders width="500">

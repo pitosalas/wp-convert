@@ -3,7 +3,7 @@ title: "Interesting view on Tumblr/Yahoo deal"
 author: Pito Salas
 date: 2013-05-20T17:59:30
 tags:
-    - acquisitions
+    - acquisition-tags
     - social-networks
     - strategy
     - tumblr

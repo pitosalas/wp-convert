@@ -6,7 +6,7 @@ tags:
     - cooltool
     - films
     - movies
-    - recommendations
+    - recommendation-tags
     - streaming
 ---
 

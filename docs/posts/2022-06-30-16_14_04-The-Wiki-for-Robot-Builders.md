@@ -1,6 +1,8 @@
 ---
 title: "The Wiki for Robot Builders"
-author: Pito Salasurl: "https://roboticsknowledgebase.com/" cover: "https://roboticsknowledgebase.com/assets/images/ricardo-gomez-angel-162935.jpg" 
+author: Pito Salas
+url: "https://roboticsknowledgebase.com/" 
+cover: "https://roboticsknowledgebase.com/assets/images/ricardo-gomez-angel-162935.jpg" 
 date: 2022-06-30 16:14:04
 tags:
     - robotics-howto-explainer-ros-navigation

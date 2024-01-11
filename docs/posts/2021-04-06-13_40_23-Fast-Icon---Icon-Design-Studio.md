@@ -1,6 +1,8 @@
 ---
 title: "Fast Icon - Icon Design Studio"
-author: Pito Salasurl: "http://www.fasticon.com" cover: "https://rdl.ink/render/http%3A%2F%2Fwww.fasticon.com" 
+author: Pito Salas
+url: "http://www.fasticon.com" 
+cover: "https://rdl.ink/render/http%3A%2F%2Fwww.fasticon.com" 
 date: 2021-04-06 13:40:23
 tags:
     - design-graphics-resource-interface-icons

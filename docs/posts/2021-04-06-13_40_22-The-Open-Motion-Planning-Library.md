@@ -1,6 +1,8 @@
 ---
 title: "The Open Motion Planning Library"
-author: Pito Salasurl: "http://ompl.kavrakilab.org" cover: "https://rdl.ink/render/http%3A%2F%2Fompl.kavrakilab.org" 
+author: Pito Salas
+url: "http://ompl.kavrakilab.org" 
+cover: "https://rdl.ink/render/http%3A%2F%2Fompl.kavrakilab.org" 
 date: 2021-04-06 13:40:22
 tags:
     - robotics-cosi119-navigation

@@ -1,6 +1,8 @@
 ---
 title: "Custom Shirts - Design Custom T-Shirts Online | 40% OFF"
-author: Pito Salasurl: "https://www.alliedshirts.com/" cover: "https://otcimages.basnop.com/1017913_AS_MCA_NOP_Format_Final1.jpeg" 
+author: Pito Salas
+url: "https://www.alliedshirts.com/" 
+cover: "https://otcimages.basnop.com/1017913_AS_MCA_NOP_Format_Final1.jpeg" 
 date: 2022-04-24 12:00:03
 tags:
     - t-shirt-online-custom

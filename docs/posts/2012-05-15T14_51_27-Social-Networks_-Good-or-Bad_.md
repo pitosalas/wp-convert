@@ -4,11 +4,11 @@ author: Pito Salas
 date: 2012-05-15T14:51:27
 tags:
     - brandeis
-    - communication
-    - evolution
+    - communication-tag
+    - evolution-tag
     - face-to-face
     - facebook
-    - interaction
+    - interaction-tag
     - social-networks
     - twitter
 ---

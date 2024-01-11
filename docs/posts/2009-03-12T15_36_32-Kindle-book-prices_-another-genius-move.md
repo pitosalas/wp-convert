@@ -3,15 +3,15 @@ title: "Kindle book prices: another genius move"
 author: Pito Salas
 date: 2009-03-12T15:36:32
 tags:
-    - amazon
+    - amazon-tag
     - book-paperback
     - ebooks
     - finance
     - genius-move
-    - iphone
+    - iphon-tage
     - kindle
-    - sony
-    - sony-ebook-reader
+    - son-tagy
+    - son-tagy-ebook-reader
 ---
 
 

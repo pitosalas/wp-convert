@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-04-07T16:03:28
 tags:
     - graceland
-    - paul-simon
+    - paul-simon-tag
 ---
 
 

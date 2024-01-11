@@ -3,10 +3,10 @@ title: "Waiting for Superman"
 author: Pito Salas
 date: 2011-06-15T23:55:07
 tags:
-    - education
+    - education-tag
     - government
     - schools
-    - unions
+    - union-tags
 ---
 
 

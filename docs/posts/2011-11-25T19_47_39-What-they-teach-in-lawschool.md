@@ -3,7 +3,7 @@ title: "What they teach in lawschool"
 author: Pito Salas
 date: 2011-11-25T19:47:39
 tags:
-    - highereducation
+    - highereducation-tag
     - law
     - lawschool
     - nyt

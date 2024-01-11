@@ -1,6 +1,8 @@
 ---
 title: "Watches and Affordable Quality Timepieces on Sale | Island Watch"
-author: Pito Salasurl: "http://www.longislandwatch.com" cover: "https://rdl.ink/render/http%3A%2F%2Fwww.longislandwatch.com" 
+author: Pito Salas
+url: "http://www.longislandwatch.com" 
+cover: "https://rdl.ink/render/http%3A%2F%2Fwww.longislandwatch.com" 
 date: 2021-04-06 13:40:23
 tags:
     - watch

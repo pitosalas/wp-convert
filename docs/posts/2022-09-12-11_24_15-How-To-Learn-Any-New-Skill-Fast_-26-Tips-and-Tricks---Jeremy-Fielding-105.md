@@ -1,6 +1,8 @@
 ---
 title: "How To Learn Any New Skill Fast: 26 Tips and Tricks - Jeremy Fielding 105"
-author: Pito Salasurl: "https://youtu.be/DPbKux9cemU" cover: "https://i.ytimg.com/vi/DPbKux9cemU/maxresdefault.jpg" 
+author: Pito Salas
+url: "https://youtu.be/DPbKux9cemU" 
+cover: "https://i.ytimg.com/vi/DPbKux9cemU/maxresdefault.jpg" 
 date: 2022-09-12 11:24:15
 tags:
     - learn-learning-skills

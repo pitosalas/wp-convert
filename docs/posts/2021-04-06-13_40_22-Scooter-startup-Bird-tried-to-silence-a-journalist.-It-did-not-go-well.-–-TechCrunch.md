@@ -1,6 +1,8 @@
 ---
 title: "Scooter startup Bird tried to silence a journalist. It did not go well. – TechCrunch"
-author: Pito Salasurl: "https://techcrunch.com/2019/01/11/scooter-startup-bird-silence-journalist" cover: "https://techcrunch.com/wp-content/uploads/2019/01/GettyImages-914678404.jpg?w=150" 
+author: Pito Salas
+url: "https://techcrunch.com/2019/01/11/scooter-startup-bird-silence-journalist" 
+cover: "https://techcrunch.com/wp-content/uploads/2019/01/GettyImages-914678404.jpg?w=150" 
 date: 2021-04-06 13:40:22
 tags:
     - ip-hacking-bird-scooter-ebay

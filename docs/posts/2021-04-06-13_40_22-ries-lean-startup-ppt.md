@@ -1,6 +1,8 @@
 ---
 title: "ries lean startup ppt"
-author: Pito Salasurl: "http://www.slideshare.net/venturehacks/the-lean-startup-2" cover: "https://cdn.slidesharecdn.com/ss_thumbnails/TheLeanStartup-090224164815-phpapp01-thumbnail-4.jpg?cb=1235516060" 
+author: Pito Salas
+url: "http://www.slideshare.net/venturehacks/the-lean-startup-2" 
+cover: "https://cdn.slidesharecdn.com/ss_thumbnails/TheLeanStartup-090224164815-phpapp01-thumbnail-4.jpg?cb=1235516060" 
 date: 2021-04-06 13:40:22
 tags:
     - Olin

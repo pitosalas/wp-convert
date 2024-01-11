@@ -1,6 +1,8 @@
 ---
 title: "An introduction to Redis data types and abstractions – Redis"
-author: Pito Salasurl: "https://redis.io/topics/data-types-intro" cover: "https://rdl.ink/render/https%3A%2F%2Fredis.io%2Ftopics%2Fdata-types-intro" 
+author: Pito Salas
+url: "https://redis.io/topics/data-types-intro" 
+cover: "https://rdl.ink/render/https%3A%2F%2Fredis.io%2Ftopics%2Fdata-types-intro" 
 date: 2021-04-06 13:40:22
 tags:
     - redis-types-howto-concepts

@@ -1,6 +1,8 @@
 ---
 title: "Trunk-based Development vs. Git Flow"
-author: Pito Salasurl: "https://www.toptal.com/software/trunk-based-development-git-flow" cover: "https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/776970/trunk-based-development-git-flow-2e99b359908d4b2793dd64970b1d402c.png" 
+author: Pito Salas
+url: "https://www.toptal.com/software/trunk-based-development-git-flow" 
+cover: "https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/776970/trunk-based-development-git-flow-2e99b359908d4b2793dd64970b1d402c.png" 
 date: 2022-09-27 00:42:47
 tags:
     - git-github-branches-trunk-based-gitflow

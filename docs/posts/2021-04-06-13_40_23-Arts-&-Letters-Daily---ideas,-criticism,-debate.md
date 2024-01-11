@@ -1,6 +1,8 @@
 ---
 title: "Arts & Letters Daily - ideas, criticism, debate"
-author: Pito Salasurl: "http://www.aldaily.com" cover: "http://s3.amazonaws.com/assets.aldaily.com/images/twittercard-aldaily.png" 
+author: Pito Salas
+url: "http://www.aldaily.com" 
+cover: "http://s3.amazonaws.com/assets.aldaily.com/images/twittercard-aldaily.png" 
 date: 2021-04-06 13:40:23
 tags:
     - culture-news-literature-books-philosophy-daily

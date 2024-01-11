@@ -1,6 +1,8 @@
 ---
 title: "Faster Rails: Eliminating N+1 queries - Semaphore"
-author: Pito Salasurl: "https://semaphoreci.com/blog/2017/08/09/faster-rails-eliminating-n-plus-one-queries.html" cover: "https://wpblog.semaphoreci.com/wp-content/uploads/2017/08/Faster-Rails-Eliminating-N1-queries.jpg" 
+author: Pito Salas
+url: "https://semaphoreci.com/blog/2017/08/09/faster-rails-eliminating-n-plus-one-queries.html" 
+cover: "https://wpblog.semaphoreci.com/wp-content/uploads/2017/08/Faster-Rails-Eliminating-N1-queries.jpg" 
 date: 2022-03-14 14:28:50
 tags:
     - rails-activerecord-performance-scale-tuning-n-plus-one

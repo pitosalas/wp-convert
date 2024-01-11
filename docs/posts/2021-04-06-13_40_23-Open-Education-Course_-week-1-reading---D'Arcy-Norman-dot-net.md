@@ -1,6 +1,8 @@
 ---
 title: "Open Education Course: week 1 reading - D'Arcy Norman dot net"
-author: Pito Salasurl: "http://www.darcynorman.net/2007/09/01/open-education-course-week-1-reading" cover: "https://darcynorman.net/images/1980-something.jpg" 
+author: Pito Salas
+url: "http://www.darcynorman.net/2007/09/01/open-education-course-week-1-reading" 
+cover: "https://darcynorman.net/images/1980-something.jpg" 
 date: 2021-04-06 13:40:23
 tags:
     - daulist-education20-education

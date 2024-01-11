@@ -3,7 +3,7 @@ title: "Amazon provides free hosting for public data sets"
 author: Pito Salas
 date: 2011-02-10T20:30:29
 tags:
-    - amazon
+    - amazon-tag
     - aws
     - open-source
     - public

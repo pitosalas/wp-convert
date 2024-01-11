@@ -1,6 +1,8 @@
 ---
 title: "Hottest 'ruby' Questions - Stack Overflow"
-author: Pito Salasurl: "http://stackoverflow.com/questions/tagged/ruby" cover: "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" 
+author: Pito Salas
+url: "http://stackoverflow.com/questions/tagged/ruby" 
+cover: "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" 
 date: 2021-04-06 13:40:22
 tags:
     - Ruby

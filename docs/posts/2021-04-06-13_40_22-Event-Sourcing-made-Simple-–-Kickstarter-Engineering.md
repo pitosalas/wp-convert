@@ -1,6 +1,8 @@
 ---
 title: "Event Sourcing made Simple – Kickstarter Engineering"
-author: Pito Salasurl: "https://kickstarter.engineering/event-sourcing-made-simple-4a2625113224" cover: "https://miro.medium.com/max/1200/0*qakJ08-RFUuvGqfR." 
+author: Pito Salas
+url: "https://kickstarter.engineering/event-sourcing-made-simple-4a2625113224" 
+cover: "https://miro.medium.com/max/1200/0*qakJ08-RFUuvGqfR." 
 date: 2021-04-06 13:40:22
 tags:
     - event-rails-engineering-sourcing-ruby

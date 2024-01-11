@@ -1,6 +1,8 @@
 ---
 title: "Creating Isometric Tiles from Square Tiles « Xalthorn’s Weblog"
-author: Pito Salasurl: "http://xalthorn.wordpress.com/2007/09/28/creating-isometric-tiles-from-square-tiles" cover: "https://s0.wp.com/i/blank.jpg" 
+author: Pito Salas
+url: "http://xalthorn.wordpress.com/2007/09/28/creating-isometric-tiles-from-square-tiles" 
+cover: "https://s0.wp.com/i/blank.jpg" 
 date: 2021-04-06 13:40:23
 ---
 <img src=https://s0.wp.com/i/blank.jpg width="500">

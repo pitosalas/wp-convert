@@ -1,6 +1,8 @@
 ---
 title: "STICKY: Is your Pi not booting? (The Boot Problems Sticky) - Raspberry Pi Forums"
-author: Pito Salasurl: "https://forums.raspberrypi.com/viewtopic.php?f=28&t=58151" cover: "https://forums.raspberrypi.com/download/file.php?id=7342" 
+author: Pito Salas
+url: "https://forums.raspberrypi.com/viewtopic.php?f=28&t=58151" 
+cover: "https://forums.raspberrypi.com/download/file.php?id=7342" 
 date: 2022-01-03 22:18:27
 tags:
     - raspi-trouble-shooting-boot

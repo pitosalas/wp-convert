@@ -1,6 +1,8 @@
 ---
 title: "Matt Sears | Minitest Quick Reference"
-author: Pito Salasurl: "http://www.mattsears.com/articles/2011/12/10/minitest-quick-reference" cover: "https://rdl.ink/render/http%3A%2F%2Fwww.mattsears.com%2Farticles%2F2011%2F12%2F10%2Fminitest-quick-reference" 
+author: Pito Salas
+url: "http://www.mattsears.com/articles/2011/12/10/minitest-quick-reference" 
+cover: "https://rdl.ink/render/http%3A%2F%2Fwww.mattsears.com%2Farticles%2F2011%2F12%2F10%2Fminitest-quick-reference" 
 date: 2021-04-06 13:40:22
 tags:
     - Software-Engineering

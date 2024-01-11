@@ -7,8 +7,8 @@ tags:
     - branding
     - google
     - graphic-design
-    - icons
-    - iphone
+    - icon-tags
+    - iphon-tage
     - logos
 ---
 

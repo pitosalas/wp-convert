@@ -3,7 +3,7 @@ title: "Happy Manhattanhenge"
 author: Pito Salas
 date: 2012-05-29T12:19:05
 tags:
-    - astronomy
+    - astron-tagomy
     - nyc
 ---
 

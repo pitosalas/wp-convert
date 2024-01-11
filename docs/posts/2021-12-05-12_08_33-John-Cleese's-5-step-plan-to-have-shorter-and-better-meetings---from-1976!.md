@@ -1,6 +1,8 @@
 ---
 title: "John Cleese's 5-step plan to have shorter and better meetings - from 1976!"
-author: Pito Salasurl: "https://youtube.com/watch?v=Ff9V0mISmtk&feature=share" cover: "https://i.ytimg.com/vi/Ff9V0mISmtk/mqdefault.jpg" 
+author: Pito Salas
+url: "https://youtube.com/watch?v=Ff9V0mISmtk&feature=share" 
+cover: "https://i.ytimg.com/vi/Ff9V0mISmtk/mqdefault.jpg" 
 date: 2021-12-05 12:08:33
 tags:
     - meetings-efficiency-people-time

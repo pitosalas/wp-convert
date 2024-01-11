@@ -1,6 +1,8 @@
 ---
 title: "CSS doesn’t suck - Andy Bell"
-author: Pito Salasurl: "https://andy-bell.design/wrote/css-doesnt-suck" cover: "https://hankchizljaw.imgix.net/social-share.png?sat=-100&con=100" 
+author: Pito Salas
+url: "https://andy-bell.design/wrote/css-doesnt-suck" 
+cover: "https://hankchizljaw.imgix.net/social-share.png?sat=-100&con=100" 
 date: 2021-04-06 13:40:22
 tags:
     - css-html-sass-coding

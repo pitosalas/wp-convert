@@ -1,6 +1,8 @@
 ---
 title: "Building a Small Rails API with Serializers - Level Up Coding"
-author: Pito Salasurl: "https://levelup.gitconnected.com/building-a-small-rails-api-with-serializers-32e3e69a078" cover: "https://miro.medium.com/max/1000/0*78Wut4nTELlloega" 
+author: Pito Salas
+url: "https://levelup.gitconnected.com/building-a-small-rails-api-with-serializers-32e3e69a078" 
+cover: "https://miro.medium.com/max/1000/0*78Wut4nTELlloega" 
 date: 2021-04-06 13:40:22
 tags:
     - coding-howto-rails-api

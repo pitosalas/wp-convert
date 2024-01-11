@@ -3,7 +3,7 @@ title: "Boo for me! Yay! for Massachusetts"
 author: Pito Salas
 date: 2013-11-06T15:33:52
 tags:
-    - amazon
+    - amazon-tag
     - massachusetts
     - tax
 ---

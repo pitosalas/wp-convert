@@ -6,7 +6,7 @@ tags:
     - books
     - ebooks
     - kindle
-    - nook
+    - no-tagok
 ---
 
 

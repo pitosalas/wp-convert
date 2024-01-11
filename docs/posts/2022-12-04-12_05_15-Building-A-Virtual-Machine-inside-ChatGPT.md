@@ -1,6 +1,8 @@
 ---
 title: "Building A Virtual Machine inside ChatGPT"
-author: Pito Salasurl: "https://www.engraved.blog/building-a-virtual-machine-inside/" cover: "https://www.engraved.blog/content/images/2022/12/deepmind-mbq0qL3ynMs-unsplash.jpg" 
+author: Pito Salas
+url: "https://www.engraved.blog/building-a-virtual-machine-inside/" 
+cover: "https://www.engraved.blog/content/images/2022/12/deepmind-mbq0qL3ynMs-unsplash.jpg" 
 date: 2022-12-04 12:05:15
 tags:
     - text-generation-chat-gpt-linux-shell-the-matrix

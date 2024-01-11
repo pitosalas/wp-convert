@@ -3,10 +3,10 @@ title: "Upcoming Web Innovators Group meeting"
 author: Pito Salas
 date: 2009-09-16T13:53:39
 tags:
-    - boston
+    - boston-tag
     - entrepreneur
     - geeks
-    - webinno
+    - webinno-tag
 ---
 
 

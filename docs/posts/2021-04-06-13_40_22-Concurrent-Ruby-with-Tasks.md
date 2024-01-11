@@ -1,6 +1,8 @@
 ---
 title: "Concurrent Ruby with Tasks"
-author: Pito Salasurl: "https://www.reddit.com/r/ruby/comments/9sda4c/concurrent_ruby_with_tasks?sh=00d70b86&st=JNUDGQFF" cover: "https://www.redditstatic.com/new-icon.png" 
+author: Pito Salas
+url: "https://www.reddit.com/r/ruby/comments/9sda4c/concurrent_ruby_with_tasks?sh=00d70b86&st=JNUDGQFF" 
+cover: "https://www.redditstatic.com/new-icon.png" 
 date: 2021-04-06 13:40:22
 tags:
     - ruby-tasks-monad

@@ -1,6 +1,8 @@
 ---
 title: "Excalidraw — Collaborative whiteboarding made easy"
-author: Pito Salasurl: "https://excalidraw.com/" cover: "https://excalidraw.com/og-image-2.png" 
+author: Pito Salas
+url: "https://excalidraw.com/" 
+cover: "https://excalidraw.com/og-image-2.png" 
 date: 2023-11-11 02:23:03
 tags:
     - drawing-diagrams-drag-and-drop-visualization-illustration

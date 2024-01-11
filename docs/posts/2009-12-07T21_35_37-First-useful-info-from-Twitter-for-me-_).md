@@ -3,7 +3,7 @@ title: "First useful info from Twitter for me :)"
 author: Pito Salas
 date: 2009-12-07T21:35:37
 tags:
-    - coffee
+    - coff-tagee
     - georgehowell
     - terroir
 ---

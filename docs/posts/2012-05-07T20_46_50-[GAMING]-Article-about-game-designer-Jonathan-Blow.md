@@ -4,9 +4,9 @@ author: Pito Salas
 date: 2012-05-07T20:46:50
 tags:
     - arrogant
-    - controversial
+    - con-tagtroversial
     - design
-    - fourth-dimension
+    - fourth-dimension-tag
     - gaming
 ---
 

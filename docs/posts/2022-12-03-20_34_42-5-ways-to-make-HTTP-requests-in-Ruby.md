@@ -1,6 +1,8 @@
 ---
 title: "5 ways to make HTTP requests in Ruby"
-author: Pito Salasurl: "https://www.twilio.com/blog/5-ways-make-http-requests-ruby" cover: "https://assets.cdn.prod.twilio.com/original_images/4AqmzZrvd5W76VCMIhcevRouihUi-HgfNVk0Cgq0zJTIU1MSmGAXzl4zSImdIkgJN_KgQdee8cUtJZ" 
+author: Pito Salas
+url: "https://www.twilio.com/blog/5-ways-make-http-requests-ruby" 
+cover: "https://assets.cdn.prod.twilio.com/original_images/4AqmzZrvd5W76VCMIhcevRouihUi-HgfNVk0Cgq0zJTIU1MSmGAXzl4zSImdIkgJN_KgQdee8cUtJZ" 
 date: 2022-12-03 20:34:42
 tags:
     - ruby-gem-http-tcp/ip-howto-explainer

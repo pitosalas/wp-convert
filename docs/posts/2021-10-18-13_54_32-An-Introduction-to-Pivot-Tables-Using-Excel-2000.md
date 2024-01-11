@@ -1,6 +1,8 @@
 ---
 title: "An Introduction to Pivot Tables Using Excel 2000"
-author: Pito Salasurl: "https://www.slideserve.com/vince/an-introduction-to-pivot-tables-using-excel-2000" cover: "https://image2.slideserve.com/4596057/an-introduction-to-pivot-tables-using-excel-2000-n.jpg" 
+author: Pito Salas
+url: "https://www.slideserve.com/vince/an-introduction-to-pivot-tables-using-excel-2000" 
+cover: "https://image2.slideserve.com/4596057/an-introduction-to-pivot-tables-using-excel-2000-n.jpg" 
 date: 2021-10-18 13:54:32
 tags:
     - improv-history-pivottables-excel

@@ -1,6 +1,8 @@
 ---
 title: "💡Algorithms tutorial series for beginners"
-author: Pito Salasurl: "https://www.reddit.com/r/compsci/comments/9oztot/algorithms_tutorial_series_for_beginners?sh=2d2fba36&st=JNEHXSO7" cover: "https://b.thumbs.redditmedia.com/AeNQ1lnVNjKjcu7aznXNfGG2nOMLepS4tiVXrVqaREc.jpg" 
+author: Pito Salas
+url: "https://www.reddit.com/r/compsci/comments/9oztot/algorithms_tutorial_series_for_beginners?sh=2d2fba36&st=JNEHXSO7" 
+cover: "https://b.thumbs.redditmedia.com/AeNQ1lnVNjKjcu7aznXNfGG2nOMLepS4tiVXrVqaREc.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - tutorial-algorithms-datastructures

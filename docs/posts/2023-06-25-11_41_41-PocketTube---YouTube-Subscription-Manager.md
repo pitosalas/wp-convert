@@ -1,6 +1,8 @@
 ---
 title: "PocketTube - YouTube Subscription Manager"
-author: Pito Salasurl: "https://pockettube.io/" cover: "https://pockettube.io/img/logo.svg" 
+author: Pito Salas
+url: "https://pockettube.io/" 
+cover: "https://pockettube.io/img/logo.svg" 
 date: 2023-06-25 11:41:41
 tags:
     - youtube-subscriptions-productivity

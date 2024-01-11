@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2011-11-15T15:27:07
 tags:
     - apple
-    - iphone
+    - iphon-tage
     - itunes
     - rhapsody
     - spotify

@@ -4,9 +4,9 @@ author: Pito Salas
 date: 2012-06-30T04:15:57
 tags:
     - brandeis
-    - education
+    - education-tag
     - Harvard
-    - higher-education
+    - higher-education-tag
     - mit
 ---
 

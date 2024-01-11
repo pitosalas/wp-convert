@@ -3,7 +3,7 @@ title: "Something wrong with this picture?"
 author: Pito Salas
 date: 2009-01-09T14:41:30
 tags:
-    - server-not-found
+    - server-no-tagt-found
     - wsj
 ---
 

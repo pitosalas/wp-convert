@@ -1,6 +1,8 @@
 ---
 title: "one hundred push ups"
-author: Pito Salasurl: "http://hundredpushups.com" cover: "https://hundredpushups.com/assets/img/main_woman_mat.jpg" 
+author: Pito Salas
+url: "http://hundredpushups.com" 
+cover: "https://hundredpushups.com/assets/img/main_woman_mat.jpg" 
 date: 2021-04-06 13:40:22
 ---
 <img src=https://hundredpushups.com/assets/img/main_woman_mat.jpg width="500">

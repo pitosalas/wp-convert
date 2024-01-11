@@ -1,6 +1,8 @@
 ---
 title: "Dapper: The Data Mapper"
-author: Pito Salasurl: "http://www.dapper.net" cover: "" 
+author: Pito Salas
+url: "http://www.dapper.net" 
+cover: "" 
 date: 2021-04-06 13:40:23
 tags:
     - rss-feed

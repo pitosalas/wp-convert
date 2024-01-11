@@ -3,7 +3,7 @@ title: "It’s probably not cool to say, but I am not sure about “Mayday.Us”
 author: Pito Salas
 date: 2014-07-04T20:39:14
 tags:
-    - elections
+    - election-tags
     - lawrence-lessig
     - politics
 ---

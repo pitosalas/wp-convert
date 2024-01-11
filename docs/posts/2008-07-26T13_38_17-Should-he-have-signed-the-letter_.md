@@ -3,7 +3,7 @@ title: "Should he have signed the letter?"
 author: Pito Salas
 date: 2008-07-26T13:38:17
 tags:
-    - religion-obama-jerusalem
+    - religion-tag-obama-jerusalem
 ---
 
 

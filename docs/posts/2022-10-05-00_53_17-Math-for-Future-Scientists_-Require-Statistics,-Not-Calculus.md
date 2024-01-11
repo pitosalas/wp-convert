@@ -1,6 +1,8 @@
 ---
 title: "Math for Future Scientists: Require Statistics, Not Calculus"
-author: Pito Salasurl: "https://quillette.com/2022/09/15/math-for-future-darwins/" cover: "https://s3.amazonaws.com/prod.static-content.quillette.com/2022/09/Math--1-.png" 
+author: Pito Salas
+url: "https://quillette.com/2022/09/15/math-for-future-darwins/" 
+cover: "https://s3.amazonaws.com/prod.static-content.quillette.com/2022/09/Math--1-.png" 
 date: 2022-10-05 00:53:17
 tags:
     - calculus-statistics-mathematics-education-highschool-higher-education

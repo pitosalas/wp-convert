@@ -1,6 +1,8 @@
 ---
 title: "MicroK8s - Zero-ops Kubernetes for developers, edge and IoT | MicroK8s"
-author: Pito Salasurl: "https://microk8s.io/" cover: "https://rdl.ink/render/https%3A%2F%2Fmicrok8s.io%2F" 
+author: Pito Salas
+url: "https://microk8s.io/" 
+cover: "https://rdl.ink/render/https%3A%2F%2Fmicrok8s.io%2F" 
 date: 2021-08-01 17:54:21
 tags:
     - kubernetes-scale-micro-k8s-howto

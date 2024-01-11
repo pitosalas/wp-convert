@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2012-04-06T00:50:45
 tags:
     - americans-elect
-    - elections
+    - election-tags
     - gail-collins
     - politics
     - tea-party

@@ -1,6 +1,8 @@
 ---
 title: "Python Tuples and Tuple Methods | Codementor"
-author: Pito Salasurl: "https://www.codementor.io/mgalarny/python-tuples-and-tuple-methods-m6a1p6lbo" cover: "https://cdn.filestackcontent.com/Q2S3TEuHSXuEpr7WSpGq" 
+author: Pito Salas
+url: "https://www.codementor.io/mgalarny/python-tuples-and-tuple-methods-m6a1p6lbo" 
+cover: "https://cdn.filestackcontent.com/Q2S3TEuHSXuEpr7WSpGq" 
 date: 2021-04-06 13:40:22
 tags:
     - tuples-python-methods

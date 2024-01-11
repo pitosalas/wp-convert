@@ -1,6 +1,8 @@
 ---
 title: "The Ruby on Rails SaaS Template | Bullet Train"
-author: Pito Salasurl: "https://bullettrain.co/" cover: "https://rdl.ink/render/https%3A%2F%2Fbullettrain.co%2F" 
+author: Pito Salas
+url: "https://bullettrain.co/" 
+cover: "https://rdl.ink/render/https%3A%2F%2Fbullettrain.co%2F" 
 date: 2023-04-25 15:11:10
 tags:
     - rails-template-agile-framework-ruby

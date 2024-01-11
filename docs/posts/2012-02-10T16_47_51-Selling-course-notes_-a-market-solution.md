@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2012-02-10T16:47:51
 tags:
     - courses
-    - money
+    - mon-tagey
     - professor
     - students
     - teaching

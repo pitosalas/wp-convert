@@ -1,6 +1,8 @@
 ---
 title: "VSCode Marketplace can be abused to host malicious extensions"
-author: Pito Salasurl: "https://www.bleepingcomputer.com/news/microsoft/vscode-marketplace-can-be-abused-to-host-malicious-extensions/" cover: "https://www.bleepstatic.com/content/hl-images/2023/01/06/vscode-malware-header.jpg" 
+author: Pito Salas
+url: "https://www.bleepingcomputer.com/news/microsoft/vscode-marketplace-can-be-abused-to-host-malicious-extensions/" 
+cover: "https://www.bleepstatic.com/content/hl-images/2023/01/06/vscode-malware-header.jpg" 
 date: 2023-01-09 21:52:56
 tags:
     - coding-visual-studio-code-vscode-hacker-malware

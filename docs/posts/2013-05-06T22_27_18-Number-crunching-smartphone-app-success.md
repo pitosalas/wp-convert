@@ -6,7 +6,7 @@ tags:
     - apps
     - earnings
     - profit
-    - smartphone
+    - smartphon-tage
     - statistics
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: "Home | Old Book Illustrations"
-author: Pito Salasurl: "https://www.oldbookillustrations.com/?utm_campaign=Recomendo&utm_medium=email&utm_source=Revue%20newsletter" cover: "https://oldbookillustrations.com/wp-content/high-res/-768.jpg" 
+author: Pito Salas
+url: "https://www.oldbookillustrations.com/?utm_campaign=Recomendo&utm_medium=email&utm_source=Revue%20newsletter" 
+cover: "https://oldbookillustrations.com/wp-content/high-res/-768.jpg" 
 date: 2022-01-02 12:16:47
 tags:
     - illustration-images-old-cooltool-free

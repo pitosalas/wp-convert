@@ -1,6 +1,8 @@
 ---
 title: "Managing Multiple Python Versions With pyenv – Real Python"
-author: Pito Salasurl: "https://realpython.com/intro-to-pyenv/" cover: "https://files.realpython.com/media/Getting-Started-With-pyenv_Watermarked.7b1dd55b32a1.jpg" 
+author: Pito Salas
+url: "https://realpython.com/intro-to-pyenv/" 
+cover: "https://files.realpython.com/media/Getting-Started-With-pyenv_Watermarked.7b1dd55b32a1.jpg" 
 date: 2022-07-31 21:23:34
 tags:
     - python-pyenv-version-manager-version-manage-howto

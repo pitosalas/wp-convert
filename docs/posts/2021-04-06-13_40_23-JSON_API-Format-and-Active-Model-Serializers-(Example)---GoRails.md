@@ -1,6 +1,8 @@
 ---
 title: "JSON:API Format and Active Model Serializers (Example) - GoRails"
-author: Pito Salasurl: "https://gorails.com/episodes/json-api-format-and-active-model-serializers?autoplay=1" cover: "https://embed-ssl.wistia.com/deliveries/69ff07a76b3929aabc0290d60c455f5d.jpg" 
+author: Pito Salas
+url: "https://gorails.com/episodes/json-api-format-and-active-model-serializers?autoplay=1" 
+cover: "https://embed-ssl.wistia.com/deliveries/69ff07a76b3929aabc0290d60c455f5d.jpg" 
 date: 2021-04-06 13:40:23
 ---
 <img src=https://embed-ssl.wistia.com/deliveries/69ff07a76b3929aabc0290d60c455f5d.jpg width="500">

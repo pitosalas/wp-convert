@@ -1,6 +1,8 @@
 ---
 title: "PyImageSearch University Courses: You can master Computer Vision, Deep Learning, and OpenCV"
-author: Pito Salasurl: "https://pyimagesearch.com/pyimagesearch-university/" cover: "https://embed-fastly.wistia.com/deliveries/4bda0a1602c8b4d96d63a02617f3069e.jpg?image_crop_resized=1920x1080" 
+author: Pito Salas
+url: "https://pyimagesearch.com/pyimagesearch-university/" 
+cover: "https://embed-fastly.wistia.com/deliveries/4bda0a1602c8b4d96d63a02617f3069e.jpg?image_crop_resized=1920x1080" 
 date: 2022-03-18 12:24:00
 tags:
     - image-processing-opencv-course

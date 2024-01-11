@@ -1,6 +1,8 @@
 ---
 title: "Specifications grading with the EMRF rubric"
-author: Pito Salasurl: "https://rtalbert.org/specs-grading-emrf/" cover: "https://rtalbert.org/content/images/2019/02/emrf-1.jpg" 
+author: Pito Salas
+url: "https://rtalbert.org/specs-grading-emrf/" 
+cover: "https://rtalbert.org/content/images/2019/02/emrf-1.jpg" 
 date: 2023-08-21 17:39:11
 tags:
     - teaching-grading-specs-grading

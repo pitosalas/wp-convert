@@ -1,6 +1,8 @@
 ---
 title: "HuskyLens – An AI Camera: Click, Learn, and Play | Vision Sensor | DFRobot Electronics"
-author: Pito Salasurl: "https://www.dfrobot.com/product-1922.html" cover: "https://rdl.ink/render/https%3A%2F%2Fwww.dfrobot.com%2Fproduct-1922.html" 
+author: Pito Salas
+url: "https://www.dfrobot.com/product-1922.html" 
+cover: "https://rdl.ink/render/https%3A%2F%2Fwww.dfrobot.com%2Fproduct-1922.html" 
 date: 2022-06-12 00:01:06
 tags:
     - robotics-computer-vision-ai-camera-ai-camera-huskylens

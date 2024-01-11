@@ -1,6 +1,8 @@
 ---
 title: "jnunemaker/flipper: feature flipping for ANYTHING"
-author: Pito Salasurl: "https://github.com/jnunemaker/flipper" cover: "https://avatars.githubusercontent.com/u/235?s=400&v=4" 
+author: Pito Salas
+url: "https://github.com/jnunemaker/flipper" 
+cover: "https://avatars.githubusercontent.com/u/235?s=400&v=4" 
 date: 2021-04-06 13:40:22
 tags:
     - Software-Engineering

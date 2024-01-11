@@ -1,6 +1,8 @@
 ---
 title: "Ruby's Hash is a Swiss-Army Knife"
-author: Pito Salasurl: "https://www.akshaykhot.com/ruby-hash-is-a-swiss-army-knife/?ref=akshays-blog-newsletter" cover: "https://www.akshaykhot.com/content/images/2023/08/code-7.png" 
+author: Pito Salas
+url: "https://www.akshaykhot.com/ruby-hash-is-a-swiss-army-knife/?ref=akshays-blog-newsletter" 
+cover: "https://www.akshaykhot.com/content/images/2023/08/code-7.png" 
 date: 2023-08-24 11:34:20
 tags:
     - ruby-hash-explainer-howto

@@ -1,6 +1,8 @@
 ---
 title: "Search - Consensus: AI Search Engine for Research"
-author: Pito Salasurl: "https://consensus.app/search/" cover: "https://consensus.app/images/og-search.png" 
+author: Pito Salas
+url: "https://consensus.app/search/" 
+cover: "https://consensus.app/images/og-search.png" 
 date: 2023-12-30 01:50:23
 ---
 <img src=https://consensus.app/images/og-search.png width="500">

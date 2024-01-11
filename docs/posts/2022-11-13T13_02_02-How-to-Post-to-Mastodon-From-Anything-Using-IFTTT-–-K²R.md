@@ -5,7 +5,7 @@ date: 2022-11-13T13:02:02
 tags:
     - howto
     - ifttt
-    - mastodon
+    - mastodon-tag
 ---
 
 

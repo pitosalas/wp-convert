@@ -1,6 +1,8 @@
 ---
 title: "12 pieces of advice from the frontline of \"Startup-ing\" - Medium"
-author: Pito Salasurl: "https://medium.com/p/aa2c14912eea" cover: "https://miro.medium.com/max/1200/1*IRBOAt2j1NmgKuOZPEld0A.jpeg" 
+author: Pito Salas
+url: "https://medium.com/p/aa2c14912eea" 
+cover: "https://miro.medium.com/max/1200/1*IRBOAt2j1NmgKuOZPEld0A.jpeg" 
 date: 2021-04-06 13:40:23
 tags:
     - entrepreneurs-entrepreneurship-startup

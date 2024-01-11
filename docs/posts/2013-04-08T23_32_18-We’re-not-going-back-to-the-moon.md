@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2013-04-08T23:32:18
 tags:
     - apollo
-    - moon
+    - moon-tag
     - nasa
     - USA
 ---

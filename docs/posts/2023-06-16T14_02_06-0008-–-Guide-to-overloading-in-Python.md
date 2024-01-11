@@ -4,10 +4,10 @@ author: Pito Salas
 date: 2023-06-16T14:02:06
 tags:
     - explainer
-    - functions
+    - function-tags
     - language
     - overloading
-    - python
+    - python-tag
 ---
 
 

@@ -1,6 +1,8 @@
 ---
 title: "PostgreSQL Performance Enabling pg_stat_statements"
-author: Pito Salasurl: "https://www.virtual-dba.com/blog/postgresql-performance-enabling-pg-stat-statements/" cover: "https://www.virtual-dba.com/media/PostgreSQL-Performance-Enabling-pg_stat_statements.jpg" 
+author: Pito Salas
+url: "https://www.virtual-dba.com/blog/postgresql-performance-enabling-pg-stat-statements/" 
+cover: "https://www.virtual-dba.com/media/PostgreSQL-Performance-Enabling-pg_stat_statements.jpg" 
 date: 2022-03-05 12:51:27
 tags:
     - postgres-configuration-performance-tuning-query

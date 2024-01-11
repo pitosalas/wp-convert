@@ -1,6 +1,8 @@
 ---
 title: "Read the Docs tutorial — Read the Docs user documentation 8.4.0 documentation"
-author: Pito Salasurl: "https://docs.readthedocs.io/en/stable/tutorial/" cover: "https://docs.readthedocs.io/en/stable/_images/github-template.png" 
+author: Pito Salas
+url: "https://docs.readthedocs.io/en/stable/tutorial/" 
+cover: "https://docs.readthedocs.io/en/stable/_images/github-template.png" 
 date: 2022-08-17 11:32:25
 tags:
     - documentation-github-howto-readthedocs-gitbook

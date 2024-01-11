@@ -1,6 +1,8 @@
 ---
 title: "A New Ruby Application Server: NGINX Unit"
-author: Pito Salasurl: "https://www.speedshop.co/2018/03/28/nginx-unit-for-ruby.html" cover: "https://www.speedshop.co/assets/posts/img/nginxunit-share.jpg" 
+author: Pito Salas
+url: "https://www.speedshop.co/2018/03/28/nginx-unit-for-ruby.html" 
+cover: "https://www.speedshop.co/assets/posts/img/nginxunit-share.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - ruby-nginx

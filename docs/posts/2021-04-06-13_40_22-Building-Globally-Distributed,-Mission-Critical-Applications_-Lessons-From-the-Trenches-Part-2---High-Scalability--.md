@@ -1,6 +1,8 @@
 ---
 title: "Building Globally Distributed, Mission Critical Applications: Lessons From the Trenches Part 2 - High Scalability -"
-author: Pito Salasurl: "http://highscalability.com/blog/2015/9/2/building-globally-distributed-mission-critical-applications.html" cover: "https://farm1.staticflickr.com/673/21015670451_fb1075527a_m.jpg" 
+author: Pito Salas
+url: "http://highscalability.com/blog/2015/9/2/building-globally-distributed-mission-critical-applications.html" 
+cover: "https://farm1.staticflickr.com/673/21015670451_fb1075527a_m.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - Software-Engineering

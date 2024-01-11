@@ -3,7 +3,7 @@ title: "Where can I find non-shrill political coverage?"
 author: Pito Salas
 date: 2008-09-05T12:12:21
 tags:
-    - liberal-conservative-republican-democrat-newyorktimes-n
+    - liberal-con-tagservative-republican-democrat-newyorktimes-n
 ---
 
 

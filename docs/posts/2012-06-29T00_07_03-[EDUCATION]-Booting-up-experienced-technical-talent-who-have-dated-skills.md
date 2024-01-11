@@ -4,8 +4,8 @@ author: Pito Salas
 date: 2012-06-29T00:07:03
 tags:
     - bootup
-    - education
-    - higher-education
+    - education-tag
+    - higher-education-tag
     - nyt
 ---
 

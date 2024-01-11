@@ -1,6 +1,8 @@
 ---
 title: "CSS at Scale: LinkedIn’s New Open Source Projects Take on Stylesheet Performance"
-author: Pito Salasurl: "https://engineering.linkedin.com/blog/2018/04/css-at-scale--linkedins-new-open-source-projects-take-on-stylesh" cover: "https://engineering.linkedin.com/content/dam/engineering/site-assets/images/blog/posts/2018/04/css-at-scale-1.jpg" 
+author: Pito Salas
+url: "https://engineering.linkedin.com/blog/2018/04/css-at-scale--linkedins-new-open-source-projects-take-on-stylesh" 
+cover: "https://engineering.linkedin.com/content/dam/engineering/site-assets/images/blog/posts/2018/04/css-at-scale-1.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - performance-engineering-css

@@ -1,6 +1,8 @@
 ---
 title: "Chrono24 - Luxury watches | buy watches | sell a pre-owned watch"
-author: Pito Salasurl: "http://www.chrono24.com" cover: "https://static.chrono24.com/images/logo/chrono24_linkrel.gif" 
+author: Pito Salas
+url: "http://www.chrono24.com" 
+cover: "https://static.chrono24.com/images/logo/chrono24_linkrel.gif" 
 date: 2021-04-06 13:40:23
 tags:
     - watch

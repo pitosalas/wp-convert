@@ -1,6 +1,8 @@
 ---
 title: "Tutorial – Tiled mapEditor Part 1- Create a TMXTiledMap Game « PaulsonApps Development Blog"
-author: Pito Salasurl: "http://paulsonapps.wordpress.com/2010/06/09/tutorial-tiled-mapeditor-part-1-create-a-tmxtiledmap-game" cover: "https://secure.gravatar.com/blavatar/2d294961677339edb013270f2cd7ce72?s=240" 
+author: Pito Salas
+url: "http://paulsonapps.wordpress.com/2010/06/09/tutorial-tiled-mapeditor-part-1-create-a-tmxtiledmap-game" 
+cover: "https://secure.gravatar.com/blavatar/2d294961677339edb013270f2cd7ce72?s=240" 
 date: 2021-04-06 13:40:22
 ---
 <img src=https://secure.gravatar.com/blavatar/2d294961677339edb013270f2cd7ce72?s=240 width="500">

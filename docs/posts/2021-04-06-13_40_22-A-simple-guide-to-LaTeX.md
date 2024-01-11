@@ -1,6 +1,8 @@
 ---
 title: "A simple guide to LaTeX"
-author: Pito Salasurl: "https://www.latex-tutorial.com/tutorials" cover: "https://rdl.ink/render/https%3A%2F%2Fwww.latex-tutorial.com%2Ftutorials" 
+author: Pito Salas
+url: "https://www.latex-tutorial.com/tutorials" 
+cover: "https://rdl.ink/render/https%3A%2F%2Fwww.latex-tutorial.com%2Ftutorials" 
 date: 2021-04-06 13:40:22
 tags:
     - latex-tex-guide

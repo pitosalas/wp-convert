@@ -1,6 +1,8 @@
 ---
 title: "WebSockets - A Conceptual Deep-Dive"
-author: Pito Salasurl: "https://www.ably.io/concepts/websockets" cover: "" 
+author: Pito Salas
+url: "https://www.ably.io/concepts/websockets" 
+cover: "" 
 date: 2021-04-06 13:40:22
 tags:
     - Websockets-tutorial

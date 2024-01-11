@@ -6,7 +6,7 @@ tags:
     - bubble
     - dot-com
     - investing
-    - money
+    - mon-tagey
 ---
 
 

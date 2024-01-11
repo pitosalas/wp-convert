@@ -1,6 +1,8 @@
 ---
 title: "Gamification: Insights And Emerging Trends"
-author: Pito Salasurl: "http://techcrunch.com/2012/05/11/gamification-insights-trends" cover: "https://techcrunch.com/wp-content/uploads/2012/05/monopoly.jpg?w=150" 
+author: Pito Salas
+url: "http://techcrunch.com/2012/05/11/gamification-insights-trends" 
+cover: "https://techcrunch.com/wp-content/uploads/2012/05/monopoly.jpg?w=150" 
 date: 2021-04-06 13:40:23
 tags:
     - gamification-gamemechanics

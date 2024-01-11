@@ -1,6 +1,8 @@
 ---
 title: "What Does It Mean for AI to Understand? | Quanta Magazine"
-author: Pito Salasurl: "https://www.quantamagazine.org/what-does-it-mean-for-ai-to-understand-20211216/" cover: "https://d2r55xnwy6nx47.cloudfront.net/uploads/2021/12/AI-Understanding_1200_social.jpg" 
+author: Pito Salas
+url: "https://www.quantamagazine.org/what-does-it-mean-for-ai-to-understand-20211216/" 
+cover: "https://d2r55xnwy6nx47.cloudfront.net/uploads/2021/12/AI-Understanding_1200_social.jpg" 
 date: 2022-01-02 12:41:55
 tags:
     - roread-ai-turing-test-quants-cooltool

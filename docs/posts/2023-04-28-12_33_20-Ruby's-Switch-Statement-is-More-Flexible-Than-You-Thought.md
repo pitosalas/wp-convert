@@ -1,6 +1,8 @@
 ---
 title: "Ruby's Switch Statement is More Flexible Than You Thought"
-author: Pito Salasurl: "https://www.akshaykhot.com/ruby-switch-statement/" cover: "https://www.akshaykhot.com/content/images/2023/04/ruby_case.png" 
+author: Pito Salas
+url: "https://www.akshaykhot.com/ruby-switch-statement/" 
+cover: "https://www.akshaykhot.com/content/images/2023/04/ruby_case.png" 
 date: 2023-04-28 12:33:20
 tags:
     - ruby-case-syntax-advanced-explainer

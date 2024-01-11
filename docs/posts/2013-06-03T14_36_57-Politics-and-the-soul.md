@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2013-06-03T14:36:57
 tags:
     - bias
-    - conservative
+    - con-tagservative
     - liberals
     - politics
 ---

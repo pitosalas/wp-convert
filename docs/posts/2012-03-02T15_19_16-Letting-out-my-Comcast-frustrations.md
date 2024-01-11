@@ -5,9 +5,9 @@ date: 2012-03-02T15:19:16
 tags:
     - cable
     - comcast
-    - frustration
+    - frustration-tag
     - sucks
-    - verizon
+    - verizon-tag
 ---
 
 

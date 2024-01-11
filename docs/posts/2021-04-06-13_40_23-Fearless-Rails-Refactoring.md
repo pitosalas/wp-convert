@@ -1,6 +1,8 @@
 ---
 title: "Fearless Rails Refactoring"
-author: Pito Salasurl: "http://rails-refactoring.com" cover: "https://rails-refactoring.com/assets/fearless_2_pages_smaller.png" 
+author: Pito Salas
+url: "http://rails-refactoring.com" 
+cover: "https://rails-refactoring.com/assets/fearless_2_pages_smaller.png" 
 date: 2021-04-06 13:40:23
 tags:
     - rails-refactor

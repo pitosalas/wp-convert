@@ -1,6 +1,8 @@
 ---
 title: "99designs | Logo Design, Web Design and More. Design Done Differently."
-author: Pito Salasurl: "http://99designs.com" cover: "https://99designs.com/og-image.png" 
+author: Pito Salas
+url: "http://99designs.com" 
+cover: "https://99designs.com/og-image.png" 
 date: 2021-04-06 13:40:23
 tags:
     - design-icons-graphics-samples

@@ -3,7 +3,7 @@ title: "What Can We Learn from Barnes & Noble’s Surprising Turnaround?"
 author: Pito Salas
 date: 2022-12-29T02:02:13
 tags:
-    - barnes-and-nobel
+    - barnes-and-no-tagbel
     - books
     - management
     - ratial

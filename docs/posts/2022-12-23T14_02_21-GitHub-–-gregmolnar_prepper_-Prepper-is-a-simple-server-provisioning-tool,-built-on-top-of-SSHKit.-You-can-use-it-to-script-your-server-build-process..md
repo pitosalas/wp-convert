@@ -3,9 +3,9 @@ title: "GitHub – gregmolnar/prepper: Prepper is a simple server provisioning t
 author: Pito Salas
 date: 2022-12-23T14:02:21
 tags:
-    - automation
+    - automation-tag
     - cloud
-    - configuration
+    - con-tagfiguration-tag
     - dsl
     - server
     - setup

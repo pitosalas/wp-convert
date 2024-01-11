@@ -1,6 +1,8 @@
 ---
 title: "The Ultimate Guide to Real-Time Lane Detection Using OpenCV – Automatic Addison"
-author: Pito Salasurl: "https://automaticaddison.com/the-ultimate-guide-to-real-time-lane-detection-using-opencv/" cover: "https://automaticaddison.com/wp-content/uploads/2018/11/cropped-logo_sq_240.png" 
+author: Pito Salas
+url: "https://automaticaddison.com/the-ultimate-guide-to-real-time-lane-detection-using-opencv/" 
+cover: "https://automaticaddison.com/wp-content/uploads/2018/11/cropped-logo_sq_240.png" 
 date: 2022-03-22 13:46:41
 tags:
     - opencv-ros-autonomous-cars-robotics-edge-detection

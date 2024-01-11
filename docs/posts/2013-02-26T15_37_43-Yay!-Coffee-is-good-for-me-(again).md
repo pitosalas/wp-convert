@@ -3,7 +3,7 @@ title: "Yay! Coffee is good for me (again)"
 author: Pito Salas
 date: 2013-02-26T15:37:43
 tags:
-    - coffee
+    - coff-tagee
     - health
     - research
 ---

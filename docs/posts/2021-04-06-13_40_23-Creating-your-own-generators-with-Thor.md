@@ -1,6 +1,8 @@
 ---
 title: "Creating your own generators with Thor"
-author: Pito Salasurl: "http://blog.plataformatec.com.br/2009/07/creating-your-own-generators-with-thor" cover: "http://blog.plataformatec.com.br/wp-content/themes/ptec/assets/opengraph.png" 
+author: Pito Salas
+url: "http://blog.plataformatec.com.br/2009/07/creating-your-own-generators-with-thor" 
+cover: "http://blog.plataformatec.com.br/wp-content/themes/ptec/assets/opengraph.png" 
 date: 2021-04-06 13:40:23
 tags:
     - thor-development-ruby

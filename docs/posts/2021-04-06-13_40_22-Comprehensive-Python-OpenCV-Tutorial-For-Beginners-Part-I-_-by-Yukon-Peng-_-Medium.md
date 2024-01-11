@@ -1,6 +1,8 @@
 ---
 title: "Comprehensive Python OpenCV Tutorial For Beginners Part I | by Yukon Peng | Medium"
-author: Pito Salasurl: "https://medium.com/@yukunpengba/comprehensive-python-opencv-tutorial-for-beginners-part-i-fd0293d52241" cover: "https://miro.medium.com/max/1200/1*l_qUBd3ZxomdRz5AWFEyvg.jpeg" 
+author: Pito Salas
+url: "https://medium.com/@yukunpengba/comprehensive-python-opencv-tutorial-for-beginners-part-i-fd0293d52241" 
+cover: "https://miro.medium.com/max/1200/1*l_qUBd3ZxomdRz5AWFEyvg.jpeg" 
 date: 2021-04-06 13:40:22
 tags:
     - python-opencv-tutorial-howto-robotics

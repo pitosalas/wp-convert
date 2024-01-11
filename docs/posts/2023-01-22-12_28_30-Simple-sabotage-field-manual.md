@@ -1,6 +1,8 @@
 ---
 title: "Simple sabotage field manual"
-author: Pito Salasurl: "https://user.fm/files/v2-f56b9a8ed2ee68f48c1ad491fd2c8745/simple_sabotage_field_manual.pdf" cover: "https://rdl.ink/render/https%3A%2F%2Fuser.fm%2Ffiles%2Fv2-f56b9a8ed2ee68f48c1ad491fd2c8745%2Fsimple_sabotage_field_manual.pdf" 
+author: Pito Salas
+url: "https://user.fm/files/v2-f56b9a8ed2ee68f48c1ad491fd2c8745/simple_sabotage_field_manual.pdf" 
+cover: "https://rdl.ink/render/https%3A%2F%2Fuser.fm%2Ffiles%2Fv2-f56b9a8ed2ee68f48c1ad491fd2c8745%2Fsimple_sabotage_field_manual.pdf" 
 date: 2023-01-22 12:28:30
 tags:
     - sabotage-cia-explainer-history

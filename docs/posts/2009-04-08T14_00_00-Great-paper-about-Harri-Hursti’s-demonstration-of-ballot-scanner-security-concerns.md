@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-04-08T14:00:00
 tags:
     - computers
-    - elections
+    - election-tags
     - security
 ---
 

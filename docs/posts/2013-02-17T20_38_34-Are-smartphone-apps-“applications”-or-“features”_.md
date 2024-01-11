@@ -6,7 +6,7 @@ tags:
     - ecosystem
     - features
     - industry
-    - smartphone
+    - smartphon-tage
 ---
 
 

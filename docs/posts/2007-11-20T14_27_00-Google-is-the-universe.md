@@ -3,7 +3,7 @@ title: "Google is the universe"
 author: Pito Salas
 date: 2007-11-20T14:27:00
 tags:
-    - pagerank-countermeasures-colossus-money-ecommerce
+    - pagerank-countermeasures-colossus-mon-tagey-ecommerce
 ---
 
 

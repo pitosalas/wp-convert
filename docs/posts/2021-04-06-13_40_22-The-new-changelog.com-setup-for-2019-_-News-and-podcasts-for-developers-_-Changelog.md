@@ -1,6 +1,8 @@
 ---
 title: "The new changelog.com setup for 2019 | News and podcasts for developers | Changelog"
-author: Pito Salasurl: "https://changelog.com/posts/the-new-changelog-setup-for-2019" cover: "https://cdn.changelog.com/uploads/avatars/people/py/avatar_large.png?v=63771975846" 
+author: Pito Salas
+url: "https://changelog.com/posts/the-new-changelog-setup-for-2019" 
+cover: "https://cdn.changelog.com/uploads/avatars/people/py/avatar_large.png?v=63771975846" 
 date: 2021-04-06 13:40:22
 tags:
     - scaling-architecture-tier-tips

@@ -3,7 +3,7 @@ title: "Owner of Segway dies in Segway accident"
 author: Pito Salas
 date: 2010-09-28T00:41:41
 tags:
-    - personal-transportation
+    - person-tagal-transportation-tag
     - segway
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: "Head-First Kubernetes"
-author: Pito Salasurl: "https://head-first-kubernetes.github.io/" cover: "https://rdl.ink/render/https%3A%2F%2Fhead-first-kubernetes.github.io%2F" 
+author: Pito Salas
+url: "https://head-first-kubernetes.github.io/" 
+cover: "https://rdl.ink/render/https%3A%2F%2Fhead-first-kubernetes.github.io%2F" 
 date: 2022-04-08 12:31:40
 tags:
     - docker-python-kubernetes-howto-explainer

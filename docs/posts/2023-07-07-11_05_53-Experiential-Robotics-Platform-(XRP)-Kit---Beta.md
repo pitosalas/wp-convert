@@ -1,6 +1,8 @@
 ---
 title: "Experiential Robotics Platform (XRP) Kit - Beta"
-author: Pito Salasurl: "https://www.sparkfun.com/products/22230" cover: "https://cdn.sparkfun.com/r/92-92/assets/parts/2/2/1/9/1/XRP_Robot-02.jpg" 
+author: Pito Salas
+url: "https://www.sparkfun.com/products/22230" 
+cover: "https://cdn.sparkfun.com/r/92-92/assets/parts/2/2/1/9/1/XRP_Robot-02.jpg" 
 date: 2023-07-07 11:05:53
 tags:
     - robotics-education-cooltool

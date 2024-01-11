@@ -1,6 +1,8 @@
 ---
 title: "Sharding your database"
-author: Pito Salasurl: "https://www.craigkerstiens.com/2012/11/30/sharding-your-database/" cover: "https://f.v1.n0.cdn.getcloudapp.com/items/0Q1A38191Q0N3G0L413K/Screenshot%2011:29:12%209:45%20AM.png" 
+author: Pito Salas
+url: "https://www.craigkerstiens.com/2012/11/30/sharding-your-database/" 
+cover: "https://f.v1.n0.cdn.getcloudapp.com/items/0Q1A38191Q0N3G0L413K/Screenshot%2011:29:12%209:45%20AM.png" 
 date: 2022-03-23 22:34:40
 tags:
     - database-sharding-partitioning-scaling-performance

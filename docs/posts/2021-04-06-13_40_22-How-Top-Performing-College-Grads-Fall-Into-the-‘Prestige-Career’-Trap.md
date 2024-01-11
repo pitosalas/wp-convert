@@ -1,6 +1,8 @@
 ---
 title: "How Top-Performing College Grads Fall Into the ‘Prestige Career’ Trap"
-author: Pito Salasurl: "https://medium.com/s/story/a-culture-of-prestige-98c8671ceade" cover: "https://miro.medium.com/focal/1200/632/47/48/1*UdjymGt7Vx7RDxZH2DKWMA.jpeg" 
+author: Pito Salas
+url: "https://medium.com/s/story/a-culture-of-prestige-98c8671ceade" 
+cover: "https://miro.medium.com/focal/1200/632/47/48/1*UdjymGt7Vx7RDxZH2DKWMA.jpeg" 
 date: 2021-04-06 13:40:22
 tags:
     - prestige-college-career

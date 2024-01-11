@@ -3,8 +3,8 @@ title: "[EDUCATION] Strategic Plans – are they worth the paper they are writte
 author: Pito Salas
 date: 2012-05-04T19:24:42
 tags:
-    - education
-    - higher-education
+    - education-tag
+    - higher-education-tag
     - planning
     - strategy
     - university

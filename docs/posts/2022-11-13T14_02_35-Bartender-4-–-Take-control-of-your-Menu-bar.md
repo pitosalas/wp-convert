@@ -3,7 +3,7 @@ title: "Bartender 4 – Take control of your Menu bar"
 author: Pito Salas
 date: 2022-11-13T14:02:35
 tags:
-    - add-on
+    - add-on-tag
     - desktop
     - howto
     - macos

@@ -5,7 +5,7 @@ date: 2012-02-01T23:25:01
 tags:
     - insurance
     - mars
-    - moon
+    - moon-tag
     - nasa
     - probability
     - space

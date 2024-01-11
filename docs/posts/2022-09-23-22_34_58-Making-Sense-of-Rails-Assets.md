@@ -1,6 +1,8 @@
 ---
 title: "Making Sense of Rails Assets"
-author: Pito Salasurl: "https://fly.io/ruby-dispatch/making-sense-of-rails-assets/" cover: "https://fly.io/ruby-dispatch/2022-08-22/making-sense-of-rails-assets.jpg" 
+author: Pito Salas
+url: "https://fly.io/ruby-dispatch/making-sense-of-rails-assets/" 
+cover: "https://fly.io/ruby-dispatch/2022-08-22/making-sense-of-rails-assets.jpg" 
 date: 2022-09-23 22:34:58
 tags:
     - rails-asset-pipeline-configuration-explainer-howto

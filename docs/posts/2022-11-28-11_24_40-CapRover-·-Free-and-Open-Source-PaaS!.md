@@ -1,6 +1,8 @@
 ---
 title: "CapRover · Free and Open Source PaaS!"
-author: Pito Salasurl: "https://caprover.com/?utm_source=abyteofcodingnewsletter" cover: "https://caprover.com/img/logo.png" 
+author: Pito Salas
+url: "https://caprover.com/?utm_source=abyteofcodingnewsletter" 
+cover: "https://caprover.com/img/logo.png" 
 date: 2022-11-28 11:24:40
 tags:
     - pass-heroku-deployment-tool-cli-howto-explainer

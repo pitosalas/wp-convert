@@ -1,6 +1,8 @@
 ---
 title: "File: Advanced I/O with Polyphony — Documentation for polyphony (1.1.1)"
-author: Pito Salasurl: "https://www.rubydoc.info/gems/polyphony/file/docs/advanced-io.md" cover: "https://rdl.ink/render/https%3A%2F%2Fwww.rubydoc.info%2Fgems%2Fpolyphony%2Ffile%2Fdocs%2Fadvanced-io.md" 
+author: Pito Salas
+url: "https://www.rubydoc.info/gems/polyphony/file/docs/advanced-io.md" 
+cover: "https://rdl.ink/render/https%3A%2F%2Fwww.rubydoc.info%2Fgems%2Fpolyphony%2Ffile%2Fdocs%2Fadvanced-io.md" 
 date: 2023-06-16 05:23:25
 tags:
     - ruby-gem-unix-slice-io-performance-splice

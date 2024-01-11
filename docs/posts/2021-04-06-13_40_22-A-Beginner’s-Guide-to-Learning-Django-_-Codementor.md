@@ -1,6 +1,8 @@
 ---
 title: "A Beginner’s Guide to Learning Django | Codementor"
-author: Pito Salasurl: "https://www.codementor.io/mirjuned/a-beginner-s-guide-to-learning-django-i754etkkm" cover: "https://cdn.filestackcontent.com/3EjdlLkGR4eiUajR9ucw" 
+author: Pito Salas
+url: "https://www.codementor.io/mirjuned/a-beginner-s-guide-to-learning-django-i754etkkm" 
+cover: "https://cdn.filestackcontent.com/3EjdlLkGR4eiUajR9ucw" 
 date: 2021-04-06 13:40:22
 tags:
     - learning-django-python

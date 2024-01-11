@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-11-09T12:08:31
 tags:
     - copyright
-    - edfelton
+    - edfelton-tag
     - infringement
 ---
 

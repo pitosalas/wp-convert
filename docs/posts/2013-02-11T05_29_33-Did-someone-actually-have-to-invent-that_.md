@@ -4,9 +4,9 @@ author: Pito Salas
 date: 2013-02-11T05:29:33
 tags:
     - bell-labs
-    - invention
-    - telephone
-    - touch-tone
+    - invention-tag
+    - telephon-tage
+    - touch-ton-tage
     - user-experience
     - ux
 ---

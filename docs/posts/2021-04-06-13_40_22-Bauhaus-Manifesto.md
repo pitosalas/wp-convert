@@ -1,6 +1,8 @@
 ---
 title: "Bauhaus Manifesto"
-author: Pito Salasurl: "http://www.dmoma.org/lobby/Bauhaus_manifesto.html" cover: "http://www.ipower.com/images/icons/favicons/facebook-ipower.jpg" 
+author: Pito Salas
+url: "http://www.dmoma.org/lobby/Bauhaus_manifesto.html" 
+cover: "http://www.ipower.com/images/icons/favicons/facebook-ipower.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - Design

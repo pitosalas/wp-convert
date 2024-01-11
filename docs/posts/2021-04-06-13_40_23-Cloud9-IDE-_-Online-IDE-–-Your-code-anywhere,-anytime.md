@@ -1,6 +1,8 @@
 ---
 title: "Cloud9 IDE | Online IDE – Your code anywhere, anytime"
-author: Pito Salasurl: "https://c9.io" cover: "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_179x109.png" 
+author: Pito Salas
+url: "https://c9.io" 
+cover: "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_179x109.png" 
 date: 2021-04-06 13:40:23
 tags:
     - ide-code-ruby-programming

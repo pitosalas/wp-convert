@@ -1,6 +1,8 @@
 ---
 title: "Hunting for great names in programming – Signal v. Noise"
-author: Pito Salasurl: "https://m.signalvnoise.com/hunting-for-great-names-in-programming-16f624c8fc03#.z0fqch6iu" cover: "https://i1.wp.com/m.signalvnoise.com/wp-content/uploads/2019/01/cropped-svn-icon.gif?fit=240%2C240&ssl=1" 
+author: Pito Salas
+url: "https://m.signalvnoise.com/hunting-for-great-names-in-programming-16f624c8fc03#.z0fqch6iu" 
+cover: "https://i1.wp.com/m.signalvnoise.com/wp-content/uploads/2019/01/cropped-svn-icon.gif?fit=240%2C240&ssl=1" 
 date: 2021-04-06 13:40:23
 tags:
     - Software-Engineering

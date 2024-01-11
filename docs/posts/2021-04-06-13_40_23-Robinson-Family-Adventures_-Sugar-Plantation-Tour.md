@@ -1,6 +1,8 @@
 ---
 title: "Robinson Family Adventures: Sugar Plantation Tour"
-author: Pito Salasurl: "http://www.robinsonadventures.com/index.php?tour_sugar=" cover: "https://static.hugedomains.com/images/hdv3-img/og_hugedomains.png" 
+author: Pito Salas
+url: "http://www.robinsonadventures.com/index.php?tour_sugar=" 
+cover: "https://static.hugedomains.com/images/hdv3-img/og_hugedomains.png" 
 date: 2021-04-06 13:40:23
 tags:
     - kauai

@@ -4,8 +4,8 @@ author: Pito Salas
 date: 2022-11-13T13:02:09
 tags:
     - howto
-    - introduction
-    - mastodon
+    - introduction-tag
+    - mastodon-tag
 ---
 
 

@@ -1,6 +1,8 @@
 ---
 title: "Website Usability Testing Service - Feedback Army"
-author: Pito Salasurl: "http://www.feedbackarmy.com" cover: "https://rdl.ink/render/http%3A%2F%2Fwww.feedbackarmy.com" 
+author: Pito Salas
+url: "http://www.feedbackarmy.com" 
+cover: "https://rdl.ink/render/http%3A%2F%2Fwww.feedbackarmy.com" 
 date: 2021-04-06 13:40:22
 tags:
     - Design

@@ -1,6 +1,8 @@
 ---
 title: "We Can Do Better Than SQL"
-author: Pito Salasurl: "https://edgedb.com/blog/we-can-do-better-than-sql" cover: "https://rdl.ink/render/https%3A%2F%2Fedgedb.com%2Fblog%2Fwe-can-do-better-than-sql" 
+author: Pito Salas
+url: "https://edgedb.com/blog/we-can-do-better-than-sql" 
+cover: "https://rdl.ink/render/https%3A%2F%2Fedgedb.com%2Fblog%2Fwe-can-do-better-than-sql" 
 date: 2021-04-06 13:40:22
 tags:
     - critique-sql

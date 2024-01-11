@@ -1,6 +1,8 @@
 ---
 title: "Powtoon | Create Awesome Videos Yourself"
-author: Pito Salasurl: "https://www.powtoon.com/home" cover: "https://static.powtoon.co/images/powtoon_thumb.jpg" 
+author: Pito Salas
+url: "https://www.powtoon.com/home" 
+cover: "https://static.powtoon.co/images/powtoon_thumb.jpg" 
 date: 2021-04-06 13:40:23
 tags:
     - presentation-animation-tools

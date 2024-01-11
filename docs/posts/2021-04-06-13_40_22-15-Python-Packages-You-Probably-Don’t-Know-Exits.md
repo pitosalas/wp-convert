@@ -1,6 +1,8 @@
 ---
 title: "15 Python Packages You Probably Don’t Know Exits"
-author: Pito Salasurl: "https://link.medium.com/csSHSvZHOdb" cover: "https://miro.medium.com/max/1200/1*NNGQKrDrn1u9C0mbNlzr-g.png" 
+author: Pito Salas
+url: "https://link.medium.com/csSHSvZHOdb" 
+cover: "https://miro.medium.com/max/1200/1*NNGQKrDrn1u9C0mbNlzr-g.png" 
 date: 2021-04-06 13:40:22
 tags:
     - package-algorithms-python-howto

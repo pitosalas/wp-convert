@@ -1,6 +1,8 @@
 ---
 title: "Active Job Basics — Ruby on Rails Guides"
-author: Pito Salasurl: "http://guides.rubyonrails.org/active_job_basics.html" cover: "https://avatars.githubusercontent.com/u/4223" 
+author: Pito Salas
+url: "http://guides.rubyonrails.org/active_job_basics.html" 
+cover: "https://avatars.githubusercontent.com/u/4223" 
 date: 2021-04-06 13:40:22
 tags:
     - ruby-activejob

@@ -1,6 +1,8 @@
 ---
 title: "Tips for writing Rails tasks with Thor instead of Rake"
-author: Pito Salasurl: "https://mattbrictson.com/blog/rails-tasks-with-thor" cover: "" 
+author: Pito Salas
+url: "https://mattbrictson.com/blog/rails-tasks-with-thor" 
+cover: "" 
 date: 2023-06-25 11:25:25
 tags:
     - rake-ruby-thor-cli-howto

@@ -1,6 +1,8 @@
 ---
 title: "Threading in Python: The Complete Guide"
-author: Pito Salasurl: "https://superfastpython.com/threading-in-python/" cover: "https://i0.wp.com/superfastpython.com/wp-content/uploads/2022/03/Threading-in-Python-The-Complete-Guide-scaled.jpg?fit=1200%2C675&ssl=1" 
+author: Pito Salas
+url: "https://superfastpython.com/threading-in-python/" 
+cover: "https://i0.wp.com/superfastpython.com/wp-content/uploads/2022/03/Threading-in-Python-The-Complete-Guide-scaled.jpg?fit=1200%2C675&ssl=1" 
 date: 2022-04-22 02:17:06
 tags:
     - python-tutorial-threads-concurrency-processing

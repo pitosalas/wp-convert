@@ -1,6 +1,8 @@
 ---
 title: "GPT Engineer: Build an Entire App with a Single Prompt"
-author: Pito Salasurl: "https://levelup.gitconnected.com/gpt-engineer-build-an-entire-app-with-a-single-prompt-14a1bbf4aeb6" cover: "https://miro.medium.com/v2/resize:fit:1200/0*nfKmcfuzpVYPxfXg" 
+author: Pito Salas
+url: "https://levelup.gitconnected.com/gpt-engineer-build-an-entire-app-with-a-single-prompt-14a1bbf4aeb6" 
+cover: "https://miro.medium.com/v2/resize:fit:1200/0*nfKmcfuzpVYPxfXg" 
 date: 2023-07-07 11:19:39
 tags:
     - cooltool-ChatGPT-programming-python-automation

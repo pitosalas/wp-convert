@@ -1,6 +1,8 @@
 ---
 title: "Gerson Lehrman Group - The Expert Network"
-author: Pito Salasurl: "http://www.glgroup.com" cover: "https://rdl.ink/render/http%3A%2F%2Fwww.glgroup.com" 
+author: Pito Salas
+url: "http://www.glgroup.com" 
+cover: "https://rdl.ink/render/http%3A%2F%2Fwww.glgroup.com" 
 date: 2021-04-06 13:40:23
 tags:
     - financial-jasonjones-blogbridge

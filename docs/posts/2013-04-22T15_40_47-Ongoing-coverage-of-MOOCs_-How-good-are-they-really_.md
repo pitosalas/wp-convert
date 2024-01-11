@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2013-04-22T15:40:47
 tags:
     - coursera
-    - higher-education
+    - higher-education-tag
     - mooc
     - new-york-times
     - university

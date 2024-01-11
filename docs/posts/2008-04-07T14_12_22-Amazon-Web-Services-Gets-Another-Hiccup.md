@@ -3,7 +3,7 @@ title: "Amazon Web Services Gets Another Hiccup"
 author: Pito Salas
 date: 2008-04-07T14:12:22
 tags:
-    - amazon-amzn-webservices-xml
+    - amazon-tag-amzn-webservices-xml
 ---
 
 

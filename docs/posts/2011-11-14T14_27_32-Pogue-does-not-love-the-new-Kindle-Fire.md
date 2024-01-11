@@ -3,7 +3,7 @@ title: "Pogue does not love the new Kindle Fire"
 author: Pito Salas
 date: 2011-11-14T14:27:32
 tags:
-    - amazon
+    - amazon-tag
     - davidpogue
     - fire
     - kindle

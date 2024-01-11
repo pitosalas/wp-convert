@@ -1,6 +1,8 @@
 ---
 title: "Yukihiro Matsumoto interview for Evrone company (in English)"
-author: Pito Salasurl: "https://evrone.com/yukihiro-matsumoto-interview" cover: "https://evrone.com/sites/default/files/n-fields/cases/71531306_2656002431177544_8447687255136403456_o.jpg" 
+author: Pito Salas
+url: "https://evrone.com/yukihiro-matsumoto-interview" 
+cover: "https://evrone.com/sites/default/files/n-fields/cases/71531306_2656002431177544_8447687255136403456_o.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - ruby-interview-matz

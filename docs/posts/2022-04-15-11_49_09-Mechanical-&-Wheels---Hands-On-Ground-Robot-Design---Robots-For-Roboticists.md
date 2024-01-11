@@ -1,6 +1,8 @@
 ---
 title: "Mechanical & Wheels - Hands On Ground Robot Design - Robots For Roboticists"
-author: Pito Salasurl: "https://www.robotsforroboticists.com/mechanical-wheels-hands-on-ground-robot-design/" cover: "https://www.robotsforroboticists.com/wp-content/uploads/2022/02/modular_robot_design.png" 
+author: Pito Salas
+url: "https://www.robotsforroboticists.com/mechanical-wheels-hands-on-ground-robot-design/" 
+cover: "https://www.robotsforroboticists.com/wp-content/uploads/2022/02/modular_robot_design.png" 
 date: 2022-04-15 11:49:09
 tags:
     - robots-robotics-design-hardware-howto

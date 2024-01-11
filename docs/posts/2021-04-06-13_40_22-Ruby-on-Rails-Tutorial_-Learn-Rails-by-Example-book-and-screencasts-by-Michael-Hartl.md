@@ -1,6 +1,8 @@
 ---
 title: "Ruby on Rails Tutorial: Learn Rails by Example book and screencasts by Michael Hartl"
-author: Pito Salasurl: "http://ruby.railstutorial.org/ruby-on-rails-tutorial-book" cover: "https://softcover.s3.amazonaws.com/636/ruby_on_rails_tutorial_6th_edition/images/cover-web.png" 
+author: Pito Salas
+url: "http://ruby.railstutorial.org/ruby-on-rails-tutorial-book" 
+cover: "https://softcover.s3.amazonaws.com/636/ruby_on_rails_tutorial_6th_edition/images/cover-web.png" 
 date: 2021-04-06 13:40:22
 tags:
     - rails

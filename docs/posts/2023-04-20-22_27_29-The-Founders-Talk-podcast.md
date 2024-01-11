@@ -1,6 +1,8 @@
 ---
 title: "The Founders Talk podcast"
-author: Pito Salasurl: "https://changelog.com/founderstalk" cover: "https://cdn.changelog.com/static/images/share/twitter-founderstalk-cbcb5933519b3502936f2815b4f06974.png" 
+author: Pito Salas
+url: "https://changelog.com/founderstalk" 
+cover: "https://cdn.changelog.com/static/images/share/twitter-founderstalk-cbcb5933519b3502936f2815b4f06974.png" 
 date: 2023-04-20 22:27:29
 ---
 <img src=https://cdn.changelog.com/static/images/share/twitter-founderstalk-cbcb5933519b3502936f2815b4f06974.png width="500">

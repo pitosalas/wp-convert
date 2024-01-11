@@ -3,7 +3,7 @@ title: "Very cool illusion"
 author: Pito Salas
 date: 2008-05-16T12:31:41
 tags:
-    - optical-illusion
+    - optical-illusion-tag
 ---
 
 

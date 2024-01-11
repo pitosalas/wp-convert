@@ -1,6 +1,8 @@
 ---
 title: "ZOMG WHY IS THIS CODE SO SLOW"
-author: Pito Salasurl: "http://www.slideshare.net/tenderlove/zomg-why-is-this-code-so-slow" cover: "https://cdn.slidesharecdn.com/ss_thumbnails/presentation-101111155350-phpapp02-thumbnail-4.jpg?cb=1422650423" 
+author: Pito Salas
+url: "http://www.slideshare.net/tenderlove/zomg-why-is-this-code-so-slow" 
+cover: "https://cdn.slidesharecdn.com/ss_thumbnails/presentation-101111155350-phpapp02-thumbnail-4.jpg?cb=1422650423" 
 date: 2021-04-06 13:40:22
 tags:
     - performance

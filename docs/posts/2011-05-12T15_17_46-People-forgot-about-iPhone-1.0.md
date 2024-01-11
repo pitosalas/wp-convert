@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2011-05-12T15:17:46
 tags:
     - apps
-    - iphone
+    - iphon-tage
 ---
 
 

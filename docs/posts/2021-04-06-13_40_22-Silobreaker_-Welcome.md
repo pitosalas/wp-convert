@@ -1,6 +1,8 @@
 ---
 title: "Silobreaker: Welcome"
-author: Pito Salasurl: "http://www.silobreaker.com" cover: "https://www.silobreaker.com/wp-content/uploads/2020/09/Silobreaker-UI-Product-Hero.gif" 
+author: Pito Salas
+url: "http://www.silobreaker.com" 
+cover: "https://www.silobreaker.com/wp-content/uploads/2020/09/Silobreaker-UI-Product-Hero.gif" 
 date: 2021-04-06 13:40:22
 ---
 <img src=https://www.silobreaker.com/wp-content/uploads/2020/09/Silobreaker-UI-Product-Hero.gif width="500">

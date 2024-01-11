@@ -4,10 +4,10 @@ author: Pito Salas
 date: 2013-11-18T16:15:49
 tags:
     - etiquette
-    - north
+    - no-tagrth
     - rude
     - support
-    - telephone
+    - telephon-tage
 ---
 
 

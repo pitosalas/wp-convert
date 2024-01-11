@@ -1,6 +1,8 @@
 ---
 title: "ImageMagick: Convert, Edit, and Compose Images"
-author: Pito Salasurl: "http://www.imagemagick.org/script/index.php" cover: "https://imagemagick.org/image/logo.png" 
+author: Pito Salas
+url: "http://www.imagemagick.org/script/index.php" 
+cover: "https://imagemagick.org/image/logo.png" 
 date: 2021-04-06 13:40:22
 tags:
     - Ruby

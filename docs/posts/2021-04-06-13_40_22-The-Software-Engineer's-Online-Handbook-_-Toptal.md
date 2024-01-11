@@ -1,6 +1,8 @@
 ---
 title: "The Software Engineer's Online Handbook | Toptal"
-author: Pito Salasurl: "http://www.toptal.com/handbook" cover: "https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/568305/og_image_new_logo_main-a9ff5e307ce2906c23f94ba4e6321a34.png" 
+author: Pito Salas
+url: "http://www.toptal.com/handbook" 
+cover: "https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/568305/og_image_new_logo_main-a9ff5e307ce2906c23f94ba4e6321a34.png" 
 date: 2021-04-06 13:40:22
 tags:
     - Software-Engineering

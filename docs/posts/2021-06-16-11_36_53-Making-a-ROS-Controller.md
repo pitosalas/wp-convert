@@ -1,6 +1,8 @@
 ---
 title: "Making a ROS Controller"
-author: Pito Salasurl: "https://medium.com/@mr_koz/making-a-ros-controller-720caa36abd2" cover: "https://miro.medium.com/max/1200/1*MVTaV3IhGJA-6NtmSqGVXQ.jpeg" 
+author: Pito Salas
+url: "https://medium.com/@mr_koz/making-a-ros-controller-720caa36abd2" 
+cover: "https://miro.medium.com/max/1200/1*MVTaV3IhGJA-6NtmSqGVXQ.jpeg" 
 date: 2021-06-16 11:36:53
 tags:
     - medium-ros-game-controller-howto

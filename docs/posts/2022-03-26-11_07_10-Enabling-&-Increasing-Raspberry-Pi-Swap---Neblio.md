@@ -1,6 +1,8 @@
 ---
 title: "Enabling & Increasing Raspberry Pi Swap - Neblio"
-author: Pito Salasurl: "https://nebl.io/neblio-university/enabling-increasing-raspberry-pi-swap/" cover: "https://nebl.io/wp-content/uploads/2019/06/footer-bg-watermark.png" 
+author: Pito Salas
+url: "https://nebl.io/neblio-university/enabling-increasing-raspberry-pi-swap/" 
+cover: "https://nebl.io/wp-content/uploads/2019/06/footer-bg-watermark.png" 
 date: 2022-03-26 11:07:10
 tags:
     - raspi-raspberry-pi-swap-howto-crash

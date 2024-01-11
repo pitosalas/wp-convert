@@ -1,6 +1,8 @@
 ---
 title: "Heirloom Wooden Camera Toys | Handmade Charlotte"
-author: Pito Salasurl: "https://www.handmadecharlotte.com/78743/" cover: "https://www.handmadecharlotte.com/wp-content/uploads/2020/01/woodencameras1.690.jpg" 
+author: Pito Salas
+url: "https://www.handmadecharlotte.com/78743/" 
+cover: "https://www.handmadecharlotte.com/wp-content/uploads/2020/01/woodencameras1.690.jpg" 
 date: 2023-12-20 22:47:03
 tags:
     - wood-woodworking-toys-shop

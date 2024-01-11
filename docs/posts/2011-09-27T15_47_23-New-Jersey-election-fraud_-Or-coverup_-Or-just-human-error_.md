@@ -4,8 +4,8 @@ author: Pito Salas
 date: 2011-09-27T15:47:23
 tags:
     - coverup
-    - elections
-    - elections-technology
+    - election-tags
+    - election-tags-techno-taglogy
     - fraud
 ---
 

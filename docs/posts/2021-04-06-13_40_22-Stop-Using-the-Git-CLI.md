@@ -1,6 +1,8 @@
 ---
 title: "Stop Using the Git CLI"
-author: Pito Salasurl: "https://link.medium.com/Ulg2u5GA79" cover: "https://miro.medium.com/max/1200/0*RWDSpyOxTmyruBjR" 
+author: Pito Salas
+url: "https://link.medium.com/Ulg2u5GA79" 
+cover: "https://miro.medium.com/max/1200/0*RWDSpyOxTmyruBjR" 
 date: 2021-04-06 13:40:22
 tags:
     - cli-howto-git

@@ -1,6 +1,8 @@
 ---
 title: "The Case for Models | Concerning Quality"
-author: Pito Salasurl: "https://concerningquality.com/models/" cover: "https://rdl.ink/render/https%3A%2F%2Fconcerningquality.com%2Fmodels%2F" 
+author: Pito Salas
+url: "https://concerningquality.com/models/" 
+cover: "https://rdl.ink/render/https%3A%2F%2Fconcerningquality.com%2Fmodels%2F" 
 date: 2022-12-14 11:49:22
 tags:
     - testing-models-design-explainer

@@ -1,6 +1,8 @@
 ---
 title: "A non-computer-person’s guide to how Mastodon instances work"
-author: Pito Salasurl: "https://link.medium.com/Qm1zbLfxivb" cover: "https://miro.medium.com/max/1200/1*a2VvYsKGApR-E1SnT5O7yQ.jpeg" 
+author: Pito Salas
+url: "https://link.medium.com/Qm1zbLfxivb" 
+cover: "https://miro.medium.com/max/1200/1*a2VvYsKGApR-E1SnT5O7yQ.jpeg" 
 date: 2022-11-27 13:34:02
 tags:
     - mastodon-howto-compare-explainer

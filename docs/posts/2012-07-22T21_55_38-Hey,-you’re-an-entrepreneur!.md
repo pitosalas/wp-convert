@@ -4,9 +4,9 @@ author: Pito Salas
 date: 2012-07-22T21:55:38
 tags:
     - entrepeneurship
-    - nickbilton
+    - nickbilton-tag
     - nyt
-    - silliconvalley
+    - sillicon-tagvalley
 ---
 
 

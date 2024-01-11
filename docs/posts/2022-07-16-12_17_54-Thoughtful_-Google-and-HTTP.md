@@ -1,6 +1,8 @@
 ---
 title: "Thoughtful: Google and HTTP"
-author: Pito Salasurl: "http://this.how/googleAndHttp/" cover: "https://rdl.ink/render/http%3A%2F%2Fthis.how%2FgoogleAndHttp%2F" 
+author: Pito Salas
+url: "http://this.how/googleAndHttp/" 
+cover: "https://rdl.ink/render/http%3A%2F%2Fthis.how%2FgoogleAndHttp%2F" 
 date: 2022-07-16 12:17:54
 tags:
     - dave-winer-thinker-blog

@@ -1,6 +1,8 @@
 ---
 title: "Specifications Grading: A Method for Improving Student Performance"
-author: Pito Salasurl: "https://kb.ecampus.uconn.edu/2021/10/07/specifications-grading-a-method-for-improving-student-performance/" cover: "https://kb.ecampus.uconn.edu/wp-content/uploads/sites/440/2021/10/Cover-SpecificationsGrading-2-Rendering-188x300.png" 
+author: Pito Salas
+url: "https://kb.ecampus.uconn.edu/2021/10/07/specifications-grading-a-method-for-improving-student-performance/" 
+cover: "https://kb.ecampus.uconn.edu/wp-content/uploads/sites/440/2021/10/Cover-SpecificationsGrading-2-Rendering-188x300.png" 
 date: 2023-08-21 17:40:34
 tags:
     - grading-specs-grading-howto-bookmark

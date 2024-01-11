@@ -3,9 +3,9 @@ title: "Dear Consumer Reports"
 author: Pito Salas
 date: 2013-12-03T23:32:09
 tags:
-    - consumer-reports
+    - con-tagsumer-reports
     - receipt
-    - subscriptions
+    - subscription-tags
 ---
 
 

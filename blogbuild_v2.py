@@ -117,11 +117,11 @@ class BlogBuild:
     def save_individual_post(self, title, content, date, tags, url, cover):
         if cover is not None:
             cover_markdown = f"""<img src={cover} width="500">\n"""
-            cover_text = f"""cover: "{cover}" """
+            cover_text = f"""\ncover: "{cover}" """
         else:
             cover_markdown = ""
             cover_text = ""
-        url_text = "" if url is None else f"""url: "{url}" """
+        url_text = "" if url is None else f"""\nurl: "{url}" """
         title = html.unescape(title)
         title = title.replace('"', '\\"')        
         filename = f"{date}-{title.replace(' ', '-')}.md"

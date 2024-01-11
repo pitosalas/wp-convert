@@ -1,6 +1,8 @@
 ---
 title: "Game programming for beginners"
-author: Pito Salasurl: "http://www.edu4java.com/en/game/game0-en.html" cover: "https://rdl.ink/render/http%3A%2F%2Fwww.edu4java.com%2Fen%2Fgame%2Fgame0-en.html" 
+author: Pito Salas
+url: "http://www.edu4java.com/en/game/game0-en.html" 
+cover: "https://rdl.ink/render/http%3A%2F%2Fwww.edu4java.com%2Fen%2Fgame%2Fgame0-en.html" 
 date: 2021-04-06 13:40:23
 tags:
     - java-game-programming

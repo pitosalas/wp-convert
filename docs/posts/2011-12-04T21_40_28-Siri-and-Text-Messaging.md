@@ -3,9 +3,9 @@ title: "Siri and Text Messaging"
 author: Pito Salas
 date: 2011-12-04T21:40:28
 tags:
-    - iphone
+    - iphon-tage
     - siri
-    - technology
+    - techno-taglogy
     - textmessaging
     - voice
 ---

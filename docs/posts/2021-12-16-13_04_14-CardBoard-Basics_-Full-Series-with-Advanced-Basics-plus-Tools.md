@@ -1,6 +1,8 @@
 ---
 title: "CardBoard Basics: Full Series with Advanced Basics plus Tools"
-author: Pito Salasurl: "https://youtube.com/watch?v=Pk2wHf4ub3c&feature=share" cover: "https://i.ytimg.com/vi/Pk2wHf4ub3c/mqdefault.jpg" 
+author: Pito Salas
+url: "https://youtube.com/watch?v=Pk2wHf4ub3c&feature=share" 
+cover: "https://i.ytimg.com/vi/Pk2wHf4ub3c/mqdefault.jpg" 
 date: 2021-12-16 13:04:14
 tags:
     - model-maker-cardboard-youtube

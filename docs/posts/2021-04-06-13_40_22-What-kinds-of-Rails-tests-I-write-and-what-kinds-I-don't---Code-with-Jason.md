@@ -1,6 +1,8 @@
 ---
 title: "What kinds of Rails tests I write and what kinds I don't - Code with Jason"
-author: Pito Salasurl: "https://www.codewithjason.com/kinds-rails-tests-write-kinds-dont" cover: "https://www.codewithjason.com/wp-content/uploads/2018/06/jason-swett.jpg" 
+author: Pito Salas
+url: "https://www.codewithjason.com/kinds-rails-tests-write-kinds-dont" 
+cover: "https://www.codewithjason.com/wp-content/uploads/2018/06/jason-swett.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - tests-rails-unittest-tdd-howto

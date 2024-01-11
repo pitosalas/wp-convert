@@ -1,6 +1,8 @@
 ---
 title: "Remove Background From Images For Free – Erase.bg"
-author: Pito Salasurl: "https://www.erase.bg/en/" cover: "https://cdn-1.erase.bg/assets/erasebg_background.png" 
+author: Pito Salas
+url: "https://www.erase.bg/en/" 
+cover: "https://cdn-1.erase.bg/assets/erasebg_background.png" 
 date: 2021-11-22 18:40:55
 tags:
     - image-processing-manipulation-background-free-photo

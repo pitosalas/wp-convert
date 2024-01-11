@@ -1,6 +1,8 @@
 ---
 title: "Why products should be “slick”, not just viable"
-author: Pito Salasurl: "https://herman.bearblog.dev/mvp-vs-slc/" cover: "https://i.imgur.com/b499n4R.png" 
+author: Pito Salas
+url: "https://herman.bearblog.dev/mvp-vs-slc/" 
+cover: "https://i.imgur.com/b499n4R.png" 
 date: 2022-06-26 16:49:09
 tags:
     - mvp-lean-startup-debate

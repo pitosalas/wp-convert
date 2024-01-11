@@ -1,6 +1,8 @@
 ---
 title: "Mastodon - Decentralized social media"
-author: Pito Salasurl: "https://joinmastodon.org/" cover: "https://joinmastodon.org/preview.png" 
+author: Pito Salas
+url: "https://joinmastodon.org/" 
+cover: "https://joinmastodon.org/preview.png" 
 date: 2022-11-13 13:00:13
 tags:
     - mastodon-introduction-howto

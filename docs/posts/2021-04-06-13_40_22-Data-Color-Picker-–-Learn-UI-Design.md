@@ -1,6 +1,8 @@
 ---
 title: "Data Color Picker – Learn UI Design"
-author: Pito Salasurl: "https://learnui.design/tools/data-color-picker.html" cover: "https://learnui.design/tools/img/twitter-large-data-viz.png" 
+author: Pito Salas
+url: "https://learnui.design/tools/data-color-picker.html" 
+cover: "https://learnui.design/tools/img/twitter-large-data-viz.png" 
 date: 2021-04-06 13:40:22
 tags:
     - picker-color

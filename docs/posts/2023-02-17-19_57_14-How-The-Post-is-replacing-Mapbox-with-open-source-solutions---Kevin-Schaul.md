@@ -1,6 +1,8 @@
 ---
 title: "How The Post is replacing Mapbox with open source solutions - Kevin Schaul"
-author: Pito Salasurl: "https://www.kschaul.com/post/2023/02/16/how-the-post-is-replacing-mapbox-with-open-source-solutions/" cover: "https://www.kschaul.com/post/2023/02/16/how-the-post-is-replacing-mapbox-with-open-source-solutions/maputnik.png" 
+author: Pito Salas
+url: "https://www.kschaul.com/post/2023/02/16/how-the-post-is-replacing-mapbox-with-open-source-solutions/" 
+cover: "https://www.kschaul.com/post/2023/02/16/how-the-post-is-replacing-mapbox-with-open-source-solutions/maputnik.png" 
 date: 2023-02-17 19:57:14
 tags:
     - map-mapbox-open-source-mapping-washington-post

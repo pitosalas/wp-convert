@@ -1,6 +1,8 @@
 ---
 title: "GitHub - learnbyexample/Command-line-text-processing: From finding text to search and replace, from sorting to beautifying text and more"
-author: Pito Salasurl: "https://github.com/learnbyexample/Command-line-text-processing" cover: "https://avatars.githubusercontent.com/u/17766317?s=400&v=4" 
+author: Pito Salas
+url: "https://github.com/learnbyexample/Command-line-text-processing" 
+cover: "https://avatars.githubusercontent.com/u/17766317?s=400&v=4" 
 date: 2021-04-06 13:40:22
 tags:
     - ruby-command-line

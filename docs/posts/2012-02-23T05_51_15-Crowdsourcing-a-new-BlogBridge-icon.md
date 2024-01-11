@@ -7,7 +7,7 @@ tags:
     - crowdsourcing
     - design
     - graphicdesign
-    - icon
+    - icon-tag
     - logo
 ---
 

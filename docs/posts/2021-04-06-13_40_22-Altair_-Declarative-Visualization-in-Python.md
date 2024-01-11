@@ -1,6 +1,8 @@
 ---
 title: "Altair: Declarative Visualization in Python"
-author: Pito Salasurl: "https://altair-viz.github.io/index.html" cover: "https://rdl.ink/render/https%3A%2F%2Faltair-viz.github.io%2Findex.html" 
+author: Pito Salas
+url: "https://altair-viz.github.io/index.html" 
+cover: "https://rdl.ink/render/https%3A%2F%2Faltair-viz.github.io%2Findex.html" 
 date: 2021-04-06 13:40:22
 tags:
     - python-jupyter-visualization-vega-lite

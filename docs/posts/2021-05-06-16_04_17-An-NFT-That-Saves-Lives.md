@@ -1,6 +1,8 @@
 ---
 title: "An NFT That Saves Lives"
-author: Pito Salasurl: "http://paulgraham.com/nft.html" cover: "https://rdl.ink/render/http%3A%2F%2Fpaulgraham.com%2Fnft.html" 
+author: Pito Salas
+url: "http://paulgraham.com/nft.html" 
+cover: "https://rdl.ink/render/http%3A%2F%2Fpaulgraham.com%2Fnft.html" 
 date: 2021-05-06 16:04:17
 tags:
     - lives-nft-paulgraham

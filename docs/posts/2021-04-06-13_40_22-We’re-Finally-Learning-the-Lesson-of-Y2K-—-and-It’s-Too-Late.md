@@ -1,6 +1,8 @@
 ---
 title: "We’re Finally Learning the Lesson of Y2K — and It’s Too Late"
-author: Pito Salasurl: "https://link.medium.com/b3wRq9eHZS" cover: "https://cdn-images-1.medium.com/fit/t/6000/4000/1*uprL6F6rfzVi5VYPsPkTDg.jpeg" 
+author: Pito Salas
+url: "https://link.medium.com/b3wRq9eHZS" 
+cover: "https://cdn-images-1.medium.com/fit/t/6000/4000/1*uprL6F6rfzVi5VYPsPkTDg.jpeg" 
 date: 2021-04-06 13:40:22
 tags:
     - y2k

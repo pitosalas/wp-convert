@@ -1,6 +1,8 @@
 ---
 title: "Best Practices of Combining Typefaces - Smashing Magazine"
-author: Pito Salasurl: "http://www.smashingmagazine.com/2010/11/04/best-practices-of-combining-typefaces" cover: "https://rdl.ink/render/http%3A%2F%2Fwww.smashingmagazine.com%2F2010%2F11%2F04%2Fbest-practices-of-combining-typefaces" 
+author: Pito Salas
+url: "http://www.smashingmagazine.com/2010/11/04/best-practices-of-combining-typefaces" 
+cover: "https://rdl.ink/render/http%3A%2F%2Fwww.smashingmagazine.com%2F2010%2F11%2F04%2Fbest-practices-of-combining-typefaces" 
 date: 2021-04-06 13:40:22
 ---
 <img src=https://rdl.ink/render/http%3A%2F%2Fwww.smashingmagazine.com%2F2010%2F11%2F04%2Fbest-practices-of-combining-typefaces width="500">

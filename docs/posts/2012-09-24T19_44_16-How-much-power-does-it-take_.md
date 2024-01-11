@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2012-09-24T19:44:16
 tags:
     - cloud
-    - environment
+    - environ-tagment
     - power
     - waste
 ---

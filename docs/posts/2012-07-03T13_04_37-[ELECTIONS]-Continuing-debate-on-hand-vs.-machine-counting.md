@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2012-07-03T13:04:37
 tags:
     - counting
-    - elections
+    - election-tags
     - nyt
     - voting
 ---

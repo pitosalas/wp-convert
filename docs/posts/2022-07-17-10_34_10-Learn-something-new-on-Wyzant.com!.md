@@ -1,6 +1,8 @@
 ---
 title: "Learn something new on Wyzant.com!"
-author: Pito Salasurl: "https://www.wyzant.com/" cover: "https://www.wyzant.com/images/facebook/og-image-logo.gif" 
+author: Pito Salas
+url: "https://www.wyzant.com/" 
+cover: "https://www.wyzant.com/images/facebook/og-image-logo.gif" 
 date: 2022-07-17 10:34:10
 tags:
     - learn-study-tutor-cooltool-linear-algebra-math-statistics

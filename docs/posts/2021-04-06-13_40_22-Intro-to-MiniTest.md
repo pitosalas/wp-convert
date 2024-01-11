@@ -1,6 +1,8 @@
 ---
 title: "Intro to MiniTest"
-author: Pito Salasurl: "http://blog.teamtreehouse.com/short-introduction-minitest" cover: "https://blog.teamtreehouse.com/wp-content/uploads/2014/08/clipboard.jpg" 
+author: Pito Salas
+url: "http://blog.teamtreehouse.com/short-introduction-minitest" 
+cover: "https://blog.teamtreehouse.com/wp-content/uploads/2014/08/clipboard.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - Software-Engineering

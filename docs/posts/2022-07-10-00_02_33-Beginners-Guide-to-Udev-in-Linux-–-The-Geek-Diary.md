@@ -1,6 +1,8 @@
 ---
 title: "Beginners Guide to Udev in Linux – The Geek Diary"
-author: Pito Salasurl: "https://www.thegeekdiary.com/beginners-guide-to-udev-in-linux/" cover: "https://rdl.ink/render/https%3A%2F%2Fwww.thegeekdiary.com%2Fbeginners-guide-to-udev-in-linux%2F" 
+author: Pito Salas
+url: "https://www.thegeekdiary.com/beginners-guide-to-udev-in-linux/" 
+cover: "https://rdl.ink/render/https%3A%2F%2Fwww.thegeekdiary.com%2Fbeginners-guide-to-udev-in-linux%2F" 
 date: 2022-07-10 00:02:33
 tags:
     - udev-udev-rules-howto-linux-advanced-robotics

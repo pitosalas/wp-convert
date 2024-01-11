@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2013-05-10T17:43:39
 tags:
     - computer-science
-    - economy
+    - econ-tagomy
 ---
 
 

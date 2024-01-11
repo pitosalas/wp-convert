@@ -1,6 +1,8 @@
 ---
 title: "The Art of Command Line"
-author: Pito Salasurl: "https://github.com/jlevy/the-art-of-command-line/blob/master/README.md" cover: "https://repository-images.githubusercontent.com/35955666/03420800-9e9b-11ea-8913-de5564db65c9" 
+author: Pito Salas
+url: "https://github.com/jlevy/the-art-of-command-line/blob/master/README.md" 
+cover: "https://repository-images.githubusercontent.com/35955666/03420800-9e9b-11ea-8913-de5564db65c9" 
 date: 2021-04-06 13:40:22
 tags:
     - shell-howto-cli-linux

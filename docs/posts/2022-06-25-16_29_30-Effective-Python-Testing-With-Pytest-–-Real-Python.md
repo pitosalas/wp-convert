@@ -1,6 +1,8 @@
 ---
 title: "Effective Python Testing With Pytest – Real Python"
-author: Pito Salasurl: "https://realpython.com/pytest-python-testing/#how-to-install-pytest" cover: "https://files.realpython.com/media/Intermediate-Advanced-PyTest-Features_Watermarked.43fb169e7121.jpg" 
+author: Pito Salas
+url: "https://realpython.com/pytest-python-testing/#how-to-install-pytest" 
+cover: "https://files.realpython.com/media/Intermediate-Advanced-PyTest-Features_Watermarked.43fb169e7121.jpg" 
 date: 2022-06-25 16:29:30
 tags:
     - testing-python-pytest-howto

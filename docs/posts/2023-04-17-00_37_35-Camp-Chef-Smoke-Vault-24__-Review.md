@@ -1,6 +1,8 @@
 ---
 title: "Camp Chef Smoke Vault 24\" Review"
-author: Pito Salasurl: "https://amazingribs.com/smoker/camp-chef-smoke-vault-24-review/" cover: "https://amazingribs.com/wp-content/uploads/2013/12/camp-chef-smoke-vault-24-inch-square.jpg" 
+author: Pito Salas
+url: "https://amazingribs.com/smoker/camp-chef-smoke-vault-24-review/" 
+cover: "https://amazingribs.com/wp-content/uploads/2013/12/camp-chef-smoke-vault-24-inch-square.jpg" 
 date: 2023-04-17 00:37:35
 tags:
     - smoker-barbq-cookling-grill-propane-gas

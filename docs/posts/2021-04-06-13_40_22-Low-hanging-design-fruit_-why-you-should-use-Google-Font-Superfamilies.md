@@ -1,6 +1,8 @@
 ---
 title: "Low-hanging design fruit: why you should use Google Font Superfamilies"
-author: Pito Salasurl: "https://medium.freecodecamp.org/low-hanging-design-fruit-why-you-should-use-google-font-superfamilies-1dae04b2fc50?source=userActivityShare-d383785221d0-1525000385" cover: "https://cdn-media-1.freecodecamp.org/images/1*1frBy9sbeA9nWI65jJDdbA.png" 
+author: Pito Salas
+url: "https://medium.freecodecamp.org/low-hanging-design-fruit-why-you-should-use-google-font-superfamilies-1dae04b2fc50?source=userActivityShare-d383785221d0-1525000385" 
+cover: "https://cdn-media-1.freecodecamp.org/images/1*1frBy9sbeA9nWI65jJDdbA.png" 
 date: 2021-04-06 13:40:22
 tags:
     - fonts-design

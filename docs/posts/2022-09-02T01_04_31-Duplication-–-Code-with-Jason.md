@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2022-09-02T01:04:31
 tags:
     - dry
-    - duplication
+    - duplication-tag
     - Programming
     - software-engineering
 ---

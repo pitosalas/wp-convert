@@ -1,6 +1,8 @@
 ---
 title: "Algorithms from scratch: RANSAC"
-author: Pito Salasurl: "https://link.medium.com/4OqrW0Ywcrb" cover: "https://miro.medium.com/max/1200/1*t8MHM3mdzcW5iz5I5Uroww.jpeg" 
+author: Pito Salas
+url: "https://link.medium.com/4OqrW0Ywcrb" 
+cover: "https://miro.medium.com/max/1200/1*t8MHM3mdzcW5iz5I5Uroww.jpeg" 
 date: 2022-06-27 12:37:47
 tags:
     - robotics-line-fitting-ransac-howto

@@ -1,6 +1,8 @@
 ---
 title: "Untangling Ruby Threads"
-author: Pito Salasurl: "https://thoughtbot.com/blog/untangling-ruby-threads" cover: "https://images.thoughtbot.com/blog-vellum-image-uploads/QSHvOGvRLS2IgDClDBap_Serial_v3.svg" 
+author: Pito Salas
+url: "https://thoughtbot.com/blog/untangling-ruby-threads" 
+cover: "https://images.thoughtbot.com/blog-vellum-image-uploads/QSHvOGvRLS2IgDClDBap_Serial_v3.svg" 
 date: 2021-04-06 13:40:22
 tags:
     - concurrency-ruby-tips-threads-threadsafe-howto

@@ -1,6 +1,8 @@
 ---
 title: "Scalable application design without magic - Leveraging client computing power for high performance with many users"
-author: Pito Salasurl: "https://willem.com/blog/2020-05-11_scalable-application-design-without-magic/" cover: "https://willem.com/blog/2020-05-11_scalable-application-design-without-magic/images/Scalable-application-design-without-magic-2x.jpg" 
+author: Pito Salas
+url: "https://willem.com/blog/2020-05-11_scalable-application-design-without-magic/" 
+cover: "https://willem.com/blog/2020-05-11_scalable-application-design-without-magic/images/Scalable-application-design-without-magic-2x.jpg" 
 date: 2022-01-05 15:21:42
 tags:
     - cloud-howto-scaling-scale-youre-not-google

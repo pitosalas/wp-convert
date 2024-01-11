@@ -3,11 +3,11 @@ title: "The new, now cancelled, Jay Leno Show"
 author: Pito Salas
 date: 2010-01-18T19:25:12
 tags:
-    - conan
-    - jayleno
+    - con-tagan
+    - jayleno-tag
     - latenight
     - nbc
-    - television
+    - television-tag
 ---
 
 

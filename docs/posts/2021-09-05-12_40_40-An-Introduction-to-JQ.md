@@ -1,6 +1,8 @@
 ---
 title: "An Introduction to JQ"
-author: Pito Salasurl: "https://earthly.dev/blog/jq-select/" cover: "https://earthly.dev/blog/generated/assets/images/jq-select/header-800-9692dfee3.jpg" 
+author: Pito Salas
+url: "https://earthly.dev/blog/jq-select/" 
+cover: "https://earthly.dev/blog/generated/assets/images/jq-select/header-800-9692dfee3.jpg" 
 date: 2021-09-05 12:40:40
 tags:
     - jq-json-cli-howto-cooltool

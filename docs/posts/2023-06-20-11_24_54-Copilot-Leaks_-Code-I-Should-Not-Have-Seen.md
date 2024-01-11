@@ -1,6 +1,8 @@
 ---
 title: "Copilot Leaks: Code I Should Not Have Seen"
-author: Pito Salasurl: "https://link.medium.com/hIQS1PoDMAb" cover: "https://miro.medium.com/v2/resize:fit:1080/1*MxrKfkxHJdUXDyTFdEAeqA.png" 
+author: Pito Salas
+url: "https://link.medium.com/hIQS1PoDMAb" 
+cover: "https://miro.medium.com/v2/resize:fit:1080/1*MxrKfkxHJdUXDyTFdEAeqA.png" 
 date: 2023-06-20 11:24:54
 tags:
     - copilot-secrets-trade-secrets-LLM

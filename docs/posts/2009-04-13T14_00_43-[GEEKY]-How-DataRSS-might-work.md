@@ -5,9 +5,9 @@ date: 2009-04-13T14:00:43
 tags:
     - api
     - datarss
-    - followthemoney
+    - followthemon-tagey
     - rest
-    - sunlightfoundation
+    - sunlightfoundation-tag
     - webservices
 ---
 

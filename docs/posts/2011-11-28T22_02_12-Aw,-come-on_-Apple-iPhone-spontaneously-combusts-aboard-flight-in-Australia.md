@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2011-11-28T22:02:12
 tags:
     - fire
-    - iphone
+    - iphon-tage
     - weird
 ---
 

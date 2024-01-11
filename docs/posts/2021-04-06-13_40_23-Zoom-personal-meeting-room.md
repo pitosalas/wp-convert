@@ -1,6 +1,8 @@
 ---
 title: "Zoom personal meeting room"
-author: Pito Salasurl: "https://brandeis.zoom.us/j/6173886367" cover: "https://rdl.ink/render/https%3A%2F%2Fbrandeis.zoom.us%2Fj%2F6173886367" 
+author: Pito Salas
+url: "https://brandeis.zoom.us/j/6173886367" 
+cover: "https://rdl.ink/render/https%3A%2F%2Fbrandeis.zoom.us%2Fj%2F6173886367" 
 date: 2021-04-06 13:40:23
 tags:
     - Brandeis

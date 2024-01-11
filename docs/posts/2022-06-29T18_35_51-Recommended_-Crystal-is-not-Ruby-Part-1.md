@@ -3,7 +3,7 @@ title: "Recommended: Crystal is not Ruby Part 1"
 author: Pito Salas
 date: 2022-06-29T18:35:51
 tags:
-    - comparison
+    - comparison-tag
     - crystal
     - crystal-lan
     - Medium

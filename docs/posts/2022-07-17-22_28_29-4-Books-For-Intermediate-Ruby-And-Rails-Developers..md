@@ -1,6 +1,8 @@
 ---
 title: "4 Books For Intermediate Ruby And Rails Developers."
-author: Pito Salasurl: "https://manny.codes/4-books-for-intermediate-ruby-and-rails-developers/" cover: "https://emmanuelhayford.com/images/4-books-intermediate-ruby-rails.jpg" 
+author: Pito Salas
+url: "https://manny.codes/4-books-for-intermediate-ruby-and-rails-developers/" 
+cover: "https://emmanuelhayford.com/images/4-books-intermediate-ruby-rails.jpg" 
 date: 2022-07-17 22:28:29
 tags:
     - books-ruby-advanced-howto

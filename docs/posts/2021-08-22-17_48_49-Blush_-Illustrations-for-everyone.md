@@ -1,6 +1,8 @@
 ---
 title: "Blush: Illustrations for everyone"
-author: Pito Salasurl: "https://blush.design/" cover: "https://blush.design/og-image.png" 
+author: Pito Salas
+url: "https://blush.design/" 
+cover: "https://blush.design/og-image.png" 
 date: 2021-08-22 17:48:49
 tags:
     - images-cooltools-custom-clipart-howto

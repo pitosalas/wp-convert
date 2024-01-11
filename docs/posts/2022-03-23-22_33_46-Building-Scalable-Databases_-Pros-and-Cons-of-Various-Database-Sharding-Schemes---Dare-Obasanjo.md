@@ -1,6 +1,8 @@
 ---
 title: "Building Scalable Databases: Pros and Cons of Various Database Sharding Schemes - Dare Obasanjo"
-author: Pito Salasurl: "http://www.25hoursaday.com/weblog/2009/01/16/BuildingScalableDatabasesProsAndConsOfVariousDatabaseShardingSchemes.aspx" cover: "https://rdl.ink/render/http%3A%2F%2Fwww.25hoursaday.com%2Fweblog%2F2009%2F01%2F16%2FBuildingScalableDatabasesProsAndConsOfVariousDatabaseShardingSchemes.aspx" 
+author: Pito Salas
+url: "http://www.25hoursaday.com/weblog/2009/01/16/BuildingScalableDatabasesProsAndConsOfVariousDatabaseShardingSchemes.aspx" 
+cover: "https://rdl.ink/render/http%3A%2F%2Fwww.25hoursaday.com%2Fweblog%2F2009%2F01%2F16%2FBuildingScalableDatabasesProsAndConsOfVariousDatabaseShardingSchemes.aspx" 
 date: 2022-03-23 22:33:46
 tags:
     - scaling-database-performance-sharding-paritioning-performance-b-trees-hashtables-indexes-databases

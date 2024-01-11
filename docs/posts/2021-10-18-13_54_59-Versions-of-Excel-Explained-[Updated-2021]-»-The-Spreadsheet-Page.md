@@ -1,6 +1,8 @@
 ---
 title: "Versions of Excel Explained [Updated 2021] » The Spreadsheet Page"
-author: Pito Salasurl: "https://spreadsheetpage.com/excel-version-history/" cover: "https://spreadsheetpage.com/images/excel-history-logo.jpg" 
+author: Pito Salas
+url: "https://spreadsheetpage.com/excel-version-history/" 
+cover: "https://spreadsheetpage.com/images/excel-history-logo.jpg" 
 date: 2021-10-18 13:54:59
 tags:
     - pivottables-history-excel

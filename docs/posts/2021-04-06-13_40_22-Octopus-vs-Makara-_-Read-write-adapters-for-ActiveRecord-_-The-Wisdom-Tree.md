@@ -1,6 +1,8 @@
 ---
 title: "Octopus vs Makara : Read-write adapters for ActiveRecord | The Wisdom Tree"
-author: Pito Salasurl: "https://ypoonawala.wordpress.com/2015/11/15/octopus-vs-makara-read-write-adapters-for-activerecord-2" cover: "https://s0.wp.com/i/blank.jpg" 
+author: Pito Salas
+url: "https://ypoonawala.wordpress.com/2015/11/15/octopus-vs-makara-read-write-adapters-for-activerecord-2" 
+cover: "https://s0.wp.com/i/blank.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - activerecord

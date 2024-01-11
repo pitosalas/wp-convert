@@ -1,6 +1,8 @@
 ---
 title: "ChatPDF - Chat with any PDF!"
-author: Pito Salasurl: "https://www.chatpdf.com/" cover: "https://www.chatpdf.com/lord-of-the-flies.jpg" 
+author: Pito Salas
+url: "https://www.chatpdf.com/" 
+cover: "https://www.chatpdf.com/lord-of-the-flies.jpg" 
 date: 2023-04-23 11:50:26
 tags:
     - ChatGPT-pdf-summarize-summary

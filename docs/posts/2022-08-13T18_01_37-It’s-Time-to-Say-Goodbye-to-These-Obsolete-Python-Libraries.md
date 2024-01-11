@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2022-08-13T18:01:37
 tags:
     - howto
-    - python
+    - python-tag
     - tools
 ---
 

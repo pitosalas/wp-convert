@@ -1,6 +1,8 @@
 ---
 title: "What Should You Do with Your Life? Directions and Advice - Alexey Guzey"
-author: Pito Salasurl: "https://guzey.com/personal/what-should-you-do-with-your-life/#cold-emails-and-twitter" cover: "https://rdl.ink/render/https%3A%2F%2Fguzey.com%2Fpersonal%2Fwhat-should-you-do-with-your-life%2F%23cold-emails-and-twitter" 
+author: Pito Salas
+url: "https://guzey.com/personal/what-should-you-do-with-your-life/#cold-emails-and-twitter" 
+cover: "https://rdl.ink/render/https%3A%2F%2Fguzey.com%2Fpersonal%2Fwhat-should-you-do-with-your-life%2F%23cold-emails-and-twitter" 
 date: 2022-07-17 10:39:28
 tags:
     - advice-growth-personal

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2023-06-07T08:01:50
 tags:
     - cooltool
-    - python
+    - python-tag
     - repl
 ---
 

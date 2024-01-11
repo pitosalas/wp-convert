@@ -1,6 +1,8 @@
 ---
 title: "Bust a Name - the easy way to find domains"
-author: Pito Salasurl: "http://www.bustaname.com" cover: "https://rdl.ink/render/http%3A%2F%2Fwww.bustaname.com" 
+author: Pito Salas
+url: "http://www.bustaname.com" 
+cover: "https://rdl.ink/render/http%3A%2F%2Fwww.bustaname.com" 
 date: 2021-04-06 13:40:23
 tags:
     - dns-name-generator-Weather

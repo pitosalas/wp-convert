@@ -1,6 +1,8 @@
 ---
 title: "Let's Implement the Map Method from First Principles"
-author: Pito Salasurl: "https://www.akshaykhot.com/map-from-first-principles/?ref=akshays-blog-newsletter" cover: "https://www.akshaykhot.com/content/images/2023/09/code-2.png" 
+author: Pito Salas
+url: "https://www.akshaykhot.com/map-from-first-principles/?ref=akshays-blog-newsletter" 
+cover: "https://www.akshaykhot.com/content/images/2023/09/code-2.png" 
 date: 2023-09-09 12:11:05
 tags:
     - ruby-explainer-proc-lambda-map

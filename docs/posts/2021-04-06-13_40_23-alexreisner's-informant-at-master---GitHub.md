@@ -1,6 +1,8 @@
 ---
 title: "alexreisner's informant at master - GitHub"
-author: Pito Salasurl: "http://github.com/alexreisner/informant" cover: "https://avatars.githubusercontent.com/u/32069?s=400&v=4" 
+author: Pito Salas
+url: "http://github.com/alexreisner/informant" 
+cover: "https://avatars.githubusercontent.com/u/32069?s=400&v=4" 
 date: 2021-04-06 13:40:23
 tags:
     - Elections

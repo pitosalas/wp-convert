@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2013-02-05T20:58:12
 tags:
     - new-hampshire
-    - snow
+    - sno-tagw
     - winnipisaukee
 ---
 

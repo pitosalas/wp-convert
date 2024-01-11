@@ -3,7 +3,7 @@ title: "Why we need new election technology"
 author: Pito Salas
 date: 2010-12-03T13:41:20
 tags:
-    - elections
+    - election-tags
     - osdv
     - trustthevote
 ---

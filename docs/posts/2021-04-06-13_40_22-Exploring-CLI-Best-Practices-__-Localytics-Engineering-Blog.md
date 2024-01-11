@@ -1,6 +1,8 @@
 ---
 title: "Exploring CLI Best Practices // Localytics Engineering Blog"
-author: Pito Salasurl: "https://eng.localytics.com/exploring-cli-best-practices" cover: "https://eng.localytics.com/content/images/2016/10/photo-1452421822248-d4c2b47f0c81.jpeg" 
+author: Pito Salas
+url: "https://eng.localytics.com/exploring-cli-best-practices" 
+cover: "https://eng.localytics.com/content/images/2016/10/photo-1452421822248-d4c2b47f0c81.jpeg" 
 date: 2021-04-06 13:40:22
 tags:
     - cli

@@ -1,6 +1,8 @@
 ---
 title: "Clean Up Your Mess - A Guide to Visual Design for Everyone"
-author: Pito Salasurl: "http://www.visualmess.com" cover: "https://rdl.ink/render/http%3A%2F%2Fwww.visualmess.com" 
+author: Pito Salas
+url: "http://www.visualmess.com" 
+cover: "https://rdl.ink/render/http%3A%2F%2Fwww.visualmess.com" 
 date: 2021-04-06 13:40:23
 tags:
     - design-guide-visual

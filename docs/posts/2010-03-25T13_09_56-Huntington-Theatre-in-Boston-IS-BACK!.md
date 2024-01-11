@@ -3,8 +3,8 @@ title: "Huntington Theatre in Boston IS BACK!"
 author: Pito Salas
 date: 2010-03-25T13:09:56
 tags:
-    - huntington-theater
-    - plays-boston
+    - huntington-tag-theater
+    - plays-boston-tag
     - theater
 ---
 

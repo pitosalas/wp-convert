@@ -6,7 +6,7 @@ tags:
     - fox
     - journalism
     - news
-    - technology
+    - techno-taglogy
     - TV
 ---
 

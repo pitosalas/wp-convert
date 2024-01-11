@@ -1,6 +1,8 @@
 ---
 title: "Reference-Letter.com: Letter of recommendation made easy"
-author: Pito Salasurl: "http://www.reference-letter.com" cover: "https://rdl.ink/render/http%3A%2F%2Fwww.reference-letter.com" 
+author: Pito Salas
+url: "http://www.reference-letter.com" 
+cover: "https://rdl.ink/render/http%3A%2F%2Fwww.reference-letter.com" 
 date: 2021-04-06 13:40:23
 tags:
     - reference-business-howto-letter-template

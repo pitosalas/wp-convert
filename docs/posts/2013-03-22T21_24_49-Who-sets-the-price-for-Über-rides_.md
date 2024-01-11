@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2013-03-22T21:24:49
 tags:
     - cars
-    - monopoly
+    - mon-tagopoly
     - pricing
     - uber
 ---

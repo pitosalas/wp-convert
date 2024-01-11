@@ -1,6 +1,8 @@
 ---
 title: "Editors | Drifting Ruby"
-author: Pito Salasurl: "https://www.driftingruby.com/episodes/editors" cover: "https://www.driftingruby.com//episodes/editors/download_image.png" 
+author: Pito Salas
+url: "https://www.driftingruby.com/episodes/editors" 
+cover: "https://www.driftingruby.com//episodes/editors/download_image.png" 
 date: 2021-04-06 13:40:22
 tags:
     - editors-ruby-driftingruby

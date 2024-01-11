@@ -1,6 +1,8 @@
 ---
 title: "Streamlit • The fastest way to build and share data apps"
-author: Pito Salasurl: "https://streamlit.io/" cover: "https://streamlit.io/sharing-image-facebook.jpg" 
+author: Pito Salas
+url: "https://streamlit.io/" 
+cover: "https://streamlit.io/sharing-image-facebook.jpg" 
 date: 2022-06-15 23:23:38
 tags:
     - python-dashboard-visualization-otp-howto

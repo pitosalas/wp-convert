@@ -1,6 +1,8 @@
 ---
 title: "How Kubernetes Reinvented Virtual Machines (in a good sense)"
-author: Pito Salasurl: "https://iximiuz.com/en/posts/kubernetes-vs-virtual-machines/?utm_source=abyteofcodingnewsletter" cover: "https://iximiuz.com/kubernetes-vs-virtual-machines/box-and-service-2000-opt.png" 
+author: Pito Salas
+url: "https://iximiuz.com/en/posts/kubernetes-vs-virtual-machines/?utm_source=abyteofcodingnewsletter" 
+cover: "https://iximiuz.com/kubernetes-vs-virtual-machines/box-and-service-2000-opt.png" 
 date: 2022-08-14 14:11:40
 tags:
     - kubernetes-k3s-explainer

@@ -1,6 +1,8 @@
 ---
 title: "Ruby From Other Languages"
-author: Pito Salasurl: "https://www.ruby-lang.org/en/documentation/ruby-from-other-languages" cover: "https://rdl.ink/render/https%3A%2F%2Fwww.ruby-lang.org%2Fen%2Fdocumentation%2Fruby-from-other-languages" 
+author: Pito Salas
+url: "https://www.ruby-lang.org/en/documentation/ruby-from-other-languages" 
+cover: "https://rdl.ink/render/https%3A%2F%2Fwww.ruby-lang.org%2Fen%2Fdocumentation%2Fruby-from-other-languages" 
 date: 2021-04-06 13:40:22
 tags:
     - ruby-learning

@@ -3,7 +3,7 @@ title: "Technology doesn’t contribute to productivity?"
 author: Pito Salas
 date: 2013-05-01T22:15:45
 tags:
-    - economics
+    - econ-tagomics
     - new-york-times
     - productivity
     - statistics

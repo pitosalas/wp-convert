@@ -1,6 +1,8 @@
 ---
 title: "Life Is Not Short | DKB Show"
-author: Pito Salasurl: "https://dkb.show/post/life-is-not-short" cover: "https://rdl.ink/render/https%3A%2F%2Fdkb.show%2Fpost%2Flife-is-not-short" 
+author: Pito Salas
+url: "https://dkb.show/post/life-is-not-short" 
+cover: "https://rdl.ink/render/https%3A%2F%2Fdkb.show%2Fpost%2Flife-is-not-short" 
 date: 2022-06-27 10:50:10
 tags:
     - philosophy-stoic-life

@@ -1,6 +1,8 @@
 ---
 title: "ScrumCrazy - Basic Story Testing Styles"
-author: Pito Salasurl: "http://www.scrumcrazy.com/Basic+Story+Testing+Styles" cover: "https://scrumcrazy.files.wordpress.com/2019/09/cropped-cb_headshot.jpg?w=109" 
+author: Pito Salas
+url: "http://www.scrumcrazy.com/Basic+Story+Testing+Styles" 
+cover: "https://scrumcrazy.files.wordpress.com/2019/09/cropped-cb_headshot.jpg?w=109" 
 date: 2021-04-06 13:40:22
 tags:
     - Sittercity

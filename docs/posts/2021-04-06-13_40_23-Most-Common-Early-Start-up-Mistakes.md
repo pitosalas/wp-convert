@@ -1,6 +1,8 @@
 ---
 title: "Most Common Early Start-up Mistakes"
-author: Pito Salasurl: "http://www.bothsidesofthetable.com/2009/08/17/most-common-early-start-up-mistakes" cover: "https://miro.medium.com/max/1200/0*Ceo01wnaDKMNZs3N." 
+author: Pito Salas
+url: "http://www.bothsidesofthetable.com/2009/08/17/most-common-early-start-up-mistakes" 
+cover: "https://miro.medium.com/max/1200/0*Ceo01wnaDKMNZs3N." 
 date: 2021-04-06 13:40:23
 tags:
     - found-cofounder-entrepreneurship

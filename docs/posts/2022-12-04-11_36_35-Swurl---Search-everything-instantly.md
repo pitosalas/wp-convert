@@ -1,6 +1,8 @@
 ---
 title: "Swurl - Search everything instantly"
-author: Pito Salasurl: "https://swurl.com/" cover: "https://swurl.com/img/swurl-screenshot.png" 
+author: Pito Salas
+url: "https://swurl.com/" 
+cover: "https://swurl.com/img/swurl-screenshot.png" 
 date: 2022-12-04 11:36:35
 tags:
     - search-google-instagrsm-instagram-limkedin-linkedin

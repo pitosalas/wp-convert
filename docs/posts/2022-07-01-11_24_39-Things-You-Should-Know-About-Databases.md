@@ -1,6 +1,8 @@
 ---
 title: "Things You Should Know About Databases"
-author: Pito Salasurl: "https://architecturenotes.co/things-you-should-know-about-databases/" cover: "https://architecturenotes.co/content/images/2022/06/Untitled-design-6.png" 
+author: Pito Salas
+url: "https://architecturenotes.co/things-you-should-know-about-databases/" 
+cover: "https://architecturenotes.co/content/images/2022/06/Untitled-design-6.png" 
 date: 2022-07-01 11:24:39
 tags:
     - howto-database-explainer-tutorial

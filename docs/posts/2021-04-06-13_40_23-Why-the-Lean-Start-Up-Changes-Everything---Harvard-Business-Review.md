@@ -1,6 +1,8 @@
 ---
 title: "Why the Lean Start-Up Changes Everything - Harvard Business Review"
-author: Pito Salasurl: "http://hbr.org/2013/05/why-the-lean-start-up-changes-everything/ar/pr" cover: "https://hbr.org/resources/images/article_assets/2008/01/07May13_Blank_lean-start-up.png" 
+author: Pito Salas
+url: "http://hbr.org/2013/05/why-the-lean-start-up-changes-everything/ar/pr" 
+cover: "https://hbr.org/resources/images/article_assets/2008/01/07May13_Blank_lean-start-up.png" 
 date: 2021-04-06 13:40:23
 tags:
     - entrepreneurship-startup-leanstartup

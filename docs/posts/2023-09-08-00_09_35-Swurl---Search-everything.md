@@ -1,6 +1,8 @@
 ---
 title: "Swurl - Search everything"
-author: Pito Salasurl: "https://swurl.com" cover: "https://swurl.com/img/swurl.com-screenshot.png" 
+author: Pito Salas
+url: "https://swurl.com" 
+cover: "https://swurl.com/img/swurl.com-screenshot.png" 
 date: 2023-09-08 00:09:35
 tags:
     - cooltoolm-search-google

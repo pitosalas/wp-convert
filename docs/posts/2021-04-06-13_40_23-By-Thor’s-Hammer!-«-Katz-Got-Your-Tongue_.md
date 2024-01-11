@@ -1,6 +1,8 @@
 ---
 title: "By Thor’s Hammer! « Katz Got Your Tongue?"
-author: Pito Salasurl: "http://yehudakatz.com/2008/05/12/by-thors-hammer" cover: "https://rdl.ink/render/http%3A%2F%2Fyehudakatz.com%2F2008%2F05%2F12%2Fby-thors-hammer" 
+author: Pito Salas
+url: "http://yehudakatz.com/2008/05/12/by-thors-hammer" 
+cover: "https://rdl.ink/render/http%3A%2F%2Fyehudakatz.com%2F2008%2F05%2F12%2Fby-thors-hammer" 
 date: 2021-04-06 13:40:23
 tags:
     - thor-development-ruby

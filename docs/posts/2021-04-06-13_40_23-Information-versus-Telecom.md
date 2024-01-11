@@ -1,6 +1,8 @@
 ---
 title: "Information versus Telecom"
-author: Pito Salasurl: "http://frankston.com/public?n=InternetVsTelecom" cover: "https://rdl.ink/render/http%3A%2F%2Ffrankston.com%2Fpublic%3Fn%3DInternetVsTelecom" 
+author: Pito Salas
+url: "http://frankston.com/public?n=InternetVsTelecom" 
+cover: "https://rdl.ink/render/http%3A%2F%2Ffrankston.com%2Fpublic%3Fn%3DInternetVsTelecom" 
 date: 2021-04-06 13:40:23
 ---
 <img src=https://rdl.ink/render/http%3A%2F%2Ffrankston.com%2Fpublic%3Fn%3DInternetVsTelecom width="500">

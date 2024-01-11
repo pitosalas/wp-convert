@@ -1,6 +1,8 @@
 ---
 title: "Welcome to WeBWorK"
-author: Pito Salasurl: "http://webwork.maa.org" cover: "https://rdl.ink/render/http%3A%2F%2Fwebwork.maa.org" 
+author: Pito Salas
+url: "http://webwork.maa.org" 
+cover: "https://rdl.ink/render/http%3A%2F%2Fwebwork.maa.org" 
 date: 2021-04-06 13:40:23
 tags:
     - math-education-mathematics-learning-edtech

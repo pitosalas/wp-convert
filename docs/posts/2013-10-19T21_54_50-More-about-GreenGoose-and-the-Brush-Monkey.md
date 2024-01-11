@@ -5,7 +5,7 @@ date: 2013-10-19T21:54:50
 tags:
     - entrepeneurship
     - green-goose
-    - launch-conference
+    - launch-con-tagference
     - startups
 ---
 

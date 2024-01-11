@@ -5,7 +5,7 @@ date: 2009-01-25T15:37:59
 tags:
     - magazines
     - newspapers
-    - religion
+    - religion-tag
     - science
 ---
 

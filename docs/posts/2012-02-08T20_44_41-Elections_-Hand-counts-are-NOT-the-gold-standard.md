@@ -5,7 +5,7 @@ date: 2012-02-08T20:44:41
 tags:
     - ballots
     - counting
-    - elections
+    - election-tags
     - handcounting
     - voting
 ---

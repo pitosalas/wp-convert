@@ -1,6 +1,8 @@
 ---
 title: "30 Awesome Design Enhancing jQuery Plugins"
-author: Pito Salasurl: "http://line25.com/articles/30-awesome-design-enhancing-jquery-plugins" cover: "https://rdl.ink/render/http%3A%2F%2Fline25.com%2Farticles%2F30-awesome-design-enhancing-jquery-plugins" 
+author: Pito Salas
+url: "http://line25.com/articles/30-awesome-design-enhancing-jquery-plugins" 
+cover: "https://rdl.ink/render/http%3A%2F%2Fline25.com%2Farticles%2F30-awesome-design-enhancing-jquery-plugins" 
 date: 2021-04-06 13:40:22
 ---
 <img src=https://rdl.ink/render/http%3A%2F%2Fline25.com%2Farticles%2F30-awesome-design-enhancing-jquery-plugins width="500">

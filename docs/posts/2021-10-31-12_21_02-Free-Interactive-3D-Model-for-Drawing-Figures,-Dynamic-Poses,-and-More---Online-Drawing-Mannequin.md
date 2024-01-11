@@ -1,6 +1,8 @@
 ---
 title: "Free Interactive 3D Model for Drawing Figures, Dynamic Poses, and More - Online Drawing Mannequin"
-author: Pito Salasurl: "https://setpose.com/?utm_campaign=Recomendo&utm_medium=email&utm_source=Revue%20newsletter" cover: "https://setpose.com/imgs/mannequin.png" 
+author: Pito Salas
+url: "https://setpose.com/?utm_campaign=Recomendo&utm_medium=email&utm_source=Revue%20newsletter" 
+cover: "https://setpose.com/imgs/mannequin.png" 
 date: 2021-10-31 12:21:02
 tags:
     - design-art-sketch-human-figure-pose

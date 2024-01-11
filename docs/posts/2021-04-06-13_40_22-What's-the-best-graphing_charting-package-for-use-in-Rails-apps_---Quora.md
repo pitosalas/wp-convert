@@ -1,6 +1,8 @@
 ---
 title: "What's the best graphing/charting package for use in Rails apps? - Quora"
-author: Pito Salasurl: "http://www.quora.com/Whats-the-best-graphing-charting-package-for-use-in-Rails-apps" cover: "https://qph.fs.quoracdn.net/main-custom-t-788-600x315-pitawsfglqjondnjfdmgqqsnbnracpcv.jpeg" 
+author: Pito Salas
+url: "http://www.quora.com/Whats-the-best-graphing-charting-package-for-use-in-Rails-apps" 
+cover: "https://qph.fs.quoracdn.net/main-custom-t-788-600x315-pitawsfglqjondnjfdmgqqsnbnracpcv.jpeg" 
 date: 2021-04-06 13:40:22
 ---
 <img src=https://qph.fs.quoracdn.net/main-custom-t-788-600x315-pitawsfglqjondnjfdmgqqsnbnracpcv.jpeg width="500">

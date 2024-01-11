@@ -1,6 +1,8 @@
 ---
 title: "10 Signs You Will Suck at Programming – Noteworthy - The Journal Blog"
-author: Pito Salasurl: "https://blog.usejournal.com/10-signs-you-will-suck-at-programming-5497a6a52c5c" cover: "https://miro.medium.com/max/1200/0*cF-7zKh4jqldcDf2" 
+author: Pito Salas
+url: "https://blog.usejournal.com/10-signs-you-will-suck-at-programming-5497a6a52c5c" 
+cover: "https://miro.medium.com/max/1200/0*cF-7zKh4jqldcDf2" 
 date: 2021-04-06 13:40:22
 tags:
     - skill-programming-learners

@@ -1,6 +1,8 @@
 ---
 title: "Why skyscrapers are so short - Works in Progress"
-author: Pito Salasurl: "https://www.worksinprogress.co/issue/why-skyscrapers-are-so-short/" cover: "https://www.worksinprogress.co/wp-content/uploads/2022/01/Brian-Potter-Cape-Town-at-sunrise-on-Unsplash-by-Tim-Johnson-scaled.jpg" 
+author: Pito Salas
+url: "https://www.worksinprogress.co/issue/why-skyscrapers-are-so-short/" 
+cover: "https://www.worksinprogress.co/wp-content/uploads/2022/01/Brian-Potter-Cape-Town-at-sunrise-on-Unsplash-by-Tim-Johnson-scaled.jpg" 
 date: 2022-01-23 13:44:30
 tags:
     - sky-scrapers-elevators-building

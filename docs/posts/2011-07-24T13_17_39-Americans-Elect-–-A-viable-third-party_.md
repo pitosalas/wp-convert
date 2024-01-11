@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2011-07-24T13:17:39
 tags:
     - americans-elect
-    - elections
+    - election-tags
     - politics
     - thomas-friendman
 ---

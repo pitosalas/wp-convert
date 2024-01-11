@@ -1,6 +1,8 @@
 ---
 title: "Poster Prints | Print Custom Posters Online : Mpix"
-author: Pito Salasurl: "https://www.mpix.com/products/homedecor/poster-prints" cover: "https://images.mpix.com/ver/m2.5.0/970x0/products/posters/posters_banner.mjpg" 
+author: Pito Salas
+url: "https://www.mpix.com/products/homedecor/poster-prints" 
+cover: "https://images.mpix.com/ver/m2.5.0/970x0/products/posters/posters_banner.mjpg" 
 date: 2022-08-11 00:40:03
 tags:
     - photo-quality-printing-large-service-poster

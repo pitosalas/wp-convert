@@ -9,7 +9,7 @@ tags:
     - geocode
     - geohash
     - howto
-    - latlong
+    - latlon-tagg
 ---
 
 

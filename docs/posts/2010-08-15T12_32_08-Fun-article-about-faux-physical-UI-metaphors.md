@@ -7,7 +7,7 @@ tags:
     - android
     - capriciousness
     - children-in-the-game
-    - iphone
+    - iphon-tage
     - user-interface
 ---
 

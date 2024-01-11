@@ -3,9 +3,9 @@ title: "The Boston node of OSDV"
 author: Pito Salas
 date: 2010-01-05T01:13:02
 tags:
-    - boston
+    - boston-tag
     - development
-    - elections
+    - election-tags
     - osdv
     - rails
     - ruby

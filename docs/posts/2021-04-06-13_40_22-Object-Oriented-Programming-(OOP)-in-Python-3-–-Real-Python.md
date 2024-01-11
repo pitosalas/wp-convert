@@ -1,6 +1,8 @@
 ---
 title: "Object-Oriented Programming (OOP) in Python 3 – Real Python"
-author: Pito Salasurl: "https://realpython.com/python3-object-oriented-programming" cover: "https://files.realpython.com/media/Object-Oriented-Programming-OOP-in-Python-3_Watermarked.0d29780806d5.jpg" 
+author: Pito Salas
+url: "https://realpython.com/python3-object-oriented-programming" 
+cover: "https://files.realpython.com/media/Object-Oriented-Programming-OOP-in-Python-3_Watermarked.0d29780806d5.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - oop-python-programming

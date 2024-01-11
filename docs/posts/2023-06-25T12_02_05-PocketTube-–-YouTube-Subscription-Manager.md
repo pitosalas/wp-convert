@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2023-06-25T12:02:05
 tags:
     - productivity
-    - subscriptions
+    - subscription-tags
     - none
 ---
 

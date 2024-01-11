@@ -3,8 +3,8 @@ title: "Anonymity online: What good is it?"
 author: Pito Salas
 date: 2013-08-21T21:00:56
 tags:
-    - anonymity
-    - rosie-odonnel
+    - ano-tagn-tagymity
+    - rosie-odon-tagnel
     - seth-godin
 ---
 

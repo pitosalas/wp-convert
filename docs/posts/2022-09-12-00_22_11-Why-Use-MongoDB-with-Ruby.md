@@ -1,6 +1,8 @@
 ---
 title: "Why Use MongoDB with Ruby"
-author: Pito Salasurl: "https://www.alexbevi.com/blog/2022/08/18/why-use-mongodb-with-ruby/?utm_campaign=Ruby%20Radar&utm_medium=email&utm_source=Revue%20newsletter" cover: "https://www.alexbevi.com/images/mongodb-logo.png" 
+author: Pito Salas
+url: "https://www.alexbevi.com/blog/2022/08/18/why-use-mongodb-with-ruby/?utm_campaign=Ruby%20Radar&utm_medium=email&utm_source=Revue%20newsletter" 
+cover: "https://www.alexbevi.com/images/mongodb-logo.png" 
 date: 2022-09-12 00:22:11
 tags:
     - ruby-mongodb-howto

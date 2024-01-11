@@ -1,6 +1,8 @@
 ---
 title: "The hotel bathroom puzzle"
-author: Pito Salasurl: "https://nevalalee.wordpress.com/2015/11/27/the-hotel-bathroom-puzzle" cover: "https://nevalalee.files.wordpress.com/2015/11/louis-xiv-bathroom-before.jpg?w=640" 
+author: Pito Salas
+url: "https://nevalalee.wordpress.com/2015/11/27/the-hotel-bathroom-puzzle" 
+cover: "https://nevalalee.files.wordpress.com/2015/11/louis-xiv-bathroom-before.jpg?w=640" 
 date: 2021-04-06 13:40:22
 tags:
     - puzzle-design
