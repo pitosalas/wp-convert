@@ -1,8 +1,6 @@
 ---
 title: "How I Built Timeasure: Part 1 — Motivation & Method Wrapping"
-author: Pito Salas
-url: "https://medium.com/rubyinside/how-i-built-timeasure-part-1-motivation-method-wrapping-1304cf841206?source=userActivityShare-d383785221d0-1523362978" 
-cover: "https://miro.medium.com/max/1200/1*x4leOI_LNFYzUcEGIwi-3Q.jpeg" 
+author: Pito Salasurl: "https://medium.com/rubyinside/how-i-built-timeasure-part-1-motivation-method-wrapping-1304cf841206?source=userActivityShare-d383785221d0-1523362978" cover: "https://miro.medium.com/max/1200/1*x4leOI_LNFYzUcEGIwi-3Q.jpeg" 
 date: 2021-04-06 13:40:22
 tags:
     - Ruby-performance

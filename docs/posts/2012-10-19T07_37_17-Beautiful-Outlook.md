@@ -1,8 +1,6 @@
 ---
 title: "Beautiful Outlook"
 author: Pito Salas
-
-
 date: 2012-10-19T07:37:17
 tags:
     - email

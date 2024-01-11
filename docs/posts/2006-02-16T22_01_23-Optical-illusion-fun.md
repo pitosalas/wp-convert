@@ -1,8 +1,6 @@
 ---
 title: "Optical illusion fun"
 author: Pito Salas
-
-
 date: 2006-02-16T22:01:23
 ---
 

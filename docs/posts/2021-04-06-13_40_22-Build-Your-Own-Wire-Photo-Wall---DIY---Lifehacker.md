@@ -1,8 +1,6 @@
 ---
 title: "Build Your Own Wire Photo Wall - DIY - Lifehacker"
-author: Pito Salas
-url: "http://lifehacker.com/395358/build-your-own-wire-photo-wall" 
-cover: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/18iykzu84lb0ujpg.jpg" 
+author: Pito Salasurl: "http://lifehacker.com/395358/build-your-own-wire-photo-wall" cover: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/18iykzu84lb0ujpg.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - Weather

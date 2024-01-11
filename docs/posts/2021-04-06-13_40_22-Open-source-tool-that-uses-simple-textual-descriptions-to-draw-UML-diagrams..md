@@ -1,8 +1,6 @@
 ---
 title: "Open-source tool that uses simple textual descriptions to draw UML diagrams."
-author: Pito Salas
-url: "http://plantuml.com" 
-cover: "http://plantuml.com/og-index" 
+author: Pito Salasurl: "http://plantuml.com" cover: "http://plantuml.com/og-index" 
 date: 2021-04-06 13:40:22
 tags:
     - chart-diagram-flowchart-tools

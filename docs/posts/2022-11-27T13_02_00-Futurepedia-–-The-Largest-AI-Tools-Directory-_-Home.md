@@ -1,8 +1,6 @@
 ---
 title: "Futurepedia – The Largest AI Tools Directory | Home"
 author: Pito Salas
-
-
 date: 2022-11-27T13:02:00
 tags:
     - ai

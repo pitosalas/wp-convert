@@ -1,8 +1,6 @@
 ---
 title: "Did you know what happened to Seymour Papert?"
 author: Pito Salas
-
-
 date: 2008-07-18T01:44:30
 ---
 

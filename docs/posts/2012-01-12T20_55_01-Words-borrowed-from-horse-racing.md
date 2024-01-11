@@ -1,8 +1,6 @@
 ---
 title: "Words borrowed from horse racing"
 author: Pito Salas
-
-
 date: 2012-01-12T20:55:01
 tags:
     - english

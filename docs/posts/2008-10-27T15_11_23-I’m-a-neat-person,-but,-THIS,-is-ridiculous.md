@@ -1,8 +1,6 @@
 ---
 title: "I’m a neat person, but, THIS, is ridiculous"
 author: Pito Salas
-
-
 date: 2008-10-27T15:11:23
 ---
 

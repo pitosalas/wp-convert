@@ -1,8 +1,6 @@
 ---
 title: "[story] This did happen"
 author: Pito Salas
-
-
 date: 2010-10-04T19:26:03
 ---
 

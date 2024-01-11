@@ -1,8 +1,6 @@
 ---
 title: "Why You Should Use Data Classes in Python | Giuliano Pertile"
-author: Pito Salas
-url: "https://www.giulianopertile.com/blog/why-you-should-use-dataclasses-in-python/" 
-cover: "https://giulianopertile.com/uploads/post/why-you-should-use-dataclasses-in-python/cover.jpg" 
+author: Pito Salasurl: "https://www.giulianopertile.com/blog/why-you-should-use-dataclasses-in-python/" cover: "https://giulianopertile.com/uploads/post/why-you-should-use-dataclasses-in-python/cover.jpg" 
 date: 2022-09-22 11:49:46
 tags:
     - python-howto-explainer-data-immutable

@@ -1,8 +1,6 @@
 ---
 title: "[teaching] A student’s perspective on course selection"
 author: Pito Salas
-
-
 date: 2013-09-24T21:29:54
 tags:
     - brandeis

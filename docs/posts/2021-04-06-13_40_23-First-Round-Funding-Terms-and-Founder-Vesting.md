@@ -1,8 +1,6 @@
 ---
 title: "First Round Funding Terms and Founder Vesting"
-author: Pito Salas
-url: "http://www.bothsidesofthetable.com/2009/08/17/first-round-funding-terms-and-founder-vesting" 
-cover: "https://miro.medium.com/max/1200/0*jpKZ4IXsy3GvwTjN." 
+author: Pito Salasurl: "http://www.bothsidesofthetable.com/2009/08/17/first-round-funding-terms-and-founder-vesting" cover: "https://miro.medium.com/max/1200/0*jpKZ4IXsy3GvwTjN." 
 date: 2021-04-06 13:40:23
 tags:
     - founding-funding-entrepreneurship

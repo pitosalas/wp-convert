@@ -1,8 +1,6 @@
 ---
 title: "GitHub – ngs-lang/ngs: Next Generation Shell (NGS)"
 author: Pito Salas
-
-
 date: 2022-02-14T07:31:57
 ---
 

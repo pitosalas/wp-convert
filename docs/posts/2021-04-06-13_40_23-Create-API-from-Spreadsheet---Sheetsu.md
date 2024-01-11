@@ -1,8 +1,6 @@
 ---
 title: "Create API from Spreadsheet - Sheetsu"
-author: Pito Salas
-url: "https://sheetsu.com" 
-cover: "https://sheetsu.com/lp-assets/image/og-image.png" 
+author: Pito Salasurl: "https://sheetsu.com" cover: "https://sheetsu.com/lp-assets/image/og-image.png" 
 date: 2021-04-06 13:40:23
 tags:
     - google-googledocs-api

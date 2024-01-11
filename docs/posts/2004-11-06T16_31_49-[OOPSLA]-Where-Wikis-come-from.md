@@ -1,8 +1,6 @@
 ---
 title: "[OOPSLA] Where Wikis come from"
 author: Pito Salas
-
-
 date: 2004-11-06T16:31:49
 ---
 

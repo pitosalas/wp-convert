@@ -1,8 +1,6 @@
 ---
 title: "Americans Elect – A viable third party?"
 author: Pito Salas
-
-
 date: 2011-07-24T13:17:39
 tags:
     - americans-elect

@@ -1,8 +1,6 @@
 ---
 title: "Steve Balmer read my blog (in my dream)"
 author: Pito Salas
-
-
 date: 2007-04-20T02:35:42
 ---
 

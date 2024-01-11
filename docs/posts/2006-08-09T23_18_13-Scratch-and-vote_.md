@@ -1,8 +1,6 @@
 ---
 title: "Scratch and vote?"
 author: Pito Salas
-
-
 date: 2006-08-09T23:18:13
 ---
 

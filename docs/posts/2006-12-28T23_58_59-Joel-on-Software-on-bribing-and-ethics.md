@@ -1,8 +1,6 @@
 ---
 title: "Joel on Software on bribing and ethics"
 author: Pito Salas
-
-
 date: 2006-12-28T23:58:59
 ---
 

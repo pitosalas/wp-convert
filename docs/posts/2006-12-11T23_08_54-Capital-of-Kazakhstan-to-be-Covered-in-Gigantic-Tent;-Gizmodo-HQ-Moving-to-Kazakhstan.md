@@ -1,8 +1,6 @@
 ---
 title: "Capital of Kazakhstan to be Covered in Gigantic Tent; Gizmodo HQ Moving to Kazakhstan"
 author: Pito Salas
-
-
 date: 2006-12-11T23:08:54
 ---
 

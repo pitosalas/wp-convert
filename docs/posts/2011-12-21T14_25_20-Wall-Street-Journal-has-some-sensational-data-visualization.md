@@ -1,8 +1,6 @@
 ---
 title: "Wall Street Journal has some sensational data visualization"
 author: Pito Salas
-
-
 date: 2011-12-21T14:25:20
 tags:
     - election

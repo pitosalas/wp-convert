@@ -1,8 +1,6 @@
 ---
 title: "LinkedIn invites are flooding in?!"
 author: Pito Salas
-
-
 date: 2013-03-02T02:42:16
 tags:
     - linkedin

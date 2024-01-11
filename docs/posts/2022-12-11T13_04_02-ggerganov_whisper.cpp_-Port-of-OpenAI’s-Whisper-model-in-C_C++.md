@@ -1,8 +1,6 @@
 ---
 title: "ggerganov/whisper.cpp: Port of OpenAI’s Whisper model in C/C++"
 author: Pito Salas
-
-
 date: 2022-12-11T13:04:02
 tags:
     - c

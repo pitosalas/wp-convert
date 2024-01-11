@@ -1,8 +1,6 @@
 ---
 title: "How to build x86 (and others!) Docker images on an M1 Mac – Jaimyn’s Blog"
 author: Pito Salas
-
-
 date: 2022-07-04T17:01:53
 tags:
     - build

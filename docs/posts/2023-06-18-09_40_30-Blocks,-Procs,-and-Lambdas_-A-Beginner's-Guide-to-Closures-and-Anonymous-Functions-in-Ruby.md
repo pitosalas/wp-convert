@@ -1,8 +1,6 @@
 ---
 title: "Blocks, Procs, and Lambdas: A Beginner's Guide to Closures and Anonymous Functions in Ruby"
-author: Pito Salas
-url: "https://www.akshaykhot.com/ruby-block-proc-lambda-and-differences-between-them/" 
-cover: "https://www.akshaykhot.com/content/images/2023/06/closures.png" 
+author: Pito Salasurl: "https://www.akshaykhot.com/ruby-block-proc-lambda-and-differences-between-them/" cover: "https://www.akshaykhot.com/content/images/2023/06/closures.png" 
 date: 2023-06-18 09:40:30
 tags:
     - ruby-explainer-blocks-lambda-functions-proc-block

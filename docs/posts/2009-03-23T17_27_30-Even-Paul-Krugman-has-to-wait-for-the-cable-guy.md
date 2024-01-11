@@ -1,8 +1,6 @@
 ---
 title: "Even Paul Krugman has to wait for the cable guy"
 author: Pito Salas
-
-
 date: 2009-03-23T17:27:30
 ---
 

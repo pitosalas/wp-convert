@@ -1,8 +1,6 @@
 ---
 title: "Flat is the new up: Why are companies using organizational structures that are thousands of years old? — Tech News and Analysis"
-author: Pito Salas
-url: "http://gigaom.com/2013/04/27/flat-is-the-new-up-why-are-companies-using-organizational-structures-that-are-thousands-of-years-old" 
-cover: "https://rdl.ink/render/http%3A%2F%2Fgigaom.com%2F2013%2F04%2F27%2Fflat-is-the-new-up-why-are-companies-using-organizational-structures-that-are-thousands-of-years-old" 
+author: Pito Salasurl: "http://gigaom.com/2013/04/27/flat-is-the-new-up-why-are-companies-using-organizational-structures-that-are-thousands-of-years-old" cover: "https://rdl.ink/render/http%3A%2F%2Fgigaom.com%2F2013%2F04%2F27%2Fflat-is-the-new-up-why-are-companies-using-organizational-structures-that-are-thousands-of-years-old" 
 date: 2021-04-06 13:40:23
 tags:
     - entrepreneurship-startup

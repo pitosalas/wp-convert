@@ -1,8 +1,6 @@
 ---
 title: "Distributed philanthropy network"
 author: Pito Salas
-
-
 date: 2005-06-21T20:05:04
 ---
 

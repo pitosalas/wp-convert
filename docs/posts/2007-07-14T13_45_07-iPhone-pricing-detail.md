@@ -1,8 +1,6 @@
 ---
 title: "iPhone pricing detail"
 author: Pito Salas
-
-
 date: 2007-07-14T13:45:07
 ---
 

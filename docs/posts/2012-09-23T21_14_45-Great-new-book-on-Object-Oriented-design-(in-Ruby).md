@@ -1,8 +1,6 @@
 ---
 title: "Great new book on Object Oriented design (in Ruby)"
 author: Pito Salas
-
-
 date: 2012-09-23T21:14:45
 tags:
     - design

@@ -1,8 +1,6 @@
 ---
 title: "What you may not know"
 author: Pito Salas
-
-
 date: 2004-03-11T05:12:18
 ---
 

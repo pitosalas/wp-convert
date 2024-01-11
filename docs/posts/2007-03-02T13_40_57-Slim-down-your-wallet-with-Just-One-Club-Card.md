@@ -1,8 +1,6 @@
 ---
 title: "Slim down your wallet with Just One Club Card"
 author: Pito Salas
-
-
 date: 2007-03-02T13:40:57
 ---
 

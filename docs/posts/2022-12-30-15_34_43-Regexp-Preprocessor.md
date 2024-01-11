@@ -1,8 +1,6 @@
 ---
 title: "Regexp Preprocessor"
-author: Pito Salas
-url: "https://pomsky-lang.org/docs/get-started/introduction/" 
-cover: "https://pomsky-lang.org/images/favicon.png" 
+author: Pito Salasurl: "https://pomsky-lang.org/docs/get-started/introduction/" cover: "https://pomsky-lang.org/images/favicon.png" 
 date: 2022-12-30 15:34:43
 tags:
     - regexp-preprocessor-pomsky-howto

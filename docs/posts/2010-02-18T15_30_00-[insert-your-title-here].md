@@ -1,8 +1,6 @@
 ---
 title: "[insert your title here]"
 author: Pito Salas
-
-
 date: 2010-02-18T15:30:00
 ---
 

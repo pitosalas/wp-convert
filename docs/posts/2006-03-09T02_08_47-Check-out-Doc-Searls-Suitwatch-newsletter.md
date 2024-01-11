@@ -1,8 +1,6 @@
 ---
 title: "Check out Doc Searls Suitwatch newsletter"
 author: Pito Salas
-
-
 date: 2006-03-09T02:08:47
 ---
 

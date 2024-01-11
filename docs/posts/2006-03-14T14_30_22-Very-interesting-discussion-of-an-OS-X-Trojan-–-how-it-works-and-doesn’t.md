@@ -1,8 +1,6 @@
 ---
 title: "Very interesting discussion of an OS X Trojan – how it works and doesn’t"
 author: Pito Salas
-
-
 date: 2006-03-14T14:30:22
 ---
 

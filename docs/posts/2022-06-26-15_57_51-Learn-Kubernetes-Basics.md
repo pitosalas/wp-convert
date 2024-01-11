@@ -1,8 +1,6 @@
 ---
 title: "Learn Kubernetes Basics"
-author: Pito Salas
-url: "https://kubernetes.io/docs/tutorials/kubernetes-basics/" 
-cover: "https://kubernetes.io/images/favicon.png" 
+author: Pito Salasurl: "https://kubernetes.io/docs/tutorials/kubernetes-basics/" cover: "https://kubernetes.io/images/favicon.png" 
 date: 2022-06-26 15:57:51
 tags:
     - kubernetes-basics-howto

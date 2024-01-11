@@ -1,8 +1,6 @@
 ---
 title: "Followup: Upgraded my iPhone from 3GS to 4 for MINUS $40.00"
 author: Pito Salas
-
-
 date: 2010-12-09T15:07:46
 tags:
     - iphone

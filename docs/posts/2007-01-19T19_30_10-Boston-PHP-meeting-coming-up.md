@@ -1,8 +1,6 @@
 ---
 title: "Boston PHP meeting coming up"
 author: Pito Salas
-
-
 date: 2007-01-19T19:30:10
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "David Weinberger has flat feet: Programming"
 author: Pito Salas
-
-
 date: 2010-08-05T12:50:00
 tags:
     - dave-winer

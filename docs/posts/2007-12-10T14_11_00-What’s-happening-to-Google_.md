@@ -1,8 +1,6 @@
 ---
 title: "What’s happening to Google?"
 author: Pito Salas
-
-
 date: 2007-12-10T14:11:00
 ---
 

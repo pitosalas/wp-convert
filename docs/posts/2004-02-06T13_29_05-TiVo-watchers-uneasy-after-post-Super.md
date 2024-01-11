@@ -1,8 +1,6 @@
 ---
 title: "TiVo watchers uneasy after post-Super"
 author: Pito Salas
-
-
 date: 2004-02-06T13:29:05
 ---
 

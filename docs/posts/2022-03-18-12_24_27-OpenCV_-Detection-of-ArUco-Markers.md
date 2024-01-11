@@ -1,8 +1,6 @@
 ---
 title: "OpenCV: Detection of ArUco Markers"
-author: Pito Salas
-url: "https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html" 
-cover: "https://docs.opencv.org/4.x/markers.jpg" 
+author: Pito Salasurl: "https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html" cover: "https://docs.opencv.org/4.x/markers.jpg" 
 date: 2022-03-18 12:24:27
 tags:
     - opencv-tutorial-howto-course-robotics-computer-vision

@@ -1,8 +1,6 @@
 ---
 title: "Elephants are cool!"
 author: Pito Salas
-
-
 date: 2005-01-03T18:00:21
 ---
 

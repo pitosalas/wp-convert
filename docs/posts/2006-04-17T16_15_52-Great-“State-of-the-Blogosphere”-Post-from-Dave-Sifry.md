@@ -1,8 +1,6 @@
 ---
 title: "Great “State of the Blogosphere” Post from Dave Sifry"
 author: Pito Salas
-
-
 date: 2006-04-17T16:15:52
 ---
 

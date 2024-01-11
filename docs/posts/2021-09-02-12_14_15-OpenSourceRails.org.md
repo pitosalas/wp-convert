@@ -1,8 +1,6 @@
 ---
 title: "OpenSourceRails.org"
-author: Pito Salas
-url: "https://opensourcerails.org/" 
-cover: "https://opensourcerails.org/android-chrome-512x512.png" 
+author: Pito Salasurl: "https://opensourcerails.org/" cover: "https://opensourcerails.org/android-chrome-512x512.png" 
 date: 2021-09-02 12:14:15
 tags:
     - rails-opensource-examples-gems-ruby

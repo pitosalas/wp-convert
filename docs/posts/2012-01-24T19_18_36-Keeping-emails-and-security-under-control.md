@@ -1,8 +1,6 @@
 ---
 title: "Keeping emails and security under control"
 author: Pito Salas
-
-
 date: 2012-01-24T19:18:36
 tags:
     - facebook

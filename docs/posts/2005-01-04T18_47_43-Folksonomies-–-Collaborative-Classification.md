@@ -1,8 +1,6 @@
 ---
 title: "Folksonomies – Collaborative Classification"
 author: Pito Salas
-
-
 date: 2005-01-04T18:47:43
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Sorry, but I have to share this"
 author: Pito Salas
-
-
 date: 2005-06-03T03:12:54
 ---
 

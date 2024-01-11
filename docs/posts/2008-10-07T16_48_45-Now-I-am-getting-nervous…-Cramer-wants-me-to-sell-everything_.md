@@ -1,8 +1,6 @@
 ---
 title: "Now I am getting nervous… Cramer wants me to sell everything?"
 author: Pito Salas
-
-
 date: 2008-10-07T16:48:45
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Jeff Jarvis on the whole Imus situation"
 author: Pito Salas
-
-
 date: 2007-04-14T03:46:10
 ---
 

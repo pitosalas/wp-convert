@@ -1,8 +1,6 @@
 ---
 title: "GitHub Copilot investigation · Joseph Saveri Law Firm & Matthew Butterick"
 author: Pito Salas
-
-
 date: 2022-10-23T14:01:55
 tags:
     - github

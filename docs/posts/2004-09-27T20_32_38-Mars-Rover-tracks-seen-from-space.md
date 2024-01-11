@@ -1,8 +1,6 @@
 ---
 title: "Mars Rover tracks seen from space"
 author: Pito Salas
-
-
 date: 2004-09-27T20:32:38
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "The Practical Effects of the GVL on Scaling in Ruby"
-author: Pito Salas
-url: "https://www.speedshop.co/2020/05/11/the-ruby-gvl-and-scaling.html" 
-cover: "https://www.speedshop.co/assets/posts/img/the-ruby-gvl.png" 
+author: Pito Salasurl: "https://www.speedshop.co/2020/05/11/the-ruby-gvl-and-scaling.html" cover: "https://www.speedshop.co/assets/posts/img/the-ruby-gvl.png" 
 date: 2022-05-28 14:29:10
 tags:
     - ruby-scale-howto-threads

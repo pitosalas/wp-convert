@@ -1,8 +1,6 @@
 ---
 title: "Control the Sun, really"
 author: Pito Salas
-
-
 date: 2013-04-06T20:53:03
 tags:
     - homes

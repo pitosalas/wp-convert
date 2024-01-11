@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] BostonPHP Meeting: Ajax Update"
 author: Pito Salas
-
-
 date: 2006-10-24T18:49:57
 ---
 

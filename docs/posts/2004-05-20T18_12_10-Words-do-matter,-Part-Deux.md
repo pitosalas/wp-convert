@@ -1,8 +1,6 @@
 ---
 title: "Words do matter, Part Deux"
 author: Pito Salas
-
-
 date: 2004-05-20T18:12:10
 ---
 

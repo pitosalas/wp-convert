@@ -1,8 +1,6 @@
 ---
 title: "Area codes become meaningless"
 author: Pito Salas
-
-
 date: 2004-04-16T20:25:36
 ---
 

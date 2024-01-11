@@ -1,8 +1,6 @@
 ---
 title: "Who’s your friend?"
 author: Pito Salas
-
-
 date: 2008-02-12T14:04:46
 ---
 

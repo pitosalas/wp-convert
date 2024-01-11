@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Moving away from self-hosted salas.com blog"
 author: Pito Salas
-
-
 date: 2011-10-18T13:25:03
 tags:
     - posterous

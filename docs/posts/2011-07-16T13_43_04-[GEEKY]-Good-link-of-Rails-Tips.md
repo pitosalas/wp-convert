@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Good link of Rails Tips"
 author: Pito Salas
-
-
 date: 2011-07-16T13:43:04
 tags:
     - Programming

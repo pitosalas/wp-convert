@@ -1,8 +1,6 @@
 ---
 title: "If you like food you might find this amusing…"
 author: Pito Salas
-
-
 date: 2008-05-21T12:00:00
 ---
 

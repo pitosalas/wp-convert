@@ -1,8 +1,6 @@
 ---
 title: "Bloglines Killer? Aren’t we being a bit premature?"
 author: Pito Salas
-
-
 date: 2005-05-15T16:27:11
 ---
 

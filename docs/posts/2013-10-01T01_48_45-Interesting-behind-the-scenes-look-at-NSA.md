@@ -1,8 +1,6 @@
 ---
 title: "Interesting behind-the-scenes look at NSA"
 author: Pito Salas
-
-
 date: 2013-10-01T01:48:45
 tags:
     - nsa

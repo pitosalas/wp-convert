@@ -1,8 +1,6 @@
 ---
 title: "Saving the newspapers. A modest proposal."
 author: Pito Salas
-
-
 date: 2009-02-14T14:24:26
 ---
 

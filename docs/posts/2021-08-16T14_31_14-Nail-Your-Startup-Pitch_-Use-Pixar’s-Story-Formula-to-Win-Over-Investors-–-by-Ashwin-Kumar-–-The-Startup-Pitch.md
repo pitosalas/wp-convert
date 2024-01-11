@@ -1,8 +1,6 @@
 ---
 title: "Nail Your Startup Pitch: Use Pixar’s Story Formula to Win Over Investors – by Ashwin Kumar – The Startup Pitch"
 author: Pito Salas
-
-
 date: 2021-08-16T14:31:14
 tags:
     - entrepreneurship

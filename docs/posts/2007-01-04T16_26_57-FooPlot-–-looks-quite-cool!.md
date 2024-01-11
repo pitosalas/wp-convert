@@ -1,8 +1,6 @@
 ---
 title: "FooPlot – looks quite cool!"
 author: Pito Salas
-
-
 date: 2007-01-04T16:26:57
 ---
 

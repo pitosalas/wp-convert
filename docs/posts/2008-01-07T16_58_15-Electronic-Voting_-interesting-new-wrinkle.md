@@ -1,8 +1,6 @@
 ---
 title: "Electronic Voting: interesting new wrinkle"
 author: Pito Salas
-
-
 date: 2008-01-07T16:58:15
 ---
 

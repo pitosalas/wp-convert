@@ -1,8 +1,6 @@
 ---
 title: "Everything you need to know"
-author: Pito Salas
-url: "https://docs.google.com/document/d/13SlnXCy8byLDhkqWkcqGjULW0pyCekvlf3YrdNFYviw/edit" 
-cover: "https://lh4.googleusercontent.com/QkEG5IqU8xeJEJcP6QywG5k6MBAR7bP51qGqwE2T_vlI6w2ijArUKIwDOvfJqkEZIWmltfFxocffBg=w1200-h630-p" 
+author: Pito Salasurl: "https://docs.google.com/document/d/13SlnXCy8byLDhkqWkcqGjULW0pyCekvlf3YrdNFYviw/edit" cover: "https://lh4.googleusercontent.com/QkEG5IqU8xeJEJcP6QywG5k6MBAR7bP51qGqwE2T_vlI6w2ijArUKIwDOvfJqkEZIWmltfFxocffBg=w1200-h630-p" 
 date: 2022-08-24 16:37:44
 tags:
     - hci-ui-research-document-quirky

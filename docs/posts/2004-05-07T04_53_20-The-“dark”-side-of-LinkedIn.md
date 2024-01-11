@@ -1,8 +1,6 @@
 ---
 title: "The “dark” side of LinkedIn"
 author: Pito Salas
-
-
 date: 2004-05-07T04:53:20
 ---
 

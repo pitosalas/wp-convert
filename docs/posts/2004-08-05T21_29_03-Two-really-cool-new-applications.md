@@ -1,8 +1,6 @@
 ---
 title: "Two really cool new applications"
 author: Pito Salas
-
-
 date: 2004-08-05T21:29:03
 ---
 

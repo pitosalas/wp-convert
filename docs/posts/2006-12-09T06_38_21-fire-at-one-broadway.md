@@ -1,8 +1,6 @@
 ---
 title: "fire at one broadway"
 author: Pito Salas
-
-
 date: 2006-12-09T06:38:21
 ---
 

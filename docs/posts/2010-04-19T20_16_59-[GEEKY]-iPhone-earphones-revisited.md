@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] iPhone earphones revisited"
 author: Pito Salas
-
-
 date: 2010-04-19T20:16:59
 ---
 

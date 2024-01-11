@@ -1,8 +1,6 @@
 ---
 title: "Towards better memory"
 author: Pito Salas
-
-
 date: 2008-07-21T12:00:00
 ---
 

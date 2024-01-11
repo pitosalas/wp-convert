@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Nicer way to run Ruby tests"
 author: Pito Salas
-
-
 date: 2011-01-05T01:16:23
 tags:
     - GEEKY

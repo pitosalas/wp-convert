@@ -1,8 +1,6 @@
 ---
 title: "TSA: Smokescreening"
 author: Pito Salas
-
-
 date: 2012-01-01T04:20:32
 tags:
     - airport

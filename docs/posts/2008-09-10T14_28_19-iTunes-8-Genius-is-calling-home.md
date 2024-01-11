@@ -1,8 +1,6 @@
 ---
 title: "iTunes 8 Genius is calling home"
 author: Pito Salas
-
-
 date: 2008-09-10T14:28:19
 ---
 

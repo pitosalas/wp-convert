@@ -1,8 +1,6 @@
 ---
 title: "Git is simply too hard"
-author: Pito Salas
-url: "https://changelog.com/posts/git-is-simply-too-hard" 
-cover: "https://cdn.changelog.com/uploads/posts/wwlO/large.png?v=63772756066" 
+author: Pito Salasurl: "https://changelog.com/posts/git-is-simply-too-hard" cover: "https://cdn.changelog.com/uploads/posts/wwlO/large.png?v=63772756066" 
 date: 2023-06-06 08:22:29
 tags:
     - git-opinion

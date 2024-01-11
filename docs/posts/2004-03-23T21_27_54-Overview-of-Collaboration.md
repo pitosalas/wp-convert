@@ -1,8 +1,6 @@
 ---
 title: "Overview of Collaboration"
 author: Pito Salas
-
-
 date: 2004-03-23T21:27:54
 ---
 

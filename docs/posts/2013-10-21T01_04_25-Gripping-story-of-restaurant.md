@@ -1,8 +1,6 @@
 ---
 title: "Gripping story of restaurant"
 author: Pito Salas
-
-
 date: 2013-10-21T01:04:25
 tags:
     - food

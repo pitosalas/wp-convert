@@ -1,8 +1,6 @@
 ---
 title: "Still can learn more,,,"
 author: Pito Salas
-
-
 date: 2004-05-17T02:47:36
 ---
 

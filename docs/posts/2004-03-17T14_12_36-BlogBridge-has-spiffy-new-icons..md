@@ -1,8 +1,6 @@
 ---
 title: "BlogBridge has spiffy new icons."
 author: Pito Salas
-
-
 date: 2004-03-17T14:12:36
 ---
 

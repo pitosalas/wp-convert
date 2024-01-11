@@ -1,8 +1,6 @@
 ---
 title: "Who comes to your thanksgiving dinner?"
 author: Pito Salas
-
-
 date: 2006-11-22T16:38:03
 ---
 

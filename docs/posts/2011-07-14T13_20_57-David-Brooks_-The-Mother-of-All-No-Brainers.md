@@ -1,8 +1,6 @@
 ---
 title: "David Brooks: The Mother of All No-Brainers"
 author: Pito Salas
-
-
 date: 2011-07-14T13:20:57
 tags:
     - brooks

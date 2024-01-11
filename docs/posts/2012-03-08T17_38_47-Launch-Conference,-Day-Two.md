@@ -1,8 +1,6 @@
 ---
 title: "Launch Conference, Day Two"
 author: Pito Salas
-
-
 date: 2012-03-08T17:38:47
 tags:
     - calacanis

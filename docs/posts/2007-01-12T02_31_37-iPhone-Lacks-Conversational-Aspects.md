@@ -1,8 +1,6 @@
 ---
 title: "iPhone Lacks Conversational Aspects"
 author: Pito Salas
-
-
 date: 2007-01-12T02:31:37
 ---
 

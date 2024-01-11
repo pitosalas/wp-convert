@@ -1,8 +1,6 @@
 ---
 title: "Ever heard of the Johari Window?"
 author: Pito Salas
-
-
 date: 2010-09-17T00:13:30
 ---
 

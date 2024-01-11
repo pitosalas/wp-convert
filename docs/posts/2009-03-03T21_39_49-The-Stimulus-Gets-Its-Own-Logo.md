@@ -1,8 +1,6 @@
 ---
 title: "The Stimulus Gets Its Own Logo"
 author: Pito Salas
-
-
 date: 2009-03-03T21:39:49
 ---
 

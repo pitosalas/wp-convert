@@ -1,8 +1,6 @@
 ---
 title: "A non-mathematical introduction to Kalman Filters for programmers - Pravesh Koirala"
-author: Pito Salas
-url: "https://praveshkoirala.com/2023/06/13/a-non-mathematical-introduction-to-kalman-filters-for-programmers/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav" 
-cover: "https://praveshkoirala.com/wp-content/uploads/2023/06/image-1-1536x599.png" 
+author: Pito Salasurl: "https://praveshkoirala.com/2023/06/13/a-non-mathematical-introduction-to-kalman-filters-for-programmers/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav" cover: "https://praveshkoirala.com/wp-content/uploads/2023/06/image-1-1536x599.png" 
 date: 2023-08-06 18:34:12
 tags:
     - robot-robotics-kalman-code-explainer

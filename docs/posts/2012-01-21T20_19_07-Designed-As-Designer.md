@@ -1,8 +1,6 @@
 ---
 title: "Designed As Designer"
 author: Pito Salas
-
-
 date: 2012-01-21T20:19:07
 tags:
     - computerscience

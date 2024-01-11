@@ -1,8 +1,6 @@
 ---
 title: "Confessions of an economic hit man"
 author: Pito Salas
-
-
 date: 2013-09-08T16:21:40
 tags:
     - foreign-aid

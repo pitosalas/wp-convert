@@ -1,8 +1,6 @@
 ---
 title: "Rewritten in Rust: Modern Alternatives of Command-Line Tools · zaiste.net"
-author: Pito Salas
-url: "https://zaiste.net/posts/shell-commands-rust" 
-cover: "https://kretes.dev/images/kretes-header.jpg" 
+author: Pito Salasurl: "https://zaiste.net/posts/shell-commands-rust" cover: "https://kretes.dev/images/kretes-header.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - howto-shell-cli-linux-tools

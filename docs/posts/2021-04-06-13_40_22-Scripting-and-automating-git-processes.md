@@ -1,8 +1,6 @@
 ---
 title: "Scripting and automating git processes"
-author: Pito Salas
-url: "https://stackoverflow.com/questions/3878624/how-do-i-programmatically-determine-if-there-are-uncommitted-changes/41646552" 
-cover: "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" 
+author: Pito Salasurl: "https://stackoverflow.com/questions/3878624/how-do-i-programmatically-determine-if-there-are-uncommitted-changes/41646552" cover: "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" 
 date: 2021-04-06 13:40:22
 tags:
     - scripting-automation-cli-ruby-bash-tips

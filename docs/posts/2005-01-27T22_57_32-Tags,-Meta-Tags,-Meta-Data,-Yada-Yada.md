@@ -1,8 +1,6 @@
 ---
 title: "Tags, Meta Tags, Meta Data, Yada Yada"
 author: Pito Salas
-
-
 date: 2005-01-27T22:57:32
 ---
 

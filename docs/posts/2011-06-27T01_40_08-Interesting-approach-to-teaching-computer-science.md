@@ -1,8 +1,6 @@
 ---
 title: "Interesting approach to teaching computer science"
 author: Pito Salas
-
-
 date: 2011-06-27T01:40:08
 tags:
     - courses

@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Why I am not yet developing for iOS"
 author: Pito Salas
-
-
 date: 2011-08-05T23:18:02
 ---
 

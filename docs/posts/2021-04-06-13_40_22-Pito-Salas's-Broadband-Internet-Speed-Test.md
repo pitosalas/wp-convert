@@ -1,8 +1,6 @@
 ---
 title: "Pito Salas's Broadband Internet Speed Test"
-author: Pito Salas
-url: "https://testmy.net" 
-cover: "https://tmnstatic.com/images/tmn-icon-128B-min.png" 
+author: Pito Salasurl: "https://testmy.net" cover: "https://tmnstatic.com/images/tmn-icon-128B-min.png" 
 date: 2021-04-06 13:40:22
 tags:
     - speed-internet-performance

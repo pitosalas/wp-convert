@@ -1,8 +1,6 @@
 ---
 title: "Living in 3d? So here"
 author: Pito Salas
-
-
 date: 2004-01-16T04:06:31
 ---
 

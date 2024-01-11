@@ -1,8 +1,6 @@
 ---
 title: "ChatGPT Can’t Kill Anything Worth Preserving"
 author: Pito Salas
-
-
 date: 2022-12-13T02:02:18
 tags:
     - ChatGPT

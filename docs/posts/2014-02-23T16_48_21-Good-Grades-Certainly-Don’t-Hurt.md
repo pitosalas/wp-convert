@@ -1,8 +1,6 @@
 ---
 title: "Good Grades Certainly Don’t Hurt"
 author: Pito Salas
-
-
 date: 2014-02-23T16:48:21
 tags:
     - college

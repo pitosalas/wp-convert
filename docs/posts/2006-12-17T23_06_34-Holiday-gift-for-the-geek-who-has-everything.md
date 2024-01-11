@@ -1,8 +1,6 @@
 ---
 title: "Holiday gift for the geek who has everything"
 author: Pito Salas
-
-
 date: 2006-12-17T23:06:34
 ---
 

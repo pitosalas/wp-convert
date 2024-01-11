@@ -1,8 +1,6 @@
 ---
 title: "Twice as many people vote for Idol than watch it?"
 author: Pito Salas
-
-
 date: 2009-04-30T13:32:34
 ---
 

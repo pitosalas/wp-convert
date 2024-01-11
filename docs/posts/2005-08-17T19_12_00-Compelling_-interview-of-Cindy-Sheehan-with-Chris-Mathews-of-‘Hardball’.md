@@ -1,8 +1,6 @@
 ---
 title: "Compelling: interview of Cindy Sheehan with Chris Mathews of ‘Hardball’"
 author: Pito Salas
-
-
 date: 2005-08-17T19:12:00
 ---
 

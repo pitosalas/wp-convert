@@ -1,8 +1,6 @@
 ---
 title: "Building Scalable Databases: Pros and Cons of Various Database Sharding Schemes – Dare Obasanjo"
 author: Pito Salas
-
-
 date: 2022-03-23T19:31:40
 tags:
     - performance

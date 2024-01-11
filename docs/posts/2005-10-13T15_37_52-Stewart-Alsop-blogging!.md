@@ -1,8 +1,6 @@
 ---
 title: "Stewart Alsop blogging!"
 author: Pito Salas
-
-
 date: 2005-10-13T15:37:52
 ---
 

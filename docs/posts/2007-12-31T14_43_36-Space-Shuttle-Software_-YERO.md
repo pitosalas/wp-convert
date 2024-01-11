@@ -1,8 +1,6 @@
 ---
 title: "Space Shuttle Software: YERO"
 author: Pito Salas
-
-
 date: 2007-12-31T14:43:36
 ---
 

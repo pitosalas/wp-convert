@@ -1,8 +1,6 @@
 ---
 title: "RSS feed for for twitter"
 author: Pito Salas
-
-
 date: 2012-02-18T20:49:40
 tags:
     - BlogBridge

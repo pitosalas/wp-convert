@@ -1,8 +1,6 @@
 ---
 title: "Salute to Dave Winer: 10 Year Anniversary of Scripting news"
 author: Pito Salas
-
-
 date: 2007-01-22T05:13:11
 ---
 

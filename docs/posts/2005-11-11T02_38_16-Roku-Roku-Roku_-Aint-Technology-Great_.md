@@ -1,8 +1,6 @@
 ---
 title: "Roku Roku Roku: Aint Technology Great?"
 author: Pito Salas
-
-
 date: 2005-11-11T02:38:16
 ---
 

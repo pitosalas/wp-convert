@@ -1,8 +1,6 @@
 ---
 title: "[GEEK] Unified name space for aggregator extensions for OPML?"
 author: Pito Salas
-
-
 date: 2005-11-29T21:41:48
 ---
 

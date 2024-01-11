@@ -1,8 +1,6 @@
 ---
 title: "Path to nowhere? I don’t get it either…"
 author: Pito Salas
-
-
 date: 2010-12-24T01:14:02
 ---
 

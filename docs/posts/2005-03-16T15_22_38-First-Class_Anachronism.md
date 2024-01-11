@@ -1,8 +1,6 @@
 ---
 title: "First Class/Anachronism"
 author: Pito Salas
-
-
 date: 2005-03-16T15:22:38
 ---
 

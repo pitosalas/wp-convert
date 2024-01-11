@@ -1,8 +1,6 @@
 ---
 title: "Swurl – Search everything"
 author: Pito Salas
-
-
 date: 2023-09-08T01:01:44
 tags:
     - cooltoolm

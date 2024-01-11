@@ -1,8 +1,6 @@
 ---
 title: "Coffee Series part 2: What kind of grind?"
 author: Pito Salas
-
-
 date: 2006-04-24T14:59:59
 ---
 

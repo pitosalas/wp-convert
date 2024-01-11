@@ -1,8 +1,6 @@
 ---
 title: "Installing Stimulus JS in a Rails app – cedarcode – Medium"
-author: Pito Salas
-url: "https://medium.com/cedarcode/installing-stimulus-js-in-a-rails-app-c8564ba51ea2" 
-cover: "https://miro.medium.com/max/1200/1*CugpD67GJkeJ887gof3jlw.jpeg" 
+author: Pito Salasurl: "https://medium.com/cedarcode/installing-stimulus-js-in-a-rails-app-c8564ba51ea2" cover: "https://miro.medium.com/max/1200/1*CugpD67GJkeJ887gof3jlw.jpeg" 
 date: 2021-04-06 13:40:22
 tags:
     - installing-stimulus-rails-javascript

@@ -1,8 +1,6 @@
 ---
 title: "Visual design rules you can safely follow every time"
-author: Pito Salas
-url: "https://anthonyhobday.com/sideprojects/saferules/" 
-cover: "https://anthonyhobday.com/sideprojects/saferules/images/1.png" 
+author: Pito Salasurl: "https://anthonyhobday.com/sideprojects/saferules/" cover: "https://anthonyhobday.com/sideprojects/saferules/images/1.png" 
 date: 2023-02-07 01:19:13
 tags:
     - design-visual-howto-rules-of-thumb-graphic-design

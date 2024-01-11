@@ -1,8 +1,6 @@
 ---
 title: "My Bitcoin stash is falling in value!"
 author: Pito Salas
-
-
 date: 2014-03-21T22:10:07
 tags:
     - bitcoin

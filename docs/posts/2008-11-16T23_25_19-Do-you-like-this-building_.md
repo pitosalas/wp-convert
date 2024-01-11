@@ -1,8 +1,6 @@
 ---
 title: "Do you like this building?"
 author: Pito Salas
-
-
 date: 2008-11-16T23:25:19
 ---
 

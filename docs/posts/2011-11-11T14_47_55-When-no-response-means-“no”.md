@@ -1,8 +1,6 @@
 ---
 title: "When no response means “no”"
 author: Pito Salas
-
-
 date: 2011-11-11T14:47:55
 tags:
     - email

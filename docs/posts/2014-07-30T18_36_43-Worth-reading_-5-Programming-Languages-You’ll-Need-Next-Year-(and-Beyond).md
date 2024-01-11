@@ -1,8 +1,6 @@
 ---
 title: "Worth reading: 5 Programming Languages You’ll Need Next Year (and Beyond)"
 author: Pito Salas
-
-
 date: 2014-07-30T18:36:43
 ---
 

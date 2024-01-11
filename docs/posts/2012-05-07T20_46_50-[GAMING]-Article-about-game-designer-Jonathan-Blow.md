@@ -1,8 +1,6 @@
 ---
 title: "[GAMING] Article about game designer Jonathan Blow"
 author: Pito Salas
-
-
 date: 2012-05-07T20:46:50
 tags:
     - arrogant

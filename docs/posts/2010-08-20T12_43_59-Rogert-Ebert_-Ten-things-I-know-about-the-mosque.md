@@ -1,8 +1,6 @@
 ---
 title: "Rogert Ebert: Ten things I know about the mosque"
 author: Pito Salas
-
-
 date: 2010-08-20T12:43:59
 ---
 

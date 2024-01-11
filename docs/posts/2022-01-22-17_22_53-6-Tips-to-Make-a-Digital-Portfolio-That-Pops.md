@@ -1,8 +1,6 @@
 ---
 title: "6 Tips to Make a Digital Portfolio That Pops"
-author: Pito Salas
-url: "https://www.roberthalf.com/blog/writing-a-resume/3-digital-portfolio-best-practices-how-to-make-a-portfolio-that-pops" 
-cover: "https://www.roberthalf.com/sites/default/files/2020-06/digital-portfolio-rh.jpg" 
+author: Pito Salasurl: "https://www.roberthalf.com/blog/writing-a-resume/3-digital-portfolio-best-practices-how-to-make-a-portfolio-that-pops" cover: "https://www.roberthalf.com/sites/default/files/2020-06/digital-portfolio-rh.jpg" 
 date: 2022-01-22 17:22:53
 tags:
     - digital-portfolio

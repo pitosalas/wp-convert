@@ -1,8 +1,6 @@
 ---
 title: "Facebook – Group your Place on a List and Put it on A page … or something"
 author: Pito Salas
-
-
 date: 2011-11-08T18:27:27
 tags:
     - facebook

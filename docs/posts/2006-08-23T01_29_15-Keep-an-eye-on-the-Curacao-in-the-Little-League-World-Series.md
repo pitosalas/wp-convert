@@ -1,8 +1,6 @@
 ---
 title: "Keep an eye on the Curacao in the Little League World Series"
 author: Pito Salas
-
-
 date: 2006-08-23T01:29:15
 ---
 

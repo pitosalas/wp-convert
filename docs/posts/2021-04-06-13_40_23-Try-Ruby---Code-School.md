@@ -1,8 +1,6 @@
 ---
 title: "Try Ruby - Code School"
-author: Pito Salas
-url: "http://www.codeschool.com/courses/try-ruby" 
-cover: "https://img.pluralsight.com/course-images/ruby-fundamentals-v1.jpg" 
+author: Pito Salasurl: "http://www.codeschool.com/courses/try-ruby" cover: "https://img.pluralsight.com/course-images/ruby-fundamentals-v1.jpg" 
 date: 2021-04-06 13:40:23
 tags:
     - ruby-education-learning-teaching

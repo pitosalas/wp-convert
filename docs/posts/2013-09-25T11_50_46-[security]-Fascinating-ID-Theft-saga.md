@@ -1,8 +1,6 @@
 ---
 title: "[security] Fascinating ID Theft saga"
 author: Pito Salas
-
-
 date: 2013-09-25T11:50:46
 tags:
     - hacking

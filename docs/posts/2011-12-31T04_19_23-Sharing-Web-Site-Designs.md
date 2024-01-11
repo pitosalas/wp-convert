@@ -1,8 +1,6 @@
 ---
 title: "Sharing Web Site Designs"
 author: Pito Salas
-
-
 date: 2011-12-31T04:19:23
 tags:
     - BlogBridge

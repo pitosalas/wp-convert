@@ -1,8 +1,6 @@
 ---
 title: "Making my blog look very busy"
 author: Pito Salas
-
-
 date: 2007-12-16T14:48:14
 ---
 

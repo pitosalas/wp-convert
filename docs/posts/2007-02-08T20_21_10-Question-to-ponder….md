@@ -1,8 +1,6 @@
 ---
 title: "Question to ponder…"
 author: Pito Salas
-
-
 date: 2007-02-08T20:21:10
 ---
 

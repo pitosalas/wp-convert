@@ -1,8 +1,6 @@
 ---
 title: "Hackers and the elections"
 author: Pito Salas
-
-
 date: 2007-10-12T23:52:06
 ---
 

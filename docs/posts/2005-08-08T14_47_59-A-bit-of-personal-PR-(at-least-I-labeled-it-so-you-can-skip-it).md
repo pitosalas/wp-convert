@@ -1,8 +1,6 @@
 ---
 title: "A bit of personal PR (at least I labeled it so you can skip it)"
 author: Pito Salas
-
-
 date: 2005-08-08T14:47:59
 ---
 

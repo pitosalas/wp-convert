@@ -1,8 +1,6 @@
 ---
 title: "Keep an eye on Inquisix"
 author: Pito Salas
-
-
 date: 2007-12-21T14:39:04
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "I don’t ‘get’ iTunes match"
 author: Pito Salas
-
-
 date: 2011-11-15T15:27:07
 tags:
     - apple

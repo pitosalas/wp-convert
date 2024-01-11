@@ -1,8 +1,6 @@
 ---
 title: "Defining the shooting envelope"
-author: Pito Salas
-url: "https://blog.mingthein.com/2014/06/11/shooting-envelope-what-does-it-mean/" 
-cover: "https://farm4.staticflickr.com/3705/13748332853_4b513a7109_c.jpg" 
+author: Pito Salasurl: "https://blog.mingthein.com/2014/06/11/shooting-envelope-what-does-it-mean/" cover: "https://farm4.staticflickr.com/3705/13748332853_4b513a7109_c.jpg" 
 date: 2022-06-26 15:35:38
 tags:
     - photography-envelope-theory-testing-cameras

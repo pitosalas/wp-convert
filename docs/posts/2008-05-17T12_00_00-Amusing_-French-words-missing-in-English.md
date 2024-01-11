@@ -1,8 +1,6 @@
 ---
 title: "Amusing: French words missing in English"
 author: Pito Salas
-
-
 date: 2008-05-17T12:00:00
 ---
 

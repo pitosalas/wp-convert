@@ -1,8 +1,6 @@
 ---
 title: "Intellectual Property on Wall Street?"
 author: Pito Salas
-
-
 date: 2013-11-20T00:50:51
 tags:
     - intellectual-property

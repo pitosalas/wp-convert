@@ -1,8 +1,6 @@
 ---
 title: "Premature Evaluation?: Obama Wins Nobel Prize"
 author: Pito Salas
-
-
 date: 2009-10-11T14:56:00
 ---
 

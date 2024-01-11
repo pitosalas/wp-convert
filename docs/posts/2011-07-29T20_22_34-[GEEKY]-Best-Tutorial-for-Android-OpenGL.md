@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Best Tutorial for Android OpenGL"
 author: Pito Salas
-
-
 date: 2011-07-29T20:22:34
 tags:
     - android

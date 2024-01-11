@@ -1,8 +1,6 @@
 ---
 title: "Bizarro News from Fox"
 author: Pito Salas
-
-
 date: 2013-10-07T19:16:38
 tags:
     - fox

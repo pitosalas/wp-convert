@@ -1,8 +1,6 @@
 ---
 title: "How are the presidential debates like a Nascar race?"
 author: Pito Salas
-
-
 date: 2012-10-16T17:35:25
 tags:
     - cage-fight

@@ -1,8 +1,6 @@
 ---
 title: "BlogBridge Installation and Deployment"
 author: Pito Salas
-
-
 date: 2004-02-25T16:49:12
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "I wouldn’t put it past them"
 author: Pito Salas
-
-
 date: 2013-10-01T15:36:34
 tags:
     - government

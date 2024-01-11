@@ -1,8 +1,6 @@
 ---
 title: "Demo 2008 – Liveblog experiment"
 author: Pito Salas
-
-
 date: 2008-01-29T16:29:10
 ---
 

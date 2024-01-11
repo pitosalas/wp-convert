@@ -1,8 +1,6 @@
 ---
 title: "Best Red Sox Headline"
 author: Pito Salas
-
-
 date: 2004-10-21T20:52:10
 ---
 

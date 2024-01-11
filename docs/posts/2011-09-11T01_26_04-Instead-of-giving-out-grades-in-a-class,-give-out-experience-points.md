@@ -1,8 +1,6 @@
 ---
 title: "Instead of giving out grades in a class, give out experience points"
 author: Pito Salas
-
-
 date: 2011-09-11T01:26:04
 tags:
     - gaming

@@ -1,8 +1,6 @@
 ---
 title: "Death by a thousand microservices"
-author: Pito Salas
-url: "https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html?utm_source=changelog-news" 
-cover: "https://renegadeotter.com/img/complexity/og.jpg" 
+author: Pito Salasurl: "https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html?utm_source=changelog-news" cover: "https://renegadeotter.com/img/complexity/og.jpg" 
 date: 2023-09-18 23:17:44
 tags:
     - microservice-architecture-scaling-bike-shedding-commentary

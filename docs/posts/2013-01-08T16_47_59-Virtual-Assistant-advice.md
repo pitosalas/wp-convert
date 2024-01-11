@@ -1,8 +1,6 @@
 ---
 title: "Virtual Assistant advice"
 author: Pito Salas
-
-
 date: 2013-01-08T16:47:59
 tags:
     - virtual-assistant

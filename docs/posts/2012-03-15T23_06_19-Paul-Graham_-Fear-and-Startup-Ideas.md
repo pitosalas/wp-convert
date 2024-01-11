@@ -1,8 +1,6 @@
 ---
 title: "Paul Graham: Fear and Startup Ideas"
 author: Pito Salas
-
-
 date: 2012-03-15T23:06:19
 tags:
     - big-ideas

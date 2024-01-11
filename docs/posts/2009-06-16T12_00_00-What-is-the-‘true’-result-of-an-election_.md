@@ -1,8 +1,6 @@
 ---
 title: "What is the ‘true’ result of an election?"
 author: Pito Salas
-
-
 date: 2009-06-16T12:00:00
 ---
 

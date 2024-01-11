@@ -1,8 +1,6 @@
 ---
 title: "How do you feel about Software Patents?"
 author: Pito Salas
-
-
 date: 2011-11-21T20:08:41
 tags:
     - patents

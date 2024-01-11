@@ -1,8 +1,6 @@
 ---
 title: "Splunk Product Tour - Machine Data Collection | Splunk"
-author: Pito Salas
-url: "http://www.splunk.com/view/product-tour/SP-CAAAAGV" 
-cover: "https://www.splunk.com/content/dam/splunk2/images/social/splunk-logo.jpg" 
+author: Pito Salasurl: "http://www.splunk.com/view/product-tour/SP-CAAAAGV" cover: "https://www.splunk.com/content/dam/splunk2/images/social/splunk-logo.jpg" 
 date: 2021-04-06 13:40:23
 tags:
     - collection-bigdata-charts

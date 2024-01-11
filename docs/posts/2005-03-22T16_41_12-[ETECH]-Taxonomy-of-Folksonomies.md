@@ -1,8 +1,6 @@
 ---
 title: "[ETECH] Taxonomy of Folksonomies"
 author: Pito Salas
-
-
 date: 2005-03-22T16:41:12
 ---
 

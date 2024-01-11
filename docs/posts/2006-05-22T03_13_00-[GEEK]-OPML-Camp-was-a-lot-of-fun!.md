@@ -1,8 +1,6 @@
 ---
 title: "[GEEK] OPML Camp was a lot of fun!"
 author: Pito Salas
-
-
 date: 2006-05-22T03:13:00
 ---
 

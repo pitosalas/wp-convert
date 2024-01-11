@@ -1,8 +1,6 @@
 ---
 title: "screencasting – Screen + Voice = demo"
 author: Pito Salas
-
-
 date: 2005-02-23T04:09:20
 ---
 

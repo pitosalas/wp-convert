@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Domain specific languages in Ruby"
 author: Pito Salas
-
-
 date: 2007-04-05T20:38:47
 ---
 

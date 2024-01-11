@@ -1,8 +1,6 @@
 ---
 title: "[education] Creative Monopoly"
 author: Pito Salas
-
-
 date: 2012-04-26T01:37:53
 tags:
     - education

@@ -1,8 +1,6 @@
 ---
 title: "Does Mitt Romney control it all?"
 author: Pito Salas
-
-
 date: 2012-10-24T05:00:14
 tags:
     - consipracy

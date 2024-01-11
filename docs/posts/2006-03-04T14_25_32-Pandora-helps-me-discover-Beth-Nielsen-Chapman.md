@@ -1,8 +1,6 @@
 ---
 title: "Pandora helps me discover Beth Nielsen Chapman"
 author: Pito Salas
-
-
 date: 2006-03-04T14:25:32
 ---
 

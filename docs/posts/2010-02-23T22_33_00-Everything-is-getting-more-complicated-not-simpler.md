@@ -1,8 +1,6 @@
 ---
 title: "Everything is getting more complicated not simpler"
 author: Pito Salas
-
-
 date: 2010-02-23T22:33:00
 ---
 

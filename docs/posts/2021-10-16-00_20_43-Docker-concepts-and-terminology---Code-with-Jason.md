@@ -1,8 +1,6 @@
 ---
 title: "Docker concepts and terminology - Code with Jason"
-author: Pito Salas
-url: "https://www.codewithjason.com/docker-concepts-terminology/" 
-cover: "https://www.codewithjason.com/wp-content/uploads/2018/06/jason-swett.jpg" 
+author: Pito Salasurl: "https://www.codewithjason.com/docker-concepts-terminology/" cover: "https://www.codewithjason.com/wp-content/uploads/2018/06/jason-swett.jpg" 
 date: 2021-10-16 00:20:43
 tags:
     - docker-howto-explainer-jargon

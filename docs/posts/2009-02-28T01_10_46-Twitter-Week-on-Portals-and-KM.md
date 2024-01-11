@@ -1,8 +1,6 @@
 ---
 title: "Twitter Week on Portals and KM"
 author: Pito Salas
-
-
 date: 2009-02-28T01:10:46
 ---
 

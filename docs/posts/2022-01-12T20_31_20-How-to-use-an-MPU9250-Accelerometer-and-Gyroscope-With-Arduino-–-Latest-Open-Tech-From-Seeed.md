@@ -1,8 +1,6 @@
 ---
 title: "How to use an MPU9250 Accelerometer and Gyroscope With Arduino – Latest Open Tech From Seeed"
 author: Pito Salas
-
-
 date: 2022-01-12T20:31:20
 ---
 

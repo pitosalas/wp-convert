@@ -1,8 +1,6 @@
 ---
 title: "Zed – Code at the speed of thought"
 author: Pito Salas
-
-
 date: 2023-03-19T12:02:22
 tags:
     - cooltool

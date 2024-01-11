@@ -1,8 +1,6 @@
 ---
 title: "datas-frame – Modern Pandas (Part 2): Method Chaining"
-author: Pito Salas
-url: "https://tomaugspurger.github.io/method-chaining.html" 
-cover: "https://rdl.ink/render/https%3A%2F%2Ftomaugspurger.github.io%2Fmethod-chaining.html" 
+author: Pito Salasurl: "https://tomaugspurger.github.io/method-chaining.html" cover: "https://rdl.ink/render/https%3A%2F%2Ftomaugspurger.github.io%2Fmethod-chaining.html" 
 date: 2021-04-06 13:40:22
 tags:
     - pandas-functional-style-howto

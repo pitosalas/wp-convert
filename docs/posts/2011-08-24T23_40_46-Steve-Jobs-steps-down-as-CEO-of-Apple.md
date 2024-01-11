@@ -1,8 +1,6 @@
 ---
 title: "Steve Jobs steps down as CEO of Apple"
 author: Pito Salas
-
-
 date: 2011-08-24T23:40:46
 tags:
     - apple

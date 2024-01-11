@@ -1,8 +1,6 @@
 ---
 title: "Video made by and for robots"
 author: Pito Salas
-
-
 date: 2012-10-22T17:53:14
 tags:
     - advertising

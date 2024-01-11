@@ -1,8 +1,6 @@
 ---
 title: "Pascal Piermé | GF Contemporary"
-author: Pito Salas
-url: "https://gfcontemporary.com/artist/pascal-pierme" 
-cover: "https://cdn.artcld.com/img/w_640,h_640,c_pad,b_ffffff/btkhhpu0twd99gb86072.jpg" 
+author: Pito Salasurl: "https://gfcontemporary.com/artist/pascal-pierme" cover: "https://cdn.artcld.com/img/w_640,h_640,c_pad,b_ffffff/btkhhpu0twd99gb86072.jpg" 
 date: 2022-06-23 23:33:33
 tags:
     - art-paintings

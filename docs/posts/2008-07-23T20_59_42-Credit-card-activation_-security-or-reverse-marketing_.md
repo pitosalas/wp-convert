@@ -1,8 +1,6 @@
 ---
 title: "Credit card activation: security or reverse marketing?"
 author: Pito Salas
-
-
 date: 2008-07-23T20:59:42
 tags:
     - discover-spam-marketing

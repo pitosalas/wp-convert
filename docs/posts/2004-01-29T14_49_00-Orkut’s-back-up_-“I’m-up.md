@@ -1,8 +1,6 @@
 ---
 title: "Orkut’s back up: “I’m up"
 author: Pito Salas
-
-
 date: 2004-01-29T14:49:00
 ---
 

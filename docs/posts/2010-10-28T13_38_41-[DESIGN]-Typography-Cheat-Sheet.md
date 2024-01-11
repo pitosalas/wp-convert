@@ -1,8 +1,6 @@
 ---
 title: "[DESIGN] Typography Cheat Sheet"
 author: Pito Salas
-
-
 date: 2010-10-28T13:38:41
 tags:
     - design

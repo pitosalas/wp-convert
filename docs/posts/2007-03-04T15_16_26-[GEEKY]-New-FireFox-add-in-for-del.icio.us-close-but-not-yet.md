@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] New FireFox add-in for del.icio.us close but not yet"
 author: Pito Salas
-
-
 date: 2007-03-04T15:16:26
 ---
 

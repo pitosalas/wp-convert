@@ -1,8 +1,6 @@
 ---
 title: "BlogBridge T-shirts"
 author: Pito Salas
-
-
 date: 2005-02-01T21:26:40
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "First Steps with Sinatra as a Rails Developer - Part 1"
-author: Pito Salas
-url: "https://www.netguru.co/codestories/first-steps-sinatra-1" 
-cover: "https://www.netguru.com/hubfs/Codestories/max-nelson-492729-unsplash.jpg" 
+author: Pito Salasurl: "https://www.netguru.co/codestories/first-steps-sinatra-1" cover: "https://www.netguru.com/hubfs/Codestories/max-nelson-492729-unsplash.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - rails-sinatra-ruby

@@ -1,8 +1,6 @@
 ---
 title: "Futurepedia - The Largest AI Tools Directory | Home"
-author: Pito Salas
-url: "https://www.futurepedia.io/?utm_campaign=Recomendo&utm_medium=email&utm_source=Revue%20newsletter" 
-cover: "https://i.imgur.com/ZG1wAgN.jpg" 
+author: Pito Salasurl: "https://www.futurepedia.io/?utm_campaign=Recomendo&utm_medium=email&utm_source=Revue%20newsletter" cover: "https://i.imgur.com/ZG1wAgN.jpg" 
 date: 2022-11-27 12:13:00
 tags:
     - photo-ai-converter

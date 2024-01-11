@@ -1,8 +1,6 @@
 ---
 title: "Microservices using Rails, HTTP & RabbitMQ"
-author: Pito Salas
-url: "http://blog.mechanicles.com/2016/09/19/microservices-using-rails-http-and-rabbitmq.html" 
-cover: "https://avatars3.githubusercontent.com/u/77895?s=400&u=b3810d910244a615239abf455019d9de73b67c17&v=4" 
+author: Pito Salasurl: "http://blog.mechanicles.com/2016/09/19/microservices-using-rails-http-and-rabbitmq.html" cover: "https://avatars3.githubusercontent.com/u/77895?s=400&u=b3810d910244a615239abf455019d9de73b67c17&v=4" 
 date: 2021-04-06 13:40:23
 tags:
     - Software-Engineering

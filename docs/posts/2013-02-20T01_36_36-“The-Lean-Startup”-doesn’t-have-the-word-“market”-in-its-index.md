@@ -1,8 +1,6 @@
 ---
 title: "“The Lean Startup” doesn’t have the word “market” in its index"
 author: Pito Salas
-
-
 date: 2013-02-20T01:36:36
 tags:
     - eric-ries

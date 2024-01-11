@@ -1,8 +1,6 @@
 ---
 title: "Amazing story about Virginia Postrel’s kidney"
 author: Pito Salas
-
-
 date: 2008-02-09T15:31:04
 ---
 

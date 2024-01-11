@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] CSS Deep Thoughts"
 author: Pito Salas
-
-
 date: 2010-11-06T14:00:35
 ---
 

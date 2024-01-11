@@ -1,8 +1,6 @@
 ---
 title: "Free Interactive 3D Model for Drawing Figures, Dynamic Poses, and More – Online Drawing Mannequin"
 author: Pito Salas
-
-
 date: 2021-10-31T08:31:46
 tags:
     - art

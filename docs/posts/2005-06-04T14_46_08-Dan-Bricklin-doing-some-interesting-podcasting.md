@@ -1,8 +1,6 @@
 ---
 title: "Dan Bricklin doing some interesting podcasting"
 author: Pito Salas
-
-
 date: 2005-06-04T14:46:08
 ---
 

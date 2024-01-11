@@ -1,8 +1,6 @@
 ---
 title: "Heresy: Wall-E just so-so"
 author: Pito Salas
-
-
 date: 2008-07-20T14:00:46
 ---
 

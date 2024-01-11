@@ -1,8 +1,6 @@
 ---
 title: "sferik/rails_admin - GitHub"
-author: Pito Salas
-url: "https://github.com/sferik/rails_admin" 
-cover: "https://avatars.githubusercontent.com/u/10308?s=400&v=4" 
+author: Pito Salasurl: "https://github.com/sferik/rails_admin" cover: "https://avatars.githubusercontent.com/u/10308?s=400&v=4" 
 date: 2021-04-06 13:40:23
 tags:
     - rails

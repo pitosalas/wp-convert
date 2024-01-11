@@ -1,8 +1,6 @@
 ---
 title: "St Maarten is such a small island that the airport runs right up to the beach"
 author: Pito Salas
-
-
 date: 2006-08-10T17:53:11
 ---
 

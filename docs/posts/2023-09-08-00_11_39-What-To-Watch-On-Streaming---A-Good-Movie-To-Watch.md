@@ -1,8 +1,6 @@
 ---
 title: "What To Watch On Streaming - A Good Movie To Watch"
-author: Pito Salas
-url: "https://agoodmovietowatch.com" 
-cover: "https://agoodmovietowatch.com/assets/agmtw_logo.png" 
+author: Pito Salasurl: "https://agoodmovietowatch.com" cover: "https://agoodmovietowatch.com/assets/agmtw_logo.png" 
 date: 2023-09-08 00:11:39
 tags:
     - movies-cooltool-recommendations-films-streaming

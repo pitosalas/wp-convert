@@ -1,8 +1,6 @@
 ---
 title: "Retro Gaming with Raspberry Pi"
-author: Pito Salas
-url: "https://learn.adafruit.com/retro-gaming-with-raspberry-pi/adding-controls-hardware" 
-cover: "https://cdn-learn.adafruit.com/guides/images/000/000/290/medium800/joust.jpg" 
+author: Pito Salasurl: "https://learn.adafruit.com/retro-gaming-with-raspberry-pi/adding-controls-hardware" cover: "https://cdn-learn.adafruit.com/guides/images/000/000/290/medium800/joust.jpg" 
 date: 2021-06-19 00:39:57
 tags:
     - raspberry-pi-raspi-controls-interface-howto

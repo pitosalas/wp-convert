@@ -1,8 +1,6 @@
 ---
 title: "Great new OS X Software Releases"
 author: Pito Salas
-
-
 date: 2005-05-04T16:39:51
 ---
 

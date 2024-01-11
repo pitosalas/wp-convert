@@ -1,8 +1,6 @@
 ---
 title: "We’re going to see “The Gates” in New York"
 author: Pito Salas
-
-
 date: 2005-02-18T04:23:01
 ---
 

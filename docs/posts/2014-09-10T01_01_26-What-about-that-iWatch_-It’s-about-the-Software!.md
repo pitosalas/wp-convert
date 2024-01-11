@@ -1,8 +1,6 @@
 ---
 title: "What about that iWatch? It’s about the Software!"
 author: Pito Salas
-
-
 date: 2014-09-10T01:01:26
 tags:
     - apple-watch

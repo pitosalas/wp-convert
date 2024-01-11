@@ -1,8 +1,6 @@
 ---
 title: "Hope this isn’t true…"
 author: Pito Salas
-
-
 date: 2005-09-21T22:35:30
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Rails Database Best Practices"
-author: Pito Salas
-url: "http://blog.carbonfive.com/2016/11/16/rails-database-best-practices" 
-cover: "https://s0.wp.com/i/blank.jpg" 
+author: Pito Salasurl: "http://blog.carbonfive.com/2016/11/16/rails-database-best-practices" cover: "https://s0.wp.com/i/blank.jpg" 
 date: 2021-04-06 13:40:23
 tags:
     - Software-Engineering

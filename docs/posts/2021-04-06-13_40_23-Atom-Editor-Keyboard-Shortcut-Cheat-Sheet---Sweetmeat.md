@@ -1,8 +1,6 @@
 ---
 title: "Atom Editor Keyboard Shortcut Cheat Sheet - Sweetmeat"
-author: Pito Salas
-url: "http://sweetme.at/2014/03/10/atom-editor-cheat-sheet" 
-cover: "https://rdl.ink/render/http%3A%2F%2Fsweetme.at%2F2014%2F03%2F10%2Fatom-editor-cheat-sheet" 
+author: Pito Salasurl: "http://sweetme.at/2014/03/10/atom-editor-cheat-sheet" cover: "https://rdl.ink/render/http%3A%2F%2Fsweetme.at%2F2014%2F03%2F10%2Fatom-editor-cheat-sheet" 
 date: 2021-04-06 13:40:23
 tags:
     - programming

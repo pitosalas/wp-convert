@@ -1,8 +1,6 @@
 ---
 title: "Wikipedia posting on Virginia Tech Tragedy"
 author: Pito Salas
-
-
 date: 2008-04-12T19:26:31
 tags:
     - wikipedia

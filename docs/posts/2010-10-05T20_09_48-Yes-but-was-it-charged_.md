@@ -1,8 +1,6 @@
 ---
 title: "Yes but was it charged?"
 author: Pito Salas
-
-
 date: 2010-10-05T20:09:48
 ---
 

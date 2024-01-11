@@ -1,8 +1,6 @@
 ---
 title: "Google Sightseeing: Target in my neighborhood"
 author: Pito Salas
-
-
 date: 2008-06-05T13:00:01
 ---
 

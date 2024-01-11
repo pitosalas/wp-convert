@@ -1,8 +1,6 @@
 ---
 title: "RSS Feed Advertising"
 author: Pito Salas
-
-
 date: 2005-03-01T19:33:31
 ---
 

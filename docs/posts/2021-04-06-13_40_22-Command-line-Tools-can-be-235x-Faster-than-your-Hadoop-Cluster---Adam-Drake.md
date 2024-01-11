@@ -1,8 +1,6 @@
 ---
 title: "Command-line Tools can be 235x Faster than your Hadoop Cluster - Adam Drake"
-author: Pito Salas
-url: "https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html" 
-cover: "https://adamdrake.com/static/images/twitter-card.jpg" 
+author: Pito Salasurl: "https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html" cover: "https://adamdrake.com/static/images/twitter-card.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - cli-hadoop-tools

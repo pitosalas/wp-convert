@@ -1,8 +1,6 @@
 ---
 title: "A classic article that I finally read"
 author: Pito Salas
-
-
 date: 2010-04-14T18:17:55
 ---
 

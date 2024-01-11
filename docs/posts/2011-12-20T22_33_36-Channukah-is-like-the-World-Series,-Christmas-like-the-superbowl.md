@@ -1,8 +1,6 @@
 ---
 title: "Channukah is like the World Series, Christmas like the superbowl"
 author: Pito Salas
-
-
 date: 2011-12-20T22:33:36
 tags:
     - channukah

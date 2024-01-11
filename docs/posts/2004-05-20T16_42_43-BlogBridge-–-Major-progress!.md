@@ -1,8 +1,6 @@
 ---
 title: "BlogBridge – Major progress!"
 author: Pito Salas
-
-
 date: 2004-05-20T16:42:43
 ---
 

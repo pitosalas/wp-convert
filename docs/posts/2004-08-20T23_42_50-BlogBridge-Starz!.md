@@ -1,8 +1,6 @@
 ---
 title: "BlogBridge Starz!"
 author: Pito Salas
-
-
 date: 2004-08-20T23:42:50
 ---
 

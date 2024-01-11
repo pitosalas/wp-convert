@@ -1,8 +1,6 @@
 ---
 title: "The Time Machine Works!"
 author: Pito Salas
-
-
 date: 2007-11-22T16:31:43
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Comment! Spam! Again!"
 author: Pito Salas
-
-
 date: 2005-05-11T23:23:33
 ---
 

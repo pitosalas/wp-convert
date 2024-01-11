@@ -1,8 +1,6 @@
 ---
 title: "Interesting article about Architecture of the Certificate Authority Trust Model"
 author: Pito Salas
-
-
 date: 2010-12-16T01:19:25
 ---
 

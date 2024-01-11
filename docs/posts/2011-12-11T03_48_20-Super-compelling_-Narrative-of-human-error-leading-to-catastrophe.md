@@ -1,8 +1,6 @@
 ---
 title: "Super compelling: Narrative of human error leading to catastrophe"
 author: Pito Salas
-
-
 date: 2011-12-11T03:48:20
 tags:
     - airbus

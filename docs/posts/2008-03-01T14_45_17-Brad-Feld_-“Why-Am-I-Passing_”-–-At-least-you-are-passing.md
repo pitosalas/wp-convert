@@ -1,8 +1,6 @@
 ---
 title: "Brad Feld: “Why Am I Passing?” – At least you are passing"
 author: Pito Salas
-
-
 date: 2008-03-01T14:45:17
 ---
 

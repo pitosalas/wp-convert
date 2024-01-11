@@ -1,8 +1,6 @@
 ---
 title: "The new Comcast mojo"
 author: Pito Salas
-
-
 date: 2008-10-28T18:35:25
 ---
 

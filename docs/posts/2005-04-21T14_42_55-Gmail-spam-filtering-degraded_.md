@@ -1,8 +1,6 @@
 ---
 title: "Gmail spam filtering degraded?"
 author: Pito Salas
-
-
 date: 2005-04-21T14:42:55
 ---
 

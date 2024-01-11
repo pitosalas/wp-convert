@@ -1,8 +1,6 @@
 ---
 title: "Update on Spotify II"
 author: Pito Salas
-
-
 date: 2011-10-03T14:34:47
 tags:
     - itunes

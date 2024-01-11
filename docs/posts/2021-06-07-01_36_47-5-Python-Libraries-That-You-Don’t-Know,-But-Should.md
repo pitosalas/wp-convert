@@ -1,8 +1,6 @@
 ---
 title: "5 Python Libraries That You Don’t Know, But Should"
-author: Pito Salas
-url: "https://link.medium.com/xEjq6wILSgb" 
-cover: "https://miro.medium.com/max/1200/1*FIYVG7jKknCncAkIJLAIRQ.jpeg" 
+author: Pito Salasurl: "https://link.medium.com/xEjq6wILSgb" cover: "https://miro.medium.com/max/1200/1*FIYVG7jKknCncAkIJLAIRQ.jpeg" 
 date: 2021-06-07 01:36:47
 tags:
     - python-library-package-google-maps

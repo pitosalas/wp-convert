@@ -1,8 +1,6 @@
 ---
 title: "Scott Adams writres about Spasmodic Dysphonia…"
 author: Pito Salas
-
-
 date: 2007-01-15T03:30:47
 ---
 

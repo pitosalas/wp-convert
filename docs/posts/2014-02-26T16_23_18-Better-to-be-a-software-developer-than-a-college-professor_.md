@@ -1,8 +1,6 @@
 ---
 title: "Better to be a software developer than a college professor?"
 author: Pito Salas
-
-
 date: 2014-02-26T16:23:18
 tags:
     - careers

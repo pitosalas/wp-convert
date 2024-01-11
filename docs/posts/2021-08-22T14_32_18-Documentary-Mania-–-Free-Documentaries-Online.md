@@ -1,8 +1,6 @@
 ---
 title: "Documentary Mania – Free Documentaries Online"
 author: Pito Salas
-
-
 date: 2021-08-22T14:32:18
 tags:
     - art

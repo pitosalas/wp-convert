@@ -1,8 +1,6 @@
 ---
 title: "Beware of Freeconomics"
 author: Pito Salas
-
-
 date: 2008-09-05T13:00:02
 ---
 

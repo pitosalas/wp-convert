@@ -1,8 +1,6 @@
 ---
 title: "Funny piece of sh*t"
 author: Pito Salas
-
-
 date: 2009-02-26T17:26:27
 ---
 

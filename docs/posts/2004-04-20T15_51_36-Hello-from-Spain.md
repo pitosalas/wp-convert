@@ -1,8 +1,6 @@
 ---
 title: "Hello from Spain"
 author: Pito Salas
-
-
 date: 2004-04-20T15:51:36
 ---
 

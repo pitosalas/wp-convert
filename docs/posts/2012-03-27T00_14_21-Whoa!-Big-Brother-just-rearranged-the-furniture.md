@@ -1,8 +1,6 @@
 ---
 title: "Whoa! Big Brother just rearranged the furniture"
 author: Pito Salas
-
-
 date: 2012-03-27T00:14:21
 tags:
     - big-brother

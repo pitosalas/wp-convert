@@ -1,8 +1,6 @@
 ---
 title: "Some amazing (Mars) panoramas. This"
 author: Pito Salas
-
-
 date: 2004-01-13T02:46:16
 ---
 

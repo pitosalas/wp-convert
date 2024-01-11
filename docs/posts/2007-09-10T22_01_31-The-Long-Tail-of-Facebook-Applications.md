@@ -1,8 +1,6 @@
 ---
 title: "The Long Tail of Facebook Applications"
 author: Pito Salas
-
-
 date: 2007-09-10T22:01:31
 ---
 

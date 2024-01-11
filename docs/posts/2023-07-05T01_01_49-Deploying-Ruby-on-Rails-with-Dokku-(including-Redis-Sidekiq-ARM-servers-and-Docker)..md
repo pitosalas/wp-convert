@@ -1,8 +1,6 @@
 ---
 title: "Deploying Ruby on Rails with Dokku (including Redis Sidekiq ARM servers and Docker)."
 author: Pito Salas
-
-
 date: 2023-07-05T01:01:49
 tags:
     - deployment

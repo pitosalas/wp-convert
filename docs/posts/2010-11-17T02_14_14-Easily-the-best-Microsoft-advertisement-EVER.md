@@ -1,8 +1,6 @@
 ---
 title: "Easily the best Microsoft advertisement EVER"
 author: Pito Salas
-
-
 date: 2010-11-17T02:14:14
 tags:
     - advertisement

@@ -1,8 +1,6 @@
 ---
 title: "Noah and Tabblo (Water in Arlington Mass)"
 author: Pito Salas
-
-
 date: 2006-05-16T04:10:39
 ---
 

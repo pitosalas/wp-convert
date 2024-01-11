@@ -1,8 +1,6 @@
 ---
 title: "Amazing pictures"
 author: Pito Salas
-
-
 date: 2007-12-04T14:52:37
 ---
 

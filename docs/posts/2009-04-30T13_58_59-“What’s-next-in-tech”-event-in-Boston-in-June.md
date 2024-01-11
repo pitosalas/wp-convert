@@ -1,8 +1,6 @@
 ---
 title: "“What’s next in tech” event in Boston in June"
 author: Pito Salas
-
-
 date: 2009-04-30T13:58:59
 tags:
     - boston

@@ -1,8 +1,6 @@
 ---
 title: "Politics and the soul"
 author: Pito Salas
-
-
 date: 2013-06-03T14:36:57
 tags:
     - bias

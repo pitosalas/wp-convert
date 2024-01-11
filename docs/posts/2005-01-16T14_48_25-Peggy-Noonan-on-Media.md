@@ -1,8 +1,6 @@
 ---
 title: "Peggy Noonan on Media"
 author: Pito Salas
-
-
 date: 2005-01-16T14:48:25
 ---
 

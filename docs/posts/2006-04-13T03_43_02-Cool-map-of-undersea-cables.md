@@ -1,8 +1,6 @@
 ---
 title: "Cool map of undersea cables"
 author: Pito Salas
-
-
 date: 2006-04-13T03:43:02
 ---
 

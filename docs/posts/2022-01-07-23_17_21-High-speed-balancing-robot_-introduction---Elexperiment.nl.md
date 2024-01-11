@@ -1,8 +1,6 @@
 ---
 title: "High speed balancing robot: introduction - Elexperiment.nl"
-author: Pito Salas
-url: "https://elexperiment.nl/2018/11/high-speed-balancing-robot-introduction/" 
-cover: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Feedback_loop_with_descriptions.svg/500px-Feedback_loop_with_descriptions.svg.png" 
+author: Pito Salasurl: "https://elexperiment.nl/2018/11/high-speed-balancing-robot-introduction/" cover: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Feedback_loop_with_descriptions.svg/500px-Feedback_loop_with_descriptions.svg.png" 
 date: 2022-01-07 23:17:21
 tags:
     - howto-balancing-robotics

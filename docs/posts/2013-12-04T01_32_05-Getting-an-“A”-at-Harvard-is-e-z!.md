@@ -1,8 +1,6 @@
 ---
 title: "Getting an “A” at Harvard is e-z!"
 author: Pito Salas
-
-
 date: 2013-12-04T01:32:05
 tags:
     - grades

@@ -1,8 +1,6 @@
 ---
 title: "How to Teach Programming | Codementor"
-author: Pito Salas
-url: "https://www.codementor.io/npostolovski/how-to-teach-programming-pvgpdtoed" 
-cover: "https://cdn.filestackcontent.com/WiXN5ylTRJSGTcXZOmGG" 
+author: Pito Salasurl: "https://www.codementor.io/npostolovski/how-to-teach-programming-pvgpdtoed" cover: "https://cdn.filestackcontent.com/WiXN5ylTRJSGTcXZOmGG" 
 date: 2021-04-06 13:40:22
 tags:
     - teach-programming

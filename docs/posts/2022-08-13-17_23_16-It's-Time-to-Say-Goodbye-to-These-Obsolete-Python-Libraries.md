@@ -1,8 +1,6 @@
 ---
 title: "It's Time to Say Goodbye to These Obsolete Python Libraries"
-author: Pito Salas
-url: "https://martinheinz.dev/blog/77" 
-cover: "https://res.cloudinary.com/martinheinz/image/upload/v1567247069/blog/og_image_s4v0wv.png" 
+author: Pito Salasurl: "https://martinheinz.dev/blog/77" cover: "https://res.cloudinary.com/martinheinz/image/upload/v1567247069/blog/og_image_s4v0wv.png" 
 date: 2022-08-13 17:23:16
 tags:
     - python-tools-howto

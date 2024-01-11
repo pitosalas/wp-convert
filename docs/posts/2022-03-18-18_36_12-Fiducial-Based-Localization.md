@@ -1,8 +1,6 @@
 ---
 title: "Fiducial-Based Localization"
-author: Pito Salas
-url: "https://learn.ubiquityrobotics.com/fiducials" 
-cover: "https://learn.ubiquityrobotics.com/doing_more/two_fiducials.png" 
+author: Pito Salasurl: "https://learn.ubiquityrobotics.com/fiducials" cover: "https://learn.ubiquityrobotics.com/doing_more/two_fiducials.png" 
 date: 2022-03-18 18:36:12
 tags:
     - aruco-detect-fiducial-fiducial-slam

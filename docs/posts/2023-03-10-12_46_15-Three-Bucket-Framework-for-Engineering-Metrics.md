@@ -1,8 +1,6 @@
 ---
 title: "Three-Bucket Framework for Engineering Metrics"
-author: Pito Salas
-url: "https://newsletter.abinoda.com/p/choosing-engineering-metrics?utm_source=substack&utm_medium=email" 
-cover: "https://newsletter.abinoda.com/p/[object%20Object]" 
+author: Pito Salasurl: "https://newsletter.abinoda.com/p/choosing-engineering-metrics?utm_source=substack&utm_medium=email" cover: "https://newsletter.abinoda.com/p/[object%20Object]" 
 date: 2023-03-10 12:46:15
 tags:
     - software-engineering-management-metrics-effectiveness-productivity

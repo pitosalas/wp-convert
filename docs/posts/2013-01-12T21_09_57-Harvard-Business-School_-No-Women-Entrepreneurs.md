@@ -1,8 +1,6 @@
 ---
 title: "Harvard Business School: No Women Entrepreneurs"
 author: Pito Salas
-
-
 date: 2013-01-12T21:09:57
 tags:
     - entrepreneur

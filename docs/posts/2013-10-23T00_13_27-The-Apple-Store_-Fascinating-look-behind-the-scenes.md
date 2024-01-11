@@ -1,8 +1,6 @@
 ---
 title: "The Apple Store: Fascinating look behind the scenes"
 author: Pito Salas
-
-
 date: 2013-10-23T00:13:27
 tags:
     - apple

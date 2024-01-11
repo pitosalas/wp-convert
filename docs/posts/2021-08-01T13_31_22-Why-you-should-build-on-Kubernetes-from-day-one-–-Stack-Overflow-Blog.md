@@ -1,8 +1,6 @@
 ---
 title: "Why you should build on Kubernetes from day one – Stack Overflow Blog"
 author: Pito Salas
-
-
 date: 2021-08-01T13:31:22
 tags:
     - scalability

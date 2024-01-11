@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Cool open source product analogous to Yahoo Pipes"
 author: Pito Salas
-
-
 date: 2008-05-05T23:39:53
 tags:
     - Snaplogic-opensource-rest

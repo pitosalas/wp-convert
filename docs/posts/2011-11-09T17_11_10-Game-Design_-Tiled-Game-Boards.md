@@ -1,8 +1,6 @@
 ---
 title: "Game Design: Tiled Game Boards"
 author: Pito Salas
-
-
 date: 2011-11-09T17:11:10
 tags:
     - gamedesign

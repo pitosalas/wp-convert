@@ -1,8 +1,6 @@
 ---
 title: "Headline: Geek Dinner plans go forward despite blizzard"
 author: Pito Salas
-
-
 date: 2006-02-13T05:19:30
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "The Change Formula: Rule"
 author: Pito Salas
-
-
 date: 2009-10-13T13:02:00
 ---
 

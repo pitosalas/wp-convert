@@ -1,8 +1,6 @@
 ---
 title: "Review: The Panasonic FZ1000 II combines versatility and value"
-author: Pito Salas
-url: "https://www.dpreview.com/reviews/panasonic-lumix-dc-fz1000-ii-review/3" 
-cover: "https://1.img-dpreview.com/files/p/E~TS940x788~articles/4347519314/Product/Pany-FZ100-II-lens-01.jpeg" 
+author: Pito Salasurl: "https://www.dpreview.com/reviews/panasonic-lumix-dc-fz1000-ii-review/3" cover: "https://1.img-dpreview.com/files/p/E~TS940x788~articles/4347519314/Product/Pany-FZ100-II-lens-01.jpeg" 
 date: 2022-04-16 12:50:27
 tags:
     - camera-panansonic-FZ1000-II-photo

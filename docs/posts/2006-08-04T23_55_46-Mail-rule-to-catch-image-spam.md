@@ -1,8 +1,6 @@
 ---
 title: "Mail rule to catch image spam"
 author: Pito Salas
-
-
 date: 2006-08-04T23:55:46
 ---
 

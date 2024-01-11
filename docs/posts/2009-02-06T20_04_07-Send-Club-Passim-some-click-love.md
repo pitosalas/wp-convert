@@ -1,8 +1,6 @@
 ---
 title: "Send Club Passim some click love"
 author: Pito Salas
-
-
 date: 2009-02-06T20:04:07
 ---
 

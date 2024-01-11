@@ -1,8 +1,6 @@
 ---
 title: "Another interesting post at the ‘TSA’ Blog"
 author: Pito Salas
-
-
 date: 2008-03-02T23:55:00
 ---
 

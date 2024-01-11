@@ -1,8 +1,6 @@
 ---
 title: "Microsoft blogging: “What do managers do…”"
 author: Pito Salas
-
-
 date: 2005-09-26T15:52:10
 ---
 

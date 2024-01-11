@@ -1,8 +1,6 @@
 ---
 title: "Great collection of Public APIs"
-author: Pito Salas
-url: "https://github.com/public-apis/public-apis" 
-cover: "https://avatars.githubusercontent.com/u/51121562?s=400&v=4" 
+author: Pito Salasurl: "https://github.com/public-apis/public-apis" cover: "https://avatars.githubusercontent.com/u/51121562?s=400&v=4" 
 date: 2021-04-06 13:40:22
 tags:
     - api-websrvices-directory-api-howto-list

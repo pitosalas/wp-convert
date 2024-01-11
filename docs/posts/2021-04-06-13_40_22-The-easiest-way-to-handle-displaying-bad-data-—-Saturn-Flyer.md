@@ -1,8 +1,6 @@
 ---
 title: "The easiest way to handle displaying bad data — Saturn Flyer"
-author: Pito Salas
-url: "https://www.saturnflyer.com/blog/the-easiest-way-to-handle-displaying-bad-data" 
-cover: "https://rdl.ink/render/https%3A%2F%2Fwww.saturnflyer.com%2Fblog%2Fthe-easiest-way-to-handle-displaying-bad-data" 
+author: Pito Salasurl: "https://www.saturnflyer.com/blog/the-easiest-way-to-handle-displaying-bad-data" cover: "https://rdl.ink/render/https%3A%2F%2Fwww.saturnflyer.com%2Fblog%2Fthe-easiest-way-to-handle-displaying-bad-data" 
 date: 2021-04-06 13:40:22
 tags:
     - presenter-ruby

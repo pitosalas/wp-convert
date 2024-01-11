@@ -1,8 +1,6 @@
 ---
 title: "Design follows data structures"
-author: Pito Salas
-url: "https://www.tedinski.com/2019/01/29/data-structures-are-fundamental.html" 
-cover: "http://www.tedinski.com/assets/share-image.jpg" 
+author: Pito Salasurl: "https://www.tedinski.com/2019/01/29/data-structures-are-fundamental.html" cover: "http://www.tedinski.com/assets/share-image.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - optimization-bigo-design-datastructures

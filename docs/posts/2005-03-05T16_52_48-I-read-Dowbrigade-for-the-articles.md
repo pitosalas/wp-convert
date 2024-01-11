@@ -1,8 +1,6 @@
 ---
 title: "I read Dowbrigade for the articles"
 author: Pito Salas
-
-
 date: 2005-03-05T16:52:48
 ---
 

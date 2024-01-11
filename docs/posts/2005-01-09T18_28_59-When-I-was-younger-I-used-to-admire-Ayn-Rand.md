@@ -1,8 +1,6 @@
 ---
 title: "When I was younger I used to admire Ayn Rand"
 author: Pito Salas
-
-
 date: 2005-01-09T18:28:59
 ---
 

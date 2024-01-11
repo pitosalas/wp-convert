@@ -1,8 +1,6 @@
 ---
 title: "Good article about TechCrunch and Michael Arrington in Wired"
 author: Pito Salas
-
-
 date: 2007-06-25T11:18:31
 ---
 

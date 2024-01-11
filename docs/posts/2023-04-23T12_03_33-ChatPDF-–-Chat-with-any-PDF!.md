@@ -1,8 +1,6 @@
 ---
 title: "ChatPDF – Chat with any PDF!"
 author: Pito Salas
-
-
 date: 2023-04-23T12:03:33
 tags:
     - ChatGPT

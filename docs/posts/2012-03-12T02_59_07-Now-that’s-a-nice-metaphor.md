@@ -1,8 +1,6 @@
 ---
 title: "Now that’s a nice metaphor"
 author: Pito Salas
-
-
 date: 2012-03-12T02:59:07
 tags:
     - bruni

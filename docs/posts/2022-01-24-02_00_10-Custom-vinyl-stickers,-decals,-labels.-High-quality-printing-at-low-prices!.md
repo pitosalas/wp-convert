@@ -1,8 +1,6 @@
 ---
 title: "Custom vinyl stickers, decals, labels. High quality printing at low prices!"
-author: Pito Salas
-url: "https://stickerguy.com/" 
-cover: "https://www.stickerguy.com/wp-content/themes/sticker/pix/stickerguy-banner.png" 
+author: Pito Salasurl: "https://stickerguy.com/" cover: "https://www.stickerguy.com/wp-content/themes/sticker/pix/stickerguy-banner.png" 
 date: 2022-01-24 02:00:10
 tags:
     - stickers-ecommerce-order-online-shop

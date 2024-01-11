@@ -1,8 +1,6 @@
 ---
 title: "Devil in the White City is now an archeaological dig!"
 author: Pito Salas
-
-
 date: 2008-06-29T14:00:54
 ---
 

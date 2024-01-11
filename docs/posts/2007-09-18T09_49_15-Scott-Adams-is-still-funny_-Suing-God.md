@@ -1,8 +1,6 @@
 ---
 title: "Scott Adams is still funny: Suing God"
 author: Pito Salas
-
-
 date: 2007-09-18T09:49:15
 ---
 

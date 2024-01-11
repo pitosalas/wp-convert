@@ -1,8 +1,6 @@
 ---
 title: "Inside the Shot Heard ‘Round the World"
 author: Pito Salas
-
-
 date: 2009-04-16T18:40:08
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "6 things I’ve learned in my first 6 months using serverless"
-author: Pito Salas
-url: "https://read.acloud.guru/six-months-of-serverless-lessons-learned-f6da86a73526" 
-cover: "https://res.cloudinary.com/acloud-guru/image/fetch/c_thumb,f_auto,q_auto/https://acg-wordpress-content-production.s3.us-west-2.amazonaws.com/app/uploads/2021/01/1_rgRzuA6jcB4ziKTcqXmLZw-1.png" 
+author: Pito Salasurl: "https://read.acloud.guru/six-months-of-serverless-lessons-learned-f6da86a73526" cover: "https://res.cloudinary.com/acloud-guru/image/fetch/c_thumb,f_auto,q_auto/https://acg-wordpress-content-production.s3.us-west-2.amazonaws.com/app/uploads/2021/01/1_rgRzuA6jcB4ziKTcqXmLZw-1.png" 
 date: 2021-04-06 13:40:22
 tags:
     - serverless

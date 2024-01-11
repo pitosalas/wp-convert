@@ -1,8 +1,6 @@
 ---
 title: "Cheney watches Fox and Only Fox"
 author: Pito Salas
-
-
 date: 2006-03-23T16:25:19
 ---
 

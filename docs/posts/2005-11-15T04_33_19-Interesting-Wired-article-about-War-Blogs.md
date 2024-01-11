@@ -1,8 +1,6 @@
 ---
 title: "Interesting Wired article about War Blogs"
 author: Pito Salas
-
-
 date: 2005-11-15T04:33:19
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Demo 2006 Note: Riya – Photo Sharing with Face Recognition"
 author: Pito Salas
-
-
 date: 2006-02-17T00:13:27
 ---
 

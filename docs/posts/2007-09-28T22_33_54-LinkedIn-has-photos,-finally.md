@@ -1,8 +1,6 @@
 ---
 title: "LinkedIn has photos, finally"
 author: Pito Salas
-
-
 date: 2007-09-28T22:33:54
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "[Tivo Owners] Who Killed TivoToGo?"
 author: Pito Salas
-
-
 date: 2007-03-07T13:37:22
 ---
 

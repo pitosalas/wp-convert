@@ -1,8 +1,6 @@
 ---
 title: "The number of pages in a congressional bill"
 author: Pito Salas
-
-
 date: 2013-04-23T15:43:49
 tags:
     - congress

@@ -1,8 +1,6 @@
 ---
 title: "Welcome to my new blog"
 author: Pito Salas
-
-
 date: 2011-11-07T14:58:01
 tags:
     - blogging

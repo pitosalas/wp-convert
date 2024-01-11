@@ -1,8 +1,6 @@
 ---
 title: "Why do I blog, anyway?"
 author: Pito Salas
-
-
 date: 2006-09-29T21:11:07
 ---
 

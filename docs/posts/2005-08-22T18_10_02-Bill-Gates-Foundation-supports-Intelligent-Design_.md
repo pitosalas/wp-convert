@@ -1,8 +1,6 @@
 ---
 title: "Bill Gates Foundation supports Intelligent Design?"
 author: Pito Salas
-
-
 date: 2005-08-22T18:10:02
 ---
 

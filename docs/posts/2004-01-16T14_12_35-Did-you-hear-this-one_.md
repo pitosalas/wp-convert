@@ -1,8 +1,6 @@
 ---
 title: "Did you hear this one?"
 author: Pito Salas
-
-
 date: 2004-01-16T14:12:35
 ---
 

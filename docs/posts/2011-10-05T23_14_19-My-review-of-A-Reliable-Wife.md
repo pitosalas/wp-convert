@@ -1,8 +1,6 @@
 ---
 title: "My review of A Reliable Wife"
 author: Pito Salas
-
-
 date: 2011-10-05T23:14:19
 tags:
     - books

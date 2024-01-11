@@ -1,8 +1,6 @@
 ---
 title: "Looks like I’ve beat comment spam — for now!"
 author: Pito Salas
-
-
 date: 2005-06-12T20:45:56
 ---
 

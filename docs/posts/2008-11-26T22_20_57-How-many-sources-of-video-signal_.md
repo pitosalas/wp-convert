@@ -1,8 +1,6 @@
 ---
 title: "How many sources of video signal?"
 author: Pito Salas
-
-
 date: 2008-11-26T22:20:57
 ---
 

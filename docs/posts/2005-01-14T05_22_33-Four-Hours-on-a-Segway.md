@@ -1,8 +1,6 @@
 ---
 title: "Four Hours on a Segway"
 author: Pito Salas
-
-
 date: 2005-01-14T05:22:33
 ---
 

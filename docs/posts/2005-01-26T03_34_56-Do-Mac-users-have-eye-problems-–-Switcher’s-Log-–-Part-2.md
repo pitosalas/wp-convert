@@ -1,8 +1,6 @@
 ---
 title: "Do Mac users have eye problems – Switcher’s Log – Part 2"
 author: Pito Salas
-
-
 date: 2005-01-26T03:34:56
 ---
 

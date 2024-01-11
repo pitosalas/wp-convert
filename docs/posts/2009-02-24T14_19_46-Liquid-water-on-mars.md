@@ -1,8 +1,6 @@
 ---
 title: "Liquid water on mars"
 author: Pito Salas
-
-
 date: 2009-02-24T14:19:46
 ---
 

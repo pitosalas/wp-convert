@@ -1,8 +1,6 @@
 ---
 title: "Glass: this is pretty amazing!"
 author: Pito Salas
-
-
 date: 2011-03-01T21:52:44
 tags:
     - corning

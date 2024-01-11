@@ -1,8 +1,6 @@
 ---
 title: "MINT and security"
 author: Pito Salas
-
-
 date: 2008-12-20T14:32:00
 tags:
     - security-mint-financial-pogue

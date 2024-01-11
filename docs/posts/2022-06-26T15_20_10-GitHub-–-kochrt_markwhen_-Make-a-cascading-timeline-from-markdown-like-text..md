@@ -1,8 +1,6 @@
 ---
 title: "GitHub – kochrt/markwhen: Make a cascading timeline from markdown-like text."
 author: Pito Salas
-
-
 date: 2022-06-26T15:20:10
 tags:
     - howto

@@ -1,8 +1,6 @@
 ---
 title: "The most beautiful book?"
 author: Pito Salas
-
-
 date: 2008-12-24T16:59:00
 ---
 

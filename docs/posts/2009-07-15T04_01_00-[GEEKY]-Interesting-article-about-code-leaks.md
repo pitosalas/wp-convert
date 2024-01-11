@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Interesting article about code leaks"
 author: Pito Salas
-
-
 date: 2009-07-15T04:01:00
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Interesting article with a catchy title: “Surprising Truth about Ugly Websites”"
 author: Pito Salas
-
-
 date: 2006-08-30T01:31:26
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Two Best TV shows that no one has heard about"
 author: Pito Salas
-
-
 date: 2005-02-26T15:28:06
 ---
 

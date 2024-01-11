@@ -1,8 +1,6 @@
 ---
 title: "A travesty in a wealthy country"
 author: Pito Salas
-
-
 date: 2012-10-15T00:47:26
 tags:
     - cancer

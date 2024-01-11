@@ -1,8 +1,6 @@
 ---
 title: "A great look back at Napster’s history"
 author: Pito Salas
-
-
 date: 2007-04-02T21:24:09
 ---
 

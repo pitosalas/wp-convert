@@ -1,8 +1,6 @@
 ---
 title: "10 Commandments might apply to more than just Facebook!"
 author: Pito Salas
-
-
 date: 2008-07-14T14:00:03
 ---
 

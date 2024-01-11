@@ -1,8 +1,6 @@
 ---
 title: "Funny: Nasa’s “Colbert Room”"
 author: Pito Salas
-
-
 date: 2009-03-24T15:40:47
 ---
 

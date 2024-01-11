@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Even the simplest things are complicated"
 author: Pito Salas
-
-
 date: 2013-06-02T20:39:54
 tags:
     - apple-computer

@@ -1,8 +1,6 @@
 ---
 title: "Introduction – Docs – Foxglove Studio"
 author: Pito Salas
-
-
 date: 2022-03-18T16:31:26
 tags:
     - windows

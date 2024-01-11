@@ -1,8 +1,6 @@
 ---
 title: "Useful document about design for iOS (iPad and IPhone)"
 author: Pito Salas
-
-
 date: 2013-05-22T01:25:58
 tags:
     - ios-iphone-ipad-user-interface

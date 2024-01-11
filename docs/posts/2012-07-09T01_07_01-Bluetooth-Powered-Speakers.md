@@ -1,8 +1,6 @@
 ---
 title: "Bluetooth Powered Speakers"
 author: Pito Salas
-
-
 date: 2012-07-09T01:07:01
 tags:
     - bluetooth

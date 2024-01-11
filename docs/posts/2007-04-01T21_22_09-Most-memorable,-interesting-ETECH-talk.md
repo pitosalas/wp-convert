@@ -1,8 +1,6 @@
 ---
 title: "Most memorable, interesting ETECH talk"
 author: Pito Salas
-
-
 date: 2007-04-01T21:22:09
 ---
 

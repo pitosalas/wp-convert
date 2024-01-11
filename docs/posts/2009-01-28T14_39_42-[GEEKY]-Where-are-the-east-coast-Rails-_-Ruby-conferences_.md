@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Where are the east coast Rails / Ruby conferences?"
 author: Pito Salas
-
-
 date: 2009-01-28T14:39:42
 tags:
     - Programming

@@ -1,8 +1,6 @@
 ---
 title: "15 Types of Regression you should know"
-author: Pito Salas
-url: "https://www.listendata.com/2018/03/regression-analysis.html" 
-cover: "https://4.bp.blogspot.com/-fBXCbdE9PLg/XP5nZmMTzfI/AAAAAAAAHnU/w3c-fAwT_u81HGQv0_bf794mwaYMK7RYQCLcBGAs/w1200-h630-p-k-no-nu/regression_R.PNG" 
+author: Pito Salasurl: "https://www.listendata.com/2018/03/regression-analysis.html" cover: "https://4.bp.blogspot.com/-fBXCbdE9PLg/XP5nZmMTzfI/AAAAAAAAHnU/w3c-fAwT_u81HGQv0_bf794mwaYMK7RYQCLcBGAs/w1200-h630-p-k-no-nu/regression_R.PNG" 
 date: 2021-04-06 13:40:22
 tags:
     - statistics-regression-datascience

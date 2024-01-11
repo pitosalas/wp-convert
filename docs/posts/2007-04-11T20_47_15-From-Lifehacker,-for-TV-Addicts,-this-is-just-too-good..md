@@ -1,8 +1,6 @@
 ---
 title: "From Lifehacker, for TV Addicts, this is just too good."
 author: Pito Salas
-
-
 date: 2007-04-11T20:47:15
 ---
 

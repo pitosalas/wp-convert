@@ -1,8 +1,6 @@
 ---
 title: "WebSequenceDiagrams - Draw sequence diagrams online in seconds"
-author: Pito Salas
-url: "https://www.websequencediagrams.com" 
-cover: "https://rdl.ink/render/https%3A%2F%2Fwww.websequencediagrams.com" 
+author: Pito Salasurl: "https://www.websequencediagrams.com" cover: "https://rdl.ink/render/https%3A%2F%2Fwww.websequencediagrams.com" 
 date: 2021-04-06 13:40:22
 tags:
     - Java

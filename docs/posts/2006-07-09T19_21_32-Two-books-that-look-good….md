@@ -1,8 +1,6 @@
 ---
 title: "Two books that look good…"
 author: Pito Salas
-
-
 date: 2006-07-09T19:21:32
 ---
 

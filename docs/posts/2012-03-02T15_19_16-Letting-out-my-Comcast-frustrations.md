@@ -1,8 +1,6 @@
 ---
 title: "Letting out my Comcast frustrations"
 author: Pito Salas
-
-
 date: 2012-03-02T15:19:16
 tags:
     - cable

@@ -1,8 +1,6 @@
 ---
 title: "Guitar Scientist: Create Free Guitar Diagrams Online"
-author: Pito Salas
-url: "https://guitarscientist.com/generator/?v=191a1262fd87" 
-cover: "http://www.guitarscientist.com/generator/img/gspreview.jpg" 
+author: Pito Salasurl: "https://guitarscientist.com/generator/?v=191a1262fd87" cover: "http://www.guitarscientist.com/generator/img/gspreview.jpg" 
 date: 2021-05-06 16:21:11
 tags:
     - diagrams-guitar-howto

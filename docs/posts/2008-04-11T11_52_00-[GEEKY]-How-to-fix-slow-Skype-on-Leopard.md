@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] How to fix slow Skype on Leopard"
 author: Pito Salas
-
-
 date: 2008-04-11T11:52:00
 tags:
     - mac-osx-skype

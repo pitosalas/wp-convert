@@ -1,8 +1,6 @@
 ---
 title: "This post might have changed my mind"
 author: Pito Salas
-
-
 date: 2013-11-25T01:00:34
 tags:
     - euthanasia

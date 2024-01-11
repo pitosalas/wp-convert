@@ -1,8 +1,6 @@
 ---
 title: "BlogBridge – coming along!"
 author: Pito Salas
-
-
 date: 2004-05-14T03:14:42
 ---
 

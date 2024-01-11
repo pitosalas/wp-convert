@@ -1,8 +1,6 @@
 ---
 title: "What about that iFad?"
 author: Pito Salas
-
-
 date: 2010-04-11T13:39:53
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Big Creek Coffee Roasters, Hamilton, Montana-Purveyor of Fine Whole Bean Coffees |"
-author: Pito Salas
-url: "http://www.bigcreekcoffeeroasters.com" 
-cover: "https://rdl.ink/render/http%3A%2F%2Fwww.bigcreekcoffeeroasters.com" 
+author: Pito Salasurl: "http://www.bigcreekcoffeeroasters.com" cover: "https://rdl.ink/render/http%3A%2F%2Fwww.bigcreekcoffeeroasters.com" 
 date: 2021-04-06 13:40:23
 tags:
     - coffee-online

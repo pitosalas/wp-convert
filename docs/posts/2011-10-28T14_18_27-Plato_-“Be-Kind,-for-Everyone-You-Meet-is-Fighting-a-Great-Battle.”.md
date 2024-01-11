@@ -1,8 +1,6 @@
 ---
 title: "Plato: “Be Kind, for Everyone You Meet is Fighting a Great Battle.”"
 author: Pito Salas
-
-
 date: 2011-10-28T14:18:27
 tags:
     - kindness

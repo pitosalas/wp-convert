@@ -1,8 +1,6 @@
 ---
 title: "I’m in good company"
 author: Pito Salas
-
-
 date: 2004-12-12T14:14:02
 ---
 

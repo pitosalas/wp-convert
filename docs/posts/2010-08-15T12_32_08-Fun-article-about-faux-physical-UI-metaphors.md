@@ -1,8 +1,6 @@
 ---
 title: "Fun article about faux-physical UI metaphors"
 author: Pito Salas
-
-
 date: 2010-08-15T12:32:08
 tags:
     - algorithm

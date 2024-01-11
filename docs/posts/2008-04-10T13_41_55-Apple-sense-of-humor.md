@@ -1,8 +1,6 @@
 ---
 title: "Apple sense of humor"
 author: Pito Salas
-
-
 date: 2008-04-10T13:41:55
 tags:
     - BSOD-Apple-Windows-Microsoft

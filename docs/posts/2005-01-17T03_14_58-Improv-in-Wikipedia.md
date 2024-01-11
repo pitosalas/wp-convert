@@ -1,8 +1,6 @@
 ---
 title: "Improv in Wikipedia"
 author: Pito Salas
-
-
 date: 2005-01-17T03:14:58
 ---
 

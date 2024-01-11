@@ -1,8 +1,6 @@
 ---
 title: "Chapter 09 Embedded System"
-author: Pito Salas
-url: "https://www.youtube.com/watch?v=kPzy3fXY7X0" 
-cover: "https://i.ytimg.com/vi/kPzy3fXY7X0/maxresdefault.jpg" 
+author: Pito Salasurl: "https://www.youtube.com/watch?v=kPzy3fXY7X0" cover: "https://i.ytimg.com/vi/kPzy3fXY7X0/maxresdefault.jpg" 
 date: 2022-04-28 00:54:17
 tags:
     - ros-rosserial-opencr-arduino-guide-howto

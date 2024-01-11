@@ -1,8 +1,6 @@
 ---
 title: "Insights on the world of mashups"
 author: Pito Salas
-
-
 date: 2006-02-21T15:19:13
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Dockerizing a Ruby on Rails Application - Semaphore Tutorial"
-author: Pito Salas
-url: "https://semaphoreci.com/community/tutorials/dockerizing-a-ruby-on-rails-application" 
-cover: "https://wpblog.semaphoreci.com/wp-content/uploads/2020/02/Group-4490.jpg" 
+author: Pito Salasurl: "https://semaphoreci.com/community/tutorials/dockerizing-a-ruby-on-rails-application" cover: "https://wpblog.semaphoreci.com/wp-content/uploads/2020/02/Group-4490.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - scale-deploy-build-rails-docker-howto

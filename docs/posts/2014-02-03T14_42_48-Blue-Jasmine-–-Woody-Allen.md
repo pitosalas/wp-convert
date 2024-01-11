@@ -1,8 +1,6 @@
 ---
 title: "Blue Jasmine – Woody Allen"
 author: Pito Salas
-
-
 date: 2014-02-03T14:42:48
 tags:
     - comedy

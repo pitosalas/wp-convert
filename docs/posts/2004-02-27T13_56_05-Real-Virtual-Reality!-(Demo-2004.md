@@ -1,8 +1,6 @@
 ---
 title: "Real Virtual Reality! (Demo 2004"
 author: Pito Salas
-
-
 date: 2004-02-27T13:56:05
 ---
 

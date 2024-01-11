@@ -1,8 +1,6 @@
 ---
 title: "Random Forest in Python – Towards Data Science"
-author: Pito Salas
-url: "https://towardsdatascience.com/random-forest-in-python-24d0893d51c0" 
-cover: "https://miro.medium.com/max/1200/1*1p1PAJXEmxbzE4TJ_w81cQ.jpeg" 
+author: Pito Salasurl: "https://towardsdatascience.com/random-forest-in-python-24d0893d51c0" cover: "https://miro.medium.com/max/1200/1*1p1PAJXEmxbzE4TJ_w81cQ.jpeg" 
 date: 2021-04-06 13:40:22
 tags:
     - python-datascience

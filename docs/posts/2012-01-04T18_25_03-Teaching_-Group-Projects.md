@@ -1,8 +1,6 @@
 ---
 title: "Teaching: Group Projects"
 author: Pito Salas
-
-
 date: 2012-01-04T18:25:03
 tags:
     - brandeis

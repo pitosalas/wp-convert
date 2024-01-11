@@ -1,8 +1,6 @@
 ---
 title: "Merging data from multiple LIDAR(s) in ROS"
-author: Pito Salas
-url: "https://medium.com/@amritgupta1999/merging-data-from-multiple-lidar-s-in-ros-e890fb60cbbf" 
-cover: "https://miro.medium.com/max/1200/0*OIZ5QkifGwYKAHzy" 
+author: Pito Salasurl: "https://medium.com/@amritgupta1999/merging-data-from-multiple-lidar-s-in-ros-e890fb60cbbf" cover: "https://miro.medium.com/max/1200/0*OIZ5QkifGwYKAHzy" 
 date: 2022-02-03 20:14:41
 tags:
     - ros-lidar-point-cloud-merging-howto

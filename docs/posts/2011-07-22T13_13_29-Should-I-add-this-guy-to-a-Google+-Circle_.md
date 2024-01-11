@@ -1,8 +1,6 @@
 ---
 title: "Should I add this guy to a Google+ Circle?"
 author: Pito Salas
-
-
 date: 2011-07-22T13:13:29
 tags:
     - googleplus

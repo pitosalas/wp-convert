@@ -1,8 +1,6 @@
 ---
 title: "Swallowing an umbrella"
 author: Pito Salas
-
-
 date: 2005-11-04T17:34:41
 ---
 

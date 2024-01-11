@@ -1,8 +1,6 @@
 ---
 title: "Check out TheRentables.com"
 author: Pito Salas
-
-
 date: 2009-06-13T12:00:00
 ---
 

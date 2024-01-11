@@ -1,8 +1,6 @@
 ---
 title: "Something I’ve been looking for: Finder Window Manager"
 author: Pito Salas
-
-
 date: 2007-05-01T02:53:49
 ---
 

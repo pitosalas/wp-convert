@@ -1,8 +1,6 @@
 ---
 title: "Arches National Park"
 author: Pito Salas
-
-
 date: 2006-10-16T03:16:17
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Blogging 101: Speaking Notes"
 author: Pito Salas
-
-
 date: 2006-01-16T23:13:28
 ---
 

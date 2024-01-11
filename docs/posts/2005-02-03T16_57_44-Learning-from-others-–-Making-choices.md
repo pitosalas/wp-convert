@@ -1,8 +1,6 @@
 ---
 title: "Learning from others – Making choices"
 author: Pito Salas
-
-
 date: 2005-02-03T16:57:44
 ---
 

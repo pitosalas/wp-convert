@@ -1,8 +1,6 @@
 ---
 title: "Software Technology hotspots in the USA"
 author: Pito Salas
-
-
 date: 2012-01-11T20:40:36
 tags:
     - GEEKY

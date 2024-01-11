@@ -1,8 +1,6 @@
 ---
 title: "A couple of interesting articles"
 author: Pito Salas
-
-
 date: 2008-09-19T22:15:15
 ---
 

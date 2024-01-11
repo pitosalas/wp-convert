@@ -1,8 +1,6 @@
 ---
 title: "Thinking of being a deserter"
 author: Pito Salas
-
-
 date: 2005-01-12T22:18:06
 ---
 

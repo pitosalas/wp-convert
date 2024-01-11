@@ -1,8 +1,6 @@
 ---
 title: "A non-mathematical introduction to Kalman Filters for programmers – Pravesh Koirala"
 author: Pito Salas
-
-
 date: 2023-08-06T19:01:25
 tags:
     - code

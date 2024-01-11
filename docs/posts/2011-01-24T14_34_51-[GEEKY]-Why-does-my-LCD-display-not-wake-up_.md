@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Why does my LCD display not wake up?"
 author: Pito Salas
-
-
 date: 2011-01-24T14:34:51
 tags:
     - GEEKY

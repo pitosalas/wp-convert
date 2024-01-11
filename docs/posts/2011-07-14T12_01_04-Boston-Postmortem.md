@@ -1,8 +1,6 @@
 ---
 title: "Boston Postmortem"
 author: Pito Salas
-
-
 date: 2011-07-14T12:01:04
 tags:
     - gaming

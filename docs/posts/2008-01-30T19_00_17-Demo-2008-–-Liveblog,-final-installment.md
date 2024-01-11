@@ -1,8 +1,6 @@
 ---
 title: "Demo 2008 – Liveblog, final installment"
 author: Pito Salas
-
-
 date: 2008-01-30T19:00:17
 ---
 

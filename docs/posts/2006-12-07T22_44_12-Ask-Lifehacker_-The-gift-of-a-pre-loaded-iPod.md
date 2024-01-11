@@ -1,8 +1,6 @@
 ---
 title: "Ask Lifehacker: The gift of a pre-loaded iPod"
 author: Pito Salas
-
-
 date: 2006-12-07T22:44:12
 ---
 

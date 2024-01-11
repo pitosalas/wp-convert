@@ -1,8 +1,6 @@
 ---
 title: "[GEEK] Web Rich Text Editors (Apropos of nothing)"
 author: Pito Salas
-
-
 date: 2004-04-08T14:03:56
 ---
 

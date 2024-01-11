@@ -1,8 +1,6 @@
 ---
 title: "Thinkmap Visual Thesaurus"
-author: Pito Salas
-url: "http://www.visualthesaurus.com/index.jsp" 
-cover: "https://rdl.ink/render/http%3A%2F%2Fwww.visualthesaurus.com%2Findex.jsp" 
+author: Pito Salasurl: "http://www.visualthesaurus.com/index.jsp" cover: "https://rdl.ink/render/http%3A%2F%2Fwww.visualthesaurus.com%2Findex.jsp" 
 date: 2021-04-06 13:40:23
 tags:
     - thesaurus-visual

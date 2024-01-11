@@ -1,8 +1,6 @@
 ---
 title: "Get started with Sinatra | Tutorial | .net magazine"
-author: Pito Salas
-url: "http://www.netmagazine.com/tutorials/create-do-list-app-sinatra" 
-cover: "https://rdl.ink/render/http%3A%2F%2Fwww.netmagazine.com%2Ftutorials%2Fcreate-do-list-app-sinatra" 
+author: Pito Salasurl: "http://www.netmagazine.com/tutorials/create-do-list-app-sinatra" cover: "https://rdl.ink/render/http%3A%2F%2Fwww.netmagazine.com%2Ftutorials%2Fcreate-do-list-app-sinatra" 
 date: 2021-04-06 13:40:23
 tags:
     - sinatra-tutorial-rails-ruby

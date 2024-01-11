@@ -1,8 +1,6 @@
 ---
 title: "Link to Susan Senator!"
 author: Pito Salas
-
-
 date: 2005-05-09T00:12:03
 ---
 

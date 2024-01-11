@@ -1,8 +1,6 @@
 ---
 title: "Programming Esoterica"
 author: Pito Salas
-
-
 date: 2004-05-08T19:28:03
 ---
 

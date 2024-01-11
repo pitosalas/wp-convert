@@ -1,8 +1,6 @@
 ---
 title: "7 Reasons I'm Sticking With Minitest and Fixtures in Rails | Brandon Hilkert"
-author: Pito Salas
-url: "https://brandonhilkert.com/blog/7-reasons-why-im-sticking-with-minitest-and-fixtures-in-rails" 
-cover: "http://brandonhilkert.com/images/brandon-hilkert.jpg" 
+author: Pito Salasurl: "https://brandonhilkert.com/blog/7-reasons-why-im-sticking-with-minitest-and-fixtures-in-rails" cover: "http://brandonhilkert.com/images/brandon-hilkert.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - fixtures-rails-minitest-tdd

@@ -1,8 +1,6 @@
 ---
 title: "Ask the pilot how hard it is to fly a plane"
 author: Pito Salas
-
-
 date: 2008-11-24T13:05:23
 ---
 

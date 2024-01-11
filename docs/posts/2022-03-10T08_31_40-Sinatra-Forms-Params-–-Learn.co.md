@@ -1,8 +1,6 @@
 ---
 title: "Sinatra Forms Params – Learn.co"
 author: Pito Salas
-
-
 date: 2022-03-10T08:31:40
 ---
 

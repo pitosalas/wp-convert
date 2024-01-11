@@ -1,8 +1,6 @@
 ---
 title: "Swallow Boathouse – Wikipedia"
 author: Pito Salas
-
-
 date: 2023-08-22T14:03:11
 tags:
     - swallow-boathouse

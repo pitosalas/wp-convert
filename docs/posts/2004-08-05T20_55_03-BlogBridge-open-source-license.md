@@ -1,8 +1,6 @@
 ---
 title: "BlogBridge open source license"
 author: Pito Salas
-
-
 date: 2004-08-05T20:55:03
 ---
 

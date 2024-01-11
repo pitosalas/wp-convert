@@ -1,8 +1,6 @@
 ---
 title: "Open Government: Remixing Government Data"
 author: Pito Salas
-
-
 date: 2009-06-08T10:54:00
 ---
 

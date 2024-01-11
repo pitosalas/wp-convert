@@ -1,8 +1,6 @@
 ---
 title: "Another funny video for your entertainment: luckiest guy in the world?"
 author: Pito Salas
-
-
 date: 2006-07-12T04:53:41
 ---
 

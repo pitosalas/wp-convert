@@ -1,8 +1,6 @@
 ---
 title: "Do you finish books?"
 author: Pito Salas
-
-
 date: 2012-04-07T17:41:14
 tags:
     - authors

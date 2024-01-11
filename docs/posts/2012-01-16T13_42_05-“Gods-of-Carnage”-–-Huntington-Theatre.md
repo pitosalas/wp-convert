@@ -1,8 +1,6 @@
 ---
 title: "“Gods of Carnage” – Huntington Theatre"
 author: Pito Salas
-
-
 date: 2012-01-16T13:42:05
 tags:
     - bostonuniveristy

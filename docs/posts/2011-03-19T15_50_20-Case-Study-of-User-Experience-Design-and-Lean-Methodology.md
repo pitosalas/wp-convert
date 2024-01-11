@@ -1,8 +1,6 @@
 ---
 title: "Case Study of User Experience Design and Lean Methodology"
 author: Pito Salas
-
-
 date: 2011-03-19T15:50:20
 tags:
     - leanstartups

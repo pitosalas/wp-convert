@@ -1,8 +1,6 @@
 ---
 title: "Myo | How I learned to Stop Worrying and Love Quaternions"
-author: Pito Salas
-url: "http://developerblog.myo.com/quaternions" 
-cover: "https://developerblog.myo.com/content/images/2015/10/header-61.jpg" 
+author: Pito Salasurl: "http://developerblog.myo.com/quaternions" cover: "https://developerblog.myo.com/content/images/2015/10/header-61.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - Quaternions-robotics-3d

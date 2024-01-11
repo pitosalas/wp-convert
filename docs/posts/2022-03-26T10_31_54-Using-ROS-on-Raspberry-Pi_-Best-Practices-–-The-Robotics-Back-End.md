@@ -1,8 +1,6 @@
 ---
 title: "Using ROS on Raspberry Pi: Best Practices – The Robotics Back-End"
 author: Pito Salas
-
-
 date: 2022-03-26T10:31:54
 tags:
     - crash

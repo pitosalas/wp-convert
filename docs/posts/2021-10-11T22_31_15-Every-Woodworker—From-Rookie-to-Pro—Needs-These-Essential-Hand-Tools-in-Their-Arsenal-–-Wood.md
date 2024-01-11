@@ -1,8 +1,6 @@
 ---
 title: "Every Woodworker—From Rookie to Pro—Needs These Essential Hand Tools in Their Arsenal – Wood"
 author: Pito Salas
-
-
 date: 2021-10-11T22:31:15
 ---
 

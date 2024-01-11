@@ -1,8 +1,6 @@
 ---
 title: "[QUASI-GEEK]A trip to the market"
 author: Pito Salas
-
-
 date: 2005-09-11T05:01:20
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Set Up A Docker Container To Test Your Rails App"
-author: Pito Salas
-url: "https://www.honeybadger.io/blog/testing-rails-with-docker/" 
-cover: "https://www.honeybadger.io/images/pull_image.png" 
+author: Pito Salasurl: "https://www.honeybadger.io/blog/testing-rails-with-docker/" cover: "https://www.honeybadger.io/images/pull_image.png" 
 date: 2021-07-03 15:14:30
 tags:
     - ruby-rails-docker-howto-tutorial

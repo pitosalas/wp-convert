@@ -1,8 +1,6 @@
 ---
 title: "MVMT Watches | Quality Crafted Watches That Don't Break The Bank"
-author: Pito Salas
-url: "http://www.mvmtwatches.com" 
-cover: "https://rdl.ink/render/http%3A%2F%2Fwww.mvmtwatches.com" 
+author: Pito Salasurl: "http://www.mvmtwatches.com" cover: "https://rdl.ink/render/http%3A%2F%2Fwww.mvmtwatches.com" 
 date: 2021-04-06 13:40:23
 tags:
     - watches

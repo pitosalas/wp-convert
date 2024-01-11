@@ -1,8 +1,6 @@
 ---
 title: "Drama in Blog Time."
 author: Pito Salas
-
-
 date: 2007-01-09T13:48:35
 ---
 

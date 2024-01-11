@@ -1,8 +1,6 @@
 ---
 title: "GitHub - gregmolnar/prepper: Prepper is a simple server provisioning tool, built on top of SSHKit. You can use it to script your server build process."
-author: Pito Salas
-url: "https://github.com/gregmolnar/prepper?utm_source=substack&utm_medium=email" 
-cover: "https://opengraph.githubassets.com/151c2c44aa91f8061132f2575dcc370d9fc316f79b0720d1b041f32437fb5e64/gregmolnar/prepper" 
+author: Pito Salasurl: "https://github.com/gregmolnar/prepper?utm_source=substack&utm_medium=email" cover: "https://opengraph.githubassets.com/151c2c44aa91f8061132f2575dcc370d9fc316f79b0720d1b041f32437fb5e64/gregmolnar/prepper" 
 date: 2022-12-23 13:28:01
 tags:
     - automation-server-configuration-setup-dsl-cloud

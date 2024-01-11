@@ -1,8 +1,6 @@
 ---
 title: "What’s wrong with Squarespace Support?"
 author: Pito Salas
-
-
 date: 2014-06-25T01:40:38
 tags:
     - squarespace

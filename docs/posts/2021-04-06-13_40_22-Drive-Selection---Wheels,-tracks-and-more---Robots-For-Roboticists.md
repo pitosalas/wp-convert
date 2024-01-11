@@ -1,8 +1,6 @@
 ---
 title: "Drive Selection - Wheels, tracks and more - Robots For Roboticists"
-author: Pito Salas
-url: "http://robotsforroboticists.com/drive-selection" 
-cover: "" 
+author: Pito Salasurl: "http://robotsforroboticists.com/drive-selection" cover: "" 
 date: 2021-04-06 13:40:22
 tags:
     - steering-robotics-robot-overview-wheels-drive

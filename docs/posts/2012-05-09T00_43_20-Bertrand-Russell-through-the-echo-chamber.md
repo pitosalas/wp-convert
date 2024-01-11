@@ -1,8 +1,6 @@
 ---
 title: "Bertrand Russell through the echo chamber"
 author: Pito Salas
-
-
 date: 2012-05-09T00:43:20
 tags:
     - bertrand-russel

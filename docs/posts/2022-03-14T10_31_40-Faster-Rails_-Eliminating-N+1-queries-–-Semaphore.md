@@ -1,8 +1,6 @@
 ---
 title: "Faster Rails: Eliminating N+1 queries – Semaphore"
 author: Pito Salas
-
-
 date: 2022-03-14T10:31:40
 tags:
     - performance

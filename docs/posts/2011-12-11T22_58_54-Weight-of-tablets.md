@@ -1,8 +1,6 @@
 ---
 title: "Weight of tablets"
 author: Pito Salas
-
-
 date: 2011-12-11T22:58:54
 tags:
     - amazon

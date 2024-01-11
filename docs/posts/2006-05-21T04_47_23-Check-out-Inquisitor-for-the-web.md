@@ -1,8 +1,6 @@
 ---
 title: "Check out Inquisitor for the web"
 author: Pito Salas
-
-
 date: 2006-05-21T04:47:23
 ---
 

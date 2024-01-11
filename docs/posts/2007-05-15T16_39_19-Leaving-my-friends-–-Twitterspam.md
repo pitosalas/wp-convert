@@ -1,8 +1,6 @@
 ---
 title: "Leaving my friends – Twitterspam"
 author: Pito Salas
-
-
 date: 2007-05-15T16:39:19
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Ultimate baby name choser"
 author: Pito Salas
-
-
 date: 2005-11-07T23:39:00
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Really good article about the music business"
 author: Pito Salas
-
-
 date: 2005-09-08T14:46:05
 ---
 

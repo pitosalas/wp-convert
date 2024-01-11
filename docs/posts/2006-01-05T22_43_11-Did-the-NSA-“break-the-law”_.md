@@ -1,8 +1,6 @@
 ---
 title: "Did the NSA “break the law”?"
 author: Pito Salas
-
-
 date: 2006-01-05T22:43:11
 ---
 

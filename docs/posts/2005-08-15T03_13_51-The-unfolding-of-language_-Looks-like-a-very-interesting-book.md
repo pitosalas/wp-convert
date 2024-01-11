@@ -1,8 +1,6 @@
 ---
 title: "The unfolding of language: Looks like a very interesting book"
 author: Pito Salas
-
-
 date: 2005-08-15T03:13:51
 ---
 

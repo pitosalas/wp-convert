@@ -1,8 +1,6 @@
 ---
 title: "Three Armed Bandit?"
 author: Pito Salas
-
-
 date: 2011-03-04T00:28:02
 tags:
     - cognition

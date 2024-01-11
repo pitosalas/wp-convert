@@ -1,8 +1,6 @@
 ---
 title: "Bryce Canyon National Park"
 author: Pito Salas
-
-
 date: 2006-09-28T13:30:31
 ---
 

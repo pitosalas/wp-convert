@@ -1,8 +1,6 @@
 ---
 title: "Windows, Windows, Windows Everywhere"
 author: Pito Salas
-
-
 date: 2004-04-29T15:21:03
 ---
 

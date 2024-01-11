@@ -1,8 +1,6 @@
 ---
 title: "Superbowl Social Media"
 author: Pito Salas
-
-
 date: 2012-02-10T04:34:07
 tags:
     - awareness

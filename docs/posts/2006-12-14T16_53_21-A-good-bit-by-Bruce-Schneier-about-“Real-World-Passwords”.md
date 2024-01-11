@@ -1,8 +1,6 @@
 ---
 title: "A good bit by Bruce Schneier about “Real-World Passwords”"
 author: Pito Salas
-
-
 date: 2006-12-14T16:53:21
 ---
 

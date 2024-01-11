@@ -1,8 +1,6 @@
 ---
 title: "[EDUCATION] Crowd Sourcing your Strategy"
 author: Pito Salas
-
-
 date: 2012-05-17T20:38:23
 tags:
     - bureaucracy

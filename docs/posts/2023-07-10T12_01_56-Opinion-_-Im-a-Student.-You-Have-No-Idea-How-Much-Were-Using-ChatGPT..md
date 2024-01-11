@@ -1,8 +1,6 @@
 ---
 title: "Opinion | Im a Student. You Have No Idea How Much Were Using ChatGPT."
 author: Pito Salas
-
-
 date: 2023-07-10T12:01:56
 tags:
     - ChatGPT

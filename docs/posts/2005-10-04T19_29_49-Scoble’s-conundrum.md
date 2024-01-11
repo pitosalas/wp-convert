@@ -1,8 +1,6 @@
 ---
 title: "Scoble’s conundrum"
 author: Pito Salas
-
-
 date: 2005-10-04T19:29:49
 ---
 

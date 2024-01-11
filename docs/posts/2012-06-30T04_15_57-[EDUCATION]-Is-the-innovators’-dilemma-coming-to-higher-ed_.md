@@ -1,8 +1,6 @@
 ---
 title: "[EDUCATION] Is the innovators’ dilemma coming to higher ed?"
 author: Pito Salas
-
-
 date: 2012-06-30T04:15:57
 tags:
     - brandeis

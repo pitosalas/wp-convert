@@ -1,8 +1,6 @@
 ---
 title: "Comment spam – solved for now?"
 author: Pito Salas
-
-
 date: 2006-06-03T14:14:24
 ---
 

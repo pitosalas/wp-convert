@@ -1,8 +1,6 @@
 ---
 title: "Two fun (to me) articles about arcane mathematical topics"
 author: Pito Salas
-
-
 date: 2010-04-27T18:21:01
 tags:
     - mathematics

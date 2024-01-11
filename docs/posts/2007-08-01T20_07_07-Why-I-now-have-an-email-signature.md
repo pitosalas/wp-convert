@@ -1,8 +1,6 @@
 ---
 title: "Why I now have an email signature"
 author: Pito Salas
-
-
 date: 2007-08-01T20:07:07
 ---
 

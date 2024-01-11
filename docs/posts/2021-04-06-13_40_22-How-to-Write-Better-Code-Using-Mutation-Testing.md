@@ -1,8 +1,6 @@
 ---
 title: "How to Write Better Code Using Mutation Testing"
-author: Pito Salas
-url: "https://blog.cognitohq.com/how-to-write-better-code-using-mutation-testing" 
-cover: "https://cognitohq.com/wp-content/uploads/2019/08/how-write@2x.png" 
+author: Pito Salasurl: "https://blog.cognitohq.com/how-to-write-better-code-using-mutation-testing" cover: "https://cognitohq.com/wp-content/uploads/2019/08/how-write@2x.png" 
 date: 2021-04-06 13:40:22
 tags:
     - mutation-testing

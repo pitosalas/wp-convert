@@ -1,8 +1,6 @@
 ---
 title: "git branches: intuition & reality"
-author: Pito Salas
-url: "https://jvns.ca/blog/2023/11/23/branches-intuition-reality/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav" 
-cover: "https://jvns.ca/images/git-branch.png" 
+author: Pito Salasurl: "https://jvns.ca/blog/2023/11/23/branches-intuition-reality/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav" cover: "https://jvns.ca/images/git-branch.png" 
 date: 2023-11-25 02:43:31
 tags:
     - git-branching-explainer

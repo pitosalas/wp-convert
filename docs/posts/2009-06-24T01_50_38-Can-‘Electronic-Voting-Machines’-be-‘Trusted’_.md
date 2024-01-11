@@ -1,8 +1,6 @@
 ---
 title: "Can ‘Electronic Voting Machines’ be ‘Trusted’?"
 author: Pito Salas
-
-
 date: 2009-06-24T01:50:38
 ---
 

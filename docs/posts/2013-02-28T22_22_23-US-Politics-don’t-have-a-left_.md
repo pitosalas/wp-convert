@@ -1,8 +1,6 @@
 ---
 title: "US Politics don’t have a left?"
 author: Pito Salas
-
-
 date: 2013-02-28T22:22:23
 tags:
     - liberals

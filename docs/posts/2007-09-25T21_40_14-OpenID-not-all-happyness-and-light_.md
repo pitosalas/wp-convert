@@ -1,8 +1,6 @@
 ---
 title: "OpenID not all happyness and light?"
 author: Pito Salas
-
-
 date: 2007-09-25T21:40:14
 ---
 

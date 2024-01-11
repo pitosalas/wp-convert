@@ -1,8 +1,6 @@
 ---
 title: "QUT Robot Academy"
-author: Pito Salas
-url: "https://robotacademy.net.au/" 
-cover: "https://robotacademy.net.au/wp-content/uploads/2017/05/OG-Image-main.jpg" 
+author: Pito Salasurl: "https://robotacademy.net.au/" cover: "https://robotacademy.net.au/wp-content/uploads/2017/05/OG-Image-main.jpg" 
 date: 2021-04-13 21:37:36
 tags:
     - learn-robotics-course-online-video-howto

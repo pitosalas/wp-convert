@@ -1,8 +1,6 @@
 ---
 title: "New espresso maker: Capresso Ultima (Model 121)"
 author: Pito Salas
-
-
 date: 2006-04-23T17:45:42
 ---
 

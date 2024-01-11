@@ -1,8 +1,6 @@
 ---
 title: "A good analysis of the recent (very insider) dust-up over interviews"
 author: Pito Salas
-
-
 date: 2007-04-26T16:18:24
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Warning Facebook users: Socialcam is dangerous"
 author: Pito Salas
-
-
 date: 2012-05-05T15:32:08
 tags:
     - facebook

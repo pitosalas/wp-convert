@@ -1,8 +1,6 @@
 ---
 title: "Temporal Gifts: travel through space and time"
 author: Pito Salas
-
-
 date: 2008-01-01T14:48:37
 ---
 

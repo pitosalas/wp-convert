@@ -1,8 +1,6 @@
 ---
 title: "The role of RSS in Science Publishing"
 author: Pito Salas
-
-
 date: 2006-08-03T17:28:10
 ---
 

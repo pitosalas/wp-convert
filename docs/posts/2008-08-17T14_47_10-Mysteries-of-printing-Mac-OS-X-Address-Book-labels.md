@@ -1,8 +1,6 @@
 ---
 title: "Mysteries of printing Mac OS X Address Book labels"
 author: Pito Salas
-
-
 date: 2008-08-17T14:47:10
 ---
 

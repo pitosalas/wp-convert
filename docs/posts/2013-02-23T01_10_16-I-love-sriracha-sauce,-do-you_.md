@@ -1,8 +1,6 @@
 ---
 title: "I love sriracha sauce, do you?"
 author: Pito Salas
-
-
 date: 2013-02-23T01:10:16
 tags:
     - hot

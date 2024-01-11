@@ -1,8 +1,6 @@
 ---
 title: "Sophsiticated (odd) paywall at the Wall Street Journal"
 author: Pito Salas
-
-
 date: 2010-01-29T15:58:55
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Sinatra Best Practices: Part One"
-author: Pito Salas
-url: "https://blog.carbonfive.com/sinatra-best-practices-part-one/" 
-cover: "https://blog.carbonfive.com/wp-content/uploads/2013/06/23.png" 
+author: Pito Salasurl: "https://blog.carbonfive.com/sinatra-best-practices-part-one/" cover: "https://blog.carbonfive.com/wp-content/uploads/2013/06/23.png" 
 date: 2022-03-14 14:56:21
 tags:
     - sinatra-design-best-practices-howto

@@ -1,8 +1,6 @@
 ---
 title: "A couple of good Blog aggregator commentaries"
 author: Pito Salas
-
-
 date: 2004-11-26T17:18:37
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "TSA has no clothes"
 author: Pito Salas
-
-
 date: 2006-10-27T17:25:28
 ---
 

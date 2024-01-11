@@ -1,8 +1,6 @@
 ---
 title: "Watch out for the ‘Nigerian Scam"
 author: Pito Salas
-
-
 date: 2008-12-03T21:09:29
 ---
 

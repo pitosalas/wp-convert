@@ -1,8 +1,6 @@
 ---
 title: "[JAVAONE] What’s going on with Java version numbers?"
 author: Pito Salas
-
-
 date: 2004-06-28T22:21:27
 ---
 

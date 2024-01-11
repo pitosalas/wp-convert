@@ -1,8 +1,6 @@
 ---
 title: "Is twitter for people or for marketing?"
 author: Pito Salas
-
-
 date: 2008-12-23T15:21:41
 ---
 

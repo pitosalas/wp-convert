@@ -1,8 +1,6 @@
 ---
 title: "Booting MS Windows on Intel Macs: Interesting bit of analysis"
 author: Pito Salas
-
-
 date: 2006-04-08T15:29:48
 ---
 

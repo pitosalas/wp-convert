@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Devise Gem – current favorite for authentication of Rails Applications"
 author: Pito Salas
-
-
 date: 2011-05-21T20:27:05
 tags:
     - authentication

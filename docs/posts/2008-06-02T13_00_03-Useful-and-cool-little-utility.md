@@ -1,8 +1,6 @@
 ---
 title: "Useful and cool little utility"
 author: Pito Salas
-
-
 date: 2008-06-02T13:00:03
 ---
 

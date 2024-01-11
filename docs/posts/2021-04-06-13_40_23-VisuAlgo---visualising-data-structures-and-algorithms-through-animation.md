@@ -1,8 +1,6 @@
 ---
 title: "VisuAlgo - visualising data structures and algorithms through animation"
-author: Pito Salas
-url: "https://visualgo.net/en" 
-cover: "https://visualgo.net/img/png.png" 
+author: Pito Salasurl: "https://visualgo.net/en" cover: "https://visualgo.net/img/png.png" 
 date: 2021-04-06 13:40:23
 tags:
     - Java-visualization-algorithm

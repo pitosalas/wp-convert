@@ -1,8 +1,6 @@
 ---
 title: "Calibrating a Monocular Camera with ROS - Robotics with ROS"
-author: Pito Salas
-url: "https://ros-developer.com/2017/04/23/camera-calibration-with-ros/" 
-cover: "https://rdl.ink/render/https%3A%2F%2Fros-developer.com%2F2017%2F04%2F23%2Fcamera-calibration-with-ros%2F" 
+author: Pito Salasurl: "https://ros-developer.com/2017/04/23/camera-calibration-with-ros/" cover: "https://rdl.ink/render/https%3A%2F%2Fros-developer.com%2F2017%2F04%2F23%2Fcamera-calibration-with-ros%2F" 
 date: 2022-03-18 18:38:50
 tags:
     - raspi-camera-calibrate

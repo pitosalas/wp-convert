@@ -1,8 +1,6 @@
 ---
 title: "Sunlight Foundation’s Apps for America"
 author: Pito Salas
-
-
 date: 2009-09-09T15:58:53
 tags:
     - api

@@ -1,8 +1,6 @@
 ---
 title: "Kluge: Is that an obsolete term?"
 author: Pito Salas
-
-
 date: 2013-02-21T22:40:41
 tags:
     - hack

@@ -1,8 +1,6 @@
 ---
 title: "Ideas are still cheap, right?"
 author: Pito Salas
-
-
 date: 2008-12-05T18:55:38
 ---
 

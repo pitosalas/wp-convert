@@ -1,8 +1,6 @@
 ---
 title: "[GEEK] Interesting OS X article"
 author: Pito Salas
-
-
 date: 2006-03-27T22:18:40
 ---
 

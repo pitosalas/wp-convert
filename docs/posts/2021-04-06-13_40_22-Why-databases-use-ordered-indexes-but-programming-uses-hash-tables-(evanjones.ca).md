@@ -1,8 +1,6 @@
 ---
 title: "Why databases use ordered indexes but programming uses hash tables (evanjones.ca)"
-author: Pito Salas
-url: "https://www.evanjones.ca/ordered-vs-unordered-indexes.html" 
-cover: "https://rdl.ink/render/https%3A%2F%2Fwww.evanjones.ca%2Fordered-vs-unordered-indexes.html" 
+author: Pito Salasurl: "https://www.evanjones.ca/ordered-vs-unordered-indexes.html" cover: "https://rdl.ink/render/https%3A%2F%2Fwww.evanjones.ca%2Fordered-vs-unordered-indexes.html" 
 date: 2021-04-06 13:40:22
 tags:
     - performance-b-trees-hashtables-indexes-databases

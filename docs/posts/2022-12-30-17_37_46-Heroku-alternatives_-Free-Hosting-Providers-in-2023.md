@@ -1,8 +1,6 @@
 ---
 title: "Heroku alternatives: Free Hosting Providers in 2023"
-author: Pito Salas
-url: "https://link.medium.com/5hyb9ayAbwb" 
-cover: "https://miro.medium.com/max/1200/1*huSfnrEenakS17YeLLlngg.png" 
+author: Pito Salasurl: "https://link.medium.com/5hyb9ayAbwb" cover: "https://miro.medium.com/max/1200/1*huSfnrEenakS17YeLLlngg.png" 
 date: 2022-12-30 17:37:46
 tags:
     - heroku-hosting-alternatives

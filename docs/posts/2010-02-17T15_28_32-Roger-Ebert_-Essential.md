@@ -1,8 +1,6 @@
 ---
 title: "Roger Ebert: Essential"
 author: Pito Salas
-
-
 date: 2010-02-17T15:28:32
 ---
 

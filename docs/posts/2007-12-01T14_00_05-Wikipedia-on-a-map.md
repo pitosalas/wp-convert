@@ -1,8 +1,6 @@
 ---
 title: "Wikipedia on a map"
 author: Pito Salas
-
-
 date: 2007-12-01T14:00:05
 ---
 

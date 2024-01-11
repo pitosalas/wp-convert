@@ -1,8 +1,6 @@
 ---
 title: "Joho the Blog: The Semantic"
 author: Pito Salas
-
-
 date: 2004-02-05T14:55:40
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Facebook joins the API crowd"
 author: Pito Salas
-
-
 date: 2006-08-16T00:37:49
 ---
 

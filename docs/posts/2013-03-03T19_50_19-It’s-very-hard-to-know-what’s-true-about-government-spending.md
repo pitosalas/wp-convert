@@ -1,8 +1,6 @@
 ---
 title: "It’s very hard to know what’s true about government spending"
 author: Pito Salas
-
-
 date: 2013-03-03T19:50:19
 tags:
     - deficit

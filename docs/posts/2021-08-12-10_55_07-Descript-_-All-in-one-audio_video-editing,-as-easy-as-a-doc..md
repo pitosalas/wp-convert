@@ -1,8 +1,6 @@
 ---
 title: "Descript | All-in-one audio/video editing, as easy as a doc."
-author: Pito Salas
-url: "https://www.descript.com/" 
-cover: "https://rdl.ink/render/https%3A%2F%2Fwww.descript.com%2F" 
+author: Pito Salasurl: "https://www.descript.com/" cover: "https://rdl.ink/render/https%3A%2F%2Fwww.descript.com%2F" 
 date: 2021-08-12 10:55:07
 tags:
     - cooltool-transcription-editing-audio-video-screencast

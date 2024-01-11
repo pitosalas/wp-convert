@@ -1,8 +1,6 @@
 ---
 title: "On the importance of learning to work in teams"
 author: Pito Salas
-
-
 date: 2012-01-08T17:53:09
 tags:
     - higher-education

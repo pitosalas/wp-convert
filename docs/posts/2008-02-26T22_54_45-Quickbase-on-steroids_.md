@@ -1,8 +1,6 @@
 ---
 title: "Quickbase on steroids?"
 author: Pito Salas
-
-
 date: 2008-02-26T22:54:45
 ---
 

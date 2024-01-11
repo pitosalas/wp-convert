@@ -1,8 +1,6 @@
 ---
 title: "BlogBridge beta update"
 author: Pito Salas
-
-
 date: 2004-06-02T16:27:47
 ---
 

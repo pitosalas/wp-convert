@@ -1,8 +1,6 @@
 ---
 title: "Mint being acquired by Intuit: Good or Bad?"
 author: Pito Salas
-
-
 date: 2009-09-15T15:56:08
 tags:
     - intuit

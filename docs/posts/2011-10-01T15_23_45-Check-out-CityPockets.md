@@ -1,8 +1,6 @@
 ---
 title: "Check out CityPockets"
 author: Pito Salas
-
-
 date: 2011-10-01T15:23:45
 tags:
     - citypockets

@@ -1,8 +1,6 @@
 ---
 title: "Why Google is great"
 author: Pito Salas
-
-
 date: 2004-09-29T05:13:58
 ---
 

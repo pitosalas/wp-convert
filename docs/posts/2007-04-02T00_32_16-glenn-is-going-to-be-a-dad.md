@@ -1,8 +1,6 @@
 ---
 title: "glenn is going to be a dad"
 author: Pito Salas
-
-
 date: 2007-04-02T00:32:16
 ---
 

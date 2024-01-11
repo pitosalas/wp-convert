@@ -1,8 +1,6 @@
 ---
 title: "Here is what ChatGPT (and Claude) are good for!"
 author: Pito Salas
-
-
 date: 2023-07-13T19:55:48
 ---
 

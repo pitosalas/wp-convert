@@ -1,8 +1,6 @@
 ---
 title: "The world is flat, part deux"
 author: Pito Salas
-
-
 date: 2006-02-17T23:50:00
 ---
 

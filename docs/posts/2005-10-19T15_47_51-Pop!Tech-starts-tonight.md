@@ -1,8 +1,6 @@
 ---
 title: "Pop!Tech starts tonight"
 author: Pito Salas
-
-
 date: 2005-10-19T15:47:51
 ---
 

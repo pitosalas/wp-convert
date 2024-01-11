@@ -1,8 +1,6 @@
 ---
 title: "Suckered again by Microsoft?"
 author: Pito Salas
-
-
 date: 2005-01-03T22:50:35
 ---
 

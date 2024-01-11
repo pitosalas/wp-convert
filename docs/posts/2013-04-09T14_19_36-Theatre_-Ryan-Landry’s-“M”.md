@@ -1,8 +1,6 @@
 ---
 title: "Theatre: Ryan Landry’s “M”"
 author: Pito Salas
-
-
 date: 2013-04-09T14:19:36
 tags:
     - huntington-theatre

@@ -1,8 +1,6 @@
 ---
 title: "Harper’s on torture"
 author: Pito Salas
-
-
 date: 2008-08-16T05:47:28
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Self Parking Car?"
 author: Pito Salas
-
-
 date: 2006-08-26T13:51:17
 ---
 

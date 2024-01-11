@@ -1,8 +1,6 @@
 ---
 title: "Day of reckoning coming for Microsoft?"
 author: Pito Salas
-
-
 date: 2005-01-22T02:33:13
 ---
 

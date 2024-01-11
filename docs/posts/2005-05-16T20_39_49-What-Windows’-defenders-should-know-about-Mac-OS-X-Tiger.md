@@ -1,8 +1,6 @@
 ---
 title: "What Windows’ defenders should know about Mac OS X Tiger"
 author: Pito Salas
-
-
 date: 2005-05-16T20:39:49
 ---
 

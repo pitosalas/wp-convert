@@ -1,8 +1,6 @@
 ---
 title: "How to add a map to any blog page"
 author: Pito Salas
-
-
 date: 2006-08-07T22:16:58
 ---
 

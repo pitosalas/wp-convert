@@ -1,8 +1,6 @@
 ---
 title: "Radical Simplicity in Technology | Join the movement"
-author: Pito Salas
-url: "http://www.radicalsimpli.city/" 
-cover: "https://rdl.ink/render/http%3A%2F%2Fwww.radicalsimpli.city%2F" 
+author: Pito Salasurl: "http://www.radicalsimpli.city/" cover: "https://rdl.ink/render/http%3A%2F%2Fwww.radicalsimpli.city%2F" 
 date: 2022-12-18 12:45:41
 tags:
     - architecture-rails-postgres-simplify-yagni-insights

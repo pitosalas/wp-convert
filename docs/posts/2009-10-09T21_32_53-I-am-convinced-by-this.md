@@ -1,8 +1,6 @@
 ---
 title: "I am convinced by this"
 author: Pito Salas
-
-
 date: 2009-10-09T21:32:53
 ---
 

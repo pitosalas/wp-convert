@@ -1,8 +1,6 @@
 ---
 title: "commonplace, ordinary, usual, common"
 author: Pito Salas
-
-
 date: 2011-01-02T20:49:07
 tags:
     - education

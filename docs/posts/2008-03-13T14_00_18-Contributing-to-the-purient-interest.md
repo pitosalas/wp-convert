@@ -1,8 +1,6 @@
 ---
 title: "Contributing to the purient interest"
 author: Pito Salas
-
-
 date: 2008-03-13T14:00:18
 ---
 

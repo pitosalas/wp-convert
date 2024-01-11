@@ -1,8 +1,6 @@
 ---
 title: "Anyone notice Google going off a cliff?"
 author: Pito Salas
-
-
 date: 2008-03-04T15:45:30
 ---
 

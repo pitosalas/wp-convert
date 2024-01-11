@@ -1,8 +1,6 @@
 ---
 title: "Space Geeks: Fantastic slow motion video of Shuttle Launch"
 author: Pito Salas
-
-
 date: 2010-12-12T20:09:38
 tags:
     - launch

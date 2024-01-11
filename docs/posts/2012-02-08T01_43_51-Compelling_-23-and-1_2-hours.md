@@ -1,8 +1,6 @@
 ---
 title: "Compelling: 23 and 1/2 hours"
 author: Pito Salas
-
-
 date: 2012-02-08T01:43:51
 tags:
     - better

@@ -1,8 +1,6 @@
 ---
 title: "Bottlenecks of Scaleups"
-author: Pito Salas
-url: "https://martinfowler.com/articles/bottlenecks-of-scaleups/" 
-cover: "https://martinfowler.com/articles/bottlenecks-of-scaleups/card.png" 
+author: Pito Salasurl: "https://martinfowler.com/articles/bottlenecks-of-scaleups/" cover: "https://martinfowler.com/articles/bottlenecks-of-scaleups/card.png" 
 date: 2022-12-27 12:21:36
 tags:
     - software-engineering-thoughtworks-scaling-process

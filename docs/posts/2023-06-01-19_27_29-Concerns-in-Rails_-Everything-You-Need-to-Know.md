@@ -1,8 +1,6 @@
 ---
 title: "Concerns in Rails: Everything You Need to Know"
-author: Pito Salas
-url: "https://www.akshaykhot.com/how-rails-concerns-work-and-how-to-use-them/" 
-cover: "https://www.akshaykhot.com/content/images/2023/05/concerns-5.png" 
+author: Pito Salasurl: "https://www.akshaykhot.com/how-rails-concerns-work-and-how-to-use-them/" cover: "https://www.akshaykhot.com/content/images/2023/05/concerns-5.png" 
 date: 2023-06-01 19:27:29
 tags:
     - rails-object-oriented-prpgramming-oop-concerns-ruby-modules

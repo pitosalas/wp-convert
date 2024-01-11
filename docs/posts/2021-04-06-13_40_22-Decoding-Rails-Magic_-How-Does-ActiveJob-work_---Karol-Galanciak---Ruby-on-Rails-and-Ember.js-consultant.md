@@ -1,8 +1,6 @@
 ---
 title: "Decoding Rails Magic: How Does ActiveJob work? - Karol Galanciak - Ruby on Rails and Ember.js consultant"
-author: Pito Salas
-url: "https://karolgalanciak.com/blog/2016/09/25/decoding-rails-magic-how-does-activejob-work" 
-cover: "https://rdl.ink/render/https%3A%2F%2Fkarolgalanciak.com%2Fblog%2F2016%2F09%2F25%2Fdecoding-rails-magic-how-does-activejob-work" 
+author: Pito Salasurl: "https://karolgalanciak.com/blog/2016/09/25/decoding-rails-magic-how-does-activejob-work" cover: "https://rdl.ink/render/https%3A%2F%2Fkarolgalanciak.com%2Fblog%2F2016%2F09%2F25%2Fdecoding-rails-magic-how-does-activejob-work" 
 date: 2021-04-06 13:40:22
 tags:
     - rails-magic

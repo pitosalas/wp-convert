@@ -1,8 +1,6 @@
 ---
 title: "What’s a beta, anyway?"
 author: Pito Salas
-
-
 date: 2004-06-03T02:16:08
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "BlogBridge interview"
 author: Pito Salas
-
-
 date: 2004-12-08T16:24:26
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Cool underwater restaurant…"
 author: Pito Salas
-
-
 date: 2006-12-28T19:48:13
 ---
 

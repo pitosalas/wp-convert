@@ -1,8 +1,6 @@
 ---
 title: "Scientific Poster Printing, Templates, and Tutorials"
-author: Pito Salas
-url: "https://www.makesigns.com/" 
-cover: "https://cdn.makesigns.com/image/makesigns/home-poster-tubes.png" 
+author: Pito Salasurl: "https://www.makesigns.com/" cover: "https://cdn.makesigns.com/image/makesigns/home-poster-tubes.png" 
 date: 2022-08-11 00:38:32
 tags:
     - print-poster-academic-large-service

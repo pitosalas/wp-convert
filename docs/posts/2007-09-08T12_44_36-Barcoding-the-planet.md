@@ -1,8 +1,6 @@
 ---
 title: "Barcoding the planet"
 author: Pito Salas
-
-
 date: 2007-09-08T12:44:36
 ---
 

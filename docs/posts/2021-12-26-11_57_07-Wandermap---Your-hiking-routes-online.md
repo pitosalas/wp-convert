@@ -1,8 +1,6 @@
 ---
 title: "Wandermap - Your hiking routes online"
-author: Pito Salas
-url: "http://www.wandermap.net/en/?tab=new#/z4/54.521081,15.292969/terrain" 
-cover: "http://www.wandermap.net/static/img/logo-share.png" 
+author: Pito Salasurl: "http://www.wandermap.net/en/?tab=new#/z4/54.521081,15.292969/terrain" cover: "http://www.wandermap.net/static/img/logo-share.png" 
 date: 2021-12-26 11:57:07
 tags:
     - walk-map-hike-hiking-trace

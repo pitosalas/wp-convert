@@ -1,8 +1,6 @@
 ---
 title: "Super duper tie of your shoe laces!"
 author: Pito Salas
-
-
 date: 2006-08-07T23:38:01
 ---
 

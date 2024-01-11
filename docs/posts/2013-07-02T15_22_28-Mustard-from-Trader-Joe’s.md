@@ -1,8 +1,6 @@
 ---
 title: "Mustard from Trader Joe’s"
 author: Pito Salas
-
-
 date: 2013-07-02T15:22:28
 tags:
     - condiments

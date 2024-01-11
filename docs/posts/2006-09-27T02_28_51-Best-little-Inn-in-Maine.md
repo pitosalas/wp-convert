@@ -1,8 +1,6 @@
 ---
 title: "Best little Inn in Maine"
 author: Pito Salas
-
-
 date: 2006-09-27T02:28:51
 ---
 

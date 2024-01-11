@@ -1,8 +1,6 @@
 ---
 title: "Fascinating article about the technology behind Healthcare.gov"
 author: Pito Salas
-
-
 date: 2013-10-05T14:39:13
 tags:
     - githum

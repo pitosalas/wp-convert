@@ -1,8 +1,6 @@
 ---
 title: "Those Who Say Code Does Not Matter | blog@CACM | Communications of the ACM"
-author: Pito Salas
-url: "http://cacm.acm.org/blogs/blog-cacm/173827-those-who-say-code-does-not-matter/fulltext" 
-cover: "https://cacm.acm.org/system/assets/0001/5470/041514_Bertrand-Meyer-250.large.jpg?1476779476&1397569694" 
+author: Pito Salasurl: "http://cacm.acm.org/blogs/blog-cacm/173827-those-who-say-code-does-not-matter/fulltext" cover: "https://cacm.acm.org/system/assets/0001/5470/041514_Bertrand-Meyer-250.large.jpg?1476779476&1397569694" 
 date: 2021-04-06 13:40:22
 tags:
     - Software-Engineering

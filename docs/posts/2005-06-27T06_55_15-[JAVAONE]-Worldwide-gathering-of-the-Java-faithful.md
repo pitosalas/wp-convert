@@ -1,8 +1,6 @@
 ---
 title: "[JAVAONE] Worldwide gathering of the Java faithful"
 author: Pito Salas
-
-
 date: 2005-06-27T06:55:15
 ---
 

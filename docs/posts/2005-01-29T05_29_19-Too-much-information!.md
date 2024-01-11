@@ -1,8 +1,6 @@
 ---
 title: "Too much information!"
 author: Pito Salas
-
-
 date: 2005-01-29T05:29:19
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Results from the 2018 Rails Hosting Survey | Planet Argon"
-author: Pito Salas
-url: "http://rails-hosting.com/2018" 
-cover: "https://rails-hosting.com/2018/social/rails-twitter-open-graph.jpg" 
+author: Pito Salasurl: "http://rails-hosting.com/2018" cover: "https://rails-hosting.com/2018/social/rails-twitter-open-graph.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - survey-results-rails

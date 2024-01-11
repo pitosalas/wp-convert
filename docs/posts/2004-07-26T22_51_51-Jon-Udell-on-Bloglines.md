@@ -1,8 +1,6 @@
 ---
 title: "Jon Udell on Bloglines"
 author: Pito Salas
-
-
 date: 2004-07-26T22:51:51
 ---
 

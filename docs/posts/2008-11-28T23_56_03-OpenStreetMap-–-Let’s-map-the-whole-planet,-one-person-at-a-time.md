@@ -1,8 +1,6 @@
 ---
 title: "OpenStreetMap – Let’s map the whole planet, one person at a time"
 author: Pito Salas
-
-
 date: 2008-11-28T23:56:03
 ---
 

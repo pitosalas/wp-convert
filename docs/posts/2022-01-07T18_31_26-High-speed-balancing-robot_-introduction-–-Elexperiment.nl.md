@@ -1,8 +1,6 @@
 ---
 title: "High speed balancing robot: introduction – Elexperiment.nl"
 author: Pito Salas
-
-
 date: 2022-01-07T18:31:26
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Is this a good idea?"
 author: Pito Salas
-
-
 date: 2004-12-03T23:30:31
 ---
 

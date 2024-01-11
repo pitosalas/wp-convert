@@ -1,8 +1,6 @@
 ---
 title: "Field notes from a Nature Conservancy meeting"
 author: Pito Salas
-
-
 date: 2008-10-25T18:37:08
 ---
 

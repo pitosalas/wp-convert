@@ -1,8 +1,6 @@
 ---
 title: "Top bookstores around the world"
 author: Pito Salas
-
-
 date: 2008-01-29T00:03:20
 ---
 

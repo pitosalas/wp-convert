@@ -1,8 +1,6 @@
 ---
 title: "Do you remember “Twin Peaks”?"
 author: Pito Salas
-
-
 date: 2007-04-27T21:02:06
 ---
 

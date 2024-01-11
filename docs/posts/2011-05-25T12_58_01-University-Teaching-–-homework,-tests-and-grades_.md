@@ -1,8 +1,6 @@
 ---
 title: "University Teaching – homework, tests and grades?"
 author: Pito Salas
-
-
 date: 2011-05-25T12:58:01
 tags:
     - grades

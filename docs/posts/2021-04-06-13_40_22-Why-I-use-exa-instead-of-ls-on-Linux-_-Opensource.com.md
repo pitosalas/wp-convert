@@ -1,8 +1,6 @@
 ---
 title: "Why I use exa instead of ls on Linux | Opensource.com"
-author: Pito Salas
-url: "https://opensource.com/article/21/3/replace-ls-exa" 
-cover: "https://opensource.com/sites/default/files/lead-images/bash_command_line.png" 
+author: Pito Salasurl: "https://opensource.com/article/21/3/replace-ls-exa" cover: "https://opensource.com/sites/default/files/lead-images/bash_command_line.png" 
 date: 2021-04-06 13:40:22
 tags:
     - ls-exa-cli-howto-linux-tools

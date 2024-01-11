@@ -1,8 +1,6 @@
 ---
 title: "Aaron Swartz Links"
 author: Pito Salas
-
-
 date: 2013-01-13T20:05:24
 tags:
     - aaron-swartz

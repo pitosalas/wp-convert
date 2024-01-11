@@ -1,8 +1,6 @@
 ---
 title: "One more little meme"
 author: Pito Salas
-
-
 date: 2005-10-29T01:20:33
 ---
 

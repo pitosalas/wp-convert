@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Look what Safari looked like for a moment"
 author: Pito Salas
-
-
 date: 2012-05-22T21:44:38
 tags:
     - bug

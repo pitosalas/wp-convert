@@ -1,8 +1,6 @@
 ---
 title: "What is the difference between a blog and a newsgroup?"
 author: Pito Salas
-
-
 date: 2004-12-31T00:39:40
 ---
 

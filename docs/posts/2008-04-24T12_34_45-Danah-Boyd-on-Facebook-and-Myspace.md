@@ -1,8 +1,6 @@
 ---
 title: "Danah Boyd on Facebook and Myspace"
 author: Pito Salas
-
-
 date: 2008-04-24T12:34:45
 ---
 

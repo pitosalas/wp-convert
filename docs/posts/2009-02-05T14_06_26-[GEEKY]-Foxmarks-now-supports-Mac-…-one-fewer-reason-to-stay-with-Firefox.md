@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Foxmarks now supports Mac … one fewer reason to stay with Firefox"
 author: Pito Salas
-
-
 date: 2009-02-05T14:06:26
 ---
 

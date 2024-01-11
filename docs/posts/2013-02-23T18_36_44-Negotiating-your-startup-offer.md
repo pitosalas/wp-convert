@@ -1,8 +1,6 @@
 ---
 title: "Negotiating your startup offer"
 author: Pito Salas
-
-
 date: 2013-02-23T18:36:44
 tags:
     - entrepeneurship

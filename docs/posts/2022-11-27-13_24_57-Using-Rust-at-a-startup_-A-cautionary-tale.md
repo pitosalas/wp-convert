@@ -1,8 +1,6 @@
 ---
 title: "Using Rust at a startup: A cautionary tale"
-author: Pito Salas
-url: "https://scribe.rip/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454" 
-cover: "https://rdl.ink/render/https%3A%2F%2Fscribe.rip%2Fusing-rust-at-a-startup-a-cautionary-tale-42ab823d9454" 
+author: Pito Salasurl: "https://scribe.rip/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454" cover: "https://rdl.ink/render/https%3A%2F%2Fscribe.rip%2Fusing-rust-at-a-startup-a-cautionary-tale-42ab823d9454" 
 date: 2022-11-27 13:24:57
 tags:
     - rust-programming-programming-language-coding

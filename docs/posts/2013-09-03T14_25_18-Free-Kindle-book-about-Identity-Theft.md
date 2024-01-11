@@ -1,8 +1,6 @@
 ---
 title: "Free Kindle book about Identity Theft"
 author: Pito Salas
-
-
 date: 2013-09-03T14:25:18
 tags:
     - amazon

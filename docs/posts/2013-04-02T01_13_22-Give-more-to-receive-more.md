@@ -1,8 +1,6 @@
 ---
 title: "Give more to receive more"
 author: Pito Salas
-
-
 date: 2013-04-02T01:13:22
 tags:
     - gift-economy

@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Social login buttons considered harmful"
 author: Pito Salas
-
-
 date: 2013-07-08T00:36:10
 tags:
     - authentication

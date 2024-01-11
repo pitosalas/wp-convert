@@ -1,8 +1,6 @@
 ---
 title: "Some arcana about how BlogStarz! work"
 author: Pito Salas
-
-
 date: 2004-10-18T21:00:02
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Really cool new site: MyPunchBowl"
 author: Pito Salas
-
-
 date: 2007-01-16T20:14:13
 ---
 

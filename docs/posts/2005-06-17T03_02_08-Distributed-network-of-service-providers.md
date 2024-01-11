@@ -1,8 +1,6 @@
 ---
 title: "Distributed network of service providers"
 author: Pito Salas
-
-
 date: 2005-06-17T03:02:08
 ---
 

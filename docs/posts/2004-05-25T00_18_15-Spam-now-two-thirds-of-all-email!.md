@@ -1,8 +1,6 @@
 ---
 title: "Spam now two thirds of all email!"
 author: Pito Salas
-
-
 date: 2004-05-25T00:18:15
 ---
 

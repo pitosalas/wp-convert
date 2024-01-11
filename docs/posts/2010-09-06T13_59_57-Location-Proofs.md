@@ -1,8 +1,6 @@
 ---
 title: "Location Proofs"
 author: Pito Salas
-
-
 date: 2010-09-06T13:59:57
 tags:
     - location

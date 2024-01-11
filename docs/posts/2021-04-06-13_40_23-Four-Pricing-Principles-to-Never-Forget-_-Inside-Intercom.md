@@ -1,8 +1,6 @@
 ---
 title: "Four Pricing Principles to Never Forget | Inside Intercom"
-author: Pito Salas
-url: "http://insideintercom.io/four-pricing-principals-to-never-forget" 
-cover: "" 
+author: Pito Salasurl: "http://insideintercom.io/four-pricing-principals-to-never-forget" cover: "" 
 date: 2021-04-06 13:40:23
 tags:
     - Pricing-entrepreneurship-principles-software-services-price

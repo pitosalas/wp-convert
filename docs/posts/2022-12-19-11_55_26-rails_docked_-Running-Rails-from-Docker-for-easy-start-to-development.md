@@ -1,8 +1,6 @@
 ---
 title: "rails/docked: Running Rails from Docker for easy start to development"
-author: Pito Salas
-url: "https://github.com/rails/docked?utm_campaign=Ruby%20Radar&utm_medium=email&utm_source=Revue%20newsletter" 
-cover: "https://opengraph.githubassets.com/59c967040ac739dcdf5fb032c7a850be71965571da07b1657c75f151c527b1ab/rails/docked" 
+author: Pito Salasurl: "https://github.com/rails/docked?utm_campaign=Ruby%20Radar&utm_medium=email&utm_source=Revue%20newsletter" cover: "https://opengraph.githubassets.com/59c967040ac739dcdf5fb032c7a850be71965571da07b1657c75f151c527b1ab/rails/docked" 
 date: 2022-12-19 11:55:26
 tags:
     - rails-docker-tool-cooltool

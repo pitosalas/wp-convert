@@ -1,8 +1,6 @@
 ---
 title: "Ok, but what’s a quango?"
 author: Pito Salas
-
-
 date: 2010-09-24T13:31:11
 ---
 

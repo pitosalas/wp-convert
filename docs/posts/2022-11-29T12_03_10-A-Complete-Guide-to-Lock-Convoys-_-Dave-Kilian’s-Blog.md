@@ -1,8 +1,6 @@
 ---
 title: "A Complete Guide to Lock Convoys | Dave Kilian’s Blog"
 author: Pito Salas
-
-
 date: 2022-11-29T12:03:10
 tags:
     - bottleneck

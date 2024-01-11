@@ -1,8 +1,6 @@
 ---
 title: "Mashup Camp: Wish I were there!"
 author: Pito Salas
-
-
 date: 2006-02-20T23:49:39
 ---
 

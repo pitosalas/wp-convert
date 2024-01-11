@@ -1,8 +1,6 @@
 ---
 title: "WHCC | Professional Photo Lab"
-author: Pito Salas
-url: "https://www.whcc.com/" 
-cover: "https://whcc-com-prod-images0.imgix.net/images/whcc_default-seo-image.jpg?fm=jpg&w=1200&h=630&fit=crop&crop=focalpoint&fp-x=.5&fp-y=.5" 
+author: Pito Salasurl: "https://www.whcc.com/" cover: "https://whcc-com-prod-images0.imgix.net/images/whcc_default-seo-image.jpg?fm=jpg&w=1200&h=630&fit=crop&crop=focalpoint&fp-x=.5&fp-y=.5" 
 date: 2022-07-12 16:48:36
 tags:
     - photo-enlargement-services

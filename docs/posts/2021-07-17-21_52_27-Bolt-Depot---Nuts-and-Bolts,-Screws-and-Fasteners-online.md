@@ -1,8 +1,6 @@
 ---
 title: "Bolt Depot - Nuts and Bolts, Screws and Fasteners online"
-author: Pito Salas
-url: "https://www.boltdepot.com/" 
-cover: "https://rdl.ink/render/https%3A%2F%2Fwww.boltdepot.com%2F" 
+author: Pito Salasurl: "https://www.boltdepot.com/" cover: "https://rdl.ink/render/https%3A%2F%2Fwww.boltdepot.com%2F" 
 date: 2021-07-17 21:52:27
 tags:
     - shopping-hardware-parts-fasteners

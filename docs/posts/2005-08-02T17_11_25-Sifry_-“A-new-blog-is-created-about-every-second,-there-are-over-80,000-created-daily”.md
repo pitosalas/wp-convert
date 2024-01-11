@@ -1,8 +1,6 @@
 ---
 title: "Sifry: “A new blog is created about every second, there are over 80,000 created daily”"
 author: Pito Salas
-
-
 date: 2005-08-02T17:11:25
 ---
 

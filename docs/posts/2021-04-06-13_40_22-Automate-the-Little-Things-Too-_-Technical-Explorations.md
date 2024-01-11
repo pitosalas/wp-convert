@@ -1,8 +1,6 @@
 ---
 title: "Automate the Little Things Too | Technical Explorations"
-author: Pito Salas
-url: "https://bbs-software.com/blog/2019/09/24/automate-the-little-things-too.html" 
-cover: "" 
+author: Pito Salasurl: "https://bbs-software.com/blog/2019/09/24/automate-the-little-things-too.html" cover: "" 
 date: 2021-04-06 13:40:22
 tags:
     - cli-ruby-shell-automate

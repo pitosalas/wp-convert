@@ -1,8 +1,6 @@
 ---
 title: "How (not) to design a ballot"
 author: Pito Salas
-
-
 date: 2010-09-18T21:34:17
 tags:
     - ballots

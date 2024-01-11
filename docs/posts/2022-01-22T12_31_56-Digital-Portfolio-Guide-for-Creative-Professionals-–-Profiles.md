@@ -1,8 +1,6 @@
 ---
 title: "Digital Portfolio Guide for Creative Professionals – Profiles"
 author: Pito Salas
-
-
 date: 2022-01-22T12:31:56
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Insightful tying together of the Health Care “debate”, Woodstock, Kennedy and Mad Men"
 author: Pito Salas
-
-
 date: 2009-08-17T13:36:46
 ---
 

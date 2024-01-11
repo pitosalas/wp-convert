@@ -1,8 +1,6 @@
 ---
 title: "Great Movie: Osama"
 author: Pito Salas
-
-
 date: 2004-12-17T06:00:00
 ---
 

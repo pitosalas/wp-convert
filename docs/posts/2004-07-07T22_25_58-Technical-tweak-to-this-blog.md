@@ -1,8 +1,6 @@
 ---
 title: "Technical tweak to this blog"
 author: Pito Salas
-
-
 date: 2004-07-07T22:25:58
 ---
 

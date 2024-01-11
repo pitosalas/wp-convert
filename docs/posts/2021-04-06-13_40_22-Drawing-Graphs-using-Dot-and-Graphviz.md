@@ -1,8 +1,6 @@
 ---
 title: "Drawing Graphs using Dot and Graphviz"
-author: Pito Salas
-url: "http://tonyballantyne.com/graphs.html" 
-cover: "https://rdl.ink/render/http%3A%2F%2Ftonyballantyne.com%2Fgraphs.html" 
+author: Pito Salasurl: "http://tonyballantyne.com/graphs.html" cover: "https://rdl.ink/render/http%3A%2F%2Ftonyballantyne.com%2Fgraphs.html" 
 date: 2021-04-06 13:40:22
 tags:
     - graphviz-diagrams-dot-howto-cheatsheet

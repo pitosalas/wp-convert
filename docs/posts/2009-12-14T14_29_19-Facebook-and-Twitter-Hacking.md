@@ -1,8 +1,6 @@
 ---
 title: "Facebook and Twitter Hacking"
 author: Pito Salas
-
-
 date: 2009-12-14T14:29:19
 tags:
     - facebook

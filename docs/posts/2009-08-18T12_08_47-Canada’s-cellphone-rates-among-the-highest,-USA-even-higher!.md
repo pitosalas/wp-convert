@@ -1,8 +1,6 @@
 ---
 title: "Canada’s cellphone rates among the highest, USA even higher!"
 author: Pito Salas
-
-
 date: 2009-08-18T12:08:47
 ---
 

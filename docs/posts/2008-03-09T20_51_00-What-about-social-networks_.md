@@ -1,8 +1,6 @@
 ---
 title: "What about social networks?"
 author: Pito Salas
-
-
 date: 2008-03-09T20:51:00
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Scalable application design without magic – Leveraging client computing power for high performance with many users"
 author: Pito Salas
-
-
 date: 2022-01-05T10:32:15
 tags:
     - cloud

@@ -1,8 +1,6 @@
 ---
 title: "Targeted Copyright Enforcement: Deterring Many Users with a Few Lawsuits"
 author: Pito Salas
-
-
 date: 2009-11-09T12:08:31
 tags:
     - copyright

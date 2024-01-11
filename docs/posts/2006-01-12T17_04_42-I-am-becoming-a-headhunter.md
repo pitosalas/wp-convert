@@ -1,8 +1,6 @@
 ---
 title: "I am becoming a headhunter"
 author: Pito Salas
-
-
 date: 2006-01-12T17:04:42
 ---
 

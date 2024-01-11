@@ -1,8 +1,6 @@
 ---
 title: "Algorithms Visualized: amazing"
 author: Pito Salas
-
-
 date: 2014-07-25T18:36:32
 tags:
     - algorithms

@@ -1,8 +1,6 @@
 ---
 title: "Audacious startups"
 author: Pito Salas
-
-
 date: 2013-05-31T13:49:15
 tags:
     - battery

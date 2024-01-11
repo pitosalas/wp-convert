@@ -1,8 +1,6 @@
 ---
 title: "Gender Equity at Harvard: great article"
 author: Pito Salas
-
-
 date: 2013-09-09T15:32:36
 tags:
     - equity

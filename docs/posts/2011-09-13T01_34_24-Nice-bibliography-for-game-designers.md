@@ -1,8 +1,6 @@
 ---
 title: "Nice bibliography for game designers"
 author: Pito Salas
-
-
 date: 2011-09-13T01:34:24
 tags:
     - design

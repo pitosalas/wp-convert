@@ -1,8 +1,6 @@
 ---
 title: "Kiseido Go Server"
-author: Pito Salas
-url: "http://kgs.kiseido.com" 
-cover: "https://rdl.ink/render/http%3A%2F%2Fkgs.kiseido.com" 
+author: Pito Salasurl: "http://kgs.kiseido.com" cover: "https://rdl.ink/render/http%3A%2F%2Fkgs.kiseido.com" 
 date: 2021-04-06 13:40:23
 tags:
     - games-go

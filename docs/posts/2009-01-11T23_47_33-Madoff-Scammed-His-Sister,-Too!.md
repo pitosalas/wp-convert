@@ -1,8 +1,6 @@
 ---
 title: "Madoff Scammed His Sister, Too!"
 author: Pito Salas
-
-
 date: 2009-01-11T23:47:33
 ---
 

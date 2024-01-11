@@ -1,8 +1,6 @@
 ---
 title: "World’s Tallest Man Lends a Hand"
 author: Pito Salas
-
-
 date: 2006-12-18T22:13:31
 ---
 

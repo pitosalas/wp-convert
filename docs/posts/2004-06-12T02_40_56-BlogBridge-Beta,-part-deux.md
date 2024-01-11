@@ -1,8 +1,6 @@
 ---
 title: "BlogBridge Beta, part deux"
 author: Pito Salas
-
-
 date: 2004-06-12T02:40:56
 ---
 

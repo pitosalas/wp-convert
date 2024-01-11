@@ -1,8 +1,6 @@
 ---
 title: "Number crunching smartphone app success"
 author: Pito Salas
-
-
 date: 2013-05-06T22:27:18
 tags:
     - apps

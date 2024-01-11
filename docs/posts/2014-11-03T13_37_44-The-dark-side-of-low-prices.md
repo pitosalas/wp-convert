@@ -1,8 +1,6 @@
 ---
 title: "The dark side of low prices"
 author: Pito Salas
-
-
 date: 2014-11-03T13:37:44
 tags:
     - bills

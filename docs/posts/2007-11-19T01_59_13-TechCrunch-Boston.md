@@ -1,8 +1,6 @@
 ---
 title: "TechCrunch Boston"
 author: Pito Salas
-
-
 date: 2007-11-19T01:59:13
 ---
 

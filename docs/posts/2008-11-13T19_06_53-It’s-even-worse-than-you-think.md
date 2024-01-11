@@ -1,8 +1,6 @@
 ---
 title: "It’s even worse than you think"
 author: Pito Salas
-
-
 date: 2008-11-13T19:06:53
 tags:
     - economy-michaellewis-finance-meltdown

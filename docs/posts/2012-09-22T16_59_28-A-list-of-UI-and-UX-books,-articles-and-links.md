@@ -1,8 +1,6 @@
 ---
 title: "A list of UI and UX books, articles and links"
 author: Pito Salas
-
-
 date: 2012-09-22T16:59:28
 tags:
     - books

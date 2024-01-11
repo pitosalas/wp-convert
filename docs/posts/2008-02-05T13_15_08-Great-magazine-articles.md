@@ -1,8 +1,6 @@
 ---
 title: "Great magazine articles"
 author: Pito Salas
-
-
 date: 2008-02-05T13:15:08
 ---
 

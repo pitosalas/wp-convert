@@ -1,8 +1,6 @@
 ---
 title: "Is Sarah McLachlan is Video Podcasting?"
 author: Pito Salas
-
-
 date: 2004-12-24T16:18:40
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Firewalls scanning IM messages: Google as symbolic link"
 author: Pito Salas
-
-
 date: 2005-07-18T17:47:18
 ---
 

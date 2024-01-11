@@ -1,8 +1,6 @@
 ---
 title: "Sibelius and the meaning of ‘available’"
 author: Pito Salas
-
-
 date: 2009-07-16T15:32:00
 ---
 

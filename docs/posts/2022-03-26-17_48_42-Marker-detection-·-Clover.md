@@ -1,8 +1,6 @@
 ---
 title: "Marker detection · Clover"
-author: Pito Salas
-url: "https://clover.coex.tech/en/aruco_marker.html" 
-cover: "https://clover.coex.tech/assets/aruco-axis.png" 
+author: Pito Salasurl: "https://clover.coex.tech/en/aruco_marker.html" cover: "https://clover.coex.tech/assets/aruco-axis.png" 
 date: 2022-03-26 17:48:42
 tags:
     - aruco-aruco-detect-howto

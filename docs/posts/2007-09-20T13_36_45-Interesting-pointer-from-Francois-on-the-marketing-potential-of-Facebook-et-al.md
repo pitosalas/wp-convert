@@ -1,8 +1,6 @@
 ---
 title: "Interesting pointer from Francois on the marketing potential of Facebook et al"
 author: Pito Salas
-
-
 date: 2007-09-20T13:36:45
 ---
 

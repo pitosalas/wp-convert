@@ -1,8 +1,6 @@
 ---
 title: "Costa Rica Travel and Google 3D"
 author: Pito Salas
-
-
 date: 2012-01-19T16:07:42
 tags:
     - 3d

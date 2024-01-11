@@ -1,8 +1,6 @@
 ---
 title: "New words: COTS and GOTS"
 author: Pito Salas
-
-
 date: 2010-01-04T21:50:40
 tags:
     - evoting

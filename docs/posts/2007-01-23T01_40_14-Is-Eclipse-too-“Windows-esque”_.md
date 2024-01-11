@@ -1,8 +1,6 @@
 ---
 title: "Is Eclipse too “Windows-esque”?"
 author: Pito Salas
-
-
 date: 2007-01-23T01:40:14
 ---
 

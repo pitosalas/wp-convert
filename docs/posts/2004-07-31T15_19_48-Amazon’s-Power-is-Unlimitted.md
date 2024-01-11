@@ -1,8 +1,6 @@
 ---
 title: "Amazon’s Power is Unlimitted"
 author: Pito Salas
-
-
 date: 2004-07-31T15:19:48
 ---
 

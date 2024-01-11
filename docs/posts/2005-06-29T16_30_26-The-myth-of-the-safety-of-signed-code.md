@@ -1,8 +1,6 @@
 ---
 title: "The myth of the safety of signed code"
 author: Pito Salas
-
-
 date: 2005-06-29T16:30:26
 ---
 

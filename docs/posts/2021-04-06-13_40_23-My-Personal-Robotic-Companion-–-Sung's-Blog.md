@@ -1,8 +1,6 @@
 ---
 title: "My Personal Robotic Companion – Sung's Blog"
-author: Pito Salas
-url: "https://sungjik.wordpress.com/2015/09/28/my_personal_robotic_companion" 
-cover: "https://sungjik.files.wordpress.com/2015/09/20150926_215254.jpg?w=640" 
+author: Pito Salasurl: "https://sungjik.wordpress.com/2015/09/28/my_personal_robotic_companion" cover: "https://sungjik.files.wordpress.com/2015/09/20150926_215254.jpg?w=640" 
 date: 2021-04-06 13:40:23
 tags:
     - Robotics

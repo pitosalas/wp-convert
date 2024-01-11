@@ -1,8 +1,6 @@
 ---
 title: "Epistemological Modesty… What?"
 author: Pito Salas
-
-
 date: 2012-10-29T20:48:18
 tags:
     - david-brooks

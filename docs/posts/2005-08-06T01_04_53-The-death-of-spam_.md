@@ -1,8 +1,6 @@
 ---
 title: "The death of spam?"
 author: Pito Salas
-
-
 date: 2005-08-06T01:04:53
 ---
 

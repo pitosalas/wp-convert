@@ -1,8 +1,6 @@
 ---
 title: "Virtual People? (WTF Series, 2)"
 author: Pito Salas
-
-
 date: 2004-04-06T14:11:02
 ---
 

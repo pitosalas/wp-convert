@@ -1,8 +1,6 @@
 ---
 title: "Rosie O’Donnell has a blog"
 author: Pito Salas
-
-
 date: 2005-03-14T15:45:05
 ---
 

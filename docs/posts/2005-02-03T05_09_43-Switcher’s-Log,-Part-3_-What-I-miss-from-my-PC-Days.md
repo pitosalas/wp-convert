@@ -1,8 +1,6 @@
 ---
 title: "Switcher’s Log, Part 3: What I miss from my PC Days"
 author: Pito Salas
-
-
 date: 2005-02-03T05:09:43
 ---
 

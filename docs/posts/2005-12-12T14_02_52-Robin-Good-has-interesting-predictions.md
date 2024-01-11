@@ -1,8 +1,6 @@
 ---
 title: "Robin Good has interesting predictions"
 author: Pito Salas
-
-
 date: 2005-12-12T14:02:52
 ---
 

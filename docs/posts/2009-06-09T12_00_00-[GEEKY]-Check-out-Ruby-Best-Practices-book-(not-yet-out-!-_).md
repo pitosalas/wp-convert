@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Check out Ruby Best Practices book (not yet out ! :)"
 author: Pito Salas
-
-
 date: 2009-06-09T12:00:00
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Why don’t they ask you for identification before letting you vote?"
 author: Pito Salas
-
-
 date: 2011-04-08T20:24:24
 tags:
     - democracy

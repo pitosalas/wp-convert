@@ -1,8 +1,6 @@
 ---
 title: "Does your computer ever make a weird sound for no apparent reason?"
 author: Pito Salas
-
-
 date: 2008-06-18T15:03:30
 ---
 

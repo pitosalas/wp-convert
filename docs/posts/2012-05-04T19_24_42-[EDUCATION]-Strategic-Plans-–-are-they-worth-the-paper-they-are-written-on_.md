@@ -1,8 +1,6 @@
 ---
 title: "[EDUCATION] Strategic Plans – are they worth the paper they are written on?"
 author: Pito Salas
-
-
 date: 2012-05-04T19:24:42
 tags:
     - education

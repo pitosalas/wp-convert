@@ -1,8 +1,6 @@
 ---
 title: "Very funny: Build a better Bush"
 author: Pito Salas
-
-
 date: 2005-11-19T16:50:19
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Dave (not that one) writes about Fear of Failure"
 author: Pito Salas
-
-
 date: 2008-06-27T13:00:02
 ---
 

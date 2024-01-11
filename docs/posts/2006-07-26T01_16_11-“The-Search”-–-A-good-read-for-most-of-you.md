@@ -1,8 +1,6 @@
 ---
 title: "“The Search” – A good read for most of you"
 author: Pito Salas
-
-
 date: 2006-07-26T01:16:11
 ---
 

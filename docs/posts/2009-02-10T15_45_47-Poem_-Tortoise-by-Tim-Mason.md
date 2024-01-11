@@ -1,8 +1,6 @@
 ---
 title: "Poem: Tortoise by Tim Mason"
 author: Pito Salas
-
-
 date: 2009-02-10T15:45:47
 tags:
     - poem

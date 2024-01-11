@@ -1,8 +1,6 @@
 ---
 title: "[JAVAONE] User Interface Design"
 author: Pito Salas
-
-
 date: 2004-07-02T06:00:24
 ---
 

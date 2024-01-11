@@ -1,8 +1,6 @@
 ---
 title: "Email is not dead (Demo"
 author: Pito Salas
-
-
 date: 2004-03-01T01:20:29
 ---
 

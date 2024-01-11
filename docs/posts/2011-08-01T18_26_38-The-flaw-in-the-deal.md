@@ -1,8 +1,6 @@
 ---
 title: "The flaw in the deal"
 author: Pito Salas
-
-
 date: 2011-08-01T18:26:38
 tags:
     - debtceiling

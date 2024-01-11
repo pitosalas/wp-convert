@@ -1,8 +1,6 @@
 ---
 title: "Amusing junk mail story"
 author: Pito Salas
-
-
 date: 2005-06-24T20:01:12
 ---
 

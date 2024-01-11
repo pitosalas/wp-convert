@@ -1,8 +1,6 @@
 ---
 title: "How do you fit a 365 day calendar on an index card?"
 author: Pito Salas
-
-
 date: 2013-01-17T22:36:12
 tags:
     - calendar

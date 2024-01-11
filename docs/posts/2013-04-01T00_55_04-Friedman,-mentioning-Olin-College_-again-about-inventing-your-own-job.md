@@ -1,8 +1,6 @@
 ---
 title: "Friedman, mentioning Olin College: again about inventing your own job"
 author: Pito Salas
-
-
 date: 2013-04-01T00:55:04
 tags:
     - friedman

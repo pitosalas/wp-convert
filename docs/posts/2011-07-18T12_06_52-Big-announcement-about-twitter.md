@@ -1,8 +1,6 @@
 ---
 title: "Big announcement about twitter"
 author: Pito Salas
-
-
 date: 2011-07-18T12:06:52
 tags:
     - BlogBridge

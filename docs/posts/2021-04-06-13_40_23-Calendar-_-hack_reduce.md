@@ -1,8 +1,6 @@
 ---
 title: "Calendar | hack/reduce"
-author: Pito Salas
-url: "http://www.hackreduce.org/calendar" 
-cover: "" 
+author: Pito Salasurl: "http://www.hackreduce.org/calendar" cover: "" 
 date: 2021-04-06 13:40:23
 tags:
     - nonprofit-pr-hack

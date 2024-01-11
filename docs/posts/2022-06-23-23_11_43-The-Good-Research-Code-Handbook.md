@@ -1,8 +1,6 @@
 ---
 title: "The Good Research Code Handbook"
-author: Pito Salas
-url: "https://goodresearch.dev/index.html" 
-cover: "https://goodresearch.dev/_images/unicorn.png" 
+author: Pito Salasurl: "https://goodresearch.dev/index.html" cover: "https://goodresearch.dev/_images/unicorn.png" 
 date: 2022-06-23 23:11:43
 tags:
     - python-software-engineering-standards-recommendations-programming-languages

@@ -1,8 +1,6 @@
 ---
 title: "Garage Door Parts | Hinges, Brackets, Cables, Locks, Springs, Rollers"
-author: Pito Salas
-url: "https://www.waynedaltonparts.com/collections/garage-door-parts?gclid=CNvjltO2orYCFUhV4AodCisAng" 
-cover: "http://cdn.shopify.com/s/files/1/1499/9402/products/WD-T275-4_600x.jpg?v=1595280045" 
+author: Pito Salasurl: "https://www.waynedaltonparts.com/collections/garage-door-parts?gclid=CNvjltO2orYCFUhV4AodCisAng" cover: "http://cdn.shopify.com/s/files/1/1499/9402/products/WD-T275-4_600x.jpg?v=1595280045" 
 date: 2021-04-06 13:40:23
 ---
 <img src=http://cdn.shopify.com/s/files/1/1499/9402/products/WD-T275-4_600x.jpg?v=1595280045 width="500">

@@ -1,8 +1,6 @@
 ---
 title: "Talking about RSS Aggregators"
 author: Pito Salas
-
-
 date: 2005-04-01T22:17:00
 ---
 

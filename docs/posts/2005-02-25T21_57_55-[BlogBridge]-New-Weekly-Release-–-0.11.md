@@ -1,8 +1,6 @@
 ---
 title: "[BlogBridge] New Weekly Release – 0.11"
 author: Pito Salas
-
-
 date: 2005-02-25T21:57:55
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Amazing little rover “calculates its"
 author: Pito Salas
-
-
 date: 2004-02-26T02:37:00
 ---
 

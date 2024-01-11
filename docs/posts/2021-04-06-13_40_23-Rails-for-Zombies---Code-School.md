@@ -1,8 +1,6 @@
 ---
 title: "Rails for Zombies - Code School"
-author: Pito Salas
-url: "http://www.codeschool.com/courses/rails-for-zombies" 
-cover: "https://pluralsight.imgix.net/course-images/code-school-rails-for-zombies-v1.png" 
+author: Pito Salasurl: "http://www.codeschool.com/courses/rails-for-zombies" cover: "https://pluralsight.imgix.net/course-images/code-school-rails-for-zombies-v1.png" 
 date: 2021-04-06 13:40:23
 tags:
     - ruby-rails-teaching-learning

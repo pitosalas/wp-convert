@@ -1,8 +1,6 @@
 ---
 title: "Worth reading: Don’t BS the American People About Iraq, Syria, and ISIL"
 author: Pito Salas
-
-
 date: 2014-08-22T15:57:02
 ---
 

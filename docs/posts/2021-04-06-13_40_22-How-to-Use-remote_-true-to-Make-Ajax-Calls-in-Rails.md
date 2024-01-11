@@ -1,8 +1,6 @@
 ---
 title: "How to Use remote: true to Make Ajax Calls in Rails"
-author: Pito Salas
-url: "https://medium.com/@codenode/how-to-use-remote-true-to-make-ajax-calls-in-rails-3ecbed40869b" 
-cover: "https://rdl.ink/render/https%3A%2F%2Fmedium.com%2F%40codenode%2Fhow-to-use-remote-true-to-make-ajax-calls-in-rails-3ecbed40869b" 
+author: Pito Salasurl: "https://medium.com/@codenode/how-to-use-remote-true-to-make-ajax-calls-in-rails-3ecbed40869b" cover: "https://rdl.ink/render/https%3A%2F%2Fmedium.com%2F%40codenode%2Fhow-to-use-remote-true-to-make-ajax-calls-in-rails-3ecbed40869b" 
 date: 2021-04-06 13:40:22
 tags:
     - remote-ajax-rails

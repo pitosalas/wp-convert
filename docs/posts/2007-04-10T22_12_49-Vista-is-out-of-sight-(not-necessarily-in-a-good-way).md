@@ -1,8 +1,6 @@
 ---
 title: "Vista is out-of-sight (not necessarily in a good way)"
 author: Pito Salas
-
-
 date: 2007-04-10T22:12:49
 ---
 

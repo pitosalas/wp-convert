@@ -1,8 +1,6 @@
 ---
 title: "Curacao in Open Source News?!"
 author: Pito Salas
-
-
 date: 2004-11-19T14:41:43
 ---
 

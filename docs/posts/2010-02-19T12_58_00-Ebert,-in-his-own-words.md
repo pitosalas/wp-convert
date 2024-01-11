@@ -1,8 +1,6 @@
 ---
 title: "Ebert, in his own words"
 author: Pito Salas
-
-
 date: 2010-02-19T12:58:00
 ---
 

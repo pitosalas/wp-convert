@@ -1,8 +1,6 @@
 ---
 title: "Steve Jobs’ Change of Heart: iPhone SDK on its Way!"
 author: Pito Salas
-
-
 date: 2007-10-18T03:29:30
 ---
 

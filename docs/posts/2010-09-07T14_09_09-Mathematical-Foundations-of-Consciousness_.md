@@ -1,8 +1,6 @@
 ---
 title: "Mathematical Foundations of Consciousness?"
 author: Pito Salas
-
-
 date: 2010-09-07T14:09:09
 tags:
     - consciousness

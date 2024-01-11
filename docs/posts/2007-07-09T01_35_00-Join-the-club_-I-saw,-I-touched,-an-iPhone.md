@@ -1,8 +1,6 @@
 ---
 title: "Join the club: I saw, I touched, an iPhone"
 author: Pito Salas
-
-
 date: 2007-07-09T01:35:00
 ---
 

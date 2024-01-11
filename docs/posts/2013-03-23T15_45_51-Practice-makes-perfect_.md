@@ -1,8 +1,6 @@
 ---
 title: "Practice makes perfect?"
 author: Pito Salas
-
-
 date: 2013-03-23T15:45:51
 tags:
     - learning

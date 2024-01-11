@@ -1,8 +1,6 @@
 ---
 title: "Help us find out what’s going on in enterprise blogging"
 author: Pito Salas
-
-
 date: 2005-09-28T21:37:34
 ---
 

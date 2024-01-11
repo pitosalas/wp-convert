@@ -1,8 +1,6 @@
 ---
 title: "Rails Talk Ruby CSS Parser"
-author: Pito Salas
-url: "http://railstalk.com/2010/1/5/ruby-css-parser" 
-cover: "" 
+author: Pito Salasurl: "http://railstalk.com/2010/1/5/ruby-css-parser" cover: "" 
 date: 2021-04-06 13:40:23
 ---
 <img src= width="500">

@@ -1,8 +1,6 @@
 ---
 title: "Interesting old article by Marvin Minsky"
 author: Pito Salas
-
-
 date: 2010-01-19T00:01:00
 tags:
     - ai

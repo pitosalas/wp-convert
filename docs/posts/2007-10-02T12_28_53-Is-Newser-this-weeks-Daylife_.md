@@ -1,8 +1,6 @@
 ---
 title: "Is Newser this weeks Daylife?"
 author: Pito Salas
-
-
 date: 2007-10-02T12:28:53
 ---
 

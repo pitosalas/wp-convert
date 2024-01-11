@@ -1,8 +1,6 @@
 ---
 title: "Bartosz Ciechanowski"
-author: Pito Salas
-url: "https://ciechanow.ski/" 
-cover: "https://rdl.ink/render/https%3A%2F%2Fciechanow.ski%2F" 
+author: Pito Salasurl: "https://ciechanow.ski/" cover: "https://rdl.ink/render/https%3A%2F%2Fciechanow.ski%2F" 
 date: 2022-05-08 03:29:48
 tags:
     - visual-explanation-gps-watches-gears-review

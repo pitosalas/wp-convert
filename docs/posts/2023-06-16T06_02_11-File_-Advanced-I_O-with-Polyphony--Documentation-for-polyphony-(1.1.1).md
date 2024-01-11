@@ -1,8 +1,6 @@
 ---
 title: "File: Advanced I/O with Polyphony  Documentation for polyphony (1.1.1)"
 author: Pito Salas
-
-
 date: 2023-06-16T06:02:11
 tags:
     - gem

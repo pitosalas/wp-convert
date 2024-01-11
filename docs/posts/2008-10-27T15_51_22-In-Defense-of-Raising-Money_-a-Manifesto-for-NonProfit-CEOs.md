@@ -1,8 +1,6 @@
 ---
 title: "In Defense of Raising Money: a Manifesto for NonProfit CEOs"
 author: Pito Salas
-
-
 date: 2008-10-27T15:51:22
 ---
 

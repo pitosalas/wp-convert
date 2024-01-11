@@ -1,8 +1,6 @@
 ---
 title: "Invest in Innovation"
 author: Pito Salas
-
-
 date: 2008-11-11T19:16:14
 ---
 

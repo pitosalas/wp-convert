@@ -1,8 +1,6 @@
 ---
 title: "Graphing Social Patterns conference looks interesting"
 author: Pito Salas
-
-
 date: 2007-10-21T16:53:52
 ---
 

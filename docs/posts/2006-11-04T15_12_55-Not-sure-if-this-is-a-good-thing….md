@@ -1,8 +1,6 @@
 ---
 title: "Not sure if this is a good thing…"
 author: Pito Salas
-
-
 date: 2006-11-04T15:12:55
 ---
 

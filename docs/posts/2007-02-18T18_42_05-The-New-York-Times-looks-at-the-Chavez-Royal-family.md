@@ -1,8 +1,6 @@
 ---
 title: "The New York Times looks at the Chavez Royal family"
 author: Pito Salas
-
-
 date: 2007-02-18T18:42:05
 ---
 

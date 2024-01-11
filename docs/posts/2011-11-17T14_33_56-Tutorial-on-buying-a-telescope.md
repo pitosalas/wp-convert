@@ -1,8 +1,6 @@
 ---
 title: "Tutorial on buying a telescope"
 author: Pito Salas
-
-
 date: 2011-11-17T14:33:56
 tags:
     - astronomy

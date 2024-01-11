@@ -1,8 +1,6 @@
 ---
 title: "Security Myth: Generic Login Error"
 author: Pito Salas
-
-
 date: 2007-09-05T20:48:33
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Andy Payne goes to Flexcamp"
 author: Pito Salas
-
-
 date: 2007-12-17T16:00:21
 ---
 

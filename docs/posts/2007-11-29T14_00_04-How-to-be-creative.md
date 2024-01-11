@@ -1,8 +1,6 @@
 ---
 title: "How to be creative"
 author: Pito Salas
-
-
 date: 2007-11-29T14:00:04
 ---
 

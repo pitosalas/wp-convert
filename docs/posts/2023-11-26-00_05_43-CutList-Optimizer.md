@@ -1,8 +1,6 @@
 ---
 title: "CutList Optimizer"
-author: Pito Salas
-url: "https://cutlistoptimizer.com/?utm_campaign=Gareth%27s%20Tips,%20Tools,%20and%20Shop%20Tales&utm_medium=email&utm_source=Revue%20newsletter" 
-cover: "" 
+author: Pito Salasurl: "https://cutlistoptimizer.com/?utm_campaign=Gareth%27s%20Tips,%20Tools,%20and%20Shop%20Tales&utm_medium=email&utm_source=Revue%20newsletter" cover: "" 
 date: 2023-11-26 00:05:43
 tags:
     - woodworking-cutting-saw-plywood

@@ -1,8 +1,6 @@
 ---
 title: "Asymmetrical  conflict in the blogosphere"
 author: Pito Salas
-
-
 date: 2008-05-22T13:38:58
 tags:
     - blogging-fairness

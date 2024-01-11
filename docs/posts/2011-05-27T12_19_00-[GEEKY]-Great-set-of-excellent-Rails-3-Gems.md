@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Great set of excellent Rails 3 Gems"
 author: Pito Salas
-
-
 date: 2011-05-27T12:19:00
 tags:
     - gems

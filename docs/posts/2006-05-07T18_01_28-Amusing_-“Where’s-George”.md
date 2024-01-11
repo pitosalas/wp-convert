@@ -1,8 +1,6 @@
 ---
 title: "Amusing: “Where’s George”"
 author: Pito Salas
-
-
 date: 2006-05-07T18:01:28
 ---
 

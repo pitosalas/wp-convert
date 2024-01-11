@@ -1,8 +1,6 @@
 ---
 title: "Welcome to Movable Type"
 author: Pito Salas
-
-
 date: 2004-04-06T19:56:24
 ---
 

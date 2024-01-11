@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Mac will be discontinuing support of Java"
 author: Pito Salas
-
-
 date: 2010-10-22T14:23:20
 ---
 

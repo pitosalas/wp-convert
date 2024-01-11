@@ -1,8 +1,6 @@
 ---
 title: "Good news for Australian single men?"
 author: Pito Salas
-
-
 date: 2008-08-30T12:55:02
 ---
 

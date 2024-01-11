@@ -1,8 +1,6 @@
 ---
 title: "Introduction to Rails Engines – FastRuby.io | Rails Upgrade Service"
 author: Pito Salas
-
-
 date: 2023-06-01T20:14:43
 tags:
     - architecture

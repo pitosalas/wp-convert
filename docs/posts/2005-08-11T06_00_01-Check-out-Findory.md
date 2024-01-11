@@ -1,8 +1,6 @@
 ---
 title: "Check out Findory"
 author: Pito Salas
-
-
 date: 2005-08-11T06:00:01
 ---
 

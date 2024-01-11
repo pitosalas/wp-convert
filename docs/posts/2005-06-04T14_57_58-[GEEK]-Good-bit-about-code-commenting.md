@@ -1,8 +1,6 @@
 ---
 title: "[GEEK] Good bit about code commenting"
 author: Pito Salas
-
-
 date: 2005-06-04T14:57:58
 ---
 

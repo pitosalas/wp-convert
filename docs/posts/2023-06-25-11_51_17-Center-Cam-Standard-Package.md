@@ -1,8 +1,6 @@
 ---
 title: "Center Cam Standard Package"
-author: Pito Salas
-url: "https://thecentercam.com/products/center-cam-standard-package" 
-cover: "http://cdn.shopify.com/s/files/1/0550/1891/4000/products/IMG_74362.jpg?v=1671240795" 
+author: Pito Salasurl: "https://thecentercam.com/products/center-cam-standard-package" cover: "http://cdn.shopify.com/s/files/1/0550/1891/4000/products/IMG_74362.jpg?v=1671240795" 
 date: 2023-06-25 11:51:17
 tags:
     - cooltool-zoom-eye-camera

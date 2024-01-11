@@ -1,8 +1,6 @@
 ---
 title: "This is not a religious blog"
 author: Pito Salas
-
-
 date: 2005-03-07T21:52:23
 ---
 

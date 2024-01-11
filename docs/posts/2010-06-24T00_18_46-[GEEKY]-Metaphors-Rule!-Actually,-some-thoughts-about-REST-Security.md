@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Metaphors Rule! Actually, some thoughts about REST Security"
 author: Pito Salas
-
-
 date: 2010-06-24T00:18:46
 ---
 

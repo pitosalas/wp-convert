@@ -1,8 +1,6 @@
 ---
 title: "Urban Outfitters Rip Off Independent Artists?"
 author: Pito Salas
-
-
 date: 2011-05-30T12:53:56
 tags:
     - twitter

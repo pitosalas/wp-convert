@@ -1,8 +1,6 @@
 ---
 title: "Interesting analysis of accuracy"
 author: Pito Salas
-
-
 date: 2006-10-18T14:56:32
 ---
 

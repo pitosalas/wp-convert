@@ -1,8 +1,6 @@
 ---
 title: "Garrison Keillor: America is cool!"
 author: Pito Salas
-
-
 date: 2008-11-14T22:56:17
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "[ETECH] Reasonableness"
 author: Pito Salas
-
-
 date: 2005-03-15T17:51:33
 ---
 

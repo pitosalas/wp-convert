@@ -1,8 +1,6 @@
 ---
 title: "Interesting: Best Buy Still Using Its Secret Website"
 author: Pito Salas
-
-
 date: 2007-03-20T19:01:23
 ---
 

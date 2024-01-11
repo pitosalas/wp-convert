@@ -1,8 +1,6 @@
 ---
 title: "Support your local bookstore"
 author: Pito Salas
-
-
 date: 2012-01-26T23:40:21
 tags:
     - amazon

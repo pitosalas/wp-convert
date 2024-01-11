@@ -1,8 +1,6 @@
 ---
 title: "“We might as well have a good time while we’re here, don’t you think?”"
 author: Pito Salas
-
-
 date: 2012-03-28T20:59:39
 tags:
     - craig-lucas

@@ -1,8 +1,6 @@
 ---
 title: "Scott Adams (Dilbert in real life) Writes about the future of the internet. Insightfully."
 author: Pito Salas
-
-
 date: 2010-08-22T13:27:00
 ---
 

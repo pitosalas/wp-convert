@@ -1,8 +1,6 @@
 ---
 title: "Comparing Ruby Background Processing Libraries: Delayed Job – SitePoint"
 author: Pito Salas
-
-
 date: 2022-03-28T12:32:34
 tags:
     - performance

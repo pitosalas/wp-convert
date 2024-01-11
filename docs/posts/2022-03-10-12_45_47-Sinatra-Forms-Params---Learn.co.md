@@ -1,8 +1,6 @@
 ---
 title: "Sinatra Forms Params - Learn.co"
-author: Pito Salas
-url: "https://learn.co/lessons/sinatra-forms-params-readme-walkthrough" 
-cover: "https://flatironschool-static.s3.amazonaws.com/learn-social.png" 
+author: Pito Salasurl: "https://learn.co/lessons/sinatra-forms-params-readme-walkthrough" cover: "https://flatironschool-static.s3.amazonaws.com/learn-social.png" 
 date: 2022-03-10 12:45:47
 tags:
     - sinatra-forms-example-tutorial

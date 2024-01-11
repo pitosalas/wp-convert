@@ -1,8 +1,6 @@
 ---
 title: "A fascinating story of Curt Shilling’s game company’s demise"
 author: Pito Salas
-
-
 date: 2013-04-21T15:32:09
 tags:
     - curt-shilling

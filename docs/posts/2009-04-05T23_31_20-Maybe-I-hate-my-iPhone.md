@@ -1,8 +1,6 @@
 ---
 title: "Maybe I hate my iPhone"
 author: Pito Salas
-
-
 date: 2009-04-05T23:31:20
 tags:
     - iphone

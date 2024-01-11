@@ -1,8 +1,6 @@
 ---
 title: "“The Real Housewives of Wall Street”"
 author: Pito Salas
-
-
 date: 2011-06-12T18:27:37
 tags:
     - bailout

@@ -1,8 +1,6 @@
 ---
 title: "Snow Planet Winnipisaukee"
 author: Pito Salas
-
-
 date: 2013-02-05T20:58:12
 tags:
     - new-hampshire

@@ -1,8 +1,6 @@
 ---
 title: "Art in Willemstad"
 author: Pito Salas
-
-
 date: 2012-03-15T02:00:57
 tags:
     - art

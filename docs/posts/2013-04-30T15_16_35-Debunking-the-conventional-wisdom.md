@@ -1,8 +1,6 @@
 ---
 title: "Debunking the conventional wisdom"
 author: Pito Salas
-
-
 date: 2013-04-30T15:16:35
 tags:
     - age

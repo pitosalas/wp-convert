@@ -1,8 +1,6 @@
 ---
 title: "Chess and Violent Meditation"
 author: Pito Salas
-
-
 date: 2006-12-13T20:59:19
 ---
 

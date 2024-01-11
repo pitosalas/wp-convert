@@ -1,8 +1,6 @@
 ---
 title: "Pivotal Tracker, watch out for Trajectory"
 author: Pito Salas
-
-
 date: 2011-07-30T20:55:16
 tags:
     - pivotaltracker

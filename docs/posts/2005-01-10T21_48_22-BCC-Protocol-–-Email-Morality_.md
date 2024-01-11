@@ -1,8 +1,6 @@
 ---
 title: "BCC Protocol – Email Morality?"
 author: Pito Salas
-
-
 date: 2005-01-10T21:48:22
 ---
 

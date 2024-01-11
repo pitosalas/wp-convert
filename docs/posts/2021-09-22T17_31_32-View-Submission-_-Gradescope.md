@@ -1,8 +1,6 @@
 ---
 title: "View Submission | Gradescope"
 author: Pito Salas
-
-
 date: 2021-09-22T17:31:32
 ---
 

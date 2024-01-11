@@ -1,8 +1,6 @@
 ---
 title: "Shakey-bakey Security"
 author: Pito Salas
-
-
 date: 2007-11-21T15:06:37
 ---
 

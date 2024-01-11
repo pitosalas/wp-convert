@@ -1,8 +1,6 @@
 ---
 title: "‘Like a Full-Body Massage’: Thinking About the TSA"
 author: Pito Salas
-
-
 date: 2010-11-23T16:51:47
 ---
 

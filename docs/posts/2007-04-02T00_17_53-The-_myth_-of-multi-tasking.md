@@ -1,8 +1,6 @@
 ---
 title: "The *myth* of multi-tasking"
 author: Pito Salas
-
-
 date: 2007-04-02T00:17:53
 ---
 

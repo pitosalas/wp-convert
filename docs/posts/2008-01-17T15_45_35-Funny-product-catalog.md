@@ -1,8 +1,6 @@
 ---
 title: "Funny product catalog"
 author: Pito Salas
-
-
 date: 2008-01-17T15:45:35
 ---
 

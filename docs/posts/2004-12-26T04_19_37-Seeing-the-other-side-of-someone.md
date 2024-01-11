@@ -1,8 +1,6 @@
 ---
 title: "Seeing the other side of someone"
 author: Pito Salas
-
-
 date: 2004-12-26T04:19:37
 ---
 

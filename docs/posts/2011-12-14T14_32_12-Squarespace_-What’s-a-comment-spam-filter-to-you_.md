@@ -1,8 +1,6 @@
 ---
 title: "Squarespace: What’s a comment spam filter to you?"
 author: Pito Salas
-
-
 date: 2011-12-14T14:32:12
 tags:
     - commentspam

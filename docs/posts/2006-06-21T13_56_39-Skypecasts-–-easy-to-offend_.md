@@ -1,8 +1,6 @@
 ---
 title: "Skypecasts – easy to offend?"
 author: Pito Salas
-
-
 date: 2006-06-21T13:56:39
 ---
 

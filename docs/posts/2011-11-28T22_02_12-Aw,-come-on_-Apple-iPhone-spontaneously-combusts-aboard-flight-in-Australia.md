@@ -1,8 +1,6 @@
 ---
 title: "Aw, come on: Apple iPhone spontaneously combusts aboard flight in Australia"
 author: Pito Salas
-
-
 date: 2011-11-28T22:02:12
 tags:
     - fire

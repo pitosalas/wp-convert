@@ -1,8 +1,6 @@
 ---
 title: "This has got to be a joke: “Appendectomy through the mouth”"
 author: Pito Salas
-
-
 date: 2007-05-02T23:32:17
 ---
 

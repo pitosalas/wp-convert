@@ -1,8 +1,6 @@
 ---
 title: "XConomy’s Battle of the bands"
 author: Pito Salas
-
-
 date: 2008-12-05T18:21:08
 tags:
     - xconomy-bands-music-boston

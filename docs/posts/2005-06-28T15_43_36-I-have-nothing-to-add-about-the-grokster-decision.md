@@ -1,8 +1,6 @@
 ---
 title: "I have nothing to add about the grokster decision"
 author: Pito Salas
-
-
 date: 2005-06-28T15:43:36
 ---
 

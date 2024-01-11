@@ -1,8 +1,6 @@
 ---
 title: "A True Horror Story About Why We Need Authentication Standards"
 author: Pito Salas
-
-
 date: 2008-03-16T14:34:00
 ---
 

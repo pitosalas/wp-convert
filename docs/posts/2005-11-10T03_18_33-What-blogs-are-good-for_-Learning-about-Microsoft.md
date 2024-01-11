@@ -1,8 +1,6 @@
 ---
 title: "What blogs are good for: Learning about Microsoft"
 author: Pito Salas
-
-
 date: 2005-11-10T03:18:33
 ---
 

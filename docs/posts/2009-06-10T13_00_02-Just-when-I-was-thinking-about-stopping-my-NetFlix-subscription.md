@@ -1,8 +1,6 @@
 ---
 title: "Just when I was thinking about stopping my NetFlix subscription"
 author: Pito Salas
-
-
 date: 2009-06-10T13:00:02
 ---
 

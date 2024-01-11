@@ -1,8 +1,6 @@
 ---
 title: "What’s a carrotmob?"
 author: Pito Salas
-
-
 date: 2010-02-14T09:55:00
 ---
 

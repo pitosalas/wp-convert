@@ -1,8 +1,6 @@
 ---
 title: "BloggerCon – Wish I was there"
 author: Pito Salas
-
-
 date: 2006-06-24T14:54:12
 ---
 

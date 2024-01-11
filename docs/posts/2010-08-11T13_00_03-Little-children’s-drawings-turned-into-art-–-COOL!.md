@@ -1,8 +1,6 @@
 ---
 title: "Little children’s drawings turned into art – COOL!"
 author: Pito Salas
-
-
 date: 2010-08-11T13:00:03
 tags:
     - art

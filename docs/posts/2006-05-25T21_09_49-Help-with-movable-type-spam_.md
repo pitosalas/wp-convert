@@ -1,8 +1,6 @@
 ---
 title: "Help with movable type spam?"
 author: Pito Salas
-
-
 date: 2006-05-25T21:09:49
 ---
 

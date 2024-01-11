@@ -1,8 +1,6 @@
 ---
 title: "Amazing: 400ms makes a difference"
 author: Pito Salas
-
-
 date: 2013-01-31T21:12:04
 tags:
     - market

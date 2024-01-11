@@ -1,8 +1,6 @@
 ---
 title: "In Boston, Bruins more important than Bin Laden!"
 author: Pito Salas
-
-
 date: 2011-06-17T14:02:41
 tags:
     - binladen

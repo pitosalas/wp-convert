@@ -1,8 +1,6 @@
 ---
 title: "Three on getting a job"
 author: Pito Salas
-
-
 date: 2008-04-03T04:39:41
 ---
 

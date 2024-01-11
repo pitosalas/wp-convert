@@ -1,8 +1,6 @@
 ---
 title: "A Great Math Site: Understanding the Analemma"
 author: Pito Salas
-
-
 date: 2006-12-30T23:44:49
 ---
 

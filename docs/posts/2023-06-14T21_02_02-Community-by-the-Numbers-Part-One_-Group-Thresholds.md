@@ -1,8 +1,6 @@
 ---
 title: "Community by the Numbers Part One: Group Thresholds"
 author: Pito Salas
-
-
 date: 2023-06-14T21:02:02
 tags:
     - dunbar

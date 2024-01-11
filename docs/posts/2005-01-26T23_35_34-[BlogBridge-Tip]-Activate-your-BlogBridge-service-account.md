@@ -1,8 +1,6 @@
 ---
 title: "[BlogBridge Tip] Activate your BlogBridge service account"
 author: Pito Salas
-
-
 date: 2005-01-26T23:35:34
 ---
 

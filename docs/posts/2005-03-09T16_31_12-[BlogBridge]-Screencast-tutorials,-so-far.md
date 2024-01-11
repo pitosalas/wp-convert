@@ -1,8 +1,6 @@
 ---
 title: "[BlogBridge] Screencast tutorials, so far"
 author: Pito Salas
-
-
 date: 2005-03-09T16:31:12
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Interesting blog survey"
 author: Pito Salas
-
-
 date: 2005-03-24T04:11:11
 ---
 

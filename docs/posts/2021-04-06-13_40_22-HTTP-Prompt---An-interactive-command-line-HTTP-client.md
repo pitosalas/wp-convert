@@ -1,8 +1,6 @@
 ---
 title: "HTTP Prompt - An interactive command-line HTTP client"
-author: Pito Salas
-url: "http://http-prompt.com" 
-cover: "https://rdl.ink/render/http%3A%2F%2Fhttp-prompt.com" 
+author: Pito Salasurl: "http://http-prompt.com" cover: "https://rdl.ink/render/http%3A%2F%2Fhttp-prompt.com" 
 date: 2021-04-06 13:40:22
 tags:
     - cli-utilities-http-web-tools-Rest

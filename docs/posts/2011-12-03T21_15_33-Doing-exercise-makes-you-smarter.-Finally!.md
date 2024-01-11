@@ -1,8 +1,6 @@
 ---
 title: "Doing exercise makes you smarter. Finally!"
 author: Pito Salas
-
-
 date: 2011-12-03T21:15:33
 tags:
     - excercise

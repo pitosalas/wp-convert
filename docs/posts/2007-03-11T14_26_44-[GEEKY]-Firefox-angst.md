@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Firefox angst"
 author: Pito Salas
-
-
 date: 2007-03-11T14:26:44
 ---
 

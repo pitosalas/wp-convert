@@ -1,8 +1,6 @@
 ---
 title: "Out of body experiences"
 author: Pito Salas
-
-
 date: 2007-08-27T21:50:28
 ---
 

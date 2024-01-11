@@ -1,8 +1,6 @@
 ---
 title: "More on truly weird medical condition"
 author: Pito Salas
-
-
 date: 2008-12-18T20:27:37
 ---
 

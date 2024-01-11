@@ -1,8 +1,6 @@
 ---
 title: "When is a native app not a native app?"
 author: Pito Salas
-
-
 date: 2006-08-04T00:12:37
 ---
 

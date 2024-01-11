@@ -1,8 +1,6 @@
 ---
 title: "Coolest connection speed tester ever"
 author: Pito Salas
-
-
 date: 2006-08-15T18:08:32
 ---
 

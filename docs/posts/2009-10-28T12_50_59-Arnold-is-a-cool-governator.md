@@ -1,8 +1,6 @@
 ---
 title: "Arnold is a cool governator"
 author: Pito Salas
-
-
 date: 2009-10-28T12:50:59
 ---
 

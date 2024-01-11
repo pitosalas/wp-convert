@@ -1,8 +1,6 @@
 ---
 title: "Testing Rails Apps with FactoryBot and MiniTest"
-author: Pito Salas
-url: "https://fuzzyblog.io/blog/rails/2022/07/27/testing-rails-apps-with-factorybot-and-minitest.html" 
-cover: "http://fuzzyblog.io/blog/assets/scott_johnson.jpg" 
+author: Pito Salasurl: "https://fuzzyblog.io/blog/rails/2022/07/27/testing-rails-apps-with-factorybot-and-minitest.html" cover: "http://fuzzyblog.io/blog/assets/scott_johnson.jpg" 
 date: 2022-10-13 16:56:45
 tags:
     - testing-test-factorybot-minitest-howto-rails

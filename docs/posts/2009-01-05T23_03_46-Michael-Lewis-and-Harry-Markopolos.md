@@ -1,8 +1,6 @@
 ---
 title: "Michael Lewis and Harry Markopolos"
 author: Pito Salas
-
-
 date: 2009-01-05T23:03:46
 tags:
     - harry-markopolos

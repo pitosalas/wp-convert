@@ -1,8 +1,6 @@
 ---
 title: "Use Postgres for everything!"
-author: Pito Salas
-url: "https://www.amazingcto.com/postgres-for-everything/" 
-cover: "https://www.amazingcto.com/Amazing_CTO_Banner.png" 
+author: Pito Salasurl: "https://www.amazingcto.com/postgres-for-everything/" cover: "https://www.amazingcto.com/Amazing_CTO_Banner.png" 
 date: 2022-12-18 12:49:00
 tags:
     - architecture-simplify-postgres-insights-yagni-redis

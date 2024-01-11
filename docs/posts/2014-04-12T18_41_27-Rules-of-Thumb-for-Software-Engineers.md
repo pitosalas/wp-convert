@@ -1,8 +1,6 @@
 ---
 title: "Rules of Thumb for Software Engineers"
 author: Pito Salas
-
-
 date: 2014-04-12T18:41:27
 tags:
     - engineering

@@ -1,8 +1,6 @@
 ---
 title: "Watches For Men and Women, Handbags, Crystal, Pens - Jomashop"
-author: Pito Salas
-url: "https://www.jomashop.com" 
-cover: "https://cdn2.jomashop.com/media/logo/stores/1/jomashop_200x200.png" 
+author: Pito Salasurl: "https://www.jomashop.com" cover: "https://cdn2.jomashop.com/media/logo/stores/1/jomashop_200x200.png" 
 date: 2021-04-06 13:40:22
 ---
 <img src=https://cdn2.jomashop.com/media/logo/stores/1/jomashop_200x200.png width="500">

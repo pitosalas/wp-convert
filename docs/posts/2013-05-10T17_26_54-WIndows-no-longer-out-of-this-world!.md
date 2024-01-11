@@ -1,8 +1,6 @@
 ---
 title: "WIndows no longer out of this world!"
 author: Pito Salas
-
-
 date: 2013-05-10T17:26:54
 tags:
     - international-space-station

@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Using bundler to create and publish a gem"
 author: Pito Salas
-
-
 date: 2013-08-30T20:34:11
 tags:
     - bundler

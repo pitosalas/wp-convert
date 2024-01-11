@@ -1,8 +1,6 @@
 ---
 title: "The other side of the Snowden story"
 author: Pito Salas
-
-
 date: 2013-09-05T01:03:24
 tags:
     - nsa

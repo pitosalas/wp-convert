@@ -1,8 +1,6 @@
 ---
 title: "Zero Dark Thirty"
 author: Pito Salas
-
-
 date: 2013-02-03T19:05:48
 tags:
     - movies

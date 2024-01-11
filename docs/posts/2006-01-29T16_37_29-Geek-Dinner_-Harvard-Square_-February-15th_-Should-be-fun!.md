@@ -1,8 +1,6 @@
 ---
 title: "Geek Dinner? Harvard Square? February 15th? Should be fun!"
 author: Pito Salas
-
-
 date: 2006-01-29T16:37:29
 ---
 

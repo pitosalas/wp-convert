@@ -1,8 +1,6 @@
 ---
 title: "Khan academy to the rescue"
 author: Pito Salas
-
-
 date: 2011-10-25T13:54:09
 tags:
     - learning

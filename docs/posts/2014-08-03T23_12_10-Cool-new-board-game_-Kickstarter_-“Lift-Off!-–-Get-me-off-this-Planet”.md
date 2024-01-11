@@ -1,8 +1,6 @@
 ---
 title: "Cool new board game: Kickstarter: “Lift Off! – Get me off this Planet”"
 author: Pito Salas
-
-
 date: 2014-08-03T23:12:10
 ---
 

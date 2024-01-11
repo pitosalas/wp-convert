@@ -1,8 +1,6 @@
 ---
 title: "Charitable Mutual Funds (updated)"
 author: Pito Salas
-
-
 date: 2011-03-11T16:09:36
 tags:
     - charity

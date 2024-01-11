@@ -1,8 +1,6 @@
 ---
 title: "Nation Building"
 author: Pito Salas
-
-
 date: 2011-10-04T15:08:32
 tags:
     - afghanistan

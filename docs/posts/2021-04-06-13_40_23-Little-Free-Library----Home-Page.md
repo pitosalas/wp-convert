@@ -1,8 +1,6 @@
 ---
 title: "Little Free Library  - Home Page"
-author: Pito Salas
-url: "http://www.littlefreelibrary.org/index.html" 
-cover: "" 
+author: Pito Salasurl: "http://www.littlefreelibrary.org/index.html" cover: "" 
 date: 2021-04-06 13:40:23
 tags:
     - library-books-community-libraries

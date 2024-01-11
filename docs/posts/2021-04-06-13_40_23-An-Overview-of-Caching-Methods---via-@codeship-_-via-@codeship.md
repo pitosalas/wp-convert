@@ -1,8 +1,6 @@
 ---
 title: "An Overview of Caching Methods - via @codeship | via @codeship"
-author: Pito Salas
-url: "https://blog.codeship.com/an-overview-of-caching-methods" 
-cover: "https://images.ctfassets.net/vtn4rfaw6n2j/7AOw3m7oclZnjRKBoLVBZR/fefcaeee8940e725be02b5c10422a2ab/https___blog.codeship.com_wp-content_uploads_2017_10_Initial-request.png?w=1200&h=627&fit=fill" 
+author: Pito Salasurl: "https://blog.codeship.com/an-overview-of-caching-methods" cover: "https://images.ctfassets.net/vtn4rfaw6n2j/7AOw3m7oclZnjRKBoLVBZR/fefcaeee8940e725be02b5c10422a2ab/https___blog.codeship.com_wp-content_uploads_2017_10_Initial-request.png?w=1200&h=627&fit=fill" 
 date: 2021-04-06 13:40:23
 tags:
     - Software-Engineering

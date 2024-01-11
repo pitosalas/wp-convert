@@ -1,8 +1,6 @@
 ---
 title: "The Mystic (in Three Minutes) on Vimeo"
-author: Pito Salas
-url: "http://vimeo.com/16535358" 
-cover: "https://i.vimeocdn.com/video/101392559_295x166.jpg" 
+author: Pito Salasurl: "http://vimeo.com/16535358" cover: "https://i.vimeocdn.com/video/101392559_295x166.jpg" 
 date: 2021-04-06 13:40:23
 ---
 <img src=https://i.vimeocdn.com/video/101392559_295x166.jpg width="500">

@@ -1,8 +1,6 @@
 ---
 title: "Try These 8 Modern Alternatives to Common Unix Commands"
-author: Pito Salas
-url: "https://link.medium.com/9sglvcTqZtb" 
-cover: "https://miro.medium.com/max/1200/1*0SywjMtUl7GSVFYVpbTJow.png" 
+author: Pito Salasurl: "https://link.medium.com/9sglvcTqZtb" cover: "https://miro.medium.com/max/1200/1*0SywjMtUl7GSVFYVpbTJow.png" 
 date: 2022-10-09 16:48:43
 tags:
     - linux-cli-utilities-howto-best

@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Agent: Go-Like Concurrency in Ruby"
 author: Pito Salas
-
-
 date: 2014-06-26T23:49:47
 tags:
     - ruby;-concurrency;-geeky;-golang

@@ -1,8 +1,6 @@
 ---
 title: "A cautionary utility computing tale – or the dark side of Mashups"
 author: Pito Salas
-
-
 date: 2007-01-06T16:08:42
 ---
 

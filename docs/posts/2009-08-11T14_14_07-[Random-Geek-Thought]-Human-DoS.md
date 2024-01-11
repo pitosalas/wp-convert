@@ -1,8 +1,6 @@
 ---
 title: "[Random Geek Thought] Human DoS"
 author: Pito Salas
-
-
 date: 2009-08-11T14:14:07
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "These icons are too similar to be coincidences"
 author: Pito Salas
-
-
 date: 2012-11-11T17:23:27
 tags:
     - apple

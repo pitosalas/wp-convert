@@ -1,8 +1,6 @@
 ---
 title: "Downloadable Car Horn Sounds!?"
 author: Pito Salas
-
-
 date: 2004-07-02T06:17:24
 ---
 

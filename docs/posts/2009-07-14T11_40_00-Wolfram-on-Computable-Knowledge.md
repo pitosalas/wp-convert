@@ -1,8 +1,6 @@
 ---
 title: "Wolfram on Computable Knowledge"
 author: Pito Salas
-
-
 date: 2009-07-14T11:40:00
 ---
 

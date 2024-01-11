@@ -1,8 +1,6 @@
 ---
 title: "Landscape Paintings"
-author: Pito Salas
-url: "https://www.jonathankeeton.com/landscape-paintings/albums/test" 
-cover: "https://images.discerningassets.com/image/upload/q_auto/c_fit,h_600,w_600/v1626382754/_DSC5487_rpg4ts.jpg" 
+author: Pito Salasurl: "https://www.jonathankeeton.com/landscape-paintings/albums/test" cover: "https://images.discerningassets.com/image/upload/q_auto/c_fit,h_600,w_600/v1626382754/_DSC5487_rpg4ts.jpg" 
 date: 2022-06-23 23:33:03
 tags:
     - art-paintings

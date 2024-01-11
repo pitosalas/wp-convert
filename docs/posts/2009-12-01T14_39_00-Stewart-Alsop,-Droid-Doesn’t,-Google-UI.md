@@ -1,8 +1,6 @@
 ---
 title: "Stewart Alsop, Droid Doesn’t, Google UI"
 author: Pito Salas
-
-
 date: 2009-12-01T14:39:00
 ---
 

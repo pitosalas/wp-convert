@@ -1,8 +1,6 @@
 ---
 title: "Poetry – “The Wasteland”"
 author: Pito Salas
-
-
 date: 2010-05-07T19:46:59
 tags:
     - bigideas

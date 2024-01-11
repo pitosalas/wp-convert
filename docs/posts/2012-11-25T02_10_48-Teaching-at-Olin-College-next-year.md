@@ -1,8 +1,6 @@
 ---
 title: "Teaching at Olin College next year"
 author: Pito Salas
-
-
 date: 2012-11-25T02:10:48
 tags:
     - computers

@@ -1,8 +1,6 @@
 ---
 title: "Transparent screens"
 author: Pito Salas
-
-
 date: 2007-03-14T17:35:36
 ---
 

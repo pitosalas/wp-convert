@@ -1,8 +1,6 @@
 ---
 title: "Going, going, gone…"
 author: Pito Salas
-
-
 date: 2009-01-29T13:00:00
 ---
 

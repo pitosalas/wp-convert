@@ -1,8 +1,6 @@
 ---
 title: "Continuing coverage of Demo 2008"
 author: Pito Salas
-
-
 date: 2008-01-30T16:17:26
 tags:
     - liveblog-demo2008-conference-products-technology

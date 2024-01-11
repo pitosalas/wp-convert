@@ -1,8 +1,6 @@
 ---
 title: "How Microservices Saved the Internet – Hacker Noon"
-author: Pito Salas
-url: "https://hackernoon.com/how-microservices-saved-the-internet-30cd4b9c6230" 
-cover: "https://rdl.ink/render/https%3A%2F%2Fhackernoon.com%2Fhow-microservices-saved-the-internet-30cd4b9c6230" 
+author: Pito Salasurl: "https://hackernoon.com/how-microservices-saved-the-internet-30cd4b9c6230" cover: "https://rdl.ink/render/https%3A%2F%2Fhackernoon.com%2Fhow-microservices-saved-the-internet-30cd4b9c6230" 
 date: 2021-04-06 13:40:22
 tags:
     - scaling-microservices-web

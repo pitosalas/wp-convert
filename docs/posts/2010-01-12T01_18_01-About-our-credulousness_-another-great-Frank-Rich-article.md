@@ -1,8 +1,6 @@
 ---
 title: "About our credulousness: another great Frank Rich article"
 author: Pito Salas
-
-
 date: 2010-01-12T01:18:01
 tags:
     - barrybonds

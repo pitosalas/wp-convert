@@ -1,8 +1,6 @@
 ---
 title: "What do you learn in college?"
 author: Pito Salas
-
-
 date: 2013-04-13T18:17:56
 tags:
     - college

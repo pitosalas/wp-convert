@@ -1,8 +1,6 @@
 ---
 title: "CodeSee – Bring visibility to your codebase"
-author: Pito Salas
-url: "https://www.codesee.io/home" 
-cover: "https://codeseeauth0logo.s3.amazonaws.com/CS_opengraph.png" 
+author: Pito Salasurl: "https://www.codesee.io/home" cover: "https://codeseeauth0logo.s3.amazonaws.com/CS_opengraph.png" 
 date: 2022-08-28 16:06:30
 tags:
     - cooltool-code-review-github-code-style-architecture-design

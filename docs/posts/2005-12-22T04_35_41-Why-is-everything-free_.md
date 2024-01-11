@@ -1,8 +1,6 @@
 ---
 title: "Why is everything free?"
 author: Pito Salas
-
-
 date: 2005-12-22T04:35:41
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Peggy Noonan columns are a pleasure to read"
 author: Pito Salas
-
-
 date: 2008-10-27T01:25:16
 ---
 

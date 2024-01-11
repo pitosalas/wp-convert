@@ -1,8 +1,6 @@
 ---
 title: "These look like interesting books"
 author: Pito Salas
-
-
 date: 2005-06-04T14:39:56
 ---
 

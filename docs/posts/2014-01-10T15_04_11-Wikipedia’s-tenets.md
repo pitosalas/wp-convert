@@ -1,8 +1,6 @@
 ---
 title: "Wikipedia’s tenets"
 author: Pito Salas
-
-
 date: 2014-01-10T15:04:11
 tags:
     - nyt

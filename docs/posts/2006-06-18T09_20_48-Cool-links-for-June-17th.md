@@ -1,8 +1,6 @@
 ---
 title: "Cool links for June 17th"
 author: Pito Salas
-
-
 date: 2006-06-18T09:20:48
 ---
 

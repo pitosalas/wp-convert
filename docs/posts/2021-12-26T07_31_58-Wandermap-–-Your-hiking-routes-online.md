@@ -1,8 +1,6 @@
 ---
 title: "Wandermap – Your hiking routes online"
 author: Pito Salas
-
-
 date: 2021-12-26T07:31:58
 ---
 

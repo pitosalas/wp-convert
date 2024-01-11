@@ -1,8 +1,6 @@
 ---
 title: "Manny being Manny"
 author: Pito Salas
-
-
 date: 2009-05-08T16:25:07
 ---
 

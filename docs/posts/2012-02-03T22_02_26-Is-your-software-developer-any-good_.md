@@ -1,8 +1,6 @@
 ---
 title: "Is your software developer any good?"
 author: Pito Salas
-
-
 date: 2012-02-03T22:02:26
 tags:
     - advice

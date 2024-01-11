@@ -1,8 +1,6 @@
 ---
 title: "Happy New Year from Curaçao!"
 author: Pito Salas
-
-
 date: 2012-01-01T15:09:48
 tags:
     - curacao

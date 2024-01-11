@@ -1,8 +1,6 @@
 ---
 title: "Getting Started: Working with Images « AndEngine Guides"
-author: Pito Salas
-url: "http://andengineguides.wordpress.com/2011/09/24/getting-started-working-with-images" 
-cover: "https://s0.wp.com/i/blank.jpg" 
+author: Pito Salasurl: "http://andengineguides.wordpress.com/2011/09/24/getting-started-working-with-images" cover: "https://s0.wp.com/i/blank.jpg" 
 date: 2021-04-06 13:40:23
 ---
 <img src=https://s0.wp.com/i/blank.jpg width="500">

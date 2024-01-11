@@ -1,8 +1,6 @@
 ---
 title: "A9’s Photographic Yellow Pages"
 author: Pito Salas
-
-
 date: 2005-02-01T20:56:50
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Curaçao’s Historic Synagogue"
 author: Pito Salas
-
-
 date: 2007-06-04T18:41:28
 ---
 

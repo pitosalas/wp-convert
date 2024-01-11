@@ -1,8 +1,6 @@
 ---
 title: "[GEEK] Java Web Start {again}"
 author: Pito Salas
-
-
 date: 2005-03-31T20:00:04
 ---
 

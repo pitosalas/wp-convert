@@ -1,8 +1,6 @@
 ---
 title: "Never go on deck alone"
 author: Pito Salas
-
-
 date: 2014-01-13T21:04:43
 tags:
     - boat

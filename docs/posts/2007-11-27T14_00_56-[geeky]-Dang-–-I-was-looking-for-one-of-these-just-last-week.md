@@ -1,8 +1,6 @@
 ---
 title: "[geeky] Dang – I was looking for one of these just last week"
 author: Pito Salas
-
-
 date: 2007-11-27T14:00:56
 ---
 

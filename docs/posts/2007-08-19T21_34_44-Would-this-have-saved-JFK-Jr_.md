@@ -1,8 +1,6 @@
 ---
 title: "Would this have saved JFK Jr?"
 author: Pito Salas
-
-
 date: 2007-08-19T21:34:44
 ---
 

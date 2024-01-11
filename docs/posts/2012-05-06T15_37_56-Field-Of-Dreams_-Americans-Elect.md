@@ -1,8 +1,6 @@
 ---
 title: "Field Of Dreams: Americans Elect"
 author: Pito Salas
-
-
 date: 2012-05-06T15:37:56
 tags:
     - americans-elect

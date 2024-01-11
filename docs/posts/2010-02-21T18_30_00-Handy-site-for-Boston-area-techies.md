@@ -1,8 +1,6 @@
 ---
 title: "Handy site for Boston area techies"
 author: Pito Salas
-
-
 date: 2010-02-21T18:30:00
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "LifeLock and Identity Theft – again"
 author: Pito Salas
-
-
 date: 2008-06-17T12:38:19
 ---
 

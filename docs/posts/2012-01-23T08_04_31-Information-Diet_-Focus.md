@@ -1,8 +1,6 @@
 ---
 title: "Information Diet: Focus"
 author: Pito Salas
-
-
 date: 2012-01-23T08:04:31
 tags:
     - concentrate

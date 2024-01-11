@@ -1,8 +1,6 @@
 ---
 title: "[GEEK] Java Web Start"
 author: Pito Salas
-
-
 date: 2004-12-08T16:26:36
 ---
 

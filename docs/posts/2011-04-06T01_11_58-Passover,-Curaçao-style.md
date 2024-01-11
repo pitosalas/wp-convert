@@ -1,8 +1,6 @@
 ---
 title: "Passover, Curaçao style"
 author: Pito Salas
-
-
 date: 2011-04-06T01:11:58
 tags:
     - charoset

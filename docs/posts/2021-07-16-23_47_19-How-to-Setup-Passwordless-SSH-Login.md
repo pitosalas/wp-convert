@@ -1,8 +1,6 @@
 ---
 title: "How to Setup Passwordless SSH Login"
-author: Pito Salas
-url: "https://linuxize.com/post/how-to-setup-passwordless-ssh-login/" 
-cover: "https://linuxize.com/post/how-to-setup-passwordless-ssh-login/featured.jpg" 
+author: Pito Salasurl: "https://linuxize.com/post/how-to-setup-passwordless-ssh-login/" cover: "https://linuxize.com/post/how-to-setup-passwordless-ssh-login/featured.jpg" 
 date: 2021-07-16 23:47:19
 tags:
     - linux-sysops-configuration-ssh-public-keys

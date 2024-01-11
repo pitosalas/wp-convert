@@ -1,8 +1,6 @@
 ---
 title: "A little more about “Outliers”"
 author: Pito Salas
-
-
 date: 2008-12-17T14:52:48
 ---
 

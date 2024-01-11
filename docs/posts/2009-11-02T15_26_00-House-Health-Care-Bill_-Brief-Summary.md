@@ -1,8 +1,6 @@
 ---
 title: "House Health Care Bill: Brief Summary"
 author: Pito Salas
-
-
 date: 2009-11-02T15:26:00
 ---
 

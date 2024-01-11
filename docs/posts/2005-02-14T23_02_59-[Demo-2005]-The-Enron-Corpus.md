@@ -1,8 +1,6 @@
 ---
 title: "[Demo 2005] The Enron Corpus"
 author: Pito Salas
-
-
 date: 2005-02-14T23:02:59
 ---
 

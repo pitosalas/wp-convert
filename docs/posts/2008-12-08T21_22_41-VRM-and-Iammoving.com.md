@@ -1,8 +1,6 @@
 ---
 title: "VRM and Iammoving.com"
 author: Pito Salas
-
-
 date: 2008-12-08T21:22:41
 ---
 

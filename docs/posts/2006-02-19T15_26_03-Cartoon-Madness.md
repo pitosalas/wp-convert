@@ -1,8 +1,6 @@
 ---
 title: "Cartoon Madness"
 author: Pito Salas
-
-
 date: 2006-02-19T15:26:03
 ---
 

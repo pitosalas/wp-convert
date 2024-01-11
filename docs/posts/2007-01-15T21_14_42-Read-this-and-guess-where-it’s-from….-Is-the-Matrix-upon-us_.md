@@ -1,8 +1,6 @@
 ---
 title: "Read this and guess where it’s from…. Is the Matrix upon us?"
 author: Pito Salas
-
-
 date: 2007-01-15T21:14:42
 ---
 

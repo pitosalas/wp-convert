@@ -1,8 +1,6 @@
 ---
 title: "Google’s servers"
 author: Pito Salas
-
-
 date: 2010-09-25T12:26:04
 tags:
     - google

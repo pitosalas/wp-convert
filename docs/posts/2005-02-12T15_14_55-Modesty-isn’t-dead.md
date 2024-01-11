@@ -1,8 +1,6 @@
 ---
 title: "Modesty isn’t dead"
 author: Pito Salas
-
-
 date: 2005-02-12T15:14:55
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Once more confirming my cynicism"
 author: Pito Salas
-
-
 date: 2008-03-10T20:06:40
 ---
 

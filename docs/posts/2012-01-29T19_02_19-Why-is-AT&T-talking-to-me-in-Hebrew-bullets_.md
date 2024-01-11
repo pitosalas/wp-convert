@@ -1,8 +1,6 @@
 ---
 title: "Why is AT&T talking to me in Hebrew bullets?"
 author: Pito Salas
-
-
 date: 2012-01-29T19:02:19
 tags:
     - att

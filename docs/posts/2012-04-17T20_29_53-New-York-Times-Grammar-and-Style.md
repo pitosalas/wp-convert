@@ -1,8 +1,6 @@
 ---
 title: "New York Times Grammar and Style"
 author: Pito Salas
-
-
 date: 2012-04-17T20:29:53
 tags:
     - editor

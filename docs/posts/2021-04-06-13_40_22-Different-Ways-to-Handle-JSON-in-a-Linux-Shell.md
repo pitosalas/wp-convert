@@ -1,8 +1,6 @@
 ---
 title: "Different Ways to Handle JSON in a Linux Shell"
-author: Pito Salas
-url: "https://link.medium.com/9FvuL4gneeb" 
-cover: "https://miro.medium.com/max/1200/1*uuhsaEPY4zSfd9Uvmr2Lrg.jpeg" 
+author: Pito Salasurl: "https://link.medium.com/9FvuL4gneeb" cover: "https://miro.medium.com/max/1200/1*uuhsaEPY4zSfd9Uvmr2Lrg.jpeg" 
 date: 2021-04-06 13:40:22
 tags:
     - json-tool

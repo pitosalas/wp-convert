@@ -1,8 +1,6 @@
 ---
 title: "YCombinator startup application form"
 author: Pito Salas
-
-
 date: 2008-04-30T13:00:07
 tags:
     - YCombinator-Startups-entrepreneur

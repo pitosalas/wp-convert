@@ -1,8 +1,6 @@
 ---
 title: "Chris Herot on RulesBase"
 author: Pito Salas
-
-
 date: 2008-02-22T14:05:53
 ---
 

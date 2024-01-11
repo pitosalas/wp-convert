@@ -1,8 +1,6 @@
 ---
 title: "Ongoing coverage of MOOCs: How good are they really?"
 author: Pito Salas
-
-
 date: 2013-04-22T15:40:47
 tags:
     - coursera

@@ -1,8 +1,6 @@
 ---
 title: "iCal ( iCalendar ) Publishing to *.ics file through RubyOnRails « firstruby"
-author: Pito Salas
-url: "https://firstruby.wordpress.com/2007/12/10/ical-icalendar-publishing-through-rubyonrails" 
-cover: "https://s0.wp.com/i/blank.jpg" 
+author: Pito Salasurl: "https://firstruby.wordpress.com/2007/12/10/ical-icalendar-publishing-through-rubyonrails" cover: "https://s0.wp.com/i/blank.jpg" 
 date: 2021-04-06 13:40:23
 tags:
     - ical-publishing-rubyonrails-ruby

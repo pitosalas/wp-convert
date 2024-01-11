@@ -1,8 +1,6 @@
 ---
 title: "8 Hour Sleep is for the birds?"
 author: Pito Salas
-
-
 date: 2012-02-25T21:26:20
 tags:
     - second-sleep

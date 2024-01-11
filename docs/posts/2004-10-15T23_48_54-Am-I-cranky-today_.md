@@ -1,8 +1,6 @@
 ---
 title: "Am I cranky today?"
 author: Pito Salas
-
-
 date: 2004-10-15T23:48:54
 ---
 

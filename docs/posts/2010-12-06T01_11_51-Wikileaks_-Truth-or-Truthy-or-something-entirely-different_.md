@@ -1,8 +1,6 @@
 ---
 title: "Wikileaks: Truth or Truthy or something entirely different?"
 author: Pito Salas
-
-
 date: 2010-12-06T01:11:51
 tags:
     - joho

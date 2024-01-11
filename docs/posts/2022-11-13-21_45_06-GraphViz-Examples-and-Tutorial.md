@@ -1,8 +1,6 @@
 ---
 title: "GraphViz Examples and Tutorial"
-author: Pito Salas
-url: "https://graphs.grevian.org/reference" 
-cover: "https://rdl.ink/render/https%3A%2F%2Fgraphs.grevian.org%2Freference" 
+author: Pito Salasurl: "https://graphs.grevian.org/reference" cover: "https://rdl.ink/render/https%3A%2F%2Fgraphs.grevian.org%2Freference" 
 date: 2022-11-13 21:45:06
 tags:
     - graphviz-howto-tutorial

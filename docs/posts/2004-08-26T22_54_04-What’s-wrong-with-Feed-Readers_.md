@@ -1,8 +1,6 @@
 ---
 title: "What’s wrong with Feed Readers?"
 author: Pito Salas
-
-
 date: 2004-08-26T22:54:04
 ---
 

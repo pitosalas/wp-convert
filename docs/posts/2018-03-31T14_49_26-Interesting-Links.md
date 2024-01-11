@@ -1,8 +1,6 @@
 ---
 title: "Interesting Links"
 author: Pito Salas
-
-
 date: 2018-03-31T14:49:26
 ---
 

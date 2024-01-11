@@ -1,8 +1,6 @@
 ---
 title: "Do you have a favorite mustard? I do!"
 author: Pito Salas
-
-
 date: 2012-02-12T04:40:40
 tags:
     - food

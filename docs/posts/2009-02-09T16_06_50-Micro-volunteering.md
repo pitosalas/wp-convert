@@ -1,8 +1,6 @@
 ---
 title: "Micro volunteering"
 author: Pito Salas
-
-
 date: 2009-02-09T16:06:50
 ---
 

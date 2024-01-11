@@ -1,8 +1,6 @@
 ---
 title: "‘Daybreak’ canceled, episodes to stream online"
 author: Pito Salas
-
-
 date: 2006-12-21T14:40:11
 ---
 

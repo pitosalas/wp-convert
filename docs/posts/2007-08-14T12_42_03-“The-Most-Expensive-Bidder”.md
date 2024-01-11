@@ -1,8 +1,6 @@
 ---
 title: "“The Most Expensive Bidder”"
 author: Pito Salas
-
-
 date: 2007-08-14T12:42:03
 ---
 

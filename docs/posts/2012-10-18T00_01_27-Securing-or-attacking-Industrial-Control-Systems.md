@@ -1,8 +1,6 @@
 ---
 title: "Securing or attacking Industrial Control Systems"
 author: Pito Salas
-
-
 date: 2012-10-18T00:01:27
 tags:
     - hacking

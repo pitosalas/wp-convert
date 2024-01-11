@@ -1,8 +1,6 @@
 ---
 title: "Did Google Pack leave out Java?"
 author: Pito Salas
-
-
 date: 2006-01-10T04:17:53
 ---
 

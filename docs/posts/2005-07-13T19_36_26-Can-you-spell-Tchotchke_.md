@@ -1,8 +1,6 @@
 ---
 title: "Can you spell Tchotchke?"
 author: Pito Salas
-
-
 date: 2005-07-13T19:36:26
 ---
 

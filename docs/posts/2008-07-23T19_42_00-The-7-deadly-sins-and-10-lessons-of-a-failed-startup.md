@@ -1,8 +1,6 @@
 ---
 title: "The 7 deadly sins and 10 lessons of a failed startup"
 author: Pito Salas
-
-
 date: 2008-07-23T19:42:00
 ---
 

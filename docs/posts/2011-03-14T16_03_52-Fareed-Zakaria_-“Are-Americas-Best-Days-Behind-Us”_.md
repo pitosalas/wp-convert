@@ -1,8 +1,6 @@
 ---
 title: "Fareed Zakaria: “Are Americas Best Days Behind Us”?"
 author: Pito Salas
-
-
 date: 2011-03-14T16:03:52
 tags:
     - FareedZakaria

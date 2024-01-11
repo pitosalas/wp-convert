@@ -1,8 +1,6 @@
 ---
 title: "eBay to assist in setting BlogBridge Price"
 author: Pito Salas
-
-
 date: 2004-08-17T04:54:09
 ---
 

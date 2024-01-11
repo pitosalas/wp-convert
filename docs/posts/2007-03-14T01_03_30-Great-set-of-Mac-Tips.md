@@ -1,8 +1,6 @@
 ---
 title: "Great set of Mac Tips"
 author: Pito Salas
-
-
 date: 2007-03-14T01:03:30
 ---
 

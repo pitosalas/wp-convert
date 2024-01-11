@@ -1,8 +1,6 @@
 ---
 title: "At least we have the Redsox"
 author: Pito Salas
-
-
 date: 2004-11-06T16:12:11
 ---
 

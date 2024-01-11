@@ -1,8 +1,6 @@
 ---
 title: "SNL Season best in years – but why does Christopher Walken not rehearse?"
 author: Pito Salas
-
-
 date: 2008-04-09T14:41:00
 tags:
     - SNL-SaturdayNightLive

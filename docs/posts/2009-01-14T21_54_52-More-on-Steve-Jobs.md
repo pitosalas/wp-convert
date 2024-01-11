@@ -1,8 +1,6 @@
 ---
 title: "More on Steve Jobs"
 author: Pito Salas
-
-
 date: 2009-01-14T21:54:52
 tags:
     - stevejobs-apple

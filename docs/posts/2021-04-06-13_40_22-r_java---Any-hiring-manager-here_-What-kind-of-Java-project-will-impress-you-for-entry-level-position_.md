@@ -1,8 +1,6 @@
 ---
 title: "r/java - Any hiring manager here? What kind of Java project will impress you for entry level position?"
-author: Pito Salas
-url: "https://www.reddit.com/r/java/comments/ahjc67/any_hiring_manager_here_what_kind_of_java_project?sh=e02e99ab&st=JR3HNGZV" 
-cover: "https://www.redditstatic.com/new-icon.png" 
+author: Pito Salasurl: "https://www.reddit.com/r/java/comments/ahjc67/any_hiring_manager_here_what_kind_of_java_project?sh=e02e99ab&st=JR3HNGZV" cover: "https://www.redditstatic.com/new-icon.png" 
 date: 2021-04-06 13:40:22
 tags:
     - resume-java-jobs-hiring

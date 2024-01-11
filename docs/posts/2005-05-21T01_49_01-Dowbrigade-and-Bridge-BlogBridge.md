@@ -1,8 +1,6 @@
 ---
 title: "Dowbrigade and Bridge BlogBridge"
 author: Pito Salas
-
-
 date: 2005-05-21T01:49:01
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Swurl – Search everything instantly"
 author: Pito Salas
-
-
 date: 2022-12-04T12:04:25
 tags:
     - google

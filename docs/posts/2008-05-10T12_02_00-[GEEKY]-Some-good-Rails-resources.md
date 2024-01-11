@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Some good Rails resources"
 author: Pito Salas
-
-
 date: 2008-05-10T12:02:00
 ---
 

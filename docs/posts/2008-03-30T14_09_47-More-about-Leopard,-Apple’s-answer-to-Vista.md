@@ -1,8 +1,6 @@
 ---
 title: "More about Leopard, Apple’s answer to Vista"
 author: Pito Salas
-
-
 date: 2008-03-30T14:09:47
 ---
 

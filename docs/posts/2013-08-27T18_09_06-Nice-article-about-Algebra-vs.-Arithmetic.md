@@ -1,8 +1,6 @@
 ---
 title: "Nice article about Algebra vs. Arithmetic"
 author: Pito Salas
-
-
 date: 2013-08-27T18:09:06
 tags:
     - algebra

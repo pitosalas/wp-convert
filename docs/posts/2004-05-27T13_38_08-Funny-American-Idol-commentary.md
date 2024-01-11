@@ -1,8 +1,6 @@
 ---
 title: "Funny American Idol commentary"
 author: Pito Salas
-
-
 date: 2004-05-27T13:38:08
 ---
 

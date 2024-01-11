@@ -1,8 +1,6 @@
 ---
 title: "Two movies: “Precious” and “The Texas Chain Saw Massacre”"
 author: Pito Salas
-
-
 date: 2009-12-31T01:34:56
 ---
 

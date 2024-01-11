@@ -1,8 +1,6 @@
 ---
 title: "Tweeting from more than one account?"
 author: Pito Salas
-
-
 date: 2009-01-17T00:24:17
 tags:
     - BlogBridge

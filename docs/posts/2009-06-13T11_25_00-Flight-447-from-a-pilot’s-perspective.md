@@ -1,8 +1,6 @@
 ---
 title: "Flight 447 from a pilot’s perspective"
 author: Pito Salas
-
-
 date: 2009-06-13T11:25:00
 ---
 

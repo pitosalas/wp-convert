@@ -1,8 +1,6 @@
 ---
 title: "Everyone should know how to program"
 author: Pito Salas
-
-
 date: 2013-03-16T00:27:37
 tags:
     - coding

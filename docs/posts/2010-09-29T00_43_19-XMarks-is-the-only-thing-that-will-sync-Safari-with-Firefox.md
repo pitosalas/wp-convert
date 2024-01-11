@@ -1,8 +1,6 @@
 ---
 title: "XMarks is the only thing that will sync Safari with Firefox"
 author: Pito Salas
-
-
 date: 2010-09-29T00:43:19
 tags:
     - startup

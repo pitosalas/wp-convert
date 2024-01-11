@@ -1,8 +1,6 @@
 ---
 title: "Welcome to Talking Points for Life"
-author: Pito Salas
-url: "https://www.talkingpointsforlife.com/?utm_campaign=Recomendo&utm_medium=email&utm_source=Revue%20newsletter" 
-cover: "https://super-static-assets.s3.amazonaws.com/c4b971f3-0db7-4812-8770-97be7a98e40f/images/a5ab39b6-00b2-41fa-adca-905b01189861.png" 
+author: Pito Salasurl: "https://www.talkingpointsforlife.com/?utm_campaign=Recomendo&utm_medium=email&utm_source=Revue%20newsletter" cover: "https://super-static-assets.s3.amazonaws.com/c4b971f3-0db7-4812-8770-97be7a98e40f/images/a5ab39b6-00b2-41fa-adca-905b01189861.png" 
 date: 2022-12-18 11:44:04
 tags:
     - interview-communicating-relationships-howto

@@ -1,8 +1,6 @@
 ---
 title: "Vista new user experience not for the faint of heart"
 author: Pito Salas
-
-
 date: 2007-07-27T15:10:45
 ---
 

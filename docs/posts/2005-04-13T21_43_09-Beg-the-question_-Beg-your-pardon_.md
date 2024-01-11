@@ -1,8 +1,6 @@
 ---
 title: "Beg the question? Beg your pardon?"
 author: Pito Salas
-
-
 date: 2005-04-13T21:43:09
 ---
 

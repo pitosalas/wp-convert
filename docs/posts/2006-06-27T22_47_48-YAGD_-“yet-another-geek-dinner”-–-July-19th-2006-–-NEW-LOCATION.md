@@ -1,8 +1,6 @@
 ---
 title: "YAGD: “yet another geek dinner” – July 19th 2006 – NEW LOCATION"
 author: Pito Salas
-
-
 date: 2006-06-27T22:47:48
 ---
 

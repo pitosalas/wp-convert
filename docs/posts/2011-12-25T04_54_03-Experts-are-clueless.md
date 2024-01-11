@@ -1,8 +1,6 @@
 ---
 title: "Experts are clueless"
 author: Pito Salas
-
-
 date: 2011-12-25T04:54:03
 tags:
     - commonsense

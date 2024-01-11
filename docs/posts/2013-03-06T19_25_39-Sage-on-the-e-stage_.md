@@ -1,8 +1,6 @@
 ---
 title: "Sage on the e-stage?"
 author: Pito Salas
-
-
 date: 2013-03-06T19:25:39
 tags:
     - higher-education

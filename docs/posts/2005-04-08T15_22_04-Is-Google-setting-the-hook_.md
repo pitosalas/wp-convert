@@ -1,8 +1,6 @@
 ---
 title: "Is Google setting the hook?"
 author: Pito Salas
-
-
 date: 2005-04-08T15:22:04
 ---
 

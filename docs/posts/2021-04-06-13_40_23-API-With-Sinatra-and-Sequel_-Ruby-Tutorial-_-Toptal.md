@@ -1,8 +1,6 @@
 ---
 title: "API With Sinatra and Sequel: Ruby Tutorial | Toptal"
-author: Pito Salas
-url: "https://www.toptal.com/ruby/api-with-sinatra-and-sequel-ruby-tutorial" 
-cover: "https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/15289/default-social-8-96d057f8e815a2ed90ed7e8808a2c7e3.png" 
+author: Pito Salasurl: "https://www.toptal.com/ruby/api-with-sinatra-and-sequel-ruby-tutorial" cover: "https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/15289/default-social-8-96d057f8e815a2ed90ed7e8808a2c7e3.png" 
 date: 2021-04-06 13:40:23
 tags:
     - Software-Engineering

@@ -1,8 +1,6 @@
 ---
 title: "On the business impact of Web 2.0"
 author: Pito Salas
-
-
 date: 2008-05-01T12:48:52
 tags:
     - business20-enterprise20-billives

@@ -1,8 +1,6 @@
 ---
 title: "Boston Tech Scene is cooking"
 author: Pito Salas
-
-
 date: 2008-04-08T14:48:58
 tags:
     - boston-technology-gatherings

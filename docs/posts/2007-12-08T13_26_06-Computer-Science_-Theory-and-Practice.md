@@ -1,8 +1,6 @@
 ---
 title: "Computer Science: Theory and Practice"
 author: Pito Salas
-
-
 date: 2007-12-08T13:26:06
 ---
 

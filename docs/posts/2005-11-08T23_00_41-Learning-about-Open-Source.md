@@ -1,8 +1,6 @@
 ---
 title: "Learning about Open Source"
 author: Pito Salas
-
-
 date: 2005-11-08T23:00:41
 ---
 

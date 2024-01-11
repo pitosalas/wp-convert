@@ -1,8 +1,6 @@
 ---
 title: "The torture discussion back in 2001"
 author: Pito Salas
-
-
 date: 2009-04-23T21:10:27
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "karpathy/nanoGPT: The simplest, fastest repository for training/finetuning medium-sized GPTs."
-author: Pito Salas
-url: "https://github.com/karpathy/nanoGPT" 
-cover: "https://opengraph.githubassets.com/b069437194b47be981e4eeb92757e811d56ed5e62c2455e84c676846f740d95e/karpathy/nanoGPT" 
+author: Pito Salasurl: "https://github.com/karpathy/nanoGPT" cover: "https://opengraph.githubassets.com/b069437194b47be981e4eeb92757e811d56ed5e62c2455e84c676846f740d95e/karpathy/nanoGPT" 
 date: 2023-01-11 16:54:18
 tags:
     - gpt-ChatGPT-code-howto

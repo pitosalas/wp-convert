@@ -1,8 +1,6 @@
 ---
 title: "Why are you reading?"
 author: Pito Salas
-
-
 date: 2010-08-02T13:00:03
 tags:
     - reading-blogging

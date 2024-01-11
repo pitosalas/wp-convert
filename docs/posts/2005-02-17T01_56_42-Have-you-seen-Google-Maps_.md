@@ -1,8 +1,6 @@
 ---
 title: "Have you seen Google Maps?"
 author: Pito Salas
-
-
 date: 2005-02-17T01:56:42
 ---
 

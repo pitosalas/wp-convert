@@ -1,8 +1,6 @@
 ---
 title: "[JAVAONE] Scott McNealy Keynote"
 author: Pito Salas
-
-
 date: 2004-06-29T22:30:58
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "The Seven Deadly Sins of AI Predictions - MIT Technology Review"
-author: Pito Salas
-url: "https://www.technologyreview.com/s/609048/the-seven-deadly-sins-of-ai-predictions" 
-cover: "https://wp.technologyreview.com/wp-content/uploads/2017/10/k-9.png?resize=854,569" 
+author: Pito Salasurl: "https://www.technologyreview.com/s/609048/the-seven-deadly-sins-of-ai-predictions" cover: "https://wp.technologyreview.com/wp-content/uploads/2017/10/k-9.png?resize=854,569" 
 date: 2021-04-06 13:40:22
 tags:
     - Technology-AI

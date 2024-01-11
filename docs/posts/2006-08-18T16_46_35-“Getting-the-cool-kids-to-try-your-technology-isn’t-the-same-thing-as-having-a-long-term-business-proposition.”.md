@@ -1,8 +1,6 @@
 ---
 title: "“Getting the cool kids to try your technology isn’t the same thing as having a long-term business proposition.”"
 author: Pito Salas
-
-
 date: 2006-08-18T16:46:35
 ---
 

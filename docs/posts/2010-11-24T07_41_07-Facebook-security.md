@@ -1,8 +1,6 @@
 ---
 title: "Facebook security"
 author: Pito Salas
-
-
 date: 2010-11-24T07:41:07
 tags:
     - facebook

@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Interesting collection of algorithms and great Ruby tutorial"
 author: Pito Salas
-
-
 date: 2011-02-15T15:22:23
 tags:
     - algorithms

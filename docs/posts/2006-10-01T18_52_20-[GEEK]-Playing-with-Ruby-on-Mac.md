@@ -1,8 +1,6 @@
 ---
 title: "[GEEK] Playing with Ruby on Mac"
 author: Pito Salas
-
-
 date: 2006-10-01T18:52:20
 ---
 

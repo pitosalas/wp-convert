@@ -1,8 +1,6 @@
 ---
 title: "Microsoft bought one Bridge, maybe they’ll buy another"
 author: Pito Salas
-
-
 date: 2005-07-21T14:29:48
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Why Google is cool, Part 1241"
 author: Pito Salas
-
-
 date: 2006-04-20T03:24:46
 ---
 

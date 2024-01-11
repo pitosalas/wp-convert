@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] What every programmer should know about …"
 author: Pito Salas
-
-
 date: 2008-01-15T02:09:43
 ---
 

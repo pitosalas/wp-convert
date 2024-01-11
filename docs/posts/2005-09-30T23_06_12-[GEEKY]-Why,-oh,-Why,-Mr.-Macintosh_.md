@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Why, oh, Why, Mr. Macintosh?"
 author: Pito Salas
-
-
 date: 2005-09-30T23:06:12
 ---
 

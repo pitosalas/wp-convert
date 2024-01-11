@@ -1,8 +1,6 @@
 ---
 title: "Dirty Little Secrets About VCs"
 author: Pito Salas
-
-
 date: 2007-08-02T11:02:15
 ---
 

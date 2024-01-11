@@ -1,8 +1,6 @@
 ---
 title: "How to Get a Software Developer Internship"
-author: Pito Salas
-url: "https://link.medium.com/jtrlTwwLpdb" 
-cover: "https://miro.medium.com/max/1200/0*f_Y7Fx-iYLs-pS7B" 
+author: Pito Salasurl: "https://link.medium.com/jtrlTwwLpdb" cover: "https://miro.medium.com/max/1200/0*f_Y7Fx-iYLs-pS7B" 
 date: 2021-04-06 13:40:22
 tags:
     - jobs-internships-howto

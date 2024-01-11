@@ -1,8 +1,6 @@
 ---
 title: "Things you’re allowed to do"
 author: Pito Salas
-
-
 date: 2022-07-17T13:01:56
 tags:
     - advice

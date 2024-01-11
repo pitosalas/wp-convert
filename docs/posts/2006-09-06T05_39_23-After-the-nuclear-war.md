@@ -1,8 +1,6 @@
 ---
 title: "After the nuclear war"
 author: Pito Salas
-
-
 date: 2006-09-06T05:39:23
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Amazing(ly unpleasant) story about a car"
 author: Pito Salas
-
-
 date: 2006-03-30T16:25:52
 ---
 

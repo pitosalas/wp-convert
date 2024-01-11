@@ -1,8 +1,6 @@
 ---
 title: "More e-Voting shenanigans"
 author: Pito Salas
-
-
 date: 2008-03-20T14:05:13
 ---
 

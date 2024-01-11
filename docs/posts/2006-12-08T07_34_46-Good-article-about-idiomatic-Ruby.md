@@ -1,8 +1,6 @@
 ---
 title: "Good article about idiomatic Ruby"
 author: Pito Salas
-
-
 date: 2006-12-08T07:34:46
 ---
 

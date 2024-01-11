@@ -1,8 +1,6 @@
 ---
 title: "Finally a little bit of insight on what’s going on in Wisconsin"
 author: Pito Salas
-
-
 date: 2011-02-23T15:35:17
 tags:
     - davidbrooks

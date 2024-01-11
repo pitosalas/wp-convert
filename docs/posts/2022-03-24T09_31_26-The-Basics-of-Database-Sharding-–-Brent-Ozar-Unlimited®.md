@@ -1,8 +1,6 @@
 ---
 title: "The Basics of Database Sharding – Brent Ozar Unlimited®"
 author: Pito Salas
-
-
 date: 2022-03-24T09:31:26
 tags:
     - scaling

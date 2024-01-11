@@ -1,8 +1,6 @@
 ---
 title: "Thoughtful advice"
 author: Pito Salas
-
-
 date: 2011-04-11T22:43:53
 tags:
     - advice

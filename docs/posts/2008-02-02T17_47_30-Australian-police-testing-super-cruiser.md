@@ -1,8 +1,6 @@
 ---
 title: "Australian police testing super cruiser"
 author: Pito Salas
-
-
 date: 2008-02-02T17:47:30
 ---
 

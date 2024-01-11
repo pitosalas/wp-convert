@@ -1,8 +1,6 @@
 ---
 title: "Phone spam, charities and trust"
 author: Pito Salas
-
-
 date: 2008-01-03T14:14:27
 tags:
     - charity

@@ -1,8 +1,6 @@
 ---
 title: "GitHub – mgdm/htmlq: Like jq, but for HTML."
 author: Pito Salas
-
-
 date: 2021-09-08T08:31:57
 tags:
     - tool

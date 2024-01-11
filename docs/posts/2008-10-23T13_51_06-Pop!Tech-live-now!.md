@@ -1,8 +1,6 @@
 ---
 title: "Pop!Tech live now!"
 author: Pito Salas
-
-
 date: 2008-10-23T13:51:06
 ---
 

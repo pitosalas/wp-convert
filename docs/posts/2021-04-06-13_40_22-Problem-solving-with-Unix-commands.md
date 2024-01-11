@@ -1,8 +1,6 @@
 ---
 title: "Problem solving with Unix commands"
-author: Pito Salas
-url: "http://vegardstikbakke.com/unix" 
-cover: "https://rdl.ink/render/http%3A%2F%2Fvegardstikbakke.com%2Funix" 
+author: Pito Salasurl: "http://vegardstikbakke.com/unix" cover: "https://rdl.ink/render/http%3A%2F%2Fvegardstikbakke.com%2Funix" 
 date: 2021-04-06 13:40:22
 tags:
     - unix-pipes-hacks

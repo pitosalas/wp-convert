@@ -1,8 +1,6 @@
 ---
 title: "iPhone crowd control: Top Secret Plans"
 author: Pito Salas
-
-
 date: 2007-06-20T18:10:37
 ---
 

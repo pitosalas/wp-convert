@@ -1,8 +1,6 @@
 ---
 title: "Mechanical & Wheels – Hands On Ground Robot Design – Robots For Roboticists"
 author: Pito Salas
-
-
 date: 2022-04-15T08:31:11
 tags:
     - design

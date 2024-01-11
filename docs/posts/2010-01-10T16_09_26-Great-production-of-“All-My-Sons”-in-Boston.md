@@ -1,8 +1,6 @@
 ---
 title: "Great production of “All My Sons” in Boston"
 author: Pito Salas
-
-
 date: 2010-01-10T16:09:26
 tags:
     - happy

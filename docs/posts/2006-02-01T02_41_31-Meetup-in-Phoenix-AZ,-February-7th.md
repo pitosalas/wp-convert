@@ -1,8 +1,6 @@
 ---
 title: "Meetup in Phoenix AZ, February 7th"
 author: Pito Salas
-
-
 date: 2006-02-01T02:41:31
 ---
 

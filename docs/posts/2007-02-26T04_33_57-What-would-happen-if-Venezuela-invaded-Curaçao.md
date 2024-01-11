@@ -1,8 +1,6 @@
 ---
 title: "What would happen if Venezuela invaded Curaçao"
 author: Pito Salas
-
-
 date: 2007-02-26T04:33:57
 ---
 

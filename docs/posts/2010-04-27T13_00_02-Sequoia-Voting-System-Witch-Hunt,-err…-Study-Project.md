@@ -1,8 +1,6 @@
 ---
 title: "Sequoia Voting System Witch Hunt, err… Study Project"
 author: Pito Salas
-
-
 date: 2010-04-27T13:00:02
 ---
 

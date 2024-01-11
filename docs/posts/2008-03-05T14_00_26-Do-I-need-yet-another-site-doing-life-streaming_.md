@@ -1,8 +1,6 @@
 ---
 title: "Do I need yet another site doing life streaming?"
 author: Pito Salas
-
-
 date: 2008-03-05T14:00:26
 ---
 

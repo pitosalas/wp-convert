@@ -1,8 +1,6 @@
 ---
 title: "(1) ULTIMATE GUITAR TABS – 1,100,000 songs catalog with free Chords, Guitar Tabs, Bass Tabs, Ukulele Chords and Guitar Pro Tabs!"
 author: Pito Salas
-
-
 date: 2021-08-22T14:33:06
 tags:
     - music

@@ -1,8 +1,6 @@
 ---
 title: "Long tail UI Widget"
 author: Pito Salas
-
-
 date: 2005-12-07T21:46:53
 ---
 

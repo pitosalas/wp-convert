@@ -1,8 +1,6 @@
 ---
 title: "Learn to make something"
 author: Pito Salas
-
-
 date: 2013-06-03T20:11:24
 tags:
     - careers

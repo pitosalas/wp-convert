@@ -1,8 +1,6 @@
 ---
 title: "XP SP2 Makes a Hash Of It"
 author: Pito Salas
-
-
 date: 2004-08-13T03:10:36
 ---
 

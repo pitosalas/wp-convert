@@ -1,8 +1,6 @@
 ---
 title: "The What, the Why, and the How of Bloom Filter – The Lean Software Boutique"
 author: Pito Salas
-
-
 date: 2022-09-10T12:02:34
 tags:
     - algorithm

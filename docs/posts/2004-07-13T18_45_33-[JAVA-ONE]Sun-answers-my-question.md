@@ -1,8 +1,6 @@
 ---
 title: "[JAVA ONE]Sun answers my question"
 author: Pito Salas
-
-
 date: 2004-07-13T18:45:33
 ---
 

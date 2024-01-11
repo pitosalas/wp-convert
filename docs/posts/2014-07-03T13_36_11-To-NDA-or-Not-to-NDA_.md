@@ -1,8 +1,6 @@
 ---
 title: "To NDA or Not to NDA?"
 author: Pito Salas
-
-
 date: 2014-07-03T13:36:11
 tags:
     - nda

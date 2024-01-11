@@ -1,8 +1,6 @@
 ---
 title: "Cloud Computing case studies"
 author: Pito Salas
-
-
 date: 2008-02-20T14:00:31
 ---
 

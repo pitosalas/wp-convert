@@ -1,8 +1,6 @@
 ---
 title: "Swipely, cool but scary?"
 author: Pito Salas
-
-
 date: 2011-09-28T23:25:23
 tags:
     - fraud

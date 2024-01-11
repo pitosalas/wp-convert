@@ -1,8 +1,6 @@
 ---
 title: "Randall Degges – Heroku and SOA"
 author: Pito Salas
-
-
 date: 2022-03-09T17:31:43
 tags:
     - design

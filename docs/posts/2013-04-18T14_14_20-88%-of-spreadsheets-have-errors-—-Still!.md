@@ -1,8 +1,6 @@
 ---
 title: "88% of spreadsheets have errors — Still!"
 author: Pito Salas
-
-
 date: 2013-04-18T14:14:20
 tags:
     - errors

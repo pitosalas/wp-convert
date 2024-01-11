@@ -1,8 +1,6 @@
 ---
 title: "[ETECH] A9 as a search portal – Amazon defines “Searchlets”"
 author: Pito Salas
-
-
 date: 2005-03-15T20:00:30
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "0008 – Guide to overloading in Python"
 author: Pito Salas
-
-
 date: 2023-06-16T14:02:06
 tags:
     - explainer

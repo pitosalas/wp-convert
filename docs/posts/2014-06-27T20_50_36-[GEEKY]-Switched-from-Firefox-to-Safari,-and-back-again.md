@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Switched from Firefox to Safari, and back again"
 author: Pito Salas
-
-
 date: 2014-06-27T20:50:36
 ---
 

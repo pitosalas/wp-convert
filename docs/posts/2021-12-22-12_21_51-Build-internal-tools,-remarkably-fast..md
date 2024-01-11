@@ -1,8 +1,6 @@
 ---
 title: "Build internal tools, remarkably fast."
-author: Pito Salas
-url: "https://retool.com/" 
-cover: "https://retool.com/og-image.png" 
+author: Pito Salasurl: "https://retool.com/" cover: "https://retool.com/og-image.png" 
 date: 2021-12-22 12:21:51
 tags:
     - visualiztion-tools-howto-dashboard-product

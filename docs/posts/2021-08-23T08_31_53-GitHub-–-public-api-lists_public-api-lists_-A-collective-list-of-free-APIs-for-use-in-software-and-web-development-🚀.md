@@ -1,8 +1,6 @@
 ---
 title: "GitHub – public-api-lists/public-api-lists: A collective list of free APIs for use in software and web development 🚀"
 author: Pito Salas
-
-
 date: 2021-08-23T08:31:53
 tags:
     - api

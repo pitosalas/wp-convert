@@ -1,8 +1,6 @@
 ---
 title: "Indeed, the new Microsoft/Bill Gates/Jerry Seinfeld ad makes no sense!"
 author: Pito Salas
-
-
 date: 2008-09-05T11:46:51
 ---
 

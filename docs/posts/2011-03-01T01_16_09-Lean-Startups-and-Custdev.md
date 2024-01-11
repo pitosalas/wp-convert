@@ -1,8 +1,6 @@
 ---
 title: "Lean Startups and Custdev"
 author: Pito Salas
-
-
 date: 2011-03-01T01:16:09
 tags:
     - custdev

@@ -1,8 +1,6 @@
 ---
 title: "Patterns from the master"
 author: Pito Salas
-
-
 date: 2004-09-10T23:25:44
 ---
 

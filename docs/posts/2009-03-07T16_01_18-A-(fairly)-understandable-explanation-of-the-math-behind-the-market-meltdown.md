@@ -1,8 +1,6 @@
 ---
 title: "A (fairly) understandable explanation of the math behind the market meltdown"
 author: Pito Salas
-
-
 date: 2009-03-07T16:01:18
 ---
 

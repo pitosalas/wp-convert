@@ -1,8 +1,6 @@
 ---
 title: "A Developer’s Guide to Terraform – Semaphore"
 author: Pito Salas
-
-
 date: 2022-08-12T13:01:56
 tags:
     - configuration

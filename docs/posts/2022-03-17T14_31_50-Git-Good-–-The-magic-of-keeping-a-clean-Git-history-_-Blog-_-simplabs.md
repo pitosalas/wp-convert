@@ -1,8 +1,6 @@
 ---
 title: "Git Good – The magic of keeping a clean Git history | Blog | simplabs"
 author: Pito Salas
-
-
 date: 2022-03-17T14:31:50
 tags:
     - git

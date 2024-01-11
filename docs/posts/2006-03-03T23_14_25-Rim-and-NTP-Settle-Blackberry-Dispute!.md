@@ -1,8 +1,6 @@
 ---
 title: "Rim and NTP Settle Blackberry Dispute!"
 author: Pito Salas
-
-
 date: 2006-03-03T23:14:25
 ---
 

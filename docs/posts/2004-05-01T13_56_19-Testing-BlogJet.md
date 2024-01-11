@@ -1,8 +1,6 @@
 ---
 title: "Testing BlogJet"
 author: Pito Salas
-
-
 date: 2004-05-01T13:56:19
 ---
 

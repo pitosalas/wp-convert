@@ -1,8 +1,6 @@
 ---
 title: "BostonPHP Meeting: Thursday May 4, 2006 – Check it out!"
 author: Pito Salas
-
-
 date: 2006-04-12T03:18:43
 ---
 

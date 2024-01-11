@@ -1,8 +1,6 @@
 ---
 title: "a simple git branching model"
-author: Pito Salas
-url: "https://gist.github.com/jbenet/ee6c9ac48068889b0912" 
-cover: "https://raw.githubusercontent.com/gist/jbenet/ee6c9ac48068889b0912/raw/a16c3021388a89012ad3baf2f1867db1d9de1e01/z-git-branching.jpg" 
+author: Pito Salasurl: "https://gist.github.com/jbenet/ee6c9ac48068889b0912" cover: "https://raw.githubusercontent.com/gist/jbenet/ee6c9ac48068889b0912/raw/a16c3021388a89012ad3baf2f1867db1d9de1e01/z-git-branching.jpg" 
 date: 2021-04-06 13:40:23
 tags:
     - git-development-ruby-github-programming

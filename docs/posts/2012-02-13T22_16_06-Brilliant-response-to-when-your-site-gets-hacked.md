@@ -1,8 +1,6 @@
 ---
 title: "Brilliant response to when your site gets hacked"
 author: Pito Salas
-
-
 date: 2012-02-13T22:16:06
 tags:
     - boston

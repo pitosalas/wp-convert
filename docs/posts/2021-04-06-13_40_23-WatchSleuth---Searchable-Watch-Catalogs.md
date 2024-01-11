@@ -1,8 +1,6 @@
 ---
 title: "WatchSleuth - Searchable Watch Catalogs"
-author: Pito Salas
-url: "http://www.watchsleuth.com" 
-cover: "http://www.watchsleuth.com/images/SNK809.jpg" 
+author: Pito Salasurl: "http://www.watchsleuth.com" cover: "http://www.watchsleuth.com/images/SNK809.jpg" 
 date: 2021-04-06 13:40:23
 tags:
     - watch

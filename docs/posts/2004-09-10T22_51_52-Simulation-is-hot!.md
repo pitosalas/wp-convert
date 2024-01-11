@@ -1,8 +1,6 @@
 ---
 title: "Simulation is hot!"
 author: Pito Salas
-
-
 date: 2004-09-10T22:51:52
 ---
 

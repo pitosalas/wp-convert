@@ -1,8 +1,6 @@
 ---
 title: "myAGV – Mecanum wheels Lidar High-precision camera carkit"
 author: Pito Salas
-
-
 date: 2022-04-14T08:31:14
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Fantastic Quaternions - Numberphile - YouTube"
-author: Pito Salas
-url: "https://www.youtube.com/watch?v=3BR8tK-LuB0" 
-cover: "https://i.ytimg.com/vi/3BR8tK-LuB0/mqdefault.jpg" 
+author: Pito Salasurl: "https://www.youtube.com/watch?v=3BR8tK-LuB0" cover: "https://i.ytimg.com/vi/3BR8tK-LuB0/mqdefault.jpg" 
 date: 2021-04-06 13:40:23
 tags:
     - Robotics-119-quarternions

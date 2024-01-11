@@ -1,8 +1,6 @@
 ---
 title: "Python: party with Strings | Codementor"
-author: Pito Salas
-url: "https://www.codementor.io/milesak60/python-party-with-strings-jps4ek1k1" 
-cover: "https://cdn.filestackcontent.com/1LdmGcaxSbOTIDa4TFp8" 
+author: Pito Salasurl: "https://www.codementor.io/milesak60/python-party-with-strings-jps4ek1k1" cover: "https://cdn.filestackcontent.com/1LdmGcaxSbOTIDa4TFp8" 
 date: 2021-04-06 13:40:22
 tags:
     - strings-python

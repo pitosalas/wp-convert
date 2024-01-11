@@ -1,8 +1,6 @@
 ---
 title: "Trade-off: Facebook vs. Ning"
 author: Pito Salas
-
-
 date: 2008-04-16T12:21:19
 tags:
     - facebook

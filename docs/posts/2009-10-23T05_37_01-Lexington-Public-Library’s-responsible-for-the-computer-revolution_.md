@@ -1,8 +1,6 @@
 ---
 title: "Lexington Public Library’s responsible for the computer revolution?"
 author: Pito Salas
-
-
 date: 2009-10-23T05:37:01
 ---
 

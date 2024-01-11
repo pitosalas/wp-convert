@@ -1,8 +1,6 @@
 ---
 title: "Social Networking (Demo 2004 Series"
 author: Pito Salas
-
-
 date: 2004-03-05T00:44:02
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Movie Posters Collection – Harry Ransom Center Digital Collections"
 author: Pito Salas
-
-
 date: 2021-07-11T06:34:29
 tags:
     - art

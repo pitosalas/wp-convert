@@ -1,8 +1,6 @@
 ---
 title: "Hilarious blog post teaching Israelis how to adapt to living in the USA"
 author: Pito Salas
-
-
 date: 2011-05-25T01:36:51
 tags:
     - israel

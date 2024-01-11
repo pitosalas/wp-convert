@@ -1,8 +1,6 @@
 ---
 title: "Quotidian Quotidian Quotidian"
 author: Pito Salas
-
-
 date: 2011-05-05T14:30:59
 tags:
     - quotidian

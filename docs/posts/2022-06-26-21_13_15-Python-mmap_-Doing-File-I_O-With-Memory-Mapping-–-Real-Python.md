@@ -1,8 +1,6 @@
 ---
 title: "Python mmap: Doing File I/O With Memory Mapping – Real Python"
-author: Pito Salas
-url: "https://realpython.com/courses/python-mmap-io/" 
-cover: "https://files.realpython.com/media/Using-mmap-Library_Watermarked.3e331f6bcc1d.jpg" 
+author: Pito Salasurl: "https://realpython.com/courses/python-mmap-io/" cover: "https://files.realpython.com/media/Using-mmap-Library_Watermarked.3e331f6bcc1d.jpg" 
 date: 2022-06-26 21:13:15
 tags:
     - python-mmap-howto

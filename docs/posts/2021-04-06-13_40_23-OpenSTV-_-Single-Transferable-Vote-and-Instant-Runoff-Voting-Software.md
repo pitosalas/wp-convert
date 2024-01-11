@@ -1,8 +1,6 @@
 ---
 title: "OpenSTV | Single Transferable Vote and Instant Runoff Voting Software"
-author: Pito Salas
-url: "http://www.openstv.org" 
-cover: "https://rdl.ink/render/http%3A%2F%2Fwww.openstv.org" 
+author: Pito Salasurl: "http://www.openstv.org" cover: "https://rdl.ink/render/http%3A%2F%2Fwww.openstv.org" 
 date: 2021-04-06 13:40:23
 tags:
     - Elections

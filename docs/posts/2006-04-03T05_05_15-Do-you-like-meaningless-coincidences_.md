@@ -1,8 +1,6 @@
 ---
 title: "Do you like meaningless coincidences?"
 author: Pito Salas
-
-
 date: 2006-04-03T05:05:15
 ---
 

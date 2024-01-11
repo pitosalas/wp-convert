@@ -1,8 +1,6 @@
 ---
 title: "Feeling like a Red Sox"
 author: Pito Salas
-
-
 date: 2004-03-03T21:00:17
 ---
 

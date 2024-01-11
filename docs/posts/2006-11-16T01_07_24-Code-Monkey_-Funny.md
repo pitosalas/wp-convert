@@ -1,8 +1,6 @@
 ---
 title: "Code Monkey: Funny"
 author: Pito Salas
-
-
 date: 2006-11-16T01:07:24
 ---
 

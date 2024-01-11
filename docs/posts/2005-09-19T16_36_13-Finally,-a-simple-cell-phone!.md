@@ -1,8 +1,6 @@
 ---
 title: "Finally, a simple cell phone!"
 author: Pito Salas
-
-
 date: 2005-09-19T16:36:13
 ---
 

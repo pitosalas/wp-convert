@@ -1,8 +1,6 @@
 ---
 title: "Russian doll caching in Rails | AppSignal Blog"
-author: Pito Salas
-url: "https://blog.appsignal.com/2018/04/03/russian-doll-caching-in-rails.html" 
-cover: "https://blog.appsignal.com/images/blog/2018-04/matryoshka-twitter.jpg" 
+author: Pito Salasurl: "https://blog.appsignal.com/2018/04/03/russian-doll-caching-in-rails.html" cover: "https://blog.appsignal.com/images/blog/2018-04/matryoshka-twitter.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - ruby-rails-caching

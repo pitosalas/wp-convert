@@ -1,8 +1,6 @@
 ---
 title: "It’s Time to Say Goodbye to These Obsolete Python Libraries"
 author: Pito Salas
-
-
 date: 2022-08-13T18:01:37
 tags:
     - howto

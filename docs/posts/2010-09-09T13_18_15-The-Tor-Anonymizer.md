@@ -1,8 +1,6 @@
 ---
 title: "The Tor Anonymizer"
 author: Pito Salas
-
-
 date: 2010-09-09T13:18:15
 tags:
     - civil-liberties-groups

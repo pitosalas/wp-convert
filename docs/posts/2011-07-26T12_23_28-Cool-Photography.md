@@ -1,8 +1,6 @@
 ---
 title: "Cool Photography"
 author: Pito Salas
-
-
 date: 2011-07-26T12:23:28
 tags:
     - jogging

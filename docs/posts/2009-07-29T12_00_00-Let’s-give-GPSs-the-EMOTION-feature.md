@@ -1,8 +1,6 @@
 ---
 title: "Let’s give GPSs the EMOTION feature"
 author: Pito Salas
-
-
 date: 2009-07-29T12:00:00
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Good stuff from Paul Graham"
 author: Pito Salas
-
-
 date: 2005-06-06T22:27:31
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Busybodies and Crybabies"
 author: Pito Salas
-
-
 date: 2005-03-21T23:42:12
 ---
 

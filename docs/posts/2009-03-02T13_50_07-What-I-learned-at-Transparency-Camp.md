@@ -1,8 +1,6 @@
 ---
 title: "What I learned at Transparency Camp"
 author: Pito Salas
-
-
 date: 2009-03-02T13:50:07
 tags:
     - sunlight

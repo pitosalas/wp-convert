@@ -1,8 +1,6 @@
 ---
 title: "Social Networks and RSS Aggregators"
 author: Pito Salas
-
-
 date: 2005-02-03T05:26:50
 ---
 

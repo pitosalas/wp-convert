@@ -1,8 +1,6 @@
 ---
 title: "Welcome to Bashly | Bashly - Bash CLI Framework"
-author: Pito Salas
-url: "https://bashly.dannyb.co/" 
-cover: "https://bashly.dannyb.co/assets/cast.svg" 
+author: Pito Salasurl: "https://bashly.dannyb.co/" cover: "https://bashly.dannyb.co/assets/cast.svg" 
 date: 2022-09-17 15:43:20
 tags:
     - cli-bash-code-generator-howto-cooltool

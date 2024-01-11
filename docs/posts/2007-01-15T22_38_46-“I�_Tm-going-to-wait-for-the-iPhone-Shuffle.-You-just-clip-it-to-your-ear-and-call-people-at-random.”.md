@@ -1,8 +1,6 @@
 ---
 title: "“I�_Tm going to wait for the iPhone Shuffle. You just clip it to your ear and call people at random.”"
 author: Pito Salas
-
-
 date: 2007-01-15T22:38:46
 ---
 

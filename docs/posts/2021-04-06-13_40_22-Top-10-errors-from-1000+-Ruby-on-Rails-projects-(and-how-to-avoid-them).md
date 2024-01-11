@@ -1,8 +1,6 @@
 ---
 title: "Top 10 errors from 1000+ Ruby on Rails projects (and how to avoid them)"
-author: Pito Salas
-url: "https://rollbar.com/blog/top-10-ruby-on-rails-errors" 
-cover: "https://images.ctfassets.net/cj4mgtttlyx7/1bLRqIl4GDAPNh8ml3Ywpg/97fa59af2d8690138d435e4c80f5d396/top_10_rails_errors.jpg?w=668&q=50" 
+author: Pito Salasurl: "https://rollbar.com/blog/top-10-ruby-on-rails-errors" cover: "https://images.ctfassets.net/cj4mgtttlyx7/1bLRqIl4GDAPNh8ml3Ywpg/97fa59af2d8690138d435e4c80f5d396/top_10_rails_errors.jpg?w=668&q=50" 
 date: 2021-04-06 13:40:22
 tags:
     - errors-rails-ruby

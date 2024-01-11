@@ -1,8 +1,6 @@
 ---
 title: "Order in Google arguments"
 author: Pito Salas
-
-
 date: 2012-10-15T16:44:37
 tags:
     - google

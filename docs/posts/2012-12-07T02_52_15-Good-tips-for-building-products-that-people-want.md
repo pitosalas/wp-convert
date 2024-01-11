@@ -1,8 +1,6 @@
 ---
 title: "Good tips for building products that people want"
 author: Pito Salas
-
-
 date: 2012-12-07T02:52:15
 tags:
     - entrepeneurship

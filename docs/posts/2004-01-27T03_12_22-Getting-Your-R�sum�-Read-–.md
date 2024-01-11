@@ -1,8 +1,6 @@
 ---
 title: "Getting Your R�sum� Read –"
 author: Pito Salas
-
-
 date: 2004-01-27T03:12:22
 ---
 

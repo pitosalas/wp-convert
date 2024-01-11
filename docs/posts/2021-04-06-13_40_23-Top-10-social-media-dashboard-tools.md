@@ -1,8 +1,6 @@
 ---
 title: "Top 10 social media dashboard tools"
-author: Pito Salas
-url: "http://www.socialbrite.org/2010/11/09/top-10-social-media-dashboard-tools" 
-cover: "https://www.socialbrite.org/wp-content/uploads/2010/11/HootSuite400.jpg" 
+author: Pito Salasurl: "http://www.socialbrite.org/2010/11/09/top-10-social-media-dashboard-tools" cover: "https://www.socialbrite.org/wp-content/uploads/2010/11/HootSuite400.jpg" 
 date: 2021-04-06 13:40:23
 tags:
     - dashboard

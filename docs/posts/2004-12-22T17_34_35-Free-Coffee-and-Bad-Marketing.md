@@ -1,8 +1,6 @@
 ---
 title: "Free Coffee and Bad Marketing"
 author: Pito Salas
-
-
 date: 2004-12-22T17:34:35
 ---
 

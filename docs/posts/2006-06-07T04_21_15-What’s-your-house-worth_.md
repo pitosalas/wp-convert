@@ -1,8 +1,6 @@
 ---
 title: "What’s your house worth?"
 author: Pito Salas
-
-
 date: 2006-06-07T04:21:15
 ---
 

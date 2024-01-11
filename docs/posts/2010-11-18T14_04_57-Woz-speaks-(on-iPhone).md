@@ -1,8 +1,6 @@
 ---
 title: "Woz speaks (on iPhone)"
 author: Pito Salas
-
-
 date: 2010-11-18T14:04:57
 tags:
     - android

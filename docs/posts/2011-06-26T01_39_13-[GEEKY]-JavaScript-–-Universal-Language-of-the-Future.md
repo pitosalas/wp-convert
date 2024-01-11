@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] JavaScript – Universal Language of the Future"
 author: Pito Salas
-
-
 date: 2011-06-26T01:39:13
 tags:
     - javascript

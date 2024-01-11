@@ -1,8 +1,6 @@
 ---
 title: "Freedom Robotics"
-author: Pito Salas
-url: "https://www.freedomrobotics.com/?gclid=Cj0KCQjwjN-SBhCkARIsACsrBz54AJzvyDKOTrGKig8SjcmCpYb5NV8w67_78uFqCJtIQR9-yAurvacaAqpjEALw_wcB" 
-cover: "https://www.freedomrobotics.com/hubfs/Featured%20Image%20-%20Logo.png#keepProtocol" 
+author: Pito Salasurl: "https://www.freedomrobotics.com/?gclid=Cj0KCQjwjN-SBhCkARIsACsrBz54AJzvyDKOTrGKig8SjcmCpYb5NV8w67_78uFqCJtIQR9-yAurvacaAqpjEALw_wcB" cover: "https://www.freedomrobotics.com/hubfs/Featured%20Image%20-%20Logo.png#keepProtocol" 
 date: 2022-04-14 11:41:32
 tags:
     - robotics-robot-campusrover-service

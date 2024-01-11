@@ -1,8 +1,6 @@
 ---
 title: "How the world changes (Was: Is the world ready for a replacement to Outlook?)"
 author: Pito Salas
-
-
 date: 2010-07-26T13:58:08
 ---
 

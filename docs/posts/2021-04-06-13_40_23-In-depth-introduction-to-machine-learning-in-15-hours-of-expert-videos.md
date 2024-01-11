@@ -1,8 +1,6 @@
 ---
 title: "In-depth introduction to machine learning in 15 hours of expert videos"
-author: Pito Salas
-url: "http://www.dataschool.io/15-hours-of-expert-machine-learning-videos" 
-cover: "https://rdl.ink/render/http%3A%2F%2Fwww.dataschool.io%2F15-hours-of-expert-machine-learning-videos" 
+author: Pito Salasurl: "http://www.dataschool.io/15-hours-of-expert-machine-learning-videos" cover: "https://rdl.ink/render/http%3A%2F%2Fwww.dataschool.io%2F15-hours-of-expert-machine-learning-videos" 
 date: 2021-04-06 13:40:23
 ---
 <img src=https://rdl.ink/render/http%3A%2F%2Fwww.dataschool.io%2F15-hours-of-expert-machine-learning-videos width="500">

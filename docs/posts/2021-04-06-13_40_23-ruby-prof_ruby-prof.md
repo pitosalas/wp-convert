@@ -1,8 +1,6 @@
 ---
 title: "ruby-prof/ruby-prof"
-author: Pito Salas
-url: "https://github.com/ruby-prof/ruby-prof" 
-cover: "https://avatars.githubusercontent.com/u/3954124?s=400&v=4" 
+author: Pito Salasurl: "https://github.com/ruby-prof/ruby-prof" cover: "https://avatars.githubusercontent.com/u/3954124?s=400&v=4" 
 date: 2021-04-06 13:40:23
 tags:
     - ruby-gem-performance

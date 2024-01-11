@@ -1,8 +1,6 @@
 ---
 title: "Recurring Billing, Subscription Billing, Web 2.0 and SaaS Billing - Chargify"
-author: Pito Salas
-url: "http://chargify.com" 
-cover: "https://www.chargify.com/images/opengraph-7143f2e4.png" 
+author: Pito Salasurl: "http://chargify.com" cover: "https://www.chargify.com/images/opengraph-7143f2e4.png" 
 date: 2021-04-06 13:40:22
 tags:
     - Sittercity

@@ -1,8 +1,6 @@
 ---
 title: "Interesting article by Mark Cuban about ‘the cause of bubbles’"
 author: Pito Salas
-
-
 date: 2008-11-01T12:57:07
 ---
 

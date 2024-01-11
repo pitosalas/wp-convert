@@ -1,8 +1,6 @@
 ---
 title: "Craigslist’s Dirty Little Secret"
 author: Pito Salas
-
-
 date: 2007-04-05T20:54:37
 ---
 

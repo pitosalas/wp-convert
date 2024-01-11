@@ -1,8 +1,6 @@
 ---
 title: "A Modern Prometheus – Processing Foundation – Medium"
-author: Pito Salas
-url: "https://medium.com/processing-foundation/a-modern-prometheus-59aed94abe85" 
-cover: "https://miro.medium.com/max/1200/1*dKDpmdpQABsXbWIRWsRy2A.png" 
+author: Pito Salasurl: "https://medium.com/processing-foundation/a-modern-prometheus-59aed94abe85" cover: "https://miro.medium.com/max/1200/1*dKDpmdpQABsXbWIRWsRy2A.png" 
 date: 2021-04-06 13:40:22
 tags:
     - processing-programming-visual

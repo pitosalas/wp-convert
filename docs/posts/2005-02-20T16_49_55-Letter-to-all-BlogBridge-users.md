@@ -1,8 +1,6 @@
 ---
 title: "Letter to all BlogBridge users"
 author: Pito Salas
-
-
 date: 2005-02-20T16:49:55
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Switcher’s Log, Part 4: So what software DO I use on Mac?"
 author: Pito Salas
-
-
 date: 2005-02-12T00:00:02
 ---
 

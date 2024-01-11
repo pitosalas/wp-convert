@@ -1,8 +1,6 @@
 ---
 title: "VC: Rumors of its demise are probably premature"
 author: Pito Salas
-
-
 date: 2005-05-25T14:24:28
 ---
 

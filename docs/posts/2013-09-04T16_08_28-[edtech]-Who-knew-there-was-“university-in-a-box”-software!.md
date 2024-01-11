@@ -1,8 +1,6 @@
 ---
 title: "[edtech] Who knew there was “university in a box” software!"
 author: Pito Salas
-
-
 date: 2013-09-04T16:08:28
 tags:
     - edtech

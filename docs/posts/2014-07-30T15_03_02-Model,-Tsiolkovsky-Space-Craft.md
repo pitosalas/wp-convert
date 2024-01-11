@@ -1,8 +1,6 @@
 ---
 title: "Model, Tsiolkovsky Space Craft"
 author: Pito Salas
-
-
 date: 2014-07-30T15:03:02
 ---
 

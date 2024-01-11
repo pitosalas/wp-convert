@@ -1,8 +1,6 @@
 ---
 title: "Developing a Multithreaded Kernel From Scratch!"
-author: Pito Salas
-url: "https://www.udemy.com/course/developing-a-multithreaded-kernel-from-scratch/" 
-cover: "https://img-c.udemycdn.com/course/480x270/3721456_d2e9.jpg" 
+author: Pito Salasurl: "https://www.udemy.com/course/developing-a-multithreaded-kernel-from-scratch/" cover: "https://img-c.udemycdn.com/course/480x270/3721456_d2e9.jpg" 
 date: 2023-10-26 18:12:39
 tags:
     - udemy-operating-system-kernel-course-education

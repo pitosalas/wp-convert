@@ -1,8 +1,6 @@
 ---
 title: "The fastest way to clone an SD card on macOS - Jaimyn's Blog"
-author: Pito Salas
-url: "https://blog.jaimyn.dev/the-fastest-way-to-clone-sd-card-macos/" 
-cover: "https://blog.jaimyn.dev/wp-content/uploads/2020/01/microSD-to-SD-1200x900-1.jpg" 
+author: Pito Salasurl: "https://blog.jaimyn.dev/the-fastest-way-to-clone-sd-card-macos/" cover: "https://blog.jaimyn.dev/wp-content/uploads/2020/01/microSD-to-SD-1200x900-1.jpg" 
 date: 2021-05-24 13:15:07
 tags:
     - microsd-robotics-howto

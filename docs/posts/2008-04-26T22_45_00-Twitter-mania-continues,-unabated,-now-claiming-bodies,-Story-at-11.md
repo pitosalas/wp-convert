@@ -1,8 +1,6 @@
 ---
 title: "Twitter mania continues, unabated, now claiming bodies, Story at 11"
 author: Pito Salas
-
-
 date: 2008-04-26T22:45:00
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Secret trick for losing weight"
 author: Pito Salas
-
-
 date: 2012-01-21T01:08:53
 tags:
     - anchoring

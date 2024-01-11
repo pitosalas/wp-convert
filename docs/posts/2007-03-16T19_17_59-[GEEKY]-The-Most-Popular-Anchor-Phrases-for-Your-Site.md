@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] The Most Popular Anchor Phrases for Your Site"
 author: Pito Salas
-
-
 date: 2007-03-16T19:17:59
 ---
 

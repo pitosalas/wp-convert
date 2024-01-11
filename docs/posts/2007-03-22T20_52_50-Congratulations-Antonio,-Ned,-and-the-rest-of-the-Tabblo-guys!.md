@@ -1,8 +1,6 @@
 ---
 title: "Congratulations Antonio, Ned, and the rest of the Tabblo guys!"
 author: Pito Salas
-
-
 date: 2007-03-22T20:52:50
 ---
 

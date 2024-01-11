@@ -1,8 +1,6 @@
 ---
 title: "Facebook, the new America Online?"
 author: Pito Salas
-
-
 date: 2007-10-24T01:54:44
 ---
 

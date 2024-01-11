@@ -1,8 +1,6 @@
 ---
 title: "Op-ed in Mass High Tech about ResourceMatcher.org"
 author: Pito Salas
-
-
 date: 2009-08-21T15:37:49
 ---
 

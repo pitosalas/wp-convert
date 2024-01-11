@@ -1,8 +1,6 @@
 ---
 title: "AI-generated answers temporarily banned on coding Q&A site Stack Overflow"
 author: Pito Salas
-
-
 date: 2022-12-05T15:05:10
 tags:
     - artcile

@@ -1,8 +1,6 @@
 ---
 title: "I absolutely adored Spock. Loving Dad was much more complicated. – The Boston Globe"
 author: Pito Salas
-
-
 date: 2021-06-17T15:34:14
 tags:
     - boston

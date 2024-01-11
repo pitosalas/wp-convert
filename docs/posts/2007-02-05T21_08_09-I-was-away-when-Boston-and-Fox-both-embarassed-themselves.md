@@ -1,8 +1,6 @@
 ---
 title: "I was away when Boston and Fox both embarassed themselves"
 author: Pito Salas
-
-
 date: 2007-02-05T21:08:09
 ---
 

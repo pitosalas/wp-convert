@@ -1,8 +1,6 @@
 ---
 title: "DC Lingo – from my notebook"
 author: Pito Salas
-
-
 date: 2009-03-03T14:00:11
 tags:
     - funny

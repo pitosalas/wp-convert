@@ -1,8 +1,6 @@
 ---
 title: "Why are you reading?"
 author: Pito Salas
-
-
 date: 2007-12-18T14:51:06
 ---
 

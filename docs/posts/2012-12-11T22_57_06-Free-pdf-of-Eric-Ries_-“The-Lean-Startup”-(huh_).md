@@ -1,8 +1,6 @@
 ---
 title: "Free pdf of Eric Ries: “The Lean Startup” (huh?)"
 author: Pito Salas
-
-
 date: 2012-12-11T22:57:06
 tags:
     - eric-ries

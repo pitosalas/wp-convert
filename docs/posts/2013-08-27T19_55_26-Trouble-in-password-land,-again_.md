@@ -1,8 +1,6 @@
 ---
 title: "Trouble in password land, again?"
 author: Pito Salas
-
-
 date: 2013-08-27T19:55:26
 tags:
     - authentication

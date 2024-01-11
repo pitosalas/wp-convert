@@ -1,8 +1,6 @@
 ---
 title: "5 things to keep in mind when relying on S3 and similar SAAS services"
 author: Pito Salas
-
-
 date: 2008-08-22T13:00:02
 ---
 

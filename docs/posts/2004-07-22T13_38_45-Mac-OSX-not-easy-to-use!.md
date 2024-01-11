@@ -1,8 +1,6 @@
 ---
 title: "Mac OSX not easy to use!"
 author: Pito Salas
-
-
 date: 2004-07-22T13:38:45
 ---
 

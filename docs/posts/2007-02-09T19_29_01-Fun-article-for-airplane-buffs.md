@@ -1,8 +1,6 @@
 ---
 title: "Fun article for airplane buffs"
 author: Pito Salas
-
-
 date: 2007-02-09T19:29:01
 ---
 

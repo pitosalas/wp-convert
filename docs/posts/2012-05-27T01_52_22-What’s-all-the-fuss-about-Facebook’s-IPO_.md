@@ -1,8 +1,6 @@
 ---
 title: "What’s all the fuss about Facebook’s IPO?"
 author: Pito Salas
-
-
 date: 2012-05-27T01:52:22
 tags:
     - facebook

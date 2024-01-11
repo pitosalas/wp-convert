@@ -1,8 +1,6 @@
 ---
 title: "Every bookmark manager ever made | A Bootstrapped Journey"
-author: Pito Salas
-url: "https://bookmarkos.com/every-bookmark-manager-ever-made" 
-cover: "https://bookmarkos.com/blog/assets/images/posts/every-bookmark-manager.png" 
+author: Pito Salasurl: "https://bookmarkos.com/every-bookmark-manager-ever-made" cover: "https://bookmarkos.com/blog/assets/images/posts/every-bookmark-manager.png" 
 date: 2021-04-06 13:40:22
 tags:
     - bookmark-library-collection

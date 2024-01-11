@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Magic Rails Applications with Hobo"
 author: Pito Salas
-
-
 date: 2011-05-20T20:59:46
 tags:
     - hobo

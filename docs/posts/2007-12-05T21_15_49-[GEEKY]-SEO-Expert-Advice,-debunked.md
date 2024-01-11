@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] SEO Expert Advice, debunked"
 author: Pito Salas
-
-
 date: 2007-12-05T21:15:49
 ---
 

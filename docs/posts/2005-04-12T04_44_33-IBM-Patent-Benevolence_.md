@@ -1,8 +1,6 @@
 ---
 title: "IBM Patent Benevolence?"
 author: Pito Salas
-
-
 date: 2005-04-12T04:44:33
 ---
 

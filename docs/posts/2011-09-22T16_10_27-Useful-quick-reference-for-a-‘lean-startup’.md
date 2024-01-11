@@ -1,8 +1,6 @@
 ---
 title: "Useful quick reference for a ‘lean startup’"
 author: Pito Salas
-
-
 date: 2011-09-22T16:10:27
 ---
 

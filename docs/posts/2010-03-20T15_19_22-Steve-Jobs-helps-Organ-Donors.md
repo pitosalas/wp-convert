@@ -1,8 +1,6 @@
 ---
 title: "Steve Jobs helps Organ Donors"
 author: Pito Salas
-
-
 date: 2010-03-20T15:19:22
 ---
 

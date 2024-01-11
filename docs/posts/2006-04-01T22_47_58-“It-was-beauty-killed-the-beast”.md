@@ -1,8 +1,6 @@
 ---
 title: "“It was beauty killed the beast”"
 author: Pito Salas
-
-
 date: 2006-04-01T22:47:58
 ---
 

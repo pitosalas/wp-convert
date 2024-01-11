@@ -1,8 +1,6 @@
 ---
 title: "An Introduction to Graphviz via R. Kelly’s “Trapped in the Closet” Hip Hopera : Rob's Blog"
-author: Pito Salas
-url: "http://robrhinehart.com/?p=119" 
-cover: "https://robertrhinehart.ghost.io/content/images/2020/10/bell.jpg" 
+author: Pito Salasurl: "http://robrhinehart.com/?p=119" cover: "https://robertrhinehart.ghost.io/content/images/2020/10/bell.jpg" 
 date: 2021-04-06 13:40:23
 tags:
     - graphviz-graphing-charts-ruby-dsl

@@ -1,8 +1,6 @@
 ---
 title: "Fantastic Billy Joel Interview"
 author: Pito Salas
-
-
 date: 2013-05-28T22:02:28
 tags:
     - billy-joel

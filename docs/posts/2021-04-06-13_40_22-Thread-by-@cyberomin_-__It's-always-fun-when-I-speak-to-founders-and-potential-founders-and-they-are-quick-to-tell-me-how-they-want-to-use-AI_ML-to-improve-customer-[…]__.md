@@ -1,8 +1,6 @@
 ---
 title: "Thread by @cyberomin: \"It's always fun when I speak to founders and potential founders and they are quick to tell me how they want to use AI/ML to improve customer […]\""
-author: Pito Salas
-url: "https://threadreaderapp.com/thread/987602838594445312.html" 
-cover: "https://threadreaderapp.com/images/screenshots/thread/987602838594445312.jpg" 
+author: Pito Salasurl: "https://threadreaderapp.com/thread/987602838594445312.html" cover: "https://threadreaderapp.com/images/screenshots/thread/987602838594445312.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - sql

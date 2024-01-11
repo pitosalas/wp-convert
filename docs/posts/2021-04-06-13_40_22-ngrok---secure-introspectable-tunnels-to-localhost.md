@@ -1,8 +1,6 @@
 ---
 title: "ngrok - secure introspectable tunnels to localhost"
-author: Pito Salas
-url: "https://ngrok.com/pricing" 
-cover: "https://rdl.ink/render/https%3A%2F%2Fngrok.com%2Fpricing" 
+author: Pito Salasurl: "https://ngrok.com/pricing" cover: "https://rdl.ink/render/https%3A%2F%2Fngrok.com%2Fpricing" 
 date: 2021-04-06 13:40:22
 tags:
     - web-rails-server

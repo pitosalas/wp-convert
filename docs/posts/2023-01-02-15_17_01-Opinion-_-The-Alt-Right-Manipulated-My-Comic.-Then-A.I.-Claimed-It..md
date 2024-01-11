@@ -1,8 +1,6 @@
 ---
 title: "Opinion | The Alt-Right Manipulated My Comic. Then A.I. Claimed It."
-author: Pito Salas
-url: "https://www.nytimes.com/2022/12/31/opinion/sarah-andersen-how-algorithim-took-my-work.html?smid=nytcore-ios-share&referringSource=articleShare" 
-cover: "https://static01.nyt.com/images/2022/12/30/autossell/30Andersen-FirstFrame/30Andersen-FirstFrame-largeHorizontalJumbo-v2.jpg" 
+author: Pito Salasurl: "https://www.nytimes.com/2022/12/31/opinion/sarah-andersen-how-algorithim-took-my-work.html?smid=nytcore-ios-share&referringSource=articleShare" cover: "https://static01.nyt.com/images/2022/12/30/autossell/30Andersen-FirstFrame/30Andersen-FirstFrame-largeHorizontalJumbo-v2.jpg" 
 date: 2023-01-02 15:17:01
 tags:
     - art-ChatGPT-creativity-plagiarism-article-nyt

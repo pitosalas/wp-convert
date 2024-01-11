@@ -1,8 +1,6 @@
 ---
 title: "Blogging, Journalism and Credibility – Harvard"
 author: Pito Salas
-
-
 date: 2005-01-23T02:08:11
 ---
 

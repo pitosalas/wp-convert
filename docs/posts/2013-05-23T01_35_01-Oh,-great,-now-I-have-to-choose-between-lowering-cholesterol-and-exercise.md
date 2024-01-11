@@ -1,8 +1,6 @@
 ---
 title: "Oh, great, now I have to choose between lowering cholesterol and exercise"
 author: Pito Salas
-
-
 date: 2013-05-23T01:35:01
 tags:
     - cholesterol

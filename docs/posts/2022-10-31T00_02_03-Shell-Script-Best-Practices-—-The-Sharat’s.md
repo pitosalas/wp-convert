@@ -1,8 +1,6 @@
 ---
 title: "Shell Script Best Practices — The Sharat’s"
 author: Pito Salas
-
-
 date: 2022-10-31T00:02:03
 tags:
     - bash

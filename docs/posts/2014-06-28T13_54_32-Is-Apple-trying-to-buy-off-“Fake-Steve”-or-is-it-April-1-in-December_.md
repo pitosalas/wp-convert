@@ -1,8 +1,6 @@
 ---
 title: "Is Apple trying to buy off “Fake Steve” or is it April 1 in December?"
 author: Pito Salas
-
-
 date: 2014-06-28T13:54:32
 ---
 

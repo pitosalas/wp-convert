@@ -1,8 +1,6 @@
 ---
 title: "No Regrets? My Macbook Air is only 2 months old and already out-of-date"
 author: Pito Salas
-
-
 date: 2011-07-20T13:47:27
 tags:
     - macbook

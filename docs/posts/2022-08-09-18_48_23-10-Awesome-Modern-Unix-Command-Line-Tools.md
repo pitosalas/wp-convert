@@ -1,8 +1,6 @@
 ---
 title: "10 Awesome Modern Unix Command-Line Tools"
-author: Pito Salas
-url: "https://link.medium.com/lyhom9jkmsb" 
-cover: "https://miro.medium.com/max/1200/1*3kZodl-XR1Aum4W3fzRk-A.png" 
+author: Pito Salasurl: "https://link.medium.com/lyhom9jkmsb" cover: "https://miro.medium.com/max/1200/1*3kZodl-XR1Aum4W3fzRk-A.png" 
 date: 2022-08-09 18:48:23
 tags:
     - unix-cli-cooltool-howto

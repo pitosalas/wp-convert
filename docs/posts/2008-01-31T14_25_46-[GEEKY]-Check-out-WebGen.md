@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Check out WebGen"
 author: Pito Salas
-
-
 date: 2008-01-31T14:25:46
 ---
 

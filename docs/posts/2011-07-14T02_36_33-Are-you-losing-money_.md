@@ -1,8 +1,6 @@
 ---
 title: "Are you losing money?"
 author: Pito Salas
-
-
 date: 2011-07-14T02:36:33
 ---
 

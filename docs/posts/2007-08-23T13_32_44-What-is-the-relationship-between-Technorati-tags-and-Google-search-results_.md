@@ -1,8 +1,6 @@
 ---
 title: "What is the relationship between Technorati tags and Google search results?"
 author: Pito Salas
-
-
 date: 2007-08-23T13:32:44
 ---
 

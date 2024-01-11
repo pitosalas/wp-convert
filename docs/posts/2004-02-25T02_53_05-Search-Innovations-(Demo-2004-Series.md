@@ -1,8 +1,6 @@
 ---
 title: "Search Innovations (Demo 2004 Series"
 author: Pito Salas
-
-
 date: 2004-02-25T02:53:05
 ---
 

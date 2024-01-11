@@ -1,8 +1,6 @@
 ---
 title: "Waiting for Superman"
 author: Pito Salas
-
-
 date: 2011-06-15T23:55:07
 tags:
     - education

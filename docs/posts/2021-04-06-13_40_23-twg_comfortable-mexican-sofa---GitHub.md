@@ -1,8 +1,6 @@
 ---
 title: "twg/comfortable-mexican-sofa - GitHub"
-author: Pito Salas
-url: "https://github.com/twg/comfortable-mexican-sofa#readme" 
-cover: "https://avatars.githubusercontent.com/u/391284?s=400&v=4" 
+author: Pito Salasurl: "https://github.com/twg/comfortable-mexican-sofa#readme" cover: "https://avatars.githubusercontent.com/u/391284?s=400&v=4" 
 date: 2021-04-06 13:40:23
 tags:
     - Rails

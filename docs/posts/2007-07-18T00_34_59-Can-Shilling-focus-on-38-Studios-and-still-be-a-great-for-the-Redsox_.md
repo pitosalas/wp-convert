@@ -1,8 +1,6 @@
 ---
 title: "Can Shilling focus on 38 Studios and still be a great for the Redsox?"
 author: Pito Salas
-
-
 date: 2007-07-18T00:34:59
 ---
 

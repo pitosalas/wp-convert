@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Ajax? Flash? Java? What’s the best way to create a rich browser based application?"
 author: Pito Salas
-
-
 date: 2005-09-30T16:06:34
 ---
 

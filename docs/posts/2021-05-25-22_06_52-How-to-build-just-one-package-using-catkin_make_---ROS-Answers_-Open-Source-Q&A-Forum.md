@@ -1,8 +1,6 @@
 ---
 title: "How to build just one package using catkin_make? - ROS Answers: Open Source Q&A Forum"
-author: Pito Salas
-url: "https://answers.ros.org/question/54178/how-to-build-just-one-package-using-catkin_make/" 
-cover: "https://rdl.ink/render/https%3A%2F%2Fanswers.ros.org%2Fquestion%2F54178%2Fhow-to-build-just-one-package-using-catkin_make%2F" 
+author: Pito Salasurl: "https://answers.ros.org/question/54178/how-to-build-just-one-package-using-catkin_make/" cover: "https://rdl.ink/render/https%3A%2F%2Fanswers.ros.org%2Fquestion%2F54178%2Fhow-to-build-just-one-package-using-catkin_make%2F" 
 date: 2021-05-25 22:06:52
 tags:
     - ros-howto-package-ros-answer

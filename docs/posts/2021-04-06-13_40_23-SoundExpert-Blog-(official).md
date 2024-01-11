@@ -1,8 +1,6 @@
 ---
 title: "SoundExpert Blog (official)"
-author: Pito Salas
-url: "http://www.soundexpert.info/jblog/blog/se_official/Audio+culture/2007/05/26/Other-Russian-music-stores-besides-Allofmp3" 
-cover: "" 
+author: Pito Salasurl: "http://www.soundexpert.info/jblog/blog/se_official/Audio+culture/2007/05/26/Other-Russian-music-stores-besides-Allofmp3" cover: "" 
 date: 2021-04-06 13:40:23
 tags:
     - mp3

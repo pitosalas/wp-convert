@@ -1,8 +1,6 @@
 ---
 title: "More on congestion pricing…"
 author: Pito Salas
-
-
 date: 2008-04-15T16:49:25
 tags:
     - congestionpricing-nyc-meshnetworks-gps

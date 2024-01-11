@@ -1,8 +1,6 @@
 ---
 title: "Why doing design for Facebook is a thankless job"
 author: Pito Salas
-
-
 date: 2012-03-13T19:50:14
 tags:
     - design

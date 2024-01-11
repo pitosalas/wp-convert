@@ -1,8 +1,6 @@
 ---
 title: "Our Golang Frameworks vs Ruby Frameworks Expert Guide for Software Developers"
-author: Pito Salas
-url: "https://www.sphereinc.com/blogs/go-for-rails-developers/" 
-cover: "https://www.sphereinc.com/wp-content/uploads/2016/02/go-for-rails-developers.webp" 
+author: Pito Salasurl: "https://www.sphereinc.com/blogs/go-for-rails-developers/" cover: "https://www.sphereinc.com/wp-content/uploads/2016/02/go-for-rails-developers.webp" 
 date: 2022-05-08 11:48:24
 tags:
     - golang-rails-frsmework-web

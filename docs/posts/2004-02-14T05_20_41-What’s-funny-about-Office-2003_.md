@@ -1,8 +1,6 @@
 ---
 title: "What’s funny about Office 2003?"
 author: Pito Salas
-
-
 date: 2004-02-14T05:20:41
 ---
 

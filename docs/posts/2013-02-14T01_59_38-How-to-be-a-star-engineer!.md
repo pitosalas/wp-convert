@@ -1,8 +1,6 @@
 ---
 title: "How to be a star engineer!"
 author: Pito Salas
-
-
 date: 2013-02-14T01:59:38
 tags:
     - achievement

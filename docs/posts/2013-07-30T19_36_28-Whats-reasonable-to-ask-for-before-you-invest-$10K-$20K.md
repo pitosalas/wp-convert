@@ -1,8 +1,6 @@
 ---
 title: "Whats reasonable to ask for before you invest $10K-$20K"
 author: Pito Salas
-
-
 date: 2013-07-30T19:36:28
 tags:
     - angel-investing

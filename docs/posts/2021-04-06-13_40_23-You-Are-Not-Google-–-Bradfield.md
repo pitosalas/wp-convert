@@ -1,8 +1,6 @@
 ---
 title: "You Are Not Google – Bradfield"
-author: Pito Salas
-url: "https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb" 
-cover: "https://miro.medium.com/max/512/1*58fByP3ysdAKFlbH_KAWRQ.jpeg" 
+author: Pito Salasurl: "https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb" cover: "https://miro.medium.com/max/512/1*58fByP3ysdAKFlbH_KAWRQ.jpeg" 
 date: 2021-04-06 13:40:23
 tags:
     - Software-Engineering

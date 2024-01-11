@@ -1,8 +1,6 @@
 ---
 title: "Election Meltdown"
 author: Pito Salas
-
-
 date: 2012-11-10T00:53:02
 tags:
     - crash

@@ -1,8 +1,6 @@
 ---
 title: "Article about Podcasting in the New York Times"
 author: Pito Salas
-
-
 date: 2005-02-19T14:24:23
 ---
 

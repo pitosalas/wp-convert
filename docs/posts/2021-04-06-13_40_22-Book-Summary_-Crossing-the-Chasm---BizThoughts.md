@@ -1,8 +1,6 @@
 ---
 title: "Book Summary: Crossing the Chasm - BizThoughts"
-author: Pito Salas
-url: "http://bizthoughts.mikelee.org/book-summary-crossing-the-chasm.html" 
-cover: "https://images-na.ssl-images-amazon.com/images/I/51eS4zbxiLL._SL110_.jpg" 
+author: Pito Salasurl: "http://bizthoughts.mikelee.org/book-summary-crossing-the-chasm.html" cover: "https://images-na.ssl-images-amazon.com/images/I/51eS4zbxiLL._SL110_.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - Olin

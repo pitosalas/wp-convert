@@ -1,8 +1,6 @@
 ---
 title: "Cautionary Tale? Too much screen time can be hazardous to your health!"
 author: Pito Salas
-
-
 date: 2011-01-16T19:41:37
 tags:
     - computer

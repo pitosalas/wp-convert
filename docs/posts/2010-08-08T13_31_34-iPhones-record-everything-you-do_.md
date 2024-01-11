@@ -1,8 +1,6 @@
 ---
 title: "iPhones record everything you do?"
 author: Pito Salas
-
-
 date: 2010-08-08T13:31:34
 ---
 

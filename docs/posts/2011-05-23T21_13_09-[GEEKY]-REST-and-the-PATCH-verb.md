@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] REST and the PATCH verb"
 author: Pito Salas
-
-
 date: 2011-05-23T21:13:09
 tags:
     - GEEKY

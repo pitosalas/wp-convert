@@ -1,8 +1,6 @@
 ---
 title: "Ultimate virtual classroom"
 author: Pito Salas
-
-
 date: 2006-09-08T22:52:01
 ---
 

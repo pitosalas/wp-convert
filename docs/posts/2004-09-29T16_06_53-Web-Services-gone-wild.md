@@ -1,8 +1,6 @@
 ---
 title: "Web Services gone wild"
 author: Pito Salas
-
-
 date: 2004-09-29T16:06:53
 ---
 

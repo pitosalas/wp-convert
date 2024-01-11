@@ -1,8 +1,6 @@
 ---
 title: "Ethical alternatives to revenue-generating deceptive patterns"
-author: Pito Salas
-url: "https://uxdesign.cc/ethical-alternatives-to-revenue-generating-deceptive-patterns-252a0efd9d2d" 
-cover: "https://miro.medium.com/v2/resize:fit:896/0*eXbW-q7ofPwNvEJ9" 
+author: Pito Salasurl: "https://uxdesign.cc/ethical-alternatives-to-revenue-generating-deceptive-patterns-252a0efd9d2d" cover: "https://miro.medium.com/v2/resize:fit:896/0*eXbW-q7ofPwNvEJ9" 
 date: 2023-03-14 12:19:19
 tags:
     - ux-dark-patterns-nudge-howto

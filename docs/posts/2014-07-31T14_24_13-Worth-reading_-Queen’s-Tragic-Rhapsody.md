@@ -1,8 +1,6 @@
 ---
 title: "Worth reading: Queen’s Tragic Rhapsody"
 author: Pito Salas
-
-
 date: 2014-07-31T14:24:13
 tags:
     - biography

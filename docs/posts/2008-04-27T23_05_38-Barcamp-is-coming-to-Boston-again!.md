@@ -1,8 +1,6 @@
 ---
 title: "Barcamp is coming to Boston again!"
 author: Pito Salas
-
-
 date: 2008-04-27T23:05:38
 tags:
     - barcamp-foocamp-boston

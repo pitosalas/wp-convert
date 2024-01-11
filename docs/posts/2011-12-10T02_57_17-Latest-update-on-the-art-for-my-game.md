@@ -1,8 +1,6 @@
 ---
 title: "Latest update on the art for my game"
 author: Pito Salas
-
-
 date: 2011-12-10T02:57:17
 tags:
     - adobe

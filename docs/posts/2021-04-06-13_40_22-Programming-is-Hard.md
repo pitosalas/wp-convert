@@ -1,8 +1,6 @@
 ---
 title: "Programming is Hard"
-author: Pito Salas
-url: "https://dev.to/somedood/programming-is-hard-2p87" 
-cover: "https://res.cloudinary.com/practicaldev/image/fetch/s--e2vMP1EM--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/2viihq3r5g6c9h7zatbo.png" 
+author: Pito Salasurl: "https://dev.to/somedood/programming-is-hard-2p87" cover: "https://res.cloudinary.com/practicaldev/image/fetch/s--e2vMP1EM--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/2viihq3r5g6c9h7zatbo.png" 
 date: 2021-04-06 13:40:22
 tags:
     - programming-dev-learning-beginner

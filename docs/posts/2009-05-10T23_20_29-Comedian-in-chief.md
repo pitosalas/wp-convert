@@ -1,8 +1,6 @@
 ---
 title: "Comedian in chief"
 author: Pito Salas
-
-
 date: 2009-05-10T23:20:29
 ---
 

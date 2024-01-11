@@ -1,8 +1,6 @@
 ---
 title: "TSA and photo IDs"
 author: Pito Salas
-
-
 date: 2008-09-02T16:03:31
 ---
 

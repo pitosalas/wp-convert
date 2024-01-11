@@ -1,8 +1,6 @@
 ---
 title: "It’s hard to cancel Wall Street Journal Online"
 author: Pito Salas
-
-
 date: 2010-02-11T13:38:00
 tags:
     - blizzard

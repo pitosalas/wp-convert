@@ -1,8 +1,6 @@
 ---
 title: "BlogBridge on the radar screen?"
 author: Pito Salas
-
-
 date: 2004-11-20T16:28:09
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "A closer look at Acorn, our open source precision farming rover – Research Blog – Twisted Fields community"
 author: Pito Salas
-
-
 date: 2022-12-29T02:02:21
 tags:
     - acorn

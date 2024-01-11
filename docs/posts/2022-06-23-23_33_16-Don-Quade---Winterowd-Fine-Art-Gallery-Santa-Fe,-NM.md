@@ -1,8 +1,6 @@
 ---
 title: "Don Quade - Winterowd Fine Art Gallery Santa Fe, NM"
-author: Pito Salas
-url: "https://fineartsantafe.com/don-quade-contemporary-abstract/" 
-cover: "https://fineartsantafe.com/wp-content/uploads/2019/05/dq_musicymariposa_16x16.jpg" 
+author: Pito Salasurl: "https://fineartsantafe.com/don-quade-contemporary-abstract/" cover: "https://fineartsantafe.com/wp-content/uploads/2019/05/dq_musicymariposa_16x16.jpg" 
 date: 2022-06-23 23:33:16
 tags:
     - art-paintings

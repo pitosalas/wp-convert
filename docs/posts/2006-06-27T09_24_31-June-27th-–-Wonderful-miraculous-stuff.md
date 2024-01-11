@@ -1,8 +1,6 @@
 ---
 title: "June 27th – Wonderful miraculous stuff"
 author: Pito Salas
-
-
 date: 2006-06-27T09:24:31
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Interesting further commentary on Intuit purchase of Mint"
 author: Pito Salas
-
-
 date: 2009-09-18T14:35:46
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Learn How to Test Third Party Services With Minitest & VCR"
 author: Pito Salas
-
-
 date: 2022-03-08T15:32:00
 tags:
     - api

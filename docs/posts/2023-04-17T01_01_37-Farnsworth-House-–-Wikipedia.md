@@ -1,8 +1,6 @@
 ---
 title: "Farnsworth House – Wikipedia"
 author: Pito Salas
-
-
 date: 2023-04-17T01:01:37
 tags:
     - architecture

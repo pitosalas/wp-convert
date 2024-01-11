@@ -1,8 +1,6 @@
 ---
 title: "interesting stuff in the paper today"
 author: Pito Salas
-
-
 date: 2007-04-11T20:08:29
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Open-source data multitool | VisiData"
-author: Pito Salas
-url: "https://www.visidata.org/?utm_source=substack&utm_medium=email" 
-cover: "https://www.visidata.org/images/meta/og.jpg" 
+author: Pito Salasurl: "https://www.visidata.org/?utm_source=substack&utm_medium=email" cover: "https://www.visidata.org/images/meta/og.jpg" 
 date: 2022-08-21 23:10:23
 tags:
     - csv-data-cli-cooltool

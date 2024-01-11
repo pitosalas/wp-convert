@@ -1,8 +1,6 @@
 ---
 title: "Is a startup for you?"
 author: Pito Salas
-
-
 date: 2013-06-26T13:32:45
 tags:
     - business

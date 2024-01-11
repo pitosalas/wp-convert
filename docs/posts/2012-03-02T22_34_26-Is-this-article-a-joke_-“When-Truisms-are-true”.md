@@ -1,8 +1,6 @@
 ---
 title: "Is this article a joke? “When Truisms are true”"
 author: Pito Salas
-
-
 date: 2012-03-02T22:34:26
 tags:
     - box

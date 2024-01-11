@@ -1,8 +1,6 @@
 ---
 title: "Big Changes coming in Curaçao!"
 author: Pito Salas
-
-
 date: 2010-10-08T16:33:24
 ---
 

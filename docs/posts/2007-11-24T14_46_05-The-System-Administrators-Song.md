@@ -1,8 +1,6 @@
 ---
 title: "The System Administrators Song"
 author: Pito Salas
-
-
 date: 2007-11-24T14:46:05
 ---
 

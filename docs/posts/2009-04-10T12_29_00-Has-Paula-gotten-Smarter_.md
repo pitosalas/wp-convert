@@ -1,8 +1,6 @@
 ---
 title: "Has Paula gotten Smarter?"
 author: Pito Salas
-
-
 date: 2009-04-10T12:29:00
 tags:
     - american-idol

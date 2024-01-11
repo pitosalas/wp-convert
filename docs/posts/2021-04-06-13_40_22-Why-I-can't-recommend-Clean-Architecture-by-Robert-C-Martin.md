@@ -1,8 +1,6 @@
 ---
 title: "Why I can't recommend Clean Architecture by Robert C Martin"
-author: Pito Salas
-url: "https://dev.to/bosepchuk/why-i-cant-recommend-clean-architecture-by-robert-c-martin-ofd" 
-cover: "https://res.cloudinary.com/practicaldev/image/fetch/s--EvPYKfzv--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/ni67jvkaxclrf5e0lob9.jpg" 
+author: Pito Salasurl: "https://dev.to/bosepchuk/why-i-cant-recommend-clean-architecture-by-robert-c-martin-ofd" cover: "https://res.cloudinary.com/practicaldev/image/fetch/s--EvPYKfzv--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/ni67jvkaxclrf5e0lob9.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - unclemartin-architecture-dev

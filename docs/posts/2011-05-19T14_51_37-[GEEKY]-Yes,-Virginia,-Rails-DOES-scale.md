@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Yes, Virginia, Rails DOES scale"
 author: Pito Salas
-
-
 date: 2011-05-19T14:51:37
 tags:
     - railsconf

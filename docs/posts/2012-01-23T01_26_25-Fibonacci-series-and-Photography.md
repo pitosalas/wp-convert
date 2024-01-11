@@ -1,8 +1,6 @@
 ---
 title: "Fibonacci series and Photography"
 author: Pito Salas
-
-
 date: 2012-01-23T01:26:25
 tags:
     - composition

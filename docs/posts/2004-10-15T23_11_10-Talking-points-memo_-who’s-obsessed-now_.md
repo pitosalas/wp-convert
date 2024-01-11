@@ -1,8 +1,6 @@
 ---
 title: "Talking points memo: who’s obsessed now?"
 author: Pito Salas
-
-
 date: 2004-10-15T23:11:10
 ---
 

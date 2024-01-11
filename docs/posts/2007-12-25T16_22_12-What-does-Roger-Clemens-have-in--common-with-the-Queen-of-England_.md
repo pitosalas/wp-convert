@@ -1,8 +1,6 @@
 ---
 title: "What does Roger Clemens have in  common with the Queen of England?"
 author: Pito Salas
-
-
 date: 2007-12-25T16:22:12
 ---
 

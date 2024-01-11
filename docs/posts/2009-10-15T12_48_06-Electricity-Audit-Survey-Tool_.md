@@ -1,8 +1,6 @@
 ---
 title: "Electricity Audit Survey Tool?"
 author: Pito Salas
-
-
 date: 2009-10-15T12:48:06
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "The Day After Tomorrow"
 author: Pito Salas
-
-
 date: 2004-06-10T05:13:11
 ---
 

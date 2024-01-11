@@ -1,8 +1,6 @@
 ---
 title: "[RubyConf] Percentage of Windows users"
 author: Pito Salas
-
-
 date: 2010-11-12T16:45:36
 ---
 

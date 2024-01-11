@@ -1,8 +1,6 @@
 ---
 title: "Counting blog impact"
 author: Pito Salas
-
-
 date: 2005-05-31T03:13:16
 ---
 

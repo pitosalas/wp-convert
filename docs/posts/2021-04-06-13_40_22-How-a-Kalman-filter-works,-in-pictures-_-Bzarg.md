@@ -1,8 +1,6 @@
 ---
 title: "How a Kalman filter works, in pictures | Bzarg"
-author: Pito Salas
-url: "http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures" 
-cover: "https://rdl.ink/render/http%3A%2F%2Fwww.bzarg.com%2Fp%2Fhow-a-kalman-filter-works-in-pictures" 
+author: Pito Salasurl: "http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures" cover: "https://rdl.ink/render/http%3A%2F%2Fwww.bzarg.com%2Fp%2Fhow-a-kalman-filter-works-in-pictures" 
 date: 2021-04-06 13:40:22
 tags:
     - kalman-algorithms-programming-explanation

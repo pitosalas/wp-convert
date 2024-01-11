@@ -1,8 +1,6 @@
 ---
 title: "Fascinating history of Wikipedia"
 author: Pito Salas
-
-
 date: 2005-06-10T00:01:58
 ---
 

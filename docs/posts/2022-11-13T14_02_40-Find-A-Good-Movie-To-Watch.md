@@ -1,8 +1,6 @@
 ---
 title: "Find A Good Movie To Watch"
 author: Pito Salas
-
-
 date: 2022-11-13T14:02:40
 tags:
     - movie

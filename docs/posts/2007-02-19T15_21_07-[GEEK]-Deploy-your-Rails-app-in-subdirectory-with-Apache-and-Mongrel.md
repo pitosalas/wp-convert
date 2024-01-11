@@ -1,8 +1,6 @@
 ---
 title: "[GEEK] Deploy your Rails app in subdirectory with Apache and Mongrel"
 author: Pito Salas
-
-
 date: 2007-02-19T15:21:07
 ---
 

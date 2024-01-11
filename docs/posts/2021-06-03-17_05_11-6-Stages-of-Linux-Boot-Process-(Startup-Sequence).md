@@ -1,8 +1,6 @@
 ---
 title: "6 Stages of Linux Boot Process (Startup Sequence)"
-author: Pito Salas
-url: "https://www.thegeekstuff.com/2011/02/linux-boot-process" 
-cover: "https://rdl.ink/render/https%3A%2F%2Fwww.thegeekstuff.com%2F2011%2F02%2Flinux-boot-process" 
+author: Pito Salasurl: "https://www.thegeekstuff.com/2011/02/linux-boot-process" cover: "https://rdl.ink/render/https%3A%2F%2Fwww.thegeekstuff.com%2F2011%2F02%2Flinux-boot-process" 
 date: 2021-06-03 17:05:11
 tags:
     - boot-linux-operating-system-description

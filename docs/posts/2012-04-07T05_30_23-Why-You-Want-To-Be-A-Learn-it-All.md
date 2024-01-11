@@ -1,8 +1,6 @@
 ---
 title: "Why You Want To Be A Learn-it-All"
 author: Pito Salas
-
-
 date: 2012-04-07T05:30:23
 tags:
     - innovation

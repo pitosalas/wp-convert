@@ -1,8 +1,6 @@
 ---
 title: "Jonathan Harris on being stuck"
 author: Pito Salas
-
-
 date: 2014-02-26T22:55:40
 tags:
     - jonathan-harris"

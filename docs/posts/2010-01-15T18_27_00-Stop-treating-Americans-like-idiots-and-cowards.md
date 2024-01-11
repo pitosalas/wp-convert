@@ -1,8 +1,6 @@
 ---
 title: "Stop treating Americans like idiots and cowards"
 author: Pito Salas
-
-
 date: 2010-01-15T18:27:00
 tags:
     - airtravel

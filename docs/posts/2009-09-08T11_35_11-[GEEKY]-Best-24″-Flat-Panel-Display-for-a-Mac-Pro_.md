@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Best 24″ Flat Panel Display for a Mac Pro?"
 author: Pito Salas
-
-
 date: 2009-09-08T11:35:11
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Worth reading: How to Be Polite — The Message — Medium"
 author: Pito Salas
-
-
 date: 2014-08-18T12:37:10
 ---
 

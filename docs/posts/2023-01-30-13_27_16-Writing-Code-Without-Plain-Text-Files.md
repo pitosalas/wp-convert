@@ -1,8 +1,6 @@
 ---
 title: "Writing Code Without Plain Text Files"
-author: Pito Salas
-url: "https://link.medium.com/lN9CG2AK0wb" 
-cover: "https://miro.medium.com/max/1200/1*IPykerQ2Ra6LSM4r-htxoA.jpeg" 
+author: Pito Salasurl: "https://link.medium.com/lN9CG2AK0wb" cover: "https://miro.medium.com/max/1200/1*IPykerQ2Ra6LSM4r-htxoA.jpeg" 
 date: 2023-01-30 13:27:16
 tags:
     - unison-ide-programming

@@ -1,8 +1,6 @@
 ---
 title: "New version of iTunes"
 author: Pito Salas
-
-
 date: 2004-05-06T01:58:14
 ---
 

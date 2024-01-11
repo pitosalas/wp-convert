@@ -1,8 +1,6 @@
 ---
 title: "Goodbye to BlogBridge…"
 author: Pito Salas
-
-
 date: 2014-01-21T02:10:09
 tags:
     - BlogBridge

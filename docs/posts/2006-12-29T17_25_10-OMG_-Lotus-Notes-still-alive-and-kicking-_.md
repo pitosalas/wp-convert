@@ -1,8 +1,6 @@
 ---
 title: "OMG: Lotus Notes still alive and kicking ?"
 author: Pito Salas
-
-
 date: 2006-12-29T17:25:10
 ---
 

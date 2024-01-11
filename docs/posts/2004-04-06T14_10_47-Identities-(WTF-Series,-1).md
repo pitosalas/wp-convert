@@ -1,8 +1,6 @@
 ---
 title: "Identities (WTF Series, 1)"
 author: Pito Salas
-
-
 date: 2004-04-06T14:10:47
 ---
 

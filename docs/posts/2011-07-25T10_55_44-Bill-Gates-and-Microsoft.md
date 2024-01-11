@@ -1,8 +1,6 @@
 ---
 title: "Bill Gates and Microsoft"
 author: Pito Salas
-
-
 date: 2011-07-25T10:55:44
 tags:
     - bigggates

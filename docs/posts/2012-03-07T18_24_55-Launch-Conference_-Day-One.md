@@ -1,8 +1,6 @@
 ---
 title: "Launch Conference: Day One"
 author: Pito Salas
-
-
 date: 2012-03-07T18:24:55
 tags:
     - conference

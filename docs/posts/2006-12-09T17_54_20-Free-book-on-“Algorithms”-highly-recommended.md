@@ -1,8 +1,6 @@
 ---
 title: "Free book on “Algorithms” highly recommended"
 author: Pito Salas
-
-
 date: 2006-12-09T17:54:20
 ---
 

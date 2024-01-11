@@ -1,8 +1,6 @@
 ---
 title: "“This is the Discover card Fraud department. Call 1-800-555-1212 – IMMEDIATELY"
 author: Pito Salas
-
-
 date: 2008-06-06T13:00:02
 ---
 

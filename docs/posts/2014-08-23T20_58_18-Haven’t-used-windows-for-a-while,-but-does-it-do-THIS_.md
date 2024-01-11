@@ -1,8 +1,6 @@
 ---
 title: "Haven’t used windows for a while, but does it do THIS?"
 author: Pito Salas
-
-
 date: 2014-08-23T20:58:18
 ---
 

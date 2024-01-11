@@ -1,8 +1,6 @@
 ---
 title: "Who sets the price for Über rides?"
 author: Pito Salas
-
-
 date: 2013-03-22T21:24:49
 tags:
     - cars

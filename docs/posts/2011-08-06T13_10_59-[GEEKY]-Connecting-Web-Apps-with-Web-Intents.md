@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Connecting Web Apps with Web Intents"
 author: Pito Salas
-
-
 date: 2011-08-06T13:10:59
 ---
 

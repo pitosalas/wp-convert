@@ -1,8 +1,6 @@
 ---
 title: "How to solve the Google recruiters’ puzzle about throwing eggs from a building | Codementor"
-author: Pito Salas
-url: "https://www.codementor.io/marcinmoskala/how-to-solve-the-google-recruiters-puzzle-about-throwing-eggs-from-a-building-jicqz9lnd" 
-cover: "https://cdn.filestackcontent.com/jfl7Yel6QKmP1MntmACi" 
+author: Pito Salasurl: "https://www.codementor.io/marcinmoskala/how-to-solve-the-google-recruiters-puzzle-about-throwing-eggs-from-a-building-jicqz9lnd" cover: "https://cdn.filestackcontent.com/jfl7Yel6QKmP1MntmACi" 
 date: 2021-04-06 13:40:22
 tags:
     - puzzle-google-eggs-algorithm

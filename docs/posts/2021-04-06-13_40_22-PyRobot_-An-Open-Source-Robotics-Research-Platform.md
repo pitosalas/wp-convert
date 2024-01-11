@@ -1,8 +1,6 @@
 ---
 title: "PyRobot: An Open Source Robotics Research Platform"
-author: Pito Salas
-url: "https://github.com/facebookresearch/pyrobot" 
-cover: "https://avatars.githubusercontent.com/u/16943930?s=400&v=4" 
+author: Pito Salasurl: "https://github.com/facebookresearch/pyrobot" cover: "https://avatars.githubusercontent.com/u/16943930?s=400&v=4" 
 date: 2021-04-06 13:40:22
 tags:
     - robotics-python-ros

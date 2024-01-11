@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] RSS is about as dead as XML or 120V AC"
 author: Pito Salas
-
-
 date: 2009-09-03T12:11:58
 ---
 

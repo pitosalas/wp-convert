@@ -1,8 +1,6 @@
 ---
 title: "Lesson 57: How to Enable VMware Copy and Paste on Ubuntu Guest Machines – Website for Students"
-author: Pito Salas
-url: "https://websiteforstudents.com/lesson-57-enable-vmware-copy-paste-guest-machines" 
-cover: "https://websiteforstudents.com/wp-content/uploads/2016/12/ubuntu-3344434_640.png" 
+author: Pito Salasurl: "https://websiteforstudents.com/lesson-57-enable-vmware-copy-paste-guest-machines" cover: "https://websiteforstudents.com/wp-content/uploads/2016/12/ubuntu-3344434_640.png" 
 date: 2021-04-06 13:40:23
 tags:
     - Robotics

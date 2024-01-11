@@ -1,8 +1,6 @@
 ---
 title: "Is Skype “Full Duplex”?"
 author: Pito Salas
-
-
 date: 2012-09-18T15:44:41
 tags:
     - full-duplex

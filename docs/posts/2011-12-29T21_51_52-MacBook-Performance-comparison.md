@@ -1,8 +1,6 @@
 ---
 title: "MacBook Performance comparison"
 author: Pito Salas
-
-
 date: 2011-12-29T21:51:52
 tags:
     - apple

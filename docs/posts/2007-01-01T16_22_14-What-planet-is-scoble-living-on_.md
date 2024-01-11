@@ -1,8 +1,6 @@
 ---
 title: "What planet is scoble living on?"
 author: Pito Salas
-
-
 date: 2007-01-01T16:22:14
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "New in the world of"
 author: Pito Salas
-
-
 date: 2004-02-27T13:43:20
 ---
 

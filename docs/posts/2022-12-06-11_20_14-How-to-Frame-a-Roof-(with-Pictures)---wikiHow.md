@@ -1,8 +1,6 @@
 ---
 title: "How to Frame a Roof (with Pictures) - wikiHow"
-author: Pito Salas
-url: "https://www.wikihow.com/Frame-a-Roof" 
-cover: "https://www.wikihow.com/images/a/a6/Frame-a-Roof-Step-19-Version-7.jpg" 
+author: Pito Salasurl: "https://www.wikihow.com/Frame-a-Roof" cover: "https://www.wikihow.com/images/a/a6/Frame-a-Roof-Step-19-Version-7.jpg" 
 date: 2022-12-06 11:20:14
 tags:
     - model-wood-miniature-roof-truss-howto

@@ -1,8 +1,6 @@
 ---
 title: "American Idol fans with Tivo"
 author: Pito Salas
-
-
 date: 2006-03-16T23:09:50
 ---
 

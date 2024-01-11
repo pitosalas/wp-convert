@@ -1,8 +1,6 @@
 ---
 title: "Scary Software, Part Deux"
 author: Pito Salas
-
-
 date: 2004-07-12T17:04:35
 ---
 

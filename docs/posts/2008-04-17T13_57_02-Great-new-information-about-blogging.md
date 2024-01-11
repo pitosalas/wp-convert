@@ -1,8 +1,6 @@
 ---
 title: "Great new information about blogging"
 author: Pito Salas
-
-
 date: 2008-04-17T13:57:02
 tags:
     - Website-blog-definition-glossary

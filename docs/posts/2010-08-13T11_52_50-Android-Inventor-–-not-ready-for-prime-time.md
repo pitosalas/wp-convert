@@ -1,8 +1,6 @@
 ---
 title: "Android Inventor – not ready for prime time"
 author: Pito Salas
-
-
 date: 2010-08-13T11:52:50
 tags:
     - android

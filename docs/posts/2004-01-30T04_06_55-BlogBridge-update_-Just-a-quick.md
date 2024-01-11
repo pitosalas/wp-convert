@@ -1,8 +1,6 @@
 ---
 title: "BlogBridge update: Just a quick"
 author: Pito Salas
-
-
 date: 2004-01-30T04:06:55
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Content Management Systems just don’t work."
 author: Pito Salas
-
-
 date: 2009-02-28T01:58:00
 ---
 

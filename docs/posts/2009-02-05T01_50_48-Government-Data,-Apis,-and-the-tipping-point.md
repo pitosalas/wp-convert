@@ -1,8 +1,6 @@
 ---
 title: "Government Data, Apis, and the tipping point"
 author: Pito Salas
-
-
 date: 2009-02-05T01:50:48
 ---
 

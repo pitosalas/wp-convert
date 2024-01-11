@@ -1,8 +1,6 @@
 ---
 title: "Good e-book about software pricing"
 author: Pito Salas
-
-
 date: 2011-09-26T15:21:04
 tags:
     - freemium

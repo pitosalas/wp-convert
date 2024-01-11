@@ -1,8 +1,6 @@
 ---
 title: "Using Google to make community standards transparent and objective"
 author: Pito Salas
-
-
 date: 2008-06-25T02:33:18
 ---
 

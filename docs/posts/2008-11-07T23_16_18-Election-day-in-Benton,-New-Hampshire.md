@@ -1,8 +1,6 @@
 ---
 title: "Election day in Benton, New Hampshire"
 author: Pito Salas
-
-
 date: 2008-11-07T23:16:18
 ---
 

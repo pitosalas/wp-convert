@@ -1,8 +1,6 @@
 ---
 title: "Link softly, but carry a big stick :)"
 author: Pito Salas
-
-
 date: 2007-01-19T03:38:59
 ---
 

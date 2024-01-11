@@ -1,8 +1,6 @@
 ---
 title: "Revolution, Not Evolution"
 author: Pito Salas
-
-
 date: 2007-12-20T13:48:05
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Waste, Fraud and Abuse: does that turn you off to health reform?"
 author: Pito Salas
-
-
 date: 2009-11-21T13:27:07
 ---
 

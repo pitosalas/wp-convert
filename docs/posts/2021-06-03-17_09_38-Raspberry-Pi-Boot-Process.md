@@ -1,8 +1,6 @@
 ---
 title: "Raspberry Pi Boot Process"
-author: Pito Salas
-url: "https://www.lions-wing.net/maker/raspberry-1/boot.html" 
-cover: "https://rdl.ink/render/https%3A%2F%2Fwww.lions-wing.net%2Fmaker%2Fraspberry-1%2Fboot.html" 
+author: Pito Salasurl: "https://www.lions-wing.net/maker/raspberry-1/boot.html" cover: "https://rdl.ink/render/https%3A%2F%2Fwww.lions-wing.net%2Fmaker%2Fraspberry-1%2Fboot.html" 
 date: 2021-06-03 17:09:38
 tags:
     - boot-pi-raspi-description

@@ -1,8 +1,6 @@
 ---
 title: "(De) bunking some myths about those $1b startups"
 author: Pito Salas
-
-
 date: 2013-11-03T19:41:24
 tags:
     - entrepeneurship

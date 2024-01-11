@@ -1,8 +1,6 @@
 ---
 title: "On not using ROS for your robotics startup | The Construct"
-author: Pito Salas
-url: "http://www.theconstructsim.com/not-using-ros-robotics-product" 
-cover: "https://www.theconstructsim.com/wp-content/uploads/2018/01/Should-you-use-ROS-or-not-post-by-the-construct.png" 
+author: Pito Salasurl: "http://www.theconstructsim.com/not-using-ros-robotics-product" cover: "https://www.theconstructsim.com/wp-content/uploads/2018/01/Should-you-use-ROS-or-not-post-by-the-construct.png" 
 date: 2021-04-06 13:40:22
 tags:
     - ROS-advice-robotics-startup

@@ -1,8 +1,6 @@
 ---
 title: "Cool stuff from the 21st!"
 author: Pito Salas
-
-
 date: 2006-06-21T09:25:48
 ---
 

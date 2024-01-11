@@ -1,8 +1,6 @@
 ---
 title: "Success Through Presentations – 5 Minutes with Cyrill"
 author: Pito Salas
-
-
 date: 2022-04-04T08:31:57
 tags:
     - teaching

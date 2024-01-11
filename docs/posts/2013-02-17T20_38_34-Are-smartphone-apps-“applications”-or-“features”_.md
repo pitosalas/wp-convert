@@ -1,8 +1,6 @@
 ---
 title: "Are smartphone apps “applications” or “features”?"
 author: Pito Salas
-
-
 date: 2013-02-17T20:38:34
 tags:
     - ecosystem

@@ -1,8 +1,6 @@
 ---
 title: "American Airlines kinda-fail"
 author: Pito Salas
-
-
 date: 2009-10-22T22:44:36
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Les Miserables is one of my all time favorite musicals"
 author: Pito Salas
-
-
 date: 2008-11-03T12:55:46
 ---
 

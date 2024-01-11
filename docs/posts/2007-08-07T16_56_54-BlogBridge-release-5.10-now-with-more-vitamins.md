@@ -1,8 +1,6 @@
 ---
 title: "BlogBridge release 5.10 now with more vitamins"
 author: Pito Salas
-
-
 date: 2007-08-07T16:56:54
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Ruby’s Hash is a Swiss-Army Knife"
 author: Pito Salas
-
-
 date: 2023-08-24T12:04:17
 tags:
     - explainer

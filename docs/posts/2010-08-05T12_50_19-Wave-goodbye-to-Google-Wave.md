@@ -1,8 +1,6 @@
 ---
 title: "Wave goodbye to Google Wave"
 author: Pito Salas
-
-
 date: 2010-08-05T12:50:19
 tags:
     - google

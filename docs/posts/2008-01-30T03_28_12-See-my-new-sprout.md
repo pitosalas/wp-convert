@@ -1,8 +1,6 @@
 ---
 title: "See my new sprout"
 author: Pito Salas
-
-
 date: 2008-01-30T03:28:12
 ---
 

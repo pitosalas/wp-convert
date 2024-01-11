@@ -1,8 +1,6 @@
 ---
 title: "laser_pipeline/Tutorials/IntroductionToWorkingWithLaserScannerData – ROS Wiki"
 author: Pito Salas
-
-
 date: 2022-02-03T15:31:16
 ---
 

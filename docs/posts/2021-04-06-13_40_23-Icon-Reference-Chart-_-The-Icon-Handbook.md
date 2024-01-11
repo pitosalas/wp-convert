@@ -1,8 +1,6 @@
 ---
 title: "Icon Reference Chart | The Icon Handbook"
-author: Pito Salas
-url: "http://iconhandbook.co.uk/reference/chart" 
-cover: "https://rdl.ink/render/http%3A%2F%2Ficonhandbook.co.uk%2Freference%2Fchart" 
+author: Pito Salasurl: "http://iconhandbook.co.uk/reference/chart" cover: "https://rdl.ink/render/http%3A%2F%2Ficonhandbook.co.uk%2Freference%2Fchart" 
 date: 2021-04-06 13:40:23
 tags:
     - interface-graphics-visual-design-icons

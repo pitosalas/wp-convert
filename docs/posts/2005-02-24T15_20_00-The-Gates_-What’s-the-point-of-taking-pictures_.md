@@ -1,8 +1,6 @@
 ---
 title: "The Gates: What’s the point of taking pictures?"
 author: Pito Salas
-
-
 date: 2005-02-24T15:20:00
 ---
 

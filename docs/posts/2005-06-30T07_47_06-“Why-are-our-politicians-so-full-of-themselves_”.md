@@ -1,8 +1,6 @@
 ---
 title: "“Why are our politicians so full of themselves?”"
 author: Pito Salas
-
-
 date: 2005-06-30T07:47:06
 ---
 

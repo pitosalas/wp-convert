@@ -1,8 +1,6 @@
 ---
 title: "Joel remembers Lotus Symphony and talks Strategy"
 author: Pito Salas
-
-
 date: 2007-09-19T09:59:19
 ---
 

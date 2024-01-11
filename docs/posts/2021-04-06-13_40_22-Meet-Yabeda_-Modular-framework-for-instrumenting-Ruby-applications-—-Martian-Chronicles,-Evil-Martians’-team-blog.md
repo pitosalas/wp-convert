@@ -1,8 +1,6 @@
 ---
 title: "Meet Yabeda: Modular framework for instrumenting Ruby applications — Martian Chronicles, Evil Martians’ team blog"
-author: Pito Salas
-url: "https://evilmartians.com/chronicles/meet-yabeda-modular-framework-for-instrumenting-ruby-applications" 
-cover: "https://cdn.evilmartians.com/front/posts/meet-yabeda-modular-framework-for-instrumenting-ruby-applications/cover-e0d6b03.png" 
+author: Pito Salasurl: "https://evilmartians.com/chronicles/meet-yabeda-modular-framework-for-instrumenting-ruby-applications" cover: "https://cdn.evilmartians.com/front/posts/meet-yabeda-modular-framework-for-instrumenting-ruby-applications/cover-e0d6b03.png" 
 date: 2021-04-06 13:40:22
 tags:
     - ruby-performance

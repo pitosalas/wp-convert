@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Something wrong with this picture?"
 author: Pito Salas
-
-
 date: 2010-07-21T21:44:48
 ---
 

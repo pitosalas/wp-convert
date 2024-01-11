@@ -1,8 +1,6 @@
 ---
 title: "[GEEK] Ever get confused about logging.properties formats?"
 author: Pito Salas
-
-
 date: 2004-06-10T22:22:32
 ---
 

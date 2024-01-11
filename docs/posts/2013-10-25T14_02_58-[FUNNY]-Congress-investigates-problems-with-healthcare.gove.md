@@ -1,8 +1,6 @@
 ---
 title: "[FUNNY] Congress investigates problems with healthcare.gove"
 author: Pito Salas
-
-
 date: 2013-10-25T14:02:58
 tags:
     - funny

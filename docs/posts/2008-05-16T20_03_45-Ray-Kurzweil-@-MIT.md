@@ -1,8 +1,6 @@
 ---
 title: "Ray Kurzweil @ MIT"
 author: Pito Salas
-
-
 date: 2008-05-16T20:03:45
 ---
 

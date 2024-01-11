@@ -1,8 +1,6 @@
 ---
 title: "[GEEK] What every Java programmer should know about Ruby"
 author: Pito Salas
-
-
 date: 2006-01-14T03:31:48
 ---
 

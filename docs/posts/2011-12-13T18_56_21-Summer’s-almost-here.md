@@ -1,8 +1,6 @@
 ---
 title: "Summer’s almost here"
 author: Pito Salas
-
-
 date: 2011-12-13T18:56:21
 tags:
     - astronomy

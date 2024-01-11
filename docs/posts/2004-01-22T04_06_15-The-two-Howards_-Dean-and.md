@@ -1,8 +1,6 @@
 ---
 title: "The two Howards: Dean and"
 author: Pito Salas
-
-
 date: 2004-01-22T04:06:15
 ---
 

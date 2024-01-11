@@ -1,8 +1,6 @@
 ---
 title: "Ruby and Rails job boards in Boston"
 author: Pito Salas
-
-
 date: 2010-01-19T16:07:38
 tags:
     - boston

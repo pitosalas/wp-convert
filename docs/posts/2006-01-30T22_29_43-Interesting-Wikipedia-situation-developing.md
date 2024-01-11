@@ -1,8 +1,6 @@
 ---
 title: "Interesting Wikipedia situation developing"
 author: Pito Salas
-
-
 date: 2006-01-30T22:29:43
 ---
 

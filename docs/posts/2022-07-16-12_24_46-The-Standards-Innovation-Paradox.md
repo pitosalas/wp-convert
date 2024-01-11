@@ -1,8 +1,6 @@
 ---
 title: "The Standards Innovation Paradox"
-author: Pito Salas
-url: "https://link.medium.com/SbplLmb3Hrb" 
-cover: "https://miro.medium.com/max/1200/1*dJlc_EMFW4y4OT_63Ce95Q.png" 
+author: Pito Salasurl: "https://link.medium.com/SbplLmb3Hrb" cover: "https://miro.medium.com/max/1200/1*dJlc_EMFW4y4OT_63Ce95Q.png" 
 date: 2022-07-16 12:24:46
 tags:
     - dave-winer-thinker-blog-standards

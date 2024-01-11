@@ -1,8 +1,6 @@
 ---
 title: "The End of Free Will"
 author: Pito Salas
-
-
 date: 2011-07-22T02:10:51
 ---
 

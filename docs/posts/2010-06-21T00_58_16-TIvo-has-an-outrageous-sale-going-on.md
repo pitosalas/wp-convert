@@ -1,8 +1,6 @@
 ---
 title: "TIvo has an outrageous sale going on"
 author: Pito Salas
-
-
 date: 2010-06-21T00:58:16
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Behind the scenes @ Wikileaks"
 author: Pito Salas
-
-
 date: 2010-07-27T12:40:01
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Kalman Filter: An Algorithm for making sense from the insights of various sensors fused together."
-author: Pito Salas
-url: "https://towardsdatascience.com/kalman-filter-an-algorithm-for-making-sense-from-the-insights-of-various-sensors-fused-together-ddf67597f35e" 
-cover: "https://miro.medium.com/max/960/1*q2a2v6Xa2HHj4doy_2I2gA.jpeg" 
+author: Pito Salasurl: "https://towardsdatascience.com/kalman-filter-an-algorithm-for-making-sense-from-the-insights-of-various-sensors-fused-together-ddf67597f35e" cover: "https://miro.medium.com/max/960/1*q2a2v6Xa2HHj4doy_2I2gA.jpeg" 
 date: 2022-04-04 14:01:08
 tags:
     - kalman-intro-explainer-explain

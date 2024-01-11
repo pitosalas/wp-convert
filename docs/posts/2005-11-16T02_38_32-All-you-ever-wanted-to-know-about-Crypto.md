@@ -1,8 +1,6 @@
 ---
 title: "All you ever wanted to know about Crypto"
 author: Pito Salas
-
-
 date: 2005-11-16T02:38:32
 ---
 

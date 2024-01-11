@@ -1,8 +1,6 @@
 ---
 title: "I think Bono would have said: “What an honour”"
 author: Pito Salas
-
-
 date: 2009-01-09T18:52:42
 ---
 

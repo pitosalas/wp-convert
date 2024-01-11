@@ -1,8 +1,6 @@
 ---
 title: "Did MSFT leak on purpose, or did they know they could easily be leaked?"
 author: Pito Salas
-
-
 date: 2005-11-12T15:58:27
 ---
 

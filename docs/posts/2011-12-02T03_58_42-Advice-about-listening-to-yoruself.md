@@ -1,8 +1,6 @@
 ---
 title: "Advice about listening to yoruself"
 author: Pito Salas
-
-
 date: 2011-12-02T03:58:42
 tags:
     - advice

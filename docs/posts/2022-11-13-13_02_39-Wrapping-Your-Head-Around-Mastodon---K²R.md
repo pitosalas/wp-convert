@@ -1,8 +1,6 @@
 ---
 title: "Wrapping Your Head Around Mastodon - K²R"
-author: Pito Salas
-url: "https://hyperborea.org/journal/2022/11/mastodon-what/" 
-cover: "https://live.staticflickr.com/65535/52482212691_270336daf0_m.jpg" 
+author: Pito Salasurl: "https://hyperborea.org/journal/2022/11/mastodon-what/" cover: "https://live.staticflickr.com/65535/52482212691_270336daf0_m.jpg" 
 date: 2022-11-13 13:02:39
 ---
 <img src=https://live.staticflickr.com/65535/52482212691_270336daf0_m.jpg width="500">

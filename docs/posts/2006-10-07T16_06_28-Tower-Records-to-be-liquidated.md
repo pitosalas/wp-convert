@@ -1,8 +1,6 @@
 ---
 title: "Tower Records to be liquidated"
 author: Pito Salas
-
-
 date: 2006-10-07T16:06:28
 ---
 

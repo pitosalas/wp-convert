@@ -1,8 +1,6 @@
 ---
 title: "[BLOGBRIDGE] BlogBridge tracks unread articles!"
 author: Pito Salas
-
-
 date: 2005-05-19T13:59:47
 ---
 

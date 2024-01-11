@@ -1,8 +1,6 @@
 ---
 title: "Very unscientific survey of online survey tools"
 author: Pito Salas
-
-
 date: 2008-11-25T13:00:00
 ---
 

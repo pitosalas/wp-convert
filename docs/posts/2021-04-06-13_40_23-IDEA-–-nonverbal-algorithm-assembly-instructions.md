@@ -1,8 +1,6 @@
 ---
 title: "IDEA – nonverbal algorithm assembly instructions"
-author: Pito Salas
-url: "https://idea-instructions.com" 
-cover: "https://idea-instructions.com/index.png" 
+author: Pito Salasurl: "https://idea-instructions.com" cover: "https://idea-instructions.com/index.png" 
 date: 2021-04-06 13:40:23
 tags:
     - algorithm

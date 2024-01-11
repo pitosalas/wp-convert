@@ -1,8 +1,6 @@
 ---
 title: "Affordable Care Act Software Fiasco: A Special Report"
 author: Pito Salas
-
-
 date: 2014-06-27T17:37:33
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "How stonehenge was built"
 author: Pito Salas
-
-
 date: 2008-03-25T14:31:25
 ---
 

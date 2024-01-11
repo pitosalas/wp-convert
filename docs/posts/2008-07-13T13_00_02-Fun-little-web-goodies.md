@@ -1,8 +1,6 @@
 ---
 title: "Fun little web goodies"
 author: Pito Salas
-
-
 date: 2008-07-13T13:00:02
 tags:
     - graphics-photoshop

@@ -1,8 +1,6 @@
 ---
 title: "Designing a game soundtrack – kind of like we first got to pick the fonts in our documents"
 author: Pito Salas
-
-
 date: 2011-10-08T00:40:39
 tags:
     - audio

@@ -1,8 +1,6 @@
 ---
 title: "[ETECH] Yahoo Buzz Game – Hacked!"
 author: Pito Salas
-
-
 date: 2005-03-17T15:49:36
 ---
 

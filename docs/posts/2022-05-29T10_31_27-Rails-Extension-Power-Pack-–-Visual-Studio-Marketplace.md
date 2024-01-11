@@ -1,8 +1,6 @@
 ---
 title: "Rails Extension Power Pack – Visual Studio Marketplace"
 author: Pito Salas
-
-
 date: 2022-05-29T10:31:27
 tags:
     - rails

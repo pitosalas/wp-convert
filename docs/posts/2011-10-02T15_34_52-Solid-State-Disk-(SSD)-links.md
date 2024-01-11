@@ -1,8 +1,6 @@
 ---
 title: "Solid State Disk (SSD) links"
 author: Pito Salas
-
-
 date: 2011-10-02T15:34:52
 tags:
     - mac

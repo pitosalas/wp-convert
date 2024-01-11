@@ -1,8 +1,6 @@
 ---
 title: "Theory and Practice"
 author: Pito Salas
-
-
 date: 2013-09-13T14:26:43
 tags:
     - practice

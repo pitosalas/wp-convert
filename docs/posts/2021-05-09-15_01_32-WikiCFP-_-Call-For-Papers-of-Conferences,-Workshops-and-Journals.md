@@ -1,8 +1,6 @@
 ---
 title: "WikiCFP : Call For Papers of Conferences, Workshops and Journals"
-author: Pito Salas
-url: "http://www.wikicfp.com/cfp/" 
-cover: "https://rdl.ink/render/http%3A%2F%2Fwww.wikicfp.com%2Fcfp%2F" 
+author: Pito Salasurl: "http://www.wikicfp.com/cfp/" cover: "https://rdl.ink/render/http%3A%2F%2Fwww.wikicfp.com%2Fcfp%2F" 
 date: 2021-05-09 15:01:32
 tags:
     - conferences-papers-computer-science-journals

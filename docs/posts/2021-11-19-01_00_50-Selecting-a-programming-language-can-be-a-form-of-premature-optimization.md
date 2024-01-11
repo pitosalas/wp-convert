@@ -1,8 +1,6 @@
 ---
 title: "Selecting a programming language can be a form of premature optimization"
-author: Pito Salas
-url: "https://snarky.ca/programming-language-selection-is-a-form-of-premature-optimization/" 
-cover: "https://snarky.ca/content/images/2016/12/104_0419.JPG" 
+author: Pito Salasurl: "https://snarky.ca/programming-language-selection-is-a-form-of-premature-optimization/" cover: "https://snarky.ca/content/images/2016/12/104_0419.JPG" 
 date: 2021-11-19 01:00:50
 tags:
     - python-performance-opinion

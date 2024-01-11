@@ -1,8 +1,6 @@
 ---
 title: "A View of 20th and 21st Century Software Engineering"
 author: Pito Salas
-
-
 date: 2014-06-27T19:52:09
 ---
 

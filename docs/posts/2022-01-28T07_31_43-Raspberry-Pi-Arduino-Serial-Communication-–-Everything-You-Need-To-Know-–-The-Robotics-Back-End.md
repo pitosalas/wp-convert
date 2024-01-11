@@ -1,8 +1,6 @@
 ---
 title: "Raspberry Pi Arduino Serial Communication – Everything You Need To Know – The Robotics Back-End"
 author: Pito Salas
-
-
 date: 2022-01-28T07:31:43
 ---
 

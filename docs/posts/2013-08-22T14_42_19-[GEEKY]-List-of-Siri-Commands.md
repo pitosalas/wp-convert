@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] List of Siri Commands"
 author: Pito Salas
-
-
 date: 2013-08-22T14:42:19
 tags:
     - apple

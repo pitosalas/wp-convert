@@ -1,8 +1,6 @@
 ---
 title: "Introduction to Vector"
-author: Pito Salas
-url: "https://vector.readthedocs.io/en/develop/usage/intro.html" 
-cover: "https://vector.readthedocs.io/en/latest/_static/vector-logo.png" 
+author: Pito Salasurl: "https://vector.readthedocs.io/en/develop/usage/intro.html" cover: "https://vector.readthedocs.io/en/latest/_static/vector-logo.png" 
 date: 2022-07-24 21:07:27
 tags:
     - python-package-vector-2d-3d

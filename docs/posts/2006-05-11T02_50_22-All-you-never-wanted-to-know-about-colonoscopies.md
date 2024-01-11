@@ -1,8 +1,6 @@
 ---
 title: "All you never wanted to know about colonoscopies"
 author: Pito Salas
-
-
 date: 2006-05-11T02:50:22
 ---
 

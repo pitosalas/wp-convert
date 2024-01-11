@@ -1,8 +1,6 @@
 ---
 title: "I’ve confronted this…"
 author: Pito Salas
-
-
 date: 2004-05-10T17:54:29
 ---
 

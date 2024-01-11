@@ -1,8 +1,6 @@
 ---
 title: "Tivo will be able to transfer videos to Ipods… But…"
 author: Pito Salas
-
-
 date: 2005-11-21T17:33:09
 ---
 

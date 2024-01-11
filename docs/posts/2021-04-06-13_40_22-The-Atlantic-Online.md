@@ -1,8 +1,6 @@
 ---
 title: "The Atlantic Online"
-author: Pito Salas
-url: "http://www.theatlantic.com" 
-cover: "https://cdn.theatlantic.com/tng/static/theatlantic/img/lacroix-default-thumbnail.png" 
+author: Pito Salasurl: "http://www.theatlantic.com" cover: "https://cdn.theatlantic.com/tng/static/theatlantic/img/lacroix-default-thumbnail.png" 
 date: 2021-04-06 13:40:22
 ---
 <img src=https://cdn.theatlantic.com/tng/static/theatlantic/img/lacroix-default-thumbnail.png width="500">

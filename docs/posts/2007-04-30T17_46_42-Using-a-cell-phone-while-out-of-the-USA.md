@@ -1,8 +1,6 @@
 ---
 title: "Using a cell phone while out of the USA"
 author: Pito Salas
-
-
 date: 2007-04-30T17:46:42
 ---
 

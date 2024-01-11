@@ -1,8 +1,6 @@
 ---
 title: "Scott Kirsner of the Boston"
 author: Pito Salas
-
-
 date: 2004-01-12T14:48:37
 ---
 

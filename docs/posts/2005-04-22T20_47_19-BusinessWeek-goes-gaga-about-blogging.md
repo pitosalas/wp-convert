@@ -1,8 +1,6 @@
 ---
 title: "BusinessWeek goes gaga about blogging"
 author: Pito Salas
-
-
 date: 2005-04-22T20:47:19
 ---
 

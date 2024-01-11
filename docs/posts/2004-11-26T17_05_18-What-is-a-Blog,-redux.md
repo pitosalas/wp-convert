@@ -1,8 +1,6 @@
 ---
 title: "What is a Blog, redux"
 author: Pito Salas
-
-
 date: 2004-11-26T17:05:18
 ---
 

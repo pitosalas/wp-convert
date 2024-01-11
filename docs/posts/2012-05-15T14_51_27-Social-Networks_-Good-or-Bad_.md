@@ -1,8 +1,6 @@
 ---
 title: "Social Networks: Good or Bad?"
 author: Pito Salas
-
-
 date: 2012-05-15T14:51:27
 tags:
     - brandeis

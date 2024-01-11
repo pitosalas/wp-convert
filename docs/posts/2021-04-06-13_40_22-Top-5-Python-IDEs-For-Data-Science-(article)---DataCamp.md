@@ -1,8 +1,6 @@
 ---
 title: "Top 5 Python IDEs For Data Science (article) - DataCamp"
-author: Pito Salas
-url: "https://www.datacamp.com/community/tutorials/data-science-python-ide" 
-cover: "" 
+author: Pito Salasurl: "https://www.datacamp.com/community/tutorials/data-science-python-ide" cover: "" 
 date: 2021-04-06 13:40:22
 tags:
     - python-data-science-ide

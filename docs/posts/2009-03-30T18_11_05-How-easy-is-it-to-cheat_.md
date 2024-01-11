@@ -1,8 +1,6 @@
 ---
 title: "How easy is it to cheat?"
 author: Pito Salas
-
-
 date: 2009-03-30T18:11:05
 ---
 

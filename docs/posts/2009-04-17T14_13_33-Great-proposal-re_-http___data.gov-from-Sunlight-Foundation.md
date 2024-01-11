@@ -1,8 +1,6 @@
 ---
 title: "Great proposal re: http://data.gov from Sunlight Foundation"
 author: Pito Salas
-
-
 date: 2009-04-17T14:13:33
 ---
 

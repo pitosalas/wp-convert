@@ -1,8 +1,6 @@
 ---
 title: "A brief introduction to Markov chains"
-author: Pito Salas
-url: "https://towardsdatascience.com/brief-introduction-to-markov-chains-2c8cab9c98ab" 
-cover: "https://miro.medium.com/max/1200/1*wPXC1ubOTE1MJteG4cKL7Q.jpeg" 
+author: Pito Salasurl: "https://towardsdatascience.com/brief-introduction-to-markov-chains-2c8cab9c98ab" cover: "https://miro.medium.com/max/1200/1*wPXC1ubOTE1MJteG4cKL7Q.jpeg" 
 date: 2021-04-06 13:40:22
 tags:
     - markovchains-tutorial-intro

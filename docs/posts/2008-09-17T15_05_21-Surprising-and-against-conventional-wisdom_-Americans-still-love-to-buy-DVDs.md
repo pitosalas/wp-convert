@@ -1,8 +1,6 @@
 ---
 title: "Surprising and against conventional wisdom: Americans still love to buy DVDs"
 author: Pito Salas
-
-
 date: 2008-09-17T15:05:21
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "What’s the best Blogging client on Windows?"
 author: Pito Salas
-
-
 date: 2005-06-27T07:05:36
 ---
 

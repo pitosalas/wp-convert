@@ -1,8 +1,6 @@
 ---
 title: "Business opportunities in blogville?"
 author: Pito Salas
-
-
 date: 2005-07-01T23:00:03
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Wandering through Asia"
 author: Pito Salas
-
-
 date: 2009-06-01T01:23:30
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Wordnik is a new online dictionary and more"
 author: Pito Salas
-
-
 date: 2009-11-10T13:27:42
 ---
 

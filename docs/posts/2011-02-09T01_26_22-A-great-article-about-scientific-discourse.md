@@ -1,8 +1,6 @@
 ---
 title: "A great article about scientific discourse"
 author: Pito Salas
-
-
 date: 2011-02-09T01:26:22
 tags:
     - folklore

@@ -1,8 +1,6 @@
 ---
 title: "What’s Your Best Dilbert Punch Line?"
 author: Pito Salas
-
-
 date: 2008-04-22T01:55:16
 tags:
     - dilbert-funny-scottadams

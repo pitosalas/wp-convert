@@ -1,8 +1,6 @@
 ---
 title: "How long should a Treo 600 last? How about an IPod?"
 author: Pito Salas
-
-
 date: 2005-10-04T00:12:58
 ---
 

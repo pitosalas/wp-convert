@@ -1,8 +1,6 @@
 ---
 title: "If you’ve ever had to carve the Thanksgiving turkey, this will be funny"
 author: Pito Salas
-
-
 date: 2006-11-19T15:50:27
 ---
 

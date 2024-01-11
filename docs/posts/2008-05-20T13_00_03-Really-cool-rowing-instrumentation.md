@@ -1,8 +1,6 @@
 ---
 title: "Really cool rowing instrumentation"
 author: Pito Salas
-
-
 date: 2008-05-20T13:00:03
 tags:
     - rowing-metrics

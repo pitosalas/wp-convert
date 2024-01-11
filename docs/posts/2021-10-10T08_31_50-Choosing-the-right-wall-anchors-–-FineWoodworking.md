@@ -1,8 +1,6 @@
 ---
 title: "Choosing the right wall anchors – FineWoodworking"
 author: Pito Salas
-
-
 date: 2021-10-10T08:31:50
 ---
 

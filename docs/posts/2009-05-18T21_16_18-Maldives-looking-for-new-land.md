@@ -1,8 +1,6 @@
 ---
 title: "Maldives looking for new land"
 author: Pito Salas
-
-
 date: 2009-05-18T21:16:18
 ---
 

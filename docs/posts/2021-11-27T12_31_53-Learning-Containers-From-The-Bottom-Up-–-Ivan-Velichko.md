@@ -1,8 +1,6 @@
 ---
 title: "Learning Containers From The Bottom Up – Ivan Velichko"
 author: Pito Salas
-
-
 date: 2021-11-27T12:31:53
 tags:
     - linux

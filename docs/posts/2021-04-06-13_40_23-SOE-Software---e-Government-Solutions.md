@@ -1,8 +1,6 @@
 ---
 title: "SOE Software - e-Government Solutions"
-author: Pito Salas
-url: "http://www.soesoftware.com/Default.aspx" 
-cover: "https://scytl.us/wp-content/uploads/Homepage_1.jpg" 
+author: Pito Salasurl: "http://www.soesoftware.com/Default.aspx" cover: "https://scytl.us/wp-content/uploads/Homepage_1.jpg" 
 date: 2021-04-06 13:40:23
 tags:
     - Elections

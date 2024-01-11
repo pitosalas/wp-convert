@@ -1,8 +1,6 @@
 ---
 title: "YCombinator startup application form"
 author: Pito Salas
-
-
 date: 2007-07-20T23:39:29
 ---
 

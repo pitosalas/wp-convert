@@ -1,8 +1,6 @@
 ---
 title: "Safari now has Scribefire"
 author: Pito Salas
-
-
 date: 2010-06-09T21:36:42
 ---
 

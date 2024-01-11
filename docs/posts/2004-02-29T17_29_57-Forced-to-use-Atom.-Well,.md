@@ -1,8 +1,6 @@
 ---
 title: "Forced to use Atom. Well,"
 author: Pito Salas
-
-
 date: 2004-02-29T17:29:57
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Discovering RSS feed URLs"
 author: Pito Salas
-
-
 date: 2004-05-24T03:51:26
 ---
 

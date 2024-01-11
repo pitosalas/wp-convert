@@ -1,8 +1,6 @@
 ---
 title: "Trees talk to each other at night and other facts"
 author: Pito Salas
-
-
 date: 2013-07-25T13:28:38
 tags:
     - facts

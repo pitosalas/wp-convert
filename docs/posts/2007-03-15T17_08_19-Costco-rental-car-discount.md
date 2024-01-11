@@ -1,8 +1,6 @@
 ---
 title: "Costco rental car discount"
 author: Pito Salas
-
-
 date: 2007-03-15T17:08:19
 ---
 

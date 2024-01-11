@@ -1,8 +1,6 @@
 ---
 title: "Kindle book prices: another genius move"
 author: Pito Salas
-
-
 date: 2009-03-12T15:36:32
 tags:
     - amazon

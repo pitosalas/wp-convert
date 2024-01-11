@@ -1,8 +1,6 @@
 ---
 title: "Microsoft is to Google as Lotus was to Microsoft"
 author: Pito Salas
-
-
 date: 2011-07-01T22:53:33
 tags:
     - 1-2-3

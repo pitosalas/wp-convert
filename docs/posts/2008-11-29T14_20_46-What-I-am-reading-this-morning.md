@@ -1,8 +1,6 @@
 ---
 title: "What I am reading this morning"
 author: Pito Salas
-
-
 date: 2008-11-29T14:20:46
 ---
 

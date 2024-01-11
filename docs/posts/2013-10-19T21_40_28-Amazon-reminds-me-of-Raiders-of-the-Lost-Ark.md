@@ -1,8 +1,6 @@
 ---
 title: "Amazon reminds me of Raiders of the Lost Ark"
 author: Pito Salas
-
-
 date: 2013-10-19T21:40:28
 tags:
     - amazon

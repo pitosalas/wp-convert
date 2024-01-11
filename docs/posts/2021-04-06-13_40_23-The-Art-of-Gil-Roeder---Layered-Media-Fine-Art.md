@@ -1,8 +1,6 @@
 ---
 title: "The Art of Gil Roeder - Layered Media Fine Art"
-author: Pito Salas
-url: "http://www.gilroeder.com" 
-cover: "" 
+author: Pito Salasurl: "http://www.gilroeder.com" cover: "" 
 date: 2021-04-06 13:40:23
 tags:
     - art

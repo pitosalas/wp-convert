@@ -1,8 +1,6 @@
 ---
 title: "LinkedIn Passwords: Who stores passwords in the clear"
 author: Pito Salas
-
-
 date: 2012-06-07T13:57:01
 tags:
     - linkedin

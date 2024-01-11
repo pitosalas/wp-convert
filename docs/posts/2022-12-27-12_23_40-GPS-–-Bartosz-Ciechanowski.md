@@ -1,8 +1,6 @@
 ---
 title: "GPS – Bartosz Ciechanowski"
-author: Pito Salas
-url: "https://ciechanow.ski/gps/?utm_source=abyteofcodingnewsletter" 
-cover: "https://ciechanow.ski/images/og/gps.png" 
+author: Pito Salasurl: "https://ciechanow.ski/gps/?utm_source=abyteofcodingnewsletter" cover: "https://ciechanow.ski/images/og/gps.png" 
 date: 2022-12-27 12:23:40
 tags:
     - gps-satelites-technology-explainer-localization

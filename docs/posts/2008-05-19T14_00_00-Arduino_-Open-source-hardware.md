@@ -1,8 +1,6 @@
 ---
 title: "Arduino: Open source hardware"
 author: Pito Salas
-
-
 date: 2008-05-19T14:00:00
 tags:
     - arduino-technology-hardware-opensource

@@ -1,8 +1,6 @@
 ---
 title: "Old wives tale, once more, turns out to be true"
 author: Pito Salas
-
-
 date: 2007-12-13T14:52:26
 ---
 

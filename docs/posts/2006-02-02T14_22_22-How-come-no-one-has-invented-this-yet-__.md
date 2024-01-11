@@ -1,8 +1,6 @@
 ---
 title: "How come no-one has invented this yet :?"
 author: Pito Salas
-
-
 date: 2006-02-02T14:22:22
 ---
 

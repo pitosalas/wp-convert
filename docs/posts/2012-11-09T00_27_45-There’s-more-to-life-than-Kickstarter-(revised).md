@@ -1,8 +1,6 @@
 ---
 title: "There’s more to life than Kickstarter (revised)"
 author: Pito Salas
-
-
 date: 2012-11-09T00:27:45
 tags:
     - crowdfunding

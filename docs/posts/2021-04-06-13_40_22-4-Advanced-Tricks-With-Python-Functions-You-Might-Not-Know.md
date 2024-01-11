@@ -1,8 +1,6 @@
 ---
 title: "4 Advanced Tricks With Python Functions You Might Not Know"
-author: Pito Salas
-url: "https://link.medium.com/iszX4UbdYbb" 
-cover: "https://miro.medium.com/max/1200/0*ifoTBfwpki_hW-dt" 
+author: Pito Salasurl: "https://link.medium.com/iszX4UbdYbb" cover: "https://miro.medium.com/max/1200/0*ifoTBfwpki_hW-dt" 
 date: 2021-04-06 13:40:22
 tags:
     - tricks-python-techniques-howto

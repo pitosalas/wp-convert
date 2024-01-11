@@ -1,8 +1,6 @@
 ---
 title: "Federal judge orders halt to NSA spy program"
 author: Pito Salas
-
-
 date: 2006-08-17T20:58:29
 ---
 

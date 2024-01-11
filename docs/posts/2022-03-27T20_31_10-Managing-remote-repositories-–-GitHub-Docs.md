@@ -1,8 +1,6 @@
 ---
 title: "Managing remote repositories – GitHub Docs"
 author: Pito Salas
-
-
 date: 2022-03-27T20:31:10
 tags:
     - github

@@ -1,8 +1,6 @@
 ---
 title: "[ELECTIONS] Continuing debate on hand vs. machine counting"
 author: Pito Salas
-
-
 date: 2012-07-03T13:04:37
 tags:
     - counting

@@ -1,8 +1,6 @@
 ---
 title: "Does Death Penalty Save Lives?"
 author: Pito Salas
-
-
 date: 2007-11-19T13:29:44
 ---
 

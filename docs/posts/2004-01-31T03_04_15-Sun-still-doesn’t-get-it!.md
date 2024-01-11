@@ -1,8 +1,6 @@
 ---
 title: "Sun still doesn’t get it!"
 author: Pito Salas
-
-
 date: 2004-01-31T03:04:15
 ---
 

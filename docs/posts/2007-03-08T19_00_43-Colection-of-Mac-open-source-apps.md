@@ -1,8 +1,6 @@
 ---
 title: "Colection of Mac open source apps"
 author: Pito Salas
-
-
 date: 2007-03-08T19:00:43
 ---
 

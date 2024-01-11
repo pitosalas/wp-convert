@@ -1,8 +1,6 @@
 ---
 title: "What is a blog, again?"
 author: Pito Salas
-
-
 date: 2004-11-22T22:42:34
 ---
 

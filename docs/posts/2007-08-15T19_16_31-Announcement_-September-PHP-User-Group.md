@@ -1,8 +1,6 @@
 ---
 title: "Announcement: September PHP User Group"
 author: Pito Salas
-
-
 date: 2007-08-15T19:16:31
 ---
 

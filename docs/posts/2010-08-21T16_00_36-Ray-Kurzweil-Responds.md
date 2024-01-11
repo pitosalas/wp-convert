@@ -1,8 +1,6 @@
 ---
 title: "Ray Kurzweil Responds"
 author: Pito Salas
-
-
 date: 2010-08-21T16:00:36
 ---
 

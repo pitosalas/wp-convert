@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Built my first gem (Ruby Gem that is)"
 author: Pito Salas
-
-
 date: 2009-02-02T23:23:32
 tags:
     - api

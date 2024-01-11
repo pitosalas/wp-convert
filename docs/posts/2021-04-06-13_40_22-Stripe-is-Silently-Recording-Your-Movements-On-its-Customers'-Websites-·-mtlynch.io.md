@@ -1,8 +1,6 @@
 ---
 title: "Stripe is Silently Recording Your Movements On its Customers' Websites · mtlynch.io"
-author: Pito Salas
-url: "https://mtlynch.io/stripe-recording-its-customers" 
-cover: "https://mtlynch.io/stripe-recording-its-customers/og-image.jpg" 
+author: Pito Salasurl: "https://mtlynch.io/stripe-recording-its-customers" cover: "https://mtlynch.io/stripe-recording-its-customers/og-image.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - security-privacy-stripe-spying

@@ -1,8 +1,6 @@
 ---
 title: "The funny thing about iPhone apps"
 author: Pito Salas
-
-
 date: 2010-05-02T09:41:00
 tags:
     - free

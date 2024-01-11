@@ -1,8 +1,6 @@
 ---
 title: "Funny: Are computers boys or are they girls?"
 author: Pito Salas
-
-
 date: 2012-05-03T15:18:39
 tags:
     - computers

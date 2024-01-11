@@ -1,8 +1,6 @@
 ---
 title: "32 Places With Funny Names"
 author: Pito Salas
-
-
 date: 2007-12-14T09:50:00
 ---
 

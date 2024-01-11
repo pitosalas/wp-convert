@@ -1,8 +1,6 @@
 ---
 title: "Really cool rowing instrumentation"
 author: Pito Salas
-
-
 date: 2005-11-30T17:01:46
 ---
 

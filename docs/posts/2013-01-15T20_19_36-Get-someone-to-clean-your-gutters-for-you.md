@@ -1,8 +1,6 @@
 ---
 title: "Get someone to clean your gutters for you"
 author: Pito Salas
-
-
 date: 2013-01-15T20:19:36
 tags:
     - gutters

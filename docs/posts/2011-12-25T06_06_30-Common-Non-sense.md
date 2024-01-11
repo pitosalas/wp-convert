@@ -1,8 +1,6 @@
 ---
 title: "Common Non-sense"
 author: Pito Salas
-
-
 date: 2011-12-25T06:06:30
 tags:
     - commonsense

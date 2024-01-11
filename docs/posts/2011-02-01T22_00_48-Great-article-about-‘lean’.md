@@ -1,8 +1,6 @@
 ---
 title: "Great article about ‘lean’"
 author: Pito Salas
-
-
 date: 2011-02-01T22:00:48
 tags:
     - lean-startups

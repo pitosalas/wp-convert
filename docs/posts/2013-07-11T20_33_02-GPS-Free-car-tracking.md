@@ -1,8 +1,6 @@
 ---
 title: "GPS Free car tracking"
 author: Pito Salas
-
-
 date: 2013-07-11T20:33:02
 tags:
     - cars

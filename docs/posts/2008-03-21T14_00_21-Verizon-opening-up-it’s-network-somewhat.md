@@ -1,8 +1,6 @@
 ---
 title: "Verizon opening up it’s network somewhat"
 author: Pito Salas
-
-
 date: 2008-03-21T14:00:21
 ---
 

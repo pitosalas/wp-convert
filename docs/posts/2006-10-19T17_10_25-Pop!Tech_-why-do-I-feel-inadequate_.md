@@ -1,8 +1,6 @@
 ---
 title: "Pop!Tech: why do I feel inadequate?"
 author: Pito Salas
-
-
 date: 2006-10-19T17:10:25
 ---
 

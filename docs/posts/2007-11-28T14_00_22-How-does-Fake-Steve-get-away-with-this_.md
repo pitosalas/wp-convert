@@ -1,8 +1,6 @@
 ---
 title: "How does Fake Steve get away with this?"
 author: Pito Salas
-
-
 date: 2007-11-28T14:00:22
 ---
 

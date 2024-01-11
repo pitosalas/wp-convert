@@ -1,8 +1,6 @@
 ---
 title: "Update on Jobs’ health"
 author: Pito Salas
-
-
 date: 2009-01-07T00:59:33
 tags:
     - apple-computer

@@ -1,8 +1,6 @@
 ---
 title: "What’s the world coming to?"
 author: Pito Salas
-
-
 date: 2004-12-07T23:36:05
 ---
 

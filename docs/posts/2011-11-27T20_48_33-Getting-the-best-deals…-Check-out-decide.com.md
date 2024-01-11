@@ -1,8 +1,6 @@
 ---
 title: "Getting the best deals… Check out decide.com"
 author: Pito Salas
-
-
 date: 2011-11-27T20:48:33
 tags:
     - deals

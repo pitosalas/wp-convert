@@ -1,8 +1,6 @@
 ---
 title: "BlogBridge update. In the last"
 author: Pito Salas
-
-
 date: 2004-03-12T01:59:08
 ---
 

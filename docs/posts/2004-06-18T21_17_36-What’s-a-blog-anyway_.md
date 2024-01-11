@@ -1,8 +1,6 @@
 ---
 title: "What’s a blog anyway?"
 author: Pito Salas
-
-
 date: 2004-06-18T21:17:36
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "CAPTCHA’s cracked"
 author: Pito Salas
-
-
 date: 2010-04-26T18:34:23
 tags:
     - captcha

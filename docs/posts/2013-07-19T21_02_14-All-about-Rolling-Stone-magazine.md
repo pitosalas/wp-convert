@@ -1,8 +1,6 @@
 ---
 title: "All about Rolling Stone magazine"
 author: Pito Salas
-
-
 date: 2013-07-19T21:02:14
 tags:
     - boston

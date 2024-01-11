@@ -1,8 +1,6 @@
 ---
 title: "VCs and Aggregators"
 author: Pito Salas
-
-
 date: 2005-02-05T03:15:41
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Kindle changes everything, no?"
 author: Pito Salas
-
-
 date: 2011-10-28T01:08:46
 tags:
     - kindle

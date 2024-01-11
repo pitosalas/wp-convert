@@ -1,8 +1,6 @@
 ---
 title: "BlogBridge latest"
 author: Pito Salas
-
-
 date: 2004-02-29T16:48:17
 ---
 

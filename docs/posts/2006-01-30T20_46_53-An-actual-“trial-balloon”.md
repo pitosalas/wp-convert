@@ -1,8 +1,6 @@
 ---
 title: "An actual “trial balloon”"
 author: Pito Salas
-
-
 date: 2006-01-30T20:46:53
 ---
 

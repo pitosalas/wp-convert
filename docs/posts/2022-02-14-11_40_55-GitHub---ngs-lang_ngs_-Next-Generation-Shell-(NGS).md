@@ -1,8 +1,6 @@
 ---
 title: "GitHub - ngs-lang/ngs: Next Generation Shell (NGS)"
-author: Pito Salas
-url: "https://github.com/ngs-lang/ngs/" 
-cover: "https://repository-images.githubusercontent.com/13143215/820419a1-8b60-436e-8c92-8ac9e1147dd8" 
+author: Pito Salasurl: "https://github.com/ngs-lang/ngs/" cover: "https://repository-images.githubusercontent.com/13143215/820419a1-8b60-436e-8c92-8ac9e1147dd8" 
 date: 2022-02-14 11:40:55
 tags:
     - language-shell-automation

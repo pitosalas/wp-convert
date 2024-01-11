@@ -1,8 +1,6 @@
 ---
 title: "Do Things that Don't Scale"
-author: Pito Salas
-url: "http://paulgraham.com/ds.html" 
-cover: "https://rdl.ink/render/http%3A%2F%2Fpaulgraham.com%2Fds.html" 
+author: Pito Salasurl: "http://paulgraham.com/ds.html" cover: "https://rdl.ink/render/http%3A%2F%2Fpaulgraham.com%2Fds.html" 
 date: 2021-04-06 13:40:23
 tags:
     - startup-scale-paulgraham-entrepreneurship

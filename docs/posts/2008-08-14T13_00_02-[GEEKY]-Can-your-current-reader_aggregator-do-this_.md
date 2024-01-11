@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Can your current reader/aggregator do this?"
 author: Pito Salas
-
-
 date: 2008-08-14T13:00:02
 ---
 

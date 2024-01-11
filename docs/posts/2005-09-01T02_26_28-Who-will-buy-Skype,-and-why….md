@@ -1,8 +1,6 @@
 ---
 title: "Who will buy Skype, and why…"
 author: Pito Salas
-
-
 date: 2005-09-01T02:26:28
 ---
 

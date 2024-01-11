@@ -1,8 +1,6 @@
 ---
 title: "Great musical: Falsettos at the Huntington Theatre"
 author: Pito Salas
-
-
 date: 2005-05-25T04:57:58
 ---
 

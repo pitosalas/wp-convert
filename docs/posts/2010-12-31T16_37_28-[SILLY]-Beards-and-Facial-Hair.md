@@ -1,8 +1,6 @@
 ---
 title: "[SILLY] Beards and Facial Hair"
 author: Pito Salas
-
-
 date: 2010-12-31T16:37:28
 tags:
     - beards

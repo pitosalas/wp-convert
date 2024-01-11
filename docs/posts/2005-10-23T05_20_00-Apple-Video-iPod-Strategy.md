@@ -1,8 +1,6 @@
 ---
 title: "Apple Video iPod Strategy"
 author: Pito Salas
-
-
 date: 2005-10-23T05:20:00
 ---
 

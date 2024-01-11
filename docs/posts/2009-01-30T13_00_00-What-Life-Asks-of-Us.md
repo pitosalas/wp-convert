@@ -1,8 +1,6 @@
 ---
 title: "What Life Asks of Us"
 author: Pito Salas
-
-
 date: 2009-01-30T13:00:00
 ---
 

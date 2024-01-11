@@ -1,8 +1,6 @@
 ---
 title: "The Robotics Back-End – Program Robots Like a Boss"
 author: Pito Salas
-
-
 date: 2021-06-19T17:34:53
 tags:
     - courses

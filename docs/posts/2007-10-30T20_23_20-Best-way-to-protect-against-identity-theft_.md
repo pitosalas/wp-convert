@@ -1,8 +1,6 @@
 ---
 title: "Best way to protect against identity theft?"
 author: Pito Salas
-
-
 date: 2007-10-30T20:23:20
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "New Radio Show: Open Source"
 author: Pito Salas
-
-
 date: 2005-05-17T15:57:28
 ---
 

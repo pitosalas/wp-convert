@@ -1,8 +1,6 @@
 ---
 title: "See you at ETech! Also, BlogBridge 5.0 almost there"
 author: Pito Salas
-
-
 date: 2007-03-23T18:01:00
 ---
 

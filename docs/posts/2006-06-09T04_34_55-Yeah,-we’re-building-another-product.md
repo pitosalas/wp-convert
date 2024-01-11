@@ -1,8 +1,6 @@
 ---
 title: "Yeah, we’re building another product"
 author: Pito Salas
-
-
 date: 2006-06-09T04:34:55
 ---
 

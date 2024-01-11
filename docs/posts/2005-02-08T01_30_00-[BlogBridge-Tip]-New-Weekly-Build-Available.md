@@ -1,8 +1,6 @@
 ---
 title: "[BlogBridge Tip] New Weekly Build Available"
 author: Pito Salas
-
-
 date: 2005-02-08T01:30:00
 ---
 

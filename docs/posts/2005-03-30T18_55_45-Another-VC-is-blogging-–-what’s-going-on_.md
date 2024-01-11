@@ -1,8 +1,6 @@
 ---
 title: "Another VC is blogging – what’s going on?"
 author: Pito Salas
-
-
 date: 2005-03-30T18:55:45
 ---
 

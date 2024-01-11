@@ -1,8 +1,6 @@
 ---
 title: "The Impending Flash Crisis?"
 author: Pito Salas
-
-
 date: 2011-10-26T14:43:43
 tags:
     - cringley

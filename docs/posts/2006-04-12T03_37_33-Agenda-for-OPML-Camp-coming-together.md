@@ -1,8 +1,6 @@
 ---
 title: "Agenda for OPML Camp coming together"
 author: Pito Salas
-
-
 date: 2006-04-12T03:37:33
 ---
 

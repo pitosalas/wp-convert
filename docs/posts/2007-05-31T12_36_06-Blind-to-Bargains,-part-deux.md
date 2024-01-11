@@ -1,8 +1,6 @@
 ---
 title: "Blind to Bargains, part deux"
 author: Pito Salas
-
-
 date: 2007-05-31T12:36:06
 ---
 

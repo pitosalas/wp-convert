@@ -1,8 +1,6 @@
 ---
 title: "Must See: “Luck of the Irish” at the Huntington Theatre"
 author: Pito Salas
-
-
 date: 2012-04-18T13:19:55
 tags:
     - huntington

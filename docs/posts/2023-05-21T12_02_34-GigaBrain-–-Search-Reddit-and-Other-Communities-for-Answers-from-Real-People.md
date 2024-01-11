@@ -1,8 +1,6 @@
 ---
 title: "GigaBrain – Search Reddit and Other Communities for Answers from Real People"
 author: Pito Salas
-
-
 date: 2023-05-21T12:02:34
 tags:
     - cooltool

@@ -1,8 +1,6 @@
 ---
 title: "The Science of Large Breasts, and Other Evolutionary Verities"
 author: Pito Salas
-
-
 date: 2007-07-09T14:09:16
 ---
 

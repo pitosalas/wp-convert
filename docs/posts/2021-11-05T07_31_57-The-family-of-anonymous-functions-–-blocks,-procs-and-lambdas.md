@@ -1,8 +1,6 @@
 ---
 title: "The family of anonymous functions – blocks, procs and lambdas"
 author: Pito Salas
-
-
 date: 2021-11-05T07:31:57
 tags:
     - ruby

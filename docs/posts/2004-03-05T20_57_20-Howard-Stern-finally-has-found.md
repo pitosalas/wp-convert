@@ -1,8 +1,6 @@
 ---
 title: "Howard Stern finally has found"
 author: Pito Salas
-
-
 date: 2004-03-05T20:57:20
 ---
 

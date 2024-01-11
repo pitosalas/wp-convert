@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Great classic article about Mocks and Subs (non-geeks: don’t ask!)"
 author: Pito Salas
-
-
 date: 2011-02-04T01:35:26
 tags:
     - doubles

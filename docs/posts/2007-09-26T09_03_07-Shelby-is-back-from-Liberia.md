@@ -1,8 +1,6 @@
 ---
 title: "Shelby is back from Liberia"
 author: Pito Salas
-
-
 date: 2007-09-26T09:03:07
 ---
 

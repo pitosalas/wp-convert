@@ -1,8 +1,6 @@
 ---
 title: "It’s the cars, stupid"
 author: Pito Salas
-
-
 date: 2008-11-27T17:33:38
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Another good article about choosing passwords"
 author: Pito Salas
-
-
 date: 2007-01-11T21:40:59
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "June in Paradise"
 author: Pito Salas
-
-
 date: 2008-06-09T00:37:20
 ---
 

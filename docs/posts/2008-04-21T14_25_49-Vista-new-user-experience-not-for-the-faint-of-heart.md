@@ -1,8 +1,6 @@
 ---
 title: "Vista new user experience not for the faint of heart"
 author: Pito Salas
-
-
 date: 2008-04-21T14:25:49
 tags:
     - vista-technology-userexperience

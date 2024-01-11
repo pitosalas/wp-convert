@@ -1,8 +1,6 @@
 ---
 title: "Writing Pretty Code — Ruby Style"
-author: Pito Salas
-url: "https://link.medium.com/sh1b16Nap0" 
-cover: "https://cdn-images-1.medium.com/fit/t/1258/902/1*43BRKiUS9U_Myhu2K-u6rA.png" 
+author: Pito Salasurl: "https://link.medium.com/sh1b16Nap0" cover: "https://cdn-images-1.medium.com/fit/t/1258/902/1*43BRKiUS9U_Myhu2K-u6rA.png" 
 date: 2021-04-06 13:40:22
 tags:
     - formatting-ruby-style-code

@@ -1,8 +1,6 @@
 ---
 title: "MySpace Loses a Co-President"
 author: Pito Salas
-
-
 date: 2010-06-18T01:06:15
 ---
 

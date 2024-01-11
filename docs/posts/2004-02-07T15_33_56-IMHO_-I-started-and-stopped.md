@@ -1,8 +1,6 @@
 ---
 title: "IMHO: I started and stopped"
 author: Pito Salas
-
-
 date: 2004-02-07T15:33:56
 ---
 

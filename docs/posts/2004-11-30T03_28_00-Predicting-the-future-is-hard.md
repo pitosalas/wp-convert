@@ -1,8 +1,6 @@
 ---
 title: "Predicting the future is hard"
 author: Pito Salas
-
-
 date: 2004-11-30T03:28:00
 ---
 

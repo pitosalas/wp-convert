@@ -1,8 +1,6 @@
 ---
 title: "Giving till it hurts"
 author: Pito Salas
-
-
 date: 2008-02-25T13:16:07
 ---
 

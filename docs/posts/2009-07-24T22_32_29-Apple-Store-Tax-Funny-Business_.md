@@ -1,8 +1,6 @@
 ---
 title: "Apple Store Tax Funny Business?"
 author: Pito Salas
-
-
 date: 2009-07-24T22:32:29
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Google Maps traffic information"
 author: Pito Salas
-
-
 date: 2007-02-28T21:24:44
 ---
 

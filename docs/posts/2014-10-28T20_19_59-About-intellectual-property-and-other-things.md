@@ -1,8 +1,6 @@
 ---
 title: "About intellectual property and other things"
 author: Pito Salas
-
-
 date: 2014-10-28T20:19:59
 tags:
     - ethics

@@ -1,8 +1,6 @@
 ---
 title: "Really interesting story about why good used cars don’t sell"
 author: Pito Salas
-
-
 date: 2007-04-19T20:08:56
 ---
 

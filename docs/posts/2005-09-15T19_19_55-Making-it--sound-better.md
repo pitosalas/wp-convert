@@ -1,8 +1,6 @@
 ---
 title: "Making it  sound better"
 author: Pito Salas
-
-
 date: 2005-09-15T19:19:55
 ---
 

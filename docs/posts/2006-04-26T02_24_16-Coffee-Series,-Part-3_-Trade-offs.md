@@ -1,8 +1,6 @@
 ---
 title: "Coffee Series, Part 3: Trade offs"
 author: Pito Salas
-
-
 date: 2006-04-26T02:24:16
 ---
 

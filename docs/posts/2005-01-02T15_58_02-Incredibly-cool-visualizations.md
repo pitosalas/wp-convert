@@ -1,8 +1,6 @@
 ---
 title: "Incredibly cool visualizations"
 author: Pito Salas
-
-
 date: 2005-01-02T15:58:02
 ---
 

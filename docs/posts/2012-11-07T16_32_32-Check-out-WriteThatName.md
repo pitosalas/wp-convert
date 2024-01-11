@@ -1,8 +1,6 @@
 ---
 title: "Check out WriteThatName"
 author: Pito Salas
-
-
 date: 2012-11-07T16:32:32
 tags:
     - email

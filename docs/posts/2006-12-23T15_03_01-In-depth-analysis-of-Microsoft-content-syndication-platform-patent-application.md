@@ -1,8 +1,6 @@
 ---
 title: "In-depth analysis of Microsoft content syndication platform patent application"
 author: Pito Salas
-
-
 date: 2006-12-23T15:03:01
 ---
 

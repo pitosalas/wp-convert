@@ -1,8 +1,6 @@
 ---
 title: "Security by obscurity and other slogans"
 author: Pito Salas
-
-
 date: 2010-04-23T16:02:41
 tags:
     - google

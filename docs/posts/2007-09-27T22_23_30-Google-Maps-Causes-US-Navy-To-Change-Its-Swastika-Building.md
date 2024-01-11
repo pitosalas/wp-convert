@@ -1,8 +1,6 @@
 ---
 title: "Google Maps Causes US Navy To Change Its Swastika Building"
 author: Pito Salas
-
-
 date: 2007-09-27T22:23:30
 ---
 

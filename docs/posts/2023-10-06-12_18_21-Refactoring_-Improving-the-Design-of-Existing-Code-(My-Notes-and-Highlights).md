@@ -1,8 +1,6 @@
 ---
 title: "Refactoring: Improving the Design of Existing Code (My Notes and Highlights)"
-author: Pito Salas
-url: "https://www.akshaykhot.com/notes-on-refactoring/?ref=akshays-blog-newsletter" 
-cover: "https://www.akshaykhot.com/content/images/2023/10/refactoring.png" 
+author: Pito Salasurl: "https://www.akshaykhot.com/notes-on-refactoring/?ref=akshays-blog-newsletter" cover: "https://www.akshaykhot.com/content/images/2023/10/refactoring.png" 
 date: 2023-10-06 12:18:21
 tags:
     - software-engineering-refactoring-fowler-howto-review-best-bet

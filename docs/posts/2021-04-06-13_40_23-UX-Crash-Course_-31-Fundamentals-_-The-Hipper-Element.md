@@ -1,8 +1,6 @@
 ---
 title: "UX Crash Course: 31 Fundamentals | The Hipper Element"
-author: Pito Salas
-url: "http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals" 
-cover: "https://rdl.ink/render/http%3A%2F%2Fthehipperelement.com%2Fpost%2F75476711614%2Fux-crash-course-31-fundamentals" 
+author: Pito Salasurl: "http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals" cover: "https://rdl.ink/render/http%3A%2F%2Fthehipperelement.com%2Fpost%2F75476711614%2Fux-crash-course-31-fundamentals" 
 date: 2021-04-06 13:40:23
 tags:
     - UX-tutorial-development

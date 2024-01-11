@@ -1,8 +1,6 @@
 ---
 title: "Functools — The Power of Higher-Order Functions in Python"
-author: Pito Salas
-url: "https://link.medium.com/IEmqKFMjyhb" 
-cover: "https://miro.medium.com/max/1200/1*O_IPtztfkHodO-mkbk7uiw.jpeg" 
+author: Pito Salasurl: "https://link.medium.com/IEmqKFMjyhb" cover: "https://miro.medium.com/max/1200/1*O_IPtztfkHodO-mkbk7uiw.jpeg" 
 date: 2021-07-02 02:25:06
 tags:
     - python-functional-explainer

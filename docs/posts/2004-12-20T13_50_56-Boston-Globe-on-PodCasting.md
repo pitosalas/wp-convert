@@ -1,8 +1,6 @@
 ---
 title: "Boston Globe on PodCasting"
 author: Pito Salas
-
-
 date: 2004-12-20T13:50:56
 ---
 

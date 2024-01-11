@@ -1,8 +1,6 @@
 ---
 title: "navigation/Troubleshooting – ROS Wiki"
 author: Pito Salas
-
-
 date: 2022-04-23T22:31:24
 tags:
     - navigation

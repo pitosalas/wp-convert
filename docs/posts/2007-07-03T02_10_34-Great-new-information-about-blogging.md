@@ -1,8 +1,6 @@
 ---
 title: "Great new information about blogging"
 author: Pito Salas
-
-
 date: 2007-07-03T02:10:34
 ---
 

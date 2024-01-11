@@ -1,8 +1,6 @@
 ---
 title: "Geek Dinner a great success!"
 author: Pito Salas
-
-
 date: 2006-02-16T18:38:01
 ---
 

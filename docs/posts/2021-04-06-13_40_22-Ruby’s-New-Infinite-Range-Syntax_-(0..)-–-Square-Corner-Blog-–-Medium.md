@@ -1,8 +1,6 @@
 ---
 title: "Ruby’s New Infinite Range Syntax: (0..) – Square Corner Blog – Medium"
-author: Pito Salas
-url: "https://medium.com/square-corner-blog/rubys-new-infinite-range-syntax-0-97777cf06270" 
-cover: "https://rdl.ink/render/https%3A%2F%2Fmedium.com%2Fsquare-corner-blog%2Frubys-new-infinite-range-syntax-0-97777cf06270" 
+author: Pito Salasurl: "https://medium.com/square-corner-blog/rubys-new-infinite-range-syntax-0-97777cf06270" cover: "https://rdl.ink/render/https%3A%2F%2Fmedium.com%2Fsquare-corner-blog%2Frubys-new-infinite-range-syntax-0-97777cf06270" 
 date: 2021-04-06 13:40:22
 tags:
     - ruby-syntax

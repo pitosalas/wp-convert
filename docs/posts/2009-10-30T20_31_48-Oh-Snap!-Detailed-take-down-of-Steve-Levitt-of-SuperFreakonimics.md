@@ -1,8 +1,6 @@
 ---
 title: "Oh Snap! Detailed take down of Steve Levitt of SuperFreakonimics"
 author: Pito Salas
-
-
 date: 2009-10-30T20:31:48
 ---
 

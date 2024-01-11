@@ -1,8 +1,6 @@
 ---
 title: "Does this map look familiar?"
 author: Pito Salas
-
-
 date: 2004-11-25T00:04:31
 ---
 

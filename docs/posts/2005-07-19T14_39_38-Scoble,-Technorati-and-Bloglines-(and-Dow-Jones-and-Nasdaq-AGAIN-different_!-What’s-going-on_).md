@@ -1,8 +1,6 @@
 ---
 title: "Scoble, Technorati and Bloglines (and Dow Jones and Nasdaq AGAIN different?! What’s going on?)"
 author: Pito Salas
-
-
 date: 2005-07-19T14:39:38
 ---
 

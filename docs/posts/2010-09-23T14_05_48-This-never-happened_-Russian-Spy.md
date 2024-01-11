@@ -1,8 +1,6 @@
 ---
 title: "This never happened: Russian Spy"
 author: Pito Salas
-
-
 date: 2010-09-23T14:05:48
 ---
 

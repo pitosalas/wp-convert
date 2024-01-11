@@ -1,8 +1,6 @@
 ---
 title: "When Twitter becomes a  blogging platform"
 author: Pito Salas
-
-
 date: 2014-03-23T22:29:04
 tags:
     - blogging

@@ -1,8 +1,6 @@
 ---
 title: "Google+ Awesome Pictures"
 author: Pito Salas
-
-
 date: 2014-07-16T18:40:35
 ---
 

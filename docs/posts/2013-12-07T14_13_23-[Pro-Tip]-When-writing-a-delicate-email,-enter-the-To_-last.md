@@ -1,8 +1,6 @@
 ---
 title: "[Pro-Tip] When writing a delicate email, enter the To: last"
 author: Pito Salas
-
-
 date: 2013-12-07T14:13:23
 tags:
     - email

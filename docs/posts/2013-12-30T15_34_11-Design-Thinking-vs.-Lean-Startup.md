@@ -1,8 +1,6 @@
 ---
 title: "Design Thinking vs. Lean Startup"
 author: Pito Salas
-
-
 date: 2013-12-30T15:34:11
 tags:
     - design

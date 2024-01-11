@@ -1,8 +1,6 @@
 ---
 title: "Eating your young"
 author: Pito Salas
-
-
 date: 2005-05-16T15:20:22
 ---
 

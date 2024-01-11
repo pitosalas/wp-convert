@@ -1,8 +1,6 @@
 ---
 title: "Zed - Code at the speed of thought"
-author: Pito Salas
-url: "https://zed.dev/" 
-cover: "https://zed.dev/seo/og.png" 
+author: Pito Salasurl: "https://zed.dev/" cover: "https://zed.dev/seo/og.png" 
 date: 2023-03-19 11:41:30
 tags:
     - vscode-editor-cooltool-programmers-editor

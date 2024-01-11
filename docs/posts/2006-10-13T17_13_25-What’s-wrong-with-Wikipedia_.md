@@ -1,8 +1,6 @@
 ---
 title: "What’s wrong with Wikipedia?"
 author: Pito Salas
-
-
 date: 2006-10-13T17:13:25
 ---
 

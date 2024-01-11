@@ -1,8 +1,6 @@
 ---
 title: "Killer feature for Mac OS X?"
 author: Pito Salas
-
-
 date: 2011-12-05T21:43:32
 tags:
     - macosx

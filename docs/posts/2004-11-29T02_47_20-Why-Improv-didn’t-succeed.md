@@ -1,8 +1,6 @@
 ---
 title: "Why Improv didn’t succeed"
 author: Pito Salas
-
-
 date: 2004-11-29T02:47:20
 ---
 

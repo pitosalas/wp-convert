@@ -1,8 +1,6 @@
 ---
 title: "What do you think of people who insist on saying “AN historic”?"
 author: Pito Salas
-
-
 date: 2012-01-31T02:11:47
 tags:
     - english

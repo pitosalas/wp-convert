@@ -1,8 +1,6 @@
 ---
 title: "Google Toolbar: Where’s the fire?"
 author: Pito Salas
-
-
 date: 2005-03-03T15:08:58
 ---
 

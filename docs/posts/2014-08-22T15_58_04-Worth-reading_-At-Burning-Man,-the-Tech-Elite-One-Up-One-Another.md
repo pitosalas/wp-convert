@@ -1,8 +1,6 @@
 ---
 title: "Worth reading: At Burning Man, the Tech Elite One-Up One Another"
 author: Pito Salas
-
-
 date: 2014-08-22T15:58:04
 ---
 

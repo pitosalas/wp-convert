@@ -1,8 +1,6 @@
 ---
 title: "Why is this funny?"
 author: Pito Salas
-
-
 date: 2008-08-07T13:00:02
 ---
 

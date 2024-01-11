@@ -1,8 +1,6 @@
 ---
 title: "Anti-paprazzi clutch bag gives pushy shutterbugs a taste of their own medicine"
 author: Pito Salas
-
-
 date: 2009-07-08T14:38:56
 ---
 

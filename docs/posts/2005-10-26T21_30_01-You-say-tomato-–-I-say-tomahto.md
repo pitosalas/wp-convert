@@ -1,8 +1,6 @@
 ---
 title: "You say tomato – I say tomahto"
 author: Pito Salas
-
-
 date: 2005-10-26T21:30:01
 ---
 

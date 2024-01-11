@@ -1,8 +1,6 @@
 ---
 title: "Thinking about business models"
 author: Pito Salas
-
-
 date: 2005-10-13T14:11:10
 ---
 

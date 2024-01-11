@@ -1,8 +1,6 @@
 ---
 title: "[GEEK] This may be good news for Java, long term"
 author: Pito Salas
-
-
 date: 2005-07-22T13:33:33
 ---
 

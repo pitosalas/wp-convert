@@ -1,8 +1,6 @@
 ---
 title: "Flipstart from Vulcan (Demo 2004"
 author: Pito Salas
-
-
 date: 2004-03-08T14:00:10
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Wikileaks: Some good further links"
 author: Pito Salas
-
-
 date: 2010-07-28T20:41:24
 ---
 

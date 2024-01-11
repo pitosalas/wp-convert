@@ -1,8 +1,6 @@
 ---
 title: "I’ll be teaching a course at Brandeis University"
 author: Pito Salas
-
-
 date: 2009-12-17T19:49:14
 tags:
     - applications

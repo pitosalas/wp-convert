@@ -1,8 +1,6 @@
 ---
 title: "I never remember anything"
 author: Pito Salas
-
-
 date: 2010-09-30T20:22:45
 tags:
     - books

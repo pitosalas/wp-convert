@@ -1,8 +1,6 @@
 ---
 title: "Static Site Generators"
-author: Pito Salas
-url: "https://www.fullstackpython.com/static-site-generator.html" 
-cover: "https://www.fullstackpython.com/img/pages/default.jpg" 
+author: Pito Salasurl: "https://www.fullstackpython.com/static-site-generator.html" cover: "https://www.fullstackpython.com/img/pages/default.jpg" 
 date: 2023-12-30 15:43:17
 tags:
     - static-site-generator-nanoc-blog-wordpress-python

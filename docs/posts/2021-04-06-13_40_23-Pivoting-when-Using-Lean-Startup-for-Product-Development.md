@@ -1,8 +1,6 @@
 ---
 title: "Pivoting when Using Lean Startup for Product Development"
-author: Pito Salas
-url: "http://www.infoq.com/news/2013/07/pivoting-product-development" 
-cover: "https://cdn.infoq.com/statics_s2_20210406-0325/styles/static/images/logo/logo-big.jpg" 
+author: Pito Salasurl: "http://www.infoq.com/news/2013/07/pivoting-product-development" cover: "https://cdn.infoq.com/statics_s2_20210406-0325/styles/static/images/logo/logo-big.jpg" 
 date: 2021-04-06 13:40:23
 tags:
     - leanstartup-pivoting

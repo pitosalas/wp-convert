@@ -1,8 +1,6 @@
 ---
 title: "Intellectual Property? Copyright? Or just a lot of LOVE?"
 author: Pito Salas
-
-
 date: 2012-11-03T01:05:50
 tags:
     - copyright

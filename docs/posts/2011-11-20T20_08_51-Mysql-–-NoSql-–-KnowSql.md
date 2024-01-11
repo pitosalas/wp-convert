@@ -1,8 +1,6 @@
 ---
 title: "Mysql – NoSql – KnowSql"
 author: Pito Salas
-
-
 date: 2011-11-20T20:08:51
 tags:
     - databases

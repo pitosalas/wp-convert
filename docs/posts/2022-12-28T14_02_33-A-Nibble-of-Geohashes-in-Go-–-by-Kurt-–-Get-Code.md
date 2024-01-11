@@ -1,8 +1,6 @@
 ---
 title: "A Nibble of Geohashes in Go – by Kurt – Get Code"
 author: Pito Salas
-
-
 date: 2022-12-28T14:02:33
 tags:
     - algorithm

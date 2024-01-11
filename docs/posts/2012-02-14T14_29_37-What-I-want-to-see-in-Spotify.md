@@ -1,8 +1,6 @@
 ---
 title: "What I want to see in Spotify"
 author: Pito Salas
-
-
 date: 2012-02-14T14:29:37
 tags:
     - art

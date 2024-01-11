@@ -1,8 +1,6 @@
 ---
 title: "100 Tips for a Better Life – LessWrong"
 author: Pito Salas
-
-
 date: 2022-07-03T11:01:50
 tags:
     - life

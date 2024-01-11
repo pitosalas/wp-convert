@@ -1,8 +1,6 @@
 ---
 title: "Patents: Innovation Nation"
 author: Pito Salas
-
-
 date: 2013-02-10T00:22:38
 tags:
     - intellectual-property

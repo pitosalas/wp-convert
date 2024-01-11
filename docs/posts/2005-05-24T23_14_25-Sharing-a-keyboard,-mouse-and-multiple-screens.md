@@ -1,8 +1,6 @@
 ---
 title: "Sharing a keyboard, mouse and multiple screens"
 author: Pito Salas
-
-
 date: 2005-05-24T23:14:25
 ---
 

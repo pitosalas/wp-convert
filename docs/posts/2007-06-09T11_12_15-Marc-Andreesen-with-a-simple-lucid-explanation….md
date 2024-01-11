@@ -1,8 +1,6 @@
 ---
 title: "Marc Andreesen with a simple lucid explanation…"
 author: Pito Salas
-
-
 date: 2007-06-09T11:12:15
 ---
 

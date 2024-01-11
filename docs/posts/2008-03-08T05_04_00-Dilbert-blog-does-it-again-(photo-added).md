@@ -1,8 +1,6 @@
 ---
 title: "Dilbert blog does it again (photo added)"
 author: Pito Salas
-
-
 date: 2008-03-08T05:04:00
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Helpful iPhone tip (even though I don’t have one)"
 author: Pito Salas
-
-
 date: 2008-07-15T14:00:55
 ---
 

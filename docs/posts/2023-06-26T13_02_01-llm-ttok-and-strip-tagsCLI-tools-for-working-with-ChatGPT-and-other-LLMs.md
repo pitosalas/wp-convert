@@ -1,8 +1,6 @@
 ---
 title: "llm ttok and strip-tagsCLI tools for working with ChatGPT and other LLMs"
 author: Pito Salas
-
-
 date: 2023-06-26T13:02:01
 tags:
     - ChatGPT

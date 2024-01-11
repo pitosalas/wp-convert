@@ -1,8 +1,6 @@
 ---
 title: "Google+ – Professional Social Network?"
 author: Pito Salas
-
-
 date: 2011-09-23T17:25:03
 tags:
     - googleplus

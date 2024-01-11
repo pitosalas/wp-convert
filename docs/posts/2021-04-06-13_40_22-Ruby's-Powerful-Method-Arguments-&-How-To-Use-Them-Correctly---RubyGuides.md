@@ -1,8 +1,6 @@
 ---
 title: "Ruby's Powerful Method Arguments & How To Use Them Correctly - RubyGuides"
-author: Pito Salas
-url: "http://www.rubyguides.com/2018/06/rubys-method-arguments" 
-cover: "https://i0.wp.com/www.rubyguides.com/wp-content/uploads/2018/06/ruby-method-arguments.png?fit=600%2C337&ssl=1" 
+author: Pito Salasurl: "http://www.rubyguides.com/2018/06/rubys-method-arguments" cover: "https://i0.wp.com/www.rubyguides.com/wp-content/uploads/2018/06/ruby-method-arguments.png?fit=600%2C337&ssl=1" 
 date: 2021-04-06 13:40:22
 tags:
     - arguments

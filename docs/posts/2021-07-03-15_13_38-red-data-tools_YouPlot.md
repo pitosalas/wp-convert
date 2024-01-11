@@ -1,8 +1,6 @@
 ---
 title: "red-data-tools/YouPlot"
-author: Pito Salas
-url: "https://github.com/red-data-tools/YouPlot" 
-cover: "https://repository-images.githubusercontent.com/283230219/5fff5600-3668-11eb-9d1c-bbf88d25b560" 
+author: Pito Salasurl: "https://github.com/red-data-tools/YouPlot" cover: "https://repository-images.githubusercontent.com/283230219/5fff5600-3668-11eb-9d1c-bbf88d25b560" 
 date: 2021-07-03 15:13:38
 tags:
     - cli-plot-ruby-tool-howto

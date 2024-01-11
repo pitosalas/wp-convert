@@ -1,8 +1,6 @@
 ---
 title: "Email Rookie Mistakes"
 author: Pito Salas
-
-
 date: 2012-04-04T14:04:40
 tags:
     - email

@@ -1,8 +1,6 @@
 ---
 title: "Setup Python3 GoPiGo3 and DI_Sensors on Ubuntu Server 20.04 64-bit for non-root access – GoPiGo – Dexter Industries Forum"
 author: Pito Salas
-
-
 date: 2021-12-22T18:32:08
 ---
 

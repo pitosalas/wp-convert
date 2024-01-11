@@ -1,8 +1,6 @@
 ---
 title: "I Don’t Believe in COO’s"
 author: Pito Salas
-
-
 date: 2008-03-10T20:56:00
 ---
 

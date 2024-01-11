@@ -1,8 +1,6 @@
 ---
 title: "Mark Twain: All Ideas are Second-Hand"
 author: Pito Salas
-
-
 date: 2012-05-16T20:48:54
 tags:
     - cheap

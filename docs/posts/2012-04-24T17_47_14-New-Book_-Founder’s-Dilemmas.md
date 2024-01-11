@@ -1,8 +1,6 @@
 ---
 title: "New Book: Founder’s Dilemmas"
 author: Pito Salas
-
-
 date: 2012-04-24T17:47:14
 tags:
     - books

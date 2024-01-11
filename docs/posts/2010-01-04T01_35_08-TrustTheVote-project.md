@@ -1,8 +1,6 @@
 ---
 title: "TrustTheVote project"
 author: Pito Salas
-
-
 date: 2010-01-04T01:35:08
 tags:
     - evoting

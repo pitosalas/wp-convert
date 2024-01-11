@@ -1,8 +1,6 @@
 ---
 title: "Ideas that work! Not for me, but some great gift ideas"
 author: Pito Salas
-
-
 date: 2011-12-21T17:01:13
 tags:
     - gifts

@@ -1,8 +1,6 @@
 ---
 title: "Rails Generate Migration — Everything you need to know"
-author: Pito Salas
-url: "https://railsnotes.xyz/blog/rails-generate-migration-everything-you-need-to-know?utm_source=railsnotes.beehiiv.com&utm_medium=newsletter&utm_campaign=the-railsnotes-newsletter-issue-2" 
-cover: "https://railsnotes.xyz/static/images/rails-generate-migration-everything-you-need-to-know/cover.png" 
+author: Pito Salasurl: "https://railsnotes.xyz/blog/rails-generate-migration-everything-you-need-to-know?utm_source=railsnotes.beehiiv.com&utm_medium=newsletter&utm_campaign=the-railsnotes-newsletter-issue-2" cover: "https://railsnotes.xyz/static/images/rails-generate-migration-everything-you-need-to-know/cover.png" 
 date: 2023-07-17 12:26:36
 tags:
     - rails-howto-migration-explainer

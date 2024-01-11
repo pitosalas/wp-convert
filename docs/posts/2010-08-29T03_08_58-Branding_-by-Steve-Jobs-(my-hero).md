@@ -1,8 +1,6 @@
 ---
 title: "Branding: by Steve Jobs (my hero)"
 author: Pito Salas
-
-
 date: 2010-08-29T03:08:58
 tags:
     - apple

@@ -1,8 +1,6 @@
 ---
 title: "Udemy - Academy of You | Find and Create Online Courses"
-author: Pito Salas
-url: "http://www.udemy.com" 
-cover: "https://www.udemy.com/staticx/udemy/images/v6/default-meta-image.png" 
+author: Pito Salasurl: "http://www.udemy.com" cover: "https://www.udemy.com/staticx/udemy/images/v6/default-meta-image.png" 
 date: 2021-04-06 13:40:22
 ---
 <img src=https://www.udemy.com/staticx/udemy/images/v6/default-meta-image.png width="500">

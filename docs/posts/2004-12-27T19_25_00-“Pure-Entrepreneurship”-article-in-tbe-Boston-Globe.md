@@ -1,8 +1,6 @@
 ---
 title: "“Pure Entrepreneurship” article in tbe Boston Globe"
 author: Pito Salas
-
-
 date: 2004-12-27T19:25:00
 ---
 

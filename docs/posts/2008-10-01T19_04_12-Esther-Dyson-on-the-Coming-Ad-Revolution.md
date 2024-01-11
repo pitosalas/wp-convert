@@ -1,8 +1,6 @@
 ---
 title: "Esther Dyson on the Coming Ad Revolution"
 author: Pito Salas
-
-
 date: 2008-10-01T19:04:12
 ---
 

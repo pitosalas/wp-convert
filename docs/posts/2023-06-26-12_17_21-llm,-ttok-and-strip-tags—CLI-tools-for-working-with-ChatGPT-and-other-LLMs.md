@@ -1,8 +1,6 @@
 ---
 title: "llm, ttok and strip-tags—CLI tools for working with ChatGPT and other LLMs"
-author: Pito Salas
-url: "https://simonwillison.net/2023/May/18/cli-tools-for-llms/" 
-cover: "https://static.simonwillison.net/static/2023/llm-nytimes-card.jpg" 
+author: Pito Salasurl: "https://simonwillison.net/2023/May/18/cli-tools-for-llms/" cover: "https://static.simonwillison.net/static/2023/llm-nytimes-card.jpg" 
 date: 2023-06-26 12:17:21
 tags:
     - ChatGPT-cli-pipes-cooltool

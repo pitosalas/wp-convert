@@ -1,8 +1,6 @@
 ---
 title: "Great tips for dealing with email"
 author: Pito Salas
-
-
 date: 2013-04-12T17:55:39
 tags:
     - email

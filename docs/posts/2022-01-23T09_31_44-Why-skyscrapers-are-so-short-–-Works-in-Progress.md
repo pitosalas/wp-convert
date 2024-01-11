@@ -1,8 +1,6 @@
 ---
 title: "Why skyscrapers are so short – Works in Progress"
 author: Pito Salas
-
-
 date: 2022-01-23T09:31:44
 ---
 

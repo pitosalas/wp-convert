@@ -1,8 +1,6 @@
 ---
 title: "Amazing pictures of an old Russian Submarine Base"
 author: Pito Salas
-
-
 date: 2006-04-07T16:16:49
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "JetBlue: Summary cancellation"
 author: Pito Salas
-
-
 date: 2010-02-10T16:11:48
 tags:
     - blizzard

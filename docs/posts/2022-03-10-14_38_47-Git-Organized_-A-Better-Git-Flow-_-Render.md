@@ -1,8 +1,6 @@
 ---
 title: "Git Organized: A Better Git Flow | Render"
-author: Pito Salas
-url: "https://render.com/blog/git-organized-a-better-git-flow" 
-cover: "https://render.com/static/fedb9832395a0f61cbe04b2a6ca08ed1/improved-git-flow-2.png" 
+author: Pito Salasurl: "https://render.com/blog/git-organized-a-better-git-flow" cover: "https://render.com/static/fedb9832395a0f61cbe04b2a6ca08ed1/improved-git-flow-2.png" 
 date: 2022-03-10 14:38:47
 tags:
     - git-workflow-howto-tutorial-advanced

@@ -1,8 +1,6 @@
 ---
 title: "Interesting bit of Ruby magic"
 author: Pito Salas
-
-
 date: 2007-06-21T11:27:43
 ---
 

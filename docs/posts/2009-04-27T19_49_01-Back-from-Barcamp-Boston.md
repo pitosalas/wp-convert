@@ -1,8 +1,6 @@
 ---
 title: "Back from Barcamp Boston"
 author: Pito Salas
-
-
 date: 2009-04-27T19:49:01
 ---
 

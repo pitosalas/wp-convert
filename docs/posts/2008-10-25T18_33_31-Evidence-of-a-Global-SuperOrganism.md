@@ -1,8 +1,6 @@
 ---
 title: "Evidence of a Global SuperOrganism"
 author: Pito Salas
-
-
 date: 2008-10-25T18:33:31
 tags:
     - kevinkelley-ai

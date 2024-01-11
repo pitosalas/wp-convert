@@ -1,8 +1,6 @@
 ---
 title: "RailsConf 2014 - Concerns, Decorators, Presenters, Service Objects, Helpers, Help Me Decide! - YouTube"
-author: Pito Salas
-url: "https://www.youtube.com/watch?feature=share&v=bHpVdOzrvkE" 
-cover: "https://i.ytimg.com/vi/bHpVdOzrvkE/mqdefault.jpg" 
+author: Pito Salasurl: "https://www.youtube.com/watch?feature=share&v=bHpVdOzrvkE" cover: "https://i.ytimg.com/vi/bHpVdOzrvkE/mqdefault.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - ruby-Rails

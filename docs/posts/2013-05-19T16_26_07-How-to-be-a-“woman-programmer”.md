@@ -1,8 +1,6 @@
 ---
 title: "How to be a “woman programmer”"
 author: Pito Salas
-
-
 date: 2013-05-19T16:26:07
 tags:
     - career

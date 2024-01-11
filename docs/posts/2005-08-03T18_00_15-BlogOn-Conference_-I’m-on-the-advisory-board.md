@@ -1,8 +1,6 @@
 ---
 title: "BlogOn Conference: I’m on the advisory board"
 author: Pito Salas
-
-
 date: 2005-08-03T18:00:15
 ---
 

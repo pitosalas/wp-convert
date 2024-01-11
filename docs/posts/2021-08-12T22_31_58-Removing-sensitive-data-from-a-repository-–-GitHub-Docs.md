@@ -1,8 +1,6 @@
 ---
 title: "Removing sensitive data from a repository – GitHub Docs"
 author: Pito Salas
-
-
 date: 2021-08-12T22:31:58
 tags:
     - github

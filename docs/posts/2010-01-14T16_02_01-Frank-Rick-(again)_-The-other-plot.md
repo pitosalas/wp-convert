@@ -1,8 +1,6 @@
 ---
 title: "Frank Rick (again): The other plot"
 author: Pito Salas
-
-
 date: 2010-01-14T16:02:01
 tags:
     - economics

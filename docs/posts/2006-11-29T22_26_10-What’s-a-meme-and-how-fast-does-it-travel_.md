@@ -1,8 +1,6 @@
 ---
 title: "What’s a meme and how fast does it travel?"
 author: Pito Salas
-
-
 date: 2006-11-29T22:26:10
 ---
 

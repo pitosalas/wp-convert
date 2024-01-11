@@ -1,8 +1,6 @@
 ---
 title: "Did you see what Amazon Stock did yesterday?"
 author: Pito Salas
-
-
 date: 2009-10-24T15:53:11
 ---
 

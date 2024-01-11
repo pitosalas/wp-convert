@@ -1,8 +1,6 @@
 ---
 title: "What if we all vote on the truth?"
 author: Pito Salas
-
-
 date: 2005-06-15T14:22:37
 ---
 

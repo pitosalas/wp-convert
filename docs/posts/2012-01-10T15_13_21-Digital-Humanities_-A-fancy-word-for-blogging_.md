@@ -1,8 +1,6 @@
 ---
 title: "Digital Humanities: A fancy word for blogging?"
 author: Pito Salas
-
-
 date: 2012-01-10T15:13:21
 tags:
     - blogging

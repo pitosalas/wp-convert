@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] How DataRSS might work"
 author: Pito Salas
-
-
 date: 2009-04-13T14:00:43
 tags:
     - api

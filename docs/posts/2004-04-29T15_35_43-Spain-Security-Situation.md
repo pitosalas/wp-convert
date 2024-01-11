@@ -1,8 +1,6 @@
 ---
 title: "Spain Security Situation"
 author: Pito Salas
-
-
 date: 2004-04-29T15:35:43
 ---
 

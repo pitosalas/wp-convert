@@ -1,8 +1,6 @@
 ---
 title: "Time to short Google?"
 author: Pito Salas
-
-
 date: 2005-06-01T23:49:50
 ---
 

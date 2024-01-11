@@ -1,8 +1,6 @@
 ---
 title: "Great coverage of Enterprise 2.0"
 author: Pito Salas
-
-
 date: 2008-01-24T03:18:32
 tags:
     - enterprise-20-technology-blogbridge-km-portals

@@ -1,8 +1,6 @@
 ---
 title: "Handling Growth with Postgres: 5 Tips From Instagram - Instagram Engineering"
-author: Pito Salas
-url: "http://instagram-engineering.tumblr.com/post/40781627982/handling-growth-with-postgres-5-tips-from" 
-cover: "https://rdl.ink/render/http%3A%2F%2Finstagram-engineering.tumblr.com%2Fpost%2F40781627982%2Fhandling-growth-with-postgres-5-tips-from" 
+author: Pito Salasurl: "http://instagram-engineering.tumblr.com/post/40781627982/handling-growth-with-postgres-5-tips-from" cover: "https://rdl.ink/render/http%3A%2F%2Finstagram-engineering.tumblr.com%2Fpost%2F40781627982%2Fhandling-growth-with-postgres-5-tips-from" 
 date: 2021-04-06 13:40:23
 tags:
     - postgres-scaling-database

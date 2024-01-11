@@ -1,8 +1,6 @@
 ---
 title: "Beautiful Woburn"
 author: Pito Salas
-
-
 date: 2014-06-26T11:03:10
 ---
 

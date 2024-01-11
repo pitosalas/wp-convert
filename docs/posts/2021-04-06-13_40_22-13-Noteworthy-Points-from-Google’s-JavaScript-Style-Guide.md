@@ -1,8 +1,6 @@
 ---
 title: "13 Noteworthy Points from Google’s JavaScript Style Guide"
-author: Pito Salas
-url: "https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b?source=userActivityShare-d383785221d0-1524228762" 
-cover: "https://cdn-media-1.freecodecamp.org/images/1*ouYvMzYuksK-IH1BPNKD0A.jpeg" 
+author: Pito Salasurl: "https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b?source=userActivityShare-d383785221d0-1524228762" cover: "https://cdn-media-1.freecodecamp.org/images/1*ouYvMzYuksK-IH1BPNKD0A.jpeg" 
 date: 2021-04-06 13:40:22
 tags:
     - code-styles-javascript

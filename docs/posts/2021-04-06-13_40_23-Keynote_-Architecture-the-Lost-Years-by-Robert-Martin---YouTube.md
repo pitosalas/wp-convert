@@ -1,8 +1,6 @@
 ---
 title: "Keynote: Architecture the Lost Years by Robert Martin - YouTube"
-author: Pito Salas
-url: "http://www.youtube.com/watch?feature=player_embedded&v=WpkDN78P884" 
-cover: "https://i.ytimg.com/vi/WpkDN78P884/mqdefault.jpg" 
+author: Pito Salasurl: "http://www.youtube.com/watch?feature=player_embedded&v=WpkDN78P884" cover: "https://i.ytimg.com/vi/WpkDN78P884/mqdefault.jpg" 
 date: 2021-04-06 13:40:23
 ---
 <img src=https://i.ytimg.com/vi/WpkDN78P884/mqdefault.jpg width="500">

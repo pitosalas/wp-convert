@@ -1,8 +1,6 @@
 ---
 title: "Very cool illusion"
 author: Pito Salas
-
-
 date: 2005-11-28T17:39:51
 ---
 

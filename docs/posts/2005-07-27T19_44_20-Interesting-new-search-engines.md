@@ -1,8 +1,6 @@
 ---
 title: "Interesting new search engines"
 author: Pito Salas
-
-
 date: 2005-07-27T19:44:20
 ---
 

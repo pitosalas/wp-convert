@@ -1,8 +1,6 @@
 ---
 title: "A good scratchboard/clayboard tutorial"
 author: Pito Salas
-
-
 date: 2009-12-13T16:43:40
 tags:
     - art

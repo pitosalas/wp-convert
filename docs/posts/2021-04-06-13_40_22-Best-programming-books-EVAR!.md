@@ -1,8 +1,6 @@
 ---
 title: "Best programming books EVAR!"
-author: Pito Salas
-url: "https://www.daolf.com/posts/best-programming-books" 
-cover: "https://uploads-ssl.webflow.com/5f280c5b57d2edfcbbb057ea/5f2980ceab04a0828d44202c_twitter_cover.png" 
+author: Pito Salasurl: "https://www.daolf.com/posts/best-programming-books" cover: "https://uploads-ssl.webflow.com/5f280c5b57d2edfcbbb057ea/5f2980ceab04a0828d44202c_twitter_cover.png" 
 date: 2021-04-06 13:40:22
 tags:
     - recommended-howto-programming-books

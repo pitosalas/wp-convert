@@ -1,8 +1,6 @@
 ---
 title: "Camp Chef Smoke Vault 24″ Review"
 author: Pito Salas
-
-
 date: 2023-04-17T01:01:46
 tags:
     - barbq

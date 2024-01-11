@@ -1,8 +1,6 @@
 ---
 title: "Software Developer Meat Market"
 author: Pito Salas
-
-
 date: 2012-02-04T22:08:57
 tags:
     - development

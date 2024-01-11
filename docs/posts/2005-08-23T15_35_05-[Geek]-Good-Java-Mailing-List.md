@@ -1,8 +1,6 @@
 ---
 title: "[Geek] Good Java Mailing List"
 author: Pito Salas
-
-
 date: 2005-08-23T15:35:05
 ---
 

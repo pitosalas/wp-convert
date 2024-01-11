@@ -1,8 +1,6 @@
 ---
 title: "What is going on with Facebook App Security?"
 author: Pito Salas
-
-
 date: 2007-10-24T18:39:20
 ---
 

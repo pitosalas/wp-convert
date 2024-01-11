@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Resfulie GEM for Rails and RESˇ"
 author: Pito Salas
-
-
 date: 2010-12-14T00:04:31
 tags:
     - GEEKY

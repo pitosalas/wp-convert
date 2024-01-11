@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] RSS Advisory board has a pulse again!"
 author: Pito Salas
-
-
 date: 2006-02-03T21:14:56
 ---
 

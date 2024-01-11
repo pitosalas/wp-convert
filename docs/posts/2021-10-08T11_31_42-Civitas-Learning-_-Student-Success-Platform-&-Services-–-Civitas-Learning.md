@@ -1,8 +1,6 @@
 ---
 title: "Civitas Learning | Student Success Platform & Services – Civitas Learning"
 author: Pito Salas
-
-
 date: 2021-10-08T11:31:42
 tags:
     - learning

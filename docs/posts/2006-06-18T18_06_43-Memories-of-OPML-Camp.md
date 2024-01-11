@@ -1,8 +1,6 @@
 ---
 title: "Memories of OPML Camp"
 author: Pito Salas
-
-
 date: 2006-06-18T18:06:43
 ---
 

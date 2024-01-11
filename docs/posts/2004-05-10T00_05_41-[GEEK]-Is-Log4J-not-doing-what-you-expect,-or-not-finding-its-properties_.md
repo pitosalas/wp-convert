@@ -1,8 +1,6 @@
 ---
 title: "[GEEK] Is Log4J not doing what you expect, or not finding its properties?"
 author: Pito Salas
-
-
 date: 2004-05-10T00:05:41
 ---
 

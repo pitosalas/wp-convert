@@ -1,8 +1,6 @@
 ---
 title: "more handy python snippets"
-author: Pito Salas
-url: "https://link.medium.com/U8bjsYsqG2" 
-cover: "" 
+author: Pito Salasurl: "https://link.medium.com/U8bjsYsqG2" cover: "" 
 date: 2021-04-06 13:40:22
 tags:
     - programming-howto-python

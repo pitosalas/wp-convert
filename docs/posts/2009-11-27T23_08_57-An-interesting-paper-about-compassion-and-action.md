@@ -1,8 +1,6 @@
 ---
 title: "An interesting paper about compassion and action"
 author: Pito Salas
-
-
 date: 2009-11-27T23:08:57
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Academic Torrents"
-author: Pito Salas
-url: "http://academictorrents.com" 
-cover: "http://academictorrents.com/res/img/logo--1200x630.jpg" 
+author: Pito Salasurl: "http://academictorrents.com" cover: "http://academictorrents.com/res/img/logo--1200x630.jpg" 
 date: 2021-04-06 13:40:22
 ---
 <img src=http://academictorrents.com/res/img/logo--1200x630.jpg width="500">

@@ -1,8 +1,6 @@
 ---
 title: "Key Computing’s Xkey: (Demo 2004"
 author: Pito Salas
-
-
 date: 2004-02-26T02:47:04
 ---
 

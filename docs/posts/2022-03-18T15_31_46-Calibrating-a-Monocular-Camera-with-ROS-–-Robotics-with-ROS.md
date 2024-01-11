@@ -1,8 +1,6 @@
 ---
 title: "Calibrating a Monocular Camera with ROS – Robotics with ROS"
 author: Pito Salas
-
-
 date: 2022-03-18T15:31:46
 ---
 

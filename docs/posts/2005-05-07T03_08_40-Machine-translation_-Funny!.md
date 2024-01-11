@@ -1,8 +1,6 @@
 ---
 title: "Machine translation: Funny!"
 author: Pito Salas
-
-
 date: 2005-05-07T03:08:40
 ---
 

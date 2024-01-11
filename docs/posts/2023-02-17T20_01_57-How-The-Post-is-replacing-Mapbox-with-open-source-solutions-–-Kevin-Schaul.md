@@ -1,8 +1,6 @@
 ---
 title: "How The Post is replacing Mapbox with open source solutions – Kevin Schaul"
 author: Pito Salas
-
-
 date: 2023-02-17T20:01:57
 tags:
     - map

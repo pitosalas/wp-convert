@@ -1,8 +1,6 @@
 ---
 title: "MapReduce Patterns and Examples"
 author: Pito Salas
-
-
 date: 2012-02-17T02:12:00
 tags:
     - GEEKY

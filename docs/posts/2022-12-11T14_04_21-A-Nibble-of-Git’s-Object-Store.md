@@ -1,8 +1,6 @@
 ---
 title: "A Nibble of Git’s Object Store"
 author: Pito Salas
-
-
 date: 2022-12-11T14:04:21
 tags:
     - explainer

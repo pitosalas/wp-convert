@@ -1,8 +1,6 @@
 ---
 title: "[EDUCATION] Booting up experienced technical talent who have dated skills"
 author: Pito Salas
-
-
 date: 2012-06-29T00:07:03
 tags:
     - bootup

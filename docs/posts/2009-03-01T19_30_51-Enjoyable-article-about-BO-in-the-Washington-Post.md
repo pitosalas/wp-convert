@@ -1,8 +1,6 @@
 ---
 title: "Enjoyable article about BO in the Washington Post"
 author: Pito Salas
-
-
 date: 2009-03-01T19:30:51
 tags:
     - potus

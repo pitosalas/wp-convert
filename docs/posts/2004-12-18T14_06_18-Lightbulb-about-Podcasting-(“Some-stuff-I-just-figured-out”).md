@@ -1,8 +1,6 @@
 ---
 title: "Lightbulb about Podcasting (“Some stuff I just figured out”)"
 author: Pito Salas
-
-
 date: 2004-12-18T14:06:18
 ---
 

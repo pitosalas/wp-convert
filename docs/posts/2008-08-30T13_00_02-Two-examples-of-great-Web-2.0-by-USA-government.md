@@ -1,8 +1,6 @@
 ---
 title: "Two examples of great Web 2.0 by USA government"
 author: Pito Salas
-
-
 date: 2008-08-30T13:00:02
 ---
 

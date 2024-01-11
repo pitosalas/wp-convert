@@ -1,8 +1,6 @@
 ---
 title: "Windows 8: Getting a new filesystem"
 author: Pito Salas
-
-
 date: 2012-01-27T08:05:48
 tags:
     - filesystem

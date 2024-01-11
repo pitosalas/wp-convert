@@ -1,8 +1,6 @@
 ---
 title: "Does a network enabled USB hub exist?"
 author: Pito Salas
-
-
 date: 2006-11-23T04:00:23
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Cross Platform, for real!"
 author: Pito Salas
-
-
 date: 2004-06-06T00:55:26
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "By boat from Boston Harbor to the Lower Mystic Lake"
 author: Pito Salas
-
-
 date: 2010-11-15T16:15:55
 ---
 

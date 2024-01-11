@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Twitter and Ruby on Rails"
 author: Pito Salas
-
-
 date: 2008-05-03T12:00:00
 ---
 

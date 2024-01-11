@@ -1,8 +1,6 @@
 ---
 title: "Worth reading: Falsehoods Programmers Believe About Names"
 author: Pito Salas
-
-
 date: 2014-08-18T12:13:42
 ---
 

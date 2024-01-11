@@ -1,8 +1,6 @@
 ---
 title: "Who can I believe about the economy?"
 author: Pito Salas
-
-
 date: 2009-02-08T14:09:40
 ---
 

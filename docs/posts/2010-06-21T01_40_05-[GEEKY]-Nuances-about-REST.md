@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Nuances about REST"
 author: Pito Salas
-
-
 date: 2010-06-21T01:40:05
 ---
 

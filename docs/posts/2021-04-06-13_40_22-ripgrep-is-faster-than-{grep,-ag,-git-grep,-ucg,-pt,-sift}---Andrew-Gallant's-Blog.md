@@ -1,8 +1,6 @@
 ---
 title: "ripgrep is faster than {grep, ag, git grep, ucg, pt, sift} - Andrew Gallant's Blog"
-author: Pito Salas
-url: "https://blog.burntsushi.net/ripgrep" 
-cover: "https://rdl.ink/render/https%3A%2F%2Fblog.burntsushi.net%2Fripgrep" 
+author: Pito Salasurl: "https://blog.burntsushi.net/ripgrep" cover: "https://rdl.ink/render/https%3A%2F%2Fblog.burntsushi.net%2Fripgrep" 
 date: 2021-04-06 13:40:22
 tags:
     - cli-grep

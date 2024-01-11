@@ -1,8 +1,6 @@
 ---
 title: "ImageMagick v6 Examples"
-author: Pito Salas
-url: "http://www.imagemagick.org/Usage" 
-cover: "https://rdl.ink/render/http%3A%2F%2Fwww.imagemagick.org%2FUsage" 
+author: Pito Salasurl: "http://www.imagemagick.org/Usage" cover: "https://rdl.ink/render/http%3A%2F%2Fwww.imagemagick.org%2FUsage" 
 date: 2021-04-06 13:40:22
 tags:
     - Ruby

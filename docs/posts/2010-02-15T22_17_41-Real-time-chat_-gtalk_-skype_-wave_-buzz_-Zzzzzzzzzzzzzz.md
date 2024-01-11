@@ -1,8 +1,6 @@
 ---
 title: "Real time chat: gtalk? skype? wave? buzz? Zzzzzzzzzzzzzz"
 author: Pito Salas
-
-
 date: 2010-02-15T22:17:41
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Towards a DataRSS"
 author: Pito Salas
-
-
 date: 2009-02-27T17:30:42
 ---
 

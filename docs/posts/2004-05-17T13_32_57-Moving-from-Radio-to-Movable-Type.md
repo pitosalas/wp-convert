@@ -1,8 +1,6 @@
 ---
 title: "Moving from Radio to Movable Type"
 author: Pito Salas
-
-
 date: 2004-05-17T13:32:57
 ---
 

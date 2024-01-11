@@ -1,8 +1,6 @@
 ---
 title: "How People Get Rich Now"
-author: Pito Salas
-url: "http://paulgraham.com/richnow.html" 
-cover: "https://rdl.ink/render/http%3A%2F%2Fpaulgraham.com%2Frichnow.html" 
+author: Pito Salasurl: "http://paulgraham.com/richnow.html" cover: "https://rdl.ink/render/http%3A%2F%2Fpaulgraham.com%2Frichnow.html" 
 date: 2021-05-06 15:56:42
 tags:
     - paulgraham-rich-essay-money-interesting

@@ -1,8 +1,6 @@
 ---
 title: "Lago Blog – ORMs are criticized for the wrong reasons"
 author: Pito Salas
-
-
 date: 2023-06-23T13:01:28
 tags:
     - explainer

@@ -1,8 +1,6 @@
 ---
 title: "Is this picture classified?"
 author: Pito Salas
-
-
 date: 2005-03-02T14:05:05
 ---
 

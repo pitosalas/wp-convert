@@ -1,8 +1,6 @@
 ---
 title: "Lotus Alums: Do you remember this?"
 author: Pito Salas
-
-
 date: 2011-02-21T22:11:53
 tags:
     - lotus

@@ -1,8 +1,6 @@
 ---
 title: "My Favorite Macbook Tools"
-author: Pito Salas
-url: "https://switowski.com/blog/favorite-mac-tools" 
-cover: "https://switowski.com/assets/img/card-post_2020-01-09-mac-tools.jpg" 
+author: Pito Salasurl: "https://switowski.com/blog/favorite-mac-tools" cover: "https://switowski.com/assets/img/card-post_2020-01-09-mac-tools.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - productivity-tools-cli-macbook

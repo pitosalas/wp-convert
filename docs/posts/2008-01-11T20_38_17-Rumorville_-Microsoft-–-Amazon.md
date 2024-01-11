@@ -1,8 +1,6 @@
 ---
 title: "Rumorville: Microsoft – Amazon"
 author: Pito Salas
-
-
 date: 2008-01-11T20:38:17
 ---
 

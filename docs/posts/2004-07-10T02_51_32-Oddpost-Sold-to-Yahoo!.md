@@ -1,8 +1,6 @@
 ---
 title: "Oddpost Sold to Yahoo!"
 author: Pito Salas
-
-
 date: 2004-07-10T02:51:32
 ---
 

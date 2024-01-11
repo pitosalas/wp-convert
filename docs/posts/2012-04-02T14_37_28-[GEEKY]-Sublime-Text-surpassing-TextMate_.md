@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Sublime Text surpassing TextMate?"
 author: Pito Salas
-
-
 date: 2012-04-02T14:37:28
 tags:
     - GEEKY

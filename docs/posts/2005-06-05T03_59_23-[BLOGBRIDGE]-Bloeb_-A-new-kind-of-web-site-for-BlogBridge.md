@@ -1,8 +1,6 @@
 ---
 title: "[BLOGBRIDGE] Bloeb: A new kind of web site for BlogBridge"
 author: Pito Salas
-
-
 date: 2005-06-05T03:59:23
 ---
 

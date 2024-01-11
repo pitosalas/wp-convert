@@ -1,8 +1,6 @@
 ---
 title: "Rails 5 supports passing collection of records to 'fresh_when' and 'stale?' | BigBinary Blog"
-author: Pito Salas
-url: "https://blog.bigbinary.com/2016/08/16/rails-5-supports-passing-collection-of-records-to-fresh_when-and-stale.html" 
-cover: "https://bigbinary.com/blog_images/bigbinary_square_logo.png" 
+author: Pito Salasurl: "https://blog.bigbinary.com/2016/08/16/rails-5-supports-passing-collection-of-records-to-fresh_when-and-stale.html" cover: "https://bigbinary.com/blog_images/bigbinary_square_logo.png" 
 date: 2021-04-06 13:40:22
 tags:
     - rails-caching

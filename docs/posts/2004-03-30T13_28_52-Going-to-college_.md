@@ -1,8 +1,6 @@
 ---
 title: "Going to college?"
 author: Pito Salas
-
-
 date: 2004-03-30T13:28:52
 ---
 

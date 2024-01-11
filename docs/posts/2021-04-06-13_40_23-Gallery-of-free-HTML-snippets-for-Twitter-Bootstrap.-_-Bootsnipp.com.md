@@ -1,8 +1,6 @@
 ---
 title: "Gallery of free HTML snippets for Twitter Bootstrap. | Bootsnipp.com"
-author: Pito Salas
-url: "http://bootsnipp.com" 
-cover: "https://bootsnipp.com/img/logo.jpg" 
+author: Pito Salasurl: "http://bootsnipp.com" cover: "https://bootsnipp.com/img/logo.jpg" 
 date: 2021-04-06 13:40:23
 tags:
     - bootstrap-css-html5

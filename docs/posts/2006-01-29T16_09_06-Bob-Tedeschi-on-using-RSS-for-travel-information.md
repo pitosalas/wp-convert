@@ -1,8 +1,6 @@
 ---
 title: "Bob Tedeschi on using RSS for travel information"
 author: Pito Salas
-
-
 date: 2006-01-29T16:09:06
 ---
 

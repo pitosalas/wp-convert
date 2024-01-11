@@ -1,8 +1,6 @@
 ---
 title: "The Cloud is Watching You"
 author: Pito Salas
-
-
 date: 2014-02-23T17:38:31
 tags:
     - books

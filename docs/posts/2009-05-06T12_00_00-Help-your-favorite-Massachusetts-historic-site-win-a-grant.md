@@ -1,8 +1,6 @@
 ---
 title: "Help your favorite Massachusetts historic site win a grant"
 author: Pito Salas
-
-
 date: 2009-05-06T12:00:00
 ---
 

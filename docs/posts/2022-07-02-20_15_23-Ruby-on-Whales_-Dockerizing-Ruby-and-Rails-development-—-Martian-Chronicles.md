@@ -1,8 +1,6 @@
 ---
 title: "Ruby on Whales: Dockerizing Ruby and Rails development — Martian Chronicles"
-author: Pito Salas
-url: "https://evilmartians.com/chronicles/ruby-on-whales-docker-for-ruby-rails-development" 
-cover: "https://cdn.evilmartians.com/front/posts/ruby-on-whales-docker-for-ruby-rails-development/cover-ea9e8a2.png" 
+author: Pito Salasurl: "https://evilmartians.com/chronicles/ruby-on-whales-docker-for-ruby-rails-development" cover: "https://cdn.evilmartians.com/front/posts/ruby-on-whales-docker-for-ruby-rails-development/cover-ea9e8a2.png" 
 date: 2022-07-02 20:15:23
 tags:
     - docker-rails-ruby-dockerfile-k3s-kubernetes

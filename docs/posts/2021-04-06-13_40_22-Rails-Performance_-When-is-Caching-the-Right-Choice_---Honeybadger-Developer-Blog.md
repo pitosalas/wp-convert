@@ -1,8 +1,6 @@
 ---
 title: "Rails Performance: When is Caching the Right Choice? - Honeybadger Developer Blog"
-author: Pito Salas
-url: "https://www.honeybadger.io/blog/rails-caching-alternatives" 
-cover: "https://www.honeybadger.io/images/pull_image.png" 
+author: Pito Salasurl: "https://www.honeybadger.io/blog/rails-caching-alternatives" cover: "https://www.honeybadger.io/images/pull_image.png" 
 date: 2021-04-06 13:40:22
 tags:
     - developer-howto-caching-cache

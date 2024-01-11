@@ -1,8 +1,6 @@
 ---
 title: "Seth Godin has good insights"
 author: Pito Salas
-
-
 date: 2007-09-09T20:56:59
 ---
 

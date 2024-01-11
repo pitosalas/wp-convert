@@ -1,8 +1,6 @@
 ---
 title: "Tripadvisor Certificate of Excellence"
 author: Pito Salas
-
-
 date: 2013-07-25T13:37:37
 tags:
     - certificates

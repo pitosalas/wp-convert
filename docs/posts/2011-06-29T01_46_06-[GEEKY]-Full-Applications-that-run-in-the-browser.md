@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Full Applications that run in the browser"
 author: Pito Salas
-
-
 date: 2011-06-29T01:46:06
 tags:
     - javascript

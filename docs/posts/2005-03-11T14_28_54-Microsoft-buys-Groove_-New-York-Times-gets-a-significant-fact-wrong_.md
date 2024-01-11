@@ -1,8 +1,6 @@
 ---
 title: "Microsoft buys Groove: New York Times gets a significant fact wrong?"
 author: Pito Salas
-
-
 date: 2005-03-11T14:28:54
 ---
 

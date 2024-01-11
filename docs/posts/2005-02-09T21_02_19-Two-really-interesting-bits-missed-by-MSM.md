@@ -1,8 +1,6 @@
 ---
 title: "Two really interesting bits missed by MSM"
 author: Pito Salas
-
-
 date: 2005-02-09T21:02:19
 ---
 

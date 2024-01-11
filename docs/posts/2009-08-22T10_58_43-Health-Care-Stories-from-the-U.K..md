@@ -1,8 +1,6 @@
 ---
 title: "Health Care Stories from the U.K."
 author: Pito Salas
-
-
 date: 2009-08-22T10:58:43
 ---
 

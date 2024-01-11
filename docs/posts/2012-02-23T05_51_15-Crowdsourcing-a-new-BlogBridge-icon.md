@@ -1,8 +1,6 @@
 ---
 title: "Crowdsourcing a new BlogBridge icon"
 author: Pito Salas
-
-
 date: 2012-02-23T05:51:15
 tags:
     - BlogBridge

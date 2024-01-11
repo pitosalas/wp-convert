@@ -1,8 +1,6 @@
 ---
 title: "Robotics: Computational Motion Planning | Coursera"
-author: Pito Salas
-url: "https://www.coursera.org/learn/robotics-motion-planning/home/welcome" 
-cover: "https://s3.amazonaws.com/coursera/media/Grid_Coursera_Partners_updated.png" 
+author: Pito Salasurl: "https://www.coursera.org/learn/robotics-motion-planning/home/welcome" cover: "https://s3.amazonaws.com/coursera/media/Grid_Coursera_Partners_updated.png" 
 date: 2021-04-06 13:40:23
 tags:
     - Robotics

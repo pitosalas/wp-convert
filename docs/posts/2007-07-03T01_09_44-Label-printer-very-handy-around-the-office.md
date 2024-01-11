@@ -1,8 +1,6 @@
 ---
 title: "Label printer very handy around the office"
 author: Pito Salas
-
-
 date: 2007-07-03T01:09:44
 ---
 

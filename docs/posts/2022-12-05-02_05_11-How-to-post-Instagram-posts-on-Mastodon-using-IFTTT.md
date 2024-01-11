@@ -1,8 +1,6 @@
 ---
 title: "How to post Instagram posts on Mastodon using IFTTT"
-author: Pito Salas
-url: "https://alephnaughtpix.github.io/deadjournal/2019/12/16/how-to-post-instagram-posts-on-mastodon-using-ifttt.html" 
-cover: "https://rdl.ink/render/https%3A%2F%2Falephnaughtpix.github.io%2Fdeadjournal%2F2019%2F12%2F16%2Fhow-to-post-instagram-posts-on-mastodon-using-ifttt.html" 
+author: Pito Salasurl: "https://alephnaughtpix.github.io/deadjournal/2019/12/16/how-to-post-instagram-posts-on-mastodon-using-ifttt.html" cover: "https://rdl.ink/render/https%3A%2F%2Falephnaughtpix.github.io%2Fdeadjournal%2F2019%2F12%2F16%2Fhow-to-post-instagram-posts-on-mastodon-using-ifttt.html" 
 date: 2022-12-05 02:05:11
 tags:
     - mastodon-web-web-hook-ifttt-api

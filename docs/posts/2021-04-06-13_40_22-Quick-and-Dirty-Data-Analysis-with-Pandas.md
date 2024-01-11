@@ -1,8 +1,6 @@
 ---
 title: "Quick and Dirty Data Analysis with Pandas"
-author: Pito Salas
-url: "https://machinelearningmastery.com/quick-and-dirty-data-analysis-with-pandas" 
-cover: "https://machinelearningmastery.com/wp-content/uploads/2014/06/histogram_overlapping.png" 
+author: Pito Salasurl: "https://machinelearningmastery.com/quick-and-dirty-data-analysis-with-pandas" cover: "https://machinelearningmastery.com/wp-content/uploads/2014/06/histogram_overlapping.png" 
 date: 2021-04-06 13:40:22
 tags:
     - data-analysis-pandas

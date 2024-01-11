@@ -1,8 +1,6 @@
 ---
 title: "[geeky] Odd stuff I’ve learned setting up a new Mac"
 author: Pito Salas
-
-
 date: 2009-09-14T01:22:09
 tags:
     - drm

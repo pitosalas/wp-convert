@@ -1,8 +1,6 @@
 ---
 title: "Government Efficiency"
 author: Pito Salas
-
-
 date: 2009-05-08T00:51:33
 ---
 

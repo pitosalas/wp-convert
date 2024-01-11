@@ -1,8 +1,6 @@
 ---
 title: "New Orleans Flood Level"
 author: Pito Salas
-
-
 date: 2005-09-07T19:41:31
 ---
 

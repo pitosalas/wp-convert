@@ -1,8 +1,6 @@
 ---
 title: "What is Pinterest good for?"
 author: Pito Salas
-
-
 date: 2012-02-24T06:08:09
 tags:
     - images

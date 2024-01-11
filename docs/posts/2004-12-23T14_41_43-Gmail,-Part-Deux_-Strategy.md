@@ -1,8 +1,6 @@
 ---
 title: "Gmail, Part Deux: Strategy"
 author: Pito Salas
-
-
 date: 2004-12-23T14:41:43
 ---
 

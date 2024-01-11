@@ -1,8 +1,6 @@
 ---
 title: "Blogging is “essential” to a good career"
 author: Pito Salas
-
-
 date: 2006-04-16T15:01:26
 ---
 

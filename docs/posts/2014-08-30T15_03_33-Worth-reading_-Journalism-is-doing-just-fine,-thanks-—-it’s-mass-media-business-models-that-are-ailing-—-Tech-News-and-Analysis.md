@@ -1,8 +1,6 @@
 ---
 title: "Worth reading: Journalism is doing just fine, thanks — it’s mass-media business models that are ailing — Tech News and Analysis"
 author: Pito Salas
-
-
 date: 2014-08-30T15:03:33
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Error Monitoring, Error Tracking, and Notification for Ruby on Rails 2 and 3 - Honeybadger"
-author: Pito Salas
-url: "https://www.honeybadger.io" 
-cover: "https://www.honeybadger.io/images/pull_image.png" 
+author: Pito Salasurl: "https://www.honeybadger.io" cover: "https://www.honeybadger.io/images/pull_image.png" 
 date: 2021-04-06 13:40:23
 tags:
     - rails-development-tools

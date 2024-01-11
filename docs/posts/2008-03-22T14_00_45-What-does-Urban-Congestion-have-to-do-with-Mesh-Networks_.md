@@ -1,8 +1,6 @@
 ---
 title: "What does Urban Congestion have to do with Mesh Networks?"
 author: Pito Salas
-
-
 date: 2008-03-22T14:00:45
 ---
 

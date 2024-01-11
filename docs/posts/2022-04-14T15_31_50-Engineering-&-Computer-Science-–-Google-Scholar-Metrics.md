@@ -1,8 +1,6 @@
 ---
 title: "Engineering & Computer Science – Google Scholar Metrics"
 author: Pito Salas
-
-
 date: 2022-04-14T15:31:50
 tags:
     - computer-science

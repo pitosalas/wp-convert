@@ -1,8 +1,6 @@
 ---
 title: "Cancelled Rhapsody, Trying Spotify"
 author: Pito Salas
-
-
 date: 2011-07-17T17:32:50
 tags:
     - rhapsody

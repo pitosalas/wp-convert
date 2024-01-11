@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Solution to something that has annoyed me"
 author: Pito Salas
-
-
 date: 2009-02-20T22:22:52
 ---
 

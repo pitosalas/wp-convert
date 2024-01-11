@@ -1,8 +1,6 @@
 ---
 title: "Push: An interesting looking new conference"
 author: Pito Salas
-
-
 date: 2006-01-20T02:16:00
 ---
 

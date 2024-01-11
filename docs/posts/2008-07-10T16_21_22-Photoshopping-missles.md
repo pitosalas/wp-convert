@@ -1,8 +1,6 @@
 ---
 title: "Photoshopping missles"
 author: Pito Salas
-
-
 date: 2008-07-10T16:21:22
 tags:
     - iran

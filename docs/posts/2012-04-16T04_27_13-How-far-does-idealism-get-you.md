@@ -1,8 +1,6 @@
 ---
 title: "How far does idealism get you"
 author: Pito Salas
-
-
 date: 2012-04-16T04:27:13
 tags:
     - change

@@ -1,8 +1,6 @@
 ---
 title: "Update about Spotify"
 author: Pito Salas
-
-
 date: 2011-07-21T12:02:57
 tags:
     - rhapsody

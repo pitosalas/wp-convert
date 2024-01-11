@@ -1,8 +1,6 @@
 ---
 title: "If you think stronger regulation is a good answer, heed Buffett"
 author: Pito Salas
-
-
 date: 2009-04-09T13:00:02
 tags:
     - berkshire-hathaway

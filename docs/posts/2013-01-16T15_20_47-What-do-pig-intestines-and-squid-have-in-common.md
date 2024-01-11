@@ -1,8 +1,6 @@
 ---
 title: "What do pig intestines and squid have in common"
 author: Pito Salas
-
-
 date: 2013-01-16T15:20:47
 tags:
     - calamari

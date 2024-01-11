@@ -1,8 +1,6 @@
 ---
 title: "Not surprised that he gets to keep it"
 author: Pito Salas
-
-
 date: 2009-01-22T15:08:15
 ---
 

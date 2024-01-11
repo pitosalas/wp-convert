@@ -1,8 +1,6 @@
 ---
 title: "You Commit Three Felonies a Day"
 author: Pito Salas
-
-
 date: 2009-10-05T13:02:00
 ---
 

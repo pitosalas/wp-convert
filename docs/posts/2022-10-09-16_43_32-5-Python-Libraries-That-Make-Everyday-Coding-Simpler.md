@@ -1,8 +1,6 @@
 ---
 title: "5 Python Libraries That Make Everyday Coding Simpler"
-author: Pito Salas
-url: "https://link.medium.com/A9gLVpwqZtb" 
-cover: "https://miro.medium.com/max/1200/1*hHTGhG410jjG9TwcMMuK8w.jpeg" 
+author: Pito Salasurl: "https://link.medium.com/A9gLVpwqZtb" cover: "https://miro.medium.com/max/1200/1*hHTGhG410jjG9TwcMMuK8w.jpeg" 
 date: 2022-10-09 16:43:32
 tags:
     - python-howto-utilities-library

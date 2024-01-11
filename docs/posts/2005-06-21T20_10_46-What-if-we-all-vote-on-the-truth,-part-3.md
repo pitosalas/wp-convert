@@ -1,8 +1,6 @@
 ---
 title: "What if we all vote on the truth, part 3"
 author: Pito Salas
-
-
 date: 2005-06-21T20:10:46
 ---
 

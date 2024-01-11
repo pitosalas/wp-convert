@@ -1,8 +1,6 @@
 ---
 title: "[BLOGBRIDGE] BlogBridge 1.0 is out!"
 author: Pito Salas
-
-
 date: 2005-04-03T23:50:11
 ---
 

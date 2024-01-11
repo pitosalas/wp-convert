@@ -1,8 +1,6 @@
 ---
 title: "Stevey's Google Platforms Rant · GitHub"
-author: Pito Salas
-url: "https://gist.github.com/chitchcock/1281611" 
-cover: "https://github.githubassets.com/images/modules/gists/gist-og-image.png" 
+author: Pito Salasurl: "https://gist.github.com/chitchcock/1281611" cover: "https://github.githubassets.com/images/modules/gists/gist-og-image.png" 
 date: 2021-04-06 13:40:22
 tags:
     - saas-soa-rant-google-amazon-apple

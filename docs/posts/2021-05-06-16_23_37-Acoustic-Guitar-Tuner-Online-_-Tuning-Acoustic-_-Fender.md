@@ -1,8 +1,6 @@
 ---
 title: "Acoustic Guitar Tuner Online | Tuning Acoustic | Fender"
-author: Pito Salas
-url: "https://www.fender.com/online-guitar-tuner/acoustic-guitar-tuning" 
-cover: "https://stuff.fendergarage.com/images/O/C/w/fender-play-og.jpg" 
+author: Pito Salasurl: "https://www.fender.com/online-guitar-tuner/acoustic-guitar-tuning" cover: "https://stuff.fendergarage.com/images/O/C/w/fender-play-og.jpg" 
 date: 2021-05-06 16:23:37
 tags:
     - acoustic-guitar-howto

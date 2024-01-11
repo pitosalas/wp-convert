@@ -1,8 +1,6 @@
 ---
 title: "Neat Bank of America site security feature doesn’t do anything !"
 author: Pito Salas
-
-
 date: 2007-02-05T17:50:34
 ---
 

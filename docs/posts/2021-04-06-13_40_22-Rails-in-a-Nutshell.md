@@ -1,8 +1,6 @@
 ---
 title: "Rails in a Nutshell"
-author: Pito Salas
-url: "http://rails-nutshell.labs.oreilly.com/index.html" 
-cover: "http://cdn.oreillystatic.com/oreilly/images/oreilly-social-icon-120.png" 
+author: Pito Salasurl: "http://rails-nutshell.labs.oreilly.com/index.html" cover: "http://cdn.oreillystatic.com/oreilly/images/oreilly-social-icon-120.png" 
 date: 2021-04-06 13:40:22
 tags:
     - Weather

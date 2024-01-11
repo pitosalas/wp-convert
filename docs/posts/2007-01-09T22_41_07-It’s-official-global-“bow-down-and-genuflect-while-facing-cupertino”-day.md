@@ -1,8 +1,6 @@
 ---
 title: "It’s official global “bow-down-and-genuflect-while-facing-cupertino” day"
 author: Pito Salas
-
-
 date: 2007-01-09T22:41:07
 ---
 

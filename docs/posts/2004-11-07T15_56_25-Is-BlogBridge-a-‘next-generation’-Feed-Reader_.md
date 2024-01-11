@@ -1,8 +1,6 @@
 ---
 title: "Is BlogBridge a ‘next generation’ Feed Reader?"
 author: Pito Salas
-
-
 date: 2004-11-07T15:56:25
 ---
 

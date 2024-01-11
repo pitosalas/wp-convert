@@ -1,8 +1,6 @@
 ---
 title: "[JAVAONE] Visiting the Java tribe"
 author: Pito Salas
-
-
 date: 2004-06-28T22:24:08
 ---
 

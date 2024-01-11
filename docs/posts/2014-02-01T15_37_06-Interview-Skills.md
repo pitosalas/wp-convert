@@ -1,8 +1,6 @@
 ---
 title: "Interview Skills"
 author: Pito Salas
-
-
 date: 2014-02-01T15:37:06
 tags:
     - careers

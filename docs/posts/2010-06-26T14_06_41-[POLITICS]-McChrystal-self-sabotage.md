@@ -1,8 +1,6 @@
 ---
 title: "[POLITICS] McChrystal self-sabotage"
 author: Pito Salas
-
-
 date: 2010-06-26T14:06:41
 ---
 

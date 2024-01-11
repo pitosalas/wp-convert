@@ -1,8 +1,6 @@
 ---
 title: "Book of Pop!Tech: Clock of the Long Now"
 author: Pito Salas
-
-
 date: 2006-11-01T02:43:14
 ---
 

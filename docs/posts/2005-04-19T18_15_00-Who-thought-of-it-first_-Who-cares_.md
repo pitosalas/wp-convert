@@ -1,8 +1,6 @@
 ---
 title: "Who thought of it first? Who cares?"
 author: Pito Salas
-
-
 date: 2005-04-19T18:15:00
 ---
 

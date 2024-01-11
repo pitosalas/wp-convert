@@ -1,8 +1,6 @@
 ---
 title: "How Entrepreneurs Come Up With Great Ideas - WSJ.com"
-author: Pito Salas
-url: "http://online.wsj.com/article/SB10001424127887324445904578283792526004684.html?mod=e2tw" 
-cover: "https://s.wsj.net/public/resources/images/SM-AA742_SMCOVE_F_20130425133823.jpg" 
+author: Pito Salasurl: "http://online.wsj.com/article/SB10001424127887324445904578283792526004684.html?mod=e2tw" cover: "https://s.wsj.net/public/resources/images/SM-AA742_SMCOVE_F_20130425133823.jpg" 
 date: 2021-04-06 13:40:23
 tags:
     - entrepreneurs-entrepreneurship-wsj

@@ -1,8 +1,6 @@
 ---
 title: "[STERN INSIDE BASEBALL] Wild day on Howard Stern show"
 author: Pito Salas
-
-
 date: 2007-05-25T01:45:31
 ---
 

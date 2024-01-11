@@ -1,8 +1,6 @@
 ---
 title: "Packages at side door"
 author: Pito Salas
-
-
 date: 2011-12-21T00:31:35
 tags:
     - christmas

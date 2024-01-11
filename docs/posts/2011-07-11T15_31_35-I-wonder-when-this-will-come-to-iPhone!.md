@@ -1,8 +1,6 @@
 ---
 title: "I wonder when this will come to iPhone!"
 author: Pito Salas
-
-
 date: 2011-07-11T15:31:35
 tags:
     - android

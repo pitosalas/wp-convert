@@ -1,8 +1,6 @@
 ---
 title: "Interesting links I found today 04/01/2018"
 author: Pito Salas
-
-
 date: 2018-04-01T11:38:41
 ---
 

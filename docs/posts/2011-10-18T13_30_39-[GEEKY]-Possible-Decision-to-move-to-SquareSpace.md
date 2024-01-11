@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Possible Decision to move to SquareSpace"
 author: Pito Salas
-
-
 date: 2011-10-18T13:30:39
 tags:
     - squarespace

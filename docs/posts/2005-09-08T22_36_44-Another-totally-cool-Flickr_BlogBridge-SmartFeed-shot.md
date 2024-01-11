@@ -1,8 +1,6 @@
 ---
 title: "Another totally cool Flickr/BlogBridge SmartFeed shot"
 author: Pito Salas
-
-
 date: 2005-09-08T22:36:44
 ---
 

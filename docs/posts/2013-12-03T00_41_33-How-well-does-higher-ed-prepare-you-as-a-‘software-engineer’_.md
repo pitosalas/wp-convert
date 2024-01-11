@@ -1,8 +1,6 @@
 ---
 title: "How well does higher ed prepare you as a ‘software engineer’?"
 author: Pito Salas
-
-
 date: 2013-12-03T00:41:33
 ---
 

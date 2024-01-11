@@ -1,8 +1,6 @@
 ---
 title: "ServoCity – Servos, Actobotics, Gears, Motors and More!"
 author: Pito Salas
-
-
 date: 2022-01-11T08:31:43
 ---
 

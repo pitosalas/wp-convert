@@ -1,8 +1,6 @@
 ---
 title: "[geeky] Google Groups missing key functionality"
 author: Pito Salas
-
-
 date: 2007-09-21T06:31:30
 ---
 

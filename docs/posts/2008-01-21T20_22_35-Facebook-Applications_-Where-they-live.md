@@ -1,8 +1,6 @@
 ---
 title: "Facebook Applications: Where they live"
 author: Pito Salas
-
-
 date: 2008-01-21T20:22:35
 ---
 

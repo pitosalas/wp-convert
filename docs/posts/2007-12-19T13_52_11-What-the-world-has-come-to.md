@@ -1,8 +1,6 @@
 ---
 title: "What the world has come to"
 author: Pito Salas
-
-
 date: 2007-12-19T13:52:11
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Rails initializers you don’t know about – Inflections"
 author: Pito Salas
-
-
 date: 2023-02-17T13:01:42
 tags:
     - explainer

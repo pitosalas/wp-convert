@@ -1,8 +1,6 @@
 ---
 title: "Some newly minted grads create their own jobs — and companies - Business - The Boston Globe"
-author: Pito Salas
-url: "http://www.bostonglobe.com/business/2013/04/27/some-newly-minted-grads-create-their-own-jobs-and-companies/hVQXRg7iCquq4A7gO5R58H/story.html?s_campaign=sm_tw" 
-cover: "https://www.bostonglobe.com/pf/resources/images/logo-bg.jpg?d=260" 
+author: Pito Salasurl: "http://www.bostonglobe.com/business/2013/04/27/some-newly-minted-grads-create-their-own-jobs-and-companies/hVQXRg7iCquq4A7gO5R58H/story.html?s_campaign=sm_tw" cover: "https://www.bostonglobe.com/pf/resources/images/logo-bg.jpg?d=260" 
 date: 2021-04-06 13:40:23
 tags:
     - entrepreneurship

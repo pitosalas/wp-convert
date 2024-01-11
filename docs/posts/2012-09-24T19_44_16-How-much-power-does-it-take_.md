@@ -1,8 +1,6 @@
 ---
 title: "How much power does it take?"
 author: Pito Salas
-
-
 date: 2012-09-24T19:44:16
 tags:
     - cloud

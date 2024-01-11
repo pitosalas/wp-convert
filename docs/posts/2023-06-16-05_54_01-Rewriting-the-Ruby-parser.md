@@ -1,8 +1,6 @@
 ---
 title: "Rewriting the Ruby parser"
-author: Pito Salas
-url: "https://railsatscale.com/2023-06-12-rewriting-the-ruby-parser/" 
-cover: "https://railsatscale.com/2023-06-12-rewriting-the-ruby-parser/error-tolerance.png" 
+author: Pito Salasurl: "https://railsatscale.com/2023-06-12-rewriting-the-ruby-parser/" cover: "https://railsatscale.com/2023-06-12-rewriting-the-ruby-parser/error-tolerance.png" 
 date: 2023-06-16 05:54:01
 tags:
     - ruby-parser-yarp-explainer

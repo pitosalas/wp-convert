@@ -1,8 +1,6 @@
 ---
 title: "Russ McMullin's Scratchboard Tutorial"
-author: Pito Salas
-url: "http://www.scratchboard.org/russhowto/index.html" 
-cover: "https://scratchboard.org/wp-content/uploads/2015/04/scratchboard-blade-shapes.png?w=640" 
+author: Pito Salasurl: "http://www.scratchboard.org/russhowto/index.html" cover: "https://scratchboard.org/wp-content/uploads/2015/04/scratchboard-blade-shapes.png?w=640" 
 date: 2021-04-06 13:40:22
 tags:
     - Weather

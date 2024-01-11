@@ -1,8 +1,6 @@
 ---
 title: "A closer look at Acorn, our open source precision farming rover - Research Blog - Twisted Fields community"
-author: Pito Salas
-url: "https://community.twistedfields.com/t/a-closer-look-at-acorn-our-open-source-precision-farming-rover/108" 
-cover: "https://community.twistedfields.com/uploads/default/original/1X/6fc1d04a314e1f2faa27f898e7059cd3afabb05f.jpeg" 
+author: Pito Salasurl: "https://community.twistedfields.com/t/a-closer-look-at-acorn-our-open-source-precision-farming-rover/108" cover: "https://community.twistedfields.com/uploads/default/original/1X/6fc1d04a314e1f2faa27f898e7059cd3afabb05f.jpeg" 
 date: 2022-12-29 01:20:56
 tags:
     - robots-farming-acorn-open-source

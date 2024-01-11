@@ -1,8 +1,6 @@
 ---
 title: "Paul Simon’s Graceland Album: the back story"
 author: Pito Salas
-
-
 date: 2009-04-07T16:03:28
 tags:
     - graceland

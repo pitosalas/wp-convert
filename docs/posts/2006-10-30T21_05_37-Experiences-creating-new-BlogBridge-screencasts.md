@@ -1,8 +1,6 @@
 ---
 title: "Experiences creating new BlogBridge screencasts"
 author: Pito Salas
-
-
 date: 2006-10-30T21:05:37
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Fun movie and TV fonts"
 author: Pito Salas
-
-
 date: 2006-04-19T21:01:50
 ---
 

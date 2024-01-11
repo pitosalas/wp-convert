@@ -1,8 +1,6 @@
 ---
 title: "mySociety are doing  interesting stuff in the public arena"
 author: Pito Salas
-
-
 date: 2009-02-19T20:51:07
 ---
 

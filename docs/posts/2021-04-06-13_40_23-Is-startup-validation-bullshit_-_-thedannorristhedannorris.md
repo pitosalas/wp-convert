@@ -1,8 +1,6 @@
 ---
 title: "Is startup validation bullshit? | thedannorristhedannorris"
-author: Pito Salas
-url: "http://thedannorris.com/is-startup-validation-bullshit?inf_contact_key=faad23147b634d5d9de0739198a0cdeb902b7d9130ecff2014f45a9183714451" 
-cover: "" 
+author: Pito Salasurl: "http://thedannorris.com/is-startup-validation-bullshit?inf_contact_key=faad23147b634d5d9de0739198a0cdeb902b7d9130ecff2014f45a9183714451" cover: "" 
 date: 2021-04-06 13:40:23
 tags:
     - startup-leanstartup

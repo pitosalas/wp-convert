@@ -1,8 +1,6 @@
 ---
 title: "codercom/code-server"
-author: Pito Salas
-url: "https://github.com/codercom/code-server" 
-cover: "https://repository-images.githubusercontent.com/172953845/2c71c680-3ec7-11eb-8592-bf0d23901e97" 
+author: Pito Salasurl: "https://github.com/codercom/code-server" cover: "https://repository-images.githubusercontent.com/172953845/2c71c680-3ec7-11eb-8592-bf0d23901e97" 
 date: 2021-04-06 13:40:22
 tags:
     - vscode-tips-cloud

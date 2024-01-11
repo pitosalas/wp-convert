@@ -1,8 +1,6 @@
 ---
 title: "Great Read: Angels and Demons – Dan Brown"
 author: Pito Salas
-
-
 date: 2004-04-27T21:41:21
 ---
 

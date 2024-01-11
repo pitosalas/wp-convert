@@ -1,8 +1,6 @@
 ---
 title: "Game Design talk by Jesse Schell"
 author: Pito Salas
-
-
 date: 2011-09-10T01:05:39
 tags:
     - games

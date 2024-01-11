@@ -1,8 +1,6 @@
 ---
 title: "[GEEKY] Weakness in Mac OS X Software Update"
 author: Pito Salas
-
-
 date: 2007-10-15T05:32:30
 ---
 

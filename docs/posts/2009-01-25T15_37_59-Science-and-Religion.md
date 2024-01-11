@@ -1,8 +1,6 @@
 ---
 title: "Science and Religion"
 author: Pito Salas
-
-
 date: 2009-01-25T15:37:59
 tags:
     - magazines

@@ -1,8 +1,6 @@
 ---
 title: "More than Charisma"
 author: Pito Salas
-
-
 date: 2009-01-24T15:33:57
 tags:
     - childish

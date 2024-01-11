@@ -1,8 +1,6 @@
 ---
 title: "[Geeky] RubyConf Summary (updated 2)"
 author: Pito Salas
-
-
 date: 2010-11-15T18:09:24
 tags:
     - code

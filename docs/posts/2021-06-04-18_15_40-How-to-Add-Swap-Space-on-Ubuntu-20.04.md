@@ -1,8 +1,6 @@
 ---
 title: "How to Add Swap Space on Ubuntu 20.04"
-author: Pito Salas
-url: "https://linuxize.com/post/how-to-add-swap-space-on-ubuntu-20-04/" 
-cover: "https://linuxize.com/post/how-to-add-swap-space-on-ubuntu-20-04/featured.jpg" 
+author: Pito Salasurl: "https://linuxize.com/post/how-to-add-swap-space-on-ubuntu-20-04/" cover: "https://linuxize.com/post/how-to-add-swap-space-on-ubuntu-20-04/featured.jpg" 
 date: 2021-06-04 18:15:40
 tags:
     - swap-ubuntu-howto-raspi

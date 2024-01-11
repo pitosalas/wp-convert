@@ -1,8 +1,6 @@
 ---
 title: "Preparation needed"
 author: Pito Salas
-
-
 date: 2011-07-15T13:32:00
 tags:
     - college

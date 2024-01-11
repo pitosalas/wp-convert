@@ -1,8 +1,6 @@
 ---
 title: "30+ Must-Have Updated Firefox 3 Extensions"
 author: Pito Salas
-
-
 date: 2009-01-07T14:00:03
 tags:
     - firefox

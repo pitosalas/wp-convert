@@ -1,8 +1,6 @@
 ---
 title: "College for America"
-author: Pito Salas
-url: "http://collegeforamerica.org" 
-cover: "https://www.snhu.edu/-/media/images/logos/logo-abbr.ashx" 
+author: Pito Salasurl: "http://collegeforamerica.org" cover: "https://www.snhu.edu/-/media/images/logos/logo-abbr.ashx" 
 date: 2021-04-06 13:40:23
 tags:
     - college-education-education20

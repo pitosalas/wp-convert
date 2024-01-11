@@ -1,8 +1,6 @@
 ---
 title: "Bush on TV, quoting two blogs"
 author: Pito Salas
-
-
 date: 2007-03-28T14:49:25
 ---
 

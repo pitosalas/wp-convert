@@ -1,8 +1,6 @@
 ---
 title: "Google API -> Open Standard"
 author: Pito Salas
-
-
 date: 2005-11-03T00:18:30
 ---
 

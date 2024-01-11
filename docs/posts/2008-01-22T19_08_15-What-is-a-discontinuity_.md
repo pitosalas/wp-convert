@@ -1,8 +1,6 @@
 ---
 title: "What is a discontinuity?"
 author: Pito Salas
-
-
 date: 2008-01-22T19:08:15
 ---
 

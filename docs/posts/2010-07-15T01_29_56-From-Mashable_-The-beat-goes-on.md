@@ -1,8 +1,6 @@
 ---
 title: "From Mashable: The beat goes on"
 author: Pito Salas
-
-
 date: 2010-07-15T01:29:56
 ---
 

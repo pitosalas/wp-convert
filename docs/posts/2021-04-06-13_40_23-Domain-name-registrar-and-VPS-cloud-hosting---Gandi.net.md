@@ -1,8 +1,6 @@
 ---
 title: "Domain name registrar and VPS cloud hosting - Gandi.net"
-author: Pito Salas
-url: "https://www.gandi.net" 
-cover: "https://www.gandi.net/static/images/social/gandi_socials_opengraphs_twitter_HOME.fa5c1dbcdc3d.jpg" 
+author: Pito Salasurl: "https://www.gandi.net" cover: "https://www.gandi.net/static/images/social/gandi_socials_opengraphs_twitter_HOME.fa5c1dbcdc3d.jpg" 
 date: 2021-04-06 13:40:23
 tags:
     - domain-registrar-dns-Hosting-domains-registration

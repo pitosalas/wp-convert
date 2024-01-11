@@ -1,8 +1,6 @@
 ---
 title: "GitHub – gregmolnar/prepper: Prepper is a simple server provisioning tool, built on top of SSHKit. You can use it to script your server build process."
 author: Pito Salas
-
-
 date: 2022-12-23T14:02:21
 tags:
     - automation

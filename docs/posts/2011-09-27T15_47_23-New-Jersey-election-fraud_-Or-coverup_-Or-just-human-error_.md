@@ -1,8 +1,6 @@
 ---
 title: "New Jersey election fraud? Or coverup? Or just human error?"
 author: Pito Salas
-
-
 date: 2011-09-27T15:47:23
 tags:
     - coverup

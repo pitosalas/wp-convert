@@ -1,8 +1,6 @@
 ---
 title: "Back Channels May Add, But They Also Subtract"
 author: Pito Salas
-
-
 date: 2008-05-13T12:35:49
 ---
 

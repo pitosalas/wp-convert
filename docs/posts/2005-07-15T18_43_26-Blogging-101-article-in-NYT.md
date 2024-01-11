@@ -1,8 +1,6 @@
 ---
 title: "Blogging 101 article in NYT"
 author: Pito Salas
-
-
 date: 2005-07-15T18:43:26
 ---
 

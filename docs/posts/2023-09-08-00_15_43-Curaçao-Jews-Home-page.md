@@ -1,8 +1,6 @@
 ---
 title: "Curaçao Jews Home page"
-author: Pito Salas
-url: "https://curacaojews.org" 
-cover: "https://rdl.ink/render/https%3A%2F%2Fcuracaojews.org" 
+author: Pito Salasurl: "https://curacaojews.org" cover: "https://rdl.ink/render/https%3A%2F%2Fcuracaojews.org" 
 date: 2023-09-08 00:15:43
 tags:
     - curacao-jews-snoa-jewish-history

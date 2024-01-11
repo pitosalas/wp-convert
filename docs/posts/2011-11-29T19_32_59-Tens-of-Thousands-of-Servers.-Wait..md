@@ -1,8 +1,6 @@
 ---
 title: "Tens of Thousands of Servers. Wait."
 author: Pito Salas
-
-
 date: 2011-11-29T19:32:59
 tags:
     - facebook

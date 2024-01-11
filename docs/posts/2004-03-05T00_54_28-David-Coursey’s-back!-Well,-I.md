@@ -1,8 +1,6 @@
 ---
 title: "David Coursey’s back! Well, I"
 author: Pito Salas
-
-
 date: 2004-03-05T00:54:28
 ---
 

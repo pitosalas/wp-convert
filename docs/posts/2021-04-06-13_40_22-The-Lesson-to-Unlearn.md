@@ -1,8 +1,6 @@
 ---
 title: "The Lesson to Unlearn"
-author: Pito Salas
-url: "http://paulgraham.com/lesson.html" 
-cover: "https://rdl.ink/render/http%3A%2F%2Fpaulgraham.com%2Flesson.html" 
+author: Pito Salasurl: "http://paulgraham.com/lesson.html" cover: "https://rdl.ink/render/http%3A%2F%2Fpaulgraham.com%2Flesson.html" 
 date: 2021-04-06 13:40:22
 tags:
     - paulgraham-grades-university-students-gpa

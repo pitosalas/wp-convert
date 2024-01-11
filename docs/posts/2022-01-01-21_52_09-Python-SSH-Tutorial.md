@@ -1,8 +1,6 @@
 ---
 title: "Python SSH Tutorial"
-author: Pito Salas
-url: "https://www.devdungeon.com/content/python-ssh-tutorial" 
-cover: "https://www.devdungeon.com/sites/default/static/devdungeon500x500.png" 
+author: Pito Salasurl: "https://www.devdungeon.com/content/python-ssh-tutorial" cover: "https://www.devdungeon.com/sites/default/static/devdungeon500x500.png" 
 date: 2022-01-01 21:52:09
 tags:
     - paramiko-tutorial-howto-ssh-python

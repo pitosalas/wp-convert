@@ -1,8 +1,6 @@
 ---
 title: "Watch out for fake 3d party charges on your phone bill"
 author: Pito Salas
-
-
 date: 2011-11-23T20:14:37
 tags:
     - bills

@@ -1,8 +1,6 @@
 ---
 title: "If you are interested in Microsoft"
 author: Pito Salas
-
-
 date: 2006-04-22T15:55:43
 ---
 

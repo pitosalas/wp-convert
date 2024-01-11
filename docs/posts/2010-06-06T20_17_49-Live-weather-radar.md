@@ -1,8 +1,6 @@
 ---
 title: "Live weather radar"
 author: Pito Salas
-
-
 date: 2010-06-06T20:17:49
 ---
 

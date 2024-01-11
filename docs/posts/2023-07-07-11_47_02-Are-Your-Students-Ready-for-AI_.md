@@ -1,8 +1,6 @@
 ---
 title: "Are Your Students Ready for AI?"
-author: Pito Salas
-url: "https://hbsp.harvard.edu/inspiring-minds/are-your-students-ready-for-ai" 
-cover: "https://images.ctfassets.net/pdakd7vx2wgl/6erhckeVErkkw51aasqZWC/9057646b391f2b6158a54cc20d579779/1200x630_social__1_.png" 
+author: Pito Salasurl: "https://hbsp.harvard.edu/inspiring-minds/are-your-students-ready-for-ai" cover: "https://images.ctfassets.net/pdakd7vx2wgl/6erhckeVErkkw51aasqZWC/9057646b391f2b6158a54cc20d579779/1200x630_social__1_.png" 
 date: 2023-07-07 11:47:02
 tags:
     - ChatGPT-opinion-explainer-teaching

@@ -1,8 +1,6 @@
 ---
 title: "Support Club Passim in Harvard Square!!!"
 author: Pito Salas
-
-
 date: 2008-12-19T17:26:49
 ---
 

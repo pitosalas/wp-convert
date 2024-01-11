@@ -1,8 +1,6 @@
 ---
 title: "WigWag - Home automation"
-author: Pito Salas
-url: "http://www.wigwag.com" 
-cover: "https://pelion.com/wp-content/uploads/2020/11/Data-centre.jpg" 
+author: Pito Salasurl: "http://www.wigwag.com" cover: "https://pelion.com/wp-content/uploads/2020/11/Data-centre.jpg" 
 date: 2021-04-06 13:40:23
 tags:
     - automation-iphone

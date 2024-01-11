@@ -1,8 +1,6 @@
 ---
 title: "Bubble Bubble Sign Of Trouble"
 author: Pito Salas
-
-
 date: 2010-12-04T12:19:41
 tags:
     - bubble

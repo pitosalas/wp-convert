@@ -1,8 +1,6 @@
 ---
 title: "Silly/Funny YouTube"
 author: Pito Salas
-
-
 date: 2007-12-12T14:01:03
 ---
 

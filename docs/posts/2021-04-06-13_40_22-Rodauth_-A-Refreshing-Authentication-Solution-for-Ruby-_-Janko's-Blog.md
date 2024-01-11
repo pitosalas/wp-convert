@@ -1,8 +1,6 @@
 ---
 title: "Rodauth: A Refreshing Authentication Solution for Ruby | Janko's Blog"
-author: Pito Salas
-url: "https://janko.io/rodauth-a-refreshing-authentication-solution-for-ruby" 
-cover: "https://rdl.ink/render/https%3A%2F%2Fjanko.io%2Frodauth-a-refreshing-authentication-solution-for-ruby" 
+author: Pito Salasurl: "https://janko.io/rodauth-a-refreshing-authentication-solution-for-ruby" cover: "https://rdl.ink/render/https%3A%2F%2Fjanko.io%2Frodauth-a-refreshing-authentication-solution-for-ruby" 
 date: 2021-04-06 13:40:22
 tags:
     - howto-roda-authentication-ruby

@@ -1,8 +1,6 @@
 ---
 title: "Another fascinating post from Scott Adams"
 author: Pito Salas
-
-
 date: 2007-01-22T15:24:35
 ---
 

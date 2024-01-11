@@ -1,8 +1,6 @@
 ---
 title: "BlogBridge Major architectural progress"
 author: Pito Salas
-
-
 date: 2004-03-11T16:45:22
 ---
 

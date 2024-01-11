@@ -1,8 +1,6 @@
 ---
 title: "Temporary phone numbers and eBay"
 author: Pito Salas
-
-
 date: 2007-10-02T21:40:11
 ---
 

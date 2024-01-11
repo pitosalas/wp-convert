@@ -1,8 +1,6 @@
 ---
 title: "Python Modules and Packages – An Introduction – Real Python"
-author: Pito Salas
-url: "https://realpython.com/python-modules-packages/" 
-cover: "https://files.realpython.com/media/Python-Modules-and-Packages-An-Introduction_Watermarked.20936240a94d.jpg" 
+author: Pito Salasurl: "https://realpython.com/python-modules-packages/" cover: "https://files.realpython.com/media/Python-Modules-and-Packages-An-Introduction_Watermarked.20936240a94d.jpg" 
 date: 2021-06-29 20:09:42
 tags:
     - python-packages-modularity-howto-modules

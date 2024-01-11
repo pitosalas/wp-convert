@@ -1,8 +1,6 @@
 ---
 title: "The Ultimate Guide to MERN Stack - DEV Community"
-author: Pito Salas
-url: "https://dev.to/itsnitinr/the-ultimate-guide-to-mern-stack-1051" 
-cover: "https://res.cloudinary.com/practicaldev/image/fetch/s--oB9b7JTI--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/ykjxdtadmyysn1vh62pw.png" 
+author: Pito Salasurl: "https://dev.to/itsnitinr/the-ultimate-guide-to-mern-stack-1051" cover: "https://res.cloudinary.com/practicaldev/image/fetch/s--oB9b7JTI--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/ykjxdtadmyysn1vh62pw.png" 
 date: 2021-04-06 13:40:22
 tags:
     - howto-web-mern-applications-JavaScript

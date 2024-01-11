@@ -1,8 +1,6 @@
 ---
 title: "Is desktop search over? 20 years late!"
 author: Pito Salas
-
-
 date: 2007-02-17T14:40:23
 ---
 

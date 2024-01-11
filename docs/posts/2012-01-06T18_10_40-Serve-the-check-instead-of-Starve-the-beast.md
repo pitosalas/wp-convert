@@ -1,8 +1,6 @@
 ---
 title: "Serve-the-check instead of Starve-the-beast"
 author: Pito Salas
-
-
 date: 2012-01-06T18:10:40
 tags:
     - conservative

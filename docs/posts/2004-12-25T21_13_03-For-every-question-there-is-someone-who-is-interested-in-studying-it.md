@@ -1,8 +1,6 @@
 ---
 title: "For every question there is someone who is interested in studying it"
 author: Pito Salas
-
-
 date: 2004-12-25T21:13:03
 ---
 

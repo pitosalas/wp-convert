@@ -1,8 +1,6 @@
 ---
 title: "Funny: Shit they say in Sillycon Valley"
 author: Pito Salas
-
-
 date: 2012-01-31T21:26:51
 tags:
     - funny

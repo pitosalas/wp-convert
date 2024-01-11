@@ -1,8 +1,6 @@
 ---
 title: "Introduction - Ruby Reference"
-author: Pito Salas
-url: "https://rubyreferences.github.io/rubyref" 
-cover: "https://rdl.ink/render/https%3A%2F%2Frubyreferences.github.io%2Frubyref" 
+author: Pito Salasurl: "https://rubyreferences.github.io/rubyref" cover: "https://rdl.ink/render/https%3A%2F%2Frubyreferences.github.io%2Frubyref" 
 date: 2021-04-06 13:40:22
 tags:
     - language-ruby-reference

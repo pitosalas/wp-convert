@@ -1,8 +1,6 @@
 ---
 title: "Cool iTunes trick"
 author: Pito Salas
-
-
 date: 2005-05-09T20:14:04
 ---
 

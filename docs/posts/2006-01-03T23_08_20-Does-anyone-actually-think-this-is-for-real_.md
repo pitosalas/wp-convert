@@ -1,8 +1,6 @@
 ---
 title: "Does anyone actually think this is for real?"
 author: Pito Salas
-
-
 date: 2006-01-03T23:08:20
 ---
 

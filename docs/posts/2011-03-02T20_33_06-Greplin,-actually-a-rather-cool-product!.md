@@ -1,8 +1,6 @@
 ---
 title: "Greplin, actually a rather cool product!"
 author: Pito Salas
-
-
 date: 2011-03-02T20:33:06
 tags:
     - greplin

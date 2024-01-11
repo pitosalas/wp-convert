@@ -1,8 +1,6 @@
 ---
 title: "How to Frame a Roof (with Pictures) – wikiHow"
 author: Pito Salas
-
-
 date: 2022-12-06T12:01:40
 tags:
     - howto

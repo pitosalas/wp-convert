@@ -1,8 +1,6 @@
 ---
 title: "I am my own PR agency"
 author: Pito Salas
-
-
 date: 2005-10-18T05:31:03
 ---
 

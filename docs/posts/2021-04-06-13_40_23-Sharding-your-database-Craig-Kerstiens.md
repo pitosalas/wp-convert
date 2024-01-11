@@ -1,8 +1,6 @@
 ---
 title: "Sharding your database Craig Kerstiens"
-author: Pito Salas
-url: "http://www.craigkerstiens.com/2012/11/30/sharding-your-database" 
-cover: "https://rdl.ink/render/http%3A%2F%2Fwww.craigkerstiens.com%2F2012%2F11%2F30%2Fsharding-your-database" 
+author: Pito Salasurl: "http://www.craigkerstiens.com/2012/11/30/sharding-your-database" cover: "https://rdl.ink/render/http%3A%2F%2Fwww.craigkerstiens.com%2F2012%2F11%2F30%2Fsharding-your-database" 
 date: 2021-04-06 13:40:23
 tags:
     - sharding-database

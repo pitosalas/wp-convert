@@ -1,8 +1,6 @@
 ---
 title: "We spend too much on silly litigation"
 author: Pito Salas
-
-
 date: 2012-07-12T13:52:37
 tags:
     - check

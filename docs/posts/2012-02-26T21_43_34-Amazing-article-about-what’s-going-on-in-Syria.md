@@ -1,8 +1,6 @@
 ---
 title: "Amazing article about what’s going on in Syria"
 author: Pito Salas
-
-
 date: 2012-02-26T21:43:34
 tags:
     - journalist

@@ -1,8 +1,6 @@
 ---
 title: "A beginners guide to thinking in SQL"
-author: Pito Salas
-url: "http://www.sohamkamani.com/blog/2016/07/07/a-beginners-guide-to-sql" 
-cover: "https://www.sohamkamani.com/logo.png" 
+author: Pito Salasurl: "http://www.sohamkamani.com/blog/2016/07/07/a-beginners-guide-to-sql" cover: "https://www.sohamkamani.com/logo.png" 
 date: 2021-04-06 13:40:22
 tags:
     - Software-Engineering

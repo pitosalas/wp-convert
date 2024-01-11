@@ -1,8 +1,6 @@
 ---
 title: "Dynamically calling functions in Python... Safely"
-author: Pito Salas
-url: "https://www.danielmorell.com/blog/dynamically-calling-functions-in-python-safely" 
-cover: "https://www.danielmorell.com/images/articles/daniel_morell_python_dynamic_functions.jpg" 
+author: Pito Salasurl: "https://www.danielmorell.com/blog/dynamically-calling-functions-in-python-safely" cover: "https://www.danielmorell.com/images/articles/daniel_morell_python_dynamic_functions.jpg" 
 date: 2022-06-29 00:04:20
 tags:
     - python-dynamic-functions-howto

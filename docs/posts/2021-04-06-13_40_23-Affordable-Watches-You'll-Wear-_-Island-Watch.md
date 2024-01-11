@@ -1,8 +1,6 @@
 ---
 title: "Affordable Watches You'll Wear | Island Watch"
-author: Pito Salas
-url: "https://www.longislandwatch.com" 
-cover: "https://rdl.ink/render/https%3A%2F%2Fwww.longislandwatch.com" 
+author: Pito Salasurl: "https://www.longislandwatch.com" cover: "https://rdl.ink/render/https%3A%2F%2Fwww.longislandwatch.com" 
 date: 2021-04-06 13:40:23
 tags:
     - watches-longisland

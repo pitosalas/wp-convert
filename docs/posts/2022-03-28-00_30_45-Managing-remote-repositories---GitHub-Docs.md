@@ -1,8 +1,6 @@
 ---
 title: "Managing remote repositories - GitHub Docs"
-author: Pito Salas
-url: "https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories" 
-cover: "https://github.githubassets.com/images/modules/open_graph/github-logo.png" 
+author: Pito Salasurl: "https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories" cover: "https://github.githubassets.com/images/modules/open_graph/github-logo.png" 
 date: 2022-03-28 00:30:45
 tags:
     - github-url-howto-ssh

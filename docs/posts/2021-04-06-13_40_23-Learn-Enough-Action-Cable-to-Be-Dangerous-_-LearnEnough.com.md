@@ -1,8 +1,6 @@
 ---
 title: "Learn Enough Action Cable to Be Dangerous | LearnEnough.com"
-author: Pito Salas
-url: "https://www.learnenough.com/action-cable-tutorial#sec-websockets_and_action_cable" 
-cover: "https://softcover.s3.amazonaws.com/636/learn_enough_action_cable/images/cover-web.png" 
+author: Pito Salasurl: "https://www.learnenough.com/action-cable-tutorial#sec-websockets_and_action_cable" cover: "https://softcover.s3.amazonaws.com/636/learn_enough_action_cable/images/cover-web.png" 
 date: 2021-04-06 13:40:23
 tags:
     - Software-Engineering

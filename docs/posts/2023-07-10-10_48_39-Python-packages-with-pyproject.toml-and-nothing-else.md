@@ -1,8 +1,6 @@
 ---
 title: "Python packages with pyproject.toml and nothing else"
-author: Pito Salas
-url: "https://til.simonwillison.net/python/pyproject" 
-cover: "https://s3.amazonaws.com/til.simonwillison.net/00cb52aab1488d26adfdaa7d69f4bf2c.jpg" 
+author: Pito Salasurl: "https://til.simonwillison.net/python/pyproject" cover: "https://s3.amazonaws.com/til.simonwillison.net/00cb52aab1488d26adfdaa7d69f4bf2c.jpg" 
 date: 2023-07-10 10:48:39
 tags:
     - python-packaging-explainer-programming-toml-poetry

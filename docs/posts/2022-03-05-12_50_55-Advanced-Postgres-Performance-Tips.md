@@ -1,8 +1,6 @@
 ---
 title: "Advanced Postgres Performance Tips"
-author: Pito Salas
-url: "https://thoughtbot.com/blog/advanced-postgres-performance-tips" 
-cover: "https://images.thoughtbot.com/blog-vellum-image-uploads/PbDCVAVRWCyg0dnx4KwC_PEV.png" 
+author: Pito Salasurl: "https://thoughtbot.com/blog/advanced-postgres-performance-tips" cover: "https://images.thoughtbot.com/blog-vellum-image-uploads/PbDCVAVRWCyg0dnx4KwC_PEV.png" 
 date: 2022-03-05 12:50:55
 tags:
     - postgres-performance-howto-tools-index-query

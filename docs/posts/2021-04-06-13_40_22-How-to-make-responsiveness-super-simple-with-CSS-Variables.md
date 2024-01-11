@@ -1,8 +1,6 @@
 ---
 title: "How to make responsiveness super simple with CSS Variables"
-author: Pito Salas
-url: "https://medium.freecodecamp.org/how-to-make-responsiveness-super-simple-with-css-variables-8c90ebf80d7f" 
-cover: "https://cdn-media-1.freecodecamp.org/images/1*tLQrkgJJhKV3YrzPxsVVFA.png" 
+author: Pito Salasurl: "https://medium.freecodecamp.org/how-to-make-responsiveness-super-simple-with-css-variables-8c90ebf80d7f" cover: "https://cdn-media-1.freecodecamp.org/images/1*tLQrkgJJhKV3YrzPxsVVFA.png" 
 date: 2021-04-06 13:40:22
 tags:
     - css

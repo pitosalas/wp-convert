@@ -1,8 +1,6 @@
 ---
 title: "The day I discovered vmtouch"
-author: Pito Salas
-url: "https://brunocalza.me/the-day-i-discoverd-vmtouch/" 
-cover: "https://rdl.ink/render/https%3A%2F%2Fbrunocalza.me%2Fthe-day-i-discoverd-vmtouch%2F" 
+author: Pito Salasurl: "https://brunocalza.me/the-day-i-discoverd-vmtouch/" cover: "https://rdl.ink/render/https%3A%2F%2Fbrunocalza.me%2Fthe-day-i-discoverd-vmtouch%2F" 
 date: 2023-02-05 13:26:43
 tags:
     - sqlite-performance-database-caching-scalability

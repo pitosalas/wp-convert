@@ -1,8 +1,6 @@
 ---
 title: "Java Programming Cheatsheet"
-author: Pito Salas
-url: "http://introcs.cs.princeton.edu/java/11cheatsheet" 
-cover: "https://rdl.ink/render/http%3A%2F%2Fintrocs.cs.princeton.edu%2Fjava%2F11cheatsheet" 
+author: Pito Salasurl: "http://introcs.cs.princeton.edu/java/11cheatsheet" cover: "https://rdl.ink/render/http%3A%2F%2Fintrocs.cs.princeton.edu%2Fjava%2F11cheatsheet" 
 date: 2021-04-06 13:40:22
 tags:
     - Java

@@ -1,8 +1,6 @@
 ---
 title: "Bash vs Zsh vs Fish | Zell Liew"
-author: Pito Salas
-url: "https://zellwk.com/blog/bash-zsh-fish/" 
-cover: "https://zellwk.com/images/zell/zell-profile-pic.jpg" 
+author: Pito Salasurl: "https://zellwk.com/blog/bash-zsh-fish/" cover: "https://zellwk.com/images/zell/zell-profile-pic.jpg" 
 date: 2021-05-02 11:30:53
 tags:
     - bash-fish-comare-shell

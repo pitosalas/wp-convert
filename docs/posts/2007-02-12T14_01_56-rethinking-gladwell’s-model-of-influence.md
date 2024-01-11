@@ -1,8 +1,6 @@
 ---
 title: "rethinking gladwell’s model of influence"
 author: Pito Salas
-
-
 date: 2007-02-12T14:01:56
 ---
 

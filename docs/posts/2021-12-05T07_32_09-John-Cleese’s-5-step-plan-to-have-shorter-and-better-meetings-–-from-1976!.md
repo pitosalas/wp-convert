@@ -1,8 +1,6 @@
 ---
 title: "John Cleese’s 5-step plan to have shorter and better meetings – from 1976!"
 author: Pito Salas
-
-
 date: 2021-12-05T07:32:09
 tags:
     - time

@@ -1,8 +1,6 @@
 ---
 title: "The best twenty Mac apps you’ve never heard of"
 author: Pito Salas
-
-
 date: 2007-01-07T22:56:57
 ---
 

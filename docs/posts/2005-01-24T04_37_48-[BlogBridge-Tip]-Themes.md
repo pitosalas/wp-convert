@@ -1,8 +1,6 @@
 ---
 title: "[BlogBridge Tip] Themes"
 author: Pito Salas
-
-
 date: 2005-01-24T04:37:48
 ---
 

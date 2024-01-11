@@ -1,8 +1,6 @@
 ---
 title: "roslocate – ROS Wiki"
 author: Pito Salas
-
-
 date: 2022-08-10T01:02:09
 tags:
     - coding

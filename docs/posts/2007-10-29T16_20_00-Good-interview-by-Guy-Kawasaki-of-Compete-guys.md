@@ -1,8 +1,6 @@
 ---
 title: "Good interview by Guy Kawasaki of Compete guys"
 author: Pito Salas
-
-
 date: 2007-10-29T16:20:00
 ---
 

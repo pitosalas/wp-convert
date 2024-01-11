@@ -1,8 +1,6 @@
 ---
 title: "Designed in California, Made in China"
 author: Pito Salas
-
-
 date: 2012-10-21T20:55:53
 tags:
     - apple

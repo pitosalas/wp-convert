@@ -1,8 +1,6 @@
 ---
 title: "More Long Now Clockery"
 author: Pito Salas
-
-
 date: 2006-11-03T01:17:03
 ---
 

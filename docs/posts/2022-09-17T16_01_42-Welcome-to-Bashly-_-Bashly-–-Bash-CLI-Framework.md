@@ -1,8 +1,6 @@
 ---
 title: "Welcome to Bashly | Bashly – Bash CLI Framework"
 author: Pito Salas
-
-
 date: 2022-09-17T16:01:42
 tags:
     - bash

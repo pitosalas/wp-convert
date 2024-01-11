@@ -1,8 +1,6 @@
 ---
 title: "BlogBridge tip: Send us Feedback"
 author: Pito Salas
-
-
 date: 2005-01-16T14:56:37
 ---
 

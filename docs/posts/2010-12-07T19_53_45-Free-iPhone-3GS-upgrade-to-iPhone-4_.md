@@ -1,8 +1,6 @@
 ---
 title: "Free iPhone 3GS upgrade to iPhone 4?"
 author: Pito Salas
-
-
 date: 2010-12-07T19:53:45
 tags:
     - apple

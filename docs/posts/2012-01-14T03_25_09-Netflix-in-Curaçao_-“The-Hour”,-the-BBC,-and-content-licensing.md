@@ -1,8 +1,6 @@
 ---
 title: "Netflix in Curaçao: “The Hour”, the BBC, and content licensing"
 author: Pito Salas
-
-
 date: 2012-01-14T03:25:09
 tags:
     - bbc

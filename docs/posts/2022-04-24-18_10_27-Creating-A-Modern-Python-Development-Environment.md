@@ -1,8 +1,6 @@
 ---
 title: "Creating A Modern Python Development Environment"
-author: Pito Salas
-url: "https://link.medium.com/JW0ZwTUGupb" 
-cover: "https://miro.medium.com/max/966/1*E6mawimDo0ztAtm1TMvXrw.png" 
+author: Pito Salasurl: "https://link.medium.com/JW0ZwTUGupb" cover: "https://miro.medium.com/max/966/1*E6mawimDo0ztAtm1TMvXrw.png" 
 date: 2022-04-24 18:10:27
 tags:
     - python-developer-configuration-power-tips-WiFi-howto

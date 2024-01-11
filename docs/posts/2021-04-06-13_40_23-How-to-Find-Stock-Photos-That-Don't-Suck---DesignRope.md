@@ -1,8 +1,6 @@
 ---
 title: "How to Find Stock Photos That Don't Suck - DesignRope"
-author: Pito Salas
-url: "http://designrope.com/design/find-stock-photos-dont-suck" 
-cover: "https://designrope.com/wp-content/uploads/2014/04/stock-photo-hero.jpg" 
+author: Pito Salasurl: "http://designrope.com/design/find-stock-photos-dont-suck" cover: "https://designrope.com/wp-content/uploads/2014/04/stock-photo-hero.jpg" 
 date: 2021-04-06 13:40:23
 tags:
     - photos-stock-design-photography

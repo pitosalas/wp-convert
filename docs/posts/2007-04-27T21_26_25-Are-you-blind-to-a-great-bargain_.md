@@ -1,8 +1,6 @@
 ---
 title: "Are you blind to a great bargain?"
 author: Pito Salas
-
-
 date: 2007-04-27T21:26:25
 ---
 

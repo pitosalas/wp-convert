@@ -1,8 +1,6 @@
 ---
 title: "BlogBridge Beta 2 is now available to play with"
 author: Pito Salas
-
-
 date: 2004-07-10T14:45:23
 ---
 

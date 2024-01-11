@@ -1,8 +1,6 @@
 ---
 title: "Too Many Toolbars!"
 author: Pito Salas
-
-
 date: 2004-10-12T03:35:43
 ---
 

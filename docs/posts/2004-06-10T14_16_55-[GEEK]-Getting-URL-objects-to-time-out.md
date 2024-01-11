@@ -1,8 +1,6 @@
 ---
 title: "[GEEK] Getting URL objects to time out"
 author: Pito Salas
-
-
 date: 2004-06-10T14:16:55
 ---
 

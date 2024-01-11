@@ -1,8 +1,6 @@
 ---
 title: "Demographically insensitive user interface"
 author: Pito Salas
-
-
 date: 2006-08-14T22:24:58
 ---
 

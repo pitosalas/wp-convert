@@ -1,8 +1,6 @@
 ---
 title: "Really interesting interview with Jonathan Schwartz"
 author: Pito Salas
-
-
 date: 2007-01-20T15:09:00
 ---
 

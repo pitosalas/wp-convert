@@ -1,8 +1,6 @@
 ---
 title: "Interesting article about Moocs and Higher Ed"
 author: Pito Salas
-
-
 date: 2013-08-22T15:28:53
 tags:
     - higher-education

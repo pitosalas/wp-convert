@@ -1,8 +1,6 @@
 ---
 title: "Artificial Intelligence (AI) for Computer Games - Home"
-author: Pito Salas
-url: "http://ai4games.sourceforge.net" 
-cover: "https://rdl.ink/render/http%3A%2F%2Fai4games.sourceforge.net" 
+author: Pito Salasurl: "http://ai4games.sourceforge.net" cover: "https://rdl.ink/render/http%3A%2F%2Fai4games.sourceforge.net" 
 date: 2021-04-06 13:40:22
 tags:
     - Design

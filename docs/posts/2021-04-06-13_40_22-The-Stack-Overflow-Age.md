@@ -1,8 +1,6 @@
 ---
 title: "The Stack Overflow Age"
-author: Pito Salas
-url: "https://www.joelonsoftware.com/2018/04/06/the-stack-overflow-age" 
-cover: "https://149366100.v2.pressablecdn.com/wp-content/uploads/2018/04/IMG_5567-225x300.jpg?w=144" 
+author: Pito Salasurl: "https://www.joelonsoftware.com/2018/04/06/the-stack-overflow-age" cover: "https://149366100.v2.pressablecdn.com/wp-content/uploads/2018/04/IMG_5567-225x300.jpg?w=144" 
 date: 2021-04-06 13:40:22
 tags:
     - stack-stackoverflow-software

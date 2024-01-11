@@ -1,8 +1,6 @@
 ---
 title: "TextMate and Ruby"
 author: Pito Salas
-
-
 date: 2007-08-20T20:35:15
 ---
 

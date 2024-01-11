@@ -1,8 +1,6 @@
 ---
 title: "Bring me different rocks"
 author: Pito Salas
-
-
 date: 2010-04-28T11:34:00
 ---
 

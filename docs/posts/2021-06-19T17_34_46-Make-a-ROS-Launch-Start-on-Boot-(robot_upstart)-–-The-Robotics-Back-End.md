@@ -1,8 +1,6 @@
 ---
 title: "Make a ROS Launch Start on Boot (robot_upstart) – The Robotics Back-End"
 author: Pito Salas
-
-
 date: 2021-06-19T17:34:46
 ---
 

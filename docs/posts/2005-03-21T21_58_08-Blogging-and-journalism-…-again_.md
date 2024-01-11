@@ -1,8 +1,6 @@
 ---
 title: "Blogging and journalism … again?"
 author: Pito Salas
-
-
 date: 2005-03-21T21:58:08
 ---
 

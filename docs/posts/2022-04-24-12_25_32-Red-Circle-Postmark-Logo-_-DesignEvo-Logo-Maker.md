@@ -1,8 +1,6 @@
 ---
 title: "Red Circle Postmark Logo | DesignEvo Logo Maker"
-author: Pito Salas
-url: "https://www.designevo.com/apps/logo/?name=red-circle-postmark" 
-cover: "https://rdl.ink/render/https%3A%2F%2Fwww.designevo.com%2Fapps%2Flogo%2F%3Fname%3Dred-circle-postmark" 
+author: Pito Salasurl: "https://www.designevo.com/apps/logo/?name=red-circle-postmark" cover: "https://rdl.ink/render/https%3A%2F%2Fwww.designevo.com%2Fapps%2Flogo%2F%3Fname%3Dred-circle-postmark" 
 date: 2022-04-24 12:25:32
 tags:
     - design-make-logo-graphics

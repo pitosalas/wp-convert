@@ -1,8 +1,6 @@
 ---
 title: "Richardson Maturity Model"
-author: Pito Salas
-url: "http://martinfowler.com/articles/richardsonMaturityModel.html" 
-cover: "https://martinfowler.com/articles/images/richardsonMaturityModel/overview.png" 
+author: Pito Salasurl: "http://martinfowler.com/articles/richardsonMaturityModel.html" cover: "https://martinfowler.com/articles/images/richardsonMaturityModel/overview.png" 
 date: 2021-04-06 13:40:22
 tags:
     - Software-Engineering

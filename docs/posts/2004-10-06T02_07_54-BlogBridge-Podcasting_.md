@@ -1,8 +1,6 @@
 ---
 title: "BlogBridge Podcasting?"
 author: Pito Salas
-
-
 date: 2004-10-06T02:07:54
 ---
 

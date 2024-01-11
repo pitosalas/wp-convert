@@ -1,8 +1,6 @@
 ---
 title: "Worth reading: The Trouble With Harvard!"
 author: Pito Salas
-
-
 date: 2014-09-09T12:23:34
 ---
 

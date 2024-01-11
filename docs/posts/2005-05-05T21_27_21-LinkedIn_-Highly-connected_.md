@@ -1,8 +1,6 @@
 ---
 title: "LinkedIn: Highly connected?"
 author: Pito Salas
-
-
 date: 2005-05-05T21:27:21
 ---
 

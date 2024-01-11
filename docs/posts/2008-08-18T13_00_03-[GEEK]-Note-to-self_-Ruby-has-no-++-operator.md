@@ -1,8 +1,6 @@
 ---
 title: "[GEEK] Note to self: Ruby has no ++ operator"
 author: Pito Salas
-
-
 date: 2008-08-18T13:00:03
 tags:
     - ruby-programming-geek

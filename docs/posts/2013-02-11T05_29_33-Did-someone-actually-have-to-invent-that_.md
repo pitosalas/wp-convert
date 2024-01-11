@@ -1,8 +1,6 @@
 ---
 title: "Did someone actually have to invent that?"
 author: Pito Salas
-
-
 date: 2013-02-11T05:29:33
 tags:
     - bell-labs

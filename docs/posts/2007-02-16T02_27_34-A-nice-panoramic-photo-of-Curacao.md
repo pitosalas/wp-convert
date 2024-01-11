@@ -1,8 +1,6 @@
 ---
 title: "A nice panoramic photo of Curacao"
 author: Pito Salas
-
-
 date: 2007-02-16T02:27:34
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "An Australian farm bigger than Texas. Really?"
 author: Pito Salas
-
-
 date: 2011-01-25T13:41:58
 tags:
     - australia

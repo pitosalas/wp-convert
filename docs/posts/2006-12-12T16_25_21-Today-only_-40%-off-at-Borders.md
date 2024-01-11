@@ -1,8 +1,6 @@
 ---
 title: "Today only: 40% off at Borders"
 author: Pito Salas
-
-
 date: 2006-12-12T16:25:21
 ---
 

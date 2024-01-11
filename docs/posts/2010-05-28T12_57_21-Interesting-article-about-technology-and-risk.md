@@ -1,8 +1,6 @@
 ---
 title: "Interesting article about technology and risk"
 author: Pito Salas
-
-
 date: 2010-05-28T12:57:21
 ---
 

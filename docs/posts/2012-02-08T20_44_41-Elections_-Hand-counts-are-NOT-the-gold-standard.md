@@ -1,8 +1,6 @@
 ---
 title: "Elections: Hand counts are NOT the gold standard"
 author: Pito Salas
-
-
 date: 2012-02-08T20:44:41
 tags:
     - ballots

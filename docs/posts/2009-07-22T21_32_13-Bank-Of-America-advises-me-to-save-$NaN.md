@@ -1,8 +1,6 @@
 ---
 title: "Bank Of America advises me to save $NaN"
 author: Pito Salas
-
-
 date: 2009-07-22T21:32:13
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Fair Use of Share-your-OPML?"
 author: Pito Salas
-
-
 date: 2004-05-21T14:03:57
 ---
 

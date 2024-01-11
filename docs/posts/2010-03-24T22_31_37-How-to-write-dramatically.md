@@ -1,8 +1,6 @@
 ---
 title: "How to write dramatically"
 author: Pito Salas
-
-
 date: 2010-03-24T22:31:37
 ---
 

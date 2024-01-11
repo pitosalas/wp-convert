@@ -1,8 +1,6 @@
 ---
 title: "An interesting video about design of Windows 7’s default desktop colors"
 author: Pito Salas
-
-
 date: 2009-12-07T15:32:38
 tags:
     - design

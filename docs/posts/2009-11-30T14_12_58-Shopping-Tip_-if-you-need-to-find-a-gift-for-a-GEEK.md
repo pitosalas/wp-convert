@@ -1,8 +1,6 @@
 ---
 title: "Shopping Tip: if you need to find a gift for a GEEK"
 author: Pito Salas
-
-
 date: 2009-11-30T14:12:58
 ---
 

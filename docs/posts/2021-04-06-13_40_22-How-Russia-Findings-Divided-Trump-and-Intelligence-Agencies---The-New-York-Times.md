@@ -1,8 +1,6 @@
 ---
 title: "How Russia Findings Divided Trump and Intelligence Agencies - The New York Times"
-author: Pito Salas
-url: "https://www.nytimes.com/2020/08/08/us/politics/trump-russia.html?action=click&module=Top+Stories&pgtype=Homepage" 
-cover: "https://static01.nyt.com/images/2020/08/07/multimedia/07xp-magazine-takeaways-pix1/07xp-magazine-takeaways-pix1-videoSixteenByNine3000.jpg" 
+author: Pito Salasurl: "https://www.nytimes.com/2020/08/08/us/politics/trump-russia.html?action=click&module=Top+Stories&pgtype=Homepage" cover: "https://static01.nyt.com/images/2020/08/07/multimedia/07xp-magazine-takeaways-pix1/07xp-magazine-takeaways-pix1-videoSixteenByNine3000.jpg" 
 date: 2021-04-06 13:40:22
 tags:
     - nyt-nytimes-russia-trump-intelligence

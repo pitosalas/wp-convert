@@ -1,8 +1,6 @@
 ---
 title: "Wikileaks, continued"
 author: Pito Salas
-
-
 date: 2010-12-14T22:04:32
 ---
 

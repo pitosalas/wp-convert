@@ -1,8 +1,6 @@
 ---
 title: "Exploding head scene"
 author: Pito Salas
-
-
 date: 2009-06-08T22:21:04
 ---
 

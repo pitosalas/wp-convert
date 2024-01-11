@@ -1,8 +1,6 @@
 ---
 title: "I wish I knew more JavaScript"
 author: Pito Salas
-
-
 date: 2012-01-02T04:27:34
 tags:
     - GEEKY

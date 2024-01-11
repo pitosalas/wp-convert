@@ -1,8 +1,6 @@
 ---
 title: "5 Questions to ask when deciding whether to rely on S3 et al"
 author: Pito Salas
-
-
 date: 2008-02-18T14:15:53
 ---
 

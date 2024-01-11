@@ -1,8 +1,6 @@
 ---
 title: "Testing network services in Ruby is easier than you think"
-author: Pito Salas
-url: "https://www.justinweiss.com/articles/testing-network-services-in-ruby/" 
-cover: "https://www.justinweiss.com/images/me-square.jpg" 
+author: Pito Salasurl: "https://www.justinweiss.com/articles/testing-network-services-in-ruby/" cover: "https://www.justinweiss.com/images/me-square.jpg" 
 date: 2022-03-04 12:53:06
 tags:
     - testing-doubles-ruby-network-soa-cosi105

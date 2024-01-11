@@ -1,8 +1,6 @@
 ---
 title: "GPS and Civil Liberties?"
 author: Pito Salas
-
-
 date: 2004-04-15T14:30:52
 ---
 

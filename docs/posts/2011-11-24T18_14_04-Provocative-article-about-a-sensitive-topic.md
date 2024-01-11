@@ -1,8 +1,6 @@
 ---
 title: "Provocative article about a sensitive topic"
 author: Pito Salas
-
-
 date: 2011-11-24T18:14:04
 tags:
     - entrepreneur

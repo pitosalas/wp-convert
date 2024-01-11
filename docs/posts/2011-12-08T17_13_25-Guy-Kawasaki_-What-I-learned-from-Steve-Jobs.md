@@ -1,8 +1,6 @@
 ---
 title: "Guy Kawasaki: What I learned from Steve Jobs"
 author: Pito Salas
-
-
 date: 2011-12-08T17:13:25
 tags:
     - guykawasaki

@@ -1,8 +1,6 @@
 ---
 title: "Product Showcase: SparkFun RTK Facet"
-author: Pito Salas
-url: "https://youtube.com/watch?v=-0vlPDOZx7A&feature=share" 
-cover: "https://i.ytimg.com/vi/-0vlPDOZx7A/mqdefault.jpg" 
+author: Pito Salasurl: "https://youtube.com/watch?v=-0vlPDOZx7A&feature=share" cover: "https://i.ytimg.com/vi/-0vlPDOZx7A/mqdefault.jpg" 
 date: 2021-12-18 12:39:21
 tags:
     - gps-rtk-sparkfun-robotics-hardware

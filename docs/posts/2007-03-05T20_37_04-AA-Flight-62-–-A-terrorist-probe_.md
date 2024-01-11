@@ -1,8 +1,6 @@
 ---
 title: "AA Flight 62 – A terrorist probe?"
 author: Pito Salas
-
-
 date: 2007-03-05T20:37:04
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Switcher’s Log, Part 5: Man does this machine scream."
 author: Pito Salas
-
-
 date: 2005-03-09T01:19:35
 ---
 

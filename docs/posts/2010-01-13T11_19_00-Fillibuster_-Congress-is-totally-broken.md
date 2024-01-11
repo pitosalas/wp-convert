@@ -1,8 +1,6 @@
 ---
 title: "Fillibuster: Congress is totally broken"
 author: Pito Salas
-
-
 date: 2010-01-13T11:19:00
 tags:
     - fillibuster

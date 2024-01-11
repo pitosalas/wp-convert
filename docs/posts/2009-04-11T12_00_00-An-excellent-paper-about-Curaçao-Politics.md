@@ -1,8 +1,6 @@
 ---
 title: "An excellent paper about Curaçao Politics"
 author: Pito Salas
-
-
 date: 2009-04-11T12:00:00
 tags:
     - constitution

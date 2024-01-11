@@ -1,8 +1,6 @@
 ---
 title: "Did you know how closely"
 author: Pito Salas
-
-
 date: 2004-02-04T17:31:03
 ---
 

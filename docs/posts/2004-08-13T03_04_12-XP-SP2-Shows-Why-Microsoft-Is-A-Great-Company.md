@@ -1,8 +1,6 @@
 ---
 title: "XP SP2 Shows Why Microsoft Is A Great Company"
 author: Pito Salas
-
-
 date: 2004-08-13T03:04:12
 ---
 

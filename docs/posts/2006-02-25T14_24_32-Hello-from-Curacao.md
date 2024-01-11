@@ -1,8 +1,6 @@
 ---
 title: "Hello from Curacao"
 author: Pito Salas
-
-
 date: 2006-02-25T14:24:32
 ---
 

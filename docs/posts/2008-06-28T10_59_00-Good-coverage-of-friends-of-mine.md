@@ -1,8 +1,6 @@
 ---
 title: "Good coverage of friends of mine"
 author: Pito Salas
-
-
 date: 2008-06-28T10:59:00
 ---
 

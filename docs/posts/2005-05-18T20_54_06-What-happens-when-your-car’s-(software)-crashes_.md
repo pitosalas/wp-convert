@@ -1,8 +1,6 @@
 ---
 title: "What happens when your car’s (software) crashes?"
 author: Pito Salas
-
-
 date: 2005-05-18T20:54:06
 ---
 

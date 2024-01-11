@@ -1,8 +1,6 @@
 ---
 title: "From Rails to Clojure, then to Java, then back to Rails - Engineering Management"
-author: Pito Salas
-url: "https://engineering-management.space/post/from-rails-to-clojure-to-java-to-rails" 
-cover: "https://engineering-management.space/img/rails-clojure-java-rails.png" 
+author: Pito Salasurl: "https://engineering-management.space/post/from-rails-to-clojure-to-java-to-rails" cover: "https://engineering-management.space/img/rails-clojure-java-rails.png" 
 date: 2021-04-06 13:40:22
 tags:
     - java-clojure-engineering-rails

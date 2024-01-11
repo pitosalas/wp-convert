@@ -1,8 +1,6 @@
 ---
 title: "Bolt Depot – Nuts and Bolts, Screws and Fasteners online"
 author: Pito Salas
-
-
 date: 2021-07-17T18:34:42
 tags:
     - shopping

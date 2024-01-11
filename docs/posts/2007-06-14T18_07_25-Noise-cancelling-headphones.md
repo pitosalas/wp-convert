@@ -1,8 +1,6 @@
 ---
 title: "Noise cancelling headphones"
 author: Pito Salas
-
-
 date: 2007-06-14T18:07:25
 ---
 

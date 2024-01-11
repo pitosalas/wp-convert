@@ -1,8 +1,6 @@
 ---
 title: "New BlogBridge Alpha"
 author: Pito Salas
-
-
 date: 2004-11-20T16:11:05
 ---
 

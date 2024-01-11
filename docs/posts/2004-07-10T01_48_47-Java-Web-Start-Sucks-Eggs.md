@@ -1,8 +1,6 @@
 ---
 title: "Java Web Start Sucks Eggs"
 author: Pito Salas
-
-
 date: 2004-07-10T01:48:47
 ---
 

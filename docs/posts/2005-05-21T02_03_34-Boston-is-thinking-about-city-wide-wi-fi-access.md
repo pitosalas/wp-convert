@@ -1,8 +1,6 @@
 ---
 title: "Boston is thinking about city-wide wi-fi access"
 author: Pito Salas
-
-
 date: 2005-05-21T02:03:34
 ---
 

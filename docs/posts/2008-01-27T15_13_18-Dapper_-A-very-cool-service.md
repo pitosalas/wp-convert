@@ -1,8 +1,6 @@
 ---
 title: "Dapper: A very cool service"
 author: Pito Salas
-
-
 date: 2008-01-27T15:13:18
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Jenny Holzer | MASS MoCA"
-author: Pito Salas
-url: "https://massmoca.org/jenny-holzer/" 
-cover: "https://massmoca.org/wp-content/uploads/2017/05/JH-MM-featured.gif" 
+author: Pito Salasurl: "https://massmoca.org/jenny-holzer/" cover: "https://massmoca.org/wp-content/uploads/2017/05/JH-MM-featured.gif" 
 date: 2021-10-03 19:44:46
 ---
 <img src=https://massmoca.org/wp-content/uploads/2017/05/JH-MM-featured.gif width="500">

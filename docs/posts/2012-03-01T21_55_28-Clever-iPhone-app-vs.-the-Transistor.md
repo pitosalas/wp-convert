@@ -1,8 +1,6 @@
 ---
 title: "Clever iPhone app vs. the Transistor"
 author: Pito Salas
-
-
 date: 2012-03-01T21:55:28
 tags:
     - apps

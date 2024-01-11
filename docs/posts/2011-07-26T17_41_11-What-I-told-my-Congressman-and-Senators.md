@@ -1,8 +1,6 @@
 ---
 title: "What I told my Congressman and Senators"
 author: Pito Salas
-
-
 date: 2011-07-26T17:41:11
 tags:
     - budget

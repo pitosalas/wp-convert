@@ -1,8 +1,6 @@
 ---
 title: "Quirky for Mobile Products?"
 author: Pito Salas
-
-
 date: 2011-08-27T14:01:08
 tags:
     - mobile

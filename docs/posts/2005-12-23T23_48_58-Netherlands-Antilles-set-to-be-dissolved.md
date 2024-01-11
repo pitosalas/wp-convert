@@ -1,8 +1,6 @@
 ---
 title: "Netherlands Antilles set to be dissolved"
 author: Pito Salas
-
-
 date: 2005-12-23T23:48:58
 ---
 

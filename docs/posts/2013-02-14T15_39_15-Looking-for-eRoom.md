@@ -1,8 +1,6 @@
 ---
 title: "Looking for eRoom"
 author: Pito Salas
-
-
 date: 2013-02-14T15:39:15
 tags:
     - documentum

@@ -1,8 +1,6 @@
 ---
 title: "[SEMI GEEKY] Blogs That Matter: really interesting"
 author: Pito Salas
-
-
 date: 2006-10-29T16:21:21
 ---
 

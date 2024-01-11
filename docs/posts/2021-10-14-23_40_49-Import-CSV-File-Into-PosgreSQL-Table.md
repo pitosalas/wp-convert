@@ -1,8 +1,6 @@
 ---
 title: "Import CSV File Into PosgreSQL Table"
-author: Pito Salas
-url: "https://www.postgresqltutorial.com/import-csv-file-into-posgresql-table/" 
-cover: "https://rdl.ink/render/https%3A%2F%2Fwww.postgresqltutorial.com%2Fimport-csv-file-into-posgresql-table%2F" 
+author: Pito Salasurl: "https://www.postgresqltutorial.com/import-csv-file-into-posgresql-table/" cover: "https://rdl.ink/render/https%3A%2F%2Fwww.postgresqltutorial.com%2Fimport-csv-file-into-posgresql-table%2F" 
 date: 2021-10-14 23:40:49
 tags:
     - csv-data-database

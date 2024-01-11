@@ -1,8 +1,6 @@
 ---
 title: "Why SOA Should Be Viewed As “Dependency-Oriented Thinking”"
-author: Pito Salas
-url: "https://www.infoq.com/articles/dependency-oriented-thinking-1" 
-cover: "https://res.infoq.com/articles/dependency-oriented-thinking-1/en/smallimage/logo2.jpg" 
+author: Pito Salasurl: "https://www.infoq.com/articles/dependency-oriented-thinking-1" cover: "https://res.infoq.com/articles/dependency-oriented-thinking-1/en/smallimage/logo2.jpg" 
 date: 2021-04-06 13:40:23
 tags:
     - soa-rest-dependencies-services-online-therapy

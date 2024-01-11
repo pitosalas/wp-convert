@@ -1,8 +1,6 @@
 ---
 title: "how hector slam works – Google Search"
 author: Pito Salas
-
-
 date: 2022-03-11T12:31:22
 ---
 

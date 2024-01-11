@@ -1,8 +1,6 @@
 ---
 title: "Ever hear of teratomas?"
 author: Pito Salas
-
-
 date: 2008-11-18T13:05:56
 ---
 

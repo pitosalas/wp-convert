@@ -1,8 +1,6 @@
 ---
 title: "I fear for the gullible user"
 author: Pito Salas
-
-
 date: 2007-02-14T15:31:17
 ---
 

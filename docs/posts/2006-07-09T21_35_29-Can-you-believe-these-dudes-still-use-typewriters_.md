@@ -1,8 +1,6 @@
 ---
 title: "Can you believe these dudes still use typewriters?"
 author: Pito Salas
-
-
 date: 2006-07-09T21:35:29
 ---
 

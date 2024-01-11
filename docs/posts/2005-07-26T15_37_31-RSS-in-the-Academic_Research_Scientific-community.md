@@ -1,8 +1,6 @@
 ---
 title: "RSS in the Academic/Research/Scientific community"
 author: Pito Salas
-
-
 date: 2005-07-26T15:37:31
 ---
 

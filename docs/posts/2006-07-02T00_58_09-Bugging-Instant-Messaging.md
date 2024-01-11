@@ -1,8 +1,6 @@
 ---
 title: "Bugging Instant Messaging"
 author: Pito Salas
-
-
 date: 2006-07-02T00:58:09
 ---
 

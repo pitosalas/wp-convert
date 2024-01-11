@@ -1,8 +1,6 @@
 ---
 title: "Good article about software design"
 author: Pito Salas
-
-
 date: 2005-06-04T14:32:21
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "AAPL: Short or Long?"
 author: Pito Salas
-
-
 date: 2007-06-22T20:46:26
 ---
 

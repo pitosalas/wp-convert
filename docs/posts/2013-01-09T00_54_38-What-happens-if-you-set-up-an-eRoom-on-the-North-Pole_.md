@@ -1,8 +1,6 @@
 ---
 title: "What happens if you set up an eRoom on the North Pole?"
 author: Pito Salas
-
-
 date: 2013-01-09T00:54:38
 tags:
     - eroom

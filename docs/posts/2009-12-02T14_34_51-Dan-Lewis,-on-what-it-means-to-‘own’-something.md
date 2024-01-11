@@ -1,8 +1,6 @@
 ---
 title: "Dan Lewis, on what it means to ‘own’ something"
 author: Pito Salas
-
-
 date: 2009-12-02T14:34:51
 tags:
     - books

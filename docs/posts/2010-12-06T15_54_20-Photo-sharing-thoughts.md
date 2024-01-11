@@ -1,8 +1,6 @@
 ---
 title: "Photo sharing thoughts"
 author: Pito Salas
-
-
 date: 2010-12-06T15:54:20
 tags:
     - facebook

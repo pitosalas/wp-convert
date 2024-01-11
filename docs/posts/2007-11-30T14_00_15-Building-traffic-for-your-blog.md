@@ -1,8 +1,6 @@
 ---
 title: "Building traffic for your blog"
 author: Pito Salas
-
-
 date: 2007-11-30T14:00:15
 ---
 

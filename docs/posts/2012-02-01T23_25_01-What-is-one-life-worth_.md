@@ -1,8 +1,6 @@
 ---
 title: "What is one life worth?"
 author: Pito Salas
-
-
 date: 2012-02-01T23:25:01
 tags:
     - insurance

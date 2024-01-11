@@ -1,8 +1,6 @@
 ---
 title: "What’s up with AllofMP3.com?"
 author: Pito Salas
-
-
 date: 2006-07-06T00:51:17
 ---
 

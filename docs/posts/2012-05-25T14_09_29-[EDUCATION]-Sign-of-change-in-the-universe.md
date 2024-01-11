@@ -1,8 +1,6 @@
 ---
 title: "[EDUCATION] Sign of change in the universe"
 author: Pito Salas
-
-
 date: 2012-05-25T14:09:29
 tags:
     - career

@@ -1,8 +1,6 @@
 ---
 title: "How To Do What You Want: Akrasia and Self-Binding | Beeminder Blog"
-author: Pito Salas
-url: "http://blog.beeminder.com/akrasia" 
-cover: "https://rdl.ink/render/http%3A%2F%2Fblog.beeminder.com%2Fakrasia" 
+author: Pito Salasurl: "http://blog.beeminder.com/akrasia" cover: "https://rdl.ink/render/http%3A%2F%2Fblog.beeminder.com%2Fakrasia" 
 date: 2021-04-06 13:40:22
 tags:
     - Softw-Entrepreneurship

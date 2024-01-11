@@ -1,8 +1,6 @@
 ---
 title: "Do you really really really want an iPhone?"
 author: Pito Salas
-
-
 date: 2007-01-10T15:26:32
 ---
 

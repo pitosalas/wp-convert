@@ -1,8 +1,6 @@
 ---
 title: "Looks like a fun book: “Cockpit Confidential”"
 author: Pito Salas
-
-
 date: 2013-09-12T20:09:54
 tags:
     - book

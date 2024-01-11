@@ -1,8 +1,6 @@
 ---
 title: "Office Live: Why am I not surprised?"
 author: Pito Salas
-
-
 date: 2006-03-23T02:17:50
 ---
 

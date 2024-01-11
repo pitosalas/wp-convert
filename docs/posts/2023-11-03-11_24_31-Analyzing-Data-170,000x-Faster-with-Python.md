@@ -1,8 +1,6 @@
 ---
 title: "Analyzing Data 170,000x Faster with Python"
-author: Pito Salas
-url: "https://sidsite.com/posts/python-corrset-optimization/" 
-cover: "" 
+author: Pito Salasurl: "https://sidsite.com/posts/python-corrset-optimization/" cover: "" 
 date: 2023-11-03 11:24:31
 tags:
     - python-optimization-numpy-numba-source-code-howto

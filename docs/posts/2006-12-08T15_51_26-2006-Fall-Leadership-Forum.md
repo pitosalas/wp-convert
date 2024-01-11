@@ -1,8 +1,6 @@
 ---
 title: "2006 Fall Leadership Forum"
 author: Pito Salas
-
-
 date: 2006-12-08T15:51:26
 ---
 

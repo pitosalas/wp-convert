@@ -1,8 +1,6 @@
 ---
 title: "40 Best Ruby Gems We Can’t Live Without – Codica Journal – Medium"
-author: Pito Salas
-url: "https://medium.com/codica/40-best-ruby-gems-we-cant-live-without-8ccf314fcd38" 
-cover: "https://miro.medium.com/max/1200/1*noIpLrV0tDraeR9P69WlKw.jpeg" 
+author: Pito Salasurl: "https://medium.com/codica/40-best-ruby-gems-we-cant-live-without-8ccf314fcd38" cover: "https://miro.medium.com/max/1200/1*noIpLrV0tDraeR9P69WlKw.jpeg" 
 date: 2021-04-06 13:40:22
 tags:
     - ruby-gems

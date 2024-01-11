@@ -1,8 +1,6 @@
 ---
 title: "How GPS devices are being used to detect and avoid traffic"
 author: Pito Salas
-
-
 date: 2008-03-26T12:12:36
 ---
 

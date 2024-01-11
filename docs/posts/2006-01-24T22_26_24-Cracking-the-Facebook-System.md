@@ -1,8 +1,6 @@
 ---
 title: "Cracking the Facebook System"
 author: Pito Salas
-
-
 date: 2006-01-24T22:26:24
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "I Was Wrong About Mastodon – EscapingTech"
-author: Pito Salas
-url: "https://escapingtech.com/tech/opinions/i-was-wrong-about-mastodon-moderation.html" 
-cover: "https://escapingtech.com/images/i-was-wrong-about-mastodon-moderation/cover.png" 
+author: Pito Salasurl: "https://escapingtech.com/tech/opinions/i-was-wrong-about-mastodon-moderation.html" cover: "https://escapingtech.com/images/i-was-wrong-about-mastodon-moderation/cover.png" 
 date: 2022-12-02 13:17:13
 tags:
     - mastodon-moderation-fediverse-federated-explainer

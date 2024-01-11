@@ -1,8 +1,6 @@
 ---
 title: "Another real-world ‘Diving Bell and the Butterfly’ story"
 author: Pito Salas
-
-
 date: 2009-11-23T20:26:35
 ---
 

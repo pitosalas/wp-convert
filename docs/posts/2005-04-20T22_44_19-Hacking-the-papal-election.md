@@ -1,8 +1,6 @@
 ---
 title: "Hacking the papal election"
 author: Pito Salas
-
-
 date: 2005-04-20T22:44:19
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Olin College of Engineering"
 author: Pito Salas
-
-
 date: 2013-03-24T19:27:38
 tags:
     - engineering

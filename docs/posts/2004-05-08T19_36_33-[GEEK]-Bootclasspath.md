@@ -1,8 +1,6 @@
 ---
 title: "[GEEK] Bootclasspath"
 author: Pito Salas
-
-
 date: 2004-05-08T19:36:33
 ---
 

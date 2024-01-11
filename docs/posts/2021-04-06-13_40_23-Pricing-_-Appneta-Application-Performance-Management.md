@@ -1,8 +1,6 @@
 ---
 title: "Pricing | Appneta Application Performance Management"
-author: Pito Salas
-url: "https://www.appneta.com" 
-cover: "https://www.appneta.com/images/graphics/appneta-social.jpg" 
+author: Pito Salasurl: "https://www.appneta.com" cover: "https://www.appneta.com/images/graphics/appneta-social.jpg" 
 date: 2021-04-06 13:40:23
 tags:
     - ruby-scalability-performance

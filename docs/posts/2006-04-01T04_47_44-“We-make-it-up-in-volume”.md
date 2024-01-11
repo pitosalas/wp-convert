@@ -1,8 +1,6 @@
 ---
 title: "“We make it up in volume”"
 author: Pito Salas
-
-
 date: 2006-04-01T04:47:44
 ---
 

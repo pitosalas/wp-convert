@@ -1,8 +1,6 @@
 ---
 title: "Smart Weather Station Indoor Outdoor | Netatmo"
-author: Pito Salas
-url: "https://www.netatmo.com/en-US/product/weather/weatherstation" 
-cover: "https://medias.netatmo.com/images/tile/shop/:/rs=w:1200" 
+author: Pito Salasurl: "https://www.netatmo.com/en-US/product/weather/weatherstation" cover: "https://medias.netatmo.com/images/tile/shop/:/rs=w:1200" 
 date: 2021-04-06 13:40:22
 tags:
     - weather-station

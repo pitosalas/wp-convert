@@ -1,8 +1,6 @@
 ---
 title: "Awesome: Big Blizzard Coming"
 author: Pito Salas
-
-
 date: 2013-02-06T20:39:20
 tags:
     - blizzard

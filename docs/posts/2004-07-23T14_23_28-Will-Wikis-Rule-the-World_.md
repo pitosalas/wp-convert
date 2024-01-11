@@ -1,8 +1,6 @@
 ---
 title: "Will Wikis Rule the World?"
 author: Pito Salas
-
-
 date: 2004-07-23T14:23:28
 ---
 

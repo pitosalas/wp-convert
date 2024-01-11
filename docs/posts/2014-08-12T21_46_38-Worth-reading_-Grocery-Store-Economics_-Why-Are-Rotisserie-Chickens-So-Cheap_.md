@@ -1,8 +1,6 @@
 ---
 title: "Worth reading: Grocery Store Economics: Why Are Rotisserie Chickens So Cheap?"
 author: Pito Salas
-
-
 date: 2014-08-12T21:46:38
 ---
 

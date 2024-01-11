@@ -1,8 +1,6 @@
 ---
 title: "James Fallows: “The War on Terror is Over”"
 author: Pito Salas
-
-
 date: 2006-08-11T01:53:21
 ---
 

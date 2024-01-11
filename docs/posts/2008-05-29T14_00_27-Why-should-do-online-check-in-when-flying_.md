@@ -1,8 +1,6 @@
 ---
 title: "Why should do online check-in when flying?"
 author: Pito Salas
-
-
 date: 2008-05-29T14:00:27
 tags:
     - airlines-travel-checkin

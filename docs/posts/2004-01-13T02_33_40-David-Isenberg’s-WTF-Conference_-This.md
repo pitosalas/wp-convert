@@ -1,8 +1,6 @@
 ---
 title: "David Isenberg’s WTF Conference: This"
 author: Pito Salas
-
-
 date: 2004-01-13T02:33:40
 ---
 

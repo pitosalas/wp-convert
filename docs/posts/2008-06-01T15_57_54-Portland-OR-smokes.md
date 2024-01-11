@@ -1,8 +1,6 @@
 ---
 title: "Portland OR smokes"
 author: Pito Salas
-
-
 date: 2008-06-01T15:57:54
 ---
 

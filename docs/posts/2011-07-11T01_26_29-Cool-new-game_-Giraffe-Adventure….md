@@ -1,8 +1,6 @@
 ---
 title: "Cool new game? Giraffe Adventure…"
 author: Pito Salas
-
-
 date: 2011-07-11T01:26:29
 tags:
     - android

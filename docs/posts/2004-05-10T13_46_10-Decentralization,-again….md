@@ -1,8 +1,6 @@
 ---
 title: "Decentralization, again…"
 author: Pito Salas
-
-
 date: 2004-05-10T13:46:10
 ---
 

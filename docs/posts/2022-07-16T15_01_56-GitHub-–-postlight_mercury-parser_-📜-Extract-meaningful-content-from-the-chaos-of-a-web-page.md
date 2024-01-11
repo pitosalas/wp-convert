@@ -1,8 +1,6 @@
 ---
 title: "GitHub – postlight/mercury-parser: 📜 Extract meaningful content from the chaos of a web page"
 author: Pito Salas
-
-
 date: 2022-07-16T15:01:56
 tags:
     - howto

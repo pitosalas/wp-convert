@@ -129,9 +129,7 @@ class BlogBuild:
         with open(file_path, 'w', encoding='utf-8') as file:
             markdown =f"""---
 title: "{title}"
-author: Pito Salas
-{url_text}
-{cover_text}
+author: Pito Salas{url_text}{cover_text}
 date: {date}{tags}
 ---
 {cover_markdown}

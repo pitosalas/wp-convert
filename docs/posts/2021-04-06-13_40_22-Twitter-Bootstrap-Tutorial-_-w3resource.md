@@ -1,8 +1,6 @@
 ---
 title: "Twitter Bootstrap Tutorial | w3resource"
-author: Pito Salas
-url: "http://www.w3resource.com/twitter-bootstrap/tutorial.php" 
-cover: "http://www.w3resource.com/w3r_images/twitter-bootstrap.gif" 
+author: Pito Salasurl: "http://www.w3resource.com/twitter-bootstrap/tutorial.php" cover: "http://www.w3resource.com/w3r_images/twitter-bootstrap.gif" 
 date: 2021-04-06 13:40:22
 ---
 <img src=http://www.w3resource.com/w3r_images/twitter-bootstrap.gif width="500">

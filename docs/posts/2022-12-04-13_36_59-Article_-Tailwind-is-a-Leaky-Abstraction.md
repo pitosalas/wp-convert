@@ -1,8 +1,6 @@
 ---
 title: "Article: Tailwind is a Leaky Abstraction"
-author: Pito Salas
-url: "https://jakelazaroff.com/words/tailwind-is-a-leaky-abstraction/" 
-cover: "https://jakelazaroff.com/public/og/tailwind-is-a-leaky-abstraction.png" 
+author: Pito Salasurl: "https://jakelazaroff.com/words/tailwind-is-a-leaky-abstraction/" cover: "https://jakelazaroff.com/public/og/tailwind-is-a-leaky-abstraction.png" 
 date: 2022-12-04 13:36:59
 tags:
     - css-styling-tailwind

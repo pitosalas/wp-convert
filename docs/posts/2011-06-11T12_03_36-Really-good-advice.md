@@ -1,8 +1,6 @@
 ---
 title: "Really good advice"
 author: Pito Salas
-
-
 date: 2011-06-11T12:03:36
 tags:
     - jobs

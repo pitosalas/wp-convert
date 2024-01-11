@@ -1,8 +1,6 @@
 ---
 title: "Pandora is saved!"
 author: Pito Salas
-
-
 date: 2009-07-08T01:25:08
 ---
 

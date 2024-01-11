@@ -1,8 +1,6 @@
 ---
 title: "More about GreenGoose and the Brush Monkey"
 author: Pito Salas
-
-
 date: 2013-10-19T21:54:50
 tags:
     - entrepeneurship

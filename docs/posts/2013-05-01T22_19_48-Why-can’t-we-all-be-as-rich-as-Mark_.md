@@ -1,8 +1,6 @@
 ---
 title: "Why can’t we all be as rich as Mark?"
 author: Pito Salas
-
-
 date: 2013-05-01T22:19:48
 tags:
     - entrepreneurship

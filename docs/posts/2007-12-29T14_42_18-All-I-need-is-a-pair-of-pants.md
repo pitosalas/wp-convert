@@ -1,8 +1,6 @@
 ---
 title: "All I need is a pair of pants"
 author: Pito Salas
-
-
 date: 2007-12-29T14:42:18
 ---
 

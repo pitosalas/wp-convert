@@ -1,8 +1,6 @@
 ---
 title: "A new term: Blobjects"
 author: Pito Salas
-
-
 date: 2004-08-24T03:57:04
 ---
 

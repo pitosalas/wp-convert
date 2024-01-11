@@ -1,8 +1,6 @@
 ---
 title: "Galapagos article from one my my fellow travelers"
 author: Pito Salas
-
-
 date: 2013-02-19T03:50:17
 tags:
     - galapagos

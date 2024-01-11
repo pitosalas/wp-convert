@@ -1,8 +1,6 @@
 ---
 title: "Get a free shipping box from the US Postal Service"
 author: Pito Salas
-
-
 date: 2010-09-20T17:08:44
 ---
 

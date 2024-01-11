@@ -1,8 +1,6 @@
 ---
 title: "Stand up! No, Sit Down!"
 author: Pito Salas
-
-
 date: 2012-07-25T01:56:49
 tags:
     - health

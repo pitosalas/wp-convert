@@ -1,8 +1,6 @@
 ---
 title: "Switcher’s log, Part 8: In conclusion…"
 author: Pito Salas
-
-
 date: 2005-04-06T17:57:13
 ---
 

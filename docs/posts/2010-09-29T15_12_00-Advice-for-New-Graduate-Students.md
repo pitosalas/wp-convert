@@ -1,8 +1,6 @@
 ---
 title: "Advice for New Graduate Students"
 author: Pito Salas
-
-
 date: 2010-09-29T15:12:00
 ---
 

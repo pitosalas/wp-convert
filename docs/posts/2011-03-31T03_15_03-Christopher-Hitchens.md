@@ -1,8 +1,6 @@
 ---
 title: "Christopher Hitchens"
 author: Pito Salas
-
-
 date: 2011-03-31T03:15:03
 tags:
     - hitch-22

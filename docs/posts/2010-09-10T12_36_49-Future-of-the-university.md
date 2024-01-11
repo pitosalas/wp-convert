@@ -1,8 +1,6 @@
 ---
 title: "Future of the university"
 author: Pito Salas
-
-
 date: 2010-09-10T12:36:49
 tags:
     - brandeis-university

@@ -1,8 +1,6 @@
 ---
 title: "Looked at the right way, this could be good news!"
 author: Pito Salas
-
-
 date: 2013-08-02T19:04:20
 tags:
     - deathclock

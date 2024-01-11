@@ -1,8 +1,6 @@
 ---
 title: "Insightful article about education"
 author: Pito Salas
-
-
 date: 2011-01-14T17:19:14
 tags:
     - education

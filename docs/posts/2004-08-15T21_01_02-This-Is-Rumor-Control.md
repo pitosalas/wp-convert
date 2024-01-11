@@ -1,8 +1,6 @@
 ---
 title: "This Is Rumor Control"
 author: Pito Salas
-
-
 date: 2004-08-15T21:01:02
 ---
 

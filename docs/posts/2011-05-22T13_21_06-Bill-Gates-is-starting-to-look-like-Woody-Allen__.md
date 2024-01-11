@@ -1,8 +1,6 @@
 ---
 title: "Bill Gates is starting to look like Woody Allen??"
 author: Pito Salas
-
-
 date: 2011-05-22T13:21:06
 tags:
     - billgates

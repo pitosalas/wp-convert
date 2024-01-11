@@ -1,8 +1,6 @@
 ---
 title: "Seven Do’s And Three Don’ts For Creating New Web Products"
 author: Pito Salas
-
-
 date: 2008-05-02T13:24:38
 tags:
     - technology-product-entrepreneurship-startup

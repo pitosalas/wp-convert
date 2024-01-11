@@ -1,8 +1,6 @@
 ---
 title: "Use Google Sets for competitive analysis"
 author: Pito Salas
-
-
 date: 2008-03-31T14:07:28
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Keurig accidentally created the perfect business model for hardware startups — Medium"
-author: Pito Salas
-url: "https://medium.com/@BoltVC/keurig-accidentally-created-the-perfect-business-model-for-hardware-startups-18e9c3b4e796" 
-cover: "https://miro.medium.com/max/800/1*TsRKRDcQGv4kaTeTl9Uq5g.jpeg" 
+author: Pito Salasurl: "https://medium.com/@BoltVC/keurig-accidentally-created-the-perfect-business-model-for-hardware-startups-18e9c3b4e796" cover: "https://miro.medium.com/max/800/1*TsRKRDcQGv4kaTeTl9Uq5g.jpeg" 
 date: 2021-04-06 13:40:22
 tags:
     - Softw-Entrepreneurship

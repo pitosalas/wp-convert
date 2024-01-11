@@ -1,8 +1,6 @@
 ---
 title: "Tower Git Client – The most powerful Git client for Mac and Windows"
 author: Pito Salas
-
-
 date: 2021-08-12T07:32:32
 tags:
     - git

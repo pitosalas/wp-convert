@@ -1,8 +1,6 @@
 ---
 title: "Let’s Implement the Map Method from First Principles"
 author: Pito Salas
-
-
 date: 2023-09-09T13:01:06
 tags:
     - explainer

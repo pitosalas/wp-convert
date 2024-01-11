@@ -1,8 +1,6 @@
 ---
 title: "Late night funny"
 author: Pito Salas
-
-
 date: 2006-10-18T03:26:08
 ---
 

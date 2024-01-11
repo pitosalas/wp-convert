@@ -1,8 +1,6 @@
 ---
 title: "Web Innovators meetup Monday, July 24th"
 author: Pito Salas
-
-
 date: 2006-07-21T22:57:16
 ---
 

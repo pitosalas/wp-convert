@@ -1,8 +1,6 @@
 ---
 title: "Popular UIs | Free PSDs of popular Web Interfaces"
-author: Pito Salas
-url: "http://lukechesser.github.io/Popular-UIs" 
-cover: "https://rdl.ink/render/http%3A%2F%2Flukechesser.github.io%2FPopular-UIs" 
+author: Pito Salasurl: "http://lukechesser.github.io/Popular-UIs" cover: "https://rdl.ink/render/http%3A%2F%2Flukechesser.github.io%2FPopular-UIs" 
 date: 2021-04-06 13:40:23
 tags:
     - photoshop-resources-design-javascript-links-resources

@@ -1,8 +1,6 @@
 ---
 title: "Camels and Rubber Duckies - Joel on Software"
-author: Pito Salas
-url: "http://www.joelonsoftware.com/articles/CamelsandRubberDuckies.html" 
-cover: "https://i0.wp.com/www.joelonsoftware.com/wp-content/uploads/2016/12/11969842.jpg?fit=240%2C240&ssl=1" 
+author: Pito Salasurl: "http://www.joelonsoftware.com/articles/CamelsandRubberDuckies.html" cover: "https://i0.wp.com/www.joelonsoftware.com/wp-content/uploads/2016/12/11969842.jpg?fit=240%2C240&ssl=1" 
 date: 2021-04-06 13:40:23
 tags:
     - pricing-software-economics-economy-price-startup-entrepreneurship

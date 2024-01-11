@@ -1,8 +1,6 @@
 ---
 title: "How To Implement Simple Authentication Without Devise"
-author: Pito Salas
-url: "http://www.rubypigeon.com/posts/how-to-implement-simple-authentication-without-devise" 
-cover: "https://rdl.ink/render/http%3A%2F%2Fwww.rubypigeon.com%2Fposts%2Fhow-to-implement-simple-authentication-without-devise" 
+author: Pito Salasurl: "http://www.rubypigeon.com/posts/how-to-implement-simple-authentication-without-devise" cover: "https://rdl.ink/render/http%3A%2F%2Fwww.rubypigeon.com%2Fposts%2Fhow-to-implement-simple-authentication-without-devise" 
 date: 2021-04-06 13:40:23
 tags:
     - Software-Engineering

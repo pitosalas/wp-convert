@@ -1,8 +1,6 @@
 ---
 title: "Oldish news, but interesting"
 author: Pito Salas
-
-
 date: 2008-02-24T19:23:51
 ---
 

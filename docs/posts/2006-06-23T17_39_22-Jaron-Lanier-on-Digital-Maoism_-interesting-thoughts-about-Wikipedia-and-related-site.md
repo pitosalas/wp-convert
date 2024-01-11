@@ -1,8 +1,6 @@
 ---
 title: "Jaron Lanier on Digital Maoism: interesting thoughts about Wikipedia and related site"
 author: Pito Salas
-
-
 date: 2006-06-23T17:39:22
 ---
 

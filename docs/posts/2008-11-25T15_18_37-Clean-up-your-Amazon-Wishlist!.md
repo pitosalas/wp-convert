@@ -1,8 +1,6 @@
 ---
 title: "Clean up your Amazon Wishlist!"
 author: Pito Salas
-
-
 date: 2008-11-25T15:18:37
 ---
 

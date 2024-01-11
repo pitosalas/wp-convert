@@ -1,8 +1,6 @@
 ---
 title: "Web Radio is not the same as Podcasting"
 author: Pito Salas
-
-
 date: 2005-03-28T14:54:41
 ---
 

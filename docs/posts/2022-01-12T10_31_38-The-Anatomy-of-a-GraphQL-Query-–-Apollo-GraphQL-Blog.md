@@ -1,8 +1,6 @@
 ---
 title: "The Anatomy of a GraphQL Query – Apollo GraphQL Blog"
 author: Pito Salas
-
-
 date: 2022-01-12T10:31:38
 tags:
     - api

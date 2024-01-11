@@ -1,8 +1,6 @@
 ---
 title: "Find what you care about with BlogBridge"
 author: Pito Salas
-
-
 date: 2004-09-30T14:11:34
 ---
 

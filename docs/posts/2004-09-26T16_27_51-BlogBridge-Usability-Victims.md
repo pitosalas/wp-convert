@@ -1,8 +1,6 @@
 ---
 title: "BlogBridge Usability Victims"
 author: Pito Salas
-
-
 date: 2004-09-26T16:27:51
 ---
 
