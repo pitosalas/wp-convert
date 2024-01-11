@@ -1,12 +1,15 @@
 ---
 title: "git branches: intuition & reality"
 author: Pito Salas
+
+
 date: 2023-11-25T03:01:47
 tags:
     - branching
     - explainer
     - git
 ---
+
 
 
 [ git branches: intuition & reality](<

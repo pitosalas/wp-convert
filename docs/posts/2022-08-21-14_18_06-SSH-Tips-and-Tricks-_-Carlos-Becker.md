@@ -1,10 +1,14 @@
 ---
 title: "SSH Tips and Tricks | Carlos Becker"
 author: Pito Salas
+url: "https://carlosbecker.dev/posts/ssh-tips-and-tricks/" 
+cover: "https://carlosbecker.com/" 
 date: 2022-08-21 14:18:06
 tags:
     - ssh-tips-shortcuts-config-howto
 ---
+<img src=https://carlosbecker.com/ width="500">
+
 
 
 (**Web site except:** Since I joined Charm, I’ve been working and learning more about SSH, and I thought I would share a few quick tips and tricks with you.

@@ -1,10 +1,14 @@
 ---
 title: "John Cleese's 5-step plan to have shorter and better meetings - from 1976!"
 author: Pito Salas
+url: "https://youtube.com/watch?v=Ff9V0mISmtk&feature=share" 
+cover: "https://i.ytimg.com/vi/Ff9V0mISmtk/mqdefault.jpg" 
 date: 2021-12-05 12:08:33
 tags:
     - meetings-efficiency-people-time
 ---
+<img src=https://i.ytimg.com/vi/Ff9V0mISmtk/mqdefault.jpg width="500">
+
 
 
 (**Web site except:** John Cleese (Monty Python) nails it in this classic 1976 work “Meetings, Bloody Meetings”, and his hilarious portrayal of meeting culture seems worryingly accurate today.

@@ -51,7 +51,7 @@ class BlogBuild:
                 print(f"""Skipping {title} because it is a drop""")
                 continue
             tags = self.generate_tags_string(post['tags'])
-            self.save_individual_post(title, content, date, tags)
+            self.save_individual_post(title, content, date, tags, None, None)
             count += 1
         print(f"""Total: {count} wp Posts Generated""")
 
@@ -62,6 +62,8 @@ class BlogBuild:
             title = drop_title
             content = self.fix_drop_content(drop)
             date = self.fix_drop_date(drop['created'])
+            url = drop['url']
+            cover = drop['cover']
             rawtags = self.fix_drop_tags(drop['tags'])
             if rawtags not in ['', 'None', ['']]:
                 tags_str = """\ntags:"""
@@ -75,7 +77,7 @@ class BlogBuild:
                     tags_str += f"""\n    - {tag}"""
             else:
                 tags_str = ""
-            self.save_individual_post(title, content, date, tags_str)
+            self.save_individual_post(title, content, date, tags_str, url, cover)
             count += 1
         print(f"""Total: {count} Drop Posts Generated""")
 
@@ -112,7 +114,14 @@ class BlogBuild:
             tags_string = f"\ntags:{tags_string}"
         return tags_string
     
-    def save_individual_post(self, title, content, date, tags):
+    def save_individual_post(self, title, content, date, tags, url, cover):
+        if cover is not None:
+            cover_markdown = f"""<img src={cover} width="500">\n"""
+            cover_text = f"""cover: "{cover}" """
+        else:
+            cover_markdown = ""
+            cover_text = ""
+        url_text = "" if url is None else f"""url: "{url}" """
         title = html.unescape(title)
         title = title.replace('"', '\\"')        
         filename = f"{date}-{title.replace(' ', '-')}.md"
@@ -121,8 +130,11 @@ class BlogBuild:
             markdown =f"""---
 title: "{title}"
 author: Pito Salas
+{url_text}
+{cover_text}
 date: {date}{tags}
 ---
+{cover_markdown}
 {content}
 """
             file.write(markdown)

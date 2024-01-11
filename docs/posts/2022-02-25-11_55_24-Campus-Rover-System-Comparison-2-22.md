@@ -1,8 +1,12 @@
 ---
 title: "Campus Rover System Comparison 2 22"
 author: Pito Salas
+url: "https://docs.google.com/spreadsheets/d/1cq4zY-jtFj-gsPc0jcK5LlwFQTFDcAm8r7QYneLF1Us/edit#gid=1703250659" 
+cover: "https://lh6.googleusercontent.com/0DIAK6bOgww9EOQH7chcsroT82mXUKVPp_oE5uzx1jPAB7GrfBqEqlrF17f2_sUs61iUYVXBASzDidshRVIvCTSabAYAG4YVAyYQhSlbJtiRqKVnHkidp94sCVzNnCPyJvGSZXnjxygsUzqjKx4" 
 date: 2022-02-25 11:55:24
 ---
+<img src=https://lh6.googleusercontent.com/0DIAK6bOgww9EOQH7chcsroT82mXUKVPp_oE5uzx1jPAB7GrfBqEqlrF17f2_sUs61iUYVXBASzDidshRVIvCTSabAYAG4YVAyYQhSlbJtiRqKVnHkidp94sCVzNnCPyJvGSZXnjxygsUzqjKx4 width="500">
+
 
 
 (**Web site except:** Sheet1

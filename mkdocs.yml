@@ -1,10 +1,14 @@
 site_name: Salas.com
 site_description: Pito Salas Link Blog and More
 site_author: Pito Salas
-copyright: Pito Salas 2023
+copyright: Copyright &copy 2000-2024 Pito Salas
 docs_dir: docs
 theme:
   name: material
+  features:
+    - navigation.footer
+    - navigation.prefetch
+    - navigation.tabs
 plugins:
   - search
   - blog:

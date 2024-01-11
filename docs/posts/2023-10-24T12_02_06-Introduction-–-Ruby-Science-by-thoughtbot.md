@@ -1,6 +1,8 @@
 ---
 title: "Introduction – Ruby Science by thoughtbot"
 author: Pito Salas
+
+
 date: 2023-10-24T12:02:06
 tags:
     - best-bet
@@ -9,6 +11,7 @@ tags:
     - ruby
     - software-engineering
 ---
+
 
 
 [ Introduction - Ruby Science by thoughtbot](< https://thoughtbot.com/ruby-
