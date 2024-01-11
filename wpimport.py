@@ -1,7 +1,7 @@
 import json
 import requests
 
-MAX_API_PAGES = 5
+MAX_API_PAGES = 2000
 
 class WpImport:
     def __init__(self):
