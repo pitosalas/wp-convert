@@ -4,3 +4,9 @@
 .md-post {
   border-bottom: .1rem solid var(--md-default-fg-color--light);
 }
+
+@media screen and (max-width: 76.2344em) {
+  .md-tabs {
+    display: initial;
+  }
+}

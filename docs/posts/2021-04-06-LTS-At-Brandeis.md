@@ -1,0 +1,12 @@
+---
+title: "LTS At Brandeis"
+author: Pito Salas
+url: "http://lts.brandeis.edu" 
+cover: "https://rdl.ink/render/http%3A%2F%2Flts.brandeis.edu" 
+date: 2021-04-06
+tags:
+    - brandeis-research
+---
+<img src=https://rdl.ink/render/http%3A%2F%2Flts.brandeis.edu width="500">
+
+

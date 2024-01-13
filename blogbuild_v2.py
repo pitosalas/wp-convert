@@ -46,7 +46,7 @@ class BlogBuild:
         for post in self.wp_posts:
             content = self.text_maker.handle(post['content']['rendered'])
             title = post['title']['rendered']
-            date = post['date']
+            date = datetime.strptime(post['date'], '%Y-%m-%dT%H:%M:%S').strftime('%Y-%m-%d')
             if self.drops.get(title) is not None:
                 print(f"""Skipping {title} because it is a drop""")
                 continue
@@ -88,7 +88,6 @@ class BlogBuild:
         return content
     
     def fix_drop_tags(self, tags):
-
         ret_tag = re.split(', | |,', tags)
         if ret_tag != tags:
             print(f"""{tags} -> {ret_tag}""")
@@ -97,7 +96,7 @@ class BlogBuild:
     def fix_drop_date(self, date_string):
         parsed_date = datetime.fromisoformat(date_string.rstrip("Z"))
         parsed_date.replace(tzinfo=None)
-        return parsed_date.strftime("%Y-%m-%d %H:%M:%S")        
+        return parsed_date.strftime("%Y-%m-%d")        
 
     def generate_tags_string(self, tags):
         tags_string = ""
@@ -124,8 +123,7 @@ class BlogBuild:
         url_text = "" if url is None else f"""\nurl: "{url}" """
         title = html.unescape(title)
         title = title.replace('"', '\\"')        
-        filename = f"{date}-{title.replace(' ', '-')}.md"
-        file_path = os.path.join(POSTS_DIRECTORY, self.sanitize_filename(filename))
+        file_path = os.path.join(POSTS_DIRECTORY, self.sanitize_filename(date, title))
         with open(file_path, 'w', encoding='utf-8') as file:
             markdown =f"""---
 title: "{title}"
@@ -137,9 +135,10 @@ date: {date}{tags}
 """
             file.write(markdown)
 
-    def sanitize_filename(self, filename):
+    def sanitize_filename(self, date, title):
+        filename = f"{date}-{title.replace(' ', '-')}.md"
         filename = re.sub(r'[\\/*?:"<>|]', "_", filename)  # Replace forbidden characters with underscore
-        filename = re.sub(r'\s+', '-', filename.strip())   # Replace spaces or consecutive spaces with dash
+        filename = re.sub(r'\s+', '', filename.strip())   # Replace spaces or consecutive spaces with dash
         return filename[:255]
             
 # Main program

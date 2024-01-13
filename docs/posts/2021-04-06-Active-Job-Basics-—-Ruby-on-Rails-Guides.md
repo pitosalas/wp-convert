@@ -1,0 +1,14 @@
+---
+title: "Active Job Basics — Ruby on Rails Guides"
+author: Pito Salas
+url: "http://guides.rubyonrails.org/active_job_basics.html" 
+cover: "https://avatars.githubusercontent.com/u/4223" 
+date: 2021-04-06
+tags:
+    - ruby-activejob
+---
+<img src=https://avatars.githubusercontent.com/u/4223 width="500">
+
+
+
+(**Web site except:** Active Job BasicsThis guide provides you with all you need to get started in creating, enqueuing and executing background jobs.After reading this guide, you will know: How to create jobs. How to enqueue jobs. How to run jobs in the background. How to send emails from your application asynchronously.) 
