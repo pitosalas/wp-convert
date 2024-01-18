@@ -5,6 +5,8 @@ copyright: Copyright &copy 2000-2024 Pito Salas
 docs_dir: docs
 theme:
   name: material
+  logo: images/icons/bhslogo.png
+  favicon: images/icons/bhslogo.png
   features:
     - navigation.footer
     - navigation.tabs
