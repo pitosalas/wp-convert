@@ -1,11 +1,12 @@
 import json
 import requests
 
-MAX_API_PAGES = 2000
+MAX_API_PAGES = 2
 
 class WpImport:
     def __init__(self):
         self.posts = []
+        self.pages = []
 
     def retrieve_posts(self):
         # Endpoint for the WordPress post API, replace with your WordPress site URL
@@ -33,17 +34,47 @@ class WpImport:
             for post in posts:
                 self.posts.append(action(post))
         else:
-            print("Failed to retrieve posts. Status code:", response.status_code)
+            print("Failed to retrieve post. Status code:", response.status_code)
             print(response.text)
 
     def process_a_post(self, post: dict) -> dict:
         post = self.drop_unneeded_keys(post)
-        post = self.convert_values(post)
         return(post)
-    
-    def convert_values(self, post):
-        return post
-    
+
+
+    def retrieve_pages(self):
+        # Endpoint for the WordPress post API, replace with your WordPress site URL
+        url = "http://www.salas.com/wp-json/wp/v2/pages"
+        headers = {
+            'Accept': 'application/json',
+            'User-Agent': 'Safari'
+        }
+        current_page = 1
+        total_pages = None
+        while current_page != total_pages and current_page < MAX_API_PAGES:
+            params = {'page': current_page}
+            response = requests.get(url, headers=headers, params=params)
+            total_pages = int(response.headers['X-WP-TotalPages'])
+            current_page += 1
+            self.process_pages(response, self.process_a_page)
+            print(f"Retrieved {len(self.posts)} pages so far")
+        return requests.get(url, headers=headers)
+
+    def process_pages(self, response, action):
+    # Check if the request was successful
+        if response.status_code == 200:
+            # Parse JSON response
+            posts = response.json()
+            for post in posts:
+                self.pages.append(action(post))
+        else:
+            print("Failed to retrieve page. Status code:", response.status_code)
+            print(response.text)
+
+    def process_a_page(self, post: dict) -> dict:
+        page = self.drop_unneeded_keys(post)
+        return(page)
+
     def drop_unneeded_keys(self, post):
         post.pop('sticky', None)
         post.pop('template', None)
@@ -58,15 +89,21 @@ class WpImport:
         with open('data/wp_posts.json', 'w') as outfile:
             json.dump(self.posts, outfile)
 
+    def save_pages(self):
+        # save posts as a json file
+        with open('data/wp_pages.json', 'w') as outfile:
+            json.dump(self.pages, outfile)
+
     def run(self):
         self.retrieve_posts()
         self.save_posts()
+        self.retrieve_pages()
+        self.save_pages()
 
 # Main program
 if __name__ == "__main__":
     wp_conv = WpImport()
     wp_conv.run()
-    wp_conv.save_posts()
     print("done")
 
 

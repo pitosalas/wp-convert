@@ -1,21 +1,14 @@
 ---
 title: "How to Monitor Network and Zoom Performance & Fix “Your Internet Connection is Unstable” on Zoom"
 author: Pito Salas
+url: "https://medium.com/obkio/how-to-monitor-network-and-zoom-performance-fix-your-internet-connection-is-unstable-on-zoom-6ec7852709a2" 
+cover: "https://miro.medium.com/max/1002/1*RgqNVwdteBHCHPmcjJMw8w.jpeg" 
 date: 2022-02-01
 tags:
-    - performance
+    - zoom-network-performance-howto
 ---
+<img src=https://miro.medium.com/max/1002/1*RgqNVwdteBHCHPmcjJMw8w.jpeg width="500">
 
 
 
-[ How to Monitor Network and Zoom Performance & Fix “Your Internet Connection
-is Unstable” on Zoom](<https://medium.com/obkio/how-to-monitor-network-and-
-zoom-performance-fix-your-internet-connection-is-unstable-on-
-zoom-6ec7852709a2>)
-
-how to monitor network performance and Zoom performance and avoid the “Your
-Internet Connection is Unstable” message of doom.
-
-February 1, 2022 at 10:46PM
-
-
+(**Web site except:** how to monitor network performance and Zoom performance and avoid the “Your Internet Connection is Unstable” message of doom.) 
