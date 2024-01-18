@@ -1,7 +1,7 @@
 import json
 import requests
 
-MAX_API_PAGES = 2
+MAX_API_PAGES = 10000
 
 class WpImport:
     def __init__(self):
@@ -16,8 +16,8 @@ class WpImport:
             'User-Agent': 'Safari'
         }
         current_page = 1
-        total_pages = None
-        while current_page != total_pages and current_page < MAX_API_PAGES:
+        total_pages = 1000
+        while current_page < total_pages and current_page < MAX_API_PAGES:
             params = {'page': current_page}
             response = requests.get(url, headers=headers, params=params)
             total_pages = int(response.headers['X-WP-TotalPages'])
@@ -50,8 +50,8 @@ class WpImport:
             'User-Agent': 'Safari'
         }
         current_page = 1
-        total_pages = None
-        while current_page != total_pages and current_page < MAX_API_PAGES:
+        total_pages = 1000
+        while current_page < total_pages and current_page < MAX_API_PAGES:
             params = {'page': current_page}
             response = requests.get(url, headers=headers, params=params)
             total_pages = int(response.headers['X-WP-TotalPages'])
