@@ -15,8 +15,8 @@ class WpImport:
             'Accept': 'application/json',
             'User-Agent': 'Safari'
         }
-        current_page = 1
-        total_pages = 1000
+        current_page = 0
+        total_pages = 10000
         while current_page < total_pages and current_page < MAX_API_PAGES:
             params = {'page': current_page}
             response = requests.get(url, headers=headers, params=params)
@@ -49,8 +49,8 @@ class WpImport:
             'Accept': 'application/json',
             'User-Agent': 'Safari'
         }
-        current_page = 1
-        total_pages = 1000
+        current_page = 0
+        total_pages = 10000
         while current_page < total_pages and current_page < MAX_API_PAGES:
             params = {'page': current_page}
             response = requests.get(url, headers=headers, params=params)
