@@ -33,10 +33,10 @@ plugins:
 nav:
   - Blog:
     - index.md
-  - Recommendations: pages/recommendations.md
-  - Independent Study: pages/independent-study.md
-  - Finding A Job: pages/finding-a-job.md
-  - Keeping Up: pages/keeping-up.md
+  - Recommendations: pages/Recommendations.md
+  - Independent Study: pages/Independent-Study.md
+  - Finding A Job: pages/Finding-a-job.md
+  - Keeping Up: pages/Keeping-Up.md
   - Curacao Notes: pages/Curacao-Notes.md
   - tags.md
 extra_css:

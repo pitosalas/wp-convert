@@ -4,7 +4,6 @@ author: Pito Salas
 date: 2018-06-19
 ---
 
-
 >>
 
 >> ## What is this?

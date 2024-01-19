@@ -4,7 +4,6 @@ author: Pito Salas
 date: 2019-07-17
 ---
 
-
 >>
 
 >> I get this question a lot, in fact near the end of the spring semester they

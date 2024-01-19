@@ -4,7 +4,6 @@ author: Pito Salas
 date: 2020-01-29
 ---
 
-
 >>
 
 >> It happens from time to time that someone asks me to help them in their job
