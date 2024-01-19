@@ -1,6 +1,8 @@
 site_name: Pito Salas' Blog - Today I learned...
 site_description: Pito Salas Link Blog and More
 site_author: Pito Salas
+site_url: https://pitosalas.github.io/wp-convert/
+repo_url: https://github.com/pitosalas/wp-convert
 copyright: Copyright &copy 2000-2024 Pito Salas
 docs_dir: docs
 theme:
