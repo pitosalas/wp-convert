@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 {% block header %}
   <div class="banner">
-    <img src="images/banner/banner-00.jpg" alt="Banner">
+    <img src="{{ 'images/banner/banner-00.jpg' | url }}" alt="Banner">
   </div>
   {{ super() }}
 {% endblock %}
