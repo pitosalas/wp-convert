@@ -15,14 +15,17 @@ class WpImport:
             'Accept': 'application/json',
             'User-Agent': 'Safari'
         }
-        current_page = 0
+        current_page = 1
         total_pages = 10000
-        while current_page < total_pages and current_page < MAX_API_PAGES:
+        should_continue = True
+        while should_continue and current_page < total_pages and current_page < MAX_API_PAGES:
             params = {'page': current_page}
             response = requests.get(url, headers=headers, params=params)
+            if response.status_code != 200:
+                break
             total_pages = int(response.headers['X-WP-TotalPages'])
-            current_page += 1
             self.process_posts(response, self.process_a_post)
+            current_page += 1
             print(f"Retrieved {len(self.posts)} posts so far")
         return requests.get(url, headers=headers)
 
@@ -49,15 +52,19 @@ class WpImport:
             'Accept': 'application/json',
             'User-Agent': 'Safari'
         }
-        current_page = 0
+        current_page = 1
         total_pages = 10000
-        while current_page < total_pages and current_page < MAX_API_PAGES:
+        should_continue = True
+        while should_continue and current_page < total_pages and current_page < MAX_API_PAGES:
             params = {'page': current_page}
             response = requests.get(url, headers=headers, params=params)
+            if response.status_code != 200:
+                break
+
             total_pages = int(response.headers['X-WP-TotalPages'])
-            current_page += 1
             self.process_pages(response, self.process_a_page)
             print(f"Retrieved {len(self.posts)} pages so far")
+            current_page += 1
         return requests.get(url, headers=headers)
 
     def process_pages(self, response, action):
