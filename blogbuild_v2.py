@@ -74,7 +74,7 @@ class BlogBuild:
             date = datetime.strptime(post['date'], '%Y-%m-%dT%H:%M:%S').strftime('%Y-%m-%d')
             self.save_individual_page(title, content, date, None, None)
             count += 1
-        print(f"""Total: {count} wp Posts Generated""")
+        print(f"""Total: {count} wp Pages Generated""")
 
     
     def generate_drop_posts(self):
