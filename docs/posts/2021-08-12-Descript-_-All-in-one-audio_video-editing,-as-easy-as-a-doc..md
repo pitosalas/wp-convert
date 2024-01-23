@@ -5,7 +5,7 @@ url: "https://www.descript.com/"
 cover: "https://rdl.ink/render/https%3A%2F%2Fwww.descript.com%2F" 
 date: 2021-08-12
 tags:
-    - cooltool-transcription-editing-audio-video-screencast
+    - cooltool-transcription-tag-editing-audio-video-screencast
 ---
 <img src=https://rdl.ink/render/https%3A%2F%2Fwww.descript.com%2F width="500">
 

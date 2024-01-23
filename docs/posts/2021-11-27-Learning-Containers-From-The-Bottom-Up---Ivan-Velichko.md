@@ -5,7 +5,7 @@ url: "https://iximiuz.com/en/posts/container-learning-path/"
 cover: "https://iximiuz.com/container-learning-path/docker-containerd-runc-2000-opt.png" 
 date: 2021-11-27
 tags:
-    - image-container-docker-linux-explainer
+    - image-con-tagtainer-docker-linux-explainer
 ---
 <img src=https://iximiuz.com/container-learning-path/docker-containerd-runc-2000-opt.png width="500">
 

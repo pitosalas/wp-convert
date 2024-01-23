@@ -5,7 +5,7 @@ url: "https://medium.com/square-corner-blog/rubys-new-exception-keyword-argument
 cover: "https://miro.medium.com/max/1200/1*VBoB1xkrAHenqX6NwFiWhw.png" 
 date: 2021-04-06
 tags:
-    - ruby-exception-keyword-arguments
+    - ruby-exception-tag-keyword-arguments
 ---
 <img src=https://miro.medium.com/max/1200/1*VBoB1xkrAHenqX6NwFiWhw.png width="500">
 

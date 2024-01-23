@@ -5,7 +5,7 @@ url: "https://link.medium.com/IEmqKFMjyhb"
 cover: "https://miro.medium.com/max/1200/1*O_IPtztfkHodO-mkbk7uiw.jpeg" 
 date: 2021-07-02
 tags:
-    - python-functional-explainer
+    - python-tag-function-tagal-explainer
 ---
 <img src=https://miro.medium.com/max/1200/1*O_IPtztfkHodO-mkbk7uiw.jpeg width="500">
 

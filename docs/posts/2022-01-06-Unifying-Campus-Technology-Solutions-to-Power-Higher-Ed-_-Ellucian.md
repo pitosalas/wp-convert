@@ -5,7 +5,7 @@ url: "https://www.ellucian.com/"
 cover: "https://www.ellucian.com/sites/default/files/uploads/images/2019/01/logo-ellucian.png" 
 date: 2022-01-06
 tags:
-    - education-software-otp
+    - education-tag-software-otp
 ---
 <img src=https://www.ellucian.com/sites/default/files/uploads/images/2019/01/logo-ellucian.png width="500">
 

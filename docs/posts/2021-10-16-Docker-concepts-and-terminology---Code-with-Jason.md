@@ -5,7 +5,7 @@ url: "https://www.codewithjason.com/docker-concepts-terminology/"
 cover: "https://www.codewithjason.com/wp-content/uploads/2018/06/jason-swett.jpg" 
 date: 2021-10-16
 tags:
-    - docker-howto-explainer-jargon
+    - docker-howto-explainer-jargon-tag
 ---
 <img src=https://www.codewithjason.com/wp-content/uploads/2018/06/jason-swett.jpg width="500">
 

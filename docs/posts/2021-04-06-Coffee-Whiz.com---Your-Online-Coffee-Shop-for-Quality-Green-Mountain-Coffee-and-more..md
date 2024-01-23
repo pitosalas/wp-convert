@@ -5,7 +5,7 @@ url: "http://www.coffeewhiz.com"
 cover: "" 
 date: 2021-04-06
 tags:
-    - coffee-k-cups-keurig
+    - coff-tagee-k-cups-keurig
 ---
 <img src= width="500">
 

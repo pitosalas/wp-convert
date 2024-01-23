@@ -5,7 +5,7 @@ url: "https://semaphoreci.com/blog/terraform"
 cover: "https://wpblog.semaphoreci.com/wp-content/uploads/2022/08/Introducing-Semaphore-On-Premise-Host-Your-CICD-behind-Your-Company-Firewall-7.png" 
 date: 2022-08-12
 tags:
-    - terraform-configuration-howto-explainer
+    - terraform-con-tagfiguration-tag-howto-explainer
 ---
 <img src=https://wpblog.semaphoreci.com/wp-content/uploads/2022/08/Introducing-Semaphore-On-Premise-Host-Your-CICD-behind-Your-Company-Firewall-7.png width="500">
 

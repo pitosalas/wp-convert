@@ -5,7 +5,7 @@ url: "https://www.sparkfun.com/products/22230"
 cover: "https://cdn.sparkfun.com/r/92-92/assets/parts/2/2/1/9/1/XRP_Robot-02.jpg" 
 date: 2023-07-07
 tags:
-    - robotics-education-cooltool
+    - robotics-education-tag-cooltool
 ---
 <img src=https://cdn.sparkfun.com/r/92-92/assets/parts/2/2/1/9/1/XRP_Robot-02.jpg width="500">
 

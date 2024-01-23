@@ -5,7 +5,7 @@ url: "http://www.openstv.org"
 cover: "https://rdl.ink/render/http%3A%2F%2Fwww.openstv.org" 
 date: 2021-04-06
 tags:
-    - Elections
+    - Election-tags
 ---
 <img src=https://rdl.ink/render/http%3A%2F%2Fwww.openstv.org width="500">
 

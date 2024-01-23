@@ -5,7 +5,7 @@ url: "https://realpython.com/python-toml/?__s=42c1cgaiqgsbxv5w88au"
 cover: "https://files.realpython.com/media/TOML-in-Python_Watermarked.1bca2ba00140.jpg" 
 date: 2022-08-13
 tags:
-    - toml-configuration-json-ini
+    - toml-con-tagfiguration-tag-json-tag-ini
 ---
 <img src=https://files.realpython.com/media/TOML-in-Python_Watermarked.1bca2ba00140.jpg width="500">
 

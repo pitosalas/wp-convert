@@ -5,7 +5,7 @@ url: "http://www.nytimes.com/2013/02/09/opinion/nocera-innovation-nation-at-war.
 cover: "https://static01.nyt.com/newsgraphics/images/icons/defaultCrop.png?year=2013" 
 date: 2021-04-06
 tags:
-    - innovation-patents
+    - inno-tagvation-tag-patents
 ---
 <img src=https://static01.nyt.com/newsgraphics/images/icons/defaultCrop.png?year=2013 width="500">
 

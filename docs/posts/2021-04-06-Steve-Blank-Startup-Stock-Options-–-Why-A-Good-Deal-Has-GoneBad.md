@@ -5,7 +5,7 @@ url: "https://steveblank.com/2019/04/10/startup-stock-options-why-a-good-deal-ha
 cover: "https://steveblank.com/wp-content/uploads/2019/04/growth-appreciation.jpg?w=640" 
 date: 2021-04-06
 tags:
-    - startup-options-VC-stock
+    - startup-option-tags-VC-stock
 ---
 <img src=https://steveblank.com/wp-content/uploads/2019/04/growth-appreciation.jpg?w=640 width="500">
 

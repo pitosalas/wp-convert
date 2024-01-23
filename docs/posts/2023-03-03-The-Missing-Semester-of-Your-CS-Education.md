@@ -5,7 +5,7 @@ url: "https://missing.csail.mit.edu/?utm_source=hackernewsletter&utm_medium=emai
 cover: "https://rdl.ink/render/https%3A%2F%2Fmissing.csail.mit.edu%2F%3Futm_source%3Dhackernewsletter%26utm_medium%3Demail%26utm_term%3Dfav" 
 date: 2023-03-03
 tags:
-    - education-computer-science-software-engineering-explainer-course
+    - education-tag-computer-science-software-engineering-explainer-course
 ---
 <img src=https://rdl.ink/render/https%3A%2F%2Fmissing.csail.mit.edu%2F%3Futm_source%3Dhackernewsletter%26utm_medium%3Demail%26utm_term%3Dfav width="500">
 

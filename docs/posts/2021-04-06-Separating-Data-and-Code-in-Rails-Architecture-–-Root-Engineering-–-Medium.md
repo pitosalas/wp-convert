@@ -5,7 +5,7 @@ url: "https://medium.com/root-engineering/separating-data-and-code-in-rails-arch
 cover: "https://miro.medium.com/max/1200/1*7YxCV6ckyPMBl8mwOGzRlQ.jpeg" 
 date: 2021-04-06
 tags:
-    - OO-procedural-functional-stateless
+    - OO-procedural-function-tagal-stateless
 ---
 <img src=https://miro.medium.com/max/1200/1*7YxCV6ckyPMBl8mwOGzRlQ.jpeg width="500">
 

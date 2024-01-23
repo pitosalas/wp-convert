@@ -5,7 +5,7 @@ url: "https://github.com/danistefanovic/build-your-own-x"
 cover: "https://avatars.githubusercontent.com/u/1736595?s=400&v=4" 
 date: 2021-04-06
 tags:
-    - howto-instructions-build
+    - howto-instruction-tags-build
 ---
 <img src=https://avatars.githubusercontent.com/u/1736595?s=400&v=4 width="500">
 

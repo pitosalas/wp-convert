@@ -5,7 +5,7 @@ url: "https://link.medium.com/s5bCXwQa3bb"
 cover: "https://miro.medium.com/max/1200/0*ZoHILjNeQQ9ANHr3" 
 date: 2021-04-06
 tags:
-    - howto-techniques-tricks-python
+    - howto-techniques-tricks-python-tag
 ---
 <img src=https://miro.medium.com/max/1200/0*ZoHILjNeQQ9ANHr3 width="500">
 

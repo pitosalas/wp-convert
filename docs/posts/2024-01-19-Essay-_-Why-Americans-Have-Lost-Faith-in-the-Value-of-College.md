@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2024-01-19
 tags:
     - college
-    - none
+    - credentials
     - university
     - wsj
 ---

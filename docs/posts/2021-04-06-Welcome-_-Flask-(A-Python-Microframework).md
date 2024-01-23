@@ -5,7 +5,7 @@ url: "http://flask.pocoo.org"
 cover: "https://rdl.ink/render/http%3A%2F%2Fflask.pocoo.org" 
 date: 2021-04-06
 tags:
-    - framework-tutorial-python
+    - framework-tutorial-python-tag
 ---
 <img src=https://rdl.ink/render/http%3A%2F%2Fflask.pocoo.org width="500">
 

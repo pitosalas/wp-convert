@@ -5,7 +5,7 @@ url: "https://wolfv.medium.com/introducing-scikit-geometry-ae1dccaad5fd"
 cover: "https://miro.medium.com/max/1200/1*Ns12n2k0T3m0Hoe-5gg4kQ.png" 
 date: 2022-07-15
 tags:
-    - robotics-geometry-python-package-howto-cooltool
+    - robotics-geometry-python-tag-package-howto-cooltool
 ---
 <img src=https://miro.medium.com/max/1200/1*Ns12n2k0T3m0Hoe-5gg4kQ.png width="500">
 

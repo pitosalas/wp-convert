@@ -5,7 +5,7 @@ url: "https://automaticaddison.com/the-ultimate-guide-to-real-time-lane-detectio
 cover: "https://automaticaddison.com/wp-content/uploads/2018/11/cropped-logo_sq_240.png" 
 date: 2022-03-22
 tags:
-    - opencv-ros-autonomous-cars-robotics-edge-detection
+    - opencv-ros-auton-tagomous-cars-robotics-edge-detection-tag
 ---
 <img src=https://automaticaddison.com/wp-content/uploads/2018/11/cropped-logo_sq_240.png width="500">
 

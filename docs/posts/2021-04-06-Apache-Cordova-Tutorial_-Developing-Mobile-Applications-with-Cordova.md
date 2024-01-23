@@ -5,7 +5,7 @@ url: "https://www.toptal.com/mobile/developing-mobile-applications-with-apache-c
 cover: "https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/16087/developing-mobile-applications-with-apache-cordova-1c9907eb6e1ea0917f4351b35d0db906.png" 
 date: 2021-04-06
 tags:
-    - apache-cordoba-mobile-phonegap-tutorial-howto
+    - apache-cordoba-mobile-phon-tagegap-tutorial-howto
 ---
 <img src=https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/16087/developing-mobile-applications-with-apache-cordova-1c9907eb6e1ea0917f4351b35d0db906.png width="500">
 

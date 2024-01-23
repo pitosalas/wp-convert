@@ -5,7 +5,7 @@ url: "https://github.com/neuralmagic"
 cover: "https://avatars.githubusercontent.com/u/68670575?s=280&v=4" 
 date: 2021-05-19
 tags:
-    - developers-neural-network-howto-git-computer-vision
+    - developers-neural-network-howto-git-computer-vision-tag
 ---
 <img src=https://avatars.githubusercontent.com/u/68670575?s=280&v=4 width="500">
 

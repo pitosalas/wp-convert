@@ -5,7 +5,7 @@ url: "https://www.youtube.com/watch?v=rSPwOeX46UA"
 cover: "https://i.ytimg.com/vi/rSPwOeX46UA/maxresdefault.jpg" 
 date: 2021-06-12
 tags:
-    - papers-robots-two-minute-papers-grammar-design-research-optimization
+    - papers-robots-two-minute-papers-grammar-design-research-optimization-tag
 ---
 <img src=https://i.ytimg.com/vi/rSPwOeX46UA/maxresdefault.jpg width="500">
 

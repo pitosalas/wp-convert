@@ -5,7 +5,7 @@ url: "https://fictivekin.github.io/pmarchive-jekyll//guide_to_career_planning_pa
 cover: "https://fictivekin.github.io/pmarchive-jekyll//icon-512.png" 
 date: 2022-07-17
 tags:
-    - pmarca-advice-career-strategy-howto-blog-opinion-college-education-education20
+    - pmarca-advice-career-strategy-howto-blog-opinion-tag-college-education-tag-education-tag20
 ---
 <img src=https://fictivekin.github.io/pmarchive-jekyll//icon-512.png width="500">
 

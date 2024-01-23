@@ -5,7 +5,7 @@ url: "https://www.macrumors.com/how-to/hide-notch-macbook-pro/?Bibblio_source=tr
 cover: "https://images.macrumors.com/t/c40LFa_HMYCrp51vMeAClco6VN4=/1600x/article-new/2021/10/macbook-pro-2021-notch-feature.jpg" 
 date: 2021-12-06
 tags:
-    - mbp-notch-app-macos
+    - mbp-no-tagtch-app-macos
 ---
 <img src=https://images.macrumors.com/t/c40LFa_HMYCrp51vMeAClco6VN4=/1600x/article-new/2021/10/macbook-pro-2021-notch-feature.jpg width="500">
 

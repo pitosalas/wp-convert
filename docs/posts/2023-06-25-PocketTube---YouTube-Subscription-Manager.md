@@ -5,7 +5,7 @@ url: "https://pockettube.io/"
 cover: "https://pockettube.io/img/logo.svg" 
 date: 2023-06-25
 tags:
-    - youtube-subscriptions-productivity
+    - youtube-subscription-tags-productivity
 ---
 <img src=https://pockettube.io/img/logo.svg width="500">
 

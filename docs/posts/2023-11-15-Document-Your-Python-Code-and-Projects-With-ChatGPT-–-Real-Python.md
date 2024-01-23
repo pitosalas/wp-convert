@@ -5,7 +5,7 @@ url: "https://realpython.com/document-python-code-with-chatgpt/"
 cover: "https://files.realpython.com/media/Documenting-Your-Code-with-the-Help-of-ChatGPT_Watermarked.daa041e7ad32.jpg" 
 date: 2023-11-15
 tags:
-    - python-chatgpt-documentation-docstrings
+    - python-tag-chatgpt-documentation-tag-docstrings
 ---
 <img src=https://files.realpython.com/media/Documenting-Your-Code-with-the-Help-of-ChatGPT_Watermarked.daa041e7ad32.jpg width="500">
 

@@ -5,7 +5,7 @@ url: "https://0xax.gitbooks.io/linux-insides/content/?utm_source=abyteofcodingne
 cover: "https://rdl.ink/render/https%3A%2F%2F0xax.gitbooks.io%2Flinux-insides%2Fcontent%2F%3Futm_source%3Dabyteofcodingnewsletter" 
 date: 2022-11-22
 tags:
-    - linux-internals-gitbook-explainer-documentation
+    - linux-internals-gitbook-explainer-documentation-tag
 ---
 <img src=https://rdl.ink/render/https%3A%2F%2F0xax.gitbooks.io%2Flinux-insides%2Fcontent%2F%3Futm_source%3Dabyteofcodingnewsletter width="500">
 

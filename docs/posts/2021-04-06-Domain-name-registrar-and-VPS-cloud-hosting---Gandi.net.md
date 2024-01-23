@@ -5,7 +5,7 @@ url: "https://www.gandi.net"
 cover: "https://www.gandi.net/static/images/social/gandi_socials_opengraphs_twitter_HOME.fa5c1dbcdc3d.jpg" 
 date: 2021-04-06
 tags:
-    - domain-registrar-dns-Hosting-domains-registration
+    - domain-registrar-dns-Hosting-domains-registration-tag
 ---
 <img src=https://www.gandi.net/static/images/social/gandi_socials_opengraphs_twitter_HOME.fa5c1dbcdc3d.jpg width="500">
 

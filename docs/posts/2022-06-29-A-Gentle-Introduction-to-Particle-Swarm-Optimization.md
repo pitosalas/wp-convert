@@ -5,7 +5,7 @@ url: "https://machinelearningmastery.com/a-gentle-introduction-to-particle-swarm
 cover: "https://machinelearningmastery.com/wp-content/uploads/2021/08/3333025004_219a07456f_b.jpg" 
 date: 2022-06-29
 tags:
-    - PSO-machine-learning-evolutionary-algorithms-python-py-sci-kit-howto
+    - PSO-machine-learning-evolution-tagary-algorithms-python-tag-py-sci-kit-howto
 ---
 <img src=https://machinelearningmastery.com/wp-content/uploads/2021/08/3333025004_219a07456f_b.jpg width="500">
 

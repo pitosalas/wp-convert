@@ -5,7 +5,7 @@ url: "https://www.alexbevi.com/blog/2022/08/18/why-use-mongodb-with-ruby/?utm_ca
 cover: "https://www.alexbevi.com/images/mongodb-logo.png" 
 date: 2022-09-12
 tags:
-    - ruby-mongodb-howto
+    - ruby-mon-taggodb-howto
 ---
 <img src=https://www.alexbevi.com/images/mongodb-logo.png width="500">
 

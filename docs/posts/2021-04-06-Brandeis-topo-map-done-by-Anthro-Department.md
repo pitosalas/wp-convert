@@ -5,7 +5,7 @@ url: "https://cloud.pix4d.com/pro/project/86182/map?shareToken=eddc0eadd7964e459
 cover: "https://rdl.ink/render/https%3A%2F%2Fcloud.pix4d.com%2Fpro%2Fproject%2F86182%2Fmap%3FshareToken%3Deddc0eadd7964e4591e4bbdcd4b316cf" 
 date: 2021-04-06
 tags:
-    - brandeis-map-google-drone
+    - brandeis-map-google-dron-tage
 ---
 <img src=https://rdl.ink/render/https%3A%2F%2Fcloud.pix4d.com%2Fpro%2Fproject%2F86182%2Fmap%3FshareToken%3Deddc0eadd7964e4591e4bbdcd4b316cf width="500">
 

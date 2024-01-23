@@ -5,7 +5,7 @@ url: "https://stackoverflow.com/questions/19277280/preserving-global-state-in-a-
 cover: "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" 
 date: 2021-07-29
 tags:
-    - python-flask-bugs-sessions
+    - python-tag-flask-bugs-session-tags
 ---
 <img src=https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded width="500">
 

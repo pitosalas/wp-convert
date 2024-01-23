@@ -5,7 +5,7 @@ url: "https://agoodmovietowatch.com"
 cover: "https://agoodmovietowatch.com/assets/agmtw_logo.png" 
 date: 2023-09-08
 tags:
-    - movies-cooltool-recommendations-films-streaming
+    - movies-cooltool-recommendation-tags-films-streaming
 ---
 <img src=https://agoodmovietowatch.com/assets/agmtw_logo.png width="500">
 

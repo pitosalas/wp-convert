@@ -5,7 +5,7 @@ url: "http://archives.chicagotribune.com/2008/feb/06/local/chi-vote_06feb06"
 cover: "https://chicagotribune.newspapers.com/i/papergroup-fsnp.png" 
 date: 2021-04-06
 tags:
-    - Elections
+    - Election-tags
 ---
 <img src=https://chicagotribune.newspapers.com/i/papergroup-fsnp.png width="500">
 

@@ -5,7 +5,7 @@ url: "https://boringrails.com/articles/building-a-rails-ci-pipeline-with-github-
 cover: "https://boringrails.com/images/github-actions-ci.png" 
 date: 2022-10-20
 tags:
-    - github-actions-ci-github-heroku
+    - github-action-tags-ci-github-heroku
 ---
 <img src=https://boringrails.com/images/github-actions-ci.png width="500">
 

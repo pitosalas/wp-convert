@@ -5,7 +5,7 @@ url: "https://fastjetperformance.com/podcasts/how-i-almost-destroyed-a-50-millio
 cover: "https://uploads-ssl.webflow.com/5f1ef7e94b1ce615152895da/5f2197b0689e3c2acfb984e1_1990223_orig.jpeg" 
 date: 2021-04-06
 tags:
-    - competence-checklists-normalization
+    - competence-checklists-no-tagrmalization-tag
 ---
 <img src=https://uploads-ssl.webflow.com/5f1ef7e94b1ce615152895da/5f2197b0689e3c2acfb984e1_1990223_orig.jpeg width="500">
 

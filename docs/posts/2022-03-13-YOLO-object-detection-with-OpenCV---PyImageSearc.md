@@ -5,7 +5,7 @@ url: "https://pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/"
 cover: "https://pyimagesearch.com/wp-content/uploads/2018/11/yolo_living_room_output.jpg" 
 date: 2022-03-13
 tags:
-    - opencv-cv-yolo-object-detection
+    - opencv-cv-yolo-object-detection-tag
 ---
 <img src=https://pyimagesearch.com/wp-content/uploads/2018/11/yolo_living_room_output.jpg width="500">
 

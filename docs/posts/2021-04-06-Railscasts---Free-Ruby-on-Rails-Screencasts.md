@@ -5,7 +5,7 @@ url: "http://www.railscasts.com"
 cover: "https://rdl.ink/render/http%3A%2F%2Fwww.railscasts.com" 
 date: 2021-04-06
 tags:
-    - podcasts-rails-tutorials-ruby-on-rails
+    - podcasts-rails-tutorials-ruby-on-tag-rails
 ---
 <img src=https://rdl.ink/render/http%3A%2F%2Fwww.railscasts.com width="500">
 

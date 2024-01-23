@@ -5,7 +5,7 @@ url: "https://medium.com/@patrick.blesi/https-medium-com-braintree-product-techn
 cover: "https://miro.medium.com/max/1200/1*vbXVBMieAvlO81Cx0-LuqQ.png" 
 date: 2022-01-12
 tags:
-    - howto-automation-devops-runbook-cosi105
+    - howto-automation-tag-devops-runbook-cosi105
 ---
 <img src=https://miro.medium.com/max/1200/1*vbXVBMieAvlO81Cx0-LuqQ.png width="500">
 

@@ -5,7 +5,7 @@ url: "https://github.com/slowrunner/rosbot-on-gopigo3/blob/main/configs/Setup_Ub
 cover: "https://opengraph.githubassets.com/9ee6b98d1a2fd8318187545dc32bd181d0964655ea9658d1c888437d5932f367/slowrunner/rosbot-on-gopigo3" 
 date: 2021-12-22
 tags:
-    - gopigo3-ubuntu-raspberry-pi-instructions-microsd-howto
+    - gopigo3-ubuntu-raspberry-pi-instruction-tags-microsd-howto
 ---
 <img src=https://opengraph.githubassets.com/9ee6b98d1a2fd8318187545dc32bd181d0964655ea9658d1c888437d5932f367/slowrunner/rosbot-on-gopigo3 width="500">
 

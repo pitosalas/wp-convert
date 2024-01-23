@@ -5,7 +5,7 @@ url: "https://www.bostonglobe.com/2021/06/17/opinion/i-absolutely-adored-spock-l
 cover: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/NyF303K_2qR8wd1VJVydtHSU3po=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/4YAQYZUGNBBZRBDYL2GD3OP6JI.jpeg" 
 date: 2021-06-17
 tags:
-    - boston-spock-startrek
+    - boston-tag-spock-startrek
 ---
 <img src=https://bostonglobe-prod.cdn.arcpublishing.com/resizer/NyF303K_2qR8wd1VJVydtHSU3po=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/4YAQYZUGNBBZRBDYL2GD3OP6JI.jpeg width="500">
 

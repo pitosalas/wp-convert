@@ -5,7 +5,7 @@ url: "https://github.com/apotonick/representable"
 cover: "https://avatars.githubusercontent.com/u/9336830?s=400&v=4" 
 date: 2021-04-06
 tags:
-    - github-rubyonrails-gem
+    - github-rubyon-tagrails-gem
 ---
 <img src=https://avatars.githubusercontent.com/u/9336830?s=400&v=4 width="500">
 

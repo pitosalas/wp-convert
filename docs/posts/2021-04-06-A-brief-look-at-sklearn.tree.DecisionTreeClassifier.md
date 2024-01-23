@@ -5,7 +5,7 @@ url: "https://hackernoon.com/a-brief-look-at-sklearn-tree-decisiontreeclassifier
 cover: "https://hackernoon.com/hn-images/1*FzRemidx-XqGKFcbTUBgNA.png" 
 date: 2021-04-06
 tags:
-    - pylearn-decision-tree-classifier
+    - pylearn-decision-tag-tree-classifier
 ---
 <img src=https://hackernoon.com/hn-images/1*FzRemidx-XqGKFcbTUBgNA.png width="500">
 

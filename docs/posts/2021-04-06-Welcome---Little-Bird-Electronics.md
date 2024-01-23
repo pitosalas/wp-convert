@@ -5,7 +5,7 @@ url: "http://www.littlebirdelectronics.com"
 cover: "https://rdl.ink/render/http%3A%2F%2Fwww.littlebirdelectronics.com" 
 date: 2021-04-06
 tags:
-    - electronics-hacking-diy
+    - electron-tagics-hacking-diy
 ---
 <img src=https://rdl.ink/render/http%3A%2F%2Fwww.littlebirdelectronics.com width="500">
 

@@ -5,7 +5,7 @@ url: "https://hackernoon.com/need-faster-code-try-multithreading-5dc30c83837c"
 cover: "https://hackernoon.com/hn-images/0*Y9UVar3ATIDrWsVq.jpg" 
 date: 2021-04-06
 tags:
-    - runtimes-jruby-mri-concurrency-ruby-tips
+    - runtimes-jruby-mri-con-tagcurrency-ruby-tips
 ---
 <img src=https://hackernoon.com/hn-images/0*Y9UVar3ATIDrWsVq.jpg width="500">
 

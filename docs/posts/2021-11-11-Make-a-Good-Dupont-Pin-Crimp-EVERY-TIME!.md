@@ -5,7 +5,7 @@ url: "https://www.instructables.com/Make-a-Good-Dupont-Pin-Crimp-EVERY-TIME/"
 cover: "https://content.instructables.com/ORIG/FFQ/HCD8/JAMTV7UH/FFQHCD8JAMTV7UH.jpg?auto=webp&frame=1&width=2100" 
 date: 2021-11-11
 tags:
-    - electronics-tools-howto-crimping
+    - electron-tagics-tools-howto-crimping
 ---
 <img src=https://content.instructables.com/ORIG/FFQ/HCD8/JAMTV7UH/FFQHCD8JAMTV7UH.jpg?auto=webp&frame=1&width=2100 width="500">
 

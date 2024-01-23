@@ -5,7 +5,7 @@ url: "https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python"
 cover: "https://avatars.githubusercontent.com/u/5308143?s=400&v=4" 
 date: 2021-04-06
 tags:
-    - python-robotics-kalman-filter-jupyter-notebook
+    - python-tag-robotics-kalman-filter-jupyter-no-tagtebook
 ---
 <img src=https://avatars.githubusercontent.com/u/5308143?s=400&v=4 width="500">
 

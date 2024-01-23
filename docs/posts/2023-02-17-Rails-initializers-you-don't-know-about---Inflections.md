@@ -5,7 +5,7 @@ url: "https://blog.saeloun.com/2023/02/09/rails-initializers-you-dont-know-about
 cover: "https://blog.saeloun.com/images/og_logo.png" 
 date: 2023-02-17
 tags:
-    - rails-ruby-ruby-on-rails-initializers-inflections-fun-explainer
+    - rails-ruby-ruby-on-tag-rails-initializers-inflection-tags-fun-explainer
 ---
 <img src=https://blog.saeloun.com/images/og_logo.png width="500">
 

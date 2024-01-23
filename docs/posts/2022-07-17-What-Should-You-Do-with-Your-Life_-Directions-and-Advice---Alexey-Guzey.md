@@ -5,7 +5,7 @@ url: "https://guzey.com/personal/what-should-you-do-with-your-life/#cold-emails-
 cover: "https://rdl.ink/render/https%3A%2F%2Fguzey.com%2Fpersonal%2Fwhat-should-you-do-with-your-life%2F%23cold-emails-and-twitter" 
 date: 2022-07-17
 tags:
-    - advice-growth-personal
+    - advice-growth-person-tagal
 ---
 <img src=https://rdl.ink/render/https%3A%2F%2Fguzey.com%2Fpersonal%2Fwhat-should-you-do-with-your-life%2F%23cold-emails-and-twitter width="500">
 

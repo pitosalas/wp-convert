@@ -5,7 +5,7 @@ url: "http://www.dundas.com"
 cover: "https://rdl.ink/render/http%3A%2F%2Fwww.dundas.com" 
 date: 2021-04-06
 tags:
-    - dashboard-visualization-data-bigdata
+    - dashboard-visualization-tag-data-bigdata
 ---
 <img src=https://rdl.ink/render/http%3A%2F%2Fwww.dundas.com width="500">
 

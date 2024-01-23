@@ -5,7 +5,7 @@ url: "https://github.com/bvandgrift/nanoc-pages-demo/blob/master/content/index.m
 cover: "https://avatars.githubusercontent.com/u/27433?s=400&v=4" 
 date: 2021-04-06
 tags:
-    - nano-github
+    - nano-tag-github
 ---
 <img src=https://avatars.githubusercontent.com/u/27433?s=400&v=4 width="500">
 

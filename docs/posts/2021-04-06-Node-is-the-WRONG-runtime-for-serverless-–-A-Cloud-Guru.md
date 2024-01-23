@@ -5,7 +5,7 @@ url: "https://read.acloud.guru/node-is-the-wrong-runtime-for-serverless-jk-c6959
 cover: "https://rdl.ink/render/https%3A%2F%2Fread.acloud.guru%2Fnode-is-the-wrong-runtime-for-serverless-jk-c69595f6a8eb" 
 date: 2021-04-06
 tags:
-    - Python-node-javascript-lambda-cloud
+    - Python-tag-no-tagde-javascript-lambda-cloud
 ---
 <img src=https://rdl.ink/render/https%3A%2F%2Fread.acloud.guru%2Fnode-is-the-wrong-runtime-for-serverless-jk-c69595f6a8eb width="500">
 

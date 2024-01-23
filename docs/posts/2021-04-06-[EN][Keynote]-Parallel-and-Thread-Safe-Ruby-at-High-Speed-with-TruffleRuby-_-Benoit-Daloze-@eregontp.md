@@ -5,7 +5,7 @@ url: "https://m.youtube.com/watch?v=mRKjWrNJ8DI"
 cover: "https://rdl.ink/render/https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DmRKjWrNJ8DI" 
 date: 2021-04-06
 tags:
-    - performance-truffle-speed-ruby-optimization
+    - performance-truffle-speed-ruby-optimization-tag
 ---
 <img src=https://rdl.ink/render/https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DmRKjWrNJ8DI width="500">
 

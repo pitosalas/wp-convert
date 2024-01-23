@@ -3,7 +3,7 @@ title: "A 3-Question Checklist for Better Course Design"
 author: Pito Salas
 date: 2024-01-16
 tags:
-    - none
+    - course-design
     - higher-education-tag
     - howto
     - teaching

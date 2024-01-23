@@ -5,7 +5,7 @@ url: "https://tomaugspurger.github.io/method-chaining.html"
 cover: "https://rdl.ink/render/https%3A%2F%2Ftomaugspurger.github.io%2Fmethod-chaining.html" 
 date: 2021-04-06
 tags:
-    - pandas-functional-style-howto
+    - pandas-function-tagal-style-howto
 ---
 <img src=https://rdl.ink/render/https%3A%2F%2Ftomaugspurger.github.io%2Fmethod-chaining.html width="500">
 

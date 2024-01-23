@@ -5,7 +5,7 @@ url: "https://medium.com/better-programming/address-these-5-questions-to-underst
 cover: "https://miro.medium.com/max/1200/0*wLu3bx5ZBzhwRisR" 
 date: 2021-04-06
 tags:
-    - howto-python-programming-logging
+    - howto-python-tag-programming-logging
 ---
 <img src=https://miro.medium.com/max/1200/0*wLu3bx5ZBzhwRisR width="500">
 

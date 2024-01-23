@@ -5,7 +5,7 @@ url: "https://www.akshaykhot.com/how-rails-concerns-work-and-how-to-use-them/"
 cover: "https://www.akshaykhot.com/content/images/2023/05/concerns-5.png" 
 date: 2023-06-01
 tags:
-    - rails-object-oriented-prpgramming-oop-concerns-ruby-modules
+    - rails-object-oriented-prpgramming-oop-con-tagcerns-ruby-modules
 ---
 <img src=https://www.akshaykhot.com/content/images/2023/05/concerns-5.png width="500">
 

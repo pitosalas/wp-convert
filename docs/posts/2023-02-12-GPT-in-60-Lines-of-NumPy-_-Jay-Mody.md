@@ -5,7 +5,7 @@ url: "https://jaykmody.com/blog/gpt-from-scratch/"
 cover: "https://jaykmody.com/profile.png" 
 date: 2023-02-12
 tags:
-    - python-chat-gpt-machine-learning-neural-network-explainer-source-code
+    - python-tag-chat-gpt-machine-learning-neural-network-explainer-source-code
 ---
 <img src=https://jaykmody.com/profile.png width="500">
 

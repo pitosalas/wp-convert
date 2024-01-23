@@ -5,7 +5,7 @@ url: "https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906?source
 cover: "https://miro.medium.com/focal/1200/632/51/16/1*_jDTWlZNUySwrRBgVNqoNw.png" 
 date: 2021-04-06
 tags:
-    - python-Jupiter-datascience-notebook-statistics
+    - python-tag-Jupiter-datascience-no-tagtebook-statistics
 ---
 <img src=https://miro.medium.com/focal/1200/632/51/16/1*_jDTWlZNUySwrRBgVNqoNw.png width="500">
 

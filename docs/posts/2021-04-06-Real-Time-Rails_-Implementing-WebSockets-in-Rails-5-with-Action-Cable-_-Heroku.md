@@ -5,7 +5,7 @@ url: "https://blog.heroku.com/real_time_rails_implementing_websockets_in_rails_5
 cover: "https://www.herokucdn.com/images/og.png" 
 date: 2021-04-06
 tags:
-    - Ruby-rails-actioncable
+    - Ruby-rails-action-tagcable
 ---
 <img src=https://www.herokucdn.com/images/og.png width="500">
 

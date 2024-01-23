@@ -5,7 +5,7 @@ url: "https://www.engraved.blog/building-a-virtual-machine-inside/"
 cover: "https://www.engraved.blog/content/images/2022/12/deepmind-mbq0qL3ynMs-unsplash.jpg" 
 date: 2022-12-04
 tags:
-    - text-generation-chat-gpt-linux-shell-the-matrix
+    - text-generation-tag-chat-gpt-linux-shell-the-matrix
 ---
 <img src=https://www.engraved.blog/content/images/2022/12/deepmind-mbq0qL3ynMs-unsplash.jpg width="500">
 

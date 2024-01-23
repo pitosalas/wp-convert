@@ -5,7 +5,7 @@ url: "https://learnbyexample.github.io/learn_ruby_oneliners/one-liner-introducti
 cover: "https://rdl.ink/render/https%3A%2F%2Flearnbyexample.github.io%2Flearn_ruby_oneliners%2Fone-liner-introduction.html" 
 date: 2021-04-06
 tags:
-    - cookbook-howto-ruby-oneliners
+    - cookbook-howto-ruby-on-tageliners
 ---
 <img src=https://rdl.ink/render/https%3A%2F%2Flearnbyexample.github.io%2Flearn_ruby_oneliners%2Fone-liner-introduction.html width="500">
 

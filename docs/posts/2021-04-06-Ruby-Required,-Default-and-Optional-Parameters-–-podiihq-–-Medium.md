@@ -5,7 +5,7 @@ url: "https://medium.com/podiihq/ruby-parameters-c178fdcd1f4e?source=userActivit
 cover: "https://miro.medium.com/max/583/1*DeV6JbwdzJfbZNC9BWCZxA.jpeg" 
 date: 2021-04-06
 tags:
-    - ruby-arguments-optional-parameters
+    - ruby-arguments-option-tagal-parameters
 ---
 <img src=https://miro.medium.com/max/583/1*DeV6JbwdzJfbZNC9BWCZxA.jpeg width="500">
 

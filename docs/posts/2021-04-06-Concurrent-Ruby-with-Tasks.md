@@ -5,7 +5,7 @@ url: "https://www.reddit.com/r/ruby/comments/9sda4c/concurrent_ruby_with_tasks?s
 cover: "https://www.redditstatic.com/new-icon.png" 
 date: 2021-04-06
 tags:
-    - ruby-tasks-monad
+    - ruby-tasks-mon-tagad
 ---
 <img src=https://www.redditstatic.com/new-icon.png width="500">
 

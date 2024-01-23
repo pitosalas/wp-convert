@@ -5,7 +5,7 @@ url: "https://devcenter.heroku.com/articles/free-dyno-hours"
 cover: "https://www.herokucdn.com/images/og.png" 
 date: 2021-04-06
 tags:
-    - heroku-free-offers-students
+    - heroku-free-off-tagers-students
 ---
 <img src=https://www.herokucdn.com/images/og.png width="500">
 

@@ -5,7 +5,7 @@ url: "http://blogging.alastair.is/how-i-served-100k-users-without-crashing-and-o
 cover: "" 
 date: 2021-04-06
 tags:
-    - amazon-hosting
+    - amazon-tag-hosting
 ---
 <img src= width="500">
 

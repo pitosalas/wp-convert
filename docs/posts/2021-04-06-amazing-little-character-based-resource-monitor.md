@@ -5,7 +5,7 @@ url: "https://github.com/aristocratos/bashtop"
 cover: "https://avatars.githubusercontent.com/u/59659483?s=400&v=4" 
 date: 2021-04-06
 tags:
-    - bash-cli-shell-monitoring
+    - bash-cli-shell-mon-tagitoring
 ---
 <img src=https://avatars.githubusercontent.com/u/59659483?s=400&v=4 width="500">
 

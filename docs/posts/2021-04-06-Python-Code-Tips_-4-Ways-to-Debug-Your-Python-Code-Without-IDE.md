@@ -5,7 +5,7 @@ url: "https://link.medium.com/ZTFY7yszScb"
 cover: "https://miro.medium.com/max/1200/1*yeYhfRNTkqgc9qh6zCuI-Q.png" 
 date: 2021-04-06
 tags:
-    - howto-python-debug-basic
+    - howto-python-tag-debug-basic
 ---
 <img src=https://miro.medium.com/max/1200/1*yeYhfRNTkqgc9qh6zCuI-Q.png width="500">
 

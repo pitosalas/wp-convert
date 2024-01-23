@@ -5,7 +5,7 @@ url: "http://minnesota.publicradio.org/features/2008/11/19_challenged_ballots"
 cover: "http://minnesota.publicradio.org/standard/images/mpr006/fb-opengraph/news.gif" 
 date: 2021-04-06
 tags:
-    - Elections
+    - Election-tags
 ---
 <img src=http://minnesota.publicradio.org/standard/images/mpr006/fb-opengraph/news.gif width="500">
 

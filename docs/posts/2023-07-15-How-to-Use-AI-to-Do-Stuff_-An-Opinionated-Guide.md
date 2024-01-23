@@ -5,7 +5,7 @@ url: "https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated?
 cover: "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F382ea217-7a23-47f3-bb7f-bbab3dbc9902_1376x864.png" 
 date: 2023-07-15
 tags:
-    - chatgpt-ai-llm-review-recommendations
+    - chatgpt-ai-llm-review-recommendation-tags
 ---
 <img src=https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F382ea217-7a23-47f3-bb7f-bbab3dbc9902_1376x864.png width="500">
 

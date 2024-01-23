@@ -5,7 +5,7 @@ url: "https://quillette.com/2022/09/15/math-for-future-darwins/"
 cover: "https://s3.amazonaws.com/prod.static-content.quillette.com/2022/09/Math--1-.png" 
 date: 2022-10-05
 tags:
-    - calculus-statistics-mathematics-education-highschool-higher-education
+    - calculus-statistics-mathematics-education-tag-highschool-higher-education-tag
 ---
 <img src=https://s3.amazonaws.com/prod.static-content.quillette.com/2022/09/Math--1-.png width="500">
 

@@ -5,7 +5,7 @@ url: "https://janko.io/rodauth-a-refreshing-authentication-solution-for-ruby"
 cover: "https://rdl.ink/render/https%3A%2F%2Fjanko.io%2Frodauth-a-refreshing-authentication-solution-for-ruby" 
 date: 2021-04-06
 tags:
-    - howto-roda-authentication-ruby
+    - howto-roda-authentication-tag-ruby
 ---
 <img src=https://rdl.ink/render/https%3A%2F%2Fjanko.io%2Frodauth-a-refreshing-authentication-solution-for-ruby width="500">
 

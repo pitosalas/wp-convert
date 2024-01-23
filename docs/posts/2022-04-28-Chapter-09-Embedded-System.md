@@ -5,7 +5,7 @@ url: "https://www.youtube.com/watch?v=kPzy3fXY7X0"
 cover: "https://i.ytimg.com/vi/kPzy3fXY7X0/maxresdefault.jpg" 
 date: 2022-04-28
 tags:
-    - ros-rosserial-opencr-arduino-guide-howto
+    - ros-rosserial-opencr-arduino-tag-guide-howto
 ---
 <img src=https://i.ytimg.com/vi/kPzy3fXY7X0/maxresdefault.jpg width="500">
 

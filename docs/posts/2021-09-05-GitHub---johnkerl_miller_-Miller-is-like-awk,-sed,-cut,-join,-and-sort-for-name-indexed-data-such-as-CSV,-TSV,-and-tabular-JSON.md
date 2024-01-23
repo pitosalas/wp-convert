@@ -5,7 +5,7 @@ url: "https://github.com/johnkerl/miller"
 cover: "https://repository-images.githubusercontent.com/35003822/88fe0000-d7c8-11ea-8e9d-574509a9907c" 
 date: 2021-09-05
 tags:
-    - cli-csv-cooltool-howto-data-json
+    - cli-csv-cooltool-howto-data-json-tag
 ---
 <img src=https://repository-images.githubusercontent.com/35003822/88fe0000-d7c8-11ea-8e9d-574509a9907c width="500">
 

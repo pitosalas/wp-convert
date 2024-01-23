@@ -5,7 +5,7 @@ url: "https://www.reddit.com/r/webdev/comments/90xmpw/how_to_prep_your_github_fo
 cover: "https://external-preview.redd.it/YMPZTYosGtHGXv1uS9w78kPJEjf83SgwfzqnRn2z1ug.jpg?width=600&height=300&auto=webp&crop=600:300,smart&s=a5f56e141d1b355006eb674a8f890aa0ad4aac92" 
 date: 2021-04-06
 tags:
-    - job-resume-github-organization
+    - job-resume-github-organization-tag
 ---
 <img src=https://external-preview.redd.it/YMPZTYosGtHGXv1uS9w78kPJEjf83SgwfzqnRn2z1ug.jpg?width=600&height=300&auto=webp&crop=600:300,smart&s=a5f56e141d1b355006eb674a8f890aa0ad4aac92 width="500">
 

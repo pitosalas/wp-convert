@@ -5,7 +5,7 @@ url: "http://www.splunk.com/view/product-tour/SP-CAAAAGV"
 cover: "https://www.splunk.com/content/dam/splunk2/images/social/splunk-logo.jpg" 
 date: 2021-04-06
 tags:
-    - collection-bigdata-charts
+    - collection-tag-bigdata-charts
 ---
 <img src=https://www.splunk.com/content/dam/splunk2/images/social/splunk-logo.jpg width="500">
 

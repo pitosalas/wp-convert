@@ -5,7 +5,7 @@ url: "https://elitedatascience.com/python-seaborn-tutorial"
 cover: "https://elitedatascience.com/wp-content/uploads/2017/04/python-seaborn-tutorial-feature-image.jpg" 
 date: 2021-04-06
 tags:
-    - python-seaborn
+    - python-tag-seaborn
 ---
 <img src=https://elitedatascience.com/wp-content/uploads/2017/04/python-seaborn-tutorial-feature-image.jpg width="500">
 

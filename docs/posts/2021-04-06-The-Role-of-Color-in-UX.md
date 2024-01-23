@@ -5,7 +5,7 @@ url: "https://www.toptal.com/designers/ux/color-in-ux?_hsenc=p2ANqtz-86r4Ptj5Vm2
 cover: "https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/16782/image_12-76204aeb9faef819800989f38460159b.png" 
 date: 2021-04-06
 tags:
-    - emotions-color-UX
+    - emotion-tags-color-UX
 ---
 <img src=https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/16782/image_12-76204aeb9faef819800989f38460159b.png width="500">
 

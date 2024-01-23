@@ -5,7 +5,7 @@ url: "https://jaxenter.com/gitpod-github-ide-157678.html"
 cover: "https://jaxenter.com/wp-content/uploads/2019/04/shutterstock_511437970.png" 
 date: 2021-04-06
 tags:
-    - ide-online-github
+    - ide-on-tagline-github
 ---
 <img src=https://jaxenter.com/wp-content/uploads/2019/04/shutterstock_511437970.png width="500">
 

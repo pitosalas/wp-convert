@@ -5,7 +5,7 @@ url: "https://schweigi.github.io/assembler-simulator/"
 cover: "https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" 
 date: 2023-01-13
 tags:
-    - assembly-education-visual-simulator-explainer
+    - assembly-education-tag-visual-simulator-explainer
 ---
 <img src=https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png width="500">
 

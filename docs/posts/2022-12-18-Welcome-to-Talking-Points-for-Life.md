@@ -5,7 +5,7 @@ url: "https://www.talkingpointsforlife.com/?utm_campaign=Recomendo&utm_medium=em
 cover: "https://super-static-assets.s3.amazonaws.com/c4b971f3-0db7-4812-8770-97be7a98e40f/images/a5ab39b6-00b2-41fa-adca-905b01189861.png" 
 date: 2022-12-18
 tags:
-    - interview-communicating-relationships-howto
+    - interview-communicating-relation-tagships-howto
 ---
 <img src=https://super-static-assets.s3.amazonaws.com/c4b971f3-0db7-4812-8770-97be7a98e40f/images/a5ab39b6-00b2-41fa-adca-905b01189861.png width="500">
 

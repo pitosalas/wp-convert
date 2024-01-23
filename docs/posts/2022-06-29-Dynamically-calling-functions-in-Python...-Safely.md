@@ -5,7 +5,7 @@ url: "https://www.danielmorell.com/blog/dynamically-calling-functions-in-python-
 cover: "https://www.danielmorell.com/images/articles/daniel_morell_python_dynamic_functions.jpg" 
 date: 2022-06-29
 tags:
-    - python-dynamic-functions-howto
+    - python-tag-dynamic-function-tags-howto
 ---
 <img src=https://www.danielmorell.com/images/articles/daniel_morell_python_dynamic_functions.jpg width="500">
 

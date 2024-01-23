@@ -5,7 +5,7 @@ url: "https://fly.io/ruby-dispatch/making-sense-of-rails-assets/"
 cover: "https://fly.io/ruby-dispatch/2022-08-22/making-sense-of-rails-assets.jpg" 
 date: 2022-09-23
 tags:
-    - rails-asset-pipeline-configuration-explainer-howto
+    - rails-asset-pipeline-con-tagfiguration-tag-explainer-howto
 ---
 <img src=https://fly.io/ruby-dispatch/2022-08-22/making-sense-of-rails-assets.jpg width="500">
 

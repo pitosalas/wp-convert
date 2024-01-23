@@ -5,7 +5,7 @@ url: "http://www.darcynorman.net/2007/09/01/open-education-course-week-1-reading
 cover: "https://darcynorman.net/images/1980-something.jpg" 
 date: 2021-04-06
 tags:
-    - daulist-education20-education
+    - daulist-education-tag20-education-tag
 ---
 <img src=https://darcynorman.net/images/1980-something.jpg width="500">
 

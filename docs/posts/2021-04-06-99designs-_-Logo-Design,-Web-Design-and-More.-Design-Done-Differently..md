@@ -5,7 +5,7 @@ url: "http://99designs.com"
 cover: "https://99designs.com/og-image.png" 
 date: 2021-04-06
 tags:
-    - design-icons-graphics-samples
+    - design-icon-tags-graphics-samples
 ---
 <img src=https://99designs.com/og-image.png width="500">
 

@@ -5,7 +5,7 @@ url: "https://www.datacamp.com/community/tutorials/data-science-python-ide"
 cover: "" 
 date: 2021-04-06
 tags:
-    - python-data-science-ide
+    - python-tag-data-science-ide
 ---
 <img src= width="500">
 

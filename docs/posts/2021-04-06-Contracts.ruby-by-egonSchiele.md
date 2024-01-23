@@ -5,7 +5,7 @@ url: "http://egonschiele.github.io/contracts.ruby"
 cover: "https://rdl.ink/render/http%3A%2F%2Fegonschiele.github.io%2Fcontracts.ruby" 
 date: 2021-04-06
 tags:
-    - contracts-ruby-gem
+    - con-tagtracts-ruby-gem
 ---
 <img src=https://rdl.ink/render/http%3A%2F%2Fegonschiele.github.io%2Fcontracts.ruby width="500">
 

@@ -5,7 +5,7 @@ url: "http://blog.sethladd.com/2010/09/ruby-rails-openid-and-google.html"
 cover: "https://rdl.ink/render/http%3A%2F%2Fblog.sethladd.com%2F2010%2F09%2Fruby-rails-openid-and-google.html" 
 date: 2021-04-06
 tags:
-    - rails-authentication-teaching
+    - rails-authentication-tag-teaching
 ---
 <img src=https://rdl.ink/render/http%3A%2F%2Fblog.sethladd.com%2F2010%2F09%2Fruby-rails-openid-and-google.html width="500">
 

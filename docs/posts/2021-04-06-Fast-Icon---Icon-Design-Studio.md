@@ -5,7 +5,7 @@ url: "http://www.fasticon.com"
 cover: "https://rdl.ink/render/http%3A%2F%2Fwww.fasticon.com" 
 date: 2021-04-06
 tags:
-    - design-graphics-resource-interface-icons
+    - design-graphics-resource-interface-icon-tags
 ---
 <img src=https://rdl.ink/render/http%3A%2F%2Fwww.fasticon.com width="500">
 

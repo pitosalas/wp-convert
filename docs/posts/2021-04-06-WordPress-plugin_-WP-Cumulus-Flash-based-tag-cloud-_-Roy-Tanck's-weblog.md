@@ -5,7 +5,7 @@ url: "http://www.roytanck.com/2008/03/06/wordpress-plugin-wp-cumulus-flash-based
 cover: "https://roytanck.com/wp-content/uploads/2018/05/roytanck-crocus-small.jpg" 
 date: 2021-04-06
 tags:
-    - Elections
+    - Election-tags
 ---
 <img src=https://roytanck.com/wp-content/uploads/2018/05/roytanck-crocus-small.jpg width="500">
 

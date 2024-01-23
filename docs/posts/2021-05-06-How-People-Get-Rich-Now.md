@@ -5,7 +5,7 @@ url: "http://paulgraham.com/richnow.html"
 cover: "https://rdl.ink/render/http%3A%2F%2Fpaulgraham.com%2Frichnow.html" 
 date: 2021-05-06
 tags:
-    - paulgraham-rich-essay-money-interesting
+    - paulgraham-rich-essay-mon-tagey-interesting
 ---
 <img src=https://rdl.ink/render/http%3A%2F%2Fpaulgraham.com%2Frichnow.html width="500">
 

@@ -5,7 +5,7 @@ url: "https://techiegamers.com/top-5-programming-languages"
 cover: "https://techiegamers.com/wp-content/uploads/2018/07/best-coding-languages.jpg" 
 date: 2021-04-06
 tags:
-    - recommendations-programming-languages
+    - recommendation-tags-programming-languages
 ---
 <img src=https://techiegamers.com/wp-content/uploads/2018/07/best-coding-languages.jpg width="500">
 

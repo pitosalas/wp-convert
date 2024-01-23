@@ -5,7 +5,7 @@ url: "https://www.packt.com/bizarre-python/?utm_source=abyteofcodingnewsletter"
 cover: "https://www.packt.com/wp-content/uploads/2022/05/pexels-photo-821944.jpeg" 
 date: 2022-06-30
 tags:
-    - python-howto-objects-functions
+    - python-tag-howto-objects-function-tags
 ---
 <img src=https://www.packt.com/wp-content/uploads/2022/05/pexels-photo-821944.jpeg width="500">
 

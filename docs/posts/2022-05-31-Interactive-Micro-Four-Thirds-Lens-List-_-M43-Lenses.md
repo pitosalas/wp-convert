@@ -5,7 +5,7 @@ url: "https://www.m43lenses.com/"
 cover: "https://rdl.ink/render/https%3A%2F%2Fwww.m43lenses.com%2F" 
 date: 2022-05-31
 tags:
-    - lenses-zoom-guide-mft-listing-shopping-compare-comparison
+    - lenses-zoom-guide-mft-listing-shopping-compare-comparison-tag
 ---
 <img src=https://rdl.ink/render/https%3A%2F%2Fwww.m43lenses.com%2F width="500">
 

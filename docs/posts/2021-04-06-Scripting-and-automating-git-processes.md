@@ -5,7 +5,7 @@ url: "https://stackoverflow.com/questions/3878624/how-do-i-programmatically-dete
 cover: "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" 
 date: 2021-04-06
 tags:
-    - scripting-automation-cli-ruby-bash-tips
+    - scripting-automation-tag-cli-ruby-bash-tips
 ---
 <img src=https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded width="500">
 

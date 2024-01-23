@@ -5,7 +5,7 @@ url: "https://hbsp.harvard.edu/inspiring-minds/how-to-encourage-students-to-spea
 cover: "https://images.ctfassets.net/pdakd7vx2wgl/2cofeIArUdwfcLEKEMspfe/772c76324f5d175b1d7818647f3bfc30/Jan22_10_1277308208_1200x630.jpg" 
 date: 2022-02-04
 tags:
-    - otp-participation-howto-teaching-zoom-meetings
+    - otp-participation-tag-howto-teaching-zoom-meetings
 ---
 <img src=https://images.ctfassets.net/pdakd7vx2wgl/2cofeIArUdwfcLEKEMspfe/772c76324f5d175b1d7818647f3bfc30/Jan22_10_1277308208_1200x630.jpg width="500">
 

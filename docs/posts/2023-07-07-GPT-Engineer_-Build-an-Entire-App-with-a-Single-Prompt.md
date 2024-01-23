@@ -5,7 +5,7 @@ url: "https://levelup.gitconnected.com/gpt-engineer-build-an-entire-app-with-a-s
 cover: "https://miro.medium.com/v2/resize:fit:1200/0*nfKmcfuzpVYPxfXg" 
 date: 2023-07-07
 tags:
-    - cooltool-ChatGPT-programming-python-automation
+    - cooltool-ChatGPT-programming-python-tag-automation-tag
 ---
 <img src=https://miro.medium.com/v2/resize:fit:1200/0*nfKmcfuzpVYPxfXg width="500">
 

@@ -5,7 +5,7 @@ url: "https://kukicola.io/posts/deploying-rails-6-application-with-dokku"
 cover: "https://kukicola.io/assets/img/photo.jpg" 
 date: 2021-04-06
 tags:
-    - howto-scale-dokku-explainer-applications-rails
+    - howto-scale-dokku-explainer-application-tags-rails
 ---
 <img src=https://kukicola.io/assets/img/photo.jpg width="500">
 

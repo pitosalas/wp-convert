@@ -5,7 +5,7 @@ url: "https://evilmartians.com/chronicles/rails-6-b-sides-and-rarities"
 cover: "https://cdn.evilmartians.com/front/posts/rails-6-b-sides-and-rarities/cover-6eb462a.png" 
 date: 2021-04-06
 tags:
-    - activerecord-news-activestorage-rails-ruby-actioncable
+    - activerecord-news-activestorage-rails-ruby-action-tagcable
 ---
 <img src=https://cdn.evilmartians.com/front/posts/rails-6-b-sides-and-rarities/cover-6eb462a.png width="500">
 

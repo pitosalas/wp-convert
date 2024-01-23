@@ -5,7 +5,7 @@ url: "https://softwareengineeringdaily.com/2018/03/26/consensus-systems-with-eth
 cover: "https://softwareengineeringdaily.com/wp-content/uploads/2018/03/tendermint1.png" 
 date: 2021-04-06
 tags:
-    - consensus-systems-software
+    - con-tagsensus-systems-software
 ---
 <img src=https://softwareengineeringdaily.com/wp-content/uploads/2018/03/tendermint1.png width="500">
 

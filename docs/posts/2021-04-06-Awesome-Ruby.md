@@ -5,7 +5,7 @@ url: "http://awesome-ruby.com"
 cover: "http://awesome-ruby.com/images/logo_l.png" 
 date: 2021-04-06
 tags:
-    - ruby-library-tools-collection
+    - ruby-library-tools-collection-tag
 ---
 <img src=http://awesome-ruby.com/images/logo_l.png width="500">
 

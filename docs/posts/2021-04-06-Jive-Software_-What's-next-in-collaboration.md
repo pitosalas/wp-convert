@@ -5,7 +5,7 @@ url: "http://www.jivesoftware.com"
 cover: "https://www.jivesoftware.com/wp-content/uploads/Screens/homepage-screenshot-1024x571.png" 
 date: 2021-04-06
 tags:
-    - collaboration-software-forums
+    - collaboration-tag-software-forums
 ---
 <img src=https://www.jivesoftware.com/wp-content/uploads/Screens/homepage-screenshot-1024x571.png width="500">
 

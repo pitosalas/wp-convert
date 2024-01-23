@@ -5,7 +5,7 @@ url: "https://www.sitepoint.com/comparing-ruby-background-processing-libraries-d
 cover: "https://uploads.sitepoint.com/wp-content/uploads/2013/09/Fotolia_52657937_Subscription_XL-1024x724.jpg" 
 date: 2022-03-28
 tags:
-    - ruby-background-processing-howto-gem-performance-concurrency
+    - ruby-background-processing-howto-gem-performance-con-tagcurrency
 ---
 <img src=https://uploads.sitepoint.com/wp-content/uploads/2013/09/Fotolia_52657937_Subscription_XL-1024x724.jpg width="500">
 

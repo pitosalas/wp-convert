@@ -5,7 +5,7 @@ url: "https://docs.preset.io/docs/creating-a-chart"
 cover: "https://cdn.document360.io/4749ddf8-aa05-4f3f-80e1-07a5d2d0f137/Images/Documentation/Create%20Chart%201.gif" 
 date: 2022-12-06
 tags:
-    - superset-preset-charting-sql-postgresql-visualization-dashboards
+    - superset-preset-charting-sql-postgresql-visualization-tag-dashboards
 ---
 <img src=https://cdn.document360.io/4749ddf8-aa05-4f3f-80e1-07a5d2d0f137/Images/Documentation/Create%20Chart%201.gif width="500">
 

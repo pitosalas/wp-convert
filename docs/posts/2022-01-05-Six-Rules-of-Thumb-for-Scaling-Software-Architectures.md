@@ -5,7 +5,7 @@ url: "https://medium.com/@i.gorton/six-rules-of-thumb-for-scaling-software-archi
 cover: "https://miro.medium.com/max/681/1*2DYpuGytCWCOX5Ulbsw7Nw.png" 
 date: 2022-01-05
 tags:
-    - scaling-software-engineering-youre-not-google-rules-of-thumb
+    - scaling-software-engineering-youre-no-tagt-google-rules-of-thumb
 ---
 <img src=https://miro.medium.com/max/681/1*2DYpuGytCWCOX5Ulbsw7Nw.png width="500">
 

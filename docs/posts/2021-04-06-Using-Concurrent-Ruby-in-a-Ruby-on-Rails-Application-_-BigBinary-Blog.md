@@ -5,7 +5,7 @@ url: "https://blog.bigbinary.com/2018/06/05/using-concurrent-ruby-in-a-ruby-on-r
 cover: "https://bigbinary.com/blog_images/bigbinary_square_logo.png" 
 date: 2021-04-06
 tags:
-    - concurrency-ruby-techniques
+    - con-tagcurrency-ruby-techniques
 ---
 <img src=https://bigbinary.com/blog_images/bigbinary_square_logo.png width="500">
 

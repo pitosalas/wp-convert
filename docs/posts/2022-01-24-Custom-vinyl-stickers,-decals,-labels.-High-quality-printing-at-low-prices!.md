@@ -5,7 +5,7 @@ url: "https://stickerguy.com/"
 cover: "https://www.stickerguy.com/wp-content/themes/sticker/pix/stickerguy-banner.png" 
 date: 2022-01-24
 tags:
-    - stickers-ecommerce-order-online-shop
+    - stickers-ecommerce-order-on-tagline-shop
 ---
 <img src=https://www.stickerguy.com/wp-content/themes/sticker/pix/stickerguy-banner.png width="500">
 

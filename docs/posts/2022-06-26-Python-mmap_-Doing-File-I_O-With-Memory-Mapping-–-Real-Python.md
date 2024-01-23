@@ -5,7 +5,7 @@ url: "https://realpython.com/courses/python-mmap-io/"
 cover: "https://files.realpython.com/media/Using-mmap-Library_Watermarked.3e331f6bcc1d.jpg" 
 date: 2022-06-26
 tags:
-    - python-mmap-howto
+    - python-tag-mmap-howto
 ---
 <img src=https://files.realpython.com/media/Using-mmap-Library_Watermarked.3e331f6bcc1d.jpg width="500">
 

@@ -5,7 +5,7 @@ url: "https://www.learnhowtoprogram.com/rails/building-an-api/rails-concerns-and
 cover: "" 
 date: 2021-04-06
 tags:
-    - ruby-rails-concerns
+    - ruby-rails-con-tagcerns
 ---
 <img src= width="500">
 

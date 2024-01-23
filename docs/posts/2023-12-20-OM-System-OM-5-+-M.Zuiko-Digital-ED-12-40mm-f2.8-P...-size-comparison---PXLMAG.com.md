@@ -5,7 +5,7 @@ url: "https://pxlmag.com/db/camera-size-comparison/0032805d_f4cc8091-0032805d_51
 cover: "https://pxlmag.com/db/images/size-comparison-tool.png" 
 date: 2023-12-20
 tags:
-    - camera-lens-shopping-visualization
+    - camera-lens-shopping-visualization-tag
 ---
 <img src=https://pxlmag.com/db/images/size-comparison-tool.png width="500">
 

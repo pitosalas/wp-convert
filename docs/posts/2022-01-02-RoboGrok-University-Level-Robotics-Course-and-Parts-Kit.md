@@ -5,7 +5,7 @@ url: "http://www.robogrok.com/"
 cover: "http://www.robogrok.com/images/img0166.png" 
 date: 2022-01-02
 tags:
-    - robotics-course-hands-on-robotics-kit-robots-course-theory
+    - robotics-course-hands-on-tag-robotics-kit-robots-course-theory
 ---
 <img src=http://www.robogrok.com/images/img0166.png width="500">
 

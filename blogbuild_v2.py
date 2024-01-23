@@ -62,6 +62,7 @@ class BlogBuild:
                 continue
             tags = self.generate_tags_string(post['tags'])
             self.save_individual_post(title, content, date, tags, None, None)
+            print(f"Adding Post {title}")
             count += 1
         print(f"""Total: {count} wp Posts Generated""")
 

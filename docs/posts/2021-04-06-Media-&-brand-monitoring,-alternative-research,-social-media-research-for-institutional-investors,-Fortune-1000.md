@@ -5,7 +5,7 @@ url: "http://www.collectiveintellect.com"
 cover: "" 
 date: 2021-04-06
 tags:
-    - finance-jasonjones-blogbridge
+    - finance-jason-tagjon-tages-blogbridge
 ---
 <img src= width="500">
 

@@ -5,7 +5,7 @@ url: "https://crypt.codemancers.com/posts/2018-07-29-leveraging-pundit"
 cover: "https://crypt.codemancers.com/assets/images/logo-for-twitter.png" 
 date: 2021-04-06
 tags:
-    - pundit-rails-recipes-authorization
+    - pundit-rails-recipes-authorization-tag
 ---
 <img src=https://crypt.codemancers.com/assets/images/logo-for-twitter.png width="500">
 

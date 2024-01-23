@@ -5,7 +5,7 @@ url: "https://earthly.dev/blog/jq-select/"
 cover: "https://earthly.dev/blog/generated/assets/images/jq-select/header-800-9692dfee3.jpg" 
 date: 2021-09-05
 tags:
-    - jq-json-cli-howto-cooltool
+    - jq-json-tag-cli-howto-cooltool
 ---
 <img src=https://earthly.dev/blog/generated/assets/images/jq-select/header-800-9692dfee3.jpg width="500">
 

@@ -5,7 +5,7 @@ url: "http://seekingalpha.com/dashboard/sector?source=headtabs"
 cover: "" 
 date: 2021-04-06
 tags:
-    - stocks-money-investing
+    - stocks-mon-tagey-investing
 ---
 <img src= width="500">
 

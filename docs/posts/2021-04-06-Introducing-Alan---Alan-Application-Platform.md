@@ -5,7 +5,7 @@ url: "https://alan-platform.com/pages/tuts/introducing.html"
 cover: "https://rdl.ink/render/https%3A%2F%2Falan-platform.com%2Fpages%2Ftuts%2Fintroducing.html" 
 date: 2021-04-06
 tags:
-    - code-application-platform-nocode
+    - code-application-tag-platform-no-tagcode
 ---
 <img src=https://rdl.ink/render/https%3A%2F%2Falan-platform.com%2Fpages%2Ftuts%2Fintroducing.html width="500">
 

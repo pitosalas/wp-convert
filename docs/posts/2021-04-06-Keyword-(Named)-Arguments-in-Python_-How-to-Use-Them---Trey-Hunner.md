@@ -5,7 +5,7 @@ url: "http://treyhunner.com/2018/04/keyword-arguments-in-python"
 cover: "https://rdl.ink/render/http%3A%2F%2Ftreyhunner.com%2F2018%2F04%2Fkeyword-arguments-in-python" 
 date: 2021-04-06
 tags:
-    - keyword-arguments-python
+    - keyword-arguments-python-tag
 ---
 <img src=https://rdl.ink/render/http%3A%2F%2Ftreyhunner.com%2F2018%2F04%2Fkeyword-arguments-in-python width="500">
 

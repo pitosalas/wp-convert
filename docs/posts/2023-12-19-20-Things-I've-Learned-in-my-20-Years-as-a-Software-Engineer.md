@@ -5,7 +5,7 @@ url: "https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-sof
 cover: "https://www.simplethread.com/wp-content/uploads/2021/10/20-Things-Ive-Learned-in-My-20-Years-as-a-Software-Engineer.png" 
 date: 2023-12-19
 tags:
-    - software-engineering-lessons-learned-advice
+    - software-engineering-lesson-tags-learned-advice
 ---
 <img src=https://www.simplethread.com/wp-content/uploads/2021/10/20-Things-Ive-Learned-in-My-20-Years-as-a-Software-Engineer.png width="500">
 

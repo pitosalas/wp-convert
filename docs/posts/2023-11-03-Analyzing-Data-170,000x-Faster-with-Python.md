@@ -5,7 +5,7 @@ url: "https://sidsite.com/posts/python-corrset-optimization/"
 cover: "" 
 date: 2023-11-03
 tags:
-    - python-optimization-numpy-numba-source-code-howto
+    - python-tag-optimization-tag-numpy-numba-source-code-howto
 ---
 <img src= width="500">
 

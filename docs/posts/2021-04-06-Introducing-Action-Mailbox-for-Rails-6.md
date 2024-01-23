@@ -5,7 +5,7 @@ url: "https://weblog.rubyonrails.org/2018/12/13/introducing-action-mailbox-for-r
 cover: "https://avatars.githubusercontent.com/u/4223" 
 date: 2021-04-06
 tags:
-    - rails-email-actionmailbox
+    - rails-email-action-tagmailbox
 ---
 <img src=https://avatars.githubusercontent.com/u/4223 width="500">
 

@@ -5,7 +5,7 @@ url: "https://www.futurepedia.io/?utm_campaign=Recomendo&utm_medium=email&utm_so
 cover: "https://i.imgur.com/ZG1wAgN.jpg" 
 date: 2022-11-27
 tags:
-    - photo-ai-converter
+    - photo-ai-con-tagverter
 ---
 <img src=https://i.imgur.com/ZG1wAgN.jpg width="500">
 

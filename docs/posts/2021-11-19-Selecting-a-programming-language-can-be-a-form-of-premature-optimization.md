@@ -5,7 +5,7 @@ url: "https://snarky.ca/programming-language-selection-is-a-form-of-premature-op
 cover: "https://snarky.ca/content/images/2016/12/104_0419.JPG" 
 date: 2021-11-19
 tags:
-    - python-performance-opinion
+    - python-tag-performance-opinion-tag
 ---
 <img src=https://snarky.ca/content/images/2016/12/104_0419.JPG width="500">
 

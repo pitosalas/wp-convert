@@ -5,7 +5,7 @@ url: "https://www.mschweighauser.com/make-your-own-assembler-simulator-in-javasc
 cover: "https://www.mschweighauser.com/content/images/2020/08/Simulator_Banner.png" 
 date: 2023-01-13
 tags:
-    - assembly-simulator-demonstration-education-howto-visual
+    - assembly-simulator-demon-tagstration-tag-education-tag-howto-visual
 ---
 <img src=https://www.mschweighauser.com/content/images/2020/08/Simulator_Banner.png width="500">
 

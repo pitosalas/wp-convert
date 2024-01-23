@@ -5,7 +5,7 @@ url: "https://www.thegeekstuff.com/2011/02/linux-boot-process"
 cover: "https://rdl.ink/render/https%3A%2F%2Fwww.thegeekstuff.com%2F2011%2F02%2Flinux-boot-process" 
 date: 2021-06-03
 tags:
-    - boot-linux-operating-system-description
+    - boot-linux-operating-system-description-tag
 ---
 <img src=https://rdl.ink/render/https%3A%2F%2Fwww.thegeekstuff.com%2F2011%2F02%2Flinux-boot-process width="500">
 

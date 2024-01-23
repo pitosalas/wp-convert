@@ -5,7 +5,7 @@ url: "https://devcenter.heroku.com/articles/scheduled-jobs-custom-clock-processe
 cover: "https://www.herokucdn.com/images/og.png" 
 date: 2022-03-28
 tags:
-    - heroku-scaling-jobs-background-cron-howto
+    - heroku-scaling-jobs-background-cron-tag-howto
 ---
 <img src=https://www.herokucdn.com/images/og.png width="500">
 

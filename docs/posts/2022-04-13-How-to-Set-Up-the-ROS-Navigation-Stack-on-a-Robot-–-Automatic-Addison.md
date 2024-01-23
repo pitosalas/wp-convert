@@ -5,7 +5,7 @@ url: "https://automaticaddison.com/how-to-set-up-the-ros-navigation-stack-on-a-r
 cover: "https://automaticaddison.com/wp-content/uploads/2018/11/cropped-logo_sq_240.png" 
 date: 2022-04-13
 tags:
-    - ros-navigation-setup-howto
+    - ros-navigation-tag-setup-howto
 ---
 <img src=https://automaticaddison.com/wp-content/uploads/2018/11/cropped-logo_sq_240.png width="500">
 

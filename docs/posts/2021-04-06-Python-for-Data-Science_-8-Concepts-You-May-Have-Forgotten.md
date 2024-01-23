@@ -5,7 +5,7 @@ url: "https://towardsdatascience.com/python-for-data-science-8-concepts-you-may-
 cover: "https://miro.medium.com/max/1200/1*LzTFHgvCbuuQvMS2RRE_Cg.png" 
 date: 2021-04-06
 tags:
-    - pandas-datascience-Python
+    - pandas-datascience-Python-tag
 ---
 <img src=https://miro.medium.com/max/1200/1*LzTFHgvCbuuQvMS2RRE_Cg.png width="500">
 

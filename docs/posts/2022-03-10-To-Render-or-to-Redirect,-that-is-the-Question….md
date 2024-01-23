@@ -5,7 +5,7 @@ url: "https://medium.com/@thorntonbrenden/to-render-or-to-redirect-that-is-the-q
 cover: "https://miro.medium.com/max/1200/1*rCDPBFcxOJKEe0b9kkX5BA.jpeg" 
 date: 2022-03-10
 tags:
-    - sinatra-howto-sessions-redirect-render
+    - sinatra-howto-session-tags-redirect-render
 ---
 <img src=https://miro.medium.com/max/1200/1*rCDPBFcxOJKEe0b9kkX5BA.jpeg width="500">
 

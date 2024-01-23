@@ -5,7 +5,7 @@ url: "https://joinmastodon.org/"
 cover: "https://joinmastodon.org/preview.png" 
 date: 2022-11-13
 tags:
-    - mastodon-introduction-howto
+    - mastodon-tag-introduction-tag-howto
 ---
 <img src=https://joinmastodon.org/preview.png width="500">
 

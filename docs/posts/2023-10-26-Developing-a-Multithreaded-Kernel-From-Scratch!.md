@@ -5,7 +5,7 @@ url: "https://www.udemy.com/course/developing-a-multithreaded-kernel-from-scratc
 cover: "https://img-c.udemycdn.com/course/480x270/3721456_d2e9.jpg" 
 date: 2023-10-26
 tags:
-    - udemy-operating-system-kernel-course-education
+    - udemy-operating-system-kernel-course-education-tag
 ---
 <img src=https://img-c.udemycdn.com/course/480x270/3721456_d2e9.jpg width="500">
 

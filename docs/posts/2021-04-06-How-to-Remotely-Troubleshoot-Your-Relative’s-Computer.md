@@ -5,7 +5,7 @@ url: "https://medium.com/pcmag-access/how-to-remotely-troubleshoot-your-relative
 cover: "https://miro.medium.com/max/810/0*CwuV-cH-GqhrTfhg" 
 date: 2021-04-06
 tags:
-    - remote-diagnostics-computer
+    - remote-diagno-tagstics-computer
 ---
 <img src=https://miro.medium.com/max/810/0*CwuV-cH-GqhrTfhg width="500">
 

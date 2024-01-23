@@ -5,7 +5,7 @@ url: "https://realpython.com/python3-object-oriented-programming"
 cover: "https://files.realpython.com/media/Object-Oriented-Programming-OOP-in-Python-3_Watermarked.0d29780806d5.jpg" 
 date: 2021-04-06
 tags:
-    - oop-python-programming
+    - oop-python-tag-programming
 ---
 <img src=https://files.realpython.com/media/Object-Oriented-Programming-OOP-in-Python-3_Watermarked.0d29780806d5.jpg width="500">
 

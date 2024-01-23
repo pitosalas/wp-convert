@@ -5,7 +5,7 @@ url: "https://www.fabian-keller.de/blog/5-useful-jq-commands-parse-json-cli/"
 cover: "https://www.fabian-keller.de/blog/5-useful-jq-commands-parse-json-cli/5-useful-jq-commands-parse-json-cli.jpg" 
 date: 2021-08-20
 tags:
-    - jq-howto-json-cli-tools-cooltool
+    - jq-howto-json-tag-cli-tools-cooltool
 ---
 <img src=https://www.fabian-keller.de/blog/5-useful-jq-commands-parse-json-cli/5-useful-jq-commands-parse-json-cli.jpg width="500">
 

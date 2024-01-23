@@ -5,7 +5,7 @@ url: "https://www.pololu.com/file/0J195/line-maze-algorithm.pdf"
 cover: "https://rdl.ink/render/https%3A%2F%2Fwww.pololu.com%2Ffile%2F0J195%2Fline-maze-algorithm.pdf" 
 date: 2023-04-06
 tags:
-    - robotics-navigation-line-following-maze
+    - robotics-navigation-tag-line-following-maze
 ---
 <img src=https://rdl.ink/render/https%3A%2F%2Fwww.pololu.com%2Ffile%2F0J195%2Fline-maze-algorithm.pdf width="500">
 

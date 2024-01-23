@@ -5,7 +5,7 @@ url: "http://geekboy.it/news/rfduino-the-tiny-32-bit-arduino-compatible-developm
 cover: "https://rdl.ink/render/http%3A%2F%2Fgeekboy.it%2Fnews%2Frfduino-the-tiny-32-bit-arduino-compatible-development-board-with-onboard-bluetooth" 
 date: 2021-04-06
 tags:
-    - arduino
+    - arduino-tag
 ---
 <img src=https://rdl.ink/render/http%3A%2F%2Fgeekboy.it%2Fnews%2Frfduino-the-tiny-32-bit-arduino-compatible-development-board-with-onboard-bluetooth width="500">
 

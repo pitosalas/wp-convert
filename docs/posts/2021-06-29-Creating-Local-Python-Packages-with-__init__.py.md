@@ -5,7 +5,7 @@ url: "https://codeburst.io/creating-local-python-packages-with-init-py-aa19f1e9e
 cover: "https://miro.medium.com/max/800/1*dia9TerNoY9l-2WJx5_UjA.jpeg" 
 date: 2021-06-29
 tags:
-    - python-packages-howoto-programming-modularity
+    - python-tag-packages-howoto-programming-modularity
 ---
 <img src=https://miro.medium.com/max/800/1*dia9TerNoY9l-2WJx5_UjA.jpeg width="500">
 

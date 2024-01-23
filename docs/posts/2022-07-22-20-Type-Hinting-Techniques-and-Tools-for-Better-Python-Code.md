@@ -5,7 +5,7 @@ url: "https://betterprogramming.pub/twenty-type-hinting-techniques-and-tools-for
 cover: "https://miro.medium.com/max/1000/1*_AAGPOqVVo_A32kzZ2PK0g.jpeg" 
 date: 2022-07-22
 tags:
-    - python-type-hints-howto
+    - python-tag-type-hints-howto
 ---
 <img src=https://miro.medium.com/max/1000/1*_AAGPOqVVo_A32kzZ2PK0g.jpeg width="500">
 

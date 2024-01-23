@@ -5,7 +5,7 @@ url: "https://blog.bloonface.com/2023/06/12/why-did-the-twittermigration-fail/"
 cover: "https://s0.wp.com/i/blank.jpg" 
 date: 2023-06-15
 tags:
-    - mastodon-fediverse-federated-scalability-twitter-explainer
+    - mastodon-tag-fediverse-federated-scalability-twitter-explainer
 ---
 <img src=https://s0.wp.com/i/blank.jpg width="500">
 

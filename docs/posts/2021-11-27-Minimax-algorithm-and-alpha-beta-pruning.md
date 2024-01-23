@@ -5,7 +5,7 @@ url: "https://mathspp.com/blog/minimax-algorithm-and-alpha-beta-pruning"
 cover: "https://mathspp.com/blog/minimax-algorithm-and-alpha-beta-pruning/thumbnail.png" 
 date: 2021-11-27
 tags:
-    - minimax-algorithm-explainer-python
+    - minimax-algorithm-explainer-python-tag
 ---
 <img src=https://mathspp.com/blog/minimax-algorithm-and-alpha-beta-pruning/thumbnail.png width="500">
 

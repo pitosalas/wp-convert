@@ -5,7 +5,7 @@ url: "https://www.toptal.com/ruby/ruby-concurrency-and-parallelism-a-practical-p
 cover: "https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/13631/0827_Ruby_ConcurrencyandParallelismAPracticalTutorial_Razvan_Social-3cdcc1ab050900bbc40bcf3ca264e866.png" 
 date: 2021-04-06
 tags:
-    - ruby-threads-processes-concurrency
+    - ruby-threads-processes-con-tagcurrency
 ---
 <img src=https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/13631/0827_Ruby_ConcurrencyandParallelismAPracticalTutorial_Razvan_Social-3cdcc1ab050900bbc40bcf3ca264e866.png width="500">
 

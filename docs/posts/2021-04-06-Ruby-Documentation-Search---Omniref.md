@@ -5,7 +5,7 @@ url: "http://www.omniref.com"
 cover: "https://rdl.ink/render/http%3A%2F%2Fwww.omniref.com" 
 date: 2021-04-06
 tags:
-    - ruby-documentation-reference
+    - ruby-documentation-tag-reference
 ---
 <img src=https://rdl.ink/render/http%3A%2F%2Fwww.omniref.com width="500">
 

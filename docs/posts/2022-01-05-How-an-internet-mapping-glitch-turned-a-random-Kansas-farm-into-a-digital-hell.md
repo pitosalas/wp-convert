@@ -5,7 +5,7 @@ url: "https://splinternews.com/how-an-internet-mapping-glitch-turned-a-random-ka
 cover: "https://x.kinja-static.com/assets/images/logos/placeholders/splinter.png" 
 date: 2022-01-05
 tags:
-    - internet-funny-glitch-gps-latlong
+    - internet-funny-glitch-gps-latlon-tagg
 ---
 <img src=https://x.kinja-static.com/assets/images/logos/placeholders/splinter.png width="500">
 

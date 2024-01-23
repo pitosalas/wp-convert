@@ -5,7 +5,7 @@ url: "https://github.com/excid3/noticed"
 cover: "https://repository-images.githubusercontent.com/283022742/323eb100-28f5-11eb-8da5-b23d3388f432" 
 date: 2021-04-06
 tags:
-    - rails-howto-gems-notification
+    - rails-howto-gems-no-tagtification-tag
 ---
 <img src=https://repository-images.githubusercontent.com/283022742/323eb100-28f5-11eb-8da5-b23d3388f432 width="500">
 

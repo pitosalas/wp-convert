@@ -5,7 +5,7 @@ url: "https://betterprogramming.pub/python-list-comprehensions-are-more-powerful
 cover: "https://miro.medium.com/max/1200/1*TMuu8N0C9HMpQ0AC2N6QbQ.jpeg" 
 date: 2022-09-14
 tags:
-    - python-howto-explainer-list-comprehensions
+    - python-tag-howto-explainer-list-comprehension-tags
 ---
 <img src=https://miro.medium.com/max/1200/1*TMuu8N0C9HMpQ0AC2N6QbQ.jpeg width="500">
 

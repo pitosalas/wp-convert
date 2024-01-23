@@ -5,7 +5,7 @@ url: "https://getcode.substack.com/p/a-nibble-of-geohashes-in-go?utm_source=subs
 cover: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1d3af948-1528-4c6f-b530-2cd325bd37a1_1920x1080.png" 
 date: 2022-12-28
 tags:
-    - algorithm-geo-geohash-geocode-latlong-howto-explainer
+    - algorithm-geo-geohash-geocode-latlon-tagg-howto-explainer
 ---
 <img src=https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1d3af948-1528-4c6f-b530-2cd325bd37a1_1920x1080.png width="500">
 

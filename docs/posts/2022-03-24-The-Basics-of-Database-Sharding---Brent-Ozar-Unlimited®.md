@@ -5,7 +5,7 @@ url: "https://www.brentozar.com/archive/2013/05/the-basics-of-database-sharding/
 cover: "https://www.brentozar.com/wp-content/uploads/2015/11/BOU-WhitePocket-giant.png" 
 date: 2022-03-24
 tags:
-    - sharding-partitioning-scaling-architecture-database
+    - sharding-partition-taging-scaling-architecture-database
 ---
 <img src=https://www.brentozar.com/wp-content/uploads/2015/11/BOU-WhitePocket-giant.png width="500">
 

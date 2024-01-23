@@ -5,7 +5,7 @@ url: "https://medium.freecodecamp.org/low-hanging-design-fruit-why-you-should-us
 cover: "https://cdn-media-1.freecodecamp.org/images/1*1frBy9sbeA9nWI65jJDdbA.png" 
 date: 2021-04-06
 tags:
-    - fonts-design
+    - fon-tagts-design
 ---
 <img src=https://cdn-media-1.freecodecamp.org/images/1*1frBy9sbeA9nWI65jJDdbA.png width="500">
 

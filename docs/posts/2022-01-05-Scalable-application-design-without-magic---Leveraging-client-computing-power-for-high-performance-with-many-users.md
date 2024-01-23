@@ -5,7 +5,7 @@ url: "https://willem.com/blog/2020-05-11_scalable-application-design-without-mag
 cover: "https://willem.com/blog/2020-05-11_scalable-application-design-without-magic/images/Scalable-application-design-without-magic-2x.jpg" 
 date: 2022-01-05
 tags:
-    - cloud-howto-scaling-scale-youre-not-google
+    - cloud-howto-scaling-scale-youre-no-tagt-google
 ---
 <img src=https://willem.com/blog/2020-05-11_scalable-application-design-without-magic/images/Scalable-application-design-without-magic-2x.jpg width="500">
 

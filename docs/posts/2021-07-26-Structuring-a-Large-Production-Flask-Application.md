@@ -5,7 +5,7 @@ url: "https://levelup.gitconnected.com/structuring-a-large-production-flask-appl
 cover: "https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" 
 date: 2021-07-26
 tags:
-    - python-flask-architecture-structure-scale-howto
+    - python-tag-flask-architecture-structure-scale-howto
 ---
 <img src=https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png width="500">
 

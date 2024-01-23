@@ -3,11 +3,11 @@ title: "Using formatters and linters to manage a large codebase | Tech blog | Kr
 author: Pito Salas
 date: 2024-01-11
 tags:
-    - none
-    - none
-    - none
+    - code-formattee
+    - fixit
+    - lint
     - python-tag
-    - none
+    - ruff
 ---
 
 

@@ -5,7 +5,7 @@ url: "https://youtube.com/watch?v=nU6NPuxkQck&feature=share"
 cover: "https://i.ytimg.com/vi/nU6NPuxkQck/hqdefault.jpg" 
 date: 2022-04-04
 tags:
-    - video-presentations-academia-teaching-hiwto-howto
+    - video-presentation-tags-academia-teaching-hiwto-howto
 ---
 <img src=https://i.ytimg.com/vi/nU6NPuxkQck/hqdefault.jpg width="500">
 

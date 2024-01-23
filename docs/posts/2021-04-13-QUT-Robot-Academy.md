@@ -5,7 +5,7 @@ url: "https://robotacademy.net.au/"
 cover: "https://robotacademy.net.au/wp-content/uploads/2017/05/OG-Image-main.jpg" 
 date: 2021-04-13
 tags:
-    - learn-robotics-course-online-video-howto
+    - learn-robotics-course-on-tagline-video-howto
 ---
 <img src=https://robotacademy.net.au/wp-content/uploads/2017/05/OG-Image-main.jpg width="500">
 

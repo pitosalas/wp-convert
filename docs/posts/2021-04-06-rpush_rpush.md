@@ -5,7 +5,7 @@ url: "https://github.com/rpush/rpush"
 cover: "https://avatars.githubusercontent.com/u/3169839?s=400&v=4" 
 date: 2021-04-06
 tags:
-    - ruby-gem-howto-notification
+    - ruby-gem-howto-no-tagtification-tag
 ---
 <img src=https://avatars.githubusercontent.com/u/3169839?s=400&v=4 width="500">
 

@@ -5,7 +5,7 @@ url: "https://medium.com/@copyconstruct/small-functions-considered-harmful-91035
 cover: "https://miro.medium.com/max/546/1*Mh46Hv7CEkfVc_SKlA0d1w.png" 
 date: 2021-04-06
 tags:
-    - dry-abstraction-tips-design
+    - dry-abstraction-tag-tips-design
 ---
 <img src=https://miro.medium.com/max/546/1*Mh46Hv7CEkfVc_SKlA0d1w.png width="500">
 

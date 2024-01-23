@@ -5,7 +5,7 @@ url: "https://link.medium.com/A9gLVpwqZtb"
 cover: "https://miro.medium.com/max/1200/1*hHTGhG410jjG9TwcMMuK8w.jpeg" 
 date: 2022-10-09
 tags:
-    - python-howto-utilities-library
+    - python-tag-howto-utilities-library
 ---
 <img src=https://miro.medium.com/max/1200/1*hHTGhG410jjG9TwcMMuK8w.jpeg width="500">
 

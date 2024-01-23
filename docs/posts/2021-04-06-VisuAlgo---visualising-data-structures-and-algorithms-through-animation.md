@@ -5,7 +5,7 @@ url: "https://visualgo.net/en"
 cover: "https://visualgo.net/img/png.png" 
 date: 2021-04-06
 tags:
-    - Java-visualization-algorithm
+    - Java-visualization-tag-algorithm
 ---
 <img src=https://visualgo.net/img/png.png width="500">
 

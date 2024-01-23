@@ -5,7 +5,7 @@ url: "https://docs.google.com/spreadsheets/d/1rNfUosPSiMwRbUAbnI3h-7D9grP6ULgS/e
 cover: "https://lh3.googleusercontent.com/8TzzBpq2RMUU4p76tEMQ0dAYAz8BCGreoP04DdiCiL_RhqfxdF1wHMUQPc8OvL38LOw=w1200-h630-p" 
 date: 2022-11-13
 tags:
-    - mastodon-howto-people
+    - mastodon-tag-howto-people
 ---
 <img src=https://lh3.googleusercontent.com/8TzzBpq2RMUU4p76tEMQ0dAYAz8BCGreoP04DdiCiL_RhqfxdF1wHMUQPc8OvL38LOw=w1200-h630-p width="500">
 

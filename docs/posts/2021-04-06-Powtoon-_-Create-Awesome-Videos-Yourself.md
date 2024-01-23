@@ -5,7 +5,7 @@ url: "https://www.powtoon.com/home"
 cover: "https://static.powtoon.co/images/powtoon_thumb.jpg" 
 date: 2021-04-06
 tags:
-    - presentation-animation-tools
+    - presentation-tag-animation-tag-tools
 ---
 <img src=https://static.powtoon.co/images/powtoon_thumb.jpg width="500">
 

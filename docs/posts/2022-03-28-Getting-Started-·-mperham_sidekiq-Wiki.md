@@ -5,7 +5,7 @@ url: "https://github.com/mperham/sidekiq/wiki/Getting-Started"
 cover: "https://repository-images.githubusercontent.com/3195124/9c297005-12fc-49fd-853e-67bba879a6f2" 
 date: 2022-03-28
 tags:
-    - ruby-asynchronous-background-queueing-howto-scaling-performance
+    - ruby-asynchron-tagous-background-queueing-howto-scaling-performance
 ---
 <img src=https://repository-images.githubusercontent.com/3195124/9c297005-12fc-49fd-853e-67bba879a6f2 width="500">
 

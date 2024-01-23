@@ -5,7 +5,7 @@ url: "https://linuxize.com/post/how-to-setup-passwordless-ssh-login/"
 cover: "https://linuxize.com/post/how-to-setup-passwordless-ssh-login/featured.jpg" 
 date: 2021-07-16
 tags:
-    - linux-sysops-configuration-ssh-public-keys
+    - linux-sysops-con-tagfiguration-tag-ssh-public-keys
 ---
 <img src=https://linuxize.com/post/how-to-setup-passwordless-ssh-login/featured.jpg width="500">
 

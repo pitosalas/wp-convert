@@ -5,7 +5,7 @@ url: "http://iconhandbook.co.uk/reference/chart"
 cover: "https://rdl.ink/render/http%3A%2F%2Ficonhandbook.co.uk%2Freference%2Fchart" 
 date: 2021-04-06
 tags:
-    - interface-graphics-visual-design-icons
+    - interface-graphics-visual-design-icon-tags
 ---
 <img src=https://rdl.ink/render/http%3A%2F%2Ficonhandbook.co.uk%2Freference%2Fchart width="500">
 

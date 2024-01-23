@@ -5,7 +5,7 @@ url: "https://marketplace.visualstudio.com/items?itemName=andrewmcodes.rails-ext
 cover: "https://andrewmcodes.gallerycdn.vsassets.io/extensions/andrewmcodes/rails-extension-power-pack/1.0.0/1653556705947/Microsoft.VisualStudio.Services.Icons.Default" 
 date: 2022-05-29
 tags:
-    - vscode-rails-howto-extensions
+    - vscode-rails-howto-extension-tags
 ---
 <img src=https://andrewmcodes.gallerycdn.vsassets.io/extensions/andrewmcodes/rails-extension-power-pack/1.0.0/1653556705947/Microsoft.VisualStudio.Services.Icons.Default width="500">
 

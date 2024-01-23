@@ -5,7 +5,7 @@ url: "http://www.liverail.net/articles/2007/7/16/continuing-facebook-application
 cover: "" 
 date: 2021-04-06
 tags:
-    - facebook-rails-rubyonrails
+    - facebook-rails-rubyon-tagrails
 ---
 <img src= width="500">
 

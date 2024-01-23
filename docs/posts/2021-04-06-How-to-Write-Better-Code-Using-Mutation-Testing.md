@@ -5,7 +5,7 @@ url: "https://blog.cognitohq.com/how-to-write-better-code-using-mutation-testing
 cover: "https://cognitohq.com/wp-content/uploads/2019/08/how-write@2x.png" 
 date: 2021-04-06
 tags:
-    - mutation-testing
+    - mutation-tag-testing
 ---
 <img src=https://cognitohq.com/wp-content/uploads/2019/08/how-write@2x.png width="500">
 

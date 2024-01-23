@@ -5,7 +5,7 @@ url: "https://realpython.com/pytest-python-testing/#how-to-install-pytest"
 cover: "https://files.realpython.com/media/Intermediate-Advanced-PyTest-Features_Watermarked.43fb169e7121.jpg" 
 date: 2022-06-25
 tags:
-    - testing-python-pytest-howto
+    - testing-python-tag-pytest-howto
 ---
 <img src=https://files.realpython.com/media/Intermediate-Advanced-PyTest-Features_Watermarked.43fb169e7121.jpg width="500">
 

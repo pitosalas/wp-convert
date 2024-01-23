@@ -5,7 +5,7 @@ url: "https://www.codewithjason.com/duplication/"
 cover: "http://www.codewithjason.com/wp-content/uploads/2022/06/portrait-2.png" 
 date: 2022-09-02
 tags:
-    - dry-software-engineering-programming-duplication
+    - dry-software-engineering-programming-duplication-tag
 ---
 <img src=http://www.codewithjason.com/wp-content/uploads/2022/06/portrait-2.png width="500">
 

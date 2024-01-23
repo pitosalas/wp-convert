@@ -5,7 +5,7 @@ url: "https://www.firehydrant.io/blog/instrumenting-ruby-on-rails-with-prometheu
 cover: "https://images.ctfassets.net/y2i7p4tdvyl2/39wRRhc0Lm8gMLnUFmIfGg/5bee6b778a30753a274bdca4f3ac8083/ruby.jpg" 
 date: 2021-04-06
 tags:
-    - rails-instrumentation-monitoring
+    - rails-instrumentation-tag-mon-tagitoring
 ---
 <img src=https://images.ctfassets.net/y2i7p4tdvyl2/39wRRhc0Lm8gMLnUFmIfGg/5bee6b778a30753a274bdca4f3ac8083/ruby.jpg width="500">
 

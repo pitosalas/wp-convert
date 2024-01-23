@@ -5,7 +5,7 @@ url: "https://www.technologyreview.com/s/609048/the-seven-deadly-sins-of-ai-pred
 cover: "https://wp.technologyreview.com/wp-content/uploads/2017/10/k-9.png?resize=854,569" 
 date: 2021-04-06
 tags:
-    - Technology-AI
+    - Techno-taglogy-AI
 ---
 <img src=https://wp.technologyreview.com/wp-content/uploads/2017/10/k-9.png?resize=854,569 width="500">
 

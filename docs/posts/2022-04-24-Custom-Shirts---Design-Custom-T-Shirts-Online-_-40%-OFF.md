@@ -5,7 +5,7 @@ url: "https://www.alliedshirts.com/"
 cover: "https://otcimages.basnop.com/1017913_AS_MCA_NOP_Format_Final1.jpeg" 
 date: 2022-04-24
 tags:
-    - t-shirt-online-custom
+    - t-shirt-on-tagline-custom
 ---
 <img src=https://otcimages.basnop.com/1017913_AS_MCA_NOP_Format_Final1.jpeg width="500">
 

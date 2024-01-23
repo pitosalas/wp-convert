@@ -5,7 +5,7 @@ url: "https://dev.to/kenbellows/stop-using-so-many-divs-an-intro-to-semantic-htm
 cover: "https://res.cloudinary.com/practicaldev/image/fetch/s--AtopXsp1--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/0d2br5nop9vuios7bkgv.png" 
 date: 2021-04-06
 tags:
-    - html-tags-organization-semantic-design
+    - html-tags-organization-tag-semantic-design
 ---
 <img src=https://res.cloudinary.com/practicaldev/image/fetch/s--AtopXsp1--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/0d2br5nop9vuios7bkgv.png width="500">
 

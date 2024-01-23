@@ -5,7 +5,7 @@ url: "https://tech.instacart.com/freezing-pythons-dependency-hell-in-2018-f1076d
 cover: "https://miro.medium.com/max/492/0*7ezJOtYUkI5zyqWU.png" 
 date: 2021-04-06
 tags:
-    - dependency-python-management
+    - dependency-python-tag-management
 ---
 <img src=https://miro.medium.com/max/492/0*7ezJOtYUkI5zyqWU.png width="500">
 

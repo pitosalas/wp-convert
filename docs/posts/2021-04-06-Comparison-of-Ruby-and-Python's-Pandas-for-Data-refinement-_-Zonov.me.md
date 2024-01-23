@@ -5,7 +5,7 @@ url: "http://zonov.me/comparison-of-ruby-and-pythons-pandas-for-data-refinement"
 cover: "https://rdl.ink/render/http%3A%2F%2Fzonov.me%2Fcomparison-of-ruby-and-pythons-pandas-for-data-refinement" 
 date: 2021-04-06
 tags:
-    - ruby-python-data-refinement
+    - ruby-python-tag-data-refinement
 ---
 <img src=https://rdl.ink/render/http%3A%2F%2Fzonov.me%2Fcomparison-of-ruby-and-pythons-pandas-for-data-refinement width="500">
 

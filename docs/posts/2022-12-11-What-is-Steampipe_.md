@@ -5,7 +5,7 @@ url: "https://zercurity.medium.com/what-is-steampipe-8c6d1276a8a0"
 cover: "https://miro.medium.com/max/1200/1*6kJ3hqFNr5Xz5b8ZINZEGA.png" 
 date: 2022-12-11
 tags:
-    - aws-saas-administration-sysadmin-devops-explainer
+    - aws-saas-administration-tag-sysadmin-devops-explainer
 ---
 <img src=https://miro.medium.com/max/1200/1*6kJ3hqFNr5Xz5b8ZINZEGA.png width="500">
 

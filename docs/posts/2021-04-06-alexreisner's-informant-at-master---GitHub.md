@@ -5,7 +5,7 @@ url: "http://github.com/alexreisner/informant"
 cover: "https://avatars.githubusercontent.com/u/32069?s=400&v=4" 
 date: 2021-04-06
 tags:
-    - Elections
+    - Election-tags
 ---
 <img src=https://avatars.githubusercontent.com/u/32069?s=400&v=4 width="500">
 

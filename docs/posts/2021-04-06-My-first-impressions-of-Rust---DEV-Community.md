@@ -5,7 +5,7 @@ url: "https://dev.to/deepu105/my-first-impressions-of-rust-1a8o"
 cover: "https://res.cloudinary.com/practicaldev/image/fetch/s--ifPci_km--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/cxs080wnnykflkmsfo9p.png" 
 date: 2021-04-06
 tags:
-    - comparison-rustlang-rust
+    - comparison-tag-rustlang-rust
 ---
 <img src=https://res.cloudinary.com/practicaldev/image/fetch/s--ifPci_km--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/cxs080wnnykflkmsfo9p.png width="500">
 

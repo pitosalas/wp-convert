@@ -5,7 +5,7 @@ url: "http://www2.lawrence.edu/fast/GREGGJ/Python/numpy/numpyLA.html"
 cover: "https://rdl.ink/render/http%3A%2F%2Fwww2.lawrence.edu%2Ffast%2FGREGGJ%2FPython%2Fnumpy%2FnumpyLA.html" 
 date: 2021-04-06
 tags:
-    - python-numpy-matrix-linear
+    - python-tag-numpy-matrix-linear
 ---
 <img src=https://rdl.ink/render/http%3A%2F%2Fwww2.lawrence.edu%2Ffast%2FGREGGJ%2FPython%2Fnumpy%2FnumpyLA.html width="500">
 

@@ -5,7 +5,7 @@ url: "http://portal.getty.edu/portal/landing"
 cover: "https://rdl.ink/render/http%3A%2F%2Fportal.getty.edu%2Fportal%2Flanding" 
 date: 2021-04-06
 tags:
-    - art-research-education-scholarly
+    - art-research-education-tag-scholarly
 ---
 <img src=https://rdl.ink/render/http%3A%2F%2Fportal.getty.edu%2Fportal%2Flanding width="500">
 

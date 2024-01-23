@@ -5,7 +5,7 @@ url: "https://www.thoughtworks.com/insights/blog/monoliths-are-bad-design-and-yo
 cover: "https://insights-images.thoughtworks.com/bee_cropped_dabbab6afb11701c9088a6a9d7a4afa4.jpeg" 
 date: 2021-04-06
 tags:
-    - scaling-monoliths-engineering-architecture-design
+    - scaling-mon-tagoliths-engineering-architecture-design
 ---
 <img src=https://insights-images.thoughtworks.com/bee_cropped_dabbab6afb11701c9088a6a9d7a4afa4.jpeg width="500">
 

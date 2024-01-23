@@ -5,7 +5,7 @@ url: "https://www.digitalocean.com/community/tutorials/how-to-install-the-apache
 cover: "https://www.digitalocean.com/assets/community/illustrations/DigitalOcean_Community-e00e73a18df20667c3117725e727f3ade330204dff619ad8153050ded7341627.jpg" 
 date: 2021-07-15
 tags:
-    - howto-ubuntu-apache-sysadmin-configuration
+    - howto-ubuntu-apache-sysadmin-con-tagfiguration-tag
 ---
 <img src=https://www.digitalocean.com/assets/community/illustrations/DigitalOcean_Community-e00e73a18df20667c3117725e727f3ade330204dff619ad8153050ded7341627.jpg width="500">
 

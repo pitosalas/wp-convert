@@ -5,7 +5,7 @@ url: "https://www.macbartender.com/"
 cover: "https://www.macbartender.com/Bartender4/img/Icon-1024.png" 
 date: 2022-11-13
 tags:
-    - macos-add-on-howto-desktop-menu
+    - macos-add-on-tag-howto-desktop-menu
 ---
 <img src=https://www.macbartender.com/Bartender4/img/Icon-1024.png width="500">
 

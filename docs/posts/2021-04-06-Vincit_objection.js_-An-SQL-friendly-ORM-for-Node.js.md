@@ -5,7 +5,7 @@ url: "https://github.com/Vincit/objection.js"
 cover: "https://avatars.githubusercontent.com/u/710715?s=400&v=4" 
 date: 2021-04-06
 tags:
-    - orm-node
+    - orm-no-tagde
 ---
 <img src=https://avatars.githubusercontent.com/u/710715?s=400&v=4 width="500">
 

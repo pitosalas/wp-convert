@@ -5,7 +5,7 @@ url: "https://www.dfrobot.com/product-1922.html"
 cover: "https://rdl.ink/render/https%3A%2F%2Fwww.dfrobot.com%2Fproduct-1922.html" 
 date: 2022-06-12
 tags:
-    - robotics-computer-vision-ai-camera-ai-camera-huskylens
+    - robotics-computer-vision-tag-ai-camera-ai-camera-huskylens
 ---
 <img src=https://rdl.ink/render/https%3A%2F%2Fwww.dfrobot.com%2Fproduct-1922.html width="500">
 

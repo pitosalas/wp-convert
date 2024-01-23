@@ -5,7 +5,7 @@ url: "https://engineering.universe.com/introduction-to-concurrency-models-with-r
 cover: "https://miro.medium.com/max/1200/1*cKZ7MlP2o3M-IeB1SVcFoA.jpeg" 
 date: 2021-04-06
 tags:
-    - concurrency-ruby-tips-howto
+    - con-tagcurrency-ruby-tips-howto
 ---
 <img src=https://miro.medium.com/max/1200/1*cKZ7MlP2o3M-IeB1SVcFoA.jpeg width="500">
 

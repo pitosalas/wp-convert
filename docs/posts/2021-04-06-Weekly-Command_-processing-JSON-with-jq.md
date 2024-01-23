@@ -5,7 +5,7 @@ url: "https://monades.roperzh.com/weekly-command-processing-json-with-jq"
 cover: "" 
 date: 2021-04-06
 tags:
-    - cli-command-json-processing
+    - cli-command-json-tag-processing
 ---
 <img src= width="500">
 

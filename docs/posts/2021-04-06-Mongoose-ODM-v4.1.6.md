@@ -5,7 +5,7 @@ url: "http://mongoosejs.com"
 cover: "https://rdl.ink/render/http%3A%2F%2Fmongoosejs.com" 
 date: 2021-04-06
 tags:
-    - mongoose-nosql
+    - mon-taggoose-no-tagsql
 ---
 <img src=https://rdl.ink/render/http%3A%2F%2Fmongoosejs.com width="500">
 

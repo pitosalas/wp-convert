@@ -5,7 +5,7 @@ url: "https://stackoverflow.blog/2021/07/21/why-you-should-build-on-kubernetes-f
 cover: "https://149351115.v2.pressablecdn.com/wp-content/uploads/2021/07/blog-k8s.png" 
 date: 2021-08-01
 tags:
-    - kubernetes-scalability-containers-howto
+    - kubernetes-scalability-con-tagtainers-howto
 ---
 <img src=https://149351115.v2.pressablecdn.com/wp-content/uploads/2021/07/blog-k8s.png width="500">
 

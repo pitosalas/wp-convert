@@ -5,7 +5,7 @@ url: "https://link.medium.com/cTLnfCMdYmb"
 cover: "https://miro.medium.com/max/1148/1*8gU4gUl8ZhWThB8bRm6w0w.png" 
 date: 2022-01-20
 tags:
-    - python-vscose-howto-extensions
+    - python-tag-vscose-howto-extension-tags
 ---
 <img src=https://miro.medium.com/max/1148/1*8gU4gUl8ZhWThB8bRm6w0w.png width="500">
 

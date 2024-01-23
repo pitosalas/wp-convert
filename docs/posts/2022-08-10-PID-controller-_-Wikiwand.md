@@ -5,7 +5,7 @@ url: "https://www.wikiwand.com/en/PID_controller"
 cover: "https://upload.wikimedia.org/wikipedia/commons/1/16/Pneumatische_regelaar.jpg" 
 date: 2022-08-10
 tags:
-    - pid-control-robotics-explainer
+    - pid-con-tagtrol-robotics-explainer
 ---
 <img src=https://upload.wikimedia.org/wikipedia/commons/1/16/Pneumatische_regelaar.jpg width="500">
 

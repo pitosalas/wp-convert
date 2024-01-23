@@ -5,7 +5,7 @@ url: "http://developerblog.myo.com/quaternions"
 cover: "https://developerblog.myo.com/content/images/2015/10/header-61.jpg" 
 date: 2021-04-06
 tags:
-    - Quaternions-robotics-3d
+    - Quaternion-tags-robotics-3d
 ---
 <img src=https://developerblog.myo.com/content/images/2015/10/header-61.jpg width="500">
 

@@ -5,7 +5,7 @@ url: "https://www.devdungeon.com/content/python-ssh-tutorial"
 cover: "https://www.devdungeon.com/sites/default/static/devdungeon500x500.png" 
 date: 2022-01-01
 tags:
-    - paramiko-tutorial-howto-ssh-python
+    - paramiko-tutorial-howto-ssh-python-tag
 ---
 <img src=https://www.devdungeon.com/sites/default/static/devdungeon500x500.png width="500">
 

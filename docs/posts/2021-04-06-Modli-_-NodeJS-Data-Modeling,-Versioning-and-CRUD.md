@@ -5,7 +5,7 @@ url: "http://node-modli.github.io/modli"
 cover: "https://rdl.ink/render/http%3A%2F%2Fnode-modli.github.io%2Fmodli" 
 date: 2021-04-06
 tags:
-    - nodes-database-modeling-data-Software-Engineering
+    - no-tagdes-database-modeling-data-Software-Engineering
 ---
 <img src=https://rdl.ink/render/http%3A%2F%2Fnode-modli.github.io%2Fmodli width="500">
 

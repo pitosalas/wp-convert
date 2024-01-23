@@ -5,7 +5,7 @@ url: "https://www.akshaykhot.com/ruby-block-proc-lambda-and-differences-between-
 cover: "https://www.akshaykhot.com/content/images/2023/06/closures.png" 
 date: 2023-06-18
 tags:
-    - ruby-explainer-blocks-lambda-functions-proc-block
+    - ruby-explainer-blocks-lambda-function-tags-proc-block
 ---
 <img src=https://www.akshaykhot.com/content/images/2023/06/closures.png width="500">
 

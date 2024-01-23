@@ -5,7 +5,7 @@ url: "https://www.si.edu/openaccess"
 cover: "https://www.si.edu/sites/default/files/page_banner/social-banner.jpeg" 
 date: 2021-04-06
 tags:
-    - collection
+    - collection-tag
 ---
 <img src=https://www.si.edu/sites/default/files/page_banner/social-banner.jpeg width="500">
 

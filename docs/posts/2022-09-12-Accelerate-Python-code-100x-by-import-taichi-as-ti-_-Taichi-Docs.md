@@ -5,7 +5,7 @@ url: "https://docs.taichi-lang.org/blog/accelerate-python-code-100x"
 cover: "https://rdl.ink/render/https%3A%2F%2Fdocs.taichi-lang.org%2Fblog%2Faccelerate-python-code-100x" 
 date: 2022-09-12
 tags:
-    - python-performance
+    - python-tag-performance
 ---
 <img src=https://rdl.ink/render/https%3A%2F%2Fdocs.taichi-lang.org%2Fblog%2Faccelerate-python-code-100x width="500">
 

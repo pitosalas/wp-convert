@@ -5,7 +5,7 @@ url: "https://www.dpreview.com/reviews/panasonic-lumix-dc-fz1000-ii-review/3"
 cover: "https://1.img-dpreview.com/files/p/E~TS940x788~articles/4347519314/Product/Pany-FZ100-II-lens-01.jpeg" 
 date: 2022-04-16
 tags:
-    - camera-panansonic-FZ1000-II-photo
+    - camera-pananson-tagic-FZ1000-II-photo
 ---
 <img src=https://1.img-dpreview.com/files/p/E~TS940x788~articles/4347519314/Product/Pany-FZ100-II-lens-01.jpeg width="500">
 

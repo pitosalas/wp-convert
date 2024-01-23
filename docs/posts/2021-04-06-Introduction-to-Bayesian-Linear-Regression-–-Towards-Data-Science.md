@@ -5,7 +5,7 @@ url: "https://towardsdatascience.com/introduction-to-bayesian-linear-regression-
 cover: "https://miro.medium.com/max/1200/1*uW8VVFJtCjrbPu9P0q0Iog.jpeg" 
 date: 2021-04-06
 tags:
-    - regression-bayes-tagian-statistics
+    - regression-tag-bayes-tagian-statistics
 ---
 <img src=https://miro.medium.com/max/1200/1*uW8VVFJtCjrbPu9P0q0Iog.jpeg width="500">
 

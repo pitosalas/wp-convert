@@ -5,7 +5,7 @@ url: "https://railsnotes.xyz/blog/rails-generate-migration-everything-you-need-t
 cover: "https://railsnotes.xyz/static/images/rails-generate-migration-everything-you-need-to-know/cover.png" 
 date: 2023-07-17
 tags:
-    - rails-howto-migration-explainer
+    - rails-howto-migration-tag-explainer
 ---
 <img src=https://railsnotes.xyz/static/images/rails-generate-migration-everything-you-need-to-know/cover.png width="500">
 

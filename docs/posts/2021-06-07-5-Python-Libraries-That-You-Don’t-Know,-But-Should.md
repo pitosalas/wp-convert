@@ -5,7 +5,7 @@ url: "https://link.medium.com/xEjq6wILSgb"
 cover: "https://miro.medium.com/max/1200/1*FIYVG7jKknCncAkIJLAIRQ.jpeg" 
 date: 2021-06-07
 tags:
-    - python-library-package-google-maps
+    - python-tag-library-package-google-maps
 ---
 <img src=https://miro.medium.com/max/1200/1*FIYVG7jKknCncAkIJLAIRQ.jpeg width="500">
 

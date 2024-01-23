@@ -5,7 +5,7 @@ url: "https://www.mckinsey.com/capabilities/operations/our-insights/from-speech-
 cover: "https://www.mckinsey.com/~/media/mckinsey/business%20functions/operations/our%20insights/from%20speech%20to%20insights%20the%20value%20of%20the%20human%20voice/from%20speech%20to%20insights_1308903390_thumb_1536x1536.jpg" 
 date: 2022-11-24
 tags:
-    - voice-speech-otp-calls-recognition-research
+    - voice-speech-otp-calls-recognition-tag-research
 ---
 <img src=https://www.mckinsey.com/~/media/mckinsey/business%20functions/operations/our%20insights/from%20speech%20to%20insights%20the%20value%20of%20the%20human%20voice/from%20speech%20to%20insights_1308903390_thumb_1536x1536.jpg width="500">
 

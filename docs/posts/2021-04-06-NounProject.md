@@ -5,7 +5,7 @@ url: "http://thenounproject.com"
 cover: "https://rdl.ink/render/http%3A%2F%2Fthenounproject.com" 
 date: 2021-04-06
 tags:
-    - interface-icons-graphics-design-ux
+    - interface-icon-tags-graphics-design-ux
 ---
 <img src=https://rdl.ink/render/http%3A%2F%2Fthenounproject.com width="500">
 

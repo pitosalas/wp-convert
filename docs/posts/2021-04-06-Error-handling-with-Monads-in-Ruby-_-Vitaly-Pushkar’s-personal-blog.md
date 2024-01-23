@@ -5,7 +5,7 @@ url: "http://nywkap.com/programming/either-monads-ruby.html"
 cover: "http://nywkap.com/assets/fatal-error.png" 
 date: 2021-04-06
 tags:
-    - monads-ruby-handling-error-exceptions
+    - mon-tagads-ruby-handling-error-exception-tags
 ---
 <img src=http://nywkap.com/assets/fatal-error.png width="500">
 

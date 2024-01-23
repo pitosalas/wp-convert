@@ -5,7 +5,7 @@ url: "https://martinheinz.dev/blog/77"
 cover: "https://res.cloudinary.com/martinheinz/image/upload/v1567247069/blog/og_image_s4v0wv.png" 
 date: 2022-08-13
 tags:
-    - python-tools-howto
+    - python-tag-tools-howto
 ---
 <img src=https://res.cloudinary.com/martinheinz/image/upload/v1567247069/blog/og_image_s4v0wv.png width="500">
 

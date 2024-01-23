@@ -5,7 +5,7 @@ url: "https://carlosbecker.dev/posts/ssh-tips-and-tricks/"
 cover: "https://carlosbecker.com/" 
 date: 2022-08-21
 tags:
-    - ssh-tips-shortcuts-config-howto
+    - ssh-tips-shortcuts-con-tagfig-howto
 ---
 <img src=https://carlosbecker.com/ width="500">
 

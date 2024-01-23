@@ -5,7 +5,7 @@ url: "https://streamlit.io/"
 cover: "https://streamlit.io/sharing-image-facebook.jpg" 
 date: 2022-06-15
 tags:
-    - python-dashboard-visualization-otp-howto
+    - python-tag-dashboard-visualization-tag-otp-howto
 ---
 <img src=https://streamlit.io/sharing-image-facebook.jpg width="500">
 

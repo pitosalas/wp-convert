@@ -5,7 +5,7 @@ url: "https://link.medium.com/PQicdl3gS7"
 cover: "https://miro.medium.com/max/1200/1*A4sZ2qS0jxVmeA3qGba0ag.jpeg" 
 date: 2021-04-06
 tags:
-    - python-libraries-packages-howto-cooltools-data-cleaning
+    - python-tag-libraries-packages-howto-cooltools-data-cleaning
 ---
 <img src=https://miro.medium.com/max/1200/1*A4sZ2qS0jxVmeA3qGba0ag.jpeg width="500">
 

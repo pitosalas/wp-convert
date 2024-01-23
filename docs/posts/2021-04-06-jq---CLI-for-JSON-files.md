@@ -5,7 +5,7 @@ url: "https://stedolan.github.io/jq"
 cover: "https://rdl.ink/render/https%3A%2F%2Fstedolan.github.io%2Fjq" 
 date: 2021-04-06
 tags:
-    - json-too-howto-jq-cooltool
+    - json-tag-too-howto-jq-cooltool
 ---
 <img src=https://rdl.ink/render/https%3A%2F%2Fstedolan.github.io%2Fjq width="500">
 

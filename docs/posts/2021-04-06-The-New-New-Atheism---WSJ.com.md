@@ -5,7 +5,7 @@ url: "http://online.wsj.com/article/SB118454735982067207.html?mod=most_viewed_da
 cover: "https://s.wsj.net/img/meta/wsj-social-share.png" 
 date: 2021-04-06
 tags:
-    - religion-wsj
+    - religion-tag-wsj
 ---
 <img src=https://s.wsj.net/img/meta/wsj-social-share.png width="500">
 

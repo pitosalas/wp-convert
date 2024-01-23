@@ -5,7 +5,7 @@ url: "https://www.virtual-dba.com/blog/postgresql-performance-enabling-pg-stat-s
 cover: "https://www.virtual-dba.com/media/PostgreSQL-Performance-Enabling-pg_stat_statements.jpg" 
 date: 2022-03-05
 tags:
-    - postgres-configuration-performance-tuning-query
+    - postgres-con-tagfiguration-tag-performance-tuning-query
 ---
 <img src=https://www.virtual-dba.com/media/PostgreSQL-Performance-Enabling-pg_stat_statements.jpg width="500">
 

@@ -5,7 +5,7 @@ url: "https://quickleft.com/blog/6-easy-ways-to-prevent-your-heroku-node-app-fro
 cover: "" 
 date: 2021-04-06
 tags:
-    - explanation-hacks-performance-Heroku-howto
+    - explanation-tag-hacks-performance-Heroku-howto
 ---
 <img src= width="500">
 

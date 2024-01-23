@@ -5,7 +5,7 @@ url: "https://firstruby.wordpress.com/2007/12/10/ical-icalendar-publishing-throu
 cover: "https://s0.wp.com/i/blank.jpg" 
 date: 2021-04-06
 tags:
-    - ical-publishing-rubyonrails-ruby
+    - ical-publishing-rubyon-tagrails-ruby
 ---
 <img src=https://s0.wp.com/i/blank.jpg width="500">
 

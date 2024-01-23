@@ -5,7 +5,7 @@ url: "https://asdkazmi.medium.com/deploying-flask-app-with-wsgi-and-apache-serve
 cover: "https://miro.medium.com/max/797/1*sq1oigRgSKIkZ5N3fNbKMA.png" 
 date: 2021-07-16
 tags:
-    - python-apache-flask-ubuntu-howto
+    - python-tag-apache-flask-ubuntu-howto
 ---
 <img src=https://miro.medium.com/max/797/1*sq1oigRgSKIkZ5N3fNbKMA.png width="500">
 

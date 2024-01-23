@@ -5,7 +5,7 @@ url: "https://davekilian.com/lock-convoys.html?utm_source=abyteofcodingnewslette
 cover: "https://rdl.ink/render/https%3A%2F%2Fdavekilian.com%2Flock-convoys.html%3Futm_source%3Dabyteofcodingnewsletter" 
 date: 2022-11-29
 tags:
-    - scale-bottleneck-locks-lock-performance-code-convoy
+    - scale-bottleneck-locks-lock-performance-code-con-tagvoy
 ---
 <img src=https://rdl.ink/render/https%3A%2F%2Fdavekilian.com%2Flock-convoys.html%3Futm_source%3Dabyteofcodingnewsletter width="500">
 

@@ -5,7 +5,7 @@ url: "https://karolgalanciak.com/blog/2018/09/30/the-problems-with-validating-ac
 cover: "https://rdl.ink/render/https%3A%2F%2Fkarolgalanciak.com%2Fblog%2F2018%2F09%2F30%2Fthe-problems-with-validating-activerecord-models-and-why-state-validation-is-a-bad-idea" 
 date: 2021-04-06
 tags:
-    - models-validation-activerecord-ruby
+    - models-validation-tag-activerecord-ruby
 ---
 <img src=https://rdl.ink/render/https%3A%2F%2Fkarolgalanciak.com%2Fblog%2F2018%2F09%2F30%2Fthe-problems-with-validating-activerecord-models-and-why-state-validation-is-a-bad-idea width="500">
 

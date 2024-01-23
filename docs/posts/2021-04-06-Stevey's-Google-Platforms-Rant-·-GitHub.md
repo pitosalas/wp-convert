@@ -5,7 +5,7 @@ url: "https://gist.github.com/chitchcock/1281611"
 cover: "https://github.githubassets.com/images/modules/gists/gist-og-image.png" 
 date: 2021-04-06
 tags:
-    - saas-soa-rant-google-amazon-apple
+    - saas-soa-rant-google-amazon-tag-apple
 ---
 <img src=https://github.githubassets.com/images/modules/gists/gist-og-image.png width="500">
 

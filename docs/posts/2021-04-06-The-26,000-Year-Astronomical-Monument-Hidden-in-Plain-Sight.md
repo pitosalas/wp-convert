@@ -5,7 +5,7 @@ url: "http://blog.longnow.org/02019/01/29/the-26000-year-astronomical-monument-h
 cover: "https://blog-cdn.longnow.org/wp-content/uploads/2019/01/0_Db-LhI9UfyMj06-k.jpg" 
 date: 2021-04-06
 tags:
-    - polarstar-northpole-monument-astronomy
+    - polarstar-no-tagrthpole-mon-tagument-astron-tagomy
 ---
 <img src=https://blog-cdn.longnow.org/wp-content/uploads/2019/01/0_Db-LhI9UfyMj06-k.jpg width="500">
 

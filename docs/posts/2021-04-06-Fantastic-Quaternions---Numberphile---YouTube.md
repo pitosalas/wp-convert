@@ -5,7 +5,7 @@ url: "https://www.youtube.com/watch?v=3BR8tK-LuB0"
 cover: "https://i.ytimg.com/vi/3BR8tK-LuB0/mqdefault.jpg" 
 date: 2021-04-06
 tags:
-    - Robotics-119-quarternions
+    - Robotics-119-quarternion-tags
 ---
 <img src=https://i.ytimg.com/vi/3BR8tK-LuB0/mqdefault.jpg width="500">
 

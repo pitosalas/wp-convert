@@ -5,7 +5,7 @@ url: "https://medium.com/@rrfd/cleaning-and-prepping-data-with-python-for-data-s
 cover: "" 
 date: 2021-04-06
 tags:
-    - howto-python-cleaning-data-datascience
+    - howto-python-tag-cleaning-data-datascience
 ---
 <img src= width="500">
 

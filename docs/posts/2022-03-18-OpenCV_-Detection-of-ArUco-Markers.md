@@ -5,7 +5,7 @@ url: "https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html"
 cover: "https://docs.opencv.org/4.x/markers.jpg" 
 date: 2022-03-18
 tags:
-    - opencv-tutorial-howto-course-robotics-computer-vision
+    - opencv-tutorial-howto-course-robotics-computer-vision-tag
 ---
 <img src=https://docs.opencv.org/4.x/markers.jpg width="500">
 

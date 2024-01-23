@@ -5,7 +5,7 @@ url: "http://collegeforamerica.org"
 cover: "https://www.snhu.edu/-/media/images/logos/logo-abbr.ashx" 
 date: 2021-04-06
 tags:
-    - college-education-education20
+    - college-education-tag-education-tag20
 ---
 <img src=https://www.snhu.edu/-/media/images/logos/logo-abbr.ashx width="500">
 

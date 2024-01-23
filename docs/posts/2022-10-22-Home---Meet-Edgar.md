@@ -5,7 +5,7 @@ url: "https://meetedgar.com/"
 cover: "https://meetedgar.com/wp-content/uploads/2022/05/ME_Hero_FINAL-2.png" 
 date: 2022-10-22
 tags:
-    - social-media-automation-howto-scheduling
+    - social-media-automation-tag-howto-scheduling
 ---
 <img src=https://meetedgar.com/wp-content/uploads/2022/05/ME_Hero_FINAL-2.png width="500">
 

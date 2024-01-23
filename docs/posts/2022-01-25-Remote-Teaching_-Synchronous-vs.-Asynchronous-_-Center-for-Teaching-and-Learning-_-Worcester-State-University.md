@@ -5,7 +5,7 @@ url: "https://www.worcester.edu/CTL-Remote-Teaching-Synchronous-vs-Asynchronous/
 cover: "https://www.worcester.edu/uploadedImages/FacebookDefaultLinkImage.png" 
 date: 2022-01-25
 tags:
-    - otp-synchronous-asynchronous-real-time-education-study
+    - otp-synchron-tagous-asynchron-tagous-real-time-education-tag-study
 ---
 <img src=https://www.worcester.edu/uploadedImages/FacebookDefaultLinkImage.png width="500">
 

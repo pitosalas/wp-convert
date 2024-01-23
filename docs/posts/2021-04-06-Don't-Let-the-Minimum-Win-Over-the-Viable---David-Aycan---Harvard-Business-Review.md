@@ -5,7 +5,7 @@ url: "http://blogs.hbr.org/cs/2012/05/dont_let_the_minimum_win_over.html"
 cover: "https://hbr.orghttps//hbr.org/resources/images/hbr_opengraph_940x490.png" 
 date: 2021-04-06
 tags:
-    - leanstartup-innovation-entrepreneurs-startup-lean-MVP
+    - leanstartup-inno-tagvation-tag-entrepreneurs-startup-lean-MVP
 ---
 <img src=https://hbr.orghttps//hbr.org/resources/images/hbr_opengraph_940x490.png width="500">
 

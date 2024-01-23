@@ -18,11 +18,11 @@ class WpImport:
         current_page = 1
         total_pages = 10000
         should_continue = True
-        while should_continue and current_page < total_pages and current_page < MAX_API_PAGES:
+        while should_continue and current_page <= total_pages and current_page < MAX_API_PAGES:
             params = {'page': current_page}
             response = requests.get(url, headers=headers, params=params)
             if response.status_code != 200:
-                break
+                should_continue = False
             total_pages = int(response.headers['X-WP-TotalPages'])
             self.process_posts(response, self.process_a_post)
             current_page += 1
@@ -30,15 +30,11 @@ class WpImport:
         return requests.get(url, headers=headers)
 
     def process_posts(self, response, action):
-    # Check if the request was successful
-        if response.status_code == 200:
-            # Parse JSON response
-            posts = response.json()
-            for post in posts:
-                self.posts.append(action(post))
-        else:
-            print("Failed to retrieve post. Status code:", response.status_code)
-            print(response.text)
+    # Check if the request was successful    
+        # Parse JSON response
+        posts = response.json()
+        for post in posts:
+            self.posts.append(action(post))
 
     def process_a_post(self, post: dict) -> dict:
         post = self.drop_unneeded_keys(post)

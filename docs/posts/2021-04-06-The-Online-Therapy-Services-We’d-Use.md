@@ -5,7 +5,7 @@ url: "https://thewirecutter.com/reviews/online-therapy-services"
 cover: "https://cdn.thewirecutter.com/wp-content/uploads/2018/05/Screen-Shot-2018-03-29-at-12.10.48-PM-630x420.png" 
 date: 2021-04-06
 tags:
-    - services-online-therapy
+    - services-on-tagline-therapy
 ---
 <img src=https://cdn.thewirecutter.com/wp-content/uploads/2018/05/Screen-Shot-2018-03-29-at-12.10.48-PM-630x420.png width="500">
 

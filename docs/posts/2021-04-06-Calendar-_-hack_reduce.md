@@ -5,7 +5,7 @@ url: "http://www.hackreduce.org/calendar"
 cover: "" 
 date: 2021-04-06
 tags:
-    - nonprofit-pr-hack
+    - no-tagn-tagprofit-pr-hack
 ---
 <img src= width="500">
 

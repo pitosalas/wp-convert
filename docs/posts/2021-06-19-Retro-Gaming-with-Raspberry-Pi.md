@@ -5,7 +5,7 @@ url: "https://learn.adafruit.com/retro-gaming-with-raspberry-pi/adding-controls-
 cover: "https://cdn-learn.adafruit.com/guides/images/000/000/290/medium800/joust.jpg" 
 date: 2021-06-19
 tags:
-    - raspberry-pi-raspi-controls-interface-howto
+    - raspberry-pi-raspi-con-tagtrols-interface-howto
 ---
 <img src=https://cdn-learn.adafruit.com/guides/images/000/000/290/medium800/joust.jpg width="500">
 

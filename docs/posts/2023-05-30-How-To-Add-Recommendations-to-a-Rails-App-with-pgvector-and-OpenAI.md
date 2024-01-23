@@ -5,7 +5,7 @@ url: "https://link.medium.com/Xfk2UqtydAb"
 cover: "https://miro.medium.com/v2/resize:fit:1200/1*6tpPW2BJsprHH6EUmI_JQg.png" 
 date: 2023-05-30
 tags:
-    - recommendations-pgvector-rails-postgres
+    - recommendation-tags-pgvector-rails-postgres
 ---
 <img src=https://miro.medium.com/v2/resize:fit:1200/1*6tpPW2BJsprHH6EUmI_JQg.png width="500">
 

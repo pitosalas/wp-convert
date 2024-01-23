@@ -5,7 +5,7 @@ url: "http://joostdevblog.blogspot.com/2014/07/why-composition-is-often-better-t
 cover: "https://lh6.googleusercontent.com/proxy/3FDJd1lWoiuZCxfz7C2GRuBjhEQ9Es3OPvuUzs7_qAmYsdPEAiRFKrH9QBOGubPOZOa1I7q6WfEnXHce89uFMceSXhAhs4QbuWmuzw6aeM2G32M3Li8Gr8jwjbSbyaafYID1uQd9hzojASmGiMAp8H1kMjii4g=w1200-h630-p-k-no-nu" 
 date: 2021-04-06
 tags:
-    - composition-inheritance-engineering
+    - composition-tag-inheritance-engineering
 ---
 <img src=https://lh6.googleusercontent.com/proxy/3FDJd1lWoiuZCxfz7C2GRuBjhEQ9Es3OPvuUzs7_qAmYsdPEAiRFKrH9QBOGubPOZOa1I7q6WfEnXHce89uFMceSXhAhs4QbuWmuzw6aeM2G32M3Li8Gr8jwjbSbyaafYID1uQd9hzojASmGiMAp8H1kMjii4g=w1200-h630-p-k-no-nu width="500">
 

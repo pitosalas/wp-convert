@@ -5,7 +5,7 @@ url: "https://gto76.github.io/python-cheatsheet"
 cover: "https://gto76.github.io/python-cheatsheet/web/image_social_3.png" 
 date: 2021-04-06
 tags:
-    - tips-cheatsheet-comprehensive-python
+    - tips-cheatsheet-comprehensive-python-tag
 ---
 <img src=https://gto76.github.io/python-cheatsheet/web/image_social_3.png width="500">
 

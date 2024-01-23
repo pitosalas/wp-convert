@@ -5,7 +5,7 @@ url: "https://blog.usejournal.com/python-vs-and-r-for-data-science-833b48ccc91d?
 cover: "https://miro.medium.com/max/1200/1*Mk54CziKpHi65sdlwBZcCg.png" 
 date: 2021-04-06
 tags:
-    - r-compare-pandas-python
+    - r-compare-pandas-python-tag
 ---
 <img src=https://miro.medium.com/max/1200/1*Mk54CziKpHi65sdlwBZcCg.png width="500">
 

@@ -5,7 +5,7 @@ url: "https://www.ultimate-guitar.com/"
 cover: "https://rdl.ink/render/https%3A%2F%2Fwww.ultimate-guitar.com%2F" 
 date: 2021-08-22
 tags:
-    - chords-tab-music-guitar-songs-cooltool
+    - chords-tab-music-guitar-son-taggs-cooltool
 ---
 <img src=https://rdl.ink/render/https%3A%2F%2Fwww.ultimate-guitar.com%2F width="500">
 

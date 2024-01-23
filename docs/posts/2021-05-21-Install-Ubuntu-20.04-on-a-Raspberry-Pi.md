@@ -5,7 +5,7 @@ url: "https://www.youtube.com/watch?v=GVgMM_TFeOw"
 cover: "https://i.ytimg.com/vi/GVgMM_TFeOw/hqdefault.jpg" 
 date: 2021-05-21
 tags:
-    - ubuntu-video-installation-raspi-raspberry-pi
+    - ubuntu-video-installation-tag-raspi-raspberry-pi
 ---
 <img src=https://i.ytimg.com/vi/GVgMM_TFeOw/hqdefault.jpg width="500">
 

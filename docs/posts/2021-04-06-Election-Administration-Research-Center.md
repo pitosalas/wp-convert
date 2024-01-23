@@ -5,7 +5,7 @@ url: "http://earc.berkeley.edu/hosting.php"
 cover: "" 
 date: 2021-04-06
 tags:
-    - elections-voting-Weather
+    - election-tags-voting-Weather
 ---
 <img src= width="500">
 

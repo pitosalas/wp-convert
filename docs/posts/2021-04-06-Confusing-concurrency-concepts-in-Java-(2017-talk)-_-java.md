@@ -5,7 +5,7 @@ url: "https://www.reddit.com/r/java/comments/9ld45t/confusing_concurrency_concep
 cover: "https://i.ytimg.com/vi/ADxUsCkWdbE/hqdefault.jpg" 
 date: 2021-04-06
 tags:
-    - concurrency
+    - con-tagcurrency
 ---
 <img src=https://i.ytimg.com/vi/ADxUsCkWdbE/hqdefault.jpg width="500">
 

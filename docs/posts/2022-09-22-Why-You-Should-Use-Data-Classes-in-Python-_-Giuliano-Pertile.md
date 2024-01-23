@@ -5,7 +5,7 @@ url: "https://www.giulianopertile.com/blog/why-you-should-use-dataclasses-in-pyt
 cover: "https://giulianopertile.com/uploads/post/why-you-should-use-dataclasses-in-python/cover.jpg" 
 date: 2022-09-22
 tags:
-    - python-howto-explainer-data-immutable
+    - python-tag-howto-explainer-data-immutable
 ---
 <img src=https://giulianopertile.com/uploads/post/why-you-should-use-dataclasses-in-python/cover.jpg width="500">
 

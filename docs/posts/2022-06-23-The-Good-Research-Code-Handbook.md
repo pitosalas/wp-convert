@@ -5,7 +5,7 @@ url: "https://goodresearch.dev/index.html"
 cover: "https://goodresearch.dev/_images/unicorn.png" 
 date: 2022-06-23
 tags:
-    - python-software-engineering-standards-recommendations-programming-languages
+    - python-tag-software-engineering-standards-recommendation-tags-programming-languages
 ---
 <img src=https://goodresearch.dev/_images/unicorn.png width="500">
 

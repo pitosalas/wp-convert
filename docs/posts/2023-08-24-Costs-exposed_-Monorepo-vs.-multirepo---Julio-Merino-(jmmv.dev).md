@@ -5,7 +5,7 @@ url: "https://jmmv.dev/2023/08/costs-exposed-monorepo-multirepo.html"
 cover: "https://jmmv.dev/images/2023-08-23-freebsd-gnome-repos.png" 
 date: 2023-08-24
 tags:
-    - repositories-git-github-monorepo-comparison
+    - repositories-git-github-mon-tagorepo-comparison-tag
 ---
 <img src=https://jmmv.dev/images/2023-08-23-freebsd-gnome-repos.png width="500">
 

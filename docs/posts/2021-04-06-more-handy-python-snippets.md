@@ -5,7 +5,7 @@ url: "https://link.medium.com/U8bjsYsqG2"
 cover: "" 
 date: 2021-04-06
 tags:
-    - programming-howto-python
+    - programming-howto-python-tag
 ---
 <img src= width="500">
 

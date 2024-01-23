@@ -5,7 +5,7 @@ url: "https://towardsdatascience.com/what-you-need-to-know-about-netflixs-jupyte
 cover: "https://miro.medium.com/max/1200/0*MCKD9v7ezPD7yXrX" 
 date: 2021-04-06
 tags:
-    - python-netflix-jupyter-notebooks
+    - python-tag-netflix-jupyter-no-tagtebooks
 ---
 <img src=https://miro.medium.com/max/1200/0*MCKD9v7ezPD7yXrX width="500">
 

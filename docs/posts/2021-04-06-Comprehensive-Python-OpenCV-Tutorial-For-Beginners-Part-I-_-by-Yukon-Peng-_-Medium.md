@@ -5,7 +5,7 @@ url: "https://medium.com/@yukunpengba/comprehensive-python-opencv-tutorial-for-b
 cover: "https://miro.medium.com/max/1200/1*l_qUBd3ZxomdRz5AWFEyvg.jpeg" 
 date: 2021-04-06
 tags:
-    - python-opencv-tutorial-howto-robotics
+    - python-tag-opencv-tutorial-howto-robotics
 ---
 <img src=https://miro.medium.com/max/1200/1*l_qUBd3ZxomdRz5AWFEyvg.jpeg width="500">
 

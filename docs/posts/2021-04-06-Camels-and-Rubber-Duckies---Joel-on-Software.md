@@ -5,7 +5,7 @@ url: "http://www.joelonsoftware.com/articles/CamelsandRubberDuckies.html"
 cover: "https://i0.wp.com/www.joelonsoftware.com/wp-content/uploads/2016/12/11969842.jpg?fit=240%2C240&ssl=1" 
 date: 2021-04-06
 tags:
-    - pricing-software-economics-economy-price-startup-entrepreneurship
+    - pricing-software-econ-tagomics-econ-tagomy-price-startup-entrepreneurship
 ---
 <img src=https://i0.wp.com/www.joelonsoftware.com/wp-content/uploads/2016/12/11969842.jpg?fit=240%2C240&ssl=1 width="500">
 

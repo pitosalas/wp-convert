@@ -5,7 +5,7 @@ url: "http://www.codeschool.com/courses/try-ruby"
 cover: "https://img.pluralsight.com/course-images/ruby-fundamentals-v1.jpg" 
 date: 2021-04-06
 tags:
-    - ruby-education-learning-teaching
+    - ruby-education-tag-learning-teaching
 ---
 <img src=https://img.pluralsight.com/course-images/ruby-fundamentals-v1.jpg width="500">
 

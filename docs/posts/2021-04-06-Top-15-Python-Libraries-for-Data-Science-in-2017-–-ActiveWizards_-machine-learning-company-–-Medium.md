@@ -5,7 +5,7 @@ url: "https://medium.com/activewizards-machine-learning-company/top-15-python-li
 cover: "https://miro.medium.com/max/829/0*y4WgIPEjw7R9MqGa.png" 
 date: 2021-04-06
 tags:
-    - data-python-tools-datascience-Libraries
+    - data-python-tag-tools-datascience-Libraries
 ---
 <img src=https://miro.medium.com/max/829/0*y4WgIPEjw7R9MqGa.png width="500">
 

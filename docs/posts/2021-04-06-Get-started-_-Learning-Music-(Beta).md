@@ -5,7 +5,7 @@ url: "https://learningmusic.ableton.com/index.html"
 cover: "https://learningmusic.ableton.com/images/og-image.jpg" 
 date: 2021-04-06
 tags:
-    - music-tutorial-education-synthesizer
+    - music-tutorial-education-tag-synthesizer
 ---
 <img src=https://learningmusic.ableton.com/images/og-image.jpg width="500">
 

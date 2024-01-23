@@ -5,7 +5,7 @@ url: "https://github.com/public-api-lists/public-api-lists"
 cover: "https://opengraph.githubassets.com/da19294f7de720a833e23c02e3dc8e4b37132804954a99b99232bead0afc8bd1/public-api-lists/public-api-lists" 
 date: 2021-08-23
 tags:
-    - api-rest-integration-services-howto-web-services
+    - api-rest-integration-tag-services-howto-web-services
 ---
 <img src=https://opengraph.githubassets.com/da19294f7de720a833e23c02e3dc8e4b37132804954a99b99232bead0afc8bd1/public-api-lists/public-api-lists width="500">
 

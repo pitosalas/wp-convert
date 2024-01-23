@@ -5,7 +5,7 @@ url: "https://testdriven.io/blog/heroku-alternatives/"
 cover: "https://testdriven.io/static/images/blog/heroku_alternatives_social_card.png" 
 date: 2022-10-20
 tags:
-    - heroku-python-alternatives-review
+    - heroku-python-tag-alternatives-review
 ---
 <img src=https://testdriven.io/static/images/blog/heroku_alternatives_social_card.png width="500">
 

@@ -5,7 +5,7 @@ url: "https://coderwall.com/p/lhkkug/don-t-confuse-ruby-s-throw-statement-with-r
 cover: "https://coderwall-assets-0.s3.amazonaws.com/uploads/user/avatar/2220/443889211900a5dd2f1c85c0f4fa2d54.jpeg" 
 date: 2021-04-06
 tags:
-    - ruby-throw-catch-exceptions
+    - ruby-throw-catch-exception-tags
 ---
 <img src=https://coderwall-assets-0.s3.amazonaws.com/uploads/user/avatar/2220/443889211900a5dd2f1c85c0f4fa2d54.jpeg width="500">
 

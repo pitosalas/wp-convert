@@ -5,7 +5,7 @@ url: "https://link.medium.com/QQPcixGrfvb"
 cover: "https://miro.medium.com/max/1200/0*e7YfIqLhDHmMyADU" 
 date: 2022-11-25
 tags:
-    - simulation-discrete-howto-explainer
+    - simulation-tag-discrete-howto-explainer
 ---
 <img src=https://miro.medium.com/max/1200/0*e7YfIqLhDHmMyADU width="500">
 

@@ -5,7 +5,7 @@ url: "http://www.glgroup.com"
 cover: "https://rdl.ink/render/http%3A%2F%2Fwww.glgroup.com" 
 date: 2021-04-06
 tags:
-    - financial-jasonjones-blogbridge
+    - financial-jason-tagjon-tages-blogbridge
 ---
 <img src=https://rdl.ink/render/http%3A%2F%2Fwww.glgroup.com width="500">
 

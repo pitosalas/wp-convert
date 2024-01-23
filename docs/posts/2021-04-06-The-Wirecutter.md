@@ -5,7 +5,7 @@ url: "http://thewirecutter.com"
 cover: "https://cdn.thewirecutter.com/wp-content/media/2020/10/wc_og_general.png?auto=webp&quality=60&crop=1.91:1&width=1200" 
 date: 2021-04-06
 tags:
-    - technology-gadgets-review-reference-gadget-news
+    - techno-taglogy-gadgets-review-reference-gadget-news
 ---
 <img src=https://cdn.thewirecutter.com/wp-content/media/2020/10/wc_og_general.png?auto=webp&quality=60&crop=1.91:1&width=1200 width="500">
 

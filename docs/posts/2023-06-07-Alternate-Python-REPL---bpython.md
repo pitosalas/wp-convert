@@ -5,7 +5,7 @@ url: "https://bpython-interpreter.org/"
 cover: "https://bpython-interpreter.org/theme/images/bpython.png" 
 date: 2023-06-07
 tags:
-    - repl-python-cooltool
+    - repl-python-tag-cooltool
 ---
 <img src=https://bpython-interpreter.org/theme/images/bpython.png width="500">
 

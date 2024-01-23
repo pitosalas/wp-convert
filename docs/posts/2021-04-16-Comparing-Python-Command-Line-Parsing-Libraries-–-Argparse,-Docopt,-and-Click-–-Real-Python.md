@@ -5,7 +5,7 @@ url: "https://realpython.com/comparing-python-command-line-parsing-libraries-arg
 cover: "https://files.realpython.com/media/command-line-tools.e8b0c6695e39.png" 
 date: 2021-04-16
 tags:
-    - python-howto-cli-utilities
+    - python-tag-howto-cli-utilities
 ---
 <img src=https://files.realpython.com/media/command-line-tools.e8b0c6695e39.png width="500">
 

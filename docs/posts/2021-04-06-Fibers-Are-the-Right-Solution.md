@@ -5,7 +5,7 @@ url: "https://www.codeotaku.com/journal/2018-11/fibers-are-the-right-solution/in
 cover: "https://www.codeotaku.com/journal/2018-11/fibers-are-the-right-solution/preview.jpg" 
 date: 2021-04-06
 tags:
-    - fibers-processes-concurrency
+    - fibers-processes-con-tagcurrency
 ---
 <img src=https://www.codeotaku.com/journal/2018-11/fibers-are-the-right-solution/preview.jpg width="500">
 

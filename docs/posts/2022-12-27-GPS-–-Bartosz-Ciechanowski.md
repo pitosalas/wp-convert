@@ -5,7 +5,7 @@ url: "https://ciechanow.ski/gps/?utm_source=abyteofcodingnewsletter"
 cover: "https://ciechanow.ski/images/og/gps.png" 
 date: 2022-12-27
 tags:
-    - gps-satelites-technology-explainer-localization
+    - gps-satelites-techno-taglogy-explainer-localization-tag
 ---
 <img src=https://ciechanow.ski/images/og/gps.png width="500">
 

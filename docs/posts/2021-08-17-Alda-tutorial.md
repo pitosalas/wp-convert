@@ -5,7 +5,7 @@ url: "https://alda.io/tutorial/"
 cover: "https://alda.io/" 
 date: 2021-08-17
 tags:
-    - music-language-dsl-howto-notes-rests-instruments
+    - music-language-dsl-howto-no-tagtes-rests-instruments
 ---
 <img src=https://alda.io/ width="500">
 

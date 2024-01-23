@@ -5,7 +5,7 @@ url: "https://link.medium.com/gbpcSJtCieb"
 cover: "https://miro.medium.com/max/605/1*jMkJYmJAZHWL3qoVGo6DHA.png" 
 date: 2021-04-06
 tags:
-    - standard-deviation-stdev-statistics
+    - standard-deviation-tag-stdev-statistics
 ---
 <img src=https://miro.medium.com/max/605/1*jMkJYmJAZHWL3qoVGo6DHA.png width="500">
 

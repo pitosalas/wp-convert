@@ -5,7 +5,7 @@ url: "https://tonicdev.com/pitosalas/5602bf254821830c00fe2a4d"
 cover: "https://rdl.ink/render/https%3A%2F%2Ftonicdev.com%2Fpitosalas%2F5602bf254821830c00fe2a4d" 
 date: 2021-04-06
 tags:
-    - nodes-repl-programming
+    - no-tagdes-repl-programming
 ---
 <img src=https://rdl.ink/render/https%3A%2F%2Ftonicdev.com%2Fpitosalas%2F5602bf254821830c00fe2a4d width="500">
 

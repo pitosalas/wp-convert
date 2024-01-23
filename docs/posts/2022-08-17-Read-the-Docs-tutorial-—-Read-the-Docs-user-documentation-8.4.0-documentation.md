@@ -5,7 +5,7 @@ url: "https://docs.readthedocs.io/en/stable/tutorial/"
 cover: "https://docs.readthedocs.io/en/stable/_images/github-template.png" 
 date: 2022-08-17
 tags:
-    - documentation-github-howto-readthedocs-gitbook
+    - documentation-tag-github-howto-readthedocs-gitbook
 ---
 <img src=https://docs.readthedocs.io/en/stable/_images/github-template.png width="500">
 

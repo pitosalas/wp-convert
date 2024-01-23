@@ -5,7 +5,7 @@ url: "https://github.com/vizzuhq/vizzu-lib"
 cover: "https://repository-images.githubusercontent.com/374784415/124b1bbe-23f1-4105-9206-5a3641dba878" 
 date: 2021-12-21
 tags:
-    - visualization-library
+    - visualization-tag-library
 ---
 <img src=https://repository-images.githubusercontent.com/374784415/124b1bbe-23f1-4105-9206-5a3641dba878 width="500">
 

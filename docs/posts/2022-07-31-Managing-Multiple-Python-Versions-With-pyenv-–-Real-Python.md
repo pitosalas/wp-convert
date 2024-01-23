@@ -5,7 +5,7 @@ url: "https://realpython.com/intro-to-pyenv/"
 cover: "https://files.realpython.com/media/Getting-Started-With-pyenv_Watermarked.7b1dd55b32a1.jpg" 
 date: 2022-07-31
 tags:
-    - python-pyenv-version-manager-version-manage-howto
+    - python-tag-pyenv-version-tag-manager-version-tag-manage-howto
 ---
 <img src=https://files.realpython.com/media/Getting-Started-With-pyenv_Watermarked.7b1dd55b32a1.jpg width="500">
 

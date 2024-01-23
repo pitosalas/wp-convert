@@ -5,7 +5,7 @@ url: "https://www.toptal.com/python/beginners-guide-to-concurrency-and-paralleli
 cover: "https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/14825/beginners-guide-to-concurrency-and-parallelism-in-python-f26e18f0dea81ddf297e548a44eef227.png" 
 date: 2021-04-06
 tags:
-    - python-concurrency
+    - python-tag-con-tagcurrency
 ---
 <img src=https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/14825/beginners-guide-to-concurrency-and-parallelism-in-python-f26e18f0dea81ddf297e548a44eef227.png width="500">
 

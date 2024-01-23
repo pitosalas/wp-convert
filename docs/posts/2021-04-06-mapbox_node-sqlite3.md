@@ -5,7 +5,7 @@ url: "https://github.com/mapbox/node-sqlite3"
 cover: "https://avatars.githubusercontent.com/u/600935?s=400&v=4" 
 date: 2021-04-06
 tags:
-    - orm-javascript-nodejs
+    - orm-javascript-no-tagdejs
 ---
 <img src=https://avatars.githubusercontent.com/u/600935?s=400&v=4 width="500">
 

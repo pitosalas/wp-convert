@@ -5,7 +5,7 @@ url: "https://www.codementor.io/rahulgolwalkar/pros-and-cons-in-using-jwt-json-w
 cover: "https://cdn.filestackcontent.com/EKRM0aAURd3SvUvZonZR" 
 date: 2021-04-06
 tags:
-    - json-token-jwt
+    - json-tag-token-jwt
 ---
 <img src=https://cdn.filestackcontent.com/EKRM0aAURd3SvUvZonZR width="500">
 

@@ -5,7 +5,7 @@ url: "http://www.skygrid.com"
 cover: "https://www.skygrid.com/wp-content/uploads/2020/05/home-3-scaled.jpg" 
 date: 2021-04-06
 tags:
-    - financial-jasonjones-blogbridge
+    - financial-jason-tagjon-tages-blogbridge
 ---
 <img src=https://www.skygrid.com/wp-content/uploads/2020/05/home-3-scaled.jpg width="500">
 

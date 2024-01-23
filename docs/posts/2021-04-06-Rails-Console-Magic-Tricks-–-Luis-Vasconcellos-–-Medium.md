@@ -5,7 +5,7 @@ url: "https://medium.com/@lfv89/rails-console-magic-tricks-da1fdd657d32"
 cover: "https://miro.medium.com/max/1200/0*JNrtss-oJXLAkGyz" 
 date: 2021-04-06
 tags:
-    - console-tricks-rails
+    - con-tagsole-tricks-rails
 ---
 <img src=https://miro.medium.com/max/1200/0*JNrtss-oJXLAkGyz width="500">
 

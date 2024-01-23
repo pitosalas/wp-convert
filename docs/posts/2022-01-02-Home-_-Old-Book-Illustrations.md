@@ -5,7 +5,7 @@ url: "https://www.oldbookillustrations.com/?utm_campaign=Recomendo&utm_medium=em
 cover: "https://oldbookillustrations.com/wp-content/high-res/-768.jpg" 
 date: 2022-01-02
 tags:
-    - illustration-images-old-cooltool-free
+    - illustration-tag-images-old-cooltool-free
 ---
 <img src=https://oldbookillustrations.com/wp-content/high-res/-768.jpg width="500">
 

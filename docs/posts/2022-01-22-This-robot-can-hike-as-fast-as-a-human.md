@@ -5,7 +5,7 @@ url: "https://www.science.org/content/article/robot-can-hike-fast-human?utm_sour
 cover: "https://www.science.org/do/10.1126/science.ada0309/abs/_20220119_vid_anymal.jpg" 
 date: 2022-01-22
 tags:
-    - robotics-quadruaped-anymal-video-research-cave-navigation
+    - robotics-quadruaped-anymal-video-research-cave-navigation-tag
 ---
 <img src=https://www.science.org/do/10.1126/science.ada0309/abs/_20220119_vid_anymal.jpg width="500">
 

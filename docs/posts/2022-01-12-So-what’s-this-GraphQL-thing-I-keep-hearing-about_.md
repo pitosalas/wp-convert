@@ -5,7 +5,7 @@ url: "https://www.freecodecamp.org/news/so-whats-this-graphql-thing-i-keep-heari
 cover: "https://cdn-media-1.freecodecamp.org/images/1*uF2-YU2quykHIs4tKXy7sw.png" 
 date: 2022-01-12
 tags:
-    - graphql-introduction-api-howto-cosi105
+    - graphql-introduction-tag-api-howto-cosi105
 ---
 <img src=https://cdn-media-1.freecodecamp.org/images/1*uF2-YU2quykHIs4tKXy7sw.png width="500">
 

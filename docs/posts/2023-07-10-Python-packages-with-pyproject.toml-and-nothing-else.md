@@ -5,7 +5,7 @@ url: "https://til.simonwillison.net/python/pyproject"
 cover: "https://s3.amazonaws.com/til.simonwillison.net/00cb52aab1488d26adfdaa7d69f4bf2c.jpg" 
 date: 2023-07-10
 tags:
-    - python-packaging-explainer-programming-toml-poetry
+    - python-tag-packaging-explainer-programming-toml-poetry
 ---
 <img src=https://s3.amazonaws.com/til.simonwillison.net/00cb52aab1488d26adfdaa7d69f4bf2c.jpg width="500">
 

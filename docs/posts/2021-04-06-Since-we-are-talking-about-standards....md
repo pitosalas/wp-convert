@@ -5,7 +5,7 @@ url: "http://www.trustthevote.org/since-we-are-talking-about-standards"
 cover: "https://trustthevote.org/wp-content/uploads/2018/10/ttv_symbol_color_check.png?w=237" 
 date: 2021-04-06
 tags:
-    - elections-ttv-osdv
+    - election-tags-ttv-osdv
 ---
 <img src=https://trustthevote.org/wp-content/uploads/2018/10/ttv_symbol_color_check.png?w=237 width="500">
 

@@ -5,7 +5,7 @@ url: "https://www.codementor.io/mirjuned/a-beginner-s-guide-to-learning-django-i
 cover: "https://cdn.filestackcontent.com/3EjdlLkGR4eiUajR9ucw" 
 date: 2021-04-06
 tags:
-    - learning-django-python
+    - learning-django-python-tag
 ---
 <img src=https://cdn.filestackcontent.com/3EjdlLkGR4eiUajR9ucw width="500">
 

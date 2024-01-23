@@ -5,7 +5,7 @@ url: "https://www.netatmo.com/en-US/product/weather/weatherstation"
 cover: "https://medias.netatmo.com/images/tile/shop/:/rs=w:1200" 
 date: 2021-04-06
 tags:
-    - weather-station
+    - weather-station-tag
 ---
 <img src=https://medias.netatmo.com/images/tile/shop/:/rs=w:1200 width="500">
 

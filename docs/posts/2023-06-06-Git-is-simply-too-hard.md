@@ -5,7 +5,7 @@ url: "https://changelog.com/posts/git-is-simply-too-hard"
 cover: "https://cdn.changelog.com/uploads/posts/wwlO/large.png?v=63772756066" 
 date: 2023-06-06
 tags:
-    - git-opinion
+    - git-opinion-tag
 ---
 <img src=https://cdn.changelog.com/uploads/posts/wwlO/large.png?v=63772756066 width="500">
 

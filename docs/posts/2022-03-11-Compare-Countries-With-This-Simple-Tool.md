@@ -5,7 +5,7 @@ url: "https://thetruesize.com/?mc_cid=cc91a2f852&mc_eid=194a888149#?borders=1~!M
 cover: "http://thetruesize.com/img/twitter-card-screenshot.jpg" 
 date: 2022-03-11
 tags:
-    - fun-information-geography-map-sizes
+    - fun-information-tag-geography-map-sizes
 ---
 <img src=http://thetruesize.com/img/twitter-card-screenshot.jpg width="500">
 

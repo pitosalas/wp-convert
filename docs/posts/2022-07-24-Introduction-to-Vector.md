@@ -5,7 +5,7 @@ url: "https://vector.readthedocs.io/en/develop/usage/intro.html"
 cover: "https://vector.readthedocs.io/en/latest/_static/vector-logo.png" 
 date: 2022-07-24
 tags:
-    - python-package-vector-2d-3d
+    - python-tag-package-vector-2d-3d
 ---
 <img src=https://vector.readthedocs.io/en/latest/_static/vector-logo.png width="500">
 

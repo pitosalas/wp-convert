@@ -5,7 +5,7 @@ url: "https://github.com/Kanaries/Rath"
 cover: "https://repository-images.githubusercontent.com/204949916/1c504901-733b-4bf5-b887-9c7fc75397fa" 
 date: 2023-05-22
 tags:
-    - open-source-postgresql-visualization
+    - open-source-postgresql-visualization-tag
 ---
 <img src=https://repository-images.githubusercontent.com/204949916/1c504901-733b-4bf5-b887-9c7fc75397fa width="500">
 

@@ -5,7 +5,7 @@ url: "https://thoughtbot.com/blog/untangling-ruby-threads"
 cover: "https://images.thoughtbot.com/blog-vellum-image-uploads/QSHvOGvRLS2IgDClDBap_Serial_v3.svg" 
 date: 2021-04-06
 tags:
-    - concurrency-ruby-tips-threads-threadsafe-howto
+    - con-tagcurrency-ruby-tips-threads-threadsafe-howto
 ---
 <img src=https://images.thoughtbot.com/blog-vellum-image-uploads/QSHvOGvRLS2IgDClDBap_Serial_v3.svg width="500">
 

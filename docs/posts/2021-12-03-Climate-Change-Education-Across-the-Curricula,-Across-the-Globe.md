@@ -5,7 +5,7 @@ url: "https://tropicsu.org/"
 cover: "https://i0.wp.com/tropicsu.org/wp-content/uploads/2017/09/final-logo-copy.jpg?fit=404%2C392&ssl=1" 
 date: 2021-12-03
 tags:
-    - climate-education
+    - climate-education-tag
 ---
 <img src=https://i0.wp.com/tropicsu.org/wp-content/uploads/2017/09/final-logo-copy.jpg?fit=404%2C392&ssl=1 width="500">
 

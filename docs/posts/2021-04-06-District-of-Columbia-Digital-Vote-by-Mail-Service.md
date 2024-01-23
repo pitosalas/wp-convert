@@ -5,7 +5,7 @@ url: "https://dcdvbm.noizeramp.com"
 cover: "" 
 date: 2021-04-06
 tags:
-    - Elections
+    - Election-tags
 ---
 <img src= width="500">
 

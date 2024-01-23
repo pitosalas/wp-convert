@@ -5,7 +5,7 @@ url: "https://sites.google.com/d/1yj-E1Bl4PBcIQEi07JF4clswagcPsWAp/p/1Y0RH0ZT7cu
 cover: "" 
 date: 2022-12-05
 tags:
-    - brandeis-robotics-lab-information
+    - brandeis-robotics-lab-information-tag
 ---
 <img src= width="500">
 

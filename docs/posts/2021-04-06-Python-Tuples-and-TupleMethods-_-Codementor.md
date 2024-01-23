@@ -5,7 +5,7 @@ url: "https://www.codementor.io/mgalarny/python-tuples-and-tuple-methods-m6a1p6l
 cover: "https://cdn.filestackcontent.com/Q2S3TEuHSXuEpr7WSpGq" 
 date: 2021-04-06
 tags:
-    - tuples-python-methods
+    - tuples-python-tag-methods
 ---
 <img src=https://cdn.filestackcontent.com/Q2S3TEuHSXuEpr7WSpGq width="500">
 

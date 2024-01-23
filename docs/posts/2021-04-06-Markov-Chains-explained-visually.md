@@ -5,7 +5,7 @@ url: "http://setosa.io/ev/markov-chains"
 cover: "https://setosa.io/ev/markov-chains/fb-thumb.png" 
 date: 2021-04-06
 tags:
-    - markovchains-visual-explanation
+    - markovchains-visual-explanation-tag
 ---
 <img src=https://setosa.io/ev/markov-chains/fb-thumb.png width="500">
 

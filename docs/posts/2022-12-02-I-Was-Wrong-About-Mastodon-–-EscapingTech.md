@@ -5,7 +5,7 @@ url: "https://escapingtech.com/tech/opinions/i-was-wrong-about-mastodon-moderati
 cover: "https://escapingtech.com/images/i-was-wrong-about-mastodon-moderation/cover.png" 
 date: 2022-12-02
 tags:
-    - mastodon-moderation-fediverse-federated-explainer
+    - mastodon-tag-moderation-tag-fediverse-federated-explainer
 ---
 <img src=https://escapingtech.com/images/i-was-wrong-about-mastodon-moderation/cover.png width="500">
 

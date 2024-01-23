@@ -5,7 +5,7 @@ url: "http://www.presenterimpossible.com/presentation/startup-pitch-how-to"
 cover: "" 
 date: 2021-04-06
 tags:
-    - powerpoint-elevator-pitch-presentations-startup
+    - powerpoint-elevator-pitch-presentation-tags-startup
 ---
 <img src= width="500">
 

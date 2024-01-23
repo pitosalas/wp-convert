@@ -5,7 +5,7 @@ url: "http://www.techdirt.com/blog/innovation/articles/20130412/09091522689/here
 cover: "https://ii.techdirt.com/s/t/i/td_icon_300.png" 
 date: 2021-04-06
 tags:
-    - inventor-patents-invention-ideas
+    - inventor-patents-invention-tag-ideas
 ---
 <img src=https://ii.techdirt.com/s/t/i/td_icon_300.png width="500">
 

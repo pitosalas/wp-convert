@@ -5,7 +5,7 @@ url: "https://link.medium.com/Qm1zbLfxivb"
 cover: "https://miro.medium.com/max/1200/1*a2VvYsKGApR-E1SnT5O7yQ.jpeg" 
 date: 2022-11-27
 tags:
-    - mastodon-howto-compare-explainer
+    - mastodon-tag-howto-compare-explainer
 ---
 <img src=https://miro.medium.com/max/1200/1*a2VvYsKGApR-E1SnT5O7yQ.jpeg width="500">
 

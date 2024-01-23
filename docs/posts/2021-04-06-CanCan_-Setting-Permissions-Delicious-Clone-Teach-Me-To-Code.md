@@ -5,7 +5,7 @@ url: "http://teachmetocode.com/screencasts/cancan-setting-permissions-delicious-
 cover: "" 
 date: 2021-04-06
 tags:
-    - ruby-permissions-rails-gem
+    - ruby-permission-tags-rails-gem
 ---
 <img src= width="500">
 

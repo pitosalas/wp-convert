@@ -5,7 +5,7 @@ url: "https://www.toptal.com/machine-learning/nlp-tutorial-text-classification?_
 cover: "https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/15293/nlp-tutorial-text-classification-60b609c0b7a2622d2b0d6122f2b27f97.png" 
 date: 2021-04-06
 tags:
-    - classification-text-tutorial-nlp
+    - classification-tag-text-tutorial-nlp
 ---
 <img src=https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/15293/nlp-tutorial-text-classification-60b609c0b7a2622d2b0d6122f2b27f97.png width="500">
 

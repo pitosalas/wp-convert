@@ -5,7 +5,7 @@ url: "https://github.com/facebookresearch/pyrobot"
 cover: "https://avatars.githubusercontent.com/u/16943930?s=400&v=4" 
 date: 2021-04-06
 tags:
-    - robotics-python-ros
+    - robotics-python-tag-ros
 ---
 <img src=https://avatars.githubusercontent.com/u/16943930?s=400&v=4 width="500">
 
