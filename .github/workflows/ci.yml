@@ -29,6 +29,7 @@ jobs:
       - run: pip install mkdocs-material
       - run: pip install mkdocs-awesome-pages-plugin
       - run: pip install mkdocs-section-index
+      - run: pip install html2text
       - run: python wpimport.py
       - run: python tagsimport.py
       - run: python raindropimport.py
