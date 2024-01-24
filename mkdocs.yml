@@ -13,6 +13,7 @@ theme:
     - navigation.footer
     - navigation.tabs
     - search.suggest
+    - navigation.expand
   custom_dir: overrides
   palette:
     primary: grey
