@@ -173,7 +173,7 @@ date: {date}{tags}
 ---
 {cover_markdown}
 {content}
-* link: **[{title}]({url})**
+* **Link to site:** **[{title}]({url})**
 """
             file.write(markdown)
 
