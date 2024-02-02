@@ -5,8 +5,6 @@ date: 2008-12-05
 tags:
     - xcon-tagomy-bands-music-boston-tag
 ---
-# [XConomy’s Battle of the bands](None)
-
 
 
 
@@ -36,3 +34,4 @@ the-tech-bands-2/>)
 info](<http://www.xconomy.com/boston/2008/11/05/battle-of-the-tech-bands-2/>)
 
 
+[XConomy’s Battle of the bands](None)

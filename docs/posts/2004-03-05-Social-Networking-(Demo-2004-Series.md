@@ -3,8 +3,6 @@ title: "Social Networking (Demo 2004 Series"
 author: Pito Salas
 date: 2004-03-05
 ---
-# [Social Networking (Demo 2004 Series](None)
-
 
 
 >>
@@ -38,3 +36,4 @@ users and far more than the other guys. Their comment about Orkut – " **it’s
 85%  men**" – tells me something about how they _really_ perceive themselves.
 
 
+[Social Networking (Demo 2004 Series](None)

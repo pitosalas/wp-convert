@@ -7,8 +7,6 @@ tags:
     - cryptocurrency
     - wsj
 ---
-# [My Bitcoin stash is falling in value!](None)
-
 
 
 
@@ -31,3 +29,4 @@ WSJ.com](<http://online.wsj.com/news/articles/SB10001424127887324665604579079721
 
 
 
+[My Bitcoin stash is falling in value!](None)

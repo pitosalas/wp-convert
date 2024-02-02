@@ -5,8 +5,6 @@ date: 2013-01-13
 tags:
     - aaron-tag-swartz
 ---
-# [Aaron Swartz Links](None)
-
 
 
 
@@ -31,3 +29,4 @@ Swartz](<http://www.zephoria.org/thoughts/archives/2013/01/13/aaron-
 swartz.html>)
 
 
+[Aaron Swartz Links](None)

@@ -3,8 +3,6 @@ title: "My Strange Nation? Check out Susan Werner"
 author: Pito Salas
 date: 2006-04-06
 ---
-# [My Strange Nation? Check out Susan Werner](None)
-
 
 
 >>
@@ -26,3 +24,4 @@ song!](<http://strangenation.cf.huffingtonpost.com/>)
 [susanwerner](<http://www.technorati.com/tag/susanwerner>)
 
 
+[My Strange Nation? Check out Susan Werner](None)

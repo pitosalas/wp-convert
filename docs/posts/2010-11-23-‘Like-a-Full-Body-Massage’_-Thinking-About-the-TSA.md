@@ -3,8 +3,6 @@ title: "‘Like a Full-Body Massage’: Thinking About the TSA"
 author: Pito Salas
 date: 2010-11-23
 ---
-# [‘Like a Full-Body Massage’: Thinking About the TSA](None)
-
 
 
 
@@ -32,3 +30,4 @@ there's something about our political discourse that makes taking this
 position a hard one for an actual political 'leader' to espouse.
 
 
+[‘Like a Full-Body Massage’: Thinking About the TSA](None)

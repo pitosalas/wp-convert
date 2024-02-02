@@ -3,8 +3,6 @@ title: "Danah Boyd on Facebook and Myspace"
 author: Pito Salas
 date: 2007-07-14
 ---
-# [Danah Boyd on Facebook and Myspace](None)
-
 
 
 
@@ -33,3 +31,4 @@ the whole [article about Myspace and
 Facebook](<http://www.danah.org/papers/essays/ClassDivisions.html>).
 
 
+[Danah Boyd on Facebook and Myspace](None)

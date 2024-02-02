@@ -3,8 +3,6 @@ title: "[GEEK] JDemo: Java Demonstration Framework"
 author: Pito Salas
 date: 2005-09-15
 ---
-# [[GEEK] JDemo: Java Demonstration Framework](None)
-
 
 
 >>
@@ -30,3 +28,4 @@ components." ( **from** [JDemo web site](<http://www.jdemo.de/>))
 >> Technorati Tags: [cooltool](<http://www.technorati.com/tag/cooltool>)
 
 
+[[GEEK] JDemo: Java Demonstration Framework](None)

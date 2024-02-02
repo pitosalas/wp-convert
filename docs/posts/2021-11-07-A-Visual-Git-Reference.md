@@ -10,8 +10,7 @@ tags:
     - howto
     - explainer
 ---
-# [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
-
 <img src=https://rdl.ink/render/https%3A%2F%2Fmarklodato.github.io%2Fvisual-git-guide%2Findex-en.html width="500">
 
 
+[A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)

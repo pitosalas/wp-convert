@@ -12,10 +12,9 @@ tags:
     - bike-shedding
     - commentary
 ---
-# [Death by a thousand microservices](https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html?utm_source=changelog-news)
-
 <img src=https://renegadeotter.com/img/complexity/og.jpg width="500">
 
 I couldn’t agree more!
 
-(**Web site except:** The software industry is learning once again that complexity kills) 
+(**Web site excerpt:** The software industry is learning once again that complexity kills) 
+[Death by a thousand microservices](https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html?utm_source=changelog-news)

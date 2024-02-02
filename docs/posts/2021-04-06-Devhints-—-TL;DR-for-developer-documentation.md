@@ -12,10 +12,9 @@ tags:
     - cheatsheet
     - programming
 ---
-# [Devhints — TL;DR for developer documentation](https://devhints.io)
-
 <img src=https://assets.devhints.io/previews/index.jpg?t=20210316010446 width="500">
 
 
 
-(**Web site except:** An amazing set of cheat sheets from a prolific developer in the philippines) 
+(**Web site excerpt:** An amazing set of cheat sheets from a prolific developer in the philippines) 
+[Devhints — TL;DR for developer documentation](https://devhints.io)

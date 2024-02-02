@@ -6,8 +6,6 @@ tags:
     - art
     - clayboard
 ---
-# [A good scratchboard/clayboard tutorial](None)
-
 
 
 
@@ -26,3 +24,4 @@ very informative.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[A good scratchboard/clayboard tutorial](None)

@@ -3,8 +3,6 @@ title: "What’s the best Blogging client on Windows?"
 author: Pito Salas
 date: 2005-06-27
 ---
-# [What’s the best Blogging client on Windows?](None)
-
 
 
 >>
@@ -36,3 +34,4 @@ I found and am now using the [BlogJet ](<http://blogjet.com/>)- **Clean and
 simple.**
 
 
+[What’s the best Blogging client on Windows?](None)

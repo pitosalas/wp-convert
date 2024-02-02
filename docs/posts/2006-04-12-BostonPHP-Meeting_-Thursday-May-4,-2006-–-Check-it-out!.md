@@ -3,8 +3,6 @@ title: "BostonPHP Meeting: Thursday May 4, 2006 – Check it out!"
 author: Pito Salas
 date: 2006-04-12
 ---
-# [BostonPHP Meeting: Thursday May 4, 2006 – Check it out!](None)
-
 
 
 >>
@@ -32,3 +30,4 @@ Framework](<http://framework.zend.com/>). Looks interesting. If you're
 >> Technorati Tags: [PHP](<http://www.technorati.com/tag/PHP>)
 
 
+[BostonPHP Meeting: Thursday May 4, 2006 – Check it out!](None)

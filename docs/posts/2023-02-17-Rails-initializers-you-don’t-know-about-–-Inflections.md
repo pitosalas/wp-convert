@@ -11,8 +11,6 @@ tags:
     - ruby
     - ruby-on-tag-rails
 ---
-# [Rails initializers you don’t know about – Inflections](None)
-
 
 
 
@@ -24,3 +22,4 @@ are not quite familiar with. One of them is the inflections initializer. In
 this post, we will look at what inflections.rb is and how we can use them."
 
 
+[Rails initializers you don’t know about – Inflections](None)

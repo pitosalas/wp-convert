@@ -13,10 +13,9 @@ tags:
     - performance
     - concurrency
 ---
-# [Comparing Ruby Background Processing Libraries: Delayed Job - SitePoint](https://www.sitepoint.com/comparing-ruby-background-processing-libraries-delayed-job/)
-
 <img src=https://uploads.sitepoint.com/wp-content/uploads/2013/09/Fotolia_52657937_Subscription_XL-1024x724.jpg width="500">
 
 
 
-(**Web site except:** This article will teach you how background processing works as well as the alternatives the Ruby community offers to implement it in your application.) 
+(**Web site excerpt:** This article will teach you how background processing works as well as the alternatives the Ruby community offers to implement it in your application.) 
+[Comparing Ruby Background Processing Libraries: Delayed Job - SitePoint](https://www.sitepoint.com/comparing-ruby-background-processing-libraries-delayed-job/)

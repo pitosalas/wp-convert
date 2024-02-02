@@ -3,8 +3,6 @@ title: "Notice the new del.icio.us feature I am using?"
 author: Pito Salas
 date: 2006-06-02
 ---
-# [Notice the new del.icio.us feature I am using?](None)
-
 
 
 >>
@@ -37,3 +35,4 @@ activity on my blog. Very **cool**.
 >> Technorati Tags: [del.icio.us](<http://www.technorati.com/tag/del.icio.us>)
 
 
+[Notice the new del.icio.us feature I am using?](None)

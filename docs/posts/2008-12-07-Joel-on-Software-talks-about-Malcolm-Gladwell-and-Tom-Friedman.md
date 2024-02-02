@@ -3,8 +3,6 @@ title: "Joel on Software talks about Malcolm Gladwell and Tom Friedman"
 author: Pito Salas
 date: 2008-12-07
 ---
-# [Joel on Software talks about Malcolm Gladwell and Tom Friedman](None)
-
 
 
 
@@ -78,3 +76,4 @@ himself (or Himself) is falling into this trap himself:
 malcolmgladwell](<http://technorati.com/tag/joelonsoftware%20thomasfriedman%20malcolmgladwell>)
 
 
+[Joel on Software talks about Malcolm Gladwell and Tom Friedman](None)

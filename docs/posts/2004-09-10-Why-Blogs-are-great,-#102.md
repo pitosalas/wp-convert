@@ -3,8 +3,6 @@ title: "Why Blogs are great, #102"
 author: Pito Salas
 date: 2004-09-10
 ---
-# [Why Blogs are great, #102](None)
-
 
 
 >>
@@ -34,3 +32,4 @@ in 1972.](<http://www.hughhewitt.com/#postid874>)
 why blogs are great!**
 
 
+[Why Blogs are great, #102](None)

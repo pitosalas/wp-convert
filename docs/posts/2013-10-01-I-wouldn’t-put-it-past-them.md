@@ -8,8 +8,6 @@ tags:
     - healthcare
     - obamacare
 ---
-# [I wouldn’t put it past them](None)
-
 
 
 
@@ -34,3 +32,4 @@ front of all the world.
 I really really hope this isn't true, but, I wouldn't put it past them.
 
 
+[I wouldn’t put it past them](None)

@@ -3,8 +3,6 @@ title: "Wrapping Your Head Around Mastodon – K²R"
 author: Pito Salas
 date: 2022-11-13
 ---
-# [Wrapping Your Head Around Mastodon – K²R](None)
-
 
 
 
@@ -16,3 +14,4 @@ replaced Twitter for me.It *is* a shift in perspective on how social media
 works, so here are a few tips to help wrap your head around it."
 
 
+[Wrapping Your Head Around Mastodon – K²R](None)

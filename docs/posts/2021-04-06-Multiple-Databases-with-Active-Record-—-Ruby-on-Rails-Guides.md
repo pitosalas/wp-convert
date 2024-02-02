@@ -12,10 +12,9 @@ tags:
     - performance
     - activrecord
 ---
-# [Multiple Databases with Active Record — Ruby on Rails Guides](https://edgeguides.rubyonrails.org/active_record_multiple_databases.html)
-
 <img src=https://avatars.githubusercontent.com/u/4223 width="500">
 
 
 
-(**Web site except:** The new rails guide on multi databases in activerecord) 
+(**Web site excerpt:** The new rails guide on multi databases in activerecord) 
+[Multiple Databases with Active Record — Ruby on Rails Guides](https://edgeguides.rubyonrails.org/active_record_multiple_databases.html)

@@ -3,8 +3,6 @@ title: "Atlantic Magazine on Wikipedia"
 author: Pito Salas
 date: 2006-08-06
 ---
-# [Atlantic Magazine on Wikipedia](None)
-
 
 
 >>
@@ -29,3 +27,4 @@ Hive](<http://www.theatlantic.com/doc/200609/wikipedia> "The Hive")")
 [wikipedia](<http://www.technorati.com/tag/wikipedia>)
 
 
+[Atlantic Magazine on Wikipedia](None)

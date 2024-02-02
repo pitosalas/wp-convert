@@ -11,10 +11,9 @@ tags:
     - compare
     - explainer
 ---
-# [A non-computer-person’s guide to how Mastodon instances work](https://link.medium.com/Qm1zbLfxivb)
-
 <img src=https://miro.medium.com/max/1200/1*a2VvYsKGApR-E1SnT5O7yQ.jpeg width="500">
 
 
 
-(**Web site except:** What to know about how it works before you sign up for it. A lot of good detail for the masto newbie, like me.) 
+(**Web site excerpt:** What to know about how it works before you sign up for it. A lot of good detail for the masto newbie, like me.) 
+[A non-computer-person’s guide to how Mastodon instances work](https://link.medium.com/Qm1zbLfxivb)

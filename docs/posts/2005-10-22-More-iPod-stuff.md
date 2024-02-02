@@ -3,8 +3,6 @@ title: "More iPod stuff"
 author: Pito Salas
 date: 2005-10-22
 ---
-# [More iPod stuff](None)
-
 
 
 >>
@@ -31,3 +29,4 @@ comments-pitofake.cgi?entry_id=895>)on [my post
 that he didn't write about it because of my post. **Duh**.)
 
 
+[More iPod stuff](None)

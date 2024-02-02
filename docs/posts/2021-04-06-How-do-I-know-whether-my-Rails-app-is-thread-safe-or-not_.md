@@ -11,10 +11,9 @@ tags:
     - cosi105
     - howto
 ---
-# [How do I know whether my Rails app is thread-safe or not?](https://bearmetal.eu/theden/how-do-i-know-whether-my-rails-app-is-thread-safe-or-not)
-
 <img src=https://rdl.ink/render/https%3A%2F%2Fbearmetal.eu%2Ftheden%2Fhow-do-i-know-whether-my-rails-app-is-thread-safe-or-not width="500">
 
 
 
-(**Web site except:** Quite good explanation of thread safety in Ruby apps) 
+(**Web site excerpt:** Quite good explanation of thread safety in Ruby apps) 
+[How do I know whether my Rails app is thread-safe or not?](https://bearmetal.eu/theden/how-do-i-know-whether-my-rails-app-is-thread-safe-or-not)

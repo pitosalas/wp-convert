@@ -5,8 +5,6 @@ date: 2009-07-07
 tags:
     - iphon-tage
 ---
-# [iPhone 3GS – Questions](None)
-
 
 
 
@@ -21,3 +19,4 @@ Any experts out there who want to comment?
 Technorati Tags: [iphone](<http://technorati.com/tag/iphone>)
 
 
+[iPhone 3GS – Questions](None)

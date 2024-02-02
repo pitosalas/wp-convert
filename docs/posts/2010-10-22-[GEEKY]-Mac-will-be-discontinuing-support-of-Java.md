@@ -3,8 +3,6 @@ title: "[GEEKY] Mac will be discontinuing support of Java"
 author: Pito Salas
 date: 2010-10-22
 ---
-# [[GEEKY] Mac will be discontinuing support of Java](None)
-
 
 
 
@@ -47,3 +45,4 @@ and other recent
 developments.](<http://nighthacks.com/roller/jag/entry/steve_jobs_comments_on_apple>)
 
 
+[[GEEKY] Mac will be discontinuing support of Java](None)

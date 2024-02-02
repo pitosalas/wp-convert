@@ -8,8 +8,6 @@ tags:
     - jobs
     - software
 ---
-# [Better to be a software developer than a college professor?](None)
-
 
 
 
@@ -33,3 +31,4 @@ Anyway, Here's more about the US News and World Report's assessments:
 > jobs>)
 
 
+[Better to be a software developer than a college professor?](None)

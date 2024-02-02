@@ -10,10 +10,9 @@ tags:
     - learning
     - programming
 ---
-# [Coding forces you to understand the problem | Swizec Teller](https://swizec.com/blog/coding-forces-you-to-understand-the-problem/)
-
 <img src=https://swizec.com/social-cards/coding-forces-you-to-understand-the-problem.png width="500">
 
 
 
-(**Web site except:** Programming translates fuzzy understanding into exacting specifications. That’s why it’s hard. The Illusion of Explanatory Depth reigns supreme) 
+(**Web site excerpt:** Programming translates fuzzy understanding into exacting specifications. That’s why it’s hard. The Illusion of Explanatory Depth reigns supreme) 
+[Coding forces you to understand the problem | Swizec Teller](https://swizec.com/blog/coding-forces-you-to-understand-the-problem/)

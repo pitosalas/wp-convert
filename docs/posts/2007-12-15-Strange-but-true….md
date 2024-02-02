@@ -3,8 +3,6 @@ title: "Strange but true…"
 author: Pito Salas
 date: 2007-12-15
 ---
-# [Strange but true…](None)
-
 
 
 
@@ -20,3 +18,4 @@ more-bacterial-cells-than-human-ones>):
 > more-bacterial-cells-than-human-ones>))
 
 
+[Strange but true…](None)

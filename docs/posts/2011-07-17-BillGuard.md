@@ -7,8 +7,6 @@ tags:
     - secrets
     - security
 ---
-# [BillGuard](None)
-
 
 
 
@@ -30,3 +28,4 @@ blog.](<http://feedproxy.google.com/~r/AVc/~3/Rw41-xc_4ps/billguard.html>)
 Maybe he's an investor? I don't know. But for now, I am holding off.
 
 
+[BillGuard](None)

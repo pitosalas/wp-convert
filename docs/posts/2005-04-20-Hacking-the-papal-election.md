@@ -3,8 +3,6 @@ title: "Hacking the papal election"
 author: Pito Salas
 date: 2005-04-20
 ---
-# [Hacking the papal election](None)
-
 
 
 >>
@@ -46,3 +44,4 @@ GREGIS](<http://www.vatican.va/holy_father/john_paul_ii/apost_constitutions/docu
 ii_apc_22021996_universi-dominici-gregis_en.html>))
 
 
+[Hacking the papal election](None)

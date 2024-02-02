@@ -3,8 +3,6 @@ title: "On the business impact of Web 2.0"
 author: Pito Salas
 date: 2007-07-18
 ---
-# [On the business impact of Web 2.0](None)
-
 
 
 
@@ -33,3 +31,4 @@ acquired by Active Network.
   * [Business Impacts of Web 2.0: Part Two - User Generated Content Success at Little League Baseball](<http://billives.typepad.com/portals_and_km/2007/07/business-impa-1.html>)
 
 
+[On the business impact of Web 2.0](None)

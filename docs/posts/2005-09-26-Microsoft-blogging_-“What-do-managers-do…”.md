@@ -3,8 +3,6 @@ title: "Microsoft blogging: “What do managers do…”"
 author: Pito Salas
 date: 2005-09-26
 ---
-# [Microsoft blogging: “What do managers do…”](None)
-
 
 
 >>
@@ -72,3 +70,4 @@ many other gems just like that one.
 >> Technorati Tags: [microsoft](<http://www.technorati.com/tag/microsoft>)
 
 
+[Microsoft blogging: “What do managers do…”](None)

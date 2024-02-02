@@ -3,8 +3,6 @@ title: "Behind the scenes @ Wikileaks"
 author: Pito Salas
 date: 2010-07-27
 ---
-# [Behind the scenes @ Wikileaks](None)
-
 
 
 
@@ -44,3 +42,4 @@ documents on Wikileaks are real? It seems totally possible that there's a
 Let's see some in depth hard reporting on that organization.
 
 
+[Behind the scenes @ Wikileaks](None)

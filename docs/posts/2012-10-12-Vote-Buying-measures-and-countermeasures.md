@@ -8,8 +8,6 @@ tags:
     - votes
     - voting
 ---
-# [Vote Buying measures and countermeasures](None)
-
 
 
 
@@ -94,3 +92,4 @@ Here's the analysis:
 > booth.
 
 
+[Vote Buying measures and countermeasures](None)

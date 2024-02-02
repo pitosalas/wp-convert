@@ -3,8 +3,6 @@ title: "Ok it’s official: The Maldives is the most beautiful place on earth"
 author: Pito Salas
 date: 2005-07-20
 ---
-# [Ok it’s official: The Maldives is the most beautiful place on earth](None)
-
 
 
 >>
@@ -24,3 +22,4 @@ away.](<http://www.flickr.com/photos/ahmedzahid/27019316/>)
 >> Technorati Tags: [flickr](<http://technorati.com/tag/flickr>)
 
 
+[Ok it’s official: The Maldives is the most beautiful place on earth](None)

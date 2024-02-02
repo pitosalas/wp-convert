@@ -3,8 +3,6 @@ title: "Waste, Fraud and Abuse: does that turn you off to health reform?"
 author: Pito Salas
 date: 2009-11-21
 ---
-# [Waste, Fraud and Abuse: does that turn you off to health reform?](None)
-
 
 
 
@@ -31,3 +29,4 @@ History](<http://www.nytimes.com/2009/11/19/opinion/19kristof.html>)
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[Waste, Fraud and Abuse: does that turn you off to health reform?](None)

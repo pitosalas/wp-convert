@@ -13,8 +13,7 @@ tags:
     - tool
     - rest
 ---
-# [DiceBear Avatars](https://avatars.dicebear.com/)
-
 <img src=https://rdl.ink/render/https%3A%2F%2Favatars.dicebear.com%2F width="500">
 
 
+[DiceBear Avatars](https://avatars.dicebear.com/)

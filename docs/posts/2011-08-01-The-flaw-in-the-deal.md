@@ -6,8 +6,6 @@ tags:
     - debtceiling
     - politics
 ---
-# [The flaw in the deal](None)
-
 
 
 
@@ -43,3 +41,4 @@ security.
 I don't know who or why anyone thinks this time will be different.
 
 
+[The flaw in the deal](None)

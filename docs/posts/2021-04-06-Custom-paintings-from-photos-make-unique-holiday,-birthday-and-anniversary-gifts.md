@@ -12,10 +12,9 @@ tags:
     - gifts
     - portraits
 ---
-# [Custom paintings from photos make unique holiday, birthday and anniversary gifts](http://www.paintyourlife.com)
-
 <img src=https://dqhvdmwzk0rbb.cloudfront.net/pylweb/painting/meta-img-ptp-v20-main.jpg width="500">
 
 
 
-(**Web site except:** amazing custom painting) 
+(**Web site excerpt:** amazing custom painting) 
+[Custom paintings from photos make unique holiday, birthday and anniversary gifts](http://www.paintyourlife.com)

@@ -3,8 +3,6 @@ title: "Some great links for  10/25/2018"
 author: Pito Salas
 date: 2018-10-24
 ---
-# [Some great links for  10/25/2018](None)
-
 
 
 
@@ -23,3 +21,4 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
+[Some great links for  10/25/2018](None)

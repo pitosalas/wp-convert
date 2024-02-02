@@ -11,10 +11,9 @@ tags:
     - howto
     - explainer
 ---
-# [git-sim: Visually simulate Git operations in your own repos](https://initialcommit.com/blog/git-sim)
-
 <img src=https://initialcommit.com/img/initialcommit/git-sim.jpg width="500">
 
 
 
-(**Web site except:** git-sim: Visually simulate Git operations in your own repos with a single terminal command) 
+(**Web site excerpt:** git-sim: Visually simulate Git operations in your own repos with a single terminal command) 
+[git-sim: Visually simulate Git operations in your own repos](https://initialcommit.com/blog/git-sim)

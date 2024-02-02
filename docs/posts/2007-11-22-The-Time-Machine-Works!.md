@@ -3,8 +3,6 @@ title: "The Time Machine Works!"
 author: Pito Salas
 date: 2007-11-22
 ---
-# [The Time Machine Works!](None)
-
 
 
 
@@ -24,3 +22,4 @@ I will wait just a little longer before committing to Leopard. It's one of
 those, if it aint broke then don't fix it kind of situations…
 
 
+[The Time Machine Works!](None)

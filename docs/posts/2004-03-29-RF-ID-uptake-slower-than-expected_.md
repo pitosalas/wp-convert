@@ -3,8 +3,6 @@ title: "RF-ID uptake slower than expected?"
 author: Pito Salas
 date: 2004-03-29
 ---
-# [RF-ID uptake slower than expected?](None)
-
 
 
 >>
@@ -58,3 +56,4 @@ today](<http://www.nytimes.com/2004/03/29/technology/29radio.html>) about
 adopt to RF-ID.
 
 
+[RF-ID uptake slower than expected?](None)

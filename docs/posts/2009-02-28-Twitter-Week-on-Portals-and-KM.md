@@ -3,8 +3,6 @@ title: "Twitter Week on Portals and KM"
 author: Pito Salas
 date: 2009-02-28
 ---
-# [Twitter Week on Portals and KM](None)
-
 
 
 
@@ -23,3 +21,4 @@ items about the influence of twitter on blog design:
 > KM](<http://billives.typepad.com/portals_and_km/index.rdf>))
 
 
+[Twitter Week on Portals and KM](None)

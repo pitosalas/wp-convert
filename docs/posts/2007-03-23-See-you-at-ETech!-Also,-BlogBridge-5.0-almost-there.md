@@ -3,8 +3,6 @@ title: "See you at ETech! Also, BlogBridge 5.0 almost there"
 author: Pito Salas
 date: 2007-03-23
 ---
-# [See you at ETech! Also, BlogBridge 5.0 almost there](None)
-
 
 
 
@@ -22,3 +20,4 @@ If you want to join me in San Diego, please send me an
 where and when.
 
 
+[See you at ETech! Also, BlogBridge 5.0 almost there](None)

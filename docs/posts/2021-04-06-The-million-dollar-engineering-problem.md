@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - Software Engineering
 ---
-# [The million dollar engineering problem](https://segment.com/blog/the-million-dollar-eng-problem)
-
 <img src=https://segment.com/site-assets/images/og-home.jpg width="500">
 
 
 
-(**Web site except:** The Segment team's latest thinking on all things data, product, marketing, and growth.) 
+(**Web site excerpt:** The Segment team's latest thinking on all things data, product, marketing, and growth.) 
+[The million dollar engineering problem](https://segment.com/blog/the-million-dollar-eng-problem)

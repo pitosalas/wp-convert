@@ -9,8 +9,6 @@ tags:
     - ruby
     - stimulus
 ---
-# [Akshay’s Blog](None)
-
 
 
 
@@ -19,3 +17,4 @@ developer based in Victoria, BC. This blog is my attempt to spread the joy of
 building web applications in Ruby on Rails with the world.
 
 
+[Akshay’s Blog](None)

@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - Elections
 ---
-# [District of Columbia Digital Vote-by-Mail Service](https://dcdvbm.noizeramp.com)
-
 <img src= width="500">
 
 
+[District of Columbia Digital Vote-by-Mail Service](https://dcdvbm.noizeramp.com)

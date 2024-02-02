@@ -3,8 +3,6 @@ title: "[Geeky] Doing popups in Rails and elsewhere"
 author: Pito Salas
 date: 2008-03-17
 ---
-# [[Geeky] Doing popups in Rails and elsewhere](None)
-
 
 
 
@@ -23,3 +21,4 @@ I tried the first two, but the third looks cool too. I liked Facebox the best.
 Your mileage may/will vary.
 
 
+[[Geeky] Doing popups in Rails and elsewhere](None)

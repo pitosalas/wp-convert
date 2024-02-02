@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - ruby tricks tips engineering
 ---
-# [Ruby tricks for junior developers | Drivy Engineering](https://drivy.engineering/ruby-tricks-for-junior-devs)
-
 <img src=https://getaround.tech/assets/img/og.jpg width="500">
 
 
 
-(**Web site except:** Nice review of some more advanced ruby features.) 
+(**Web site excerpt:** Nice review of some more advanced ruby features.) 
+[Ruby tricks for junior developers | Drivy Engineering](https://drivy.engineering/ruby-tricks-for-junior-devs)

@@ -3,8 +3,6 @@ title: "Howard Stern in New York Times"
 author: Pito Salas
 date: 2004-05-03
 ---
-# [Howard Stern in New York Times](None)
-
 
 
 >>
@@ -12,3 +10,4 @@ date: 2004-05-03
 >> For Howard Stern fans out there, here's a good article.
 
 
+[Howard Stern in New York Times](None)

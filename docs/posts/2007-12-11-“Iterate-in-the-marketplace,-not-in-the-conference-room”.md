@@ -3,8 +3,6 @@ title: "“Iterate in the marketplace, not in the conference room”"
 author: Pito Salas
 date: 2007-12-11
 ---
-# [“Iterate in the marketplace, not in the conference room”](None)
-
 
 
 
@@ -58,3 +56,4 @@ The conclusion is a useful set of lessons learned:
 > weblog](<http://herot.typepad.com/cherot/2007/12/convoq-and-zing.html>))
 
 
+[“Iterate in the marketplace, not in the conference room”](None)

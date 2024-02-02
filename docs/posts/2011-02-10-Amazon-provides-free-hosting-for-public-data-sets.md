@@ -8,8 +8,6 @@ tags:
     - open-source
     - public
 ---
-# [Amazon provides free hosting for public data sets](None)
-
 
 
 
@@ -34,3 +32,4 @@ From their site:
 Here's the link: <http://aws.amazon.com/datasets>
 
 
+[Amazon provides free hosting for public data sets](None)

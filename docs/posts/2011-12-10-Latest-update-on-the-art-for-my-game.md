@@ -8,8 +8,6 @@ tags:
     - graphicdesign
     - illustrator
 ---
-# [Latest update on the art for my game](None)
-
 
 
 
@@ -28,3 +26,4 @@ Anyway, here is what I have so far. How do you like it?
 content/uploads/2011/12/d349a-streetscene.png?resize=480%2C600&ssl=1)
 
 
+[Latest update on the art for my game](None)

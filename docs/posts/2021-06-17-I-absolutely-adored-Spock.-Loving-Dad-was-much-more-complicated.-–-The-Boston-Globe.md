@@ -5,8 +5,6 @@ date: 2021-06-17
 tags:
     - boston-tag
 ---
-# [I absolutely adored Spock. Loving Dad was much more complicated. – The Boston Globe](None)
-
 
 
 
@@ -21,3 +19,4 @@ time!
 June 17, 2021 at 10:23PM
 
 
+[I absolutely adored Spock. Loving Dad was much more complicated. – The Boston Globe](None)

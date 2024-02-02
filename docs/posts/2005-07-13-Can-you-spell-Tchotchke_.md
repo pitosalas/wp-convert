@@ -3,8 +3,6 @@ title: "Can you spell Tchotchke?"
 author: Pito Salas
 date: 2005-07-13
 ---
-# [Can you spell Tchotchke?](None)
-
 
 
 >>
@@ -43,3 +41,4 @@ years.
 [tchotchke](<http://technorati.com/tag/tchotchke>)
 
 
+[Can you spell Tchotchke?](None)

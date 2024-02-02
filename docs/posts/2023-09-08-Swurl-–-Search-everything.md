@@ -7,8 +7,6 @@ tags:
     - google
     - search
 ---
-# [Swurl – Search everything](None)
-
 
 
 
@@ -17,3 +15,4 @@ Instagram, TikTok, Twitter, Reddit, Amazon, Images, News, & more. See all
 results by swiping — no clicking.
 
 
+[Swurl – Search everything](None)

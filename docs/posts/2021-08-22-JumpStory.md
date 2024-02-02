@@ -14,10 +14,9 @@ tags:
     - howto
     - photo
 ---
-# [JumpStory](https://universe.jumpstory.com/)
-
 <img src=https://universe.jumpstory.com/wp-content/uploads/2020/10/image-search-1920x1280-v9.jpg width="500">
 
 
 
-(**Web site except:** Handy collection of images to use in development and writing) 
+(**Web site excerpt:** Handy collection of images to use in development and writing) 
+[JumpStory](https://universe.jumpstory.com/)

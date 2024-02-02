@@ -3,8 +3,6 @@ title: "Pixoo Fixes Your Face: Wow, totally cool. I gotta try this :)"
 author: Pito Salas
 date: 2007-10-19
 ---
-# [Pixoo Fixes Your Face: Wow, totally cool. I gotta try this :)](None)
-
 
 
 
@@ -19,3 +17,4 @@ Check out [this post](<http://mashable.com/2007/10/18/pixoo/>) from
 > (from: [Pixoo Fixes Your Face](<http://mashable.com/2007/10/18/pixoo/>))
 
 
+[Pixoo Fixes Your Face: Wow, totally cool. I gotta try this :)](None)

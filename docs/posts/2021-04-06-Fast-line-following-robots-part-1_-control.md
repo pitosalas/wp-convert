@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - robots control linefollowing
 ---
-# [Fast line-following robots part 1: control](https://www.a1k0n.net/2018/11/13/fast-line-following.html)
-
 <img src=https://rdl.ink/render/https%3A%2F%2Fwww.a1k0n.net%2F2018%2F11%2F13%2Ffast-line-following.html width="500">
 
 
 
-(**Web site except:** Interesting take on age old algorithm) 
+(**Web site excerpt:** Interesting take on age old algorithm) 
+[Fast line-following robots part 1: control](https://www.a1k0n.net/2018/11/13/fast-line-following.html)

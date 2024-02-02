@@ -8,8 +8,6 @@ tags:
     - operating-system
     - teaching
 ---
-# [You’re the OS!](None)
-
 
 
 
@@ -18,3 +16,4 @@ os?utm_source=changelog-news>) –Become a computer operating system and try not
 to anger the user!
 
 
+[You’re the OS!](None)

@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - FOOBAR
 ---
-# [Entrepreneur Guide: Choosing Technologies for a Startup](https://link.medium.com/sHUIp9jriS)
-
 <img src=https://cdn-images-1.medium.com/fit/t/7086/4730/1*UWkL4QRmHnvLiIoXPoU2qA.jpeg width="500">
 
 
 
-(**Web site except:** Useful ways to think about choosing your technology platform!) 
+(**Web site excerpt:** Useful ways to think about choosing your technology platform!) 
+[Entrepreneur Guide: Choosing Technologies for a Startup](https://link.medium.com/sHUIp9jriS)

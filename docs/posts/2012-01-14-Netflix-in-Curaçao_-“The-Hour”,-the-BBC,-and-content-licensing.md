@@ -9,8 +9,6 @@ tags:
     - netflix
     - thehour
 ---
-# [Netflix in Curaçao: “The Hour”, the BBC, and content licensing](None)
-
 
 
 
@@ -45,3 +43,4 @@ Here's a final twist. When I got back to the US, I went onto
 to find The Hour NOT available on Netflix!
 
 
+[Netflix in Curaçao: “The Hour”, the BBC, and content licensing](None)

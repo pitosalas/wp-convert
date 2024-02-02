@@ -3,8 +3,6 @@ title: "Shamless self-promotion: Improv and moi mentioned in PC Magazine"
 author: Pito Salas
 date: 2007-05-21
 ---
-# [Shamless self-promotion: Improv and moi mentioned in PC Magazine](None)
-
 
 
 
@@ -60,3 +58,4 @@ see a bad picture of yours truly back in those days.
 Yeah its a few years ago… but still, pretty cool!
 
 
+[Shamless self-promotion: Improv and moi mentioned in PC Magazine](None)

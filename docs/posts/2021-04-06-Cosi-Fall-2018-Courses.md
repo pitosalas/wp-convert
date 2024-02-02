@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - Brandeis
 ---
-# [Cosi Fall 2018 Courses](http://registrar-prod.unet.brandeis.edu/registrar/schedule/classes/2018/Fall/1400/all)
-
 <img src=https://rdl.ink/render/http%3A%2F%2Fregistrar-prod.unet.brandeis.edu%2Fregistrar%2Fschedule%2Fclasses%2F2018%2FFall%2F1400%2Fall width="500">
 
 
+[Cosi Fall 2018 Courses](http://registrar-prod.unet.brandeis.edu/registrar/schedule/classes/2018/Fall/1400/all)

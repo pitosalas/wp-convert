@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - Elections
 ---
-# [VerifiedVoting.org : Index](http://www.verifiedvoting.org)
-
 <img src=https://rdl.ink/render/http%3A%2F%2Fwww.verifiedvoting.org width="500">
 
 
+[VerifiedVoting.org : Index](http://www.verifiedvoting.org)

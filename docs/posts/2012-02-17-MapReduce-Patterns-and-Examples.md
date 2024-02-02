@@ -8,8 +8,6 @@ tags:
     - Programming
     - scalability
 ---
-# [MapReduce Patterns and Examples](None)
-
 
 
 
@@ -30,3 +28,4 @@ Algorithms, and Use
 Cases"](<http://highlyscalable.wordpress.com/2012/02/01/mapreduce-patterns/>)
 
 
+[MapReduce Patterns and Examples](None)

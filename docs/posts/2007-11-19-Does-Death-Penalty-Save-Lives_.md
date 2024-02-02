@@ -3,8 +3,6 @@ title: "Does Death Penalty Save Lives?"
 author: Pito Salas
 date: 2007-11-19
 ---
-# [Does Death Penalty Save Lives?](None)
-
 
 
 
@@ -35,3 +33,4 @@ application of the law. (There are two additional really strong arguments
 against it.)
 
 
+[Does Death Penalty Save Lives?](None)

@@ -6,8 +6,7 @@ link: "http://www.1stwebdesigner.com/design/wireframing-mockup-prototyping-tools
 cover: "" 
 date: 2021-04-06
 ---
-# [18 Wireframing, Mockup And Prototyping Tools To Plan Designs](http://www.1stwebdesigner.com/design/wireframing-mockup-prototyping-tools-plan-designs)
-
 <img src= width="500">
 
 
+[18 Wireframing, Mockup And Prototyping Tools To Plan Designs](http://www.1stwebdesigner.com/design/wireframing-mockup-prototyping-tools-plan-designs)

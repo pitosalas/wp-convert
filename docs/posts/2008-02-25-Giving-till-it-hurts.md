@@ -3,8 +3,6 @@ title: "Giving till it hurts"
 author: Pito Salas
 date: 2008-02-25
 ---
-# [Giving till it hurts](None)
-
 
 
 
@@ -23,3 +21,4 @@ interested when I came across this:
 I don't know what to make of it, but it does feed into my suspicions.
 
 
+[Giving till it hurts](None)

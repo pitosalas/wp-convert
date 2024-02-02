@@ -5,8 +5,6 @@ date: 2011-02-01
 tags:
     - lean-startups
 ---
-# [Great article about ‘lean’](None)
-
 
 
 
@@ -64,3 +62,4 @@ World](<http://www.oreillygmt.eu/interview/fatboy-in-a-lean-world/>) and also
 check out the links in the footnotes. More good stuff.
 
 
+[Great article about ‘lean’](None)

@@ -8,8 +8,6 @@ tags:
     - mon-tagey
     - wallstreet
 ---
-# [Inside Job](None)
-
 
 
 
@@ -22,3 +20,4 @@ Job](<http://www.imdb.com/title/tt1645089/>). It's nauseating.
 [youtube http://www.youtube.com/watch?v=iFfTcAcGjcU]
 
 
+[Inside Job](None)

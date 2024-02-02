@@ -3,8 +3,6 @@ title: "mySociety are doing  interesting stuff in the public arena"
 author: Pito Salas
 date: 2009-02-19
 ---
-# [mySociety are doing  interesting stuff in the public arena](None)
-
 
 
 
@@ -37,3 +35,4 @@ Quid](<http://www.mysociety.org/2009/02/19/why-i-want-a-million-quid/>):
 > …
 
 
+[mySociety are doing  interesting stuff in the public arena](None)

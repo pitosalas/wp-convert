@@ -6,10 +6,9 @@ link: "https://medium.com/selleo/essential-rubyonrails-patterns-clients-and-wrap
 cover: "https://miro.medium.com/max/1200/1*EWuKMJBdVrl8DFWRLrn3eQ.jpeg" 
 date: 2021-04-06
 ---
-# [Essential RubyOnRails patterns — part 3: Clients and Wrappers](https://medium.com/selleo/essential-rubyonrails-patterns-clients-and-wrappers-c19320bcda0?source=userActivityShare-d383785221d0-1524309348)
-
 <img src=https://miro.medium.com/max/1200/1*EWuKMJBdVrl8DFWRLrn3eQ.jpeg width="500">
 
 
 
-(**Web site except:** Good distinction clarified.) 
+(**Web site excerpt:** Good distinction clarified.) 
+[Essential RubyOnRails patterns — part 3: Clients and Wrappers](https://medium.com/selleo/essential-rubyonrails-patterns-clients-and-wrappers-c19320bcda0?source=userActivityShare-d383785221d0-1524309348)

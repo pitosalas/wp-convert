@@ -3,8 +3,6 @@ title: "What Venture Capitalists say"
 author: Pito Salas
 date: 2006-01-06
 ---
-# [What Venture Capitalists say](None)
-
 
 
 >>
@@ -39,3 +37,4 @@ written, humorous and contains some really good advice!
 >> Technorati Tags: [vc](<http://www.technorati.com/tag/vc>)
 
 
+[What Venture Capitalists say](None)

@@ -6,10 +6,9 @@ link: "https://www.technotification.com/2019/04/microsoft-launches-bosque-progra
 cover: "https://www.technotification.com/wp-content/uploads/2019/04/Bosque-programming-language-vy-microsoft.jpg" 
 date: 2021-04-06
 ---
-# [Microsoft Launches Bosque: An Open Source Programming Language](https://www.technotification.com/2019/04/microsoft-launches-bosque-programming-language.html)
-
 <img src=https://www.technotification.com/wp-content/uploads/2019/04/Bosque-programming-language-vy-microsoft.jpg width="500">
 
 
 
-(**Web site except:** Interesting to see a brand new language come out of research.) 
+(**Web site excerpt:** Interesting to see a brand new language come out of research.) 
+[Microsoft Launches Bosque: An Open Source Programming Language](https://www.technotification.com/2019/04/microsoft-launches-bosque-programming-language.html)

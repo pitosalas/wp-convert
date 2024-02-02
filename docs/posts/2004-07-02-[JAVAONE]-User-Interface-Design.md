@@ -3,8 +3,6 @@ title: "[JAVAONE] User Interface Design"
 author: Pito Salas
 date: 2004-07-02
 ---
-# [[JAVAONE] User Interface Design](None)
-
 
 
 >>
@@ -39,3 +37,4 @@ discovered JGoodies and decided that it was possible, and so decided to go
 with Java.
 
 
+[[JAVAONE] User Interface Design](None)

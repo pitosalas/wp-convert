@@ -3,8 +3,6 @@ title: "Wolfram on Computable Knowledge"
 author: Pito Salas
 date: 2009-07-14
 ---
-# [Wolfram on Computable Knowledge](None)
-
 
 
 
@@ -32,3 +30,4 @@ Tags: [mathematics](<http://technorati.com/tag/mathematics>),
 [stephenwolfram](<http://technorati.com/tag/stephenwolfram>)
 
 
+[Wolfram on Computable Knowledge](None)

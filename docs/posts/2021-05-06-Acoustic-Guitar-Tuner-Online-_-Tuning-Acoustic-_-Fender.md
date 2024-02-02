@@ -10,10 +10,9 @@ tags:
     - guitar
     - howto
 ---
-# [Acoustic Guitar Tuner Online | Tuning Acoustic | Fender](https://www.fender.com/online-guitar-tuner/acoustic-guitar-tuning)
-
 <img src=https://stuff.fendergarage.com/images/O/C/w/fender-play-og.jpg width="500">
 
 
 
-(**Web site except:** Tune your acoustic guitar with Fender's free, guitar tuner. Select standard or alternate tunings or customize your own tune for your acoustic guitar.) 
+(**Web site excerpt:** Tune your acoustic guitar with Fender's free, guitar tuner. Select standard or alternate tunings or customize your own tune for your acoustic guitar.) 
+[Acoustic Guitar Tuner Online | Tuning Acoustic | Fender](https://www.fender.com/online-guitar-tuner/acoustic-guitar-tuning)

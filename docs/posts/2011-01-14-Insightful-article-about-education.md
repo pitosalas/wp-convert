@@ -7,8 +7,6 @@ tags:
     - grades
     - intelligence
 ---
-# [Insightful article about education](None)
-
 
 
 
@@ -63,3 +61,4 @@ also:
 > education/print/>)n
 
 
+[Insightful article about education](None)

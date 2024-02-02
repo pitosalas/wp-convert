@@ -3,8 +3,6 @@ title: "My social theory of blogging"
 author: Pito Salas
 date: 2004-12-14
 ---
-# [My social theory of blogging](None)
-
 
 
 >>
@@ -34,3 +32,4 @@ world."
 >> I don't know if this rings true to other bloggers, **but it does to me.**
 
 
+[My social theory of blogging](None)

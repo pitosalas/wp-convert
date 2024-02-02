@@ -11,10 +11,9 @@ tags:
     - source-code
     - chatbot
 ---
-# [wadetb/eliza: Python implementation of the Eliza chatbot](https://github.com/wadetb/eliza)
-
 <img src=https://opengraph.githubassets.com/993c68fd65720cb9f53fd0e70f9c29e57d1f69408576a37cd36720a11afc296e/wadetb/eliza width="500">
 
 
 
-(**Web site except:** Python implementation of the Eliza chatbot. Contribute to wadetb/eliza development by creating an account on GitHub.) 
+(**Web site excerpt:** Python implementation of the Eliza chatbot. Contribute to wadetb/eliza development by creating an account on GitHub.) 
+[wadetb/eliza: Python implementation of the Eliza chatbot](https://github.com/wadetb/eliza)

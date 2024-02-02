@@ -12,8 +12,7 @@ tags:
     - architecture
     - design
 ---
-# [Monoliths are Bad Design... and You Know It | ThoughtWorks](https://www.thoughtworks.com/insights/blog/monoliths-are-bad-design-and-you-know-it)
-
 <img src=https://insights-images.thoughtworks.com/bee_cropped_dabbab6afb11701c9088a6a9d7a4afa4.jpeg width="500">
 
 
+[Monoliths are Bad Design... and You Know It | ThoughtWorks](https://www.thoughtworks.com/insights/blog/monoliths-are-bad-design-and-you-know-it)

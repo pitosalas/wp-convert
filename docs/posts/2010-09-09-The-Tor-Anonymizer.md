@@ -13,8 +13,6 @@ tags:
     - security
     - tor
 ---
-# [The Tor Anonymizer](None)
-
 
 
 
@@ -33,3 +31,4 @@ handwringing worrying of the security wonks isn't as over the top as all that.
 Read the article, it's a fascinating look into the world of security.
 
 
+[The Tor Anonymizer](None)

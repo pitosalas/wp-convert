@@ -3,8 +3,6 @@ title: "I’m a neat person, but, THIS, is ridiculous"
 author: Pito Salas
 date: 2008-10-27
 ---
-# [I’m a neat person, but, THIS, is ridiculous](None)
-
 
 
 
@@ -23,3 +21,4 @@ I am so happy that I don't have to work in such an environment!
 <http://s.wsj.net/media/swf/main.swf>
 
 
+[I’m a neat person, but, THIS, is ridiculous](None)

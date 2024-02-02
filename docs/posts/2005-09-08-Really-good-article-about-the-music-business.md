@@ -3,8 +3,6 @@ title: "Really good article about the music business"
 author: Pito Salas
 date: 2005-09-08
 ---
-# [Really good article about the music business](None)
-
 
 
 >>
@@ -50,3 +48,4 @@ musician is by signing a recording contract with a giant corporation." (from
 >> Technorati Tags: [music](<http://www.technorati.com/tag/music>)
 
 
+[Really good article about the music business](None)

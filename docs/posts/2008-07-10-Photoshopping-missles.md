@@ -7,8 +7,6 @@ tags:
     - missles
     - photoshop
 ---
-# [Photoshopping missles](None)
-
 
 
 
@@ -50,3 +48,4 @@ Ouch. Egg on their face.
 IRAN.jpg?resize=449%2C288)
 
 
+[Photoshopping missles](None)

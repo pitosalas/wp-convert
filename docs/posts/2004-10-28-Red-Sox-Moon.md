@@ -3,8 +3,6 @@ title: "Red Sox Moon"
 author: Pito Salas
 date: 2004-10-28
 ---
-# [Red Sox Moon](None)
-
 
 
 >>
@@ -28,3 +26,4 @@ players have lightened up our Fall.
 >> (from Ben Gomes-Casseres)
 
 
+[Red Sox Moon](None)

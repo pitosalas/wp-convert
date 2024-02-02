@@ -3,8 +3,6 @@ title: "Back to the future: DECSYSTEM-20?"
 author: Pito Salas
 date: 2005-04-02
 ---
-# [Back to the future: DECSYSTEM-20?](None)
-
 
 
 >>
@@ -15,3 +13,4 @@ on DEC PDP-10's, DECSYSTEM-20's and MULTICS computers? What, you never heard
 of those? Oh, **nevermind** …
 
 
+[Back to the future: DECSYSTEM-20?](None)

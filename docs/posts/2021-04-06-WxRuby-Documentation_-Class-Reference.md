@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - Ruby
 ---
-# [WxRuby Documentation: Class Reference](http://wxruby.rubyforge.org/doc)
-
 <img src= width="500">
 
 
+[WxRuby Documentation: Class Reference](http://wxruby.rubyforge.org/doc)

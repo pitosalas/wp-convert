@@ -3,8 +3,6 @@ title: "How Corrupt is Our Language in Economic Discourse?"
 author: Pito Salas
 date: 2009-02-11
 ---
-# [How Corrupt is Our Language in Economic Discourse?](None)
-
 
 
 
@@ -26,3 +24,4 @@ misguided, that Krugman's a socialist (whatever that means) and that Krugman's
 way off base and extremely partisan. Whoops. Now I am even more confused.
 
 
+[How Corrupt is Our Language in Economic Discourse?](None)

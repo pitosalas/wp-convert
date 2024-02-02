@@ -3,8 +3,6 @@ title: "What We Propose"
 author: Pito Salas
 date: 2023-09-23
 ---
-# [What We Propose](None)
-
 
 
 
@@ -14,3 +12,4 @@ https://www.theatlantic.com/magazine/archive/1946/07/what-we-propose/656703/>)
 through its articles, podcasts, videos, and flagship magazine.
 
 
+[What We Propose](None)

@@ -3,8 +3,6 @@ title: "Are you losing money?"
 author: Pito Salas
 date: 2011-07-14
 ---
-# [Are you losing money?](None)
-
 
 
 
@@ -27,3 +25,4 @@ The article seems to focus on landlines. Does that mean that this problem does
 not occur with cell phones? That would be good to know?
 
 
+[Are you losing money?](None)

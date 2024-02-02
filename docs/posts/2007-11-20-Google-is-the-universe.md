@@ -5,8 +5,6 @@ date: 2007-11-20
 tags:
     - pagerank-countermeasures-colossus-mon-tagey-ecommerce
 ---
-# [Google is the universe](None)
-
 
 
 
@@ -56,3 +54,4 @@ up" and become the global consciousness, hack into the military computers
 around the world on it's own initiative and black mail … _oh forget it._
 
 
+[Google is the universe](None)

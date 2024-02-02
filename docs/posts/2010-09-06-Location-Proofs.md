@@ -8,8 +8,6 @@ tags:
     - research
     - security
 ---
-# [Location Proofs](None)
-
 
 
 
@@ -37,3 +35,4 @@ I think something like this is inevitable, but it will have be invisible
 because it's too geeky..
 
 
+[Location Proofs](None)

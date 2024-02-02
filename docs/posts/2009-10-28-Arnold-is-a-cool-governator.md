@@ -3,8 +3,6 @@ title: "Arnold is a cool governator"
 author: Pito Salas
 date: 2009-10-28
 ---
-# [Arnold is a cool governator](None)
-
 
 
 
@@ -42,3 +40,4 @@ Check out [Schwarzenegger Gives California Legislature A Hidden Finger
 .
 
 
+[Arnold is a cool governator](None)

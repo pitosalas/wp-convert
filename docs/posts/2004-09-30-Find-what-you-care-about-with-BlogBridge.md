@@ -3,8 +3,6 @@ title: "Find what you care about with BlogBridge"
 author: Pito Salas
 date: 2004-09-30
 ---
-# [Find what you care about with BlogBridge](None)
-
 
 
 >>
@@ -42,3 +40,4 @@ matches will be rated more **highly** (actually this is configurable.)
 >> WDYT?
 
 
+[Find what you care about with BlogBridge](None)

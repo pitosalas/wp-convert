@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - Software Engineering
 ---
-# [Learn - Sinatra Activerecord Setup](https://learn.co/lessons/sinatra-activerecord-setup)
-
 <img src=http://flatironschool-static.s3.amazonaws.com/learn-social.png width="500">
 
 
 
-(**Web site except:** Learn about Sinatra Activerecord Setup. Start learning to code for free with real developer tools on Learn.co.) 
+(**Web site excerpt:** Learn about Sinatra Activerecord Setup. Start learning to code for free with real developer tools on Learn.co.) 
+[Learn - Sinatra Activerecord Setup](https://learn.co/lessons/sinatra-activerecord-setup)

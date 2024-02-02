@@ -7,8 +7,6 @@ tags:
     - microsoft
     - windows
 ---
-# [Windows 8: Getting a new filesystem](None)
-
 
 
 
@@ -58,3 +56,4 @@ So while I am not a Microsoft fan or booster, I still have enormous respect
 for them.
 
 
+[Windows 8: Getting a new filesystem](None)

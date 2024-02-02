@@ -3,8 +3,6 @@ title: "Good space shuttle writing"
 author: Pito Salas
 date: 2005-06-30
 ---
-# [Good space shuttle writing](None)
-
 
 
 >>
@@ -25,3 +23,4 @@ Station](<http://techcentralstation.com/062905J.html>).)
 >>>  
 
 
+[Good space shuttle writing](None)

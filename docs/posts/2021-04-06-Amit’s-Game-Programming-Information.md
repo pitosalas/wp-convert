@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - Design
 ---
-# [Amit’s Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html)
-
 <img src=https://rdl.ink/render/http%3A%2F%2Fwww-cs-students.stanford.edu%2F~amitp%2Fgameprog.html width="500">
 
 
+[Amit’s Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html)

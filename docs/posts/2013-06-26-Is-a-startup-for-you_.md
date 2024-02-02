@@ -8,8 +8,6 @@ tags:
     - entrepreneurship
     - startup
 ---
-# [Is a startup for you?](None)
-
 
 
 
@@ -29,3 +27,4 @@ young-programmer.html>):
 
 
 
+[Is a startup for you?](None)

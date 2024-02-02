@@ -3,8 +3,6 @@ title: "[JAVA ONE]Sun answers my question"
 author: Pito Salas
 date: 2004-07-13
 ---
-# [[JAVA ONE]Sun answers my question](None)
-
 
 
 >>
@@ -47,3 +45,4 @@ like GE made money on standard rails, [and other parallel examples]"
 sure that it **doesn 't bristle with confidence and passion**.
 
 
+[[JAVA ONE]Sun answers my question](None)

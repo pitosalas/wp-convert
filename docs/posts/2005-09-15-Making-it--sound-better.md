@@ -3,8 +3,6 @@ title: "Making it  sound better"
 author: Pito Salas
 date: 2005-09-15
 ---
-# [Making it  sound better](None)
-
 
 
 >>
@@ -35,3 +33,4 @@ driven development" or "agile concept-driven object-oriented debugging" yet?
 [Geeky](<http://www.technorati.com/tag/Geeky>)
 
 
+[Making it  sound better](None)

@@ -3,8 +3,6 @@ title: "Link to Susan Senator!"
 author: Pito Salas
 date: 2005-05-09
 ---
-# [Link to Susan Senator!](None)
-
 
 
 >>
@@ -55,3 +53,4 @@ it, you are sure to get some new perspective.
 [book](<http://technorati.com/tag/book>)
 
 
+[Link to Susan Senator!](None)

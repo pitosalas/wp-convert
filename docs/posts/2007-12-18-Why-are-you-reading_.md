@@ -3,8 +3,6 @@ title: "Why are you reading?"
 author: Pito Salas
 date: 2007-12-18
 ---
-# [Why are you reading?](None)
-
 
 
 
@@ -24,3 +22,4 @@ Read the whole article: it **challenges assumptions** about why we read (and
 write) our blogs so diligently.
 
 
+[Why are you reading?](None)

@@ -3,8 +3,6 @@ title: "Scoble, Technorati and Bloglines (and Dow Jones and Nasdaq AGAIN differe
 author: Pito Salas
 date: 2005-07-19
 ---
-# [Scoble, Technorati and Bloglines (and Dow Jones and Nasdaq AGAIN different?! What’s going on?)](None)
-
 
 
 >>
@@ -56,3 +54,4 @@ reporting. I mean, this isn't the speed of light we are talking about here.)
 [truth](<http://technorati.com/tag/truth>)
 
 
+[Scoble, Technorati and Bloglines (and Dow Jones and Nasdaq AGAIN different?! What’s going on?)](None)

@@ -3,8 +3,6 @@ title: "Modesty or ego?"
 author: Pito Salas
 date: 2009-07-09
 ---
-# [Modesty or ego?](None)
-
 
 
 
@@ -23,3 +21,4 @@ of leading all of us to go look at the list and seeing that he's "#1" without
 needing to say it?
 
 
+[Modesty or ego?](None)

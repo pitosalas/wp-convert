@@ -3,8 +3,6 @@ title: "Electricity Audit Survey Tool?"
 author: Pito Salas
 date: 2009-10-15
 ---
-# [Electricity Audit Survey Tool?](None)
-
 
 
 
@@ -18,3 +16,4 @@ did the research of how much power a Staples paper shredder uses when it's on
 but not in use, and on, and on and on.
 
 
+[Electricity Audit Survey Tool?](None)

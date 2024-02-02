@@ -3,8 +3,6 @@ title: "Good article about idiomatic Ruby"
 author: Pito Salas
 date: 2006-12-08
 ---
-# [Good article about idiomatic Ruby](None)
-
 
 
 >
@@ -19,3 +17,4 @@ date: 2006-12-08
 >  Ruby](<http://www.therailsway.com/2006/12/8/idiomatic-ruby>).
 
 
+[Good article about idiomatic Ruby](None)

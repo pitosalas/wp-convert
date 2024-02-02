@@ -5,8 +5,6 @@ date: 2021-10-08
 tags:
     - learning
 ---
-# [Civitas Learning | Student Success Platform & Services – Civitas Learning](None)
-
 
 
 
@@ -19,3 +17,4 @@ to improve enrollment, course success, persistence and graduation.
 October 8, 2021 at 06:10PM
 
 
+[Civitas Learning | Student Success Platform & Services – Civitas Learning](None)

@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - Ruby
 ---
-# [gotAPI/CSS - Instant search in CSS and other developer documentation](http://www.gotapi.com/cssw3s)
-
 <img src= width="500">
 
 
+[gotAPI/CSS - Instant search in CSS and other developer documentation](http://www.gotapi.com/cssw3s)

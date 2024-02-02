@@ -10,10 +10,9 @@ tags:
     - ide
     - programming
 ---
-# [Writing Code Without Plain Text Files](https://link.medium.com/lN9CG2AK0wb)
-
 <img src=https://miro.medium.com/max/1200/1*IPykerQ2Ra6LSM4r-htxoA.jpeg width="500">
 
 
 
-(**Web site except:** Many years ago there was an ide-like tool that worked this way too. No separate source files. It was a cool approach. Glad to see it back! Author said: “The Unison programming language doesn’t store code in files, but in a database. What is that like?”) 
+(**Web site excerpt:** Many years ago there was an ide-like tool that worked this way too. No separate source files. It was a cool approach. Glad to see it back! Author said: “The Unison programming language doesn’t store code in files, but in a database. What is that like?”) 
+[Writing Code Without Plain Text Files](https://link.medium.com/lN9CG2AK0wb)

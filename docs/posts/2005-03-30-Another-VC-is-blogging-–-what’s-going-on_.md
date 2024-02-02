@@ -3,8 +3,6 @@ title: "Another VC is blogging – what’s going on?"
 author: Pito Salas
 date: 2005-03-30
 ---
-# [Another VC is blogging – what’s going on?](None)
-
 
 
 >>
@@ -16,3 +14,4 @@ blog, ["Seeing both sides."](<http://www.bostonvcblog.com/>) He's off to a
 great start!
 
 
+[Another VC is blogging – what’s going on?](None)

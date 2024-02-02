@@ -3,8 +3,6 @@ title: "Once more confirming my cynicism"
 author: Pito Salas
 date: 2008-03-10
 ---
-# [Once more confirming my cynicism](None)
-
 
 
 
@@ -17,3 +15,4 @@ Sorry, but for some reason it seems that the
 > spitzer.html?hp>)** )
 
 
+[Once more confirming my cynicism](None)

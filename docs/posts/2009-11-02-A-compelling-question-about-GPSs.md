@@ -3,8 +3,6 @@ title: "A compelling question about GPSs"
 author: Pito Salas
 date: 2009-11-02
 ---
-# [A compelling question about GPSs](None)
-
 
 
 
@@ -15,3 +13,4 @@ satellite-location/13237/#>)
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[A compelling question about GPSs](None)

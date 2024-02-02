@@ -3,8 +3,6 @@ title: "[GEEKY] Nuances about REST"
 author: Pito Salas
 date: 2010-06-21
 ---
-# [[GEEKY] Nuances about REST](None)
-
 
 
 
@@ -72,3 +70,4 @@ part of a much broader and general topic of 'Web Services and Cloud
 Computing." Next time.)
 
 
+[[GEEKY] Nuances about REST](None)

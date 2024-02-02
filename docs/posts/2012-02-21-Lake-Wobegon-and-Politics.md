@@ -8,8 +8,6 @@ tags:
     - prairiehomecomanion-tag
     - rightofcenter
 ---
-# [Lake Wobegon and Politics](None)
-
 
 
 
@@ -25,3 +23,4 @@ Isn't this a lot like [Lake Wobegon](<http://prairiehome.publicradio.org/>),
 I'm just sayin'…
 
 
+[Lake Wobegon and Politics](None)

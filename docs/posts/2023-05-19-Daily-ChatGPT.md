@@ -3,8 +3,6 @@ title: "Daily ChatGPT"
 author: Pito Salas
 date: 2023-05-19
 ---
-# [Daily ChatGPT](None)
-
 
 
 
@@ -19,3 +17,4 @@ autocomplete. While they may be technically correct (and I doubt they are) you
 cannot ignore ChatGPT feats that look nothing like autocomplete.
 
 
+[Daily ChatGPT](None)

@@ -8,8 +8,6 @@ tags:
     - iphon-tage
     - siri
 ---
-# [[GEEKY] List of Siri Commands](None)
-
 
 
 
@@ -26,3 +24,4 @@ Video](<http://techblog.tv/full-list-of-siri-commands-how-to-use-siri/>):
 
 
 
+[[GEEKY] List of Siri Commands](None)

@@ -5,8 +5,6 @@ date: 2008-10-25
 tags:
     - kevinkelley-ai
 ---
-# [Evidence of a Global SuperOrganism](None)
-
 
 
 
@@ -54,3 +52,4 @@ other wonderful passages:
 I could go on. It's a great, long, essay. Read it.
 
 
+[Evidence of a Global SuperOrganism](None)

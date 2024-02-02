@@ -3,8 +3,6 @@ title: "Open Source, BlogBridge and Offshore"
 author: Pito Salas
 date: 2004-03-06
 ---
-# [Open Source, BlogBridge and Offshore](None)
-
 
 
 >>
@@ -108,3 +106,4 @@ looking into.
 >>  
 
 
+[Open Source, BlogBridge and Offshore](None)

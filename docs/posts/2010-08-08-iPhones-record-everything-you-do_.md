@@ -3,8 +3,6 @@ title: "iPhones record everything you do?"
 author: Pito Salas
 date: 2010-08-08
 ---
-# [iPhones record everything you do?](None)
-
 
 
 
@@ -27,3 +25,4 @@ exit from the Mapping application? Sounds far fetched? Capturing all the text
 you type in to improve spell check? Hmm.Not that I have anything to hide 😉
 
 
+[iPhones record everything you do?](None)

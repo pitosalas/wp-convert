@@ -3,8 +3,6 @@ title: "Dumb as we want to be?"
 author: Pito Salas
 date: 2008-12-26
 ---
-# [Dumb as we want to be?](None)
-
 
 
 
@@ -25,3 +23,4 @@ Time To Reboot? [Read the whole article, please.
 ](<http://www.nytimes.com/2008/12/24/opinion/24friedman.html?_r=1&ref=todayspaper>)
 
 
+[Dumb as we want to be?](None)

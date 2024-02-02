@@ -3,8 +3,6 @@ title: "[GEEKY] What every programmer should know about …"
 author: Pito Salas
 date: 2008-01-15
 ---
-# [[GEEKY] What every programmer should know about …](None)
-
 
 
 
@@ -20,3 +18,4 @@ I don't know about you, but it may be just a little bit more than I want to
 know about memory 🙂
 
 
+[[GEEKY] What every programmer should know about …](None)

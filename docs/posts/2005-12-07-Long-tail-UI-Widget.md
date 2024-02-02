@@ -3,8 +3,6 @@ title: "Long tail UI Widget"
 author: Pito Salas
 date: 2005-12-07
 ---
-# [Long tail UI Widget](None)
-
 
 
 >>
@@ -38,3 +36,4 @@ possibilities. **Cute**!
 [longtail](<http://www.technorati.com/tag/longtail>)
 
 
+[Long tail UI Widget](None)

@@ -6,8 +6,6 @@ tags:
     - learning
     - trigon-tagometry
 ---
-# [Khan academy to the rescue](None)
-
 
 
 
@@ -37,3 +35,4 @@ trigonometry?playlist=New+and+Noteworthy>)and matrix knowledge that I needed.
 Amazing. Check [Khan Academy](<http://www.khanacademy.org>) out.
 
 
+[Khan academy to the rescue](None)

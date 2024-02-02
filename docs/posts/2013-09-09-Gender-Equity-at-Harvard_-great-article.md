@@ -7,8 +7,6 @@ tags:
     - gender
     - Harvard
 ---
-# [Gender Equity at Harvard: great article](None)
-
 
 
 
@@ -27,3 +25,4 @@ gender-equity.html?_r=0>):
 
 
 
+[Gender Equity at Harvard: great article](None)

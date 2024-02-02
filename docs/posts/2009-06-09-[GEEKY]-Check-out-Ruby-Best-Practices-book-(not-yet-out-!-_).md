@@ -3,8 +3,6 @@ title: "[GEEKY] Check out Ruby Best Practices book (not yet out ! :)"
 author: Pito Salas
 date: 2009-06-09
 ---
-# [[GEEKY] Check out Ruby Best Practices book (not yet out ! :)](None)
-
 
 
 
@@ -31,3 +29,4 @@ Technorati Tags: [DSL](<http://technorati.com/tag/DSL>),
 [Ruby](<http://technorati.com/tag/Ruby>)
 
 
+[[GEEKY] Check out Ruby Best Practices book (not yet out ! :)](None)

@@ -3,8 +3,6 @@ title: "Tivo Tidbit"
 author: Pito Salas
 date: 2006-09-27
 ---
-# [Tivo Tidbit](None)
-
 
 
 >
@@ -31,3 +29,4 @@ date: 2006-09-27
 > Technorati Tags: [tivo](<http://www.technorati.com/tag/tivo>)
 
 
+[Tivo Tidbit](None)

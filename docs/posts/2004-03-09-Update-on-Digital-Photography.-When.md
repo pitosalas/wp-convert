@@ -3,8 +3,6 @@ title: "Update on Digital Photography. When"
 author: Pito Salas
 date: 2004-03-09
 ---
-# [Update on Digital Photography. When](None)
-
 
 
 >>
@@ -18,3 +16,4 @@ download.htm>). I haven't experimented much with it yet, so I don't know how
 good it is.
 
 
+[Update on Digital Photography. When](None)

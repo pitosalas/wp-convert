@@ -3,8 +3,6 @@ title: "Government Efficiency"
 author: Pito Salas
 date: 2009-05-08
 ---
-# [Government Efficiency](None)
-
 
 
 
@@ -19,3 +17,4 @@ Efficiency](<http://dilbert.com/blog/entry/government_efficiency/>) from
 Nice new term: _Confusopoly_
 
 
+[Government Efficiency](None)

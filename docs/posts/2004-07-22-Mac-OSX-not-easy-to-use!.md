@@ -3,8 +3,6 @@ title: "Mac OSX not easy to use!"
 author: Pito Salas
 date: 2004-07-22
 ---
-# [Mac OSX not easy to use!](None)
-
 
 
 >>
@@ -62,3 +60,4 @@ Mac user's claim that Mac is inherently easier to use than WInXP. First of
 all, it's more similar than different and second of all, it's not all good.
 
 
+[Mac OSX not easy to use!](None)

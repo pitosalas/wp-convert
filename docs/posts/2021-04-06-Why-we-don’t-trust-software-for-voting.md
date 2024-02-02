@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - voting comic funny
 ---
-# [Why we don’t trust software for voting](https://www.diigo.com/item/image/7lk/14970513)
-
 <img src=https://rdl.ink/render/https%3A%2F%2Fwww.diigo.com%2Fitem%2Fimage%2F7lk%2F14970513 width="500">
 
 
+[Why we don’t trust software for voting](https://www.diigo.com/item/image/7lk/14970513)

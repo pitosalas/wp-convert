@@ -3,8 +3,6 @@ title: "Scott Adams (Dilbert in real life) Writes about the future of the intern
 author: Pito Salas
 date: 2010-08-22
 ---
-# [Scott Adams (Dilbert in real life) Writes about the future of the internet. Insightfully.](None)
-
 
 
 
@@ -27,3 +25,4 @@ And in general, read [Dilbert.com
 Blog!](<http://dilbert.com/blog/entry.feed/>)
 
 
+[Scott Adams (Dilbert in real life) Writes about the future of the internet. Insightfully.](None)

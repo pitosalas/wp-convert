@@ -3,8 +3,6 @@ title: "BlogBridge – coming along!"
 author: Pito Salas
 date: 2004-05-14
 ---
-# [BlogBridge – coming along!](None)
-
 
 
 >>
@@ -23,3 +21,4 @@ page as we move into another phase of development.
 >> Keep those cards and letters coming in!
 
 
+[BlogBridge – coming along!](None)

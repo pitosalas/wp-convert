@@ -5,8 +5,6 @@ date: 2008-09-05
 tags:
     - liberal-con-tagservative-republican-democrat-newyorktimes-n
 ---
-# [Where can I find non-shrill political coverage?](None)
-
 
 
 
@@ -30,3 +28,4 @@ Atlantic](<http://www.theatlantic.com/>) or [New
 Yorker](<http://www.newyorker.com/>) or [Salon](<http://www.salon.com/>)?
 
 
+[Where can I find non-shrill political coverage?](None)

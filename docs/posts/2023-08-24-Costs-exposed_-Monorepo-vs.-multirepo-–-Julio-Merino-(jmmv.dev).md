@@ -9,8 +9,6 @@ tags:
     - mon-tagorepo
     - repositories
 ---
-# [Costs exposed: Monorepo vs. multirepo – Julio Merino (jmmv.dev)](None)
-
 
 
 
@@ -35,3 +33,4 @@ multiple different repositories. The other two will come in follow-up
 articles.
 
 
+[Costs exposed: Monorepo vs. multirepo – Julio Merino (jmmv.dev)](None)

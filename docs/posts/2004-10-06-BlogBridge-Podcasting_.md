@@ -3,8 +3,6 @@ title: "BlogBridge Podcasting?"
 author: Pito Salas
 date: 2004-10-06
 ---
-# [BlogBridge Podcasting?](None)
-
 
 
 >>
@@ -64,3 +62,4 @@ download and transfer to the iPod.
 think it will be quite useful!**
 
 
+[BlogBridge Podcasting?](None)

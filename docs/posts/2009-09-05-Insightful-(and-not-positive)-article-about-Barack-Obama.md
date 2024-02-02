@@ -3,8 +3,6 @@ title: "Insightful (and not positive) article about Barack Obama"
 author: Pito Salas
 date: 2009-09-05
 ---
-# [Insightful (and not positive) article about Barack Obama](None)
-
 
 
 
@@ -26,3 +24,4 @@ contains some useful insights 🙂
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[Insightful (and not positive) article about Barack Obama](None)

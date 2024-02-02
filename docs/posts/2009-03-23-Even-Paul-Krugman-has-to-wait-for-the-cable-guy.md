@@ -3,8 +3,6 @@ title: "Even Paul Krugman has to wait for the cable guy"
 author: Pito Salas
 date: 2009-03-23
 ---
-# [Even Paul Krugman has to wait for the cable guy](None)
-
 
 
 
@@ -19,3 +17,4 @@ probably/>):
 🙂
 
 
+[Even Paul Krugman has to wait for the cable guy](None)

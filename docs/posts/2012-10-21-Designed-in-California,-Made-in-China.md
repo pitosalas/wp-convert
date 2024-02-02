@@ -8,8 +8,6 @@ tags:
     - steve-jobs
     - steve-wozniak
 ---
-# [Designed in California, Made in China](None)
-
 
 
 
@@ -24,3 +22,4 @@ is nonetheless very controversial:
 Good article. Read it.
 
 
+[Designed in California, Made in China](None)

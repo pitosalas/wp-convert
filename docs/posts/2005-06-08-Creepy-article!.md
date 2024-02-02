@@ -3,8 +3,6 @@ title: "Creepy article!"
 author: Pito Salas
 date: 2005-06-08
 ---
-# [Creepy article!](None)
-
 
 
 >>
@@ -28,3 +26,4 @@ more?](<http://www.nydailynews.com/front/story/317027p-271169c.html>)
 [gross](<http://technorati.com/tag/gross>)
 
 
+[Creepy article!](None)

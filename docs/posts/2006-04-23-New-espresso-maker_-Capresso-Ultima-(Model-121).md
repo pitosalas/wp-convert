@@ -3,8 +3,6 @@ title: "New espresso maker: Capresso Ultima (Model 121)"
 author: Pito Salas
 date: 2006-04-23
 ---
-# [New espresso maker: Capresso Ultima (Model 121)](None)
-
 
 
 >>
@@ -114,3 +112,4 @@ prefer lattes?
 [keurig](<http://www.technorati.com/tag/keurig>)
 
 
+[New espresso maker: Capresso Ultima (Model 121)](None)

@@ -6,8 +6,6 @@ tags:
     - market
     - trading
 ---
-# [Amazing: 400ms makes a difference](None)
-
 
 
 
@@ -24,3 +22,4 @@ whether or how much money was made or lost. The article says:
 > [Nanex.net](<http://www.nanex.net/aqck2/4090.html>))
 
 
+[Amazing: 400ms makes a difference](None)

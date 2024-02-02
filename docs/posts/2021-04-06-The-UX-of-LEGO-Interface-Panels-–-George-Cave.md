@@ -10,10 +10,9 @@ tags:
     - ux
     - lego
 ---
-# [The UX of LEGO Interface Panels – George Cave](https://www.designedbycave.co.uk/2020/LEGO-Interface-UX)
-
 <img src=https://www.designedbycave.co.uk/images/posts/2020-08-LEGO-Interface-UX/og_image.jpg width="500">
 
 
 
-(**Web site except:** Interesting analysis. Also follow the links to more good stuff) 
+(**Web site excerpt:** Interesting analysis. Also follow the links to more good stuff) 
+[The UX of LEGO Interface Panels – George Cave](https://www.designedbycave.co.uk/2020/LEGO-Interface-UX)

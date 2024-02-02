@@ -9,8 +9,6 @@ tags:
     - sublimetext
     - textmate
 ---
-# [[GEEKY] Sublime Text surpassing TextMate?](None)
-
 
 
 
@@ -35,3 +33,4 @@ Text 2](<http://www.sublimetext.com/2>) as a great alternative to TextMate.
 So… Here I go. I will report back.
 
 
+[[GEEKY] Sublime Text surpassing TextMate?](None)

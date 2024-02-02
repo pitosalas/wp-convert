@@ -8,8 +8,6 @@ tags:
     - internet
     - scholarship
 ---
-# [Digital Humanities: A fancy word for blogging?](None)
-
 
 
 
@@ -43,3 +41,4 @@ a sentence, which I admit having to look up 🙂
 > humanities-and-the-transcending-of-mortality/>)**
 
 
+[Digital Humanities: A fancy word for blogging?](None)

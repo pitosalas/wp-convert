@@ -9,8 +9,6 @@ tags:
     - vc
     - xmarks
 ---
-# [XMarks is the only thing that will sync Safari with Firefox](None)
-
 
 
 
@@ -37,3 +35,4 @@ accomplishment, even if it didn't lead to a sustainable business. Kudos and
 all the best to the team.
 
 
+[XMarks is the only thing that will sync Safari with Firefox](None)

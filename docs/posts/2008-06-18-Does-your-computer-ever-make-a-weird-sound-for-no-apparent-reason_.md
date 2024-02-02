@@ -3,8 +3,6 @@ title: "Does your computer ever make a weird sound for no apparent reason?"
 author: Pito Salas
 date: 2008-06-18
 ---
-# [Does your computer ever make a weird sound for no apparent reason?](None)
-
 
 
 
@@ -18,3 +16,4 @@ all those files (oh wait, maybe that's a "bing" not a "boing") Or might it be
 something else totally?
 
 
+[Does your computer ever make a weird sound for no apparent reason?](None)

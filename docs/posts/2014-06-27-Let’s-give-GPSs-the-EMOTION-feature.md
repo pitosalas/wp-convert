@@ -3,8 +3,6 @@ title: "Let’s give GPSs the EMOTION feature"
 author: Pito Salas
 date: 2014-06-27
 ---
-# [Let’s give GPSs the EMOTION feature](None)
-
 
 
 
@@ -46,3 +44,4 @@ reduce driver fatigue and accidents too!
 _Originally posted on Jul 29, 2009. Reprinted courtesy of ReRuns plug-in._
 
 
+[Let’s give GPSs the EMOTION feature](None)

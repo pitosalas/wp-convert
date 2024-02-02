@@ -9,8 +9,6 @@ tags:
     - macintosh
     - music
 ---
-# [Designing a game soundtrack – kind of like we first got to pick the fonts in our documents](None)
-
 
 
 
@@ -39,3 +37,4 @@ listening pleasure:
 content/uploads/2011/10/golsoundtrack.mp3.mp3> "GOLsoundtrack.mp3")
 
 
+[Designing a game soundtrack – kind of like we first got to pick the fonts in our documents](None)

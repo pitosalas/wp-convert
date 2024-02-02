@@ -11,8 +11,7 @@ tags:
     - vision
     - raspberry-pi
 ---
-# [PixyCam – Pixy is the easiest way to add vision to your robot!](https://pixycam.com/)
-
 <img src=https://rdl.ink/render/https%3A%2F%2Fpixycam.com%2F width="500">
 
 
+[PixyCam – Pixy is the easiest way to add vision to your robot!](https://pixycam.com/)

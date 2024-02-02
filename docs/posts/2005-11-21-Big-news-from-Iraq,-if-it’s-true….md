@@ -3,8 +3,6 @@ title: "Big news from Iraq, if it’s true…"
 author: Pito Salas
 date: 2005-11-21
 ---
-# [Big news from Iraq, if it’s true…](None)
-
 
 
 >>
@@ -33,3 +31,4 @@ changed** …
 >> Technorati Tags: [iraq](<http://www.technorati.com/tag/iraq>)
 
 
+[Big news from Iraq, if it’s true…](None)

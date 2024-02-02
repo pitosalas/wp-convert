@@ -3,8 +3,6 @@ title: "The “T Word” – Trust"
 author: Pito Salas
 date: 2010-04-30
 ---
-# [The “T Word” – Trust](None)
-
 
 
 
@@ -19,3 +17,4 @@ thought provoking, don't you think?
 > **from** [I, Cringely](<http://www.cringely.com/2010/04/the-t-word/>))
 
 
+[The “T Word” – Trust](None)

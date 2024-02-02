@@ -3,8 +3,6 @@ title: "“This is the Discover card Fraud department. Call 1-800-555-1212 – I
 author: Pito Salas
 date: 2007-04-14
 ---
-# [“This is the Discover card Fraud department. Call 1-800-555-1212 – IMMEDIATELY](None)
-
 
 
 
@@ -19,3 +17,4 @@ What would you do? I am worried about fraud on my card, right? But do I know
 who I am actually talking to?
 
 
+[“This is the Discover card Fraud department. Call 1-800-555-1212 – IMMEDIATELY](None)

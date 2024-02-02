@@ -3,8 +3,6 @@ title: "Casinos in Mass? Please, No!"
 author: Pito Salas
 date: 2008-03-19
 ---
-# [Casinos in Mass? Please, No!](None)
-
 
 
 
@@ -28,3 +26,4 @@ mot](<http://en.wiktionary.org/wiki/bon_mot>):
 > to pay for our first addiction: low cost driving"
 
 
+[Casinos in Mass? Please, No!](None)

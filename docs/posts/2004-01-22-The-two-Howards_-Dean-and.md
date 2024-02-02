@@ -3,8 +3,6 @@ title: "The two Howards: Dean and"
 author: Pito Salas
 date: 2004-01-22
 ---
-# [The two Howards: Dean and](None)
-
 
 
 >>
@@ -33,3 +31,4 @@ you here, but either use your imagination, or take my word for it: it was one
 of the **all time funiest moments on Radio**.
 
 
+[The two Howards: Dean and](None)

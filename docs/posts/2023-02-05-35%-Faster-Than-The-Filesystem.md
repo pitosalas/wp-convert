@@ -12,10 +12,9 @@ tags:
     - caching
     - scalability
 ---
-# [35% Faster Than The Filesystem](https://www.sqlite.org/fasterthanfs.html)
-
 <img src=https://rdl.ink/render/https%3A%2F%2Fwww.sqlite.org%2Ffasterthanfs.html width="500">
 
 
 
-(**Web site except:** An interesting study of performance. It seems hard to believe.) 
+(**Web site excerpt:** An interesting study of performance. It seems hard to believe.) 
+[35% Faster Than The Filesystem](https://www.sqlite.org/fasterthanfs.html)

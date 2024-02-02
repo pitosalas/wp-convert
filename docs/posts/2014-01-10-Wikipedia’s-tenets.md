@@ -6,8 +6,6 @@ tags:
     - nyt
     - wikipedia
 ---
-# [Wikipedia’s tenets](None)
-
 
 
 
@@ -66,3 +64,4 @@ I try to correct the inaccuracies I might call attention to the entries and
 lose them altogether. Even writing this post feels a little bit risky…
 
 
+[Wikipedia’s tenets](None)

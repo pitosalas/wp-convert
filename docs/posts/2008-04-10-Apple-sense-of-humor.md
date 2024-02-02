@@ -5,8 +5,6 @@ date: 2008-04-10
 tags:
     - BSOD-Apple-Windows-Microsoft
 ---
-# [Apple sense of humor](None)
-
 
 
 
@@ -22,3 +20,4 @@ on the image of an ugly big CRT monitor. See the
 Who said they don't have a sense of humor?
 
 
+[Apple sense of humor](None)

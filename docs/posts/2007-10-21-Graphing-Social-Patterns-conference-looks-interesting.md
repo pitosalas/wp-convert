@@ -3,8 +3,6 @@ title: "Graphing Social Patterns conference looks interesting"
 author: Pito Salas
 date: 2007-10-21
 ---
-# [Graphing Social Patterns conference looks interesting](None)
-
 
 
 
@@ -15,3 +13,4 @@ keynote.](<http://www.allfacebook.com/2007/10/tim-oreilly-graphing-social-
 patterns/>)
 
 
+[Graphing Social Patterns conference looks interesting](None)

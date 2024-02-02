@@ -3,8 +3,6 @@ title: "Is Facebook the new Google of acquisition-lust?"
 author: Pito Salas
 date: 2007-10-20
 ---
-# [Is Facebook the new Google of acquisition-lust?](None)
-
 
 
 
@@ -49,3 +47,4 @@ effect you want is that Facebook folks look and say, "Hey we should have
 developed that."
 
 
+[Is Facebook the new Google of acquisition-lust?](None)

@@ -3,8 +3,6 @@ title: "Google Coolness. Well those wacky"
 author: Pito Salas
 date: 2004-03-03
 ---
-# [Google Coolness. Well those wacky](None)
-
 
 
 >>
@@ -27,3 +25,4 @@ distancing ourselves from the infamous command line (remember 4GLs?) how are
 we supposed to remember all these weird encantations. GUI anyone?
 
 
+[Google Coolness. Well those wacky](None)

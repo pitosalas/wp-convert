@@ -3,8 +3,6 @@ title: "[insert your title here]"
 author: Pito Salas
 date: 2010-02-18
 ---
-# [[insert your title here]](None)
-
 
 
 
@@ -30,3 +28,4 @@ No more.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[[insert your title here]](None)

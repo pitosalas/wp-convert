@@ -6,8 +6,6 @@ tags:
     - homes
     - olin-college
 ---
-# [Control the Sun, really](None)
-
 
 
 
@@ -24,3 +22,4 @@ Blinds", and answer this super easy
 questionnaire!](<http://www.mylanderpages.com/sunrise_blinds/olin>)
 
 
+[Control the Sun, really](None)

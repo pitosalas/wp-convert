@@ -3,8 +3,6 @@ title: "Words DO matter"
 author: Pito Salas
 date: 2004-05-18
 ---
-# [Words DO matter](None)
-
 
 
 >>
@@ -41,3 +39,4 @@ always fascinated and amused to see just the right/wrong word make all the
 **difference** in the point being made.
 
 
+[Words DO matter](None)

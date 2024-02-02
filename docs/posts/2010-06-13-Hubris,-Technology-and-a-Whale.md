@@ -3,8 +3,6 @@ title: "Hubris, Technology and a Whale"
 author: Pito Salas
 date: 2010-06-13
 ---
-# [Hubris, Technology and a Whale](None)
-
 
 
 
@@ -32,3 +30,4 @@ and out of control than we would like to think:
 > Parallax)](<http://www.nytimes.com/2010/06/13/weekinreview/13kennedy.html?ref=weekinreview>)
 
 
+[Hubris, Technology and a Whale](None)

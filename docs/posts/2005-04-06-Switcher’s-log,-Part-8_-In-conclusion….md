@@ -3,8 +3,6 @@ title: "Switcher’s log, Part 8: In conclusion…"
 author: Pito Salas
 date: 2005-04-06
 ---
-# [Switcher’s log, Part 8: In conclusion…](None)
-
 
 **I love the fact that I switched to Mac.**
 
@@ -53,3 +51,4 @@ camp that says that OS X is simply superior to Windows XP. I would say it's
 different, in a **good** way.
 
 
+[Switcher’s log, Part 8: In conclusion…](None)

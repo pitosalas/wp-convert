@@ -3,8 +3,6 @@ title: "Ray Kurzweil @ MIT"
 author: Pito Salas
 date: 2008-05-16
 ---
-# [Ray Kurzweil @ MIT](None)
-
 
 
 
@@ -41,3 +39,4 @@ brilliant guy with a deadpan, monotonic delivery which at first is deadening,
 but after a while is amusing and even compelling to listen to.
 
 
+[Ray Kurzweil @ MIT](None)

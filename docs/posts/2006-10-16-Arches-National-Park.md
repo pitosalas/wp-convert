@@ -3,8 +3,6 @@ title: "Arches National Park"
 author: Pito Salas
 date: 2006-10-16
 ---
-# [Arches National Park](None)
-
 
 
 >
@@ -36,3 +34,4 @@ date: 2006-10-16
 > Technorati Tags: [arches](<http://www.technorati.com/tag/arches>)
 
 
+[Arches National Park](None)

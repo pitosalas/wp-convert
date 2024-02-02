@@ -3,8 +3,6 @@ title: "Compelling, in a weird kind of way"
 author: Pito Salas
 date: 2006-08-15
 ---
-# [Compelling, in a weird kind of way](None)
-
 
 
 >>
@@ -25,3 +23,4 @@ date: 2006-08-15
 [photography](<http://www.technorati.com/tag/photography>)
 
 
+[Compelling, in a weird kind of way](None)

@@ -3,8 +3,6 @@ title: "Can you believe these dudes still use typewriters?"
 author: Pito Salas
 date: 2006-07-09
 ---
-# [Can you believe these dudes still use typewriters?](None)
-
 
 
 >>
@@ -33,3 +31,4 @@ font**? Nah I don't think so. **Carbon copies** anyone?
 [typewriter](<http://www.technorati.com/tag/typewriter>)
 
 
+[Can you believe these dudes still use typewriters?](None)

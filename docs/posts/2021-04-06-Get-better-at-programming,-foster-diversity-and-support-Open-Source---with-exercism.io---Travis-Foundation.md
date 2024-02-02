@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - Java
 ---
-# [Get better at programming, foster diversity and support Open Source - with exercism.io - Travis Foundation](http://foundation.travis-ci.org/2016/01/25/exercism)
-
 <img src= width="500">
 
 
+[Get better at programming, foster diversity and support Open Source - with exercism.io - Travis Foundation](http://foundation.travis-ci.org/2016/01/25/exercism)

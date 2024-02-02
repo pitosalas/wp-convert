@@ -10,8 +10,6 @@ tags:
     - twitter
     - user-experience
 ---
-# [[GEEKY] Social login buttons considered harmful](None)
-
 
 
 
@@ -38,3 +36,4 @@ Blog](<http://blog.mailchimp.com/social-login-buttons-arent-worth-it/>):
  Yea
 
 
+[[GEEKY] Social login buttons considered harmful](None)

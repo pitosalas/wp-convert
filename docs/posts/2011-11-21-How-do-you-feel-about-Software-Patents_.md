@@ -7,8 +7,6 @@ tags:
     - patenttrolls
     - software
 ---
-# [How do you feel about Software Patents?](None)
-
 
 
 
@@ -34,3 +32,4 @@ attack>)
 > attack>)
 
 
+[How do you feel about Software Patents?](None)

@@ -3,8 +3,6 @@ title: "Roger Ebert: Essential"
 author: Pito Salas
 date: 2010-02-17
 ---
-# [Roger Ebert: Essential](None)
-
 
 
 
@@ -18,3 +16,4 @@ story.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[Roger Ebert: Essential](None)

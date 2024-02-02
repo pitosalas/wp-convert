@@ -7,8 +7,6 @@ tags:
     - doj
     - legal
 ---
-# [Aaron Swartz: continuing developments](None)
-
 
 
 
@@ -28,3 +26,4 @@ tragic suicide recently:
 > aarons-prosecution-was-political>))
 
 
+[Aaron Swartz: continuing developments](None)

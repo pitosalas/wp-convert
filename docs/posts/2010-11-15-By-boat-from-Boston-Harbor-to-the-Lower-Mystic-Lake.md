@@ -3,8 +3,6 @@ title: "By boat from Boston Harbor to the Lower Mystic Lake"
 author: Pito Salas
 date: 2010-11-15
 ---
-# [By boat from Boston Harbor to the Lower Mystic Lake](None)
-
 
 
 
@@ -18,3 +16,4 @@ proof of that.
 Ginsburg](<http://vimeo.com/sarahginsburg>) on [Vimeo](<http://vimeo.com>).
 
 
+[By boat from Boston Harbor to the Lower Mystic Lake](None)

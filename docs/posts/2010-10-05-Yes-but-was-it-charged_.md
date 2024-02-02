@@ -3,8 +3,6 @@ title: "Yes but was it charged?"
 author: Pito Salas
 date: 2010-10-05
 ---
-# [Yes but was it charged?](None)
-
 
 
 
@@ -35,3 +33,4 @@ Blog](<http://www.iphonedownloadblog.com/feed/>):
 > MacAllDay+%289+to+5+Mac+-+Apple+Intelligence%29&utm_content=Google+Reader>)]
 
 
+[Yes but was it charged?](None)

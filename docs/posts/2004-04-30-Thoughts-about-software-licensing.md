@@ -3,8 +3,6 @@ title: "Thoughts about software licensing"
 author: Pito Salas
 date: 2004-04-30
 ---
-# [Thoughts about software licensing](None)
-
 
 
 >>
@@ -44,3 +42,4 @@ model as well. I think you'll like that when you hear about it 🙂
 wanted to point to Dan's interesting pieces.
 
 
+[Thoughts about software licensing](None)

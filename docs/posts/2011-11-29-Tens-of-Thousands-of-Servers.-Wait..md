@@ -9,8 +9,6 @@ tags:
     - techno-taglogy
     - web
 ---
-# [Tens of Thousands of Servers. Wait.](None)
-
 
 
 
@@ -37,3 +35,4 @@ resource? Is that a server or something else? **Wait** , what's a server
 anyway? Oh well. **Parsing**.
 
 
+[Tens of Thousands of Servers. Wait.](None)

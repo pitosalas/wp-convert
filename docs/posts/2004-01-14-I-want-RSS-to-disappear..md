@@ -3,8 +3,6 @@ title: "I want RSS to disappear."
 author: Pito Salas
 date: 2004-01-14
 ---
-# [I want RSS to disappear.](None)
-
 
 
 >>
@@ -78,3 +76,4 @@ had gone; I wish I could use a richer editor to create my posts; I wish… I
 wish …; I wish)
 
 
+[I want RSS to disappear.](None)

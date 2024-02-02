@@ -5,8 +5,6 @@ date: 2021-08-12
 tags:
     - github
 ---
-# [Removing sensitive data from a repository – GitHub Docs](None)
-
 
 
 
@@ -17,3 +15,4 @@ your-account-and-data-secure/removing-sensitive-data-from-a-repository>)
 August 13, 2021 at 05:06AM
 
 
+[Removing sensitive data from a repository – GitHub Docs](None)

@@ -7,8 +7,6 @@ tags:
     - osdv
     - trustthevote
 ---
-# [Why we need new election technology](None)
-
 
 
 
@@ -39,3 +37,4 @@ across this bit as a small reminder of why we need it:
 > Night](<http://www.nytimes.com/2010/12/03/nyregion/03votes.html>))
 
 
+[Why we need new election technology](None)

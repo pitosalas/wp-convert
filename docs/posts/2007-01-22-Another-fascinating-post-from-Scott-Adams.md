@@ -3,8 +3,6 @@ title: "Another fascinating post from Scott Adams"
 author: Pito Salas
 date: 2007-01-22
 ---
-# [Another fascinating post from Scott Adams](None)
-
 
 
 >
@@ -45,3 +43,4 @@ date: 2007-01-22
 > Update](<http://dilbertblog.typepad.com/the_dilbert_blog/2007/01/voice_update_1.html>))
 
 
+[Another fascinating post from Scott Adams](None)

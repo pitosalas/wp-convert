@@ -3,8 +3,6 @@ title: "Some great links for  05/06/2019"
 author: Pito Salas
 date: 2019-05-05
 ---
-# [Some great links for  05/06/2019](None)
-
 
 
 
@@ -31,3 +29,4 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
+[Some great links for  05/06/2019](None)

@@ -3,8 +3,6 @@ title: "Jersey Boys"
 author: Pito Salas
 date: 2009-10-03
 ---
-# [Jersey Boys](None)
-
 
 
 
@@ -24,3 +22,4 @@ was like. Can you recommend one?
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[Jersey Boys](None)

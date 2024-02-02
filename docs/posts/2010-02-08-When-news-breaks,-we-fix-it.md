@@ -3,8 +3,6 @@ title: "When news breaks, we fix it"
 author: Pito Salas
 date: 2010-02-08
 ---
-# [When news breaks, we fix it](None)
-
 
 
 
@@ -30,3 +28,4 @@ confirmed independently by one, maybe two other sources.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[When news breaks, we fix it](None)

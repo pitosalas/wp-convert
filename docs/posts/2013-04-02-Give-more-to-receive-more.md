@@ -9,8 +9,6 @@ tags:
     - sharing
     - wharton-tag
 ---
-# [Give more to receive more](None)
-
 
 
 
@@ -42,3 +40,4 @@ you're not going to feel helpful enough. I guess there's always room for
 improvement!
 
 
+[Give more to receive more](None)

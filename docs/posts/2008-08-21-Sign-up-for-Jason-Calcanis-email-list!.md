@@ -3,8 +3,6 @@ title: "Sign up for Jason Calcanis email list!"
 author: Pito Salas
 date: 2008-08-21
 ---
-# [Sign up for Jason Calcanis email list!](None)
-
 
 
 
@@ -26,3 +24,4 @@ about it.
 list](<https://my.binhost.com/lists/listinfo/jason>).
 
 
+[Sign up for Jason Calcanis email list!](None)

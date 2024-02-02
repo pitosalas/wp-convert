@@ -9,8 +9,6 @@ tags:
     - ipo
     - stocks
 ---
-# [What’s all the fuss about Facebook’s IPO?](None)
-
 
 
 
@@ -34,3 +32,4 @@ I think that's just what happened! Good on them. From Frank Bruni's Article:
 > disaster.html>))
 
 
+[What’s all the fuss about Facebook’s IPO?](None)

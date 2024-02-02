@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - watch
 ---
-# [WatchSleuth - Searchable Watch Catalogs](http://www.watchsleuth.com)
-
 <img src=http://www.watchsleuth.com/images/SNK809.jpg width="500">
 
 
 
-(**Web site except:** WatchSleuth - solving the mystery of how to find the perfect watch by building online searchable watch catalogs for watches such as SEIKO 5) 
+(**Web site excerpt:** WatchSleuth - solving the mystery of how to find the perfect watch by building online searchable watch catalogs for watches such as SEIKO 5) 
+[WatchSleuth - Searchable Watch Catalogs](http://www.watchsleuth.com)

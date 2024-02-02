@@ -7,8 +7,6 @@ tags:
     - introduction-tag
     - mastodon-tag
 ---
-# [Mastodon – Decentralized social media](None)
-
 
 
 
@@ -17,3 +15,4 @@ more about Mastodon, the radically different, free and open-source
 decentralized social media platform.
 
 
+[Mastodon – Decentralized social media](None)

@@ -3,8 +3,6 @@ title: "Ideas are still cheap, right?"
 author: Pito Salas
 date: 2008-12-05
 ---
-# [Ideas are still cheap, right?](None)
-
 
 
 
@@ -35,3 +33,4 @@ A little more from the article:
 > they tell you…But they made a great fortune."
 
 
+[Ideas are still cheap, right?](None)

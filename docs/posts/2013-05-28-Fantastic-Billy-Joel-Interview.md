@@ -9,8 +9,6 @@ tags:
     - nyt
     - rock-and-roll
 ---
-# [Fantastic Billy Joel Interview](None)
-
 
 
 
@@ -38,3 +36,4 @@ working-and-not-giving-up-drinking.html?_r=0>):
 
 
 
+[Fantastic Billy Joel Interview](None)

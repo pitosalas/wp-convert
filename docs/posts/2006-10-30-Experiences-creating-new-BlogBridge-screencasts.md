@@ -3,8 +3,6 @@ title: "Experiences creating new BlogBridge screencasts"
 author: Pito Salas
 date: 2006-10-30
 ---
-# [Experiences creating new BlogBridge screencasts](None)
-
 
 
 >
@@ -43,3 +41,4 @@ date: 2006-10-30
 > Technorati Tags: [screencast](<http://www.technorati.com/tag/screencast>)
 
 
+[Experiences creating new BlogBridge screencasts](None)

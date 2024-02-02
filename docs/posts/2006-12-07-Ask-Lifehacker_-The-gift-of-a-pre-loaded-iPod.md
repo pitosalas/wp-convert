@@ -3,8 +3,6 @@ title: "Ask Lifehacker: The gift of a pre-loaded iPod"
 author: Pito Salas
 date: 2006-12-07
 ---
-# [Ask Lifehacker: The gift of a pre-loaded iPod](None)
-
 
 
 >
@@ -25,3 +23,4 @@ date: 2006-12-07
 > This is a really good idea! I will use it this holiday season!
 
 
+[Ask Lifehacker: The gift of a pre-loaded iPod](None)

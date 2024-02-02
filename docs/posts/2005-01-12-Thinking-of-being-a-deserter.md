@@ -3,8 +3,6 @@ title: "Thinking of being a deserter"
 author: Pito Salas
 date: 2005-01-12
 ---
-# [Thinking of being a deserter](None)
-
 
 I'm seriously thinking about starting to use a Macintosh for my day to day
 work computer instead of a PC! Can you believe it? Why?
@@ -49,3 +47,4 @@ mine for a year after he switched. He loved it. I switched a year after him. I
 feel the same."
 
 
+[Thinking of being a deserter](None)

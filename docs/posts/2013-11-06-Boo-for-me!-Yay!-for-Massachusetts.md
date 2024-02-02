@@ -7,8 +7,6 @@ tags:
     - massachusetts
     - tax
 ---
-# [Boo for me! Yay! for Massachusetts](None)
-
 
 
 
@@ -19,3 +17,4 @@ content/uploads/2013/11/3ae5c-screen20shot202013-11-0620at2010-33-4120am.png?w=5
 
 
 
+[Boo for me! Yay! for Massachusetts](None)

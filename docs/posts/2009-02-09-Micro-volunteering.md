@@ -3,8 +3,6 @@ title: "Micro volunteering"
 author: Pito Salas
 date: 2009-02-09
 ---
-# [Micro volunteering](None)
-
 
 
 
@@ -53,3 +51,4 @@ a new audience and putting a new spin on them, and that in itself is positive
 contribution that should be applauded.
 
 
+[Micro volunteering](None)

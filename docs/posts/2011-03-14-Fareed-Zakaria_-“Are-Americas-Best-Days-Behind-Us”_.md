@@ -7,8 +7,6 @@ tags:
     - time
     - USA
 ---
-# [Fareed Zakaria: “Are Americas Best Days Behind Us”?](None)
-
 
 
 
@@ -92,3 +90,4 @@ because:
 I probably will be branded as a socialist just for liking this article.
 
 
+[Fareed Zakaria: “Are Americas Best Days Behind Us”?](None)

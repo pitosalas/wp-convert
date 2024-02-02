@@ -13,10 +13,9 @@ tags:
     - review
     - robotics
 ---
-# [Getting Ready for ROS Part 7: Describing a robot with URDF](https://articulatedrobotics.xyz/ready-for-ros-7-urdf/)
-
 <img src=https://articulatedrobotics.xyz/media/assets/posts/ready-for-ros/thumbnail-urdf_small.png width="500">
 
 
 
-(**Web site except:** This looks like a pretty good and detailed article about URDF - Unified Robot Description Format - used for Describing a Robot) 
+(**Web site excerpt:** This looks like a pretty good and detailed article about URDF - Unified Robot Description Format - used for Describing a Robot) 
+[Getting Ready for ROS Part 7: Describing a robot with URDF](https://articulatedrobotics.xyz/ready-for-ros-7-urdf/)

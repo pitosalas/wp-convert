@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - Ruby
 ---
-# [Algorithmist](http://www.algorithmist.com/index.php/Main_Page)
-
 <img src=https://rdl.ink/render/http%3A%2F%2Fwww.algorithmist.com%2Findex.php%2FMain_Page width="500">
 
 
+[Algorithmist](http://www.algorithmist.com/index.php/Main_Page)

@@ -3,8 +3,6 @@ title: "Does this map look familiar?"
 author: Pito Salas
 date: 2004-11-25
 ---
-# [Does this map look familiar?](None)
-
 
 
 >>
@@ -33,3 +31,4 @@ certain sandwhich restaurant chain has stores. The relation between the two is
 a mystery to me too.]
 
 
+[Does this map look familiar?](None)

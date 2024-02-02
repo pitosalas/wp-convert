@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - sequel activerecord extensions ruby
 ---
-# [Arel with Wharel](https://dejimata.com/2018/5/30/arel-with-wharel)
-
 <img src=https://rdl.ink/render/https%3A%2F%2Fdejimata.com%2F2018%2F5%2F30%2Farel-with-wharel width="500">
 
 
 
-(**Web site except:** Wharel is a tiny little gem that uses the empty room pattern to make Arel queries easier to build.) 
+(**Web site excerpt:** Wharel is a tiny little gem that uses the empty room pattern to make Arel queries easier to build.) 
+[Arel with Wharel](https://dejimata.com/2018/5/30/arel-with-wharel)

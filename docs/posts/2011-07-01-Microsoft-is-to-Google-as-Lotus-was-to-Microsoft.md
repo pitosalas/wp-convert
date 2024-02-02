@@ -9,8 +9,6 @@ tags:
     - lotus
     - microsoft
 ---
-# [Microsoft is to Google as Lotus was to Microsoft](None)
-
 
 
 
@@ -59,3 +57,4 @@ for office workers,[…] and yet avoid cannibalizing a business that is its
 biggest single money-maker"_
 
 
+[Microsoft is to Google as Lotus was to Microsoft](None)

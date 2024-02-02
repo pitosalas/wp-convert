@@ -11,10 +11,9 @@ tags:
     - windows
     - review
 ---
-# [The macOS Ventura Feature that Changes the Way I Work](https://medium.com/@_alecfox/the-macos-ventura-feature-that-changes-the-way-i-work-4de02a20e905)
-
 <img src=https://miro.medium.com/max/1200/1*B6imb0g0KTt7x8DbBhNZQQ.png width="500">
 
 
 
-(**Web site except:** [Pito: Ok, for me, it's confusing and overly busy. But maybe I haven't figured it out yet...] I’ve tested Stage Manager for 3 months on the macOS Ventura beta and haven’t turned it off since.) 
+(**Web site excerpt:** [Pito: Ok, for me, it's confusing and overly busy. But maybe I haven't figured it out yet...] I’ve tested Stage Manager for 3 months on the macOS Ventura beta and haven’t turned it off since.) 
+[The macOS Ventura Feature that Changes the Way I Work](https://medium.com/@_alecfox/the-macos-ventura-feature-that-changes-the-way-i-work-4de02a20e905)

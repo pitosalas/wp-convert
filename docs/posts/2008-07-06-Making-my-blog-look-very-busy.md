@@ -3,8 +3,6 @@ title: "Making my blog look very busy"
 author: Pito Salas
 date: 2008-07-06
 ---
-# [Making my blog look very busy](None)
-
 
 
 
@@ -19,3 +17,4 @@ rattle off 6 or 7 posts and schedule them for publication in the coming days.
 Very efficient 🙂
 
 
+[Making my blog look very busy](None)

@@ -3,8 +3,6 @@ title: "[GEEKY] Best 24″ Flat Panel Display for a Mac Pro?"
 author: Pito Salas
 date: 2009-09-08
 ---
-# [[GEEKY] Best 24″ Flat Panel Display for a Mac Pro?](None)
-
 
 
 
@@ -28,3 +26,4 @@ microphone and camera. **Any suggestions**?
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[[GEEKY] Best 24″ Flat Panel Display for a Mac Pro?](None)

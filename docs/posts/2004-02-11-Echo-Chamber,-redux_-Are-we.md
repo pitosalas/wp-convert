@@ -3,8 +3,6 @@ title: "Echo Chamber, redux: Are we"
 author: Pito Salas
 date: 2004-02-11
 ---
-# [Echo Chamber, redux: Are we](None)
-
 
 
 >>
@@ -47,3 +45,4 @@ audience which is blogging. As it approaches **one** , you have to **wonder**.
 is there enough attention in the universe to **pay**?
 
 
+[Echo Chamber, redux: Are we](None)

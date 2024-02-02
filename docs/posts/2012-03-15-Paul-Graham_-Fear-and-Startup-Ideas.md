@@ -9,8 +9,6 @@ tags:
     - paul-graham
     - startups
 ---
-# [Paul Graham: Fear and Startup Ideas](None)
-
 
 
 
@@ -53,3 +51,4 @@ Paul Graham goes a step further:
 Read the article. It will inspire you!
 
 
+[Paul Graham: Fear and Startup Ideas](None)

@@ -3,8 +3,6 @@ title: "Patterns from the master"
 author: Pito Salas
 date: 2004-09-10
 ---
-# [Patterns from the master](None)
-
 
 
 >>
@@ -48,3 +46,4 @@ translated into your discipline. "
 read.](<http://www.patternlanguage.com/archive/ieee/ieeetext.htm>)**
 
 
+[Patterns from the master](None)

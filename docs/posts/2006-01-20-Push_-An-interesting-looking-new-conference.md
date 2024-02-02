@@ -3,8 +3,6 @@ title: "Push: An interesting looking new conference"
 author: Pito Salas
 date: 2006-01-20
 ---
-# [Push: An interesting looking new conference](None)
-
 
 
 >>
@@ -57,3 +55,4 @@ you there**!
 >> Technorati Tags: [conference](<http://www.technorati.com/tag/conference>)
 
 
+[Push: An interesting looking new conference](None)

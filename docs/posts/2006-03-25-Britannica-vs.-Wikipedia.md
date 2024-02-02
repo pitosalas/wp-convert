@@ -3,8 +3,6 @@ title: "Britannica vs. Wikipedia"
 author: Pito Salas
 date: 2006-03-25
 ---
-# [Britannica vs. Wikipedia](None)
-
 
 
 >>
@@ -57,3 +55,4 @@ information](<http://www.nature.com/nature/journal/v438/n7070/extref/438900a-s1.
 [wikipedia](<http://www.technorati.com/tag/wikipedia>)
 
 
+[Britannica vs. Wikipedia](None)

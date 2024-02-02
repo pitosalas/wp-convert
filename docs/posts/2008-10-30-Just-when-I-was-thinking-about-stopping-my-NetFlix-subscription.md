@@ -3,8 +3,6 @@ title: "Just when I was thinking about stopping my NetFlix subscription"
 author: Pito Salas
 date: 2008-10-30
 ---
-# [Just when I was thinking about stopping my NetFlix subscription](None)
-
 
 
 
@@ -27,3 +25,4 @@ monthly Tivo bill to get at this huge collection of movies. Wait, am I,
 really???
 
 
+[Just when I was thinking about stopping my NetFlix subscription](None)

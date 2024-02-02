@@ -3,8 +3,6 @@ title: "5 things to keep in mind when relying on S3 and similar SAAS services"
 author: Pito Salas
 date: 2008-02-19
 ---
-# [5 things to keep in mind when relying on S3 and similar SAAS services](None)
-
 
 
 
@@ -58,3 +56,4 @@ Here's why I say that:
   5. It is also feasible (and many do) to have parallel relationships with two totally different hosting services so if one shuts down, crashes, goes out of business, or whatever, you can seamlessly switch to the other.
 
 
+[5 things to keep in mind when relying on S3 and similar SAAS services](None)

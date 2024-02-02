@@ -3,8 +3,6 @@ title: "Watch out for the ‘Nigerian Scam"
 author: Pito Salas
 date: 2008-12-03
 ---
-# [Watch out for the ‘Nigerian Scam](None)
-
 
 
 
@@ -22,3 +20,4 @@ Central](<http://timesonline.typepad.com/technology/2008/11/this-woman-
 sent.html>). Amazing!
 
 
+[Watch out for the ‘Nigerian Scam](None)

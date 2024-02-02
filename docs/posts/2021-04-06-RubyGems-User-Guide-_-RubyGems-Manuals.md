@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - Ruby
 ---
-# [RubyGems User Guide | RubyGems Manuals](http://www.rubygems.org/read/book/1)
-
 <img src= width="500">
 
 
+[RubyGems User Guide | RubyGems Manuals](http://www.rubygems.org/read/book/1)

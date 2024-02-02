@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - teaching cs cosi
 ---
-# [EngageCSEdu is: | EngageCSEdu](https://www.engage-csedu.org)
-
 <img src=https://rdl.ink/render/https%3A%2F%2Fwww.engage-csedu.org width="500">
 
 
+[EngageCSEdu is: | EngageCSEdu](https://www.engage-csedu.org)

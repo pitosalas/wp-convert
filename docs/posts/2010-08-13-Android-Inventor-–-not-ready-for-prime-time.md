@@ -9,8 +9,6 @@ tags:
     - hype
     - new-york-times
 ---
-# [Android Inventor – not ready for prime time](None)
-
 
 
 
@@ -30,3 +28,4 @@ in more detail, and comes to more or less the same conclusion:
 > Times](<http://www.nytimes.com/2010/08/12/technology/personaltech/12pogue.html>))
 
 
+[Android Inventor – not ready for prime time](None)

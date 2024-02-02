@@ -9,8 +9,6 @@ tags:
     - handcounting
     - voting
 ---
-# [Elections: Hand counts are NOT the gold standard](None)
-
 
 
 
@@ -59,3 +57,4 @@ Bruce Schneier (a highly respected cryptography and security expert) says:
 > Blog)](<http://www.schneier.com/blog/archives/2012/02/error_rates_of.html>)
 
 
+[Elections: Hand counts are NOT the gold standard](None)

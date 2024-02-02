@@ -3,8 +3,6 @@ title: "CBS News’ Bob Schieffer"
 author: Pito Salas
 date: 2004-03-23
 ---
-# [CBS News’ Bob Schieffer](None)
-
 
 
 >>
@@ -18,3 +16,4 @@ Should be interesting. [Here's the schedule of the Cambridge
 Forum.](<http://www.cambridgeforum.org/cfweb/cfschedule.html>)
 
 
+[CBS News’ Bob Schieffer](None)

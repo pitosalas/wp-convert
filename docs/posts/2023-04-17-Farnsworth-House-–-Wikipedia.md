@@ -6,8 +6,6 @@ tags:
     - architecture
     - farnsworth
 ---
-# [Farnsworth House – Wikipedia](None)
-
 
 
 
@@ -15,3 +13,4 @@ tags:
 https://en.wikipedia.org/wiki/Farnsworth_House>) –
 
 
+[Farnsworth House – Wikipedia](None)

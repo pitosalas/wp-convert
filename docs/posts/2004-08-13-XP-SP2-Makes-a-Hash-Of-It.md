@@ -3,8 +3,6 @@ title: "XP SP2 Makes a Hash Of It"
 author: Pito Salas
 date: 2004-08-13
 ---
-# [XP SP2 Makes a Hash Of It](None)
-
 
 
 >>
@@ -61,3 +59,4 @@ And yes, I am back up again, **without SP2 installed.**
 >> **So I guess this is the exception that proves the rule.**
 
 
+[XP SP2 Makes a Hash Of It](None)

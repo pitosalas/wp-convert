@@ -6,8 +6,6 @@ tags:
     - judaism
     - orthodox
 ---
-# [Orthodoxy](None)
-
 
 
 
@@ -25,3 +23,4 @@ sanctimony-of-orthodox-judaism/>) because for me it was interesting reading:
 > of-orthodox-judaism/>)
 
 
+[Orthodoxy](None)

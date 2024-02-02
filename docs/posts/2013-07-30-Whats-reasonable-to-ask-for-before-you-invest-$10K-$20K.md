@@ -7,8 +7,6 @@ tags:
     - entrepreneurs
     - seed-investing
 ---
-# [Whats reasonable to ask for before you invest $10K-$20K](None)
-
 
 
 
@@ -27,3 +25,4 @@ need) to see before even considering this?
 Hmm. Am I asking too many questions for a 'mere' $10,000?
 
 
+[Whats reasonable to ask for before you invest $10K-$20K](None)

@@ -3,8 +3,6 @@ title: "[GEEKY] RSS Advisory board has a pulse again!"
 author: Pito Salas
 date: 2006-02-03
 ---
-# [[GEEKY] RSS Advisory board has a pulse again!](None)
-
 
 
 >>
@@ -42,3 +40,4 @@ development. **Let me know if I can help!
 [RSS](<http://www.technorati.com/tag/RSS>)
 
 
+[[GEEKY] RSS Advisory board has a pulse again!](None)

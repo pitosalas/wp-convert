@@ -15,10 +15,9 @@ tags:
     - compare
     - comparison
 ---
-# [Interactive Micro Four Thirds Lens List | M43 Lenses](https://www.m43lenses.com/)
-
 <img src=https://rdl.ink/render/https%3A%2F%2Fwww.m43lenses.com%2F width="500">
 
 
 
-(**Web site except:** M43 Lenses: Interactive Micro Four Thirds Lens List) 
+(**Web site excerpt:** M43 Lenses: Interactive Micro Four Thirds Lens List) 
+[Interactive Micro Four Thirds Lens List | M43 Lenses](https://www.m43lenses.com/)

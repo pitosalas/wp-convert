@@ -3,8 +3,6 @@ title: "[SEMI-GEEK] Are activation emails needed – and if so – how do we con
 author: Pito Salas
 date: 2007-02-22
 ---
-# [[SEMI-GEEK] Are activation emails needed – and if so – how do we convince you they aren’t spam?](None)
-
 
 
 
@@ -34,3 +32,4 @@ bestest) that insists on sidelining the email into the spam filter.
 actually makes it through? Any answers?
 
 
+[[SEMI-GEEK] Are activation emails needed – and if so – how do we convince you they aren’t spam?](None)

@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - howto performance Clix shell
 ---
-# [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
-
 <img src=https://repository-images.githubusercontent.com/245166720/f83acf80-9243-11eb-80f8-302e9a53427c width="500">
 
 
 
-(**Web site except:** A great new tool!) 
+(**Web site excerpt:** A great new tool!) 
+[ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)

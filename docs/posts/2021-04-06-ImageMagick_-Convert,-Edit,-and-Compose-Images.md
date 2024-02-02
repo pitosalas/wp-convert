@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - Ruby
 ---
-# [ImageMagick: Convert, Edit, and Compose Images](http://www.imagemagick.org/script/index.php)
-
 <img src=https://imagemagick.org/image/logo.png width="500">
 
 
 
-(**Web site except:** Create, Edit, Compose, or Convert Digital Images) 
+(**Web site excerpt:** Create, Edit, Compose, or Convert Digital Images) 
+[ImageMagick: Convert, Edit, and Compose Images](http://www.imagemagick.org/script/index.php)

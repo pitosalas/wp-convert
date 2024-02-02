@@ -8,8 +8,6 @@ tags:
     - git
     - scm
 ---
-# [Teach ’em GIT](None)
-
 
 
 
@@ -30,3 +28,4 @@ Medium](<https://medium.com/what-i-learned-building/78dc8e3f66f1>):
 
 
 
+[Teach ’em GIT](None)

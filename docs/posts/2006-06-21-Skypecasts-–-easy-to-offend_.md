@@ -3,8 +3,6 @@ title: "Skypecasts – easy to offend?"
 author: Pito Salas
 date: 2006-06-21
 ---
-# [Skypecasts – easy to offend?](None)
-
 
 
 >>
@@ -69,3 +67,4 @@ And then all was well.
 [skypecast](<http://www.technorati.com/tag/skypecast>)
 
 
+[Skypecasts – easy to offend?](None)

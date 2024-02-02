@@ -3,8 +3,6 @@ title: "Mysteries of printing Mac OS X Address Book labels"
 author: Pito Salas
 date: 2008-08-17
 ---
-# [Mysteries of printing Mac OS X Address Book labels](None)
-
 
 
 
@@ -20,3 +18,4 @@ baffling.
 _Originally posted on Feb 15, 2008. Reprinted courtesy of ReRuns plug-in._
 
 
+[Mysteries of printing Mac OS X Address Book labels](None)

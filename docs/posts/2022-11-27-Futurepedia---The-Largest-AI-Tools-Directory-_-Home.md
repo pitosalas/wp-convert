@@ -10,10 +10,9 @@ tags:
     - ai
     - converter
 ---
-# [Futurepedia - The Largest AI Tools Directory | Home](https://www.futurepedia.io/?utm_campaign=Recomendo&utm_medium=email&utm_source=Revue%20newsletter)
-
 <img src=https://i.imgur.com/ZG1wAgN.jpg width="500">
 
 
 
-(**Web site except:** Futurepedia is the largest AI tools directory. Browse 200+ AI tools in various categories like marketing, image generation and video editing. Search and filter the tools by categories, pricing and features.) 
+(**Web site excerpt:** Futurepedia is the largest AI tools directory. Browse 200+ AI tools in various categories like marketing, image generation and video editing. Search and filter the tools by categories, pricing and features.) 
+[Futurepedia - The Largest AI Tools Directory | Home](https://www.futurepedia.io/?utm_campaign=Recomendo&utm_medium=email&utm_source=Revue%20newsletter)

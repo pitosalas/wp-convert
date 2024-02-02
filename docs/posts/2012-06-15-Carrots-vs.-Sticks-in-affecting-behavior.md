@@ -9,8 +9,6 @@ tags:
     - navigation-tag
     - traffic
 ---
-# [Carrots vs. Sticks in affecting behavior](None)
-
 
 
 
@@ -49,3 +47,4 @@ Leather district, that might be rewarded.
 So a cool idea, but I wonder what actual traffic experts would say about it!
 
 
+[Carrots vs. Sticks in affecting behavior](None)

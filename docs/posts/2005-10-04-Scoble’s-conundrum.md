@@ -3,8 +3,6 @@ title: "Scoble’s conundrum"
 author: Pito Salas
 date: 2005-10-04
 ---
-# [Scoble’s conundrum](None)
-
 
 
 >>
@@ -69,3 +67,4 @@ better yet, let me give you a demo!
 [scoble](<http://www.technorati.com/tag/scoble>)
 
 
+[Scoble’s conundrum](None)

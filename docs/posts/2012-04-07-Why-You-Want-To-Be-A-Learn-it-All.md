@@ -8,8 +8,6 @@ tags:
     - study
     - youth
 ---
-# [Why You Want To Be A Learn-it-All](None)
-
 
 
 
@@ -82,3 +80,4 @@ believe this:
 [](<http://abovecrowd.files.wordpress.com/2012/03/gboro1xrgb.jpeg>)
 
 
+[Why You Want To Be A Learn-it-All](None)

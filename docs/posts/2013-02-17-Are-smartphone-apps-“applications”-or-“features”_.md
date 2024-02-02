@@ -8,8 +8,6 @@ tags:
     - industry
     - smartphon-tage
 ---
-# [Are smartphone apps “applications” or “features”?](None)
-
 
 
 
@@ -37,3 +35,4 @@ interesting!](<http://blog.payne.org/2013/02/16/this-is-not-your-fathers-
 software-industry/>)
 
 
+[Are smartphone apps “applications” or “features”?](None)

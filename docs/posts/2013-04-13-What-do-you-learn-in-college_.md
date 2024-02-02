@@ -11,8 +11,6 @@ tags:
     - sheryl-sandberg
     - university
 ---
-# [What do you learn in college?](None)
-
 
 
 
@@ -48,3 +46,4 @@ commonplace across colleges. In my experience this is one of the major
 differences of how Olin approaches its mission.
 
 
+[What do you learn in college?](None)

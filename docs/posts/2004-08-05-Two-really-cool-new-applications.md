@@ -3,8 +3,6 @@ title: "Two really cool new applications"
 author: Pito Salas
 date: 2004-08-05
 ---
-# [Two really cool new applications](None)
-
 
 
 >>
@@ -38,3 +36,4 @@ Carpe](<http://www.clew.us/>))
 proving that no one can make money with software anymore.
 
 
+[Two really cool new applications](None)

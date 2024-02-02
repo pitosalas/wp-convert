@@ -7,8 +7,6 @@ tags:
     - nyt
     - shopping
 ---
-# [Getting the best deals… Check out decide.com](None)
-
 
 
 
@@ -37,3 +35,4 @@ site and if it works, it could be very useful. The site is
 Oh, the site is [decide.com](<http://www.decide.com/>).
 
 
+[Getting the best deals… Check out decide.com](None)

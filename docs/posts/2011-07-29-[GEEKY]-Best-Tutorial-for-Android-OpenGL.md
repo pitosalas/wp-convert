@@ -7,8 +7,6 @@ tags:
     - opengl
     - Programming
 ---
-# [[GEEKY] Best Tutorial for Android OpenGL](None)
-
 
 
 
@@ -23,3 +21,4 @@ part-i/>)**
 'Nuf said.
 
 
+[[GEEKY] Best Tutorial for Android OpenGL](None)

@@ -10,10 +10,9 @@ tags:
     - N119
     - project-ideas
 ---
-# [RobustFieldAutonomyLab/LeGO-LOAM: LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM)
-
 <img src=https://opengraph.githubassets.com/40e85ded919fd0d9e76b3f0e91bce142412484eeb68c7a5f4e676acce99bad46/RobustFieldAutonomyLab/LeGO-LOAM width="500">
 
 
 
-(**Web site except:** LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain - RobustFieldAutonomyLab/LeGO-LOAM: LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping...) 
+(**Web site excerpt:** LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain - RobustFieldAutonomyLab/LeGO-LOAM: LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping...) 
+[RobustFieldAutonomyLab/LeGO-LOAM: LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM)

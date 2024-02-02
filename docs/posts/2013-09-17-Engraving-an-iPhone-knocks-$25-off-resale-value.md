@@ -9,8 +9,6 @@ tags:
     - trade-in
     - value
 ---
-# [Engraving an iPhone knocks $25 off resale value](None)
-
 
 
 
@@ -24,3 +22,4 @@ $220.
 Word to the wise: Don't engrave.
 
 
+[Engraving an iPhone knocks $25 off resale value](None)

@@ -3,8 +3,6 @@ title: "Out of body experiences"
 author: Pito Salas
 date: 2007-08-27
 ---
-# [Out of body experiences](None)
-
 
 
 
@@ -23,3 +21,4 @@ But here are some additional links about it:
 [youtube=http://www.youtube.com/watch?v=4PQAc_Z2OfQ&w=425&h=350]
 
 
+[Out of body experiences](None)

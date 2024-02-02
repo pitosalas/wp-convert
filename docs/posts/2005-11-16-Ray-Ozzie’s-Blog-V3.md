@@ -3,8 +3,6 @@ title: "Ray Ozzie’s Blog V3"
 author: Pito Salas
 date: 2005-11-16
 ---
-# [Ray Ozzie’s Blog V3](None)
-
 
 
 >>
@@ -42,3 +40,4 @@ stuff](</weblogs/archives/000951.php>).
 [microsoft](<http://www.technorati.com/tag/microsoft>)
 
 
+[Ray Ozzie’s Blog V3](None)

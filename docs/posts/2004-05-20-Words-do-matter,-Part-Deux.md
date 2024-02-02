@@ -3,8 +3,6 @@ title: "Words do matter, Part Deux"
 author: Pito Salas
 date: 2004-05-20
 ---
-# [Words do matter, Part Deux](None)
-
 
 
 >>
@@ -16,3 +14,4 @@ classic Dilbert:
 > Words](https://i0.wp.com/www.dilbert.com/comics/dilbert/archive/images/dilbert2073207040504.gif?w=584)
 
 
+[Words do matter, Part Deux](None)

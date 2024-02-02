@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - ruby tasks monad
 ---
-# [Concurrent Ruby with Tasks](https://www.reddit.com/r/ruby/comments/9sda4c/concurrent_ruby_with_tasks?sh=00d70b86&st=JNUDGQFF)
-
 <img src=https://www.redditstatic.com/new-icon.png width="500">
 
 
 
-(**Web site except:** Posted in r/ruby by u/drewolson • 27 points and 8 comments) 
+(**Web site excerpt:** Posted in r/ruby by u/drewolson • 27 points and 8 comments) 
+[Concurrent Ruby with Tasks](https://www.reddit.com/r/ruby/comments/9sda4c/concurrent_ruby_with_tasks?sh=00d70b86&st=JNUDGQFF)

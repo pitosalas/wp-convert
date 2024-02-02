@@ -3,8 +3,6 @@ title: "[QUASI-GEEK] Dan Bricklin describes how fiber to the home is installed i
 author: Pito Salas
 date: 2005-08-27
 ---
-# [[QUASI-GEEK] Dan Bricklin describes how fiber to the home is installed in the real world](None)
-
 
 
 >>
@@ -47,3 +45,4 @@ for?…
 [verizon](<http://www.technorati.com/tag/verizon>)
 
 
+[[QUASI-GEEK] Dan Bricklin describes how fiber to the home is installed in the real world](None)

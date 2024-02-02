@@ -3,8 +3,6 @@ title: "[QUASI-GEEK]A trip to the market"
 author: Pito Salas
 date: 2005-09-11
 ---
-# [[QUASI-GEEK]A trip to the market](None)
-
 
 
 >>
@@ -35,3 +33,4 @@ to any Enthusiasm 🙂
 [gasoline](<http://www.technorati.com/tag/gasoline>)
 
 
+[[QUASI-GEEK]A trip to the market](None)

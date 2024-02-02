@@ -3,8 +3,6 @@ title: "[Geeky] RMagick and memory leaks"
 author: Pito Salas
 date: 2009-06-19
 ---
-# [[Geeky] RMagick and memory leaks](None)
-
 
 
 
@@ -51,3 +49,4 @@ yet whether there are other ones, but for now,
 [RMagick](<http://rmagick.rubyforge.org/>) wins for me!
 
 
+[[Geeky] RMagick and memory leaks](None)

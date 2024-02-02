@@ -3,8 +3,6 @@ title: "Sinatra Forms Params – Learn.co"
 author: Pito Salas
 date: 2022-03-10
 ---
-# [Sinatra Forms Params – Learn.co](None)
-
 
 
 
@@ -17,3 +15,4 @@ developer tools on Learn.co.
 March 10, 2022 at 02:45PM
 
 
+[Sinatra Forms Params – Learn.co](None)

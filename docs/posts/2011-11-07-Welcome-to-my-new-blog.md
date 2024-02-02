@@ -8,8 +8,6 @@ tags:
     - squarespace
     - wordpress
 ---
-# [Welcome to my new blog](None)
-
 
 
 
@@ -23,3 +21,4 @@ and really like the fresher look of the blog compared to the previous
 incarnation. I will certainly keep you posted!
 
 
+[Welcome to my new blog](None)

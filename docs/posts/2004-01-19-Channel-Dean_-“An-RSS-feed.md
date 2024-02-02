@@ -3,8 +3,6 @@ title: "Channel Dean: “An RSS feed"
 author: Pito Salas
 date: 2004-01-19
 ---
-# [Channel Dean: “An RSS feed](None)
-
 
 
 >>
@@ -50,3 +48,4 @@ intellectual property and copyright?
 Syndication, etc.) so exciting.
 
 
+[Channel Dean: “An RSS feed](None)

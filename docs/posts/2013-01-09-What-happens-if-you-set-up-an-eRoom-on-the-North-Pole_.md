@@ -6,8 +6,6 @@ tags:
     - eroom
     - igloo
 ---
-# [What happens if you set up an eRoom on the North Pole?](None)
-
 
 
 
@@ -24,3 +22,4 @@ say:
 > tour)](<http://www.igloosoftware.com/tour>)
 
 
+[What happens if you set up an eRoom on the North Pole?](None)

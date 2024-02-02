@@ -3,8 +3,6 @@ title: "Apple Store Tax Funny Business?"
 author: Pito Salas
 date: 2009-07-24
 ---
-# [Apple Store Tax Funny Business?](None)
-
 
 
 
@@ -28,3 +26,4 @@ look like a 5% tax to me!
 **What do you think? 9.8%! Who do I call?**
 
 
+[Apple Store Tax Funny Business?](None)

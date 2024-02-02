@@ -8,8 +8,6 @@ tags:
     - endings
     - reading
 ---
-# [Do you finish books?](None)
-
 
 
 
@@ -57,3 +55,4 @@ article!](<http://www.nybooks.com/blogs/nyrblog/2012/mar/13/why-finish-
 books/>)
 
 
+[Do you finish books?](None)

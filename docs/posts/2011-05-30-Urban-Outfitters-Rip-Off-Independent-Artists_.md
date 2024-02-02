@@ -6,8 +6,6 @@ tags:
     - twitter
     - urban-outfitters
 ---
-# [Urban Outfitters Rip Off Independent Artists?](None)
-
 
 
 
@@ -30,3 +28,4 @@ original design was truly original.
 Things are never as simple as they appear…
 
 
+[Urban Outfitters Rip Off Independent Artists?](None)

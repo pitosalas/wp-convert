@@ -3,8 +3,6 @@ title: "Ultimate baby name choser"
 author: Pito Salas
 date: 2005-11-07
 ---
-# [Ultimate baby name choser](None)
-
 
 
 >>
@@ -23,3 +21,4 @@ Incredibly cool!
 >> Technorati Tags: [babyboomers](<http://www.technorati.com/tag/babyboomers>)
 
 
+[Ultimate baby name choser](None)

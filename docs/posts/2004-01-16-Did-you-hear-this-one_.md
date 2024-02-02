@@ -3,8 +3,6 @@ title: "Did you hear this one?"
 author: Pito Salas
 date: 2004-01-16
 ---
-# [Did you hear this one?](None)
-
 
 
 >>
@@ -15,3 +13,4 @@ safe. I tell you, do not be concerned about eating beef. If we see a reduction
 in the consumption of beef in this country, then, _the cows have won! ' "_
 
 
+[Did you hear this one?](None)

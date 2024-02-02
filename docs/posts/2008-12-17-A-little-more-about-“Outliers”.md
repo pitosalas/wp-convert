@@ -3,8 +3,6 @@ title: "A little more about “Outliers”"
 author: Pito Salas
 date: 2008-12-17
 ---
-# [A little more about “Outliers”](None)
-
 
 
 
@@ -42,3 +40,4 @@ But in the end, I am not so sure:
 [gladwell nyt outliers](<http://technorati.com/tag/gladwell%20nyt%20outliers>)
 
 
+[A little more about “Outliers”](None)

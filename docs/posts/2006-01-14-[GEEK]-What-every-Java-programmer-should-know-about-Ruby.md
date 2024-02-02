@@ -3,8 +3,6 @@ title: "[GEEK] What every Java programmer should know about Ruby"
 author: Pito Salas
 date: 2006-01-14
 ---
-# [[GEEK] What every Java programmer should know about Ruby](None)
-
 
 
 >>
@@ -26,3 +24,4 @@ Ruby"](<http://onestepback.org/articles/10things/index.html>))
 >> Technorati Tags: [ruby](<http://www.technorati.com/tag/ruby>)
 
 
+[[GEEK] What every Java programmer should know about Ruby](None)

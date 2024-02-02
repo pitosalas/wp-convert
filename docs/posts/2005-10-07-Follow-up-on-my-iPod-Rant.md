@@ -3,8 +3,6 @@ title: "Follow-up on my iPod Rant"
 author: Pito Salas
 date: 2005-10-07
 ---
-# [Follow-up on my iPod Rant](None)
-
 
 
 >>
@@ -41,3 +39,4 @@ on the nano. Funny.
 >> Technorati Tags: [iPod](<http://www.technorati.com/tag/iPod>)
 
 
+[Follow-up on my iPod Rant](None)

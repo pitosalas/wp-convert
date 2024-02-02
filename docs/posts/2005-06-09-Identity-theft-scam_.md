@@ -3,8 +3,6 @@ title: "Identity theft scam?"
 author: Pito Salas
 date: 2005-06-09
 ---
-# [Identity theft scam?](None)
-
 
 
 >>
@@ -60,3 +58,4 @@ thought this was some kind of **identity theft scam**.
 >> Technorati Tags: [interesting](<http://technorati.com/tag/interesting>)
 
 
+[Identity theft scam?](None)

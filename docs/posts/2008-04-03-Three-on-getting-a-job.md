@@ -3,8 +3,6 @@ title: "Three on getting a job"
 author: Pito Salas
 date: 2008-04-03
 ---
-# [Three on getting a job](None)
-
 
 
 
@@ -28,3 +26,4 @@ us on to these three fun links for job hunters (Dan are you listening?):
 >
 
 
+[Three on getting a job](None)

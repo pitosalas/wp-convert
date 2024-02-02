@@ -9,8 +9,6 @@ tags:
     - sucks
     - verizon-tag
 ---
-# [Letting out my Comcast frustrations](None)
-
 
 
 
@@ -53,3 +51,4 @@ tags:
 > Bye Bye. Pito Salas"
 
 
+[Letting out my Comcast frustrations](None)

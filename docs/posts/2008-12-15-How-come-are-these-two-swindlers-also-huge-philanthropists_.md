@@ -3,8 +3,6 @@ title: "How come are these two swindlers also huge philanthropists?"
 author: Pito Salas
 date: 2008-12-15
 ---
-# [How come are these two swindlers also huge philanthropists?](None)
-
 
 
 
@@ -30,3 +28,4 @@ Oh well.
 [charity swindlers](<http://technorati.com/tag/charity%20swindlers>)
 
 
+[How come are these two swindlers also huge philanthropists?](None)

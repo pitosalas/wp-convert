@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - software scaling architecture database
 ---
-# [What Is New About NewSQL?](https://softwareengineeringdaily.com/2019/02/24/what-is-new-about-newsql)
-
 <img src=https://softwareengineeringdaily.com/wp-content/uploads/2019/02/NewSQL.jpg width="500">
 
 
 
-(**Web site except:** Pretty interesting review of a world I didn’t know we’ll.) 
+(**Web site excerpt:** Pretty interesting review of a world I didn’t know we’ll.) 
+[What Is New About NewSQL?](https://softwareengineeringdaily.com/2019/02/24/what-is-new-about-newsql)

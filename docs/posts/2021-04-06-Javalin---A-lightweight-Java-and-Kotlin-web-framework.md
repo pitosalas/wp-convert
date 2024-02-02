@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - kotlin java web framework
 ---
-# [Javalin - A lightweight Java and Kotlin web framework](https://javalin.io)
-
 <img src=https://javalin.io/img/javalin.png width="500">
 
 
+[Javalin - A lightweight Java and Kotlin web framework](https://javalin.io)

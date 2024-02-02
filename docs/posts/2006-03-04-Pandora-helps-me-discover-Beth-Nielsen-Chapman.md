@@ -3,8 +3,6 @@ title: "Pandora helps me discover Beth Nielsen Chapman"
 author: Pito Salas
 date: 2006-03-04
 ---
-# [Pandora helps me discover Beth Nielsen Chapman](None)
-
 
 
 >>
@@ -51,3 +49,4 @@ charge!
 >> Technorati Tags: [music](<http://www.technorati.com/tag/music>)
 
 
+[Pandora helps me discover Beth Nielsen Chapman](None)

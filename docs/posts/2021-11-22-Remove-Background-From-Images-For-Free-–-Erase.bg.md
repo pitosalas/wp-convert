@@ -13,10 +13,9 @@ tags:
     - free
     - photo
 ---
-# [Remove Background From Images For Free – Erase.bg](https://www.erase.bg/en/)
-
 <img src=https://cdn-1.erase.bg/assets/erasebg_background.png width="500">
 
 
 
-(**Web site except:** Remove background from images of humans, animals or objects and download high-resolution images for free. You can also edit and resize images as you like.) 
+(**Web site excerpt:** Remove background from images of humans, animals or objects and download high-resolution images for free. You can also edit and resize images as you like.) 
+[Remove Background From Images For Free – Erase.bg](https://www.erase.bg/en/)

@@ -3,8 +3,6 @@ title: "Making my blog look very busy"
 author: Pito Salas
 date: 2007-12-16
 ---
-# [Making my blog look very busy](None)
-
 
 
 
@@ -20,3 +18,4 @@ schedule them for publication in the coming days.
 Very efficient 🙂
 
 
+[Making my blog look very busy](None)

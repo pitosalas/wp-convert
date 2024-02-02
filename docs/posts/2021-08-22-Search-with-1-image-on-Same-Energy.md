@@ -12,10 +12,9 @@ tags:
     - similar
     - cooltool
 ---
-# [Search with 1 image on Same Energy](https://same.energy/)
-
 <img src=https://imageapi.same.energy/image?id=x9vCn width="500">
 
 
 
-(**Web site except:** Same Energy is a search engine for finding beautiful images.) 
+(**Web site excerpt:** Same Energy is a search engine for finding beautiful images.) 
+[Search with 1 image on Same Energy](https://same.energy/)

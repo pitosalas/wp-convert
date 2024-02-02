@@ -3,8 +3,6 @@ title: "Geek Dinner a great success!"
 author: Pito Salas
 date: 2006-02-16
 ---
-# [Geek Dinner a great success!](None)
-
 
 
 >>
@@ -37,3 +35,4 @@ photos](<http://www.flickr.com/photos/hybernaut/sets/72057594065157024/show/>)!
 >> Technorati Tags: [geekdinner](<http://www.technorati.com/tag/geekdinner>)
 
 
+[Geek Dinner a great success!](None)

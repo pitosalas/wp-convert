@@ -9,8 +9,6 @@ tags:
     - tumblr
     - yahoo
 ---
-# [Interesting view on Tumblr/Yahoo deal](None)
-
 
 
 
@@ -62,3 +60,4 @@ Seems like an interesting book, well worth reading:
 
 
 
+[Interesting view on Tumblr/Yahoo deal](None)

@@ -8,8 +8,6 @@ tags:
     - no-tagise
     - video
 ---
-# [Happy New Year from Curaçao!](None)
-
 
 
 
@@ -18,3 +16,4 @@ It felt like a war zone without the danger!
 [youtube http://www.youtube.com/watch?v=ofUdhro7G2o&w=420&h=315]
 
 
+[Happy New Year from Curaçao!](None)

@@ -3,8 +3,6 @@ title: "Stewart Alsop blogging!"
 author: Pito Salas
 date: 2005-10-13
 ---
-# [Stewart Alsop blogging!](None)
-
 
 
 >>
@@ -28,3 +26,4 @@ world, so let's give him a huge audience 🙂
 [stewartalsop](<http://www.technorati.com/tag/stewartalsop>)
 
 
+[Stewart Alsop blogging!](None)

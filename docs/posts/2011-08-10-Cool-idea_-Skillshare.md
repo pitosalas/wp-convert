@@ -3,8 +3,6 @@ title: "Cool idea: Skillshare"
 author: Pito Salas
 date: 2011-08-10
 ---
-# [Cool idea: Skillshare](None)
-
 
 
 
@@ -25,3 +23,4 @@ teacher](<http://feedproxy.google.com/~r/OmMalik/~3/jmPjkNddZhI/>)
 I can't wait to see this in Boston!
 
 
+[Cool idea: Skillshare](None)

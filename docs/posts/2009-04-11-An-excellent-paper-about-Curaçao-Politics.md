@@ -9,8 +9,6 @@ tags:
     - politics
     - referendum
 ---
-# [An excellent paper about Curaçao Politics](None)
-
 
 
 
@@ -47,3 +45,4 @@ Here's a taste:
 [netherlands](<http://technorati.com/tag/netherlands>)
 
 
+[An excellent paper about Curaçao Politics](None)

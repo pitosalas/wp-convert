@@ -3,8 +3,6 @@ title: "[Geek] Debugging focus problems"
 author: Pito Salas
 date: 2004-05-28
 ---
-# [[Geek] Debugging focus problems](None)
-
 
 
 >>
@@ -26,3 +24,4 @@ people off. My new standard is that I will precede the title with [geek] to
 give early warning and allow people to skip it.
 
 
+[[Geek] Debugging focus problems](None)

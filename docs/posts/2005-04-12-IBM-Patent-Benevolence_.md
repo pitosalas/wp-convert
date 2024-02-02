@@ -3,8 +3,6 @@ title: "IBM Patent Benevolence?"
 author: Pito Salas
 date: 2005-04-12
 ---
-# [IBM Patent Benevolence?](None)
-
 
 
 >>
@@ -31,3 +29,4 @@ that the PR value of _**open sourcing**_ these worthless patents might
 actually be the most valuable of all!
 
 
+[IBM Patent Benevolence?](None)

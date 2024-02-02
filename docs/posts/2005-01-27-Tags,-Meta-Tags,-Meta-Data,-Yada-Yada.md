@@ -3,8 +3,6 @@ title: "Tags, Meta Tags, Meta Data, Yada Yada"
 author: Pito Salas
 date: 2005-01-27
 ---
-# [Tags, Meta Tags, Meta Data, Yada Yada](None)
-
 
 It is of course impossible to keep up with the avalanche of discussion about
 the topic of tags, _folksonomies_ , _tagonomies_. [David
@@ -47,3 +45,4 @@ point](<http://www.corante.com/many/archives/2005/01/07/folksonomies_controlled_
 At least I am in good company.
 
 
+[Tags, Meta Tags, Meta Data, Yada Yada](None)

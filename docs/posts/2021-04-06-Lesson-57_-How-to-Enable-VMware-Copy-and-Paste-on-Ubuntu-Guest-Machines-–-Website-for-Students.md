@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - Robotics
 ---
-# [Lesson 57: How to Enable VMware Copy and Paste on Ubuntu Guest Machines – Website for Students](https://websiteforstudents.com/lesson-57-enable-vmware-copy-paste-guest-machines)
-
 <img src=https://websiteforstudents.com/wp-content/uploads/2016/12/ubuntu-3344434_640.png width="500">
 
 
 
-(**Web site except:** This brief tutorial shows students and new users how to enable drag n' and drop as well as copy and paste between the guest machines and the host) 
+(**Web site excerpt:** This brief tutorial shows students and new users how to enable drag n' and drop as well as copy and paste between the guest machines and the host) 
+[Lesson 57: How to Enable VMware Copy and Paste on Ubuntu Guest Machines – Website for Students](https://websiteforstudents.com/lesson-57-enable-vmware-copy-paste-guest-machines)

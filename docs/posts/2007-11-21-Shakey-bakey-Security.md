@@ -3,8 +3,6 @@ title: "Shakey-bakey Security"
 author: Pito Salas
 date: 2007-11-21
 ---
-# [Shakey-bakey Security](None)
-
 
 
 
@@ -14,3 +12,4 @@ a matter of holding them together and applying a vigorous shake." (from
 shaking-connects-gadgets-securely.html>)
 
 
+[Shakey-bakey Security](None)

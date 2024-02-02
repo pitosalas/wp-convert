@@ -9,8 +9,6 @@ tags:
     - open-source
     - washington-tag-post
 ---
-# [How The Post is replacing Mapbox with open source solutions – Kevin Schaul](None)
-
 
 
 
@@ -22,3 +20,4 @@ are a common pattern to show a geographic trend and let readers explore the
 data …
 
 
+[How The Post is replacing Mapbox with open source solutions – Kevin Schaul](None)

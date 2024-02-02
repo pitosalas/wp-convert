@@ -3,8 +3,6 @@ title: "Insights on the world of mashups"
 author: Pito Salas
 date: 2006-02-21
 ---
-# [Insights on the world of mashups](None)
-
 
 
 >>
@@ -53,3 +51,4 @@ questions.](<http://www.blogbridge.com/archives/2006/01/blogbridge_as_a.php>)
 [mashupcamp](<http://www.technorati.com/tag/mashupcamp>)
 
 
+[Insights on the world of mashups](None)

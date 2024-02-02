@@ -3,8 +3,6 @@ title: "BlogBridge has spiffy new icons."
 author: Pito Salas
 date: 2004-03-17
 ---
-# [BlogBridge has spiffy new icons.](None)
-
 
 
 >>
@@ -17,3 +15,4 @@ email and I will tell you where to download it. (It's not ready for prime time
 yet, though, just for playing around.)
 
 
+[BlogBridge has spiffy new icons.](None)

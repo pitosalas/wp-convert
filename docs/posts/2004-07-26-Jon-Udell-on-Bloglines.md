@@ -3,8 +3,6 @@ title: "Jon Udell on Bloglines"
 author: Pito Salas
 date: 2004-07-26
 ---
-# [Jon Udell on Bloglines](None)
-
 
 
 >>
@@ -64,3 +62,4 @@ left off**.
 >> What do you think?
 
 
+[Jon Udell on Bloglines](None)

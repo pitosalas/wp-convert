@@ -22,8 +22,6 @@ tags:
     - similar-services
     - subscription-tags
 ---
-# [Rhapsody vs. iTunes](None)
-
 
 
 
@@ -62,3 +60,4 @@ heard before.
 **And who cares about 'owning' a track anyway?**
 
 
+[Rhapsody vs. iTunes](None)

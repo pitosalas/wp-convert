@@ -3,8 +3,6 @@ title: "OpenStreetMap – Let’s map the whole planet, one person at a time"
 author: Pito Salas
 date: 2008-11-28
 ---
-# [OpenStreetMap – Let’s map the whole planet, one person at a time](None)
-
 
 
 
@@ -34,3 +32,4 @@ And very likely the results will be more up to date, more detailed and more
 accurate.
 
 
+[OpenStreetMap – Let’s map the whole planet, one person at a time](None)

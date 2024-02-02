@@ -3,8 +3,6 @@ title: "BlogBridge – Quiet but Busy!"
 author: Pito Salas
 date: 2004-05-12
 ---
-# [BlogBridge – Quiet but Busy!](None)
-
 
 
 >>
@@ -19,3 +17,4 @@ more useful. Expect lots of additions to the Specs page as we move into
 another phase of development.
 
 
+[BlogBridge – Quiet but Busy!](None)

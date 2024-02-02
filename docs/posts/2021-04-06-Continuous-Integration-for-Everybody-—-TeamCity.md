@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - ruby rails tools ci
 ---
-# [Continuous Integration for Everybody — TeamCity](http://www.jetbrains.com/teamcity)
-
 <img src=https://resources.jetbrains.com/storage/products/teamcity/img/meta/preview.png width="500">
 
 
 
-(**Web site except:** TeamCity: Hassle-Free CI and CD Server by JetBrains) 
+(**Web site excerpt:** TeamCity: Hassle-Free CI and CD Server by JetBrains) 
+[Continuous Integration for Everybody — TeamCity](http://www.jetbrains.com/teamcity)

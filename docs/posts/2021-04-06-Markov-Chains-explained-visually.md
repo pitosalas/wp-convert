@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - markovchains visual explanation
 ---
-# [Markov Chains explained visually](http://setosa.io/ev/markov-chains)
-
 <img src=https://setosa.io/ev/markov-chains/fb-thumb.png width="500">
 
 
 
-(**Web site except:** A really clear visual explanation of what a Markova chain is and what it is good for.) 
+(**Web site excerpt:** A really clear visual explanation of what a Markova chain is and what it is good for.) 
+[Markov Chains explained visually](http://setosa.io/ev/markov-chains)

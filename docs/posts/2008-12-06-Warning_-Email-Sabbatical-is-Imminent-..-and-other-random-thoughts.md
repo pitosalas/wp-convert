@@ -3,8 +3,6 @@ title: "Warning: Email Sabbatical is Imminent .. and other random thoughts"
 author: Pito Salas
 date: 2008-12-06
 ---
-# [Warning: Email Sabbatical is Imminent .. and other random thoughts](None)
-
 
 
 
@@ -27,3 +25,4 @@ thoughts](<http://feeds.feedburner.com/~r/zephoria/thoughts/~3/476456764/warning
 …
 
 
+[Warning: Email Sabbatical is Imminent .. and other random thoughts](None)

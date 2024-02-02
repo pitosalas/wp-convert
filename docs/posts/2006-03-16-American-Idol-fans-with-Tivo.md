@@ -3,8 +3,6 @@ title: "American Idol fans with Tivo"
 author: Pito Salas
 date: 2006-03-16
 ---
-# [American Idol fans with Tivo](None)
-
 
 
 >>
@@ -37,3 +35,4 @@ out!](<http://blog.tivo.com/tivo_blog/2006/03/idol_speculatio_1.html>)
 [tivo](<http://www.technorati.com/tag/tivo>)
 
 
+[American Idol fans with Tivo](None)

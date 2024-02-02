@@ -3,8 +3,6 @@ title: "cv_bridge/Tutorials/ConvertingBetweenROSImagesAndOpenCVImagesPython – 
 author: Pito Salas
 date: 2022-03-13
 ---
-# [cv_bridge/Tutorials/ConvertingBetweenROSImagesAndOpenCVImagesPython – ROS Wiki](None)
-
 
 
 
@@ -14,3 +12,4 @@ Wiki](<http://wiki.ros.org/cv_bridge/Tutorials/ConvertingBetweenROSImagesAndOpen
 March 14, 2022 at 01:32AM
 
 
+[cv_bridge/Tutorials/ConvertingBetweenROSImagesAndOpenCVImagesPython – ROS Wiki](None)

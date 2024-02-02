@@ -3,8 +3,6 @@ title: "Weapons of civic mass destruction"
 author: Pito Salas
 date: 2009-04-25
 ---
-# [Weapons of civic mass destruction](None)
-
 
 
 
@@ -47,3 +45,4 @@ to **mutually assured destruction** ("MAD").
 _Originally posted on Oct 11, 2008. Reprinted courtesy of ReRuns plug-in._
 
 
+[Weapons of civic mass destruction](None)

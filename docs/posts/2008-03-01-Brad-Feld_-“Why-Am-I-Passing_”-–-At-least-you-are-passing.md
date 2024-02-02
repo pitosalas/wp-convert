@@ -3,8 +3,6 @@ title: "Brad Feld: “Why Am I Passing?” – At least you are passing"
 author: Pito Salas
 date: 2008-03-01
 ---
-# [Brad Feld: “Why Am I Passing?” – At least you are passing](None)
-
 
 
 
@@ -33,3 +31,4 @@ kinds of reasons. It's **refreshing and it should be appreciated** when a
 potential investor reaches a definitive conclusion, even if it's a "No."
 
 
+[Brad Feld: “Why Am I Passing?” – At least you are passing](None)

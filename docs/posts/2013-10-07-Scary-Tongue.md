@@ -7,8 +7,6 @@ tags:
     - cigarettes
     - smoking
 ---
-# [Scary Tongue](None)
-
 
 
 
@@ -19,3 +17,4 @@ cigarettes that I happened across in an airport in Canada. Pretty gross. yes,
 I am convinced!
 
 
+[Scary Tongue](None)

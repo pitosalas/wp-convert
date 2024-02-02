@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - regex ruby utilities tools
 ---
-# [tom-lord/regexp-examples](https://github.com/tom-lord/regexp-examples)
-
 <img src=https://avatars.githubusercontent.com/u/7573396?s=400&v=4 width="500">
 
 
 
-(**Web site except:** This is very cool and useful too!) 
+(**Web site excerpt:** This is very cool and useful too!) 
+[tom-lord/regexp-examples](https://github.com/tom-lord/regexp-examples)

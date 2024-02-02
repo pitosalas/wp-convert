@@ -3,8 +3,6 @@ title: "Funny: Nasa’s “Colbert Room”"
 author: Pito Salas
 date: 2009-03-24
 ---
-# [Funny: Nasa’s “Colbert Room”](None)
-
 
 
 
@@ -15,3 +13,4 @@ dyn/content/article/2009/03/23/AR2009032303041.html?wprss=rss_politics/fedpage>)
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[Funny: Nasa’s “Colbert Room”](None)

@@ -3,8 +3,6 @@ title: "Dan Bricklin doing some interesting podcasting"
 author: Pito Salas
 date: 2005-06-04
 ---
-# [Dan Bricklin doing some interesting podcasting](None)
-
 
 
 >>
@@ -36,3 +34,4 @@ licenses.](<http://www.mass.gov/Aitd/docs/quickrefchart.xls>)
 [legal](<http://technorati.com/tag/legal>)
 
 
+[Dan Bricklin doing some interesting podcasting](None)

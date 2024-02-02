@@ -3,8 +3,6 @@ title: "[GEEKY] Solution to something that has annoyed me"
 author: Pito Salas
 date: 2009-02-20
 ---
-# [[GEEKY] Solution to something that has annoyed me](None)
-
 
 
 
@@ -15,3 +13,4 @@ control.html>)." Thanks.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[[GEEKY] Solution to something that has annoyed me](None)

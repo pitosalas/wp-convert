@@ -3,8 +3,6 @@ title: "Counting blog impact"
 author: Pito Salas
 date: 2005-05-31
 ---
-# [Counting blog impact](None)
-
 
 
 >>
@@ -29,3 +27,4 @@ a lot." ( **from** Wall Street Journal Online)
 >> Technorati Tags: [blog](<http://technorati.com/tag/blog>)
 
 
+[Counting blog impact](None)

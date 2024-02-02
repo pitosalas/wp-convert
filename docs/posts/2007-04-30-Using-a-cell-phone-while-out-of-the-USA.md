@@ -3,8 +3,6 @@ title: "Using a cell phone while out of the USA"
 author: Pito Salas
 date: 2007-04-30
 ---
-# [Using a cell phone while out of the USA](None)
-
 
 
 
@@ -25,3 +23,4 @@ From reading these, T-Mobile seems to be the right choice for me and where I
 live. Do you use T-Mobile? How do you like it?
 
 
+[Using a cell phone while out of the USA](None)

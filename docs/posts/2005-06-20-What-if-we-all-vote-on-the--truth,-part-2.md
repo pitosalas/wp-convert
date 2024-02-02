@@ -3,8 +3,6 @@ title: "What if we all vote on the  truth, part 2"
 author: Pito Salas
 date: 2005-06-20
 ---
-# [What if we all vote on the  truth, part 2](None)
-
 
 
 >>
@@ -84,3 +82,4 @@ splash,0,1349109.story>))
 [wikipedia](<http://technorati.com/tag/wikipedia>)
 
 
+[What if we all vote on the  truth, part 2](None)

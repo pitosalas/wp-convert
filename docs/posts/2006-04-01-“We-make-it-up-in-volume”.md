@@ -3,8 +3,6 @@ title: "“We make it up in volume”"
 author: Pito Salas
 date: 2006-04-01
 ---
-# [“We make it up in volume”](None)
-
 
 
 >>
@@ -59,3 +57,4 @@ expectation that we are **stuck with monopolies** and hegemonies that are so
 totally locked in. No-one can afford to compete!
 
 
+[“We make it up in volume”](None)

@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - Weather
 ---
-# [Crazy Egg - build heatmaps and track clicks](https://www.crazyegg.com/plans)
-
 <img src= width="500">
 
 
+[Crazy Egg - build heatmaps and track clicks](https://www.crazyegg.com/plans)

@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - saas soa rant google amazon apple
 ---
-# [Stevey's Google Platforms Rant · GitHub](https://gist.github.com/chitchcock/1281611)
-
 <img src=https://github.githubassets.com/images/modules/gists/gist-og-image.png width="500">
 
 
 
-(**Web site except:** I am not sure I agree with all of this but it does make for interesting and thought provoking reading.) 
+(**Web site excerpt:** I am not sure I agree with all of this but it does make for interesting and thought provoking reading.) 
+[Stevey's Google Platforms Rant · GitHub](https://gist.github.com/chitchcock/1281611)

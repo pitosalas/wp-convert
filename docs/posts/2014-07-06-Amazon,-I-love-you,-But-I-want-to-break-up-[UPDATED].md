@@ -7,8 +7,6 @@ tags:
     - amazon-tag
     - lame
 ---
-# [Amazon, I love you, But I want to break up [UPDATED]](None)
-
 
 
 
@@ -65,3 +63,4 @@ Here's what their response email says:
 > https://www.amazon.com/gp/help/rsvp/rsvp-mi.html?q=acc1
 
 
+[Amazon, I love you, But I want to break up [UPDATED]](None)

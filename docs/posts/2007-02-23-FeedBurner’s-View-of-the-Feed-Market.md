@@ -3,8 +3,6 @@ title: "FeedBurner’s View of the Feed Market"
 author: Pito Salas
 date: 2007-02-23
 ---
-# [FeedBurner’s View of the Feed Market](None)
-
 
 
 
@@ -30,3 +28,4 @@ Questions)](<http://blogs.feedburner.com/feedburner/>):
 > Market](<http://feeds.feedburner.com/%7Er/BurnThisRSS2/%7E3/94307599/feedburners_view_of_the_feed_m.php>))
 
 
+[FeedBurner’s View of the Feed Market](None)

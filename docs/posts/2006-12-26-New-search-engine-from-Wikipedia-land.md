@@ -3,8 +3,6 @@ title: "New search engine from Wikipedia-land"
 author: Pito Salas
 date: 2006-12-26
 ---
-# [New search engine from Wikipedia-land](None)
-
 
 
 >
@@ -31,3 +29,4 @@ a-google-rival/>))"
 > another pretty good article introducing the idea from TimesOnline.
 
 
+[New search engine from Wikipedia-land](None)

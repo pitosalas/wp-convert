@@ -3,8 +3,6 @@ title: "All you ever wanted to know about Crypto"
 author: Pito Salas
 date: 2005-11-16
 ---
-# [All you ever wanted to know about Crypto](None)
-
 
 
 >>
@@ -20,3 +18,4 @@ on the subject. ( **Via**
 >> Technorati Tags: [crypto](<http://www.technorati.com/tag/crypto>)
 
 
+[All you ever wanted to know about Crypto](None)

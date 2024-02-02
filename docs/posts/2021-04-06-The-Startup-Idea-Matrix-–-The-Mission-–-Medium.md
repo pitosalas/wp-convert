@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - Softw Entrepreneurship
 ---
-# [The Startup Idea Matrix – The Mission – Medium](https://medium.com/the-mission/the-startup-idea-matrix-182bf2e6a53a#.iysajmbqe)
-
 <img src=https://miro.medium.com/max/1200/1*1Bo_yGSLXbylNKFn4u1JJg.png width="500">
 
 
 
-(**Web site except:** You can follow my latest writing at ScreenshotEssays.com) 
+(**Web site excerpt:** You can follow my latest writing at ScreenshotEssays.com) 
+[The Startup Idea Matrix – The Mission – Medium](https://medium.com/the-mission/the-startup-idea-matrix-182bf2e6a53a#.iysajmbqe)

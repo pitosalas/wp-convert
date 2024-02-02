@@ -3,8 +3,6 @@ title: "New BlogBridge Alpha"
 author: Pito Salas
 date: 2004-11-20
 ---
-# [New BlogBridge Alpha](None)
-
 
 
 >>
@@ -56,3 +54,4 @@ users.](<http://www.blogbridge.com/update064.html>)
 > Enjoy!
 
 
+[New BlogBridge Alpha](None)

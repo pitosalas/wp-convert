@@ -8,8 +8,6 @@ tags:
     - startup
     - vc
 ---
-# [Startup vs. Company](None)
-
 
 
 
@@ -71,3 +69,4 @@ Just something to keep in mind the next time you say or hear a statement like
 I began with.
 
 
+[Startup vs. Company](None)

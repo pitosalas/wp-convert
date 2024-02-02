@@ -3,8 +3,6 @@ title: "I fear for the gullible user"
 author: Pito Salas
 date: 2007-02-14
 ---
-# [I fear for the gullible user](None)
-
 
 
 >
@@ -71,3 +69,4 @@ inked directly to your checking account, not credit cards.
 > Scary!
 
 
+[I fear for the gullible user](None)

@@ -3,8 +3,6 @@ title: "Rumorville: Microsoft – Amazon"
 author: Pito Salas
 date: 2008-01-11
 ---
-# [Rumorville: Microsoft – Amazon](None)
-
 
 
 
@@ -35,3 +33,4 @@ this, and that Microsoft has said they want it.
 But what do I know, it's just a rumor.
 
 
+[Rumorville: Microsoft – Amazon](None)

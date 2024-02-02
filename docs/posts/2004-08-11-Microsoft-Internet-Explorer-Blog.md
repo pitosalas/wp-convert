@@ -3,8 +3,6 @@ title: "Microsoft Internet Explorer Blog"
 author: Pito Salas
 date: 2004-08-11
 ---
-# [Microsoft Internet Explorer Blog](None)
-
 
 
 >>
@@ -20,3 +18,4 @@ about what's going on with a product that affects me a lot? [It's
 great!](<http://blogs.msdn.com/ie/archive/2004/08/10/212008.aspx>)
 
 
+[Microsoft Internet Explorer Blog](None)

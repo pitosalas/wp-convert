@@ -3,8 +3,6 @@ title: "Optical illusion fun"
 author: Pito Salas
 date: 2006-02-16
 ---
-# [Optical illusion fun](None)
-
 
 
 >>
@@ -44,3 +42,4 @@ at a small part. It doesn't move. Amusing!
 >> Technorati Tags: [funny](<http://www.technorati.com/tag/funny>)
 
 
+[Optical illusion fun](None)

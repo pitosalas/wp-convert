@@ -3,8 +3,6 @@ title: "Pecking order? Puleeze! Joi Ito"
 author: Pito Salas
 date: 2004-02-13
 ---
-# [Pecking order? Puleeze! Joi Ito](None)
-
 
 
 >>
@@ -46,3 +44,4 @@ how about the "Wait here while I go refill my drink, (and never return.)."
 Some day I should write an article!
 
 
+[Pecking order? Puleeze! Joi Ito](None)

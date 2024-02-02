@@ -10,8 +10,6 @@ tags:
     - vc
     - venture-capital
 ---
-# [A fascinating story of Curt Shilling’s game company’s demise](None)
-
 
 
 
@@ -37,3 +35,4 @@ Sox?"](</imported-20111103233638/2007/7/18/can-shilling-focus-on-38-studios-
 and-still-be-a-great-for-th.html>)
 
 
+[A fascinating story of Curt Shilling’s game company’s demise](None)

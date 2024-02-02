@@ -3,8 +3,6 @@ title: "Jeff Jarvis on the whole Imus situation"
 author: Pito Salas
 date: 2007-04-14
 ---
-# [Jeff Jarvis on the whole Imus situation](None)
-
 
 
 
@@ -25,3 +23,4 @@ Check out [this post](<http://www.buzzmachine.com/2007/04/13/on-imus/>) from
 > ( **from** : [On Imus](<http://www.buzzmachine.com/2007/04/13/on-imus/>))
 
 
+[Jeff Jarvis on the whole Imus situation](None)

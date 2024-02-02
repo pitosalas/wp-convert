@@ -9,8 +9,6 @@ tags:
     - techno-taglogy
     - TV
 ---
-# [Bizarro News from Fox](None)
-
 
 
 
@@ -26,3 +24,4 @@ deck>):
 
 
 
+[Bizarro News from Fox](None)

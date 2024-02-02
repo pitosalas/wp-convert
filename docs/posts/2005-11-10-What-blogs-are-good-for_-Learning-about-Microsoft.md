@@ -3,8 +3,6 @@ title: "What blogs are good for: Learning about Microsoft"
 author: Pito Salas
 date: 2005-11-10
 ---
-# [What blogs are good for: Learning about Microsoft](None)
-
 
 
 >>
@@ -42,3 +40,4 @@ TechTalk](<http://blogs.msdn.com/techtalk/archive/2005/11/03/488850.aspx>))
 >> Technorati Tags: [microsoft](<http://www.technorati.com/tag/microsoft>)
 
 
+[What blogs are good for: Learning about Microsoft](None)

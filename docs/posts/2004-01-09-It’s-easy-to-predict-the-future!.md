@@ -6,8 +6,6 @@ tags:
     - future
     - prediction-tags
 ---
-# [It’s easy to predict the future!](None)
-
 
 
 >>
@@ -64,3 +62,4 @@ hard of course is to predict _**when.**_
 **Without that, the prediction is more or less useless.** What do you think?
 
 
+[It’s easy to predict the future!](None)

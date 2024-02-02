@@ -6,8 +6,7 @@ link: "http://jfredmacdonald.com/worldwarone1914-1918/articles.html"
 cover: "" 
 date: 2021-04-06
 ---
-# [Articles from 1914 - 1918 | World War One | J. Fred McDonald](http://jfredmacdonald.com/worldwarone1914-1918/articles.html)
-
 <img src= width="500">
 
 
+[Articles from 1914 - 1918 | World War One | J. Fred McDonald](http://jfredmacdonald.com/worldwarone1914-1918/articles.html)

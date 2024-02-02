@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - ruby
 ---
-# [Ruby5 - The Latest News in the Ruby and Rails Community](http://ruby5.envylabs.com)
-
 <img src= width="500">
 
 
+[Ruby5 - The Latest News in the Ruby and Rails Community](http://ruby5.envylabs.com)

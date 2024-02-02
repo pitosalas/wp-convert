@@ -3,8 +3,6 @@ title: "An actual “trial balloon”"
 author: Pito Salas
 date: 2006-01-30
 ---
-# [An actual “trial balloon”](None)
-
 
 
 >>
@@ -35,3 +33,4 @@ this parenthesized meta-joke.)
 [democonference](<http://www.technorati.com/tag/democonference>)
 
 
+[An actual “trial balloon”](None)

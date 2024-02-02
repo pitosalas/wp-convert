@@ -3,8 +3,6 @@ title: "[GEEKY] New FireFox add-in for del.icio.us close but not yet"
 author: Pito Salas
 date: 2007-03-04
 ---
-# [[GEEKY] New FireFox add-in for del.icio.us close but not yet](None)
-
 
 
 
@@ -18,3 +16,4 @@ hogging the CPU. I look forward to the next rev, because the concept is right
 on.
 
 
+[[GEEKY] New FireFox add-in for del.icio.us close but not yet](None)

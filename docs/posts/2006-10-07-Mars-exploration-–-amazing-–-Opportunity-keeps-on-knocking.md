@@ -3,8 +3,6 @@ title: "Mars exploration – amazing – Opportunity keeps on knocking"
 author: Pito Salas
 date: 2006-10-07
 ---
-# [Mars exploration – amazing – Opportunity keeps on knocking](None)
-
 
 
 >
@@ -18,3 +16,4 @@ date: 2006-10-07
 > Reference"). You gotta love this stuff!
 
 
+[Mars exploration – amazing – Opportunity keeps on knocking](None)

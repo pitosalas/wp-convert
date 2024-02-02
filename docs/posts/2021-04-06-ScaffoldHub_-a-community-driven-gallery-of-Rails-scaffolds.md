@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - rails
 ---
-# [ScaffoldHub: a community driven gallery of Rails scaffolds](http://www.scaffoldhub.org)
-
 <img src=https://rdl.ink/render/http%3A%2F%2Fwww.scaffoldhub.org width="500">
 
 
+[ScaffoldHub: a community driven gallery of Rails scaffolds](http://www.scaffoldhub.org)

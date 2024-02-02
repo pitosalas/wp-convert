@@ -3,8 +3,6 @@ title: "Is Apple trying to buy off “Fake Steve” or is it April 1 in December
 author: Pito Salas
 date: 2014-06-28
 ---
-# [Is Apple trying to buy off “Fake Steve” or is it April 1 in December?](None)
-
 
 
 
@@ -30,3 +28,4 @@ Lyons](<https://www.blogger.com/comment.g?blogID=32454861&postID=520824725209041
 _Originally posted on Dec 23, 2007. Reprinted courtesy of ReRuns plug-in._
 
 
+[Is Apple trying to buy off “Fake Steve” or is it April 1 in December?](None)

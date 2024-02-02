@@ -3,8 +3,6 @@ title: "TechCrunch Boston"
 author: Pito Salas
 date: 2007-11-19
 ---
-# [TechCrunch Boston](None)
-
 
 
 
@@ -36,3 +34,4 @@ people in one evening, especially if you aren't counting the winks and nods.
 And by the way, what's all this winking you're doing anyway? 🙂
 
 
+[TechCrunch Boston](None)

@@ -3,8 +3,6 @@ title: "“Pure Entrepreneurship” article in tbe Boston Globe"
 author: Pito Salas
 date: 2004-12-27
 ---
-# [“Pure Entrepreneurship” article in tbe Boston Globe](None)
-
 
 ["Pure Entrepeneurs", according to this article in the Boston
 Globe,](<http://www.boston.com/business/technology/articles/2004/12/27/its_the_pure_entrepreneur_who_often_leads_the_way?pg=full>)
@@ -28,3 +26,4 @@ understand that they need the product a pure entrepreneur is developing._
 called "loopy and obsessed" **high praise**!
 
 
+[“Pure Entrepreneurship” article in tbe Boston Globe](None)

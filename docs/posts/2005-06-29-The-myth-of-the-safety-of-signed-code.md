@@ -3,8 +3,6 @@ title: "The myth of the safety of signed code"
 author: Pito Salas
 date: 2005-06-29
 ---
-# [The myth of the safety of signed code](None)
-
 
 
 >>
@@ -61,3 +59,4 @@ the help from the OS vendors in gaining **undeserved** trust from end users.
 clothes!
 
 
+[The myth of the safety of signed code](None)

@@ -3,8 +3,6 @@ title: "Cool links for June 17th"
 author: Pito Salas
 date: 2006-06-18
 ---
-# [Cool links for June 17th](None)
-
 
 
 >>
@@ -43,3 +41,4 @@ Subway](<http://www.time.com/time/nation/printout/0,8816,1205309,00.html>)
 >>
 
 
+[Cool links for June 17th](None)

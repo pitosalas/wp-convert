@@ -3,8 +3,6 @@ title: "Dilbert blog does it again (photo added)"
 author: Pito Salas
 date: 2008-03-08
 ---
-# [Dilbert blog does it again (photo added)](None)
-
 
 
 
@@ -24,3 +22,4 @@ Blog](<http://dilbertblog.typepad.com/the_dilbert_blog/>):
 > all.html>))
 
 
+[Dilbert blog does it again (photo added)](None)

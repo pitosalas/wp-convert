@@ -3,8 +3,6 @@ title: "Stewart Alsop, Droid Doesn’t, Google UI"
 author: Pito Salas
 date: 2009-12-01
 ---
-# [Stewart Alsop, Droid Doesn’t, Google UI](None)
-
 
 
 
@@ -49,3 +47,4 @@ post, and, maybe I will!
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[Stewart Alsop, Droid Doesn’t, Google UI](None)

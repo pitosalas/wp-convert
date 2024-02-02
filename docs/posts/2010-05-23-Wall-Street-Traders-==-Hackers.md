@@ -3,8 +3,6 @@ title: "Wall Street Traders == Hackers"
 author: Pito Salas
 date: 2010-05-23
 ---
-# [Wall Street Traders == Hackers](None)
-
 
 
 
@@ -41,3 +39,4 @@ perfect analogy:
 > Rules"](<http://www.nytimes.com/2010/05/23/weekinreview/23goodman.html>))
 
 
+[Wall Street Traders == Hackers](None)

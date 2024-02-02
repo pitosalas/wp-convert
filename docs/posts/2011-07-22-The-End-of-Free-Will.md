@@ -3,8 +3,6 @@ title: "The End of Free Will"
 author: Pito Salas
 date: 2011-07-22
 ---
-# [The End of Free Will](None)
-
 
 
 
@@ -23,3 +21,4 @@ Will](<http://dilbert.com/blog/entry/the_end_of_free_will/>)( **from**
 Dilbert Blog often has crazy excursions of fancy intellectual humor!
 
 
+[The End of Free Will](None)

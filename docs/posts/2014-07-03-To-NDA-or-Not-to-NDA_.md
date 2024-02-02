@@ -6,8 +6,6 @@ tags:
     - nda
     - vc
 ---
-# [To NDA or Not to NDA?](None)
-
 
 
 
@@ -28,3 +26,4 @@ just like them,” he said, “they’ve made the easier and less morally defens
 position — no N.D.A.s — the coin of the realm.”
 
 
+[To NDA or Not to NDA?](None)

@@ -6,8 +6,6 @@ tags:
     - fon-tagtsize
     - safari
 ---
-# [Mac Mystery](None)
-
 
 
 
@@ -26,3 +24,4 @@ pixels. This is something else.
 I can't figure it out and neither can google. Do you know?
 
 
+[Mac Mystery](None)

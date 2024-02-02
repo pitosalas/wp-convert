@@ -3,8 +3,6 @@ title: "Is this a good idea?"
 author: Pito Salas
 date: 2004-12-03
 ---
-# [Is this a good idea?](None)
-
 
 
 >>
@@ -28,3 +26,4 @@ of food from the Middle East, and it would be easy to tamper with that."
 > saying that!
 
 
+[Is this a good idea?](None)

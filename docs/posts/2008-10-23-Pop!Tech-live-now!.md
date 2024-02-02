@@ -3,8 +3,6 @@ title: "Pop!Tech live now!"
 author: Pito Salas
 date: 2008-10-23
 ---
-# [Pop!Tech live now!](None)
-
 
 
 
@@ -15,3 +13,4 @@ this year. However, here it is, streaming LIVE from Camden. Wish I was there!
 Pop!Tech](<http://www.poptech.org/live/>)
 
 
+[Pop!Tech live now!](None)

@@ -3,8 +3,6 @@ title: "Wikipedia on a map"
 author: Pito Salas
 date: 2007-12-01
 ---
-# [Wikipedia on a map](None)
-
 
 
 
@@ -22,3 +20,4 @@ about.
 Check out [Wikipedia Vision ](<http://www.lkozma.net/wpv/index.html>)
 
 
+[Wikipedia on a map](None)

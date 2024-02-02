@@ -7,8 +7,6 @@ tags:
     - google
     - techcrunch
 ---
-# [G+ Where Art Thou?](None)
-
 
 
 
@@ -37,3 +35,4 @@ charge-of-the-like-
 brigade/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29>).
 
 
+[G+ Where Art Thou?](None)

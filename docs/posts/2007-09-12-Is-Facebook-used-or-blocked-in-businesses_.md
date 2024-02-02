@@ -3,8 +3,6 @@ title: "Is Facebook used or blocked in businesses?"
 author: Pito Salas
 date: 2007-09-12
 ---
-# [Is Facebook used or blocked in businesses?](None)
-
 
 
 
@@ -20,3 +18,4 @@ haven't fully formed my own yet, but here's another data point:
 What do you think?
 
 
+[Is Facebook used or blocked in businesses?](None)

@@ -13,10 +13,9 @@ tags:
     - devops
     - explainer
 ---
-# [What is Steampipe?](https://zercurity.medium.com/what-is-steampipe-8c6d1276a8a0)
-
 <img src=https://miro.medium.com/max/1200/1*6kJ3hqFNr5Xz5b8ZINZEGA.png width="500">
 
 
 
-(**Web site except:** Seems useful for someone. Just putting it on this list to track it. Here's what the author says: "Steampipe is an fantastic tool from Turbot. Steampipe allows you to easily ask questions about your Cloud and SaaS Infrastructure") 
+(**Web site excerpt:** Seems useful for someone. Just putting it on this list to track it. Here's what the author says: "Steampipe is an fantastic tool from Turbot. Steampipe allows you to easily ask questions about your Cloud and SaaS Infrastructure") 
+[What is Steampipe?](https://zercurity.medium.com/what-is-steampipe-8c6d1276a8a0)

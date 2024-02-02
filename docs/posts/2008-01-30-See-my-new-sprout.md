@@ -3,8 +3,6 @@ title: "See my new sprout"
 author: Pito Salas
 date: 2008-01-30
 ---
-# [See my new sprout](None)
-
 
 
 
@@ -34,3 +32,4 @@ and even include actions which get measured separately.
 The possibilities are **great**!
 
 
+[See my new sprout](None)

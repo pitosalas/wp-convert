@@ -11,8 +11,6 @@ tags:
     - mobile
     - web
 ---
-# [I’ll be teaching a course at Brandeis University](None)
-
 
 
 
@@ -47,3 +45,4 @@ Incubator](<http://docs.google.com/View?id=ah8kcntpcgb9_29dpdk3thp>)
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[I’ll be teaching a course at Brandeis University](None)

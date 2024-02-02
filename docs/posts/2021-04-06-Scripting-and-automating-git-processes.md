@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - scripting automation cli ruby bash tips
 ---
-# [Scripting and automating git processes](https://stackoverflow.com/questions/3878624/how-do-i-programmatically-determine-if-there-are-uncommitted-changes/41646552)
-
 <img src=https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded width="500">
 
 
 
-(**Web site except:** This one is pretty eclectic but if you find yourself writing a script in ruby or python or bash and you need to respond in the logic to what's going on in git, then you will find some very useful tips here.) 
+(**Web site excerpt:** This one is pretty eclectic but if you find yourself writing a script in ruby or python or bash and you need to respond in the logic to what's going on in git, then you will find some very useful tips here.) 
+[Scripting and automating git processes](https://stackoverflow.com/questions/3878624/how-do-i-programmatically-determine-if-there-are-uncommitted-changes/41646552)

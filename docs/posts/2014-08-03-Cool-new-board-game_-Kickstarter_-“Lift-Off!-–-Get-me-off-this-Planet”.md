@@ -3,8 +3,6 @@ title: "Cool new board game: Kickstarter: “Lift Off! – Get me off this Plane
 author: Pito Salas
 date: 2014-08-03
 ---
-# [Cool new board game: Kickstarter: “Lift Off! – Get me off this Planet”](None)
-
 
 
 
@@ -26,3 +24,4 @@ campaign.](<https://www.kickstarter.com/projects/1655781518/lift-off-get-me-
 off-this-planet>) Are you? You should!
 
 
+[Cool new board game: Kickstarter: “Lift Off! – Get me off this Planet”](None)

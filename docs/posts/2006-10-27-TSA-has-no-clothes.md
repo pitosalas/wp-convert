@@ -3,8 +3,6 @@ title: "TSA has no clothes"
 author: Pito Salas
 date: 2006-10-27
 ---
-# [TSA has no clothes](None)
-
 
 
 >
@@ -18,3 +16,4 @@ date: 2006-10-27
 > Generator](<http://www.dubfire.net/boarding_pass/>)
 
 
+[TSA has no clothes](None)

@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - music classical library sheetmusic
 ---
-# [IMSLP/Petrucci Music Library: Free Public Domain Sheet Music](http://imslp.org/wiki/Main_Page)
-
 <img src=https://rdl.ink/render/http%3A%2F%2Fimslp.org%2Fwiki%2FMain_Page width="500">
 
 
 
-(**Web site except:** Great resource) 
+(**Web site excerpt:** Great resource) 
+[IMSLP/Petrucci Music Library: Free Public Domain Sheet Music](http://imslp.org/wiki/Main_Page)

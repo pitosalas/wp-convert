@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - culture news literature books philosophy daily
 ---
-# [Arts & Letters Daily - ideas, criticism, debate](http://www.aldaily.com)
-
 <img src=http://s3.amazonaws.com/assets.aldaily.com/images/twittercard-aldaily.png width="500">
 
 
 
-(**Web site except:** Philosophy, literature, ideas, criticism, history, art, music from The Chronicle of Higher Education.) 
+(**Web site excerpt:** Philosophy, literature, ideas, criticism, history, art, music from The Chronicle of Higher Education.) 
+[Arts & Letters Daily - ideas, criticism, debate](http://www.aldaily.com)

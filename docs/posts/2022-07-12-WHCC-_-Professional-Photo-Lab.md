@@ -10,10 +10,9 @@ tags:
     - enlargement
     - services
 ---
-# [WHCC | Professional Photo Lab](https://www.whcc.com/)
-
 <img src=https://whcc-com-prod-images0.imgix.net/images/whcc_default-seo-image.jpg?fm=jpg&w=1200&h=630&fit=crop&crop=focalpoint&fp-x=.5&fp-y=.5 width="500">
 
 
 
-(**Web site except:** WHCC is the premier provider of professional photography printing, products, and services beyond the camera — helping professional photographers thrive in their craft and the business of photography.) 
+(**Web site excerpt:** WHCC is the premier provider of professional photography printing, products, and services beyond the camera — helping professional photographers thrive in their craft and the business of photography.) 
+[WHCC | Professional Photo Lab](https://www.whcc.com/)

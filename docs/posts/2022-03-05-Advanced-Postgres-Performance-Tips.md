@@ -13,10 +13,9 @@ tags:
     - index
     - query
 ---
-# [Advanced Postgres Performance Tips](https://thoughtbot.com/blog/advanced-postgres-performance-tips)
-
 <img src=https://images.thoughtbot.com/blog-vellum-image-uploads/PbDCVAVRWCyg0dnx4KwC_PEV.png width="500">
 
 
 
-(**Web site except:** What do you do when indexes aren’t enough?) 
+(**Web site excerpt:** What do you do when indexes aren’t enough?) 
+[Advanced Postgres Performance Tips](https://thoughtbot.com/blog/advanced-postgres-performance-tips)

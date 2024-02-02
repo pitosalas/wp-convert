@@ -3,8 +3,6 @@ title: "Sorry, but I have to share this"
 author: Pito Salas
 date: 2005-06-03
 ---
-# [Sorry, but I have to share this](None)
-
 
 
 >>
@@ -27,3 +25,4 @@ date: 2005-06-03
 [UI](<http://technorati.com/tag/UI>)
 
 
+[Sorry, but I have to share this](None)

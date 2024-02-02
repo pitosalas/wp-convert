@@ -3,8 +3,6 @@ title: "Ray Kurzweil Responds"
 author: Pito Salas
 date: 2010-08-21
 ---
-# [Ray Kurzweil Responds](None)
-
 
 
 
@@ -38,3 +36,4 @@ Here's a typically articulate and persuasive rebuttal from Ray Kurzweil:
 > kurzweil-does-not-understand-the-brain>))
 
 
+[Ray Kurzweil Responds](None)

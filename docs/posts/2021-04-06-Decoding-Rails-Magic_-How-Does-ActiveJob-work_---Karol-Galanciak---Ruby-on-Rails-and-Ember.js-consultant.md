@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - rails magic
 ---
-# [Decoding Rails Magic: How Does ActiveJob work? - Karol Galanciak - Ruby on Rails and Ember.js consultant](https://karolgalanciak.com/blog/2016/09/25/decoding-rails-magic-how-does-activejob-work)
-
 <img src=https://rdl.ink/render/https%3A%2F%2Fkarolgalanciak.com%2Fblog%2F2016%2F09%2F25%2Fdecoding-rails-magic-how-does-activejob-work width="500">
 
 
 
-(**Web site except:** Executing background jobs is quite a common feature in many of the web applications. Switching between different background processing frameworks used to be ...) 
+(**Web site excerpt:** Executing background jobs is quite a common feature in many of the web applications. Switching between different background processing frameworks used to be ...) 
+[Decoding Rails Magic: How Does ActiveJob work? - Karol Galanciak - Ruby on Rails and Ember.js consultant](https://karolgalanciak.com/blog/2016/09/25/decoding-rails-magic-how-does-activejob-work)

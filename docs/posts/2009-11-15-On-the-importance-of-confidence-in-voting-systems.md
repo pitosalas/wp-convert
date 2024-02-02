@@ -3,8 +3,6 @@ title: "On the importance of confidence in voting systems"
 author: Pito Salas
 date: 2009-11-15
 ---
-# [On the importance of confidence in voting systems](None)
-
 
 
 
@@ -59,3 +57,4 @@ personal opinion.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[On the importance of confidence in voting systems](None)

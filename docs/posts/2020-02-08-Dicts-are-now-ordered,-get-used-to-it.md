@@ -3,8 +3,6 @@ title: "Dicts are now ordered, get used to it"
 author: Pito Salas
 date: 2020-02-08
 ---
-# [Dicts are now ordered, get used to it](None)
-
 
 
 
@@ -13,3 +11,4 @@ Dicts are now ordered, get used to it
 ordered/en/](<https://softwaremaniacs.org/blog/2020/02/05/dicts-ordered/en/>)
 
 
+[Dicts are now ordered, get used to it](None)

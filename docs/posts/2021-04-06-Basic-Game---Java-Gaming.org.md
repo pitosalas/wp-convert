@@ -6,8 +6,7 @@ link: "http://www.java-gaming.org/index.php?topic=21919.0"
 cover: "" 
 date: 2021-04-06
 ---
-# [Basic Game - Java-Gaming.org](http://www.java-gaming.org/index.php?topic=21919.0)
-
 <img src= width="500">
 
 
+[Basic Game - Java-Gaming.org](http://www.java-gaming.org/index.php?topic=21919.0)

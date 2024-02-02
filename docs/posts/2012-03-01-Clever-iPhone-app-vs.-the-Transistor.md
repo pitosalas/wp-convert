@@ -8,8 +8,6 @@ tags:
     - inno-tagvation-tag
     - transistor
 ---
-# [Clever iPhone app vs. the Transistor](None)
-
 
 
 
@@ -44,3 +42,4 @@ and leads to this:
 Excellent points and a **useful distinction**.
 
 
+[Clever iPhone app vs. the Transistor](None)

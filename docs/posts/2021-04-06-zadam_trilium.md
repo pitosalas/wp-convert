@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - notes markdown
 ---
-# [zadam/trilium](https://github.com/zadam/trilium)
-
 <img src=https://avatars.githubusercontent.com/u/617641?s=400&v=4 width="500">
 
 
 
-(**Web site except:** Haven’t tried this myself yet, but it seems very useful!) 
+(**Web site excerpt:** Haven’t tried this myself yet, but it seems very useful!) 
+[zadam/trilium](https://github.com/zadam/trilium)

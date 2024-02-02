@@ -3,8 +3,6 @@ title: "More fun with sprouts"
 author: Pito Salas
 date: 2008-02-01
 ---
-# [More fun with sprouts](None)
-
 
 
 
@@ -22,3 +20,4 @@ Of interest is that it took me about 5 minutes to make this flash animation
 while I was watching the Dems debate. Pretty cool.
 
 
+[More fun with sprouts](None)

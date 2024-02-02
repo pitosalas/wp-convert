@@ -3,8 +3,6 @@ title: "[GEEK] Good bit about code commenting"
 author: Pito Salas
 date: 2005-06-04
 ---
-# [[GEEK] Good bit about code commenting](None)
-
 
 
 >>
@@ -23,3 +21,4 @@ Comments](<http://www.stickyminds.com/pop_print.asp?ObjectId=9041&ObjectType=ART
 >> Technorati Tags: [programming](<http://technorati.com/tag/programming>)
 
 
+[[GEEK] Good bit about code commenting](None)

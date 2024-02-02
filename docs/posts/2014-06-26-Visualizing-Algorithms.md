@@ -6,8 +6,6 @@ tags:
     - algorithms
     - visualization-tag
 ---
-# [Visualizing Algorithms](None)
-
 
 
 
@@ -18,3 +16,4 @@ are in Python, what is actually embedded into the page? We shall see!
 ## [Visualizing Alghorithms](<http://bost.ocks.org/mike/algorithms/>)
 
 
+[Visualizing Algorithms](None)

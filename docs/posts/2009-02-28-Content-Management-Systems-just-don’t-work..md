@@ -3,8 +3,6 @@ title: "Content Management Systems just don’t work."
 author: Pito Salas
 date: 2009-02-28
 ---
-# [Content Management Systems just don’t work.](None)
-
 
 
 
@@ -28,3 +26,4 @@ blog](<http://sunlightlabs.com/blog/feeds/latest/>):
 > just-dont-work/>))
 
 
+[Content Management Systems just don’t work.](None)

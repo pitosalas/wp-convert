@@ -3,8 +3,6 @@ title: "A classic article that I finally read"
 author: Pito Salas
 date: 2010-04-14
 ---
-# [A classic article that I finally read](None)
-
 
 
 
@@ -26,3 +24,4 @@ impactful:
 > labs.com/who/ken/trust.html>))
 
 
+[A classic article that I finally read](None)

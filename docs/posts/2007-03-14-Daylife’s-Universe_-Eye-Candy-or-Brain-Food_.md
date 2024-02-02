@@ -3,8 +3,6 @@ title: "Daylife’s Universe: Eye Candy or Brain Food?"
 author: Pito Salas
 date: 2007-03-14
 ---
-# [Daylife’s Universe: Eye Candy or Brain Food?](None)
-
 
 
 
@@ -29,3 +27,4 @@ design, animation and creativity. [Check it
 out.](<http://universe.daylife.com/>)
 
 
+[Daylife’s Universe: Eye Candy or Brain Food?](None)

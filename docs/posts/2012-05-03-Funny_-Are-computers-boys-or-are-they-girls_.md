@@ -6,8 +6,6 @@ tags:
     - computers
     - humor
 ---
-# [Funny: Are computers boys or are they girls?](None)
-
 
 
 
@@ -54,3 +52,4 @@ longer, you could have gotten a better model.
 The women won.
 
 
+[Funny: Are computers boys or are they girls?](None)

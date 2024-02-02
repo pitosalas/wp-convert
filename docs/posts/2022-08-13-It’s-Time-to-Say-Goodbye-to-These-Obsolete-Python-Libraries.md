@@ -7,8 +7,6 @@ tags:
     - python-tag
     - tools
 ---
-# [It’s Time to Say Goodbye to These Obsolete Python Libraries](None)
-
 
 
 
@@ -19,3 +17,4 @@ better ways of doing things get introduced. We all get used to using the good
 …
 
 
+[It’s Time to Say Goodbye to These Obsolete Python Libraries](None)

@@ -3,8 +3,6 @@ title: "One more little meme"
 author: Pito Salas
 date: 2005-10-29
 ---
-# [One more little meme](None)
-
 
 
 >>
@@ -21,3 +19,4 @@ of your software, bypassing IT.
 >> Technorati Tags: [meme](<http://www.technorati.com/tag/meme>)
 
 
+[One more little meme](None)

@@ -10,8 +10,6 @@ tags:
     - linkedin
     - search
 ---
-# [Swurl – Search everything instantly](None)
-
 
 
 
@@ -23,3 +21,4 @@ Twitter, Reddit, Amazon, & many more sites all at once. See all the results in
 1 organized view.”
 
 
+[Swurl – Search everything instantly](None)

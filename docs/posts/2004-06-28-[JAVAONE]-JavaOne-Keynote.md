@@ -3,8 +3,6 @@ title: "[JAVAONE] JavaOne Keynote"
 author: Pito Salas
 date: 2004-06-28
 ---
-# [[JAVAONE] JavaOne Keynote](None)
-
 
 
 >>
@@ -39,3 +37,4 @@ money here? I asked some people, and the answer I got was “Sell hardware, sell
 Java cards.” Somehow I am not persuaded. Why are they doing so poorly?
 
 
+[[JAVAONE] JavaOne Keynote](None)

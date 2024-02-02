@@ -3,8 +3,6 @@ title: "Good stuff from Paul Graham"
 author: Pito Salas
 date: 2005-06-06
 ---
-# [Good stuff from Paul Graham](None)
-
 
 
 >>
@@ -43,3 +41,4 @@ you were **looking for an excuse** 🙂
 [recommended](<http://technorati.com/tag/recommended>)
 
 
+[Good stuff from Paul Graham](None)

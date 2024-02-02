@@ -6,8 +6,6 @@ tags:
     - rhapsody
     - spotify
 ---
-# [Cancelled Rhapsody, Trying Spotify](None)
-
 
 
 
@@ -28,3 +26,4 @@ to set up and play with.
 I will report back!
 
 
+[Cancelled Rhapsody, Trying Spotify](None)

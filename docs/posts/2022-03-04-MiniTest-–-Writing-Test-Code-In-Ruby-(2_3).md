@@ -6,8 +6,6 @@ tags:
     - ruby
     - testing
 ---
-# [MiniTest – Writing Test Code In Ruby (2/3)](None)
-
 
 
 
@@ -21,3 +19,4 @@ suggest starting at Part 1….
 March 4, 2022 at 02:54PM
 
 
+[MiniTest – Writing Test Code In Ruby (2/3)](None)

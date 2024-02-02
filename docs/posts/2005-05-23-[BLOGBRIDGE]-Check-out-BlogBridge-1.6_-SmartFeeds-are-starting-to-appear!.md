@@ -3,8 +3,6 @@ title: "[BLOGBRIDGE] Check out BlogBridge 1.6: SmartFeeds are starting to appear
 author: Pito Salas
 date: 2005-05-23
 ---
-# [[BLOGBRIDGE] Check out BlogBridge 1.6: SmartFeeds are starting to appear!](None)
-
 
 
 >>
@@ -22,3 +20,4 @@ here](<http://www.blogbridge.com/install/weekly/blogbridge.jnlp>).
 [RSS](<http://technorati.com/tag/RSS>)
 
 
+[[BLOGBRIDGE] Check out BlogBridge 1.6: SmartFeeds are starting to appear!](None)

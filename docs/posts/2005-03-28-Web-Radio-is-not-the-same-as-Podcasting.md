@@ -3,8 +3,6 @@ title: "Web Radio is not the same as Podcasting"
 author: Pito Salas
 date: 2005-03-28
 ---
-# [Web Radio is not the same as Podcasting](None)
-
 
 
 >>
@@ -25,3 +23,4 @@ popularity to the point where it's become a significant alternative to
 traditional radio, and an appealing venue for major advertisers."
 
 
+[Web Radio is not the same as Podcasting](None)

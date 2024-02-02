@@ -3,8 +3,6 @@ title: "[geeky] Dang – I was looking for one of these just last week"
 author: Pito Salas
 date: 2007-11-27
 ---
-# [[geeky] Dang – I was looking for one of these just last week](None)
-
 
 
 
@@ -28,3 +26,4 @@ In fact who knows if internal to the 13 port hubs there are 2 7 port hubs,
 **daisy chained**. Anyone know?
 
 
+[[geeky] Dang – I was looking for one of these just last week](None)

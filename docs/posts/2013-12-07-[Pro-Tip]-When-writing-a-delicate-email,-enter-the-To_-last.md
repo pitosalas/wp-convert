@@ -6,8 +6,6 @@ tags:
     - email
     - pro-tip
 ---
-# [[Pro-Tip] When writing a delicate email, enter the To: last](None)
-
 
 
 
@@ -19,3 +17,4 @@ will possibly cause collateral damage if you're not done word smithing your
 message.
 
 
+[[Pro-Tip] When writing a delicate email, enter the To: last](None)

@@ -3,8 +3,6 @@ title: "Heard of Yandex?"
 author: Pito Salas
 date: 2008-08-25
 ---
-# [Heard of Yandex?](None)
-
 
 
 
@@ -36,3 +34,4 @@ topic. ](</2008/07/28/cuil-vs-google/>)
 Can you spell "echo chamber?"
 
 
+[Heard of Yandex?](None)

@@ -3,8 +3,6 @@ title: "Pop!Tech 2007 – notes and thoughts"
 author: Pito Salas
 date: 2007-10-26
 ---
-# [Pop!Tech 2007 – notes and thoughts](None)
-
 
 
 
@@ -44,3 +42,4 @@ links:
   * Here's a collection from the [BlogBridge Library](<http://library.blogbridge.com/>) of [all the blogs and sites related to Pop!Tech 2007](<http://library.blogbridge.com/folder/13006-pop-tech-bloggers> "BlogBridge library of Pop!Tech 2007 related blogs").
 
 
+[Pop!Tech 2007 – notes and thoughts](None)

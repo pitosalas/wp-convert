@@ -10,10 +10,9 @@ tags:
     - pep
     - structural-pattern-matching
 ---
-# [PEP 622 -- Structural Pattern Matching | Python.org](https://www.python.org/dev/peps/pep-0622)
-
 <img src=https://www.python.org/static/opengraph-icon-200x200.png width="500">
 
 
 
-(**Web site except:** A pretty nice concept for patterns in python.) 
+(**Web site excerpt:** A pretty nice concept for patterns in python.) 
+[PEP 622 -- Structural Pattern Matching | Python.org](https://www.python.org/dev/peps/pep-0622)

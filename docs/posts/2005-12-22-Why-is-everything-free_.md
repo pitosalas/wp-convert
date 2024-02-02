@@ -3,8 +3,6 @@ title: "Why is everything free?"
 author: Pito Salas
 date: 2005-12-22
 ---
-# [Why is everything free?](None)
-
 
 
 >>
@@ -92,3 +90,4 @@ industry.
 [supplydemand](<http://www.technorati.com/tag/supplydemand>)
 
 
+[Why is everything free?](None)

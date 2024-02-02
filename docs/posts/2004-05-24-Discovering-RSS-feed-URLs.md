@@ -3,8 +3,6 @@ title: "Discovering RSS feed URLs"
 author: Pito Salas
 date: 2004-05-24
 ---
-# [Discovering RSS feed URLs](None)
-
 
 
 >>
@@ -53,3 +51,4 @@ for Random Bytes
 >> What is a user to do now?
 
 
+[Discovering RSS feed URLs](None)

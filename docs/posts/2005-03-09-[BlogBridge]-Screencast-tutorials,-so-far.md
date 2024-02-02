@@ -3,8 +3,6 @@ title: "[BlogBridge] Screencast tutorials, so far"
 author: Pito Salas
 date: 2005-03-09
 ---
-# [[BlogBridge] Screencast tutorials, so far](None)
-
 
 There are two very brief audio-visual overviews of 'cool' BlogBridge features.
 
@@ -27,3 +25,4 @@ which are interesting to me.)
 platform?
 
 
+[[BlogBridge] Screencast tutorials, so far](None)

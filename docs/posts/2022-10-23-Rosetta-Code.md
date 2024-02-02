@@ -10,10 +10,9 @@ tags:
     - examples
     - wiki
 ---
-# [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
-
 <img src=https://static.miraheze.org/rosettacodewiki/d/d3/RosettaCodeTitle.png width="500">
 
 
 
-(**Web site except:** Rosetta Code is a programming chrestomathy site. The idea is to present solutions to the same task in as many different languages as possible, to demonstrate how...) 
+(**Web site excerpt:** Rosetta Code is a programming chrestomathy site. The idea is to present solutions to the same task in as many different languages as possible, to demonstrate how...) 
+[Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)

@@ -3,8 +3,6 @@ title: "Do you really really really want an iPhone?"
 author: Pito Salas
 date: 2007-01-10
 ---
-# [Do you really really really want an iPhone?](None)
-
 
 
 >
@@ -29,3 +27,4 @@ date: 2007-01-10
 > phone/ditch-your-phone-contract-with-celltrade-227611.php>))
 
 
+[Do you really really really want an iPhone?](None)

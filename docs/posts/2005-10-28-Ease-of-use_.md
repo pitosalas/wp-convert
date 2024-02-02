@@ -3,8 +3,6 @@ title: "Ease of use?"
 author: Pito Salas
 date: 2005-10-28
 ---
-# [Ease of use?](None)
-
 
 
 >>
@@ -36,3 +34,4 @@ health!
 [babyboomers](<http://www.technorati.com/tag/babyboomers>)
 
 
+[Ease of use?](None)

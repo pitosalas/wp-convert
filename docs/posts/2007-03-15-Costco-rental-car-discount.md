@@ -3,8 +3,6 @@ title: "Costco rental car discount"
 author: Pito Salas
 date: 2007-03-15
 ---
-# [Costco rental car discount](None)
-
 
 
 
@@ -20,3 +18,4 @@ or [Kayak](<http://www.kayak.com>) deal was. Just a
 [LifeHack](<http://www.lifehacker.com/>) for you.
 
 
+[Costco rental car discount](None)

@@ -3,8 +3,6 @@ title: "What Life Asks of Us"
 author: Pito Salas
 date: 2009-01-30
 ---
-# [What Life Asks of Us](None)
-
 
 
 
@@ -48,3 +46,4 @@ amazon.com/e/ir?t=blogbridge-20&l=as2&o=1&a=1594512965)
 [institutions](<http://technorati.com/tag/institutions>)
 
 
+[What Life Asks of Us](None)

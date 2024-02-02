@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - directory enterprise
 ---
-# [Growing collection of Enterprise 2.0 Success Stories](http://billives.typepad.com/portals_and_km/2007/09/growing-collect.html)
-
 <img src=https://rdl.ink/render/http%3A%2F%2Fbillives.typepad.com%2Fportals_and_km%2F2007%2F09%2Fgrowing-collect.html width="500">
 
 
 
-(**Web site except:** A great collection of case studies) 
+(**Web site excerpt:** A great collection of case studies) 
+[Growing collection of Enterprise 2.0 Success Stories](http://billives.typepad.com/portals_and_km/2007/09/growing-collect.html)

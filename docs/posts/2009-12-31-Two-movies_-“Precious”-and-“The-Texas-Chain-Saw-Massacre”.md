@@ -3,8 +3,6 @@ title: "Two movies: “Precious” and “The Texas Chain Saw Massacre”"
 author: Pito Salas
 date: 2009-12-31
 ---
-# [Two movies: “Precious” and “The Texas Chain Saw Massacre”](None)
-
 
 
 
@@ -47,3 +45,4 @@ What do you think?
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[Two movies: “Precious” and “The Texas Chain Saw Massacre”](None)

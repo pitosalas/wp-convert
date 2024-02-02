@@ -11,8 +11,6 @@ tags:
     - strategy
     - turnarounds
 ---
-# [What Can We Learn from Barnes & Noble’s Surprising Turnaround?](None)
-
 
 
 
@@ -26,3 +24,4 @@ books and books. Great article:"Digital platforms are struggling, meanwhile a
 136-year-old book retailer is growing again. But why?"
 
 
+[What Can We Learn from Barnes & Noble’s Surprising Turnaround?](None)

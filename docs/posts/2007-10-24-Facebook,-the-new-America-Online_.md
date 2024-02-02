@@ -3,8 +3,6 @@ title: "Facebook, the new America Online?"
 author: Pito Salas
 date: 2007-10-24
 ---
-# [Facebook, the new America Online?](None)
-
 
 
 
@@ -78,3 +76,4 @@ Here's Doc Searls take on it and what got me thinking:
 > time/>))
 
 
+[Facebook, the new America Online?](None)

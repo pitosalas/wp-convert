@@ -6,8 +6,6 @@ tags:
     - secon-tagd-sleep
     - sleep
 ---
-# [8 Hour Sleep is for the birds?](None)
-
 
 
 
@@ -42,3 +40,4 @@ More recently, the theory that humans slept in two distinct chunks has
 resurfaced, but in the rather less likely field of history.
 
 
+[8 Hour Sleep is for the birds?](None)

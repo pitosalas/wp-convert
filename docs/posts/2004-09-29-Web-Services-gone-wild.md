@@ -3,8 +3,6 @@ title: "Web Services gone wild"
 author: Pito Salas
 date: 2004-09-29
 ---
-# [Web Services gone wild](None)
-
 
 
 >>
@@ -64,3 +62,4 @@ it's an **interesting approach** that I will work on **refining** and then
 incorporate into [BlogBridge](<http://www.blogbridge.com>).
 
 
+[Web Services gone wild](None)

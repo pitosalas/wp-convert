@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - ruby tools gems
 ---
-# [A collection of awesome Ruby libraries, tools, frameworks and software](https://github.com/markets/awesome-ruby)
-
 <img src=https://avatars.githubusercontent.com/u/576701?s=400&v=4 width="500">
 
 
 
-(**Web site except:** Always looking for the best possible rub tools? Here you go!) 
+(**Web site excerpt:** Always looking for the best possible rub tools? Here you go!) 
+[A collection of awesome Ruby libraries, tools, frameworks and software](https://github.com/markets/awesome-ruby)

@@ -3,8 +3,6 @@ title: "VC: Rumors of its demise are probably premature"
 author: Pito Salas
 date: 2005-05-25
 ---
-# [VC: Rumors of its demise are probably premature](None)
-
 
 
 >>
@@ -62,3 +60,4 @@ I know?
 [vc](<http://technorati.com/tag/vc>)
 
 
+[VC: Rumors of its demise are probably premature](None)

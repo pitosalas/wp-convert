@@ -3,8 +3,6 @@ title: "YCombinator startup application form"
 author: Pito Salas
 date: 2007-07-20
 ---
-# [YCombinator startup application form](None)
-
 
 
 
@@ -21,3 +19,4 @@ well it works for them but they are quite reasonable. Here's a sample:
 Cool. Does it work?
 
 
+[YCombinator startup application form](None)

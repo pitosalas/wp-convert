@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - howto pry debugger ruby
 ---
-# [Why Pry is one of the most important tools a junior Rubyist can learn - Honeybadger Developer Blog](https://www.honeybadger.io/blog/debugging-ruby-with-pry)
-
 <img src=https://www.honeybadger.io/images/pull_image.png width="500">
 
 
 
-(**Web site except:** Everyone loves pry.) 
+(**Web site excerpt:** Everyone loves pry.) 
+[Why Pry is one of the most important tools a junior Rubyist can learn - Honeybadger Developer Blog](https://www.honeybadger.io/blog/debugging-ruby-with-pry)

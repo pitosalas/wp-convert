@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - filter kalman robotics
 ---
-# [Bilgin's Blog | Kalman Filter For Dummies](http://bilgin.esme.org/BitsAndBytes/KalmanFilterforDummies)
-
 <img src=https://rdl.ink/render/http%3A%2F%2Fbilgin.esme.org%2FBitsAndBytes%2FKalmanFilterforDummies width="500">
 
 
 
-(**Web site except:** More Kalman Filter links. This one is one of the best.) 
+(**Web site excerpt:** More Kalman Filter links. This one is one of the best.) 
+[Bilgin's Blog | Kalman Filter For Dummies](http://bilgin.esme.org/BitsAndBytes/KalmanFilterforDummies)

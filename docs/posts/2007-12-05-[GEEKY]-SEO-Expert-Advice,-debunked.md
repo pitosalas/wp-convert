@@ -3,8 +3,6 @@ title: "[GEEKY] SEO Expert Advice, debunked"
 author: Pito Salas
 date: 2007-12-05
 ---
-# [[GEEKY] SEO Expert Advice, debunked](None)
-
 
 
 
@@ -16,3 +14,4 @@ expert-articles>). But when there are gazillions of dollars involved, I guess
 is kind of inevitable.
 
 
+[[GEEKY] SEO Expert Advice, debunked](None)

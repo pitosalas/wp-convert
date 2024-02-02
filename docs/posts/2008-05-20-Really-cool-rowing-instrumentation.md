@@ -5,8 +5,6 @@ date: 2008-05-20
 tags:
     - rowing-metrics
 ---
-# [Really cool rowing instrumentation](None)
-
 
 
 
@@ -28,3 +26,4 @@ Technorati Tags: [sports](<http://www.technorati.com/tag/sports>),
 [rowing](<http://www.technorati.com/tag/rowing>)
 
 
+[Really cool rowing instrumentation](None)

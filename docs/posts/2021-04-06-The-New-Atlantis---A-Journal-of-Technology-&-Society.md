@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - Weather
 ---
-# [The New Atlantis - A Journal of Technology & Society](http://www.thenewatlantis.com)
-
 <img src=https://www.thenewatlantis.com/wp-content/uploads/2020/01/Modern-Project-Twitter.png width="500">
 
 
 
-(**Web site except:** A journal defending science and technology for, not on, human beings) 
+(**Web site excerpt:** A journal defending science and technology for, not on, human beings) 
+[The New Atlantis - A Journal of Technology & Society](http://www.thenewatlantis.com)

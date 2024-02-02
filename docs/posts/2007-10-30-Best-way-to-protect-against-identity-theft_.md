@@ -3,8 +3,6 @@ title: "Best way to protect against identity theft?"
 author: Pito Salas
 date: 2007-10-30
 ---
-# [Best way to protect against identity theft?](None)
-
 
 
 
@@ -22,3 +20,4 @@ Do you know anything about the pros and cons of services like these, or the
 specifics of either or both of these?
 
 
+[Best way to protect against identity theft?](None)

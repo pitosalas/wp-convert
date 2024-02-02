@@ -8,8 +8,6 @@ tags:
     - fire
     - kindle
 ---
-# [Pogue does not love the new Kindle Fire](None)
-
 
 
 
@@ -46,3 +44,4 @@ reviews](<http://www.engadget.com/2011/11/14/amazon-kindle-fire-review/>) on
 the web today.
 
 
+[Pogue does not love the new Kindle Fire](None)

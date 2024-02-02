@@ -8,8 +8,6 @@ tags:
     - politics
     - republican
 ---
-# [Serve-the-check instead of Starve-the-beast](None)
-
 
 
 
@@ -70,3 +68,4 @@ Conservatism](<http://breakthroughjournal.org/content/issues/issue-2/modernizing
 conservatism.shtml>)
 
 
+[Serve-the-check instead of Starve-the-beast](None)

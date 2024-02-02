@@ -3,8 +3,6 @@ title: "Heresy: Wall-E just so-so"
 author: Pito Salas
 date: 2008-07-20
 ---
-# [Heresy: Wall-E just so-so](None)
-
 
 
 
@@ -17,3 +15,4 @@ wonderful "Star Wars"-class visuals but as an overall story and movie
 experience, well, it was fine. Not even as good as Toy Story. Sorry.
 
 
+[Heresy: Wall-E just so-so](None)

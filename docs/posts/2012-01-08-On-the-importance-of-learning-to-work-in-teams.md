@@ -8,8 +8,6 @@ tags:
     - phd
     - teamwork
 ---
-# [On the importance of learning to work in teams](None)
-
 
 
 
@@ -44,3 +42,4 @@ My personal knowledge is of Computer Science but the same I am sure can be
 said for other disciplines as well.
 
 
+[On the importance of learning to work in teams](None)

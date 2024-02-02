@@ -3,8 +3,6 @@ title: "Summing up the history of human affairs"
 author: Pito Salas
 date: 2008-02-23
 ---
-# [Summing up the history of human affairs](None)
-
 
 
 
@@ -30,3 +28,4 @@ summed up in these simple terms:
 > _" It seemed like a good idea at the time"_
 
 
+[Summing up the history of human affairs](None)

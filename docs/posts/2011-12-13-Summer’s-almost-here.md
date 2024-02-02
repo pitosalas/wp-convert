@@ -7,8 +7,6 @@ tags:
     - summer
     - sunset
 ---
-# [Summer’s almost here](None)
-
 
 
 
@@ -24,3 +22,4 @@ several weeks before sunrise starts getting earlier. Note: the explanation is
 very complicated.
 
 
+[Summer’s almost here](None)

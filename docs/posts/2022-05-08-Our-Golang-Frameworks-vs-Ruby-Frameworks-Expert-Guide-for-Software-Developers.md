@@ -11,10 +11,9 @@ tags:
     - frsmework
     - web
 ---
-# [Our Golang Frameworks vs Ruby Frameworks Expert Guide for Software Developers](https://www.sphereinc.com/blogs/go-for-rails-developers/)
-
 <img src=https://www.sphereinc.com/wp-content/uploads/2016/02/go-for-rails-developers.webp width="500">
 
 
 
-(**Web site except:** Browse our Golang web framework vs Ruby On Rails framework guide to uncover which one is best for you. We compare Goland web frameworks and Ruby web frameworks based on their installation, configuration, dependency management, and models. Read our Golang web framework vs Ruby On Rails framework blog at Sphere Partners.) 
+(**Web site excerpt:** Browse our Golang web framework vs Ruby On Rails framework guide to uncover which one is best for you. We compare Goland web frameworks and Ruby web frameworks based on their installation, configuration, dependency management, and models. Read our Golang web framework vs Ruby On Rails framework blog at Sphere Partners.) 
+[Our Golang Frameworks vs Ruby Frameworks Expert Guide for Software Developers](https://www.sphereinc.com/blogs/go-for-rails-developers/)

@@ -3,8 +3,6 @@ title: "Temporal Gifts: travel through space and time"
 author: Pito Salas
 date: 2008-01-01
 ---
-# [Temporal Gifts: travel through space and time](None)
-
 
 
 
@@ -24,3 +22,4 @@ Actually, I do think it's a pretty interesting social experiment. [Read the
 article.](<http://www.boston.com/lifestyle/articles/2007/12/26/giving_gifts_that_take_on_a_life_of_their_own/>)
 
 
+[Temporal Gifts: travel through space and time](None)

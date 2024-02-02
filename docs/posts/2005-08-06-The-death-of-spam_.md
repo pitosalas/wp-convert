@@ -3,8 +3,6 @@ title: "The death of spam?"
 author: Pito Salas
 date: 2005-08-06
 ---
-# [The death of spam?](None)
-
 
 
 >>
@@ -67,3 +65,4 @@ Theft](<http://www.schneier.com/blog/archives/2005/04/mitigating_iden.html>))
 >> Technorati Tags: [security](<http://technorati.com/tag/security>)
 
 
+[The death of spam?](None)

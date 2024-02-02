@@ -3,8 +3,6 @@ title: "Mac OS X Hacked?"
 author: Pito Salas
 date: 2006-03-06
 ---
-# [Mac OS X Hacked?](None)
-
 
 
 >>
@@ -43,3 +41,4 @@ minutes"](<http://news.zdnet.com/2100-1009_22-6046197.html?tag=nl.e589>))
 [security](<http://www.technorati.com/tag/security>)
 
 
+[Mac OS X Hacked?](None)

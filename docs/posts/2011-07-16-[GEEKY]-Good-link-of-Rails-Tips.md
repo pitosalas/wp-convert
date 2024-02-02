@@ -6,8 +6,6 @@ tags:
     - Programming
     - rails
 ---
-# [[GEEKY] Good link of Rails Tips](None)
-
 
 
 
@@ -16,3 +14,4 @@ programmer](<http://www.codercaste.com/2011/02/11/10-ruby-on-rails-3-tips-
 that-will-make-you-a-better-rails-programmer/>).
 
 
+[[GEEKY] Good link of Rails Tips](None)

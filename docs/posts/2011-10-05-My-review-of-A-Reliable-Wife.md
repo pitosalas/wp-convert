@@ -5,8 +5,6 @@ date: 2011-10-05
 tags:
     - books
 ---
-# [My review of A Reliable Wife](None)
-
 
 
 
@@ -25,3 +23,4 @@ poetic which is what I think I enjoyed the most,
 salas>)
 
 
+[My review of A Reliable Wife](None)

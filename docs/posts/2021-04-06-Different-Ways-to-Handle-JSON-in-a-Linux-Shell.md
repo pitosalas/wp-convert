@@ -9,10 +9,9 @@ tags:
     - json
     - tool
 ---
-# [Different Ways to Handle JSON in a Linux Shell](https://link.medium.com/9FvuL4gneeb)
-
 <img src=https://miro.medium.com/max/1200/1*uuhsaEPY4zSfd9Uvmr2Lrg.jpeg width="500">
 
 
 
-(**Web site except:** If you work with json at all, this is a super useful article, introducing several tools that you might never have heard of.) 
+(**Web site excerpt:** If you work with json at all, this is a super useful article, introducing several tools that you might never have heard of.) 
+[Different Ways to Handle JSON in a Linux Shell](https://link.medium.com/9FvuL4gneeb)

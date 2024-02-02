@@ -10,8 +10,6 @@ tags:
     - nyt
     - research
 ---
-# [Is this article a joke? “When Truisms are true”](None)
-
 
 
 
@@ -75,3 +73,4 @@ and
 check if this was Humor or Satire.
 
 
+[Is this article a joke? “When Truisms are true”](None)

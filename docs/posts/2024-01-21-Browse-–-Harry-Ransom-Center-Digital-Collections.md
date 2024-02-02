@@ -8,8 +8,6 @@ tags:
     - movie
     - posters
 ---
-# [Browse – Harry Ransom Center Digital Collections](None)
-
 
 
 
@@ -17,3 +15,4 @@ tags:
 https://hrc.contentdm.oclc.org/digital/collection/p15878coll84/search>) –
 
 
+[Browse – Harry Ransom Center Digital Collections](None)

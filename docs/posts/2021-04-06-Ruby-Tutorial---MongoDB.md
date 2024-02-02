@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - Weather
 ---
-# [Ruby Tutorial - MongoDB](http://www.mongodb.org/display/DOCS/Ruby+Tutorial)
-
 <img src= width="500">
 
 
+[Ruby Tutorial - MongoDB](http://www.mongodb.org/display/DOCS/Ruby+Tutorial)

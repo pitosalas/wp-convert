@@ -3,8 +3,6 @@ title: "Follow-up up Wall Street Journal about Super Freakonomics Dustup"
 author: Pito Salas
 date: 2009-11-04
 ---
-# [Follow-up up Wall Street Journal about Super Freakonomics Dustup](None)
-
 
 
 
@@ -54,3 +52,4 @@ Technorati Tags: [realclimate](<http://technorati.com/tag/realclimate>),
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[Follow-up up Wall Street Journal about Super Freakonomics Dustup](None)

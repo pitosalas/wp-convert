@@ -3,8 +3,6 @@ title: "The answer is not a better RSS Aggregator, continued"
 author: Pito Salas
 date: 2006-10-12
 ---
-# [The answer is not a better RSS Aggregator, continued](None)
-
 
 
 >
@@ -51,3 +49,4 @@ date: 2006-10-12
 > [readinglists](<http://www.technorati.com/tag/readinglists>)
 
 
+[The answer is not a better RSS Aggregator, continued](None)

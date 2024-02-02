@@ -7,8 +7,6 @@ tags:
     - leadership
     - solitude
 ---
-# [commonplace, ordinary, usual, common](None)
-
 
 
 
@@ -48,3 +46,4 @@ Education](<http://www.theamericanscholar.org/the-disadvantages-of-an-elite-
 education/>) by William Deresiewicz.
 
 
+[commonplace, ordinary, usual, common](None)

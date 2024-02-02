@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - Weather
 ---
-# [Computing Reviews, the leading online review service for computing literature.](http://www.reviews.com/index.cfm)
-
 <img src= width="500">
 
 
+[Computing Reviews, the leading online review service for computing literature.](http://www.reviews.com/index.cfm)

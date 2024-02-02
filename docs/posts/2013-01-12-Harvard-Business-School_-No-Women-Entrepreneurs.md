@@ -8,8 +8,6 @@ tags:
     - hbs
     - women
 ---
-# [Harvard Business School: No Women Entrepreneurs](None)
-
 
 
 
@@ -35,3 +33,4 @@ conclude that for some reason HBS isn't generating them or that they were just
 overlooked by whoever made this page?
 
 
+[Harvard Business School: No Women Entrepreneurs](None)

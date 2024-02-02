@@ -3,8 +3,6 @@ title: "[GEEK] Interesting OS X article"
 author: Pito Salas
 date: 2006-03-27
 ---
-# [[GEEK] Interesting OS X article](None)
-
 
 
 >>
@@ -34,3 +32,4 @@ applications.html>))
 >> Technorati Tags: [osx](<http://www.technorati.com/tag/osx>)
 
 
+[[GEEK] Interesting OS X article](None)

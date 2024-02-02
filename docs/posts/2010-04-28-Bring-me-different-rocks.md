@@ -3,8 +3,6 @@ title: "Bring me different rocks"
 author: Pito Salas
 date: 2010-04-28
 ---
-# [Bring me different rocks](None)
-
 
 
 
@@ -21,3 +19,4 @@ scenario:](<http://www.boston.com/business/technology/innoeco/2010/04/new_book_d
 Ok, not really funny. More ~~sad~~ ~~depressing~~ ~~poignant~~ familiar…
 
 
+[Bring me different rocks](None)

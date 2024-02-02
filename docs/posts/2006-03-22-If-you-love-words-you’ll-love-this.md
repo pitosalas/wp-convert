@@ -3,8 +3,6 @@ title: "If you love words you’ll love this"
 author: Pito Salas
 date: 2006-03-22
 ---
-# [If you love words you’ll love this](None)
-
 
 
 >>
@@ -48,3 +46,4 @@ almost as bad as their our obsession with Web 2.0
 [graphicdesign](<http://www.technorati.com/tag/graphicdesign>)
 
 
+[If you love words you’ll love this](None)

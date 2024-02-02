@@ -3,8 +3,6 @@ title: "Using Google to make community standards transparent and objective"
 author: Pito Salas
 date: 2009-01-04
 ---
-# [Using Google to make community standards transparent and objective](None)
-
 
 
 
@@ -33,3 +31,4 @@ reasonable judicial approach?
 _Originally posted on Jun 25, 2008. Reprinted courtesy of ReRuns plug-in._
 
 
+[Using Google to make community standards transparent and objective](None)

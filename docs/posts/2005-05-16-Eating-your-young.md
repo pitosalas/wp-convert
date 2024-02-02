@@ -3,8 +3,6 @@ title: "Eating your young"
 author: Pito Salas
 date: 2005-05-16
 ---
-# [Eating your young](None)
-
 
 
 >>
@@ -54,3 +52,4 @@ weren 't quite as easily** prepared to "disrupt our own business."
 [strategy](<http://technorati.com/tag/strategy>)
 
 
+[Eating your young](None)

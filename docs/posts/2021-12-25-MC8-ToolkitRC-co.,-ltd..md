@@ -13,10 +13,9 @@ tags:
     - power
     - robot
 ---
-# [MC8-ToolkitRC co., ltd.](https://www.toolkitrc.com/mc8)
-
 <img src=https://nwzimg.wezhan.net/contents/sitefiles3605/18029379/images/5050450.png width="500">
 
 
 
-(**Web site except:** MC8) 
+(**Web site excerpt:** MC8) 
+[MC8-ToolkitRC co., ltd.](https://www.toolkitrc.com/mc8)

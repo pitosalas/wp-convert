@@ -3,8 +3,6 @@ title: "Predicting the future is hard"
 author: Pito Salas
 date: 2004-11-30
 ---
-# [Predicting the future is hard](None)
-
 
 
 >>
@@ -40,3 +38,4 @@ site.](<http://www.snopes.com/inboxer/hoaxes/computer.asp>) The big steering
 wheel should have been the tip-off.**
 
 
+[Predicting the future is hard](None)

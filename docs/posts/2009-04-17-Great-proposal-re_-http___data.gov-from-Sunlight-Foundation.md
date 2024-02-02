@@ -3,8 +3,6 @@ title: "Great proposal re: http://data.gov from Sunlight Foundation"
 author: Pito Salas
 date: 2009-04-17
 ---
-# [Great proposal re: http://data.gov from Sunlight Foundation](None)
-
 
 
 
@@ -30,3 +28,4 @@ makes the ideas come to life. If you are interested in government
 transparency, like I am, you should take a look at the proposals
 
 
+[Great proposal re: http://data.gov from Sunlight Foundation](None)

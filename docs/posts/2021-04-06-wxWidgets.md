@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - Ruby
 ---
-# [wxWidgets](http://wxwidgets.org)
-
 <img src=https://rdl.ink/render/http%3A%2F%2Fwxwidgets.org width="500">
 
 
+[wxWidgets](http://wxwidgets.org)

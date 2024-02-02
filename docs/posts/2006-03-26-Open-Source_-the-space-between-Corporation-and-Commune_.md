@@ -3,8 +3,6 @@ title: "Open Source: the space between Corporation and Commune?"
 author: Pito Salas
 date: 2006-03-26
 ---
-# [Open Source: the space between Corporation and Commune?](None)
-
 
 
 >>
@@ -34,3 +32,4 @@ it's interesting.
 >> Technorati Tags: [opensource](<http://www.technorati.com/tag/opensource>)
 
 
+[Open Source: the space between Corporation and Commune?](None)

@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - design sketch
 ---
-# [Why Your App Looks Better in Sketch – Nathan Gitter – Medium](https://medium.com/@nathangitter/why-your-app-looks-better-in-sketch-3a01b22c43d7?source=userActivityShare-d383785221d0-1524309251)
-
 <img src=https://miro.medium.com/max/1200/1*MOcAlyqfmddQ0Ytpjw6ORA.jpeg width="500">
 
 
 
-(**Web site except:** Exploring rendering differences between Sketch and iOS) 
+(**Web site excerpt:** Exploring rendering differences between Sketch and iOS) 
+[Why Your App Looks Better in Sketch – Nathan Gitter – Medium](https://medium.com/@nathangitter/why-your-app-looks-better-in-sketch-3a01b22c43d7?source=userActivityShare-d383785221d0-1524309251)

@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - git
 ---
-# [a practical git introduction | mrchlblng](http://mrchlblng.me/2014/09/practical-git-introduction)
-
 <img src= width="500">
 
 
+[a practical git introduction | mrchlblng](http://mrchlblng.me/2014/09/practical-git-introduction)

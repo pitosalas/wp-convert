@@ -3,8 +3,6 @@ title: "Dreaming in code"
 author: Pito Salas
 date: 2007-01-22
 ---
-# [Dreaming in code](None)
-
 
 
 >
@@ -65,3 +63,4 @@ _meetings_
 >  Big Picture](<http://www.joelonsoftware.com/items/2007/01/21.html>))
 
 
+[Dreaming in code](None)

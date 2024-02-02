@@ -3,8 +3,6 @@ title: "[GEEK] Java Web Start {again}"
 author: Pito Salas
 date: 2005-03-31
 ---
-# [[GEEK] Java Web Start {again}](None)
-
 
 
 >>
@@ -114,3 +112,4 @@ there](<http://www.clientjava.com/blog/2004/12/07/1102430658000.html#comment1102
 >>
 
 
+[[GEEK] Java Web Start {again}](None)

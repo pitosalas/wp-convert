@@ -7,8 +7,6 @@ tags:
     - learning
     - university
 ---
-# [[education] Creative Monopoly](None)
-
 
 
 
@@ -47,3 +45,4 @@ Why would that be bad? Read on:
 > monopoly.html?_r=1>)
 
 
+[[education] Creative Monopoly](None)

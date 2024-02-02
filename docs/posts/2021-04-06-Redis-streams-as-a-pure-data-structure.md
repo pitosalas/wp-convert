@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - scale redis datastructures howto scalability streams
 ---
-# [Redis streams as a pure data structure](http://antirez.com/news/128)
-
 <img src=https://rdl.ink/render/http%3A%2F%2Fantirez.com%2Fnews%2F128 width="500">
 
 
 
-(**Web site except:** Really really interesting use case for REDIS, and a great scalability pattern) 
+(**Web site excerpt:** Really really interesting use case for REDIS, and a great scalability pattern) 
+[Redis streams as a pure data structure](http://antirez.com/news/128)

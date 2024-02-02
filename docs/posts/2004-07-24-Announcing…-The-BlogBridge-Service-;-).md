@@ -3,8 +3,6 @@ title: "Announcing… The BlogBridge Service ;-)"
 author: Pito Salas
 date: 2004-07-24
 ---
-# [Announcing… The BlogBridge Service ;-)](None)
-
 
 
 >>
@@ -43,3 +41,4 @@ enlarge.)
 thumb.jpg?resize=300%2C252)](<http://s3.media.squarespace.com/production/1075723/12829350/weblogs/archives/service.html>)
 
 
+[Announcing… The BlogBridge Service ;-)](None)

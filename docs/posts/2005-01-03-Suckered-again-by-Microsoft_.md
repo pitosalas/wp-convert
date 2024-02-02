@@ -3,8 +3,6 @@ title: "Suckered again by Microsoft?"
 author: Pito Salas
 date: 2005-01-03
 ---
-# [Suckered again by Microsoft?](None)
-
 
 I've been using **Microsoft Money** (their personal finance package) for years
 now (after having switched from Quicken probably 5 years ago.) I really like
@@ -48,3 +46,4 @@ you to take it off your hands"
 marketing machine. Anyone else out there have the same experience?
 
 
+[Suckered again by Microsoft?](None)

@@ -12,10 +12,9 @@ tags:
     - howto
     - ros
 ---
-# [aruco_detect - ROS Wiki](http://wiki.ros.org/aruco_detect)
-
 <img src=https://rdl.ink/render/http%3A%2F%2Fwiki.ros.org%2Faruco_detect width="500">
 
 
 
-(**Web site except:** Fiducial computer vision library for ROS.) 
+(**Web site excerpt:** Fiducial computer vision library for ROS.) 
+[aruco_detect - ROS Wiki](http://wiki.ros.org/aruco_detect)

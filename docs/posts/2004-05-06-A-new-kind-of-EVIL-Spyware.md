@@ -3,8 +3,6 @@ title: "A new kind of EVIL Spyware"
 author: Pito Salas
 date: 2004-05-06
 ---
-# [A new kind of EVIL Spyware](None)
-
 
 
 >>
@@ -35,3 +33,4 @@ successful. At least with the regular spyware. The word highlighting one is
 still there. More later.
 
 
+[A new kind of EVIL Spyware](None)

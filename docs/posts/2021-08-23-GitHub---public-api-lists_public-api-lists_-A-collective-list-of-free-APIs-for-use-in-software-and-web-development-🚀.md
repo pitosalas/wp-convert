@@ -13,10 +13,9 @@ tags:
     - howto
     - web-services
 ---
-# [GitHub - public-api-lists/public-api-lists: A collective list of free APIs for use in software and web development 🚀](https://github.com/public-api-lists/public-api-lists)
-
 <img src=https://opengraph.githubassets.com/da19294f7de720a833e23c02e3dc8e4b37132804954a99b99232bead0afc8bd1/public-api-lists/public-api-lists width="500">
 
 
 
-(**Web site except:** A collective list of free APIs for use in software and web development 🚀 - GitHub - public-api-lists/public-api-lists: A collective list of free APIs for use in software and web development 🚀) 
+(**Web site excerpt:** A collective list of free APIs for use in software and web development 🚀 - GitHub - public-api-lists/public-api-lists: A collective list of free APIs for use in software and web development 🚀) 
+[GitHub - public-api-lists/public-api-lists: A collective list of free APIs for use in software and web development 🚀](https://github.com/public-api-lists/public-api-lists)

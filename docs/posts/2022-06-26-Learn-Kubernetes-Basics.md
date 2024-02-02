@@ -10,10 +10,9 @@ tags:
     - basics
     - howto
 ---
-# [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
-
 <img src=https://kubernetes.io/images/favicon.png width="500">
 
 
 
-(**Web site except:** Production-Grade Container Orchestration. One of many writeups on how to work with K8S and friends!) 
+(**Web site excerpt:** Production-Grade Container Orchestration. One of many writeups on how to work with K8S and friends!) 
+[Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)

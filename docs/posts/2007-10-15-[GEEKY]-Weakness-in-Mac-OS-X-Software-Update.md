@@ -3,8 +3,6 @@ title: "[GEEKY] Weakness in Mac OS X Software Update"
 author: Pito Salas
 date: 2007-10-15
 ---
-# [[GEEKY] Weakness in Mac OS X Software Update](None)
-
 
 
 
@@ -27,3 +25,4 @@ know is available, check whether you might have moved the application
 somewhere, hiding it from the [tag]Software Update…[/tag]
 
 
+[[GEEKY] Weakness in Mac OS X Software Update](None)

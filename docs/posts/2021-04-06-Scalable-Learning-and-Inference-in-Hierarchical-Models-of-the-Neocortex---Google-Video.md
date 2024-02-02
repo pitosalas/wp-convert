@@ -6,8 +6,7 @@ link: "http://video.google.com/videoplay?docid=7512275382500312900&q=Google+tech
 cover: "" 
 date: 2021-04-06
 ---
-# [Scalable Learning and Inference in Hierarchical Models of the Neocortex - Google Video](http://video.google.com/videoplay?docid=7512275382500312900&q=Google+techtalks)
-
 <img src= width="500">
 
 
+[Scalable Learning and Inference in Hierarchical Models of the Neocortex - Google Video](http://video.google.com/videoplay?docid=7512275382500312900&q=Google+techtalks)

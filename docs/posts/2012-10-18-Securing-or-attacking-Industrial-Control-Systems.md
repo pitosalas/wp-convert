@@ -8,8 +8,6 @@ tags:
     - kasperski
     - security
 ---
-# [Securing or attacking Industrial Control Systems](None)
-
 
 
 
@@ -44,3 +42,4 @@ The obvious question:
 > operating-system-we-confirm-the-rumors-and-end-the-speculation/>))
 
 
+[Securing or attacking Industrial Control Systems](None)

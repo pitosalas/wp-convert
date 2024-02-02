@@ -3,8 +3,6 @@ title: "Blogging 101: Speaking Notes"
 author: Pito Salas
 date: 2006-01-16
 ---
-# [Blogging 101: Speaking Notes](None)
-
 
 
 >>
@@ -25,3 +23,4 @@ bunch of relevant links.
 [bloglines](<http://www.technorati.com/tag/bloglines>)
 
 
+[Blogging 101: Speaking Notes](None)

@@ -3,8 +3,6 @@ title: "A big laugh"
 author: Pito Salas
 date: 2005-10-02
 ---
-# [A big laugh](None)
-
 
 
 >>
@@ -20,3 +18,4 @@ date: 2005-10-02
 >> And, anyway, is it 🙂 or 🙂
 
 
+[A big laugh](None)

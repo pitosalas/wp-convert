@@ -12,10 +12,9 @@ tags:
     - students
     - gpa
 ---
-# [The Lesson to Unlearn](http://paulgraham.com/lesson.html)
-
 <img src=https://rdl.ink/render/http%3A%2F%2Fpaulgraham.com%2Flesson.html width="500">
 
 
 
-(**Web site except:** "The most damaging thing you learned in school wasn't something you learned in any specific class. It was learning to get good grades.") 
+(**Web site excerpt:** "The most damaging thing you learned in school wasn't something you learned in any specific class. It was learning to get good grades.") 
+[The Lesson to Unlearn](http://paulgraham.com/lesson.html)

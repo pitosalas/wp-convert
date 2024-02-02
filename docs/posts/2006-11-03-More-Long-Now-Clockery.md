@@ -3,8 +3,6 @@ title: "More Long Now Clockery"
 author: Pito Salas
 date: 2006-11-03
 ---
-# [More Long Now Clockery](None)
-
 
 
 >
@@ -29,3 +27,4 @@ date: 2006-11-03
 > [clockofthelongnow](<http://www.technorati.com/tag/clockofthelongnow>)
 
 
+[More Long Now Clockery](None)

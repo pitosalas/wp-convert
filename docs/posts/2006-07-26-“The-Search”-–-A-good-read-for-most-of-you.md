@@ -3,8 +3,6 @@ title: "“The Search” – A good read for most of you"
 author: Pito Salas
 date: 2006-07-26
 ---
-# [“The Search” – A good read for most of you](None)
-
 
 
 >>
@@ -20,3 +18,4 @@ other than to say that it's a really good read and worthwhile.
 **Recommended**.
 
 
+[“The Search” – A good read for most of you](None)

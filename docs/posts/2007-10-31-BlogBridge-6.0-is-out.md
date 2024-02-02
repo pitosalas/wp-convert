@@ -3,8 +3,6 @@ title: "BlogBridge 6.0 is out"
 author: Pito Salas
 date: 2007-10-31
 ---
-# [BlogBridge 6.0 is out](None)
-
 
 
 
@@ -32,3 +30,4 @@ lots of stuff that your current aggregator may
 not.](<http://www.blogbridge.com/2007/09/24/can-your-current-tool-do-this/>)
 
 
+[BlogBridge 6.0 is out](None)

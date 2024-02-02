@@ -3,8 +3,6 @@ title: "Coffee Series, Part 3: Trade offs"
 author: Pito Salas
 date: 2006-04-26
 ---
-# [Coffee Series, Part 3: Trade offs](None)
-
 
 
 >>
@@ -96,3 +94,4 @@ by the way it's **way way cheaper**.
 >  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 
 
+[Coffee Series, Part 3: Trade offs](None)

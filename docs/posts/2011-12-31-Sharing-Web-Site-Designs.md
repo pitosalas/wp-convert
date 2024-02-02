@@ -7,8 +7,6 @@ tags:
     - design
     - website
 ---
-# [Sharing Web Site Designs](None)
-
 
 
 
@@ -28,3 +26,4 @@ site](<http://pinterest.com/pitosalas/blogbridge-web-site-ideas/>).
 Oh and if you care to, please weigh in on the design you like the best 🙂
 
 
+[Sharing Web Site Designs](None)

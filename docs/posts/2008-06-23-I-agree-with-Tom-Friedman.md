@@ -3,8 +3,6 @@ title: "I agree with Tom Friedman"
 author: Pito Salas
 date: 2008-06-23
 ---
-# [I agree with Tom Friedman](None)
-
 
 
 
@@ -26,3 +24,4 @@ with him then, and I still agree with him:
 > Leave](<http://www.nytimes.com/2008/06/22/opinion/22friedman.html>))
 
 
+[I agree with Tom Friedman](None)

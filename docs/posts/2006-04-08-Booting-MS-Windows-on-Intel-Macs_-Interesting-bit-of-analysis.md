@@ -3,8 +3,6 @@ title: "Booting MS Windows on Intel Macs: Interesting bit of analysis"
 author: Pito Salas
 date: 2006-04-08
 ---
-# [Booting MS Windows on Intel Macs: Interesting bit of analysis](None)
-
 
 
 >>
@@ -45,3 +43,4 @@ article](<http://www.nytimes.com/2006/04/08/opinion/08cringely.html?_r=1&oref=sl
 [bootcamp](<http://www.technorati.com/tag/bootcamp>)
 
 
+[Booting MS Windows on Intel Macs: Interesting bit of analysis](None)

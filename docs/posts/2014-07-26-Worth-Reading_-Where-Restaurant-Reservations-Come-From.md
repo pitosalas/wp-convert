@@ -3,8 +3,6 @@ title: "Worth Reading: Where Restaurant Reservations Come From"
 author: Pito Salas
 date: 2014-07-26
 ---
-# [Worth Reading: Where Restaurant Reservations Come From](None)
-
 
 
 
@@ -17,3 +15,4 @@ along. ReservationHop was a small project to book tables under bogus names and
 then sell them. Tags: July 26, 2014 at 03:20PM via IFTTT
 
 
+[Worth Reading: Where Restaurant Reservations Come From](None)

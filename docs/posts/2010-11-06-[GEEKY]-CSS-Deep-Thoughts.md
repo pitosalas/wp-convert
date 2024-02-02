@@ -3,8 +3,6 @@ title: "[GEEKY] CSS Deep Thoughts"
 author: Pito Salas
 date: 2010-11-06
 ---
-# [[GEEKY] CSS Deep Thoughts](None)
-
 
 
 
@@ -35,3 +33,4 @@ tools to do this, or has this been tried and turned out to be technically
 intractable? Seems to me like it should be possible.
 
 
+[[GEEKY] CSS Deep Thoughts](None)

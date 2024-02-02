@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - statistics logfiles data
 ---
-# [Splunk Storm | Cloud Data Analysis and Log Management](https://www.splunkstorm.com)
-
 <img src= width="500">
 
 
 
-(**Web site except:** Data and log file analysis) 
+(**Web site excerpt:** Data and log file analysis) 
+[Splunk Storm | Cloud Data Analysis and Log Management](https://www.splunkstorm.com)

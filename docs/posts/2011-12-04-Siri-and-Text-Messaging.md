@@ -9,8 +9,6 @@ tags:
     - textmessaging
     - voice
 ---
-# [Siri and Text Messaging](None)
-
 
 
 
@@ -32,3 +30,4 @@ part of the reason that Apple is now **bypassing** the mobile operators when
 doing iPhone to iPhone messaging.
 
 
+[Siri and Text Messaging](None)

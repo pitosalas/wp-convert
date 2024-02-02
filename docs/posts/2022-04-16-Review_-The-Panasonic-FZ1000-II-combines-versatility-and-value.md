@@ -11,10 +11,9 @@ tags:
     - FZ1000-II
     - photo
 ---
-# [Review: The Panasonic FZ1000 II combines versatility and value](https://www.dpreview.com/reviews/panasonic-lumix-dc-fz1000-ii-review/3)
-
 <img src=https://1.img-dpreview.com/files/p/E~TS940x788~articles/4347519314/Product/Pany-FZ100-II-lens-01.jpeg width="500">
 
 
 
-(**Web site except:** The Panasonic FZ1000 II is a worthy successor to the company's first large-sensor, long-zoom bridge camera, and a value-conscious rival to the popular Sony RX10-series. It's just as fast as its predecessor but produces nicer JPEGs, has significantly improved controls and interface, and more.) 
+(**Web site excerpt:** The Panasonic FZ1000 II is a worthy successor to the company's first large-sensor, long-zoom bridge camera, and a value-conscious rival to the popular Sony RX10-series. It's just as fast as its predecessor but produces nicer JPEGs, has significantly improved controls and interface, and more.) 
+[Review: The Panasonic FZ1000 II combines versatility and value](https://www.dpreview.com/reviews/panasonic-lumix-dc-fz1000-ii-review/3)

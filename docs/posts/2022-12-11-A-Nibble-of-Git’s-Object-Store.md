@@ -8,8 +8,6 @@ tags:
     - internals
     - storage
 ---
-# [A Nibble of Git’s Object Store](None)
-
 
 
 
@@ -22,3 +20,4 @@ fun and profit! Power and efficiency through content-addressable storage and
 delta compression
 
 
+[A Nibble of Git’s Object Store](None)

@@ -3,8 +3,6 @@ title: "Interesting links I found today 04/01/2018"
 author: Pito Salas
 date: 2018-04-01
 ---
-# [Interesting links I found today 04/01/2018](None)
-
 
 
 
@@ -22,3 +20,4 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
+[Interesting links I found today 04/01/2018](None)

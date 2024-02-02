@@ -3,8 +3,6 @@ title: "Web Two Point No?"
 author: Pito Salas
 date: 2005-12-16
 ---
-# [Web Two Point No?](None)
-
 
 
 >>
@@ -51,3 +49,4 @@ it.](<http://darwinianweb.com/archive/2005/136.html>))
 >> Technorati Tags: [web2.0](<http://www.technorati.com/tag/web2.0>)
 
 
+[Web Two Point No?](None)

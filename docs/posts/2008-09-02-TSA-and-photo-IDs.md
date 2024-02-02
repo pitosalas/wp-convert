@@ -3,8 +3,6 @@ title: "TSA and photo IDs"
 author: Pito Salas
 date: 2008-09-02
 ---
-# [TSA and photo IDs](None)
-
 
 
 
@@ -27,3 +25,4 @@ just what Schneier gives instructions for. I wonder whether Schneier will get
 a call from them? Nah, he's too well known!
 
 
+[TSA and photo IDs](None)

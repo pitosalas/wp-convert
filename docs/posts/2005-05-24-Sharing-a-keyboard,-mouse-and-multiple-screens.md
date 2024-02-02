@@ -3,8 +3,6 @@ title: "Sharing a keyboard, mouse and multiple screens"
 author: Pito Salas
 date: 2005-05-24
 ---
-# [Sharing a keyboard, mouse and multiple screens](None)
-
 
 
 >>
@@ -27,3 +25,4 @@ computers on their desk since each system uses its own monitor(s)."
 >> Technorati Tags: [interesting](<http://technorati.com/tag/interesting>)
 
 
+[Sharing a keyboard, mouse and multiple screens](None)

@@ -3,8 +3,6 @@ title: "For advanced nerds only: How the deathstar works"
 author: Pito Salas
 date: 2005-11-03
 ---
-# [For advanced nerds only: How the deathstar works](None)
-
 
 
 >>
@@ -35,3 +33,4 @@ star.htm/printable>)!
 >> Technorati Tags: [cool](<http://www.technorati.com/tag/cool>)
 
 
+[For advanced nerds only: How the deathstar works](None)

@@ -6,8 +6,6 @@ tags:
     - davidbrooks
     - wiscon-tagsin
 ---
-# [Finally a little bit of insight on what’s going on in Wisconsin](None)
-
 
 
 
@@ -64,3 +62,4 @@ If this is interesting to you, read [Make Everybody Hurt in The New York
 Times](<http://www.nytimes.com/2011/02/22/opinion/22brooks.html?_r=1&ref=davidbrooks>).
 
 
+[Finally a little bit of insight on what’s going on in Wisconsin](None)

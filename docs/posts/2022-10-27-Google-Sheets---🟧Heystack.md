@@ -11,10 +11,9 @@ tags:
     - data
     - research
 ---
-# [Google Sheets - 🟧Heystack](https://heystacks.com/?type=sheets)
-
 <img src=https://heystacks.com/banner.jpg width="500">
 
 
 
-(**Web site except:** Discover the best public Google docs) 
+(**Web site excerpt:** Discover the best public Google docs) 
+[Google Sheets - 🟧Heystack](https://heystacks.com/?type=sheets)

@@ -3,8 +3,6 @@ title: "Stewart Alsop ” the best"
 author: Pito Salas
 date: 2004-03-15
 ---
-# [Stewart Alsop ” the best](None)
-
 
 
 >>
@@ -38,3 +36,4 @@ Stewart Alsop the elder in fact was a political columnist of some renown until
 he passed away in  1974.
 
 
+[Stewart Alsop ” the best](None)

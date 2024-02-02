@@ -3,8 +3,6 @@ title: "Facebook Applications: Where they live"
 author: Pito Salas
 date: 2008-01-21
 ---
-# [Facebook Applications: Where they live](None)
-
 
 
 
@@ -48,3 +46,4 @@ apparently through Facebook. Not the same as what I am talking about above,
 but relevant.
 
 
+[Facebook Applications: Where they live](None)

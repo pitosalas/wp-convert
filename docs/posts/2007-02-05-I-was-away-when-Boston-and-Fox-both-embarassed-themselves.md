@@ -3,8 +3,6 @@ title: "I was away when Boston and Fox both embarassed themselves"
 author: Pito Salas
 date: 2007-02-05
 ---
-# [I was away when Boston and Fox both embarassed themselves](None)
-
 
 
 >
@@ -90,3 +88,4 @@ date: 2007-02-05
 > Going](<http://feeds.feedburner.com/~r/Bostonist/~3/86877983/where_the_mooninite_money_is_going.php>))
 
 
+[I was away when Boston and Fox both embarassed themselves](None)

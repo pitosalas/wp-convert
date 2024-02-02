@@ -7,8 +7,6 @@ tags:
     - nyt
     - politics
 ---
-# [Fillibuster: Congress is totally broken](None)
-
 
 
 
@@ -31,3 +29,4 @@ blood boil?
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[Fillibuster: Congress is totally broken](None)

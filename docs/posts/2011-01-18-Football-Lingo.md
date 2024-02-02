@@ -8,8 +8,6 @@ tags:
     - jets
     - patriots
 ---
-# [Football Lingo](None)
-
 
 
 
@@ -38,3 +36,4 @@ that translate into six defensive backs?
 Someday…
 
 
+[Football Lingo](None)

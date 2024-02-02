@@ -7,8 +7,6 @@ tags:
     - fast-mail
     - gmail
 ---
-# [Love/Hate Gmail](None)
-
 
 
 
@@ -38,3 +36,4 @@ Masnick](<http://www.maxmasnick.com/2013/07/19/fastmail/>):
 
 
 
+[Love/Hate Gmail](None)

@@ -3,8 +3,6 @@ title: "MSFT and APPL"
 author: Pito Salas
 date: 2010-05-27
 ---
-# [MSFT and APPL](None)
-
 
 
 
@@ -20,3 +18,4 @@ service, decides to move native support of the iPhone mapping app from Google
 Maps to Microsoft Maps? Good theory?
 
 
+[MSFT and APPL](None)

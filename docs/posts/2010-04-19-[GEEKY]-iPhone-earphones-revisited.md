@@ -3,8 +3,6 @@ title: "[GEEKY] iPhone earphones revisited"
 author: Pito Salas
 date: 2010-04-19
 ---
-# [[GEEKY] iPhone earphones revisited](None)
-
 
 
 
@@ -25,3 +23,4 @@ explained, but yet they all have it. What is it for???
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[[GEEKY] iPhone earphones revisited](None)

@@ -8,8 +8,6 @@ tags:
     - open-source
     - robots
 ---
-# [A closer look at Acorn, our open source precision farming rover – Research Blog – Twisted Fields community](None)
-
 
 
 
@@ -26,3 +24,4 @@ Hello everyone and welcome to Twisted Fields, our research farm in San
 Gregorio …"
 
 
+[A closer look at Acorn, our open source precision farming rover – Research Blog – Twisted Fields community](None)

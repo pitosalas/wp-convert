@@ -3,8 +3,6 @@ title: "Robot wars"
 author: Pito Salas
 date: 2010-10-21
 ---
-# [Robot wars](None)
-
 
 
 
@@ -44,3 +42,4 @@ Pakistan"](<http://www.nytimes.com/2010/10/20/opinion/20khalilzad.html?hp>)
 > Times](<http://www.nytimes.com/2010/10/20/opinion/20khalilzad.html?hp>))
 
 
+[Robot wars](None)

@@ -8,8 +8,6 @@ tags:
     - productivity
     - statistics
 ---
-# [Technology doesn’t contribute to productivity?](None)
-
 
 
 
@@ -34,3 +32,4 @@ benefits-of-technology.html?ref=business&_r=0>):
 
 
 
+[Technology doesn’t contribute to productivity?](None)

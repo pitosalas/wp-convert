@@ -7,8 +7,6 @@ tags:
     - georgehowell
     - terroir
 ---
-# [First useful info from Twitter for me :)](None)
-
 
 
 
@@ -36,3 +34,4 @@ little people' will fall by the wayside. I mean where's Jeff Bezos on Twitter?
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[First useful info from Twitter for me :)](None)

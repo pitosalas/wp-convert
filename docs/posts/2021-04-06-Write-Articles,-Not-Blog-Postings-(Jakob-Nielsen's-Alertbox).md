@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - marketing expertise
 ---
-# [Write Articles, Not Blog Postings (Jakob Nielsen's Alertbox)](http://www.useit.com/alertbox/articles-not-blogs.html)
-
 <img src=https://media.nngroup.com/media/articles/opengraph_images/Slide43write-articles-not-blogs.png width="500">
 
 
 
-(**Web site except:** To demonstrate world-class expertise, avoid quickly written, shallow postings. Instead, invest your time in thorough, value-added content that attracts paying customers.) 
+(**Web site excerpt:** To demonstrate world-class expertise, avoid quickly written, shallow postings. Instead, invest your time in thorough, value-added content that attracts paying customers.) 
+[Write Articles, Not Blog Postings (Jakob Nielsen's Alertbox)](http://www.useit.com/alertbox/articles-not-blogs.html)

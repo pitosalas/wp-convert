@@ -3,8 +3,6 @@ title: "Going, going, gone…"
 author: Pito Salas
 date: 2009-01-29
 ---
-# [Going, going, gone…](None)
-
 
 
 
@@ -30,3 +28,4 @@ Television](<http://www.nytimes.com/2009/01/28/opinion/28swensen.html?_r=1&hp>).
 [opensource](<http://technorati.com/tag/opensource>)
 
 
+[Going, going, gone…](None)

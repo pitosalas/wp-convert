@@ -3,8 +3,6 @@ title: "Sibelius and the meaning of ‘available’"
 author: Pito Salas
 date: 2009-07-16
 ---
-# [Sibelius and the meaning of ‘available’](None)
-
 
 
 
@@ -42,3 +40,4 @@ Technorati Tags: [sibelius](<http://technorati.com/tag/sibelius>),
 [prerelease](<http://technorati.com/tag/prerelease>)
 
 
+[Sibelius and the meaning of ‘available’](None)

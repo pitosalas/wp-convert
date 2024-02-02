@@ -3,8 +3,6 @@ title: "RSS Alley Geek Dinner II – A great time was had by all!"
 author: Pito Salas
 date: 2006-03-30
 ---
-# [RSS Alley Geek Dinner II – A great time was had by all!](None)
-
 
 
 >>
@@ -32,3 +30,4 @@ one soon, somewhere around the beginning of June.
 [RSSAlley](<http://www.technorati.com/tag/RSSAlley>)
 
 
+[RSS Alley Geek Dinner II – A great time was had by all!](None)

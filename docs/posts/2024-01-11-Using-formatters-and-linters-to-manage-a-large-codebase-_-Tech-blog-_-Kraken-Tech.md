@@ -12,10 +12,9 @@ tags:
     - fixit
     - code-formattee
 ---
-# [Using formatters and linters to manage a large codebase | Tech blog | Kraken Tech](https://tech.octopus.energy/news/2024/01/05/linting-and-formatting.html)
-
 <img src=https://tech.octopus.energy/assets/img/og-image.png width="500">
 
 Some good actionable advice here !
 
-(**Web site except:** Kraken is the world's leading customer & culture platform for utilities.) 
+(**Web site excerpt:** Kraken is the world's leading customer & culture platform for utilities.) 
+[Using formatters and linters to manage a large codebase | Tech blog | Kraken Tech](https://tech.octopus.energy/news/2024/01/05/linting-and-formatting.html)

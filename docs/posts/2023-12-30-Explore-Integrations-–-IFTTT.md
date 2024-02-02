@@ -6,8 +6,6 @@ tags:
     - tag
     - test
 ---
-# [Explore Integrations – IFTTT](None)
-
 
 
 
@@ -16,3 +14,4 @@ the services you love on IFTTT. Explore the latest tips and tricks, browse by
 category, or search by name.
 
 
+[Explore Integrations – IFTTT](None)

@@ -7,8 +7,6 @@ tags:
     - rollingston-tage
     - wallstreet
 ---
-# [“The Real Housewives of Wall Street”](None)
-
 
 
 
@@ -29,3 +27,4 @@ wall-street-look-whos-cashing-in-on-the-bailout-20110411>)':
 > wall-street-look-whos-cashing-in-on-the-bailout-20110411>))
 
 
+[“The Real Housewives of Wall Street”](None)

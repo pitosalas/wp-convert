@@ -3,8 +3,6 @@ title: "Anti-paprazzi clutch bag gives pushy shutterbugs a taste of their own me
 author: Pito Salas
 date: 2009-07-08
 ---
-# [Anti-paprazzi clutch bag gives pushy shutterbugs a taste of their own medicine](None)
-
 
 
 
@@ -24,3 +22,4 @@ from [Gizmag Emerging Technology Magazine](<http://www.gizmag.com/xml/>):
 > when it detects the flash from a camera. ..
 
 
+[Anti-paprazzi clutch bag gives pushy shutterbugs a taste of their own medicine](None)

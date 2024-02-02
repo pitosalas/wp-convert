@@ -3,8 +3,6 @@ title: "What is the relationship between Technorati tags and Google search resul
 author: Pito Salas
 date: 2007-08-23
 ---
-# [What is the relationship between Technorati tags and Google search results?](None)
-
 
 
 
@@ -22,3 +20,4 @@ it allows me to simply mark up the text I am writing inline and certain words
 will automagically become Technorati tags.
 
 
+[What is the relationship between Technorati tags and Google search results?](None)

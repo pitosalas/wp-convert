@@ -7,8 +7,6 @@ tags:
     - curacao
     - willemstad
 ---
-# [Art in Willemstad](None)
-
 
 
 
@@ -23,3 +21,4 @@ Gekleurd)](<http://www.versgeperst.com/lifestyle/145606/willemstad-wordt-
 gekleurd.html>)
 
 
+[Art in Willemstad](None)

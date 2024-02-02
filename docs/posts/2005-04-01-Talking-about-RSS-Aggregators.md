@@ -3,8 +3,6 @@ title: "Talking about RSS Aggregators"
 author: Pito Salas
 date: 2005-04-01
 ---
-# [Talking about RSS Aggregators](None)
-
 
 
 >>
@@ -28,3 +26,4 @@ out](<http://www.blogbridge.com/install/weekly/blogbridge.jnlp0>)
 [BlogBridge](<http://www.blogbridge.com/>) won't ya?
 
 
+[Talking about RSS Aggregators](None)

@@ -3,8 +3,6 @@ title: "Curacao in Open Source News?!"
 author: Pito Salas
 date: 2004-11-19
 ---
-# [Curacao in Open Source News?!](None)
-
 
 
 >>
@@ -36,3 +34,4 @@ source software users thought they were alone…
 >> _
 
 
+[Curacao in Open Source News?!](None)

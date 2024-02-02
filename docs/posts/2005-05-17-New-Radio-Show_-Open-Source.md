@@ -3,8 +3,6 @@ title: "New Radio Show: Open Source"
 author: Pito Salas
 date: 2005-05-17
 ---
-# [New Radio Show: Open Source](None)
-
 
 
 >>
@@ -38,3 +36,4 @@ wheels_!)
 [podcast](<http://technorati.com/tag/podcast>)
 
 
+[New Radio Show: Open Source](None)

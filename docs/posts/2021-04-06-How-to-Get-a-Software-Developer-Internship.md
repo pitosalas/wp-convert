@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - jobs internships howto
 ---
-# [How to Get a Software Developer Internship](https://link.medium.com/jtrlTwwLpdb)
-
 <img src=https://miro.medium.com/max/1200/0*f_Y7Fx-iYLs-pS7B width="500">
 
 
 
-(**Web site except:** Good advice for new grads hunting for a position.) 
+(**Web site excerpt:** Good advice for new grads hunting for a position.) 
+[How to Get a Software Developer Internship](https://link.medium.com/jtrlTwwLpdb)

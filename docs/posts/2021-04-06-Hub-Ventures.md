@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - hub
 ---
-# [Hub Ventures](http://hub-ventures.com)
-
 <img src=https://rdl.ink/render/http%3A%2F%2Fhub-ventures.com width="500">
 
 
 
-(**Web site except:** Referred by Chuck Templeton) 
+(**Web site excerpt:** Referred by Chuck Templeton) 
+[Hub Ventures](http://hub-ventures.com)

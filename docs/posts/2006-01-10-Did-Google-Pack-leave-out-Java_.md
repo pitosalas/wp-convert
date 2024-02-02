@@ -3,8 +3,6 @@ title: "Did Google Pack leave out Java?"
 author: Pito Salas
 date: 2006-01-10
 ---
-# [Did Google Pack leave out Java?](None)
-
 
 
 >>
@@ -45,3 +43,4 @@ Runtime as part of it. Pitty. That would have been a great opportunity!
 [java](<http://www.technorati.com/tag/java>)
 
 
+[Did Google Pack leave out Java?](None)

@@ -3,8 +3,6 @@ title: "Scott Adams is still funny: Suing God"
 author: Pito Salas
 date: 2007-09-18
 ---
-# [Scott Adams is still funny: Suing God](None)
-
 
 
 
@@ -23,3 +21,4 @@ Blog](<http://dilbertblog.typepad.com/the_dilbert_blog/>):
 > god.html>))
 
 
+[Scott Adams is still funny: Suing God](None)

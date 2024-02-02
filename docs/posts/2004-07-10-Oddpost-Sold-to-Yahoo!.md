@@ -3,8 +3,6 @@ title: "Oddpost Sold to Yahoo!"
 author: Pito Salas
 date: 2004-07-10
 ---
-# [Oddpost Sold to Yahoo!](None)
-
 
 
 >>
@@ -30,3 +28,4 @@ Safari to be better integrated and interoperable with OSX? People are worried
 about the **divergence of standards**.
 
 
+[Oddpost Sold to Yahoo!](None)

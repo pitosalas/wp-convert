@@ -3,8 +3,6 @@ title: "[SEMI GEEKY] Blogs That Matter: really interesting"
 author: Pito Salas
 date: 2006-10-29
 ---
-# [[SEMI GEEKY] Blogs That Matter: really interesting](None)
-
 
 
 >
@@ -47,3 +45,4 @@ date: 2006-10-29
 > [rss](<http://www.technorati.com/tag/rss>)
 
 
+[[SEMI GEEKY] Blogs That Matter: really interesting](None)

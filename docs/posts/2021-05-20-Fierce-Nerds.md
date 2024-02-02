@@ -10,8 +10,7 @@ tags:
     - essay
     - interesting
 ---
-# [Fierce Nerds](http://paulgraham.com/fn.html)
-
 <img src=https://rdl.ink/render/http%3A%2F%2Fpaulgraham.com%2Ffn.html width="500">
 
 
+[Fierce Nerds](http://paulgraham.com/fn.html)

@@ -3,8 +3,6 @@ title: "BlogBridge Beta 2 is now available to play with"
 author: Pito Salas
 date: 2004-07-10
 ---
-# [BlogBridge Beta 2 is now available to play with](None)
-
 
 
 >>
@@ -21,3 +19,4 @@ FAQ](<http://www.blogbridge.com/faqpage.htm>).
 here](<http://www.blogbridge.com/install/beta2/blogbridge.jnlp>).
 
 
+[BlogBridge Beta 2 is now available to play with](None)

@@ -8,8 +8,6 @@ tags:
     - programmers-editor
     - vscode
 ---
-# [Zed – Code at the speed of thought](None)
-
 
 
 
@@ -21,3 +19,4 @@ performance, multiplayer code editor from the creators of Atom and Tree-
 sitter.”
 
 
+[Zed – Code at the speed of thought](None)

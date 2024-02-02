@@ -9,8 +9,6 @@ tags:
     - strategy
     - university
 ---
-# [[EDUCATION] Strategic Plans – are they worth the paper they are written on?](None)
-
 
 
 
@@ -50,3 +48,4 @@ Here's the conclusion from the article:
 > Neither/128227/>)
 
 
+[[EDUCATION] Strategic Plans – are they worth the paper they are written on?](None)

@@ -3,8 +3,6 @@ title: "A good analysis of the recent (very insider) dust-up over interviews"
 author: Pito Salas
 date: 2007-04-26
 ---
-# [A good analysis of the recent (very insider) dust-up over interviews](None)
-
 
 
 
@@ -200,3 +198,4 @@ interview/>) from [BuzzMachine](<http://www.buzzmachine.com>):
 > obsolete-interview/>))
 
 
+[A good analysis of the recent (very insider) dust-up over interviews](None)

@@ -12,10 +12,9 @@ tags:
     - compression
     - cooltool
 ---
-# [pawurb/rails-brotli-cache: Rails cache using the Brotli algorithm offers better compression and performance.](https://github.com/pawurb/rails-brotli-cache)
-
 <img src=https://opengraph.githubassets.com/819fd897e1552acc9d11ad8f88f27d08dc5ed1ecab37563a491eb7446070d128/pawurb/rails-brotli-cache width="500">
 
 
 
-(**Web site except:** Rails cache using the Brotli algorithm offers better compression and performance. - GitHub - pawurb/rails-brotli-cache: Rails cache using the Brotli algorithm offers better compression and performa...) 
+(**Web site excerpt:** Rails cache using the Brotli algorithm offers better compression and performance. - GitHub - pawurb/rails-brotli-cache: Rails cache using the Brotli algorithm offers better compression and performa...) 
+[pawurb/rails-brotli-cache: Rails cache using the Brotli algorithm offers better compression and performance.](https://github.com/pawurb/rails-brotli-cache)

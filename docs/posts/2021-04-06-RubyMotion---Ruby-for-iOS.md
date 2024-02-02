@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - ruby ios
 ---
-# [RubyMotion - Ruby for iOS](http://www.rubymotion.com)
-
 <img src=http://www.rubymotion.com/img/rubymotion-logo.png width="500">
 
 
 
-(**Web site except:** Ruby for iOS) 
+(**Web site excerpt:** Ruby for iOS) 
+[RubyMotion - Ruby for iOS](http://www.rubymotion.com)

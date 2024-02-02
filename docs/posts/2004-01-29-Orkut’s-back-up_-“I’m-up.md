@@ -3,8 +3,6 @@ title: "Orkut’s back up: “I’m up"
 author: Pito Salas
 date: 2004-01-29
 ---
-# [Orkut’s back up: “I’m up](None)
-
 
 
 >>
@@ -15,3 +13,4 @@ new service duplicating several other existing services. Are we allowing
 software to help us with our self-realization? Wild!
 
 
+[Orkut’s back up: “I’m up](None)

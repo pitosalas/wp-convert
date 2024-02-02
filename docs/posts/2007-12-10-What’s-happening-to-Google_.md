@@ -3,8 +3,6 @@ title: "What’s happening to Google?"
 author: Pito Salas
 date: 2007-12-10
 ---
-# [What’s happening to Google?](None)
-
 
 
 
@@ -41,3 +39,4 @@ spam as everything else, and some new white knight (=search engine) comes
 along to take it's place.
 
 
+[What’s happening to Google?](None)

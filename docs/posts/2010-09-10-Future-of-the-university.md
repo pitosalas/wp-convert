@@ -10,8 +10,6 @@ tags:
     - philosophical-issues
     - science-and-philosophy
 ---
-# [Future of the university](None)
-
 
 
 
@@ -44,3 +42,4 @@ occurred to me:
 > […snip…]"
 
 
+[Future of the university](None)

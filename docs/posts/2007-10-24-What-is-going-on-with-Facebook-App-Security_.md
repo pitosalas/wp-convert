@@ -3,8 +3,6 @@ title: "What is going on with Facebook App Security?"
 author: Pito Salas
 date: 2007-10-24
 ---
-# [What is going on with Facebook App Security?](None)
-
 
 
 
@@ -16,3 +14,4 @@ oddity](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/w
 content/uploads/imagewell/facebooksecurity.jpg?w=584)
 
 
+[What is going on with Facebook App Security?](None)

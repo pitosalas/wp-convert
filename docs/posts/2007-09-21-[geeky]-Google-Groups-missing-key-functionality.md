@@ -3,8 +3,6 @@ title: "[geeky] Google Groups missing key functionality"
 author: Pito Salas
 date: 2007-09-21
 ---
-# [[geeky] Google Groups missing key functionality](None)
-
 
 
 
@@ -21,3 +19,4 @@ to checking manually every day or so. (You can see it annoyed me sufficiently
 to bother writing this 🙂
 
 
+[[geeky] Google Groups missing key functionality](None)

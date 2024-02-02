@@ -3,8 +3,6 @@ title: "Firewalls scanning IM messages: Google as symbolic link"
 author: Pito Salas
 date: 2005-07-18
 ---
-# [Firewalls scanning IM messages: Google as symbolic link](None)
-
 
 
 >>
@@ -24,3 +22,4 @@ the same url.
 could send an employee a phishing link in an IM message.
 
 
+[Firewalls scanning IM messages: Google as symbolic link](None)

@@ -3,8 +3,6 @@ title: "The Effect of Snakeoil Security: wheels within wheels"
 author: Pito Salas
 date: 2010-09-04
 ---
-# [The Effect of Snakeoil Security: wheels within wheels](None)
-
 
 
 
@@ -32,3 +30,4 @@ lab](<http://ha.ckers.org/blog/feed/>):
 …
 
 
+[The Effect of Snakeoil Security: wheels within wheels](None)

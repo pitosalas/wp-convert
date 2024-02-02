@@ -3,8 +3,6 @@ title: "The most beautiful book?"
 author: Pito Salas
 date: 2008-12-24
 ---
-# [The most beautiful book?](None)
-
 
 
 
@@ -20,3 +18,4 @@ Now here's a recommendation:
 That goes right onto my wish list!
 
 
+[The most beautiful book?](None)

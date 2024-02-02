@@ -5,8 +5,6 @@ date: 2008-04-06
 tags:
     - theatre-boston-tag-huntington-tag
 ---
-# [Go See “The Cry of the Reed” right now](None)
-
 
 
 
@@ -29,3 +27,4 @@ reviewer. This world premiere better get a **five star rating** IMHO.
 Em. Yeah. **I liked it.**
 
 
+[Go See “The Cry of the Reed” right now](None)

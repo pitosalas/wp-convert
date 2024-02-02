@@ -3,8 +3,6 @@ title: "Slim down your wallet with Just One Club Card"
 author: Pito Salas
 date: 2007-03-02
 ---
-# [Slim down your wallet with Just One Club Card](None)
-
 
 
 
@@ -25,3 +23,4 @@ one-club-card-240816.php>) from [Lifehacker](<http://www.lifehacker.com>):
 > just-one-club-card-240816.php>))
 
 
+[Slim down your wallet with Just One Club Card](None)

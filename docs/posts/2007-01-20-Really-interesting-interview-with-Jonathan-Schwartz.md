@@ -3,8 +3,6 @@ title: "Really interesting interview with Jonathan Schwartz"
 author: Pito Salas
 date: 2007-01-20
 ---
-# [Really interesting interview with Jonathan Schwartz](None)
-
 
 
 >
@@ -16,3 +14,4 @@ date: 2007-01-20
 > blog)](<http://blogs.sun.com/jonathan/entry/good_bad_and_brave>)
 
 
+[Really interesting interview with Jonathan Schwartz](None)

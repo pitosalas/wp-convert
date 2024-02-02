@@ -3,8 +3,6 @@ title: "Howard Stern finally has found"
 author: Pito Salas
 date: 2004-03-05
 ---
-# [Howard Stern finally has found](None)
-
 
 
 >>
@@ -17,3 +15,4 @@ air](<http://www.fmqb.com/Article.asp?id=20252>). [Stern
 Fan](<http://doc.weblogs.com/>) Bloggers Unite!
 
 
+[Howard Stern finally has found](None)

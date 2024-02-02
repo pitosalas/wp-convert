@@ -8,8 +8,6 @@ tags:
     - summarize
     - summary
 ---
-# [ChatPDF – Chat with any PDF!](None)
-
 
 
 
@@ -19,3 +17,4 @@ books, research papers, manuals, essays, legal contracts, whatever you have!
 The intelligence revolution is here, ChatGPT was just the beginning!
 
 
+[ChatPDF – Chat with any PDF!](None)

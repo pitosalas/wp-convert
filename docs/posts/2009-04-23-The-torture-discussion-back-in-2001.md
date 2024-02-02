@@ -3,8 +3,6 @@ title: "The torture discussion back in 2001"
 author: Pito Salas
 date: 2009-04-23
 ---
-# [The torture discussion back in 2001](None)
-
 
 
 
@@ -53,3 +51,4 @@ see the point he's making. Technorati Tags:
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[The torture discussion back in 2001](None)

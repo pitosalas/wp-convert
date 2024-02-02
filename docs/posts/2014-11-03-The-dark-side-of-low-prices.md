@@ -10,8 +10,6 @@ tags:
     - insurnace
     - price
 ---
-# [The dark side of low prices](None)
-
 
 
 
@@ -42,3 +40,4 @@ confusing bills and all that.
 We are getting what we asked for.
 
 
+[The dark side of low prices](None)

@@ -3,8 +3,6 @@ title: "Overview of Collaboration"
 author: Pito Salas
 date: 2004-03-23
 ---
-# [Overview of Collaboration](None)
-
 
 
 >>
@@ -17,3 +15,4 @@ slides](</Brandeis%20CS%20on%20Collab_files/frame.htm>), for those few who
 might be interested.
 
 
+[Overview of Collaboration](None)

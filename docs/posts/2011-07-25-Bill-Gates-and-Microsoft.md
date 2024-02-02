@@ -6,8 +6,6 @@ tags:
     - bigggates
     - microsoft
 ---
-# [Bill Gates and Microsoft](None)
-
 
 
 
@@ -29,3 +27,4 @@ charitable behemoth:
 > Journal](<http://online.wsj.com/article/SB10001424053111903554904576461571362279948.html?mod=WSJ_hp_mostpop_read>))
 
 
+[Bill Gates and Microsoft](None)

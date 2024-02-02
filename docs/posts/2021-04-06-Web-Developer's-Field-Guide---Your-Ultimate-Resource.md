@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - Dev Tools
 ---
-# [Web Developer's Field Guide - Your Ultimate Resource](http://webdevelopersfieldguide.com)
-
 <img src=https://rdl.ink/render/http%3A%2F%2Fwebdevelopersfieldguide.com width="500">
 
 
 
-(**Web site except:** See related links to what you are looking for.) 
+(**Web site excerpt:** See related links to what you are looking for.) 
+[Web Developer's Field Guide - Your Ultimate Resource](http://webdevelopersfieldguide.com)

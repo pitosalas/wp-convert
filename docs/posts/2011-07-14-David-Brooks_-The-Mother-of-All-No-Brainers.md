@@ -6,8 +6,6 @@ tags:
     - brooks
     - nyt
 ---
-# [David Brooks: The Mother of All No-Brainers](None)
-
 
 
 
@@ -34,3 +32,4 @@ acting like children:
 > And they will be right.
 
 
+[David Brooks: The Mother of All No-Brainers](None)

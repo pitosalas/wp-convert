@@ -3,8 +3,6 @@ title: "[GEEKY] How to use Twitter in Rails"
 author: Pito Salas
 date: 2010-06-23
 ---
-# [[GEEKY] How to use Twitter in Rails](None)
-
 
 
 
@@ -14,3 +12,4 @@ twitter/>). Check it out! p.s. if you don't know what the previous sentence
 means, don't worry about it. You must not really be geeky.
 
 
+[[GEEKY] How to use Twitter in Rails](None)

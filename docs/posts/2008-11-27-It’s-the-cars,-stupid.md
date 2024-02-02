@@ -3,8 +3,6 @@ title: "It’s the cars, stupid"
 author: Pito Salas
 date: 2008-11-27
 ---
-# [It’s the cars, stupid](None)
-
 
 
 
@@ -19,3 +17,4 @@ automakers](<http://www.pbs.org/cringely/pulpit/2008/pulpit_20081126_005507.html
 > Detroit](<http://www.pbs.org/cringely/pulpit/2008/pulpit_20081126_005507.html>))
 
 
+[It’s the cars, stupid](None)

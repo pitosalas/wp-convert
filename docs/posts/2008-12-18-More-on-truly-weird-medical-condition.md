@@ -3,8 +3,6 @@ title: "More on truly weird medical condition"
 author: Pito Salas
 date: 2008-12-18
 ---
-# [More on truly weird medical condition](None)
-
 
 
 
@@ -25,3 +23,4 @@ joke about this along the lines of "even worse than putting your foot in your
 MOUTH!" But I would never say that. It would be in such bad taste.
 
 
+[More on truly weird medical condition](None)

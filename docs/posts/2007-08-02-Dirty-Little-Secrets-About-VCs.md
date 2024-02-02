@@ -3,8 +3,6 @@ title: "Dirty Little Secrets About VCs"
 author: Pito Salas
 date: 2007-08-02
 ---
-# [Dirty Little Secrets About VCs](None)
-
 
 
 
@@ -19,3 +17,4 @@ his new blog [Innovation Economy](<http://www.innoeco.com/>)
 > VCs](<http://www.innoeco.com/2007/08/dirty-little-secrets-about-vcs.html>))
 
 
+[Dirty Little Secrets About VCs](None)

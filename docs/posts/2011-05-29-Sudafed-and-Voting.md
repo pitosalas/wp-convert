@@ -6,8 +6,6 @@ tags:
     - identification-tag
     - voting
 ---
-# [Sudafed and Voting](None)
-
 
 
 
@@ -38,3 +36,4 @@ Which is pretty convincing comment, on the face of it, isn't it? Except:
   6. Coincidentally there's no such correlation between people who want or need to fly
 
 
+[Sudafed and Voting](None)

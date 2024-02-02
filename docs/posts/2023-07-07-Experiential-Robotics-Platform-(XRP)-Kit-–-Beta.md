@@ -7,8 +7,6 @@ tags:
     - education-tag
     - robotics
 ---
-# [Experiential Robotics Platform (XRP) Kit – Beta](None)
-
 
 
 
@@ -18,3 +16,4 @@ a hands-on, comprehensive robotics platform and includes everything needed to
 build and program a beginner to advanced robot.
 
 
+[Experiential Robotics Platform (XRP) Kit – Beta](None)

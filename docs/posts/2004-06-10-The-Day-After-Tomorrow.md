@@ -3,8 +3,6 @@ title: "The Day After Tomorrow"
 author: Pito Salas
 date: 2004-06-10
 ---
-# [The Day After Tomorrow](None)
-
 
 
 >>
@@ -30,3 +28,4 @@ in street not even **look** cold?
 >> Anyway…
 
 
+[The Day After Tomorrow](None)

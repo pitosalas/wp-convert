@@ -3,8 +3,6 @@ title: "Devil in the White City is now an archeaological dig!"
 author: Pito Salas
 date: 2008-06-29
 ---
-# [Devil in the White City is now an archeaological dig!](None)
-
 
 
 
@@ -19,3 +17,4 @@ murderer, but that's something else again.) I am only part way through the
 book but it's quite good so far.
 
 
+[Devil in the White City is now an archeaological dig!](None)

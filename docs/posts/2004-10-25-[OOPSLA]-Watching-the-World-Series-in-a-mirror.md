@@ -3,8 +3,6 @@ title: "[OOPSLA] Watching the World Series in a mirror"
 author: Pito Salas
 date: 2004-10-25
 ---
-# [[OOPSLA] Watching the World Series in a mirror](None)
-
 
 
 >>
@@ -27,3 +25,4 @@ upside down! Well actually leftside right.
 >> Watching baseball through a mirror. **Funny.**
 
 
+[[OOPSLA] Watching the World Series in a mirror](None)

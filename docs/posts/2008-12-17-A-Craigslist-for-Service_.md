@@ -3,8 +3,6 @@ title: "A Craigslist for Service?"
 author: Pito Salas
 date: 2008-12-17
 ---
-# [A Craigslist for Service?](None)
-
 
 
 
@@ -42,3 +40,4 @@ I need to check those out. What do you think of the idea? Would you like to
 see it happen?
 
 
+[A Craigslist for Service?](None)

@@ -3,8 +3,6 @@ title: "Comment! Spam! Again!"
 author: Pito Salas
 date: 2005-05-11
 ---
-# [Comment! Spam! Again!](None)
-
 
 
 >>
@@ -29,3 +27,4 @@ which alone got hit with the 80 comments.
 [puppy](<http://technorati.com/tag/puppy>)
 
 
+[Comment! Spam! Again!](None)

@@ -3,8 +3,6 @@ title: "Meetup in Phoenix AZ, February 7th"
 author: Pito Salas
 date: 2006-02-01
 ---
-# [Meetup in Phoenix AZ, February 7th](None)
-
 
 
 >>
@@ -23,3 +21,4 @@ you like](<http://www.blogbridge.com/archives/2006/01/meetup_in_phoen_1.php>)!
 [phoenix](<http://www.technorati.com/tag/phoenix>)
 
 
+[Meetup in Phoenix AZ, February 7th](None)

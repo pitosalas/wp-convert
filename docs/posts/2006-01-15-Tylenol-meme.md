@@ -3,8 +3,6 @@ title: "Tylenol meme"
 author: Pito Salas
 date: 2006-01-15
 ---
-# [Tylenol meme](None)
-
 
 
 >>
@@ -48,3 +46,4 @@ lose track of the daily dose that they are actually taking.
 [tylenol](<http://www.technorati.com/tag/tylenol>)
 
 
+[Tylenol meme](None)

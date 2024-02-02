@@ -3,8 +3,6 @@ title: "Safari now has Scribefire"
 author: Pito Salas
 date: 2010-06-09
 ---
-# [Safari now has Scribefire](None)
-
 
 
 
@@ -21,3 +19,4 @@ Google again, reinventing the wheel. Gmail doesn't have folders, it has tags.
 And now Chrome has funny tabs instead of ones that look 'normal'
 
 
+[Safari now has Scribefire](None)

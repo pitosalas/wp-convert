@@ -3,8 +3,6 @@ title: "How many sources of video signal?"
 author: Pito Salas
 date: 2008-11-26
 ---
-# [How many sources of video signal?](None)
-
 
 
 
@@ -32,3 +30,4 @@ article.](<http://blog.wired.com/gadgets/2008/04/myka-one-set-to.html>)
 bittorrent](<http://technorati.com/tag/myka%20settopbox%20video%20dvd%20bittorrent>)
 
 
+[How many sources of video signal?](None)

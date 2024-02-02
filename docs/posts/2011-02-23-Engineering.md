@@ -6,8 +6,6 @@ tags:
     - engineering
     - failure
 ---
-# [Engineering](None)
-
 
 
 
@@ -38,3 +36,4 @@ If you are an engineer or interested in the topic, the lecture has some great
 lessons.
 
 
+[Engineering](None)

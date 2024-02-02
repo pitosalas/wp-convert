@@ -3,8 +3,6 @@ title: "[BLOGBRIDGE] Bloeb: A new kind of web site for BlogBridge"
 author: Pito Salas
 date: 2005-06-05
 ---
-# [[BLOGBRIDGE] Bloeb: A new kind of web site for BlogBridge](None)
-
 
 
 >>
@@ -47,3 +45,4 @@ In fact it's hard to tell where the blog starts and the site begins.
 >> Technorati Tags: [blogbridge](<http://technorati.com/tag/blogbridge>)
 
 
+[[BLOGBRIDGE] Bloeb: A new kind of web site for BlogBridge](None)

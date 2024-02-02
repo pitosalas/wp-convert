@@ -3,8 +3,6 @@ title: "Business opportunities in blogville?"
 author: Pito Salas
 date: 2005-07-01
 ---
-# [Business opportunities in blogville?](None)
-
 
 
 >>
@@ -109,3 +107,4 @@ product or just a feature?"
 [vc](<http://technorati.com/tag/vc>)
 
 
+[Business opportunities in blogville?](None)

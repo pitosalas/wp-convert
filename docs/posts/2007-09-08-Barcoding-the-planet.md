@@ -3,8 +3,6 @@ title: "Barcoding the planet"
 author: Pito Salas
 date: 2007-09-08
 ---
-# [Barcoding the planet](None)
-
 
 
 
@@ -24,3 +22,4 @@ Wire'](<http://online.wsj.com/article/SB118607066711486214.html.html?mod=technol
 Quirky, in a Don Quixote kind of way.
 
 
+[Barcoding the planet](None)

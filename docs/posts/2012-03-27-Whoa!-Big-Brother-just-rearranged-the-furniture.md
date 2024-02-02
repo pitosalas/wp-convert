@@ -6,8 +6,6 @@ tags:
     - big-brother
     - google
 ---
-# [Whoa! Big Brother just rearranged the furniture](None)
-
 
 
 
@@ -19,3 +17,4 @@ content/uploads/2012/03/be9d6-screen20shot202012-03-2620at208-15-2120pm.png?resi
 What does that PLAY button do?
 
 
+[Whoa! Big Brother just rearranged the furniture](None)

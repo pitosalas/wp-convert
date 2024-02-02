@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - puzzle google eggs algorithm
 ---
-# [How to solve the Google recruiters’ puzzle about throwing eggs from a building | Codementor](https://www.codementor.io/marcinmoskala/how-to-solve-the-google-recruiters-puzzle-about-throwing-eggs-from-a-building-jicqz9lnd)
-
 <img src=https://cdn.filestackcontent.com/jfl7Yel6QKmP1MntmACi width="500">
 
 
 
-(**Web site except:** You work in a 100 floor building and you get 2 identical eggs. You need to figure out the highest floor an egg can be dropped without breaking. Find an algorithm that is minimizing number of throws in the worst-case scenario.) 
+(**Web site excerpt:** You work in a 100 floor building and you get 2 identical eggs. You need to figure out the highest floor an egg can be dropped without breaking. Find an algorithm that is minimizing number of throws in the worst-case scenario.) 
+[How to solve the Google recruiters’ puzzle about throwing eggs from a building | Codementor](https://www.codementor.io/marcinmoskala/how-to-solve-the-google-recruiters-puzzle-about-throwing-eggs-from-a-building-jicqz9lnd)

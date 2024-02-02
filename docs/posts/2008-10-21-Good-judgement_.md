@@ -3,8 +3,6 @@ title: "Good judgement?"
 author: Pito Salas
 date: 2008-10-21
 ---
-# [Good judgement?](None)
-
 
 
 
@@ -32,3 +30,4 @@ for-other-people-or>).
 > brief/2008/10/17/hedge-fund-manager-goodbye-and-f-you>))
 
 
+[Good judgement?](None)

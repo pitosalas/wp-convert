@@ -3,8 +3,6 @@ title: "Interesting bit of Ruby magic"
 author: Pito Salas
 date: 2007-06-21
 ---
-# [Interesting bit of Ruby magic](None)
-
 
 
 
@@ -16,3 +14,4 @@ Replace](<http://feeds.feedburner.com/~r/Gluttonous/~3/109566815/snippet-
 multi-search-and-replace>)
 
 
+[Interesting bit of Ruby magic](None)

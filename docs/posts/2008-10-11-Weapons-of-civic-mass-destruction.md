@@ -3,8 +3,6 @@ title: "Weapons of civic mass destruction"
 author: Pito Salas
 date: 2008-10-11
 ---
-# [Weapons of civic mass destruction](None)
-
 
 
 
@@ -45,3 +43,4 @@ science of persuation and we are watching two parties engaged in what amounts
 to **mutually assured destruction** ("MAD").
 
 
+[Weapons of civic mass destruction](None)

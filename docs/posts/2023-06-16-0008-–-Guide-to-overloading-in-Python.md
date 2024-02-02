@@ -9,8 +9,6 @@ tags:
     - overloading
     - python-tag
 ---
-# [0008 – Guide to overloading in Python](None)
-
 
 
 
@@ -20,3 +18,4 @@ python/>) –Overloading is giving multiple implementations to a function, based
 on what arguments it receives.
 
 
+[0008 – Guide to overloading in Python](None)

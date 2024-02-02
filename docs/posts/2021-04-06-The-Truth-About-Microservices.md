@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - microservices architecture ddd
 ---
-# [The Truth About Microservices](https://codeburst.io/the-truth-about-microservices-8f8124913df4?source=userActivityShare-d383785221d0-1523879046)
-
 <img src=https://miro.medium.com/max/1200/1*UtHruI-_-a-DBs4hYaDGcA.jpeg width="500">
 
 
 
-(**Web site except:** Another unhappy wording case that leads to confusion and a lot of headaches for developers and maintainers) 
+(**Web site excerpt:** Another unhappy wording case that leads to confusion and a lot of headaches for developers and maintainers) 
+[The Truth About Microservices](https://codeburst.io/the-truth-about-microservices-8f8124913df4?source=userActivityShare-d383785221d0-1523879046)

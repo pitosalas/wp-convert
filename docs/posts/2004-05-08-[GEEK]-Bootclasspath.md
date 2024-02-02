@@ -3,8 +3,6 @@ title: "[GEEK] Bootclasspath"
 author: Pito Salas
 date: 2004-05-08
 ---
-# [[GEEK] Bootclasspath](None)
-
 
 
 >>
@@ -59,3 +57,4 @@ including -Xbootclasspath/p: which that allows you to pre-pend a directory or
 jar to the bootclasspath.
 
 
+[[GEEK] Bootclasspath](None)

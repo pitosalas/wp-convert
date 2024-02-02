@@ -3,8 +3,6 @@ title: "Capital of Kazakhstan to be Covered in Gigantic Tent; Gizmodo HQ Moving 
 author: Pito Salas
 date: 2006-12-11
 ---
-# [Capital of Kazakhstan to be Covered in Gigantic Tent; Gizmodo HQ Moving to Kazakhstan](None)
-
 
 
 >
@@ -33,3 +31,4 @@ date: 2006-12-11
 >  (supposedly) from there? 🙂
 
 
+[Capital of Kazakhstan to be Covered in Gigantic Tent; Gizmodo HQ Moving to Kazakhstan](None)

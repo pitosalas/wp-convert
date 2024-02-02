@@ -3,8 +3,6 @@ title: "From Demo 2008: Silobreaker – A unique new research tool"
 author: Pito Salas
 date: 2008-02-29
 ---
-# [From Demo 2008: Silobreaker – A unique new research tool](None)
-
 
 
 
@@ -21,3 +19,4 @@ Demo 2008. **Two things** catch my interest with Silobreaker - try it by
 [**Anyway, play with it. It 's cool.**](<//www.silobreaker.com/>)
 
 
+[From Demo 2008: Silobreaker – A unique new research tool](None)

@@ -3,8 +3,6 @@ title: "Back from away"
 author: Pito Salas
 date: 2006-09-25
 ---
-# [Back from away](None)
-
 
 
 >
@@ -58,3 +56,4 @@ date: 2006-09-25
 > Looks like I'm gonna be busy! Where do I find the time?
 
 
+[Back from away](None)

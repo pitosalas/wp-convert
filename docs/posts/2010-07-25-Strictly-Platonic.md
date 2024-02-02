@@ -3,8 +3,6 @@ title: "Strictly Platonic"
 author: Pito Salas
 date: 2010-07-25
 ---
-# [Strictly Platonic](None)
-
 
 
 
@@ -18,3 +16,4 @@ Medium-t.html>)', according to Craigs' List denizens:
 > platonic people, it seems, want people to talk to.'
 
 
+[Strictly Platonic](None)

@@ -10,8 +10,6 @@ tags:
     - Subscribe
     - twitter
 ---
-# [RSS feed for for twitter](None)
-
 
 
 
@@ -45,3 +43,4 @@ _**Watch this brief video to see how you would do it in BlogBridge:**_
 [youtube http://www.youtube.com/watch?v=rSo5sC3kN3Q]
 
 
+[RSS feed for for twitter](None)

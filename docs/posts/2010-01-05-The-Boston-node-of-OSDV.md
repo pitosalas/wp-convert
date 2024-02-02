@@ -11,8 +11,6 @@ tags:
     - ruby
     - trustthevote
 ---
-# [The Boston node of OSDV](None)
-
 
 
 
@@ -60,3 +58,4 @@ hat into the virtual ring.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[The Boston node of OSDV](None)

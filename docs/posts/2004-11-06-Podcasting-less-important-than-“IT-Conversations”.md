@@ -3,8 +3,6 @@ title: "Podcasting less important than “IT Conversations”"
 author: Pito Salas
 date: 2004-11-06
 ---
-# [Podcasting less important than “IT Conversations”](None)
-
 
 
 >>
@@ -38,3 +36,4 @@ have been at **least as much** devoted to sites like IT Conversation, which as
 far as I know is the **only one of its kind.**
 
 
+[Podcasting less important than “IT Conversations”](None)

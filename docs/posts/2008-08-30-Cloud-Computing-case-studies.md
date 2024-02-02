@@ -3,8 +3,6 @@ title: "Cloud Computing case studies"
 author: Pito Salas
 date: 2008-08-30
 ---
-# [Cloud Computing case studies](None)
-
 
 
 
@@ -43,3 +41,4 @@ this wasn't the first time this happened, I guess not surprisingly:
 _Originally posted on Feb 20, 2008. Reprinted courtesy of ReRuns plug-in._
 
 
+[Cloud Computing case studies](None)

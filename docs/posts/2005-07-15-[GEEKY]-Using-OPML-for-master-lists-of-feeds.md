@@ -3,8 +3,6 @@ title: "[GEEKY] Using OPML for master lists of feeds"
 author: Pito Salas
 date: 2005-07-15
 ---
-# [[GEEKY] Using OPML for master lists of feeds](None)
-
 
 
 >>
@@ -57,3 +55,4 @@ I am not sure where this leads.
 [OPML](<http://technorati.com/tag/OPML>)
 
 
+[[GEEKY] Using OPML for master lists of feeds](None)

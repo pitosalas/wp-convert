@@ -3,8 +3,6 @@ title: "LG Says Apple Copied the Prada Phone. Also, Apple’s Mother is Obese"
 author: Pito Salas
 date: 2007-02-12
 ---
-# [LG Says Apple Copied the Prada Phone. Also, Apple’s Mother is Obese](None)
-
 
 
 >
@@ -33,3 +31,4 @@ Obese](<http://gizmodo.com/gadgets/cellphones/lg-says-apple-copied-the-prada-
 phone-also-apples-mother-is-obese-235933.php>))
 
 
+[LG Says Apple Copied the Prada Phone. Also, Apple’s Mother is Obese](None)

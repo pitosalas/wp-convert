@@ -3,8 +3,6 @@ title: "Bummer for Whole Foods"
 author: Pito Salas
 date: 2008-11-20
 ---
-# [Bummer for Whole Foods](None)
-
 
 
 
@@ -23,3 +21,4 @@ of-trouble>) (other than the general lowering tide which lowers all boats)
 > of-trouble>))
 
 
+[Bummer for Whole Foods](None)

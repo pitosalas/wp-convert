@@ -7,8 +7,6 @@ tags:
     - linux
     - windows
 ---
-# [WIndows no longer out of this world!](None)
-
 
 
 
@@ -26,3 +24,4 @@ station-switches-from-windows-to-linux-for-improved-reliability>):
 
 
 
+[WIndows no longer out of this world!](None)

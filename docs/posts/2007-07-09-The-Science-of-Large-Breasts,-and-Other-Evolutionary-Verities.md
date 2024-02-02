@@ -3,8 +3,6 @@ title: "The Science of Large Breasts, and Other Evolutionary Verities"
 author: Pito Salas
 date: 2007-07-09
 ---
-# [The Science of Large Breasts, and Other Evolutionary Verities](None)
-
 
 
 
@@ -41,3 +39,4 @@ Blog](<http://www.freakonomics.com/blog>):
 > Verities](<http://feeds.feedburner.com/~r/FreakonomicsBlog/~3/131969662/>))
 
 
+[The Science of Large Breasts, and Other Evolutionary Verities](None)

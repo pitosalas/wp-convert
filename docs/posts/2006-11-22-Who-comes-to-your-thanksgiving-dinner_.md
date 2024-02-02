@@ -3,8 +3,6 @@ title: "Who comes to your thanksgiving dinner?"
 author: Pito Salas
 date: 2006-11-22
 ---
-# [Who comes to your thanksgiving dinner?](None)
-
 
 
 >
@@ -27,3 +25,4 @@ date: 2006-11-22
 > that's the kind of crowd that sits around my table… You?
 
 
+[Who comes to your thanksgiving dinner?](None)

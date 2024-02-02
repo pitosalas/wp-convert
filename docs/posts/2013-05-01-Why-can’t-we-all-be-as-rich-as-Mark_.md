@@ -9,8 +9,6 @@ tags:
     - mark-zuckerberg
     - vc
 ---
-# [Why can’t we all be as rich as Mark?](None)
-
 
 
 
@@ -26,3 +24,4 @@ not-every-founder-will-be-a-zuckerberg/?ref=technology>):
 
 
 
+[Why can’t we all be as rich as Mark?](None)

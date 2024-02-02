@@ -3,8 +3,6 @@ title: "Walt Mossberg: “You may never"
 author: Pito Salas
 date: 2004-01-08
 ---
-# [Walt Mossberg: “You may never](None)
-
 
 
 >>
@@ -59,3 +57,4 @@ controls. So much credit still goes to Microsoft. Sorry!
 NetCaptor, but both are better than IE.
 
 
+[Walt Mossberg: “You may never](None)

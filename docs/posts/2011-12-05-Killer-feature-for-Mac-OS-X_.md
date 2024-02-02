@@ -7,8 +7,6 @@ tags:
     - safari
     - siri
 ---
-# [Killer feature for Mac OS X?](None)
-
 
 
 
@@ -24,3 +22,4 @@ iPhone would have known. ( **Update:** I just tried it, and it didn't but
 still, I think it's a cool idea!)
 
 
+[Killer feature for Mac OS X?](None)

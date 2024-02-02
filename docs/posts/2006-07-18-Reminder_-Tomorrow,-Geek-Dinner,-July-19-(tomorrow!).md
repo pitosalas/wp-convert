@@ -3,8 +3,6 @@ title: "Reminder: Tomorrow, Geek Dinner, July 19 (tomorrow!)"
 author: Pito Salas
 date: 2006-07-18
 ---
-# [Reminder: Tomorrow, Geek Dinner, July 19 (tomorrow!)](None)
-
 
 
 >>
@@ -42,3 +40,4 @@ Mall.
 here!](<http://www.evite.com/app/publicUrl/rps@salas.com/geekdinner3>)
 
 
+[Reminder: Tomorrow, Geek Dinner, July 19 (tomorrow!)](None)

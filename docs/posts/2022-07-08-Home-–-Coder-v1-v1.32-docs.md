@@ -8,8 +8,6 @@ tags:
     - development-docker
     - self-hosted
 ---
-# [Home – Coder v1 v1.32 docs](None)
-
 
 
 
@@ -20,3 +18,4 @@ developer workspaces (featuring remote IDEs and all related resources) for
 DevOps, platform, and software engineering teams."
 
 
+[Home – Coder v1 v1.32 docs](None)

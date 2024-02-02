@@ -3,8 +3,6 @@ title: "Distributed philanthropy network"
 author: Pito Salas
 date: 2005-06-21
 ---
-# [Distributed philanthropy network](None)
-
 
 
 >>
@@ -31,3 +29,4 @@ ModestNeeds phenomenon and its implications." (from Deborah Finn)
 >> Technorati Tags: [philantropy](<http://technorati.com/tag/philantropy>)
 
 
+[Distributed philanthropy network](None)

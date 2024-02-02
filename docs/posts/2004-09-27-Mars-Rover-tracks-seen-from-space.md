@@ -3,8 +3,6 @@ title: "Mars Rover tracks seen from space"
 author: Pito Salas
 date: 2004-09-27
 ---
-# [Mars Rover tracks seen from space](None)
-
 
 
 >>
@@ -45,3 +43,4 @@ of the Mars Exploration Rover sites seen from orbit."
 >> Amazing, huh?
 
 
+[Mars Rover tracks seen from space](None)

@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - funny politics news humor
 ---
-# [McSweeney's Internet Tendency: Create Your Own Thomas Friedman Op-Ed Column](http://www.mcsweeneys.net/2004/4/28ward.html)
-
 <img src= width="500">
 
 
+[McSweeney's Internet Tendency: Create Your Own Thomas Friedman Op-Ed Column](http://www.mcsweeneys.net/2004/4/28ward.html)

@@ -3,8 +3,6 @@ title: "June 27th – Wonderful miraculous stuff"
 author: Pito Salas
 date: 2006-06-27
 ---
-# [June 27th – Wonderful miraculous stuff](None)
-
 
 
 >>
@@ -42,3 +40,4 @@ Life](<http://www.micropersuasion.com/2006/06/attend_a_market.html>)
 >>
 
 
+[June 27th – Wonderful miraculous stuff](None)

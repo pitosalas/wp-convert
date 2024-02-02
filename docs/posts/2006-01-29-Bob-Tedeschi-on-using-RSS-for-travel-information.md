@@ -3,8 +3,6 @@ title: "Bob Tedeschi on using RSS for travel information"
 author: Pito Salas
 date: 2006-01-29
 ---
-# [Bob Tedeschi on using RSS for travel information](None)
-
 
 
 >>
@@ -95,3 +93,4 @@ Tedeschi>), [OPML](<http://www.technorati.com/tag/OPML>),
 [travel](<http://www.technorati.com/tag/travel>)
 
 
+[Bob Tedeschi on using RSS for travel information](None)

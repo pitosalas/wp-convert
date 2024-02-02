@@ -7,8 +7,6 @@ tags:
     - health-care
     - nyt
 ---
-# [A travesty in a wealthy country](None)
-
 
 
 
@@ -45,3 +43,4 @@ Read the [whole article. The same could happen to someone you know.
 mistake.html>)
 
 
+[A travesty in a wealthy country](None)

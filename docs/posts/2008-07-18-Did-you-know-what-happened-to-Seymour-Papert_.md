@@ -3,8 +3,6 @@ title: "Did you know what happened to Seymour Papert?"
 author: Pito Salas
 date: 2008-07-18
 ---
-# [Did you know what happened to Seymour Papert?](None)
-
 
 
 
@@ -24,3 +22,4 @@ article, it's
 worthwhile.](<http://www.boston.com/lifestyle/articles/2008/07/12/in_search_of_a_beautiful_mind/>)
 
 
+[Did you know what happened to Seymour Papert?](None)

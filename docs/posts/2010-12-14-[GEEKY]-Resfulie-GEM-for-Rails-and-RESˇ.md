@@ -7,8 +7,6 @@ tags:
     - rails
     - rest
 ---
-# [[GEEKY] Resfulie GEM for Rails and RESˇ](None)
-
 
 
 
@@ -24,3 +22,4 @@ other goodies. Watch the fun tour-do-force video too:
 on [Vimeo](<http://vimeo.com>).
 
 
+[[GEEKY] Resfulie GEM for Rails and RESˇ](None)

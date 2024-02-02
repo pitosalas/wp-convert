@@ -10,8 +10,6 @@ tags:
     - truss
     - wood
 ---
-# [How to Frame a Roof (with Pictures) – wikiHow](None)
-
 
 
 
@@ -25,3 +23,4 @@ roofing trusses–the rafter supports of the roof itself–learning to frame a
 roof yourself is one of the true arts of…”
 
 
+[How to Frame a Roof (with Pictures) – wikiHow](None)

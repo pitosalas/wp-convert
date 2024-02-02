@@ -3,8 +3,6 @@ title: "A new term: Blobjects"
 author: Pito Salas
 date: 2004-08-24
 ---
-# [A new term: Blobjects](None)
-
 
 
 >>
@@ -22,3 +20,4 @@ against everybody else who has that same kind of spime. A spime is a users
 group first, and a physical object second."
 
 
+[A new term: Blobjects](None)

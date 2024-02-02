@@ -3,8 +3,6 @@ title: "Kevin Kelly writes about pervasive (or is it ubiquitous) screens"
 author: Pito Salas
 date: 2008-12-29
 ---
-# [Kevin Kelly writes about pervasive (or is it ubiquitous) screens](None)
-
 
 
 
@@ -34,3 +32,4 @@ It's a good argument. Here's a semi random thoughtful bit:
 > future-t.html?_r=1&pagewanted=all>))
 
 
+[Kevin Kelly writes about pervasive (or is it ubiquitous) screens](None)

@@ -11,10 +11,9 @@ tags:
     - dokku
     - digital-oceab
 ---
-# [Deploying Ruby on Rails with Dokku (including Redis, Sidekiq, ARM servers and Docker).](https://railsnotes.xyz/blog/deploying-ruby-on-rails-with-dokku-redis-sidekiq-arm-docker-hetzner?utm_source=shortruby&utm_campaign=shortruby_0049)
-
 <img src=https://railsnotes.xyz/static/images/deploying-ruby-on-rails-with-dokku-redis-sidekiq-arm-docker-hetzner/cover.png width="500">
 
 Dokku is used by digital ocean. This is the ultimate Dokku + Ruby on Rails guide — I cover running Dokku on x86 and ARM, deploying Sidekiq and Redis, dockerizing our Ruby on Rails app, and more...
 
-(**Web site except:** This is the ultimate Dokku + Ruby on Rails guide — I cover running Dokku on x86 and ARM, deploying Sidekiq and Redis, dockerizing our Ruby on Rails app, and more...) 
+(**Web site excerpt:** This is the ultimate Dokku + Ruby on Rails guide — I cover running Dokku on x86 and ARM, deploying Sidekiq and Redis, dockerizing our Ruby on Rails app, and more...) 
+[Deploying Ruby on Rails with Dokku (including Redis, Sidekiq, ARM servers and Docker).](https://railsnotes.xyz/blog/deploying-ruby-on-rails-with-dokku-redis-sidekiq-arm-docker-hetzner?utm_source=shortruby&utm_campaign=shortruby_0049)

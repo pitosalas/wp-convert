@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - UI ruby clientside
 ---
-# [Hyperstack.org](https://hyperstack.org)
-
 <img src=https://rdl.ink/render/https%3A%2F%2Fhyperstack.org width="500">
 
 
 
-(**Web site except:** Writing ruby to generate js and html!) 
+(**Web site excerpt:** Writing ruby to generate js and html!) 
+[Hyperstack.org](https://hyperstack.org)

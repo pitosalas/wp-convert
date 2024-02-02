@@ -3,8 +3,6 @@ title: "[GEEK/JAVAONE] Java Web Start – still falling short"
 author: Pito Salas
 date: 2004-07-01
 ---
-# [[GEEK/JAVAONE] Java Web Start – still falling short](None)
-
 
 
 >>
@@ -53,3 +51,4 @@ we are talking about. We'll consider it for the next release."
 >> With 1.5 to 2.5 year release cycle this is not really good enough
 
 
+[[GEEK/JAVAONE] Java Web Start – still falling short](None)

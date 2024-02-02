@@ -3,8 +3,6 @@ title: "More musings on the not-better-RSS-aggregator"
 author: Pito Salas
 date: 2006-10-13
 ---
-# [More musings on the not-better-RSS-aggregator](None)
-
 
 
 >
@@ -75,3 +73,4 @@ how to check their email.
 > [puppy](<http://www.technorati.com/tag/puppy>)
 
 
+[More musings on the not-better-RSS-aggregator](None)

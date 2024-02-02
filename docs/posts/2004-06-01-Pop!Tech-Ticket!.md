@@ -3,8 +3,6 @@ title: "Pop!Tech Ticket!"
 author: Pito Salas
 date: 2004-06-01
 ---
-# [Pop!Tech Ticket!](None)
-
 
 
 >>
@@ -19,3 +17,4 @@ because of when I bought it. If you are interested please contact me directly
 by email.
 
 
+[Pop!Tech Ticket!](None)

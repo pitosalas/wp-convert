@@ -12,10 +12,9 @@ tags:
     - bridge
     - image-bridge
 ---
-# [cv_bridge/Tutorials/ConvertingBetweenROSImagesAndOpenCVImagesPython - ROS Wiki](http://wiki.ros.org/cv_bridge/Tutorials/ConvertingBetweenROSImagesAndOpenCVImagesPython)
-
 <img src=http://wiki.ros.org/cv_bridge/Tutorials/ConvertingBetweenROSImagesAndOpenCVImagesPython?action=AttachFile&do=get&target=cvbridge3.png width="500">
 
 
 
-(**Web site except:** Standard way of pulling images off the camea and into opencv for ROS) 
+(**Web site excerpt:** Standard way of pulling images off the camea and into opencv for ROS) 
+[cv_bridge/Tutorials/ConvertingBetweenROSImagesAndOpenCVImagesPython - ROS Wiki](http://wiki.ros.org/cv_bridge/Tutorials/ConvertingBetweenROSImagesAndOpenCVImagesPython)

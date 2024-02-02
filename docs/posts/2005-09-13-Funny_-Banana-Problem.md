@@ -3,8 +3,6 @@ title: "Funny: Banana Problem"
 author: Pito Salas
 date: 2005-09-13
 ---
-# [Funny: Banana Problem](None)
-
 
 
 >>
@@ -54,3 +52,4 @@ problems would constitute more complex activities."
 >> Technorati Tags: [funny](<http://www.technorati.com/tag/funny>)
 
 
+[Funny: Banana Problem](None)

@@ -3,8 +3,6 @@ title: "Using AJAX to do word processing on the web"
 author: Pito Salas
 date: 2005-12-10
 ---
-# [Using AJAX to do word processing on the web](None)
-
 
 
 >>
@@ -41,3 +39,4 @@ page term paper and not be able to retrieve it. [Check it out.
 >> Technorati Tags: [ajax](<http://www.technorati.com/tag/ajax>)
 
 
+[Using AJAX to do word processing on the web](None)

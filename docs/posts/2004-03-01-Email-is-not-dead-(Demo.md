@@ -3,8 +3,6 @@ title: "Email is not dead (Demo"
 author: Pito Salas
 date: 2004-03-01
 ---
-# [Email is not dead (Demo](None)
-
 
 
 >>
@@ -134,3 +132,4 @@ GUI Outlook Express like experience, all with just a browser, and no
 downloads.
 
 
+[Email is not dead (Demo](None)

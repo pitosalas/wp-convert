@@ -5,8 +5,6 @@ date: 2008-04-07
 tags:
     - amazon-tag-amzn-webservices-xml
 ---
-# [Amazon Web Services Gets Another Hiccup](None)
-
 
 
 
@@ -26,3 +24,4 @@ from [TechCrunch](<http://feeds.feedburner.com/Techcrunch>):
 > of the night."
 
 
+[Amazon Web Services Gets Another Hiccup](None)

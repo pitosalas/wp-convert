@@ -3,8 +3,6 @@ title: "Steven Pinker on Why We Curse"
 author: Pito Salas
 date: 2007-10-19
 ---
-# [Steven Pinker on Why We Curse](None)
-
 
 
 
@@ -25,3 +23,4 @@ Curse, "What the
 F***?"](<http://www.tnr.com/doc.mhtml?i=20071008&s=pinker100807>)
 
 
+[Steven Pinker on Why We Curse](None)

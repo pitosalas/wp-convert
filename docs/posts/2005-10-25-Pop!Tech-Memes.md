@@ -3,8 +3,6 @@ title: "Pop!Tech Memes"
 author: Pito Salas
 date: 2005-10-25
 ---
-# [Pop!Tech Memes](None)
-
 
 
 >>
@@ -107,3 +105,4 @@ in gory detail. Check out the front page for a list of bloggers.)
 >> Technorati Tags: [poptech](<http://www.technorati.com/tag/poptech>)
 
 
+[Pop!Tech Memes](None)

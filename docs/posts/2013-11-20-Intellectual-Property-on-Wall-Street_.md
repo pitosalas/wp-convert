@@ -8,8 +8,6 @@ tags:
     - michael-lewis
     - wall-street
 ---
-# [Intellectual Property on Wall Street?](None)
-
 
 
 
@@ -32,3 +30,4 @@ programmer>):
 
 
 
+[Intellectual Property on Wall Street?](None)

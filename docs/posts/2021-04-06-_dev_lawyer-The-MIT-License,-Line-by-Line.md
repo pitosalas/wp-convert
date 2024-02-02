@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - Softw Entrepreneurship
 ---
-# [/dev/lawyer The MIT License, Line by Line](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html)
-
 <img src=https://writing.kemitchell.com/placeholder-on-white.png width="500">
 
 
 
-(**Web site except:** 171 words every programmer should understand) 
+(**Web site excerpt:** 171 words every programmer should understand) 
+[/dev/lawyer The MIT License, Line by Line](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html)

@@ -8,8 +8,6 @@ tags:
     - investing
     - startups
 ---
-# [New Book: Founder’s Dilemmas](None)
-
 
 
 
@@ -37,3 +35,4 @@ I think I will be getting the book.
 _p.s. not to be a scrooge, but shouldn 't the title be "Founders' Dilemmas"?_
 
 
+[New Book: Founder’s Dilemmas](None)

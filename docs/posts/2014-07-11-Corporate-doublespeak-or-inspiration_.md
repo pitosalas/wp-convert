@@ -6,8 +6,6 @@ tags:
     - microsoft
     - mission-tag
 ---
-# [Corporate doublespeak or inspiration?](None)
-
 
 
 
@@ -41,3 +39,4 @@ received this as a way to get me excited and feeling that there was renewed
 focus in the company. Well, meh.
 
 
+[Corporate doublespeak or inspiration?](None)

@@ -3,8 +3,6 @@ title: "What happens when your GMail fills up? (Part 1 of ?)"
 author: Pito Salas
 date: 2006-05-11
 ---
-# [What happens when your GMail fills up? (Part 1 of ?)](None)
-
 
 
 >>
@@ -18,3 +16,4 @@ date: 2006-05-11
 [gmail](<http://www.technorati.com/tag/gmail>)
 
 
+[What happens when your GMail fills up? (Part 1 of ?)](None)

@@ -10,10 +10,9 @@ tags:
     - teaching
     - ros
 ---
-# [Teaching Robotics With ROS | The Construct](http://www.theconstructsim.com/teaching-robotics-ros)
-
 <img src=https://www.theconstructsim.com/wp-content/uploads/2020/07/students-of-mastering-ros-robot-manipulators-course-by-The-Construct.jpg width="500">
 
 
 
-(**Web site except:** Really good article about a way to teach robotics and pros) 
+(**Web site excerpt:** Really good article about a way to teach robotics and pros) 
+[Teaching Robotics With ROS | The Construct](http://www.theconstructsim.com/teaching-robotics-ros)

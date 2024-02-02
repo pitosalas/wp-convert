@@ -7,8 +7,6 @@ tags:
     - priorities
     - war
 ---
-# [Losing Our Way](None)
-
 
 
 
@@ -28,3 +26,4 @@ Way"](<http://www.nytimes.com/2011/03/26/opinion/26herbert.html?_r=1&ref=bobherb
 You should read it.
 
 
+[Losing Our Way](None)

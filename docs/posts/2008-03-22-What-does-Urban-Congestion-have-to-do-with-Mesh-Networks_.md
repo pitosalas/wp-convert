@@ -3,8 +3,6 @@ title: "What does Urban Congestion have to do with Mesh Networks?"
 author: Pito Salas
 date: 2008-03-22
 ---
-# [What does Urban Congestion have to do with Mesh Networks?](None)
-
 
 
 
@@ -26,3 +24,4 @@ and-Wireless/Chasing-Away-Urban-Congestion/>) to follow the chain of reasoning
 but it's quite interesting.
 
 
+[What does Urban Congestion have to do with Mesh Networks?](None)

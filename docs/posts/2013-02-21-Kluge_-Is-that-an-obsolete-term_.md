@@ -7,8 +7,6 @@ tags:
     - kluge
     - rube-goldberg
 ---
-# [Kluge: Is that an obsolete term?](None)
-
 
 
 
@@ -24,3 +22,4 @@ Query: Is the word
 obsolete among the geek community?
 
 
+[Kluge: Is that an obsolete term?](None)

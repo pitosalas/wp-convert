@@ -7,8 +7,6 @@ tags:
     - Harvard
     - higher-education-tag
 ---
-# [Getting an “A” at Harvard is e-z!](None)
-
 
 
 
@@ -42,3 +40,4 @@ into Harvard that all the students deserve the grades they get because that's
 just _how good they are!_
 
 
+[Getting an “A” at Harvard is e-z!](None)

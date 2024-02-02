@@ -7,8 +7,6 @@ tags:
     - engadget
     - iphon-tage
 ---
-# [Woz speaks (on iPhone)](None)
-
 
 
 
@@ -31,3 +29,4 @@ would have liked, because he also lavished praise on the iPhone saying it has
 terms of quality, the iPhone is leading."
 
 
+[Woz speaks (on iPhone)](None)

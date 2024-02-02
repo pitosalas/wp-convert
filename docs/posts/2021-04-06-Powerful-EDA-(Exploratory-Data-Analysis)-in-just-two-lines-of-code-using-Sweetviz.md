@@ -14,10 +14,9 @@ tags:
     - visualization
     - cooltool
 ---
-# [Powerful EDA (Exploratory Data Analysis) in just two lines of code using Sweetviz](https://link.medium.com/d4nAgJdoa8)
-
 <img src=https://miro.medium.com/max/994/1*jx_ShECen95-F_M5PH9HCA.png width="500">
 
 
 
-(**Web site except:** Look at all the beauty in just two lines of code. But why two? Why not one?) 
+(**Web site excerpt:** Look at all the beauty in just two lines of code. But why two? Why not one?) 
+[Powerful EDA (Exploratory Data Analysis) in just two lines of code using Sweetviz](https://link.medium.com/d4nAgJdoa8)

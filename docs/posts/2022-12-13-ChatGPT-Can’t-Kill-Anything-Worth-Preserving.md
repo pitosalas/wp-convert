@@ -8,8 +8,6 @@ tags:
     - pedagogy
     - teaching
 ---
-# [ChatGPT Can’t Kill Anything Worth Preserving](None)
-
 
 
 
@@ -20,3 +18,4 @@ comes next) means, this is a good article: "If an algorithm is the death of
 high school English, maybe that's an okay thing."
 
 
+[ChatGPT Can’t Kill Anything Worth Preserving](None)

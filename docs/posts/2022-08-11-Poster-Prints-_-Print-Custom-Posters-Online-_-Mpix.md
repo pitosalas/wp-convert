@@ -13,10 +13,9 @@ tags:
     - service
     - poster
 ---
-# [Poster Prints | Print Custom Posters Online : Mpix](https://www.mpix.com/products/homedecor/poster-prints)
-
 <img src=https://images.mpix.com/ver/m2.5.0/970x0/products/posters/posters_banner.mjpg width="500">
 
 
 
-(**Web site except:** Create custom poster prints with your very own designs & artwork at Mpix, or personalize one of our designs with your photos. Premium quality printing, easy ordering, & 24 hour shipping.) 
+(**Web site excerpt:** Create custom poster prints with your very own designs & artwork at Mpix, or personalize one of our designs with your photos. Premium quality printing, easy ordering, & 24 hour shipping.) 
+[Poster Prints | Print Custom Posters Online : Mpix](https://www.mpix.com/products/homedecor/poster-prints)

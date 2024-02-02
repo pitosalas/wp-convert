@@ -3,8 +3,6 @@ title: "Too much good stuff: makes me feel inadequate :-)"
 author: Pito Salas
 date: 2005-05-03
 ---
-# [Too much good stuff: makes me feel inadequate :-)](None)
-
 
 
 >>
@@ -35,3 +33,4 @@ business and entertainment." - Wall Street Journal, subscription needed.
 [UI](<http://technorati.com/tag/UI>)
 
 
+[Too much good stuff: makes me feel inadequate :-)](None)

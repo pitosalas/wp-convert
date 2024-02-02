@@ -3,8 +3,6 @@ title: "Adam Green’s Podcasts"
 author: Pito Salas
 date: 2006-01-02
 ---
-# [Adam Green’s Podcasts](None)
-
 
 
 >>
@@ -32,3 +30,4 @@ Tarter](<https://sf1000.registeredsite.com/~user989239/workshop.html>) is
 Ruby](<http://ruby.darwinianweb.com/>)_
 
 
+[Adam Green’s Podcasts](None)

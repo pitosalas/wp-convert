@@ -13,10 +13,9 @@ tags:
     - threadsafe
     - howto
 ---
-# [Untangling Ruby Threads](https://thoughtbot.com/blog/untangling-ruby-threads)
-
 <img src=https://images.thoughtbot.com/blog-vellum-image-uploads/QSHvOGvRLS2IgDClDBap_Serial_v3.svg width="500">
 
 
 
-(**Web site except:** Dealing with Ruby Threads is tricky. And add to that understanding the GIL, and thread unsafeness and its pretty subtle!) 
+(**Web site excerpt:** Dealing with Ruby Threads is tricky. And add to that understanding the GIL, and thread unsafeness and its pretty subtle!) 
+[Untangling Ruby Threads](https://thoughtbot.com/blog/untangling-ruby-threads)

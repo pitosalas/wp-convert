@@ -3,8 +3,6 @@ title: "Scoble on Search. Robert Scoble"
 author: Pito Salas
 date: 2004-03-01
 ---
-# [Scoble on Search. Robert Scoble](None)
-
 
 
 >>
@@ -18,3 +16,4 @@ favorite](</2004/02/24.html#a173>) tool in this space,
 [X1](<http://www.x1.com/>). Check it out.
 
 
+[Scoble on Search. Robert Scoble](None)

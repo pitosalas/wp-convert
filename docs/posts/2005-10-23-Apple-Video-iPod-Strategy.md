@@ -3,8 +3,6 @@ title: "Apple Video iPod Strategy"
 author: Pito Salas
 date: 2005-10-23
 ---
-# [Apple Video iPod Strategy](None)
-
 
 
 >>
@@ -23,3 +21,4 @@ music," he said at the time. "And we're toying with refrigeration, too." (
 **from** [APCMag](<http://www.apcmag.com/apc/v3.nsf/dir/ipodvideo>))
 
 
+[Apple Video iPod Strategy](None)

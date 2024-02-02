@@ -7,8 +7,6 @@ tags:
     - passwords
     - security
 ---
-# [LinkedIn Passwords: Who stores passwords in the clear](None)
-
 
 
 
@@ -47,3 +45,4 @@ would give away something that they don't want to give away.
 What could that be, I wonder?
 
 
+[LinkedIn Passwords: Who stores passwords in the clear](None)

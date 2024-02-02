@@ -10,8 +10,6 @@ tags:
     - user-experience
     - ux
 ---
-# [Did someone actually have to invent that?](None)
-
 
 
 
@@ -38,3 +36,4 @@ invention!](<http://www.nytimes.com/2013/02/09/business/john-e-karlin-who-led-
 the-way-to-all-digit-dialing-dies-at-94.html>)
 
 
+[Did someone actually have to invent that?](None)

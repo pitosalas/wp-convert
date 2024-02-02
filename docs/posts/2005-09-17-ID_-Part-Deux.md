@@ -3,8 +3,6 @@ title: "ID: Part Deux"
 author: Pito Salas
 date: 2005-09-17
 ---
-# [ID: Part Deux](None)
-
 
 
 >>
@@ -36,3 +34,4 @@ press.org/reports/print.php3?PageID=988>)")
 [science](<http://www.technorati.com/tag/science>)
 
 
+[ID: Part Deux](None)

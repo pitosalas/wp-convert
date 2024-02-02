@@ -3,8 +3,6 @@ title: "What’s a carrotmob?"
 author: Pito Salas
 date: 2010-02-14
 ---
-# [What’s a carrotmob?](None)
-
 
 
 
@@ -15,3 +13,4 @@ responsible decisions.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[What’s a carrotmob?](None)

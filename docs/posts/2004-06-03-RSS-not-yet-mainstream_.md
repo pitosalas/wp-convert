@@ -3,8 +3,6 @@ title: "RSS not yet mainstream?"
 author: Pito Salas
 date: 2004-06-03
 ---
-# [RSS not yet mainstream?](None)
-
 
 
 >>
@@ -23,3 +21,4 @@ are included in the name R.S.S. I mean when's the last time you saw H.T.M.L.
 or for that matter **I.B.M?**
 
 
+[RSS not yet mainstream?](None)

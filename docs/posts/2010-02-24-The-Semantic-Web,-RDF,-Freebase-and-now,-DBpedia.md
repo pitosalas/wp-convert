@@ -3,8 +3,6 @@ title: "The Semantic Web, RDF, Freebase and now, DBpedia"
 author: Pito Salas
 date: 2010-02-24
 ---
-# [The Semantic Web, RDF, Freebase and now, DBpedia](None)
-
 
 
 
@@ -48,3 +46,4 @@ dbpedia-and-freebase/>):
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[The Semantic Web, RDF, Freebase and now, DBpedia](None)

@@ -3,8 +3,6 @@ title: "Ok, but what’s a quango?"
 author: Pito Salas
 date: 2010-09-24
 ---
-# [Ok, but what’s a quango?](None)
-
 
 
 
@@ -19,3 +17,4 @@ group. Then I thought it might be a currency. [Who
 know](<http://en.wikipedia.org/wiki/Quango>)s?
 
 
+[Ok, but what’s a quango?](None)

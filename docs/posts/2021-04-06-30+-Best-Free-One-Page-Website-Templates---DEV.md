@@ -12,10 +12,9 @@ tags:
     - templates
     - page
 ---
-# [30+ Best Free One Page Website Templates - DEV](https://dev.to/templates/free-one-page-website-templates-1j25)
-
 <img src=https://dev.to/social_previews/article/475327.png width="500">
 
 
 
-(**Web site except:** I need a new template for campus rover.org) 
+(**Web site excerpt:** I need a new template for campus rover.org) 
+[30+ Best Free One Page Website Templates - DEV](https://dev.to/templates/free-one-page-website-templates-1j25)

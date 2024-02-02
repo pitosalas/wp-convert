@@ -3,8 +3,6 @@ title: "The Change Formula: Rule"
 author: Pito Salas
 date: 2009-10-13
 ---
-# [The Change Formula: Rule](None)
-
 
 
 
@@ -61,3 +59,4 @@ but **psychologically, they are.**
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[The Change Formula: Rule](None)

@@ -8,8 +8,6 @@ tags:
     - new-york-times
     - patents
 ---
-# [Patents: Innovation Nation](None)
-
 
 
 
@@ -31,3 +29,4 @@ America](<http://www.theatlantic.com/business/archive/2012/07/why-there-are-
 too-many-patents-in-america/259725/>)" (from The Atlantic)
 
 
+[Patents: Innovation Nation](None)

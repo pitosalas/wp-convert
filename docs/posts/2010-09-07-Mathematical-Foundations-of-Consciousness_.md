@@ -7,8 +7,6 @@ tags:
     - mathematics
     - research
 ---
-# [Mathematical Foundations of Consciousness?](None)
-
 
 
 
@@ -34,3 +32,4 @@ came across as a bunch of fancy mathematics with only peripheral thinking
 about consciousness.
 
 
+[Mathematical Foundations of Consciousness?](None)

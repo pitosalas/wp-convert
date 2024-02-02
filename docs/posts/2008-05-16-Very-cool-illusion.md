@@ -5,8 +5,6 @@ date: 2008-05-16
 tags:
     - optical-illusion-tag
 ---
-# [Very cool illusion](None)
-
 
 
 
@@ -22,3 +20,4 @@ really worked for me, and is really strange and wonderful!
 Technorati Tags: [cool](<http://www.technorati.com/tag/cool>)
 
 
+[Very cool illusion](None)

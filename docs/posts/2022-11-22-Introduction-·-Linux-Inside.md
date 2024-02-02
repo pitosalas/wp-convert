@@ -12,10 +12,9 @@ tags:
     - explainer
     - documentation
 ---
-# [Introduction · Linux Inside](https://0xax.gitbooks.io/linux-insides/content/?utm_source=abyteofcodingnewsletter)
-
 <img src=https://rdl.ink/render/https%3A%2F%2F0xax.gitbooks.io%2Flinux-insides%2Fcontent%2F%3Futm_source%3Dabyteofcodingnewsletter width="500">
 
 
 
-(**Web site except:** An impressive tour the force of linux internals) 
+(**Web site excerpt:** An impressive tour the force of linux internals) 
+[Introduction · Linux Inside](https://0xax.gitbooks.io/linux-insides/content/?utm_source=abyteofcodingnewsletter)

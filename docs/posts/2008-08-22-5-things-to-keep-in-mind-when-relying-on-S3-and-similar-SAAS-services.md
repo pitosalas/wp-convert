@@ -3,8 +3,6 @@ title: "5 things to keep in mind when relying on S3 and similar SAAS services"
 author: Pito Salas
 date: 2008-08-22
 ---
-# [5 things to keep in mind when relying on S3 and similar SAAS services](None)
-
 
 
 
@@ -60,3 +58,4 @@ Here's why I say that:
 _Originally posted on Feb 19, 2008. Reprinted courtesy of ReRuns plug-in._
 
 
+[5 things to keep in mind when relying on S3 and similar SAAS services](None)

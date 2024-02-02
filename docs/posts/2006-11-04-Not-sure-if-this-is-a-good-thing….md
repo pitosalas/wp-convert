@@ -3,8 +3,6 @@ title: "Not sure if this is a good thing…"
 author: Pito Salas
 date: 2006-11-04
 ---
-# [Not sure if this is a good thing…](None)
-
 
 
 >
@@ -22,3 +20,4 @@ end of the Netherlands Antilles." (from [Radio Jamaica)
 > We'll see how it develops.
 
 
+[Not sure if this is a good thing…](None)

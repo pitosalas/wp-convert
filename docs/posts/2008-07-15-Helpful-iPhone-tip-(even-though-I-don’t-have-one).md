@@ -3,8 +3,6 @@ title: "Helpful iPhone tip (even though I don’t have one)"
 author: Pito Salas
 date: 2008-07-15
 ---
-# [Helpful iPhone tip (even though I don’t have one)](None)
-
 
 
 
@@ -18,3 +16,4 @@ obscure:
 > the Apple logo. Let go then.
 
 
+[Helpful iPhone tip (even though I don’t have one)](None)

@@ -3,8 +3,6 @@ title: "Inside the Shot Heard ‘Round the World"
 author: Pito Salas
 date: 2009-04-16
 ---
-# [Inside the Shot Heard ‘Round the World](None)
-
 
 
 
@@ -18,3 +16,4 @@ World](<http://feedproxy.google.com/~r/DefenseTech/~3/-14S39CUKGQ/004799.html>):
 > Tech](<http://feeds.feedburner.com/defensetech>))
 
 
+[Inside the Shot Heard ‘Round the World](None)

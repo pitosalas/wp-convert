@@ -6,8 +6,6 @@ tags:
     - astron-tagomy
     - nyc
 ---
-# [Happy Manhattanhenge](None)
-
 
 
 
@@ -27,3 +25,4 @@ grid. Just a fun fact.
 > Grid)_](<http://www.haydenplanetarium.org/resources/starstruck/manhattanhenge>)
 
 
+[Happy Manhattanhenge](None)

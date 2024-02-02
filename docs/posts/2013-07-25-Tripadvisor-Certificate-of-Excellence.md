@@ -7,8 +7,6 @@ tags:
     - counterfeit
     - tripadvisor
 ---
-# [Tripadvisor Certificate of Excellence](None)
-
 
 
 
@@ -25,3 +23,4 @@ paper and I somehow doubt that TripAdvisor in Massachusetts USA is aware that
 your neighborhood color print shop. ]
 
 
+[Tripadvisor Certificate of Excellence](None)

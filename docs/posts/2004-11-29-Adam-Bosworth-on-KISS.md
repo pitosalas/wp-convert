@@ -3,8 +3,6 @@ title: "Adam Bosworth on KISS"
 author: Pito Salas
 date: 2004-11-29
 ---
-# [Adam Bosworth on KISS](None)
-
 
 
 >>
@@ -98,3 +96,4 @@ question, but it is thought provoking (as you can see, because it provoked me
 to write this little piece)
 
 
+[Adam Bosworth on KISS](None)

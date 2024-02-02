@@ -3,8 +3,6 @@ title: "Tunnel Vision"
 author: Pito Salas
 date: 2010-10-12
 ---
-# [Tunnel Vision](None)
-
 
 
 
@@ -35,3 +33,4 @@ Read the whole [article by David Brooks in the New York
 Times](<http://www.nytimes.com/2010/10/12/opinion/12brooks.html>).
 
 
+[Tunnel Vision](None)

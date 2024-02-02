@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - tuples python methods
 ---
-# [Python Tuples and Tuple Methods | Codementor](https://www.codementor.io/mgalarny/python-tuples-and-tuple-methods-m6a1p6lbo)
-
 <img src=https://cdn.filestackcontent.com/Q2S3TEuHSXuEpr7WSpGq width="500">
 
 
 
-(**Web site except:** Python doesn’t have arrays... but it does have lists and tuples. Actually lists are arrays. And tuples are ... different ... and don’t seem that useful. But this article explains it all.) 
+(**Web site excerpt:** Python doesn’t have arrays... but it does have lists and tuples. Actually lists are arrays. And tuples are ... different ... and don’t seem that useful. But this article explains it all.) 
+[Python Tuples and Tuple Methods | Codementor](https://www.codementor.io/mgalarny/python-tuples-and-tuple-methods-m6a1p6lbo)

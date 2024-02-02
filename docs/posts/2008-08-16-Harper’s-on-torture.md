@@ -3,8 +3,6 @@ title: "Harper’s on torture"
 author: Pito Salas
 date: 2008-08-16
 ---
-# [Harper’s on torture](None)
-
 
 
 
@@ -24,3 +22,4 @@ p.s. Happy Valentine's Day 🙂
 **Originally posted on Feb 14, 2008. Reprinted courtesy of ReRuns plug-in.**
 
 
+[Harper’s on torture](None)

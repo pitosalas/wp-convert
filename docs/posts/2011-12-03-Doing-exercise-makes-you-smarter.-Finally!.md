@@ -7,8 +7,6 @@ tags:
     - health
     - nyt
 ---
-# [Doing exercise makes you smarter. Finally!](None)
-
 
 
 
@@ -25,3 +23,4 @@ brain/>)
 > exercise-benefits-the-brain/>))
 
 
+[Doing exercise makes you smarter. Finally!](None)

@@ -3,8 +3,6 @@ title: "Orkut Revisited: I had been"
 author: Pito Salas
 date: 2004-02-02
 ---
-# [Orkut Revisited: I had been](None)
-
 
 
 >>
@@ -67,3 +65,4 @@ connections.
 gawking and lurking you won't be seeing me on Orkut!
 
 
+[Orkut Revisited: I had been](None)

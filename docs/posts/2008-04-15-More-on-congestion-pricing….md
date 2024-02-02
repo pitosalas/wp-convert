@@ -5,8 +5,6 @@ date: 2008-04-15
 tags:
     - con-taggestion-tagpricing-nyc-meshnetworks-gps
 ---
-# [More on congestion pricing…](None)
-
 
 
 
@@ -32,3 +30,4 @@ at.
 > we-know-about-congestion-pricing/>))
 
 
+[More on congestion pricing…](None)

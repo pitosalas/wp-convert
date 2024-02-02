@@ -6,8 +6,6 @@ tags:
     - performance
     - rails
 ---
-# [Faster Rails: Eliminating N+1 queries – Semaphore](None)
-
 
 
 
@@ -21,3 +19,4 @@ them from your project.
 March 14, 2022 at 04:28PM
 
 
+[Faster Rails: Eliminating N+1 queries – Semaphore](None)

@@ -3,8 +3,6 @@ title: "Some miscellaneous links and pointers (WTF Series, 4)"
 author: Pito Salas
 date: 2004-04-06
 ---
-# [Some miscellaneous links and pointers (WTF Series, 4)](None)
-
 
 
 >>
@@ -49,3 +47,4 @@ Kleiner](<http://www.amazon.com/exec/obidos/tg/detail/-/0385484488/103-8842434-2
 >>
 
 
+[Some miscellaneous links and pointers (WTF Series, 4)](None)

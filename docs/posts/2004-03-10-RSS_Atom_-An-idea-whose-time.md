@@ -3,8 +3,6 @@ title: "RSS/Atom: An idea whose time"
 author: Pito Salas
 date: 2004-03-10
 ---
-# [RSS/Atom: An idea whose time](None)
-
 
 
 >>
@@ -42,3 +40,4 @@ requiring give on all sides, but it will set us back on a path where
 **duplication of effort** will be replaced by forward progress. It's worth it.
 
 
+[RSS/Atom: An idea whose time](None)

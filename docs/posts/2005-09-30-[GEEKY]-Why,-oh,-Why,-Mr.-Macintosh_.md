@@ -3,8 +3,6 @@ title: "[GEEKY] Why, oh, Why, Mr. Macintosh?"
 author: Pito Salas
 date: 2005-09-30
 ---
-# [[GEEKY] Why, oh, Why, Mr. Macintosh?](None)
-
 
 
 >>
@@ -28,3 +26,4 @@ that have mysteriously disappeared."
 >> Technorati Tags: [iphoto](<http://www.technorati.com/tag/iphoto>)
 
 
+[[GEEKY] Why, oh, Why, Mr. Macintosh?](None)

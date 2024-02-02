@@ -3,8 +3,6 @@ title: "Get a free shipping box from the US Postal Service"
 author: Pito Salas
 date: 2010-09-20
 ---
-# [Get a free shipping box from the US Postal Service](None)
-
 
 
 
@@ -20,3 +18,4 @@ No strings attached (as far as I can see 🙂
 No kidding. I just did it. Share and share alike!
 
 
+[Get a free shipping box from the US Postal Service](None)

@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - Ruby
 ---
-# [Railscasts - Episode Archive](http://railscasts.com/episodes;archive)
-
 <img src= width="500">
 
 
+[Railscasts - Episode Archive](http://railscasts.com/episodes;archive)

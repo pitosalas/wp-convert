@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - datascience pandas
 ---
-# [Understanding SettingwithCopyWarning in pandas](https://www.dataquest.io/blog/settingwithcopywarning)
-
 <img src=https://www.dataquest.io/wp-content/uploads/2015/12/settingwithcopywarning.png width="500">
 
 
 
-(**Web site except:** SettingWithCopyWarning: Everything you need to know about the most common (and most misunderstood) warning in pandas and how to fix it!) 
+(**Web site excerpt:** SettingWithCopyWarning: Everything you need to know about the most common (and most misunderstood) warning in pandas and how to fix it!) 
+[Understanding SettingwithCopyWarning in pandas](https://www.dataquest.io/blog/settingwithcopywarning)

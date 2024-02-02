@@ -6,8 +6,6 @@ tags:
     - jogging
     - photography
 ---
-# [Cool Photography](None)
-
 
 
 
@@ -28,3 +26,4 @@ and-after-shots-of-jogg>)
 > jogg>)
 
 
+[Cool Photography](None)

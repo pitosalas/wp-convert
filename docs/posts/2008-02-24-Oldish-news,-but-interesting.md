@@ -3,8 +3,6 @@ title: "Oldish news, but interesting"
 author: Pito Salas
 date: 2008-02-24
 ---
-# [Oldish news, but interesting](None)
-
 
 
 
@@ -22,3 +20,4 @@ It's too bad. Think Secret was a valuable resource. I wonder where Nick will
 turn up next.
 
 
+[Oldish news, but interesting](None)

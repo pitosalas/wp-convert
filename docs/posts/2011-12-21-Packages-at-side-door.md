@@ -7,8 +7,6 @@ tags:
     - fedex
     - ups
 ---
-# [Packages at side door](None)
-
 
 
 
@@ -21,3 +19,4 @@ Thieves](<http://www.bostonglobe.com/news/nation/2011/12/19/holiday-
 deliveries-attract-thieves/OoaK9Cz5KpuEOfF2PRkFiN/story.html>)
 
 
+[Packages at side door](None)

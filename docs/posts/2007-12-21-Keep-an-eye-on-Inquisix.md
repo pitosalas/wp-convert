@@ -3,8 +3,6 @@ title: "Keep an eye on Inquisix"
 author: Pito Salas
 date: 2007-12-21
 ---
-# [Keep an eye on Inquisix](None)
-
 
 
 
@@ -27,3 +25,4 @@ makes **a lot of sense**. You may want to check it out - they are taking [beta
 applications.](<http://inquisix.com/invitation_requests/new>)
 
 
+[Keep an eye on Inquisix](None)

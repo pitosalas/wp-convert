@@ -5,8 +5,6 @@ date: 2008-05-29
 tags:
     - airlines-travel-checkin
 ---
-# [Why should do online check-in when flying?](None)
-
 
 
 
@@ -28,3 +26,4 @@ don't think any of these
 Checking in online seems cool, but why???
 
 
+[Why should do online check-in when flying?](None)

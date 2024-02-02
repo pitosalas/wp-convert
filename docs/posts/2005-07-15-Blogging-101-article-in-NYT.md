@@ -3,8 +3,6 @@ title: "Blogging 101 article in NYT"
 author: Pito Salas
 date: 2005-07-15
 ---
-# [Blogging 101 article in NYT](None)
-
 
 
 >>
@@ -35,3 +33,4 @@ finds. Business and sports suggestions are particularly welcome." ( **from**
 [OPML](<http://technorati.com/tag/OPML>)
 
 
+[Blogging 101 article in NYT](None)

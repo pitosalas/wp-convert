@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - ide online github
 ---
-# [Maintain the \"GitHub flow\" with Gitpod, an online, browser IDE - JAXenter](https://jaxenter.com/gitpod-github-ide-157678.html)
-
 <img src=https://jaxenter.com/wp-content/uploads/2019/04/shutterstock_511437970.png width="500">
 
 
 
-(**Web site except:** Looks quite useful if it works nicely.) 
+(**Web site excerpt:** Looks quite useful if it works nicely.) 
+[Maintain the \"GitHub flow\" with Gitpod, an online, browser IDE - JAXenter](https://jaxenter.com/gitpod-github-ide-157678.html)

@@ -3,8 +3,6 @@ title: "Interesting Wikipedia situation developing"
 author: Pito Salas
 date: 2006-01-30
 ---
-# [Interesting Wikipedia situation developing](None)
-
 
 
 >>
@@ -73,3 +71,4 @@ flat after all.
 >> Technorati Tags: [wikipedia](<http://www.technorati.com/tag/wikipedia>)
 
 
+[Interesting Wikipedia situation developing](None)

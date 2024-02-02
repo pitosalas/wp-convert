@@ -12,8 +12,7 @@ tags:
     - robotics
     - cv
 ---
-# [OpenCV: Canny Edge Detection](https://docs.opencv.org/4.x/da/d22/tutorial_py_canny.html)
-
 <img src=https://docs.opencv.org/4.x/nms.jpg width="500">
 
 
+[OpenCV: Canny Edge Detection](https://docs.opencv.org/4.x/da/d22/tutorial_py_canny.html)

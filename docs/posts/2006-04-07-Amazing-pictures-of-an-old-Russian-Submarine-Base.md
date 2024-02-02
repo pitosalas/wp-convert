@@ -3,8 +3,6 @@ title: "Amazing pictures of an old Russian Submarine Base"
 author: Pito Salas
 date: 2006-04-07
 ---
-# [Amazing pictures of an old Russian Submarine Base](None)
-
 
 
 >>
@@ -22,3 +20,4 @@ excellent.[Thanks Aleksey](<http://blog.noizeramp.com/>)!
 >> Technorati Tags: [amazing](<http://www.technorati.com/tag/amazing>)
 
 
+[Amazing pictures of an old Russian Submarine Base](None)

@@ -3,8 +3,6 @@ title: "Useful quick reference for a ‘lean startup’"
 author: Pito Salas
 date: 2011-09-22
 ---
-# [Useful quick reference for a ‘lean startup’](None)
-
 
 
 
@@ -22,3 +20,4 @@ benefit from it 🙂
 > real business?” ( **from** : How to Build a Web Startup)
 
 
+[Useful quick reference for a ‘lean startup’](None)

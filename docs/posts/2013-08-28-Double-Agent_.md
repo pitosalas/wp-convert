@@ -9,8 +9,6 @@ tags:
     - syria
     - wsj
 ---
-# [Double Agent?](None)
-
 
 
 
@@ -37,3 +35,4 @@ WSJ.com](<http://online.wsj.com/article/SB10001424127887324591204579039011328308
 
 
 
+[Double Agent?](None)

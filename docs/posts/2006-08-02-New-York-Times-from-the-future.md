@@ -3,8 +3,6 @@ title: "New York Times from the future"
 author: Pito Salas
 date: 2006-08-02
 ---
-# [New York Times from the future](None)
-
 
 
 >>
@@ -24,3 +22,4 @@ August 2, at least here in Boston. Maybe time moves quicker in New York?
 [newyorktimes](<http://www.technorati.com/tag/newyorktimes>)
 
 
+[New York Times from the future](None)

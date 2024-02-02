@@ -7,8 +7,6 @@ tags:
     - email
     - hebrew
 ---
-# [Why is AT&T talking to me in Hebrew bullets?](None)
-
 
 
 
@@ -19,3 +17,4 @@ with using Hebrew letters as bullets? Odd.
 content/uploads/2012/01/c2586-hebrew20bullets.png?resize=564%2C131&ssl=1)
 
 
+[Why is AT&T talking to me in Hebrew bullets?](None)

@@ -6,8 +6,6 @@ tags:
     - movies
     - zero-dark-thirty
 ---
-# [Zero Dark Thirty](None)
-
 
 
 
@@ -46,3 +44,4 @@ See the movie. It's really **interesting** while being a **edge-of-your-seat**
 story.
 
 
+[Zero Dark Thirty](None)

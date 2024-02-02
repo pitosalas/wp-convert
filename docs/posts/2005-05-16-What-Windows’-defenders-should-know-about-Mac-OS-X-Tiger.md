@@ -3,8 +3,6 @@ title: "What Windows’ defenders should know about Mac OS X Tiger"
 author: Pito Salas
 date: 2005-05-16
 ---
-# [What Windows’ defenders should know about Mac OS X Tiger](None)
-
 
 
 >>
@@ -110,3 +108,4 @@ the other Windows) there would have been **hell to pay for Microsoft!**
 [security](<http://technorati.com/tag/security>)
 
 
+[What Windows’ defenders should know about Mac OS X Tiger](None)

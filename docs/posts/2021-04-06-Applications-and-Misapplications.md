@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - education
 ---
-# [Applications and Misapplications](http://act-r.psy.cmu.edu/papers/misapplied.html)
-
 <img src=https://rdl.ink/render/http%3A%2F%2Fact-r.psy.cmu.edu%2Fpapers%2Fmisapplied.html width="500">
 
 
 
-(**Web site except:** Difficult and long article) 
+(**Web site excerpt:** Difficult and long article) 
+[Applications and Misapplications](http://act-r.psy.cmu.edu/papers/misapplied.html)

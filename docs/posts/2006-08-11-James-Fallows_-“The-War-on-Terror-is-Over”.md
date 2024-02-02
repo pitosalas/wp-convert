@@ -3,8 +3,6 @@ title: "James Fallows: “The War on Terror is Over”"
 author: Pito Salas
 date: 2006-08-11
 ---
-# [James Fallows: “The War on Terror is Over”](None)
-
 
 
 >>
@@ -51,3 +49,4 @@ Victory](<http://www.theatlantic.com/doc/200609/fallows_victory>))
 >> May you live in interesting times.
 
 
+[James Fallows: “The War on Terror is Over”](None)

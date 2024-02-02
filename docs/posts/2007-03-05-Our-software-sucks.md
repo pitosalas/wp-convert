@@ -3,8 +3,6 @@ title: "Our software sucks"
 author: Pito Salas
 date: 2007-03-05
 ---
-# [Our software sucks](None)
-
 
 
 
@@ -16,3 +14,4 @@ shitty
 software"](<http://stories.scripting.com/2007/03/05/wordpressIsShittySoftware.html>))
 
 
+[Our software sucks](None)

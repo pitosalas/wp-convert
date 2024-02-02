@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - howto dashboard python userinterface
 ---
-# [intro to dashboards using python](https://link.medium.com/8EJKRyD231)
-
 <img src=https://miro.medium.com/max/1200/1*ygR2zYsHR1gAZohQmKzlHQ.png width="500">
 
 
 
-(**Web site except:** Looks like a very handy library to know about!) 
+(**Web site excerpt:** Looks like a very handy library to know about!) 
+[intro to dashboards using python](https://link.medium.com/8EJKRyD231)

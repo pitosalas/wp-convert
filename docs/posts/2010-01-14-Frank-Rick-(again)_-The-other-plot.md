@@ -8,8 +8,6 @@ tags:
     - market-failure
     - markets
 ---
-# [Frank Rick (again): The other plot](None)
-
 
 
 
@@ -44,3 +42,4 @@ vice versa.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[Frank Rick (again): The other plot](None)

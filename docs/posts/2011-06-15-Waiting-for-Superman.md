@@ -8,8 +8,6 @@ tags:
     - schools
     - union-tags
 ---
-# [Waiting for Superman](None)
-
 
 
 
@@ -25,3 +23,4 @@ for the DVD.](<http://movies.netflix.com/Movie/Waiting-for-
 Superman/70129364#height2429>)
 
 
+[Waiting for Superman](None)

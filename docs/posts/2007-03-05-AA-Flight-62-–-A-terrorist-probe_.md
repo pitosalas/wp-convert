@@ -3,8 +3,6 @@ title: "AA Flight 62 – A terrorist probe?"
 author: Pito Salas
 date: 2007-03-05
 ---
-# [AA Flight 62 – A terrorist probe?](None)
-
 
 
 
@@ -19,3 +17,4 @@ flight-62-terror-probe/>)
 > […snip]" (from "American Airlines Flight 62: A terrorist probe?")
 
 
+[AA Flight 62 – A terrorist probe?](None)

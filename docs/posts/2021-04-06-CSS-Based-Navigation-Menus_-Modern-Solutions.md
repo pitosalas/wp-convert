@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - css desgin
 ---
-# [CSS-Based Navigation Menus: Modern Solutions](http://feeds.feedburner.com/~r/SmashingMagazine/~3/101636394)
-
 <img src= width="500">
 
 
 
-(**Web site except:** Looks very useful) 
+(**Web site excerpt:** Looks very useful) 
+[CSS-Based Navigation Menus: Modern Solutions](http://feeds.feedburner.com/~r/SmashingMagazine/~3/101636394)

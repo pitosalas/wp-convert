@@ -9,8 +9,6 @@ tags:
     - scottkirsner
     - vc
 ---
-# [“What’s next in tech” event in Boston in June](None)
-
 
 
 
@@ -51,3 +49,4 @@ all of the above** , you should definitely **[come to this
 event](<http://whatsnext.eventbrite.com/>).**
 
 
+[“What’s next in tech” event in Boston in June](None)

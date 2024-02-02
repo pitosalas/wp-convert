@@ -3,8 +3,6 @@ title: "From Demo 2008: Cool research site – SiloBreaker"
 author: Pito Salas
 date: 2008-02-13
 ---
-# [From Demo 2008: Cool research site – SiloBreaker](None)
-
 
 
 
@@ -22,3 +20,4 @@ quotes, and lots of semi structured analysis.
 It's a hard site to describe but looks like a unique and useful research tool.
 
 
+[From Demo 2008: Cool research site – SiloBreaker](None)

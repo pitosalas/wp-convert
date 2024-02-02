@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - Brandeis
 ---
-# [New Faculty/Staff | LTS | Brandeis University](http://lts.brandeis.edu/techhelp/content/new-faculty-staff.html)
-
 <img src= width="500">
 
 
+[New Faculty/Staff | LTS | Brandeis University](http://lts.brandeis.edu/techhelp/content/new-faculty-staff.html)

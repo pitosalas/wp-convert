@@ -3,8 +3,6 @@ title: "RSS is not a goal…"
 author: Pito Salas
 date: 2006-03-06
 ---
-# [RSS is not a goal…](None)
-
 
 
 >>
@@ -54,3 +52,4 @@ that humans find very useful, but the whole thing is too much of a
 [RSS](<http://www.technorati.com/tag/RSS>)
 
 
+[RSS is not a goal…](None)

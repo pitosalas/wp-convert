@@ -6,8 +6,6 @@ tags:
     - design
     - gaming
 ---
-# [Nice bibliography for game designers](None)
-
 
 
 
@@ -36,3 +34,4 @@ read all these books but I want to:
   * The Art of Game Design: A book of lenses. Jesse Schell
 
 
+[Nice bibliography for game designers](None)

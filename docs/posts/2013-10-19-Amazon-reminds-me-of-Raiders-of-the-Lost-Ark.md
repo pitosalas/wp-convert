@@ -8,8 +8,6 @@ tags:
     - raiders-of-the-lost-ark
     - warehouse
 ---
-# [Amazon reminds me of Raiders of the Lost Ark](None)
-
 
 
 
@@ -20,3 +18,4 @@ pictures!](<http://imgur.com/gallery/uHZbW>)
 ![](https://i0.wp.com/i.imgur.com/RPCE8YH.jpg?w=584)
 
 
+[Amazon reminds me of Raiders of the Lost Ark](None)

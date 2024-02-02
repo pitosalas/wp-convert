@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - medical
 ---
-# [The Vanderbilt HealthTech Laboratory, Vanderbilt HealthTech Laboratory](http://www.mc.vanderbilt.edu/root/vumc.php?doc=11874&site=vhtl)
-
 <img src=https://rdl.ink/render/http%3A%2F%2Fwww.mc.vanderbilt.edu%2Froot%2Fvumc.php%3Fdoc%3D11874%26site%3Dvhtl width="500">
 
 
 
-(**Web site except:** very cool stuff) 
+(**Web site excerpt:** very cool stuff) 
+[The Vanderbilt HealthTech Laboratory, Vanderbilt HealthTech Laboratory](http://www.mc.vanderbilt.edu/root/vumc.php?doc=11874&site=vhtl)

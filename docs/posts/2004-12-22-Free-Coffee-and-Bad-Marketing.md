@@ -3,8 +3,6 @@ title: "Free Coffee and Bad Marketing"
 author: Pito Salas
 date: 2004-12-22
 ---
-# [Free Coffee and Bad Marketing](None)
-
 
 
 >>
@@ -39,3 +37,4 @@ out there because you will influence the outcome directly, and may have to
 issue a **lot** of Starbucks gift cards!
 
 
+[Free Coffee and Bad Marketing](None)

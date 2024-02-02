@@ -3,8 +3,6 @@ title: "Opera and RSS"
 author: Pito Salas
 date: 2004-05-17
 ---
-# [Opera and RSS](None)
-
 
 
 >>
@@ -17,3 +15,4 @@ access. Not true. [Oddpost](<http://www.oddpost.com/>), a very nice and unique
 web-based mail client has had this for a while. **I recommend it.**
 
 
+[Opera and RSS](None)

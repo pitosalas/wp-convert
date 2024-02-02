@@ -9,8 +9,6 @@ tags:
     - shop
     - used
 ---
-# [BookFinder.com: New & Used Books, Rare Books, Textbooks](None)
-
 
 
 
@@ -18,3 +16,4 @@ tags:
 https://www.bookfinder.com/>) –Aggregates used book sites. Recommendo
 
 
+[BookFinder.com: New & Used Books, Rare Books, Textbooks](None)

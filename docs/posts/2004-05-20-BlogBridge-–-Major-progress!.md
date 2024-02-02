@@ -3,8 +3,6 @@ title: "BlogBridge – Major progress!"
 author: Pito Salas
 date: 2004-05-20
 ---
-# [BlogBridge – Major progress!](None)
-
 
 
 >>
@@ -15,3 +13,4 @@ it suitable as a beta. While it is still way less featurefull than for example
 FeedDemon, we do have some very neat wrinkles that others don't have. Try it!
 
 
+[BlogBridge – Major progress!](None)

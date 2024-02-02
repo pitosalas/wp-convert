@@ -3,8 +3,6 @@ title: "Outsourcing and Immigration (WTF Series, 3)"
 author: Pito Salas
 date: 2004-04-06
 ---
-# [Outsourcing and Immigration (WTF Series, 3)](None)
-
 
 
 >>
@@ -22,3 +20,4 @@ are against offshore outsourcing today would have been against immigration in
 the past. (And I say that as an actual immigrant 🙂
 
 
+[Outsourcing and Immigration (WTF Series, 3)](None)

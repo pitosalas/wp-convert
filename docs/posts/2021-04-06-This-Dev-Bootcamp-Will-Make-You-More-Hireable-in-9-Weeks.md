@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - dev bootup
 ---
-# [This Dev Bootcamp Will Make You More Hireable in 9 Weeks](http://mashable.com/2012/12/13/dev-bootcamp)
-
 <img src=https://mondrian.mashable.com/2013%252F02%252F19%252Fe5%252FDevBootcamp.1b034.jpg%252F205x115__filters%253Aquality%252880%2529.jpg width="500">
 
 
 
-(**Web site except:** San Francisco startup Dev Bootcamp takes programming novices and turns them into hirable Ruby on Rails coders through an intense nine-week course.) 
+(**Web site excerpt:** San Francisco startup Dev Bootcamp takes programming novices and turns them into hirable Ruby on Rails coders through an intense nine-week course.) 
+[This Dev Bootcamp Will Make You More Hireable in 9 Weeks](http://mashable.com/2012/12/13/dev-bootcamp)

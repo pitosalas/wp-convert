@@ -3,8 +3,6 @@ title: "Goody, Goody! Mary, over at"
 author: Pito Salas
 date: 2004-01-17
 ---
-# [Goody, Goody! Mary, over at](None)
-
 
 
 >>
@@ -27,3 +25,4 @@ lately](<http://www.blogbridge.com>) has been using
 WindowsXP looking UI with Swing actually possible. No small feat.
 
 
+[Goody, Goody! Mary, over at](None)

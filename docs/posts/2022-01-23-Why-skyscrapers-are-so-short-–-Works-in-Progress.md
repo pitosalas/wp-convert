@@ -3,8 +3,6 @@ title: "Why skyscrapers are so short – Works in Progress"
 author: Pito Salas
 date: 2022-01-23
 ---
-# [Why skyscrapers are so short – Works in Progress](None)
-
 
 
 
@@ -19,3 +17,4 @@ can do it.
 January 23, 2022 at 03:44PM
 
 
+[Why skyscrapers are so short – Works in Progress](None)

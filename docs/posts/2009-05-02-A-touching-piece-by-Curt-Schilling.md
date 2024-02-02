@@ -3,8 +3,6 @@ title: "A touching piece by Curt Schilling"
 author: Pito Salas
 date: 2009-05-02
 ---
-# [A touching piece by Curt Schilling](None)
-
 
 
 
@@ -22,3 +20,4 @@ This is from his blog:
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[A touching piece by Curt Schilling](None)

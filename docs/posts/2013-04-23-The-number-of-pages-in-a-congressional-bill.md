@@ -8,8 +8,6 @@ tags:
     - politics
     - senate
 ---
-# [The number of pages in a congressional bill](None)
-
 
 
 
@@ -22,3 +20,4 @@ Watch this space. I am going to find some answers. If you know some of the
 data, please post a response or send me an email!
 
 
+[The number of pages in a congressional bill](None)

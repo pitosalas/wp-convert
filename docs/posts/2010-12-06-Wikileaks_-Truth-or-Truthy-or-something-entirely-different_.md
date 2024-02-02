@@ -7,8 +7,6 @@ tags:
     - weinberger
     - wikileaks
 ---
-# [Wikileaks: Truth or Truthy or something entirely different?](None)
-
 
 
 
@@ -35,3 +33,4 @@ the defense or offense of Wikileaks. From his post:
 > Enough](<http://www.hyperorg.com/blogger/2010/12/05/truth-is-not-enough/>))
 
 
+[Wikileaks: Truth or Truthy or something entirely different?](None)

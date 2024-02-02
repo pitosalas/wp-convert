@@ -5,8 +5,6 @@ date: 2008-04-27
 tags:
     - barcamp-foocamp-boston-tag
 ---
-# [Barcamp is coming to Boston again!](None)
-
 
 
 
@@ -33,3 +31,4 @@ the down-lo:
 **I 'm coming. Are you?**
 
 
+[Barcamp is coming to Boston again!](None)

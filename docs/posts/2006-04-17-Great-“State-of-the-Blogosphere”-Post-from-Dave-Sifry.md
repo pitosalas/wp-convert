@@ -3,8 +3,6 @@ title: "Great “State of the Blogosphere” Post from Dave Sifry"
 author: Pito Salas
 date: 2006-04-17
 ---
-# [Great “State of the Blogosphere” Post from Dave Sifry](None)
-
 
 
 >>
@@ -52,3 +50,4 @@ thing](<http://www.sifry.com/alerts/archives/000432.html>).
 [blogging](<http://www.technorati.com/tag/blogging>)
 
 
+[Great “State of the Blogosphere” Post from Dave Sifry](None)

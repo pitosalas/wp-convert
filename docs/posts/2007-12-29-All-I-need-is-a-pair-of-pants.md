@@ -3,8 +3,6 @@ title: "All I need is a pair of pants"
 author: Pito Salas
 date: 2007-12-29
 ---
-# [All I need is a pair of pants](None)
-
 
 
 
@@ -38,3 +36,4 @@ pants.**
 capitalized: glenn. Who knows…. But then my name is Pito.]
 
 
+[All I need is a pair of pants](None)

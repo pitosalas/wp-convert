@@ -3,8 +3,6 @@ title: "Shopping Tip: if you need to find a gift for a GEEK"
 author: Pito Salas
 date: 2009-11-30
 ---
-# [Shopping Tip: if you need to find a gift for a GEEK](None)
-
 
 
 
@@ -18,3 +16,4 @@ ThinkGeek](<http://www.thinkgeek.com>).
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[Shopping Tip: if you need to find a gift for a GEEK](None)

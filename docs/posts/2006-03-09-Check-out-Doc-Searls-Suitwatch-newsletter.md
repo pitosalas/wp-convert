@@ -3,8 +3,6 @@ title: "Check out Doc Searls Suitwatch newsletter"
 author: Pito Salas
 date: 2006-03-09
 ---
-# [Check out Doc Searls Suitwatch newsletter](None)
-
 
 
 >>
@@ -40,3 +38,4 @@ matter if the content is great!
 >> Technorati Tags: [docsearls](<http://www.technorati.com/tag/docsearls>)
 
 
+[Check out Doc Searls Suitwatch newsletter](None)

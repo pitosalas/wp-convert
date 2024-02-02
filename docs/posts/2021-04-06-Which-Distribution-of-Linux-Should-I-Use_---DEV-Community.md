@@ -10,10 +10,9 @@ tags:
     - distribution
     - howto
 ---
-# [Which Distribution of Linux Should I Use? - DEV Community](https://dev.to/pluralsight/which-distribution-of-linux-should-i-use-51g7)
-
 <img src=https://res.cloudinary.com/practicaldev/image/fetch/s--GDlgi6_b--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/36ginuawg0d6am4ltn0b.jpg width="500">
 
 
 
-(**Web site except:** Helpful but not definitive answer to the question “which Linux should I use?”) 
+(**Web site excerpt:** Helpful but not definitive answer to the question “which Linux should I use?”) 
+[Which Distribution of Linux Should I Use? - DEV Community](https://dev.to/pluralsight/which-distribution-of-linux-should-i-use-51g7)

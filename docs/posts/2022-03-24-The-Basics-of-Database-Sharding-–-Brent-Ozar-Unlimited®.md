@@ -5,8 +5,6 @@ date: 2022-03-24
 tags:
     - scaling
 ---
-# [The Basics of Database Sharding – Brent Ozar Unlimited®](None)
-
 
 
 
@@ -23,3 +21,4 @@ basic techniques, and shares some of the pitfalls. This…
 March 24, 2022 at 03:03PM
 
 
+[The Basics of Database Sharding – Brent Ozar Unlimited®](None)

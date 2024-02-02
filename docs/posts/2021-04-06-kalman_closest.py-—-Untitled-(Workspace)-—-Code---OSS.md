@@ -6,8 +6,7 @@ link: "http://pitosalas.ros.campusrover.org:8080"
 cover: "" 
 date: 2021-04-06
 ---
-# [kalman_closest.py — Untitled (Workspace) — Code - OSS](http://pitosalas.ros.campusrover.org:8080)
-
 <img src= width="500">
 
 
+[kalman_closest.py — Untitled (Workspace) — Code - OSS](http://pitosalas.ros.campusrover.org:8080)

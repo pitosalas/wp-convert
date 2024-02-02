@@ -12,10 +12,9 @@ tags:
     - ssh
     - public-keys
 ---
-# [How to Setup Passwordless SSH Login](https://linuxize.com/post/how-to-setup-passwordless-ssh-login/)
-
 <img src=https://linuxize.com/post/how-to-setup-passwordless-ssh-login/featured.jpg width="500">
 
 
 
-(**Web site except:** In this article we will show you how to setup an SSH key-based authentication and connect to your Linux servers without a entering password.) 
+(**Web site excerpt:** In this article we will show you how to setup an SSH key-based authentication and connect to your Linux servers without a entering password.) 
+[How to Setup Passwordless SSH Login](https://linuxize.com/post/how-to-setup-passwordless-ssh-login/)

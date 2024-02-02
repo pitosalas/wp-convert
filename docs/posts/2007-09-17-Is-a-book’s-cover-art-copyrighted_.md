@@ -3,8 +3,6 @@ title: "Is a book’s cover art copyrighted?"
 author: Pito Salas
 date: 2007-09-17
 ---
-# [Is a book’s cover art copyrighted?](None)
-
 
 
 
@@ -16,3 +14,4 @@ cover.
 Funny?
 
 
+[Is a book’s cover art copyrighted?](None)

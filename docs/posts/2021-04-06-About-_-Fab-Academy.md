@@ -6,8 +6,7 @@ link: "http://www.fabacademy.org/diploma"
 cover: "" 
 date: 2021-04-06
 ---
-# [About | Fab Academy](http://www.fabacademy.org/diploma)
-
 <img src= width="500">
 
 
+[About | Fab Academy](http://www.fabacademy.org/diploma)

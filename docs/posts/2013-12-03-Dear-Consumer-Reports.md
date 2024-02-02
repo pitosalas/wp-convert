@@ -7,8 +7,6 @@ tags:
     - receipt
     - subscription-tags
 ---
-# [Dear Consumer Reports](None)
-
 
 
 
@@ -43,3 +41,4 @@ From an email I sent, just because:
 > Pito Salas, longtime subscriber."
 
 
+[Dear Consumer Reports](None)

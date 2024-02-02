@@ -8,8 +8,6 @@ tags:
     - tumblr
     - wordpresscom
 ---
-# [[GEEKY] Moving away from self-hosted salas.com blog](None)
-
 
 
 
@@ -29,3 +27,4 @@ bumps in the road to move from one to the other:
 So you see my friends, things are never simple… I will keep you posted.
 
 
+[[GEEKY] Moving away from self-hosted salas.com blog](None)

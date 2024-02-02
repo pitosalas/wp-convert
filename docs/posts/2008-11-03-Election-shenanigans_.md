@@ -3,8 +3,6 @@ title: "Election shenanigans?"
 author: Pito Salas
 date: 2008-11-03
 ---
-# [Election shenanigans?](None)
-
 
 
 
@@ -25,3 +23,4 @@ Arnebeck](<http://www.google.com/search?q=cliff+arnebeck&ie=utf-8&oe=utf-8&aq=t&
 US:official&client=firefox-a>)
 
 
+[Election shenanigans?](None)

@@ -11,10 +11,9 @@ tags:
     - course
     - udacity
 ---
-# [Become a Self-Driving Car Engineer](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
-
 <img src=https://rdl.ink/render/https%3A%2F%2Fwww.udacity.com%2Fcourse%2Fself-driving-car-engineer-nanodegree--nd013 width="500">
 
 
 
-(**Web site except:** Self-driving cars are transformational technology, on the cutting-edge of robotics, machine learning, and engineering. Learn online with Udacity.) 
+(**Web site excerpt:** Self-driving cars are transformational technology, on the cutting-edge of robotics, machine learning, and engineering. Learn online with Udacity.) 
+[Become a Self-Driving Car Engineer](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)

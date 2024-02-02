@@ -3,8 +3,6 @@ title: "Very interesting discussion of an OS X Trojan – how it works and doesn
 author: Pito Salas
 date: 2006-03-14
 ---
-# [Very interesting discussion of an OS X Trojan – how it works and doesn’t](None)
-
 
 
 >>
@@ -29,3 +27,4 @@ recent attempt.
 >> Technorati Tags: [osx](<http://www.technorati.com/tag/osx>)
 
 
+[Very interesting discussion of an OS X Trojan – how it works and doesn’t](None)

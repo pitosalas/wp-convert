@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - microservices soa
 ---
-# [Follow these practical principles to get well-designed microservices boundaries](https://medium.freecodecamp.org/follow-these-practical-principles-and-get-well-designed-microservices-boundaries-ef2deffd69e3?source=userActivityShare-d383785221d0-1523019925)
-
 <img src=https://cdn-media-1.freecodecamp.org/images/1*gKsnN4cbdRZfueyRWA6fjg.jpeg width="500">
 
 
 
-(**Web site except:** by Jake Lumetta Follow these practical principles to get well-designed microservices boundariesHow to avoid making your microservices too small and tightly coupledPhoto by Erol Ahmed on UnsplashOne of the core benefits of developing new systems with microservices is that the architecture allows developers to build and modify individual components independently.) 
+(**Web site excerpt:** by Jake Lumetta Follow these practical principles to get well-designed microservices boundariesHow to avoid making your microservices too small and tightly coupledPhoto by Erol Ahmed on UnsplashOne of the core benefits of developing new systems with microservices is that the architecture allows developers to build and modify individual components independently.) 
+[Follow these practical principles to get well-designed microservices boundaries](https://medium.freecodecamp.org/follow-these-practical-principles-and-get-well-designed-microservices-boundaries-ef2deffd69e3?source=userActivityShare-d383785221d0-1523019925)

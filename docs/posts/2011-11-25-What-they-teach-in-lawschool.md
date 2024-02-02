@@ -8,8 +8,6 @@ tags:
     - lawschool
     - nyt
 ---
-# [What they teach in lawschool](None)
-
 
 
 
@@ -50,3 +48,4 @@ Lawyers"](<http://www.nytimes.com/2011/11/20/business/after-law-school-
 associates-learn-to-be-lawyers.html?_r=1&pagewanted=all>)
 
 
+[What they teach in lawschool](None)

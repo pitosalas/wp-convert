@@ -3,8 +3,6 @@ title: "[GEEKY] Firefox angst"
 author: Pito Salas
 date: 2007-03-11
 ---
-# [[GEEKY] Firefox angst](None)
-
 
 
 
@@ -29,3 +27,4 @@ Dear readers: have you seen FireFox pegging the CPU from time to time? Any
 fixes or explanations?
 
 
+[[GEEKY] Firefox angst](None)

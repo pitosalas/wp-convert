@@ -3,8 +3,6 @@ title: "Interesting article about technology and risk"
 author: Pito Salas
 date: 2010-05-28
 ---
-# [Interesting article about technology and risk](None)
-
 
 
 
@@ -30,3 +28,4 @@ check it out.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[Interesting article about technology and risk](None)

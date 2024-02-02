@@ -6,8 +6,6 @@ tags:
     - israel
     - USA
 ---
-# [Hilarious blog post teaching Israelis how to adapt to living in the USA](None)
-
 
 
 
@@ -30,3 +28,4 @@ us.html>) For example, this is about the express line in the super market:
 > rubin.blogspot.com/2011/05/advice-for-israelis-coming-to-us.html>))
 
 
+[Hilarious blog post teaching Israelis how to adapt to living in the USA](None)

@@ -3,8 +3,6 @@ title: "All about passwords"
 author: Pito Salas
 date: 2010-09-05
 ---
-# [All about passwords](None)
-
 
 
 
@@ -29,3 +27,4 @@ lot worse. Anyway, here's a bit from the article:
 > explained in a conversation last month." (from The New York Times)
 
 
+[All about passwords](None)

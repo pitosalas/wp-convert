@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - cryptography digital security tutorial
 ---
-# [What is a Digital Signature?](http://www.youdzone.com/signature.html)
-
 <img src=https://rdl.ink/render/http%3A%2F%2Fwww.youdzone.com%2Fsignature.html width="500">
 
 
+[What is a Digital Signature?](http://www.youdzone.com/signature.html)

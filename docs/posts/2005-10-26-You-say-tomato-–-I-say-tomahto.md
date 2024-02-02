@@ -3,8 +3,6 @@ title: "You say tomato – I say tomahto"
 author: Pito Salas
 date: 2005-10-26
 ---
-# [You say tomato – I say tomahto](None)
-
 
 
 >>
@@ -358,3 +356,4 @@ date: 2005-10-26
 [poetry](<http://www.technorati.com/tag/poetry>)
 
 
+[You say tomato – I say tomahto](None)

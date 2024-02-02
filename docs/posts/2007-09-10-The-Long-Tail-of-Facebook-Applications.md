@@ -3,8 +3,6 @@ title: "The Long Tail of Facebook Applications"
 author: Pito Salas
 date: 2007-09-10
 ---
-# [The Long Tail of Facebook Applications](None)
-
 
 
 
@@ -45,3 +43,4 @@ Herot's Weblog:](<http://herot.typepad.com/cherot/>)
 > tail-o.html>))
 
 
+[The Long Tail of Facebook Applications](None)

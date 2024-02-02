@@ -8,8 +8,6 @@ tags:
     - launch-con-tagference
     - startups
 ---
-# [More about GreenGoose and the Brush Monkey](None)
-
 
 
 
@@ -47,3 +45,4 @@ where you can read more of how it ended:
 > Blog](<http://www.boston.com/business/technology/innoeco/2013/09/bonus_material_what_happens_af.html>))
 
 
+[More about GreenGoose and the Brush Monkey](None)

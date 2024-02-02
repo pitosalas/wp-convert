@@ -3,8 +3,6 @@ title: "This Is Rumor Control"
 author: Pito Salas
 date: 2004-08-15
 ---
-# [This Is Rumor Control](None)
-
 
 
 >>
@@ -24,3 +22,4 @@ the world. ( **Then again, it could be a 16 year old in Argentina**.)
 >> ![](https://i0.wp.com/thisisrumorcontrol.org/files/cartoon-8-15.png?w=584)
 
 
+[This Is Rumor Control](None)

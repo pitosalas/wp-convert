@@ -3,8 +3,6 @@ title: "Handy site for Boston area techies"
 author: Pito Salas
 date: 2010-02-21
 ---
-# [Handy site for Boston area techies](None)
-
 
 
 
@@ -19,3 +17,4 @@ something similar but seems more focused on up and coming entrepreneurs.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[Handy site for Boston area techies](None)

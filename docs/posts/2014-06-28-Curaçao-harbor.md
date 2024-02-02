@@ -3,8 +3,6 @@ title: "Curaçao harbor"
 author: Pito Salas
 date: 2014-06-28
 ---
-# [Curaçao harbor](None)
-
 
 
 
@@ -14,3 +12,4 @@ Just playing with my new blogging platform to see if it works ok!
 content/uploads/2014/06/08580-image.jpg?w=584&ssl=1)
 
 
+[Curaçao harbor](None)

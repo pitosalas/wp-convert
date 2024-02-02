@@ -8,8 +8,6 @@ tags:
     - mooc
     - teaching
 ---
-# [Sage on the e-stage?](None)
-
 
 
 
@@ -35,3 +33,4 @@ Check out today's New York Times:
 > big-stage.html?_r=0>))
 
 
+[Sage on the e-stage?](None)

@@ -3,8 +3,6 @@ title: "iTunes 8 Genius is calling home"
 author: Pito Salas
 date: 2008-09-10
 ---
-# [iTunes 8 Genius is calling home](None)
-
 
 
 
@@ -33,3 +31,4 @@ Anyone?
 colonoscopy](<http://technorati.com/tag/itunes%20tags%20playlists%20colonoscopy>)
 
 
+[iTunes 8 Genius is calling home](None)

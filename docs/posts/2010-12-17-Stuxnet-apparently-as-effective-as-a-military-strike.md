@@ -3,8 +3,6 @@ title: "Stuxnet apparently as effective as a military strike"
 author: Pito Salas
 date: 2010-12-17
 ---
-# [Stuxnet apparently as effective as a military strike](None)
-
 
 
 
@@ -38,3 +36,4 @@ Really fascinating.
 > years](<http://www.jpost.com/IranianThreat/News/Article.aspx?id=199475>))
 
 
+[Stuxnet apparently as effective as a military strike](None)

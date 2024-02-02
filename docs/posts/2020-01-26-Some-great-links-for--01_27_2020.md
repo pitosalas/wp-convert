@@ -3,8 +3,6 @@ title: "Some great links for  01/27/2020"
 author: Pito Salas
 date: 2020-01-26
 ---
-# [Some great links for  01/27/2020](None)
-
 
 
 
@@ -29,3 +27,4 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
+[Some great links for  01/27/2020](None)

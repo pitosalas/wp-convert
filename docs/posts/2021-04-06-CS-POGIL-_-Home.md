@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - pogo teaching cosi
 ---
-# [CS-POGIL | Home](http://cspogil.org/Home)
-
 <img src=https://rdl.ink/render/http%3A%2F%2Fcspogil.org%2FHome width="500">
 
 
 
-(**Web site except:** CS-POGIL) 
+(**Web site excerpt:** CS-POGIL) 
+[CS-POGIL | Home](http://cspogil.org/Home)

@@ -3,8 +3,6 @@ title: "Revolution, Not Evolution"
 author: Pito Salas
 date: 2007-12-20
 ---
-# [Revolution, Not Evolution](None)
-
 
 
 
@@ -29,3 +27,4 @@ for this kind of thing. I almost thought it was a joke, but if you read the
 whole post, it doesn't sound like it!
 
 
+[Revolution, Not Evolution](None)

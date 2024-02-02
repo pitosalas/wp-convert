@@ -3,8 +3,6 @@ title: "Who’s your friend?"
 author: Pito Salas
 date: 2008-02-12
 ---
-# [Who’s your friend?](None)
-
 
 
 
@@ -20,3 +18,4 @@ one on the computer. See one of my favorite new terms,
 [Retronym](<//en.wikipedia.org/wiki/Retronym\)>).
 
 
+[Who’s your friend?](None)

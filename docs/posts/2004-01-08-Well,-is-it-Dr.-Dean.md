@@ -3,8 +3,6 @@ title: "Well, is it Dr. Dean"
 author: Pito Salas
 date: 2004-01-08
 ---
-# [Well, is it Dr. Dean](None)
-
 
 
 >>
@@ -15,3 +13,4 @@ guess on what the speaker thinks sounds more impressive. I'd say given the job
 he's applying for, the only relevant qualification is Governor Howard Dean.
 
 
+[Well, is it Dr. Dean](None)

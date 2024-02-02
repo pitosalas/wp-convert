@@ -5,8 +5,6 @@ date: 2008-06-24
 tags:
     - techcrunch
 ---
-# [Good article about TechCrunch and Michael Arrington in Wired](None)
-
 
 
 
@@ -40,3 +38,4 @@ Technorati Tags: [techcrunch arrington
 ](<http://technorati.com/tag/techcrunch%20arrington%20>)
 
 
+[Good article about TechCrunch and Michael Arrington in Wired](None)

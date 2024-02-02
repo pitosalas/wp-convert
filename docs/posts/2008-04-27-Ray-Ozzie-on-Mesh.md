@@ -3,8 +3,6 @@ title: "Ray Ozzie on Mesh"
 author: Pito Salas
 date: 2008-04-27
 ---
-# [Ray Ozzie on Mesh](None)
-
 
 
 
@@ -25,3 +23,4 @@ from [ReadWriteWeb](<http://www.readwriteweb.com/rss.xml>):
 > ways through which they‟ve become intermixed and mutually reinforcing."
 
 
+[Ray Ozzie on Mesh](None)

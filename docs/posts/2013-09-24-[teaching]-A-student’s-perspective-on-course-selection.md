@@ -7,8 +7,6 @@ tags:
     - courses
     - students
 ---
-# [[teaching] A student’s perspective on course selection](None)
-
 
 
 
@@ -37,3 +35,4 @@ over](<http://thebrandeishoot.com/articles/13482>):
 
 
 
+[[teaching] A student’s perspective on course selection](None)

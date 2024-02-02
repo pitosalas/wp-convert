@@ -3,8 +3,6 @@ title: "[GEEKY] Ajax? Flash? Java? What’s the best way to create a rich browse
 author: Pito Salas
 date: 2005-09-30
 ---
-# [[GEEKY] Ajax? Flash? Java? What’s the best way to create a rich browser based application?](None)
-
 
 
 >>
@@ -51,3 +49,4 @@ nice.
 [Geeky](<http://www.technorati.com/tag/Geeky>)
 
 
+[[GEEKY] Ajax? Flash? Java? What’s the best way to create a rich browser based application?](None)

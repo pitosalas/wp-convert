@@ -11,8 +11,7 @@ tags:
     - toys
     - shop
 ---
-# [Heirloom Wooden Camera Toys | Handmade Charlotte](https://www.handmadecharlotte.com/78743/)
-
 <img src=https://www.handmadecharlotte.com/wp-content/uploads/2020/01/woodencameras1.690.jpg width="500">
 
 Wooden toys. Especially cameras.
+[Heirloom Wooden Camera Toys | Handmade Charlotte](https://www.handmadecharlotte.com/78743/)

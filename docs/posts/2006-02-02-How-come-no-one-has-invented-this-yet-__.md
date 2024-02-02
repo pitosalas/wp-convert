@@ -3,8 +3,6 @@ title: "How come no-one has invented this yet :?"
 author: Pito Salas
 date: 2006-02-02
 ---
-# [How come no-one has invented this yet :?](None)
-
 
 
 >>
@@ -33,3 +31,4 @@ reason there's no correct emoticon, at least as far as I know…
 >> Technorati Tags: [funny](<http://www.technorati.com/tag/funny>)
 
 
+[How come no-one has invented this yet :?](None)

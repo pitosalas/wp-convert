@@ -5,8 +5,6 @@ date: 2008-05-22
 tags:
     - blogging-fairness
 ---
-# [Asymmetrical  conflict in the blogosphere](None)
-
 
 
 
@@ -43,3 +41,4 @@ side** of all the good that we get from the internet. But I know I personally
 will **think twice before zipping off a blog post or comment in anger.**
 
 
+[Asymmetrical  conflict in the blogosphere](None)

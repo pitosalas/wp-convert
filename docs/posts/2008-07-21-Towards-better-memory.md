@@ -3,8 +3,6 @@ title: "Towards better memory"
 author: Pito Salas
 date: 2008-07-21
 ---
-# [Towards better memory](None)
-
 
 
 
@@ -19,3 +17,4 @@ Memory](<http://www.wired.com/medtech/health/magazine/16-05/ff_wozniak?currentPa
 > Learn?)](<http://www.wired.com/medtech/health/magazine/16-05/ff_wozniak?currentPage=all>)
 
 
+[Towards better memory](None)

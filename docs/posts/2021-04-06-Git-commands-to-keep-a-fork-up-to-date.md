@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - commands fork git
 ---
-# [Git commands to keep a fork up to date](https://philna.sh/blog/2018/08/21/git-commands-to-keep-a-fork-up-to-date)
-
 <img src=https://philna.sh/assets/posts/git-cfe4c87647c74b7f698ae278bc525a6b701b7804518e4200d59c38f961155239.png width="500">
 
 
 
-(**Web site except:** Forking with git, and just creating and merging branches can be very confusing.) 
+(**Web site excerpt:** Forking with git, and just creating and merging branches can be very confusing.) 
+[Git commands to keep a fork up to date](https://philna.sh/blog/2018/08/21/git-commands-to-keep-a-fork-up-to-date)

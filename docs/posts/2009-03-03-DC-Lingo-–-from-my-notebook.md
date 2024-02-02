@@ -7,8 +7,6 @@ tags:
     - lingo
     - transparencycamp
 ---
-# [DC Lingo – from my notebook](None)
-
 
 
 
@@ -29,3 +27,4 @@ You mark yourself as an out-of-towner if you don't know what **CQ** stands
 for.
 
 
+[DC Lingo – from my notebook](None)

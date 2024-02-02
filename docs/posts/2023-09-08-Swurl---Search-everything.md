@@ -10,10 +10,9 @@ tags:
     - search
     - google
 ---
-# [Swurl - Search everything](https://swurl.com)
-
 <img src=https://swurl.com/img/swurl.com-screenshot.png width="500">
 
 Extremely cool alternative search engine.
 
-(**Web site except:** Search Google, YouTube, Instagram, TikTok, Twitter, Reddit, Amazon, Images, News, & more. See all results by swiping — no clicking.) 
+(**Web site excerpt:** Search Google, YouTube, Instagram, TikTok, Twitter, Reddit, Amazon, Images, News, & more. See all results by swiping — no clicking.) 
+[Swurl - Search everything](https://swurl.com)

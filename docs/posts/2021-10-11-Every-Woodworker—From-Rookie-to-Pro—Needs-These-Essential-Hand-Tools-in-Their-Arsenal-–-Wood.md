@@ -3,8 +3,6 @@ title: "Every Woodworker—From Rookie to Pro—Needs These Essential Hand Tools
 author: Pito Salas
 date: 2021-10-11
 ---
-# [Every Woodworker—From Rookie to Pro—Needs These Essential Hand Tools in Their Arsenal – Wood](None)
-
 
 
 
@@ -16,3 +14,4 @@ For finesse and fine work, hand tools get the job done. Here’s where to start.
 October 12, 2021 at 05:18AM
 
 
+[Every Woodworker—From Rookie to Pro—Needs These Essential Hand Tools in Their Arsenal – Wood](None)

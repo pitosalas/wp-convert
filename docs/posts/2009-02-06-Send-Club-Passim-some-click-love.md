@@ -3,8 +3,6 @@ title: "Send Club Passim some click love"
 author: Pito Salas
 date: 2009-02-06
 ---
-# [Send Club Passim some click love](None)
-
 
 
 
@@ -22,3 +20,4 @@ Spread the karma, it will come back to you!
 HERE](<http://revolutiontakesflight.com/items/Passim_Folk_Music_Cultural_Center>)
 
 
+[Send Club Passim some click love](None)

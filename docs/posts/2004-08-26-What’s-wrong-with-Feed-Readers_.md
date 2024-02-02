@@ -3,8 +3,6 @@ title: "What’s wrong with Feed Readers?"
 author: Pito Salas
 date: 2004-08-26
 ---
-# [What’s wrong with Feed Readers?](None)
-
 
 
 >>
@@ -30,3 +28,4 @@ the ideas mentioned here are already planned for BlogBridge, but there are
 lots of good tidbits to insipre further work!
 
 
+[What’s wrong with Feed Readers?](None)

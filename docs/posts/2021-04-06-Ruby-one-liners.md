@@ -11,8 +11,7 @@ tags:
     - oneliners
     - ruby
 ---
-# [Ruby one-liners](http://benoithamelin.tumblr.com/ruby1line)
-
 <img src=https://rdl.ink/render/http%3A%2F%2Fbenoithamelin.tumblr.com%2Fruby1line width="500">
 
 
+[Ruby one-liners](http://benoithamelin.tumblr.com/ruby1line)

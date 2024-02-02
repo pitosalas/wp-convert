@@ -3,8 +3,6 @@ title: "Wikileaks, continued"
 author: Pito Salas
 date: 2010-12-14
 ---
-# [Wikileaks, continued](None)
-
 
 
 
@@ -27,3 +25,4 @@ From Jeremy Wagstaff's [Loose Wire Blog](<http://www.loosewireblog.com>):
 > journalism-is.html>))
 
 
+[Wikileaks, continued](None)

@@ -7,8 +7,6 @@ tags:
     - plays-boston-tag
     - theater
 ---
-# [Huntington Theatre in Boston IS BACK!](None)
-
 
 
 
@@ -53,3 +51,4 @@ Way to go [Huntington](<http://www.huntingtontheatre.org>)! I think Becky Shaw
 and Stick Fly are still running. Go see them.
 
 
+[Huntington Theatre in Boston IS BACK!](None)

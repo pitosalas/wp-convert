@@ -3,8 +3,6 @@ title: "Distributed network of service providers"
 author: Pito Salas
 date: 2005-06-17
 ---
-# [Distributed network of service providers](None)
-
 
 
 >>
@@ -31,3 +29,4 @@ back. Now lets see the quality of the service!
 [recommended](<http://technorati.com/tag/recommended>)
 
 
+[Distributed network of service providers](None)

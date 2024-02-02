@@ -6,8 +6,6 @@ tags:
     - edtech
     - university
 ---
-# [[edtech] Who knew there was “university in a box” software!](None)
-
 
 
 
@@ -28,3 +26,4 @@ System](<http://www.fedena.com/feature_tour>):
 
 
 
+[[edtech] Who knew there was “university in a box” software!](None)

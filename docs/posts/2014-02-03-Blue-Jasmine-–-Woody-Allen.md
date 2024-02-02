@@ -7,8 +7,6 @@ tags:
     - movies
     - woodyallen
 ---
-# [Blue Jasmine – Woody Allen](None)
-
 
 
 
@@ -36,3 +34,4 @@ allegations-not-so-fast.html>):
 > closer examination reveal?
 
 
+[Blue Jasmine – Woody Allen](None)

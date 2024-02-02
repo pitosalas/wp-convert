@@ -3,8 +3,6 @@ title: "Some great links for  02/14/2021"
 author: Pito Salas
 date: 2021-02-13
 ---
-# [Some great links for  02/14/2021](None)
-
 
 
 
@@ -22,3 +20,4 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
+[Some great links for  02/14/2021](None)

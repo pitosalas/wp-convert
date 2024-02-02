@@ -3,8 +3,6 @@ title: "Great magazine articles"
 author: Pito Salas
 date: 2008-02-05
 ---
-# [Great magazine articles](None)
-
 
 
 
@@ -56,3 +54,4 @@ Shumpeter](<http://chronicle.com/cgi2-bin/printable.cgi?article=http://chronicle
 journal.org/html/17_3_urbanities-regietheater.html>)
 
 
+[Great magazine articles](None)

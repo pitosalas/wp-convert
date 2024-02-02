@@ -9,8 +9,6 @@ tags:
     - ruby
     - syntax
 ---
-# [Ruby’s Switch Statement is More Flexible Than You Thought](None)
-
 
 
 
@@ -22,3 +20,4 @@ why it works the way it works. Hint: it uses the `===` operator (method) under
 the hood.
 
 
+[Ruby’s Switch Statement is More Flexible Than You Thought](None)

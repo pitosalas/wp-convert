@@ -3,8 +3,6 @@ title: "Noise cancelling headphones"
 author: Pito Salas
 date: 2007-06-14
 ---
-# [Noise cancelling headphones](None)
-
 
 
 
@@ -67,3 +65,4 @@ Technorati Tags: [earprotection bose noise
 headphone](<http://technorati.com/tag/earprotection%20bose%20noise%20headphone>)
 
 
+[Noise cancelling headphones](None)

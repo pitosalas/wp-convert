@@ -3,8 +3,6 @@ title: "The fastest way to clone an SD card on macOS – Jaimyn’s Blog"
 author: Pito Salas
 date: 2021-05-24
 ---
-# [The fastest way to clone an SD card on macOS – Jaimyn’s Blog](None)
-
 
 
 
@@ -19,3 +17,4 @@ Unfortunately this has issues reading linux partitions (well […]
 May 24, 2021 at 04:15PM
 
 
+[The fastest way to clone an SD card on macOS – Jaimyn’s Blog](None)

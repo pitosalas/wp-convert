@@ -3,8 +3,6 @@ title: "The *myth* of multi-tasking"
 author: Pito Salas
 date: 2007-04-02
 ---
-# [The *myth* of multi-tasking](None)
-
 
 
 
@@ -52,3 +50,4 @@ said.
 > “multitasking”](<http://feeds.feedburner.com/~r/43Folders/~3/104476049/>))
 
 
+[The *myth* of multi-tasking](None)

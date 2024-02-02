@@ -11,10 +11,9 @@ tags:
     - explainer
     - tutorial
 ---
-# [Things You Should Know About Databases](https://architecturenotes.co/things-you-should-know-about-databases/)
-
 <img src=https://architecturenotes.co/content/images/2022/06/Untitled-design-6.png width="500">
 
 
 
-(**Web site except:** Things You Should Know About Indexes and Transactions. This post covers internal workings of indexes and transactions of RDBMSs.) 
+(**Web site excerpt:** Things You Should Know About Indexes and Transactions. This post covers internal workings of indexes and transactions of RDBMSs.) 
+[Things You Should Know About Databases](https://architecturenotes.co/things-you-should-know-about-databases/)

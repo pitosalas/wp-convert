@@ -3,8 +3,6 @@ title: "The 7 deadly sins and 10 lessons of a failed startup"
 author: Pito Salas
 date: 2008-07-23
 ---
-# [The 7 deadly sins and 10 lessons of a failed startup](None)
-
 
 
 
@@ -21,3 +19,4 @@ Thing](<http://dondodge.typepad.com/the_next_big_thing/index.rdf>):
 > terrible teacher."
 
 
+[The 7 deadly sins and 10 lessons of a failed startup](None)

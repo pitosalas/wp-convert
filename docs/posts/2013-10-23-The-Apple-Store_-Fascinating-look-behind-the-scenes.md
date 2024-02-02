@@ -7,8 +7,6 @@ tags:
     - apple-store
     - store
 ---
-# [The Apple Store: Fascinating look behind the scenes](None)
-
 
 
 
@@ -30,3 +28,4 @@ store-1355171329>):
 
 
 
+[The Apple Store: Fascinating look behind the scenes](None)

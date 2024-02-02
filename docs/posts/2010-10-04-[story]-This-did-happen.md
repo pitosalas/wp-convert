@@ -3,8 +3,6 @@ title: "[story] This did happen"
 author: Pito Salas
 date: 2010-10-04
 ---
-# [[story] This did happen](None)
-
 
 
 
@@ -83,3 +81,4 @@ Intelligence, Diplomacy and Legal could not decide, and respond, quickly, the
 borders would be redrawn perhaps permanently.
 
 
+[[story] This did happen](None)

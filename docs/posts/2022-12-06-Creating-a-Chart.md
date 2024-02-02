@@ -14,10 +14,9 @@ tags:
     - visualization
     - dashboards
 ---
-# [Creating a Chart](https://docs.preset.io/docs/creating-a-chart)
-
 <img src=https://cdn.document360.io/4749ddf8-aa05-4f3f-80e1-07a5d2d0f137/Images/Documentation/Create%20Chart%201.gif width="500">
 
 
 
-(**Web site except:** I've been experimenting with Apache Superset to create charts and dashboards. The features are very powerul and consequently can be obscure. I just found this doc which seems helpful) 
+(**Web site excerpt:** I've been experimenting with Apache Superset to create charts and dashboards. The features are very powerul and consequently can be obscure. I just found this doc which seems helpful) 
+[Creating a Chart](https://docs.preset.io/docs/creating-a-chart)

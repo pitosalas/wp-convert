@@ -7,8 +7,6 @@ tags:
     - scott-adams
     - suicide
 ---
-# [This post might have changed my mind](None)
-
 
 
 
@@ -29,3 +27,4 @@ is not meant as humour:
 Postscript: His Dad passed away a few hours after he wrote this
 
 
+[This post might have changed my mind](None)

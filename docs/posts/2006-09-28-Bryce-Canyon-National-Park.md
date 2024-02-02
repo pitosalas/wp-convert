@@ -3,8 +3,6 @@ title: "Bryce Canyon National Park"
 author: Pito Salas
 date: 2006-09-28
 ---
-# [Bryce Canyon National Park](None)
-
 
 
 >
@@ -51,3 +49,4 @@ date: 2006-09-28
 >  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 
 
+[Bryce Canyon National Park](None)

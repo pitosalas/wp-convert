@@ -7,8 +7,6 @@ tags:
     - nyt
     - restaurant
 ---
-# [Gripping story of restaurant](None)
-
 
 
 
@@ -34,3 +32,4 @@ balthazar.html?_r=0>):
 
 
 
+[Gripping story of restaurant](None)

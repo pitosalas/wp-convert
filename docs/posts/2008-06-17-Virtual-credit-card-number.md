@@ -3,8 +3,6 @@ title: "Virtual credit card number"
 author: Pito Salas
 date: 2008-06-17
 ---
-# [Virtual credit card number](None)
-
 
 
 
@@ -16,3 +14,4 @@ risk. Pretty cool. I just used it to pay for some software online and it
 worked like a charm. Simple and useful!
 
 
+[Virtual credit card number](None)

@@ -3,8 +3,6 @@ title: "Pandora is saved!"
 author: Pito Salas
 date: 2009-07-08
 ---
-# [Pandora is saved!](None)
-
 
 
 
@@ -22,3 +20,4 @@ Been Saved!"](<http://www.techcrunch.com/2009/07/07/pandora-and-other-
 internet-radio-has-officially-been-saved/>)
 
 
+[Pandora is saved!](None)

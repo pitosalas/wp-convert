@@ -6,8 +6,6 @@ tags:
     - firefox
     - plugins
 ---
-# [30+ Must-Have Updated Firefox 3 Extensions](None)
-
 
 
 
@@ -25,3 +23,4 @@ Lots of good stuff there if you are a FireFox 3 user. Check 'em out!
 _Originally posted on Jun 27, 2008. Reprinted courtesy of ReRuns plug-in._
 
 
+[30+ Must-Have Updated Firefox 3 Extensions](None)

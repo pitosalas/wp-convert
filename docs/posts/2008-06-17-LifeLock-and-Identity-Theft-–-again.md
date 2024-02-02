@@ -3,8 +3,6 @@ title: "LifeLock and Identity Theft – again"
 author: Pito Salas
 date: 2008-06-17
 ---
-# [LifeLock and Identity Theft – again](None)
-
 
 
 
@@ -25,3 +23,4 @@ basically saying that LifeLock is clever and useful but too expensive. That's
 more positive than the press they've been getting.
 
 
+[LifeLock and Identity Theft – again](None)

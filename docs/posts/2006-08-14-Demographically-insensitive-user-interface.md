@@ -3,8 +3,6 @@ title: "Demographically insensitive user interface"
 author: Pito Salas
 date: 2006-08-14
 ---
-# [Demographically insensitive user interface](None)
-
 
 
 >>
@@ -31,3 +29,4 @@ are the questions.
 [security](<http://www.technorati.com/tag/security>)
 
 
+[Demographically insensitive user interface](None)

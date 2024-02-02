@@ -3,8 +3,6 @@ title: "Goodnight Irene – Huddie Ledbetter, aka Leadbelly"
 author: Pito Salas
 date: 2005-11-24
 ---
-# [Goodnight Irene – Huddie Ledbetter, aka Leadbelly](None)
-
 
 
 >>
@@ -112,3 +110,4 @@ date: 2005-11-24
 >> Technorati Tags: [blues](<http://www.technorati.com/tag/blues>)
 
 
+[Goodnight Irene – Huddie Ledbetter, aka Leadbelly](None)

@@ -3,8 +3,6 @@ title: "I am convinced by this"
 author: Pito Salas
 date: 2009-10-09
 ---
-# [I am convinced by this](None)
-
 
 
 
@@ -28,3 +26,4 @@ thing.](<http://www.nytimes.com/2009/10/09/opinion/09brin.html?_r=1&partner=rss&
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[I am convinced by this](None)

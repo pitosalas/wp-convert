@@ -3,8 +3,6 @@ title: "Interesting new search engines"
 author: Pito Salas
 date: 2005-07-27
 ---
-# [Interesting new search engines](None)
-
 
 
 >>
@@ -43,3 +41,4 @@ Times](<http://www.nytimes.com/2005/06/12/business/yourmoney/12techno.html>))
 >> Technorati Tags: [searchengines](<http://technorati.com/tag/searchengines>)
 
 
+[Interesting new search engines](None)

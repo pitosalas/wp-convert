@@ -7,8 +7,6 @@ tags:
     - sno-tagoty
     - words
 ---
-# [What do you think of people who insist on saying “AN historic”?](None)
-
 
 
 
@@ -27,3 +25,4 @@ But I can't help hearing it as "snooty" and "smarty pants".
 I know, it's my problem 🙂
 
 
+[What do you think of people who insist on saying “AN historic”?](None)

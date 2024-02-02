@@ -13,10 +13,9 @@ tags:
     - manage
     - howto
 ---
-# [Managing Multiple Python Versions With pyenv – Real Python](https://realpython.com/intro-to-pyenv/)
-
 <img src=https://files.realpython.com/media/Getting-Started-With-pyenv_Watermarked.7b1dd55b32a1.jpg width="500">
 
 
 
-(**Web site except:** If this is not a port of rubyenv I don't know. Its exactly the same. So it's helpful if you know one, you will know the other! "In this step-by-step tutorial, you'll learn how to install multiple Python versions and switch between them with ease, including project-specific virtual environments, even if you don't have sudo access with pyenv.") 
+(**Web site excerpt:** If this is not a port of rubyenv I don't know. Its exactly the same. So it's helpful if you know one, you will know the other! "In this step-by-step tutorial, you'll learn how to install multiple Python versions and switch between them with ease, including project-specific virtual environments, even if you don't have sudo access with pyenv.") 
+[Managing Multiple Python Versions With pyenv – Real Python](https://realpython.com/intro-to-pyenv/)

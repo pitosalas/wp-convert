@@ -7,8 +7,6 @@ tags:
     - crowdsourcing
     - kickstarter
 ---
-# [There’s more to life than Kickstarter (revised)](None)
-
 
 
 
@@ -50,3 +48,4 @@ projects:
   * [Crowdtilt](<https://www.crowdtilt.com>) - "We Want To Rid The World of the Phrase, 'Wouldn't it be cool if we"
 
 
+[There’s more to life than Kickstarter (revised)](None)

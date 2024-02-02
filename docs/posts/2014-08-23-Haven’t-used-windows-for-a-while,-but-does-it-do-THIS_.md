@@ -3,8 +3,6 @@ title: "Haven’t used windows for a while, but does it do THIS?"
 author: Pito Salas
 date: 2014-08-23
 ---
-# [Haven’t used windows for a while, but does it do THIS?](None)
-
 
 
 
@@ -15,3 +13,4 @@ content/uploads/2014/08/87c29-screenshot2014-08-23at4-55-45pm-45pm.png?w=584&ssl
 Does Windows do this?
 
 
+[Haven’t used windows for a while, but does it do THIS?](None)

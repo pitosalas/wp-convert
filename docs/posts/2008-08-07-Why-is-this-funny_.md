@@ -3,8 +3,6 @@ title: "Why is this funny?"
 author: Pito Salas
 date: 2008-08-07
 ---
-# [Why is this funny?](None)
-
 
 
 
@@ -14,3 +12,4 @@ date: 2008-08-07
 Originally posted on Jan 01, 2006. Reprinted courtesy of ReRuns plug-in.
 
 
+[Why is this funny?](None)

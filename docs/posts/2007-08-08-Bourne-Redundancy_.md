@@ -3,8 +3,6 @@ title: "Bourne Redundancy?"
 author: Pito Salas
 date: 2007-08-08
 ---
-# [Bourne Redundancy?](None)
-
 
 
 
@@ -21,3 +19,4 @@ Why? [tag]Bruce Willis[/tag] is funny and [tag]Matt Damon[/tag] (in this
 movie, and presumably as intended) has no personality.
 
 
+[Bourne Redundancy?](None)

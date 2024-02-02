@@ -3,8 +3,6 @@ title: "June in Paradise"
 author: Pito Salas
 date: 2008-06-09
 ---
-# [June in Paradise](None)
-
 
 
 
@@ -32,3 +30,4 @@ were surprised by the **30 foot snow banks!**
 Yes, that's me in the picture 🙂
 
 
+[June in Paradise](None)

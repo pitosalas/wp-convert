@@ -3,8 +3,6 @@ title: "Fair Use of Share-your-OPML?"
 author: Pito Salas
 date: 2004-05-21
 ---
-# [Fair Use of Share-your-OPML?](None)
-
 
 
 >>
@@ -41,3 +39,4 @@ Share Your Opml SDK for this purpose does not violate the spirit or letter of
 the rules.
 
 
+[Fair Use of Share-your-OPML?](None)

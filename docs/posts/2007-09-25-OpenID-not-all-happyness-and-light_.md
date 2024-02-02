@@ -3,8 +3,6 @@ title: "OpenID not all happyness and light?"
 author: Pito Salas
 date: 2007-09-25
 ---
-# [OpenID not all happyness and light?](None)
-
 
 
 
@@ -44,3 +42,4 @@ actual article, but here's a nice laundry list to get you going:
 > Corner)](<http://www.idcorner.org/?s=openid>)
 
 
+[OpenID not all happyness and light?](None)

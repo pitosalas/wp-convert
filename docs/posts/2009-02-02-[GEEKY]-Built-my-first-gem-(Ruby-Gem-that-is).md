@@ -13,8 +13,6 @@ tags:
     - sunlight
     - time
 ---
-# [[GEEKY] Built my first gem (Ruby Gem that is)](None)
-
 
 
 
@@ -55,3 +53,4 @@ available at [GovSdk](<http://github.com/pitosalas/govsdk/tree/master>). Check
 it out, but expect it to change because this is still quite embryonic.
 
 
+[[GEEKY] Built my first gem (Ruby Gem that is)](None)

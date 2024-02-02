@@ -11,13 +11,11 @@ tags:
     - people
     - time
 ---
-# [John Cleese's 5-step plan to have shorter and better meetings - from 1976!](https://youtube.com/watch?v=Ff9V0mISmtk&feature=share)
-
 <img src=https://i.ytimg.com/vi/Ff9V0mISmtk/mqdefault.jpg width="500">
 
 
 
-(**Web site except:** John Cleese (Monty Python) nails it in this classic 1976 work “Meetings, Bloody Meetings”, and his hilarious portrayal of meeting culture seems worryingly accurate today.
+(**Web site excerpt:** John Cleese (Monty Python) nails it in this classic 1976 work “Meetings, Bloody Meetings”, and his hilarious portrayal of meeting culture seems worryingly accurate today.
 
 That's why we created MetaMeet. MetaMeet is a workplace app that helps employees reduce time spent in meetings: https://metameetapp.com/
 
@@ -33,3 +31,4 @@ CREDITS:
 Director: Peter Robinson
 Writers: John Cleese, Antony Jay
 Stars: John Cleese, Robert Hardy, Timothy West) 
+[John Cleese's 5-step plan to have shorter and better meetings - from 1976!](https://youtube.com/watch?v=Ff9V0mISmtk&feature=share)

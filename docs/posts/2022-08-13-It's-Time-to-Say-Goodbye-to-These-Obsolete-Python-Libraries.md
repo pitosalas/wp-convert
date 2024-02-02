@@ -10,11 +10,10 @@ tags:
     - tools
     - howto
 ---
-# [It's Time to Say Goodbye to These Obsolete Python Libraries](https://martinheinz.dev/blog/77)
-
 <img src=https://res.cloudinary.com/martinheinz/image/upload/v1567247069/blog/og_image_s4v0wv.png width="500">
 
 
 
-(**Web site except:** p
+(**Web site excerpt:** p
 With every Python release, there are new modules being added and new and better ways of doing things get introduced. We all get used to using the good ...) 
+[It's Time to Say Goodbye to These Obsolete Python Libraries](https://martinheinz.dev/blog/77)

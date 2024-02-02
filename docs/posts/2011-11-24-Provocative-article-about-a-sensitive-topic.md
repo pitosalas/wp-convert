@@ -9,8 +9,6 @@ tags:
     - skincolor
     - women
 ---
-# [Provocative article about a sensitive topic](None)
-
 
 
 
@@ -38,3 +36,4 @@ is sure to be attacked by some corner.
 It's a thought provoking article.
 
 
+[Provocative article about a sensitive topic](None)

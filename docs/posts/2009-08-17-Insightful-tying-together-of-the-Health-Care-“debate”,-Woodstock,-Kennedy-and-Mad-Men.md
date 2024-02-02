@@ -3,8 +3,6 @@ title: "Insightful tying together of the Health Care “debate”, Woodstock, Ke
 author: Pito Salas
 date: 2009-08-17
 ---
-# [Insightful tying together of the Health Care “debate”, Woodstock, Kennedy and Mad Men](None)
-
 
 
 
@@ -45,3 +43,4 @@ my Tivo 🙂
 [frankrich](<http://technorati.com/tag/frankrich>)
 
 
+[Insightful tying together of the Health Care “debate”, Woodstock, Kennedy and Mad Men](None)

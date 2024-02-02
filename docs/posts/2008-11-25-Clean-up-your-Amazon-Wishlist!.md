@@ -3,8 +3,6 @@ title: "Clean up your Amazon Wishlist!"
 author: Pito Salas
 date: 2008-11-25
 ---
-# [Clean up your Amazon Wishlist!](None)
-
 
 
 
@@ -36,3 +34,4 @@ you will be golden!
 [amazon books wishlist](<http://technorati.com/tag/amazon%20books%20wishlist>)
 
 
+[Clean up your Amazon Wishlist!](None)

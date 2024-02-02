@@ -9,8 +9,6 @@ tags:
     - students
     - teaching
 ---
-# [Selling course notes: a market solution](None)
-
 
 
 
@@ -35,3 +33,4 @@ still misses the point;
 > students-profit-off-my-classes.html>)
 
 
+[Selling course notes: a market solution](None)

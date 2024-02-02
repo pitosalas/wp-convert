@@ -6,8 +6,6 @@ tags:
     - gifts
     - photography
 ---
-# [Ideas that work! Not for me, but some great gift ideas](None)
-
 
 
 
@@ -30,3 +28,4 @@ School](<http://feeds.feedburner.com/digitalphotographyschool>):
 > photography-school.com>)
 
 
+[Ideas that work! Not for me, but some great gift ideas](None)

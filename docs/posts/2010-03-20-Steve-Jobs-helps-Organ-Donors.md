@@ -3,8 +3,6 @@ title: "Steve Jobs helps Organ Donors"
 author: Pito Salas
 date: 2010-03-20
 ---
-# [Steve Jobs helps Organ Donors](None)
-
 
 
 
@@ -15,3 +13,4 @@ registry](<http://www.mercurynews.com/breaking-news/ci_14714795>)
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[Steve Jobs helps Organ Donors](None)

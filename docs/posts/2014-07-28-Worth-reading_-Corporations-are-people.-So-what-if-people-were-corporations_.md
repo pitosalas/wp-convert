@@ -3,8 +3,6 @@ title: "Worth reading: Corporations are people. So what if people were corporati
 author: Pito Salas
 date: 2014-07-28
 ---
-# [Worth reading: Corporations are people. So what if people were corporations?](None)
-
 
 
 
@@ -17,3 +15,4 @@ not entitle me to a tax inversion like the big US companies are getting.
 Thanks for nothing IRS.” That got me thinking.
 
 
+[Worth reading: Corporations are people. So what if people were corporations?](None)

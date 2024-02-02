@@ -3,8 +3,6 @@ title: "My New EXCLUSIVE at Salon: National Security Lab Hacks Diebold Touch-Scr
 author: Pito Salas
 date: 2011-09-29
 ---
-# [My New EXCLUSIVE at Salon: National Security Lab Hacks Diebold Touch-Screen Voting Machine by Remote Control With $26 in Computer Parts](None)
-
 
 
 
@@ -23,3 +21,4 @@ BLOG](<http://www.bradblog.com/?feed=rss2>):
 > with it."
 
 
+[My New EXCLUSIVE at Salon: National Security Lab Hacks Diebold Touch-Screen Voting Machine by Remote Control With $26 in Computer Parts](None)

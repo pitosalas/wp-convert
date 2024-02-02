@@ -9,8 +9,6 @@ tags:
     - macosx
     - performance
 ---
-# [MacBook Performance comparison](None)
-
 
 
 
@@ -46,3 +44,4 @@ see remarkably that the brand new MacBook Air is almost as performant as the
 huge towering Mac Pro, Pretty amazing and telling.
 
 
+[MacBook Performance comparison](None)

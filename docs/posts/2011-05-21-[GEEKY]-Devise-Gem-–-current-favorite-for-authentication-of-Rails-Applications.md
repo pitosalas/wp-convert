@@ -7,8 +7,6 @@ tags:
     - rails
     - railscon-tagf
 ---
-# [[GEEKY] Devise Gem – current favorite for authentication of Rails Applications](None)
-
 
 
 
@@ -22,3 +20,4 @@ straightforward. Check it out if you were looking for something like that.
 #railsconf
 
 
+[[GEEKY] Devise Gem – current favorite for authentication of Rails Applications](None)

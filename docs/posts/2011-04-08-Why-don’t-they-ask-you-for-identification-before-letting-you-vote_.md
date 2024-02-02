@@ -6,8 +6,6 @@ tags:
     - democracy
     - voting
 ---
-# [Why don’t they ask you for identification before letting you vote?](None)
-
 
 
 
@@ -39,3 +37,4 @@ The gist of it is here:
 Interesting, eh?
 
 
+[Why don’t they ask you for identification before letting you vote?](None)

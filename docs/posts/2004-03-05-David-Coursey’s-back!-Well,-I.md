@@ -3,8 +3,6 @@ title: "David Coursey’s back! Well, I"
 author: Pito Salas
 date: 2004-03-05
 ---
-# [David Coursey’s back! Well, I](None)
-
 
 
 >>
@@ -27,3 +25,4 @@ he's flattered, but he often doesn't even remember the person. Oops. I will
 send him an email. Let's see if he remembers me 🙂
 
 
+[David Coursey’s back! Well, I](None)

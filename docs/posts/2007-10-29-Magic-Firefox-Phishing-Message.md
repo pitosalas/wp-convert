@@ -3,8 +3,6 @@ title: "Magic Firefox Phishing Message"
 author: Pito Salas
 date: 2007-10-29
 ---
-# [Magic Firefox Phishing Message](None)
-
 
 
 
@@ -18,3 +16,4 @@ content/uploads/imagewell/firefoxphish.jpg?resize=334%2C284)
 (not that I would have fallen for it 🙂
 
 
+[Magic Firefox Phishing Message](None)

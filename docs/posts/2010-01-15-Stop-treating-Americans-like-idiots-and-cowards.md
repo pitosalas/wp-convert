@@ -6,8 +6,6 @@ tags:
     - airtravel
     - security
 ---
-# [Stop treating Americans like idiots and cowards](None)
-
 
 
 
@@ -46,3 +44,4 @@ security":](<http://www.cnn.com/2010/OPINION/01/07/schneier.security/index.html>
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[Stop treating Americans like idiots and cowards](None)

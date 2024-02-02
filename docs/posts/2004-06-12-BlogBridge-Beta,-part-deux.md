@@ -3,8 +3,6 @@ title: "BlogBridge Beta, part deux"
 author: Pito Salas
 date: 2004-06-12
 ---
-# [BlogBridge Beta, part deux](None)
-
 
 
 >>
@@ -47,3 +45,4 @@ features. As usual, if you want to be a beta tester, please send email to
 beta@blogbridge.com and we'll see if we can fit you in.
 
 
+[BlogBridge Beta, part deux](None)

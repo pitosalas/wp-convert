@@ -12,8 +12,7 @@ tags:
     - desktop
     - menu
 ---
-# [Bartender 4 - Take control of your Menu bar](https://www.macbartender.com/)
-
 <img src=https://www.macbartender.com/Bartender4/img/Icon-1024.png width="500">
 
 
+[Bartender 4 - Take control of your Menu bar](https://www.macbartender.com/)

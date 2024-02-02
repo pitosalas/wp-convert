@@ -3,8 +3,6 @@ title: "Hello from Spain"
 author: Pito Salas
 date: 2004-04-20
 ---
-# [Hello from Spain](None)
-
 
 
 >>
@@ -18,3 +16,4 @@ which was great, although we are paying with our feet today… Tomorrow we leave
 for a few days in Sevilla. See you there.
 
 
+[Hello from Spain](None)

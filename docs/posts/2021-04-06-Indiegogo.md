@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - crowdfunding funding socialnetworks
 ---
-# [Indiegogo](http://www.indiegogo.com)
-
 <img src=https://g1.iggcdn.com/assets/site/home/CampaignGrid_700x400-625651c65ee133a102cb37e7165801375b47737f8e39e0f8e705724a5adf7f91.jpg width="500">
 
 
 
-(**Web site except:** Crowd sourced projects like) 
+(**Web site excerpt:** Crowd sourced projects like) 
+[Indiegogo](http://www.indiegogo.com)

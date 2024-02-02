@@ -6,8 +6,7 @@ link: "https://trello.com/board/to-do/5004d096c429dd966243d824"
 cover: "" 
 date: 2021-04-06
 ---
-# [To Do | Trello](https://trello.com/board/to-do/5004d096c429dd966243d824)
-
 <img src= width="500">
 
 
+[To Do | Trello](https://trello.com/board/to-do/5004d096c429dd966243d824)

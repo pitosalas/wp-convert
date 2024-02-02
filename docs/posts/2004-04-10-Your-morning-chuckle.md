@@ -3,8 +3,6 @@ title: "Your morning chuckle"
 author: Pito Salas
 date: 2004-04-10
 ---
-# [Your morning chuckle](None)
-
 
 
 >>
@@ -19,3 +17,4 @@ and you can read her post for the thoughtful commentary on this.
 Chicken](<http://subservientchicken.com/>)
 
 
+[Your morning chuckle](None)

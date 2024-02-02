@@ -7,8 +7,6 @@ tags:
     - mazes
     - ruby
 ---
-# [[GEEKY] Interesting collection of algorithms and great Ruby tutorial](None)
-
 
 
 
@@ -37,3 +35,4 @@ skills, I strongly recommend this series: [Maze Generation: Algorithm
 Recap](<http://weblog.jamisbuck.org/2011/2/7/maze-generation-algorithm-recap>)
 
 
+[[GEEKY] Interesting collection of algorithms and great Ruby tutorial](None)

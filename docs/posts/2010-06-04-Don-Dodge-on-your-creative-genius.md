@@ -3,8 +3,6 @@ title: "Don Dodge on your creative genius"
 author: Pito Salas
 date: 2010-06-04
 ---
-# [Don Dodge on your creative genius](None)
-
 
 
 
@@ -26,3 +24,4 @@ I've also read. I recommend both. Here's Don:
 > unlock-your-creative-genius.html>))
 
 
+[Don Dodge on your creative genius](None)

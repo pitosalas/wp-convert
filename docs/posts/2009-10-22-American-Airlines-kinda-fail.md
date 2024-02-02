@@ -3,8 +3,6 @@ title: "American Airlines kinda-fail"
 author: Pito Salas
 date: 2009-10-22
 ---
-# [American Airlines kinda-fail](None)
-
 
 
 
@@ -21,3 +19,4 @@ What, I should be grateful that they fly Boston to L.A. at all?
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[American Airlines kinda-fail](None)

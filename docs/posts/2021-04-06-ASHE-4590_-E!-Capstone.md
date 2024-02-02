@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - Olin
 ---
-# [ASHE 4590: E! Capstone](https://sites.google.com/site/ashe4590ecapstone/home)
-
 <img src=https://rdl.ink/render/https%3A%2F%2Fsites.google.com%2Fsite%2Fashe4590ecapstone%2Fhome width="500">
 
 
+[ASHE 4590: E! Capstone](https://sites.google.com/site/ashe4590ecapstone/home)

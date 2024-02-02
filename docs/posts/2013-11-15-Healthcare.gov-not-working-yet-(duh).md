@@ -7,8 +7,6 @@ tags:
     - healthcare
     - obama
 ---
-# [Healthcare.gov not working yet (duh)](None)
-
 
 
 
@@ -41,3 +39,4 @@ since-2010/2013/11/02/453fba42-426b-11e3-a624-41d661b0bb78_story.html>):
 
 
 
+[Healthcare.gov not working yet (duh)](None)

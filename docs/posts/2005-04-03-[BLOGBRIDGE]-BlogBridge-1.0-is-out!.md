@@ -3,8 +3,6 @@ title: "[BLOGBRIDGE] BlogBridge 1.0 is out!"
 author: Pito Salas
 date: 2005-04-03
 ---
-# [[BLOGBRIDGE] BlogBridge 1.0 is out!](None)
-
 
 
 >>
@@ -48,3 +46,4 @@ bigger plans than resources.
 >> Anyway, it's an exciting moment. **Stick with us** : we have HIGH hopes!
 
 
+[[BLOGBRIDGE] BlogBridge 1.0 is out!](None)

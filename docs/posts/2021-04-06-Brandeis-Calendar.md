@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - Brandeis
 ---
-# [Brandeis Calendar](https://www.google.com/calendar/b/1/render#main_7)
-
 <img src= width="500">
 
 
+[Brandeis Calendar](https://www.google.com/calendar/b/1/render#main_7)

@@ -3,8 +3,6 @@ title: "BloggerCon – Wish I was there"
 author: Pito Salas
 date: 2006-06-24
 ---
-# [BloggerCon – Wish I was there](None)
-
 
 
 >>
@@ -58,3 +56,4 @@ IV](<http://nick.typepad.com/blog/2006/06/bloggercon_iv.html>)
 >> Technorati Tags: [bloggercon](<http://www.technorati.com/tag/bloggercon>)
 
 
+[BloggerCon – Wish I was there](None)

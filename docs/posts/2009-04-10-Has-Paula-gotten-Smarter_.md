@@ -7,8 +7,6 @@ tags:
     - mensa
     - paula-abdul
 ---
-# [Has Paula gotten Smarter?](None)
-
 
 
 
@@ -35,3 +33,4 @@ one to notice
 idol](<http://technorati.com/tag/american%20idol>)
 
 
+[Has Paula gotten Smarter?](None)

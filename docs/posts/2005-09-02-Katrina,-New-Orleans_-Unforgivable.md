@@ -3,8 +3,6 @@ title: "Katrina, New Orleans: Unforgivable"
 author: Pito Salas
 date: 2005-09-02
 ---
-# [Katrina, New Orleans: Unforgivable](None)
-
 
 
 >>
@@ -55,3 +53,4 @@ President said: "No one could have foreseen this". Huh?
 >> Technorati Tags: [katrina](<http://www.technorati.com/tag/katrina>)
 
 
+[Katrina, New Orleans: Unforgivable](None)

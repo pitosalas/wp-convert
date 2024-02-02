@@ -11,8 +11,7 @@ tags:
     - api
     - howto
 ---
-# [The Application Context — Flask Documentation (2.0.x)](https://flask.palletsprojects.com/en/2.0.x/appcontext/)
-
 <img src=https://rdl.ink/render/https%3A%2F%2Fflask.palletsprojects.com%2Fen%2F2.0.x%2Fappcontext%2F width="500">
 
 
+[The Application Context — Flask Documentation (2.0.x)](https://flask.palletsprojects.com/en/2.0.x/appcontext/)

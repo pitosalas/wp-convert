@@ -3,8 +3,6 @@ title: "Funny product catalog"
 author: Pito Salas
 date: 2008-01-17
 ---
-# [Funny product catalog](None)
-
 
 
 
@@ -16,3 +14,4 @@ an online catalog can be funny.
 Larry)](<http://producten.hema.nl/>)
 
 
+[Funny product catalog](None)

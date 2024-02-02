@@ -10,8 +10,7 @@ tags:
     - window-manager
     - howto
 ---
-# [Magnet – Window manager for Mac](http://magnet.crowdcafe.com)
-
 <img src=https://rdl.ink/render/http%3A%2F%2Fmagnet.crowdcafe.com width="500">
 
 
+[Magnet – Window manager for Mac](http://magnet.crowdcafe.com)

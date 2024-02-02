@@ -3,8 +3,6 @@ title: "Top Ruby Books"
 author: Pito Salas
 date: 2007-09-07
 ---
-# [Top Ruby Books](None)
-
 
 
 
@@ -22,3 +20,4 @@ project.
 But of course, that's how BlogBridge started. A decent play project…
 
 
+[Top Ruby Books](None)

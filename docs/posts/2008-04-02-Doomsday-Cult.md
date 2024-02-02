@@ -3,8 +3,6 @@ title: "Doomsday Cult"
 author: Pito Salas
 date: 2008-04-02
 ---
-# [Doomsday Cult](None)
-
 
 
 
@@ -24,3 +22,4 @@ Blog](<http://dilbertblog.typepad.com/the_dilbert_blog/index.rdf>):
 > out of doomsday."
 
 
+[Doomsday Cult](None)

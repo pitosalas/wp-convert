@@ -3,8 +3,6 @@ title: "Real Virtual Reality! (Demo 2004"
 author: Pito Salas
 date: 2004-02-27
 ---
-# [Real Virtual Reality! (Demo 2004](None)
-
 
 
 >>
@@ -41,3 +39,4 @@ blown away. I can't say if one **' versed in the art'** would have thought the
 same or been bored.
 
 
+[Real Virtual Reality! (Demo 2004](None)

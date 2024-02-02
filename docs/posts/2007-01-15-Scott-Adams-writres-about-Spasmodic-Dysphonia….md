@@ -3,8 +3,6 @@ title: "Scott Adams writres about Spasmodic Dysphonia…"
 author: Pito Salas
 date: 2007-01-15
 ---
-# [Scott Adams writres about Spasmodic Dysphonia…](None)
-
 
 
 >
@@ -42,3 +40,4 @@ date: 2007-01-15
 >  know.
 
 
+[Scott Adams writres about Spasmodic Dysphonia…](None)

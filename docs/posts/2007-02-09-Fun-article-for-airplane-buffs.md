@@ -3,8 +3,6 @@ title: "Fun article for airplane buffs"
 author: Pito Salas
 date: 2007-02-09
 ---
-# [Fun article for airplane buffs](None)
-
 
 
 >
@@ -17,3 +15,4 @@ date: 2007-02-09
 > cool too.
 
 
+[Fun article for airplane buffs](None)

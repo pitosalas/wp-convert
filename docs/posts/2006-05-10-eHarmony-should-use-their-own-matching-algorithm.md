@@ -3,8 +3,6 @@ title: "eHarmony should use their own matching algorithm"
 author: Pito Salas
 date: 2006-05-10
 ---
-# [eHarmony should use their own matching algorithm](None)
-
 
 
 >>
@@ -27,3 +25,4 @@ independently verify the factualness of this 🙂
 >> Technorati Tags: [funny](<http://www.technorati.com/tag/funny>)
 
 
+[eHarmony should use their own matching algorithm](None)

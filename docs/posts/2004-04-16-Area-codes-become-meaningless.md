@@ -3,8 +3,6 @@ title: "Area codes become meaningless"
 author: Pito Salas
 date: 2004-04-16
 ---
-# [Area codes become meaningless](None)
-
 
 
 >>
@@ -24,3 +22,4 @@ will be one of those anachronistic telecom terms, like dialing, that doesn't
 mean anything close to what it once did. "_
 
 
+[Area codes become meaningless](None)

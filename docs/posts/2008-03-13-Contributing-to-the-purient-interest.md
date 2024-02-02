@@ -3,8 +3,6 @@ title: "Contributing to the purient interest"
 author: Pito Salas
 date: 2008-03-13
 ---
-# [Contributing to the purient interest](None)
-
 
 
 
@@ -24,3 +22,4 @@ of-the-spitzer-affair/>) Read this Q & A and many more like it.
 > view-of-the-spitzer-affair/>)
 
 
+[Contributing to the purient interest](None)

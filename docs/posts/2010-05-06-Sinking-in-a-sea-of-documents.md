@@ -7,8 +7,6 @@ tags:
     - document
     - indexing
 ---
-# [Sinking in a sea of documents](None)
-
 
 
 
@@ -35,3 +33,4 @@ indexing, document comprehension or structured searching.
 Any suggested leads or ideas?
 
 
+[Sinking in a sea of documents](None)

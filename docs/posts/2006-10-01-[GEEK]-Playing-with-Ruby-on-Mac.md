@@ -3,8 +3,6 @@ title: "[GEEK] Playing with Ruby on Mac"
 author: Pito Salas
 date: 2006-10-01
 ---
-# [[GEEK] Playing with Ruby on Mac](None)
-
 
 
 >
@@ -15,3 +13,4 @@ date: 2006-10-01
 > Mac. Handy if you are in the **.01% of the world who cares** 🙂
 
 
+[[GEEK] Playing with Ruby on Mac](None)

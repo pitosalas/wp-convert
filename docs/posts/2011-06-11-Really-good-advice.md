@@ -6,8 +6,6 @@ tags:
     - jobs
     - journalism
 ---
-# [Really good advice](None)
-
 
 
 
@@ -48,3 +46,4 @@ The speech also has lots of good advice, for anyone:
 > journalism/>)
 
 
+[Really good advice](None)

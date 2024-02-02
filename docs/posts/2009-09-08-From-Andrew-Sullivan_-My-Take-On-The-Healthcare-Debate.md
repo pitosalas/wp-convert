@@ -3,8 +3,6 @@ title: "From Andrew Sullivan: My Take On The Healthcare Debate"
 author: Pito Salas
 date: 2009-09-08
 ---
-# [From Andrew Sullivan: My Take On The Healthcare Debate](None)
-
 
 
 
@@ -18,3 +16,4 @@ Sullivan)](<http://feeds.feedburner.com/andrewsullivan/rApM>):
 > serious conversation about curtailing healthcare costs."_
 
 
+[From Andrew Sullivan: My Take On The Healthcare Debate](None)

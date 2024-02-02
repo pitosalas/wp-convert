@@ -3,8 +3,6 @@ title: "Too Many Toolbars!"
 author: Pito Salas
 date: 2004-10-12
 ---
-# [Too Many Toolbars!](None)
-
 
 
 >>
@@ -41,3 +39,4 @@ order. It's only 1.5% (or so 🙂 but still **if you order a lot of books, it
 could add up!**
 
 
+[Too Many Toolbars!](None)

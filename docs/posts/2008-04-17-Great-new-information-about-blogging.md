@@ -5,8 +5,6 @@ date: 2008-04-17
 tags:
     - Website-blog-definition-tag-glossary
 ---
-# [Great new information about blogging](None)
-
 
 
 
@@ -21,3 +19,4 @@ pass them on to your friends!
   * ["What are the best news blogs"](<http://www.squidoo.com/bestnewsblogs/>) - How do you go about finding the best blogs about current events?
 
 
+[Great new information about blogging](None)

@@ -3,8 +3,6 @@ title: "Help with movable type spam?"
 author: Pito Salas
 date: 2006-05-25
 ---
-# [Help with movable type spam?](None)
-
 
 
 >>
@@ -20,3 +18,4 @@ hand? Please email me!
 >> Technorati Tags: [movabletype](<http://www.technorati.com/tag/movabletype>)
 
 
+[Help with movable type spam?](None)

@@ -9,8 +9,6 @@ tags:
     - propane-gas
     - smoker
 ---
-# [Camp Chef Smoke Vault 24″ Review](None)
-
 
 
 
@@ -22,3 +20,4 @@ natural gas so you don't have to worry about you LP tank running out. We
 tested this model and gave it our AmazingRibs.com Platinum Medal.
 
 
+[Camp Chef Smoke Vault 24″ Review](None)

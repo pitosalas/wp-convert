@@ -3,8 +3,6 @@ title: "Check out Inquisitor for the web"
 author: Pito Salas
 date: 2006-05-21
 ---
-# [Check out Inquisitor for the web](None)
-
 
 
 >>
@@ -25,3 +23,4 @@ cool](<http://www.inquisitorx.com/beta/>)!
 [cooltool](<http://www.technorati.com/tag/cooltool>)
 
 
+[Check out Inquisitor for the web](None)

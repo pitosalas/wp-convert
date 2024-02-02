@@ -5,8 +5,6 @@ date: 2021-05-06
 tags:
     - food
 ---
-# [Grilling Food & Grilling Tips | Kingsford | Kingsford®](None)
-
 
 
 
@@ -17,3 +15,4 @@ Find out what\'s the best way to charcoal grill and smoke your favorite cuts
 of meat, fish, and veggies.
 
 
+[Grilling Food & Grilling Tips | Kingsford | Kingsford®](None)

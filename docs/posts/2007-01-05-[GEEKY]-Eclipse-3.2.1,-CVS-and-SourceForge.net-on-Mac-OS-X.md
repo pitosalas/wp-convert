@@ -3,8 +3,6 @@ title: "[GEEKY] Eclipse 3.2.1, CVS and SourceForge.net on Mac OS X"
 author: Pito Salas
 date: 2007-01-05
 ---
-# [[GEEKY] Eclipse 3.2.1, CVS and SourceForge.net on Mac OS X](None)
-
 
 
 >
@@ -41,3 +39,4 @@ date: 2007-01-05
 > Thanks for listening.
 
 
+[[GEEKY] Eclipse 3.2.1, CVS and SourceForge.net on Mac OS X](None)

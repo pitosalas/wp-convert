@@ -5,8 +5,6 @@ date: 2008-01-30
 tags:
     - liveblog-demo2008-con-tagference-products-techno-taglogy
 ---
-# [Continuing coverage of Demo 2008](None)
-
 
 
 
@@ -19,3 +17,4 @@ out your attention span.
 [http://www.coveritlive.com/index2.php?option=com_altcaster&task=viewaltcast&altcast_code=00e21c51b6&height=550&width=470](<http://www.coveritlive.com/index2.php?option=com_altcaster&task=viewaltcast&altcast_code=00e21c51b6&height=550&width=470>)
 
 
+[Continuing coverage of Demo 2008](None)

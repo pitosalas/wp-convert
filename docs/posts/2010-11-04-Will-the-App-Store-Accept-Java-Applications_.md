@@ -3,8 +3,6 @@ title: "Will the App Store Accept Java Applications?"
 author: Pito Salas
 date: 2010-11-04
 ---
-# [Will the App Store Accept Java Applications?](None)
-
 
 
 
@@ -26,3 +24,4 @@ would ban Java/Swing applications. If anyone has real information about this,
 please let me know!
 
 
+[Will the App Store Accept Java Applications?](None)

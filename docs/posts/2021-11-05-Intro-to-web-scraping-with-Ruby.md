@@ -11,10 +11,9 @@ tags:
     - scraping
     - web
 ---
-# [Intro to web scraping with Ruby](https://longliveruby.com/articles/intro-to-webscrapping-with-ruby)
-
 <img src=https://longliveruby.herokuapp.com/assets/longliveruby.jpg width="500">
 
 
 
-(**Web site except:** Learn how to use Ruby to do the webscraping of almost any website) 
+(**Web site excerpt:** Learn how to use Ruby to do the webscraping of almost any website) 
+[Intro to web scraping with Ruby](https://longliveruby.com/articles/intro-to-webscrapping-with-ruby)

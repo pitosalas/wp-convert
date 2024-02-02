@@ -11,10 +11,9 @@ tags:
     - directory
     - api howto list
 ---
-# [Great collection of Public APIs](https://github.com/public-apis/public-apis)
-
 <img src=https://avatars.githubusercontent.com/u/51121562?s=400&v=4 width="500">
 
 
 
-(**Web site except:** Well I always look at ProgrammableWeb.com but it's becoming more and more cluttered with ads and whatnot. Also there's so much in it, I think it's totally uncharted.) 
+(**Web site excerpt:** Well I always look at ProgrammableWeb.com but it's becoming more and more cluttered with ads and whatnot. Also there's so much in it, I think it's totally uncharted.) 
+[Great collection of Public APIs](https://github.com/public-apis/public-apis)

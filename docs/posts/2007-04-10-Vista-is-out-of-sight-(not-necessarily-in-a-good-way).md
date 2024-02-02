@@ -3,8 +3,6 @@ title: "Vista is out-of-sight (not necessarily in a good way)"
 author: Pito Salas
 date: 2007-04-10
 ---
-# [Vista is out-of-sight (not necessarily in a good way)](None)
-
 
 
 
@@ -18,3 +16,4 @@ on a brand new HP notebook. Here are some of  my impressions:
   * I guess if it wasn't for the fact that this product had such a tortured, long, and much promoted journey into the world I would give it a B+ but given the history and the promise I think that's being generous
 
 
+[Vista is out-of-sight (not necessarily in a good way)](None)

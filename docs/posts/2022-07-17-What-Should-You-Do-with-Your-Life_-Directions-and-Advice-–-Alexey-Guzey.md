@@ -7,8 +7,6 @@ tags:
     - growth
     - person-tagal
 ---
-# [What Should You Do with Your Life? Directions and Advice – Alexey Guzey](None)
-
 
 
 
@@ -23,3 +21,4 @@ some people are excited about Church Lab’s list of projects and of their
 implications (via Adam Marblestone) Also see …
 
 
+[What Should You Do with Your Life? Directions and Advice – Alexey Guzey](None)

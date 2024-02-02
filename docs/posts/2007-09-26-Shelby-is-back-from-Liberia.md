@@ -3,8 +3,6 @@ title: "Shelby is back from Liberia"
 author: Pito Salas
 date: 2007-09-26
 ---
-# [Shelby is back from Liberia](None)
-
 
 
 
@@ -24,3 +22,4 @@ Trees](<http://allabuja.blogspot.com/>):
 interesting and revealing stories.
 
 
+[Shelby is back from Liberia](None)

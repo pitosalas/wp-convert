@@ -3,8 +3,6 @@ title: "iTunes Rules"
 author: Pito Salas
 date: 2004-07-31
 ---
-# [iTunes Rules](None)
-
 
 
 >>
@@ -15,3 +13,4 @@ Executive Summary, and of speeches from the 2004 Democratic National
 Convention. What a great way to make this accessible to us. Thanks!
 
 
+[iTunes Rules](None)

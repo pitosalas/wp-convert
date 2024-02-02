@@ -3,8 +3,6 @@ title: "Can ‘Electronic Voting Machines’ be ‘Trusted’?"
 author: Pito Salas
 date: 2009-06-24
 ---
-# [Can ‘Electronic Voting Machines’ be ‘Trusted’?](None)
-
 
 
 
@@ -69,3 +67,4 @@ Technorati Tags: [voting](<http://technorati.com/tag/voting>),
 [rushholt](<http://technorati.com/tag/rushholt>)
 
 
+[Can ‘Electronic Voting Machines’ be ‘Trusted’?](None)

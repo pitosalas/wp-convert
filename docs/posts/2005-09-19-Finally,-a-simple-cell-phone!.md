@@ -3,8 +3,6 @@ title: "Finally, a simple cell phone!"
 author: Pito Salas
 date: 2005-09-19
 ---
-# [Finally, a simple cell phone!](None)
-
 
 ![](https://i0.wp.com/www.gizmodo.com/images/Simple.jpg?w=584)
 
@@ -36,3 +34,4 @@ Toshiba](<http://www.3g.co.uk/PR/Sept2005/1904.htm>).
 > [eminimall products="cellphone mobile phone cell"]
 
 
+[Finally, a simple cell phone!](None)

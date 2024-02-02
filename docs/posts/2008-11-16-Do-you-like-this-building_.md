@@ -3,8 +3,6 @@ title: "Do you like this building?"
 author: Pito Salas
 date: 2008-11-16
 ---
-# [Do you like this building?](None)
-
 
 
 
@@ -24,3 +22,4 @@ with the question of whether this is an architectural/engineering/construction
 tour the force which in the end will not much improve the world.
 
 
+[Do you like this building?](None)

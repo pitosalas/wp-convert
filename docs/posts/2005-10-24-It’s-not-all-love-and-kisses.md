@@ -3,8 +3,6 @@ title: "It’s not all love and kisses"
 author: Pito Salas
 date: 2005-10-24
 ---
-# [It’s not all love and kisses](None)
-
 
 
 >>
@@ -39,3 +37,4 @@ read](<http://www.techcentralstation.com/111504A.html>). What do you think?
 >> Technorati Tags: [wikipedia](<http://www.technorati.com/tag/wikipedia>)
 
 
+[It’s not all love and kisses](None)

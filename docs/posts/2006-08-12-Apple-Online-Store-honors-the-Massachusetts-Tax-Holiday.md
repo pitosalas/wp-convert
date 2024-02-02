@@ -3,8 +3,6 @@ title: "Apple Online Store honors the Massachusetts Tax Holiday"
 author: Pito Salas
 date: 2006-08-12
 ---
-# [Apple Online Store honors the Massachusetts Tax Holiday](None)
-
 
 
 >>
@@ -19,3 +17,4 @@ honoring](<http://www.apple.com/retail/taxfree/massachusetts.html>) it. I
 don't know, you can never be sure with Apple, they Think Different.
 
 
+[Apple Online Store honors the Massachusetts Tax Holiday](None)

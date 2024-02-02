@@ -11,8 +11,6 @@ tags:
     - howto
     - latlon-tagg
 ---
-# [A Nibble of Geohashes in Go – by Kurt – Get Code](None)
-
 
 
 
@@ -25,3 +23,4 @@ explained. That too is a useful model and concept. The author says: “Latitude
 and longitude as a locality-preserving string.”
 
 
+[A Nibble of Geohashes in Go – by Kurt – Get Code](None)

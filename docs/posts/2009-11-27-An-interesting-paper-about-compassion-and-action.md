@@ -3,8 +3,6 @@ title: "An interesting paper about compassion and action"
 author: Pito Salas
 date: 2009-11-27
 ---
-# [An interesting paper about compassion and action](None)
-
 
 
 
@@ -25,3 +23,4 @@ action-from-action-to-knowledge/>). Here's a key bit:
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[An interesting paper about compassion and action](None)

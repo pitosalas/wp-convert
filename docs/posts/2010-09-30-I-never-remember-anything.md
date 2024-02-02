@@ -7,8 +7,6 @@ tags:
     - memory
     - nyt
 ---
-# [I never remember anything](None)
-
 
 
 
@@ -29,3 +27,4 @@ everyone (should I add, for you smart alecs out there - it happens to everyone
 > Times](<http://www.nytimes.com/2010/09/19/books/review/Collins-t.html?_r=1&pagewanted=all>))
 
 
+[I never remember anything](None)

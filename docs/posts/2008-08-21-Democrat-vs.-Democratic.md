@@ -3,8 +3,6 @@ title: "Democrat vs. Democratic"
 author: Pito Salas
 date: 2008-08-21
 ---
-# [Democrat vs. Democratic](None)
-
 
 
 
@@ -20,3 +18,4 @@ can't put my finger on why.
 Just wondering…
 
 
+[Democrat vs. Democratic](None)

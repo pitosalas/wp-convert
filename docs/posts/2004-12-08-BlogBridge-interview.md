@@ -3,8 +3,6 @@ title: "BlogBridge interview"
 author: Pito Salas
 date: 2004-12-08
 ---
-# [BlogBridge interview](None)
-
 
 
 >>
@@ -20,3 +18,4 @@ out.](<http://www.clientjava.com/blog/2004/12/07/1102430658000.html>).
 statements about Java Web Start. Here's what I said.
 
 
+[BlogBridge interview](None)

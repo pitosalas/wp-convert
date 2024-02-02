@@ -3,8 +3,6 @@ title: "Yeah, we’re building another product"
 author: Pito Salas
 date: 2006-06-09
 ---
-# [Yeah, we’re building another product](None)
-
 
 
 >>
@@ -36,3 +34,4 @@ here!](<http://www.blogbridge.com/archives/2006/06/announcing_blog_2.php>)
 [library](<http://www.technorati.com/tag/library>)
 
 
+[Yeah, we’re building another product](None)

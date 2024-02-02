@@ -3,8 +3,6 @@ title: "Yahoo IM Spam"
 author: Pito Salas
 date: 2005-06-23
 ---
-# [Yahoo IM Spam](None)
-
 
 
 >>
@@ -32,3 +30,4 @@ or MSN. Are they doing something **different**?
 [spam](<http://technorati.com/tag/spam>)
 
 
+[Yahoo IM Spam](None)

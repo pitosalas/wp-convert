@@ -9,10 +9,9 @@ tags:
     - automation
     - iphone
 ---
-# [WigWag - Home automation](http://www.wigwag.com)
-
 <img src=https://pelion.com/wp-content/uploads/2020/11/Data-centre.jpg width="500">
 
 
 
-(**Web site except:** Designed to provide maximum flexibility, Pelion enables secure, turnkey IoT device management for any device and any network.) 
+(**Web site excerpt:** Designed to provide maximum flexibility, Pelion enables secure, turnkey IoT device management for any device and any network.) 
+[WigWag - Home automation](http://www.wigwag.com)

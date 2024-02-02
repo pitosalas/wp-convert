@@ -3,8 +3,6 @@ title: "A True Horror Story About Why We Need Authentication Standards"
 author: Pito Salas
 date: 2008-03-16
 ---
-# [A True Horror Story About Why We Need Authentication Standards](None)
-
 
 
 
@@ -36,3 +34,4 @@ from [ReadWriteWeb](<http://www.readwriteweb.com/>):
 > Standards](<http://feeds.feedburner.com/~r/readwriteweb/~3/248047977/your_email_password_a_true_hor.php>))
 
 
+[A True Horror Story About Why We Need Authentication Standards](None)

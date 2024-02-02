@@ -3,8 +3,6 @@ title: "Boston tech scene could be more inviting to students"
 author: Pito Salas
 date: 2008-11-10
 ---
-# [Boston tech scene could be more inviting to students](None)
-
 
 
 
@@ -32,3 +30,4 @@ A few of my own observations:
   * In addition to associations, colleges and universities can also do more. Not to generalize, because I don't have the data, but I have an impression that undergraduates in Computer Science and related fields focus on academically sexy topics (programming in Scheme) and don't do more in preparing students for the actual tech scene (entrepreneurship, intellectual property, open source, agile methodologies.)
 
 
+[Boston tech scene could be more inviting to students](None)

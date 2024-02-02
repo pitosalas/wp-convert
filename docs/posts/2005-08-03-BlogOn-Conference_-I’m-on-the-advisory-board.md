@@ -3,8 +3,6 @@ title: "BlogOn Conference: I’m on the advisory board"
 author: Pito Salas
 date: 2005-08-03
 ---
-# [BlogOn Conference: I’m on the advisory board](None)
-
 
 
 >>
@@ -56,3 +54,4 @@ supply this Discount Code: PS2005, and tell em Pito sent you!
 [conference](<http://technorati.com/tag/conference>)
 
 
+[BlogOn Conference: I’m on the advisory board](None)

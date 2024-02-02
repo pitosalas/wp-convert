@@ -3,8 +3,6 @@ title: "Esther Dyson on the Coming Ad Revolution"
 author: Pito Salas
 date: 2008-10-01
 ---
-# [Esther Dyson on the Coming Ad Revolution](None)
-
 
 
 
@@ -32,3 +30,4 @@ I suggest you [read the whole
 thing](<http://online.wsj.com/article/SB120269162692857749.html?mod=googlenews_wsj>).
 
 
+[Esther Dyson on the Coming Ad Revolution](None)

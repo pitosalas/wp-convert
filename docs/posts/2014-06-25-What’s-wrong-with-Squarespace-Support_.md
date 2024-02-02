@@ -5,8 +5,6 @@ date: 2014-06-25
 tags:
     - squarespace
 ---
-# [What’s wrong with Squarespace Support?](None)
-
 
 
 
@@ -31,3 +29,4 @@ in support (probably nothing) and what does wordpress.com give in support?
 (probably nothing.)
 
 
+[What’s wrong with Squarespace Support?](None)

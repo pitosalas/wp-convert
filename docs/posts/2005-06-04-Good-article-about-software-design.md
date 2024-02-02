@@ -3,8 +3,6 @@ title: "Good article about software design"
 author: Pito Salas
 date: 2005-06-04
 ---
-# [Good article about software design](None)
-
 
 
 >>
@@ -38,3 +36,4 @@ Design Dead?")"
 [technical](<http://technorati.com/tag/technical>)
 
 
+[Good article about software design](None)

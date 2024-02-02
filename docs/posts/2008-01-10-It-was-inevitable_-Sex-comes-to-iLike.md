@@ -3,8 +3,6 @@ title: "It was inevitable: Sex comes to iLike"
 author: Pito Salas
 date: 2008-01-10
 ---
-# [It was inevitable: Sex comes to iLike](None)
-
 
 
 
@@ -25,3 +23,4 @@ And then, it shows me nice litte pictures of other iLike users who listen to
 Beethoven or whoever.
 
 
+[It was inevitable: Sex comes to iLike](None)

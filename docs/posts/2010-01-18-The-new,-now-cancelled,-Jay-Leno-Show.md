@@ -9,8 +9,6 @@ tags:
     - nbc
     - television-tag
 ---
-# [The new, now cancelled, Jay Leno Show](None)
-
 
 
 
@@ -39,3 +37,4 @@ I used to be a fan.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[The new, now cancelled, Jay Leno Show](None)

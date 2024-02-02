@@ -3,8 +3,6 @@ title: "Identities (WTF Series, 1)"
 author: Pito Salas
 date: 2004-04-06
 ---
-# [Identities (WTF Series, 1)](None)
-
 
 
 >>
@@ -42,3 +40,4 @@ willing to do business with you because someone I trust has told me that you
 are a good person.
 
 
+[Identities (WTF Series, 1)](None)

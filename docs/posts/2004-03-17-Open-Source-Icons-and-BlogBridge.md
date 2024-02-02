@@ -3,8 +3,6 @@ title: "Open Source Icons and BlogBridge"
 author: Pito Salas
 date: 2004-03-17
 ---
-# [Open Source Icons and BlogBridge](None)
-
 
 
 >>
@@ -18,3 +16,4 @@ the rendering of the Blog Aricles, which now include support for a larger
 subset of html, including images and soon links.
 
 
+[Open Source Icons and BlogBridge](None)

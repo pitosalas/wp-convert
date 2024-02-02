@@ -3,8 +3,6 @@ title: "How GPS devices are being used to detect and avoid traffic"
 author: Pito Salas
 date: 2008-03-26
 ---
-# [How GPS devices are being used to detect and avoid traffic](None)
-
 
 
 
@@ -27,3 +25,4 @@ cell phones as well as verbal reports can get integrated together into an
 overall picture of where the traffic is and how to avoid it.
 
 
+[How GPS devices are being used to detect and avoid traffic](None)

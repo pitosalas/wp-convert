@@ -6,8 +6,7 @@ link: "http://www.fmwconcepts.com/imagemagick"
 cover: "https://rdl.ink/render/http%3A%2F%2Fwww.fmwconcepts.com%2Fimagemagick" 
 date: 2021-04-06
 ---
-# [Fred's ImageMagick Scripts](http://www.fmwconcepts.com/imagemagick)
-
 <img src=https://rdl.ink/render/http%3A%2F%2Fwww.fmwconcepts.com%2Fimagemagick width="500">
 
 
+[Fred's ImageMagick Scripts](http://www.fmwconcepts.com/imagemagick)

@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - shortcuts keyboard
 ---
-# [Save a month of your life by using these keyboard shortcuts](https://medium.com/ae-studio/save-a-month-of-your-life-by-using-these-keyboard-shortcuts-a07fdba5dc6e)
-
 <img src=https://miro.medium.com/max/1200/1*uwhX9TgB7LsYftS3uSZRfg.png width="500">
 
 
 
-(**Web site except:** We can always learn more and better shortcuts!) 
+(**Web site excerpt:** We can always learn more and better shortcuts!) 
+[Save a month of your life by using these keyboard shortcuts](https://medium.com/ae-studio/save-a-month-of-your-life-by-using-these-keyboard-shortcuts-a07fdba5dc6e)

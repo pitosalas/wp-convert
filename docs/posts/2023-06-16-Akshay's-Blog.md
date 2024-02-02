@@ -12,10 +12,9 @@ tags:
     - stimulus
     - howto
 ---
-# [Akshay's Blog](https://www.akshaykhot.com/)
-
 <img src=https://www.akshaykhot.com/content/images/2022/10/rails_new.png width="500">
 
 Another great resource for learning how to use stimulus and hotwired in Ruby on Rails.
 
-(**Web site except:** I am a Ruby on Rails developer based in Victoria, BC. This blog is my attempt to spread the joy of building web applications in Ruby on Rails with the world.) 
+(**Web site excerpt:** I am a Ruby on Rails developer based in Victoria, BC. This blog is my attempt to spread the joy of building web applications in Ruby on Rails with the world.) 
+[Akshay's Blog](https://www.akshaykhot.com/)

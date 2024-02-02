@@ -3,8 +3,6 @@ title: "Netherlands Antilles set to be dissolved"
 author: Pito Salas
 date: 2005-12-23
 ---
-# [Netherlands Antilles set to be dissolved](None)
-
 
 
 >>
@@ -28,3 +26,4 @@ Herald](<http://www.miami.com/mld/miamiherald/news/13271891.htm>))
 [netherlandsantilles](<http://www.technorati.com/tag/netherlandsantilles>)
 
 
+[Netherlands Antilles set to be dissolved](None)

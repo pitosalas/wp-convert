@@ -3,8 +3,6 @@ title: "TextMate and Ruby"
 author: Pito Salas
 date: 2007-08-20
 ---
-# [TextMate and Ruby](None)
-
 
 
 
@@ -27,3 +25,4 @@ IRB, I'm not convinced yet.
   * Here's another article by the same author about [Customizing TextMate.](<http://www.macdevcenter.com/lpt/a/6983.>)
 
 
+[TextMate and Ruby](None)

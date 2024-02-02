@@ -7,8 +7,6 @@ tags:
     - plays
     - theatre
 ---
-# [Theatre: Ryan Landry’s “M”](None)
-
 
 
 
@@ -41,3 +39,4 @@ behind the scenes videos, interviews, and trailer-like promos of the plays. A
 really wonderful way to embrace social and multi media.
 
 
+[Theatre: Ryan Landry’s “M”](None)

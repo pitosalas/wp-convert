@@ -3,8 +3,6 @@ title: "[GEEK] Deploy your Rails app in subdirectory with Apache and Mongrel"
 author: Pito Salas
 date: 2007-02-19
 ---
-# [[GEEK] Deploy your Rails app in subdirectory with Apache and Mongrel](None)
-
 
 
 
@@ -22,3 +20,4 @@ from [dzone.com: latest front page](<http://www.dzone.com/>):
 Â
 
 
+[[GEEK] Deploy your Rails app in subdirectory with Apache and Mongrel](None)

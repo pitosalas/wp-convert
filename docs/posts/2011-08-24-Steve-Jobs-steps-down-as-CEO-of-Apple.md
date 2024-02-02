@@ -6,8 +6,6 @@ tags:
     - apple
     - steve-jobs
 ---
-# [Steve Jobs steps down as CEO of Apple](None)
-
 
 
 
@@ -22,3 +20,4 @@ This news saddens me:
 I hope he's doing alright and is with us for many many years to come.
 
 
+[Steve Jobs steps down as CEO of Apple](None)

@@ -8,8 +8,6 @@ tags:
     - groupon-tag
     - techno-taglogy
 ---
-# [Groupon success catastrophe](None)
-
 
 
 
@@ -39,3 +37,4 @@ web/groupon-bakery-102000-cupcakes>)that just came across the wire:
 > much larger company would have difficulty coping." ( **from** Global Post)
 
 
+[Groupon success catastrophe](None)

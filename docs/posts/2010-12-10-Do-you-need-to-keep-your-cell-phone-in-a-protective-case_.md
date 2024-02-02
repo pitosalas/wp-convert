@@ -3,8 +3,6 @@ title: "Do you need to keep your cell phone in a protective case?"
 author: Pito Salas
 date: 2010-12-10
 ---
-# [Do you need to keep your cell phone in a protective case?](None)
-
 
 
 
@@ -26,3 +24,4 @@ smartphones-unsung-hero/?partner=rss&emc=rss>). Here's a tidbit:
 > smartphones-unsung-hero/?partner=rss&emc=rss>))
 
 
+[Do you need to keep your cell phone in a protective case?](None)

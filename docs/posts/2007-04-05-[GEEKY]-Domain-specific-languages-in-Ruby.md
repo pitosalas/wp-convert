@@ -3,8 +3,6 @@ title: "[GEEKY] Domain specific languages in Ruby"
 author: Pito Salas
 date: 2007-04-05
 ---
-# [[GEEKY] Domain specific languages in Ruby](None)
-
 
 
 
@@ -16,3 +14,4 @@ are two that I particularly liked:
   * [Building a DSL in Ruby, Part II](<http://jroller.com/page/rolsen?entry=building_a_dsl_in_ruby1>)
 
 
+[[GEEKY] Domain specific languages in Ruby](None)

@@ -7,8 +7,6 @@ tags:
     - itunes9
     - sno-tagwleopard
 ---
-# [[geeky] Odd stuff I’ve learned setting up a new Mac](None)
-
 
 
 
@@ -41,3 +39,4 @@ Hope that some tidbit in that is a little useful to someone. I now it's
 ridiculously arcane but I just had to share my voyage of discovery with you 🙂
 
 
+[[geeky] Odd stuff I’ve learned setting up a new Mac](None)

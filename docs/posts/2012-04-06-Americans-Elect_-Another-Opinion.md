@@ -10,8 +10,6 @@ tags:
     - tea-party
     - thomas-friendman
 ---
-# [Americans Elect: Another Opinion](None)
-
 
 
 
@@ -47,3 +45,4 @@ Tea Party front. I have no evidence of that, but for sure my enthusiasm has
 dropped quite a bit.
 
 
+[Americans Elect: Another Opinion](None)

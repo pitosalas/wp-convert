@@ -7,8 +7,6 @@ tags:
     - disks
     - ssd
 ---
-# [The Impending Flash Crisis?](None)
-
 
 
 
@@ -28,3 +26,4 @@ The core does make a great point:
 Interesting…
 
 
+[The Impending Flash Crisis?](None)

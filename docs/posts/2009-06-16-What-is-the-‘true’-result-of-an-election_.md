@@ -3,8 +3,6 @@ title: "What is the ‘true’ result of an election?"
 author: Pito Salas
 date: 2009-06-16
 ---
-# [What is the ‘true’ result of an election?](None)
-
 
 
 
@@ -81,3 +79,4 @@ understand from fairly extensive, but still non-expert, study of how elections
 work.]_
 
 
+[What is the ‘true’ result of an election?](None)

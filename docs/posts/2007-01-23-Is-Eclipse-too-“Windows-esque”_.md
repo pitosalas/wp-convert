@@ -3,8 +3,6 @@ title: "Is Eclipse too “Windows-esque”?"
 author: Pito Salas
 date: 2007-01-23
 ---
-# [Is Eclipse too “Windows-esque”?](None)
-
 
 
 >
@@ -36,3 +34,4 @@ date: 2007-01-23
 > esque"?](<http://www.dzone.com/rsslinks/is_eclipse_too_windowsesque.html>))
 
 
+[Is Eclipse too “Windows-esque”?](None)

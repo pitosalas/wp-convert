@@ -3,8 +3,6 @@ title: "What if we all vote on the truth, part 3"
 author: Pito Salas
 date: 2005-06-21
 ---
-# [What if we all vote on the truth, part 3](None)
-
 
 
 >>
@@ -33,3 +31,4 @@ feeding […], 3. Newspaper ego […]" ( **from**
 [wikipedia](<http://technorati.com/tag/wikipedia>)
 
 
+[What if we all vote on the truth, part 3](None)

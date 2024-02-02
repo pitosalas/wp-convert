@@ -8,8 +8,6 @@ tags:
     - grades
     - learning
 ---
-# [Good Grades Certainly Don’t Hurt](None)
-
 
 
 
@@ -21,3 +19,4 @@ tags:
 > an advantage. But Google has its eyes on much more.
 
 
+[Good Grades Certainly Don’t Hurt](None)

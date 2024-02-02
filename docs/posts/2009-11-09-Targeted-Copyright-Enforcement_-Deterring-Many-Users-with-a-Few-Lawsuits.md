@@ -7,8 +7,6 @@ tags:
     - edfelton-tag
     - infringement
 ---
-# [Targeted Copyright Enforcement: Deterring Many Users with a Few Lawsuits](None)
-
 
 
 
@@ -42,3 +40,4 @@ dillemma.](<http://www.mheap.com/puzzle2.html>)
 Do **you** think it would work?
 
 
+[Targeted Copyright Enforcement: Deterring Many Users with a Few Lawsuits](None)

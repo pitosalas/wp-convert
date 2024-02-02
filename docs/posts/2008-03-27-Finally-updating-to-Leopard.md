@@ -3,8 +3,6 @@ title: "Finally updating to Leopard"
 author: Pito Salas
 date: 2008-03-27
 ---
-# [Finally updating to Leopard](None)
-
 
 
 
@@ -18,3 +16,4 @@ interesting will happen 🙂
   * I have a 4 year old iMac G4 notebook. I wonder if Leopard will like it.
 
 
+[Finally updating to Leopard](None)

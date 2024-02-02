@@ -3,8 +3,6 @@ title: "Blogging and journalism … again?"
 author: Pito Salas
 date: 2005-03-21
 ---
-# [Blogging and journalism … again?](None)
-
 
 If you are a blog aficionado then you've followed this debate, ad _something_.
 
@@ -26,3 +24,4 @@ you see it."
 >> Hmm. I thought that was pornography 🙂
 
 
+[Blogging and journalism … again?](None)

@@ -3,8 +3,6 @@ title: "Netplan network configuration tutorial for beginners – LinuxConfig.org
 author: Pito Salas
 date: 2021-06-04
 ---
-# [Netplan network configuration tutorial for beginners – LinuxConfig.org](None)
-
 
 
 
@@ -18,3 +16,4 @@ network interfaces on Ubuntu
 June 4, 2021 at 05:25PM
 
 
+[Netplan network configuration tutorial for beginners – LinuxConfig.org](None)

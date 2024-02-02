@@ -3,8 +3,6 @@ title: "Soccer Fever!"
 author: Pito Salas
 date: 2006-07-07
 ---
-# [Soccer Fever!](None)
-
 
 [youtube http://www.youtube.com/watch?v=xrShK-NVMIU]  
 >
@@ -13,3 +11,4 @@ date: 2006-07-07
 >> Technorati Tags: [funny](<http://www.technorati.com/tag/funny>)
 
 
+[Soccer Fever!](None)

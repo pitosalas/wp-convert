@@ -3,8 +3,6 @@ title: "Beware of Freeconomics"
 author: Pito Salas
 date: 2008-09-05
 ---
-# [Beware of Freeconomics](None)
-
 
 
 
@@ -31,3 +29,4 @@ on it further, **just that I agree 🙂**
 _Originally posted on Mar 03, 2008. Reprinted courtesy of ReRuns plug-in._
 
 
+[Beware of Freeconomics](None)

@@ -8,8 +8,6 @@ tags:
     - ui
     - ux
 ---
-# [A list of UI and UX books, articles and links](None)
-
 
 
 
@@ -27,3 +25,4 @@ good to share:
   * This site, [Core77](<http://www.core77.com>)often has good inspirations and photos.
 
 
+[A list of UI and UX books, articles and links](None)

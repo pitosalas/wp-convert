@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - Software Engineering
 ---
-# [Everything You Know About Latency Is Wrong – Brave New Geek](http://bravenewgeek.com/everything-you-know-about-latency-is-wrong)
-
 <img src=https://bravenewgeek.com/wp-content/uploads/2015/10/Screen-Shot-2015-10-04-at-4.32.24-PM.png?w=640 width="500">
 
 
 
-(**Web site except:** Okay, maybe not everything you know about latency is wrong. But now that I have your attention, we can talk about why the tools and methodologies you use to measure and reason about latency are lik…) 
+(**Web site excerpt:** Okay, maybe not everything you know about latency is wrong. But now that I have your attention, we can talk about why the tools and methodologies you use to measure and reason about latency are lik…) 
+[Everything You Know About Latency Is Wrong – Brave New Geek](http://bravenewgeek.com/everything-you-know-about-latency-is-wrong)

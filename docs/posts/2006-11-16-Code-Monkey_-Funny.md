@@ -3,8 +3,6 @@ title: "Code Monkey: Funny"
 author: Pito Salas
 date: 2006-11-16
 ---
-# [Code Monkey: Funny](None)
-
 
 
 >
@@ -52,3 +50,4 @@ it." ( **from** [Thing a Week](<http://jonathancoulton>))
 > Technorati Tags: [funny](<http://www.technorati.com/tag/funny>)
 
 
+[Code Monkey: Funny](None)

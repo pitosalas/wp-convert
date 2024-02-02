@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - powerpoint elevator pitch presentations startup
 ---
-# [The Elevator Pitch Guide: 45 presentation tips for startups](http://www.presenterimpossible.com/presentation/startup-pitch-how-to)
-
 <img src= width="500">
 
 
+[The Elevator Pitch Guide: 45 presentation tips for startups](http://www.presenterimpossible.com/presentation/startup-pitch-how-to)

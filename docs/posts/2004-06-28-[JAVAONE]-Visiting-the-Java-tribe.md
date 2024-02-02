@@ -3,8 +3,6 @@ title: "[JAVAONE] Visiting the Java tribe"
 author: Pito Salas
 date: 2004-06-28
 ---
-# [[JAVAONE] Visiting the Java tribe](None)
-
 
 
 >>
@@ -25,3 +23,4 @@ screen. (The computer didn't crash, just the process…)
 >>   * …more later
 
 
+[[JAVAONE] Visiting the Java tribe](None)

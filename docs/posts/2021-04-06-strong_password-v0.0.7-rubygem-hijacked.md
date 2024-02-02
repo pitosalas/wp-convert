@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - password hacking ruby security gems attack
 ---
-# [strong_password v0.0.7 rubygem hijacked](https://withatwist.dev/strong-password-rubygem-hijacked.html)
-
 <img src=https://withatwist.dev/logo.png width="500">
 
 
 
-(**Web site except:** Interesting description of how a public library or gem can be taken over, and modified to create an all powerful backdoor.) 
+(**Web site excerpt:** Interesting description of how a public library or gem can be taken over, and modified to create an all powerful backdoor.) 
+[strong_password v0.0.7 rubygem hijacked](https://withatwist.dev/strong-password-rubygem-hijacked.html)

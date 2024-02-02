@@ -8,8 +8,6 @@ tags:
     - mon-tagey
     - quicken
 ---
-# [Mint being acquired by Intuit: Good or Bad?](None)
-
 
 
 
@@ -31,3 +29,4 @@ the writer.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[Mint being acquired by Intuit: Good or Bad?](None)

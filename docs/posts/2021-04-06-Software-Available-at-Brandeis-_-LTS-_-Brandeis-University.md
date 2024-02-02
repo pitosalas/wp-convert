@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - Brandeis
 ---
-# [Software Available at Brandeis | LTS | Brandeis University](http://lts.brandeis.edu/techhelp/content/software.html)
-
 <img src= width="500">
 
 
+[Software Available at Brandeis | LTS | Brandeis University](http://lts.brandeis.edu/techhelp/content/software.html)

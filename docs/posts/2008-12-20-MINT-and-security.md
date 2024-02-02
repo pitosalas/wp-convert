@@ -5,8 +5,6 @@ date: 2008-12-20
 tags:
     - security-mint-financial-pogue
 ---
-# [MINT and security](None)
-
 
 
 
@@ -68,3 +66,4 @@ Pogue](<http://pogue.blogs.nytimes.com/>)? How about it?
 pogue](<http://technorati.com/tag/money%20mint%20web%20schneier%20pogue>)
 
 
+[MINT and security](None)

@@ -8,8 +8,6 @@ tags:
     - medicine
     - statins
 ---
-# [Oh, great, now I have to choose between lowering cholesterol and exercise](None)
-
 
 
 
@@ -25,3 +23,4 @@ benefits-of-exercise/?src=me&ref=general>):
 
 
 
+[Oh, great, now I have to choose between lowering cholesterol and exercise](None)

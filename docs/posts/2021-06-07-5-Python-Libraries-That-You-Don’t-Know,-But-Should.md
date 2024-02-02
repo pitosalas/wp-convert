@@ -11,10 +11,9 @@ tags:
     - package
     - google-maps
 ---
-# [5 Python Libraries That You Don’t Know, But Should](https://link.medium.com/xEjq6wILSgb)
-
 <img src=https://miro.medium.com/max/1200/1*FIYVG7jKknCncAkIJLAIRQ.jpeg width="500">
 
 
 
-(**Web site except:** One of the best things about using Python is its infinity of open-source libraries. There is a library for basically anything. If you have read some of my previous blogs, you may have noticed that…) 
+(**Web site excerpt:** One of the best things about using Python is its infinity of open-source libraries. There is a library for basically anything. If you have read some of my previous blogs, you may have noticed that…) 
+[5 Python Libraries That You Don’t Know, But Should](https://link.medium.com/xEjq6wILSgb)

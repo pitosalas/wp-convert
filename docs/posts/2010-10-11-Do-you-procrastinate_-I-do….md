@@ -3,8 +3,6 @@ title: "Do you procrastinate? I do…"
 author: Pito Salas
 date: 2010-10-11
 ---
-# [Do you procrastinate? I do…](None)
-
 
 
 
@@ -38,3 +36,4 @@ favorites is the concept of 'self-binding' (not a form of masochism):
 Yorker](<http://www.newyorker.com/arts/critics/books/2010/10/11/101011crbo_books_surowiecki?currentPage=all>).
 
 
+[Do you procrastinate? I do…](None)

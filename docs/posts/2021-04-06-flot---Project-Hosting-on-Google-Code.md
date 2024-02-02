@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - Design
 ---
-# [flot - Project Hosting on Google Code](https://code.google.com/p/flot)
-
 <img src=https://rdl.ink/render/https%3A%2F%2Fcode.google.com%2Fp%2Fflot width="500">
 
 
+[flot - Project Hosting on Google Code](https://code.google.com/p/flot)

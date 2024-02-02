@@ -3,8 +3,6 @@ title: "“I�_Tm going to wait for the iPhone Shuffle. You just clip it to you
 author: Pito Salas
 date: 2007-01-15
 ---
-# [“I�_Tm going to wait for the iPhone Shuffle. You just clip it to your ear and call people at random.”](None)
-
 
 
 >
@@ -28,3 +26,4 @@ date: 2007-01-15
 > Macworld](<http://blogs.adobe.com/jnack/2007/01/iphone_quip_o_t.html>))
 
 
+[“I�_Tm going to wait for the iPhone Shuffle. You just clip it to your ear and call people at random.”](None)

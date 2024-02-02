@@ -3,8 +3,6 @@ title: "Getting Your R�sum� Read –"
 author: Pito Salas
 date: 2004-01-27
 ---
-# [Getting Your R�sum� Read –](None)
-
 
 
 >>
@@ -56,3 +54,4 @@ up to the top of Blogdex. Geez, it's so hard to be original!
 > effect of getting me to read the resume!_
 
 
+[Getting Your R�sum� Read –](None)

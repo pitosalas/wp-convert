@@ -3,8 +3,6 @@ title: "Thousands of lectures from top scholars – this looks GOOD!"
 author: Pito Salas
 date: 2009-03-24
 ---
-# [Thousands of lectures from top scholars – this looks GOOD!](None)
-
 
 
 
@@ -19,3 +17,4 @@ scholars](<http://academicearth.org/>)
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[Thousands of lectures from top scholars – this looks GOOD!](None)

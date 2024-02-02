@@ -3,8 +3,6 @@ title: "[POLITICS] McChrystal self-sabotage"
 author: Pito Salas
 date: 2010-06-26
 ---
-# [[POLITICS] McChrystal self-sabotage](None)
-
 
 
 
@@ -38,3 +36,4 @@ scheme. I just have a hard time swallowing that McChrystal and his team didn't
 know exactly what they were doing.
 
 
+[[POLITICS] McChrystal self-sabotage](None)

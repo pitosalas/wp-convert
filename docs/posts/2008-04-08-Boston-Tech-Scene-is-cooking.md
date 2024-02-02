@@ -5,8 +5,6 @@ date: 2008-04-08
 tags:
     - boston-tag-techno-taglogy-gatherings
 ---
-# [Boston Tech Scene is cooking](None)
-
 
 
 
@@ -38,3 +36,4 @@ So for all you "Boston is cool but I wish I lived in silcon valley" types, I
 say, stop it already, there's a lot lot going on here. You just have to look!
 
 
+[Boston Tech Scene is cooking](None)

@@ -3,8 +3,6 @@ title: "[STERN INSIDE BASEBALL] Wild day on Howard Stern show"
 author: Pito Salas
 date: 2007-05-25
 ---
-# [[STERN INSIDE BASEBALL] Wild day on Howard Stern show](None)
-
 
 
 
@@ -27,3 +25,4 @@ leaving the show in January.](<http://www.howardstern.com/rundown.hs>)
 As I say, a soap opera for sure, but riveting.
 
 
+[[STERN INSIDE BASEBALL] Wild day on Howard Stern show](None)

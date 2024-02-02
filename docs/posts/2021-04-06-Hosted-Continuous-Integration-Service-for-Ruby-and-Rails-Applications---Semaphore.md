@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - ruby rails ci
 ---
-# [Hosted Continuous Integration Service for Ruby and Rails Applications - Semaphore](https://semaphoreapp.com)
-
 <img src= width="500">
 
 
+[Hosted Continuous Integration Service for Ruby and Rails Applications - Semaphore](https://semaphoreapp.com)

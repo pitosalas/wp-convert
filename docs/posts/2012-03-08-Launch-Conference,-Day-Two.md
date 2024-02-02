@@ -8,8 +8,6 @@ tags:
     - products
     - sanfrancisco
 ---
-# [Launch Conference, Day Two](None)
-
 
 
 
@@ -146,3 +144,4 @@ programming. I don't believe the premise.
 -- more to come --
 
 
+[Launch Conference, Day Two](None)

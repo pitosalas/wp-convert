@@ -8,8 +8,6 @@ tags:
     - kindle
     - no-tagok
 ---
-# [Dan Lewis, on what it means to ‘own’ something](None)
-
 
 
 
@@ -47,3 +45,4 @@ my ebook will have **yet another leg up.**
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[Dan Lewis, on what it means to ‘own’ something](None)

@@ -3,8 +3,6 @@ title: "Liquid water on mars"
 author: Pito Salas
 date: 2009-02-24
 ---
-# [Liquid water on mars](None)
-
 
 
 
@@ -17,3 +15,4 @@ date: 2009-02-24
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[Liquid water on mars](None)

@@ -3,8 +3,6 @@ title: "Ebert, in his own words"
 author: Pito Salas
 date: 2010-02-19
 ---
-# [Ebert, in his own words](None)
-
 
 
 
@@ -24,3 +22,4 @@ day:](</2010/02/17/roger-ebert-essential/>)
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[Ebert, in his own words](None)

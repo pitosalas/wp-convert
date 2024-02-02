@@ -3,8 +3,6 @@ title: "Leaving my friends – Twitterspam"
 author: Pito Salas
 date: 2007-05-15
 ---
-# [Leaving my friends – Twitterspam](None)
-
 
 
 
@@ -18,3 +16,4 @@ for Twitter users: only 'friend' people who you really know and at some weird
 level care whether they are having a ham sandwich.
 
 
+[Leaving my friends – Twitterspam](None)

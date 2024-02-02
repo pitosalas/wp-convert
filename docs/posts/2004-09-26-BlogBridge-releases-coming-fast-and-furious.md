@@ -3,8 +3,6 @@ title: "BlogBridge releases coming fast and furious"
 author: Pito Salas
 date: 2004-09-26
 ---
-# [BlogBridge releases coming fast and furious](None)
-
 
 
 >>
@@ -40,3 +38,4 @@ on SourceForge.
 think!](<http://www.blogbridge.com/projectpage.htm#releases>)
 
 
+[BlogBridge releases coming fast and furious](None)

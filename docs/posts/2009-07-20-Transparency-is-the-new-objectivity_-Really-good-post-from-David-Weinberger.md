@@ -3,8 +3,6 @@ title: "Transparency is the new objectivity: Really good post from David Weinber
 author: Pito Salas
 date: 2009-07-20
 ---
-# [Transparency is the new objectivity: Really good post from David Weinberger](None)
-
 
 
 
@@ -49,3 +47,4 @@ Objectivity](<http://www.hyperorg.com/blogger/2009/07/19/transparency-is-the-
 new-objectivity/>) tells a fascinating part of the story; you should read it.
 
 
+[Transparency is the new objectivity: Really good post from David Weinberger](None)

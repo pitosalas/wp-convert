@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - tools hacker directory
 ---
-# [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade)
-
 <img src=https://avatars.githubusercontent.com/u/3237905?s=400&v=4 width="500">
 
 
 
-(**Web site except:** Amazing list of resources for techies and hackers) 
+(**Web site excerpt:** Amazing list of resources for techies and hackers) 
+[cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade)

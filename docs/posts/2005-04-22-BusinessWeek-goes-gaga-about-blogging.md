@@ -3,8 +3,6 @@ title: "BusinessWeek goes gaga about blogging"
 author: Pito Salas
 date: 2005-04-22
 ---
-# [BusinessWeek goes gaga about blogging](None)
-
 
 
 >>
@@ -15,3 +13,4 @@ section all about blogging. Not only that, but they've started their own
 [meta-blog](<http://www.businessweek.com/the_thread/blogspotting/>).
 
 
+[BusinessWeek goes gaga about blogging](None)

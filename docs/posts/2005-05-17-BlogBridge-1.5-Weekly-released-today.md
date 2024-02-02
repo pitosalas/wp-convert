@@ -3,8 +3,6 @@ title: "BlogBridge 1.5 Weekly released today"
 author: Pito Salas
 date: 2005-05-17
 ---
-# [BlogBridge 1.5 Weekly released today](None)
-
 
 
 >>
@@ -18,3 +16,4 @@ blog](<http://www.blogbridge.com/weblog/archives/000671.html>) and
 >> Technorati Tags: [blogbridge](<http://technorati.com/tag/blogbridge>)
 
 
+[BlogBridge 1.5 Weekly released today](None)

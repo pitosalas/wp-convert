@@ -3,8 +3,6 @@ title: "What is Art For?"
 author: Pito Salas
 date: 2008-11-17
 ---
-# [What is Art For?](None)
-
 
 
 
@@ -50,3 +48,4 @@ and much more:
 Good stuff.
 
 
+[What is Art For?](None)

@@ -3,8 +3,6 @@ title: "Hackers and the elections"
 author: Pito Salas
 date: 2007-10-12
 ---
-# [Hackers and the elections](None)
-
 
 
 
@@ -23,3 +21,4 @@ Read the whole thing
 us-elections.html>).
 
 
+[Hackers and the elections](None)

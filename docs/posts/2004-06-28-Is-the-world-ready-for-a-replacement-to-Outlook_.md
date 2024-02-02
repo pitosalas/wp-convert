@@ -3,8 +3,6 @@ title: "Is the world ready for a replacement to Outlook?"
 author: Pito Salas
 date: 2004-06-28
 ---
-# [Is the world ready for a replacement to Outlook?](None)
-
 
 
 >>
@@ -72,3 +70,4 @@ some level by that long ago, seminal application, Agenda.
 a chance **Chandler** and others will have?
 
 
+[Is the world ready for a replacement to Outlook?](None)

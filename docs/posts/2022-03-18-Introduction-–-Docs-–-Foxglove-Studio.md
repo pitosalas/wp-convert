@@ -5,8 +5,6 @@ date: 2022-03-18
 tags:
     - windows
 ---
-# [Introduction – Docs – Foxglove Studio](None)
-
 
 
 
@@ -18,3 +16,4 @@ debugging tool for your robotics data, conveniently packaged as a desktop app.
 March 18, 2022 at 09:49PM
 
 
+[Introduction – Docs – Foxglove Studio](None)

@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - development docker
 ---
-# [Docker for Rails Development |](https://reinteractive.com/posts/359-docker-for-rails-development)
-
 <img src=https://rdl.ink/render/https%3A%2F%2Freinteractive.com%2Fposts%2F359-docker-for-rails-development width="500">
 
 
 
-(**Web site except:** reinteractive: Docker for Rails Development) 
+(**Web site excerpt:** reinteractive: Docker for Rails Development) 
+[Docker for Rails Development |](https://reinteractive.com/posts/359-docker-for-rails-development)

@@ -11,8 +11,7 @@ tags:
     - marc-andreesen
     - opinion
 ---
-# [Why AI Will Save the World | Andreessen Horowitz](https://a16z.com/2023/06/06/ai-will-save-the-world/)
-
 <img src=https://a16z.com/wp-content/uploads/2023/06/AI-Saves-The-World_Yoast-FB.jpg width="500">
 
 This article has been heavily referenced because Marc Andreesen is famous and opinionated.
+[Why AI Will Save the World | Andreessen Horowitz](https://a16z.com/2023/06/06/ai-will-save-the-world/)

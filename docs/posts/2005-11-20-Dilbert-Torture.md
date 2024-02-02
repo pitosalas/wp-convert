@@ -3,8 +3,6 @@ title: "Dilbert Torture"
 author: Pito Salas
 date: 2005-11-20
 ---
-# [Dilbert Torture](None)
-
 
 
 >>
@@ -48,3 +46,4 @@ extra hairy to me. So it would probably hurt extra much." ( **from**
 >> Technorati Tags: [funny](<http://www.technorati.com/tag/funny>)
 
 
+[Dilbert Torture](None)

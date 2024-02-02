@@ -3,8 +3,6 @@ title: "We need a debt rating service rating service"
 author: Pito Salas
 date: 2010-05-28
 ---
-# [We need a debt rating service rating service](None)
-
 
 
 
@@ -29,3 +27,4 @@ trust them? Hmm. Who can I ask? I need a Dept Rating Service Rating Service.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[We need a debt rating service rating service](None)

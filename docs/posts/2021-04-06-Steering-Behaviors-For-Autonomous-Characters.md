@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - Design
 ---
-# [Steering Behaviors For Autonomous Characters](http://www.red3d.com/cwr/steer)
-
 <img src=https://rdl.ink/render/http%3A%2F%2Fwww.red3d.com%2Fcwr%2Fsteer width="500">
 
 
+[Steering Behaviors For Autonomous Characters](http://www.red3d.com/cwr/steer)

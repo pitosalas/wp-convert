@@ -3,8 +3,6 @@ title: "Robin Good checks out BlogBridge micro publishing capabilities"
 author: Pito Salas
 date: 2007-06-05
 ---
-# [Robin Good checks out BlogBridge micro publishing capabilities](None)
-
 
 
 
@@ -32,3 +30,4 @@ aggregation-publishing/newsmastering-from-RSS-feed-reading-to-dirtect-
 publishing-Blogbridge-20070605.htm>)"
 
 
+[Robin Good checks out BlogBridge micro publishing capabilities](None)

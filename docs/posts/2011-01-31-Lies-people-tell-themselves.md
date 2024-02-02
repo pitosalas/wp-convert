@@ -9,8 +9,6 @@ tags:
     - startups
     - techno-taglogy
 ---
-# [Lies people tell themselves](None)
-
 
 
 
@@ -73,3 +71,4 @@ to-sell-a-con/>) he writes:
 You might gather that in this case I am more in Zawinski's camp.
 
 
+[Lies people tell themselves](None)

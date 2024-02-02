@@ -3,8 +3,6 @@ title: "OMG: Lotus Notes still alive and kicking ?"
 author: Pito Salas
 date: 2006-12-29
 ---
-# [OMG: Lotus Notes still alive and kicking ?](None)
-
 
 
 >
@@ -42,3 +40,4 @@ date: 2006-12-29
 > support](<http://feeds.tuaw.com/~r/weblogsinc/tuaw/~3/68102824/>))
 
 
+[OMG: Lotus Notes still alive and kicking ?](None)

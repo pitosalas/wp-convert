@@ -9,8 +9,6 @@ tags:
     - new-york-times
     - university
 ---
-# [Ongoing coverage of MOOCs: How good are they really?](None)
-
 
 
 
@@ -47,3 +45,4 @@ His telling comments about the convenience factor:
 > mooc-university.html?pagewanted=3&ref=todayspaper&pagewanted=all>))
 
 
+[Ongoing coverage of MOOCs: How good are they really?](None)

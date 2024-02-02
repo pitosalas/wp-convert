@@ -5,8 +5,6 @@ date: 2008-08-22
 tags:
     - mac-osx-virus
 ---
-# [Mac OS X Virus?](None)
-
 
 
 
@@ -20,3 +18,4 @@ Anyone know what's going on? I just told someone today that Mac's NEVER have
 viruses!
 
 
+[Mac OS X Virus?](None)

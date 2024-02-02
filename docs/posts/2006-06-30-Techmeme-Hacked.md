@@ -3,8 +3,6 @@ title: "Techmeme Hacked"
 author: Pito Salas
 date: 2006-06-30
 ---
-# [Techmeme Hacked](None)
-
 
 
 >>
@@ -24,3 +22,4 @@ interesting, has been **hacked**! Who would have thought!
 [gnomedex](<http://www.technorati.com/tag/gnomedex>)
 
 
+[Techmeme Hacked](None)

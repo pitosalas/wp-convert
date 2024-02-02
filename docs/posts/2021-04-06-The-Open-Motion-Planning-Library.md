@@ -10,10 +10,9 @@ tags:
     - cosi119
     - navigation
 ---
-# [The Open Motion Planning Library](http://ompl.kavrakilab.org)
-
 <img src=https://rdl.ink/render/http%3A%2F%2Fompl.kavrakilab.org width="500">
 
 
 
-(**Web site except:** Looks very useful. A collection of algorithms) 
+(**Web site excerpt:** Looks very useful. A collection of algorithms) 
+[The Open Motion Planning Library](http://ompl.kavrakilab.org)

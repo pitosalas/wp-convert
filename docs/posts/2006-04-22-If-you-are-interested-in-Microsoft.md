@@ -3,8 +3,6 @@ title: "If you are interested in Microsoft"
 author: Pito Salas
 date: 2006-04-22
 ---
-# [If you are interested in Microsoft](None)
-
 
 
 >>
@@ -41,3 +39,4 @@ to **inhale** or roll **over**.
 [eroom](<http://www.technorati.com/tag/eroom>)
 
 
+[If you are interested in Microsoft](None)

@@ -3,8 +3,6 @@ title: "Whats the point of setting a goal for 2050?"
 author: Pito Salas
 date: 2008-07-08
 ---
-# [Whats the point of setting a goal for 2050?](None)
-
 
 
 
@@ -23,3 +21,4 @@ has any effect on anything real?
 Lame-o?
 
 
+[Whats the point of setting a goal for 2050?](None)

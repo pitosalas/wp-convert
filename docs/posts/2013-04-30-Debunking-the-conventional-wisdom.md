@@ -8,8 +8,6 @@ tags:
     - programmer
     - research
 ---
-# [Debunking the conventional wisdom](None)
-
 
 
 
@@ -32,3 +30,4 @@ Time](<http://news.ncsu.edu/releases/wms-murphyhill-age-2013/>):
 
 
 
+[Debunking the conventional wisdom](None)

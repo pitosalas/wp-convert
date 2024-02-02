@@ -3,8 +3,6 @@ title: "An interesting paper about social networks"
 author: Pito Salas
 date: 2007-08-20
 ---
-# [An interesting paper about social networks](None)
-
 
 
 
@@ -19,3 +17,4 @@ first to identify the problem:
 > Thoughts on the Social Graph](<http://bradfitz.com/social-graph-problem/>))
 
 
+[An interesting paper about social networks](None)

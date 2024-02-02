@@ -3,8 +3,6 @@ title: "Great new OS X Software Releases"
 author: Pito Salas
 date: 2005-05-04
 ---
-# [Great new OS X Software Releases](None)
-
 
 
 >>
@@ -48,3 +46,4 @@ feature is Technorati Tags support.
 [mac](<http://technorati.com/tag/mac>), [osx](<http://technorati.com/tag/osx>)
 
 
+[Great new OS X Software Releases](None)

@@ -3,8 +3,6 @@ title: "Important new (weekly) release of BlogBridge"
 author: Pito Salas
 date: 2005-06-24
 ---
-# [Important new (weekly) release of BlogBridge](None)
-
 
 
 >>
@@ -27,3 +25,4 @@ Check it [out](<http://www.blogbridge.com/install/weekly/blogbridge.jnlp>)!
 [technorati](<http://technorati.com/tag/technorati>)
 
 
+[Important new (weekly) release of BlogBridge](None)

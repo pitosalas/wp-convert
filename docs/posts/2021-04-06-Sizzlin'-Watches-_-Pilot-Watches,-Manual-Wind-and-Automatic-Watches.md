@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - watch
 ---
-# [Sizzlin' Watches | Pilot Watches, Manual Wind and Automatic Watches](http://sizzlinwatches.com/index.php)
-
 <img src= width="500">
 
 
+[Sizzlin' Watches | Pilot Watches, Manual Wind and Automatic Watches](http://sizzlinwatches.com/index.php)

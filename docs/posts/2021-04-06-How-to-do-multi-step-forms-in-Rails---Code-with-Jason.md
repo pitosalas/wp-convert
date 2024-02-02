@@ -12,10 +12,9 @@ tags:
     - multi-step
     - patterns
 ---
-# [How to do multi-step forms in Rails - Code with Jason](https://www.codewithjason.com/rails-multi-step-forms)
-
 <img src=http://www.codewithjason.com/wp-content/uploads/2020/03/multi-step-form.png width="500">
 
 
 
-(**Web site except:** Really good simple explanation of making a multi step form in Rails.) 
+(**Web site excerpt:** Really good simple explanation of making a multi step form in Rails.) 
+[How to do multi-step forms in Rails - Code with Jason](https://www.codewithjason.com/rails-multi-step-forms)

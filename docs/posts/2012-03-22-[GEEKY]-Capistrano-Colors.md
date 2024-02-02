@@ -7,8 +7,6 @@ tags:
     - GEEKY
     - rails
 ---
-# [[GEEKY] Capistrano Colors](None)
-
 
 
 
@@ -28,3 +26,4 @@ life will be a little better.
 >
 
 
+[[GEEKY] Capistrano Colors](None)

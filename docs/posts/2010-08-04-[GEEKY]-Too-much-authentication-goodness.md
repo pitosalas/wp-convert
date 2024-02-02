@@ -5,8 +5,6 @@ date: 2010-08-04
 tags:
     - authentication-tag-facebook
 ---
-# [[GEEKY] Too much authentication goodness](None)
-
 
 
 
@@ -24,3 +22,4 @@ built in username/password. That's probably a better policy for security as
 well.
 
 
+[[GEEKY] Too much authentication goodness](None)

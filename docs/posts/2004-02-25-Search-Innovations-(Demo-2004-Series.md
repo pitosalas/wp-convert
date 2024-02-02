@@ -3,8 +3,6 @@ title: "Search Innovations (Demo 2004 Series"
 author: Pito Salas
 date: 2004-02-25
 ---
-# [Search Innovations (Demo 2004 Series](None)
-
 
 
 >>
@@ -77,3 +75,4 @@ Windows XP. But for some reason it's one of those things (like
 gets right**. I wonder why.
 
 
+[Search Innovations (Demo 2004 Series](None)

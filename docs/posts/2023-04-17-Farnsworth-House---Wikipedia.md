@@ -9,8 +9,7 @@ tags:
     - farnsworth
     - architecture
 ---
-# [Farnsworth House - Wikipedia](https://en.wikipedia.org/wiki/Farnsworth_House)
-
 <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Farnsworth_House_by_Mies_Van_Der_Rohe_-_exterior-8.jpg/1200px-Farnsworth_House_by_Mies_Van_Der_Rohe_-_exterior-8.jpg width="500">
 
 
+[Farnsworth House - Wikipedia](https://en.wikipedia.org/wiki/Farnsworth_House)

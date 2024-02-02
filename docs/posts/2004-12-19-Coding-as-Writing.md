@@ -3,8 +3,6 @@ title: "Coding as Writing"
 author: Pito Salas
 date: 2004-12-19
 ---
-# [Coding as Writing](None)
-
 
 
 >>
@@ -75,3 +73,4 @@ likely outcomes, and each approach applicable to some projects and not others.
 I've chosen.
 
 
+[Coding as Writing](None)

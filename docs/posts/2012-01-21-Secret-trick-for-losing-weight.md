@@ -7,8 +7,6 @@ tags:
     - mind
     - weightloss
 ---
-# [Secret trick for losing weight](None)
-
 
 
 
@@ -65,3 +63,4 @@ And also:
 > Alaska)](<http://www.econpapers.uaa.alaska.edu/RePEC/ala/wpaper/ALA201102.pdf>)
 
 
+[Secret trick for losing weight](None)

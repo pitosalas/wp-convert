@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - printout danahboyd muggles
 ---
-# [Raph’s Website » ETech07 liveblog: Incantations for Muggles](http://www.raphkoster.com/2007/03/28/etech-07-liveblog-incantations-for-muggles)
-
 <img src=https://s0.wp.com/i/blank.jpg width="500">
 
 
 
-(**Web site except:** This Ralph is an incredible liveblogger. I wonder how his brain is wired!) 
+(**Web site excerpt:** This Ralph is an incredible liveblogger. I wonder how his brain is wired!) 
+[Raph’s Website » ETech07 liveblog: Incantations for Muggles](http://www.raphkoster.com/2007/03/28/etech-07-liveblog-incantations-for-muggles)

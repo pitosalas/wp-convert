@@ -5,8 +5,6 @@ date: 2022-05-29
 tags:
     - rails
 ---
-# [Rails Extension Power Pack – Visual Studio Marketplace](None)
-
 
 
 
@@ -21,3 +19,4 @@ Rails development in Visual Studio Code
 May 29, 2022 at 05:29PM
 
 
+[Rails Extension Power Pack – Visual Studio Marketplace](None)

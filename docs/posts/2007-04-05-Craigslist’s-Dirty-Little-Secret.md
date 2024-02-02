@@ -3,8 +3,6 @@ title: "Craigslist’s Dirty Little Secret"
 author: Pito Salas
 date: 2007-04-05
 ---
-# [Craigslist’s Dirty Little Secret](None)
-
 
 
 
@@ -22,3 +20,4 @@ post](<http://feeds.feedburner.com/~r/CompeteBlog/~3/106882473/>) from
 > Secret](<http://feeds.feedburner.com/~r/CompeteBlog/~3/106882473/>))
 
 
+[Craigslist’s Dirty Little Secret](None)

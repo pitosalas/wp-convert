@@ -9,8 +9,6 @@ tags:
     - support
     - telephon-tage
 ---
-# [Customer Service Ceremonies](None)
-
 
 
 
@@ -36,3 +34,4 @@ complete? Say "Yes, Thanks" and then hang up? Or am I being a rude, impatient,
 always in a hurry northeasterner?
 
 
+[Customer Service Ceremonies](None)

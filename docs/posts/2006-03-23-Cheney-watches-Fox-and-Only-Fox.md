@@ -3,8 +3,6 @@ title: "Cheney watches Fox and Only Fox"
 author: Pito Salas
 date: 2006-03-23
 ---
-# [Cheney watches Fox and Only Fox](None)
-
 
 
 >>
@@ -26,3 +24,4 @@ thing](<http://www.thesmokinggun.com/graphics/art3/0322061cheney1.gif>), it's
 kinda funny.
 
 
+[Cheney watches Fox and Only Fox](None)

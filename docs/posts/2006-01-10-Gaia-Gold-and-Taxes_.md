@@ -3,8 +3,6 @@ title: "Gaia Gold and Taxes?"
 author: Pito Salas
 date: 2006-01-10
 ---
-# [Gaia Gold and Taxes?](None)
-
 
 
 >>
@@ -63,3 +61,4 @@ February-2006/feature_dibbell_janfeb06.msp>))
 [mmorpg](<http://www.technorati.com/tag/mmorpg>)
 
 
+[Gaia Gold and Taxes?](None)

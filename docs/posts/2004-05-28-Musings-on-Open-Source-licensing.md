@@ -3,8 +3,6 @@ title: "Musings on Open Source licensing"
 author: Pito Salas
 date: 2004-05-28
 ---
-# [Musings on Open Source licensing](None)
-
 
 
 >>
@@ -86,3 +84,4 @@ tested or that I can create, which achieves what I outlined above?
 >> Looking for advice. I will post further musings on this as I make progress.
 
 
+[Musings on Open Source licensing](None)

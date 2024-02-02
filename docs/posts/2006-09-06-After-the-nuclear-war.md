@@ -3,8 +3,6 @@ title: "After the nuclear war"
 author: Pito Salas
 date: 2006-09-06
 ---
-# [After the nuclear war](None)
-
 
 Actually this is a fascinating photo essay of an abandoned city in the Soviet
 Union, left to gradually die off while the USSR collapsed.
@@ -22,3 +20,4 @@ places terminated after the army decided that they now don't have money to
 support those objects.
 
 
+[After the nuclear war](None)

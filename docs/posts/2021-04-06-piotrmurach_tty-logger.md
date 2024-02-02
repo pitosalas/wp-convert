@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - github logging structured terminal
 ---
-# [piotrmurach/tty-logger](https://github.com/piotrmurach/tty-logger)
-
 <img src=https://repository-images.githubusercontent.com/195463496/b7afba80-2506-11ea-9552-c2af9f89f048 width="500">
 
 
 
-(**Web site except:** Nice loggers) 
+(**Web site excerpt:** Nice loggers) 
+[piotrmurach/tty-logger](https://github.com/piotrmurach/tty-logger)

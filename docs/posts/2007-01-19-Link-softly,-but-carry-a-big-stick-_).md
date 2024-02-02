@@ -3,8 +3,6 @@ title: "Link softly, but carry a big stick :)"
 author: Pito Salas
 date: 2007-01-19
 ---
-# [Link softly, but carry a big stick :)](None)
-
 
 
 >
@@ -31,3 +29,4 @@ date: 2007-01-19
 > So, what, is it "Link softly but carry a big stick?"
 
 
+[Link softly, but carry a big stick :)](None)

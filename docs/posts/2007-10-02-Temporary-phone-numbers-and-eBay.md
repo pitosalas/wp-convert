@@ -3,8 +3,6 @@ title: "Temporary phone numbers and eBay"
 author: Pito Salas
 date: 2007-10-02
 ---
-# [Temporary phone numbers and eBay](None)
-
 
 
 
@@ -21,3 +19,4 @@ your real number. Simple and useful. Check out
 [Numbr.com.](<http://numbr.com/>)
 
 
+[Temporary phone numbers and eBay](None)

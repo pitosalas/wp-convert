@@ -3,8 +3,6 @@ title: "[ETECH] A9 as a search portal – Amazon defines “Searchlets”"
 author: Pito Salas
 date: 2005-03-15
 ---
-# [[ETECH] A9 as a search portal – Amazon defines “Searchlets”](None)
-
 
 
 >>
@@ -58,3 +56,4 @@ images) was available as a "searchlet" and Google allows the user to add tabs
 using the A9 Searchlet API, then **what happens**?
 
 
+[[ETECH] A9 as a search portal – Amazon defines “Searchlets”](None)

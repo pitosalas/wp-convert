@@ -3,8 +3,6 @@ title: "Mars Avalanche photos"
 author: Pito Salas
 date: 2008-03-14
 ---
-# [Mars Avalanche photos](None)
-
 
 
 
@@ -19,3 +17,4 @@ date: 2008-03-14
 This is one of those times when a picture is worth 1,000 words 🙂
 
 
+[Mars Avalanche photos](None)

@@ -3,8 +3,6 @@ title: "Peggy Noonan on Media"
 author: Pito Salas
 date: 2005-01-16
 ---
-# [Peggy Noonan on Media](None)
-
 
 Peggy Noonan is a great, albeit a little on the conservative side, columnist
 that I read whenever I can.
@@ -12,3 +10,4 @@ that I read whenever I can.
 she wrote on the Main Stream Media. Blogs and Dan Rather.
 
 
+[Peggy Noonan on Media](None)

@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - design facebook course olin socialnetworks
 ---
-# [Social Design - Facebook Developers](https://developers.facebook.com/socialdesign)
-
 <img src= width="500">
 
 
 
-(**Web site except:** Facebook social design) 
+(**Web site excerpt:** Facebook social design) 
+[Social Design - Facebook Developers](https://developers.facebook.com/socialdesign)

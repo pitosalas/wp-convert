@@ -12,10 +12,9 @@ tags:
     - caching
     - scalability
 ---
-# [The day I discovered vmtouch](https://brunocalza.me/the-day-i-discoverd-vmtouch/)
-
 <img src=https://rdl.ink/render/https%3A%2F%2Fbrunocalza.me%2Fthe-day-i-discoverd-vmtouch%2F width="500">
 
 
 
-(**Web site except:** IntroductionLast weekend I decided to take a deeper look at the famous SQLite 35% Faster Than The Filesystem benchmark. I didn't want to do a shallow read of the post. I wanted to compile the kvtest tool and run the experiments myself and see what is going on. I recommend) 
+(**Web site excerpt:** IntroductionLast weekend I decided to take a deeper look at the famous SQLite 35% Faster Than The Filesystem benchmark. I didn't want to do a shallow read of the post. I wanted to compile the kvtest tool and run the experiments myself and see what is going on. I recommend) 
+[The day I discovered vmtouch](https://brunocalza.me/the-day-i-discoverd-vmtouch/)

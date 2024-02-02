@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - investors entrepreneurship
 ---
-# [4 Surprising Inside Tips for Attracting Investors - OPEN Forum :: American Express OPEN Forum](http://www.openforum.com/articles/4-surprising-inside-tips-attract-investors)
-
 <img src=https://icm.aexp-static.com/content/dam/contenthub/us/en/images/design-elements/AXP_BlueBoxLogo.jpg width="500">
 
 
 
-(**Web site except:** Expert investor Jason Calacanis speaks frankly about what investors are really looking for in a pitch and in a startup.) 
+(**Web site excerpt:** Expert investor Jason Calacanis speaks frankly about what investors are really looking for in a pitch and in a startup.) 
+[4 Surprising Inside Tips for Attracting Investors - OPEN Forum :: American Express OPEN Forum](http://www.openforum.com/articles/4-surprising-inside-tips-attract-investors)

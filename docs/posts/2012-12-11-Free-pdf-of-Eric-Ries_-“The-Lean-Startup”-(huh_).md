@@ -7,8 +7,6 @@ tags:
     - lean-startups
     - pdf
 ---
-# [Free pdf of Eric Ries: “The Lean Startup” (huh?)](None)
-
 
 
 
@@ -24,3 +22,4 @@ If you are wondering, .co.ke is Kenya. I posted a question to them to explain
 whether this was above board. I wonder…
 
 
+[Free pdf of Eric Ries: “The Lean Startup” (huh?)](None)

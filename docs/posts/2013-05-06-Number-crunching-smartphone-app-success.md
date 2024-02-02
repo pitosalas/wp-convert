@@ -9,8 +9,6 @@ tags:
     - smartphon-tage
     - statistics
 ---
-# [Number crunching smartphone app success](None)
-
 
 
 
@@ -60,3 +58,4 @@ equation-of-a-hit-film-script-with-data.html?_r=0>):
 
 
 
+[Number crunching smartphone app success](None)

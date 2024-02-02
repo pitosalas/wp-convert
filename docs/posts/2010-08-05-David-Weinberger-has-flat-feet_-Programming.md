@@ -9,8 +9,6 @@ tags:
     - programmer
     - visual-programming-environ-tagments
 ---
-# [David Weinberger has flat feet: Programming](None)
-
 
 
 
@@ -48,3 +46,4 @@ I wonder what the flat footed developer corps thinks. Does Visual Programming
 help?
 
 
+[David Weinberger has flat feet: Programming](None)

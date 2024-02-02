@@ -3,8 +3,6 @@ title: "Marc Andreesen with a simple lucid explanation…"
 author: Pito Salas
 date: 2007-06-09
 ---
-# [Marc Andreesen with a simple lucid explanation…](None)
-
 
 
 
@@ -30,3 +28,4 @@ post](<http://blog.pmarca.com/2007/06/the_truth_about.html>) in
 > 1](<http://blog.pmarca.com/2007/06/the_truth_about.html>))
 
 
+[Marc Andreesen with a simple lucid explanation…](None)

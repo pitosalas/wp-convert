@@ -13,10 +13,9 @@ tags:
     - yagni
     - redis
 ---
-# [Use Postgres for everything!](https://www.amazingcto.com/postgres-for-everything/)
-
 <img src=https://www.amazingcto.com/Amazing_CTO_Banner.png width="500">
 
 
 
-(**Web site except:** Insights about simplifying your architecture. Wow! Using postgres instead of REDIS? This flies in the face of what I thought I understood! Author: “Startups use too much technology. My advice: Use Postgres for everything”) 
+(**Web site excerpt:** Insights about simplifying your architecture. Wow! Using postgres instead of REDIS? This flies in the face of what I thought I understood! Author: “Startups use too much technology. My advice: Use Postgres for everything”) 
+[Use Postgres for everything!](https://www.amazingcto.com/postgres-for-everything/)

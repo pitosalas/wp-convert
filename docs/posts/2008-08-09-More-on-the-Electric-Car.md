@@ -3,8 +3,6 @@ title: "More on the Electric Car"
 author: Pito Salas
 date: 2008-08-09
 ---
-# [More on the Electric Car](None)
-
 
 
 
@@ -30,3 +28,4 @@ Does cast another light on the whole EV-1 story. Now I want a
 [**Volt**](<http://en.wikipedia.org/wiki/Chevrolet_Volt>)!
 
 
+[More on the Electric Car](None)

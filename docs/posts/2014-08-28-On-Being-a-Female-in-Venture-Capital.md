@@ -3,8 +3,6 @@ title: "On Being a Female in Venture Capital"
 author: Pito Salas
 date: 2014-08-28
 ---
-# [On Being a Female in Venture Capital](None)
-
 
 
 
@@ -24,3 +22,4 @@ Interesting story…
 -- http://mitsloanblog.typepad.com/mba2015/2014/07/venture-capital-women.html
 
 
+[On Being a Female in Venture Capital](None)

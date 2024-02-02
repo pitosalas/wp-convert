@@ -3,8 +3,6 @@ title: "“The Most Expensive Bidder”"
 author: Pito Salas
 date: 2007-08-14
 ---
-# [“The Most Expensive Bidder”](None)
-
 
 
 
@@ -21,3 +19,4 @@ They may have a point, I don't know.
 [![](https://i0.wp.com/www.unitedmedia.com/comics/dilbert/archive/images/dilbert2007081130942.jpg?w=584)](<http://www.unitedmedia.com/comics/dilbert/archive/dilbert-20070812.html>)
 
 
+[“The Most Expensive Bidder”](None)

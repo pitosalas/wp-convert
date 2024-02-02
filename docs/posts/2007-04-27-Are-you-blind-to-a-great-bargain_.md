@@ -3,8 +3,6 @@ title: "Are you blind to a great bargain?"
 author: Pito Salas
 date: 2007-04-27
 ---
-# [Are you blind to a great bargain?](None)
-
 
 
 
@@ -23,3 +21,4 @@ article](<http://online.wsj.com/article_print/SB117700152496775717.html>),
 it's really interesting!
 
 
+[Are you blind to a great bargain?](None)

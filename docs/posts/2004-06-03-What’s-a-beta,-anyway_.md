@@ -3,8 +3,6 @@ title: "What’s a beta, anyway?"
 author: Pito Salas
 date: 2004-06-03
 ---
-# [What’s a beta, anyway?](None)
-
 
 
 >>
@@ -53,3 +51,4 @@ beta to about 10 people to start, and plan to ramp that up over the next
 months, while constantly adding features and removing bugs.
 
 
+[What’s a beta, anyway?](None)

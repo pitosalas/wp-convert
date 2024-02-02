@@ -3,8 +3,6 @@ title: "Outlook Haters, anyone?"
 author: Pito Salas
 date: 2004-05-01
 ---
-# [Outlook Haters, anyone?](None)
-
 
 
 >>
@@ -40,3 +38,4 @@ someone's free-busy information. These are incredibly important integrations:
 the three functions (email, calendar and addressbook) **belong together.**
 
 
+[Outlook Haters, anyone?](None)

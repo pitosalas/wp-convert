@@ -8,8 +8,6 @@ tags:
     - sno-tagwden
     - topsecret
 ---
-# [The other side of the Snowden story](None)
-
 
 
 
@@ -29,3 +27,4 @@ RAND](<http://m.rand.org/commentary/2013/08/10/LAT.html>):
 
 
 
+[The other side of the Snowden story](None)

@@ -3,8 +3,6 @@ title: "Boston is thinking about city-wide wi-fi access"
 author: Pito Salas
 date: 2005-05-21
 ---
-# [Boston is thinking about city-wide wi-fi access](None)
-
 
 
 >>
@@ -48,3 +46,4 @@ good read!
 [wireless](<http://technorati.com/tag/wireless>)
 
 
+[Boston is thinking about city-wide wi-fi access](None)

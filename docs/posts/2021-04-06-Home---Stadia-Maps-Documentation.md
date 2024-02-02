@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - maps stadia googlemaps
 ---
-# [Home - Stadia Maps Documentation](https://docs.stadiamaps.com)
-
 <img src=https://rdl.ink/render/https%3A%2F%2Fdocs.stadiamaps.com width="500">
 
 
 
-(**Web site except:** Great alternative for google maps) 
+(**Web site excerpt:** Great alternative for google maps) 
+[Home - Stadia Maps Documentation](https://docs.stadiamaps.com)

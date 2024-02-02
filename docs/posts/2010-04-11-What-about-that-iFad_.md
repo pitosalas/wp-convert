@@ -3,8 +3,6 @@ title: "What about that iFad?"
 author: Pito Salas
 date: 2010-04-11
 ---
-# [What about that iFad?](None)
-
 
 
 
@@ -15,3 +13,4 @@ Review: Laptop Killer? Pretty
 Close](<http://ptech.allthingsd.com/20100331/apple-ipad-review/>).
 
 
+[What about that iFad?](None)

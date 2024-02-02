@@ -3,8 +3,6 @@ title: "Adobe Software Updates To Help Devs Build iOS, PlayBook And Android Apps
 author: Pito Salas
 date: 2011-06-20
 ---
-# [Adobe Software Updates To Help Devs Build iOS, PlayBook And Android Apps](None)
-
 
 
 
@@ -22,3 +20,4 @@ Apps](<http://feedproxy.google.com/~r/Techcrunch/~3/xrYpUUH5Vi0/>) from
 > support for the Android platform (added last April).
 
 
+[Adobe Software Updates To Help Devs Build iOS, PlayBook And Android Apps](None)

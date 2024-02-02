@@ -8,8 +8,6 @@ tags:
     - information-tag
     - overload
 ---
-# [Information Diet: Focus](None)
-
 
 
 
@@ -46,3 +44,4 @@ but I hadn't thought about it **this way:**
 > information-diet>).)**
 
 
+[Information Diet: Focus](None)

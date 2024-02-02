@@ -3,8 +3,6 @@ title: "Manny being Manny"
 author: Pito Salas
 date: 2009-05-08
 ---
-# [Manny being Manny](None)
-
 
 
 
@@ -40,3 +38,4 @@ Pitches](<http://38pitches.com/feed/>):
 > know what was in that stuff"? Come on.
 
 
+[Manny being Manny](None)

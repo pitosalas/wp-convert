@@ -3,8 +3,6 @@ title: "[GEEKY] BostonPHP Meeting: Ajax Update"
 author: Pito Salas
 date: 2006-10-24
 ---
-# [[GEEKY] BostonPHP Meeting: Ajax Update](None)
-
 
 
 >
@@ -22,3 +20,4 @@ expect."
 > Technorati Tags: [PHP](<http://www.technorati.com/tag/PHP>)
 
 
+[[GEEKY] BostonPHP Meeting: Ajax Update](None)

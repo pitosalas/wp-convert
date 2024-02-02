@@ -7,8 +7,6 @@ tags:
     - ifttt
     - mastodon-tag
 ---
-# [How to Post to Mastodon From Anything Using IFTTT – K²R](None)
-
 
 
 
@@ -20,3 +18,4 @@ Pocket when I’m offline: I can add a tag in the app on my tablet, and then
 when it syncs that tag up to the cloud, […]
 
 
+[How to Post to Mastodon From Anything Using IFTTT – K²R](None)

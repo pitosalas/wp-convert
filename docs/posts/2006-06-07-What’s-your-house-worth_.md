@@ -3,8 +3,6 @@ title: "What’s your house worth?"
 author: Pito Salas
 date: 2006-06-07
 ---
-# [What’s your house worth?](None)
-
 
 
 >>
@@ -39,3 +37,4 @@ it's current market value and how it's changed. **Cool**.
 [cooltool](<http://www.technorati.com/tag/cooltool>)
 
 
+[What’s your house worth?](None)

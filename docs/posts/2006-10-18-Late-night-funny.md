@@ -3,8 +3,6 @@ title: "Late night funny"
 author: Pito Salas
 date: 2006-10-18
 ---
-# [Late night funny](None)
-
 
 
 >
@@ -17,3 +15,4 @@ date: 2006-10-18
 > powered by [performancing firefox](<http://performancing.com/firefox>)
 
 
+[Late night funny](None)

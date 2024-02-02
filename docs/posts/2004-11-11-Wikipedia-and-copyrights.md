@@ -3,8 +3,6 @@ title: "Wikipedia and copyrights"
 author: Pito Salas
 date: 2004-11-11
 ---
-# [Wikipedia and copyrights](None)
-
 
 
 >>
@@ -50,3 +48,4 @@ that. I don't want to make this into a big **conspiracy theory** - there may
 be a perfectly innocent explanation…
 
 
+[Wikipedia and copyrights](None)

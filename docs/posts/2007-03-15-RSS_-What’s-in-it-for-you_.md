@@ -3,8 +3,6 @@ title: "RSS: What’s in it for you?"
 author: Pito Salas
 date: 2007-03-15
 ---
-# [RSS: What’s in it for you?](None)
-
 
 
 
@@ -17,3 +15,4 @@ notes](</stories/rssprez.pdf>) I prepared for my part of the show. ["RSS:
 What's In it For You"](</stories/rssprez.pdf>)
 
 
+[RSS: What’s in it for you?](None)

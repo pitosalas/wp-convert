@@ -7,8 +7,6 @@ tags:
     - poetry
     - timmason-tag
 ---
-# [Poem: Tortoise by Tim Mason](None)
-
 
 
 
@@ -43,3 +41,4 @@ under the hard shell
 I show the world.
 
 
+[Poem: Tortoise by Tim Mason](None)

@@ -3,8 +3,6 @@ title: "I have many friends"
 author: Pito Salas
 date: 2007-06-10
 ---
-# [I have many friends](None)
-
 
 
 
@@ -34,3 +32,4 @@ I too have many friends on Facebook. I haven't friended my son though…
 
 
 
+[I have many friends](None)

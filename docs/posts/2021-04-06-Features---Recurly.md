@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - Sittercity
 ---
-# [Features - Recurly](http://recurly.com/features)
-
 <img src=https://recurly.com/img2/og-image.gif width="500">
 
 
 
-(**Web site except:** Recurly provides enterprise-class subscription management for thousands of businesses worldwide.) 
+(**Web site excerpt:** Recurly provides enterprise-class subscription management for thousands of businesses worldwide.) 
+[Features - Recurly](http://recurly.com/features)

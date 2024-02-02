@@ -3,8 +3,6 @@ title: "Google Sightseeing: Target in my neighborhood"
 author: Pito Salas
 date: 2005-08-01
 ---
-# [Google Sightseeing: Target in my neighborhood](None)
-
 
 
 >>
@@ -31,3 +29,4 @@ neighborhood](<http://maps.google.com/maps?q=02474&ll=42.398932,-71.072949&spn=0
 [maps](<http://technorati.com/tag/maps>)
 
 
+[Google Sightseeing: Target in my neighborhood](None)

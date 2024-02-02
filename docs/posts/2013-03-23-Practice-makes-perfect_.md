@@ -7,8 +7,6 @@ tags:
     - piano-tag
     - practice
 ---
-# [Practice makes perfect?](None)
-
 
 
 
@@ -36,3 +34,4 @@ something-wrong-the-surprisingly-relaxed-lives-of-elite-achievers/>)
 > something-wrong-the-surprisingly-relaxed-lives-of-elite-achievers/>))
 
 
+[Practice makes perfect?](None)

@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - polarstar northpole monument astronomy
 ---
-# [The 26,000-Year Astronomical Monument Hidden in Plain Sight](http://blog.longnow.org/02019/01/29/the-26000-year-astronomical-monument-hidden-in-plain-sight)
-
 <img src=https://blog-cdn.longnow.org/wp-content/uploads/2019/01/0_Db-LhI9UfyMj06-k.jpg width="500">
 
 
 
-(**Web site except:** Good geeky info about a monument near the Hoover dam...) 
+(**Web site excerpt:** Good geeky info about a monument near the Hoover dam...) 
+[The 26,000-Year Astronomical Monument Hidden in Plain Sight](http://blog.longnow.org/02019/01/29/the-26000-year-astronomical-monument-hidden-in-plain-sight)

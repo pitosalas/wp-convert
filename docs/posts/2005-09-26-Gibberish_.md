@@ -3,8 +3,6 @@ title: "Gibberish?"
 author: Pito Salas
 date: 2005-09-26
 ---
-# [Gibberish?](None)
-
 
 
 >>
@@ -27,3 +25,4 @@ Gibberish?](<http://acmqueue.com/modules.php?name=Content&pa=showpage&pid=325>))
 [interesting](<http://www.technorati.com/tag/interesting>)
 
 
+[Gibberish?](None)

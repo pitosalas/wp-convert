@@ -3,8 +3,6 @@ title: "BlogBridge makes top 10 List!"
 author: Pito Salas
 date: 2004-10-15
 ---
-# [BlogBridge makes top 10 List!](None)
-
 
 
 >>
@@ -30,3 +28,4 @@ got picked up by [Java Desktop](<http://community.java.net/javadesktop/>) as a
 >> **Wicked cool** , as they say!
 
 
+[BlogBridge makes top 10 List!](None)

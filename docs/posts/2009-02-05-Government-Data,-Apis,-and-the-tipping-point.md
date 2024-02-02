@@ -3,8 +3,6 @@ title: "Government Data, Apis, and the tipping point"
 author: Pito Salas
 date: 2009-02-05
 ---
-# [Government Data, Apis, and the tipping point](None)
-
 
 
 
@@ -55,3 +53,4 @@ big-data/>)? In the blog post he says:
 > point?](<http://dataspora.com/blog/tipping-points-and-big-data/>)
 
 
+[Government Data, Apis, and the tipping point](None)

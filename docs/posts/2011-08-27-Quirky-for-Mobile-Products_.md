@@ -6,8 +6,6 @@ tags:
     - mobile
     - quirky
 ---
-# [Quirky for Mobile Products?](None)
-
 
 
 
@@ -33,3 +31,4 @@ What if we created a similar service, but focused exclusively on products for
 app phones (e.g. iPhone and Android.) What do you think?
 
 
+[Quirky for Mobile Products?](None)

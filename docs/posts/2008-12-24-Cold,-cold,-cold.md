@@ -3,8 +3,6 @@ title: "Cold, cold, cold"
 author: Pito Salas
 date: 2008-12-24
 ---
-# [Cold, cold, cold](None)
-
 
 
 
@@ -12,3 +10,4 @@ date: 2008-12-24
 content/uploads/2008/12/cold.jpg?resize=470%2C353)
 
 
+[Cold, cold, cold](None)

@@ -3,8 +3,6 @@ title: "Why Improv didn’t succeed"
 author: Pito Salas
 date: 2004-11-29
 ---
-# [Why Improv didn’t succeed](None)
-
 
 
 >>
@@ -114,3 +112,4 @@ to learn and improve and refine the model to a point where it would have
 >> Who knows. Ancient history.
 
 
+[Why Improv didn’t succeed](None)

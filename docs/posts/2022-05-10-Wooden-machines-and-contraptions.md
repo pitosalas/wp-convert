@@ -12,8 +12,7 @@ tags:
     - howto
     - diy
 ---
-# [Wooden machines and contraptions](https://woodgears.ca/machines.html)
-
 <img src=https://rdl.ink/render/https%3A%2F%2Fwoodgears.ca%2Fmachines.html width="500">
 
 
+[Wooden machines and contraptions](https://woodgears.ca/machines.html)

@@ -3,8 +3,6 @@ title: "Lexington Public Library’s responsible for the computer revolution?"
 author: Pito Salas
 date: 2009-10-23
 ---
-# [Lexington Public Library’s responsible for the computer revolution?](None)
-
 
 
 
@@ -25,3 +23,4 @@ Harlan Anderson was one of the founders of DEC.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[Lexington Public Library’s responsible for the computer revolution?](None)

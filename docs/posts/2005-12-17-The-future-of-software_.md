@@ -3,8 +3,6 @@ title: "The future of software?"
 author: Pito Salas
 date: 2005-12-17
 ---
-# [The future of software?](None)
-
 
 
 >>
@@ -29,3 +27,4 @@ date, and will meet essential human needs. Like Adium." ( **from** ongoing,
 [software](<http://www.technorati.com/tag/software>)
 
 
+[The future of software?](None)

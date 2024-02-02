@@ -6,8 +6,6 @@ tags:
     - googleplus
     - socialnetworks
 ---
-# [Google+ – Professional Social Network?](None)
-
 
 
 
@@ -46,3 +44,4 @@ Maybe that will be [Google Plus'](</>) niche: the **professional social
 network.**
 
 
+[Google+ – Professional Social Network?](None)

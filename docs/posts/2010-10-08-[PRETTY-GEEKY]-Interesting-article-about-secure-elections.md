@@ -3,8 +3,6 @@ title: "[PRETTY-GEEKY] Interesting article about secure elections"
 author: Pito Salas
 date: 2010-10-08
 ---
-# [[PRETTY-GEEKY] Interesting article about secure elections](None)
-
 
 
 
@@ -25,3 +23,4 @@ Dog](<http://benlog.com/articles/2010/10/06/fort-knox-vs-the-barking-dog/>)(
 .
 
 
+[[PRETTY-GEEKY] Interesting article about secure elections](None)

@@ -13,10 +13,9 @@ tags:
     - ruby
     - diagram
 ---
-# [styd/apexcharts.rb](https://github.com/styd/apexcharts.rb)
-
 <img src=https://repository-images.githubusercontent.com/191660099/30600580-80fa-11ea-886e-8c9cf48c9b33 width="500">
 
 
 
-(**Web site except:** This is an AMAZING collection of graphs. Great to have a ruby binding. Haven’t tried it yet but looks very worth while.) 
+(**Web site excerpt:** This is an AMAZING collection of graphs. Great to have a ruby binding. Haven’t tried it yet but looks very worth while.) 
+[styd/apexcharts.rb](https://github.com/styd/apexcharts.rb)

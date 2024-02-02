@@ -3,8 +3,6 @@ title: "Why I now have an email signature"
 author: Pito Salas
 date: 2007-08-01
 ---
-# [Why I now have an email signature](None)
-
 
 
 
@@ -58,3 +56,4 @@ little signature line at the end of it:
 Check this out: http://www.blogbridge.com/look`
 
 
+[Why I now have an email signature](None)

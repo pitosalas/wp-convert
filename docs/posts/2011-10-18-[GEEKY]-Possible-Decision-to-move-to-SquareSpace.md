@@ -6,8 +6,6 @@ tags:
     - squarespace
     - wordpresscom
 ---
-# [[GEEKY] Possible Decision to move to SquareSpace](None)
-
 
 
 
@@ -35,3 +33,4 @@ my whole (6 years) of wordpress posts, while preserving the urls so my link
 juice and ad revenue does't evaporate on me. I am optimistic.
 
 
+[[GEEKY] Possible Decision to move to SquareSpace](None)

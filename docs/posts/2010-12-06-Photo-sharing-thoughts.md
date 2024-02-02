@@ -12,8 +12,6 @@ tags:
     - sharing
     - Yogile
 ---
-# [Photo sharing thoughts](None)
-
 
 
 
@@ -38,3 +36,4 @@ an Apple MobileMe account.
 Any other that I should consider?
 
 
+[Photo sharing thoughts](None)

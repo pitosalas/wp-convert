@@ -5,8 +5,6 @@ date: 2021-11-05
 tags:
     - ruby
 ---
-# [The family of anonymous functions – blocks, procs and lambdas](None)
-
 
 
 
@@ -20,3 +18,4 @@ flexibility. This article is a deep dive into blocks, procs, and lambdas.
 November 5, 2021 at 12:46PM
 
 
+[The family of anonymous functions – blocks, procs and lambdas](None)

@@ -3,8 +3,6 @@ title: "How does Fake Steve get away with this?"
 author: Pito Salas
 date: 2007-11-28
 ---
-# [How does Fake Steve get away with this?](None)
-
 
 
 
@@ -37,3 +35,4 @@ that this continues. I mean, sure he must get lots of traffic, but it has to
 have permanently changed his reputation as a journalist.
 
 
+[How does Fake Steve get away with this?](None)

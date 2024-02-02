@@ -3,8 +3,6 @@ title: "Is twitter for people or for marketing?"
 author: Pito Salas
 date: 2008-12-23
 ---
-# [Is twitter for people or for marketing?](None)
-
 
 
 
@@ -36,3 +34,4 @@ find enlightening:
 [marketing](<http://technorati.com/tag/marketing>)
 
 
+[Is twitter for people or for marketing?](None)

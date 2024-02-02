@@ -9,8 +9,6 @@ tags:
     - visualization-tag
     - wsj
 ---
-# [Wall Street Journal has some sensational data visualization](None)
-
 
 
 
@@ -25,3 +23,4 @@ sliced in all kinds of ways that are useful and easy to use. Well done WSJ!
 content/uploads/2011/12/4ae19-screen20shot202011-12-2120at209-22-4520am.png?resize=584%2C530&ssl=1)
 
 
+[Wall Street Journal has some sensational data visualization](None)

@@ -3,8 +3,6 @@ title: "Big Numbers"
 author: Pito Salas
 date: 2008-09-28
 ---
-# [Big Numbers](None)
-
 
 
 
@@ -25,3 +23,4 @@ content/uploads/2008/09/picture-1.png?w=584)
 **Wow!!!!**
 
 
+[Big Numbers](None)

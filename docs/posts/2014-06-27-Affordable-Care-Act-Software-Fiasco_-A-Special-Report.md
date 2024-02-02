@@ -3,8 +3,6 @@ title: "Affordable Care Act Software Fiasco: A Special Report"
 author: Pito Salas
 date: 2014-06-27
 ---
-# [Affordable Care Act Software Fiasco: A Special Report](None)
-
 
 
 
@@ -17,3 +15,4 @@ It's very very good!
 [youtube=http://www.youtube.com/watch?v=Rl5WFz6Gi28&w=854&h=480]
 
 
+[Affordable Care Act Software Fiasco: A Special Report](None)

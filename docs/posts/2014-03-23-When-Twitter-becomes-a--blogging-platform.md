@@ -7,8 +7,6 @@ tags:
     - jump-the-shark
     - twitter
 ---
-# [When Twitter becomes a  blogging platform](None)
-
 
 
 
@@ -39,3 +37,4 @@ Twitter starts accepting long messages people will say that **Twitter jumped
 the shark.** I doubt it. I think it's inevitable.
 
 
+[When Twitter becomes a  blogging platform](None)

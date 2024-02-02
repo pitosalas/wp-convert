@@ -3,8 +3,6 @@ title: "Living in 3d? So here"
 author: Pito Salas
 date: 2004-01-16
 ---
-# [Living in 3d? So here](None)
-
 
 
 >>
@@ -17,3 +15,4 @@ they are the right kind. I will report further if I find out. Faithful
 readership, please let me know?
 
 
+[Living in 3d? So here](None)

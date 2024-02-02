@@ -3,8 +3,6 @@ title: "Dave (not that one) writes about Fear of Failure"
 author: Pito Salas
 date: 2008-06-27
 ---
-# [Dave (not that one) writes about Fear of Failure](None)
-
 
 
 
@@ -26,3 +24,4 @@ Technorati Tags: [softwaredevelopment
 management](<http://technorati.com/tag/softwaredevelopment%20management>)
 
 
+[Dave (not that one) writes about Fear of Failure](None)

@@ -3,8 +3,6 @@ title: "[GEEK] Undrestanding and getting around EDT"
 author: Pito Salas
 date: 2004-10-06
 ---
-# [[GEEK] Undrestanding and getting around EDT](None)
-
 
 
 >>
@@ -21,3 +19,4 @@ them. It is the SPIN project which implements a **way-esoteric-PhD-level**
 technique to make it easier to work with the EDT.
 
 
+[[GEEK] Undrestanding and getting around EDT](None)

@@ -8,8 +8,6 @@ tags:
     - liberals
     - politics
 ---
-# [Politics and the soul](None)
-
 
 
 
@@ -36,3 +34,4 @@ and-the-soul/>):
 
 
 
+[Politics and the soul](None)

@@ -3,8 +3,6 @@ title: "What’s funny about Office 2003?"
 author: Pito Salas
 date: 2004-02-14
 ---
-# [What’s funny about Office 2003?](None)
-
 
 
 >>
@@ -16,3 +14,4 @@ the right. Well, no I don't really know all that it does, but note the example
 under the "Search For:" **Who said Microsoft couldn 't laugh at itself?**
 
 
+[What’s funny about Office 2003?](None)

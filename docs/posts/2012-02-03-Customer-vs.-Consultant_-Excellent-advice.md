@@ -10,8 +10,6 @@ tags:
     - products
     - software
 ---
-# [Customer vs. Consultant: Excellent advice](None)
-
 
 
 
@@ -33,3 +31,4 @@ If you are a tech consultant or are thinking of hiring one, this article has
 some excellent advice.
 
 
+[Customer vs. Consultant: Excellent advice](None)

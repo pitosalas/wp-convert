@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - bootup academia
 ---
-# [hungry academy](http://hungryacademy.com)
-
 <img src=https://rdl.ink/render/http%3A%2F%2Fhungryacademy.com width="500">
 
 
+[hungry academy](http://hungryacademy.com)

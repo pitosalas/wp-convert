@@ -3,8 +3,6 @@ title: "[GEEKY] RubyConf"
 author: Pito Salas
 date: 2010-11-12
 ---
-# [[GEEKY] RubyConf](None)
-
 
 
 
@@ -19,3 +17,4 @@ able to use as soon as I get back.
 [ZOMG](<http://www.urbandictionary.com/define.php?term=zomg>))
 
 
+[[GEEKY] RubyConf](None)

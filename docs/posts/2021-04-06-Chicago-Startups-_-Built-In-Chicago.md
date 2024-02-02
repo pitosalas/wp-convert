@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - chicago jobs sittercity
 ---
-# [Chicago Startups | Built In Chicago](http://www.builtinchicago.org)
-
 <img src=https://rdl.ink/render/http%3A%2F%2Fwww.builtinchicago.org width="500">
 
 
 
-(**Web site except:** Another place to find folks) 
+(**Web site excerpt:** Another place to find folks) 
+[Chicago Startups | Built In Chicago](http://www.builtinchicago.org)

@@ -3,8 +3,6 @@ title: "Would this have saved JFK Jr?"
 author: Pito Salas
 date: 2007-08-19
 ---
-# [Would this have saved JFK Jr?](None)
-
 
 
 
@@ -22,3 +20,4 @@ from [James Fallows](<http://jamesfallows.theatlantic.com/>):
 > Jr?](<http://jamesfallows.theatlantic.com/archives/2007/08/would_this_have_saved_jfk_jr.php>))
 
 
+[Would this have saved JFK Jr?](None)

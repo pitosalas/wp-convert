@@ -3,8 +3,6 @@ title: "Had enough yet?"
 author: Pito Salas
 date: 2004-05-11
 ---
-# [Had enough yet?](None)
-
 
 
 >>
@@ -15,3 +13,4 @@ link is to an summary about the Prison scandal, with lots of links to other
 reputable publications, putting the pieces of the puzzle together.
 
 
+[Had enough yet?](None)

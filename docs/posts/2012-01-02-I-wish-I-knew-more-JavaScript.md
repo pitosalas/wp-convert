@@ -10,8 +10,6 @@ tags:
     - languages
     - Programming
 ---
-# [I wish I knew more JavaScript](None)
-
 
 
 
@@ -46,3 +44,4 @@ Read the whole article, it's pretty cool!
 
 
 
+[I wish I knew more JavaScript](None)

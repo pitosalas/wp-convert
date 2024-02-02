@@ -3,8 +3,6 @@ title: "Worth reading: Grocery Store Economics: Why Are Rotisserie Chickens So C
 author: Pito Salas
 date: 2014-08-12
 ---
-# [Worth reading: Grocery Store Economics: Why Are Rotisserie Chickens So Cheap?](None)
-
 
 
 
@@ -18,3 +16,4 @@ into individually shrink-wrapped meat units before asking for help. Link:
 http://ift.tt/1hHdpX1 My Blog
 
 
+[Worth reading: Grocery Store Economics: Why Are Rotisserie Chickens So Cheap?](None)

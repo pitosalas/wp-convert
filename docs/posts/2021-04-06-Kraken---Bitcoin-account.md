@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - bitcoin
 ---
-# [Kraken - Bitcoin account](https://www.kraken.com/signup)
-
 <img src= width="500">
 
 
+[Kraken - Bitcoin account](https://www.kraken.com/signup)

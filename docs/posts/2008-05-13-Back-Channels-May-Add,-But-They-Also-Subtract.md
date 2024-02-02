@@ -3,8 +3,6 @@ title: "Back Channels May Add, But They Also Subtract"
 author: Pito Salas
 date: 2008-05-13
 ---
-# [Back Channels May Add, But They Also Subtract](None)
-
 
 
 
@@ -25,3 +23,4 @@ Subtract](<http://feeds.feedburner.com/~r/mctoonish/OdMp/~3/289025511/>) from
 > Subtract)](<http://feeds.feedburner.com/~r/mctoonish/OdMp/~3/289025511/>)
 
 
+[Back Channels May Add, But They Also Subtract](None)

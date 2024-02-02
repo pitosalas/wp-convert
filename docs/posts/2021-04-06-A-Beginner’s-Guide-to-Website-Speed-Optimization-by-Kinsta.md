@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - Software Engineering
 ---
-# [A Beginner’s Guide to Website Speed Optimization by Kinsta](https://kinsta.com/learn/page-speed)
-
 <img src=https://kinsta.com/wp-content/uploads/2016/03/website-page-speed-optimization.png width="500">
 
 
 
-(**Web site except:** In-depth website speed optimization guide that shows you how important it is to have a snappy website. DIY instructions and tricks to improve load times.) 
+(**Web site excerpt:** In-depth website speed optimization guide that shows you how important it is to have a snappy website. DIY instructions and tricks to improve load times.) 
+[A Beginner’s Guide to Website Speed Optimization by Kinsta](https://kinsta.com/learn/page-speed)

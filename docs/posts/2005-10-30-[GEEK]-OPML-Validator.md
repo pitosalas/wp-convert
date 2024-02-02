@@ -3,8 +3,6 @@ title: "[GEEK] OPML Validator"
 author: Pito Salas
 date: 2005-10-30
 ---
-# [[GEEK] OPML Validator](None)
-
 
 
 >>
@@ -86,3 +84,4 @@ in the discussions as they develop. More to come!
 [OPML](<http://www.technorati.com/tag/OPML>)
 
 
+[[GEEK] OPML Validator](None)

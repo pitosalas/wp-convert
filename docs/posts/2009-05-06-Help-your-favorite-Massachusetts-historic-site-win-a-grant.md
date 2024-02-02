@@ -3,8 +3,6 @@ title: "Help your favorite Massachusetts historic site win a grant"
 author: Pito Salas
 date: 2009-05-06
 ---
-# [Help your favorite Massachusetts historic site win a grant](None)
-
 
 
 
@@ -26,3 +24,4 @@ Technorati Tags: [preservation](<http://technorati.com/tag/preservation>),
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[Help your favorite Massachusetts historic site win a grant](None)

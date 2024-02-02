@@ -8,8 +8,6 @@ tags:
     - iphon-tage
     - speakers
 ---
-# [Bluetooth Powered Speakers](None)
-
 
 
 
@@ -26,3 +24,4 @@ Punch](<http://gadgetwise.blogs.nytimes.com/2012/07/05/a-pocket-size-speaker-
 with-some-punch/>)
 
 
+[Bluetooth Powered Speakers](None)

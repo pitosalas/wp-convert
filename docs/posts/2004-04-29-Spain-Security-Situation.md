@@ -3,8 +3,6 @@ title: "Spain Security Situation"
 author: Pito Salas
 date: 2004-04-29
 ---
-# [Spain Security Situation](None)
-
 
 
 >>
@@ -46,3 +44,4 @@ Square in New York.
 >> I was pleasantly surprised. Friends here that hear that story are amazed.
 
 
+[Spain Security Situation](None)

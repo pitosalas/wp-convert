@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - library books community libraries
 ---
-# [Little Free Library  - Home Page](http://www.littlefreelibrary.org/index.html)
-
 <img src= width="500">
 
 
 
-(**Web site except:** Cool little wooden library to put outside your house!) 
+(**Web site excerpt:** Cool little wooden library to put outside your house!) 
+[Little Free Library  - Home Page](http://www.littlefreelibrary.org/index.html)

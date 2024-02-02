@@ -3,8 +3,6 @@ title: "“Icons: What are they good for?” — “Absolutely Nothing!”"
 author: Pito Salas
 date: 2007-06-05
 ---
-# [“Icons: What are they good for?” — “Absolutely Nothing!”](None)
-
 
 
 
@@ -43,3 +41,4 @@ be marketed in a variety of countries. I guess in Europe, culturally, people
 understand the symbols for "broil" and "rinse only." It was greek to me!
 
 
+[“Icons: What are they good for?” — “Absolutely Nothing!”](None)

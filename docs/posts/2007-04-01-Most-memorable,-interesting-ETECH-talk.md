@@ -3,8 +3,6 @@ title: "Most memorable, interesting ETECH talk"
 author: Pito Salas
 date: 2007-04-01
 ---
-# [Most memorable, interesting ETECH talk](None)
-
 
 
 
@@ -24,3 +22,4 @@ talk](<http://www.ambiguous.org/quinn/bodyhacking.html>).
 I learned new things. If that makes me a fuddie-duddie, so be it 😉
 
 
+[Most memorable, interesting ETECH talk](None)

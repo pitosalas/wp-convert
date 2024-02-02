@@ -3,8 +3,6 @@ title: "Check out TheRentables.com"
 author: Pito Salas
 date: 2009-06-13
 ---
-# [Check out TheRentables.com](None)
-
 
 
 
@@ -27,3 +25,4 @@ information.Technorati Tags:
 [startups](<http://technorati.com/tag/startups>)
 
 
+[Check out TheRentables.com](None)

@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - ruby rails ci Ruby
 ---
-# [Pricing · drone.io](https://drone.io)
-
 <img src=https://www.drone.io/images/og-image.jpg width="500">
 
 
 
-(**Web site except:** Drone is a self-service Continuous Delivery platform for busy development teams) 
+(**Web site excerpt:** Drone is a self-service Continuous Delivery platform for busy development teams) 
+[Pricing · drone.io](https://drone.io)

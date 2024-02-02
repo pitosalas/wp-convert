@@ -3,8 +3,6 @@ title: "Very funny: Build a better Bush"
 author: Pito Salas
 date: 2005-11-19
 ---
-# [Very funny: Build a better Bush](None)
-
 
 
 >>
@@ -27,3 +25,4 @@ hilarity!](<http://uk.download.yahoo.com/ne/fu/attachments/buildabetterbush.htm>
 >> Technorati Tags: [funny](<http://www.technorati.com/tag/funny>)
 
 
+[Very funny: Build a better Bush](None)

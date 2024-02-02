@@ -3,8 +3,6 @@ title: "Check out Website Grader"
 author: Pito Salas
 date: 2007-05-25
 ---
-# [Check out Website Grader](None)
-
 
 
 
@@ -15,3 +13,4 @@ site and gives you ideas on how to make it better. According to their site:
 measure the marketing effectiveness of a website."
 
 
+[Check out Website Grader](None)

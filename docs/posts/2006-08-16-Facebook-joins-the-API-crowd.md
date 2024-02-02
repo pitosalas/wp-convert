@@ -3,8 +3,6 @@ title: "Facebook joins the API crowd"
 author: Pito Salas
 date: 2006-08-16
 ---
-# [Facebook joins the API crowd](None)
-
 
 
 >>
@@ -31,3 +29,4 @@ service](<http://developers.facebook.com/tos.php>).
 [soflow](<http://www.technorati.com/tag/soflow>)
 
 
+[Facebook joins the API crowd](None)

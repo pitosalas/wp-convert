@@ -3,8 +3,6 @@ title: "Funny piece of sh*t"
 author: Pito Salas
 date: 2009-02-26
 ---
-# [Funny piece of sh*t](None)
-
 
 
 
@@ -13,3 +11,4 @@ date: 2009-02-26
 Work](<http://www.theonion.com/content/video/sony_releases_new_stupid_piece_of>)
 
 
+[Funny piece of sh*t](None)

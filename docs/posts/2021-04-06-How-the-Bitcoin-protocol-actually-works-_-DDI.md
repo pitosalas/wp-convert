@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - bitcoin protocol security
 ---
-# [How the Bitcoin protocol actually works | DDI](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works)
-
 <img src=https://rdl.ink/render/http%3A%2F%2Fwww.michaelnielsen.org%2Fddi%2Fhow-the-bitcoin-protocol-actually-works width="500">
 
 
+[How the Bitcoin protocol actually works | DDI](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works)

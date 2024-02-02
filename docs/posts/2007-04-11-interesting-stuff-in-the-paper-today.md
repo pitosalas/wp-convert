@@ -3,8 +3,6 @@ title: "interesting stuff in the paper today"
 author: Pito Salas
 date: 2007-04-11
 ---
-# [interesting stuff in the paper today](None)
-
 
 
 
@@ -16,3 +14,4 @@ my being your clipping service from now on, -- these just caught my eye 🙂
   * [Interesting juxtaposition of the Cold War with Global Warming](<http://www.nytimes.com/2007/04/11/opinion/11wed4.html>)
 
 
+[interesting stuff in the paper today](None)

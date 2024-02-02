@@ -3,8 +3,6 @@ title: "TIME 2006 Person Of The Year: What a cop out!"
 author: Pito Salas
 date: 2006-12-18
 ---
-# [TIME 2006 Person Of The Year: What a cop out!](None)
-
 
   
 >  
@@ -33,3 +31,4 @@ date: 2006-12-18
 > (No?)](<http://bagnewsnotes.typepad.com/bagnews/2006/12/time_2006_perso.html>))
 
 
+[TIME 2006 Person Of The Year: What a cop out!](None)

@@ -3,8 +3,6 @@ title: "Programming Esoterica"
 author: Pito Salas
 date: 2004-05-08
 ---
-# [Programming Esoterica](None)
-
 
 
 >>
@@ -29,3 +27,4 @@ experimenting with blogs and what they mean and what they are good for. And
 here we go…
 
 
+[Programming Esoterica](None)

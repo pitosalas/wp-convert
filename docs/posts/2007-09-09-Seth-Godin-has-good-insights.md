@@ -3,8 +3,6 @@ title: "Seth Godin has good insights"
 author: Pito Salas
 date: 2007-09-09
 ---
-# [Seth Godin has good insights](None)
-
 
 
 
@@ -28,3 +26,4 @@ Apple might have better handled the price change of the iPhone. See it in
 > to-spend-20.html>))
 
 
+[Seth Godin has good insights](None)

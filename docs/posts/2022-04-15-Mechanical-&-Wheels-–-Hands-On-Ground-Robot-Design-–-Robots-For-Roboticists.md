@@ -6,8 +6,6 @@ tags:
     - design
     - robots
 ---
-# [Mechanical & Wheels – Hands On Ground Robot Design – Robots For Roboticists](None)
-
 
 
 
@@ -24,3 +22,4 @@ robot. In this case we decided that a wheeled robot would be […]
 April 15, 2022 at 02:49PM
 
 
+[Mechanical & Wheels – Hands On Ground Robot Design – Robots For Roboticists](None)

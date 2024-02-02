@@ -9,8 +9,6 @@ tags:
     - romney
     - web
 ---
-# [Election Meltdown](None)
-
 
 
 
@@ -60,3 +58,4 @@ election day. Here's a nice quote:
 > team-romneys-whale-of-an-it-meltdown/>))
 
 
+[Election Meltdown](None)

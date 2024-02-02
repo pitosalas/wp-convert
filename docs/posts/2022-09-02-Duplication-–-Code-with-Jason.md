@@ -8,8 +8,6 @@ tags:
     - Programming
     - software-engineering
 ---
-# [Duplication – Code with Jason](None)
-
 
 
 
@@ -22,3 +20,4 @@ duplication is cheaper than the wrong abstraction. I think these advice
 snippets treat duplication in an oversimplified way that doesn’t […]
 
 
+[Duplication – Code with Jason](None)

@@ -3,8 +3,6 @@ title: "Key Computing’s Xkey: (Demo 2004"
 author: Pito Salas
 date: 2004-02-26
 ---
-# [Key Computing’s Xkey: (Demo 2004](None)
-
 
 
 >>
@@ -74,3 +72,4 @@ product** demoed. And credit to Chris  Shipley, she must have seen that,
 because it was also the very first product to be demoed.
 
 
+[Key Computing’s Xkey: (Demo 2004](None)

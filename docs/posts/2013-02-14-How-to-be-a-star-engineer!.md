@@ -8,8 +8,6 @@ tags:
     - engineering
     - myths
 ---
-# [How to be a star engineer!](None)
-
 
 
 
@@ -35,3 +33,4 @@ engineers.](<http://vlsicad.ucsd.edu/Research/Advice/star_engineer.pdf>):
 > Engineer](<http://vlsicad.ucsd.edu/Research/Advice/star_engineer.pdf>))
 
 
+[How to be a star engineer!](None)

@@ -3,8 +3,6 @@ title: "Eye-fi wireless enabled memory card for your camera"
 author: Pito Salas
 date: 2008-07-19
 ---
-# [Eye-fi wireless enabled memory card for your camera](None)
-
 
 
 
@@ -15,3 +13,4 @@ first wireless memory card." [See Eye-Fi web site.
 ](<http://www.eye.fi/>)
 
 
+[Eye-fi wireless enabled memory card for your camera](None)

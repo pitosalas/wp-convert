@@ -7,8 +7,6 @@ tags:
     - javascript
     - visualization-tag
 ---
-# [Algorithms Visualized: amazing](None)
-
 
 
 
@@ -20,3 +18,4 @@ very clever and elegant; and Aesthetically, the overall effect on the page
 itself is quite beautiful. I am jealous!
 
 
+[Algorithms Visualized: amazing](None)

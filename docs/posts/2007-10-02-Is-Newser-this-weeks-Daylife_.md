@@ -3,8 +3,6 @@ title: "Is Newser this weeks Daylife?"
 author: Pito Salas
 date: 2007-10-02
 ---
-# [Is Newser this weeks Daylife?](None)
-
 
 
 
@@ -23,3 +21,4 @@ As someone who follows these kinds of products pretty closely, I don't
 immediately see the key differences. Do you?
 
 
+[Is Newser this weeks Daylife?](None)

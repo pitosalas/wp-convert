@@ -3,8 +3,6 @@ title: "BlogBridge release 5.10 now with more vitamins"
 author: Pito Salas
 date: 2007-08-07
 ---
-# [BlogBridge release 5.10 now with more vitamins](None)
-
 
 
 
@@ -25,3 +23,4 @@ level. At least I think so! Check it out, tell your friends, digg it, stumble
 it, and in general, help us get the word out!
 
 
+[BlogBridge release 5.10 now with more vitamins](None)

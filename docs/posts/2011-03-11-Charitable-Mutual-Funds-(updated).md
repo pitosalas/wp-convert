@@ -7,8 +7,6 @@ tags:
     - giving
     - guidestar
 ---
-# [Charitable Mutual Funds (updated)](None)
-
 
 
 
@@ -88,3 +86,4 @@ to.
 So there are good ways to overcome this objection.
 
 
+[Charitable Mutual Funds (updated)](None)

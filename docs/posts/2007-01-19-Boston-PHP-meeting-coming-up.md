@@ -3,8 +3,6 @@ title: "Boston PHP meeting coming up"
 author: Pito Salas
 date: 2007-01-19
 ---
-# [Boston PHP meeting coming up](None)
-
 
 
 >
@@ -18,3 +16,4 @@ date: 2007-01-19
 > details!](<http://www.bostonphp.org/component/option,com_gigcal/task,details/gigcal_gigs_id,24/>)
 
 
+[Boston PHP meeting coming up](None)

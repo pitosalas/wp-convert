@@ -3,8 +3,6 @@ title: "How well does higher ed prepare you as a ‘software engineer’?"
 author: Pito Salas
 date: 2013-12-03
 ---
-# [How well does higher ed prepare you as a ‘software engineer’?](None)
-
 
 
 
@@ -38,3 +36,4 @@ answer-to-all-of-societys-problems/>)
 > the future"
 
 
+[How well does higher ed prepare you as a ‘software engineer’?](None)

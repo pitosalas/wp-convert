@@ -3,8 +3,6 @@ title: "Computers are still so hard to understand…"
 author: Pito Salas
 date: 2010-02-23
 ---
-# [Computers are still so hard to understand…](None)
-
 
 
 
@@ -49,3 +47,4 @@ It doesn't exist. **Yet**.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[Computers are still so hard to understand…](None)

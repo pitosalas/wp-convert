@@ -3,8 +3,6 @@ title: "Comparing this years Demo to"
 author: Pito Salas
 date: 2004-03-01
 ---
-# [Comparing this years Demo to](None)
-
 
 
 >>
@@ -28,3 +26,4 @@ a positive development and perhaps a **sign that we are recovering** somewhat
 from the shock of the last 3 years.
 
 
+[Comparing this years Demo to](None)

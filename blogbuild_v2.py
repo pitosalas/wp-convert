@@ -122,7 +122,7 @@ class BlogBuild:
     def fix_drop_content(self, drop):
         content = f"""{drop['note']}"""
         if drop['excerpt'] != "":
-            content += f"""\n\n(**Web site except:** {drop['excerpt']}) """
+            content += f"""\n\n(**Web site excerpt:** {drop['excerpt']}) """
         return content
     
     def fix_drop_tags(self, tags):
@@ -171,10 +171,9 @@ title: "{title}"
 author: Pito Salas{url_text}{cover_text}
 date: {date}{tags}
 ---
-# [{title}]({url})
-
 {cover_markdown}
 {content}
+[{title}]({url})
 """
             file.write(markdown)
 

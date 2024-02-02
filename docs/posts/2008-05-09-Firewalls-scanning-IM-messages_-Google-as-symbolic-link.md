@@ -5,8 +5,6 @@ date: 2008-05-09
 tags:
     - techno-taglogy-IM-phishing
 ---
-# [Firewalls scanning IM messages: Google as symbolic link](None)
-
 
 
 
@@ -21,3 +19,4 @@ Further details: Discussing it with him, the logic seems to be that someone
 could send an employee a phishing link in an IM message.
 
 
+[Firewalls scanning IM messages: Google as symbolic link](None)

@@ -3,8 +3,6 @@ title: "Tivo will be able to transfer videos to Ipods… But…"
 author: Pito Salas
 date: 2005-11-21
 ---
-# [Tivo will be able to transfer videos to Ipods… But…](None)
-
 
 
 >>
@@ -42,3 +40,4 @@ to Windows XP. I hope that Apple is working with Tivo to address this!
 [tivo](<http://www.technorati.com/tag/tivo>)
 
 
+[Tivo will be able to transfer videos to Ipods… But…](None)

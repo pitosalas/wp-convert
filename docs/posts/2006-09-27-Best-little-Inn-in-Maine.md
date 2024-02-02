@@ -3,8 +3,6 @@ title: "Best little Inn in Maine"
 author: Pito Salas
 date: 2006-09-27
 ---
-# [Best little Inn in Maine](None)
-
 
 
 >
@@ -19,3 +17,4 @@ date: 2006-09-27
 > Harbo](<http://www.explorenewengland.com/travel?article=maine/articles/2006/09/24/a_welcoming_inn_by_the_bustle_of_bar_harbor/>)r")
 
 
+[Best little Inn in Maine](None)

@@ -3,8 +3,6 @@ title: "Wiki as in Wikipedia"
 author: Pito Salas
 date: 2005-11-04
 ---
-# [Wiki as in Wikipedia](None)
-
 
 
 >>
@@ -61,3 +59,4 @@ remember which one.]
 >> Technorati Tags: [blogon2005](<http://www.technorati.com/tag/blogon2005>)
 
 
+[Wiki as in Wikipedia](None)

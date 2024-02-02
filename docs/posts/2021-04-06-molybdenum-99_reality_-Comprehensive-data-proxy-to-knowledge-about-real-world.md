@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - Software Engineering
 ---
-# [molybdenum-99/reality: Comprehensive data proxy to knowledge about real world](https://github.com/molybdenum-99/reality)
-
 <img src=https://avatars.githubusercontent.com/u/12218981?s=400&v=4 width="500">
 
 
 
-(**Web site except:** Comprehensive data proxy to knowledge about real world - molybdenum-99/reality) 
+(**Web site excerpt:** Comprehensive data proxy to knowledge about real world - molybdenum-99/reality) 
+[molybdenum-99/reality: Comprehensive data proxy to knowledge about real world](https://github.com/molybdenum-99/reality)

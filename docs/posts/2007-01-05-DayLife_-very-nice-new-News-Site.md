@@ -3,8 +3,6 @@ title: "DayLife: very nice new News Site"
 author: Pito Salas
 date: 2007-01-05
 ---
-# [DayLife: very nice new News Site](None)
-
 
 
 >
@@ -29,3 +27,4 @@ date: 2007-01-05
 > Check out [DayLife itself](<http://www.daylife.com/topstories>) 🙂
 
 
+[DayLife: very nice new News Site](None)

@@ -3,8 +3,6 @@ title: "Thinking about business models"
 author: Pito Salas
 date: 2005-10-13
 ---
-# [Thinking about business models](None)
-
 
 
 >>
@@ -55,3 +53,4 @@ are worth thinking about.
 [businessmodel](<http://www.technorati.com/tag/businessmodel>)
 
 
+[Thinking about business models](None)

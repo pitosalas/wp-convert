@@ -3,8 +3,6 @@ title: "The new Comcast mojo"
 author: Pito Salas
 date: 2008-10-28
 ---
-# [The new Comcast mojo](None)
-
 
 
 
@@ -15,3 +13,4 @@ home internet connection a nice speed boost!
 content/uploads/imagewell//comcastmojo.jpg?w=584)
 
 
+[The new Comcast mojo](None)

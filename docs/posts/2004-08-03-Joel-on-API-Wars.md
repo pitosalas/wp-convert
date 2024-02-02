@@ -3,8 +3,6 @@ title: "Joel on API Wars"
 author: Pito Salas
 date: 2004-08-03
 ---
-# [Joel on API Wars](None)
-
 
 
 >>
@@ -15,3 +13,4 @@ dynamics and strategy that apply to the evolution of the Windows APIs and
 programming paradigms in general. A good readl
 
 
+[Joel on API Wars](None)

@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - Papers research code
 ---
-# [Papers With Code : the latest in machine learning](https://paperswithcode.com)
-
 <img src=https://paperswithcode.com/static/index.jpeg width="500">
 
 
 
-(**Web site except:** This site shows off research papers which include the code to run. Very nice!) 
+(**Web site excerpt:** This site shows off research papers which include the code to run. Very nice!) 
+[Papers With Code : the latest in machine learning](https://paperswithcode.com)

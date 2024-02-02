@@ -8,8 +8,6 @@ tags:
     - sauce
     - sriracha
 ---
-# [I love sriracha sauce, do you?](None)
-
 
 
 
@@ -34,3 +32,4 @@ learned that I had been pronouncing it wrong the whole time. It's
 Sriracha
 
 
+[I love sriracha sauce, do you?](None)

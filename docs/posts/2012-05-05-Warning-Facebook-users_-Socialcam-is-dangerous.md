@@ -6,8 +6,6 @@ tags:
     - facebook
     - socialcam
 ---
-# [Warning Facebook users: Socialcam is dangerous](None)
-
 
 
 
@@ -21,3 +19,4 @@ On two occasions in the last few weeks, some pretty **embarassing** videos
 were watched by otherwise highly **respectable** people. **Funny**.
 
 
+[Warning Facebook users: Socialcam is dangerous](None)

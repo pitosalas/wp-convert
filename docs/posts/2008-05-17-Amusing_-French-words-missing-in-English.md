@@ -3,8 +3,6 @@ title: "Amusing: French words missing in English"
 author: Pito Salas
 date: 2008-05-17
 ---
-# [Amusing: French words missing in English](None)
-
 
 
 
@@ -21,3 +19,4 @@ have an exact translation in English, or not in a single word."
 English](<http://www.eupedia.com/europe/missing_words_english.shtml>)
 
 
+[Amusing: French words missing in English](None)

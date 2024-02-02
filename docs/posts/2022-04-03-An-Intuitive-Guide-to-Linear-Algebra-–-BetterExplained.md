@@ -10,8 +10,7 @@ tags:
     - linear-algebra
     - explainer
 ---
-# [An Intuitive Guide to Linear Algebra – BetterExplained](https://betterexplained.com/articles/linear-algebra-guide/)
-
 <img src=https://rdl.ink/render/https%3A%2F%2Fbetterexplained.com%2Farticles%2Flinear-algebra-guide%2F width="500">
 
 
+[An Intuitive Guide to Linear Algebra – BetterExplained](https://betterexplained.com/articles/linear-algebra-guide/)

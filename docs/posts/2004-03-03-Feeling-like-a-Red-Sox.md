@@ -3,8 +3,6 @@ title: "Feeling like a Red Sox"
 author: Pito Salas
 date: 2004-03-03
 ---
-# [Feeling like a Red Sox](None)
-
 
 
 >>
@@ -16,3 +14,4 @@ others](<http://www.hyperorg.com/blogger/mtarchive/002469.html>), but, why do
 I feel like a Red Sox Fan?
 
 
+[Feeling like a Red Sox](None)

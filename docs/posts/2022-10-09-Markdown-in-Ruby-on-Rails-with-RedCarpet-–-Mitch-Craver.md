@@ -12,10 +12,9 @@ tags:
     - gem
     - howto
 ---
-# [Markdown in Ruby on Rails with RedCarpet – Mitch Craver](https://www.mitchcraver.com/2022/04/01/markdown-in-ruby-on-rails-with-redcarpet/)
-
 <img src=https://www.mitchcraver.com/wp-content/uploads/2022/04/pexels-sergio-souza-1779359.webp width="500">
 
 
 
-(**Web site except:** A pretty detailed explanation and example of how to use Markdown in Rails) 
+(**Web site excerpt:** A pretty detailed explanation and example of how to use Markdown in Rails) 
+[Markdown in Ruby on Rails with RedCarpet – Mitch Craver](https://www.mitchcraver.com/2022/04/01/markdown-in-ruby-on-rails-with-redcarpet/)

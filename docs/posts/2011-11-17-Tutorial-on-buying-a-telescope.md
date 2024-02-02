@@ -7,8 +7,6 @@ tags:
     - bengomescasseres
     - telescope
 ---
-# [Tutorial on buying a telescope](None)
-
 
 
 
@@ -57,3 +55,4 @@ If you are thinking of buying a telescope (or giving one as a gift), Ben says:
 > Hope this helps as guidance.
 
 
+[Tutorial on buying a telescope](None)

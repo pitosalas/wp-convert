@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - Elections
 ---
-# [Instant Virtual Extranet](https://vpndc.dc.gov/dana-na/auth/url_8/welcome.cgi)
-
 <img src= width="500">
 
 
+[Instant Virtual Extranet](https://vpndc.dc.gov/dana-na/auth/url_8/welcome.cgi)

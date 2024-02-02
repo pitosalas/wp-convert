@@ -3,8 +3,6 @@ title: "Scary Software, Part Deux"
 author: Pito Salas
 date: 2004-07-12
 ---
-# [Scary Software, Part Deux](None)
-
 
 
 >>
@@ -27,3 +25,4 @@ signed by R. Pito Salas and Associates", and that would assure people who know
 me personally. I would hope my user base grows beyond that 🙂
 
 
+[Scary Software, Part Deux](None)

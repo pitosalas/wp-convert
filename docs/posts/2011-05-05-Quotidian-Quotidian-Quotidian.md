@@ -5,8 +5,6 @@ date: 2011-05-05
 tags:
     - quotidian
 ---
-# [Quotidian Quotidian Quotidian](None)
-
 
 
 
@@ -19,3 +17,4 @@ It's so simple, [once you know
 🙂](<http://dictionary.reference.com/browse/quotidian>)
 
 
+[Quotidian Quotidian Quotidian](None)

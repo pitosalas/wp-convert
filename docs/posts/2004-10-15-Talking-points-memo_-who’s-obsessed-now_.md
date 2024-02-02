@@ -3,8 +3,6 @@ title: "Talking points memo: who’s obsessed now?"
 author: Pito Salas
 date: 2004-10-15
 ---
-# [Talking points memo: who’s obsessed now?](None)
-
 
 
 >>
@@ -51,3 +49,4 @@ the gilded and the **gelded** , …"
 **gelded**? I don't know, the whole thing struck me as **funny**!
 
 
+[Talking points memo: who’s obsessed now?](None)

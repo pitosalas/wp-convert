@@ -6,8 +6,6 @@ tags:
     - art
     - drawing
 ---
-# [Little children’s drawings turned into art – COOL!](None)
-
 
 
 
@@ -21,3 +19,4 @@ Here's a taste:
 _Originally posted on May 04, 2007. Reprinted courtesy of ReRuns plug-in._
 
 
+[Little children’s drawings turned into art – COOL!](None)

@@ -3,8 +3,6 @@ title: "[Geek] Getting ftp task to work in Ant / Eclipse"
 author: Pito Salas
 date: 2004-05-29
 ---
-# [[Geek] Getting ftp task to work in Ant / Eclipse](None)
-
 
 
 >>
@@ -28,3 +26,4 @@ there you can a ridiculously cryptic error message.
 > p.s. Didn 't I say "GEEK" ?**Dave, thanks for the words of encouragement.
 
 
+[[Geek] Getting ftp task to work in Ant / Eclipse](None)

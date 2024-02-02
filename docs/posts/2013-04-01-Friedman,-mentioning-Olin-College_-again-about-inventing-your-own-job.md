@@ -8,8 +8,6 @@ tags:
     - new-york-times
     - olin-college
 ---
-# [Friedman, mentioning Olin College: again about inventing your own job](None)
-
 
 
 
@@ -64,3 +62,4 @@ end:
 > a-job-invent-it.html?ref=opinion&_r=0>))
 
 
+[Friedman, mentioning Olin College: again about inventing your own job](None)

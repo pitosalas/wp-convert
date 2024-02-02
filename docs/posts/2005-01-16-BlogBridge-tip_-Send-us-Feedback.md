@@ -3,8 +3,6 @@ title: "BlogBridge tip: Send us Feedback"
 author: Pito Salas
 date: 2005-01-16
 ---
-# [BlogBridge tip: Send us Feedback](None)
-
 
 (Non-users of BlogBridge, this wil not be interesting to you. But you have to
 ask yourself, why are you not using it?)
@@ -37,3 +35,4 @@ email is also read by the development team: blogbridge-
 devl@lists.sourceforge.net.
 
 
+[BlogBridge tip: Send us Feedback](None)

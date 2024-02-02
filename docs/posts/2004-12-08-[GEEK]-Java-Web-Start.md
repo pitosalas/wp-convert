@@ -3,8 +3,6 @@ title: "[GEEK] Java Web Start"
 author: Pito Salas
 date: 2004-12-08
 ---
-# [[GEEK] Java Web Start](None)
-
 
 
 >>
@@ -63,3 +61,4 @@ all its flavors) building the solution. Becuase a working solution will be
 very difficult to build. But it is the keys to the kingdom IMHO. "
 
 
+[[GEEK] Java Web Start](None)

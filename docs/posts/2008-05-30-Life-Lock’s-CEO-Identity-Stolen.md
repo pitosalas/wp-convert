@@ -3,8 +3,6 @@ title: "Life Lock’s CEO Identity Stolen"
 author: Pito Salas
 date: 2008-05-30
 ---
-# [Life Lock’s CEO Identity Stolen](None)
-
 
 
 
@@ -24,3 +22,4 @@ theft that superstition takes over and anything that **might** help even a
 little is very tempting!
 
 
+[Life Lock’s CEO Identity Stolen](None)

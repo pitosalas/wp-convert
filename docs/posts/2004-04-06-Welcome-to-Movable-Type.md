@@ -3,8 +3,6 @@ title: "Welcome to Movable Type"
 author: Pito Salas
 date: 2004-04-06
 ---
-# [Welcome to Movable Type](None)
-
 
 
 >>
@@ -19,3 +17,4 @@ will miss certain things I've gotten used to in Radio. We'll see how it goes.
 Please let me know if anything breaks!
 
 
+[Welcome to Movable Type](None)

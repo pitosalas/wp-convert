@@ -9,8 +9,6 @@ tags:
     - magsafe
     - patents
 ---
-# [[GEEKY] Even the simplest things are complicated](None)
-
 
 
 
@@ -28,3 +26,4 @@ magsafe.html>):
 
 
 
+[[GEEKY] Even the simplest things are complicated](None)

@@ -8,8 +8,6 @@ tags:
     - cooltool
     - pipes
 ---
-# [llm ttok and strip-tagsCLI tools for working with ChatGPT and other LLMs](None)
-
 
 
 
@@ -20,3 +18,4 @@ GPT-4 and potentially other language models in the future. The three tools
 I’ve built so far …
 
 
+[llm ttok and strip-tagsCLI tools for working with ChatGPT and other LLMs](None)

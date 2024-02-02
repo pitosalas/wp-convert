@@ -3,8 +3,6 @@ title: "Another funny video for your entertainment: luckiest guy in the world?"
 author: Pito Salas
 date: 2006-07-12
 ---
-# [Another funny video for your entertainment: luckiest guy in the world?](None)
-
 
 
 >>
@@ -18,3 +16,4 @@ hope you are as lucky as this dude!!!
 >> Technorati Tags: [funny](<http://www.technorati.com/tag/funny>)
 
 
+[Another funny video for your entertainment: luckiest guy in the world?](None)

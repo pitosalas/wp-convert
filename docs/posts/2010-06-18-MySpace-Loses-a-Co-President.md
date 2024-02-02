@@ -3,8 +3,6 @@ title: "MySpace Loses a Co-President"
 author: Pito Salas
 date: 2010-06-18
 ---
-# [MySpace Loses a Co-President](None)
-
 
 
 
@@ -21,3 +19,4 @@ Don't we know by now that co-presidents don't work? We used to call it 'two in
 a box' and it was never a success. By the way, MySpace? They still around?
 
 
+[MySpace Loses a Co-President](None)

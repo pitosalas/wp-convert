@@ -3,8 +3,6 @@ title: "The downside of free software"
 author: Pito Salas
 date: 2008-02-16
 ---
-# [The downside of free software](None)
-
 
 
 
@@ -41,3 +39,4 @@ As it turns out, "We give it away free, and make it up in volume" doesn't
 always work.
 
 
+[The downside of free software](None)

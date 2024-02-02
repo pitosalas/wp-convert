@@ -3,8 +3,6 @@ title: "David Isenberg’s WTF Conference: This"
 author: Pito Salas
 date: 2004-01-13
 ---
-# [David Isenberg’s WTF Conference: This](None)
-
 
 
 >>
@@ -42,3 +40,4 @@ heads behind podiums….._
 >> [David](<http://www.isen.com/blog/>), count me **IN!**
 
 
+[David Isenberg’s WTF Conference: This](None)

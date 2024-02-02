@@ -3,8 +3,6 @@ title: "Health Care Letdown"
 author: Pito Salas
 date: 2010-03-16
 ---
-# [Health Care Letdown](None)
-
 
 
 
@@ -41,3 +39,4 @@ and
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[Health Care Letdown](None)

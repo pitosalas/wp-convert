@@ -5,8 +5,6 @@ date: 2022-03-09
 tags:
     - design
 ---
-# [Randall Degges – Heroku and SOA](None)
-
 
 
 
@@ -19,3 +17,4 @@ service oriented web app, you might find this interesting.
 March 10, 2022 at 12:16AM
 
 
+[Randall Degges – Heroku and SOA](None)

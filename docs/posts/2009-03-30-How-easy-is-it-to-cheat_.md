@@ -3,8 +3,6 @@ title: "How easy is it to cheat?"
 author: Pito Salas
 date: 2009-03-30
 ---
-# [How easy is it to cheat?](None)
-
 
 
 
@@ -37,3 +35,4 @@ This is far from the only example…Concerned?
 [security](<http://technorati.com/tag/security>)
 
 
+[How easy is it to cheat?](None)

@@ -3,8 +3,6 @@ title: "New Orleans"
 author: Pito Salas
 date: 2005-09-01
 ---
-# [New Orleans](None)
-
 
 
 >>
@@ -38,3 +36,4 @@ Orleans](<http://archive.scripting.com/2005/08/31#When:8:39:53PM>).
 >> Technorati Tags: [katrina](<http://www.technorati.com/tag/katrina>)
 
 
+[New Orleans](None)

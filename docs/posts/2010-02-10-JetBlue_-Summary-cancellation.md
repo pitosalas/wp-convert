@@ -7,8 +7,6 @@ tags:
     - jetblue
     - weather
 ---
-# [JetBlue: Summary cancellation](None)
-
 
 
 
@@ -30,3 +28,4 @@ weather forecasters than the weather channel!
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[JetBlue: Summary cancellation](None)

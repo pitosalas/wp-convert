@@ -11,8 +11,7 @@ tags:
     - argo
     - oceanography
 ---
-# [Argo (oceanography) - Wikipedia](https://en.wikipedia.org/wiki/Argo_(oceanography))
-
 <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Argo_floats_in_Feb._2018_colour_coded_by_country.png/1200px-Argo_floats_in_Feb._2018_colour_coded_by_country.png width="500">
 
 
+[Argo (oceanography) - Wikipedia](https://en.wikipedia.org/wiki/Argo_(oceanography))

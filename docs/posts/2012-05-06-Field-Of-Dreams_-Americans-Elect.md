@@ -7,8 +7,6 @@ tags:
     - field-of-dreams
     - politics
 ---
-# [Field Of Dreams: Americans Elect](None)
-
 
 
 
@@ -57,3 +55,4 @@ But that didn't happen:
 > elect-they-built-it-and-nobody-came#.T6Pvbfdd82E.twitter>))
 
 
+[Field Of Dreams: Americans Elect](None)

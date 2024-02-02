@@ -5,8 +5,6 @@ date: 2022-02-01
 tags:
     - performance
 ---
-# [How to Monitor Network and Zoom Performance & Fix “Your Internet Connection is Unstable” on Zoom](None)
-
 
 
 
@@ -21,3 +19,4 @@ Internet Connection is Unstable” message of doom.
 February 1, 2022 at 10:46PM
 
 
+[How to Monitor Network and Zoom Performance & Fix “Your Internet Connection is Unstable” on Zoom](None)

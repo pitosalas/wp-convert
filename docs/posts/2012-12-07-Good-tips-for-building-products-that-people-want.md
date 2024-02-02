@@ -8,8 +8,6 @@ tags:
     - products
     - startups
 ---
-# [Good tips for building products that people want](None)
-
 
 
 
@@ -49,3 +47,4 @@ kriegers-8-principles-for-building-products-people-want/>)
 >
 
 
+[Good tips for building products that people want](None)

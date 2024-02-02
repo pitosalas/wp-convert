@@ -3,8 +3,6 @@ title: "FooPlot – looks quite cool!"
 author: Pito Salas
 date: 2007-01-04
 ---
-# [FooPlot – looks quite cool!](None)
-
 
 
 >
@@ -46,3 +44,4 @@ content/images/fooplot.png?resize=584%2C298)
 > plotting>))
 
 
+[FooPlot – looks quite cool!](None)

@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - programming vocode
 ---
-# [TabNine | Install TabNine](https://tabnine.com/install)
-
 <img src=https://www.tabnine.com/images/meta.png width="500">
 
 
 
-(**Web site except:** Looks really cool. ML auto completion for any programming language. Must try.) 
+(**Web site excerpt:** Looks really cool. ML auto completion for any programming language. Must try.) 
+[TabNine | Install TabNine](https://tabnine.com/install)

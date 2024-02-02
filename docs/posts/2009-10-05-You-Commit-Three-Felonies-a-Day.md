@@ -3,8 +3,6 @@ title: "You Commit Three Felonies a Day"
 author: Pito Salas
 date: 2009-10-05
 ---
-# [You Commit Three Felonies a Day](None)
-
 
 
 
@@ -27,3 +25,4 @@ inherited, a crime requires intent.", saying:
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[You Commit Three Felonies a Day](None)

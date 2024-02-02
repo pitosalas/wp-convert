@@ -7,8 +7,6 @@ tags:
     - boston-tagglobe
     - bruins
 ---
-# [In Boston, Bruins more important than Bin Laden!](None)
-
 
 
 
@@ -17,3 +15,4 @@ content/uploads/2011/06/34591-compare-bin-laden-to-
 bruins.jpg?resize=493%2C600&ssl=1)
 
 
+[In Boston, Bruins more important than Bin Laden!](None)

@@ -7,8 +7,6 @@ tags:
     - costarica
     - googlemaps
 ---
-# [Costa Rica Travel and Google 3D](None)
-
 
 
 
@@ -27,3 +25,4 @@ locate the 3D button in the white margin on the left next to the directions.
 Click the button and BE AMAZED!!
 
 
+[Costa Rica Travel and Google 3D](None)

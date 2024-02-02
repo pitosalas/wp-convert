@@ -3,8 +3,6 @@ title: "Use Google Sets for competitive analysis"
 author: Pito Salas
 date: 2008-03-31
 ---
-# [Use Google Sets for competitive analysis](None)
-
 
 
 
@@ -57,3 +55,4 @@ Technorati Tags: [blogbridge](<http://technorati.com/tag/blogbridge>),
 [competitive analysis](<http://technorati.com/tag/competitive%20analysis>)
 
 
+[Use Google Sets for competitive analysis](None)

@@ -6,11 +6,10 @@ tags:
     - funny
     - venture-capital
 ---
-# [Funny: Tesla pitching VCs](None)
-
 
 
 
 [youtube http://www.youtube.com/watch?v=zngK13FMgXM&w=560&h=315]
 
 
+[Funny: Tesla pitching VCs](None)

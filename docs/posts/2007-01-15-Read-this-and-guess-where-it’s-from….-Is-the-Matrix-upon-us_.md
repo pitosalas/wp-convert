@@ -3,8 +3,6 @@ title: "Read this and guess where it’s from…. Is the Matrix upon us?"
 author: Pito Salas
 date: 2007-01-15
 ---
-# [Read this and guess where it’s from…. Is the Matrix upon us?](None)
-
 
 
 >
@@ -27,3 +25,4 @@ date: 2007-01-15
 > search-and-tp-issues/>))
 
 
+[Read this and guess where it’s from…. Is the Matrix upon us?](None)

@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - variables howto css
 ---
-# [Don't miss out on css variables](https://dev.to/timdeschryver/don-t-miss-out-on-css-variables-4708)
-
 <img src=https://res.cloudinary.com/practicaldev/image/fetch/s--CaNYW6KT--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://timdeschryver.dev/blog/do-not-miss-out-on-css-variables/images/banner.jpg width="500">
 
 
 
-(**Web site except:** This seems very useful!) 
+(**Web site excerpt:** This seems very useful!) 
+[Don't miss out on css variables](https://dev.to/timdeschryver/don-t-miss-out-on-css-variables-4708)

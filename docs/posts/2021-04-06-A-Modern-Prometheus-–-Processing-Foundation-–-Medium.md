@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - processing programming visual
 ---
-# [A Modern Prometheus – Processing Foundation – Medium](https://medium.com/processing-foundation/a-modern-prometheus-59aed94abe85)
-
 <img src=https://miro.medium.com/max/1200/1*dKDpmdpQABsXbWIRWsRy2A.png width="500">
 
 
 
-(**Web site except:** The History of Processing by Casey Reas and Ben Fry) 
+(**Web site excerpt:** The History of Processing by Casey Reas and Ben Fry) 
+[A Modern Prometheus – Processing Foundation – Medium](https://medium.com/processing-foundation/a-modern-prometheus-59aed94abe85)

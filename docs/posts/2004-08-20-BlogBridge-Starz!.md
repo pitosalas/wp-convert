@@ -3,8 +3,6 @@ title: "BlogBridge Starz!"
 author: Pito Salas
 date: 2004-08-20
 ---
-# [BlogBridge Starz!](None)
-
 
 
 >>
@@ -79,3 +77,4 @@ thumb.jpg?resize=300%2C289)
 things we can do for the user. **That 's for another time.**
 
 
+[BlogBridge Starz!](None)

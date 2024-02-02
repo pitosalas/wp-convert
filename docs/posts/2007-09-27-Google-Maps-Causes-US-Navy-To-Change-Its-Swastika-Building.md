@@ -3,8 +3,6 @@ title: "Google Maps Causes US Navy To Change Its Swastika Building"
 author: Pito Salas
 date: 2007-09-27
 ---
-# [Google Maps Causes US Navy To Change Its Swastika Building](None)
-
 
 
 
@@ -29,3 +27,4 @@ Marketing](<http://searchengineland.com/>):
 > Building](<http://feeds.searchengineland.com/~r/searchengineland/~3/162031302/070927-113222.php>))
 
 
+[Google Maps Causes US Navy To Change Its Swastika Building](None)

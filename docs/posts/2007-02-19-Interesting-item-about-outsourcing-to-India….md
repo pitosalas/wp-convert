@@ -3,8 +3,6 @@ title: "Interesting item about outsourcing to India…"
 author: Pito Salas
 date: 2007-02-19
 ---
-# [Interesting item about outsourcing to India…](None)
-
 
 
 
@@ -20,3 +18,4 @@ from [GigaOM](<http://gigaom.com>):
 > Outsourcers](<http://feeds.feedburner.com/~r/OmMalik/~3/92632691/>))
 
 
+[Interesting item about outsourcing to India…](None)

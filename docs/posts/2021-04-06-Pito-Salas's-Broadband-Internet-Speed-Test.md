@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - speed internet performance
 ---
-# [Pito Salas's Broadband Internet Speed Test](https://testmy.net)
-
 <img src=https://tmnstatic.com/images/tmn-icon-128B-min.png width="500">
 
 
 
-(**Web site except:** Accurately test your Internet connection speed with this powerful broadband speed test. Improve your bandwidth speed with the truth.) 
+(**Web site excerpt:** Accurately test your Internet connection speed with this powerful broadband speed test. Improve your bandwidth speed with the truth.) 
+[Pito Salas's Broadband Internet Speed Test](https://testmy.net)

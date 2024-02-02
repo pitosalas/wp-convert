@@ -7,8 +7,6 @@ tags:
     - higher-education-tag
     - teaching
 ---
-# [Olin College of Engineering](None)
-
 
 
 
@@ -38,3 +36,4 @@ problems/XynshUPgDeFRUsAgjNCbeO/story.html>) It describes a course called
 > problems/XynshUPgDeFRUsAgjNCbeO/story.html>))
 
 
+[Olin College of Engineering](None)

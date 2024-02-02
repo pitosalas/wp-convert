@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - ruby less server apache
 ---
-# [Ruby goes Serverless! - Apache OpenWhisk adds native support for Ruby](https://medium.com/openwhisk/ruby-goes-serverless-apache-openwhisk-adds-native-support-for-ruby-7134faee14e)
-
 <img src=https://rdl.ink/render/https%3A%2F%2Fmedium.com%2Fopenwhisk%2Fruby-goes-serverless-apache-openwhisk-adds-native-support-for-ruby-7134faee14e width="500">
 
 
 
-(**Web site except:** Title says it all.) 
+(**Web site excerpt:** Title says it all.) 
+[Ruby goes Serverless! - Apache OpenWhisk adds native support for Ruby](https://medium.com/openwhisk/ruby-goes-serverless-apache-openwhisk-adds-native-support-for-ruby-7134faee14e)

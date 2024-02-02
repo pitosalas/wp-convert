@@ -3,8 +3,6 @@ title: "Surprising and against conventional wisdom: Americans still love to buy 
 author: Pito Salas
 date: 2008-09-17
 ---
-# [Surprising and against conventional wisdom: Americans still love to buy DVDs](None)
-
 
 
 
@@ -21,3 +19,4 @@ to-buy-dvds>) in Silicon Alley Insider:
 Interesting article. I wonder, what about music CDs?
 
 
+[Surprising and against conventional wisdom: Americans still love to buy DVDs](None)

@@ -3,8 +3,6 @@ title: "Heard of GMail?"
 author: Pito Salas
 date: 2004-12-14
 ---
-# [Heard of GMail?](None)
-
 
 
 >>
@@ -53,3 +51,4 @@ service for free? What might their long term stragegy be? Whats the story with
 the GMail invites and how do you get one?
 
 
+[Heard of GMail?](None)

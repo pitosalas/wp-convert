@@ -3,8 +3,6 @@ title: "BlogBridge update: Just a quick"
 author: Pito Salas
 date: 2004-01-30
 ---
-# [BlogBridge update: Just a quick](None)
-
 
 
 >>
@@ -50,3 +48,4 @@ few people would like to try out the Java Web Start deployment, send me an
 email and we can talk.
 
 
+[BlogBridge update: Just a quick](None)

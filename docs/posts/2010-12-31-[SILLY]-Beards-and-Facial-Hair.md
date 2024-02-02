@@ -7,8 +7,6 @@ tags:
     - facial-hair
     - silly
 ---
-# [[SILLY] Beards and Facial Hair](None)
-
 
 
 
@@ -23,3 +21,4 @@ them:
 types/>)
 
 
+[[SILLY] Beards and Facial Hair](None)

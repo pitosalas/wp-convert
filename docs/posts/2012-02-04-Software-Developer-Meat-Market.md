@@ -8,8 +8,6 @@ tags:
     - forbes
     - software
 ---
-# [Software Developer Meat Market](None)
-
 
 
 
@@ -55,3 +53,4 @@ Developeronomics](<http://www.forbes.com/sites/venkateshrao/2011/12/05/the-
 rise-of-developeronomics/>).
 
 
+[Software Developer Meat Market](None)

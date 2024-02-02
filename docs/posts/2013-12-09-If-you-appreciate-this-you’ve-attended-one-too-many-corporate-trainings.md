@@ -6,8 +6,6 @@ tags:
     - funny
     - teamwork
 ---
-# [If you appreciate this you’ve attended one too many corporate trainings](None)
-
 
 
 
@@ -15,3 +13,4 @@ tags:
 hole-570x437.jpg?w=400)
 
 
+[If you appreciate this you’ve attended one too many corporate trainings](None)

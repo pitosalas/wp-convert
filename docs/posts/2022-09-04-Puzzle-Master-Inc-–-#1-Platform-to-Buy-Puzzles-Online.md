@@ -7,8 +7,6 @@ tags:
     - recomendo
     - shop
 ---
-# [Puzzle Master Inc – #1 Platform to Buy Puzzles Online](None)
-
 
 
 
@@ -19,3 +17,4 @@ huge collection of Wire, Metal, Jigsaws, Cubes, Wood Puzzles & Brain Teasers.
 Shop Now!
 
 
+[Puzzle Master Inc – #1 Platform to Buy Puzzles Online](None)

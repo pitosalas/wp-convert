@@ -3,8 +3,6 @@ title: "Magic Links"
 author: Pito Salas
 date: 2004-10-05
 ---
-# [Magic Links](None)
-
 
 
 >>
@@ -56,3 +54,4 @@ to that!
 >> **It boggles the mind**. Food for thought.
 
 
+[Magic Links](None)

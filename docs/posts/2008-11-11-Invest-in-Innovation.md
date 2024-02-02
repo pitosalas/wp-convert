@@ -3,8 +3,6 @@ title: "Invest in Innovation"
 author: Pito Salas
 date: 2008-11-11
 ---
-# [Invest in Innovation](None)
-
 
 
 
@@ -31,3 +29,4 @@ innovations…')
 ](<http://www.thenation.com/doc/20081117/henry_manzi>)
 
 
+[Invest in Innovation](None)

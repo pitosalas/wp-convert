@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - Java
 ---
-# [Java Without If - Ashton Kemerling](http://ashtonkemerling.com/blog/2017/01/26/java-without-if)
-
 <img src= width="500">
 
 
+[Java Without If - Ashton Kemerling](http://ashtonkemerling.com/blog/2017/01/26/java-without-if)

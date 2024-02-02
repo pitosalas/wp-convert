@@ -6,8 +6,6 @@ tags:
     - andreeson-tag
     - software
 ---
-# [Is Software Eating the World](None)
-
 
 
 
@@ -48,3 +46,4 @@ You must have a deep, illogical, passionate belief in your company and then
 you have to actually be really really good at execution.
 
 
+[Is Software Eating the World](None)

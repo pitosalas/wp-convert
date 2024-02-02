@@ -3,8 +3,6 @@ title: "Kagi Search"
 author: Pito Salas
 date: 2023-12-22
 ---
-# [Kagi Search](None)
-
 
 
 
@@ -13,3 +11,4 @@ Welcome to Kagi (pronounced kah-gee), a paid search engine that gives power
 back to the user.
 
 
+[Kagi Search](None)

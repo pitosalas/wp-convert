@@ -3,8 +3,6 @@ title: "Holiday gift for the geek who has everything"
 author: Pito Salas
 date: 2006-12-17
 ---
-# [Holiday gift for the geek who has everything](None)
-
 
 
 >
@@ -21,3 +19,4 @@ date: 2006-12-17
 > Tools](<http://www.kk.org>)
 
 
+[Holiday gift for the geek who has everything](None)

@@ -3,8 +3,6 @@ title: "BlogBridge update. In the last"
 author: Pito Salas
 date: 2004-03-12
 ---
-# [BlogBridge update. In the last](None)
-
 
 
 >>
@@ -17,3 +15,4 @@ getting others to contribute on this thing. Still Fun! (If you don't know what
 BlogBridge is, [check this out](<http://www.blogbridge.com>).)
 
 
+[BlogBridge update. In the last](None)

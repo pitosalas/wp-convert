@@ -3,8 +3,6 @@ title: "Amazing(ly unpleasant) story about a car"
 author: Pito Salas
 date: 2006-03-30
 ---
-# [Amazing(ly unpleasant) story about a car](None)
-
 
 
 >>
@@ -56,3 +54,4 @@ brand](<http://www.emergencemarketing.com/archives/2006/03/mercedes_a_case_study
 [mercedesbenz](<http://www.technorati.com/tag/mercedesbenz>)
 
 
+[Amazing(ly unpleasant) story about a car](None)

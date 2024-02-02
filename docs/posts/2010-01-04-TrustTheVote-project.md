@@ -8,8 +8,6 @@ tags:
     - osdv
     - trustthevote
 ---
-# [TrustTheVote project](None)
-
 
 
 
@@ -22,3 +20,4 @@ world>)
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[TrustTheVote project](None)

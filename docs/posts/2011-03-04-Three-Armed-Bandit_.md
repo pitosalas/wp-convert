@@ -7,8 +7,6 @@ tags:
     - neuroscience
     - research
 ---
-# [Three Armed Bandit?](None)
-
 
 
 
@@ -28,3 +26,4 @@ hand-researchers-conv-2011-02-23>)
 > hand-researchers-conv-2011-02-23>))
 
 
+[Three Armed Bandit?](None)

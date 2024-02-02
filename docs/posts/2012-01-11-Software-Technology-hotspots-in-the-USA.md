@@ -7,8 +7,6 @@ tags:
     - gigaom
     - techno-taglogy
 ---
-# [Software Technology hotspots in the USA](None)
-
 
 
 
@@ -21,3 +19,4 @@ GigaOm](<http://gigaom.com/cloud/mapping-tech-interest-across-time-and-
 space/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+OmMalik+%28GigaOM%3A+Tech%29>)
 
 
+[Software Technology hotspots in the USA](None)

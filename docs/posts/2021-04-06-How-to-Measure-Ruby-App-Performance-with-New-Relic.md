@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - Software Engineering
 ---
-# [How to Measure Ruby App Performance with New Relic](http://www.nateberkopec.com/2015/10/15/ruby-app-performance-with-new-relic.html)
-
 <img src= width="500">
 
 
+[How to Measure Ruby App Performance with New Relic](http://www.nateberkopec.com/2015/10/15/ruby-app-performance-with-new-relic.html)

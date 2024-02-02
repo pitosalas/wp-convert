@@ -3,8 +3,6 @@ title: "[GEEK] The BIG LIE of certificate checking"
 author: Pito Salas
 date: 2005-05-02
 ---
-# [[GEEK] The BIG LIE of certificate checking](None)
-
 
 
 >>
@@ -84,3 +82,4 @@ it gives the user a **very false sense of security.**
 [webstart](<http://technorati.com/tag/webstart>)
 
 
+[[GEEK] The BIG LIE of certificate checking](None)

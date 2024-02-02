@@ -6,8 +6,6 @@ tags:
     - gems
     - rails3
 ---
-# [[GEEKY] Great set of excellent Rails 3 Gems](None)
-
 
 
 
@@ -26,3 +24,4 @@ without hacking the hell out of the logic that is built in. I will definitely
 try it.
 
 
+[[GEEKY] Great set of excellent Rails 3 Gems](None)

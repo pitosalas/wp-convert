@@ -14,10 +14,9 @@ tags:
     - lidar
     - robot
 ---
-# [Deploying on Mars: Rock solid Odometry for Wheeled Robots](https://www.freedomrobotics.com/blog/tuning-odometry-for-wheeled-robots)
-
 <img src=https://www.freedomrobotics.com/hubfs/opportunityrover.jpg#keepProtocol width="500">
 
 
 
-(**Web site except:** Learnings and tips and tricks on how to set up and tune odometry for my NASA-JPL Mars Rover, which can be applied on any Autonomous Mobile Robot (AMR).) 
+(**Web site excerpt:** Learnings and tips and tricks on how to set up and tune odometry for my NASA-JPL Mars Rover, which can be applied on any Autonomous Mobile Robot (AMR).) 
+[Deploying on Mars: Rock solid Odometry for Wheeled Robots](https://www.freedomrobotics.com/blog/tuning-odometry-for-wheeled-robots)

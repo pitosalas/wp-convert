@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - curacao
 ---
-# [Stichting Uniek Curacao | Verantwoordelijk natuuronderhoud](http://www.uniekcuracao.org)
-
 <img src= width="500">
 
 
+[Stichting Uniek Curacao | Verantwoordelijk natuuronderhoud](http://www.uniekcuracao.org)

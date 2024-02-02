@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - Software Engineering
 ---
-# [Docker: Why Docker? - An Introduction - Codemy](https://www.codemy.net/posts/docker-why-docker-an-introduction)
-
 <img src= width="500">
 
 
+[Docker: Why Docker? - An Introduction - Codemy](https://www.codemy.net/posts/docker-why-docker-an-introduction)

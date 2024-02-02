@@ -3,8 +3,6 @@ title: "Steve Balmer read my blog (in my dream)"
 author: Pito Salas
 date: 2007-04-20
 ---
-# [Steve Balmer read my blog (in my dream)](None)
-
 
 
 
@@ -31,3 +29,4 @@ to the page saying, and "THIS is from YOUR blog…". I think I might have gotten
 fired in the dream…
 
 
+[Steve Balmer read my blog (in my dream)](None)

@@ -6,8 +6,6 @@ tags:
     - kindle
     - sharing
 ---
-# [Kindle changes everything, no?](None)
-
 
 
 
@@ -17,3 +15,4 @@ ebook/B004W8KM4K/B004W2UBYW/posts>)by Kindle readers. All of them. Pretty
 interesting don't you think?
 
 
+[Kindle changes everything, no?](None)

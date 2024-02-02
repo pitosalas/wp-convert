@@ -3,8 +3,6 @@ title: "Some great links for  04/16/2018"
 author: Pito Salas
 date: 2018-04-16
 ---
-# [Some great links for  04/16/2018](None)
-
 
 
 
@@ -72,3 +70,4 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
+[Some great links for  04/16/2018](None)

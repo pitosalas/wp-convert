@@ -3,8 +3,6 @@ title: "They are all fake…"
 author: Pito Salas
 date: 2005-12-09
 ---
-# [They are all fake…](None)
-
 
 
 >>
@@ -29,3 +27,4 @@ are all **fake** , but very cool!
 [cool](<http://www.technorati.com/tag/cool>)
 
 
+[They are all fake…](None)

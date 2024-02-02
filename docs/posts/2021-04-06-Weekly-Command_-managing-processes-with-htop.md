@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - processes command cli
 ---
-# [Weekly Command: managing processes with htop](https://monades.roperzh.com/weekly-command-managing-processes-with-htop)
-
 <img src= width="500">
 
 
+[Weekly Command: managing processes with htop](https://monades.roperzh.com/weekly-command-managing-processes-with-htop)

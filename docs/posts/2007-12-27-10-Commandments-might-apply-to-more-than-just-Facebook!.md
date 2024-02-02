@@ -3,8 +3,6 @@ title: "10 Commandments might apply to more than just Facebook!"
 author: Pito Salas
 date: 2007-12-27
 ---
-# [10 Commandments might apply to more than just Facebook!](None)
-
 
 
 
@@ -26,3 +24,4 @@ at [BlogBridge's Guide of Facebook blogs and
 feeds](<http://library.blogbridge.com/folder/13069-world-of-facebook>)]
 
 
+[10 Commandments might apply to more than just Facebook!](None)

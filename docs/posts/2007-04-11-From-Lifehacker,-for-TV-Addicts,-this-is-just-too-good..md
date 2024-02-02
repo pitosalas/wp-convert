@@ -3,8 +3,6 @@ title: "From Lifehacker, for TV Addicts, this is just too good."
 author: Pito Salas
 date: 2007-04-11
 ---
-# [From Lifehacker, for TV Addicts, this is just too good.](None)
-
 
 
 
@@ -22,3 +20,4 @@ the-day-tvshows-mac-251442.php>) from
 > tvshows-mac-251442.php>))
 
 
+[From Lifehacker, for TV Addicts, this is just too good.](None)

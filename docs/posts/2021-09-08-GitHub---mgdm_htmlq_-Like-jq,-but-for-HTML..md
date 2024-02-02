@@ -13,10 +13,9 @@ tags:
     - cooltool
     - jq
 ---
-# [GitHub - mgdm/htmlq: Like jq, but for HTML.](https://github.com/mgdm/htmlq)
-
 <img src=https://opengraph.githubassets.com/6b2a890711584f3a7b3124fd128c9bd704260237efc62d5996b542168c8a8d8b/mgdm/htmlq width="500">
 
 
 
-(**Web site except:** Like jq, but for HTML. Contribute to mgdm/htmlq development by creating an account on GitHub.) 
+(**Web site excerpt:** Like jq, but for HTML. Contribute to mgdm/htmlq development by creating an account on GitHub.) 
+[GitHub - mgdm/htmlq: Like jq, but for HTML.](https://github.com/mgdm/htmlq)

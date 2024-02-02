@@ -3,8 +3,6 @@ title: "State department has a blog team"
 author: Pito Salas
 date: 2007-09-23
 ---
-# [State department has a blog team](None)
-
 
 
 
@@ -21,3 +19,4 @@ Debate", from the New York
 Times.](<http://www.nytimes.com/2007/09/22/washington/22bloggers.html>)
 
 
+[State department has a blog team](None)

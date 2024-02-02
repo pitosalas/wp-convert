@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - docker rails howto
 ---
-# [How to use Docker Compose for Rails development: Do not bundle install in Dockerfile.dev](https://anonoz.github.io/tech/2019/03/10/rails-docker-compose-yml.html)
-
 <img src= width="500">
 
 
 
-(**Web site except:** Detailed tips on what not to do when using rails with docker.) 
+(**Web site excerpt:** Detailed tips on what not to do when using rails with docker.) 
+[How to use Docker Compose for Rails development: Do not bundle install in Dockerfile.dev](https://anonoz.github.io/tech/2019/03/10/rails-docker-compose-yml.html)

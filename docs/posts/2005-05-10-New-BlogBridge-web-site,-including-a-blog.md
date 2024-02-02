@@ -3,8 +3,6 @@ title: "New BlogBridge web site, including a blog"
 author: Pito Salas
 date: 2005-05-10
 ---
-# [New BlogBridge web site, including a blog](None)
-
 
 
 >>
@@ -36,3 +34,4 @@ to users.
 [UI](<http://technorati.com/tag/UI>)
 
 
+[New BlogBridge web site, including a blog](None)

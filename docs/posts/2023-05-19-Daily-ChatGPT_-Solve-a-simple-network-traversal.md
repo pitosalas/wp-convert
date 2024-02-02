@@ -3,8 +3,6 @@ title: "Daily ChatGPT: Solve a simple network traversal"
 author: Pito Salas
 date: 2023-05-19
 ---
-# [Daily ChatGPT: Solve a simple network traversal](None)
-
 
 
 
@@ -51,3 +49,4 @@ The best route from Node A to Node F is Path 1 (A -> C -> F) with a total cost
 of 55.
 
 
+[Daily ChatGPT: Solve a simple network traversal](None)

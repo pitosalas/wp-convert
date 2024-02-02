@@ -7,8 +7,6 @@ tags:
     - passion-tag
     - profession-tagalism
 ---
-# [Passion vs. Professionalism: Everyone has to take the garbage out some times](None)
-
 
 
 
@@ -32,3 +30,4 @@ will really despise it. And as my friend Pat used to say about an unpleasant
 work assignment:  "Everyone has to take out the garbage some times"
 
 
+[Passion vs. Professionalism: Everyone has to take the garbage out some times](None)

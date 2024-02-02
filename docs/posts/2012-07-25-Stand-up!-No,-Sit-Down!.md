@@ -9,8 +9,6 @@ tags:
     - lifespan
     - sitting
 ---
-# [Stand up! No, Sit Down!](None)
-
 
 
 
@@ -56,3 +54,4 @@ a short while later:
 Phew. That's a release. I can **sit down again!**
 
 
+[Stand up! No, Sit Down!](None)

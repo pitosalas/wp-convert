@@ -3,8 +3,6 @@ title: "Maldives looking for new land"
 author: Pito Salas
 date: 2009-05-18
 ---
-# [Maldives looking for new land](None)
-
 
 
 
@@ -28,3 +26,4 @@ saying](<http://www.nytimes.com/2009/05/10/magazine/10MALDIVES-t.html>):
 Wow.
 
 
+[Maldives looking for new land](None)

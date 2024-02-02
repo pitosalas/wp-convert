@@ -12,10 +12,9 @@ tags:
     - howto
     - cooltool
 ---
-# [Welcome to Bashly | Bashly - Bash CLI Framework](https://bashly.dannyb.co/)
-
 <img src=https://bashly.dannyb.co/assets/cast.svg width="500">
 
 
 
-(**Web site except:** Bashly is a command line application (written in Ruby) that lets you generate feature-rich bash command line tools.) 
+(**Web site excerpt:** Bashly is a command line application (written in Ruby) that lets you generate feature-rich bash command line tools.) 
+[Welcome to Bashly | Bashly - Bash CLI Framework](https://bashly.dannyb.co/)

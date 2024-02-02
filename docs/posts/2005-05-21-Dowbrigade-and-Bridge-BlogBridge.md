@@ -3,8 +3,6 @@ title: "Dowbrigade and Bridge BlogBridge"
 author: Pito Salas
 date: 2005-05-21
 ---
-# [Dowbrigade and Bridge BlogBridge](None)
-
 
 
 >>
@@ -54,3 +52,4 @@ feeds. (from
 [blogbridge](<http://technorati.com/tag/blogbridge>)
 
 
+[Dowbrigade and Bridge BlogBridge](None)

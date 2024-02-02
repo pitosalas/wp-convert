@@ -6,8 +6,6 @@ tags:
     - person-tagal-transportation-tag
     - segway
 ---
-# [Owner of Segway dies in Segway accident](None)
-
 
 
 
@@ -21,3 +19,4 @@ This is just a weird weird happening:
 > Times](<http://www.nytimes.com/2010/09/28/technology/28segway.html?_r=2&hpw>))
 
 
+[Owner of Segway dies in Segway accident](None)

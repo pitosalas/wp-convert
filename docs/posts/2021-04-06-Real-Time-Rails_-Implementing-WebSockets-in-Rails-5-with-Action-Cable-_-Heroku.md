@@ -10,10 +10,9 @@ tags:
     - rails
     - actioncable
 ---
-# [Real-Time Rails: Implementing WebSockets in Rails 5 with Action Cable | Heroku](https://blog.heroku.com/real_time_rails_implementing_websockets_in_rails_5_with_action_cable)
-
 <img src=https://www.herokucdn.com/images/og.png width="500">
 
 
 
-(**Web site except:** And another Actioncable resource!) 
+(**Web site excerpt:** And another Actioncable resource!) 
+[Real-Time Rails: Implementing WebSockets in Rails 5 with Action Cable | Heroku](https://blog.heroku.com/real_time_rails_implementing_websockets_in_rails_5_with_action_cable)

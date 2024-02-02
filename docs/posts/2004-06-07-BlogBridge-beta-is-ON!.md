@@ -3,8 +3,6 @@ title: "BlogBridge beta is ON!"
 author: Pito Salas
 date: 2004-06-07
 ---
-# [BlogBridge beta is ON!](None)
-
 
 
 >>
@@ -90,3 +88,4 @@ sense of how things are and how much work it is to support you all.
 >> Pito Salas and Aleksey Gureev"
 
 
+[BlogBridge beta is ON!](None)

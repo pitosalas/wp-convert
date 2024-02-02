@@ -3,8 +3,6 @@ title: "Barack Obama"
 author: Pito Salas
 date: 2008-11-06
 ---
-# [Barack Obama](None)
-
 
 
 
@@ -69,3 +67,4 @@ sheriff stopped by to make sure that all was orderly.
 Anyway, it was a fantastic experience.
 
 
+[Barack Obama](None)

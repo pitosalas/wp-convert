@@ -13,10 +13,9 @@ tags:
     - applications
     - rails
 ---
-# [Deploying Rails 6 application with Dokku - kukicola.io](https://kukicola.io/posts/deploying-rails-6-application-with-dokku)
-
 <img src=https://kukicola.io/assets/img/photo.jpg width="500">
 
 
 
-(**Web site except:** I’ve been researching a lot of devops/server deployment automation concepts and approaches. This is one of them.) 
+(**Web site excerpt:** I’ve been researching a lot of devops/server deployment automation concepts and approaches. This is one of them.) 
+[Deploying Rails 6 application with Dokku - kukicola.io](https://kukicola.io/posts/deploying-rails-6-application-with-dokku)

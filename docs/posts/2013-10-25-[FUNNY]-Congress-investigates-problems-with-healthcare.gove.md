@@ -8,8 +8,6 @@ tags:
     - joke
     - obamacare
 ---
-# [[FUNNY] Congress investigates problems with healthcare.gove](None)
-
 
 
 
@@ -25,3 +23,4 @@ Really, this is NO JOKING MATTER
 > spends-several-hours-pretending-to-understand-internet.html>))
 
 
+[[FUNNY] Congress investigates problems with healthcare.gove](None)

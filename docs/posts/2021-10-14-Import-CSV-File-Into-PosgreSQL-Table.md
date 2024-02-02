@@ -10,10 +10,9 @@ tags:
     - data
     - database
 ---
-# [Import CSV File Into PosgreSQL Table](https://www.postgresqltutorial.com/import-csv-file-into-posgresql-table/)
-
 <img src=https://rdl.ink/render/https%3A%2F%2Fwww.postgresqltutorial.com%2Fimport-csv-file-into-posgresql-table%2F width="500">
 
 
 
-(**Web site except:** In this tutorial, we will show various ways to import a CSV file into a PosgreSQL table.) 
+(**Web site excerpt:** In this tutorial, we will show various ways to import a CSV file into a PosgreSQL table.) 
+[Import CSV File Into PosgreSQL Table](https://www.postgresqltutorial.com/import-csv-file-into-posgresql-table/)

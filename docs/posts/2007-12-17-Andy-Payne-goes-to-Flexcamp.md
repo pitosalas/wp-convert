@@ -3,8 +3,6 @@ title: "Andy Payne goes to Flexcamp"
 author: Pito Salas
 date: 2007-12-17
 ---
-# [Andy Payne goes to Flexcamp](None)
-
 
 
 
@@ -48,3 +46,4 @@ Finally a couple of other Flash tidbits:
   * On the other hand, the iPhone still does NOT have flash, and some have [speculated about Apple's strategic and tactical motivations](<http://www.mercurious.com/wordpress/2007/08/29/iphone-and-flash/>).
 
 
+[Andy Payne goes to Flexcamp](None)

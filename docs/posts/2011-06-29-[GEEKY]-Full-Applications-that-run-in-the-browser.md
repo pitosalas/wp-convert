@@ -8,8 +8,6 @@ tags:
     - Programming
     - sproutcore
 ---
-# [[GEEKY] Full Applications that run in the browser](None)
-
 
 
 
@@ -37,3 +35,4 @@ network connection is gone.
 > opportunity to rethink the architecture of modern web applications."
 
 
+[[GEEKY] Full Applications that run in the browser](None)

@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - ruby library datamapper orm
 ---
-# [jgaskins/perpetuity](https://github.com/jgaskins/perpetuity)
-
 <img src=https://avatars.githubusercontent.com/u/108205?s=400&v=4 width="500">
 
 
 
-(**Web site except:** Persistence gem for Ruby objects using the Data Mapper pattern - jgaskins/perpetuity) 
+(**Web site excerpt:** Persistence gem for Ruby objects using the Data Mapper pattern - jgaskins/perpetuity) 
+[jgaskins/perpetuity](https://github.com/jgaskins/perpetuity)

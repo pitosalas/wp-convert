@@ -3,8 +3,6 @@ title: "Improv in Wikipedia"
 author: Pito Salas
 date: 2005-01-17
 ---
-# [Improv in Wikipedia](None)
-
 
 I got many comments from people about my [postings
 ](</weblogs/archives/000524.html>)[recently
@@ -21,3 +19,4 @@ days, or knew someone who was. (Of course there are a few inaccuracies, but
 what the heck!) **Cool**
 
 
+[Improv in Wikipedia](None)

@@ -8,8 +8,6 @@ tags:
     - osdv
     - trustthevote
 ---
-# [New words: COTS and GOTS](None)
-
 
 
 
@@ -28,3 +26,4 @@ Ok, not all the posts here are gems, but it is also my personal memory bank 🙂
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[New words: COTS and GOTS](None)

@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - GTD Rails
 ---
-# [Vitalist » Online GTD Software](http://www.vitalist.com)
-
 <img src= width="500">
 
 
 
-(**Web site except:** Interesting getting things done implementation) 
+(**Web site excerpt:** Interesting getting things done implementation) 
+[Vitalist » Online GTD Software](http://www.vitalist.com)

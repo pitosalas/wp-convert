@@ -8,8 +8,6 @@ tags:
     - howto
     - ruby
 ---
-# [Ruby’s Hash is a Swiss-Army Knife](None)
-
 
 
 
@@ -21,3 +19,4 @@ powerful tool. We’ll start with the basics but also cover some obscure but
 equally useful features of hash.
 
 
+[Ruby’s Hash is a Swiss-Army Knife](None)

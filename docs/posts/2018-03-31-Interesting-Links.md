@@ -3,8 +3,6 @@ title: "Interesting Links"
 author: Pito Salas
 date: 2018-03-31
 ---
-# [Interesting Links](None)
-
 
 
 
@@ -38,3 +36,4 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
+[Interesting Links](None)

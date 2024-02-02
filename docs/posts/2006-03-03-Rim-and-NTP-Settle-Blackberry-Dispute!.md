@@ -3,8 +3,6 @@ title: "Rim and NTP Settle Blackberry Dispute!"
 author: Pito Salas
 date: 2006-03-03
 ---
-# [Rim and NTP Settle Blackberry Dispute!](None)
-
 
 
 >>
@@ -20,3 +18,4 @@ Journal](<http://online.wsj.com/article/SB114142276287788965.html?mod=home_whats
 lawyer Jim Wallace."
 
 
+[Rim and NTP Settle Blackberry Dispute!](None)

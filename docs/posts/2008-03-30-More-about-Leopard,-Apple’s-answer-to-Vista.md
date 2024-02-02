@@ -3,8 +3,6 @@ title: "More about Leopard, Apple’s answer to Vista"
 author: Pito Salas
 date: 2008-03-30
 ---
-# [More about Leopard, Apple’s answer to Vista](None)
-
 
 
 
@@ -23,3 +21,4 @@ cheek. Here's what my log book says so far:
 Next post: What's different that matters in Leopard, at least to me.
 
 
+[More about Leopard, Apple’s answer to Vista](None)

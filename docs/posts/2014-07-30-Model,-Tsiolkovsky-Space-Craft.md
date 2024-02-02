@@ -3,8 +3,6 @@ title: "Model, Tsiolkovsky Space Craft"
 author: Pito Salas
 date: 2014-07-30
 ---
-# [Model, Tsiolkovsky Space Craft](None)
-
 
 
 
@@ -18,3 +16,4 @@ constraints of space travel for that time. Among Tsiolkovsky's concerns were
 the effects of acceleration and weightlessness on the human body.
 
 
+[Model, Tsiolkovsky Space Craft](None)

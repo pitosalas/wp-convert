@@ -7,8 +7,6 @@ tags:
     - security
     - swiplely
 ---
-# [Swipely, cool but scary?](None)
-
 
 
 
@@ -36,3 +34,4 @@ been using Mint.com for a while now) but still this one creeps me out just a
 little bit. What do you say?
 
 
+[Swipely, cool but scary?](None)

@@ -3,8 +3,6 @@ title: "Back from spain"
 author: Pito Salas
 date: 2004-04-27
 ---
-# [Back from spain](None)
-
 
 
 >>
@@ -14,3 +12,4 @@ had a great time in Spain. We went from Granada to Sevilla to Madrid, by plane
 and rail in 8 days. Spain is a very interesting and fun country.
 
 
+[Back from spain](None)

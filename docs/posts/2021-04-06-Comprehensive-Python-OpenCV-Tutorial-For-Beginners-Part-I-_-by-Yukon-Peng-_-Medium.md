@@ -12,10 +12,9 @@ tags:
     - FOOBAR
     - robotics
 ---
-# [Comprehensive Python OpenCV Tutorial For Beginners Part I | by Yukon Peng | Medium](https://medium.com/@yukunpengba/comprehensive-python-opencv-tutorial-for-beginners-part-i-fd0293d52241)
-
 <img src=https://miro.medium.com/max/1200/1*l_qUBd3ZxomdRz5AWFEyvg.jpeg width="500">
 
 
 
-(**Web site except:** For robotics, it's really handy to know opencv) 
+(**Web site excerpt:** For robotics, it's really handy to know opencv) 
+[Comprehensive Python OpenCV Tutorial For Beginners Part I | by Yukon Peng | Medium](https://medium.com/@yukunpengba/comprehensive-python-opencv-tutorial-for-beginners-part-i-fd0293d52241)

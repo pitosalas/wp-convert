@@ -3,8 +3,6 @@ title: "Wordnik is a new online dictionary and more"
 author: Pito Salas
 date: 2009-11-10
 ---
-# [Wordnik is a new online dictionary and more](None)
-
 
 
 
@@ -17,3 +15,4 @@ might [like](<http://www.wordnik.com/words/like>) it.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[Wordnik is a new online dictionary and more](None)

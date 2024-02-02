@@ -7,8 +7,6 @@ tags:
     - quotes
     - theory
 ---
-# [Theory and Practice](None)
-
 
 
 
@@ -22,3 +20,4 @@ BrainyQuote](<http://www.brainyquote.com/quotes/quotes/y/yogiberra141506.html>):
 
 
 
+[Theory and Practice](None)

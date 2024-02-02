@@ -3,8 +3,6 @@ title: "Put Down Your #2 Pencils And Use Your .EDU Email To Get Free TimesSelect
 author: Pito Salas
 date: 2007-03-20
 ---
-# [Put Down Your #2 Pencils And Use Your .EDU Email To Get Free TimesSelect](None)
-
 
 
 
@@ -25,3 +23,4 @@ email. Of course you probably can afford to pay for a New York Times
 subscription 🙂
 
 
+[Put Down Your #2 Pencils And Use Your .EDU Email To Get Free TimesSelect](None)

@@ -3,8 +3,6 @@ title: "Agenda for OPML Camp coming together"
 author: Pito Salas
 date: 2006-04-12
 ---
-# [Agenda for OPML Camp coming together](None)
-
 
 
 >>
@@ -27,3 +25,4 @@ the right margin using [Grazr](<http://www.grazr.com/>) a nice, embedable OPML
 [opmlcamp](<http://www.technorati.com/tag/opmlcamp>)
 
 
+[Agenda for OPML Camp coming together](None)

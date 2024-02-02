@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - golang critique complaints
 ---
-# [Ten Reasons Why I Don't Like Golang](https://www.teamten.com/lawrence/writings/why-i-dont-like-go.html)
-
 <img src=https://rdl.ink/render/https%3A%2F%2Fwww.teamten.com%2Flawrence%2Fwritings%2Fwhy-i-dont-like-go.html width="500">
 
 
 
-(**Web site except:** I thought I wanted to learn golang, now I am not so sure...) 
+(**Web site excerpt:** I thought I wanted to learn golang, now I am not so sure...) 
+[Ten Reasons Why I Don't Like Golang](https://www.teamten.com/lawrence/writings/why-i-dont-like-go.html)

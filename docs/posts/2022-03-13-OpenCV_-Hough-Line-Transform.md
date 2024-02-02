@@ -11,8 +11,7 @@ tags:
     - cv
     - python
 ---
-# [OpenCV: Hough Line Transform](https://docs.opencv.org/4.x/d6/d10/tutorial_py_houghlines.html)
-
 <img src=https://docs.opencv.org/4.x/houghlinesdemo.gif width="500">
 
 
+[OpenCV: Hough Line Transform](https://docs.opencv.org/4.x/d6/d10/tutorial_py_houghlines.html)

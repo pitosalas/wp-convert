@@ -3,8 +3,6 @@ title: "Calibrating a Monocular Camera with ROS – Robotics with ROS"
 author: Pito Salas
 date: 2022-03-18
 ---
-# [Calibrating a Monocular Camera with ROS – Robotics with ROS](None)
-
 
 
 
@@ -21,3 +19,4 @@ Monocular Camera with ROS Read More »
 March 18, 2022 at 08:38PM
 
 
+[Calibrating a Monocular Camera with ROS – Robotics with ROS](None)

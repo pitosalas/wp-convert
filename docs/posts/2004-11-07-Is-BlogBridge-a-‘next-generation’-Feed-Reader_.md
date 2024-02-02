@@ -3,8 +3,6 @@ title: "Is BlogBridge a ‘next generation’ Feed Reader?"
 author: Pito Salas
 date: 2004-11-07
 ---
-# [Is BlogBridge a ‘next generation’ Feed Reader?](None)
-
 
 
 >>
@@ -101,3 +99,4 @@ Any follow up questions are welcome and you can of course also download and
 play with the current beta.
 
 
+[Is BlogBridge a ‘next generation’ Feed Reader?](None)

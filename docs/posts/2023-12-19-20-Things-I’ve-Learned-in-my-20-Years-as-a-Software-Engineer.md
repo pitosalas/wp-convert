@@ -7,8 +7,6 @@ tags:
     - lesson-tags-learned
     - software-engineering
 ---
-# [20 Things I’ve Learned in my 20 Years as a Software Engineer](None)
-
 
 
 
@@ -21,3 +19,4 @@ caveat. Almost all advice is contextual, yet it is rarely delivered with any
 context. “You just need to charge more!” says the company […]
 
 
+[20 Things I’ve Learned in my 20 Years as a Software Engineer](None)

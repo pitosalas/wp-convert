@@ -3,8 +3,6 @@ title: "Top bookstores around the world"
 author: Pito Salas
 date: 2008-01-29
 ---
-# [Top bookstores around the world](None)
-
 
 
 
@@ -17,3 +15,4 @@ world!](<http://books.guardian.co.uk/shoptalk/story/0,,2239172,00.html?gusrc=rss
 "bookstores")
 
 
+[Top bookstores around the world](None)

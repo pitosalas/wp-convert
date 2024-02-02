@@ -3,8 +3,6 @@ title: "In-depth analysis of Microsoft content syndication platform patent appli
 author: Pito Salas
 date: 2006-12-23
 ---
-# [In-depth analysis of Microsoft content syndication platform patent application](None)
-
 
 
 >
@@ -48,3 +46,4 @@ date: 2006-12-23
 > feed-platform-patent-review.html>))
 
 
+[In-depth analysis of Microsoft content syndication platform patent application](None)

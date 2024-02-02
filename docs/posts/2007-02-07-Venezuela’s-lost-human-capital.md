@@ -3,8 +3,6 @@ title: "Venezuela’s lost human capital"
 author: Pito Salas
 date: 2007-02-07
 ---
-# [Venezuela’s lost human capital](None)
-
 
 
 >
@@ -23,3 +21,4 @@ Daily](<http://www.investors.com/editorial/editorialcontent.asp?secid=1501&statu
 > thing](<http://www.investors.com/editorial/editorialcontent.asp?secid=1501&status=article&id=254621701430577&view=1>).
 
 
+[Venezuela’s lost human capital](None)

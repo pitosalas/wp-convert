@@ -3,8 +3,6 @@ title: "Space Shuttle Software: YERO"
 author: Pito Salas
 date: 2007-12-31
 ---
-# [Space Shuttle Software: YERO](None)
-
 
 
 
@@ -23,3 +21,4 @@ is almost hard to believe was that the computers on the Apollo had the power
 of a modern day digital watch. I bet they didn't have a YERO problem 🙂
 
 
+[Space Shuttle Software: YERO](None)

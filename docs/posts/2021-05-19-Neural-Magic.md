@@ -12,10 +12,9 @@ tags:
     - git
     - computer-vision
 ---
-# [Neural Magic](https://github.com/neuralmagic)
-
 <img src=https://avatars.githubusercontent.com/u/68670575?s=280&v=4 width="500">
 
 
 
-(**Web site except:** Neural Magic helps developers in accelerating deep learning performance using automated model sparsification technologies and a CPU inference engine. - Neural Magic) 
+(**Web site excerpt:** Neural Magic helps developers in accelerating deep learning performance using automated model sparsification technologies and a CPU inference engine. - Neural Magic) 
+[Neural Magic](https://github.com/neuralmagic)

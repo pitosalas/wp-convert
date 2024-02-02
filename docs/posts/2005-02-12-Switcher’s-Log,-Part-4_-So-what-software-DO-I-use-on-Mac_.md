@@ -3,8 +3,6 @@ title: "Switcher’s Log, Part 4: So what software DO I use on Mac?"
 author: Pito Salas
 date: 2005-02-12
 ---
-# [Switcher’s Log, Part 4: So what software DO I use on Mac?](None)
-
 
 This is a topic of continuing interest to people who hear that I switched.
 Here are some general comments:
@@ -53,3 +51,4 @@ launcher, and **Konfabulator** , a visual trinkets app.
 GetAnagram**
 
 
+[Switcher’s Log, Part 4: So what software DO I use on Mac?](None)

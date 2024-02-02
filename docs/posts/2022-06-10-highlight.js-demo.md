@@ -12,8 +12,7 @@ tags:
     - html
     - css
 ---
-# [highlight.js demo](https://highlightjs.org/static/demo/)
-
 <img src=https://rdl.ink/render/https%3A%2F%2Fhighlightjs.org%2Fstatic%2Fdemo%2F width="500">
 
 
+[highlight.js demo](https://highlightjs.org/static/demo/)

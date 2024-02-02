@@ -3,8 +3,6 @@ title: "[GEEK] Ever get confused about logging.properties formats?"
 author: Pito Salas
 date: 2004-06-10
 ---
-# [[GEEK] Ever get confused about logging.properties formats?](None)
-
 
 
 >>
@@ -18,3 +16,4 @@ memory when it needs to be jogged!
 Sheet](<http://www.johnmunsch.com/projects/Presentations/docs/Log4J/log.properties>)
 
 
+[[GEEK] Ever get confused about logging.properties formats?](None)

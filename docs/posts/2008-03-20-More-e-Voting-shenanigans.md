@@ -3,8 +3,6 @@ title: "More e-Voting shenanigans"
 author: Pito Salas
 date: 2008-03-20
 ---
-# [More e-Voting shenanigans](None)
-
 
 
 
@@ -25,3 +23,4 @@ machines:
 > princeton-researcher-hands-off/>))
 
 
+[More e-Voting shenanigans](None)

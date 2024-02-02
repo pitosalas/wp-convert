@@ -3,8 +3,6 @@ title: "[GEEK] Getting URL objects to time out"
 author: Pito Salas
 date: 2004-06-10
 ---
-# [[GEEK] Getting URL objects to time out](None)
-
 
 
 >>
@@ -20,3 +18,4 @@ Sun has provided us to overcome that deficiency:
 > System.setProperty("sun.net.client.defaultConnectTimeout", "10000");
 
 
+[[GEEK] Getting URL objects to time out](None)

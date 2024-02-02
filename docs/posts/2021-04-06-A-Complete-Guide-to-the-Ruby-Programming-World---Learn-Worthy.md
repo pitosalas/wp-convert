@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - programming guide ruby overview
 ---
-# [A Complete Guide to the Ruby Programming World - Learn Worthy](https://learnworthy.net/a-complete-guide-to-the-ruby-programming-world)
-
 <img src=https://learnworthy.net/wp-content/uploads/2019/08/A-Complete-Guide-to-the-Ruby-Programming-World.png width="500">
 
 
 
-(**Web site except:** A nice comprehensive review of the world of the ruby programming language, my personal favorite right now.) 
+(**Web site excerpt:** A nice comprehensive review of the world of the ruby programming language, my personal favorite right now.) 
+[A Complete Guide to the Ruby Programming World - Learn Worthy](https://learnworthy.net/a-complete-guide-to-the-ruby-programming-world)

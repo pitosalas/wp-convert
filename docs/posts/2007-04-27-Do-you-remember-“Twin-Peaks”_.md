@@ -3,8 +3,6 @@ title: "Do you remember “Twin Peaks”?"
 author: Pito Salas
 date: 2007-04-27
 ---
-# [Do you remember “Twin Peaks”?](None)
-
 
 
 
@@ -19,3 +17,4 @@ chair, or two cups of good, hot, black coffee…"
 Don't ask me why, the quote just strikes me as funny!  
 
 
+[Do you remember “Twin Peaks”?](None)

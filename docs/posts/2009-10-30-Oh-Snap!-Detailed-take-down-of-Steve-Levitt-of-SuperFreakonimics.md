@@ -3,8 +3,6 @@ title: "Oh Snap! Detailed take down of Steve Levitt of SuperFreakonimics"
 author: Pito Salas
 date: 2009-10-30
 ---
-# [Oh Snap! Detailed take down of Steve Levitt of SuperFreakonimics](None)
-
 
 
 
@@ -32,3 +30,4 @@ to-steve-levitt/>)!
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[Oh Snap! Detailed take down of Steve Levitt of SuperFreakonimics](None)

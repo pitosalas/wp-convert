@@ -7,8 +7,6 @@ tags:
     - lingo
     - transparencycamp
 ---
-# [DC Lingo – from my notebook](None)
-
 
 
 
@@ -33,3 +31,4 @@ _Originally posted on Mar 03, 2009. Reprinted courtesy of ReRuns plug-in._
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[DC Lingo – from my notebook](None)

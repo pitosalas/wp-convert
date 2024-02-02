@@ -7,8 +7,6 @@ tags:
     - ruby
     - rubygems
 ---
-# [[GEEKY] Using bundler to create and publish a gem](None)
-
 
 
 
@@ -26,3 +24,4 @@ bundler-gumby-framework>):
 
 
 
+[[GEEKY] Using bundler to create and publish a gem](None)

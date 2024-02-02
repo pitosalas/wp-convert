@@ -3,8 +3,6 @@ title: "BlogBridge on the radar screen?"
 author: Pito Salas
 date: 2004-11-20
 ---
-# [BlogBridge on the radar screen?](None)
-
 
 
 >>
@@ -15,3 +13,4 @@ column where they periodically highlight cool application that, I guess, are
 good examples of what can be done with Java on the desktop. Thanks!
 
 
+[BlogBridge on the radar screen?](None)

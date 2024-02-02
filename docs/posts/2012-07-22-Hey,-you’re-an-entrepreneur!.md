@@ -8,8 +8,6 @@ tags:
     - nyt
     - sillicon-tagvalley
 ---
-# [Hey, you’re an entrepreneur!](None)
-
 
 
 
@@ -27,3 +25,4 @@ you are now an entrepreneur! Which start-up T-shirt would you like?”
 > silicon-valleys-bubble/>))
 
 
+[Hey, you’re an entrepreneur!](None)

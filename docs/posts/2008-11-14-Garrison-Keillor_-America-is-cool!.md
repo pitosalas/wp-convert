@@ -3,8 +3,6 @@ title: "Garrison Keillor: America is cool!"
 author: Pito Salas
 date: 2008-11-14
 ---
-# [Garrison Keillor: America is cool!](None)
-
 
 
 
@@ -30,3 +28,4 @@ admin/post-new.php>):
 Yeah, Putin, what's with that **B-movie bad-boy scowl?**
 
 
+[Garrison Keillor: America is cool!](None)

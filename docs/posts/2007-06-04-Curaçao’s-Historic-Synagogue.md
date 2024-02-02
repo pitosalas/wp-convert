@@ -3,8 +3,6 @@ title: "Curaçao’s Historic Synagogue"
 author: Pito Salas
 date: 2007-06-04
 ---
-# [Curaçao’s Historic Synagogue](None)
-
 
 
 
@@ -27,3 +25,4 @@ synagogue.](<http://www.forward.com/articles/a-birthday-celebration-for-
 curacao-s-historic-sy/>)
 
 
+[Curaçao’s Historic Synagogue](None)

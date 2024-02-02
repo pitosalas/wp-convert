@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - concurrency
 ---
-# [Confusing concurrency concepts in Java (2017 talk) : java](https://www.reddit.com/r/java/comments/9ld45t/confusing_concurrency_concepts_in_java_2017_talk?sh=9fe691ff&st=JMVGVK3X)
-
 <img src=https://i.ytimg.com/vi/ADxUsCkWdbE/hqdefault.jpg width="500">
 
 
 
-(**Web site except:** Really hard concurrency concepts.) 
+(**Web site excerpt:** Really hard concurrency concepts.) 
+[Confusing concurrency concepts in Java (2017 talk) : java](https://www.reddit.com/r/java/comments/9ld45t/confusing_concurrency_concepts_in_java_2017_talk?sh=9fe691ff&st=JMVGVK3X)

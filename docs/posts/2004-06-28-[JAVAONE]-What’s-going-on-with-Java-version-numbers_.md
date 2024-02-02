@@ -3,8 +3,6 @@ title: "[JAVAONE] What’s going on with Java version numbers?"
 author: Pito Salas
 date: 2004-06-28
 ---
-# [[JAVAONE] What’s going on with Java version numbers?](None)
-
 
 
 >>
@@ -23,3 +21,4 @@ release just coming out is 1.5. The release after Tiger is going to be called
 a Sun strength!
 
 
+[[JAVAONE] What’s going on with Java version numbers?](None)

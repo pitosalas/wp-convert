@@ -3,8 +3,6 @@ title: "Funny American Idol commentary"
 author: Pito Salas
 date: 2004-05-27
 ---
-# [Funny American Idol commentary](None)
-
 
 
 >>
@@ -25,3 +23,4 @@ announced our next American president. "
 Wins](<http://www.nytimes.com/2004/05/27/arts/television/27idol.html>)
 
 
+[Funny American Idol commentary](None)

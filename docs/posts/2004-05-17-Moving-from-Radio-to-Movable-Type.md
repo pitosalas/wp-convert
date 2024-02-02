@@ -3,8 +3,6 @@ title: "Moving from Radio to Movable Type"
 author: Pito Salas
 date: 2004-05-17
 ---
-# [Moving from Radio to Movable Type](None)
-
 
 
 >>
@@ -24,3 +22,4 @@ change which means that anyone linked to your blog before will stay linked to
 your old blog and so you will experience a disruption in your traffic.
 
 
+[Moving from Radio to Movable Type](None)

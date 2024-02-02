@@ -12,10 +12,9 @@ tags:
     - new-yorker
     - article
 ---
-# [The Sudden Rise of the Lab-Leak Theory](https://www.newyorker.com/news/annals-of-inquiry/the-sudden-rise-of-the-coronavirus-lab-leak-theory)
-
 <img src=https://media.newyorker.com/photos/60afb7b63c162291f832788b/1:1/w_1600,h_1600,c_limit/nyker-covid-leak.gif width="500">
 
 
 
-(**Web site except:** Scientists and political commentators are no longer dismissing the possibility that COVID-19 emerged from a Chinese laboratory. What changed?) 
+(**Web site excerpt:** Scientists and political commentators are no longer dismissing the possibility that COVID-19 emerged from a Chinese laboratory. What changed?) 
+[The Sudden Rise of the Lab-Leak Theory](https://www.newyorker.com/news/annals-of-inquiry/the-sudden-rise-of-the-coronavirus-lab-leak-theory)

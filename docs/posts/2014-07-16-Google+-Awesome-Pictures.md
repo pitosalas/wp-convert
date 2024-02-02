@@ -3,8 +3,6 @@ title: "Google+ Awesome Pictures"
 author: Pito Salas
 date: 2014-07-16
 ---
-# [Google+ Awesome Pictures](None)
-
 
 
 
@@ -32,3 +30,4 @@ content/uploads/2014/07/1865d-img_0293.jpg?w=584&ssl=1)
 content/uploads/2014/07/4872c-img_0293-effects.jpg?w=584&ssl=1)
 
 
+[Google+ Awesome Pictures](None)

@@ -7,8 +7,6 @@ tags:
     - searching
     - syntax
 ---
-# [Order in Google arguments](None)
-
 
 
 
@@ -33,3 +31,4 @@ were present in one and not the other.
 Q.E.D.
 
 
+[Order in Google arguments](None)

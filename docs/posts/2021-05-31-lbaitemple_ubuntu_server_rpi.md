@@ -11,10 +11,9 @@ tags:
     - howto
     - raspi
 ---
-# [lbaitemple/ubuntu_server_rpi](https://github.com/lbaitemple/ubuntu_server_rpi#step-8-gpio-run-as-non-root-devmem-no-access)
-
 <img src=https://opengraph.githubassets.com/679e7a3f2fc508233bed38ec1138f63c155fe14f078f6216a7ddafc24bf2a12b/lbaitemple/ubuntu_server_rpi width="500">
 
 
 
-(**Web site except:** Contribute to lbaitemple/ubuntu_server_rpi development by creating an account on GitHub.) 
+(**Web site excerpt:** Contribute to lbaitemple/ubuntu_server_rpi development by creating an account on GitHub.) 
+[lbaitemple/ubuntu_server_rpi](https://github.com/lbaitemple/ubuntu_server_rpi#step-8-gpio-run-as-non-root-devmem-no-access)

@@ -3,8 +3,6 @@ title: "Did you know how closely"
 author: Pito Salas
 date: 2004-02-04
 ---
-# [Did you know how closely](None)
-
 
 
 >>
@@ -29,3 +27,4 @@ on the remote? Big Brother! I guess the second, smaller surprise, is that
 release**.
 
 
+[Did you know how closely](None)

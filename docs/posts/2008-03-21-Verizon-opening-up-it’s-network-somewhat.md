@@ -3,8 +3,6 @@ title: "Verizon opening up it’s network somewhat"
 author: Pito Salas
 date: 2008-03-21
 ---
-# [Verizon opening up it’s network somewhat](None)
-
 
 
 
@@ -29,3 +27,4 @@ Does this allow the creation of a new class of device placed in homes or cars
 or what-not that uses the cell network as it's backbone?
 
 
+[Verizon opening up it’s network somewhat](None)

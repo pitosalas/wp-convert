@@ -8,8 +8,6 @@ tags:
     - decision-tags
     - loomio
 ---
-# [Loomio: Collaborative Decision Making](None)
-
 
 
 
@@ -32,3 +30,4 @@ This is an area I am quite interested in! I am planning to [check Loomio
 out.](<https://www.loomio.org>)
 
 
+[Loomio: Collaborative Decision Making](None)

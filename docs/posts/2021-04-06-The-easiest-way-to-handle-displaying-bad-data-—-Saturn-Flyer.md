@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - presenter ruby
 ---
-# [The easiest way to handle displaying bad data — Saturn Flyer](https://www.saturnflyer.com/blog/the-easiest-way-to-handle-displaying-bad-data)
-
 <img src=https://rdl.ink/render/https%3A%2F%2Fwww.saturnflyer.com%2Fblog%2Fthe-easiest-way-to-handle-displaying-bad-data width="500">
 
 
 
-(**Web site except:** Good ruby rails and other tips) 
+(**Web site excerpt:** Good ruby rails and other tips) 
+[The easiest way to handle displaying bad data — Saturn Flyer](https://www.saturnflyer.com/blog/the-easiest-way-to-handle-displaying-bad-data)

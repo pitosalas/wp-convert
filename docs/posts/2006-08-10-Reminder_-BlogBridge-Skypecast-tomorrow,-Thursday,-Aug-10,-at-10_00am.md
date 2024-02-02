@@ -3,8 +3,6 @@ title: "Reminder: BlogBridge Skypecast tomorrow, Thursday, Aug 10, at 10:00am"
 author: Pito Salas
 date: 2006-08-10
 ---
-# [Reminder: BlogBridge Skypecast tomorrow, Thursday, Aug 10, at 10:00am](None)
-
 
 
 >>
@@ -20,3 +18,4 @@ come all!
 [skypecast](<http://www.technorati.com/tag/skypecast>)
 
 
+[Reminder: BlogBridge Skypecast tomorrow, Thursday, Aug 10, at 10:00am](None)

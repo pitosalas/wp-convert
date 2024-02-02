@@ -3,8 +3,6 @@ title: "Worth reading: Falsehoods Programmers Believe About Names"
 author: Pito Salas
 date: 2014-08-18
 ---
-# [Worth reading: Falsehoods Programmers Believe About Names](None)
-
 
 
 
@@ -15,3 +13,4 @@ someone tells you is their name is — by definition — an appropriate identifi
 for them. Link: Link to original
 
 
+[Worth reading: Falsehoods Programmers Believe About Names](None)

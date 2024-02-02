@@ -9,10 +9,9 @@ tags:
     - art
     - paintings
 ---
-# [Landscape Paintings](https://www.jonathankeeton.com/landscape-paintings/albums/test)
-
 <img src=https://images.discerningassets.com/image/upload/q_auto/c_fit,h_600,w_600/v1626382754/_DSC5487_rpg4ts.jpg width="500">
 
 
 
-(**Web site except:** Portfolio is a web page that can be viewed at jonathankeeton.) 
+(**Web site excerpt:** Portfolio is a web page that can be viewed at jonathankeeton.) 
+[Landscape Paintings](https://www.jonathankeeton.com/landscape-paintings/albums/test)

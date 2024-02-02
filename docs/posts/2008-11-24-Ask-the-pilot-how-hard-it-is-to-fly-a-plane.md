@@ -3,8 +3,6 @@ title: "Ask the pilot how hard it is to fly a plane"
 author: Pito Salas
 date: 2008-11-24
 ---
-# [Ask the pilot how hard it is to fly a plane](None)
-
 
 
 
@@ -39,3 +37,4 @@ terror](<http://www.salon.com/tech/col/smith/2008/11/14/askthepilot298/index.htm
 askthepilot](<http://technorati.com/tag/pilot%20flying%20airplanes%20askthepilot>)
 
 
+[Ask the pilot how hard it is to fly a plane](None)

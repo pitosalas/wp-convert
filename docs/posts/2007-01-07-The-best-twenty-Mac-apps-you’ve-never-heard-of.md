@@ -3,8 +3,6 @@ title: "The best twenty Mac apps you’ve never heard of"
 author: Pito Salas
 date: 2007-01-07
 ---
-# [The best twenty Mac apps you’ve never heard of](None)
-
 
 
 >
@@ -27,3 +25,4 @@ date: 2007-01-07
 > youve-never-heard-of-226658.php>)
 
 
+[The best twenty Mac apps you’ve never heard of](None)

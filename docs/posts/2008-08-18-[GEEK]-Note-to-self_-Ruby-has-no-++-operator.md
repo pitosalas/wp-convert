@@ -5,8 +5,6 @@ date: 2008-08-18
 tags:
     - ruby-programming-geek
 ---
-# [[GEEK] Note to self: Ruby has no ++ operator](None)
-
 
 
 
@@ -18,3 +16,4 @@ operator"
 _Originally posted on Apr 13, 2007. Reprinted courtesy of ReRuns plug-in._
 
 
+[[GEEK] Note to self: Ruby has no ++ operator](None)

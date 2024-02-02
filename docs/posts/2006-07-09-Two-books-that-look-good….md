@@ -3,8 +3,6 @@ title: "Two books that look good…"
 author: Pito Salas
 date: 2006-07-09
 ---
-# [Two books that look good…](None)
-
 
 I saw these two books in Barnes and Noble. They look quite interesting. I
 might get them.
@@ -37,3 +35,4 @@ be too thick 🙂
 >> Technorati Tags: [book](<http://www.technorati.com/tag/book>)
 
 
+[Two books that look good…](None)

@@ -11,8 +11,7 @@ tags:
     - hotwire
     - explainer
 ---
-# [What is the difference between Turbo and Stimulus, and what exactly is Hotwire?](https://www.ducktypelabs.com/turbo-vs-stimulus/)
-
 <img src=https://www.ducktypelabs.com/assets/images/hotwire.png width="500">
 
 This is a set of reminders and reviews that I could really use!
+[What is the difference between Turbo and Stimulus, and what exactly is Hotwire?](https://www.ducktypelabs.com/turbo-vs-stimulus/)

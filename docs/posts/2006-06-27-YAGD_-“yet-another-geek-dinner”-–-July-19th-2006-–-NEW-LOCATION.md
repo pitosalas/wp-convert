@@ -3,8 +3,6 @@ title: "YAGD: “yet another geek dinner” – July 19th 2006 – NEW LOCATION"
 author: Pito Salas
 date: 2006-06-27
 ---
-# [YAGD: “yet another geek dinner” – July 19th 2006 – NEW LOCATION](None)
-
 
 
 >>
@@ -73,3 +71,4 @@ here!](<http://www.evite.com/app/publicUrl/rps@salas.com/geekdinner3>)
 [Geeky](<http://www.technorati.com/tag/Geeky>)
 
 
+[YAGD: “yet another geek dinner” – July 19th 2006 – NEW LOCATION](None)

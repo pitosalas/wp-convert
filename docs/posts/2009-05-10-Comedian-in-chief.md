@@ -3,8 +3,6 @@ title: "Comedian in chief"
 author: Pito Salas
 date: 2009-05-10
 ---
-# [Comedian in chief](None)
-
 
 
 
@@ -17,3 +15,4 @@ h_n_201264.html>)
 In fact, pretty funny. (Who writes for him?)
 
 
+[Comedian in chief](None)

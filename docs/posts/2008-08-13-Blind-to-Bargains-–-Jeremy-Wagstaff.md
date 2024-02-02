@@ -3,8 +3,6 @@ title: "Blind to Bargains – Jeremy Wagstaff"
 author: Pito Salas
 date: 2008-08-13
 ---
-# [Blind to Bargains – Jeremy Wagstaff](None)
-
 
 
 
@@ -101,3 +99,4 @@ Here is a full article written by Jeremy Wagstaff…
 Originally posted on Apr 29, 2007. Reprinted courtesy of ReRuns plug-in.
 
 
+[Blind to Bargains – Jeremy Wagstaff](None)

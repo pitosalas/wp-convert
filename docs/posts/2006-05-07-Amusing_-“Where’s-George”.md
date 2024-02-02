@@ -3,8 +3,6 @@ title: "Amusing: “Where’s George”"
 author: Pito Salas
 date: 2006-05-07
 ---
-# [Amusing: “Where’s George”](None)
-
 
 
 >>
@@ -42,3 +40,4 @@ Blog](<http://www.scienceblog.com/cms/web_game_provides_breakthrough_in_predicti
 >> Technorati Tags: [interesting](<http://www.technorati.com/tag/interesting>)
 
 
+[Amusing: “Where’s George”](None)

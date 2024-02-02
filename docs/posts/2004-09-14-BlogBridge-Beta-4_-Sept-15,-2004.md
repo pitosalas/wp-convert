@@ -3,8 +3,6 @@ title: "BlogBridge Beta 4: Sept 15, 2004"
 author: Pito Salas
 date: 2004-09-14
 ---
-# [BlogBridge Beta 4: Sept 15, 2004](None)
-
 
 
 >>
@@ -64,3 +62,4 @@ the opposite order: good / unread / total.
 >> **Try the new beta. I hope you like it. Let me know!**
 
 
+[BlogBridge Beta 4: Sept 15, 2004](None)

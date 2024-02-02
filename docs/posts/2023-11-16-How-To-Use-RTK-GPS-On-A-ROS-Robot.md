@@ -11,10 +11,9 @@ tags:
     - robotics
     - howto
 ---
-# [How To Use RTK GPS On A ROS Robot](https://medium.com/exploring-ros-robotics/how-to-use-rtk-gps-on-a-ros-robot-a51e9aa2f2ab)
-
 <img src=https://miro.medium.com/v2/resize:fit:1200/1*RkCm24BiDaRBwrFykcxLbg.jpeg width="500">
 
 Always looking for good info about rtk 
 
-(**Web site except:** Get accurate positioning down to 14 mm!) 
+(**Web site excerpt:** Get accurate positioning down to 14 mm!) 
+[How To Use RTK GPS On A ROS Robot](https://medium.com/exploring-ros-robotics/how-to-use-rtk-gps-on-a-ros-robot-a51e9aa2f2ab)

@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - tricks python techniques howto
 ---
-# [4 Advanced Tricks With Python Functions You Might Not Know](https://link.medium.com/iszX4UbdYbb)
-
 <img src=https://miro.medium.com/max/1200/0*ifoTBfwpki_hW-dt width="500">
 
 
 
-(**Web site except:** One cam never have too many of these!) 
+(**Web site excerpt:** One cam never have too many of these!) 
+[4 Advanced Tricks With Python Functions You Might Not Know](https://link.medium.com/iszX4UbdYbb)

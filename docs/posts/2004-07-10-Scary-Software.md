@@ -3,8 +3,6 @@ title: "Scary Software"
 author: Pito Salas
 date: 2004-07-10
 ---
-# [Scary Software](None)
-
 
 
 >>
@@ -37,3 +35,4 @@ you? It's a big farce built upon beautiful and elegant mathematics and
 cryptography which is **correct** and yet **impotent**
 
 
+[Scary Software](None)

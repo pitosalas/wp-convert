@@ -3,8 +3,6 @@ title: "[GEEKY] Interesting article about code leaks"
 author: Pito Salas
 date: 2009-07-15
 ---
-# [[GEEKY] Interesting article about code leaks](None)
-
 
 
 
@@ -26,3 +24,4 @@ Technorati Tags: [rails](<http://technorati.com/tag/rails>),
 [programming](<http://technorati.com/tag/programming>)
 
 
+[[GEEKY] Interesting article about code leaks](None)

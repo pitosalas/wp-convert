@@ -11,8 +11,6 @@ tags:
     - speech
     - tool
 ---
-# [ggerganov/whisper.cpp: Port of OpenAI’s Whisper model in C/C++](None)
-
 
 
 
@@ -22,3 +20,4 @@ C/C++. Contribute to ggerganov/whisper.cpp development by creating an account
 on GitHub.
 
 
+[ggerganov/whisper.cpp: Port of OpenAI’s Whisper model in C/C++](None)

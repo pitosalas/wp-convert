@@ -11,10 +11,9 @@ tags:
     - rest
     - cosi105
 ---
-# [Best Practices for Designing a Pragmatic RESTful API | Vinay Sahni](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
-
 <img src=https://www.vinaysahni.com//images/posts/best-practices-for-a-pragmatic-restful-api/_header.png width="500">
 
 
 
-(**Web site except:** There’s so much debate about this. This article has helpful practical advice m) 
+(**Web site excerpt:** There’s so much debate about this. This article has helpful practical advice m) 
+[Best Practices for Designing a Pragmatic RESTful API | Vinay Sahni](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)

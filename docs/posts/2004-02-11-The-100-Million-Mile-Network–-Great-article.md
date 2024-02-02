@@ -3,8 +3,6 @@ title: "The 100-Million-Mile Network – Great article"
 author: Pito Salas
 date: 2004-02-11
 ---
-# [The 100-Million-Mile Network – Great article](None)
-
 
 
 >>
@@ -17,3 +15,4 @@ this project as well, [that I'd recommend](<http://www.martiansoil.com/>) for
 the space buffs among you!
 
 
+[The 100-Million-Mile Network – Great article](None)

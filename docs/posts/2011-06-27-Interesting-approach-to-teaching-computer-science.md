@@ -7,8 +7,6 @@ tags:
     - teaching
     - university
 ---
-# [Interesting approach to teaching computer science](None)
-
 
 
 
@@ -31,3 +29,4 @@ interview!](<http://articles.boston.com/2011-06-14/news/29657519_1_teaching-
 moment-computer-giggle>)
 
 
+[Interesting approach to teaching computer science](None)

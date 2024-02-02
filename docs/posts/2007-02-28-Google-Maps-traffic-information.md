@@ -3,8 +3,6 @@ title: "Google Maps traffic information"
 author: Pito Salas
 date: 2007-02-28
 ---
-# [Google Maps traffic information](None)
-
 
 
 
@@ -18,3 +16,4 @@ information-240397.php>) from [Lifehacker](<http://www.lifehacker.com>):
 > maps/google-maps-traffic-information-240397.php>)
 
 
+[Google Maps traffic information](None)

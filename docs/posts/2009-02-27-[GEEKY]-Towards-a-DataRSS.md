@@ -3,8 +3,6 @@ title: "[GEEKY] Towards a DataRSS"
 author: Pito Salas
 date: 2009-02-27
 ---
-# [[GEEKY] Towards a DataRSS](None)
-
 
 
 
@@ -13,3 +11,4 @@ the back of my mind for something I think of as [Data Rss. Check it out
 here.](<http://www.blogbridge.com/2009/02/27/data-rss-early-ideas/>)
 
 
+[[GEEKY] Towards a DataRSS](None)

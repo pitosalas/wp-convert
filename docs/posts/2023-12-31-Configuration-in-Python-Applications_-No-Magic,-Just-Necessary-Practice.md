@@ -7,8 +7,6 @@ tags:
     - python-tag
     - tips
 ---
-# [Configuration in Python Applications: No Magic, Just Necessary Practice](None)
-
 
 
 
@@ -22,3 +20,4 @@ database for testing. But what exactly is application configuration, and why
 is it needed? The website a …
 
 
+[Configuration in Python Applications: No Magic, Just Necessary Practice](None)

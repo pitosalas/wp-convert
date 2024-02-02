@@ -7,8 +7,6 @@ tags:
     - jobboards
     - jobs-rails
 ---
-# [Ruby and Rails job boards in Boston](None)
-
 
 
 
@@ -28,3 +26,4 @@ D:](<http://hybernaut.com/>)
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[Ruby and Rails job boards in Boston](None)

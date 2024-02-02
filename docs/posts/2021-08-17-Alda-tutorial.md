@@ -14,10 +14,9 @@ tags:
     - rests
     - instruments
 ---
-# [Alda tutorial](https://alda.io/tutorial/)
-
 <img src=https://alda.io/ width="500">
 
 
 
-(**Web site except:** Alda is a text-based programming language for music composition. It allows you to write and play back music using only a text editor and the command line.) 
+(**Web site excerpt:** Alda is a text-based programming language for music composition. It allows you to write and play back music using only a text editor and the command line.) 
+[Alda tutorial](https://alda.io/tutorial/)

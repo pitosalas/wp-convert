@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - hardware arduino
 ---
-# [The Ninja Platform | Ninja Blocks](http://ninjablocks.com)
-
 <img src=https://rdl.ink/render/http%3A%2F%2Fninjablocks.com width="500">
 
 
 
-(**Web site except:** Home automation and robotics) 
+(**Web site excerpt:** Home automation and robotics) 
+[The Ninja Platform | Ninja Blocks](http://ninjablocks.com)

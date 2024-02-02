@@ -3,8 +3,6 @@ title: "Interesting further commentary on Intuit purchase of Mint"
 author: Pito Salas
 date: 2009-09-18
 ---
-# [Interesting further commentary on Intuit purchase of Mint](None)
-
 
 
 
@@ -36,3 +34,4 @@ points and counter points made, such as:
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[Interesting further commentary on Intuit purchase of Mint](None)

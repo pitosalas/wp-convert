@@ -3,8 +3,6 @@ title: "Chris Herot on RulesBase"
 author: Pito Salas
 date: 2008-02-22
 ---
-# [Chris Herot on RulesBase](None)
-
 
 
 
@@ -50,3 +48,4 @@ Linux).More fun and interesting for me, Quantrix is based on a fairly faithful
 knock-off of Lotus Improv, with improvemetns and additions. **Very cool!**
 
 
+[Chris Herot on RulesBase](None)

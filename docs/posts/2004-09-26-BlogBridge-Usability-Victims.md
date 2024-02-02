@@ -3,8 +3,6 @@ title: "BlogBridge Usability Victims"
 author: Pito Salas
 date: 2004-09-26
 ---
-# [BlogBridge Usability Victims](None)
-
 
 
 >>
@@ -20,3 +18,4 @@ and I will fill you in.
 >> When we have **T-Shirts** , you will get one, **gratis**!
 
 
+[BlogBridge Usability Victims](None)

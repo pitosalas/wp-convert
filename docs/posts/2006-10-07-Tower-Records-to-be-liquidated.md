@@ -3,8 +3,6 @@ title: "Tower Records to be liquidated"
 author: Pito Salas
 date: 2006-10-07
 ---
-# [Tower Records to be liquidated](None)
-
 
 
 >
@@ -14,3 +12,4 @@ date: 2006-10-07
 > "AP Wire | 10/06/2006 | Group plans to liquidate Tower Records")
 
 
+[Tower Records to be liquidated](None)

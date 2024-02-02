@@ -7,8 +7,6 @@ tags:
     - scrum
     - stories
 ---
-# [Pivotal Tracker, watch out for Trajectory](None)
-
 
 
 
@@ -35,3 +33,4 @@ client and developer.
 [But wasn't Basecamp for that? ](<http://basecamphq.com/>)
 
 
+[Pivotal Tracker, watch out for Trajectory](None)

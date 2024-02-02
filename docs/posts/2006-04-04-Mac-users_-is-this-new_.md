@@ -3,8 +3,6 @@ title: "Mac users: is this new?"
 author: Pito Salas
 date: 2006-04-04
 ---
-# [Mac users: is this new?](None)
-
 
 
 >>
@@ -27,3 +25,4 @@ touch or has it **always been there?
 >> Technorati Tags: [osx](<http://www.technorati.com/tag/osx>)
 
 
+[Mac users: is this new?](None)

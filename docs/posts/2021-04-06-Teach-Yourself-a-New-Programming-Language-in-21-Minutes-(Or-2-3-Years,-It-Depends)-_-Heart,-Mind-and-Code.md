@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - programming
 ---
-# [Teach Yourself a New Programming Language in 21 Minutes (Or 2-3 Years, It Depends) | Heart, Mind and Code](http://heartmindcode.com/2013/06/18/teach-yourself-a-new-programming-language-in-21-minutes-or-2-3-years-it-depends)
-
 <img src= width="500">
 
 
+[Teach Yourself a New Programming Language in 21 Minutes (Or 2-3 Years, It Depends) | Heart, Mind and Code](http://heartmindcode.com/2013/06/18/teach-yourself-a-new-programming-language-in-21-minutes-or-2-3-years-it-depends)

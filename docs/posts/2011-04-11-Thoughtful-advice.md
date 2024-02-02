@@ -10,8 +10,6 @@ tags:
     - living
     - steal
 ---
-# [Thoughtful advice](None)
-
 
 
 
@@ -47,3 +45,4 @@ artist-and-relax-nothing-is-original>)
 Wow, from the **bible**. Who knew.
 
 
+[Thoughtful advice](None)

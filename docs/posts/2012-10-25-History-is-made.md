@@ -8,8 +8,6 @@ tags:
     - tablets
     - windows
 ---
-# [History is made](None)
-
 
 
 
@@ -34,3 +32,4 @@ the tablets have a built in 'kick-stand' for standing it upright. Cool again!
 **Well done Microsoft!**
 
 
+[History is made](None)

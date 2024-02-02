@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - reading
 ---
-# [Jaiku | Stay Connected](http://www.jaiku.com)
-
 <img src= width="500">
 
 
 
-(**Web site except:** Interesting - another twitter. Can't believe there are two of these !) 
+(**Web site excerpt:** Interesting - another twitter. Can't believe there are two of these !) 
+[Jaiku | Stay Connected](http://www.jaiku.com)

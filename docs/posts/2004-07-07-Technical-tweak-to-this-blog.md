@@ -3,8 +3,6 @@ title: "Technical tweak to this blog"
 author: Pito Salas
 date: 2004-07-07
 ---
-# [Technical tweak to this blog](None)
-
 
 
 >>
@@ -25,3 +23,4 @@ should have full items.
 >>
 
 
+[Technical tweak to this blog](None)

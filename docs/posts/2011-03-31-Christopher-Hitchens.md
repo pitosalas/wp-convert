@@ -6,8 +6,6 @@ tags:
     - hitch-22
     - hitchens
 ---
-# [Christopher Hitchens](None)
-
 
 
 
@@ -25,3 +23,4 @@ Tumourville-Christopher-Hitchens-interview.html>)
 > Tumourville-Christopher-Hitchens-interview.html>)")
 
 
+[Christopher Hitchens](None)

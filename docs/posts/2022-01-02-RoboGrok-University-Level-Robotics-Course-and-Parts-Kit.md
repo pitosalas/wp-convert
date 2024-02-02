@@ -13,10 +13,9 @@ tags:
     - course
     - theory
 ---
-# [RoboGrok University-Level Robotics Course and Parts Kit](http://www.robogrok.com/)
-
 <img src=http://www.robogrok.com/images/img0166.png width="500">
 
 
 
-(**Web site except:** RoboGrok is a complete hands-on university-level robotics course covering forward and inverse kinematics (Denavit-Hartenberg), sensors, computer vision (machine vision), Artificial Intelligence, and motion control.) 
+(**Web site excerpt:** RoboGrok is a complete hands-on university-level robotics course covering forward and inverse kinematics (Denavit-Hartenberg), sensors, computer vision (machine vision), Artificial Intelligence, and motion control.) 
+[RoboGrok University-Level Robotics Course and Parts Kit](http://www.robogrok.com/)

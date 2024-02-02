@@ -8,8 +8,6 @@ tags:
     - engineering
     - software
 ---
-# [Designed As Designer](None)
-
 
 
 
@@ -29,3 +27,4 @@ computer world. Here's the article: [Designed as
 Designer](<http://dreamsongs.com/Files/DesignedAsDesignerExpanded.pdf>).
 
 
+[Designed As Designer](None)

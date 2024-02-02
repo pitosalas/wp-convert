@@ -12,10 +12,9 @@ tags:
     - large
     - service
 ---
-# [Scientific Poster Printing, Templates, and Tutorials](https://www.makesigns.com/)
-
 <img src=https://cdn.makesigns.com/image/makesigns/home-poster-tubes.png width="500">
 
 
 
-(**Web site except:** Makesigns is a scientific poster printing company with a focus on a simple ordering process and unbeatable customer service. We also offer free templates and tutorials to help you make your research poster.) 
+(**Web site excerpt:** Makesigns is a scientific poster printing company with a focus on a simple ordering process and unbeatable customer service. We also offer free templates and tutorials to help you make your research poster.) 
+[Scientific Poster Printing, Templates, and Tutorials](https://www.makesigns.com/)

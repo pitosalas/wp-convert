@@ -3,8 +3,6 @@ title: "Ambient Awareness: on being ‘digitally’ close"
 author: Pito Salas
 date: 2008-09-08
 ---
-# [Ambient Awareness: on being ‘digitally’ close](None)
-
 
 
 
@@ -27,3 +25,4 @@ also explored in detail. This is a good introductory article on the Twitter
 phenomenon.
 
 
+[Ambient Awareness: on being ‘digitally’ close](None)

@@ -3,8 +3,6 @@ title: "Will Wikis Rule the World?"
 author: Pito Salas
 date: 2004-07-23
 ---
-# [Will Wikis Rule the World?](None)
-
 
 
 >>
@@ -45,3 +43,4 @@ collaboration stuff, and marrying this with the right marketing strategy and
 sales approach.
 
 
+[Will Wikis Rule the World?](None)

@@ -3,8 +3,6 @@ title: "Testing BlogJet"
 author: Pito Salas
 date: 2004-05-01
 ---
-# [Testing BlogJet](None)
-
 
 
 >>
@@ -30,3 +28,4 @@ Very clever. I think I am going to like this utility! (And this last paragraph
 was indeed written by me, myself…)
 
 
+[Testing BlogJet](None)

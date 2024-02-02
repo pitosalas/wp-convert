@@ -11,10 +11,9 @@ tags:
     - information
     - research
 ---
-# [Helium - Where Knowledge Rules](http://www.helium.com)
-
 <img src=https://rdl.ink/render/http%3A%2F%2Fwww.helium.com width="500">
 
 
 
-(**Web site except:** something between wikipedia and what.com) 
+(**Web site excerpt:** something between wikipedia and what.com) 
+[Helium - Where Knowledge Rules](http://www.helium.com)

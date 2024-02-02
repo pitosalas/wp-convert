@@ -3,8 +3,6 @@ title: "Gmail spam filtering degraded?"
 author: Pito Salas
 date: 2005-04-21
 ---
-# [Gmail spam filtering degraded?](None)
-
 
 
 >>
@@ -29,3 +27,4 @@ actually send an email to all of them!
 [security](<http://technorati.com/tag/security>)
 
 
+[Gmail spam filtering degraded?](None)

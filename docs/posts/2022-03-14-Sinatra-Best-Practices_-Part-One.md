@@ -11,10 +11,9 @@ tags:
     - best-practices
     - howto
 ---
-# [Sinatra Best Practices: Part One](https://blog.carbonfive.com/sinatra-best-practices-part-one/)
-
 <img src=https://blog.carbonfive.com/wp-content/uploads/2013/06/23.png width="500">
 
 
 
-(**Web site except:** While Sinatra’s one-file approach may work well for your one-off, smaller application – it can quickly become a mess as you add on multiple routes, route-handlers, helpers, and configuration.…) 
+(**Web site excerpt:** While Sinatra’s one-file approach may work well for your one-off, smaller application – it can quickly become a mess as you add on multiple routes, route-handlers, helpers, and configuration.…) 
+[Sinatra Best Practices: Part One](https://blog.carbonfive.com/sinatra-best-practices-part-one/)

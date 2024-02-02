@@ -3,8 +3,6 @@ title: "[Random Geek Thought] Human DoS"
 author: Pito Salas
 date: 2009-08-11
 ---
-# [[Random Geek Thought] Human DoS](None)
-
 
 
 
@@ -22,3 +20,4 @@ legitimate requests, by noise and intimidation.
 Just a random geek thought…
 
 
+[[Random Geek Thought] Human DoS](None)

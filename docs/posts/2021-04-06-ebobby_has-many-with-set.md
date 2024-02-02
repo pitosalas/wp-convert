@@ -12,10 +12,9 @@ tags:
     - joins
     - ruby
 ---
-# [ebobby/has-many-with-set](https://github.com/ebobby/has-many-with-set)
-
 <img src=https://avatars.githubusercontent.com/u/170356?s=400&v=4 width="500">
 
 
 
-(**Web site except:** An interesting variation on how to represent a many to many relationship in rails.) 
+(**Web site excerpt:** An interesting variation on how to represent a many to many relationship in rails.) 
+[ebobby/has-many-with-set](https://github.com/ebobby/has-many-with-set)

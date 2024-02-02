@@ -3,8 +3,6 @@ title: "[GEEKY] Gshell, the web’s own command line"
 author: Pito Salas
 date: 2007-09-13
 ---
-# [[GEEKY] Gshell, the web’s own command line](None)
-
 
 
 
@@ -35,3 +33,4 @@ It goes on and on.
 Google is the command line shell for the web. [tag]Gshell[/tag].
 
 
+[[GEEKY] Gshell, the web’s own command line](None)

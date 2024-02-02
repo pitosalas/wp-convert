@@ -3,8 +3,6 @@ title: "Great new information about blogging"
 author: Pito Salas
 date: 2007-07-03
 ---
-# [Great new information about blogging](None)
-
 
 
 
@@ -17,3 +15,4 @@ useful, please pass them on to your friends!
   * ["What are the best news blogs"](<http://www.squidoo.com/bestnewsblogs/>) - How do you go about finding the best blogs about current events?
 
 
+[Great new information about blogging](None)

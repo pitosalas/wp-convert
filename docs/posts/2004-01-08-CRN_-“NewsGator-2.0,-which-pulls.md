@@ -3,8 +3,6 @@ title: "CRN: “NewsGator 2.0, which pulls"
 author: Pito Salas
 date: 2004-01-08
 ---
-# [CRN: “NewsGator 2.0, which pulls](None)
-
 
 
 >>
@@ -34,3 +32,4 @@ NewsGator 2.0, which collects news feeds and then displays them within
 Microsoft Outlook 2000 and later, will ship Jan. 19, and cost $29 per user."
 
 
+[CRN: “NewsGator 2.0, which pulls](None)

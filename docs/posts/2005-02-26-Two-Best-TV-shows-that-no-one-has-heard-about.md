@@ -3,8 +3,6 @@ title: "Two Best TV shows that no one has heard about"
 author: Pito Salas
 date: 2005-02-26
 ---
-# [Two Best TV shows that no one has heard about](None)
-
 
 There are two TV shows that it seems no one knows about, and yet, I think, are
 the very best on TV today. Better than West Wing. Better than CSI:xyz. Without
@@ -26,3 +24,4 @@ period over the whole season. Each of 24 episodes covers 1 hour in 1 hour.
 >> 'Nuf said.
 
 
+[Two Best TV shows that no one has heard about](None)

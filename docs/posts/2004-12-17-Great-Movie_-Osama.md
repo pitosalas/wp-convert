@@ -3,8 +3,6 @@ title: "Great Movie: Osama"
 author: Pito Salas
 date: 2004-12-17
 ---
-# [Great Movie: Osama](None)
-
 
 
 >>
@@ -15,3 +13,4 @@ DVD out. **Highly
 recommended.**[Review](<http://www.tiscali.co.uk/entertainment/film/reviews/osama.html>).
 
 
+[Great Movie: Osama](None)

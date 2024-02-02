@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - college music
 ---
-# [Oberlin College | Music in America](http://new.oberlin.edu/office/musicinamerica/index.dot)
-
 <img src=https://www.oberlin.edu/sites/default/files/content/global/og.jpg width="500">
 
 
 
-(**Web site except:** Possible franchising model?) 
+(**Web site excerpt:** Possible franchising model?) 
+[Oberlin College | Music in America](http://new.oberlin.edu/office/musicinamerica/index.dot)

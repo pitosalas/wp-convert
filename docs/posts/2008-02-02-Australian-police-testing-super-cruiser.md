@@ -3,8 +3,6 @@ title: "Australian police testing super cruiser"
 author: Pito Salas
 date: 2008-02-02
 ---
-# [Australian police testing super cruiser](None)
-
 
 
 
@@ -57,3 +55,4 @@ post](<http://feeds.autoblog.com/~r/weblogsinc/autoblog/~3/210114751/>) from
 > cruiser](<http://feeds.autoblog.com/~r/weblogsinc/autoblog/~3/210114751/>))
 
 
+[Australian police testing super cruiser](None)

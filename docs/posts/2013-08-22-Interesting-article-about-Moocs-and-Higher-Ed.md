@@ -6,8 +6,6 @@ tags:
     - higher-education-tag
     - mooc
 ---
-# [Interesting article about Moocs and Higher Ed](None)
-
 
 
 
@@ -24,3 +22,4 @@ new-frontier-of-study-online.html?_r=0>):
 
 
 
+[Interesting article about Moocs and Higher Ed](None)

@@ -3,8 +3,6 @@ title: "Lamps, Lamps, Lamps"
 author: Pito Salas
 date: 2006-01-28
 ---
-# [Lamps, Lamps, Lamps](None)
-
 
 
 >>
@@ -25,3 +23,4 @@ mean, [just lamps](<http://en.wikipedia.org/wiki/Lamp>) 🙂
 >> Technorati Tags: [lamps](<http://www.technorati.com/tag/lamps>)
 
 
+[Lamps, Lamps, Lamps](None)

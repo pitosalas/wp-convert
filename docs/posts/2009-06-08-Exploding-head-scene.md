@@ -3,8 +3,6 @@ title: "Exploding head scene"
 author: Pito Salas
 date: 2009-06-08
 ---
-# [Exploding head scene](None)
-
 
 
 
@@ -44,3 +42,4 @@ article](<http://www.newsweek.com/id/191396/output/print>):
 I don't know… I thought it was an interesting/funny article.
 
 
+[Exploding head scene](None)

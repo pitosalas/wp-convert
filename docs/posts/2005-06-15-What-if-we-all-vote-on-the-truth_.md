@@ -3,8 +3,6 @@ title: "What if we all vote on the truth?"
 author: Pito Salas
 date: 2005-06-15
 ---
-# [What if we all vote on the truth?](None)
-
 
 
 >>
@@ -42,3 +40,4 @@ ednote12jun12,0,3840544.story?coll=la-news-comment-editorials>))
 [truth](<http://technorati.com/tag/truth>)
 
 
+[What if we all vote on the truth?](None)

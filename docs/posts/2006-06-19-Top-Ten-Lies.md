@@ -3,8 +3,6 @@ title: "Top Ten Lies"
 author: Pito Salas
 date: 2006-06-19
 ---
-# [Top Ten Lies](None)
-
 
 
 >>
@@ -69,3 +67,4 @@ thing](<http://blog.guykawasaki.com/2006/05/the_top_ten_lie_1.html>)!
 >> Technorati Tags: [guykawasaki](<http://www.technorati.com/tag/guykawasaki>)
 
 
+[Top Ten Lies](None)

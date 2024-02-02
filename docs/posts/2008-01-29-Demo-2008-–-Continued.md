@@ -3,8 +3,6 @@ title: "Demo 2008 – Continued"
 author: Pito Salas
 date: 2008-01-29
 ---
-# [Demo 2008 – Continued](None)
-
 
 
 
@@ -17,3 +15,4 @@ using [CoverItLive](<http://www.coveritlive>).
 an email to tell me that you found it useful or fun or whatever!
 
 
+[Demo 2008 – Continued](None)

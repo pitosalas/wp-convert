@@ -3,8 +3,6 @@ title: "What would happen if Venezuela invaded Curaçao"
 author: Pito Salas
 date: 2007-02-26
 ---
-# [What would happen if Venezuela invaded Curaçao](None)
-
 
 
 
@@ -33,3 +31,4 @@ Also, from the comments:
 >
 
 
+[What would happen if Venezuela invaded Curaçao](None)

@@ -3,8 +3,6 @@ title: "Does anyone actually think this is for real?"
 author: Pito Salas
 date: 2006-01-03
 ---
-# [Does anyone actually think this is for real?](None)
-
 
 
 >>
@@ -40,3 +38,4 @@ have written about it 🙂
 >> Technorati Tags: [hoax](<http://www.technorati.com/tag/hoax>)
 
 
+[Does anyone actually think this is for real?](None)

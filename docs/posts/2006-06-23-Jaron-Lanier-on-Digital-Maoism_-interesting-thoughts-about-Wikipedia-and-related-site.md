@@ -3,8 +3,6 @@ title: "Jaron Lanier on Digital Maoism: interesting thoughts about Wikipedia and
 author: Pito Salas
 date: 2006-06-23
 ---
-# [Jaron Lanier on Digital Maoism: interesting thoughts about Wikipedia and related site](None)
-
 
 
 >>
@@ -45,3 +43,4 @@ gotten around to reading those yet.
 >> Technorati Tags: [jaronlanier](<http://www.technorati.com/tag/jaronlanier>)
 
 
+[Jaron Lanier on Digital Maoism: interesting thoughts about Wikipedia and related site](None)

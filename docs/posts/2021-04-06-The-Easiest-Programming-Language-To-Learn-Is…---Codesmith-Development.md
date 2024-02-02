@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - review programming ruby language easy
 ---
-# [The Easiest Programming Language To Learn Is… - Codesmith Development](https://codesmithdev.com/the-easiest-programming-language-to-learn-is)
-
 <img src= width="500">
 
 
 
-(**Web site except:** I agree, of course!) 
+(**Web site excerpt:** I agree, of course!) 
+[The Easiest Programming Language To Learn Is… - Codesmith Development](https://codesmithdev.com/the-easiest-programming-language-to-learn-is)

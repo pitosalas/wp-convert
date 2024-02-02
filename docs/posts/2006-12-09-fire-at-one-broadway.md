@@ -3,8 +3,6 @@ title: "fire at one broadway"
 author: Pito Salas
 date: 2006-12-09
 ---
-# [fire at one broadway](None)
-
 
 
 >
@@ -32,3 +30,4 @@ date: 2006-12-09
 >  broadway](<http://hybernaut.com/fire-at-one-broadway>))
 
 
+[fire at one broadway](None)

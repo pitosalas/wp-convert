@@ -3,8 +3,6 @@ title: "[GEEKY] Metaphors Rule! Actually, some thoughts about REST Security"
 author: Pito Salas
 date: 2010-06-24
 ---
-# [[GEEKY] Metaphors Rule! Actually, some thoughts about REST Security](None)
-
 
 
 
@@ -22,3 +20,4 @@ but you have to admit that this metaphor kills:
 Deux](<http://1raindrop.typepad.com/1_raindrop/2006/12/rest_security_o_1.html>)
 
 
+[[GEEKY] Metaphors Rule! Actually, some thoughts about REST Security](None)

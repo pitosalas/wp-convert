@@ -3,8 +3,6 @@ title: "Enterprise 2.0 – What’s in it for you?"
 author: Pito Salas
 date: 2007-09-29
 ---
-# [Enterprise 2.0 – What’s in it for you?](None)
-
 
 
 
@@ -29,3 +27,4 @@ implementation of Enterprise 2.0 projects in diverse organizations.
 if you are interested in [tag]Enterprise 2.0[/tag] these are good reads.
 
 
+[Enterprise 2.0 – What’s in it for you?](None)

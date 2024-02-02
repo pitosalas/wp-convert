@@ -11,10 +11,9 @@ tags:
     - windows
     - tools
 ---
-# [Introduction - Docs - Foxglove Studio](https://foxglove.dev/docs/studio)
-
 <img src=https://foxglove.dev/images/og-image.png width="500">
 
 
 
-(**Web site except:** Looks great, but I have not tried it! Foxglove Studio is a visualization and debugging tool for your robotics data, conveniently packaged as a desktop app.) 
+(**Web site excerpt:** Looks great, but I have not tried it! Foxglove Studio is a visualization and debugging tool for your robotics data, conveniently packaged as a desktop app.) 
+[Introduction - Docs - Foxglove Studio](https://foxglove.dev/docs/studio)

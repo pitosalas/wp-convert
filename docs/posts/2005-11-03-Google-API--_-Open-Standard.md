@@ -3,8 +3,6 @@ title: "Google API -> Open Standard"
 author: Pito Salas
 date: 2005-11-03
 ---
-# [Google API -> Open Standard](None)
-
 
 
 >>
@@ -57,3 +55,4 @@ blog service I use. Powerful. And not coincidentally, also enabled by an API
 [google](<http://www.technorati.com/tag/google>)
 
 
+[Google API -> Open Standard](None)

@@ -3,8 +3,6 @@ title: "[GEEK] Maybe Attention.xml and OPML shouldn’t always travel together"
 author: Pito Salas
 date: 2005-12-05
 ---
-# [[GEEK] Maybe Attention.xml and OPML shouldn’t always travel together](None)
-
 
 
 >>
@@ -52,3 +50,4 @@ aggregators generally aren't parsing nor generating.)
 [XOXO](<http://www.technorati.com/tag/XOXO>)
 
 
+[[GEEK] Maybe Attention.xml and OPML shouldn’t always travel together](None)

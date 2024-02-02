@@ -9,8 +9,6 @@ tags:
     - mathematics
     - photography
 ---
-# [Fibonacci series and Photography](None)
-
 
 
 
@@ -37,3 +35,4 @@ article about that very topic:
 > steroids>))
 
 
+[Fibonacci series and Photography](None)

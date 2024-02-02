@@ -3,8 +3,6 @@ title: "How to be creative"
 author: Pito Salas
 date: 2005-01-01
 ---
-# [How to be creative](None)
-
 
 I just came across [this thoughtprovoking
 ](<http://www.gapingvoid.com/Moveable_Type/archives/000876.html>)bit called
@@ -14,3 +12,4 @@ ideas](<http://www.gapingvoid.com/Moveable_Type/archives/000932.html>), with
 illustrations. **Recommended**.
 
 
+[How to be creative](None)

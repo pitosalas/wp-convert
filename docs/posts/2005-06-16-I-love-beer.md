@@ -3,8 +3,6 @@ title: "I love beer"
 author: Pito Salas
 date: 2005-06-16
 ---
-# [I love beer](None)
-
 
 
 >>
@@ -17,3 +15,4 @@ date: 2005-06-16
 >> Technorati Tags: [funny](<http://technorati.com/tag/funny>)
 
 
+[I love beer](None)

@@ -3,8 +3,6 @@ title: "Election day in Benton, New Hampshire"
 author: Pito Salas
 date: 2009-06-12
 ---
-# [Election day in Benton, New Hampshire](None)
-
 
 
 
@@ -71,3 +69,4 @@ Still though he never asked us to remove the Barack Obapple sign.
 _Originally posted on Nov 08, 2008. Reprinted courtesy of ReRuns plug-in._
 
 
+[Election day in Benton, New Hampshire](None)

@@ -9,8 +9,6 @@ tags:
     - macos
     - menu
 ---
-# [Bartender 4 – Take control of your Menu bar](None)
-
 
 
 
@@ -18,3 +16,4 @@ tags:
 https://www.macbartender.com/>) –
 
 
+[Bartender 4 – Take control of your Menu bar](None)

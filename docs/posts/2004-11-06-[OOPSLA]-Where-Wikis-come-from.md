@@ -3,8 +3,6 @@ title: "[OOPSLA] Where Wikis come from"
 author: Pito Salas
 date: 2004-11-06
 ---
-# [[OOPSLA] Where Wikis come from](None)
-
 
 
 >>
@@ -80,3 +78,4 @@ in the right place.
 to you.
 
 
+[[OOPSLA] Where Wikis come from](None)

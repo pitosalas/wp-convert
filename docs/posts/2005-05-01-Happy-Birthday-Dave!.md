@@ -3,8 +3,6 @@ title: "Happy Birthday Dave!"
 author: Pito Salas
 date: 2005-05-01
 ---
-# [Happy Birthday Dave!](None)
-
 
 
 >>
@@ -48,3 +46,4 @@ coming in about 6 months.
 when we both are **eighty**!
 
 
+[Happy Birthday Dave!](None)

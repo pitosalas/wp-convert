@@ -3,8 +3,6 @@ title: "Forced to use Atom. Well,"
 author: Pito Salas
 date: 2004-02-29
 ---
-# [Forced to use Atom. Well,](None)
-
 
 
 >>
@@ -74,3 +72,4 @@ whole lot of glass is broken along the way. The one thing I know for sure is
 that it's **way too early to stop the evolution right now**.
 
 
+[Forced to use Atom. Well,](None)

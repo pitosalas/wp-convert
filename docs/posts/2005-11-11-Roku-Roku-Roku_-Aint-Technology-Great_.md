@@ -3,8 +3,6 @@ title: "Roku Roku Roku: Aint Technology Great?"
 author: Pito Salas
 date: 2005-11-11
 ---
-# [Roku Roku Roku: Aint Technology Great?](None)
-
 
 
 >>
@@ -35,3 +33,4 @@ big speakers. **Very cool. Very recommended.
 >> Technorati Tags: [music](<http://www.technorati.com/tag/music>)
 
 
+[Roku Roku Roku: Aint Technology Great?](None)

@@ -3,8 +3,6 @@ title: "Guy Kawasaki misses the most important ‘Art of Firing’"
 author: Pito Salas
 date: 2006-07-25
 ---
-# [Guy Kawasaki misses the most important ‘Art of Firing’](None)
-
 
 
 >>
@@ -74,3 +72,4 @@ honestly and you may well figure out a way to improve things.
 [guykawasaki](<http://www.technorati.com/tag/guykawasaki>)
 
 
+[Guy Kawasaki misses the most important ‘Art of Firing’](None)

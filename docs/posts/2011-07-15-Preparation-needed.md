@@ -9,8 +9,6 @@ tags:
     - startups
     - students
 ---
-# [Preparation needed](None)
-
 
 
 
@@ -46,3 +44,4 @@ life's passion is to join or create a startup and have a really big impact on
 the world.
 
 
+[Preparation needed](None)

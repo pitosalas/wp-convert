@@ -5,8 +5,6 @@ date: 2008-04-22
 tags:
     - dilbert-funny-scottadams
 ---
-# [What’s Your Best Dilbert Punch Line?](None)
-
 
 
 
@@ -22,3 +20,4 @@ from [Mashable!](<http://feeds.feedburner.com/mashable>):
 > for the current day’s comic strip." Check it out!
 
 
+[What’s Your Best Dilbert Punch Line?](None)

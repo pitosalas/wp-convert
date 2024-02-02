@@ -8,8 +8,6 @@ tags:
     - scheduling
     - social-media
 ---
-# [Home – Meet Edgar](None)
-
 
 
 
@@ -17,3 +15,4 @@ tags:
 posting tool. Seems popular with the cognizenti
 
 
+[Home – Meet Edgar](None)

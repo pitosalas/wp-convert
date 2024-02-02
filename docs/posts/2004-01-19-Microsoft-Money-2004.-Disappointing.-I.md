@@ -3,8 +3,6 @@ title: "Microsoft Money 2004. Disappointing. I"
 author: Pito Salas
 date: 2004-01-19
 ---
-# [Microsoft Money 2004. Disappointing. I](None)
-
 
 
 >>
@@ -29,3 +27,4 @@ save me time even though I never am aware of it. Still I'd say if you are
 thinking of upgrading to 2004, you can **safely skip it.**
 
 
+[Microsoft Money 2004. Disappointing. I](None)

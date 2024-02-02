@@ -3,8 +3,6 @@ title: "[GEEKY] Funny"
 author: Pito Salas
 date: 2008-07-15
 ---
-# [[GEEKY] Funny](None)
-
 
 
 
@@ -12,3 +10,4 @@ date: 2008-07-15
 minute.](<http://www.osnews.com/story/19266/WTFs_m>)
 
 
+[[GEEKY] Funny](None)

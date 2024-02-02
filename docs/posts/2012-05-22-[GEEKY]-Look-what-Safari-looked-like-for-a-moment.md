@@ -7,8 +7,6 @@ tags:
     - GEEKY
     - safari
 ---
-# [[GEEKY] Look what Safari looked like for a moment](None)
-
 
 
 
@@ -19,3 +17,4 @@ actually turned my world upside down (and inside out!)
 content/uploads/2012/05/e5562-screen20shot202012-05-2220at2010-47-2920am.png?resize=400%2C394&ssl=1)
 
 
+[[GEEKY] Look what Safari looked like for a moment](None)

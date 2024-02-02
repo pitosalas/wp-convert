@@ -3,8 +3,6 @@ title: "BlogBridge open source license"
 author: Pito Salas
 date: 2004-08-05
 ---
-# [BlogBridge open source license](None)
-
 
 
 >>
@@ -75,3 +73,4 @@ This copy forms the basis of the commerical project. It's called " **dual
 licensing "** and it's a well understood and accepted model.
 
 
+[BlogBridge open source license](None)

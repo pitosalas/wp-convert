@@ -3,8 +3,6 @@ title: "Steve Jobs’ Change of Heart: iPhone SDK on its Way!"
 author: Pito Salas
 date: 2007-10-18
 ---
-# [Steve Jobs’ Change of Heart: iPhone SDK on its Way!](None)
-
 
 
 
@@ -21,3 +19,4 @@ sdk/>) from [Mashable!](<http://mashable.com>):
 > Way!](<http://mashable.com/2007/10/17/apple-iphone-itouch-sdk/>))
 
 
+[Steve Jobs’ Change of Heart: iPhone SDK on its Way!](None)

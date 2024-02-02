@@ -3,8 +3,6 @@ title: "What is a discontinuity?"
 author: Pito Salas
 date: 2008-01-22
 ---
-# [What is a discontinuity?](None)
-
 
 
 
@@ -19,3 +17,4 @@ Awe" move, lowering the prime rate by 3/4
 percent.](<http://www.reuters.com/article/marketsNews/idCAN2253277120080122?rpc=44>)
 
 
+[What is a discontinuity?](None)

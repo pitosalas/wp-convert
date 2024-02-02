@@ -3,8 +3,6 @@ title: "Coffee Series part 2: What kind of grind?"
 author: Pito Salas
 date: 2006-04-24
 ---
-# [Coffee Series part 2: What kind of grind?](None)
-
 
 
 >>
@@ -72,3 +70,4 @@ fine, or did I press too hard, or both?
 >> Technorati Tags: [capresso](<http://www.technorati.com/tag/capresso>)
 
 
+[Coffee Series part 2: What kind of grind?](None)

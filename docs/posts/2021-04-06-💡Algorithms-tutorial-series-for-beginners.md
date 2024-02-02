@@ -10,10 +10,9 @@ tags:
     - algorithms
     - datastructures
 ---
-# [💡Algorithms tutorial series for beginners](https://www.reddit.com/r/compsci/comments/9oztot/algorithms_tutorial_series_for_beginners?sh=2d2fba36&st=JNEHXSO7)
-
 <img src=https://b.thumbs.redditmedia.com/AeNQ1lnVNjKjcu7aznXNfGG2nOMLepS4tiVXrVqaREc.jpg width="500">
 
 
 
-(**Web site except:** Posted in r/compsci by u/adriansky • 125 points and 3 comments) 
+(**Web site excerpt:** Posted in r/compsci by u/adriansky • 125 points and 3 comments) 
+[💡Algorithms tutorial series for beginners](https://www.reddit.com/r/compsci/comments/9oztot/algorithms_tutorial_series_for_beginners?sh=2d2fba36&st=JNEHXSO7)

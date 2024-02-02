@@ -5,8 +5,6 @@ date: 2008-07-26
 tags:
     - religion-tag-obama-jerusalem
 ---
-# [Should he have signed the letter?](None)
-
 
 
 
@@ -31,3 +29,4 @@ I mean I guess the intended recipient of the letter would know who wrote it. I
 guess that's the difference between a letter and a prayer.
 
 
+[Should he have signed the letter?](None)

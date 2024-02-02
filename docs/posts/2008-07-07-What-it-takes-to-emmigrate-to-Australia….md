@@ -3,8 +3,6 @@ title: "What it takes to emmigrate to Australia…"
 author: Pito Salas
 date: 2008-07-07
 ---
-# [What it takes to emmigrate to Australia…](None)
-
 
 
 
@@ -28,3 +26,4 @@ adventure:
 > Test](<http://feeds.feedburner.com/~r/noizZze/~3/122697961/>))
 
 
+[What it takes to emmigrate to Australia…](None)

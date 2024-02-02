@@ -7,8 +7,6 @@ tags:
     - nasa
     - space-shuttle
 ---
-# [Space Geeks: Fantastic slow motion video of Shuttle Launch](None)
-
 
 
 
@@ -21,3 +19,4 @@ jobs. They can't get enough of it, even after having seen this stuff a million
 times over.
 
 
+[Space Geeks: Fantastic slow motion video of Shuttle Launch](None)

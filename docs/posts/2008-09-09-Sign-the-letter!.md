@@ -3,8 +3,6 @@ title: "Sign the letter!"
 author: Pito Salas
 date: 2008-09-09
 ---
-# [Sign the letter!](None)
-
 
 
 
@@ -23,3 +21,4 @@ candidates/>), and if you like, [sign
 it!](<http://www.pgpf.org/getinvolved/letter-to-candidates/#sign>)
 
 
+[Sign the letter!](None)

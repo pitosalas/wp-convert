@@ -6,8 +6,6 @@ tags:
     - git
     - github
 ---
-# [Git Good – The magic of keeping a clean Git history | Blog | simplabs](None)
-
 
 
 
@@ -21,3 +19,4 @@ are following best practices to make the process easier for everyone.
 March 17, 2022 at 08:09PM
 
 
+[Git Good – The magic of keeping a clean Git history | Blog | simplabs](None)

@@ -3,8 +3,6 @@ title: "What I am reading this morning"
 author: Pito Salas
 date: 2008-11-29
 ---
-# [What I am reading this morning](None)
-
 
 
 
@@ -20,3 +18,4 @@ I said 'really quick links'. Elapsed time, 3 minutes. There you have it.
 Enjoy.
 
 
+[What I am reading this morning](None)

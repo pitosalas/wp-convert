@@ -3,8 +3,6 @@ title: "[Geek] Good Java Mailing List"
 author: Pito Salas
 date: 2005-08-23
 ---
-# [[Geek] Good Java Mailing List](None)
-
 
 
 >>
@@ -23,3 +21,4 @@ to Java.
 >> Technorati Tags: [java](<http://technorati.com/tag/java>)
 
 
+[[Geek] Good Java Mailing List](None)

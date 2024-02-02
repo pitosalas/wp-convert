@@ -10,8 +10,6 @@ tags:
     - sunlightfoundation-tag
     - webservices
 ---
-# [[GEEKY] How DataRSS might work](None)
-
 
 
 
@@ -60,3 +58,4 @@ API](<http://www.sunlightfoundation.com/>) and with the [Follow The Money API.
 ](<http://www.followthemoney.org/>)
 
 
+[[GEEKY] How DataRSS might work](None)

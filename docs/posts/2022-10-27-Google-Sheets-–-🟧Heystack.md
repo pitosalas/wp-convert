@@ -8,8 +8,6 @@ tags:
     - research
     - sheets
 ---
-# [Google Sheets – 🟧Heystack](None)
-
 
 
 
@@ -17,3 +15,4 @@ tags:
 the best public Google docs
 
 
+[Google Sheets – 🟧Heystack](None)

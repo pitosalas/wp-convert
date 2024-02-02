@@ -6,8 +6,6 @@ tags:
     - crash
     - performance
 ---
-# [Using ROS on Raspberry Pi: Best Practices – The Robotics Back-End](None)
-
 
 
 
@@ -20,3 +18,4 @@ making more robust, high-performance, and scalable robotics projects!
 March 26, 2022 at 04:13PM
 
 
+[Using ROS on Raspberry Pi: Best Practices – The Robotics Back-End](None)

@@ -3,8 +3,6 @@ title: "Check out Reading List FAQ in BlogBridge site"
 author: Pito Salas
 date: 2006-02-04
 ---
-# [Check out Reading List FAQ in BlogBridge site](None)
-
 
 
 >>
@@ -26,3 +24,4 @@ can actually see and hear how it all works!
 [readinglists](<http://www.technorati.com/tag/readinglists>)
 
 
+[Check out Reading List FAQ in BlogBridge site](None)

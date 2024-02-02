@@ -3,8 +3,6 @@ title: "Elephants are cool!"
 author: Pito Salas
 date: 2005-01-03
 ---
-# [Elephants are cool!](None)
-
 
 I just finished watching "Lord of the Rings: The Return of the King" which had
 some really cool scenes with these warrior elephants. So here is a case of
@@ -24,3 +22,4 @@ multinational aid operation tries to reach remote towns ravaged by the waves.
 > waves. (Beawiharta/Reuters)_
 
 
+[Elephants are cool!](None)

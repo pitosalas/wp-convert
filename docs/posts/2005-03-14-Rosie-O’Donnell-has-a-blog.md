@@ -3,8 +3,6 @@ title: "Rosie O’Donnell has a blog"
 author: Pito Salas
 date: 2005-03-14
 ---
-# [Rosie O’Donnell has a blog](None)
-
 
 Another sign that "something big" is going on here. It seems like not a day
 passes but that there's another article in either the Boston Globe or the New
@@ -28,3 +26,4 @@ four."
 >> Not that I am a fan one way or another, but, who would have thunk!
 
 
+[Rosie O’Donnell has a blog](None)

@@ -3,8 +3,6 @@ title: "[GEEKY] Some good Rails resources"
 author: Pito Salas
 date: 2008-05-10
 ---
-# [[GEEKY] Some good Rails resources](None)
-
 
 
 
@@ -19,3 +17,4 @@ interested in:
 I have found each of these a great resource, and I recommend them to you!
 
 
+[[GEEKY] Some good Rails resources](None)

@@ -3,8 +3,6 @@ title: "This never happened: Russian Spy"
 author: Pito Salas
 date: 2010-09-23
 ---
-# [This never happened: Russian Spy](None)
-
 
 
 
@@ -49,3 +47,4 @@ But another guy thiought she was getting up there to sing happy birdthday or
 to congratulate him on his birthday. He was old.
 
 
+[This never happened: Russian Spy](None)

@@ -7,8 +7,6 @@ tags:
     - mastodon-tag
     - people
 ---
-# [The Walt List.xlsx – Google Sheets](None)
-
 
 
 
@@ -17,3 +15,4 @@ https://docs.google.com/spreadsheets/d/1rNfUosPSiMwRbUAbnI3h-7D9grP6ULgS/edit#gi
 –Excellent list of all sorts of people and their Mastodon link
 
 
+[The Walt List.xlsx – Google Sheets](None)

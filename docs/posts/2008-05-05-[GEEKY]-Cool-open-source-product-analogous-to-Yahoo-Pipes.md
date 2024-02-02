@@ -5,8 +5,6 @@ date: 2008-05-05
 tags:
     - Snaplogic-opensource-rest
 ---
-# [[GEEKY] Cool open source product analogous to Yahoo Pipes](None)
-
 
 
 
@@ -21,3 +19,4 @@ this kind of need, [SnapLogic](<http://www.snaplogic.com>) looks like it's
 worth a peek.
 
 
+[[GEEKY] Cool open source product analogous to Yahoo Pipes](None)

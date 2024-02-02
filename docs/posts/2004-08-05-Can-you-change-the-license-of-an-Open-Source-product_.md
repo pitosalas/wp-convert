@@ -3,8 +3,6 @@ title: "Can you change the license of an Open Source product?"
 author: Pito Salas
 date: 2004-08-05
 ---
-# [Can you change the license of an Open Source product?](None)
-
 
 
 >>
@@ -36,3 +34,4 @@ do you have clear ownership and if you do, **you can re-release it under a
 different license.** Makes perfect sense once you hear it.
 
 
+[Can you change the license of an Open Source product?](None)

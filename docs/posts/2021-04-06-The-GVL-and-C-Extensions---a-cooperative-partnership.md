@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - ruby clang inline
 ---
-# [The GVL and C Extensions - a cooperative partnership](https://mailchi.mp/railsspeed/the-gvl-and-c-extensions-a-cooperative-partnership?e=5a26f26f7d)
-
 <img src=https://rdl.ink/render/https%3A%2F%2Fmailchi.mp%2Frailsspeed%2Fthe-gvl-and-c-extensions-a-cooperative-partnership%3Fe%3D5a26f26f7d width="500">
 
 
 
-(**Web site except:** very interesting way to embed C in ruby, if you’re into that kind of thing!) 
+(**Web site excerpt:** very interesting way to embed C in ruby, if you’re into that kind of thing!) 
+[The GVL and C Extensions - a cooperative partnership](https://mailchi.mp/railsspeed/the-gvl-and-c-extensions-a-cooperative-partnership?e=5a26f26f7d)

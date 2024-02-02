@@ -3,8 +3,6 @@ title: "Very cool illusion"
 author: Pito Salas
 date: 2005-11-28
 ---
-# [Very cool illusion](None)
-
 
 
 >>
@@ -25,3 +23,4 @@ del.icio.us)
 >> Technorati Tags: [cool](<http://www.technorati.com/tag/cool>)
 
 
+[Very cool illusion](None)

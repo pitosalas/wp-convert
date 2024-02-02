@@ -3,8 +3,6 @@ title: "Worth reading: At Burning Man, the Tech Elite One-Up One Another"
 author: Pito Salas
 date: 2014-08-22
 ---
-# [Worth reading: At Burning Man, the Tech Elite One-Up One Another](None)
-
 
 
 
@@ -17,3 +15,4 @@ amounts of money. The second is pretending they don’t care about that money.
 Link: Link to original
 
 
+[Worth reading: At Burning Man, the Tech Elite One-Up One Another](None)

@@ -6,8 +6,6 @@ tags:
     - bad-practices
     - con-tagsumer-reports
 ---
-# [Dear Consumer Reports #consumerreports](None)
-
 
 
 
@@ -30,3 +28,4 @@ You are setting a horrible example.
 
 
 
+[Dear Consumer Reports #consumerreports](None)

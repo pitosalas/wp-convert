@@ -10,8 +10,6 @@ tags:
     - ip
     - music
 ---
-# [About intellectual property and other things](None)
-
 
 
 
@@ -60,3 +58,4 @@ basis in fairness that I get some of the benefit of it. Schizophrenic, I know,
 but it captures it nicely.
 
 
+[About intellectual property and other things](None)

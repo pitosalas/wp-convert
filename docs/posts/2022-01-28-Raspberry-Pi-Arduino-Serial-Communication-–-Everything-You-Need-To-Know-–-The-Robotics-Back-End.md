@@ -3,8 +3,6 @@ title: "Raspberry Pi Arduino Serial Communication – Everything You Need To Kno
 author: Pito Salas
 date: 2022-01-28
 ---
-# [Raspberry Pi Arduino Serial Communication – Everything You Need To Know – The Robotics Back-End](None)
-
 
 
 
@@ -18,3 +16,4 @@ Learn how to connect your boards together, setup software, and write code.
 January 28, 2022 at 02:27PM
 
 
+[Raspberry Pi Arduino Serial Communication – Everything You Need To Know – The Robotics Back-End](None)

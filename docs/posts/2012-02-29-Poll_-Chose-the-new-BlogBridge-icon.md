@@ -7,8 +7,6 @@ tags:
     - icon-tags
     - poll
 ---
-# [Poll: Chose the new BlogBridge icon](None)
-
 
 
 
@@ -16,3 +14,4 @@ tags:
 icons>)
 
 
+[Poll: Chose the new BlogBridge icon](None)

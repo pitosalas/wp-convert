@@ -3,8 +3,6 @@ title: "Windows, Windows, Windows Everywhere"
 author: Pito Salas
 date: 2004-04-29
 ---
-# [Windows, Windows, Windows Everywhere](None)
-
 
 
 >>
@@ -27,3 +25,4 @@ middle of the screen! If you look really closely, you can tell it's in
 Spanish!
 
 
+[Windows, Windows, Windows Everywhere](None)

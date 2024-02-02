@@ -3,8 +3,6 @@ title: "Live weather radar"
 author: Pito Salas
 date: 2010-06-06
 ---
-# [Live weather radar](None)
-
 
 
 
@@ -17,3 +15,4 @@ it's just one of many but I hadn't seen this one before. Enjoy!
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[Live weather radar](None)

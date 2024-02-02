@@ -3,8 +3,6 @@ title: "Virtual Cable takes your GPS and raises you a heads-up display"
 author: Pito Salas
 date: 2008-02-04
 ---
-# [Virtual Cable takes your GPS and raises you a heads-up display](None)
-
 
 
 
@@ -32,3 +30,4 @@ files-patent-for-phantom-car/>). This was from an Engadget article about a
 Microsoft Patent.
 
 
+[Virtual Cable takes your GPS and raises you a heads-up display](None)

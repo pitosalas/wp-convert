@@ -7,8 +7,6 @@ tags:
     - obamacare
     - saas
 ---
-# [Affordable Care Act Software Fiasco: A Special Report](None)
-
 
 
 
@@ -21,3 +19,4 @@ It's very very good!
 [youtube http://www.youtube.com/watch?v=Rl5WFz6Gi28&w=420&h=315]
 
 
+[Affordable Care Act Software Fiasco: A Special Report](None)

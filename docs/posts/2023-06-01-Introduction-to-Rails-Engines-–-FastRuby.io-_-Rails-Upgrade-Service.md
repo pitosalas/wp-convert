@@ -8,8 +8,6 @@ tags:
     - rails
     - ruby
 ---
-# [Introduction to Rails Engines – FastRuby.io | Rails Upgrade Service](None)
-
 
 
 
@@ -20,3 +18,4 @@ engines.html?utm_source=reddit&utm_campaign=rails-engines&utm_medium=link>)
 modularize or pack a Rails application. An article about this powerful f…
 
 
+[Introduction to Rails Engines – FastRuby.io | Rails Upgrade Service](None)

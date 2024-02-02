@@ -7,8 +7,6 @@ tags:
     - modesty
     - philosophy
 ---
-# [Epistemological Modesty… What?](None)
-
 
 
 
@@ -62,3 +60,4 @@ got to go to look of the definition of
 [epistemological](<http://en.wikipedia.org/wiki/Epistemology>). See u!)
 
 
+[Epistemological Modesty… What?](None)

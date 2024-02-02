@@ -9,8 +9,6 @@ tags:
     - tdd
     - testing
 ---
-# [[GEEKY] Great classic article about Mocks and Subs (non-geeks: don’t ask!)](None)
-
 
 
 
@@ -28,3 +26,4 @@ Subs](<http://martinfowler.com/articles/mocksArentStubs.html>)
 > Martin Fowler](<http://martinfowler.com/articles/mocksArentStubs.html>))
 
 
+[[GEEKY] Great classic article about Mocks and Subs (non-geeks: don’t ask!)](None)

@@ -3,8 +3,6 @@ title: "Ever heard of the Johari Window?"
 author: Pito Salas
 date: 2010-09-17
 ---
-# [Ever heard of the Johari Window?](None)
-
 
 
 
@@ -28,3 +26,4 @@ known, respected or in total disrepute. It spoke to me, so I thought I would
 share it.
 
 
+[Ever heard of the Johari Window?](None)

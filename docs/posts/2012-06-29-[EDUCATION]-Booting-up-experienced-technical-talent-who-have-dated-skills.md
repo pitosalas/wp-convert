@@ -8,8 +8,6 @@ tags:
     - higher-education-tag
     - nyt
 ---
-# [[EDUCATION] Booting up experienced technical talent who have dated skills](None)
-
 
 
 
@@ -47,3 +45,4 @@ positions.html?src=me&ref=business>):
 > positions.html?src=me&ref=business>)
 
 
+[[EDUCATION] Booting up experienced technical talent who have dated skills](None)

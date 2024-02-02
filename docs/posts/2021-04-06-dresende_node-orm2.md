@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - orm nodejs sql
 ---
-# [dresende/node-orm2](https://github.com/dresende/node-orm2)
-
 <img src=https://avatars.githubusercontent.com/u/157494?s=400&v=4 width="500">
 
 
 
-(**Web site except:** Object Relational Mapping. Contribute to dresende/node-orm2 development by creating an account on GitHub.) 
+(**Web site excerpt:** Object Relational Mapping. Contribute to dresende/node-orm2 development by creating an account on GitHub.) 
+[dresende/node-orm2](https://github.com/dresende/node-orm2)

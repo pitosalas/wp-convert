@@ -3,8 +3,6 @@ title: "Flipstart from Vulcan (Demo 2004"
 author: Pito Salas
 date: 2004-03-08
 ---
-# [Flipstart from Vulcan (Demo 2004](None)
-
 
 
 >>
@@ -69,3 +67,4 @@ founder, with Bill Gates, of Microsoft. At least that's how I read the
 geneology.
 
 
+[Flipstart from Vulcan (Demo 2004](None)

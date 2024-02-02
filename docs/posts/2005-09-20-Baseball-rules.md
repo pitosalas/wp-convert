@@ -3,8 +3,6 @@ title: "Baseball rules"
 author: Pito Salas
 date: 2005-09-20
 ---
-# [Baseball rules](None)
-
 
 
 >>
@@ -25,3 +23,4 @@ Wikipedia is a good resource. For example, do you think you know what a
 >> Technorati Tags: [baseball](<http://www.technorati.com/tag/baseball>)
 
 
+[Baseball rules](None)

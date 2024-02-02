@@ -3,8 +3,6 @@ title: "Back from Barcamp Boston"
 author: Pito Salas
 date: 2009-04-27
 ---
-# [Back from Barcamp Boston](None)
-
 
 
 
@@ -35,3 +33,4 @@ is how it ends up on the board. I think I had about 10-15 people participate.
 It was cool.
 
 
+[Back from Barcamp Boston](None)

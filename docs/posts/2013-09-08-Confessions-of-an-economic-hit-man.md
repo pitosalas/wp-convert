@@ -9,8 +9,6 @@ tags:
     - syria
     - war
 ---
-# [Confessions of an economic hit man](None)
-
 
 
 
@@ -43,3 +41,4 @@ flush-with-defense-industry-cash/>):
 
 
 
+[Confessions of an economic hit man](None)

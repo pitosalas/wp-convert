@@ -3,8 +3,6 @@ title: "What’s up with AllofMP3.com?"
 author: Pito Salas
 date: 2006-07-06
 ---
-# [What’s up with AllofMP3.com?](None)
-
 
 
 >>
@@ -63,3 +61,4 @@ of music you already have bought and paid for?
 [mp3](<http://www.technorati.com/tag/mp3>)
 
 
+[What’s up with AllofMP3.com?](None)

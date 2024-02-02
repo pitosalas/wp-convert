@@ -3,8 +3,6 @@ title: "Office Live: Why am I not surprised?"
 author: Pito Salas
 date: 2006-03-23
 ---
-# [Office Live: Why am I not surprised?](None)
-
 
 
 >>
@@ -42,3 +40,4 @@ Office](<http://www.activewin.com/awin/comments.asp?HeadlineIndex=33627>)")
 [fud](<http://www.technorati.com/tag/fud>)
 
 
+[Office Live: Why am I not surprised?](None)

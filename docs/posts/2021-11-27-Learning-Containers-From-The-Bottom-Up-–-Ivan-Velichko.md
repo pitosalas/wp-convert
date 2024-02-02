@@ -5,8 +5,6 @@ date: 2021-11-27
 tags:
     - linux
 ---
-# [Learning Containers From The Bottom Up – Ivan Velichko](None)
-
 
 
 
@@ -19,3 +17,4 @@ the learning efficiently?
 November 27, 2021 at 07:27PM
 
 
+[Learning Containers From The Bottom Up – Ivan Velichko](None)

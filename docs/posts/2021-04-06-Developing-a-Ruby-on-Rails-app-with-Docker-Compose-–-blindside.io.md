@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - Ruby rails docker
 ---
-# [Developing a Ruby on Rails app with Docker Compose – blindside.io](https://blog.blindside.io/developing-a-ruby-on-rails-app-with-docker-compose-d75b20334634?source=userActivityShare-d383785221d0-1523363260)
-
 <img src= width="500">
 
 
+[Developing a Ruby on Rails app with Docker Compose – blindside.io](https://blog.blindside.io/developing-a-ruby-on-rails-app-with-docker-compose-d75b20334634?source=userActivityShare-d383785221d0-1523363260)

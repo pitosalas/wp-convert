@@ -3,8 +3,6 @@ title: "A great look back at Napster’s history"
 author: Pito Salas
 date: 2007-04-02
 ---
-# [A great look back at Napster’s history](None)
-
 
 
 
@@ -27,3 +25,4 @@ Thing](<http://dondodge.typepad.com/the_next_big_thing/>):
 > later](<http://feeds.feedburner.com/~r/TheNextBigThing/~3/105439000/how_napster_cha.html>))
 
 
+[A great look back at Napster’s history](None)

@@ -3,8 +3,6 @@ title: "Some amazing (Mars) panoramas. This"
 author: Pito Salas
 date: 2004-01-13
 ---
-# [Some amazing (Mars) panoramas. This](None)
-
 
 
 >>
@@ -18,3 +16,4 @@ site](<http://www.panoramas.dk/>) actually is an archive of all kinds of cool
 360 degree panoramas!
 
 
+[Some amazing (Mars) panoramas. This](None)

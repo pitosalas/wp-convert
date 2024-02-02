@@ -5,8 +5,6 @@ date: 2023-08-22
 tags:
     - swallow-boathouse
 ---
-# [Swallow Boathouse – Wikipedia](None)
-
 
 
 
@@ -14,3 +12,4 @@ tags:
 https://en.wikipedia.org/wiki/Swallow_Boathouse>) –
 
 
+[Swallow Boathouse – Wikipedia](None)

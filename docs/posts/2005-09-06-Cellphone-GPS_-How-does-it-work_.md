@@ -3,8 +3,6 @@ title: "Cellphone GPS: How does it work?"
 author: Pito Salas
 date: 2005-09-06
 ---
-# [Cellphone GPS: How does it work?](None)
-
 
 
 >>
@@ -50,3 +48,4 @@ cool!](<https://mobile.garmin.com/obn/demo.jsp>)
 [gps](<http://www.technorati.com/tag/gps>)
 
 
+[Cellphone GPS: How does it work?](None)

@@ -3,8 +3,6 @@ title: "Very unscientific survey of online survey tools"
 author: Pito Salas
 date: 2008-11-25
 ---
-# [Very unscientific survey of online survey tools](None)
-
 
 
 
@@ -31,3 +29,4 @@ For me, [SurveyMonkey](<http://www.surveymonkey.com>) is the right choice.
 surveymonkey](<http://technorati.com/tag/form%20wufoo%20zoomerang%20surveymonkey>)
 
 
+[Very unscientific survey of online survey tools](None)

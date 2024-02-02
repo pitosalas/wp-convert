@@ -12,10 +12,9 @@ tags:
     - gems
     - ruby
 ---
-# [OpenSourceRails.org](https://opensourcerails.org/)
-
 <img src=https://opensourcerails.org/android-chrome-512x512.png width="500">
 
 
 
-(**Web site except:** A comprehensive, curated list of open-source Ruby on Rails applications.) 
+(**Web site excerpt:** A comprehensive, curated list of open-source Ruby on Rails applications.) 
+[OpenSourceRails.org](https://opensourcerails.org/)

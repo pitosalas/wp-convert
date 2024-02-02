@@ -3,8 +3,6 @@ title: "Ultimate virtual classroom"
 author: Pito Salas
 date: 2006-09-08
 ---
-# [Ultimate virtual classroom](None)
-
 
 
 >
@@ -18,3 +16,4 @@ date: 2006-09-08
 > interested :)"
 
 
+[Ultimate virtual classroom](None)

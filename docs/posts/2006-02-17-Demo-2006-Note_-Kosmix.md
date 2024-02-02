@@ -3,8 +3,6 @@ title: "Demo 2006 Note: Kosmix"
 author: Pito Salas
 date: 2006-02-17
 ---
-# [Demo 2006 Note: Kosmix](None)
-
 
 
 >>
@@ -19,3 +17,4 @@ Travel. Looks **nicely done**. [Kosmix](<http://www.kosmix.com/>).
 [cooltool](<http://www.technorati.com/tag/cooltool>)
 
 
+[Demo 2006 Note: Kosmix](None)

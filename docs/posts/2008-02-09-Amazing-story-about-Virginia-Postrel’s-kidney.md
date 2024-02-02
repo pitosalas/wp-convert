@@ -3,8 +3,6 @@ title: "Amazing story about Virginia Postrel’s kidney"
 author: Pito Salas
 date: 2008-02-09
 ---
-# [Amazing story about Virginia Postrel’s kidney](None)
-
 
 
 
@@ -18,3 +16,4 @@ she, as far as I can tell, has not really talked about this touching and
 generous act herself.
 
 
+[Amazing story about Virginia Postrel’s kidney](None)

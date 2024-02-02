@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - utilities search tips cli file
 ---
-# [jhspetersson/fselect](https://github.com/jhspetersson/fselect)
-
 <img src=https://avatars.githubusercontent.com/u/6029628?s=400&v=4 width="500">
 
 
 
-(**Web site except:** Another crazy useful tool for programmers.) 
+(**Web site excerpt:** Another crazy useful tool for programmers.) 
+[jhspetersson/fselect](https://github.com/jhspetersson/fselect)

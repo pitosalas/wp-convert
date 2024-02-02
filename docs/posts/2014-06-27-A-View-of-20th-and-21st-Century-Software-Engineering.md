@@ -3,8 +3,6 @@ title: "A View of 20th and 21st Century Software Engineering"
 author: Pito Salas
 date: 2014-06-27
 ---
-# [A View of 20th and 21st Century Software Engineering](None)
-
 
 
 
@@ -75,3 +73,4 @@ For the 2010’s
   * − Don’t believe everything you read. Take a look at the downslope of the Gartner rollercoaster in Figure 10. 
 
 
+[A View of 20th and 21st Century Software Engineering](None)

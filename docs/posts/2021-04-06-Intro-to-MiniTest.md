@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - Software Engineering
 ---
-# [Intro to MiniTest](http://blog.teamtreehouse.com/short-introduction-minitest)
-
 <img src=https://blog.teamtreehouse.com/wp-content/uploads/2014/08/clipboard.jpg width="500">
 
 
 
-(**Web site except:** There are some compelling features of MiniTest that make it a viable option as a testing library.) 
+(**Web site excerpt:** There are some compelling features of MiniTest that make it a viable option as a testing library.) 
+[Intro to MiniTest](http://blog.teamtreehouse.com/short-introduction-minitest)

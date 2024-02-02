@@ -3,8 +3,6 @@ title: "About Yahoo / Microsoft and an easier way to get $2B in revenue annually
 author: Pito Salas
 date: 2008-02-09
 ---
-# [About Yahoo / Microsoft and an easier way to get $2B in revenue annually](None)
-
 
 
 
@@ -43,3 +41,4 @@ I think **Microsoft would do better** putting those $40+ Billion in the bank
 and get a nice $2,000 million revenue stream annually, forever.
 
 
+[About Yahoo / Microsoft and an easier way to get $2B in revenue annually](None)

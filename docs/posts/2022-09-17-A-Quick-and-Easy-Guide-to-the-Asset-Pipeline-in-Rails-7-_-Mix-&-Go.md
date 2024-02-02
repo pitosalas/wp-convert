@@ -8,8 +8,6 @@ tags:
     - rails
     - rails7
 ---
-# [A Quick and Easy Guide to the Asset Pipeline in Rails 7 | Mix & Go](None)
-
 
 
 
@@ -19,3 +17,4 @@ guide?utm_source=linkedin&utm_medium=organic_social&utm_campaign=asset_pipeline_
 –It never hurts to learn more about the Asset Pipeline in Rails 7, right?
 
 
+[A Quick and Easy Guide to the Asset Pipeline in Rails 7 | Mix & Go](None)

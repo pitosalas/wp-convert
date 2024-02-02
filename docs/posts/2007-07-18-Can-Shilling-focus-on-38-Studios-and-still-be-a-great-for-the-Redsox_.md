@@ -3,8 +3,6 @@ title: "Can Shilling focus on 38 Studios and still be a great for the Redsox?"
 author: Pito Salas
 date: 2007-07-18
 ---
-# [Can Shilling focus on 38 Studios and still be a great for the Redsox?](None)
-
 
 
 
@@ -36,3 +34,4 @@ splash](<http://home.businesswire.com/portal/site/google/index.jsp?ndmViewId=new
 at San Diego Comic-Con 2007. Say what? How about focusing on Baseball, Curt?
 
 
+[Can Shilling focus on 38 Studios and still be a great for the Redsox?](None)

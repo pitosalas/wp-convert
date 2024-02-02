@@ -9,8 +9,6 @@ tags:
     - post
     - put
 ---
-# [[GEEKY] REST and the PATCH verb](None)
-
 
 
 
@@ -36,3 +34,4 @@ like a useful idea
 dusseault-http-patch-11.html#rfc.section.2.1>)
 
 
+[[GEEKY] REST and the PATCH verb](None)

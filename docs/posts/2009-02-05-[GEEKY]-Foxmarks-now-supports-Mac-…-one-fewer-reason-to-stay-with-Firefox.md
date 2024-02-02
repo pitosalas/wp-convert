@@ -3,8 +3,6 @@ title: "[GEEKY] Foxmarks now supports Mac … one fewer reason to stay with Fire
 author: Pito Salas
 date: 2009-02-05
 ---
-# [[GEEKY] Foxmarks now supports Mac … one fewer reason to stay with Firefox](None)
-
 
 
 
@@ -34,3 +32,4 @@ US/firefox/all-beta.html>) There are two areas of discontent:
 [safari](<http://technorati.com/tag/safari>)
 
 
+[[GEEKY] Foxmarks now supports Mac … one fewer reason to stay with Firefox](None)

@@ -3,8 +3,6 @@ title: "Remix Remixed"
 author: Pito Salas
 date: 2005-03-25
 ---
-# [Remix Remixed](None)
-
 
 _[I wrote this in response[to this
 post](<http://www.brianstorms.com/archives/000555.html>), which had generated
@@ -63,3 +61,4 @@ to mention marketing, sales and business strategy.
 doesn't necessarily make it unimportant!
 
 
+[Remix Remixed](None)

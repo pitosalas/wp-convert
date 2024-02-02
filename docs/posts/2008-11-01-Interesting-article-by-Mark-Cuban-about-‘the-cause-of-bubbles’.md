@@ -3,8 +3,6 @@ title: "Interesting article by Mark Cuban about ‘the cause of bubbles’"
 author: Pito Salas
 date: 2008-11-01
 ---
-# [Interesting article by Mark Cuban about ‘the cause of bubbles’](None)
-
 
 
 
@@ -24,3 +22,4 @@ cause-of-bubbles-investment-vs-financial-engineering/>)  (IMO):
 > investment-vs-financial-engineering/>))
 
 
+[Interesting article by Mark Cuban about ‘the cause of bubbles’](None)

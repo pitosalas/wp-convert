@@ -3,8 +3,6 @@ title: "BlogBridge Beta 2 almost ready"
 author: Pito Salas
 date: 2004-07-10
 ---
-# [BlogBridge Beta 2 almost ready](None)
-
 
 
 >>
@@ -28,3 +26,4 @@ it. [Click here to download and run
 BlogBridge.](<http://www.blogbridge.com/download.htm>)
 
 
+[BlogBridge Beta 2 almost ready](None)

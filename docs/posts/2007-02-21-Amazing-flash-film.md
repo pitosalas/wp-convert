@@ -3,8 +3,6 @@ title: "Amazing flash film"
 author: Pito Salas
 date: 2007-02-21
 ---
-# [Amazing flash film](None)
-
 
 
 
@@ -13,3 +11,4 @@ claiming on a stack of bibles that it was real not faked, but I don't believe
 it for a minute!
 
 
+[Amazing flash film](None)

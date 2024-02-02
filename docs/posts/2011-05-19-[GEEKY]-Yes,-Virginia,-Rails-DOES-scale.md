@@ -7,8 +7,6 @@ tags:
     - rubyon-tagrails
     - scaling
 ---
-# [[GEEKY] Yes, Virginia, Rails DOES scale](None)
-
 
 
 
@@ -42,3 +40,4 @@ Both written totally in Rails.
 # **railsconf** -- What, can't I use hashtags in a blog post?
 
 
+[[GEEKY] Yes, Virginia, Rails DOES scale](None)

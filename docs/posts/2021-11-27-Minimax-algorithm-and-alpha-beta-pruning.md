@@ -11,10 +11,9 @@ tags:
     - explainer
     - python
 ---
-# [Minimax algorithm and alpha-beta pruning](https://mathspp.com/blog/minimax-algorithm-and-alpha-beta-pruning)
-
 <img src=https://mathspp.com/blog/minimax-algorithm-and-alpha-beta-pruning/thumbnail.png width="500">
 
 
 
-(**Web site except:** This article will teach you about the minimax algorithm and alpha-beta pruning, from a beginner's perspective.) 
+(**Web site excerpt:** This article will teach you about the minimax algorithm and alpha-beta pruning, from a beginner's perspective.) 
+[Minimax algorithm and alpha-beta pruning](https://mathspp.com/blog/minimax-algorithm-and-alpha-beta-pruning)

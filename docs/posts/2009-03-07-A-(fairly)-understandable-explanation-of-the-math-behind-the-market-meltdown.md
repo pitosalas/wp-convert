@@ -3,8 +3,6 @@ title: "A (fairly) understandable explanation of the math behind the market melt
 author: Pito Salas
 date: 2009-03-07
 ---
-# [A (fairly) understandable explanation of the math behind the market meltdown](None)
-
 
 
 
@@ -26,3 +24,4 @@ pop-math-head like me you will find it interesting:
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[A (fairly) understandable explanation of the math behind the market meltdown](None)

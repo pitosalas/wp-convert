@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - cli command json processing
 ---
-# [Weekly Command: processing JSON with jq](https://monades.roperzh.com/weekly-command-processing-json-with-jq)
-
 <img src= width="500">
 
 
+[Weekly Command: processing JSON with jq](https://monades.roperzh.com/weekly-command-processing-json-with-jq)

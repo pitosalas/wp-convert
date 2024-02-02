@@ -3,8 +3,6 @@ title: "[GEEK] Site Referral Log Mystery: How does this happen?"
 author: Pito Salas
 date: 2005-07-25
 ---
-# [[GEEK] Site Referral Log Mystery: How does this happen?](None)
-
 
 
 >>
@@ -32,3 +30,4 @@ I would love to understand HOW and WHY they do it.
 [google](<http://technorati.com/tag/google>)
 
 
+[[GEEK] Site Referral Log Mystery: How does this happen?](None)

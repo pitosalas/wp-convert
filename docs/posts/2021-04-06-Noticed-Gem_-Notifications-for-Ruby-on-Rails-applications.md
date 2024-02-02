@@ -11,10 +11,9 @@ tags:
     - gems
     - notification
 ---
-# [Noticed Gem: Notifications for Ruby on Rails applications](https://github.com/excid3/noticed)
-
 <img src=https://repository-images.githubusercontent.com/283022742/323eb100-28f5-11eb-8da5-b23d3388f432 width="500">
 
 
 
-(**Web site except:** very useful gem to send all kinds of notification from Rails. Haven't tested it myself.) 
+(**Web site excerpt:** very useful gem to send all kinds of notification from Rails. Haven't tested it myself.) 
+[Noticed Gem: Notifications for Ruby on Rails applications](https://github.com/excid3/noticed)

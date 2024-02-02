@@ -3,8 +3,6 @@ title: "Why Improv didn’t succeed, Part Deux"
 author: Pito Salas
 date: 2004-12-02
 ---
-# [Why Improv didn’t succeed, Part Deux](None)
-
 
 
 >>
@@ -135,3 +133,4 @@ great new televeision but I don't include a screen, well it's fatally flawed.
 But if I told you the same thing was a radio, well, you see where I am going 🙂
 
 
+[Why Improv didn’t succeed, Part Deux](None)

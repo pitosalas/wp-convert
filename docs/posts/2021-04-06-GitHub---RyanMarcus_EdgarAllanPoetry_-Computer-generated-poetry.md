@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - poetry ml
 ---
-# [GitHub - RyanMarcus/EdgarAllanPoetry: Computer-generated poetry](https://github.com/RyanMarcus/EdgarAllanPoetry)
-
 <img src=https://avatars.githubusercontent.com/u/3465514?s=400&v=4 width="500">
 
 
 
-(**Web site except:** Computer-generated poetry . Contribute to RyanMarcus/EdgarAllanPoetry development by creating an account on GitHub.) 
+(**Web site excerpt:** Computer-generated poetry . Contribute to RyanMarcus/EdgarAllanPoetry development by creating an account on GitHub.) 
+[GitHub - RyanMarcus/EdgarAllanPoetry: Computer-generated poetry](https://github.com/RyanMarcus/EdgarAllanPoetry)

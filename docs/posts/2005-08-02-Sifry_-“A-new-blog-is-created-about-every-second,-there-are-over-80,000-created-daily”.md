@@ -3,8 +3,6 @@ title: "Sifry: “A new blog is created about every second, there are over 80,00
 author: Pito Salas
 date: 2005-08-02
 ---
-# [Sifry: “A new blog is created about every second, there are over 80,000 created daily”](None)
-
 
 
 >>
@@ -51,3 +49,4 @@ for lots of other **interesting tidbits**!
 [technorati](<http://technorati.com/tag/technorati>)
 
 
+[Sifry: “A new blog is created about every second, there are over 80,000 created daily”](None)

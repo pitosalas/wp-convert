@@ -3,8 +3,6 @@ title: "Wow! Google rocks!"
 author: Pito Salas
 date: 2005-04-05
 ---
-# [Wow! Google rocks!](None)
-
 
 
 >>
@@ -18,3 +16,4 @@ it full size! The address, by the way, is of the Harvard University Berkman
 Center.
 
 
+[Wow! Google rocks!](None)

@@ -7,8 +7,6 @@ tags:
     - farms
     - texas
 ---
-# [An Australian farm bigger than Texas. Really?](None)
-
 
 
 
@@ -21,3 +19,4 @@ size was still a little hard to believe. So I am looking for data. Can anyone
 prove or disprove the statement?
 
 
+[An Australian farm bigger than Texas. Really?](None)

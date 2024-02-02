@@ -8,8 +8,6 @@ tags:
     - transom
     - writing
 ---
-# [Jonathan Harris on being stuck](None)
-
 
 
 
@@ -47,3 +45,4 @@ piece even though it still is a little <xxx>.
 
 
 
+[Jonathan Harris on being stuck](None)

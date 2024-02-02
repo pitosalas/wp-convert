@@ -3,8 +3,6 @@ title: "iPhone pricing detail"
 author: Pito Salas
 date: 2007-07-14
 ---
-# [iPhone pricing detail](None)
-
 
 
 
@@ -37,3 +35,4 @@ sharply](<http://news.zdnet.com/2100-9595_22-6151185.html>) sooner rather than
 later.
 
 
+[iPhone pricing detail](None)

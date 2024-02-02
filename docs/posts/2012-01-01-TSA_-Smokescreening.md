@@ -9,8 +9,6 @@ tags:
     - TSA
     - vanityfair
 ---
-# [TSA: Smokescreening](None)
-
 
 
 
@@ -34,3 +32,4 @@ writes about security and computers. I have quoted him many times before on
 this blog.
 
 
+[TSA: Smokescreening](None)

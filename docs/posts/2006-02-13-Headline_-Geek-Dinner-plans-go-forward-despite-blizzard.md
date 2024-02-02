@@ -3,8 +3,6 @@ title: "Headline: Geek Dinner plans go forward despite blizzard"
 author: Pito Salas
 date: 2006-02-13
 ---
-# [Headline: Geek Dinner plans go forward despite blizzard](None)
-
 
 
 >>
@@ -41,3 +39,4 @@ Cambridge. (Near Fire and Ice)
 [geekdinner](<http://www.technorati.com/tag/geekdinner>)
 
 
+[Headline: Geek Dinner plans go forward despite blizzard](None)

@@ -3,8 +3,6 @@ title: "Swallowing an umbrella"
 author: Pito Salas
 date: 2005-11-04
 ---
-# [Swallowing an umbrella](None)
-
 
 
 >>
@@ -25,3 +23,4 @@ online](<http://bmj.bmjjournals.com/cgi/content/full/331/7524/1080?ehom>), via
 >> Technorati Tags: [funny](<http://www.technorati.com/tag/funny>)
 
 
+[Swallowing an umbrella](None)

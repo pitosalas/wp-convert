@@ -3,8 +3,6 @@ title: "High Reactives"
 author: Pito Salas
 date: 2009-10-10
 ---
-# [High Reactives](None)
-
 
 
 
@@ -45,3 +43,4 @@ If this kind of stuff interest you, you might try tackling the whole article ðŸ™
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[High Reactives](None)

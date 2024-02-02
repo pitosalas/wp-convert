@@ -3,8 +3,6 @@ title: "New in the world of"
 author: Pito Salas
 date: 2004-02-27
 ---
-# [New in the world of](None)
-
 
 
 >>
@@ -91,3 +89,4 @@ across](<http://customwire.ap.org/dynamic/stories/D/DIGITAL_PHOTO_SHARING?SITE=O
 that goes into more objective detail.
 
 
+[New in the world of](None)

@@ -3,8 +3,6 @@ title: "[GEEKY] Connecting Web Apps with Web Intents"
 author: Pito Salas
 date: 2011-08-06
 ---
-# [[GEEKY] Connecting Web Apps with Web Intents](None)
-
 
 
 
@@ -27,3 +25,4 @@ make sense to you. Read the article if not. I wonder whether W3C will embrace
 this as a 'good idea'. I think they should!
 
 
+[[GEEKY] Connecting Web Apps with Web Intents](None)

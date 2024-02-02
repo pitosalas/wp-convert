@@ -3,8 +3,6 @@ title: "A good bit by Bruce Schneier about “Real-World Passwords”"
 author: Pito Salas
 date: 2006-12-14
 ---
-# [A good bit by Bruce Schneier about “Real-World Passwords”](None)
-
 
 
 >
@@ -40,3 +38,4 @@ date: 2006-12-14
 > Reading this makes me wonder if I am not taking this far enough…
 
 
+[A good bit by Bruce Schneier about “Real-World Passwords”](None)

@@ -3,8 +3,6 @@ title: "Bugging Instant Messaging"
 author: Pito Salas
 date: 2006-07-02
 ---
-# [Bugging Instant Messaging](None)
-
 
 
 >>
@@ -33,3 +31,4 @@ with laptop computers, all on an unsecure wireless network. Hmm. Interesting
 [subversive](<http://www.technorati.com/tag/subversive>)
 
 
+[Bugging Instant Messaging](None)

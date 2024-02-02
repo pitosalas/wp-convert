@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - students github
 ---
-# [GitHub Developer Pack Offer | Heroku](https://www.heroku.com/github-students)
-
 <img src=https://www.herokucdn.com/images/og.png width="500">
 
 
 
-(**Web site except:** Heroku and Github free offers) 
+(**Web site excerpt:** Heroku and Github free offers) 
+[GitHub Developer Pack Offer | Heroku](https://www.heroku.com/github-students)

@@ -3,8 +3,6 @@ title: "Chess and Violent Meditation"
 author: Pito Salas
 date: 2006-12-13
 ---
-# [Chess and Violent Meditation](None)
-
 
 
 >
@@ -28,3 +26,4 @@ date: 2006-12-13
 >  Meditation](<http://get.wis.dm/danielsalas/?p=50>))
 
 
+[Chess and Violent Meditation](None)

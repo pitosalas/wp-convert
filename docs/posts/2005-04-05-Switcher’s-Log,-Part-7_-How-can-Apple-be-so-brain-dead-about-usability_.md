@@ -3,8 +3,6 @@ title: "Switcher’s Log, Part 7: How can Apple be so brain dead about usability
 author: Pito Salas
 date: 2005-04-05
 ---
-# [Switcher’s Log, Part 7: How can Apple be so brain dead about usability?](None)
-
 
 
 >>
@@ -48,3 +46,4 @@ But there are no keys to go to the start of a line (Control-A) or the end
 (Control-E). And no play, pause, etc. keys. Huh?
 
 
+[Switcher’s Log, Part 7: How can Apple be so brain dead about usability?](None)

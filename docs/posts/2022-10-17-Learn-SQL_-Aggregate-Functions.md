@@ -11,10 +11,9 @@ tags:
     - explainer
     - aggregates
 ---
-# [Learn SQL: Aggregate Functions](https://www.sqlshack.com/learn-sql-aggregate-functions/)
-
 <img src=https://s33046.pcdn.co/wp-content/uploads/2020/01/aggregate-functions-the-data-model-well-use.png width="500">
 
 
 
-(**Web site except:** Aggregate functions are a very powerful tool in databases. They serve the same purpose as their equivalents in MS Excel) 
+(**Web site excerpt:** Aggregate functions are a very powerful tool in databases. They serve the same purpose as their equivalents in MS Excel) 
+[Learn SQL: Aggregate Functions](https://www.sqlshack.com/learn-sql-aggregate-functions/)

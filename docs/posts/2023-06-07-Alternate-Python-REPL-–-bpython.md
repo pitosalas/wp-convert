@@ -7,11 +7,10 @@ tags:
     - python-tag
     - repl
 ---
-# [Alternate Python REPL – bpython](None)
-
 
 
 
 [ Alternate Python REPL - bpython](< https://bpython-interpreter.org/>) –
 
 
+[Alternate Python REPL – bpython](None)

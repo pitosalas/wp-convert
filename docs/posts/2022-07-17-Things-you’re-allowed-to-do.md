@@ -7,8 +7,6 @@ tags:
     - person-tagal
     - productivity
 ---
-# [Things you’re allowed to do](None)
-
 
 
 
@@ -18,3 +16,4 @@ https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/?utm_campaign=Wha
 that you thought you couldn't, or didn't even know you could.”
 
 
+[Things you’re allowed to do](None)

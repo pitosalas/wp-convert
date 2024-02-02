@@ -3,8 +3,6 @@ title: "Open Government: Remixing Government Data"
 author: Pito Salas
 date: 2009-06-08
 ---
-# [Open Government: Remixing Government Data](None)
-
 
 
 
@@ -21,3 +19,4 @@ and "[Government SDK](<http://github.com/pitosalas/govsdk/tree/master>)".
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[Open Government: Remixing Government Data](None)

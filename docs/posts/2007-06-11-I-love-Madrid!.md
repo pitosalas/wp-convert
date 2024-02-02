@@ -3,8 +3,6 @@ title: "I love Madrid!"
 author: Pito Salas
 date: 2007-06-11
 ---
-# [I love Madrid!](None)
-
 
 
 
@@ -22,3 +20,4 @@ photo](<http://news.yahoo.com/photo/070609/481/do80106091417>) to the left)
 that I didn't experience everything that was going on this weekend though 🙂
 
 
+[I love Madrid!](None)

@@ -3,8 +3,6 @@ title: "What is a blog, again?"
 author: Pito Salas
 date: 2004-11-22
 ---
-# [What is a blog, again?](None)
-
 
 
 >>
@@ -42,3 +40,4 @@ saw, what he thought about it at the time and now, and how it has unfolded for
 him.
 
 
+[What is a blog, again?](None)

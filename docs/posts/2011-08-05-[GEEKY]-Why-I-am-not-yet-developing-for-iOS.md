@@ -3,8 +3,6 @@ title: "[GEEKY] Why I am not yet developing for iOS"
 author: Pito Salas
 date: 2011-08-05
 ---
-# [[GEEKY] Why I am not yet developing for iOS](None)
-
 
 
 
@@ -24,3 +22,4 @@ a new programming language (Objective C) and it's tools, traditions, and bugs.
 And no one on the planet other than Apple uses Objective C.
 
 
+[[GEEKY] Why I am not yet developing for iOS](None)

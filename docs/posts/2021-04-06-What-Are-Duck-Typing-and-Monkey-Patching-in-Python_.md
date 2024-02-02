@@ -12,10 +12,9 @@ tags:
     - monkey-patching
     - better-programming
 ---
-# [What Are Duck Typing and Monkey Patching in Python?](https://link.medium.com/QjntJ3XL27)
-
 <img src=https://miro.medium.com/max/1200/0*3BUKv9AC0IKs8le- width="500">
 
 
 
-(**Web site except:** Good for ruby programmers who are learning python) 
+(**Web site excerpt:** Good for ruby programmers who are learning python) 
+[What Are Duck Typing and Monkey Patching in Python?](https://link.medium.com/QjntJ3XL27)

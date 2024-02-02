@@ -6,8 +6,6 @@ tags:
     - Programming
     - ruby
 ---
-# [Ruby Internals](None)
-
 
 
 
@@ -33,3 +31,4 @@ compiled>). Here's a quote to give you a taste:
 > compiled>))
 
 
+[Ruby Internals](None)

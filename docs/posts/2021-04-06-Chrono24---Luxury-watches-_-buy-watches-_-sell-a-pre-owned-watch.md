@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - watch
 ---
-# [Chrono24 - Luxury watches | buy watches | sell a pre-owned watch](http://www.chrono24.com)
-
 <img src=https://static.chrono24.com/images/logo/chrono24_linkrel.gif width="500">
 
 
 
-(**Web site except:** Chrono24 is the place to buy and sell luxury watches online. Market leader since 2003. Over 475,000 active watch listings. Exceptional security and transparency.) 
+(**Web site excerpt:** Chrono24 is the place to buy and sell luxury watches online. Market leader since 2003. Over 475,000 active watch listings. Exceptional security and transparency.) 
+[Chrono24 - Luxury watches | buy watches | sell a pre-owned watch](http://www.chrono24.com)

@@ -12,8 +12,7 @@ tags:
     - classification
     - explanation
 ---
-# [Types of cloud computing](https://aws.amazon.com/types-of-cloud-computing/)
-
 <img src=https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_179x109.png width="500">
 
 
+[Types of cloud computing](https://aws.amazon.com/types-of-cloud-computing/)

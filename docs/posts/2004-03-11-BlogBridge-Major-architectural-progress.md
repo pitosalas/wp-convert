@@ -3,8 +3,6 @@ title: "BlogBridge Major architectural progress"
 author: Pito Salas
 date: 2004-03-11
 ---
-# [BlogBridge Major architectural progress](None)
-
 
 
 >>
@@ -43,3 +41,4 @@ bar and tie all the commands either to the command bar or the right click
 menu.
 
 
+[BlogBridge Major architectural progress](None)

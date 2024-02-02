@@ -3,8 +3,6 @@ title: "LinkedIn has photos, finally"
 author: Pito Salas
 date: 2007-09-28
 ---
-# [LinkedIn has photos, finally](None)
-
 
 
 
@@ -21,3 +19,4 @@ linkedin-adds-profile-photos/>):
 > ‘we can be as friendly-looking as Facebook too guys’."
 
 
+[LinkedIn has photos, finally](None)

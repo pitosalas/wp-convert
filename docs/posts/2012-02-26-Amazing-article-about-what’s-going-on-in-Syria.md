@@ -10,8 +10,6 @@ tags:
     - syria
     - war
 ---
-# [Amazing article about what’s going on in Syria](None)
-
 
 
 
@@ -42,3 +40,4 @@ The sad postscript is that this article was [Marie Colvin's
 herself killed soon after in a bombing.
 
 
+[Amazing article about what’s going on in Syria](None)

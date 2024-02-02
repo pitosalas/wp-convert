@@ -3,8 +3,6 @@ title: "Just when I was thinking about stopping my NetFlix subscription"
 author: Pito Salas
 date: 2009-06-10
 ---
-# [Just when I was thinking about stopping my NetFlix subscription](None)
-
 
 
 
@@ -29,3 +27,4 @@ really???
 _Originally posted on Oct 31, 2008. Reprinted courtesy of ReRuns plug-in._
 
 
+[Just when I was thinking about stopping my NetFlix subscription](None)

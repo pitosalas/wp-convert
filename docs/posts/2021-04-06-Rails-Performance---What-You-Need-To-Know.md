@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - Software Engineering
 ---
-# [Rails Performance - What You Need To Know](https://www.airpair.com/ruby-on-rails/performance)
-
 <img src= width="500">
 
 
+[Rails Performance - What You Need To Know](https://www.airpair.com/ruby-on-rails/performance)

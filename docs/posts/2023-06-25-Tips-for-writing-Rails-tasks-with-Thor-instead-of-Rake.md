@@ -12,10 +12,9 @@ tags:
     - cli
     - howto
 ---
-# [Tips for writing Rails tasks with Thor instead of Rake](https://mattbrictson.com/blog/rails-tasks-with-thor)
-
 <img src= width="500">
 
 They say it’s an alternative to rake. But I see it more as a nice Ruby cli builder.
 
-(**Web site except:** Thor is a great way to write simple CLIs like one-off Rails scripts, but it does have its own gotchas. Here’s how to use Thor in practice.) 
+(**Web site excerpt:** Thor is a great way to write simple CLIs like one-off Rails scripts, but it does have its own gotchas. Here’s how to use Thor in practice.) 
+[Tips for writing Rails tasks with Thor instead of Rake](https://mattbrictson.com/blog/rails-tasks-with-thor)

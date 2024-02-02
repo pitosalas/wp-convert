@@ -3,8 +3,6 @@ title: "Sophsiticated (odd) paywall at the Wall Street Journal"
 author: Pito Salas
 date: 2010-01-29
 ---
-# [Sophsiticated (odd) paywall at the Wall Street Journal](None)
-
 
 
 
@@ -38,3 +36,4 @@ in.
 Pretty fancy. Are they over thinking it?
 
 
+[Sophsiticated (odd) paywall at the Wall Street Journal](None)

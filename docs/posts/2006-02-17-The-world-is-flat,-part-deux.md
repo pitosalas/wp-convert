@@ -3,8 +3,6 @@ title: "The world is flat, part deux"
 author: Pito Salas
 date: 2006-02-17
 ---
-# [The world is flat, part deux](None)
-
 
 
 >>
@@ -26,3 +24,4 @@ english.html>)
 >> Technorati Tags: [funny](<http://www.technorati.com/tag/funny>)
 
 
+[The world is flat, part deux](None)

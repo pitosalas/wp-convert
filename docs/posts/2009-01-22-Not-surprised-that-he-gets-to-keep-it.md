@@ -3,8 +3,6 @@ title: "Not surprised that he gets to keep it"
 author: Pito Salas
 date: 2009-01-22
 ---
-# [Not surprised that he gets to keep it](None)
-
 
 
 
@@ -21,3 +19,4 @@ President (did you hear?) all he has to do is say: 'make it so':
 But, he won't be allowed to use IM 🙂
 
 
+[Not surprised that he gets to keep it](None)

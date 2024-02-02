@@ -3,8 +3,6 @@ title: "[GEEKY] Can your current reader/aggregator do this?"
 author: Pito Salas
 date: 2007-09-25
 ---
-# [[GEEKY] Can your current reader/aggregator do this?](None)
-
 
 
 
@@ -20,3 +18,4 @@ so I can't resist showing it off. [Hope you take a moment to try
 it!](<http://www.blogbridge.com/look>)
 
 
+[[GEEKY] Can your current reader/aggregator do this?](None)

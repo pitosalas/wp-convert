@@ -12,10 +12,9 @@ tags:
     - trump
     - intelligence
 ---
-# [How Russia Findings Divided Trump and Intelligence Agencies - The New York Times](https://www.nytimes.com/2020/08/08/us/politics/trump-russia.html?action=click&module=Top+Stories&pgtype=Homepage)
-
 <img src=https://static01.nyt.com/images/2020/08/07/multimedia/07xp-magazine-takeaways-pix1/07xp-magazine-takeaways-pix1-videoSixteenByNine3000.jpg width="500">
 
 
 
-(**Web site except:** Officials told The New York Times Magazine that the draft of a classified document reporting that Russia favored President Trump in the 2020 election was changed to soften its assessment.) 
+(**Web site excerpt:** Officials told The New York Times Magazine that the draft of a classified document reporting that Russia favored President Trump in the 2020 election was changed to soften its assessment.) 
+[How Russia Findings Divided Trump and Intelligence Agencies - The New York Times](https://www.nytimes.com/2020/08/08/us/politics/trump-russia.html?action=click&module=Top+Stories&pgtype=Homepage)

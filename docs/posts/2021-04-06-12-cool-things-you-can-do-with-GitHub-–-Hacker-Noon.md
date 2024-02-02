@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - github tips
 ---
-# [12 cool things you can do with GitHub – Hacker Noon](https://hackernoon.com/12-cool-things-you-can-do-with-github-f3e0424cf2f0)
-
 <img src=https://miro.medium.com/max/1200/1*CHsofapb4JtEDmveOvTYVQ.png width="500">
 
 
 
-(**Web site except:** Pretty good tips for the github power user) 
+(**Web site excerpt:** Pretty good tips for the github power user) 
+[12 cool things you can do with GitHub – Hacker Noon](https://hackernoon.com/12-cool-things-you-can-do-with-github-f3e0424cf2f0)

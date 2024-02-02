@@ -3,8 +3,6 @@ title: "Demo 2006 Note: Riya – Photo Sharing with Face Recognition"
 author: Pito Salas
 date: 2006-02-17
 ---
-# [Demo 2006 Note: Riya – Photo Sharing with Face Recognition](None)
-
 
 
 >>
@@ -17,3 +15,4 @@ were taken. But the trick is that it uses image recognition to help you locate
 the pictures. Pretty impressive! [Check out Riya](<http://www.riya.com>).
 
 
+[Demo 2006 Note: Riya – Photo Sharing with Face Recognition](None)

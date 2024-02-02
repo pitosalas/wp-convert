@@ -11,8 +11,6 @@ tags:
     - space
     - success
 ---
-# [What is one life worth?](None)
-
 
 
 
@@ -37,3 +35,4 @@ in space exploration by looking at how many lives could have been saved if
 those funds were spent on, for example, healthcare or immunizations.
 
 
+[What is one life worth?](None)

@@ -6,8 +6,6 @@ tags:
     - mac
     - ssd
 ---
-# [Solid State Disk (SSD) links](None)
-
 
 
 
@@ -37,3 +35,4 @@ of doing the same:
 Enjoy.
 
 
+[Solid State Disk (SSD) links](None)

@@ -6,10 +6,9 @@ link: "https://www.geogebra.org/download"
 cover: "https://www.geogebra.org/assets/img/logo_ellipse_og.1cbb7224.png" 
 date: 2021-04-06
 ---
-# [App Downloads – GeoGebra](https://www.geogebra.org/download)
-
 <img src=https://www.geogebra.org/assets/img/logo_ellipse_og.1cbb7224.png width="500">
 
 
 
-(**Web site except:** Free offline GeoGebra apps for iOS, Android, Windows, Mac, Chromebook and Linux) 
+(**Web site excerpt:** Free offline GeoGebra apps for iOS, Android, Windows, Mac, Chromebook and Linux) 
+[App Downloads – GeoGebra](https://www.geogebra.org/download)

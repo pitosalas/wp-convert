@@ -7,8 +7,6 @@ tags:
     - matt-taibbi
     - rollingston-tage
 ---
-# [All about Rolling Stone magazine](None)
-
 
 
 
@@ -40,3 +38,4 @@ native-20130719?utm_source=dailynewsletter&utm_medium=email&utm_campaign=newslet
 
 
 
+[All about Rolling Stone magazine](None)

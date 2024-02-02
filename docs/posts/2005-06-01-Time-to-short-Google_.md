@@ -3,8 +3,6 @@ title: "Time to short Google?"
 author: Pito Salas
 date: 2005-06-01
 ---
-# [Time to short Google?](None)
-
 
 
 >>
@@ -27,3 +25,4 @@ $300](<http://battellemedia.com/archives/001583.php>)
 >> Technorati Tags: [google](<http://technorati.com/tag/google>)
 
 
+[Time to short Google?](None)

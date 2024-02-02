@@ -3,8 +3,6 @@ title: "BlogBridge beta update"
 author: Pito Salas
 date: 2004-06-02
 ---
-# [BlogBridge beta update](None)
-
 
 
 >>
@@ -15,3 +13,4 @@ expand it as we release revisions and updates. If you are interested in
 joining up, send me email at beta@blogbridge.com.
 
 
+[BlogBridge beta update](None)

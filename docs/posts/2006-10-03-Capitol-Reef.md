@@ -3,8 +3,6 @@ title: "Capitol Reef"
 author: Pito Salas
 date: 2006-10-03
 ---
-# [Capitol Reef](None)
-
 
 
 >
@@ -49,3 +47,4 @@ date: 2006-10-03
 >  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 
 
+[Capitol Reef](None)

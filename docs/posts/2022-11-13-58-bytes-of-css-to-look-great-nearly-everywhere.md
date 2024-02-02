@@ -10,10 +10,9 @@ tags:
     - design
     - howto
 ---
-# [58 bytes of css to look great nearly everywhere](https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41)
-
 <img src=https://github.githubassets.com/images/modules/gists/gist-og-image.png width="500">
 
 
 
-(**Web site except:** A little bit of CSS joy for your web site) 
+(**Web site excerpt:** A little bit of CSS joy for your web site) 
+[58 bytes of css to look great nearly everywhere](https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41)

@@ -7,8 +7,6 @@ tags:
     - microsoft
     - outlook
 ---
-# [Beautiful Outlook](None)
-
 
 
 
@@ -36,3 +34,4 @@ addresses might still be available, so get your company@outlook.com **while
 you still can!**
 
 
+[Beautiful Outlook](None)

@@ -5,8 +5,6 @@ date: 2011-03-07
 tags:
     - qwiki
 ---
-# [Interesting search engines](None)
-
 
 
 
@@ -23,3 +21,4 @@ Flickr](<http://www.fotopedia.com/items/flickr-3255348609>). Are they using
 Flickr to prime their pump?
 
 
+[Interesting search engines](None)

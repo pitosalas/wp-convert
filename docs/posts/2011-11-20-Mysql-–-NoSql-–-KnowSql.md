@@ -7,8 +7,6 @@ tags:
     - mysql
     - no-tagsql
 ---
-# [Mysql – NoSql – KnowSql](None)
-
 
 
 
@@ -35,3 +33,4 @@ A few other interesting points and links from the article:
   * An interesting [blog post introducing and further explaining the idea of "New Sql"](<http://blogs.the451group.com/information_management/2011/04/06/what-we-talk-about-when-we-talk-about-newsql/>)
 
 
+[Mysql – NoSql – KnowSql](None)

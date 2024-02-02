@@ -3,8 +3,6 @@ title: "Dapper: A very cool service"
 author: Pito Salas
 date: 2008-01-27
 ---
-# [Dapper: A very cool service](None)
-
 
 
 
@@ -25,3 +23,4 @@ Here's a really [excellent screencast showing how Dapper
 works.](<http://www.readwriteweb.com/images/dapperrww.swf> "dapper cool")
 
 
+[Dapper: A very cool service](None)

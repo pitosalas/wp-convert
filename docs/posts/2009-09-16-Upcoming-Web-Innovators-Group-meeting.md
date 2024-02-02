@@ -8,8 +8,6 @@ tags:
     - geeks
     - webinno-tag
 ---
-# [Upcoming Web Innovators Group meeting](None)
-
 
 
 
@@ -38,3 +36,4 @@ organizer?eid=389656473>)
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[Upcoming Web Innovators Group meeting](None)

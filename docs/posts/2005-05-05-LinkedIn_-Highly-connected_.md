@@ -3,8 +3,6 @@ title: "LinkedIn: Highly connected?"
 author: Pito Salas
 date: 2005-05-05
 ---
-# [LinkedIn: Highly connected?](None)
-
 
 
 >>
@@ -22,3 +20,4 @@ significance of that, but it is a bit surprising.
 [linkedin](<http://technorati.com/tag/linkedin>)
 
 
+[LinkedIn: Highly connected?](None)

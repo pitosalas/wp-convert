@@ -3,8 +3,6 @@ title: "New BlogBridge Web Site and other changes"
 author: Pito Salas
 date: 2004-02-14
 ---
-# [New BlogBridge Web Site and other changes](None)
-
 
 
 >>
@@ -19,3 +17,4 @@ set to unread under certain conditions. Also there will be some changes
 required in the low level persistence handling to track unread.
 
 
+[New BlogBridge Web Site and other changes](None)

@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - travel
 ---
-# [The Man in Seat Sixty-One - the train travel guide...](http://www.seat61.com/index.html)
-
 <img src=https://rdl.ink/render/http%3A%2F%2Fwww.seat61.com%2Findex.html width="500">
 
 
 
-(**Web site except:** How to travel by train or ferry from the UK into Europe & worldwide... Train times, fares, how to buy tickets, advice & information.) 
+(**Web site excerpt:** How to travel by train or ferry from the UK into Europe & worldwide... Train times, fares, how to buy tickets, advice & information.) 
+[The Man in Seat Sixty-One - the train travel guide...](http://www.seat61.com/index.html)

@@ -3,8 +3,6 @@ title: "Use Google to enhance your conference experience"
 author: Pito Salas
 date: 2007-03-28
 ---
-# [Use Google to enhance your conference experience](None)
-
 
 
 
@@ -33,3 +31,4 @@ But anyway, despite some very non-descriptive session titles, thanks to
 google, I now know what which one I want to go to.
 
 
+[Use Google to enhance your conference experience](None)

@@ -3,8 +3,6 @@ title: "A beautiful visualization of news across the world"
 author: Pito Salas
 date: 2006-07-09
 ---
-# [A beautiful visualization of news across the world](None)
-
 
 
 >>
@@ -34,3 +32,4 @@ ways** Flash is **cooler**.
 [flash](<http://www.technorati.com/tag/flash>)
 
 
+[A beautiful visualization of news across the world](None)

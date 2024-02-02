@@ -3,8 +3,6 @@ title: "Cloud Computing case studies"
 author: Pito Salas
 date: 2008-02-20
 ---
-# [Cloud Computing case studies](None)
-
 
 
 
@@ -41,3 +39,4 @@ this wasn't the first time this happened, I guess not surprisingly:
 > the-dark-side-of-mashups/>))
 
 
+[Cloud Computing case studies](None)

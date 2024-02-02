@@ -5,8 +5,6 @@ date: 2013-03-02
 tags:
     - linkedin
 ---
-# [LinkedIn invites are flooding in?!](None)
-
 
 
 
@@ -18,3 +16,4 @@ and even countries. Whatever, first I was feeling important, now I am starting
 to feel a little besieged!
 
 
+[LinkedIn invites are flooding in?!](None)

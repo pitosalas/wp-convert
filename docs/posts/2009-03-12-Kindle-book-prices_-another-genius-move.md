@@ -13,8 +13,6 @@ tags:
     - son-tagy
     - son-tagy-ebook-reader
 ---
-# [Kindle book prices: another genius move](None)
-
 
 
 
@@ -49,3 +47,4 @@ I think this might again turn the publishing world upside down. Questions:
 Genius?!
 
 
+[Kindle book prices: another genius move](None)

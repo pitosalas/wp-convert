@@ -3,8 +3,6 @@ title: "Worth reading: The Trouble With Harvard!"
 author: Pito Salas
 date: 2014-09-09
 ---
-# [Worth reading: The Trouble With Harvard!](None)
-
 
 
 
@@ -28,3 +26,4 @@ here.](<http://www.newrepublic.com/article/119321/harvard-ivy-league-should-
 judge-students-standardized-tests>)
 
 
+[Worth reading: The Trouble With Harvard!](None)

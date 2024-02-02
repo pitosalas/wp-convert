@@ -3,8 +3,6 @@ title: "Scott Kirsner of the Boston"
 author: Pito Salas
 date: 2004-01-12
 ---
-# [Scott Kirsner of the Boston](None)
-
 
 
 >>
@@ -71,3 +69,4 @@ talk or get involved.
 <http://www.blogbridge.com>.
 
 
+[Scott Kirsner of the Boston](None)

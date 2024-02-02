@@ -11,10 +11,9 @@ tags:
     - monoliths
     - design
 ---
-# [Integrated systems for integrated programmers - Signal v. Noise](https://m.signalvnoise.com/integrated-systems-for-integrated-programmers)
-
 <img src=https://i1.wp.com/m.signalvnoise.com/wp-content/uploads/2019/01/cropped-svn-icon.gif?fit=240%2C240&ssl=1 width="500">
 
 
 
-(**Web site except:** Why microservices are so much worse than monoliths. Yes this is a self serving and self promotional article. But I think he is right.) 
+(**Web site excerpt:** Why microservices are so much worse than monoliths. Yes this is a self serving and self promotional article. But I think he is right.) 
+[Integrated systems for integrated programmers - Signal v. Noise](https://m.signalvnoise.com/integrated-systems-for-integrated-programmers)

@@ -11,8 +11,7 @@ tags:
     - api
     - howto
 ---
-# [The Anatomy of a GraphQL Query - Apollo GraphQL Blog](https://www.apollographql.com/blog/graphql/basics/the-anatomy-of-a-graphql-query/)
-
 <img src=https://wp.apollographql.com/wp-content/uploads/2020/03/1_yI_ZuOy0-22q6pdgVlytCA-1024x380.png width="500">
 
 
+[The Anatomy of a GraphQL Query - Apollo GraphQL Blog](https://www.apollographql.com/blog/graphql/basics/the-anatomy-of-a-graphql-query/)

@@ -3,8 +3,6 @@ title: "I love Microsoft too, but I can’t hold my tongue"
 author: Pito Salas
 date: 2005-03-06
 ---
-# [I love Microsoft too, but I can’t hold my tongue](None)
-
 
 [Dave Winer](<http://archive.scripting.com/2005/03/06#When:2:29:16AM>) points
 to [Kevin Shofield's defense
@@ -73,3 +71,4 @@ horrible, data corrupting bugs.
 profitable, percentage wise, product Microsoft has.
 
 
+[I love Microsoft too, but I can’t hold my tongue](None)

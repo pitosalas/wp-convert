@@ -3,8 +3,6 @@ title: "Those are not “your companies” dude"
 author: Pito Salas
 date: 2009-10-24
 ---
-# [Those are not “your companies” dude](None)
-
 
 
 
@@ -27,3 +25,4 @@ difference 🙂 and I always mentally smirk when I hear them talking about 'my
 companies' and words to that effect.
 
 
+[Those are not “your companies” dude](None)

@@ -6,10 +6,9 @@ link: "http://www.jimdo.com/pricing"
 cover: "https://www.jimdo.comundefined/" 
 date: 2021-04-06
 ---
-# [Pricing - Jimdo](http://www.jimdo.com/pricing)
-
 <img src=https://www.jimdo.comundefined/ width="500">
 
 
 
-(**Web site except:** See what's possible with some fantastic website examples built with Jimdo for all types of people & businesses, and start you own today!) 
+(**Web site excerpt:** See what's possible with some fantastic website examples built with Jimdo for all types of people & businesses, and start you own today!) 
+[Pricing - Jimdo](http://www.jimdo.com/pricing)

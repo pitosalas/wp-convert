@@ -3,8 +3,6 @@ title: "MSN Sandbox"
 author: Pito Salas
 date: 2004-08-03
 ---
-# [MSN Sandbox](None)
-
 
 
 >>
@@ -15,3 +13,4 @@ Notable is LookOut the search product that MS has recently acquired. Haven't
 tried it myself - [I prefer X1.](<http://www.x1.com/>)
 
 
+[MSN Sandbox](None)

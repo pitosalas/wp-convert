@@ -3,8 +3,6 @@ title: "Really? Gargling With Salt Water Can Ease Cold Symptoms – NYTimes.com"
 author: Pito Salas
 date: 2010-09-28
 ---
-# [Really? Gargling With Salt Water Can Ease Cold Symptoms – NYTimes.com](None)
-
 
 
 
@@ -19,3 +17,4 @@ Another old-wives-tail bunked. _(opposite of de-bunked?)_
 > Times](<http://www.nytimes.com/2010/09/28/health/28real.html?_r=6>))
 
 
+[Really? Gargling With Salt Water Can Ease Cold Symptoms – NYTimes.com](None)

@@ -6,8 +6,6 @@ tags:
     - kindness
     - plato
 ---
-# [Plato: “Be Kind, for Everyone You Meet is Fighting a Great Battle.”](None)
-
 
 
 
@@ -18,3 +16,4 @@ got.](<http://40daysofcompassion.com/2010/03/be-kind-for-everyone-you-meet-is-
 fighting-a-great-battle/>)
 
 
+[Plato: “Be Kind, for Everyone You Meet is Fighting a Great Battle.”](None)

@@ -3,8 +3,6 @@ title: "Flight 447 from a pilot’s perspective"
 author: Pito Salas
 date: 2014-06-27
 ---
-# [Flight 447 from a pilot’s perspective](None)
-
 
 
 
@@ -16,3 +14,4 @@ Technorati Tags: [airplane](<http://technorati.com/tag/airplane>),
 [airbus](<http://technorati.com/tag/airbus>)  
 
 
+[Flight 447 from a pilot’s perspective](None)

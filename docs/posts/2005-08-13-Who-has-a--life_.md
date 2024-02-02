@@ -3,8 +3,6 @@ title: "Who has a  life?"
 author: Pito Salas
 date: 2005-08-13
 ---
-# [Who has a  life?](None)
-
 
 
 >>
@@ -64,3 +62,4 @@ do today) or right to left?
 [UI](<http://technorati.com/tag/UI>)
 
 
+[Who has a  life?](None)

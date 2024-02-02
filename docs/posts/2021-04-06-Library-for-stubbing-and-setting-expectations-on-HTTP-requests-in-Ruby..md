@@ -13,10 +13,9 @@ tags:
     - testing
     - ruby
 ---
-# [Library for stubbing and setting expectations on HTTP requests in Ruby.](https://github.com/bblimke/webmock)
-
 <img src=https://avatars.githubusercontent.com/u/15547?s=400&v=4 width="500">
 
 
 
-(**Web site except:** There are many of these building blocks. Use this to mock a web service that your system depends on. That way you can test your system without incurring the costs (in money and time) of calling the service.) 
+(**Web site excerpt:** There are many of these building blocks. Use this to mock a web service that your system depends on. That way you can test your system without incurring the costs (in money and time) of calling the service.) 
+[Library for stubbing and setting expectations on HTTP requests in Ruby.](https://github.com/bblimke/webmock)

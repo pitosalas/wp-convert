@@ -3,8 +3,6 @@ title: "[GEEK] Web Rich Text Editors (Apropos of nothing)"
 author: Pito Salas
 date: 2004-04-08
 ---
-# [[GEEK] Web Rich Text Editors (Apropos of nothing)](None)
-
 
 
 >>
@@ -44,3 +42,4 @@ functional](<http://kupu.oscom.org/>)
 that I should take a look at, please drop me a line or post a comment.
 
 
+[[GEEK] Web Rich Text Editors (Apropos of nothing)](None)

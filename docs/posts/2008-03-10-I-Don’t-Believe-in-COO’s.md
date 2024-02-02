@@ -3,8 +3,6 @@ title: "I Don’t Believe in COO’s"
 author: Pito Salas
 date: 2008-03-10
 ---
-# [I Don’t Believe in COO’s](None)
-
 
 
 
@@ -21,3 +19,4 @@ from [Feld Thoughts](<http://www.feld.com/blog/>):
 > COO's](<http://feeds.feedburner.com/~r/FeldThoughts/~3/247383503/i_dont_believe.html>))
 
 
+[I Don’t Believe in COO’s](None)

@@ -3,8 +3,6 @@ title: "Java Web Start Sucks Eggs"
 author: Pito Salas
 date: 2004-07-10
 ---
-# [Java Web Start Sucks Eggs](None)
-
 
 
 >>
@@ -22,3 +20,4 @@ warts and all. Anyway, [here is a bit that I found that articulates
 detail all the problems. I concur and I suffer with you.
 
 
+[Java Web Start Sucks Eggs](None)

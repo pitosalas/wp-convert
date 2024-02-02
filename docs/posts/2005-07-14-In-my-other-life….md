@@ -3,8 +3,6 @@ title: "In my other life…"
 author: Pito Salas
 date: 2005-07-14
 ---
-# [In my other life…](None)
-
 
 I just updated this site a little to have some more up to date information
 about my consulting business. Yes, you know about this blog, and you know
@@ -18,3 +16,4 @@ are looking for me to do work for you!
 >> Technorati Tags: [Consulting](<http://technorati.com/tag/Consulting>)
 
 
+[In my other life…](None)

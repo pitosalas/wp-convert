@@ -3,8 +3,6 @@ title: "At least we have the Redsox"
 author: Pito Salas
 date: 2004-11-06
 ---
-# [At least we have the Redsox](None)
-
 
 
 >>
@@ -17,3 +15,4 @@ that [I found
 interesting](<http://www.princeton.edu/~rvdb/JAVA/election2004/>).
 
 
+[At least we have the Redsox](None)

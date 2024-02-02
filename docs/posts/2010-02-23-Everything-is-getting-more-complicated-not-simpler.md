@@ -3,8 +3,6 @@ title: "Everything is getting more complicated not simpler"
 author: Pito Salas
 date: 2010-02-23
 ---
-# [Everything is getting more complicated not simpler](None)
-
 
 
 
@@ -29,3 +27,4 @@ It shouldn't be rocket surgery.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[Everything is getting more complicated not simpler](None)

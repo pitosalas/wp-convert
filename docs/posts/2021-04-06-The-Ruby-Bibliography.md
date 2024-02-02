@@ -12,10 +12,9 @@ tags:
     - ruby
     - programming
 ---
-# [The Ruby Bibliography](https://rubybib.org)
-
 <img src=https://rdl.ink/render/https%3A%2F%2Frubybib.org width="500">
 
 
 
-(**Web site except:** Fun list of papers, reports, and dissertations related to ruby from academia.) 
+(**Web site excerpt:** Fun list of papers, reports, and dissertations related to ruby from academia.) 
+[The Ruby Bibliography](https://rubybib.org)

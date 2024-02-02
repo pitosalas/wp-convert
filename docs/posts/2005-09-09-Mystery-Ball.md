@@ -3,8 +3,6 @@ title: "Mystery Ball"
 author: Pito Salas
 date: 2005-09-09
 ---
-# [Mystery Ball](None)
-
 
 
 >>
@@ -60,3 +58,4 @@ what's up with all these **hidden features**?
 [UI](<http://www.technorati.com/tag/UI>)
 
 
+[Mystery Ball](None)

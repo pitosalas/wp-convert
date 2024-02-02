@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - concepts docker intro
 ---
-# [Docker: What's Under the Hood?](https://www.codementor.io/blog/docker-technology-5x1kilcbow)
-
 <img src=https://cdn.filestackcontent.com/ab2wz8HlQAmNj1CLloZq width="500">
 
 
 
-(**Web site except:** Great overview of dockers universe) 
+(**Web site excerpt:** Great overview of dockers universe) 
+[Docker: What's Under the Hood?](https://www.codementor.io/blog/docker-technology-5x1kilcbow)

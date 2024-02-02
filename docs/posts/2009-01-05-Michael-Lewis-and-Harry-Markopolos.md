@@ -7,8 +7,6 @@ tags:
     - madoff-tag
     - michael-lewis
 ---
-# [Michael Lewis and Harry Markopolos](None)
-
 
 
 
@@ -31,3 +29,4 @@ even more fascinating story about Harry Markopolos:
 Wow!
 
 
+[Michael Lewis and Harry Markopolos](None)

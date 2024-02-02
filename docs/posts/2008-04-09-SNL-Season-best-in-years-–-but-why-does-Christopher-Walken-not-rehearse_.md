@@ -5,8 +5,6 @@ date: 2008-04-09
 tags:
     - SNL-SaturdayNightLive
 ---
-# [SNL Season best in years – but why does Christopher Walken not rehearse?](None)
-
 
 
 
@@ -36,3 +34,4 @@ from [TV Squad](<http://www.tvsquad.com/rss.xml>):
 > the realm of the crappiest hosts.[…snip]
 
 
+[SNL Season best in years – but why does Christopher Walken not rehearse?](None)

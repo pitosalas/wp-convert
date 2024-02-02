@@ -3,8 +3,6 @@ title: "Don’t you just hate the term Web 2.0?"
 author: Pito Salas
 date: 2006-03-16
 ---
-# [Don’t you just hate the term Web 2.0?](None)
-
 
 
 >>
@@ -28,3 +26,4 @@ that one way or another are connected to Web 2.0.
 >> Technorati Tags: [web2.0](<http://www.technorati.com/tag/web2.0>)
 
 
+[Don’t you just hate the term Web 2.0?](None)

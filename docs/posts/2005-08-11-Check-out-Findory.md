@@ -3,8 +3,6 @@ title: "Check out Findory"
 author: Pito Salas
 date: 2005-08-11
 ---
-# [Check out Findory](None)
-
 
 
 >>
@@ -44,3 +42,4 @@ information around the internet that relates to what I have written.
 [searchengines](<http://technorati.com/tag/searchengines>)
 
 
+[Check out Findory](None)

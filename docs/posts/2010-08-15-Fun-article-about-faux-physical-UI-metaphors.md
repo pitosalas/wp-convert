@@ -10,8 +10,6 @@ tags:
     - iphon-tage
     - user-interface
 ---
-# [Fun article about faux-physical UI metaphors](None)
-
 
 
 
@@ -27,3 +25,4 @@ York Times](<http://www.nytimes.com/2010/08/15/magazine/15FOB-medium-t.html>):
 > Times](<http://www.nytimes.com/2010/08/15/magazine/15FOB-medium-t.html>))
 
 
+[Fun article about faux-physical UI metaphors](None)

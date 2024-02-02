@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - Ruby
 ---
-# [Getting started with Autotest - Continuous Testing](http://ph7spot.com/musings/getting-started-with-autotest)
-
 <img src= width="500">
 
 
+[Getting started with Autotest - Continuous Testing](http://ph7spot.com/musings/getting-started-with-autotest)

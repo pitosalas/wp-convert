@@ -5,8 +5,6 @@ date: 2013-01-08
 tags:
     - virtual-assistant
 ---
-# [Virtual Assistant advice](None)
-
 
 
 
@@ -24,3 +22,4 @@ Any feedback on your experiences or thoughts about this would be really
 interesting!
 
 
+[Virtual Assistant advice](None)

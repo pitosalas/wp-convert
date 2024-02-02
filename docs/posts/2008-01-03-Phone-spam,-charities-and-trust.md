@@ -6,8 +6,6 @@ tags:
     - charity
     - fraud
 ---
-# [Phone spam, charities and trust](None)
-
 
 
 
@@ -32,3 +30,4 @@ tactics, rudeness, accusations and so on. I had my suspicions and this new
 study kind of corroborates them.
 
 
+[Phone spam, charities and trust](None)

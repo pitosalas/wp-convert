@@ -3,8 +3,6 @@ title: "Drama in Blog Time."
 author: Pito Salas
 date: 2007-01-09
 ---
-# [Drama in Blog Time.](None)
-
 
 
 >
@@ -38,3 +36,4 @@ date: 2007-01-09
 > Food for thought…
 
 
+[Drama in Blog Time.](None)

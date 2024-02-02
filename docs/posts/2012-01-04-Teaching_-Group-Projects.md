@@ -12,8 +12,6 @@ tags:
     - teaching
     - teams
 ---
-# [Teaching: Group Projects](None)
-
 
 
 
@@ -53,3 +51,4 @@ student reviews.
 What do **you** think of this approach?
 
 
+[Teaching: Group Projects](None)

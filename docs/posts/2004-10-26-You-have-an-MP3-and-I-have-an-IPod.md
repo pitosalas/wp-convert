@@ -3,8 +3,6 @@ title: "You have an MP3 and I have an IPod"
 author: Pito Salas
 date: 2004-10-26
 ---
-# [You have an MP3 and I have an IPod](None)
-
 
 
 >>
@@ -35,3 +33,4 @@ disconnected from the net won't care. And certainly there may be more
 forward.**
 
 
+[You have an MP3 and I have an IPod](None)

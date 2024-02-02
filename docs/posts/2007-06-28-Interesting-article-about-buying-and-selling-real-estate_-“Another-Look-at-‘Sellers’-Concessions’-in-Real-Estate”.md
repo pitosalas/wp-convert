@@ -3,8 +3,6 @@ title: "Interesting article about buying and selling real estate: “Another Loo
 author: Pito Salas
 date: 2007-06-28
 ---
-# [Interesting article about buying and selling real estate: “Another Look at ‘Sellers’ Concessions’ in Real Estate”](None)
-
 
 
 
@@ -27,3 +25,4 @@ post](<http://feeds.feedburner.com/~r/FreakonomicsBlog/~3/128698530/>) from
 Read the article, it poses an interesting connundrum.
 
 
+[Interesting article about buying and selling real estate: “Another Look at ‘Sellers’ Concessions’ in Real Estate”](None)

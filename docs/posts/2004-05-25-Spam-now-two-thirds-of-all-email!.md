@@ -3,8 +3,6 @@ title: "Spam now two thirds of all email!"
 author: Pito Salas
 date: 2004-05-25
 ---
-# [Spam now two thirds of all email!](None)
-
 
 
 >>
@@ -19,3 +17,4 @@ percent of all global e-mail traffic is spam."
 email](<http://zdnet.com.com/2100-1105-5219078.html>)
 
 
+[Spam now two thirds of all email!](None)

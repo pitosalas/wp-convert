@@ -7,8 +7,6 @@ tags:
     - legal
     - litigation-tag
 ---
-# [We spend too much on silly litigation](None)
-
 
 
 
@@ -27,3 +25,4 @@ But really, how does it make sense to pay out 47 cents? I am sure the lawyers
 content/uploads/2012/07/1d3b2-stupidcheck-2.png?resize=584%2C438&ssl=1)
 
 
+[We spend too much on silly litigation](None)

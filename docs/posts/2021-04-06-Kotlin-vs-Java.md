@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - howto java kotlin comparison
 ---
-# [Kotlin vs Java](https://www.kotlinvsjava.com)
-
 <img src=https://rdl.ink/render/https%3A%2F%2Fwww.kotlinvsjava.com width="500">
 
 
 
-(**Web site except:** Kotlin is so superior to Java!) 
+(**Web site excerpt:** Kotlin is so superior to Java!) 
+[Kotlin vs Java](https://www.kotlinvsjava.com)

@@ -3,8 +3,6 @@ title: "What’s the world coming to?"
 author: Pito Salas
 date: 2004-12-07
 ---
-# [What’s the world coming to?](None)
-
 
 
 >>
@@ -19,3 +17,4 @@ up:![picture.jpg](https://i0.wp.com/s3.media.squarespace.com/production/1075723/
 > totally legitimate. Not that my fake would fool anyone.
 
 
+[What’s the world coming to?](None)

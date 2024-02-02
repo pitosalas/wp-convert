@@ -3,8 +3,6 @@ title: "Fun movie and TV fonts"
 author: Pito Salas
 date: 2006-04-19
 ---
-# [Fun movie and TV fonts](None)
-
 
 
 >>
@@ -21,3 +19,4 @@ Amusing.
 >> Technorati Tags: [funny](<http://www.technorati.com/tag/funny>)
 
 
+[Fun movie and TV fonts](None)

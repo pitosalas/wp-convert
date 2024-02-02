@@ -3,8 +3,6 @@ title: "Electronic Voting: interesting new wrinkle"
 author: Pito Salas
 date: 2008-01-07
 ---
-# [Electronic Voting: interesting new wrinkle](None)
-
 
 
 
@@ -44,3 +42,4 @@ L. Rivest, who among us geeks is very well known as the "R" in RSA, but for
 the New York Times is simply an "M.I.T. Computer Scientist".]
 
 
+[Electronic Voting: interesting new wrinkle](None)

@@ -8,8 +8,6 @@ tags:
     - safety
     - texting
 ---
-# [Texting: Left and Right Hand of Government](None)
-
 
 
 
@@ -33,3 +31,4 @@ phone rings while I am driving, I do answer it… Hmm. Need to rethink that
 part.
 
 
+[Texting: Left and Right Hand of Government](None)

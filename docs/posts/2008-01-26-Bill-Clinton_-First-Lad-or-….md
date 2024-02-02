@@ -3,8 +3,6 @@ title: "Bill Clinton: First Lad or …"
 author: Pito Salas
 date: 2008-01-26
 ---
-# [Bill Clinton: First Lad or …](None)
-
 
 
 
@@ -32,3 +30,4 @@ But the section about Dick Cheney brought an even crazier scenario to mind.
 What if Hillary is elected and picks Bill as ……………. VICE PRESIDENT?
 
 
+[Bill Clinton: First Lad or …](None)

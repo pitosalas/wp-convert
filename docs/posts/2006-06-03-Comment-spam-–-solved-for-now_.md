@@ -3,8 +3,6 @@ title: "Comment spam – solved for now?"
 author: Pito Salas
 date: 2006-06-03
 ---
-# [Comment spam – solved for now?](None)
-
 
 
 >>
@@ -42,3 +40,4 @@ effective**. But for now I guess I don't need it.
 >> Technorati Tags: [commentspam](<http://www.technorati.com/tag/commentspam>)
 
 
+[Comment spam – solved for now?](None)

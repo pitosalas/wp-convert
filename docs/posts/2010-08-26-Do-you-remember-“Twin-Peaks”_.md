@@ -3,8 +3,6 @@ title: "Do you remember “Twin Peaks”?"
 author: Pito Salas
 date: 2010-08-26
 ---
-# [Do you remember “Twin Peaks”?](None)
-
 
 
 
@@ -19,3 +17,4 @@ Don't ask me why, the quote just strikes me as funny!
 _Originally posted on Apr 28, 2007. Reprinted courtesy of ReRuns plug-in._
 
 
+[Do you remember “Twin Peaks”?](None)

@@ -8,8 +8,6 @@ tags:
     - tripadvisor
     - tripwow
 ---
-# [Video made by and for robots](None)
-
 
 
 
@@ -22,3 +20,4 @@ Islands](<http://www.tripadvisor.com/Tourism-g294310-Galapagos_Islands-
 Vacations.html>) was created with TripAdvisor TripWow!
 
 
+[Video made by and for robots](None)

@@ -7,8 +7,6 @@ tags:
     - pricing
     - RSS
 ---
-# [Goodbye to BlogBridge…](None)
-
 
 
 
@@ -46,3 +44,4 @@ How does that song go again? "Thanks for the memories….."
 
 
 
+[Goodbye to BlogBridge…](None)

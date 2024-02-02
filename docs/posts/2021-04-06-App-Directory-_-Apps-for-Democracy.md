@@ -8,8 +8,7 @@ date: 2021-04-06
 tags:
     - Weather
 ---
-# [App Directory | Apps for Democracy](http://www.appsfordemocracy.org/application-directory)
-
 <img src= width="500">
 
 
+[App Directory | Apps for Democracy](http://www.appsfordemocracy.org/application-directory)

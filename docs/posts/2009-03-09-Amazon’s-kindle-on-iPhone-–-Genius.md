@@ -3,8 +3,6 @@ title: "Amazon’s kindle on iPhone – Genius"
 author: Pito Salas
 date: 2009-03-09
 ---
-# [Amazon’s kindle on iPhone – Genius](None)
-
 
 
 
@@ -34,3 +32,4 @@ screen is too small: Solution: **I guess I need a Kindle.** Genius.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
+[Amazon’s kindle on iPhone – Genius](None)

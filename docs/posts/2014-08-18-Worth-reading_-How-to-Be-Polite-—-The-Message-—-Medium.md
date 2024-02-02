@@ -3,8 +3,6 @@ title: "Worth reading: How to Be Polite — The Message — Medium"
 author: Pito Salas
 date: 2014-08-18
 ---
-# [Worth reading: How to Be Polite — The Message — Medium](None)
-
 
 
 
@@ -16,3 +14,4 @@ of the point. I don’t look polite. I am big and droopy and need a haircut. No
 soul would associate me with watercress sandwiches.
 
 
+[Worth reading: How to Be Polite — The Message — Medium](None)

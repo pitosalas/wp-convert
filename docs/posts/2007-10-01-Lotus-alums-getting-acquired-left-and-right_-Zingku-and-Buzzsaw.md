@@ -3,8 +3,6 @@ title: "Lotus alums getting acquired left and right: Zingku and Buzzsaw"
 author: Pito Salas
 date: 2007-10-01
 ---
-# [Lotus alums getting acquired left and right: Zingku and Buzzsaw](None)
-
 
 
 
@@ -24,3 +22,4 @@ agreemenet to acquire Virtual Ubiquity](<http://blog.virtub.com/>), makers of
 Way to go!!!
 
 
+[Lotus alums getting acquired left and right: Zingku and Buzzsaw](None)

@@ -7,8 +7,6 @@ tags:
     - design
     - election-tags
 ---
-# [How (not) to design a ballot](None)
-
 
 
 
@@ -33,3 +31,4 @@ links:
   * [Infographic: Ballot Design Still Sucks](<http://www.fastcodesign.com/1662299/infographic-ballot-design-still-sucks-lets-count-the-ways>)
 
 
+[How (not) to design a ballot](None)

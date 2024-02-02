@@ -10,10 +10,9 @@ tags:
     - online
     - custom
 ---
-# [Custom Shirts - Design Custom T-Shirts Online | 40% OFF](https://www.alliedshirts.com/)
-
 <img src=https://otcimages.basnop.com/1017913_AS_MCA_NOP_Format_Final1.jpeg width="500">
 
 
 
-(**Web site except:** Custom Shirts! #1 Leader in Custom T-Shirts. Create custom t-shirts for your team, business, school, event and more. FREE SHIPPING!) 
+(**Web site excerpt:** Custom Shirts! #1 Leader in Custom T-Shirts. Create custom t-shirts for your team, business, school, event and more. FREE SHIPPING!) 
+[Custom Shirts - Design Custom T-Shirts Online | 40% OFF](https://www.alliedshirts.com/)

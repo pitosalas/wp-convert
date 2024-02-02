@@ -3,8 +3,6 @@ title: "Some great links for  02/09/2020"
 author: Pito Salas
 date: 2020-02-08
 ---
-# [Some great links for  02/09/2020](None)
-
 
 
 
@@ -59,3 +57,4 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
+[Some great links for  02/09/2020](None)

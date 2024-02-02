@@ -3,8 +3,6 @@ title: "Technie note: Ethernet vs. USB-2 External Hard Disk"
 author: Pito Salas
 date: 2007-01-03
 ---
-# [Technie note: Ethernet vs. USB-2 External Hard Disk](None)
-
 
 
 >
@@ -35,3 +33,4 @@ date: 2007-01-03
 > Next post will be on my evaluation of Backup software for Mac OS X.
 
 
+[Technie note: Ethernet vs. USB-2 External Hard Disk](None)

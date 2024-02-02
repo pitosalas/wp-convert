@@ -3,8 +3,6 @@ title: "Best Red Sox Headline"
 author: Pito Salas
 date: 2004-10-21
 ---
-# [Best Red Sox Headline](None)
-
 
 
 >>
@@ -32,3 +30,4 @@ pages of newspapers at the
 >> "Yank This!"**
 
 
+[Best Red Sox Headline](None)

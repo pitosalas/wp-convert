@@ -3,8 +3,6 @@ title: "Looks like I’ve beat comment spam — for now!"
 author: Pito Salas
 date: 2005-06-12
 ---
-# [Looks like I’ve beat comment spam — for now!](None)
-
 
 
 >>
@@ -42,3 +40,4 @@ in the techniques.
 >> Technorati Tags: [movabletype](<http://technorati.com/tag/movabletype>)
 
 
+[Looks like I’ve beat comment spam — for now!](None)

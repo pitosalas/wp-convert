@@ -3,8 +3,6 @@ title: "Advice for New Graduate Students"
 author: Pito Salas
 date: 2010-09-29
 ---
-# [Advice for New Graduate Students](None)
-
 
 
 
@@ -161,3 +159,4 @@ cast-off cell marooned from the surface of your skin."
 …
 
 
+[Advice for New Graduate Students](None)

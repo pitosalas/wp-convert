@@ -3,8 +3,6 @@ title: "AAPL: Short or Long?"
 author: Pito Salas
 date: 2007-06-22
 ---
-# [AAPL: Short or Long?](None)
-
 
 
 
@@ -35,3 +33,4 @@ Arguments for buying APPL:
 What do you think?
 
 
+[AAPL: Short or Long?](None)

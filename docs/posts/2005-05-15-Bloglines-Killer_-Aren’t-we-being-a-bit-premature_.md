@@ -3,8 +3,6 @@ title: "Bloglines Killer? Aren’t we being a bit premature?"
 author: Pito Salas
 date: 2005-05-15
 ---
-# [Bloglines Killer? Aren’t we being a bit premature?](None)
-
 
 
 >>
@@ -58,3 +56,4 @@ them may turn out to be the **Next Big Thing**.
 [RSS](<http://technorati.com/tag/RSS>)
 
 
+[Bloglines Killer? Aren’t we being a bit premature?](None)

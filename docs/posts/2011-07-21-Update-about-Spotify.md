@@ -6,8 +6,6 @@ tags:
     - rhapsody
     - spotify
 ---
-# [Update about Spotify](None)
-
 
 
 
@@ -42,3 +40,4 @@ Jury is still out for me…
 **
 
 
+[Update about Spotify](None)

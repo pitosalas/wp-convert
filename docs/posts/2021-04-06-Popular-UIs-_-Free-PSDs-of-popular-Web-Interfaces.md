@@ -11,10 +11,9 @@ tags:
     - design
     - javascript links resources
 ---
-# [Popular UIs | Free PSDs of popular Web Interfaces](http://lukechesser.github.io/Popular-UIs)
-
 <img src=https://rdl.ink/render/http%3A%2F%2Flukechesser.github.io%2FPopular-UIs width="500">
 
 
 
-(**Web site except:** PSDs of UIs. Good way to learn how to do a design in PSD.) 
+(**Web site excerpt:** PSDs of UIs. Good way to learn how to do a design in PSD.) 
+[Popular UIs | Free PSDs of popular Web Interfaces](http://lukechesser.github.io/Popular-UIs)

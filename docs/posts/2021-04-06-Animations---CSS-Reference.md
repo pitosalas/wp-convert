@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - css animations
 ---
-# [Animations - CSS Reference](http://cssreference.io/animations)
-
 <img src=https://cssreference.io/images/css-reference-share.png width="500">
 
 
 
-(**Web site except:** Learn how Animations works in CSS.) 
+(**Web site excerpt:** Learn how Animations works in CSS.) 
+[Animations - CSS Reference](http://cssreference.io/animations)

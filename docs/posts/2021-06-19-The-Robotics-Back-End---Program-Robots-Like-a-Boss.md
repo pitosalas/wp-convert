@@ -10,10 +10,9 @@ tags:
     - courses
     - howto
 ---
-# [The Robotics Back-End - Program Robots Like a Boss](https://roboticsbackend.com/)
-
 <img src=https://rdl.ink/render/https%3A%2F%2Froboticsbackend.com%2F width="500">
 
 
 
-(**Web site except:** Program Robots Like a Boss. Lots of good robotics resources) 
+(**Web site excerpt:** Program Robots Like a Boss. Lots of good robotics resources) 
+[The Robotics Back-End - Program Robots Like a Boss](https://roboticsbackend.com/)

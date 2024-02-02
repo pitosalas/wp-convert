@@ -10,10 +10,9 @@ tags:
     - stdev
     - statistics
 ---
-# [Standard Deviation is an Inferior Measurement*](https://link.medium.com/gbpcSJtCieb)
-
 <img src=https://miro.medium.com/max/605/1*jMkJYmJAZHWL3qoVGo6DHA.png width="500">
 
 
 
-(**Web site except:** Interesting bit of statistics esoterica...) 
+(**Web site excerpt:** Interesting bit of statistics esoterica...) 
+[Standard Deviation is an Inferior Measurement*](https://link.medium.com/gbpcSJtCieb)

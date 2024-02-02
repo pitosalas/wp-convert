@@ -3,8 +3,6 @@ title: "Cool map of undersea cables"
 author: Pito Salas
 date: 2006-04-13
 ---
-# [Cool map of undersea cables](None)
-
 
 
 >>
@@ -37,3 +35,4 @@ the end of 2004 and gives an indication of where traffic is heaviest." (
 [interesting](<http://www.technorati.com/tag/interesting>)
 
 
+[Cool map of undersea cables](None)

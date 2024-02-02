@@ -3,8 +3,6 @@ title: "Are magazines committing suicide?"
 author: Pito Salas
 date: 2008-12-02
 ---
-# [Are magazines committing suicide?](None)
-
 
 
 
@@ -36,3 +34,4 @@ It's sad to see, but I take this as a sign that magazines (and newspapers) are
 on their deathbed.
 
 
+[Are magazines committing suicide?](None)

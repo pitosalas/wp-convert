@@ -3,8 +3,6 @@ title: "From the WSJ: A Summer Myth Debunked"
 author: Pito Salas
 date: 2007-06-29
 ---
-# [From the WSJ: A Summer Myth Debunked](None)
-
 
 
 
@@ -24,3 +22,4 @@ post](<http://feeds.wsjonline.com/~r/wsj/health/feed/~3/128465127/>) from
 > Debunked](<http://feeds.wsjonline.com/~r/wsj/health/feed/~3/128465127/>))
 
 
+[From the WSJ: A Summer Myth Debunked](None)

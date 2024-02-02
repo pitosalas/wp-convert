@@ -5,8 +5,6 @@ date: 2008-11-13
 tags:
     - econ-tagomy-michaellewis-finance-meltdown
 ---
-# [It’s even worse than you think](None)
-
 
 
 
@@ -65,3 +63,4 @@ It's a [good, but depressing article.](<http://www.portfolio.com/news-
 markets/national-news/portfolio/2008/11/11/The-End-of-Wall-Streets-Boom>)
 
 
+[It’s even worse than you think](None)

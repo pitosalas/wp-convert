@@ -3,8 +3,6 @@ title: "Losing a finger over biometrics"
 author: Pito Salas
 date: 2005-04-18
 ---
-# [Losing a finger over biometrics](None)
-
 
 
 >>
@@ -49,3 +47,4 @@ Journal)](<http://www.cs.brown.edu/courses/cs024/min_report/wall_st_jrnl.htm>)
 >> Technorati Tags: [biometrics](<http://technorati.com/tag/biometrics>)
 
 
+[Losing a finger over biometrics](None)
