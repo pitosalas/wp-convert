@@ -2,10 +2,14 @@
 title: "Essay | Why Americans Have Lost Faith in the Value of College"
 author: Pito Salas
 url: "https://www.wsj.com/us-news/education/why-americans-have-lost-faith-in-the-value-of-college-b6b635f2?mod=latestheadlines_trending_now_article_pos2" 
+link: "https://www.wsj.com/us-news/education/why-americans-have-lost-faith-in-the-value-of-college-b6b635f2?mod=latestheadlines_trending_now_article_pos2" 
 cover: "https://images.wsj.net/im-913482/social" 
 date: 2024-01-19
 tags:
-    - college-university-credentials-wsj
+    - college
+    - university
+    - credentials
+    - wsj
 ---
 <img src=https://images.wsj.net/im-913482/social width="500">
 

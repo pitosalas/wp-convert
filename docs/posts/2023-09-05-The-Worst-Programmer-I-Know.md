@@ -2,10 +2,13 @@
 title: "The Worst Programmer I Know"
 author: Pito Salas
 url: "https://dannorth.net/2023/09/02/the-worst-programmer/?utm_source=changelog-news" 
+link: "https://dannorth.net/2023/09/02/the-worst-programmer/?utm_source=changelog-news" 
 cover: "https://dannorth.net/2023/09/02/the-worst-programmer/dilbert-bug-free-software-1024x311.gif" 
 date: 2023-09-05
 tags:
-    - productivity-metrics-10x
+    - productivity
+    - metrics
+    - 10x
 ---
 <img src=https://dannorth.net/2023/09/02/the-worst-programmer/dilbert-bug-free-software-1024x311.gif width="500">
 

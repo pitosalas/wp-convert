@@ -2,10 +2,16 @@
 title: "Python Packaging, One Year Later: A Look Back at 2023 in Python Packag"
 author: Pito Salas
 url: "https://chriswarrick.com/blog/2024/01/15/python-packaging-one-year-later/" 
+link: "https://chriswarrick.com/blog/2024/01/15/python-packaging-one-year-later/" 
 cover: "" 
 date: 2024-01-21
 tags:
-    - python-tag-package-packaging-poetry-pip-pyenv
+    - python
+    - package
+    - packaging
+    - poetry
+    - pip
+    - pyenv
 ---
 <img src= width="500">
 

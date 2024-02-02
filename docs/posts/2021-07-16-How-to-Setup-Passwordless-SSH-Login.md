@@ -1,14 +1,19 @@
 ---
 title: "How to Setup Passwordless SSH Login"
 author: Pito Salas
-url: "https://linuxize.com/post/how-to-setup-passwordless-ssh-login/" 
-cover: "https://linuxize.com/post/how-to-setup-passwordless-ssh-login/featured.jpg" 
 date: 2021-07-16
 tags:
-    - linux-sysops-con-tagfiguration-tag-ssh-public-keys
+    - linux
 ---
-<img src=https://linuxize.com/post/how-to-setup-passwordless-ssh-login/featured.jpg width="500">
 
 
 
-(**Web site except:** In this article we will show you how to setup an SSH key-based authentication and connect to your Linux servers without a entering password.) 
+[ How to Setup Passwordless SSH Login](<https://linuxize.com/post/how-to-
+setup-passwordless-ssh-login/>)
+
+In this article we will show you how to setup an SSH key-based authentication
+and connect to your Linux servers without a entering password.
+
+July 17, 2021 at 02:47AM
+
+

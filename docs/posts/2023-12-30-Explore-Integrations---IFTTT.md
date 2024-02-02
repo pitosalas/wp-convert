@@ -2,10 +2,12 @@
 title: "Explore Integrations - IFTTT"
 author: Pito Salas
 url: "https://ifttt.com/explore" 
+link: "https://ifttt.com/explore" 
 cover: "https://web-assets.ifttt.com/packs/media/shared/ifttt-banner-287889aa7d44e76a8d08.png" 
 date: 2023-12-30
 tags:
-    - test-tag
+    - test
+    - tag
 ---
 <img src=https://web-assets.ifttt.com/packs/media/shared/ifttt-banner-287889aa7d44e76a8d08.png width="500">
 

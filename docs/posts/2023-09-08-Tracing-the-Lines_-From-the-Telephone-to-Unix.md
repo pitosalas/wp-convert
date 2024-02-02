@@ -2,10 +2,13 @@
 title: "Tracing the Lines: From the Telephone to Unix"
 author: Pito Salas
 url: "https://www.deusinmachina.net/p/history-of-unix?r=1slq0e&utm_medium=ios&utm_campaign=post" 
+link: "https://www.deusinmachina.net/p/history-of-unix?r=1slq0e&utm_medium=ios&utm_campaign=post" 
 cover: "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc087116c-69b8-40eb-863a-34654c4294d8_1024x820.jpeg" 
 date: 2023-09-08
 tags:
-    - history-unix-pdp-11
+    - history
+    - unix
+    - pdp-11
 ---
 <img src=https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc087116c-69b8-40eb-863a-34654c4294d8_1024x820.jpeg width="500">
 

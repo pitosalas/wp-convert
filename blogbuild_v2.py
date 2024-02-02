@@ -28,6 +28,10 @@ class BlogBuild:
         with open('data/drops.json') as json_file:
             self.drops = json.load(json_file)
     
+    def retrieve_api_drops_from_file(self):
+        with open('data/api_drops.json') as json_file:
+            self.drops = json.load(json_file)
+    
     def retrieve_wp_posts_from_file(self):
         with open('data/wp_posts.json') as json_file:
             self.wp_posts = json.load(json_file)
@@ -51,7 +55,7 @@ class BlogBuild:
     def run(self):
         self.create_or_empty_directory(POSTS_DIRECTORY)
         self.create_or_empty_directory(PAGES_DIRECTORY)
-        self.retrieve_drops_from_file()
+        self.retrieve_api_drops_from_file()
         self.retrieve_tags_from_file()
         self.retrieve_wp_posts_from_file()
         self.retrieve_wp_pages_from_file()
@@ -71,11 +75,11 @@ class BlogBuild:
             title = post['title']['rendered']
             date = datetime.strptime(post['date'], '%Y-%m-%dT%H:%M:%S').strftime('%Y-%m-%d')
             if self.drops.get(title) is not None:
-                print(f"""Skipping {title} because it is a drop""")
+                # print(f"""Skipping {title} because it is a drop""")
                 continue
             tags = self.generate_tags_string(post['tags'])
             self.save_individual_post(title, content, date, tags, None, None)
-            print(f"Adding Post {title}")
+            # print(f"Adding Post {title}")
             count += 1
         print(f"""Total: {count} wp Posts Generated""")
 
@@ -99,7 +103,7 @@ class BlogBuild:
             url = drop['url']
             cover = drop['cover']
             rawtags = self.fix_drop_tags(drop['tags'])
-            if rawtags not in ['', 'None', ['']]:
+            if rawtags not in ['', 'None', [''], []]:
                 tags_str = """\ntags:"""
                 for tag in rawtags:
                     if re.match(r"^\d+$", tag):
@@ -122,6 +126,8 @@ class BlogBuild:
         return content
     
     def fix_drop_tags(self, tags):
+        if isinstance(tags, list):
+            return tags
         ret_tag = re.split(', | |,', tags)
         if ret_tag != tags:
             print(f"""{tags} -> {ret_tag}""")
@@ -155,6 +161,7 @@ class BlogBuild:
             cover_markdown = ""
             cover_text = ""
         url_text = "" if url is None else f"""\nurl: "{url}" """
+        url_text += "" if url is None else f"""\nlink: "{url}" """
         title = html.unescape(title)
         title = title.replace('"', '\\"')        
         file_path = os.path.join(POSTS_DIRECTORY, self.sanitize_filename(date, title))

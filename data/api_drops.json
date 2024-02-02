@@ -1,0 +1,4135 @@
+{
+    "How hard is it to cheat with ChatGPT in technical interviews? We ran an experiment.": {
+        "_id": 728215055,
+        "link": "https://interviewing.io/blog/how-hard-is-it-to-cheat-with-chatgpt-in-technical-interviews",
+        "excerpt": "As an experiment, we asked interviewees to cheat with ChatGPT during their interviews and share who got away with it.",
+        "note": "This is really interesting experiment conducted to detect cheating in interviewing. It also has a lot of thoughts about how to do a good technical interview. Worth reading.",
+        "type": "article",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://strapi-iio.s3.us-west-2.amazonaws.com/Pass_rate_by_question_type_when_trying_to_cheat_with_Chat_GPT_c20c87712e.png",
+        "media": [
+            {
+                "link": "https://strapi-iio.s3.us-west-2.amazonaws.com/Pass_rate_by_question_type_when_trying_to_cheat_with_Chat_GPT_c20c87712e.png",
+                "type": "image"
+            },
+            {
+                "link": "https://strapi-iio.s3.us-west-2.amazonaws.com/Interviewee_Collage_Survey_88a5b0a095.jpg",
+                "type": "image"
+            },
+            {
+                "link": "https://strapi-iio.s3.us-west-2.amazonaws.com/Interviewer_Collage_Survey_a0e0cf80fb.jpg",
+                "type": "image"
+            },
+            {
+                "link": "https://strapi-iio.s3.us-west-2.amazonaws.com/Interviewer_confidence_61b40b9ce1.png",
+                "type": "image"
+            },
+            {
+                "link": "https://strapi-iio.s3.us-west-2.amazonaws.com/Interviewee_worry_level_6d1445e631.png",
+                "type": "image"
+            }
+        ],
+        "tags": [],
+        "highlights": [],
+        "important": false,
+        "removed": false,
+        "created": "2024-02-02T14:49:32.118Z",
+        "lastUpdate": "2024-02-02T14:49:32.118Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "domain": "interviewing.io",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 728215055,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 2514475,
+            "created": "2024-02-02T14:53:58.314Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://interviewing.io/blog/how-hard-is-it-to-cheat-with-chatgpt-in-technical-interviews"
+    },
+    "Raindrop.io \u2014 All in One Bookmark Manager": {
+        "_id": 726764552,
+        "link": "https://api.raindrop.io/v1/auth/jwt?done_uri=rnio://account/jwt",
+        "excerpt": "All in One Bookmark Manager. For your inspiration, read later, media and stuff.",
+        "note": "",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://app.raindrop.io/assets/og.8f80436569bfdbdc1a79f7ee9f1c43af.png",
+        "media": [
+            {
+                "link": "https://app.raindrop.io/assets/og.8f80436569bfdbdc1a79f7ee9f1c43af.png",
+                "type": "image"
+            }
+        ],
+        "tags": [],
+        "important": false,
+        "reminder": {
+            "date": null
+        },
+        "removed": false,
+        "created": "2024-01-31T15:12:53.426Z",
+        "lastUpdate": "2024-01-31T15:12:53.426Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "highlights": [],
+        "domain": "api.raindrop.io",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 726764552,
+        "broken": false,
+        "cache": {
+            "status": "invalid-origin"
+        },
+        "collectionId": 17452361,
+        "url": "https://api.raindrop.io/v1/auth/jwt?done_uri=rnio://account/jwt"
+    },
+    "marceloprates/prettymaps: A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.": {
+        "_id": 725259712,
+        "link": "https://github.com/marceloprates/prettymaps",
+        "excerpt": "A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries. - GitHub - marceloprates/prettymaps: A small set of Python functions t...",
+        "note": "Honestly this looks pretty awesome! Haven\u2019t tried it yet. ",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://repository-images.githubusercontent.com/344802603/ff1fd18d-b9ba-4790-a24f-2ca2eb3024a0",
+        "media": [
+            {
+                "link": "https://repository-images.githubusercontent.com/344802603/ff1fd18d-b9ba-4790-a24f-2ca2eb3024a0",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "maps",
+            "python",
+            "visualization",
+            "eyecandy"
+        ],
+        "highlights": [],
+        "important": false,
+        "removed": false,
+        "created": "2024-01-29T13:07:37.856Z",
+        "lastUpdate": "2024-01-29T13:07:37.856Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "domain": "github.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 725259712,
+        "cache": {
+            "status": "ready",
+            "size": 9235056,
+            "created": "2024-01-29T13:17:07.177Z"
+        },
+        "broken": false,
+        "collectionId": 17452361,
+        "url": "https://github.com/marceloprates/prettymaps"
+    },
+    "Easing Equations": {
+        "_id": 724893017,
+        "link": "https://gizma.com/easing/",
+        "excerpt": "",
+        "note": "I know it seems that all I am doing these days is noting servo easing equations!",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://rdl.ink/render/https%3A%2F%2Fgizma.com%2Feasing%2F",
+        "media": [],
+        "tags": [
+            "ease",
+            "servo",
+            "equations",
+            "smooth",
+            "howto"
+        ],
+        "important": false,
+        "reminder": {
+            "date": null
+        },
+        "removed": false,
+        "created": "2024-01-29T00:30:50.073Z",
+        "lastUpdate": "2024-01-29T00:31:39.360Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "highlights": [],
+        "domain": "gizma.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 724893017,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 34259,
+            "created": "2024-01-29T00:47:34.175Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://gizma.com/easing/"
+    },
+    "Guide to Strings in Python": {
+        "_id": 722135790,
+        "link": "https://stackabuse.com/guide-to-strings-in-python/",
+        "excerpt": "We've come far in discovering the basics of computer science in the world of Python, and now is the time to start learning about strings. Strings are a fundame...",
+        "note": "Tour the force review of strings in python",
+        "type": "article",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://rdl.ink/render/https%3A%2F%2Fstackabuse.com%2Fguide-to-strings-in-python%2F",
+        "media": [],
+        "tags": [
+            "python",
+            "strings",
+            "howto",
+            "code",
+            "explainer"
+        ],
+        "highlights": [],
+        "important": false,
+        "removed": false,
+        "created": "2024-01-26T13:08:03.387Z",
+        "lastUpdate": "2024-01-26T13:08:03.387Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "domain": "stackabuse.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 722135790,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 6895443,
+            "created": "2024-01-26T14:03:44.712Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://stackabuse.com/guide-to-strings-in-python/"
+    },
+    "Smooth Servo Motion For Lifelike Animatronics": {
+        "_id": 722109696,
+        "link": "https://hackaday.com/2021/09/03/smooth-servo-motion-for-lifelike-animatronics/",
+        "excerpt": "Building an animatronic robot is one thing, but animating it in a lifelike fashion is a completely different challenge. Hobby servos are cheap and popular for animatronics, but just letting it move\u2026",
+        "note": "",
+        "type": "article",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://hackaday.com/wp-content/uploads/2021/08/smooth-servo-featured.png",
+        "media": [
+            {
+                "link": "https://hackaday.com/wp-content/uploads/2021/08/smooth-servo-featured.png",
+                "type": "image"
+            },
+            {
+                "link": "https://hackaday.com/wp-content/uploads/2021/08/smooth-servo-featured.png?w=800",
+                "type": "image"
+            },
+            {
+                "link": "https://images.ads.supplyframe.com/7d5b41b31d1cb3ee15dff186494b874c.png",
+                "type": "image"
+            },
+            {
+                "link": "https://images.ads.supplyframe.com/c613a7e21653510be9d9c1d422eea929.png",
+                "type": "image"
+            },
+            {
+                "link": "https://hackaday.com/wp-content/uploads/2024/01/MoonMining_thumbnail.png?w=600&h=600",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "servo-easing",
+            "easing",
+            "servo",
+            "arduino",
+            "code"
+        ],
+        "highlights": [],
+        "important": false,
+        "removed": false,
+        "created": "2024-01-26T12:16:34.819Z",
+        "lastUpdate": "2024-01-26T12:16:34.819Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "domain": "hackaday.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 722109696,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 2369948,
+            "created": "2024-01-29T00:47:35.052Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://hackaday.com/2021/09/03/smooth-servo-motion-for-lifelike-animatronics/"
+    },
+    "STM32 Servo Motor Control With PWM - Servo Library Example Code": {
+        "_id": 722109383,
+        "link": "https://deepbluembedded.com/stm32-servo-motor-control-with-pwm-servo-library-examples-code/",
+        "excerpt": "STM32 Servo Motor Control With PWM. STM32 Servo Library Example Code and Complete Tutorial. Using STM32F4, STM32F103 Blue Pill Servo HAL",
+        "note": "One of the best explanations I\u2019ve seen about servo hardware and firmware. ",
+        "type": "article",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://deepbluembedded.com/wp-content/uploads/2020/07/STM32-Servo-Motor-Control-Example-Code-Library-Tutorial-With-PWM.jpg",
+        "media": [
+            {
+                "link": "https://deepbluembedded.com/wp-content/uploads/2020/07/STM32-Servo-Motor-Control-Example-Code-Library-Tutorial-With-PWM.jpg",
+                "type": "image"
+            },
+            {
+                "link": "https://cdn-0.deepbluembedded.com/wp-content/uploads/2020/07/STM32-Servo-Motor-Control-Example-Code-Library-Tutorial-With-PWM.jpg?ezimgfmt=rs%3Adevice%2Frscb6-1",
+                "type": "image"
+            },
+            {
+                "link": "https://streaming.humix.com/poster/gnEDOJrqSoxDovBW/gnEDOJrqSoxDovBW_j1678978910726-e7zaw0_t1678979086_base.003.jpg?w=640",
+                "type": "image"
+            },
+            {
+                "link": "https://video-meta.humix.com/poster/qN9UqL_igWdd/qN9UqL_igWdd_upload_t1694772381-kUJNZZ.jpg?w=640",
+                "type": "image"
+            },
+            {
+                "link": "https://video-meta.humix.com/poster/1lTqX_Y5Ma2Y/YnyE4ZIP5l2_xTqqur.jpg?w=640",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "servo",
+            "c++",
+            "easing",
+            "servo-easing",
+            "arduino",
+            "code",
+            "hardware",
+            "firmware"
+        ],
+        "highlights": [],
+        "important": false,
+        "removed": false,
+        "created": "2024-01-26T12:13:42.922Z",
+        "lastUpdate": "2024-01-26T12:13:42.922Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "domain": "deepbluembedded.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 722109383,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 373648,
+            "created": "2024-01-29T00:47:35.052Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://deepbluembedded.com/stm32-servo-motor-control-with-pwm-servo-library-examples-code/"
+    },
+    "solhsa.com - tutorials": {
+        "_id": 719350893,
+        "link": "https://solhsa.com/interpolation/",
+        "excerpt": "",
+        "note": "A visual and simple explanation of the calculations for easing. Much easier to follow because they pull out the bit that is needed.",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://solhsa.com/interpolation/linear.gif",
+        "media": [
+            {
+                "link": "https://solhsa.com/interpolation/linear.gif",
+                "type": "image"
+            },
+            {
+                "link": "https://solhsa.com/interpolation/smoothstep.gif",
+                "type": "image"
+            },
+            {
+                "link": "https://solhsa.com/interpolation/squared.gif",
+                "type": "image"
+            },
+            {
+                "link": "https://solhsa.com/interpolation/cubed.gif",
+                "type": "image"
+            },
+            {
+                "link": "https://solhsa.com/interpolation/smoothstepx.gif",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "easing",
+            "servo",
+            "servo-easing",
+            "formulas",
+            "calculations"
+        ],
+        "important": false,
+        "reminder": {
+            "date": null
+        },
+        "removed": false,
+        "created": "2024-01-23T00:48:03.365Z",
+        "lastUpdate": "2024-01-23T00:49:00.312Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "highlights": [],
+        "domain": "solhsa.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 719350893,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 313976,
+            "created": "2024-01-23T00:51:26.696Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://solhsa.com/interpolation/"
+    },
+    "ServoEasing/examples at master \u00b7 ArminJo/ServoEasing": {
+        "_id": 719345978,
+        "link": "https://github.com/ArminJo/ServoEasing/tree/master/examples#servoeasing-examples",
+        "excerpt": "",
+        "note": "Sophisticated (too?) package for servo easing in all possible permutations!",
+        "type": "document",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://camo.githubusercontent.com/e1ef951613bb96909e87ae7c06207aec7aa3b42a60e460362b9e44812161cf9c/68747470733a2f2f692e7974696d672e636f6d2f76692f6643397578644f426866412f687164656661756c742e6a7067",
+        "media": [
+            {
+                "link": "https://camo.githubusercontent.com/e1ef951613bb96909e87ae7c06207aec7aa3b42a60e460362b9e44812161cf9c/68747470733a2f2f692e7974696d672e636f6d2f76692f6643397578644f426866412f687164656661756c742e6a7067",
+                "type": "image"
+            },
+            {
+                "link": "https://github.com/ArminJo/ServoEasing/raw/master/pictures/Wokwi_ThreeServos.png",
+                "type": "image"
+            },
+            {
+                "link": "https://github.com/ArminJo/ServoEasing/raw/master/pictures/NonlinearMovements.png",
+                "type": "image"
+            },
+            {
+                "link": "https://github.com/ArminJo/ServoEasing/raw/master/pictures/SymmetricEasing.png",
+                "type": "image"
+            },
+            {
+                "link": "https://github.com/ArminJo/ServoEasing/raw/master/pictures/AsymmetricEasing.png",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "arduino",
+            "cxx",
+            "servo",
+            "servo-easing",
+            "bouncing"
+        ],
+        "important": false,
+        "reminder": {
+            "date": null
+        },
+        "removed": false,
+        "created": "2024-01-23T00:35:33.927Z",
+        "lastUpdate": "2024-01-23T00:36:09.536Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "highlights": [],
+        "domain": "github.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 719345978,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 6944,
+            "created": "2024-01-23T00:43:00.027Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://github.com/ArminJo/ServoEasing/tree/master/examples#servoeasing-examples"
+    },
+    "Python Packaging, One Year Later: A Look Back at 2023 in Python Packag": {
+        "_id": 718708118,
+        "link": "https://chriswarrick.com/blog/2024/01/15/python-packaging-one-year-later/",
+        "excerpt": "Are there still fourteen tools, or are there even more? Has Python packaging improved in a year?",
+        "note": "Packaging and \u2018includes\u2019 are the worse part of python. This article really highlights the mess. ",
+        "type": "article",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "",
+        "media": [],
+        "tags": [
+            "python",
+            "package",
+            "packaging",
+            "poetry",
+            "pip",
+            "pyenv"
+        ],
+        "highlights": [],
+        "important": false,
+        "removed": false,
+        "created": "2024-01-21T21:48:52.538Z",
+        "lastUpdate": "2024-01-21T21:48:52.538Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "domain": "chriswarrick.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 718708118,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 52777,
+            "created": "2024-01-21T21:54:55.174Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://chriswarrick.com/blog/2024/01/15/python-packaging-one-year-later/"
+    },
+    "Browse - Harry Ransom Center Digital Collections": {
+        "_id": 718547909,
+        "link": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll84/search",
+        "excerpt": "",
+        "note": "Really fun collection! Why is this not showing up!",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://hrc.contentdm.oclc.org/digital/api/singleitem/collection/p15878coll84/id/5004/thumbnail",
+        "media": [
+            {
+                "link": "https://hrc.contentdm.oclc.org/digital/api/singleitem/collection/p15878coll84/id/5004/thumbnail",
+                "type": "image"
+            },
+            {
+                "link": "https://hrc.contentdm.oclc.org/digital/api/singleitem/collection/p15878coll84/id/2334/thumbnail",
+                "type": "image"
+            },
+            {
+                "link": "https://hrc.contentdm.oclc.org/digital/api/singleitem/collection/p15878coll84/id/5808/thumbnail",
+                "type": "image"
+            },
+            {
+                "link": "https://hrc.contentdm.oclc.org/digital/api/singleitem/collection/p15878coll84/id/5452/thumbnail",
+                "type": "image"
+            },
+            {
+                "link": "https://hrc.contentdm.oclc.org/digital/api/singleitem/collection/p15878coll84/id/6242/thumbnail",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "movie",
+            "art",
+            "posters",
+            "image"
+        ],
+        "highlights": [],
+        "important": false,
+        "removed": false,
+        "created": "2024-01-21T16:48:34.941Z",
+        "lastUpdate": "2024-01-23T19:32:47.718Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "domain": "hrc.contentdm.oclc.org",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 718547909,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 300162,
+            "created": "2024-01-21T16:52:49.568Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll84/search"
+    },
+    "Essay | Why Americans Have Lost Faith in the Value of College": {
+        "_id": 717639728,
+        "link": "https://www.wsj.com/us-news/education/why-americans-have-lost-faith-in-the-value-of-college-b6b635f2?mod=latestheadlines_trending_now_article_pos2",
+        "excerpt": "Three generations of \u2018college for all\u2019 in the U.S. has left most families looking for alternatives.",
+        "note": "\"One result of this transactional attitude has been a sharp increase in cheating. College is one of the few products whose consumers try to get as little out of it as possible, because its market value is tied to the credential, not to the education that it is meant to represent, says Bryan Caplan, an economist at George Mason University and author of \u201cThe Case Against Education.\u201d\"",
+        "type": "article",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://images.wsj.net/im-913482/social",
+        "media": [
+            {
+                "link": "https://images.wsj.net/im-913482/social",
+                "type": "image"
+            },
+            {
+                "link": "https://images.wsj.net/im-913482/?width=1278&size=1",
+                "type": "image"
+            },
+            {
+                "link": "https://images.wsj.net/im-895914?width=700&size=1.5005861664712778&pixel_ratio=2",
+                "type": "image"
+            },
+            {
+                "link": "https://images.wsj.net/im-895918?width=700&size=1.5041128084606346&pixel_ratio=2",
+                "type": "image"
+            },
+            {
+                "link": "https://images.wsj.net/im-895473?width=700&size=1.4065934065934067&pixel_ratio=2",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "college",
+            "university",
+            "credentials",
+            "wsj"
+        ],
+        "important": false,
+        "reminder": {
+            "date": null
+        },
+        "removed": false,
+        "created": "2024-01-19T21:40:24.578Z",
+        "lastUpdate": "2024-01-19T21:40:49.548Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "highlights": [],
+        "domain": "wsj.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 717639728,
+        "broken": false,
+        "cache": {
+            "status": "invalid-origin"
+        },
+        "collectionId": 17452361,
+        "url": "https://www.wsj.com/us-news/education/why-americans-have-lost-faith-in-the-value-of-college-b6b635f2?mod=latestheadlines_trending_now_article_pos2"
+    },
+    "Do we think of git commits as diffs, snapshots, and/or histories?": {
+        "_id": 715468692,
+        "link": "https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/",
+        "excerpt": "How git commits really work",
+        "note": "One of a series of in depth articles about how git works and how to understand it. ",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://jvns.ca/images/git-commit-poll.png",
+        "media": [
+            {
+                "link": "https://jvns.ca/images/git-commit-poll.png",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "git",
+            "internals",
+            "how-it-works",
+            "explainer"
+        ],
+        "highlights": [],
+        "important": false,
+        "removed": false,
+        "created": "2024-01-16T12:44:21.167Z",
+        "lastUpdate": "2024-01-16T12:44:21.167Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "domain": "jvns.ca",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 715468692,
+        "cache": {
+            "status": "ready",
+            "size": 96465,
+            "created": "2024-01-16T12:46:53.711Z"
+        },
+        "broken": false,
+        "collectionId": 17452361,
+        "url": "https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/"
+    },
+    "A 3-Question Checklist for Better Course Design": {
+        "_id": 715466388,
+        "link": "https://hbsp.harvard.edu/inspiring-minds/a-3-question-checklist-for-better-course-design?cid=email%7Cmarketo%7C2024-01-09-the-faculty-lounge%7C40168519%7Cfaculty-lounge-newsletter%7Cbutton%7Cvarious%7Cjan2024&acctID=8339156&mkt_tok=ODU1LUFUWi0yOTQAAAGQjRf98p0rqyEydos3HFyTyzlIq6rVPkbFBfJt5X8qLy_-cIaKRDkGH19OYf7-aEq1dEb9u94GXWBVrDHG1raJ1m-Towmmbz3zcFSKKqNyjcTv",
+        "excerpt": "Only when educators are clear on what students should gain by the end of the term can they design effective courses to get them there. Ask yourself these three simple questions when designing your next course to ensure it resonates with students.",
+        "note": "I found this article a good review and reminder about course design and teaching. ",
+        "type": "article",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://images.ctfassets.net/pdakd7vx2wgl/7DaO3C7bkaFviMqkbDLgfM/0690f9a6df8021227171a01f4050a21f/1200x630_social.png",
+        "media": [
+            {
+                "link": "https://images.ctfassets.net/pdakd7vx2wgl/7DaO3C7bkaFviMqkbDLgfM/0690f9a6df8021227171a01f4050a21f/1200x630_social.png",
+                "type": "image"
+            },
+            {
+                "link": "https://images.ctfassets.net/pdakd7vx2wgl/5t0wqcf6aJ8X6EktoATl3H/41e7efd42aa4c1f260c769be6b129d7c/Gould.jpeg",
+                "type": "image"
+            },
+            {
+                "link": "https://images.ctfassets.net/pdakd7vx2wgl/4RNUIPgT1HdnMOzlgDqX7R/96dd12d28fcefc5c53bbbf4b5d09fe09/CRE3248_770x562_article.png",
+                "type": "image"
+            },
+            {
+                "link": "https://images.ctfassets.net/pdakd7vx2wgl/20uiHK8osBgUsT6A839PAH/6e8ea8c151697794396bfdc00351e99e/CRE1794_770x562_article.png",
+                "type": "image"
+            },
+            {
+                "link": "https://images.ctfassets.net/pdakd7vx2wgl/KnMg8ogqOCvNYDXPeTb8O/a0317586e3a6d0cffaed4eb2ec1391e6/770x562_article_7_.png",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "teaching",
+            "howto",
+            "course-design",
+            "higher-education"
+        ],
+        "highlights": [],
+        "important": false,
+        "removed": false,
+        "created": "2024-01-16T12:37:14.942Z",
+        "lastUpdate": "2024-01-16T12:37:14.942Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "domain": "hbsp.harvard.edu",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 715466388,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 1612886,
+            "created": "2024-01-16T12:42:24.515Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://hbsp.harvard.edu/inspiring-minds/a-3-question-checklist-for-better-course-design?cid=email%7Cmarketo%7C2024-01-09-the-faculty-lounge%7C40168519%7Cfaculty-lounge-newsletter%7Cbutton%7Cvarious%7Cjan2024&acctID=8339156&mkt_tok=ODU1LUFUWi0yOTQAAAGQjRf98p0rqyEydos3HFyTyzlIq6rVPkbFBfJt5X8qLy_-cIaKRDkGH19OYf7-aEq1dEb9u94GXWBVrDHG1raJ1m-Towmmbz3zcFSKKqNyjcTv"
+    },
+    "Teaching Journal Articles | Poorvu Center for Teaching and Learning": {
+        "_id": 713520385,
+        "link": "https://poorvucenter.yale.edu/teaching/ideas-teaching/teaching-journal-articles",
+        "excerpt": "",
+        "note": "One scheme for using papers from the literature in teaching. ",
+        "type": "article",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://rdl.ink/render/https%3A%2F%2Fpoorvucenter.yale.edu%2Fteaching%2Fideas-teaching%2Fteaching-journal-articles",
+        "media": [],
+        "tags": [
+            "teaching",
+            "journals",
+            "papers"
+        ],
+        "important": false,
+        "reminder": {
+            "date": null
+        },
+        "removed": false,
+        "created": "2024-01-13T15:24:15.754Z",
+        "lastUpdate": "2024-01-13T15:24:40.648Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "highlights": [],
+        "domain": "poorvucenter.yale.edu",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 713520385,
+        "cache": {
+            "status": "ready",
+            "size": 523090,
+            "created": "2024-01-13T15:26:17.587Z"
+        },
+        "broken": false,
+        "collectionId": 17452361,
+        "url": "https://poorvucenter.yale.edu/teaching/ideas-teaching/teaching-journal-articles"
+    },
+    "Using formatters and linters to manage a large codebase | Tech blog | Kraken Tech": {
+        "_id": 712434958,
+        "link": "https://tech.octopus.energy/news/2024/01/05/linting-and-formatting.html",
+        "excerpt": "Kraken is the world's leading customer & culture platform for utilities.",
+        "note": "Some good actionable advice here !",
+        "type": "article",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://tech.octopus.energy/assets/img/og-image.png",
+        "media": [
+            {
+                "link": "https://tech.octopus.energy/assets/img/og-image.png",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "lint",
+            "python",
+            "ruff",
+            "fixit",
+            "code-formattee"
+        ],
+        "highlights": [],
+        "important": false,
+        "removed": false,
+        "created": "2024-01-11T18:02:07.263Z",
+        "lastUpdate": "2024-01-11T18:02:07.263Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "domain": "tech.octopus.energy",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 712434958,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 136166,
+            "created": "2024-01-11T18:07:17.959Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://tech.octopus.energy/news/2024/01/05/linting-and-formatting.html"
+    },
+    "Full-Stack Toolbox \ud83e\uddf0: Python\ud83d\udc0d Edition": {
+        "_id": 709813591,
+        "link": "https://dev.to/taipy/full-stack-toolbox-python-edition-20h2",
+        "excerpt": "TL;DR   Here are Python libraries that focus on different aspects of full-stack development;...",
+        "note": "",
+        "type": "article",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://res.cloudinary.com/practicaldev/image/fetch/s--DkVgf8YE--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7tggvlji6wlnal0gc6zk.gif",
+        "media": [
+            {
+                "link": "https://res.cloudinary.com/practicaldev/image/fetch/s--DkVgf8YE--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7tggvlji6wlnal0gc6zk.gif",
+                "type": "image"
+            },
+            {
+                "link": "https://res.cloudinary.com/practicaldev/image/fetch/s--teKYvto5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7tggvlji6wlnal0gc6zk.gif",
+                "type": "image"
+            },
+            {
+                "link": "https://res.cloudinary.com/practicaldev/image/fetch/s--KT5jYvJg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8eodxlxdlgr0xh6lrvhz.gif",
+                "type": "image"
+            },
+            {
+                "link": "https://res.cloudinary.com/practicaldev/image/fetch/s--OZuENE6R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0un08vhstrk6zpst5yti.gif",
+                "type": "image"
+            },
+            {
+                "link": "https://res.cloudinary.com/practicaldev/image/fetch/s--FmNMtWGP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/25oebh36ha622u74kpli.gif",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "python",
+            "visualization",
+            "framework",
+            "list"
+        ],
+        "highlights": [],
+        "important": false,
+        "removed": false,
+        "created": "2024-01-06T15:55:16.412Z",
+        "lastUpdate": "2024-01-06T15:55:16.412Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "domain": "dev.to",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 709813591,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 45964672,
+            "created": "2024-01-06T16:04:18.002Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://dev.to/taipy/full-stack-toolbox-python-edition-20h2"
+    },
+    "Static Site Generators": {
+        "_id": 705542023,
+        "link": "https://www.fullstackpython.com/static-site-generator.html",
+        "excerpt": "A static site generator combines a markup language with a templating engine to produce HTML files. Learn more on Full Stack Python.",
+        "note": "Even though I love Nanoc, I continue my forced conversion to Python and am looking for something as nice and simple as Nanoc. Let's see!",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://www.fullstackpython.com/img/pages/default.jpg",
+        "media": [
+            {
+                "link": "https://www.fullstackpython.com/img/pages/default.jpg",
+                "type": "image"
+            },
+            {
+                "link": "https://www.fullstackpython.com/img/visuals/hacker-news-traffic.jpg",
+                "type": "image"
+            },
+            {
+                "link": "https://www.fullstackpython.com/img/visuals/pelican-flow.jpg",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "static-site-generator",
+            "nanoc",
+            "blog",
+            "wordpress",
+            "python"
+        ],
+        "important": false,
+        "reminder": {
+            "date": null
+        },
+        "removed": false,
+        "created": "2023-12-30T15:43:17.510Z",
+        "lastUpdate": "2023-12-30T15:44:01.730Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "highlights": [],
+        "domain": "fullstackpython.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 705542023,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 167022,
+            "created": "2023-12-30T15:57:53.993Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://www.fullstackpython.com/static-site-generator.html"
+    },
+    "Search - Consensus: AI Search Engine for Research": {
+        "_id": 705144695,
+        "link": "https://consensus.app/search/",
+        "excerpt": "Consensus is a search engine that uses AI to find answers in scientific research.",
+        "note": "yada yada",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://consensus.app/images/og-search.png",
+        "media": [
+            {
+                "link": "https://consensus.app/images/og-search.png",
+                "type": "image"
+            }
+        ],
+        "tags": [],
+        "important": false,
+        "reminder": {
+            "date": null
+        },
+        "removed": false,
+        "created": "2023-12-30T01:50:23.847Z",
+        "lastUpdate": "2023-12-30T01:50:27.390Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "highlights": [],
+        "domain": "consensus.app",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 705144695,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 977208,
+            "created": "2023-12-30T01:59:18.706Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://consensus.app/search/"
+    },
+    "Explore Integrations - IFTTT": {
+        "_id": 705136878,
+        "link": "https://ifttt.com/explore",
+        "excerpt": "Get more from the services you love on IFTTT. Explore the latest tips and tricks, browse by category, or search by name.",
+        "note": "This is the note that I added",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://web-assets.ifttt.com/packs/media/shared/ifttt-banner-287889aa7d44e76a8d08.png",
+        "media": [
+            {
+                "link": "https://web-assets.ifttt.com/packs/media/shared/ifttt-banner-287889aa7d44e76a8d08.png",
+                "type": "image"
+            },
+            {
+                "link": "https://assets.ifttt.com/images/channels/59642185/icons/monochrome_large.png",
+                "type": "image"
+            },
+            {
+                "link": "https://assets.ifttt.com/images/channels/1130582453/icons/monochrome_large.png",
+                "type": "image"
+            },
+            {
+                "link": "https://assets.ifttt.com/images/channels/42/icons/monochrome_large.png",
+                "type": "image"
+            },
+            {
+                "link": "https://assets.ifttt.com/images/channels/1469456516/icons/monochrome_large.png",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "test",
+            "tag"
+        ],
+        "important": false,
+        "reminder": {
+            "date": null
+        },
+        "removed": false,
+        "created": "2023-12-30T01:38:44.790Z",
+        "lastUpdate": "2023-12-30T01:38:55.761Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "highlights": [],
+        "domain": "ifttt.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 705136878,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 1762430,
+            "created": "2023-12-30T01:49:51.914Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://ifttt.com/explore"
+    },
+    "Overview / Install \u2014 GitPython 3.1.37 documentation": {
+        "_id": 698817142,
+        "link": "https://gitpython.readthedocs.io/en/stable/intro.html",
+        "excerpt": "null",
+        "note": "Super useful library to access git from python",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://rdl.ink/render/https%3A%2F%2Fgitpython.readthedocs.io%2Fen%2Fstable%2Fintro.html",
+        "media": [],
+        "tags": [
+            "python",
+            "python-package",
+            "git",
+            "cli"
+        ],
+        "removed": false,
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "created": "2023-12-20T18:32:06.721Z",
+        "lastUpdate": "2023-12-25T17:03:14.434Z",
+        "domain": "gitpython.readthedocs.io",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 698906164,
+        "highlights": [],
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 1063760,
+            "created": "2023-12-20T18:40:23.880Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://gitpython.readthedocs.io/en/stable/intro.html"
+    },
+    "Making the EM5 mk 2 High Res Mode Sing By Brad Nichol | Steve Huff Hi-Fi and Photo": {
+        "_id": 668631766,
+        "link": "https://www.stevehuffphoto.com/2016/08/23/making-the-em5-mk-2-high-res-mode-sing-by-brad-nichol/",
+        "excerpt": "Making the EM5 mk 2 High Res Mode Sing By Brad Nichol - His blog is HERE Hi Steve, I though that some of your readers might be interested in a little low down on the Olympus EM5 mk 2 high res mode, it is certainly a popular camera but one that is difficult for",
+        "note": "",
+        "type": "article",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "http://www.stevehuffphoto.com/wp-content/uploads/2020/11/wbs-1.jpg",
+        "media": [
+            {
+                "link": "http://www.stevehuffphoto.com/wp-content/uploads/2020/11/wbs-1.jpg",
+                "type": "image"
+            },
+            {
+                "link": "http://www.stevehuffphoto.com/wp-content/uploads/2015/05/E-M5MarkII-GMT_front_s.jpg",
+                "type": "image"
+            },
+            {
+                "link": "http://www.stevehuffphoto.com/wp-content/uploads/2016/08/8161106A.jpg",
+                "type": "image"
+            },
+            {
+                "link": "http://www.stevehuffphoto.com/wp-content/uploads/2016/08/crop2.jpg",
+                "type": "image"
+            },
+            {
+                "link": "http://www.stevehuffphoto.com/wp-content/uploads/2016/08/8161110A.jpg",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "photography",
+            "dslr",
+            "om-system",
+            "high-res"
+        ],
+        "highlights": [],
+        "important": false,
+        "removed": false,
+        "created": "2023-10-27T03:28:02.097Z",
+        "lastUpdate": "2023-12-25T17:03:14.434Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "domain": "stevehuffphoto.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 698906163,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 262166,
+            "created": "2023-11-25T14:13:52.368Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://www.stevehuffphoto.com/2016/08/23/making-the-em5-mk-2-high-res-mode-sing-by-brad-nichol/"
+    },
+    "Refactoring: Improving the Design of Existing Code (My Notes and Highlights)": {
+        "_id": 656808833,
+        "link": "https://www.akshaykhot.com/notes-on-refactoring/?ref=akshays-blog-newsletter",
+        "excerpt": "I recently re-read Martin Fowler's excellent book on refactoring. It's about improving the design and quality of your code in small steps, without changing external behavior. The book contains detailed descriptions of refactorings, with motivation, mechanics, and an example for each. A must-read.",
+        "note": "",
+        "type": "article",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://www.akshaykhot.com/content/images/2023/10/refactoring.png",
+        "media": [
+            {
+                "link": "https://www.akshaykhot.com/content/images/2023/10/refactoring.png",
+                "type": "image"
+            },
+            {
+                "link": "https://www.akshaykhot.com/content/images/size/w1248/format/webp/2023/10/refactoring.png",
+                "type": "image"
+            },
+            {
+                "link": "https://www.akshaykhot.com/content/images/2023/10/refactoring-3.jpeg",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "software-engineering",
+            "refactoring",
+            "fowler",
+            "howto",
+            "review",
+            "best-bet"
+        ],
+        "highlights": [],
+        "important": false,
+        "removed": false,
+        "created": "2023-10-06T12:18:21.861Z",
+        "lastUpdate": "2023-12-25T17:03:14.434Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "domain": "akshaykhot.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 698906162,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 667908,
+            "created": "2023-11-25T14:13:52.368Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://www.akshaykhot.com/notes-on-refactoring/?ref=akshays-blog-newsletter"
+    },
+    "The Security Hearing of Robert Oppenheimer: An Account": {
+        "_id": 698906161,
+        "link": "https://famous-trials.com/oppenheimer/2688-the-security-hearing-of-robert-oppenheimer-an-account",
+        "excerpt": "",
+        "note": "",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "",
+        "media": [],
+        "tags": [
+            "oppenheimer",
+            "history"
+        ],
+        "important": false,
+        "reminder": {
+            "date": null
+        },
+        "removed": false,
+        "created": "2023-12-20T22:59:52.415Z",
+        "lastUpdate": "2023-12-20T23:00:02.504Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "highlights": [],
+        "domain": "famous-trials.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 698906161,
+        "cache": {
+            "status": "invalid-origin"
+        },
+        "broken": false,
+        "collectionId": 17452361,
+        "url": "https://famous-trials.com/oppenheimer/2688-the-security-hearing-of-robert-oppenheimer-an-account"
+    },
+    "Dollhouse Miniature Siding | Jeepers Dollhouse Miniatures": {
+        "_id": 698902450,
+        "link": "https://jeepersminiatures.com/siding/",
+        "excerpt": "",
+        "note": "",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://rdl.ink/render/https%3A%2F%2Fjeepersminiatures.com%2Fsiding%2F",
+        "media": [],
+        "tags": [
+            "models",
+            "wood",
+            "dollhouses",
+            "modeling"
+        ],
+        "important": false,
+        "reminder": {
+            "date": null
+        },
+        "removed": false,
+        "created": "2023-12-20T22:58:20.191Z",
+        "lastUpdate": "2023-12-20T22:58:37.360Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "highlights": [],
+        "domain": "jeepersminiatures.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 698902450,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 1323302,
+            "created": "2023-12-20T23:00:08.228Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://jeepersminiatures.com/siding/"
+    },
+    "Architectural Model Making Tips | 30X40 Design Workshop": {
+        "_id": 698902396,
+        "link": "https://thirtybyforty.com/blog/architectural-model-making-tips",
+        "excerpt": "",
+        "note": "Design, Model Making",
+        "type": "article",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "http://static1.squarespace.com/static/58b58a96f5e231aa75f48ec4/t/5c7840424785d36ed269da88/1551384668854/architecture-model-making-tools.jpg?format=1500w",
+        "media": [
+            {
+                "link": "http://static1.squarespace.com/static/58b58a96f5e231aa75f48ec4/t/5c7840424785d36ed269da88/1551384668854/architecture-model-making-tools.jpg?format=1500w",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "models",
+            "model-making",
+            "miniature",
+            "diy",
+            "hobbies"
+        ],
+        "important": false,
+        "reminder": {
+            "date": null
+        },
+        "removed": false,
+        "created": "2023-12-20T22:57:45.798Z",
+        "lastUpdate": "2023-12-20T22:58:14.689Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "highlights": [],
+        "domain": "thirtybyforty.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 698902396,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 1640103,
+            "created": "2023-12-20T23:00:08.228Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://thirtybyforty.com/blog/architectural-model-making-tips"
+    },
+    "J. Robert Oppenheimer Personnel Hearings Transcripts : Department of Energy : Free Download, Borrow, and Streaming : Internet Archive": {
+        "_id": 698902002,
+        "link": "https://archive.org/details/OppenheimerHearings/Record%20of%20Classified%20Deletions/",
+        "excerpt": "",
+        "note": "",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://archive.org/services/img/OppenheimerHearings/full/pct:200/0/default.jpg",
+        "media": [
+            {
+                "link": "https://archive.org/services/img/OppenheimerHearings/full/pct:200/0/default.jpg",
+                "type": "image"
+            },
+            {
+                "link": "https://archive.org/services/img/OppenheimerHearings",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "oppenheimer",
+            "history"
+        ],
+        "important": false,
+        "reminder": {
+            "date": null
+        },
+        "removed": false,
+        "created": "2023-12-20T22:54:41.198Z",
+        "lastUpdate": "2023-12-20T22:54:50.790Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "highlights": [],
+        "domain": "archive.org",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 698902002,
+        "cache": {
+            "status": "ready",
+            "size": 729086,
+            "created": "2023-12-20T22:55:16.661Z"
+        },
+        "broken": false,
+        "collectionId": 17452361,
+        "url": "https://archive.org/details/OppenheimerHearings/Record%20of%20Classified%20Deletions/"
+    },
+    "Department of Energy (DOE) OpenNet documents": {
+        "_id": 698901937,
+        "link": "https://www.osti.gov/opennet/hearing",
+        "excerpt": "",
+        "note": "More about oppenheimer",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://rdl.ink/render/https%3A%2F%2Fwww.osti.gov%2Fopennet%2Fhearing",
+        "media": [],
+        "tags": [
+            "oppenheimer",
+            "history"
+        ],
+        "important": false,
+        "reminder": {
+            "date": null
+        },
+        "removed": false,
+        "created": "2023-12-20T22:54:08.862Z",
+        "lastUpdate": "2023-12-20T22:54:22.176Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "highlights": [],
+        "domain": "osti.gov",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 698901937,
+        "cache": {
+            "status": "ready",
+            "size": 93403,
+            "created": "2023-12-20T22:54:45.018Z"
+        },
+        "broken": false,
+        "collectionId": 17452361,
+        "url": "https://www.osti.gov/opennet/hearing"
+    },
+    "In the matter of J. Robert Oppenheimer: transcript of hearing before Personnel Security Board and texts of principal documents and letters : U.S. Atomic Energy Commission : Free Download, Borrow, and Streaming : Internet Archive": {
+        "_id": 698901772,
+        "link": "https://archive.org/details/inmatterofjrober0000usat",
+        "excerpt": "",
+        "note": "",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://archive.org/services/img/inmatterofjrober0000usat/full/pct:200/0/default.jpg",
+        "media": [
+            {
+                "link": "https://archive.org/services/img/inmatterofjrober0000usat/full/pct:200/0/default.jpg",
+                "type": "image"
+            },
+            {
+                "link": "https://archive.org/services/img/inmatterofjrober0000usat",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "oppenheimer",
+            "history"
+        ],
+        "important": false,
+        "reminder": {
+            "date": null
+        },
+        "removed": false,
+        "created": "2023-12-20T22:53:42.547Z",
+        "lastUpdate": "2023-12-20T22:54:02.534Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "highlights": [],
+        "domain": "archive.org",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 698901772,
+        "cache": {
+            "status": "ready",
+            "size": 956368,
+            "created": "2023-12-20T22:54:01.555Z"
+        },
+        "broken": false,
+        "collectionId": 17452361,
+        "url": "https://archive.org/details/inmatterofjrober0000usat"
+    },
+    "What to Wear in Egypt & 11 Egypt Packing List Essentials (2024)": {
+        "_id": 698900828,
+        "link": "https://www.theevolista.com/what-to-wear-in-egypt-10-packing-list-essentials/",
+        "excerpt": "",
+        "note": "If you are going to Egypt!",
+        "type": "article",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://www.theevolista.com/wp-content/uploads/2019/12/What-to-Wear-in-Egypt-10-Things-You-Need-to-Pack.jpg",
+        "media": [
+            {
+                "link": "https://www.theevolista.com/wp-content/uploads/2019/12/What-to-Wear-in-Egypt-10-Things-You-Need-to-Pack.jpg",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "travel",
+            "egypt",
+            "clothing",
+            "packing"
+        ],
+        "important": false,
+        "reminder": {
+            "date": null
+        },
+        "removed": false,
+        "created": "2023-12-20T22:52:02.380Z",
+        "lastUpdate": "2023-12-20T22:52:32.103Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "highlights": [],
+        "domain": "theevolista.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 698900828,
+        "cache": {
+            "status": "ready",
+            "size": 4341556,
+            "created": "2023-12-20T22:52:23.170Z"
+        },
+        "broken": false,
+        "collectionId": 17452361,
+        "url": "https://www.theevolista.com/what-to-wear-in-egypt-10-packing-list-essentials/"
+    },
+    "Software Design by Example": {
+        "_id": 698900686,
+        "link": "https://third-bit.com/sdxpy/",
+        "excerpt": "",
+        "note": "Pretty exhaustive book about software design. Could be a textbook someday.",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://rdl.ink/render/https%3A%2F%2Fthird-bit.com%2Fsdxpy%2F",
+        "media": [],
+        "tags": [
+            "computer-science",
+            "education",
+            "design"
+        ],
+        "important": false,
+        "reminder": {
+            "date": null
+        },
+        "removed": false,
+        "created": "2023-12-20T22:51:09.316Z",
+        "lastUpdate": "2023-12-20T22:51:37.059Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "highlights": [],
+        "domain": "third-bit.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 698900686,
+        "cache": {
+            "status": "ready",
+            "size": 32529,
+            "created": "2023-12-20T22:51:41.752Z"
+        },
+        "broken": false,
+        "collectionId": 17452361,
+        "url": "https://third-bit.com/sdxpy/"
+    },
+    "Always Measure One Level Deeper | July 2018 | Communications of the ACM": {
+        "_id": 698900611,
+        "link": "https://cacm.acm.org/magazines/2018/7/229031-always-measure-one-level-deeper/fulltext",
+        "excerpt": "",
+        "note": "",
+        "type": "article",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://cacm.acm.org/system/assets/0003/1652/062018_CACMpg75_Always-Measure3.large.jpg?1529516084&1529516084",
+        "media": [
+            {
+                "link": "https://cacm.acm.org/system/assets/0003/1652/062018_CACMpg75_Always-Measure3.large.jpg?1529516084&1529516084",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "computer-science",
+            "software-engineering"
+        ],
+        "important": false,
+        "reminder": {
+            "date": null
+        },
+        "removed": false,
+        "created": "2023-12-20T22:50:32.274Z",
+        "lastUpdate": "2023-12-20T22:50:50.209Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "highlights": [],
+        "domain": "cacm.acm.org",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 698900611,
+        "cache": {
+            "status": "ready",
+            "size": 2517824,
+            "created": "2023-12-20T22:51:10.218Z"
+        },
+        "broken": false,
+        "collectionId": 17452361,
+        "url": "https://cacm.acm.org/magazines/2018/7/229031-always-measure-one-level-deeper/fulltext"
+    },
+    "OM System OM-5 + M.Zuiko Digital ED 12-40mm f2.8 P... size comparison - PXLMAG.com": {
+        "_id": 698900202,
+        "link": "https://pxlmag.com/db/camera-size-comparison/0032805d_f4cc8091-0032805d_51964cc6-0032805d_799b8d6e-t60",
+        "excerpt": "",
+        "note": "Handy camera comparison tool. Side by side images of any camera and any lens to see their sizes.",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://pxlmag.com/db/images/size-comparison-tool.png",
+        "media": [
+            {
+                "link": "https://pxlmag.com/db/images/size-comparison-tool.png",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "camera",
+            "lens",
+            "shopping",
+            "visualization"
+        ],
+        "important": false,
+        "reminder": {
+            "date": null
+        },
+        "removed": false,
+        "created": "2023-12-20T22:48:42.395Z",
+        "lastUpdate": "2023-12-20T22:49:19.973Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "highlights": [],
+        "domain": "pxlmag.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 698900202,
+        "cache": {
+            "status": "ready",
+            "size": 3717028,
+            "created": "2023-12-20T22:49:14.203Z"
+        },
+        "broken": false,
+        "collectionId": 17452361,
+        "url": "https://pxlmag.com/db/camera-size-comparison/0032805d_f4cc8091-0032805d_51964cc6-0032805d_799b8d6e-t60"
+    },
+    "Politics and the English Language | The Orwell Foundation": {
+        "_id": 698900140,
+        "link": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/",
+        "excerpt": "",
+        "note": "Useful thoughts about politics and langauge",
+        "type": "article",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://www.orwellfoundation.com/wp-content/uploads/2011/02/Politics-and-the-English-Language-628x1024.jpg",
+        "media": [
+            {
+                "link": "https://www.orwellfoundation.com/wp-content/uploads/2011/02/Politics-and-the-English-Language-628x1024.jpg",
+                "type": "image"
+            },
+            {
+                "link": "https://www.orwellfoundation.com/wp-content/uploads/2011/02/Politics-and-the-English-Language.jpg",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "politics",
+            "writing",
+            "orwell",
+            "english"
+        ],
+        "important": false,
+        "reminder": {
+            "date": null
+        },
+        "removed": false,
+        "created": "2023-12-20T22:48:04.687Z",
+        "lastUpdate": "2023-12-20T22:48:31.659Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "highlights": [],
+        "domain": "orwellfoundation.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 698900140,
+        "cache": {
+            "status": "ready",
+            "size": 483470,
+            "created": "2023-12-20T22:48:49.201Z"
+        },
+        "broken": false,
+        "collectionId": 17452361,
+        "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/"
+    },
+    "Heirloom Wooden Camera Toys | Handmade Charlotte": {
+        "_id": 698899983,
+        "link": "https://www.handmadecharlotte.com/78743/",
+        "excerpt": "",
+        "note": "Wooden toys. Especially cameras.",
+        "type": "article",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://www.handmadecharlotte.com/wp-content/uploads/2020/01/woodencameras1.690.jpg",
+        "media": [
+            {
+                "link": "https://www.handmadecharlotte.com/wp-content/uploads/2020/01/woodencameras1.690.jpg",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "wood",
+            "woodworking",
+            "toys",
+            "shop"
+        ],
+        "important": false,
+        "reminder": {
+            "date": null
+        },
+        "removed": false,
+        "created": "2023-12-20T22:47:03.983Z",
+        "lastUpdate": "2023-12-20T22:47:35.772Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "highlights": [],
+        "domain": "handmadecharlotte.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 698899983,
+        "cache": {
+            "status": "ready",
+            "size": 1333149,
+            "created": "2023-12-20T22:47:59.072Z"
+        },
+        "broken": false,
+        "collectionId": 17452361,
+        "url": "https://www.handmadecharlotte.com/78743/"
+    },
+    "20 Things I've Learned in my 20 Years as a Software Engineer": {
+        "_id": 698105592,
+        "link": "https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/?utm_source=changelog-news",
+        "excerpt": "Important, Read This First You\u2019re about to read a blog post with a lot\u00a0of advice. Learning from those who came before us is instrumental to success, but we often forget an important caveat. Almost all advice is contextual, yet it is rarely delivered with any context. \u201cYou just need to charge more!\u201d says the company [\u2026]",
+        "note": "Interesting learnings. Worth a read ",
+        "type": "article",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://www.simplethread.com/wp-content/uploads/2021/10/20-Things-Ive-Learned-in-My-20-Years-as-a-Software-Engineer.png",
+        "media": [
+            {
+                "link": "https://www.simplethread.com/wp-content/uploads/2021/10/20-Things-Ive-Learned-in-My-20-Years-as-a-Software-Engineer.png",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "software-engineering",
+            "lessons-learned",
+            "advice"
+        ],
+        "highlights": [],
+        "important": false,
+        "removed": false,
+        "created": "2023-12-19T13:23:25.706Z",
+        "lastUpdate": "2023-12-19T13:23:25.706Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "domain": "simplethread.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 698105592,
+        "cache": {
+            "status": "ready",
+            "size": 1402298,
+            "created": "2023-12-19T13:25:11.519Z"
+        },
+        "broken": false,
+        "collectionId": 17452361,
+        "url": "https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/?utm_source=changelog-news"
+    },
+    "How Relational Algebra powers Klaro Cards": {
+        "_id": 696260132,
+        "link": "https://www.klaro.cards/blog/2023/12/08/111-how-relation-algebra-powers-klaro-cards",
+        "excerpt": "The Bmg library at work in Klaro",
+        "note": "Interesting new kid on the block of database access with ruby",
+        "type": "article",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://blog.klaro.cards/s/nytCuM0yeqcwSRHiLj4e3A==.jpg?n=Menger-Schwamm.jpg",
+        "media": [
+            {
+                "link": "https://blog.klaro.cards/s/nytCuM0yeqcwSRHiLj4e3A==.jpg?n=Menger-Schwamm.jpg",
+                "type": "image"
+            },
+            {
+                "link": "https://blog.klaro.cards/s/thumbs/g/nytCuM0yeqcwSRHiLj4e3A==.jpg?n=Menger-Schwamm.jpg",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "sql",
+            "relational",
+            "database",
+            "ruby"
+        ],
+        "highlights": [],
+        "important": false,
+        "removed": false,
+        "created": "2023-12-17T11:59:52.041Z",
+        "lastUpdate": "2023-12-17T11:59:52.041Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "domain": "klaro.cards",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 696260132,
+        "cache": {
+            "status": "ready",
+            "size": 300996,
+            "created": "2023-12-17T12:01:44.767Z"
+        },
+        "broken": false,
+        "collectionId": 17452361,
+        "url": "https://www.klaro.cards/blog/2023/12/08/111-how-relation-algebra-powers-klaro-cards"
+    },
+    "Robotics in Education (RiE) 2024": {
+        "_id": 693121185,
+        "link": "https://rie.science/2024/index.html",
+        "excerpt": "",
+        "note": "",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://rie.science/2024/assets/picture_logo.png",
+        "media": [
+            {
+                "link": "https://rie.science/2024/assets/picture_logo.png",
+                "type": "image"
+            },
+            {
+                "link": "https://rie.science/2024/assets/picture_landing_page.jpg",
+                "type": "image"
+            },
+            {
+                "link": "https://rie.science/2024/assets/picture_proceedings_alternative.jpg",
+                "type": "image"
+            },
+            {
+                "link": "https://rie.science/2024/assets/picture_payment_registration.jpg",
+                "type": "image"
+            },
+            {
+                "link": "https://rie.science/2024/assets/picture_university.jpg",
+                "type": "image"
+            }
+        ],
+        "tags": [],
+        "important": false,
+        "reminder": {
+            "date": null
+        },
+        "removed": false,
+        "created": "2023-12-12T00:52:38.639Z",
+        "lastUpdate": "2023-12-12T00:52:38.639Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "highlights": [],
+        "domain": "rie.science",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 693121185,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 12444455,
+            "created": "2023-12-12T00:54:12.483Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://rie.science/2024/index.html"
+    },
+    "My $500M Mars Rover Mistake: A Failure Story \u2014 Chris Lewicki": {
+        "_id": 688561772,
+        "link": "https://www.chrislewicki.com/articles/failurestory?utm_source=hackernewsletter&utm_medium=email&utm_term=fav",
+        "excerpt": "Some mistakes feel worse than death.",
+        "note": "",
+        "type": "article",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "http://static1.squarespace.com/static/629bbf78894a462d58b8002f/t/656538c27225576eb7dc7a44/1701132485990/Failure+Story+Social+Image.jpeg?format=1500w",
+        "media": [
+            {
+                "link": "http://static1.squarespace.com/static/629bbf78894a462d58b8002f/t/656538c27225576eb7dc7a44/1701132485990/Failure+Story+Social+Image.jpeg?format=1500w",
+                "type": "image"
+            },
+            {
+                "link": "https://images.squarespace-cdn.com/content/v1/629bbf78894a462d58b8002f/79f9a8ee-509c-4dff-919f-23256c24b2e5/lewcki_logo_light+small.png?format=1500w",
+                "type": "image"
+            },
+            {
+                "link": "https://images.squarespace-cdn.com/content/v1/629bbf78894a462d58b8002f/f166dc1c-de26-4de6-b546-96faa8f8a907/Failure+Story+Social+Image_a.png?format=2500w",
+                "type": "image"
+            },
+            {
+                "link": "https://images.squarespace-cdn.com/content/v1/629bbf78894a462d58b8002f/2078b551-cd54-4db3-b62b-eadec971ea4c/jpegPIA04422.jpg?format=2500w",
+                "type": "image"
+            },
+            {
+                "link": "https://images.squarespace-cdn.com/content/v1/629bbf78894a462d58b8002f/509a4fa4-3a81-43b4-bd75-c178dc3d0217/Strip+Chart+PlotZ79296.jpg?format=2500w",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "mars",
+            "engineering",
+            "stories",
+            "mistakes",
+            "learning"
+        ],
+        "highlights": [],
+        "important": false,
+        "removed": false,
+        "created": "2023-12-03T12:43:48.662Z",
+        "lastUpdate": "2023-12-03T12:43:48.662Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "domain": "chrislewicki.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 688561772,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 8304471,
+            "created": "2023-12-03T12:46:11.105Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://www.chrislewicki.com/articles/failurestory?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+    },
+    "RFC processes are a poor fit for most organizations - Jacob Kaplan-Moss": {
+        "_id": 688552692,
+        "link": "https://jacobian.org/2023/dec/1/against-rfcs/",
+        "excerpt": "The RFC process has been a huge success in defining the standards that run the Internet, but naively adopting this process for your company is a mistake. RFC processes tend to fail at most organizations because they lack a clear decision-making step.",
+        "note": "How to make decisions in an organization. Or more like how not to make decisions in organizations. ",
+        "type": "article",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://jacobian.org/cards/against-rfcs.png",
+        "media": [
+            {
+                "link": "https://jacobian.org/cards/against-rfcs.png",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "decision-making",
+            "rfc",
+            "best-practices"
+        ],
+        "highlights": [],
+        "important": false,
+        "removed": false,
+        "created": "2023-12-03T12:01:13.639Z",
+        "lastUpdate": "2023-12-03T12:01:13.639Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "domain": "jacobian.org",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 688552692,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 1121630,
+            "created": "2023-12-03T12:04:57.977Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://jacobian.org/2023/dec/1/against-rfcs/"
+    },
+    "CutList Optimizer": {
+        "_id": 684362377,
+        "link": "https://cutlistoptimizer.com/?utm_campaign=Gareth%27s%20Tips,%20Tools,%20and%20Shop%20Tales&utm_medium=email&utm_source=Revue%20newsletter",
+        "excerpt": "Online panel cutting optimization software. Generate optimized cutting patterns based on the available stock sheets by nesting the required parts.",
+        "note": "Esoteric but very handy in woodworkling!",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "",
+        "media": [],
+        "tags": [
+            "woodworking",
+            "cutting",
+            "saw",
+            "plywood"
+        ],
+        "important": false,
+        "reminder": {
+            "date": null
+        },
+        "removed": false,
+        "created": "2023-11-26T00:05:43.367Z",
+        "lastUpdate": "2023-11-26T00:06:15.804Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "highlights": [],
+        "domain": "cutlistoptimizer.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 684362377,
+        "cache": {
+            "status": "ready",
+            "size": 224265,
+            "created": "2023-11-26T00:06:23.055Z"
+        },
+        "broken": false,
+        "collectionId": 17452361,
+        "url": "https://cutlistoptimizer.com/?utm_campaign=Gareth%27s%20Tips,%20Tools,%20and%20Shop%20Tales&utm_medium=email&utm_source=Revue%20newsletter"
+    },
+    "git branches: intuition & reality": {
+        "_id": 684010799,
+        "link": "https://jvns.ca/blog/2023/11/23/branches-intuition-reality/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav",
+        "excerpt": "",
+        "note": "There are never too many explanations of this. I am still not 100% clear.",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://jvns.ca/images/git-branch.png",
+        "media": [
+            {
+                "link": "https://jvns.ca/images/git-branch.png",
+                "type": "image"
+            },
+            {
+                "link": "https://jvns.ca/images/gh-pr.png",
+                "type": "image"
+            },
+            {
+                "link": "https://jvns.ca/images/backwards-rebase.png",
+                "type": "image"
+            },
+            {
+                "link": "https://jvns.ca/images/merge-two-ways.png",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "git",
+            "branching",
+            "explainer"
+        ],
+        "important": false,
+        "reminder": {
+            "date": null
+        },
+        "removed": false,
+        "created": "2023-11-25T02:43:31.923Z",
+        "lastUpdate": "2023-11-25T02:44:04.695Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "highlights": [],
+        "domain": "jvns.ca",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 684010799,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 665674,
+            "created": "2023-11-25T14:13:52.368Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://jvns.ca/blog/2023/11/23/branches-intuition-reality/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+    },
+    "petercorke/robotics-toolbox-python: Robotics Toolbox for Python": {
+        "_id": 683259043,
+        "link": "https://github.com/petercorke/robotics-toolbox-python",
+        "excerpt": "Robotics Toolbox for Python. Contribute to petercorke/robotics-toolbox-python development by creating an account on GitHub.",
+        "note": "Very useful",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://opengraph.githubassets.com/cd9377f9a1e4fcb461d4d314dfb80b4666d27cd431aeda405ce7a5654930980e/petercorke/robotics-toolbox-python",
+        "media": [
+            {
+                "link": "https://opengraph.githubassets.com/cd9377f9a1e4fcb461d4d314dfb80b4666d27cd431aeda405ce7a5654930980e/petercorke/robotics-toolbox-python",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "robotics",
+            "kinematics",
+            "python",
+            "library",
+            "package"
+        ],
+        "highlights": [],
+        "important": false,
+        "removed": false,
+        "created": "2023-11-23T12:52:58.153Z",
+        "lastUpdate": "2023-11-23T12:52:58.153Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "domain": "github.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 683259043,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 5617529,
+            "created": "2023-11-25T14:13:52.368Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://github.com/petercorke/robotics-toolbox-python"
+    },
+    "How To Use RTK GPS On A ROS Robot": {
+        "_id": 679464309,
+        "link": "https://medium.com/exploring-ros-robotics/how-to-use-rtk-gps-on-a-ros-robot-a51e9aa2f2ab",
+        "excerpt": "Get accurate positioning down to 14 mm!",
+        "note": "Always looking for good info about rtk ",
+        "type": "article",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://miro.medium.com/v2/resize:fit:1200/1*RkCm24BiDaRBwrFykcxLbg.jpeg",
+        "media": [
+            {
+                "link": "https://miro.medium.com/v2/resize:fit:1200/1*RkCm24BiDaRBwrFykcxLbg.jpeg",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "rtk",
+            "gps",
+            "robotics",
+            "howto"
+        ],
+        "highlights": [],
+        "important": false,
+        "removed": false,
+        "created": "2023-11-16T11:35:27.663Z",
+        "lastUpdate": "2023-11-16T11:35:27.663Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "domain": "medium.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 679464309,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 5050075,
+            "created": "2023-11-25T14:19:13.747Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://medium.com/exploring-ros-robotics/how-to-use-rtk-gps-on-a-ros-robot-a51e9aa2f2ab"
+    },
+    "Document Your Python Code and Projects With ChatGPT \u2013 Real Python": {
+        "_id": 678845085,
+        "link": "https://realpython.com/document-python-code-with-chatgpt/",
+        "excerpt": "Good documentation is a critical feature of any successful Python project. In practice, writing documentation is hard and can take a lot of time and effort. Nowadays, with tools like ChatGPT, you can quickly document your Python code and projects.",
+        "note": "",
+        "type": "article",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://files.realpython.com/media/Documenting-Your-Code-with-the-Help-of-ChatGPT_Watermarked.daa041e7ad32.jpg",
+        "media": [
+            {
+                "link": "https://files.realpython.com/media/Documenting-Your-Code-with-the-Help-of-ChatGPT_Watermarked.daa041e7ad32.jpg",
+                "type": "image"
+            },
+            {
+                "link": "https://realpython.com/static/pytrick-dict-merge.4201a0125a5e.png",
+                "type": "image"
+            },
+            {
+                "link": "https://img.realpython.net/3b531c6b64e7b41603a68ad2d1d535fb",
+                "type": "image"
+            },
+            {
+                "link": "https://realpython.com/cdn-cgi/image/width=1920,format=auto/https://files.realpython.com/media/Documenting-Your-Code-with-the-Help-of-ChatGPT_Watermarked.daa041e7ad32.jpg",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "python",
+            "chatgpt",
+            "documentation",
+            "docstrings"
+        ],
+        "highlights": [],
+        "important": false,
+        "removed": false,
+        "created": "2023-11-15T12:48:19.878Z",
+        "lastUpdate": "2023-11-15T12:48:19.878Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "domain": "realpython.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 678845085,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 684649,
+            "created": "2023-12-03T12:04:57.977Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://realpython.com/document-python-code-with-chatgpt/"
+    },
+    "An unbiased evaluation of environment management and packaging tools": {
+        "_id": 678842775,
+        "link": "https://alpopkes.com/posts/python/packaging_tools/",
+        "excerpt": "Amazing summary of all the crazy dev tools in the python world.",
+        "note": "Why oh why are there so many overlaps?",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://alpopkes.com/images/author/image_al.jpg",
+        "media": [
+            {
+                "link": "https://alpopkes.com/images/author/image_al.jpg",
+                "type": "image"
+            },
+            {
+                "link": "https://alpopkes.com/posts/python/figures/venn_diagram.png",
+                "type": "image"
+            },
+            {
+                "link": "https://alpopkes.com/posts/python/figures/python_version_management.png",
+                "type": "image"
+            },
+            {
+                "link": "https://alpopkes.com/posts/python/figures/env_management.png",
+                "type": "image"
+            },
+            {
+                "link": "https://alpopkes.com/posts/python/figures/package_management.png",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "python",
+            "build",
+            "pyenv",
+            "poetry",
+            "version-manager"
+        ],
+        "highlights": [],
+        "important": false,
+        "removed": false,
+        "created": "2023-11-15T12:39:21.662Z",
+        "lastUpdate": "2023-11-15T12:39:21.662Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "domain": "alpopkes.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 678842775,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 2739819,
+            "created": "2023-11-25T14:13:52.368Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://alpopkes.com/posts/python/packaging_tools/"
+    },
+    "Ask Guy Kawasaki Anything": {
+        "_id": 677260205,
+        "link": "https://www.kawasakigpt.com/",
+        "excerpt": "Let AI answer your questions based on Guy Kawasaki's videos.",
+        "note": "",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://sentiyen-ai-consumer-33gm3djrl-playhouse.vercel.app/api/og-image/social?name=Guy%20Kawasaki&avatar=https%3A%2F%2Fyt3.googleusercontent.com%2FuW7cArKbRRGCHpaGB6ZVMe5E9MzEMsyq97ubMxsyVZmWm8noNV5WqtANrM-K3QtQlTMxafje%3Ds176-c-k-c0x00ffffff-no-rj",
+        "media": [
+            {
+                "link": "https://sentiyen-ai-consumer-33gm3djrl-playhouse.vercel.app/api/og-image/social?name=Guy%20Kawasaki&avatar=https%3A%2F%2Fyt3.googleusercontent.com%2FuW7cArKbRRGCHpaGB6ZVMe5E9MzEMsyq97ubMxsyVZmWm8noNV5WqtANrM-K3QtQlTMxafje%3Ds176-c-k-c0x00ffffff-no-rj",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "gpt",
+            "guy-kawasaki",
+            "cooltool",
+            "chat",
+            "bot"
+        ],
+        "highlights": [],
+        "important": false,
+        "removed": false,
+        "created": "2023-11-12T11:24:46.526Z",
+        "lastUpdate": "2023-11-12T11:24:46.526Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "domain": "kawasakigpt.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 677260205,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 529387,
+            "created": "2023-11-25T14:13:52.368Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://www.kawasakigpt.com/"
+    },
+    "Sample diagrams \u2014 blockdiag 1.0 documentation": {
+        "_id": 676254911,
+        "link": "http://blockdiag.com/en/blockdiag/examples.html",
+        "excerpt": "",
+        "note": "And another great tool!",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "http://blockdiag.com/en/_images/blockdiag-65aa4915fbaf749b122e4ff0f598bd6eed011979.png",
+        "media": [
+            {
+                "link": "http://blockdiag.com/en/_images/blockdiag-65aa4915fbaf749b122e4ff0f598bd6eed011979.png",
+                "type": "image"
+            },
+            {
+                "link": "http://blockdiag.com/en/_images/blockdiag-cd901b0b9fed8dfda80a36f0e1b3c9213dfa81e8.png",
+                "type": "image"
+            },
+            {
+                "link": "http://blockdiag.com/en/_images/blockdiag-0696042c10e817c60a53c204722d61e4f1d971d9.png",
+                "type": "image"
+            },
+            {
+                "link": "http://blockdiag.com/en/_images/blockdiag-0d0b6ffb9699dde3a4db5dd5e8ff9f9a12b09f59.png",
+                "type": "image"
+            },
+            {
+                "link": "http://blockdiag.com/en/_images/blockdiag-999a37864d15e8a37ef721fd3610aa2f9069e98f.png",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "diagram",
+            "drawing",
+            "illustration",
+            "graphviz"
+        ],
+        "important": false,
+        "reminder": {
+            "date": null
+        },
+        "removed": false,
+        "created": "2023-11-11T02:24:18.907Z",
+        "lastUpdate": "2023-11-11T02:24:37.832Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "highlights": [],
+        "domain": "blockdiag.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 676254911,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 525442,
+            "created": "2023-11-25T14:13:52.368Z"
+        },
+        "collectionId": 17452361,
+        "url": "http://blockdiag.com/en/blockdiag/examples.html"
+    },
+    "Excalidraw \u2014 Collaborative whiteboarding made easy": {
+        "_id": 676254826,
+        "link": "https://excalidraw.com/",
+        "excerpt": "Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.",
+        "note": "Another grade drawing and diagram tool!",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://excalidraw.com/og-image-2.png",
+        "media": [
+            {
+                "link": "https://excalidraw.com/og-image-2.png",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "drawing",
+            "diagrams",
+            "drag-and-drop",
+            "visualization",
+            "illustration"
+        ],
+        "important": false,
+        "reminder": {
+            "date": null
+        },
+        "removed": false,
+        "created": "2023-11-11T02:23:03.035Z",
+        "lastUpdate": "2023-11-11T02:23:35.035Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "highlights": [],
+        "domain": "excalidraw.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 676254826,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 476079,
+            "created": "2023-11-25T14:13:52.368Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://excalidraw.com/"
+    },
+    "Kroki!": {
+        "_id": 675850466,
+        "link": "https://kroki.io/",
+        "excerpt": "",
+        "note": "Amazing set of diagram makers that I had never seen. All I knew about was Graphviz.",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://kroki.io/assets/kroki_cheatsheet_20210515_v1.1_EN.jpeg",
+        "media": [
+            {
+                "link": "https://kroki.io/assets/kroki_cheatsheet_20210515_v1.1_EN.jpeg",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "graphviz",
+            "diagran",
+            "api",
+            "python",
+            "images",
+            "maps",
+            "flowcharts"
+        ],
+        "important": false,
+        "reminder": {
+            "date": null
+        },
+        "removed": false,
+        "created": "2023-11-10T12:26:39.948Z",
+        "lastUpdate": "2023-11-10T12:27:13.941Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "highlights": [],
+        "domain": "kroki.io",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 675850466,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 373546,
+            "created": "2023-11-25T14:13:52.368Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://kroki.io/"
+    },
+    "Analyzing Data 170,000x Faster with Python": {
+        "_id": 672376434,
+        "link": "https://sidsite.com/posts/python-corrset-optimization/",
+        "excerpt": "The article, Analyzing Data 180,000x Faster with Rust, first presents some unoptimized Python code, and then shows the process of rewriting and optimizing the code in Rust, resulting in a 180,000x speed-up. The author notes:",
+        "note": "Very nice example of optimizing code, and showing at least one example of how to make a python program ultra fast. ",
+        "type": "article",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "",
+        "media": [],
+        "tags": [
+            "python",
+            "optimization",
+            "numpy",
+            "numba",
+            "source-code",
+            "howto"
+        ],
+        "highlights": [],
+        "important": false,
+        "removed": false,
+        "created": "2023-11-03T11:24:31.392Z",
+        "lastUpdate": "2023-11-03T11:24:31.392Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "domain": "sidsite.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 672376434,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 81901,
+            "created": "2023-11-25T14:13:52.368Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://sidsite.com/posts/python-corrset-optimization/"
+    },
+    "Developing a Multithreaded Kernel From Scratch!": {
+        "_id": 668419362,
+        "link": "https://www.udemy.com/course/developing-a-multithreaded-kernel-from-scratch/",
+        "excerpt": "Build a multitasking operating system and kernel with an interactive shell!",
+        "note": "A really excellent super detailed course. If you want to learn down and dirty about Operating SYstems this is a good one!",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://img-c.udemycdn.com/course/480x270/3721456_d2e9.jpg",
+        "media": [
+            {
+                "link": "https://img-c.udemycdn.com/course/480x270/3721456_d2e9.jpg",
+                "type": "image"
+            },
+            {
+                "link": "https://img-b.udemycdn.com/course/480x270/3721456_d2e9.jpg",
+                "type": "image"
+            },
+            {
+                "link": "https://img-b.udemycdn.com/course/480x270/3452470_d92a_3.jpg",
+                "type": "image"
+            },
+            {
+                "link": "https://img-b.udemycdn.com/course/480x270/2023774_c640_2.jpg",
+                "type": "image"
+            },
+            {
+                "link": "https://img-b.udemycdn.com/course/480x270/4868846_69ba_3.jpg",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "udemy",
+            "operating-system",
+            "kernel",
+            "course",
+            "education"
+        ],
+        "important": false,
+        "reminder": {
+            "date": null
+        },
+        "removed": false,
+        "created": "2023-10-26T18:12:39.294Z",
+        "lastUpdate": "2023-10-26T18:13:37.698Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "highlights": [],
+        "domain": "udemy.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 668419362,
+        "broken": false,
+        "cache": {
+            "status": "invalid-origin"
+        },
+        "collectionId": 17452361,
+        "url": "https://www.udemy.com/course/developing-a-multithreaded-kernel-from-scratch/"
+    },
+    "Introduction - Ruby Science by thoughtbot": {
+        "_id": 666848193,
+        "link": "https://thoughtbot.com/ruby-science/introduction.html?utm_source=shortruby&utm_campaign=shortruby_0063&ref=shortruby.com",
+        "excerpt": "",
+        "note": "A beautiful book, free, online, full of actionable advice for ruby devs.",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://thoughtbot.com/social/social-media-banner-generic.png",
+        "media": [
+            {
+                "link": "https://thoughtbot.com/social/social-media-banner-generic.png",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "ruby",
+            "howto",
+            "best-bet",
+            "patterns",
+            "software-engineering"
+        ],
+        "highlights": [],
+        "important": false,
+        "removed": false,
+        "created": "2023-10-24T11:52:13.412Z",
+        "lastUpdate": "2023-10-24T11:52:13.412Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "domain": "thoughtbot.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 666848193,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 171650,
+            "created": "2023-11-25T14:13:52.368Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://thoughtbot.com/ruby-science/introduction.html?utm_source=shortruby&utm_campaign=shortruby_0063&ref=shortruby.com"
+    },
+    "Must have 10 years experience with Lineman.js": {
+        "_id": 666831552,
+        "link": "https://blog.testdouble.com/posts/2023-10-16-must-have-10-years-experience-with-lineman-js/",
+        "excerpt": "10 years ago, we released an awesome CLI for developing single-page JavaScript applications. So, why did it fail?",
+        "note": "",
+        "type": "article",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://cdn-blog.testdouble.com/img/social/must-have-10-years-experience-with-lineman-js.582a660a15f144cb607f7ebed6b4d86ab7f148abdb51f8a272687bab8ec79cf8.jpg",
+        "media": [
+            {
+                "link": "https://cdn-blog.testdouble.com/img/social/must-have-10-years-experience-with-lineman-js.582a660a15f144cb607f7ebed6b4d86ab7f148abdb51f8a272687bab8ec79cf8.jpg",
+                "type": "image"
+            },
+            {
+                "link": "https://cdn-blog.testdouble.com/img/must-have-10-years-experience-with-lineman-js/lineman-logo.50240c2b15302857bdefdea2ea261cb968cbfaee017c75d8225d989edccd61ba.png",
+                "type": "image"
+            },
+            {
+                "link": "https://cdn-blog.testdouble.com/img/authors/002.3cfb60d5ec1d39461b43574539faf0533acab4e898d5318abee7882a6b2e1eb0.jpg",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "lineman",
+            "js",
+            "javascript",
+            "strategy",
+            "open-source"
+        ],
+        "highlights": [],
+        "important": false,
+        "removed": false,
+        "created": "2023-10-24T11:20:03.485Z",
+        "lastUpdate": "2023-10-24T11:20:03.485Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "domain": "blog.testdouble.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 666831552,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 1633967,
+            "created": "2023-11-25T14:13:52.368Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://blog.testdouble.com/posts/2023-10-16-must-have-10-years-experience-with-lineman-js/"
+    },
+    "Packaging Python Projects \u2014 Python Packaging User Guide": {
+        "_id": 657713414,
+        "link": "https://packaging.python.org/en/latest/tutorials/packaging-projects/",
+        "excerpt": "",
+        "note": "Really good instructions for packaging Python packages.",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://rdl.ink/render/https%3A%2F%2Fpackaging.python.org%2Fen%2Flatest%2Ftutorials%2Fpackaging-projects%2F",
+        "media": [
+            {
+                "type": "image",
+                "link": "https://rdl.ink/render/https%3A%2F%2Fpackaging.python.org%2Fen%2Flatest%2Ftutorials%2Fpackaging-projects%2F",
+                "screenshot": true
+            }
+        ],
+        "tags": [
+            "python",
+            "package",
+            "distribution",
+            "howto"
+        ],
+        "important": false,
+        "reminder": {
+            "date": null
+        },
+        "removed": false,
+        "created": "2023-10-07T23:53:51.070Z",
+        "lastUpdate": "2023-10-07T23:54:13.820Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "highlights": [
+            {
+                "text": "python3 -m pip install --index-url https://test.pypi.org/simple/ --no-deps example-package-YOUR-USERNAME-HERE",
+                "note": "",
+                "created": "2023-10-07T23:53:51.054Z",
+                "lastUpdate": "2023-10-07T23:53:51.070Z",
+                "creatorRef": 624427,
+                "_id": "6521ef8ffd27dd69c74a0ca5"
+            }
+        ],
+        "domain": "packaging.python.org",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 657713414,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 234769,
+            "created": "2023-11-25T14:13:52.368Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://packaging.python.org/en/latest/tutorials/packaging-projects/"
+    },
+    "Lessons From Debugging": {
+        "_id": 655372298,
+        "link": "https://matt-rickard.com/lessons-from-debugging?utm_source=changelog-news",
+        "excerpt": "By June 1949, people had begun to realize that it was not so easy to get a program right as had at one time appeared. It was on one of my journeys between the EDSAC room and the punching equipment that the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs. \u2014 Maurice Wilkes, creator of the first stored-program computer, EDSAC  Debugging is programming, and programming is often mostly debugging. One of t",
+        "note": "",
+        "type": "article",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://matt-rickard.com/api/og?title=Lessons%20From%20Debugging",
+        "media": [
+            {
+                "link": "https://matt-rickard.com/api/og?title=Lessons%20From%20Debugging",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "debugging",
+            "howto",
+            "best-bet",
+            "best-practices"
+        ],
+        "highlights": [],
+        "important": false,
+        "removed": false,
+        "created": "2023-10-03T12:03:32.520Z",
+        "lastUpdate": "2023-10-03T12:03:32.520Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "domain": "matt-rickard.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 655372298,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 26646,
+            "created": "2023-11-25T14:13:52.368Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://matt-rickard.com/lessons-from-debugging?utm_source=changelog-news"
+    },
+    "Wedding Watches: The 10 Best Brands According to Our Instagram Fans": {
+        "_id": 654365714,
+        "link": "https://teddybaldassarre.com/blogs/watches/wedding-watches?utm_source=EDITORIAL&utm_medium=email&utm_campaign=Mark%20Weekly%20Recap%209%2F30%20%2801HBBJPBT8214WB0VCDTKJD3JS%29&triplesource=klaviyo&_kx=P3j4QhYEgPunjq4qRWgAvj8r-1XO_IC3HyePwevUnXk%3D.JFDzfK",
+        "excerpt": "Weddings are an occasion for gift giving, and a fine watch always makes an ideal gift, whether it\u2019s from a parent to a prospective son- or daughter-in-law, a groom to a best man, or exchanged between the betrothed couple in addition to (or in place of) the traditional rings. What are the best wedding watches? We put th",
+        "note": "",
+        "type": "article",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "http://teddybaldassarre.com/cdn/shop/articles/Hamilton-Intra-Matic-Chronograph-H-FI.jpg?v=1695742790",
+        "media": [
+            {
+                "link": "http://teddybaldassarre.com/cdn/shop/articles/Hamilton-Intra-Matic-Chronograph-H-FI.jpg?v=1695742790",
+                "type": "image"
+            },
+            {
+                "link": "https://teddybaldassarre.com/cdn/shop/files/Tissot-PRX-35mm-Powermatic-blue-2_x800.jpg?v=1687802802",
+                "type": "image"
+            },
+            {
+                "link": "https://teddybaldassarre.com/cdn/shop/files/Untitled-1_770dbaad-0587-4bfd-badc-e08587731b6d_x800.jpg?v=1691522147",
+                "type": "image"
+            },
+            {
+                "link": "https://teddybaldassarre.com/cdn/shop/files/Untitled-1_21edbb8a-5552-4264-bf89-50a4e1329df1_x800.jpg?v=1694541158",
+                "type": "image"
+            },
+            {
+                "link": "https://teddybaldassarre.com/cdn/shop/articles/Hamilton-Intra-Matic-Chronograph-H-FI_2000x.jpg?v=1695742790",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "watches",
+            "guide",
+            "buy",
+            "shop"
+        ],
+        "highlights": [],
+        "important": false,
+        "removed": false,
+        "created": "2023-09-30T11:42:16.964Z",
+        "lastUpdate": "2023-09-30T11:42:16.964Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "domain": "teddybaldassarre.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 654365714,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 12611282,
+            "created": "2023-11-25T14:19:13.747Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://teddybaldassarre.com/blogs/watches/wedding-watches?utm_source=EDITORIAL&utm_medium=email&utm_campaign=Mark%20Weekly%20Recap%209%2F30%20%2801HBBJPBT8214WB0VCDTKJD3JS%29&triplesource=klaviyo&_kx=P3j4QhYEgPunjq4qRWgAvj8r-1XO_IC3HyePwevUnXk%3D.JFDzfK"
+    },
+    "Pygmy Patriotism": {
+        "_id": 650947240,
+        "link": "https://www.theatlantic.com/magazine/archive/1969/11/pygmy-patriotism/659281/",
+        "excerpt": "None",
+        "note": "More interesting history about Oppenheimer and the bomb",
+        "type": "article",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://cdn.theatlantic.com/static/theatlantic/img/lacroix-default-thumbnail.png",
+        "media": [
+            {
+                "link": "https://cdn.theatlantic.com/static/theatlantic/img/lacroix-default-thumbnail.png",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "bomb",
+            "oppenheimer",
+            "nuclear",
+            "history",
+            "history journalism newspapers"
+        ],
+        "highlights": [],
+        "important": false,
+        "removed": false,
+        "created": "2023-09-23T19:45:45.801Z",
+        "lastUpdate": "2023-09-24T15:02:37.017Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "domain": "theatlantic.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 650947377,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 556539,
+            "created": "2023-11-25T14:13:52.368Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://www.theatlantic.com/magazine/archive/1969/11/pygmy-patriotism/659281/"
+    },
+    "The Open Mind": {
+        "_id": 650947197,
+        "link": "https://www.theatlantic.com/magazine/archive/1949/02/the-open-mind/305431/",
+        "excerpt": "None",
+        "note": "More interesting history about Oppenheimer and the bomb",
+        "type": "article",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://cdn.theatlantic.com/thumbor/0dtyoSNknNzfuVplHbvEObIK8T4=/0x133:2376x1371/1200x625/media/img/2017/08/AP_869174129484/original.jpg",
+        "media": [
+            {
+                "link": "https://cdn.theatlantic.com/thumbor/0dtyoSNknNzfuVplHbvEObIK8T4=/0x133:2376x1371/1200x625/media/img/2017/08/AP_869174129484/original.jpg",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "oppenheimer",
+            "history",
+            "bomb",
+            "nuclear",
+            "lecture"
+        ],
+        "highlights": [],
+        "important": false,
+        "removed": false,
+        "created": "2023-09-23T19:45:22.210Z",
+        "lastUpdate": "2023-09-24T15:02:50.607Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "domain": "theatlantic.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 650947376,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 943981,
+            "created": "2023-11-25T14:13:52.368Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://www.theatlantic.com/magazine/archive/1949/02/the-open-mind/305431/"
+    },
+    "Death by a thousand microservices": {
+        "_id": 648905085,
+        "link": "https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html?utm_source=changelog-news",
+        "excerpt": "The software industry is learning once again that complexity kills",
+        "note": "I couldn\u2019t agree more!",
+        "type": "article",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://renegadeotter.com/img/complexity/og.jpg",
+        "media": [
+            {
+                "link": "https://renegadeotter.com/img/complexity/og.jpg",
+                "type": "image"
+            },
+            {
+                "link": "https://renegadeotter.com/img/complexity/theway.webp",
+                "type": "image"
+            },
+            {
+                "link": "https://renegadeotter.com/img/complexity/af.png",
+                "type": "image"
+            },
+            {
+                "link": "https://renegadeotter.com/img/complexity/threads-team.webp",
+                "type": "image"
+            },
+            {
+                "link": "https://renegadeotter.com/img/complexity/twitter3.png",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "microservice",
+            "architecture",
+            "scaling",
+            "bike-shedding",
+            "commentary"
+        ],
+        "highlights": [],
+        "important": false,
+        "removed": false,
+        "created": "2023-09-18T23:17:44.886Z",
+        "lastUpdate": "2023-09-18T23:17:44.886Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "domain": "renegadeotter.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 648905085,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 6130295,
+            "created": "2023-11-25T14:13:52.368Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html?utm_source=changelog-news"
+    },
+    "Let's Implement the Map Method from First Principles": {
+        "_id": 644003681,
+        "link": "https://www.akshaykhot.com/map-from-first-principles/?ref=akshays-blog-newsletter",
+        "excerpt": "Those new to functional programming often wonder when to use higher-order functions (or blocks/procs/lambdas in Ruby). I did, too. In this post, we'll implement the map method from scratch, in turn gaining an intuitive understanding of higher-order functions and when to use them.",
+        "note": "Great article explaining Ruby map, lambda and proc.",
+        "type": "article",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://www.akshaykhot.com/content/images/2023/09/code-2.png",
+        "media": [
+            {
+                "link": "https://www.akshaykhot.com/content/images/2023/09/code-2.png",
+                "type": "image"
+            },
+            {
+                "link": "https://www.akshaykhot.com/content/images/size/w2000/2023/09/code-2.png",
+                "type": "image"
+            },
+            {
+                "link": "https://www.akshaykhot.com/content/images/2023/06/closures.png",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "ruby",
+            "explainer",
+            "proc",
+            "lambda",
+            "map"
+        ],
+        "highlights": [],
+        "important": false,
+        "removed": false,
+        "created": "2023-09-09T12:11:05.543Z",
+        "lastUpdate": "2023-09-09T12:11:05.543Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "domain": "akshaykhot.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 644003681,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 485688,
+            "created": "2023-11-25T14:13:52.368Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://www.akshaykhot.com/map-from-first-principles/?ref=akshays-blog-newsletter"
+    },
+    "NandGame - Build a computer from scratch.": {
+        "_id": 643761961,
+        "link": "https://nandgame.com",
+        "excerpt": "An educational puzzle game. Solve a series of tasks where you build increasingly powerful components. Starts with the simplest logical components and ends up with a programmable computer.",
+        "note": "Another really cool geek game where you build a whole CPU from individual nands etc. Crazy tedious.",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://rdl.ink/render/https%3A%2F%2Fnandgame.com",
+        "media": [
+            {
+                "link": "https://rdl.ink/render/https%3A%2F%2Fnandgame.com",
+                "type": "image",
+                "screenshot": true
+            }
+        ],
+        "tags": [
+            "game",
+            "circuit",
+            "nand",
+            "cpu"
+        ],
+        "removed": false,
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "created": "2023-09-08T20:18:09.401Z",
+        "lastUpdate": "2023-09-08T20:18:56.476Z",
+        "domain": "nandgame.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 643761961,
+        "highlights": [],
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 161155,
+            "created": "2023-11-25T14:13:52.368Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://nandgame.com"
+    },
+    "You're the OS!": {
+        "_id": 643761830,
+        "link": "https://drfreckles42.itch.io/youre-the-os?utm_source=changelog-news",
+        "excerpt": "Become a computer operating system and try not to anger the user!",
+        "note": "Really cool game to learn something about operating systems.",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://img.itch.zone/aW1nLzEyOTgzMzY1LnBuZw==/original/Ib6g02.png",
+        "media": [
+            {
+                "link": "https://img.itch.zone/aW1nLzEyOTgzMzY1LnBuZw==/original/Ib6g02.png",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "operating-system",
+            "game",
+            "teaching",
+            "learning"
+        ],
+        "removed": false,
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "created": "2023-09-08T20:17:11.366Z",
+        "lastUpdate": "2023-09-08T20:17:41.043Z",
+        "domain": "drfreckles42.itch.io",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 643761830,
+        "highlights": [],
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 1555965,
+            "created": "2023-11-25T14:13:52.368Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://drfreckles42.itch.io/youre-the-os?utm_source=changelog-news"
+    },
+    "Tutorials for Raspberry Pi \u2013 Instructions & Projects": {
+        "_id": 643399585,
+        "link": "https://tutorials-raspberrypi.com",
+        "excerpt": "Tutorials for Raspberry Pi \u26ab Projects and Applications for Beginners and Experts \u26ab Raspberry Pi First Steps \u26ab and many other RasPi Tutorials.",
+        "note": "Always good to have tutorials!",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://tutorials-raspberrypi.com/wp-content/uploads/2016/10/Raspberry-Pi-Gas-Sensor-MQ-2-450x450.jpg",
+        "media": [
+            {
+                "link": "https://tutorials-raspberrypi.com/wp-content/uploads/2016/10/Raspberry-Pi-Gas-Sensor-MQ-2-450x450.jpg",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "raspberry-pi",
+            "tutorials",
+            "cooltools"
+        ],
+        "removed": false,
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "created": "2023-09-08T00:16:54.184Z",
+        "lastUpdate": "2023-09-08T00:17:13.060Z",
+        "domain": "tutorials-raspberrypi.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 643399585,
+        "highlights": [],
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 632513,
+            "created": "2023-11-25T14:13:52.368Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://tutorials-raspberrypi.com"
+    },
+    "Cura\u00e7ao Jews Home page": {
+        "_id": 643399489,
+        "link": "https://curacaojews.org",
+        "excerpt": "Learn about the Jews of Cura\u00e7ao: their rich history, magnificent synagogues, historic cemeteries, fascinating museums, and other delightful other sites. Find everything you need to plan a visit. CuracaoJews.org is an initiative of the Jewish Cultural Historical Museum as we approach 400 years of Jewish life recorded on the island of Cura\u00e7ao.",
+        "note": "Web site with info about Curacao jews",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://rdl.ink/render/https%3A%2F%2Fcuracaojews.org",
+        "media": [
+            {
+                "link": "https://rdl.ink/render/https%3A%2F%2Fcuracaojews.org",
+                "type": "image",
+                "screenshot": true
+            }
+        ],
+        "tags": [
+            "curacao",
+            "jews",
+            "snoa",
+            "jewish",
+            "history"
+        ],
+        "removed": false,
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "created": "2023-09-08T00:15:43.639Z",
+        "lastUpdate": "2023-09-08T00:16:02.578Z",
+        "domain": "curacaojews.org",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 643399489,
+        "highlights": [],
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 3656743,
+            "created": "2023-11-25T14:19:13.747Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://curacaojews.org"
+    },
+    "Writing an Operating System From Scratch": {
+        "_id": 643399346,
+        "link": "https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf",
+        "excerpt": "null",
+        "note": "Always been a project I wanted to do. Learn about the operating system from scratch!",
+        "type": "document",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://rdl.ink/render/https%3A%2F%2Fwww.cs.bham.ac.uk%2F~exr%2Flectures%2Fopsys%2F10_11%2Flectures%2Fos-dev.pdf",
+        "media": [
+            {
+                "link": "https://rdl.ink/render/https%3A%2F%2Fwww.cs.bham.ac.uk%2F~exr%2Flectures%2Fopsys%2F10_11%2Flectures%2Fos-dev.pdf",
+                "type": "image",
+                "screenshot": true
+            }
+        ],
+        "tags": [
+            "OS",
+            "operating-system",
+            "howto",
+            "project"
+        ],
+        "removed": false,
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "created": "2023-09-08T00:14:02.472Z",
+        "lastUpdate": "2023-09-08T00:14:44.350Z",
+        "domain": "cs.bham.ac.uk",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 643399346,
+        "highlights": [],
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 774438,
+            "created": "2023-11-25T14:13:52.368Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf"
+    },
+    "Home": {
+        "_id": 643399281,
+        "link": "https://github.com/kevquirk/simple.css/wiki",
+        "excerpt": "Simple.css is a classless CSS template that allows you to make a good looking website really quickly. - kevquirk/simple.css",
+        "note": "Very very small css library. Maybe?",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://opengraph.githubassets.com/7cce8eaeef35c3d9bfc172f6bc7b278e9a2e70036c6eb8b12429d9e751394715/kevquirk/simple.css",
+        "media": [
+            {
+                "link": "https://opengraph.githubassets.com/7cce8eaeef35c3d9bfc172f6bc7b278e9a2e70036c6eb8b12429d9e751394715/kevquirk/simple.css",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "css",
+            "cooltool",
+            "framework",
+            "web"
+        ],
+        "removed": false,
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "created": "2023-09-08T00:12:58.680Z",
+        "lastUpdate": "2023-09-08T00:13:16.352Z",
+        "domain": "github.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 643399281,
+        "highlights": [],
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 242405,
+            "created": "2023-11-25T14:13:52.368Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://github.com/kevquirk/simple.css/wiki"
+    },
+    "What To Watch On Streaming - A Good Movie To Watch": {
+        "_id": 643398902,
+        "link": "https://agoodmovietowatch.com",
+        "excerpt": "agoodmovietowatch is the world\u2019s first portal of highly-rated but little-known movies and shows. Curated by humans and not algorithms.",
+        "note": "Excellent and very smart. Movie recommendation engine.",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://agoodmovietowatch.com/assets/agmtw_logo.png",
+        "media": [
+            {
+                "link": "https://agoodmovietowatch.com/assets/agmtw_logo.png",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "movies",
+            "cooltool",
+            "recommendations",
+            "films",
+            "streaming"
+        ],
+        "removed": false,
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "created": "2023-09-08T00:11:39.906Z",
+        "lastUpdate": "2023-09-08T00:12:16.000Z",
+        "domain": "agoodmovietowatch.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 643398902,
+        "highlights": [],
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 10594827,
+            "created": "2023-11-25T14:19:13.747Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://agoodmovietowatch.com"
+    },
+    "Learn something new on Wyzant.com!": {
+        "_id": 643398608,
+        "link": "https://www.wyzant.com",
+        "excerpt": "With over 10 million hours of instruction provided since 2005, Wyzant.com is the nation's largest marketplace for in-person...",
+        "note": "Web site for finding and being a tutor",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://www.wyzant.com/images/facebook/og-image-logo.gif",
+        "media": [
+            {
+                "link": "https://www.wyzant.com/images/facebook/og-image-logo.gif",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "jobs",
+            "tutor",
+            "search"
+        ],
+        "removed": false,
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "created": "2023-09-08T00:10:40.796Z",
+        "lastUpdate": "2023-09-08T00:10:58.432Z",
+        "domain": "wyzant.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 643398608,
+        "highlights": [],
+        "broken": false,
+        "duplicate": 418040353,
+        "cache": {
+            "status": "ready",
+            "size": 1854391,
+            "created": "2023-11-25T14:13:52.368Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://www.wyzant.com"
+    },
+    "Swurl - Search everything": {
+        "_id": 643398441,
+        "link": "https://swurl.com",
+        "excerpt": "Search Google, YouTube, Instagram, TikTok, Twitter, Reddit, Amazon, Images, News, & more. See all results by swiping \u2014 no clicking.",
+        "note": "Extremely cool alternative search engine.",
+        "type": "link",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://swurl.com/img/swurl.com-screenshot.png",
+        "media": [
+            {
+                "link": "https://swurl.com/img/swurl.com-screenshot.png",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "cooltoolm",
+            "search",
+            "google"
+        ],
+        "removed": false,
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "created": "2023-09-08T00:09:35.465Z",
+        "lastUpdate": "2023-09-08T00:09:51.845Z",
+        "domain": "swurl.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 643398441,
+        "highlights": [],
+        "broken": false,
+        "duplicate": 481158512,
+        "cache": {
+            "status": "ready",
+            "size": 933237,
+            "created": "2023-11-25T14:13:52.368Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://swurl.com"
+    },
+    "Syllabi Policies for AI Generative Tools": {
+        "_id": 643398286,
+        "link": "https://docs.google.com/document/d/1RMVwzjc1o0Mi8Blw_-JUTcXv02b2WRH86vw7mi16W3U/edit#heading=h.1cykjn2vg2wx",
+        "excerpt": "Syllabi Policies for AI Generative Tools  If you would like to submit your course guidelines/policy  to be included here, please submit it in this form.    Update:  If you would like a more searchable version of this document, try out this spreadsheet that allows you to sort by Course, Discipline...",
+        "note": "Generates a quote from literature for every minute in the day! Fun!",
+        "type": "document",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://lh3.googleusercontent.com/docs/AOD9vFrDe2tJOzJZAZYE6GMTluTZd4sRYpMYt7o40zfZ65E8sV4XukfrnFYPHq1Szj2DV989GU69C7ZEPm48q7XQIBiuoTQcZyu6_CQOVsMlC_Kx=w1200-h630-p",
+        "media": [
+            {
+                "link": "https://lh3.googleusercontent.com/docs/AOD9vFrDe2tJOzJZAZYE6GMTluTZd4sRYpMYt7o40zfZ65E8sV4XukfrnFYPHq1Szj2DV989GU69C7ZEPm48q7XQIBiuoTQcZyu6_CQOVsMlC_Kx=w1200-h630-p",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "fun",
+            "literature",
+            "clock",
+            "time",
+            "cooltool"
+        ],
+        "removed": false,
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "created": "2023-09-08T00:07:21.905Z",
+        "lastUpdate": "2023-09-08T00:07:53.051Z",
+        "domain": "docs.google.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 643398286,
+        "highlights": [],
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 6850512,
+            "created": "2023-11-25T14:19:13.747Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://docs.google.com/document/d/1RMVwzjc1o0Mi8Blw_-JUTcXv02b2WRH86vw7mi16W3U/edit#heading=h.1cykjn2vg2wx"
+    },
+    "Tracing the Lines: From the Telephone to Unix": {
+        "_id": 643397947,
+        "link": "https://www.deusinmachina.net/p/history-of-unix?r=1slq0e&utm_medium=ios&utm_campaign=post",
+        "excerpt": "The telephone, invented by Alexander Graham Bell in 1876, sparked a revolution in communication. A year later, in 1877, he established the Bell Telephone Company. This marked the beginning of a fascinating journey, leading to the formation of the Volta Bureau in 1880. Guided by Bell, the Volta Bureau became a research hub, making strides in multiple scientific fields.",
+        "note": "Great history about Unix!",
+        "type": "article",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc087116c-69b8-40eb-863a-34654c4294d8_1024x820.jpeg",
+        "media": [
+            {
+                "link": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc087116c-69b8-40eb-863a-34654c4294d8_1024x820.jpeg",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "history",
+            "unix",
+            "pdp-11"
+        ],
+        "removed": false,
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "created": "2023-09-08T00:03:40.457Z",
+        "lastUpdate": "2023-09-08T00:06:31.700Z",
+        "domain": "deusinmachina.net",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 643397947,
+        "highlights": [],
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 997045,
+            "created": "2023-11-25T14:13:52.368Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://www.deusinmachina.net/p/history-of-unix?r=1slq0e&utm_medium=ios&utm_campaign=post"
+    },
+    "The Worst Programmer I Know": {
+        "_id": 641789827,
+        "link": "https://dannorth.net/2023/09/02/the-worst-programmer/?utm_source=changelog-news",
+        "excerpt": "The great thing about measuring developer productivity is that you can quickly identify the bad programmers. I want to tell you about the worst programmer I know, and why I fought to keep him in the team.",
+        "note": "",
+        "type": "article",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://dannorth.net/2023/09/02/the-worst-programmer/dilbert-bug-free-software-1024x311.gif",
+        "media": [
+            {
+                "link": "https://dannorth.net/2023/09/02/the-worst-programmer/dilbert-bug-free-software-1024x311.gif",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "productivity",
+            "metrics",
+            "10x"
+        ],
+        "highlights": [],
+        "important": false,
+        "removed": false,
+        "created": "2023-09-05T23:24:36.840Z",
+        "lastUpdate": "2023-09-05T23:24:36.840Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "domain": "dannorth.net",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 641789827,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 304218,
+            "created": "2023-11-25T14:13:52.368Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://dannorth.net/2023/09/02/the-worst-programmer/?utm_source=changelog-news"
+    },
+    "Costs exposed: Monorepo vs. multirepo - Julio Merino (jmmv.dev)": {
+        "_id": 633721490,
+        "link": "https://jmmv.dev/2023/08/costs-exposed-monorepo-multirepo.html",
+        "excerpt": "In software engineering organizations, there are certain practices that keep costs under control even if those seem more expensive at first. Unfortunately, because such practices feel more expensive, teams choose to keep their status quo even when they know it is suboptimal. This choice ends up hurting productivity and morale because planned work is continuously interrupted, which in turn drags project completion.\nThe reason I say seem and not are is because the alternatives to these cost-exposing practices also suffer from costs. The difference is that, while the former surface costs, leading to the need to allocate time and people to infrastructure work, the latter keeps the costs smeared over teams and individuals in ways that are difficult to account and plan for.\nTo illustrate what I&rsquo;m trying to say, I&rsquo;ll present three different scenarios in which this opinion applies. All of these case studies come from past personal experiences while working in different teams and projects. The first one covered in this post is about the adoption of a monorepo vs. the use of multiple different repositories. The other two will come in follow-up articles.",
+        "note": "I\u2019ve never used a large monorepo myself, but they do seem to be the way to go.",
+        "type": "article",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://jmmv.dev/images/2023-08-23-freebsd-gnome-repos.png",
+        "media": [
+            {
+                "link": "https://jmmv.dev/images/2023-08-23-freebsd-gnome-repos.png",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "repositories",
+            "git",
+            "github",
+            "monorepo",
+            "comparison"
+        ],
+        "highlights": [],
+        "important": false,
+        "removed": false,
+        "created": "2023-08-24T11:47:58.231Z",
+        "lastUpdate": "2023-08-24T11:47:58.231Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "domain": "jmmv.dev",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 633721490,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 724169,
+            "created": "2023-11-25T14:13:52.368Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://jmmv.dev/2023/08/costs-exposed-monorepo-multirepo.html"
+    },
+    "Wonder Tools at ONA \u26a1\ufe0f": {
+        "_id": 633721090,
+        "link": "https://open.substack.com/pub/wondertools/p/wonder-tools-ona-talk?r=1slq0e&utm_medium=ios&utm_campaign=post",
+        "excerpt": "Tools I'm sharing at the Online News Association Conference",
+        "note": "Interesting rundown of meeting transcription tools and services",
+        "type": "article",
+        "user": {
+            "$ref": "users",
+            "$id": 624427
+        },
+        "cover": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9abb5f3f-1641-4fda-a78d-cf17df554148_1786x966.png",
+        "media": [
+            {
+                "link": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9abb5f3f-1641-4fda-a78d-cf17df554148_1786x966.png",
+                "type": "image"
+            }
+        ],
+        "tags": [
+            "cooltools",
+            "transcription",
+            "zoom",
+            "otp",
+            "ai"
+        ],
+        "highlights": [],
+        "important": false,
+        "removed": false,
+        "created": "2023-08-24T11:44:00.151Z",
+        "lastUpdate": "2023-08-24T11:44:00.151Z",
+        "collection": {
+            "$ref": "collections",
+            "$id": 17452361,
+            "oid": 17452361
+        },
+        "domain": "open.substack.com",
+        "creatorRef": {
+            "_id": 624427,
+            "name": "pitosalas",
+            "avatar": "",
+            "email": ""
+        },
+        "sort": 633721090,
+        "broken": false,
+        "cache": {
+            "status": "ready",
+            "size": 1373707,
+            "created": "2023-11-25T14:19:13.747Z"
+        },
+        "collectionId": 17452361,
+        "url": "https://open.substack.com/pub/wondertools/p/wonder-tools-ona-talk?r=1slq0e&utm_medium=ios&utm_campaign=post"
+    }
+}

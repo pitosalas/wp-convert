@@ -1,14 +1,16 @@
 ---
 title: "The stats gap"
 author: Pito Salas
-url: "https://worksinprogress.substack.com/p/the-stats-gap?utm_source=substack&utm_medium=email" 
-cover: "https://worksinprogress.substack.com/p/[object%20Object]" 
 date: 2023-01-08
 tags:
-    - statistics-teaching
+    - statistics
+    - teaching
 ---
-<img src=https://worksinprogress.substack.com/p/[object%20Object] width="500">
 
 
 
-(**Web site except:** Students understand just enough statistics to get by) 
+[ The stats gap](< https://worksinprogress.substack.com/p/the-stats-
+gap?utm_source=substack&utm_medium=email>) –Students understand just enough
+statistics to get by
+
+

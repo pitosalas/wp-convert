@@ -2,10 +2,13 @@
 title: "RFC processes are a poor fit for most organizations - Jacob Kaplan-Moss"
 author: Pito Salas
 url: "https://jacobian.org/2023/dec/1/against-rfcs/" 
+link: "https://jacobian.org/2023/dec/1/against-rfcs/" 
 cover: "https://jacobian.org/cards/against-rfcs.png" 
 date: 2023-12-03
 tags:
-    - decision-tag-making-rfc-best-practices
+    - decision-making
+    - rfc
+    - best-practices
 ---
 <img src=https://jacobian.org/cards/against-rfcs.png width="500">
 

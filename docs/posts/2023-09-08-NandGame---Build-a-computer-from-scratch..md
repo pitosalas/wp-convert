@@ -2,10 +2,14 @@
 title: "NandGame - Build a computer from scratch."
 author: Pito Salas
 url: "https://nandgame.com" 
+link: "https://nandgame.com" 
 cover: "https://rdl.ink/render/https%3A%2F%2Fnandgame.com" 
 date: 2023-09-08
 tags:
-    - game-circuit-nand-cpu
+    - game
+    - circuit
+    - nand
+    - cpu
 ---
 <img src=https://rdl.ink/render/https%3A%2F%2Fnandgame.com width="500">
 

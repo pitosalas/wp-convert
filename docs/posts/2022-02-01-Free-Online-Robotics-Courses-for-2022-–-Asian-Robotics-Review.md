@@ -1,12 +1,17 @@
 ---
 title: "Free Online Robotics Courses for 2022 – Asian Robotics Review"
 author: Pito Salas
-url: "https://asianroboticsreview.com/home584-html" 
-cover: "https://asianroboticsreview.com/wp-content/uploads/elementor/thumbs/freeRobotics1000-pjqupfpojsrbz7nuph5cza2fthcarqhujna6royin8.png" 
 date: 2022-02-01
 tags:
-    - robotics-on-tagline-free-courses
+    - courses
+    - free
 ---
-<img src=https://asianroboticsreview.com/wp-content/uploads/elementor/thumbs/freeRobotics1000-pjqupfpojsrbz7nuph5cza2fthcarqhujna6royin8.png width="500">
+
+
+
+[ Free Online Robotics Courses for 2022 – Asian Robotics
+Review](<https://asianroboticsreview.com/home584-html>)
+
+February 1, 2022 at 02:28PM
 
 

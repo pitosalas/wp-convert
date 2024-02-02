@@ -2,10 +2,14 @@
 title: "Do we think of git commits as diffs, snapshots, and/or histories?"
 author: Pito Salas
 url: "https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/" 
+link: "https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/" 
 cover: "https://jvns.ca/images/git-commit-poll.png" 
 date: 2024-01-16
 tags:
-    - git-internals-how-it-works-explainer
+    - git
+    - internals
+    - how-it-works
+    - explainer
 ---
 <img src=https://jvns.ca/images/git-commit-poll.png width="500">
 

@@ -2,10 +2,15 @@
 title: "Syllabi Policies for AI Generative Tools"
 author: Pito Salas
 url: "https://docs.google.com/document/d/1RMVwzjc1o0Mi8Blw_-JUTcXv02b2WRH86vw7mi16W3U/edit#heading=h.1cykjn2vg2wx" 
+link: "https://docs.google.com/document/d/1RMVwzjc1o0Mi8Blw_-JUTcXv02b2WRH86vw7mi16W3U/edit#heading=h.1cykjn2vg2wx" 
 cover: "https://lh3.googleusercontent.com/docs/AOD9vFrDe2tJOzJZAZYE6GMTluTZd4sRYpMYt7o40zfZ65E8sV4XukfrnFYPHq1Szj2DV989GU69C7ZEPm48q7XQIBiuoTQcZyu6_CQOVsMlC_Kx=w1200-h630-p" 
 date: 2023-09-08
 tags:
-    - fun-literature-clock-time-cooltool
+    - fun
+    - literature
+    - clock
+    - time
+    - cooltool
 ---
 <img src=https://lh3.googleusercontent.com/docs/AOD9vFrDe2tJOzJZAZYE6GMTluTZd4sRYpMYt7o40zfZ65E8sV4XukfrnFYPHq1Szj2DV989GU69C7ZEPm48q7XQIBiuoTQcZyu6_CQOVsMlC_Kx=w1200-h630-p width="500">
 
