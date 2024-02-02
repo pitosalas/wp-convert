@@ -9,6 +9,7 @@ import shutil
 
 POSTS_DIRECTORY = "docs/posts"
 PAGES_DIRECTORY = "docs/pages"
+ORIGINAL_PAGES_DIRECTORY = "data/original_pages"
 
 class BlogBuild:
     def __init__(self):
@@ -35,7 +36,18 @@ class BlogBuild:
         with open('data/wp_pages.json') as json_file:
             self.wp_pages = json.load(json_file)
 
-    
+    def copy_all_files(self, source, destination):
+        count = 0
+        for filename in os.listdir(source):
+            file_path = os.path.join(source, filename)
+            try:
+                if os.path.isfile(file_path):
+                    shutil.copy(file_path, destination)
+                count += 1
+            except Exception as e:
+                print(f'Failed to copy {file_path}. Reason: {e}')
+        print(f"""Total: {count} files copied""")
+
     def run(self):
         self.create_or_empty_directory(POSTS_DIRECTORY)
         self.create_or_empty_directory(PAGES_DIRECTORY)
@@ -46,10 +58,11 @@ class BlogBuild:
         self.generate_drop_posts()
         self.generate_wp_posts()
         self.generate_wp_pages()
-        # self.generate_original_posts()
+        self.incorporate_original_pages()
+        # self.()
 
-    def generate_original_posts(self):
-        pass
+    def incorporate_original_pages(self):   
+        self.copy_all_files(ORIGINAL_PAGES_DIRECTORY, PAGES_DIRECTORY)
 
     def generate_wp_posts(self):
         count = 0
