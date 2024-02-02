@@ -3,6 +3,8 @@ title: "Important new (weekly) release of BlogBridge"
 author: Pito Salas
 date: 2005-06-24
 ---
+# [Important new (weekly) release of BlogBridge](None)
+
 
 
 >>

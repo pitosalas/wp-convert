@@ -8,6 +8,8 @@ tags:
     - power
     - waste
 ---
+# [How much power does it take?](None)
+
 
 
 

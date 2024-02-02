@@ -7,6 +7,8 @@ tags:
     - philosophy
     - religion-tag
 ---
+# [A philosopher defends religion](None)
+
 
 
 

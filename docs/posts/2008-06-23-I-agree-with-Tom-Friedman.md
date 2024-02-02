@@ -3,6 +3,8 @@ title: "I agree with Tom Friedman"
 author: Pito Salas
 date: 2008-06-23
 ---
+# [I agree with Tom Friedman](None)
+
 
 
 

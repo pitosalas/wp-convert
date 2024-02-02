@@ -3,6 +3,8 @@ title: "Cartoon Madness"
 author: Pito Salas
 date: 2006-02-19
 ---
+# [Cartoon Madness](None)
+
 
 
 >>

@@ -3,6 +3,8 @@ title: "Rogert Ebert: Ten things I know about the mosque"
 author: Pito Salas
 date: 2010-08-20
 ---
+# [Rogert Ebert: Ten things I know about the mosque](None)
+
 
 
 

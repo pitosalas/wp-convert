@@ -3,6 +3,8 @@ title: "Microsoft still has some tricks up it’s sleeve: Office 2010"
 author: Pito Salas
 date: 2009-07-13
 ---
+# [Microsoft still has some tricks up it’s sleeve: Office 2010](None)
+
 
 
 

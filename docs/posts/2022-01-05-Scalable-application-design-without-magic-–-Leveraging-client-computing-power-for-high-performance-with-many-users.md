@@ -6,6 +6,8 @@ tags:
     - cloud
     - scaling
 ---
+# [Scalable application design without magic – Leveraging client computing power for high performance with many users](None)
+
 
 
 

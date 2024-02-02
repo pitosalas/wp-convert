@@ -10,6 +10,8 @@ tags:
     - vc
     - venture-capital
 ---
+# [A fascinating story of Curt Shilling’s game company’s demise](None)
+
 
 
 

@@ -7,6 +7,8 @@ tags:
     - object-oriented
     - ruby
 ---
+# [Great new book on Object Oriented design (in Ruby)](None)
+
 
 
 

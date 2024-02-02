@@ -8,6 +8,8 @@ tags:
     - kindle
     - no-tagok
 ---
+# [Dan Lewis, on what it means to ‘own’ something](None)
+
 
 
 

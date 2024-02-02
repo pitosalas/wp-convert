@@ -3,6 +3,8 @@ title: "“Icons: What are they good for?” — “Absolutely Nothing!”"
 author: Pito Salas
 date: 2007-06-05
 ---
+# [“Icons: What are they good for?” — “Absolutely Nothing!”](None)
+
 
 
 

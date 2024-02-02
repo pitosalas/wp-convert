@@ -3,6 +3,8 @@ title: "How Seinfeld as shaped popular culture"
 author: Pito Salas
 date: 2004-12-14
 ---
+# [How Seinfeld as shaped popular culture](None)
+
 
 
 >>

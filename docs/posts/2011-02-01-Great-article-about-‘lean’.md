@@ -5,6 +5,8 @@ date: 2011-02-01
 tags:
     - lean-startups
 ---
+# [Great article about ‘lean’](None)
+
 
 
 

@@ -6,6 +6,8 @@ tags:
     - games
     - schell
 ---
+# [Game Design talk by Jesse Schell](None)
+
 
 
 

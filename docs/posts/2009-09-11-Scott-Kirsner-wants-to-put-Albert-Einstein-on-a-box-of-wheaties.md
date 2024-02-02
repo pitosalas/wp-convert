@@ -3,6 +3,8 @@ title: "Scott Kirsner wants to put Albert Einstein on a box of wheaties"
 author: Pito Salas
 date: 2009-09-11
 ---
+# [Scott Kirsner wants to put Albert Einstein on a box of wheaties](None)
+
 
 
 

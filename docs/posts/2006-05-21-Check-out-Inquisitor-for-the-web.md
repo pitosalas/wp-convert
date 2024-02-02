@@ -3,6 +3,8 @@ title: "Check out Inquisitor for the web"
 author: Pito Salas
 date: 2006-05-21
 ---
+# [Check out Inquisitor for the web](None)
+
 
 
 >>

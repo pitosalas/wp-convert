@@ -9,6 +9,8 @@ tags:
     - humanerror
     - popularmechanics
 ---
+# [Super compelling: Narrative of human error leading to catastrophe](None)
+
 
 
 

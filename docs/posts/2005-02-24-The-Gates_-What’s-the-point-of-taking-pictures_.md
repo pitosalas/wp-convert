@@ -3,6 +3,8 @@ title: "The Gates: What’s the point of taking pictures?"
 author: Pito Salas
 date: 2005-02-24
 ---
+# [The Gates: What’s the point of taking pictures?](None)
+
 
 As I mentioned a few days ago, I went to see "The Gates" - [Environmental art
 by Christo](<http://christojeanneclaude.net/tg.html>). My reaction: much

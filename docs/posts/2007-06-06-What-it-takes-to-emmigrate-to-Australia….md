@@ -3,6 +3,8 @@ title: "What it takes to emmigrate to Australia…"
 author: Pito Salas
 date: 2007-06-06
 ---
+# [What it takes to emmigrate to Australia…](None)
+
 
 
 

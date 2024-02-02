@@ -3,6 +3,8 @@ title: "[GEEK] Note to self: Ruby has no ++ operator"
 author: Pito Salas
 date: 2007-04-13
 ---
+# [[GEEK] Note to self: Ruby has no ++ operator](None)
+
 
 
 

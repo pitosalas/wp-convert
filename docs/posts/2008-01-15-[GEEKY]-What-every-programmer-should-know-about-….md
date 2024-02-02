@@ -3,6 +3,8 @@ title: "[GEEKY] What every programmer should know about …"
 author: Pito Salas
 date: 2008-01-15
 ---
+# [[GEEKY] What every programmer should know about …](None)
+
 
 
 

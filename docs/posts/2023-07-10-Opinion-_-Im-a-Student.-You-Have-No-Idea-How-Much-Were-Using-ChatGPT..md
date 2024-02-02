@@ -8,6 +8,8 @@ tags:
     - opinion-tag
     - teaching
 ---
+# [Opinion | Im a Student. You Have No Idea How Much Were Using ChatGPT.](None)
+
 
 
 

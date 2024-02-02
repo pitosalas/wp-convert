@@ -3,6 +3,8 @@ title: "Some great links for  11/12/2020"
 author: Pito Salas
 date: 2020-11-11
 ---
+# [Some great links for  11/12/2020](None)
+
 
 
 

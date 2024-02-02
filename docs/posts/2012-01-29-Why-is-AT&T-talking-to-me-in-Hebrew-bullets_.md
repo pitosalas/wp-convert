@@ -7,6 +7,8 @@ tags:
     - email
     - hebrew
 ---
+# [Why is AT&T talking to me in Hebrew bullets?](None)
+
 
 
 

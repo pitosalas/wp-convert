@@ -3,6 +3,8 @@ title: "Losing a finger over biometrics"
 author: Pito Salas
 date: 2005-04-18
 ---
+# [Losing a finger over biometrics](None)
+
 
 
 >>

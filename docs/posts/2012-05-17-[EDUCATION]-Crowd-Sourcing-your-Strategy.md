@@ -7,6 +7,8 @@ tags:
     - higher-education-tag
     - strategy
 ---
+# [[EDUCATION] Crowd Sourcing your Strategy](None)
+
 
 
 

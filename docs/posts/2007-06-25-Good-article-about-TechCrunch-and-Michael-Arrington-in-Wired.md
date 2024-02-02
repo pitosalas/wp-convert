@@ -3,6 +3,8 @@ title: "Good article about TechCrunch and Michael Arrington in Wired"
 author: Pito Salas
 date: 2007-06-25
 ---
+# [Good article about TechCrunch and Michael Arrington in Wired](None)
+
 
 
 

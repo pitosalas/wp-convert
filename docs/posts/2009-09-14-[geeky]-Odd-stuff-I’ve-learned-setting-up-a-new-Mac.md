@@ -7,6 +7,8 @@ tags:
     - itunes9
     - sno-tagwleopard
 ---
+# [[geeky] Odd stuff I’ve learned setting up a new Mac](None)
+
 
 
 

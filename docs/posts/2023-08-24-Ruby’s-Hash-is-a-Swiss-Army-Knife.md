@@ -8,6 +8,8 @@ tags:
     - howto
     - ruby
 ---
+# [Ruby’s Hash is a Swiss-Army Knife](None)
+
 
 
 

@@ -3,6 +3,8 @@ title: "XP SP2 Makes a Hash Of It"
 author: Pito Salas
 date: 2004-08-13
 ---
+# [XP SP2 Makes a Hash Of It](None)
+
 
 
 >>

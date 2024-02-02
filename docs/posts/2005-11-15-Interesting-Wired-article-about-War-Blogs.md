@@ -3,6 +3,8 @@ title: "Interesting Wired article about War Blogs"
 author: Pito Salas
 date: 2005-11-15
 ---
+# [Interesting Wired article about War Blogs](None)
+
 
 
 >>

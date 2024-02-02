@@ -3,6 +3,8 @@ title: "Google Toolbar: Where’s the fire?"
 author: Pito Salas
 date: 2005-03-03
 ---
+# [Google Toolbar: Where’s the fire?](None)
+
 
 In case you've come across the flaming debate about how the Google Toolbar is
 evil, you will [appreciate this post:](<http://www.kottke.org/05/03/google-

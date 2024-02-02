@@ -3,6 +3,8 @@ title: "Follow-up up Wall Street Journal about Super Freakonomics Dustup"
 author: Pito Salas
 date: 2009-11-04
 ---
+# [Follow-up up Wall Street Journal about Super Freakonomics Dustup](None)
+
 
 
 

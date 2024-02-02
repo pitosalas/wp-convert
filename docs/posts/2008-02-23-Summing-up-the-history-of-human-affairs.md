@@ -3,6 +3,8 @@ title: "Summing up the history of human affairs"
 author: Pito Salas
 date: 2008-02-23
 ---
+# [Summing up the history of human affairs](None)
+
 
 
 

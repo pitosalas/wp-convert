@@ -10,6 +10,8 @@ tags:
     - lessons-learned
     - advice
 ---
+# [20 Things I've Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/?utm_source=changelog-news)
+
 <img src=https://www.simplethread.com/wp-content/uploads/2021/10/20-Things-Ive-Learned-in-My-20-Years-as-a-Software-Engineer.png width="500">
 
 Interesting learnings. Worth a read 

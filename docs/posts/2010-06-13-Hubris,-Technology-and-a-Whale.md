@@ -3,6 +3,8 @@ title: "Hubris, Technology and a Whale"
 author: Pito Salas
 date: 2010-06-13
 ---
+# [Hubris, Technology and a Whale](None)
+
 
 
 

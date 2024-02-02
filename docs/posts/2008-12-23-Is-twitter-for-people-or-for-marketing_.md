@@ -3,6 +3,8 @@ title: "Is twitter for people or for marketing?"
 author: Pito Salas
 date: 2008-12-23
 ---
+# [Is twitter for people or for marketing?](None)
+
 
 
 

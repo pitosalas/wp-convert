@@ -7,6 +7,8 @@ tags:
     - learning
     - university
 ---
+# [[education] Creative Monopoly](None)
+
 
 
 

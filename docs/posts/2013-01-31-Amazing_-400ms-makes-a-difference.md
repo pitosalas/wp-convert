@@ -6,6 +6,8 @@ tags:
     - market
     - trading
 ---
+# [Amazing: 400ms makes a difference](None)
+
 
 
 

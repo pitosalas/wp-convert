@@ -3,6 +3,8 @@ title: "[JAVA ONE]Sun answers my question"
 author: Pito Salas
 date: 2004-07-13
 ---
+# [[JAVA ONE]Sun answers my question](None)
+
 
 
 >>

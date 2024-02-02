@@ -8,6 +8,8 @@ tags:
     - prairiehomecomanion-tag
     - rightofcenter
 ---
+# [Lake Wobegon and Politics](None)
+
 
 
 

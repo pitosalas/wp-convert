@@ -10,6 +10,8 @@ tags:
     - linux
     - ls
 ---
+# [Modern Alternatives to Some of the Classic Linux Commands – It’s FOSS](None)
+
 
 
 

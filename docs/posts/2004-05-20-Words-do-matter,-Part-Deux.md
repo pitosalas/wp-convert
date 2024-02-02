@@ -3,6 +3,8 @@ title: "Words do matter, Part Deux"
 author: Pito Salas
 date: 2004-05-20
 ---
+# [Words do matter, Part Deux](None)
+
 
 
 >>

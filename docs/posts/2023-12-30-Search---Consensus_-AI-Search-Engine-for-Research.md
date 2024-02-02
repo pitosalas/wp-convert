@@ -6,6 +6,8 @@ link: "https://consensus.app/search/"
 cover: "https://consensus.app/images/og-search.png" 
 date: 2023-12-30
 ---
+# [Search - Consensus: AI Search Engine for Research](https://consensus.app/search/)
+
 <img src=https://consensus.app/images/og-search.png width="500">
 
 yada yada

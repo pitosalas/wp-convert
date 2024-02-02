@@ -3,6 +3,8 @@ title: "Day of reckoning coming for Microsoft?"
 author: Pito Salas
 date: 2005-01-22
 ---
+# [Day of reckoning coming for Microsoft?](None)
+
 
 You've heard this one before: there are more and more truly outstanding pieces
 of software coming out as Open Source. Everyone has heard about FireFox,

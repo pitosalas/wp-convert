@@ -3,6 +3,8 @@ title: "Interesting article about technology and risk"
 author: Pito Salas
 date: 2010-05-28
 ---
+# [Interesting article about technology and risk](None)
+
 
 
 

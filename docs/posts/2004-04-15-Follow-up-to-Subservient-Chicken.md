@@ -3,6 +3,8 @@ title: "Follow-up to Subservient Chicken"
 author: Pito Salas
 date: 2004-04-15
 ---
+# [Follow-up to Subservient Chicken](None)
+
 
 
 >>

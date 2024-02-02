@@ -5,6 +5,8 @@ date: 2021-09-08
 tags:
     - tool
 ---
+# [GitHub – mgdm/htmlq: Like jq, but for HTML.](None)
+
 
 
 

@@ -9,6 +9,8 @@ tags:
     - startups
     - techno-taglogy
 ---
+# [Lies people tell themselves](None)
+
 
 
 

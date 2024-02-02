@@ -3,6 +3,8 @@ title: "From the WSJ: A Summer Myth Debunked"
 author: Pito Salas
 date: 2007-06-29
 ---
+# [From the WSJ: A Summer Myth Debunked](None)
+
 
 
 

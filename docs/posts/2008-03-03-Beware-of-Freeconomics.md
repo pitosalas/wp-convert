@@ -3,6 +3,8 @@ title: "Beware of Freeconomics"
 author: Pito Salas
 date: 2008-03-03
 ---
+# [Beware of Freeconomics](None)
+
 
 
 

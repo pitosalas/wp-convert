@@ -3,6 +3,8 @@ title: "The Stimulus Gets Its Own Logo"
 author: Pito Salas
 date: 2009-03-03
 ---
+# [The Stimulus Gets Its Own Logo](None)
+
 
 
 

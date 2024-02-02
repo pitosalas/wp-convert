@@ -3,6 +3,8 @@ title: "Vista is out-of-sight (not necessarily in a good way)"
 author: Pito Salas
 date: 2007-04-10
 ---
+# [Vista is out-of-sight (not necessarily in a good way)](None)
+
 
 
 

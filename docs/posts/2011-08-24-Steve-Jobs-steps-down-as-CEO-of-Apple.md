@@ -6,6 +6,8 @@ tags:
     - apple
     - steve-jobs
 ---
+# [Steve Jobs steps down as CEO of Apple](None)
+
 
 
 

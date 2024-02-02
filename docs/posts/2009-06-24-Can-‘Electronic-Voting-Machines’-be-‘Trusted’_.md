@@ -3,6 +3,8 @@ title: "Can ‘Electronic Voting Machines’ be ‘Trusted’?"
 author: Pito Salas
 date: 2009-06-24
 ---
+# [Can ‘Electronic Voting Machines’ be ‘Trusted’?](None)
+
 
 
 

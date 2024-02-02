@@ -11,6 +11,8 @@ tags:
     - strategy
     - turnarounds
 ---
+# [What Can We Learn from Barnes & Noble’s Surprising Turnaround?](None)
+
 
 
 

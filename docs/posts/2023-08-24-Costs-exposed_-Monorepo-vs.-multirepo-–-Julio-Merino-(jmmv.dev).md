@@ -9,6 +9,8 @@ tags:
     - mon-tagorepo
     - repositories
 ---
+# [Costs exposed: Monorepo vs. multirepo – Julio Merino (jmmv.dev)](None)
+
 
 
 

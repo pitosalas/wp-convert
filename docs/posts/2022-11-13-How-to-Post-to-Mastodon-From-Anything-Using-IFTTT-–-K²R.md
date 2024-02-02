@@ -7,6 +7,8 @@ tags:
     - ifttt
     - mastodon-tag
 ---
+# [How to Post to Mastodon From Anything Using IFTTT – K²R](None)
+
 
 
 

@@ -3,6 +3,8 @@ title: "Good judgement?"
 author: Pito Salas
 date: 2008-10-21
 ---
+# [Good judgement?](None)
+
 
 
 

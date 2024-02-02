@@ -3,6 +3,8 @@ title: "Steven Pinker on Why We Curse"
 author: Pito Salas
 date: 2007-10-19
 ---
+# [Steven Pinker on Why We Curse](None)
+
 
 
 

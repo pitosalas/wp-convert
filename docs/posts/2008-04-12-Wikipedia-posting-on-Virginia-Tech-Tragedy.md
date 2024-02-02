@@ -5,6 +5,8 @@ date: 2008-04-12
 tags:
     - wikipedia
 ---
+# [Wikipedia posting on Virginia Tech Tragedy](None)
+
 
 
 

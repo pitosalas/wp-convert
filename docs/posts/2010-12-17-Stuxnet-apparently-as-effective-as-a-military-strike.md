@@ -3,6 +3,8 @@ title: "Stuxnet apparently as effective as a military strike"
 author: Pito Salas
 date: 2010-12-17
 ---
+# [Stuxnet apparently as effective as a military strike](None)
+
 
 
 

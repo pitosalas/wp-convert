@@ -3,6 +3,8 @@ title: "Welcome to Movable Type"
 author: Pito Salas
 date: 2004-04-06
 ---
+# [Welcome to Movable Type](None)
+
 
 
 >>

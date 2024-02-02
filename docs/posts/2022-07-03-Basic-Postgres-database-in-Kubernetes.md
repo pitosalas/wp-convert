@@ -1,21 +1,22 @@
 ---
 title: "Basic Postgres database in Kubernetes"
 author: Pito Salas
+url: "https://itnext.io/basic-postgres-database-in-kubernetes-23c7834d91ef" 
+link: "https://itnext.io/basic-postgres-database-in-kubernetes-23c7834d91ef" 
+cover: "https://miro.medium.com/max/1024/0*X7klmLnURu_jnoKq.png" 
 date: 2022-07-03
 tags:
-    - con-tagtainer
-    - docker
-    - howto
+    - postgres
     - k3s
     - pod
-    - postgres
+    - container
+    - docker
+    - howto
 ---
+# [Basic Postgres database in Kubernetes](https://itnext.io/basic-postgres-database-in-kubernetes-23c7834d91ef)
+
+<img src=https://miro.medium.com/max/1024/0*X7klmLnURu_jnoKq.png width="500">
 
 
 
-[ Basic Postgres database in Kubernetes](< https://itnext.io/basic-postgres-
-database-in-kubernetes-23c7834d91ef>) –In this post, we will bring up a
-Postgres database instance in Kubernetes and then connect to this instance
-using a cronjob. The goal is…
-
-
+(**Web site except:** In this post, we will bring up a Postgres database instance in Kubernetes and then connect to this instance using a cronjob. The goal is…) 

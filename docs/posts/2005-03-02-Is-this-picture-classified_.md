@@ -3,6 +3,8 @@ title: "Is this picture classified?"
 author: Pito Salas
 date: 2005-03-02
 ---
+# [Is this picture classified?](None)
+
 
 [![5607434_77c4bfa47d_m.jpg](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/uav/5607434_77c4bfa47d_m.jpg?resize=180%2C131)](<http://www.flickr.com/photos/juan64/5607434/>)I
 am quickly becoming a [Flickr](<http://www.flickr.com/>) fan. What took me so

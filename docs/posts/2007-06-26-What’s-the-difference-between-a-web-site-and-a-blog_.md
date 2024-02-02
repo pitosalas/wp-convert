@@ -3,6 +3,8 @@ title: "What’s the difference between a web site and a blog?"
 author: Pito Salas
 date: 2007-06-26
 ---
+# [What’s the difference between a web site and a blog?](None)
+
 
 
 

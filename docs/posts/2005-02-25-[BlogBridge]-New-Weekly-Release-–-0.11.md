@@ -3,6 +3,8 @@ title: "[BlogBridge] New Weekly Release – 0.11"
 author: Pito Salas
 date: 2005-02-25
 ---
+# [[BlogBridge] New Weekly Release – 0.11](None)
+
 
 Just a quick note that we've updated the weekly build to 0.11. Given that we
 are wrapping things up for our 1.0 Release, which is imminent, changes are

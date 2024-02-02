@@ -8,6 +8,8 @@ tags:
     - mon-tagey
     - quicken
 ---
+# [Mint being acquired by Intuit: Good or Bad?](None)
+
 
 
 

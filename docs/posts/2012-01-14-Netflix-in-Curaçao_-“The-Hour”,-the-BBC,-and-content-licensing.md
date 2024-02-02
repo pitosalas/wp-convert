@@ -9,6 +9,8 @@ tags:
     - netflix
     - thehour
 ---
+# [Netflix in Curaçao: “The Hour”, the BBC, and content licensing](None)
+
 
 
 

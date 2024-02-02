@@ -3,6 +3,8 @@ title: "Spam now two thirds of all email!"
 author: Pito Salas
 date: 2004-05-25
 ---
+# [Spam now two thirds of all email!](None)
+
 
 
 >>

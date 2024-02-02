@@ -3,6 +3,8 @@ title: "Why does anyone care about running Windows on the new Macs?"
 author: Pito Salas
 date: 2006-01-21
 ---
+# [Why does anyone care about running Windows on the new Macs?](None)
+
 
 
 >>

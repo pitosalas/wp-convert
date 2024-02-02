@@ -3,6 +3,8 @@ title: "What planet is scoble living on?"
 author: Pito Salas
 date: 2007-01-01
 ---
+# [What planet is scoble living on?](None)
+
 
 
 >

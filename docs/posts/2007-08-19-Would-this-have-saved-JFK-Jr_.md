@@ -3,6 +3,8 @@ title: "Would this have saved JFK Jr?"
 author: Pito Salas
 date: 2007-08-19
 ---
+# [Would this have saved JFK Jr?](None)
+
 
 
 

@@ -8,6 +8,8 @@ tags:
     - minsky
     - thinking
 ---
+# [Interesting old article by Marvin Minsky](None)
+
 
 
 

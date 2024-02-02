@@ -8,6 +8,8 @@ tags:
     - medicine
     - statins
 ---
+# [Oh, great, now I have to choose between lowering cholesterol and exercise](None)
+
 
 
 

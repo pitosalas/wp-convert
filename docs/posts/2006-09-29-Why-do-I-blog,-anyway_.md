@@ -3,6 +3,8 @@ title: "Why do I blog, anyway?"
 author: Pito Salas
 date: 2006-09-29
 ---
+# [Why do I blog, anyway?](None)
+
 
 
 >

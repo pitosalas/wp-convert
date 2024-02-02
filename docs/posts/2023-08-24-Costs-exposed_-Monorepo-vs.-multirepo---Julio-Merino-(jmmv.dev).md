@@ -12,6 +12,8 @@ tags:
     - monorepo
     - comparison
 ---
+# [Costs exposed: Monorepo vs. multirepo - Julio Merino (jmmv.dev)](https://jmmv.dev/2023/08/costs-exposed-monorepo-multirepo.html)
+
 <img src=https://jmmv.dev/images/2023-08-23-freebsd-gnome-repos.png width="500">
 
 I’ve never used a large monorepo myself, but they do seem to be the way to go.

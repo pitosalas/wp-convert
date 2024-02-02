@@ -3,6 +3,8 @@ title: "Pop!Tech: why do I feel inadequate?"
 author: Pito Salas
 date: 2006-10-19
 ---
+# [Pop!Tech: why do I feel inadequate?](None)
+
 
 
 >

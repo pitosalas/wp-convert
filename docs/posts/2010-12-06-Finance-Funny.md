@@ -7,6 +7,8 @@ tags:
     - mon-tagey
     - quantitative-easing
 ---
+# [Finance Funny](None)
+
 
 
 

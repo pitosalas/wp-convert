@@ -11,6 +11,8 @@ tags:
     - ruby
     - ruby-on-tag-rails
 ---
+# [Rails initializers you don’t know about – Inflections](None)
+
 
 
 

@@ -3,6 +3,8 @@ title: "Getting Your R�sum� Read –"
 author: Pito Salas
 date: 2004-01-27
 ---
+# [Getting Your R�sum� Read –](None)
+
 
 
 >>

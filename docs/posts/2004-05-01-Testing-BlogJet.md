@@ -3,6 +3,8 @@ title: "Testing BlogJet"
 author: Pito Salas
 date: 2004-05-01
 ---
+# [Testing BlogJet](None)
+
 
 
 >>

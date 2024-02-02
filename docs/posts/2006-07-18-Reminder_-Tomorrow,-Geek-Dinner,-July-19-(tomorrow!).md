@@ -3,6 +3,8 @@ title: "Reminder: Tomorrow, Geek Dinner, July 19 (tomorrow!)"
 author: Pito Salas
 date: 2006-07-18
 ---
+# [Reminder: Tomorrow, Geek Dinner, July 19 (tomorrow!)](None)
+
 
 
 >>

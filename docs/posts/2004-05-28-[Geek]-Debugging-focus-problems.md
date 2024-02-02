@@ -3,6 +3,8 @@ title: "[Geek] Debugging focus problems"
 author: Pito Salas
 date: 2004-05-28
 ---
+# [[Geek] Debugging focus problems](None)
+
 
 
 >>

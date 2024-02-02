@@ -8,6 +8,8 @@ tags:
     - shoulda
     - tests
 ---
+# [[GEEKY] Nicer way to run Ruby tests](None)
+
 
 
 

@@ -3,6 +3,8 @@ title: "[GEEK] Playing with Ruby on Mac"
 author: Pito Salas
 date: 2006-10-01
 ---
+# [[GEEK] Playing with Ruby on Mac](None)
+
 
 
 >

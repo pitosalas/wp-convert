@@ -9,6 +9,8 @@ tags:
     - programmer
     - visual-programming-environ-tagments
 ---
+# [David Weinberger has flat feet: Programming](None)
+
 
 
 

@@ -7,6 +7,8 @@ tags:
     - boston-tagglobe
     - bruins
 ---
+# [In Boston, Bruins more important than Bin Laden!](None)
+
 
 
 

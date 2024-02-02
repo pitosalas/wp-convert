@@ -1,0 +1,17 @@
+---
+title: "Ganbreeder"
+author: Pito Salas
+url: "http://www.artbreeder.com/models" 
+link: "http://www.artbreeder.com/models" 
+cover: "https://artbreeder.com/image/grid_512.jpg" 
+date: 2021-04-06
+tags:
+    - deepfakes ai graphics art
+---
+# [Ganbreeder](http://www.artbreeder.com/models)
+
+<img src=https://artbreeder.com/image/grid_512.jpg width="500">
+
+
+
+(**Web site except:** Pretty interesting example of generative art and AI deepfakes related technology. And pretty pictures too.) 

@@ -3,6 +3,8 @@ title: "Why Blogs are great, #102"
 author: Pito Salas
 date: 2004-09-10
 ---
+# [Why Blogs are great, #102](None)
+
 
 
 >>

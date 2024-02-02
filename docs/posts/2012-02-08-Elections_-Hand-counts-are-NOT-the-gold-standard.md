@@ -9,6 +9,8 @@ tags:
     - handcounting
     - voting
 ---
+# [Elections: Hand counts are NOT the gold standard](None)
+
 
 
 

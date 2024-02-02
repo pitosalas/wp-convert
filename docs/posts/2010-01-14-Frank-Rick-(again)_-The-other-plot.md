@@ -8,6 +8,8 @@ tags:
     - market-failure
     - markets
 ---
+# [Frank Rick (again): The other plot](None)
+
 
 
 

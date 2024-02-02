@@ -3,6 +3,8 @@ title: "Doomsday Cult"
 author: Pito Salas
 date: 2008-04-02
 ---
+# [Doomsday Cult](None)
+
 
 
 

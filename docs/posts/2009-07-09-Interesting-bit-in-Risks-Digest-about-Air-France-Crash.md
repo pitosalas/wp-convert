@@ -3,6 +3,8 @@ title: "Interesting bit in Risks Digest about Air France Crash"
 author: Pito Salas
 date: 2009-07-09
 ---
+# [Interesting bit in Risks Digest about Air France Crash](None)
+
 
 
 

@@ -7,6 +7,8 @@ tags:
     - gigaom
     - techno-taglogy
 ---
+# [Software Technology hotspots in the USA](None)
+
 
 
 

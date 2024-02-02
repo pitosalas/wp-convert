@@ -3,6 +3,8 @@ title: "Are magazines committing suicide?"
 author: Pito Salas
 date: 2008-12-02
 ---
+# [Are magazines committing suicide?](None)
+
 
 
 

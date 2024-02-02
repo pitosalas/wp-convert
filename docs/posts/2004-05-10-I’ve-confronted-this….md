@@ -3,6 +3,8 @@ title: "I’ve confronted this…"
 author: Pito Salas
 date: 2004-05-10
 ---
+# [I’ve confronted this…](None)
+
 
 
 >>

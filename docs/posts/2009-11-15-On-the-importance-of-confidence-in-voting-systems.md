@@ -3,6 +3,8 @@ title: "On the importance of confidence in voting systems"
 author: Pito Salas
 date: 2009-11-15
 ---
+# [On the importance of confidence in voting systems](None)
+
 
 
 

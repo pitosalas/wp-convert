@@ -9,6 +9,8 @@ tags:
     - mathematics
     - photography
 ---
+# [Fibonacci series and Photography](None)
+
 
 
 

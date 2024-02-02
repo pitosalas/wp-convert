@@ -3,6 +3,8 @@ title: "Worth reading: 5 Programming Languages You’ll Need Next Year (and Beyo
 author: Pito Salas
 date: 2014-07-30
 ---
+# [Worth reading: 5 Programming Languages You’ll Need Next Year (and Beyond)](None)
+
 
 
 

@@ -3,6 +3,8 @@ title: "June in Paradise"
 author: Pito Salas
 date: 2008-06-09
 ---
+# [June in Paradise](None)
+
 
 
 

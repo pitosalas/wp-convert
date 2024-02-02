@@ -3,6 +3,8 @@ title: "Echo Chamber, redux: Are we"
 author: Pito Salas
 date: 2004-02-11
 ---
+# [Echo Chamber, redux: Are we](None)
+
 
 
 >>

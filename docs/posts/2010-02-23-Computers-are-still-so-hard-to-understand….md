@@ -3,6 +3,8 @@ title: "Computers are still so hard to understand…"
 author: Pito Salas
 date: 2010-02-23
 ---
+# [Computers are still so hard to understand…](None)
+
 
 
 

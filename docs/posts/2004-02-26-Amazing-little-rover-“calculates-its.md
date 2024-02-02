@@ -3,6 +3,8 @@ title: "Amazing little rover “calculates its"
 author: Pito Salas
 date: 2004-02-26
 ---
+# [Amazing little rover “calculates its](None)
+
 
 
 >>

@@ -7,6 +7,8 @@ tags:
     - introduction-tag
     - mastodon-tag
 ---
+# [Mastodon – Decentralized social media](None)
+
 
 
 

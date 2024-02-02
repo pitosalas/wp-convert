@@ -8,6 +8,8 @@ tags:
     - Programming
     - women
 ---
+# [How to be a “woman programmer”](None)
+
 
 
 

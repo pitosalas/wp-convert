@@ -9,6 +9,8 @@ tags:
     - ruby
     - software-engineering
 ---
+# [Introduction – Ruby Science by thoughtbot](None)
+
 
 
 

@@ -8,6 +8,8 @@ tags:
     - inno-tagvation-tag
     - mark-twain
 ---
+# [Mark Twain: All Ideas are Second-Hand](None)
+
 
 
 

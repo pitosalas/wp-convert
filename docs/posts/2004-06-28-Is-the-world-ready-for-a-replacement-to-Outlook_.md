@@ -3,6 +3,8 @@ title: "Is the world ready for a replacement to Outlook?"
 author: Pito Salas
 date: 2004-06-28
 ---
+# [Is the world ready for a replacement to Outlook?](None)
+
 
 
 >>

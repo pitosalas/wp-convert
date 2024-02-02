@@ -3,6 +3,8 @@ title: "Surprising and against conventional wisdom: Americans still love to buy 
 author: Pito Salas
 date: 2008-09-17
 ---
+# [Surprising and against conventional wisdom: Americans still love to buy DVDs](None)
+
 
 
 

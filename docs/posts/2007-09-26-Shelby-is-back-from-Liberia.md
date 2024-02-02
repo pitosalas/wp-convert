@@ -3,6 +3,8 @@ title: "Shelby is back from Liberia"
 author: Pito Salas
 date: 2007-09-26
 ---
+# [Shelby is back from Liberia](None)
+
 
 
 

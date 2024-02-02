@@ -3,6 +3,8 @@ title: "Agent Based Modeling"
 author: Pito Salas
 date: 2004-09-08
 ---
+# [Agent Based Modeling](None)
+
 
 
 >>

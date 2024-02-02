@@ -3,6 +3,8 @@ title: "Why is this funny?"
 author: Pito Salas
 date: 2006-12-29
 ---
+# [Why is this funny?](None)
+
 
 
 >

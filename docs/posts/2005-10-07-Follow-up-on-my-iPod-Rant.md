@@ -3,6 +3,8 @@ title: "Follow-up on my iPod Rant"
 author: Pito Salas
 date: 2005-10-07
 ---
+# [Follow-up on my iPod Rant](None)
+
 
 
 >>

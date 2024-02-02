@@ -3,6 +3,8 @@ title: "Did you see what Amazon Stock did yesterday?"
 author: Pito Salas
 date: 2009-10-24
 ---
+# [Did you see what Amazon Stock did yesterday?](None)
+
 
 
 

@@ -3,6 +3,8 @@ title: "Federal judge orders halt to NSA spy program"
 author: Pito Salas
 date: 2006-08-17
 ---
+# [Federal judge orders halt to NSA spy program](None)
+
 
 From ZDNet: [Federal judge orders halt to NSA spy program | Tech News on
 ZDNet](<http://news.zdnet.com/2100-1035_22-6106772.html?tag=nl.e589> "Federal

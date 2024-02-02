@@ -3,6 +3,8 @@ title: "A touching piece by Curt Schilling"
 author: Pito Salas
 date: 2009-05-02
 ---
+# [A touching piece by Curt Schilling](None)
+
 
 
 

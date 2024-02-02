@@ -9,6 +9,8 @@ tags:
     - students
     - teaching
 ---
+# [Selling course notes: a market solution](None)
+
 
 
 

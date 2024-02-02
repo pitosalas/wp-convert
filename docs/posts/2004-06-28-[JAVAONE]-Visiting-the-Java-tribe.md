@@ -3,6 +3,8 @@ title: "[JAVAONE] Visiting the Java tribe"
 author: Pito Salas
 date: 2004-06-28
 ---
+# [[JAVAONE] Visiting the Java tribe](None)
+
 
 
 >>

@@ -12,6 +12,8 @@ tags:
     - poetry
     - version-manager
 ---
+# [An unbiased evaluation of environment management and packaging tools](https://alpopkes.com/posts/python/packaging_tools/)
+
 <img src=https://alpopkes.com/images/author/image_al.jpg width="500">
 
 Why oh why are there so many overlaps?

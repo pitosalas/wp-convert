@@ -6,6 +6,8 @@ tags:
     - future
     - prediction-tags
 ---
+# [It’s easy to predict the future!](None)
+
 
 
 >>

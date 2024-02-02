@@ -3,6 +3,8 @@ title: "What We Propose"
 author: Pito Salas
 date: 2023-09-23
 ---
+# [What We Propose](None)
+
 
 
 

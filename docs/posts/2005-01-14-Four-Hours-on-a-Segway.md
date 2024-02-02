@@ -3,6 +3,8 @@ title: "Four Hours on a Segway"
 author: Pito Salas
 date: 2005-01-14
 ---
+# [Four Hours on a Segway](None)
+
 
 I think the **Segway Human Transporter** is really cool, and I've read many
 articles about how they work and what they are like. But this past weekend I

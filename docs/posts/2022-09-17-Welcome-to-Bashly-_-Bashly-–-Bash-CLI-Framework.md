@@ -9,6 +9,8 @@ tags:
     - cooltool
     - howto
 ---
+# [Welcome to Bashly | Bashly – Bash CLI Framework](None)
+
 
 
 

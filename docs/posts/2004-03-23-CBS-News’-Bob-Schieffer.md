@@ -3,6 +3,8 @@ title: "CBS News’ Bob Schieffer"
 author: Pito Salas
 date: 2004-03-23
 ---
+# [CBS News’ Bob Schieffer](None)
+
 
 
 >>

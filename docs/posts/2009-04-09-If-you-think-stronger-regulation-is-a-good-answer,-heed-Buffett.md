@@ -7,6 +7,8 @@ tags:
     - investing
     - regulation-tag
 ---
+# [If you think stronger regulation is a good answer, heed Buffett](None)
+
 
 
 

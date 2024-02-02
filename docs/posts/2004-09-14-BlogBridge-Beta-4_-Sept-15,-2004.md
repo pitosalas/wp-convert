@@ -3,6 +3,8 @@ title: "BlogBridge Beta 4: Sept 15, 2004"
 author: Pito Salas
 date: 2004-09-14
 ---
+# [BlogBridge Beta 4: Sept 15, 2004](None)
+
 
 
 >>

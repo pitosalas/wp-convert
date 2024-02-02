@@ -11,6 +11,8 @@ tags:
     - teaching
     - learning
 ---
+# [You're the OS!](https://drfreckles42.itch.io/youre-the-os?utm_source=changelog-news)
+
 <img src=https://img.itch.zone/aW1nLzEyOTgzMzY1LnBuZw==/original/Ib6g02.png width="500">
 
 Really cool game to learn something about operating systems.

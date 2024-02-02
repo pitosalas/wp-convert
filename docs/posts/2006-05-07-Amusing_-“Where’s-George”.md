@@ -3,6 +3,8 @@ title: "Amusing: “Where’s George”"
 author: Pito Salas
 date: 2006-05-07
 ---
+# [Amusing: “Where’s George”](None)
+
 
 
 >>

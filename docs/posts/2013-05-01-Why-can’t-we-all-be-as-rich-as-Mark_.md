@@ -9,6 +9,8 @@ tags:
     - mark-zuckerberg
     - vc
 ---
+# [Why can’t we all be as rich as Mark?](None)
+
 
 
 

@@ -3,6 +3,8 @@ title: "Ok it’s official: The Maldives is the most beautiful place on earth"
 author: Pito Salas
 date: 2005-07-20
 ---
+# [Ok it’s official: The Maldives is the most beautiful place on earth](None)
+
 
 
 >>

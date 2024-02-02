@@ -3,6 +3,8 @@ title: "Today only: 40% off at Borders"
 author: Pito Salas
 date: 2006-12-12
 ---
+# [Today only: 40% off at Borders](None)
+
 
 
 >

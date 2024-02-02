@@ -3,6 +3,8 @@ title: "About Yahoo / Microsoft and an easier way to get $2B in revenue annually
 author: Pito Salas
 date: 2008-02-09
 ---
+# [About Yahoo / Microsoft and an easier way to get $2B in revenue annually](None)
+
 
 
 

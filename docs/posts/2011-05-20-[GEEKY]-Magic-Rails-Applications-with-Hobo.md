@@ -8,6 +8,8 @@ tags:
     - rails
     - railscon-tagf
 ---
+# [[GEEKY] Magic Rails Applications with Hobo](None)
+
 
 
 

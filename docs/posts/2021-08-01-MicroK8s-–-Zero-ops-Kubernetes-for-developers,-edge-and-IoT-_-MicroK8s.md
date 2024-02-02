@@ -3,6 +3,8 @@ title: "MicroK8s – Zero-ops Kubernetes for developers, edge and IoT | MicroK8s
 author: Pito Salas
 date: 2021-08-01
 ---
+# [MicroK8s – Zero-ops Kubernetes for developers, edge and IoT | MicroK8s](None)
+
 
 
 

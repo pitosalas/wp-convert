@@ -3,6 +3,8 @@ title: "MSFT and APPL"
 author: Pito Salas
 date: 2010-05-27
 ---
+# [MSFT and APPL](None)
+
 
 
 

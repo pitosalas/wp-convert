@@ -8,6 +8,8 @@ tags:
     - nyt
     - sillicon-tagvalley
 ---
+# [Hey, you’re an entrepreneur!](None)
+
 
 
 

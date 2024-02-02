@@ -3,6 +3,8 @@ title: "Is this a good idea?"
 author: Pito Salas
 date: 2004-12-03
 ---
+# [Is this a good idea?](None)
+
 
 
 >>

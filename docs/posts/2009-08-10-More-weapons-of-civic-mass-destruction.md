@@ -3,6 +3,8 @@ title: "More weapons of civic mass destruction"
 author: Pito Salas
 date: 2009-08-10
 ---
+# [More weapons of civic mass destruction](None)
+
 
 
 

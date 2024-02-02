@@ -3,6 +3,8 @@ title: "That’s gotta hurt!"
 author: Pito Salas
 date: 2006-09-26
 ---
+# [That’s gotta hurt!](None)
+
 
 
 >

@@ -3,6 +3,8 @@ title: "June 26 – Cool stuff!"
 author: Pito Salas
 date: 2006-06-25
 ---
+# [June 26 – Cool stuff!](None)
+
 
 
 >>

@@ -3,6 +3,8 @@ title: "Interesting blog survey"
 author: Pito Salas
 date: 2005-03-24
 ---
+# [Interesting blog survey](None)
+
 
 [Blogads has conducted a
 survey](<http://www.blogads.com/survey/2005_blog_reader_survey.html>) of

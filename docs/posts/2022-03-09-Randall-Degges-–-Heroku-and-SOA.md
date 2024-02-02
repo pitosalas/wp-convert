@@ -5,6 +5,8 @@ date: 2022-03-09
 tags:
     - design
 ---
+# [Randall Degges – Heroku and SOA](None)
+
 
 
 

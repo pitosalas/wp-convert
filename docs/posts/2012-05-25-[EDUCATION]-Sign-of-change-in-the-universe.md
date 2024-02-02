@@ -9,6 +9,8 @@ tags:
     - higher-education-tag
     - inno-tagvation-tag
 ---
+# [[EDUCATION] Sign of change in the universe](None)
+
 
 
 

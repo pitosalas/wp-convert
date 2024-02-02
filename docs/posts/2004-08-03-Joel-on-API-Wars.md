@@ -3,6 +3,8 @@ title: "Joel on API Wars"
 author: Pito Salas
 date: 2004-08-03
 ---
+# [Joel on API Wars](None)
+
 
 
 >>

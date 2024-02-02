@@ -3,6 +3,8 @@ title: "Another VC is blogging – what’s going on?"
 author: Pito Salas
 date: 2005-03-30
 ---
+# [Another VC is blogging – what’s going on?](None)
+
 
 
 >>

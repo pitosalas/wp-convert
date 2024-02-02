@@ -3,6 +3,8 @@ title: "Pop!Tech Ticket!"
 author: Pito Salas
 date: 2004-06-01
 ---
+# [Pop!Tech Ticket!](None)
+
 
 
 >>

@@ -3,6 +3,8 @@ title: "What is the ‘true’ result of an election?"
 author: Pito Salas
 date: 2009-06-16
 ---
+# [What is the ‘true’ result of an election?](None)
+
 
 
 

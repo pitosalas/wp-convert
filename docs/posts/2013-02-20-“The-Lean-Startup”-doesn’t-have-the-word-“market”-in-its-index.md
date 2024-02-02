@@ -6,6 +6,8 @@ tags:
     - eric-ries
     - the-lean-startup
 ---
+# [“The Lean Startup” doesn’t have the word “market” in its index](None)
+
 
 
 

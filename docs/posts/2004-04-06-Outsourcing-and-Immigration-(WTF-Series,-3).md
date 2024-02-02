@@ -3,6 +3,8 @@ title: "Outsourcing and Immigration (WTF Series, 3)"
 author: Pito Salas
 date: 2004-04-06
 ---
+# [Outsourcing and Immigration (WTF Series, 3)](None)
+
 
 
 >>

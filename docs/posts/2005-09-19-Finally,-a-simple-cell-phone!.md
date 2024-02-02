@@ -3,6 +3,8 @@ title: "Finally, a simple cell phone!"
 author: Pito Salas
 date: 2005-09-19
 ---
+# [Finally, a simple cell phone!](None)
+
 
 ![](https://i0.wp.com/www.gizmodo.com/images/Simple.jpg?w=584)
 

@@ -3,6 +3,8 @@ title: "Kurzweil AI.net has some good stuff"
 author: Pito Salas
 date: 2006-07-24
 ---
+# [Kurzweil AI.net has some good stuff](None)
+
 
 
 >>

@@ -3,6 +3,8 @@ title: "Color laser printers consume lots of consumables"
 author: Pito Salas
 date: 2005-08-11
 ---
+# [Color laser printers consume lots of consumables](None)
+
 
 
 >>

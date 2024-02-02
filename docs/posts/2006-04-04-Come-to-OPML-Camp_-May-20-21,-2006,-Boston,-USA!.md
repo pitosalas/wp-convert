@@ -3,6 +3,8 @@ title: "Come to OPML Camp: May 20-21, 2006, Boston, USA!"
 author: Pito Salas
 date: 2006-04-04
 ---
+# [Come to OPML Camp: May 20-21, 2006, Boston, USA!](None)
+
 
 
 >>

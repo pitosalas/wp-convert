@@ -7,6 +7,8 @@ tags:
     - legal
     - litigation-tag
 ---
+# [We spend too much on silly litigation](None)
+
 
 
 

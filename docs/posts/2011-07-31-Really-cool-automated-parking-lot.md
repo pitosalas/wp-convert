@@ -7,6 +7,8 @@ tags:
     - automated
     - israel
 ---
+# [Really cool automated parking lot](None)
+
 
 
 

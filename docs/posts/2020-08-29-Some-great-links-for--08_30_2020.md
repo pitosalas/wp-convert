@@ -3,6 +3,8 @@ title: "Some great links for  08/30/2020"
 author: Pito Salas
 date: 2020-08-29
 ---
+# [Some great links for  08/30/2020](None)
+
 
 
 

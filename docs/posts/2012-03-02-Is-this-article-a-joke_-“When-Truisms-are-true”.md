@@ -10,6 +10,8 @@ tags:
     - nyt
     - research
 ---
+# [Is this article a joke? “When Truisms are true”](None)
+
 
 
 

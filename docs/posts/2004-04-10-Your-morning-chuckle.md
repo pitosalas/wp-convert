@@ -3,6 +3,8 @@ title: "Your morning chuckle"
 author: Pito Salas
 date: 2004-04-10
 ---
+# [Your morning chuckle](None)
+
 
 
 >>

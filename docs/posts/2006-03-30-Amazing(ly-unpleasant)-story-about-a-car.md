@@ -3,6 +3,8 @@ title: "Amazing(ly unpleasant) story about a car"
 author: Pito Salas
 date: 2006-03-30
 ---
+# [Amazing(ly unpleasant) story about a car](None)
+
 
 
 >>

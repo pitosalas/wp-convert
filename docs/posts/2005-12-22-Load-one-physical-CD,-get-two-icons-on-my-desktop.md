@@ -3,6 +3,8 @@ title: "Load one physical CD, get two icons on my desktop"
 author: Pito Salas
 date: 2005-12-22
 ---
+# [Load one physical CD, get two icons on my desktop](None)
+
 
 
 >>

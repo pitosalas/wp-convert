@@ -3,6 +3,8 @@ title: "Hope this isn’t true…"
 author: Pito Salas
 date: 2005-09-21
 ---
+# [Hope this isn’t true…](None)
+
 
 
 >>

@@ -3,6 +3,8 @@ title: "Steve Balmer read my blog (in my dream)"
 author: Pito Salas
 date: 2007-04-20
 ---
+# [Steve Balmer read my blog (in my dream)](None)
+
 
 
 

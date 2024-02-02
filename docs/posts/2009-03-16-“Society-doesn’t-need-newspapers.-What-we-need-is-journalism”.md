@@ -3,6 +3,8 @@ title: "“Society doesn’t need newspapers. What we need is journalism”"
 author: Pito Salas
 date: 2009-03-16
 ---
+# [“Society doesn’t need newspapers. What we need is journalism”](None)
+
 
 
 

@@ -3,6 +3,8 @@ title: "Why is everything free?"
 author: Pito Salas
 date: 2005-12-22
 ---
+# [Why is everything free?](None)
+
 
 
 >>

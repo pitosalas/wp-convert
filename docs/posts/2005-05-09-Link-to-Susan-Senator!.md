@@ -3,6 +3,8 @@ title: "Link to Susan Senator!"
 author: Pito Salas
 date: 2005-05-09
 ---
+# [Link to Susan Senator!](None)
+
 
 
 >>

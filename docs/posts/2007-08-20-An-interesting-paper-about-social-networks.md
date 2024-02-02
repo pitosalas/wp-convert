@@ -3,6 +3,8 @@ title: "An interesting paper about social networks"
 author: Pito Salas
 date: 2007-08-20
 ---
+# [An interesting paper about social networks](None)
+
 
 
 

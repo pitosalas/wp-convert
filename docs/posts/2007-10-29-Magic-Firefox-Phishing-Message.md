@@ -3,6 +3,8 @@ title: "Magic Firefox Phishing Message"
 author: Pito Salas
 date: 2007-10-29
 ---
+# [Magic Firefox Phishing Message](None)
+
 
 
 

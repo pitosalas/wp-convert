@@ -10,6 +10,8 @@ tags:
     - olin
     - uocd
 ---
+# [Design Thinking vs. Lean Startup](None)
+
 
 
 

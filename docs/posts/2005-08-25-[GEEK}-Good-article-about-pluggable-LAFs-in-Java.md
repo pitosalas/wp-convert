@@ -3,6 +3,8 @@ title: "[GEEK} Good article about pluggable LAFs in Java"
 author: Pito Salas
 date: 2005-08-25
 ---
+# [[GEEK} Good article about pluggable LAFs in Java](None)
+
 
 
 >>

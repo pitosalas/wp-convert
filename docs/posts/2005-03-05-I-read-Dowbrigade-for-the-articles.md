@@ -3,6 +3,8 @@ title: "I read Dowbrigade for the articles"
 author: Pito Salas
 date: 2005-03-05
 ---
+# [I read Dowbrigade for the articles](None)
+
 
 Do you know [Dowbrigade?](<http://blogs.law.harvard.edu/dowbrigade/>) An
 almost always interesting blog, intellectually stimulating and thought

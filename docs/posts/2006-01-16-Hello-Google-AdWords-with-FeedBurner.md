@@ -3,6 +3,8 @@ title: "Hello Google AdWords with FeedBurner"
 author: Pito Salas
 date: 2006-01-16
 ---
+# [Hello Google AdWords with FeedBurner](None)
+
 
 
 >>

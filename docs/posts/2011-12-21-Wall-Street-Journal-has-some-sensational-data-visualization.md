@@ -9,6 +9,8 @@ tags:
     - visualization-tag
     - wsj
 ---
+# [Wall Street Journal has some sensational data visualization](None)
+
 
 
 

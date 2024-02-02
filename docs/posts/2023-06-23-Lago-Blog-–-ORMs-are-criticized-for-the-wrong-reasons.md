@@ -9,6 +9,8 @@ tags:
     - ruby
     - sql
 ---
+# [Lago Blog – ORMs are criticized for the wrong reasons](None)
+
 
 
 

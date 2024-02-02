@@ -12,6 +12,8 @@ tags:
     - arduino
     - code
 ---
+# [Smooth Servo Motion For Lifelike Animatronics](https://hackaday.com/2021/09/03/smooth-servo-motion-for-lifelike-animatronics/)
+
 <img src=https://hackaday.com/wp-content/uploads/2021/08/smooth-servo-featured.png width="500">
 
 

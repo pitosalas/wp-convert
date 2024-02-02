@@ -3,6 +3,8 @@ title: "Can you change the license of an Open Source product?"
 author: Pito Salas
 date: 2004-08-05
 ---
+# [Can you change the license of an Open Source product?](None)
+
 
 
 >>

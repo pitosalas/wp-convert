@@ -6,6 +6,8 @@ tags:
     - microsoft
     - mission-tag
 ---
+# [Corporate doublespeak or inspiration?](None)
+
 
 
 

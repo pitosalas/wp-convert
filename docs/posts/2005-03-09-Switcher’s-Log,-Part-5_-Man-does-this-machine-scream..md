@@ -3,6 +3,8 @@ title: "Switcher’s Log, Part 5: Man does this machine scream."
 author: Pito Salas
 date: 2005-03-09
 ---
+# [Switcher’s Log, Part 5: Man does this machine scream.](None)
+
 
 For those who are following this narrative, this is a continuing narrative of
 my experiences after having **switched** from Windows XP to Mac OS X.

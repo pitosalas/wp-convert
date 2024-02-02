@@ -3,6 +3,8 @@ title: "Amusing junk mail story"
 author: Pito Salas
 date: 2005-06-24
 ---
+# [Amusing junk mail story](None)
+
 
 
 >>

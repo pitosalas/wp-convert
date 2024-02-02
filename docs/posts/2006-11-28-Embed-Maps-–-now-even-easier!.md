@@ -3,6 +3,8 @@ title: "Embed Maps – now even easier!"
 author: Pito Salas
 date: 2006-11-28
 ---
+# [Embed Maps – now even easier!](None)
+
 
 
 >

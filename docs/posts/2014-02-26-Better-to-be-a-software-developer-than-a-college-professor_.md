@@ -8,6 +8,8 @@ tags:
     - jobs
     - software
 ---
+# [Better to be a software developer than a college professor?](None)
+
 
 
 

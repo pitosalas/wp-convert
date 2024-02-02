@@ -6,6 +6,8 @@ tags:
     - design
     - gaming
 ---
+# [Nice bibliography for game designers](None)
+
 
 
 

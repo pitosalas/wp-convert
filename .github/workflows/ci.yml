@@ -32,6 +32,8 @@ jobs:
       - run: pip install html2text
       - run: python wpimport.py
       - run: python tagsimport.py
-      - run: python raindropimport.py
+      - run: python raindrop_api_import.py
       - run: python blogbuild_v2.py
       - run: mkdocs gh-deploy --force
+    env:
+      SECURITY_TOKEN: ${{ secrets.SECURITY_TOKEN }}

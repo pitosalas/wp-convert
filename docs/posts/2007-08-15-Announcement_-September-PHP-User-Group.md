@@ -3,6 +3,8 @@ title: "Announcement: September PHP User Group"
 author: Pito Salas
 date: 2007-08-15
 ---
+# [Announcement: September PHP User Group](None)
+
 
 
 

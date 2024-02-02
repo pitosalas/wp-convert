@@ -3,6 +3,8 @@ title: "What is a Blog, redux"
 author: Pito Salas
 date: 2004-11-26
 ---
+# [What is a Blog, redux](None)
+
 
 
 >>

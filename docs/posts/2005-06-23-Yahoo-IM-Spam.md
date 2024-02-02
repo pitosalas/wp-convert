@@ -3,6 +3,8 @@ title: "Yahoo IM Spam"
 author: Pito Salas
 date: 2005-06-23
 ---
+# [Yahoo IM Spam](None)
+
 
 
 >>

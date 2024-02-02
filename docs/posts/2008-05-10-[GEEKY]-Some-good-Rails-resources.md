@@ -3,6 +3,8 @@ title: "[GEEKY] Some good Rails resources"
 author: Pito Salas
 date: 2008-05-10
 ---
+# [[GEEKY] Some good Rails resources](None)
+
 
 
 

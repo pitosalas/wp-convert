@@ -3,6 +3,8 @@ title: "Wow! Google rocks!"
 author: Pito Salas
 date: 2005-04-05
 ---
+# [Wow! Google rocks!](None)
+
 
 
 >>

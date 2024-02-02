@@ -11,6 +11,8 @@ tags:
     - visualization
     - eyecandy
 ---
+# [marceloprates/prettymaps: A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.](https://github.com/marceloprates/prettymaps)
+
 <img src=https://repository-images.githubusercontent.com/344802603/ff1fd18d-b9ba-4790-a24f-2ca2eb3024a0 width="500">
 
 Honestly this looks pretty awesome! Haven’t tried it yet. 

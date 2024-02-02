@@ -7,6 +7,8 @@ tags:
     - mensa
     - paula-abdul
 ---
+# [Has Paula gotten Smarter?](None)
+
 
 
 

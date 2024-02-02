@@ -3,6 +3,8 @@ title: "How come no-one has invented this yet :?"
 author: Pito Salas
 date: 2006-02-02
 ---
+# [How come no-one has invented this yet :?](None)
+
 
 
 >>

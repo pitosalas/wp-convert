@@ -3,6 +3,8 @@ title: "Good coverage of friends of mine"
 author: Pito Salas
 date: 2008-06-28
 ---
+# [Good coverage of friends of mine](None)
+
 
 
 

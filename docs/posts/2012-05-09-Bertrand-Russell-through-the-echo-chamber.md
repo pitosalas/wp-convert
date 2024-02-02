@@ -7,6 +7,8 @@ tags:
     - blog
     - echo-chamber
 ---
+# [Bertrand Russell through the echo chamber](None)
+
 
 
 

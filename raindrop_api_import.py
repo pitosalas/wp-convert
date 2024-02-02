@@ -1,14 +1,13 @@
 import json
 from time import sleep
 import requests
-import pprint
-
+import os
+SECURITY_TOKEN = os.getenv("SECURITY_TOKEN")
 headers = {
             'Accept': 'application/json',
             'User-Agent': 'Safari',
-            'Authorization': 'Bearer 9ca9524b-0342-43a4-b043-d0ab3569640b'
-        
-        }
+            'Authorization': SECURITY_TOKEN
+            }
 
 class RaindropApiImport:
     def __init__(self):
@@ -25,22 +24,24 @@ class RaindropApiImport:
     def retrieve_drops(self):
         url = f"https://api.raindrop.io/rest/v1/raindrops/{self.topcolid}"
         page = 0
+        drops = 0
         while True:
             params = { 'page': page }
             response = requests.get(url, headers=headers, params=params)
-            if response.status_code != 200:
+            if response.status_code != 200 or len(response.json()["items"]) == 0:
                 print(f"""Breaking loop because: {response.status_code}""")
                 break
-            print(f"""Page: {page} retrieved""")
-            sleep(1)
+            sleep(0.25)
             page += 1
             for drop in response.json()['items']:
+                drops += 1
                 key = drop['title']
                 drop['url'] = drop['link']
                 # Removing the name key-value pair as it's already used as a dictionary key
                 del drop['title']
                 self.drops[key] = drop
-
+            print(f"""Page: {page} drop: {drops} retrieved""")
+            
     def save_drops(self):
         with open('data/api_drops.json', 'w') as json_file:
             json.dump(self.drops, json_file)

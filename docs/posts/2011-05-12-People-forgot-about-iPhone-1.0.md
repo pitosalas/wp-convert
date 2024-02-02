@@ -6,6 +6,8 @@ tags:
     - apps
     - iphon-tage
 ---
+# [People forgot about iPhone 1.0](None)
+
 
 
 

@@ -5,6 +5,8 @@ date: 2008-06-24
 tags:
     - techcrunch
 ---
+# [Good article about TechCrunch and Michael Arrington in Wired](None)
+
 
 
 

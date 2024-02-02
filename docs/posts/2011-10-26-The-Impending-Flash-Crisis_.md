@@ -7,6 +7,8 @@ tags:
     - disks
     - ssd
 ---
+# [The Impending Flash Crisis?](None)
+
 
 
 

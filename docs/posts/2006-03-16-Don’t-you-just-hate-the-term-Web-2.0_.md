@@ -3,6 +3,8 @@ title: "Don’t you just hate the term Web 2.0?"
 author: Pito Salas
 date: 2006-03-16
 ---
+# [Don’t you just hate the term Web 2.0?](None)
+
 
 
 >>

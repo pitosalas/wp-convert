@@ -13,6 +13,8 @@ tags:
     - son-tagy
     - son-tagy-ebook-reader
 ---
+# [Kindle book prices: another genius move](None)
+
 
 
 

@@ -3,6 +3,8 @@ title: "Outlook Haters, anyone?"
 author: Pito Salas
 date: 2004-05-01
 ---
+# [Outlook Haters, anyone?](None)
+
 
 
 >>

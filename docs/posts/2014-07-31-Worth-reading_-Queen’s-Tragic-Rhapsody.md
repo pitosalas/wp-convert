@@ -7,6 +7,8 @@ tags:
     - music
     - queen
 ---
+# [Worth reading: Queen’s Tragic Rhapsody](None)
+
 
 
 

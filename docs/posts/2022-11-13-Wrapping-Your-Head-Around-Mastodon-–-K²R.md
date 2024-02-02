@@ -3,6 +3,8 @@ title: "Wrapping Your Head Around Mastodon – K²R"
 author: Pito Salas
 date: 2022-11-13
 ---
+# [Wrapping Your Head Around Mastodon – K²R](None)
+
 
 
 

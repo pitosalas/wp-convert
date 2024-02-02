@@ -3,6 +3,8 @@ title: "Interesting article with a catchy title: “Surprising Truth about Ugly 
 author: Pito Salas
 date: 2006-08-30
 ---
+# [Interesting article with a catchy title: “Surprising Truth about Ugly Websites”](None)
+
 
 
 >>

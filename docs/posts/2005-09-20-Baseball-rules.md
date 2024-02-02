@@ -3,6 +3,8 @@ title: "Baseball rules"
 author: Pito Salas
 date: 2005-09-20
 ---
+# [Baseball rules](None)
+
 
 
 >>

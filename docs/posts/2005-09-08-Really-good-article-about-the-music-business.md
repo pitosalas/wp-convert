@@ -3,6 +3,8 @@ title: "Really good article about the music business"
 author: Pito Salas
 date: 2005-09-08
 ---
+# [Really good article about the music business](None)
+
 
 
 >>

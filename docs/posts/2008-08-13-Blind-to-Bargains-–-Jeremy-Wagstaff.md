@@ -3,6 +3,8 @@ title: "Blind to Bargains – Jeremy Wagstaff"
 author: Pito Salas
 date: 2008-08-13
 ---
+# [Blind to Bargains – Jeremy Wagstaff](None)
+
 
 
 

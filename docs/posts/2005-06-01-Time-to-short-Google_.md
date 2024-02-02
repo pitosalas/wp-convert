@@ -3,6 +3,8 @@ title: "Time to short Google?"
 author: Pito Salas
 date: 2005-06-01
 ---
+# [Time to short Google?](None)
+
 
 
 >>

@@ -1,0 +1,15 @@
+---
+title: "How to rewrite your SQL queries in Pandas, and more | Codementor"
+author: Pito Salas
+url: "https://www.codementor.io/irinatruong/how-to-rewrite-your-sql-queries-in-pandas-and-more-hoa9l8z4k" 
+link: "https://www.codementor.io/irinatruong/how-to-rewrite-your-sql-queries-in-pandas-and-more-hoa9l8z4k" 
+cover: "https://cdn.filestackcontent.com/Rr6U4pImQjmVCFGljPNd" 
+date: 2021-04-06
+---
+# [How to rewrite your SQL queries in Pandas, and more | Codementor](https://www.codementor.io/irinatruong/how-to-rewrite-your-sql-queries-in-pandas-and-more-hoa9l8z4k)
+
+<img src=https://cdn.filestackcontent.com/Rr6U4pImQjmVCFGljPNd width="500">
+
+
+
+(**Web site except:** Introduction to Pandas, for developers already familiar with SQL.) 

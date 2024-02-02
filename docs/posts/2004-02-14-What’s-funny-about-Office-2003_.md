@@ -3,6 +3,8 @@ title: "What’s funny about Office 2003?"
 author: Pito Salas
 date: 2004-02-14
 ---
+# [What’s funny about Office 2003?](None)
+
 
 
 >>

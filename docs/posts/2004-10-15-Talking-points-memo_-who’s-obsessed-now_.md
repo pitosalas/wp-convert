@@ -3,6 +3,8 @@ title: "Talking points memo: who’s obsessed now?"
 author: Pito Salas
 date: 2004-10-15
 ---
+# [Talking points memo: who’s obsessed now?](None)
+
 
 
 >>

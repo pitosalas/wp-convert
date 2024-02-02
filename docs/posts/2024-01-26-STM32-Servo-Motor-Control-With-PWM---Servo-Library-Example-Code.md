@@ -15,6 +15,8 @@ tags:
     - hardware
     - firmware
 ---
+# [STM32 Servo Motor Control With PWM - Servo Library Example Code](https://deepbluembedded.com/stm32-servo-motor-control-with-pwm-servo-library-examples-code/)
+
 <img src=https://deepbluembedded.com/wp-content/uploads/2020/07/STM32-Servo-Motor-Control-Example-Code-Library-Tutorial-With-PWM.jpg width="500">
 
 One of the best explanations I’ve seen about servo hardware and firmware. 

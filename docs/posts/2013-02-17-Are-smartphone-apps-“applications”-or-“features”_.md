@@ -8,6 +8,8 @@ tags:
     - industry
     - smartphon-tage
 ---
+# [Are smartphone apps “applications” or “features”?](None)
+
 
 
 

@@ -3,6 +3,8 @@ title: "rethinking gladwell’s model of influence"
 author: Pito Salas
 date: 2007-02-12
 ---
+# [rethinking gladwell’s model of influence](None)
+
 
 
 >

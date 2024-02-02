@@ -8,6 +8,8 @@ tags:
     - Programming
     - scalability
 ---
+# [MapReduce Patterns and Examples](None)
+
 
 
 

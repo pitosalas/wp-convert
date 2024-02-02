@@ -3,6 +3,8 @@ title: "[GEEKY] Switched from Firefox to Safari, and back again"
 author: Pito Salas
 date: 2009-07-28
 ---
+# [[GEEKY] Switched from Firefox to Safari, and back again](None)
+
 
 
 

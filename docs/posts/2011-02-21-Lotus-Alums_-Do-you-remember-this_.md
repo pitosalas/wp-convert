@@ -6,6 +6,8 @@ tags:
     - lotus
     - vision-tagary
 ---
+# [Lotus Alums: Do you remember this?](None)
+
 
 
 

@@ -3,6 +3,8 @@ title: "Seeing the other side of someone"
 author: Pito Salas
 date: 2004-12-26
 ---
+# [Seeing the other side of someone](None)
+
 
 Adam Bossworth is a guy who [I've written about
 before](</weblogs/archives/000522.html>), in a very technical context. He's

@@ -3,6 +3,8 @@ title: "Funny rant about internet advertising"
 author: Pito Salas
 date: 2007-01-20
 ---
+# [Funny rant about internet advertising](None)
+
 
 
 >

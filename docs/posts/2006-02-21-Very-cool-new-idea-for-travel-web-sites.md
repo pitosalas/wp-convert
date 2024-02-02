@@ -3,6 +3,8 @@ title: "Very cool new idea for travel web sites"
 author: Pito Salas
 date: 2006-02-21
 ---
+# [Very cool new idea for travel web sites](None)
+
 
 
 >>

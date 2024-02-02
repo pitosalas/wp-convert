@@ -3,6 +3,8 @@ title: "Modesty or ego?"
 author: Pito Salas
 date: 2009-07-09
 ---
+# [Modesty or ego?](None)
+
 
 
 

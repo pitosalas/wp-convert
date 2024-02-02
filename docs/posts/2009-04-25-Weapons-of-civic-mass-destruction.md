@@ -3,6 +3,8 @@ title: "Weapons of civic mass destruction"
 author: Pito Salas
 date: 2009-04-25
 ---
+# [Weapons of civic mass destruction](None)
+
 
 
 

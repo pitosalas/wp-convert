@@ -6,6 +6,8 @@ tags:
     - person-tagal-transportation-tag
     - segway
 ---
+# [Owner of Segway dies in Segway accident](None)
+
 
 
 

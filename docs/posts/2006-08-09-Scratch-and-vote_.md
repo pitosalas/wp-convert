@@ -3,6 +3,8 @@ title: "Scratch and vote?"
 author: Pito Salas
 date: 2006-08-09
 ---
+# [Scratch and vote?](None)
+
 
 Here's an interesting new development to apply technology to voter fraud and
 better voting. Technology?

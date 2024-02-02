@@ -3,6 +3,8 @@ title: "Decorating tip"
 author: Pito Salas
 date: 2006-02-03
 ---
+# [Decorating tip](None)
+
 
 
 >>

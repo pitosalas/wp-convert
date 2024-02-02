@@ -3,6 +3,8 @@ title: "Learning from others – Making choices"
 author: Pito Salas
 date: 2005-02-03
 ---
+# [Learning from others – Making choices](None)
+
 
 [Dave Winer makes a
 point](<http://archive.scripting.com/2005/02/03#When:7:09:19AM>) which I

@@ -3,6 +3,8 @@ title: "[BLOGBRIDGE] BlogBridge 1.0 is out!"
 author: Pito Salas
 date: 2005-04-03
 ---
+# [[BLOGBRIDGE] BlogBridge 1.0 is out!](None)
+
 
 
 >>

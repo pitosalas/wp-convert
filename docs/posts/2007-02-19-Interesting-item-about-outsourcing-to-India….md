@@ -3,6 +3,8 @@ title: "Interesting item about outsourcing to India…"
 author: Pito Salas
 date: 2007-02-19
 ---
+# [Interesting item about outsourcing to India…](None)
+
 
 
 

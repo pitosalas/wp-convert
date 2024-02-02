@@ -8,6 +8,8 @@ tags:
     - osdv
     - trustthevote
 ---
+# [New words: COTS and GOTS](None)
+
 
 
 

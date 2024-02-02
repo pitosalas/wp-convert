@@ -7,6 +7,8 @@ tags:
     - GEEKY
     - video
 ---
+# [Funny: Shit they say in Sillycon Valley](None)
+
 
 
 

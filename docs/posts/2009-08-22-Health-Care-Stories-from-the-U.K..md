@@ -3,6 +3,8 @@ title: "Health Care Stories from the U.K."
 author: Pito Salas
 date: 2009-08-22
 ---
+# [Health Care Stories from the U.K.](None)
+
 
 
 

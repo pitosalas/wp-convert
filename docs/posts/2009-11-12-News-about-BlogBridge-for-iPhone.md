@@ -3,6 +3,8 @@ title: "News about BlogBridge for iPhone"
 author: Pito Salas
 date: 2009-11-12
 ---
+# [News about BlogBridge for iPhone](None)
+
 
 
 

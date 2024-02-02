@@ -8,6 +8,8 @@ tags:
     - open-source
     - public
 ---
+# [Amazon provides free hosting for public data sets](None)
+
 
 
 

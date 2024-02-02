@@ -6,6 +6,8 @@ tags:
     - funny
     - venture-capital
 ---
+# [Funny: Tesla pitching VCs](None)
+
 
 
 

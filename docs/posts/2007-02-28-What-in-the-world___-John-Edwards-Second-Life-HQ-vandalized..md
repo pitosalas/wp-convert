@@ -3,6 +3,8 @@ title: "What in the world??? John Edwards Second Life HQ vandalized."
 author: Pito Salas
 date: 2007-02-28
 ---
+# [What in the world??? John Edwards Second Life HQ vandalized.](None)
+
 
 
 

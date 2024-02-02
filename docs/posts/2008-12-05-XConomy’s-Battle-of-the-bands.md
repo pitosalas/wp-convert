@@ -5,6 +5,8 @@ date: 2008-12-05
 tags:
     - xcon-tagomy-bands-music-boston-tag
 ---
+# [XConomy’s Battle of the bands](None)
+
 
 
 

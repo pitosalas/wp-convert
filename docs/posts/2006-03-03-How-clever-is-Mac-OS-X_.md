@@ -3,6 +3,8 @@ title: "How clever is Mac OS X?"
 author: Pito Salas
 date: 2006-03-03
 ---
+# [How clever is Mac OS X?](None)
+
 
 
 >>

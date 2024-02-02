@@ -3,6 +3,8 @@ title: "30% to Apple for folks selling iPhone apps??"
 author: Pito Salas
 date: 2008-03-11
 ---
+# [30% to Apple for folks selling iPhone apps??](None)
+
 
 
 

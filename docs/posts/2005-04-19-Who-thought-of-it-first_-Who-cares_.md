@@ -3,6 +3,8 @@ title: "Who thought of it first? Who cares?"
 author: Pito Salas
 date: 2005-04-19
 ---
+# [Who thought of it first? Who cares?](None)
+
 
 
 >>

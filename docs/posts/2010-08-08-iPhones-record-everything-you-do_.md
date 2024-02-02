@@ -3,6 +3,8 @@ title: "iPhones record everything you do?"
 author: Pito Salas
 date: 2010-08-08
 ---
+# [iPhones record everything you do?](None)
+
 
 
 

@@ -3,6 +3,8 @@ title: "A compelling question about GPSs"
 author: Pito Salas
 date: 2009-11-02
 ---
+# [A compelling question about GPSs](None)
+
 
 
 

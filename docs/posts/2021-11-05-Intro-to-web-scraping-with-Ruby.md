@@ -1,19 +1,20 @@
 ---
 title: "Intro to web scraping with Ruby"
 author: Pito Salas
+url: "https://longliveruby.com/articles/intro-to-webscrapping-with-ruby" 
+link: "https://longliveruby.com/articles/intro-to-webscrapping-with-ruby" 
+cover: "https://longliveruby.herokuapp.com/assets/longliveruby.jpg" 
 date: 2021-11-05
 tags:
     - ruby
+    - howto
+    - scraping
     - web
 ---
+# [Intro to web scraping with Ruby](https://longliveruby.com/articles/intro-to-webscrapping-with-ruby)
+
+<img src=https://longliveruby.herokuapp.com/assets/longliveruby.jpg width="500">
 
 
 
-[ Intro to web scraping with Ruby](<https://longliveruby.com/articles/intro-
-to-webscrapping-with-ruby>)
-
-Learn how to use Ruby to do the webscraping of almost any website
-
-November 5, 2021 at 12:43PM
-
-
+(**Web site except:** Learn how to use Ruby to do the webscraping of almost any website) 

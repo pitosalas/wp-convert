@@ -9,6 +9,8 @@ tags:
     - strategy
     - university
 ---
+# [[EDUCATION] Strategic Plans – are they worth the paper they are written on?](None)
+
 
 
 

@@ -9,6 +9,8 @@ tags:
     - proc
     - ruby
 ---
+# [Let’s Implement the Map Method from First Principles](None)
+
 
 
 

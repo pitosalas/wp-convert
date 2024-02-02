@@ -3,6 +3,8 @@ title: "Good news for Australian single men?"
 author: Pito Salas
 date: 2008-08-30
 ---
+# [Good news for Australian single men?](None)
+
 
 
 

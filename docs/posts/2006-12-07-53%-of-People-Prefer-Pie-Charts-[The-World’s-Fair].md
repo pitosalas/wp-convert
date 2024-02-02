@@ -3,6 +3,8 @@ title: "53% of People Prefer Pie Charts [The World’s Fair]"
 author: Pito Salas
 date: 2006-12-07
 ---
+# [53% of People Prefer Pie Charts [The World’s Fair]](None)
+
 
 
 >

@@ -3,6 +3,8 @@ title: "Freakonomics Blog on stealing in supermarkets"
 author: Pito Salas
 date: 2007-01-02
 ---
+# [Freakonomics Blog on stealing in supermarkets](None)
+
 
 
 >

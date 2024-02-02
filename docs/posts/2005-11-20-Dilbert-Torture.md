@@ -3,6 +3,8 @@ title: "Dilbert Torture"
 author: Pito Salas
 date: 2005-11-20
 ---
+# [Dilbert Torture](None)
+
 
 
 >>

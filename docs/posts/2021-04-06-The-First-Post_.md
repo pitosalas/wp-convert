@@ -1,0 +1,15 @@
+---
+title: "The First Post:"
+author: Pito Salas
+url: "http://www.thefirstpost.co.uk" 
+link: "http://www.thefirstpost.co.uk" 
+cover: "https://www.theweek.co.uk/public/logo-theweek.svg" 
+date: 2021-04-06
+---
+# [The First Post:](http://www.thefirstpost.co.uk)
+
+<img src=https://www.theweek.co.uk/public/logo-theweek.svg width="500">
+
+
+
+(**Web site except:** The Week brings you all you need to know about everything that matters. More than a news digest – it’s an original take on world news as it happens.) 

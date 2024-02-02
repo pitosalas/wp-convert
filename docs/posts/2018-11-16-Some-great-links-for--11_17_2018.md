@@ -3,6 +3,8 @@ title: "Some great links for  11/17/2018"
 author: Pito Salas
 date: 2018-11-16
 ---
+# [Some great links for  11/17/2018](None)
+
 
 
 

@@ -6,6 +6,8 @@ tags:
     - email
     - pro-tip
 ---
+# [[Pro-Tip] When writing a delicate email, enter the To: last](None)
+
 
 
 

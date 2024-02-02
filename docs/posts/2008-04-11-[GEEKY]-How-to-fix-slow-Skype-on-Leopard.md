@@ -5,6 +5,8 @@ date: 2008-04-11
 tags:
     - mac-osx-skype
 ---
+# [[GEEKY] How to fix slow Skype on Leopard](None)
+
 
 
 

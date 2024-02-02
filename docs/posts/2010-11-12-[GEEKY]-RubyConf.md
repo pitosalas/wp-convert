@@ -3,6 +3,8 @@ title: "[GEEKY] RubyConf"
 author: Pito Salas
 date: 2010-11-12
 ---
+# [[GEEKY] RubyConf](None)
+
 
 
 

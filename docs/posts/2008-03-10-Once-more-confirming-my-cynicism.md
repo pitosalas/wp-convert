@@ -3,6 +3,8 @@ title: "Once more confirming my cynicism"
 author: Pito Salas
 date: 2008-03-10
 ---
+# [Once more confirming my cynicism](None)
+
 
 
 

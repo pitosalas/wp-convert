@@ -12,6 +12,8 @@ tags:
     - sharing
     - Yogile
 ---
+# [Photo sharing thoughts](None)
+
 
 
 

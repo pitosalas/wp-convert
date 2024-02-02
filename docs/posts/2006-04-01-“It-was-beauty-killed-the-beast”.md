@@ -3,6 +3,8 @@ title: "“It was beauty killed the beast”"
 author: Pito Salas
 date: 2006-04-01
 ---
+# [“It was beauty killed the beast”](None)
+
 
 
 >>

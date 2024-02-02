@@ -6,6 +6,8 @@ tags:
     - funny
     - teamwork
 ---
+# [If you appreciate this you’ve attended one too many corporate trainings](None)
+
 
 
 

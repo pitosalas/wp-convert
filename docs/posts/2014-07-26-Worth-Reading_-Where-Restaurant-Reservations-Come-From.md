@@ -3,6 +3,8 @@ title: "Worth Reading: Where Restaurant Reservations Come From"
 author: Pito Salas
 date: 2014-07-26
 ---
+# [Worth Reading: Where Restaurant Reservations Come From](None)
+
 
 
 

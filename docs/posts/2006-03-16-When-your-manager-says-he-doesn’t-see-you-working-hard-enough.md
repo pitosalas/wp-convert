@@ -3,6 +3,8 @@ title: "When your manager says he doesn’t see you working hard enough"
 author: Pito Salas
 date: 2006-03-16
 ---
+# [When your manager says he doesn’t see you working hard enough](None)
+
 
 
 >>

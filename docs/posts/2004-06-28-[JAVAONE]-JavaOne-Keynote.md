@@ -3,6 +3,8 @@ title: "[JAVAONE] JavaOne Keynote"
 author: Pito Salas
 date: 2004-06-28
 ---
+# [[JAVAONE] JavaOne Keynote](None)
+
 
 
 >>

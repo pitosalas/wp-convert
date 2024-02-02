@@ -3,6 +3,8 @@ title: "Label printer very handy around the office"
 author: Pito Salas
 date: 2007-07-03
 ---
+# [Label printer very handy around the office](None)
+
 
 
 

@@ -1,20 +1,24 @@
 ---
 title: "To Thread or Not to Thread: An In-Depth Look at Ruby’s Execution Models"
 author: Pito Salas
+url: "https://shopify.engineering/ruby-execution-models" 
+link: "https://shopify.engineering/ruby-execution-models" 
+cover: "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_220411_216ppi_02_RubyExecutionModels.jpg?v=1653485716" 
 date: 2022-06-02
 tags:
-    - rails
     - ruby
+    - rails
+    - internals
+    - gvl
+    - processes
+    - threads
+    - cosi105
+    - explainer
 ---
+# [To Thread or Not to Thread: An In-Depth Look at Ruby’s Execution Models](https://shopify.engineering/ruby-execution-models)
+
+<img src=https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_220411_216ppi_02_RubyExecutionModels.jpg?v=1653485716 width="500">
 
 
 
-[ To Thread or Not to Thread: An In-Depth Look at Ruby’s Execution
-Models](<https://shopify.engineering/ruby-execution-models>)
-
-An in-depth look at threads vs processes in Ruby web applications, and when
-you should use each.
-
-June 2, 2022 at 07:16PM
-
-
+(**Web site except:** An in-depth look at threads vs processes in Ruby web applications, and when you should use each.) 

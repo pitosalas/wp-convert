@@ -3,6 +3,8 @@ title: "Come on over, the water’s fine! Look who is recommending Macs!"
 author: Pito Salas
 date: 2005-05-28
 ---
+# [Come on over, the water’s fine! Look who is recommending Macs!](None)
+
 
 
 >>

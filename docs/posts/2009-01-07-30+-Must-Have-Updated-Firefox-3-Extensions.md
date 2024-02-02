@@ -6,6 +6,8 @@ tags:
     - firefox
     - plugins
 ---
+# [30+ Must-Have Updated Firefox 3 Extensions](None)
+
 
 
 

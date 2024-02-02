@@ -6,6 +6,8 @@ tags:
     - facebook
     - socialcam
 ---
+# [Warning Facebook users: Socialcam is dangerous](None)
+
 
 
 

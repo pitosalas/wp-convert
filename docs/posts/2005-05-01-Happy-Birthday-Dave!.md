@@ -3,6 +3,8 @@ title: "Happy Birthday Dave!"
 author: Pito Salas
 date: 2005-05-01
 ---
+# [Happy Birthday Dave!](None)
+
 
 
 >>

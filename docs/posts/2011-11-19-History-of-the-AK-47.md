@@ -8,6 +8,8 @@ tags:
     - history
     - rifles
 ---
+# [History of the AK-47](None)
+
 
 
 

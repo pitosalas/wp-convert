@@ -6,6 +6,8 @@ tags:
     - airtravel
     - security
 ---
+# [Stop treating Americans like idiots and cowards](None)
+
 
 
 

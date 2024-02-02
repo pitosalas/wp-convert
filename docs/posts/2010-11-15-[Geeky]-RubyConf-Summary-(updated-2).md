@@ -8,6 +8,8 @@ tags:
     - ruby
     - rubycon-tagf
 ---
+# [[Geeky] RubyConf Summary (updated 2)](None)
+
 
 
 

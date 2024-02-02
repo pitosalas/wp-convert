@@ -9,6 +9,8 @@ tags:
     - macos
     - menu
 ---
+# [Bartender 4 – Take control of your Menu bar](None)
+
 
 
 

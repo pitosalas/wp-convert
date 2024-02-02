@@ -10,6 +10,8 @@ tags:
     - truss
     - wood
 ---
+# [How to Frame a Roof (with Pictures) – wikiHow](None)
+
 
 
 

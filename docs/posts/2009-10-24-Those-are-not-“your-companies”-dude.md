@@ -3,6 +3,8 @@ title: "Those are not “your companies” dude"
 author: Pito Salas
 date: 2009-10-24
 ---
+# [Those are not “your companies” dude](None)
+
 
 
 

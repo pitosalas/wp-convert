@@ -3,6 +3,8 @@ title: "For advanced nerds only: How the deathstar works"
 author: Pito Salas
 date: 2005-11-03
 ---
+# [For advanced nerds only: How the deathstar works](None)
+
 
 
 >>

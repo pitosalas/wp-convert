@@ -3,6 +3,8 @@ title: "The downside of free software"
 author: Pito Salas
 date: 2008-02-16
 ---
+# [The downside of free software](None)
+
 
 
 

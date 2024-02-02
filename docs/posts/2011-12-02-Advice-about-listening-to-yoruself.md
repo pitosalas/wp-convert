@@ -7,6 +7,8 @@ tags:
     - decision-tags
     - life
 ---
+# [Advice about listening to yoruself](None)
+
 
 
 

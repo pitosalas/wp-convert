@@ -3,6 +3,8 @@ title: "New BlogBridge Alpha"
 author: Pito Salas
 date: 2004-11-20
 ---
+# [New BlogBridge Alpha](None)
+
 
 
 >>

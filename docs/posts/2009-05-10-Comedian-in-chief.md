@@ -3,6 +3,8 @@ title: "Comedian in chief"
 author: Pito Salas
 date: 2009-05-10
 ---
+# [Comedian in chief](None)
+
 
 
 

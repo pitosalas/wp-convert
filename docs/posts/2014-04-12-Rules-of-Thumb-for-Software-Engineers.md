@@ -7,6 +7,8 @@ tags:
     - rules
     - software
 ---
+# [Rules of Thumb for Software Engineers](None)
+
 
 
 

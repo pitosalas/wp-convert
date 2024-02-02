@@ -3,6 +3,8 @@ title: "Google Coolness. Well those wacky"
 author: Pito Salas
 date: 2004-03-03
 ---
+# [Google Coolness. Well those wacky](None)
+
 
 
 >>

@@ -3,6 +3,8 @@ title: "Atlantic Magazine on Wikipedia"
 author: Pito Salas
 date: 2006-08-06
 ---
+# [Atlantic Magazine on Wikipedia](None)
+
 
 
 >>

@@ -7,6 +7,8 @@ tags:
     - election-tags
     - security
 ---
+# [Great paper about Harri Hursti’s demonstration of ballot scanner security concerns](None)
+
 
 
 

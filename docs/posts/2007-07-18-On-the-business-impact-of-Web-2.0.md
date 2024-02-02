@@ -3,6 +3,8 @@ title: "On the business impact of Web 2.0"
 author: Pito Salas
 date: 2007-07-18
 ---
+# [On the business impact of Web 2.0](None)
+
 
 
 

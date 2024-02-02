@@ -3,6 +3,8 @@ title: "Adam Bosworth on KISS"
 author: Pito Salas
 date: 2004-11-29
 ---
+# [Adam Bosworth on KISS](None)
+
 
 
 >>

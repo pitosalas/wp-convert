@@ -3,6 +3,8 @@ title: "Gibberish?"
 author: Pito Salas
 date: 2005-09-26
 ---
+# [Gibberish?](None)
+
 
 
 >>

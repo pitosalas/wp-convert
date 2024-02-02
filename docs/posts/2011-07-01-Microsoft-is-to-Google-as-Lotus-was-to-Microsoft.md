@@ -9,6 +9,8 @@ tags:
     - lotus
     - microsoft
 ---
+# [Microsoft is to Google as Lotus was to Microsoft](None)
+
 
 
 

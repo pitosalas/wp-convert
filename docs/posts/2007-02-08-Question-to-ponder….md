@@ -3,6 +3,8 @@ title: "Question to ponder…"
 author: Pito Salas
 date: 2007-02-08
 ---
+# [Question to ponder…](None)
+
 
 
 >

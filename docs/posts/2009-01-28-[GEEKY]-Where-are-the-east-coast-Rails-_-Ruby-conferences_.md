@@ -8,6 +8,8 @@ tags:
     - ruby
     - tech
 ---
+# [[GEEKY] Where are the east coast Rails / Ruby conferences?](None)
+
 
 
 

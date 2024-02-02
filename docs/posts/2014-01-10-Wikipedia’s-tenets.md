@@ -6,6 +6,8 @@ tags:
     - nyt
     - wikipedia
 ---
+# [Wikipedia’s tenets](None)
+
 
 
 

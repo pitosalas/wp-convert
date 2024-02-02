@@ -6,6 +6,8 @@ tags:
     - bigggates
     - microsoft
 ---
+# [Bill Gates and Microsoft](None)
+
 
 
 

@@ -5,6 +5,8 @@ date: 2011-07-22
 tags:
     - googleplus
 ---
+# [Should I add this guy to a Google+ Circle?](None)
+
 
 
 

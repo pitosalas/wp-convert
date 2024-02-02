@@ -3,6 +3,8 @@ title: "Best way to protect against identity theft?"
 author: Pito Salas
 date: 2007-10-30
 ---
+# [Best way to protect against identity theft?](None)
+
 
 
 

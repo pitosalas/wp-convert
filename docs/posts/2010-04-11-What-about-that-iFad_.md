@@ -3,6 +3,8 @@ title: "What about that iFad?"
 author: Pito Salas
 date: 2010-04-11
 ---
+# [What about that iFad?](None)
+
 
 
 

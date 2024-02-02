@@ -7,6 +7,8 @@ tags:
     - apple
     - microsoft
 ---
+# [Easily the best Microsoft advertisement EVER](None)
+
 
 
 

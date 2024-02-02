@@ -3,6 +3,8 @@ title: "e-Readers: First review I’ve seen of the Barnes and Nobel ‘Nook’"
 author: Pito Salas
 date: 2009-12-07
 ---
+# [e-Readers: First review I’ve seen of the Barnes and Nobel ‘Nook’](None)
+
 
 
 

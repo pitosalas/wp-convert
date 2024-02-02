@@ -9,6 +9,8 @@ tags:
     - ruby
     - syntax
 ---
+# [Ruby’s Switch Statement is More Flexible Than You Thought](None)
+
 
 
 

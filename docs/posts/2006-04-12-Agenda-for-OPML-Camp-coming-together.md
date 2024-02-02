@@ -3,6 +3,8 @@ title: "Agenda for OPML Camp coming together"
 author: Pito Salas
 date: 2006-04-12
 ---
+# [Agenda for OPML Camp coming together](None)
+
 
 
 >>

@@ -3,6 +3,8 @@ title: "Some great links for  01/13/2019"
 author: Pito Salas
 date: 2019-01-12
 ---
+# [Some great links for  01/13/2019](None)
+
 
 
 

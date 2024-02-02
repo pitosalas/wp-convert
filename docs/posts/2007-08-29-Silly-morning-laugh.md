@@ -3,6 +3,8 @@ title: "Silly morning laugh"
 author: Pito Salas
 date: 2007-08-29
 ---
+# [Silly morning laugh](None)
+
 
 
 

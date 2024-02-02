@@ -12,6 +12,8 @@ tags:
     - wordpress
     - python
 ---
+# [Static Site Generators](https://www.fullstackpython.com/static-site-generator.html)
+
 <img src=https://www.fullstackpython.com/img/pages/default.jpg width="500">
 
 Even though I love Nanoc, I continue my forced conversion to Python and am looking for something as nice and simple as Nanoc. Let's see!

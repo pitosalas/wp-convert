@@ -5,6 +5,8 @@ date: 2009-01-14
 tags:
     - stevejobs-apple
 ---
+# [More on Steve Jobs](None)
+
 
 
 

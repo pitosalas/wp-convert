@@ -3,6 +3,8 @@ title: "Am I cranky today?"
 author: Pito Salas
 date: 2004-10-15
 ---
+# [Am I cranky today?](None)
+
 
 
 >>

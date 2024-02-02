@@ -3,6 +3,8 @@ title: "[Geeky] RMagick and memory leaks"
 author: Pito Salas
 date: 2009-06-19
 ---
+# [[Geeky] RMagick and memory leaks](None)
+
 
 
 

@@ -7,6 +7,8 @@ tags:
     - GEEKY
     - safari
 ---
+# [[GEEKY] Look what Safari looked like for a moment](None)
+
 
 
 

@@ -3,6 +3,8 @@ title: "How does Fake Steve get away with this?"
 author: Pito Salas
 date: 2007-11-28
 ---
+# [How does Fake Steve get away with this?](None)
+
 
 
 

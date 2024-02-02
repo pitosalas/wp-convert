@@ -7,6 +7,8 @@ tags:
     - crowdsourcing
     - kickstarter
 ---
+# [There’s more to life than Kickstarter (revised)](None)
+
 
 
 

@@ -13,6 +13,8 @@ tags:
     - source-code
     - howto
 ---
+# [Analyzing Data 170,000x Faster with Python](https://sidsite.com/posts/python-corrset-optimization/)
+
 <img src= width="500">
 
 Very nice example of optimizing code, and showing at least one example of how to make a python program ultra fast. 

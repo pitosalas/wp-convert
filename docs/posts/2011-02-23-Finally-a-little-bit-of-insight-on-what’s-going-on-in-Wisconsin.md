@@ -6,6 +6,8 @@ tags:
     - davidbrooks
     - wiscon-tagsin
 ---
+# [Finally a little bit of insight on what’s going on in Wisconsin](None)
+
 
 
 

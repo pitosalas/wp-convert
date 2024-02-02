@@ -3,6 +3,8 @@ title: "When is a native app not a native app?"
 author: Pito Salas
 date: 2006-08-04
 ---
+# [When is a native app not a native app?](None)
+
 
 Quite interesting analysis (at least to us Geeks) showing that the notion of a
 'WIndows XP' standard or native UI is actually a myth. Read it here: [Prashant

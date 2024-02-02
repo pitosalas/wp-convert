@@ -7,6 +7,8 @@ tags:
     - lesson-tags-learned
     - software-engineering
 ---
+# [20 Things I’ve Learned in my 20 Years as a Software Engineer](None)
+
 
 
 

@@ -3,6 +3,8 @@ title: "Scoble on Search. Robert Scoble"
 author: Pito Salas
 date: 2004-03-01
 ---
+# [Scoble on Search. Robert Scoble](None)
+
 
 
 >>

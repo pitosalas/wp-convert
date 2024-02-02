@@ -3,6 +3,8 @@ title: "David Isenberg’s WTF Conference: This"
 author: Pito Salas
 date: 2004-01-13
 ---
+# [David Isenberg’s WTF Conference: This](None)
+
 
 
 >>

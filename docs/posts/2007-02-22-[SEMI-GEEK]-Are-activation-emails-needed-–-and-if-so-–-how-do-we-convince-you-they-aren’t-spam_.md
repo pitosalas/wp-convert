@@ -3,6 +3,8 @@ title: "[SEMI-GEEK] Are activation emails needed – and if so – how do we con
 author: Pito Salas
 date: 2007-02-22
 ---
+# [[SEMI-GEEK] Are activation emails needed – and if so – how do we convince you they aren’t spam?](None)
+
 
 
 

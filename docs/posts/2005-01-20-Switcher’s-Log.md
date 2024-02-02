@@ -3,6 +3,8 @@ title: "Switcher’s Log"
 author: Pito Salas
 date: 2005-01-20
 ---
+# [Switcher’s Log](None)
+
 
 For close readers of this (yes all two of you), I was considering switching to
 a Mac as my primary computer. Basically I had a mac as a tirtiary computer,

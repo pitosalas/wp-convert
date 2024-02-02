@@ -7,6 +7,8 @@ tags:
     - entrepreneurs
     - seed-investing
 ---
+# [Whats reasonable to ask for before you invest $10K-$20K](None)
+
 
 
 

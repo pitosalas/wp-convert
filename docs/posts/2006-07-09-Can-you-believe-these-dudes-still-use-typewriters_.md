@@ -3,6 +3,8 @@ title: "Can you believe these dudes still use typewriters?"
 author: Pito Salas
 date: 2006-07-09
 ---
+# [Can you believe these dudes still use typewriters?](None)
+
 
 
 >>

@@ -7,6 +7,8 @@ tags:
     - courses
     - students
 ---
+# [[teaching] A student’s perspective on course selection](None)
+
 
 
 

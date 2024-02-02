@@ -3,6 +3,8 @@ title: "Dicts are now ordered, get used to it"
 author: Pito Salas
 date: 2020-02-08
 ---
+# [Dicts are now ordered, get used to it](None)
+
 
 
 

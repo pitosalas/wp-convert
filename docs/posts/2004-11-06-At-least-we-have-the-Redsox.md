@@ -3,6 +3,8 @@ title: "At least we have the Redsox"
 author: Pito Salas
 date: 2004-11-06
 ---
+# [At least we have the Redsox](None)
+
 
 
 >>

@@ -3,6 +3,8 @@ title: "Forced to use Atom. Well,"
 author: Pito Salas
 date: 2004-02-29
 ---
+# [Forced to use Atom. Well,](None)
+
 
 
 >>

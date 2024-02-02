@@ -3,6 +3,8 @@ title: "Finally, a simple cell phone!"
 author: Pito Salas
 date: 2008-08-09
 ---
+# [Finally, a simple cell phone!](None)
+
 
 
 

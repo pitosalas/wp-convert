@@ -8,6 +8,8 @@ tags:
     - logistics
     - wishlist
 ---
+# [Is Amazon using Wish List entries to pre-position inventory?](None)
+
 
 
 

@@ -8,6 +8,8 @@ tags:
     - music
     - quote
 ---
+# [Quote about improvisation (from David Byrne’s new book)](None)
+
 
 
 

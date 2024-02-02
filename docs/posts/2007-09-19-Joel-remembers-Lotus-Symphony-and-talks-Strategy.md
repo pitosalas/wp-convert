@@ -3,6 +3,8 @@ title: "Joel remembers Lotus Symphony and talks Strategy"
 author: Pito Salas
 date: 2007-09-19
 ---
+# [Joel remembers Lotus Symphony and talks Strategy](None)
+
 
 
 

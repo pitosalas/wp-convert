@@ -6,6 +6,8 @@ tags:
     - israel
     - USA
 ---
+# [Hilarious blog post teaching Israelis how to adapt to living in the USA](None)
+
 
 
 

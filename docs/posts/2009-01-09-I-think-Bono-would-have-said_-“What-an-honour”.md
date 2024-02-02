@@ -3,6 +3,8 @@ title: "I think Bono would have said: “What an honour”"
 author: Pito Salas
 date: 2009-01-09
 ---
+# [I think Bono would have said: “What an honour”](None)
+
 
 
 

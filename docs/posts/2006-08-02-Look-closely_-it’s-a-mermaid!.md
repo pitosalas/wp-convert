@@ -3,6 +3,8 @@ title: "Look closely: it’s a mermaid!"
 author: Pito Salas
 date: 2006-08-02
 ---
+# [Look closely: it’s a mermaid!](None)
+
 
 
 >>

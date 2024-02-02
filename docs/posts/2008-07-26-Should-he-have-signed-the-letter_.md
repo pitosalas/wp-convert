@@ -5,6 +5,8 @@ date: 2008-07-26
 tags:
     - religion-tag-obama-jerusalem
 ---
+# [Should he have signed the letter?](None)
+
 
 
 

@@ -7,62 +7,51 @@ revised: 2024-02-01
 
 ## What is this?
 
-As I am always asked for tips on doing stuff in Curaçao, I thought I would
-write them down here.
+As I am always asked for tips on doing stuff in Curaçao, I thought I would write them down here.
 
-Beware that all this is just my own, biased, weird, opinions. There are
-perfectly good restaurants, even popular ones, that I don't like because of
-the atmosphere or the price or the location. There are restaurants considered
-boring, that I like, for the same reasons. So buyer beware.
+Beware that all this is just my own, biased, weird, opinions. There are perfectly good restaurants, even popular ones, that I don't like because of the atmosphere or the price or the location. There are restaurants considered boring, that I like, for the same reasons. So buyer beware.
 
 ## Geography and Weather
 
-Curacao  is a very small island. It's about 40 miles long and about 5 miles
-wide. It's as if you cut off Cape Cod at the Canal and straightened it out.
-However the roads are not as good. Still, the longest drive you can make
-without doubling back is around 45 minutes.
+Curacao  is a very small island. It's about 40 miles long and about 5 miles wide. It's as if you cut off Cape Cod at the Canal and straightened it out. However the roads are not as good. Still, the longest drive you can make without doubling back is around 45 minutes.
 
-It's basically tropical. Or desert. It's always around 80 degrees and with
-a good breeze. In the "summer" there's almost never rain, sunny, blue skies
-every day. In the "winter" it might rain a little more.
+It's basically tropical. Or desert. It's always around 80 degrees and with a good breeze. In the "summer" there's almost never rain, sunny, blue skies every day. In the "winter" it might rain a little more.
 
-If you wear shorts, bring multiple sets. I wear only shorts almost all the
-time. No need for a sweater of any kind.
+If you wear shorts, bring multiple sets. I wear only shorts almost all the time. No need for a sweater of any kind.
 
 Bring sunglasses, a hat, and suntan lotion!
 
-Driving is pretty easy. Google maps will work, better still if you download
-the maps so you don't need to use your data plan. Driving is on the right,
-just like the USA. However the signs will not all be familiar, but common
-sense. Yes people drive a little crazy but really not more than Boston.
-
-## Web Sites and Resources
-
-* [Museums of Curacao](https://museumsofcuracao.org/museums/)
-* [Adventure Tours Curacao](https://adventuretourscuracao.com)
-* [Curacao for 91 Days](https://curacao.for91days.com)
-* [In Your Pocket Guide](https://www.inyourpocket.com/Curacao)
+Driving is pretty easy. Google maps will work, better still if you download the maps so you don't need to use your data plan. Driving is on the right, just like the USA. However the signs will not all be familiar, but common sense. Yes people drive a little crazy but really not more than Boston.
 
 ## Outside
 
-* [Alma Blau Art Gallery](https://museumsofcuracao.org/museum/gallery-alma-blou/)
-* [ATV Tours](https://www.atvbuggytours.com) - This is one of many!
-* [Black Sand Beach](https://curacao.for91days.com/the-black-sand-beach-of-santu-pretu/)
-* [Blue Room](https://adventuretourscuracao.com/tour/curacao-blue-room-tour/) - Unique snorkling spot
-* [Christoffel Park](https://www.christoffelpark.org/hiking-trails) - Nice walk hike, but don't climb to the top, it's too hot
-* [Den Dunki](https://www.inyourpocket.com/Curacao/Den-Dunki-National-Park_110184v)  - Nice walk hike, salt flats (zout pannen)
-* [Dina's Botanical and Historic Garden](https://museumsofcuracao.org/museum/den-paradera-dinahs-herb-garden/)
+
+### Must Do Site Seeing
+
+* [Snoa](https://snoa.com) - Mikve Israel Emmanuel Synagogue. You know, where I had my Bar Mitzvah. Very interesting building and history.
+* [West Punt](https://exploringcuracao.com/10-best-things-to-do-in-westpunt-curacao/) - The western most tip of the island. Because it's a small island, westernmost is really not that far. If it wasn't for traffic you could get from Punda to West Punt in 30 minutes.
+* [Boca Tabla](https://www.shetebokapark.org) - Shete Boka (7 mouths) includes the fantastic cave in/on top of/the very rocky and rough North coast of the island. As usual, remember that it is sunny and the sun is bright and hot. It will be very windy. THe place looks like a moonscape!
+
+### Things to do and see
+
+* [Alma Blau Art Gallery](https://museumsofcuracao.org/museum/gallery-alma-blou/) - Lovely local art gallery
+* [ATV Tours](https://www.atvbuggytours.com) - This is one of many. It is a popular activity but I've never tried it myself. Remember it is very hot and the sun is always out. So keep that in mind.
+* [Black Sand Beach](https://curacao.for91days.com/the-black-sand-beach-of-santu-pretu/) - Kind of cool but not as black as the Hawaii black sand beaches.
+* [Blue Room](https://adventuretourscuracao.com/tour/curacao-blue-room-tour/) - Unique snorkling spot. Only accessible by water. You take a boat tour out to it and then jump in. Memorable. 
+* [Christoffel Park](https://www.christoffelpark.org/hiking-trails) - Nice walk hike, but don't climb to the top, it's too hot.
+* [Den Dunki](https://www.inyourpocket.com/Curacao/Den-Dunki-National-Park_110184v)  - Nice walk hike, salt flats (zout pannen). There is a personal story connected with this place that I can tell you about. 
+* [Dina's Botanical and Historic Garden](https://museumsofcuracao.org/museum/den-paradera-dinahs-herb-garden/) - If you are into natural remedies, growing herbs and tropical plants.
 * [Historical Harbor Tour](https://curacao.for91days.com/a-tour-of-the-schottegat-harbor/) - Wednesdays at 2pm, really interesting tour looking at history, industry, polution etc.
-* [Hoffi Mango](https://hofimango.com) - Nice walk hike
-* [Hoffi Pastor](https://www.hofipastor.org/hulphofi.htm) - Nice walk hike
+* [Hoffi Mango](https://hofimango.com) - Have not been but I am told it is a very nice walk/hike.
+* [Hoffi Pastor](https://www.hofipastor.org/hulphofi.htm) - Have not been but I am told it is a very nice walk/hike.
 * [Kokomo Beach and Restaurant](https://www.divecuracao.info/dive/curacao-diving-guide/kokomo-beach/) and Beach
 * [Kura Hulanda](https://www.kurahulandavillage.com/place/museum-kura-hulanda/) Restored neigborhood, nice walking around, restaurants, shops
-* [Landhuis Daniel](https://landhuisdaniel.com) - Dutch Pancakes
-* [Landhuis Klein St Marta](https://landhuisksm.com) - Cute little hotel plus restuarant
-* [Mangrove Park](https://www.mangrovepark.org) - very pretty
+* [Landhuis Daniel](https://landhuisdaniel.com) - Try these unique meal-size Dutch pancakes.
+* [Landhuis Klein St Marta](https://landhuisksm.com) - Cute little hotel plus restuarant.
+* [Mangrove Park](https://www.mangrovepark.org) - Boardwalk through mangroves. Pleasant and pretty.
 * [Punda Vibes](https://www.divecuracao.info/curacao-events-and-festivals/punda-vibes-curacao/) - Thursday Night happenings in the down town
-* [Shete Boa National Park](https://www.shetebokapark.org)
-* [Sunset Boat Tour](https://adventuretourscuracao.com/tour/curacao-sunset-boat-trip/)
+* [Shete Boa National Park](https://www.shetebokapark.org) - Includes the famous Boca Tabla. One of the top attractions IMO.
+* [Sunset Boat Tour](https://adventuretourscuracao.com/tour/curacao-sunset-boat-trip/) - Haven't tried myself but comes highly recommended.
 
 ### Beaches
 
@@ -76,23 +65,15 @@ The word in Papiamento for beach is `playa`. This list is certainluy not a list 
 * [Playa Lagun](https://exploringcuracao.com/playa-lagun-beach/) - Very rustic, small and pictoresque beach. A favorite for snorkling
 * [Playa Porto Mari](https://www.playaportomari.com) - One of the favorites towards the west end of the island
 
-
 ## Food
 
-Restaurants here are 1) expensive and 2) have slow service. Those are
-generalizations but it's good to set expectations. That way you won't be
-surprised.
+Restaurants here are 1) expensive and 2) have slow service. Those are generalizations but it's good to set expectations. That way you won't be surprised.
 
-Everything you eat here, almost, has to be imported, by plane or
-containership. Also it's a tourist destination which also add to the costs.
+Everything you eat here, almost, has to be imported, by plane or containership. Also it's a tourist destination which also add to the costs.
 
-Overall the food will be familiar to you. You will have no trouble with the
-menus. Many of them are in Dutch, but almost all of them will have an English
-menu if you ask.
+Overall the food will be familiar to you. You will have no trouble with the menus. Many of them are in Dutch, but almost all of them will have an English menu if you ask.
 
-You will see standard "American" food, or "French" food. You will also see
-Indonesian (because Indonesia, like Curaçao used to be a colony of the
-Netherlands.) Also a lot of "Dutch" food.
+You will see standard "American" food, or "French" food. You will also see Indonesian (because Indonesia, like Curaçao used to be a colony of the Netherlands.) Also a lot of "Dutch" food.
 
 ### Restaurants
 
@@ -114,31 +95,6 @@ Netherlands.) Also a lot of "Dutch" food.
 * [Soi95 Restaurant](https://soi95.com)
 
 
-## Must See Site Seeing
-
-* Snoa - Mikve Israel Emmanuel Synagogue
-* West Punt
-* Boca Tabla
-* Punda -
-
-### Places to Go by car
-
-These are not "sight seeing" necessarily, they include destinations that
-might have a bunch of good restaurants together, or a fun thing to do, or
-stuff to look at. I list "beaches" separately.
-
-* **Zuikertuintje - **In the "suburb" of Mahaai, it's a typical small
-shopping area with various restaurants.
-* **Karakter** - 
-* **Lion 's Dive/BLVD "area"** - Very fun area with beach and
-restaurants.
-* **"West Punt"**
-* **"Boca Tabla"**
-* **"Otrabanda" \+ "Rif Fort"**
-* **Hato Caves (near the airport.)** -
-* **Klein Santa Martha f** or beautiful views, atmosphere, food is not
-bad. You can also stay there as it’s a small hotel.`
-
 ## Not as good as they sound
 
 You might hear or read about these places but in my opinion they are not
@@ -146,8 +102,21 @@ worth the trip. Although I was surprised to hear recently of someone who loved
 the Ostrich Farm, so, who knows!
 
 * Zoo or Botanical Garden
+* [Swimming With turtles](https://exploringcuracao.com/swimming-with-sea-turtles-in-curacao/) - Really not worth it.
 * [Jaanchi](https://www.tripadvisor.com/ShowUserReviews-g1724323-d1046541-r16242388-Jaanchies_Restaurant-Sabana_Westpunt_Curacao.html)  (or Jan Kristian) restaurant
 * [Ostrich Farm](https://curacaoostrichfarm.com/?lang=en)
+
+## Web Sites and Resources
+
+These are some excellent resources for knowing what's going on. 
+
+* [K'Pasa](https://kpasa.com/curacao/) - This flier comes out weekly and you can find it everywhere. It is a pretty complete rundown of what's going on .
+* [Curacao for 91 Days](https://curacao.for91days.com) - I found this site while googling around. It has lots of interesting ideas.
+* [In Your Pocket Guide](https://www.inyourpocket.com/Curacao)- I found this site while googling around. It has lots of interesting ideas.
+* [Museums of Curacao](https://museumsofcuracao.org/museums/) - A nicely done listing of all the museums and near-museums.
+* [Adventure Tours Curacao](https://adventuretourscuracao.com) - Especially good for ATV tours.
+* [Best Things to Do In Curacao](https://www.myglobalviewpoint.com/best-things-to-do-in-curacao/) - A pretty good summary which I generally agree with!
+
 
 ## Where to stay
 

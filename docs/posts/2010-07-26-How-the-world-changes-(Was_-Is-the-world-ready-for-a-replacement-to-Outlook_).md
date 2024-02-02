@@ -3,6 +3,8 @@ title: "How the world changes (Was: Is the world ready for a replacement to Outl
 author: Pito Salas
 date: 2010-07-26
 ---
+# [How the world changes (Was: Is the world ready for a replacement to Outlook?)](None)
+
 
 
 

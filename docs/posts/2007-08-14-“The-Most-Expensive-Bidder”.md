@@ -3,6 +3,8 @@ title: "“The Most Expensive Bidder”"
 author: Pito Salas
 date: 2007-08-14
 ---
+# [“The Most Expensive Bidder”](None)
+
 
 
 

@@ -3,6 +3,8 @@ title: "Cool stuff from the 21st!"
 author: Pito Salas
 date: 2006-06-21
 ---
+# [Cool stuff from the 21st!](None)
+
 
 Some cool stuff
 

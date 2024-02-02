@@ -6,6 +6,8 @@ tags:
     - email
     - ettiquette
 ---
+# [When no response means “no”](None)
+
 
 
 

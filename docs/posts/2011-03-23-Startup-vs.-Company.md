@@ -8,6 +8,8 @@ tags:
     - startup
     - vc
 ---
+# [Startup vs. Company](None)
+
 
 
 

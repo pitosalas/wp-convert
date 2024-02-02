@@ -3,6 +3,8 @@ title: "What’s happening to Google?"
 author: Pito Salas
 date: 2007-12-10
 ---
+# [What’s happening to Google?](None)
+
 
 
 

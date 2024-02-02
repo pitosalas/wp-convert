@@ -3,6 +3,8 @@ title: "Interesting bit of Ruby magic"
 author: Pito Salas
 date: 2007-06-21
 ---
+# [Interesting bit of Ruby magic](None)
+
 
 
 

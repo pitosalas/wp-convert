@@ -3,6 +3,8 @@ title: "Another totally cool Flickr/BlogBridge SmartFeed shot"
 author: Pito Salas
 date: 2005-09-08
 ---
+# [Another totally cool Flickr/BlogBridge SmartFeed shot](None)
+
 
 [![](https://i0.wp.com/static.flickr.com/29/41511313_50725fd590_m.jpg?w=584)](<http://www.flickr.com/photos/53838548@N00/41511313/>
 "photo sharing")

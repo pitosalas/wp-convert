@@ -3,6 +3,8 @@ title: "Safari now has Scribefire"
 author: Pito Salas
 date: 2010-06-09
 ---
+# [Safari now has Scribefire](None)
+
 
 
 

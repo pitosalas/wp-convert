@@ -3,6 +3,8 @@ title: "Thoughts about software licensing"
 author: Pito Salas
 date: 2004-04-30
 ---
+# [Thoughts about software licensing](None)
+
 
 
 >>

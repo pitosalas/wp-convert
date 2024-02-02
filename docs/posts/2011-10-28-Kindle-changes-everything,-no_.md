@@ -6,6 +6,8 @@ tags:
     - kindle
     - sharing
 ---
+# [Kindle changes everything, no?](None)
+
 
 
 

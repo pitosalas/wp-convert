@@ -3,6 +3,8 @@ title: "Stay hungry, stay foolish: Steve Jobs on dropping out"
 author: Pito Salas
 date: 2005-06-14
 ---
+# [Stay hungry, stay foolish: Steve Jobs on dropping out](None)
+
 
 
 >>

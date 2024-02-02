@@ -3,6 +3,8 @@ title: "[Geek] Getting ftp task to work in Ant / Eclipse"
 author: Pito Salas
 date: 2004-05-29
 ---
+# [[Geek] Getting ftp task to work in Ant / Eclipse](None)
+
 
 
 >>

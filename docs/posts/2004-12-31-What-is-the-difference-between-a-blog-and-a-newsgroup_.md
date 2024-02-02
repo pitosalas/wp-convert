@@ -3,6 +3,8 @@ title: "What is the difference between a blog and a newsgroup?"
 author: Pito Salas
 date: 2004-12-31
 ---
+# [What is the difference between a blog and a newsgroup?](None)
+
 
 Recently in a conversation I was asked to comment on what really was the big
 difference between a **blog** and a **newsgroup**.

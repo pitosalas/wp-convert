@@ -3,6 +3,8 @@ title: "Some miscellaneous links and pointers (WTF Series, 4)"
 author: Pito Salas
 date: 2004-04-06
 ---
+# [Some miscellaneous links and pointers (WTF Series, 4)](None)
+
 
 
 >>

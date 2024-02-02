@@ -3,6 +3,8 @@ title: "Notice the new del.icio.us feature I am using?"
 author: Pito Salas
 date: 2006-06-02
 ---
+# [Notice the new del.icio.us feature I am using?](None)
+
 
 
 >>

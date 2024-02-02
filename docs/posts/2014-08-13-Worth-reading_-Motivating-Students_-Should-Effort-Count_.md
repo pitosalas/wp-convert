@@ -3,6 +3,8 @@ title: "Worth reading: Motivating Students: Should Effort Count?"
 author: Pito Salas
 date: 2014-08-13
 ---
+# [Worth reading: Motivating Students: Should Effort Count?](None)
+
 
 
 

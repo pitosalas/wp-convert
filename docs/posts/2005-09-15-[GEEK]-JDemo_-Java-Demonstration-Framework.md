@@ -3,6 +3,8 @@ title: "[GEEK] JDemo: Java Demonstration Framework"
 author: Pito Salas
 date: 2005-09-15
 ---
+# [[GEEK] JDemo: Java Demonstration Framework](None)
+
 
 
 >>

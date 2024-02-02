@@ -3,6 +3,8 @@ title: "Virtual Cable takes your GPS and raises you a heads-up display"
 author: Pito Salas
 date: 2008-02-04
 ---
+# [Virtual Cable takes your GPS and raises you a heads-up display](None)
+
 
 
 

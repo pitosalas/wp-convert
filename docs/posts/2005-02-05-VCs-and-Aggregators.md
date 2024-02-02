@@ -3,6 +3,8 @@ title: "VCs and Aggregators"
 author: Pito Salas
 date: 2005-02-05
 ---
+# [VCs and Aggregators](None)
+
 
 [An interesting article in
 News.Com](<http://news.com.com/RSS+feeds+attract+venture+dollars/2100-1038_3-5561158.html?tag=nefd.top>):

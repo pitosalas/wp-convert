@@ -8,6 +8,8 @@ tags:
     - programmers-editor
     - vscode
 ---
+# [Zed – Code at the speed of thought](None)
+
 
 
 

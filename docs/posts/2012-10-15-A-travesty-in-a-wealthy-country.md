@@ -7,6 +7,8 @@ tags:
     - health-care
     - nyt
 ---
+# [A travesty in a wealthy country](None)
+
 
 
 

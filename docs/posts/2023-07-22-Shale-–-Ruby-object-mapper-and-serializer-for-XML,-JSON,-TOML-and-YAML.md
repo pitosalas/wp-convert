@@ -9,6 +9,8 @@ tags:
     - ruby
     - text
 ---
+# [Shale – Ruby object mapper and serializer for XML, JSON, TOML and YAML](None)
+
 
 
 

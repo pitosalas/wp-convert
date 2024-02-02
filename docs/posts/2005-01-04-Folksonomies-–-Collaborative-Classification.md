@@ -3,6 +3,8 @@ title: "Folksonomies – Collaborative Classification"
 author: Pito Salas
 date: 2005-01-04
 ---
+# [Folksonomies – Collaborative Classification](None)
+
 
 There has been a lot of traffic on this new meme "Folksonomies". This
 [Slashdot bit ](<http://slashdot.org/article.pl?sid=05/01/04/0117245>)has many

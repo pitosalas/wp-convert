@@ -8,6 +8,8 @@ tags:
     - idealism
     - sam-spade
 ---
+# [How far does idealism get you](None)
+
 
 
 

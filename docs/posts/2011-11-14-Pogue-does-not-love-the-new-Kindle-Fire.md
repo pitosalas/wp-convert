@@ -8,6 +8,8 @@ tags:
     - fire
     - kindle
 ---
+# [Pogue does not love the new Kindle Fire](None)
+
 
 
 

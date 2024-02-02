@@ -12,6 +12,8 @@ tags:
     - bike-shedding
     - commentary
 ---
+# [Death by a thousand microservices](https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html?utm_source=changelog-news)
+
 <img src=https://renegadeotter.com/img/complexity/og.jpg width="500">
 
 I couldn’t agree more!

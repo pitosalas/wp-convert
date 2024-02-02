@@ -3,6 +3,8 @@ title: "Pecking order? Puleeze! Joi Ito"
 author: Pito Salas
 date: 2004-02-13
 ---
+# [Pecking order? Puleeze! Joi Ito](None)
+
 
 
 >>

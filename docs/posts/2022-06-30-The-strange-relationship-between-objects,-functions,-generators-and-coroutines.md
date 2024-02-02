@@ -1,21 +1,20 @@
 ---
 title: "The strange relationship between objects, functions, generators and coroutines"
 author: Pito Salas
+url: "https://www.packt.com/bizarre-python/?utm_source=abyteofcodingnewsletter" 
+link: "https://www.packt.com/bizarre-python/?utm_source=abyteofcodingnewsletter" 
+cover: "https://www.packt.com/wp-content/uploads/2022/05/pexels-photo-821944.jpeg" 
 date: 2022-06-30
 tags:
-    - function-tags
+    - python
     - howto
     - objects
-    - python-tag
+    - functions
 ---
+# [The strange relationship between objects, functions, generators and coroutines](https://www.packt.com/bizarre-python/?utm_source=abyteofcodingnewsletter)
+
+<img src=https://www.packt.com/wp-content/uploads/2022/05/pexels-photo-821944.jpeg width="500">
 
 
 
-[The strange relationship between objects, functions, generators and
-coroutines ](<https://www.packt.com/bizarre-python/>) -- In this article, I’d
-like to investigate some relationships between functions, objects, generators
-and coroutines in Python. At a theoretical level, these are very different
-concepts, but because of Python’s dynamic nature, many of them can appear to
-be used interchangeably.
-
-
+(**Web site except:** The strange relationship between objects, functions, generators and coroutines In this article, I’d like to investigate some relationships between functions, objects, generators and coroutines in Python. At a theoretical level, these are very different concepts, but because of Python’s dynamic nature, many of them can appear to be used interchangeably. I discuss useful applications of […]) 

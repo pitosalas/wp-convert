@@ -3,6 +3,8 @@ title: "Who Killed the Electric Car? (And why Wikipedia is GREAT)"
 author: Pito Salas
 date: 2008-08-06
 ---
+# [Who Killed the Electric Car? (And why Wikipedia is GREAT)](None)
+
 
 
 

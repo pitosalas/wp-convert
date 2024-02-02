@@ -7,6 +7,8 @@ tags:
     - facial-hair
     - silly
 ---
+# [[SILLY] Beards and Facial Hair](None)
+
 
 
 

@@ -7,6 +7,8 @@ tags:
     - decision-tag-making
     - rfc
 ---
+# [RFC processes are a poor fit for most organizations – Jacob Kaplan-Moss](None)
+
 
 
 

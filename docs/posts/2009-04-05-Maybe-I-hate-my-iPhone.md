@@ -5,6 +5,8 @@ date: 2009-04-05
 tags:
     - iphon-tage
 ---
+# [Maybe I hate my iPhone](None)
+
 
 
 

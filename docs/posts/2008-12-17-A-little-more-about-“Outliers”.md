@@ -3,6 +3,8 @@ title: "A little more about “Outliers”"
 author: Pito Salas
 date: 2008-12-17
 ---
+# [A little more about “Outliers”](None)
+
 
 
 

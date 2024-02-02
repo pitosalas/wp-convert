@@ -3,6 +3,8 @@ title: "[GEEKY] A DSL for Image Analysis"
 author: Pito Salas
 date: 2009-06-03
 ---
+# [[GEEKY] A DSL for Image Analysis](None)
+
 
 
 

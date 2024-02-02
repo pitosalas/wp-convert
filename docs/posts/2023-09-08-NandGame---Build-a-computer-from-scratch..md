@@ -11,6 +11,8 @@ tags:
     - nand
     - cpu
 ---
+# [NandGame - Build a computer from scratch.](https://nandgame.com)
+
 <img src=https://rdl.ink/render/https%3A%2F%2Fnandgame.com width="500">
 
 Another really cool geek game where you build a whole CPU from individual nands etc. Crazy tedious.

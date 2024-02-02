@@ -3,6 +3,8 @@ title: "Dilbert blog does it again (photo added)"
 author: Pito Salas
 date: 2008-03-08
 ---
+# [Dilbert blog does it again (photo added)](None)
+
 
 
 

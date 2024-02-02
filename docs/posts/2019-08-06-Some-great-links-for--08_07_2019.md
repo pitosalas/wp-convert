@@ -3,6 +3,8 @@ title: "Some great links for  08/07/2019"
 author: Pito Salas
 date: 2019-08-06
 ---
+# [Some great links for  08/07/2019](None)
+
 
 
 

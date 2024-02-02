@@ -3,6 +3,8 @@ title: "Kevin Kelly writes about pervasive (or is it ubiquitous) screens"
 author: Pito Salas
 date: 2008-12-29
 ---
+# [Kevin Kelly writes about pervasive (or is it ubiquitous) screens](None)
+
 
 
 

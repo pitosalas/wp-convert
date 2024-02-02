@@ -3,6 +3,8 @@ title: "Bank Of America advises me to save $NaN"
 author: Pito Salas
 date: 2009-07-22
 ---
+# [Bank Of America advises me to save $NaN](None)
+
 
 
 

@@ -3,6 +3,8 @@ title: "RF-ID uptake slower than expected?"
 author: Pito Salas
 date: 2004-03-29
 ---
+# [RF-ID uptake slower than expected?](None)
+
 
 
 >>

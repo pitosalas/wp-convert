@@ -3,6 +3,8 @@ title: "Top Ruby Books"
 author: Pito Salas
 date: 2007-09-07
 ---
+# [Top Ruby Books](None)
+
 
 
 

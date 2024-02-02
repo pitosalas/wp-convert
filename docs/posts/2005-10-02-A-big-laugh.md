@@ -3,6 +3,8 @@ title: "A big laugh"
 author: Pito Salas
 date: 2005-10-02
 ---
+# [A big laugh](None)
+
 
 
 >>

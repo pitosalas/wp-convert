@@ -9,6 +9,8 @@ tags:
     - propane-gas
     - smoker
 ---
+# [Camp Chef Smoke Vault 24″ Review](None)
+
 
 
 

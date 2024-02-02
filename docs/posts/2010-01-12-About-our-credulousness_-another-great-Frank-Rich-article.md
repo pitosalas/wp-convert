@@ -7,6 +7,8 @@ tags:
     - frankrich
     - tigerwoods
 ---
+# [About our credulousness: another great Frank Rich article](None)
+
 
 
 

@@ -3,6 +3,8 @@ title: "Are you blind to a great bargain?"
 author: Pito Salas
 date: 2007-04-27
 ---
+# [Are you blind to a great bargain?](None)
+
 
 
 

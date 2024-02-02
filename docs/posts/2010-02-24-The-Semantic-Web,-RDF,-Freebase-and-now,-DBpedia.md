@@ -3,6 +3,8 @@ title: "The Semantic Web, RDF, Freebase and now, DBpedia"
 author: Pito Salas
 date: 2010-02-24
 ---
+# [The Semantic Web, RDF, Freebase and now, DBpedia](None)
+
 
 
 

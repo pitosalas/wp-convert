@@ -6,6 +6,8 @@ tags:
     - api
     - testing
 ---
+# [Learn How to Test Third Party Services With Minitest & VCR](None)
+
 
 
 

@@ -3,6 +3,8 @@ title: "Just when I was thinking about stopping my NetFlix subscription"
 author: Pito Salas
 date: 2008-10-30
 ---
+# [Just when I was thinking about stopping my NetFlix subscription](None)
+
 
 
 

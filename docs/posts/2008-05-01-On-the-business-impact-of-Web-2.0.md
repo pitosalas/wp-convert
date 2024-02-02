@@ -5,6 +5,8 @@ date: 2008-05-01
 tags:
     - business20-enterprise20-billives
 ---
+# [On the business impact of Web 2.0](None)
+
 
 
 

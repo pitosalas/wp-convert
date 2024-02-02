@@ -3,6 +3,8 @@ title: "Two books that look good…"
 author: Pito Salas
 date: 2006-07-09
 ---
+# [Two books that look good…](None)
+
 
 I saw these two books in Barnes and Noble. They look quite interesting. I
 might get them.

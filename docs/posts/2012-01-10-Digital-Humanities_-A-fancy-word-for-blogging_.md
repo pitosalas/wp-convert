@@ -8,6 +8,8 @@ tags:
     - internet
     - scholarship
 ---
+# [Digital Humanities: A fancy word for blogging?](None)
+
 
 
 

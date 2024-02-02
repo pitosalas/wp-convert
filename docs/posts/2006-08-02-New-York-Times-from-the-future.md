@@ -3,6 +3,8 @@ title: "New York Times from the future"
 author: Pito Salas
 date: 2006-08-02
 ---
+# [New York Times from the future](None)
+
 
 
 >>

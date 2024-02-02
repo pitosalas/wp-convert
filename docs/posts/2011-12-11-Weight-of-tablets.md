@@ -11,6 +11,8 @@ tags:
     - tablets
     - weight
 ---
+# [Weight of tablets](None)
+
 
 
 

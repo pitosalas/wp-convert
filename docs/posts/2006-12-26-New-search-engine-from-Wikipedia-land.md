@@ -3,6 +3,8 @@ title: "New search engine from Wikipedia-land"
 author: Pito Salas
 date: 2006-12-26
 ---
+# [New search engine from Wikipedia-land](None)
+
 
 
 >

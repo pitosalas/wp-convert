@@ -3,6 +3,8 @@ title: "Cool idea: Skillshare"
 author: Pito Salas
 date: 2011-08-10
 ---
+# [Cool idea: Skillshare](None)
+
 
 
 

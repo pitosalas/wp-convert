@@ -3,6 +3,8 @@ title: "[Geeky] Doing popups in Rails and elsewhere"
 author: Pito Salas
 date: 2008-03-17
 ---
+# [[Geeky] Doing popups in Rails and elsewhere](None)
+
 
 
 

@@ -3,6 +3,8 @@ title: "Hello from Curacao"
 author: Pito Salas
 date: 2006-02-25
 ---
+# [Hello from Curacao](None)
+
 
 I've discovered how hard it is to work on a laptop with a tiny screen, 1.2GHz
 and, esepcially, 256Mb of memory. Sloooooow! I've been keeping up with emails

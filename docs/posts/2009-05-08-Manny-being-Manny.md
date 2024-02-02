@@ -3,6 +3,8 @@ title: "Manny being Manny"
 author: Pito Salas
 date: 2009-05-08
 ---
+# [Manny being Manny](None)
+
 
 
 

@@ -3,6 +3,8 @@ title: "Interesting article  about Open Source in the Financial Times"
 author: Pito Salas
 date: 2005-09-22
 ---
+# [Interesting article  about Open Source in the Financial Times](None)
+
 
 
 >>

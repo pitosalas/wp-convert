@@ -3,6 +3,8 @@ title: "A new term: Blobjects"
 author: Pito Salas
 date: 2004-08-24
 ---
+# [A new term: Blobjects](None)
+
 
 
 >>

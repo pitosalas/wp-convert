@@ -3,6 +3,8 @@ title: "Some great links for  01/16/2020"
 author: Pito Salas
 date: 2020-01-15
 ---
+# [Some great links for  01/16/2020](None)
+
 
 
 

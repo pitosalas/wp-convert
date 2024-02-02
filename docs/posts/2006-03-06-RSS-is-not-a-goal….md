@@ -3,6 +3,8 @@ title: "RSS is not a goal…"
 author: Pito Salas
 date: 2006-03-06
 ---
+# [RSS is not a goal…](None)
+
 
 
 >>

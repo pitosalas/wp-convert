@@ -8,6 +8,8 @@ tags:
     - no-tagise
     - video
 ---
+# [Happy New Year from Curaçao!](None)
+
 
 
 

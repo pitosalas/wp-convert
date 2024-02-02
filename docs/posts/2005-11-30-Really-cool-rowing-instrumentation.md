@@ -3,6 +3,8 @@ title: "Really cool rowing instrumentation"
 author: Pito Salas
 date: 2005-11-30
 ---
+# [Really cool rowing instrumentation](None)
+
 
 
 >>

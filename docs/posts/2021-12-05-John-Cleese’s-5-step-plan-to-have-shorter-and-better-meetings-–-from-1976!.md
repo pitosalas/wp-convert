@@ -5,6 +5,8 @@ date: 2021-12-05
 tags:
     - time
 ---
+# [John Cleese’s 5-step plan to have shorter and better meetings – from 1976!](None)
+
 
 
 

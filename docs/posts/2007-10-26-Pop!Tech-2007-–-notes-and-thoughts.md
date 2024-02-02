@@ -3,6 +3,8 @@ title: "Pop!Tech 2007 – notes and thoughts"
 author: Pito Salas
 date: 2007-10-26
 ---
+# [Pop!Tech 2007 – notes and thoughts](None)
+
 
 
 

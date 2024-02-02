@@ -3,6 +3,8 @@ title: "Quote of the day"
 author: Pito Salas
 date: 2008-07-04
 ---
+# [Quote of the day](None)
+
 
 
 

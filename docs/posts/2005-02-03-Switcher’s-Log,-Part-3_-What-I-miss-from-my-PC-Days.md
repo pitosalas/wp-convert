@@ -3,6 +3,8 @@ title: "Switcher’s Log, Part 3: What I miss from my PC Days"
 author: Pito Salas
 date: 2005-02-03
 ---
+# [Switcher’s Log, Part 3: What I miss from my PC Days](None)
+
 
 In the continuing saga of the switch from Windows XP to Mac OS X, here is
 where we find our hero….

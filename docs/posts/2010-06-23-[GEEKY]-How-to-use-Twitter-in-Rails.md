@@ -3,6 +3,8 @@ title: "[GEEKY] How to use Twitter in Rails"
 author: Pito Salas
 date: 2010-06-23
 ---
+# [[GEEKY] How to use Twitter in Rails](None)
+
 
 
 

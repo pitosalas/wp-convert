@@ -3,6 +3,8 @@ title: "Sun still doesn’t get it!"
 author: Pito Salas
 date: 2004-01-31
 ---
+# [Sun still doesn’t get it!](None)
+
 
 
 >>

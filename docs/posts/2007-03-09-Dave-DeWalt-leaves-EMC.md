@@ -3,6 +3,8 @@ title: "Dave DeWalt leaves EMC"
 author: Pito Salas
 date: 2007-03-09
 ---
+# [Dave DeWalt leaves EMC](None)
+
 
 
 

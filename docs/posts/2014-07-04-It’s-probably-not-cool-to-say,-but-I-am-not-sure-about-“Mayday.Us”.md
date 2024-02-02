@@ -7,6 +7,8 @@ tags:
     - lawrence-lessig
     - politics
 ---
+# [It’s probably not cool to say, but I am not sure about “Mayday.Us”](None)
+
 
 
 

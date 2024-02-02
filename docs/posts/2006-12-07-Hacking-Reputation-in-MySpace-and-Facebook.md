@@ -3,6 +3,8 @@ title: "Hacking Reputation in MySpace and Facebook"
 author: Pito Salas
 date: 2006-12-07
 ---
+# [Hacking Reputation in MySpace and Facebook](None)
+
 
 
 >

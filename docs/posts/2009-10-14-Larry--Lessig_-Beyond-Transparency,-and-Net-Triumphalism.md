@@ -3,6 +3,8 @@ title: "Larry  Lessig: Beyond Transparency, and Net Triumphalism"
 author: Pito Salas
 date: 2009-10-14
 ---
+# [Larry  Lessig: Beyond Transparency, and Net Triumphalism](None)
+
 
 
 

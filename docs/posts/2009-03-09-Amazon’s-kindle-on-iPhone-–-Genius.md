@@ -3,6 +3,8 @@ title: "Amazon’s kindle on iPhone – Genius"
 author: Pito Salas
 date: 2009-03-09
 ---
+# [Amazon’s kindle on iPhone – Genius](None)
+
 
 
 

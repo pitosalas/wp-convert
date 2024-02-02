@@ -1,13 +1,19 @@
 ---
 title: "Wooden machines and contraptions"
 author: Pito Salas
+url: "https://woodgears.ca/machines.html" 
+link: "https://woodgears.ca/machines.html" 
+cover: "https://rdl.ink/render/https%3A%2F%2Fwoodgears.ca%2Fmachines.html" 
 date: 2022-05-10
+tags:
+    - woodworking
+    - wood
+    - machines
+    - howto
+    - diy
 ---
+# [Wooden machines and contraptions](https://woodgears.ca/machines.html)
 
-
-
-[ Wooden machines and contraptions](<https://woodgears.ca/machines.html>)
-
-May 10, 2022 at 03:11PM
+<img src=https://rdl.ink/render/https%3A%2F%2Fwoodgears.ca%2Fmachines.html width="500">
 
 

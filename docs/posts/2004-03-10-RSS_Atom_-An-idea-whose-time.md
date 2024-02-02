@@ -3,6 +3,8 @@ title: "RSS/Atom: An idea whose time"
 author: Pito Salas
 date: 2004-03-10
 ---
+# [RSS/Atom: An idea whose time](None)
+
 
 
 >>

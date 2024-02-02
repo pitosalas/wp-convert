@@ -3,6 +3,8 @@ title: "BlogBridge 6.0 is out"
 author: Pito Salas
 date: 2007-10-31
 ---
+# [BlogBridge 6.0 is out](None)
+
 
 
 

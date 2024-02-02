@@ -6,6 +6,8 @@ tags:
     - mathematics
     - needleinahaystack
 ---
+# [Two fun (to me) articles about arcane mathematical topics](None)
+
 
 
 

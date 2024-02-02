@@ -5,6 +5,8 @@ date: 2008-04-10
 tags:
     - BSOD-Apple-Windows-Microsoft
 ---
+# [Apple sense of humor](None)
+
 
 
 

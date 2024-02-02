@@ -3,6 +3,8 @@ title: "Lamps, Lamps, Lamps"
 author: Pito Salas
 date: 2006-01-28
 ---
+# [Lamps, Lamps, Lamps](None)
+
 
 
 >>

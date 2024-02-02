@@ -5,6 +5,8 @@ date: 2007-11-20
 tags:
     - pagerank-countermeasures-colossus-mon-tagey-ecommerce
 ---
+# [Google is the universe](None)
+
 
 
 

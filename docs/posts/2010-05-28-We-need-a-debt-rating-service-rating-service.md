@@ -3,6 +3,8 @@ title: "We need a debt rating service rating service"
 author: Pito Salas
 date: 2010-05-28
 ---
+# [We need a debt rating service rating service](None)
+
 
 
 

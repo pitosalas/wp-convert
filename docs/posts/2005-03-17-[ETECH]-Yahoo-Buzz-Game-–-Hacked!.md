@@ -3,6 +3,8 @@ title: "[ETECH] Yahoo Buzz Game – Hacked!"
 author: Pito Salas
 date: 2005-03-17
 ---
+# [[ETECH] Yahoo Buzz Game – Hacked!](None)
+
 
 There was some buzz here at ETECH about Yahoo Research's announcement of the
 [Buzz Game](<http://buzz.research.yahoo.com/bk/index.html>). It's one of those

@@ -12,6 +12,8 @@ tags:
     - lambda
     - map
 ---
+# [Let's Implement the Map Method from First Principles](https://www.akshaykhot.com/map-from-first-principles/?ref=akshays-blog-newsletter)
+
 <img src=https://www.akshaykhot.com/content/images/2023/09/code-2.png width="500">
 
 Great article explaining Ruby map, lambda and proc.

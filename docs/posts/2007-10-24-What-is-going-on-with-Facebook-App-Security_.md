@@ -3,6 +3,8 @@ title: "What is going on with Facebook App Security?"
 author: Pito Salas
 date: 2007-10-24
 ---
+# [What is going on with Facebook App Security?](None)
+
 
 
 

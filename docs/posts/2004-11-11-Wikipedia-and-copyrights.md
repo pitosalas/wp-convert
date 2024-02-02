@@ -3,6 +3,8 @@ title: "Wikipedia and copyrights"
 author: Pito Salas
 date: 2004-11-11
 ---
+# [Wikipedia and copyrights](None)
+
 
 
 >>

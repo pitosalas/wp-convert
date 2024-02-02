@@ -3,6 +3,8 @@ title: "Stern on Jackson"
 author: Pito Salas
 date: 2004-02-04
 ---
+# [Stern on Jackson](None)
+
 
 
 >>

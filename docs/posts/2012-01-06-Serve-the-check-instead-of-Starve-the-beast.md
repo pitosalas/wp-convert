@@ -8,6 +8,8 @@ tags:
     - politics
     - republican
 ---
+# [Serve-the-check instead of Starve-the-beast](None)
+
 
 
 

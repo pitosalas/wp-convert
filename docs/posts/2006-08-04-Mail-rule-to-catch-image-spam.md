@@ -3,6 +3,8 @@ title: "Mail rule to catch image spam"
 author: Pito Salas
 date: 2006-08-04
 ---
+# [Mail rule to catch image spam](None)
+
 
 This is Mac specific, but I wouldn't be surprised if people with more
 primitive computers could do something analogous. Basically we create a Mail

@@ -3,6 +3,8 @@ title: "Do you really really really want an iPhone?"
 author: Pito Salas
 date: 2007-01-10
 ---
+# [Do you really really really want an iPhone?](None)
+
 
 
 >

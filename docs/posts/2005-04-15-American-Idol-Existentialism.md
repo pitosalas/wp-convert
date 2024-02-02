@@ -3,6 +3,8 @@ title: "American Idol Existentialism"
 author: Pito Salas
 date: 2005-04-15
 ---
+# [American Idol Existentialism](None)
+
 
 
 >>

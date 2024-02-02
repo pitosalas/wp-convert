@@ -3,6 +3,8 @@ title: "Rumorville: Microsoft – Amazon"
 author: Pito Salas
 date: 2008-01-11
 ---
+# [Rumorville: Microsoft – Amazon](None)
+
 
 
 

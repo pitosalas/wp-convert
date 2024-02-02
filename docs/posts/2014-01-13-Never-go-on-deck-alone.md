@@ -9,6 +9,8 @@ tags:
     - ocean
     - story
 ---
+# [Never go on deck alone](None)
+
 
 
 

@@ -11,6 +11,8 @@ tags:
     - database
     - ruby
 ---
+# [How Relational Algebra powers Klaro Cards](https://www.klaro.cards/blog/2023/12/08/111-how-relation-algebra-powers-klaro-cards)
+
 <img src=https://blog.klaro.cards/s/nytCuM0yeqcwSRHiLj4e3A==.jpg?n=Menger-Schwamm.jpg width="500">
 
 Interesting new kid on the block of database access with ruby

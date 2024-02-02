@@ -3,6 +3,8 @@ title: "FooPlot – looks quite cool!"
 author: Pito Salas
 date: 2007-01-04
 ---
+# [FooPlot – looks quite cool!](None)
+
 
 
 >

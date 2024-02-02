@@ -3,6 +3,8 @@ title: "Gmail, Part Deux: Strategy"
 author: Pito Salas
 date: 2004-12-23
 ---
+# [Gmail, Part Deux: Strategy](None)
+
 
 So what might GMail's strategy be? I listened to a wonderful Podcast with
 [Georges Harik](<http://www.itconversations.com/shows/detail302.html>) all

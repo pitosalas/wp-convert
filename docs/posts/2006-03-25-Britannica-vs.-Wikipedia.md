@@ -3,6 +3,8 @@ title: "Britannica vs. Wikipedia"
 author: Pito Salas
 date: 2006-03-25
 ---
+# [Britannica vs. Wikipedia](None)
+
 
 
 >>

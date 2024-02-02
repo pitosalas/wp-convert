@@ -3,6 +3,8 @@ title: "The Change Formula: Rule"
 author: Pito Salas
 date: 2009-10-13
 ---
+# [The Change Formula: Rule](None)
+
 
 
 

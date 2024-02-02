@@ -3,6 +3,8 @@ title: "We go full circle: Google Command Line Tool"
 author: Pito Salas
 date: 2010-06-18
 ---
+# [We go full circle: Google Command Line Tool](None)
+
 
 
 

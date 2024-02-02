@@ -3,6 +3,8 @@ title: "Glickr Makes It Easy to Make Cheap Animations"
 author: Pito Salas
 date: 2006-11-21
 ---
+# [Glickr Makes It Easy to Make Cheap Animations](None)
+
 
 
 >

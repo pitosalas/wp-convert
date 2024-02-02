@@ -3,6 +3,8 @@ title: "I have many friends"
 author: Pito Salas
 date: 2007-06-10
 ---
+# [I have many friends](None)
+
 
 
 

@@ -3,6 +3,8 @@ title: "Robin Good checks out BlogBridge micro publishing capabilities"
 author: Pito Salas
 date: 2007-06-05
 ---
+# [Robin Good checks out BlogBridge micro publishing capabilities](None)
+
 
 
 

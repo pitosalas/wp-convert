@@ -3,6 +3,8 @@ title: "Magic Links"
 author: Pito Salas
 date: 2004-10-05
 ---
+# [Magic Links](None)
+
 
 
 >>

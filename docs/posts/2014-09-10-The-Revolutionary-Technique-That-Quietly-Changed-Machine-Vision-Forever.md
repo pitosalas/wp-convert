@@ -6,6 +6,8 @@ tags:
     - computer-science
     - machine-vision-tag
 ---
+# [The Revolutionary Technique That Quietly Changed Machine Vision Forever](None)
+
 
 
 

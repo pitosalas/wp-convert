@@ -3,6 +3,8 @@ title: "RSS Feed Advertising"
 author: Pito Salas
 date: 2005-03-01
 ---
+# [RSS Feed Advertising](None)
+
 
 From News.com, about [Kaboodle BrightAds
 RSS](<http://news.com.com/Firm+eyes+RSS+feeds+as+ad+vehicle/2100-1024_3-5591056.html?tag=cd.top>)

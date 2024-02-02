@@ -3,6 +3,8 @@ title: "Worth reading: Don’t BS the American People About Iraq, Syria, and ISI
 author: Pito Salas
 date: 2014-08-22
 ---
+# [Worth reading: Don’t BS the American People About Iraq, Syria, and ISIL](None)
+
 
 
 

@@ -6,6 +6,8 @@ tags:
     - coding
     - Programming
 ---
+# [Everyone should know how to program](None)
+
 
 
 

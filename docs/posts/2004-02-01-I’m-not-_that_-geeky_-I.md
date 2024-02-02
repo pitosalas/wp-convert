@@ -3,6 +3,8 @@ title: "I’m not *that* geeky: I"
 author: Pito Salas
 date: 2004-02-01
 ---
+# [I’m not *that* geeky: I](None)
+
 
 
 >>

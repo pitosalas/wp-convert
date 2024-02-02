@@ -7,6 +7,8 @@ tags:
     - leadership
     - solitude
 ---
+# [commonplace, ordinary, usual, common](None)
+
 
 
 

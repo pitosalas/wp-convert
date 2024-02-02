@@ -8,6 +8,8 @@ tags:
     - howto
     - shell
 ---
+# [Shell Script Best Practices — The Sharat’s](None)
+
 
 
 

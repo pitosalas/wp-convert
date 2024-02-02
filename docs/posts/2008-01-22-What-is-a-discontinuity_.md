@@ -3,6 +3,8 @@ title: "What is a discontinuity?"
 author: Pito Salas
 date: 2008-01-22
 ---
+# [What is a discontinuity?](None)
+
 
 
 

@@ -3,6 +3,8 @@ title: "Worth reading: Hillary Clinton: ‘Failure’ to Help Syrian Rebels Led 
 author: Pito Salas
 date: 2014-08-12
 ---
+# [Worth reading: Hillary Clinton: ‘Failure’ to Help Syrian Rebels Led to the Rise of ISIS](None)
+
 
 
 

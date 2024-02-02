@@ -3,6 +3,8 @@ title: "My Strange Nation? Check out Susan Werner"
 author: Pito Salas
 date: 2006-04-06
 ---
+# [My Strange Nation? Check out Susan Werner](None)
+
 
 
 >>

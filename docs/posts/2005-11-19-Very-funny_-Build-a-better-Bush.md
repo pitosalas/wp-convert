@@ -3,6 +3,8 @@ title: "Very funny: Build a better Bush"
 author: Pito Salas
 date: 2005-11-19
 ---
+# [Very funny: Build a better Bush](None)
+
 
 
 >>

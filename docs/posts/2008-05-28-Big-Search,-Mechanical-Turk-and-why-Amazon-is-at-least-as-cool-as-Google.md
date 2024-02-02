@@ -3,6 +3,8 @@ title: "Big Search, Mechanical Turk and why Amazon is at least as cool as Google
 author: Pito Salas
 date: 2008-05-28
 ---
+# [Big Search, Mechanical Turk and why Amazon is at least as cool as Google](None)
+
 
 
 

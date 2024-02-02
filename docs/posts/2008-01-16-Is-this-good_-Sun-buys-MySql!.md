@@ -3,6 +3,8 @@ title: "Is this good? Sun buys MySql!"
 author: Pito Salas
 date: 2008-01-16
 ---
+# [Is this good? Sun buys MySql!](None)
+
 
 
 

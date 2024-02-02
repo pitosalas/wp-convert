@@ -3,6 +3,8 @@ title: "Why don’t you check your email?"
 author: Pito Salas
 date: 2004-10-13
 ---
+# [Why don’t you check your email?](None)
+
 
 
 >>

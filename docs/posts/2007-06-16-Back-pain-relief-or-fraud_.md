@@ -3,6 +3,8 @@ title: "Back pain relief or fraud?"
 author: Pito Salas
 date: 2007-06-16
 ---
+# [Back pain relief or fraud?](None)
+
 
 
 

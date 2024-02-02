@@ -3,6 +3,8 @@ title: "[GEEK] Good bit about code commenting"
 author: Pito Salas
 date: 2005-06-04
 ---
+# [[GEEK] Good bit about code commenting](None)
+
 
 
 >>

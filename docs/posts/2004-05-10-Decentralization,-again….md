@@ -3,6 +3,8 @@ title: "Decentralization, again…"
 author: Pito Salas
 date: 2004-05-10
 ---
+# [Decentralization, again…](None)
+
 
 
 >>

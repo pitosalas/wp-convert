@@ -9,6 +9,8 @@ tags:
     - test
     - tag
 ---
+# [Explore Integrations - IFTTT](https://ifttt.com/explore)
+
 <img src=https://web-assets.ifttt.com/packs/media/shared/ifttt-banner-287889aa7d44e76a8d08.png width="500">
 
 This is the note that I added

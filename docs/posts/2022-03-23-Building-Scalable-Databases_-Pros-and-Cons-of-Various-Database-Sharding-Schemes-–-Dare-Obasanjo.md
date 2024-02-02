@@ -6,6 +6,8 @@ tags:
     - performance
     - scaling
 ---
+# [Building Scalable Databases: Pros and Cons of Various Database Sharding Schemes – Dare Obasanjo](None)
+
 
 
 

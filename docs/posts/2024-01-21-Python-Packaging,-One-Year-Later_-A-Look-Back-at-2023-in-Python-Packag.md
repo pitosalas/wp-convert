@@ -13,6 +13,8 @@ tags:
     - pip
     - pyenv
 ---
+# [Python Packaging, One Year Later: A Look Back at 2023 in Python Packag](https://chriswarrick.com/blog/2024/01/15/python-packaging-one-year-later/)
+
 <img src= width="500">
 
 Packaging and ‘includes’ are the worse part of python. This article really highlights the mess. 

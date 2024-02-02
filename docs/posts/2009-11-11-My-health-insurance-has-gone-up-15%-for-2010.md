@@ -3,6 +3,8 @@ title: "My health insurance has gone up 15% for 2010"
 author: Pito Salas
 date: 2009-11-11
 ---
+# [My health insurance has gone up 15% for 2010](None)
+
 
 
 

@@ -3,6 +3,8 @@ title: "Musings on Open Source licensing"
 author: Pito Salas
 date: 2004-05-28
 ---
+# [Musings on Open Source licensing](None)
+
 
 
 >>

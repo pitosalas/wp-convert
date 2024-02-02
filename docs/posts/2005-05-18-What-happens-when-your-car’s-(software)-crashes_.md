@@ -3,6 +3,8 @@ title: "What happens when your car’s (software) crashes?"
 author: Pito Salas
 date: 2005-05-18
 ---
+# [What happens when your car’s (software) crashes?](None)
+
 
 Just an amusing little bit from the Wall Street Journal about the Toyota
 Prius:

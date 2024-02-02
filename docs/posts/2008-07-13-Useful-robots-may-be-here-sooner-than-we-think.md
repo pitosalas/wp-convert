@@ -3,6 +3,8 @@ title: "Useful robots may be here sooner than we think"
 author: Pito Salas
 date: 2008-07-13
 ---
+# [Useful robots may be here sooner than we think](None)
+
 
 
 

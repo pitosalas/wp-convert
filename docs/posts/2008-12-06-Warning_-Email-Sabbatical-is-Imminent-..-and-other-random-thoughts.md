@@ -3,6 +3,8 @@ title: "Warning: Email Sabbatical is Imminent .. and other random thoughts"
 author: Pito Salas
 date: 2008-12-06
 ---
+# [Warning: Email Sabbatical is Imminent .. and other random thoughts](None)
+
 
 
 

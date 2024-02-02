@@ -3,6 +3,8 @@ title: "Strange but true…"
 author: Pito Salas
 date: 2007-12-15
 ---
+# [Strange but true…](None)
+
 
 
 

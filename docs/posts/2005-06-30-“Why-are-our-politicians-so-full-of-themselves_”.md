@@ -3,6 +3,8 @@ title: "“Why are our politicians so full of themselves?”"
 author: Pito Salas
 date: 2005-06-30
 ---
+# [“Why are our politicians so full of themselves?”](None)
+
 
 
 >>

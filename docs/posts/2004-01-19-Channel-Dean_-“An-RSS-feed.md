@@ -3,6 +3,8 @@ title: "Channel Dean: “An RSS feed"
 author: Pito Salas
 date: 2004-01-19
 ---
+# [Channel Dean: “An RSS feed](None)
+
 
 
 >>

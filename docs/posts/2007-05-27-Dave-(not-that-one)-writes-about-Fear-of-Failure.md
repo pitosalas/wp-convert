@@ -3,6 +3,8 @@ title: "Dave (not that one) writes about Fear of Failure"
 author: Pito Salas
 date: 2007-05-27
 ---
+# [Dave (not that one) writes about Fear of Failure](None)
+
 
 
 

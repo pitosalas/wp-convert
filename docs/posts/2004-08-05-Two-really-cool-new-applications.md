@@ -3,6 +3,8 @@ title: "Two really cool new applications"
 author: Pito Salas
 date: 2004-08-05
 ---
+# [Two really cool new applications](None)
+
 
 
 >>

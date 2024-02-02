@@ -9,6 +9,8 @@ tags:
     - Medium
     - ruby
 ---
+# [Recommended: Crystal is not Ruby Part 1](None)
+
 
 
 

@@ -9,6 +9,8 @@ tags:
     - tumblr
     - yahoo
 ---
+# [Interesting view on Tumblr/Yahoo deal](None)
+
 
 
 

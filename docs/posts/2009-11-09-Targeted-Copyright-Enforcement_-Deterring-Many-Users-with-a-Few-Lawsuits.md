@@ -7,6 +7,8 @@ tags:
     - edfelton-tag
     - infringement
 ---
+# [Targeted Copyright Enforcement: Deterring Many Users with a Few Lawsuits](None)
+
 
 
 

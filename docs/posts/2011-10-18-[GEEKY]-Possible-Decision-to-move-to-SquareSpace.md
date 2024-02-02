@@ -6,6 +6,8 @@ tags:
     - squarespace
     - wordpresscom
 ---
+# [[GEEKY] Possible Decision to move to SquareSpace](None)
+
 
 
 

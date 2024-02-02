@@ -5,6 +5,8 @@ date: 2008-12-14
 tags:
     - usps-newenglandpatriots-postalservice-logos-icon-tags
 ---
+# [How are the New England Patriots like the United States Post Office?](None)
+
 
 
 

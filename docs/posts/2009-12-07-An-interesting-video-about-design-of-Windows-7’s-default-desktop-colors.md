@@ -7,6 +7,8 @@ tags:
     - microsoft
     - windows7
 ---
+# [An interesting video about design of Windows 7’s default desktop colors](None)
+
 
 
 

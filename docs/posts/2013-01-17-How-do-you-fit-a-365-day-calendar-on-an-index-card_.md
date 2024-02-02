@@ -9,6 +9,8 @@ tags:
     - practice
     - seinfeld
 ---
+# [How do you fit a 365 day calendar on an index card?](None)
+
 
 
 

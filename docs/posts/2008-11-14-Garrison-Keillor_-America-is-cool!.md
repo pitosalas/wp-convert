@@ -3,6 +3,8 @@ title: "Garrison Keillor: America is cool!"
 author: Pito Salas
 date: 2008-11-14
 ---
+# [Garrison Keillor: America is cool!](None)
+
 
 
 

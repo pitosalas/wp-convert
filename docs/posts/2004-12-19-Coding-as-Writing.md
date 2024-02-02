@@ -3,6 +3,8 @@ title: "Coding as Writing"
 author: Pito Salas
 date: 2004-12-19
 ---
+# [Coding as Writing](None)
+
 
 
 >>

@@ -7,6 +7,8 @@ tags:
     - mazes
     - ruby
 ---
+# [[GEEKY] Interesting collection of algorithms and great Ruby tutorial](None)
+
 
 
 

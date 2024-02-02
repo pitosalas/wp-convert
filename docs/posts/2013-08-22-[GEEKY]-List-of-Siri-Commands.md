@@ -8,6 +8,8 @@ tags:
     - iphon-tage
     - siri
 ---
+# [[GEEKY] List of Siri Commands](None)
+
 
 
 

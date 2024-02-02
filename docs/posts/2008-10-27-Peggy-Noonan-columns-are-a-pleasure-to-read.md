@@ -3,6 +3,8 @@ title: "Peggy Noonan columns are a pleasure to read"
 author: Pito Salas
 date: 2008-10-27
 ---
+# [Peggy Noonan columns are a pleasure to read](None)
+
 
 
 

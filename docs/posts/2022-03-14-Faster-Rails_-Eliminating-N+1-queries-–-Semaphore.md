@@ -6,6 +6,8 @@ tags:
     - performance
     - rails
 ---
+# [Faster Rails: Eliminating N+1 queries – Semaphore](None)
+
 
 
 

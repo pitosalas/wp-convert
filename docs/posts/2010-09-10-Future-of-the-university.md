@@ -10,6 +10,8 @@ tags:
     - philosophical-issues
     - science-and-philosophy
 ---
+# [Future of the university](None)
+
 
 
 

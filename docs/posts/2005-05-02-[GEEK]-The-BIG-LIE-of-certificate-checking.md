@@ -3,6 +3,8 @@ title: "[GEEK] The BIG LIE of certificate checking"
 author: Pito Salas
 date: 2005-05-02
 ---
+# [[GEEK] The BIG LIE of certificate checking](None)
+
 
 
 >>

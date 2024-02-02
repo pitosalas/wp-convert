@@ -3,6 +3,8 @@ title: "Lightbulb about Podcasting (“Some stuff I just figured out”)"
 author: Pito Salas
 date: 2004-12-18
 ---
+# [Lightbulb about Podcasting (“Some stuff I just figured out”)](None)
+
 
 
 >>

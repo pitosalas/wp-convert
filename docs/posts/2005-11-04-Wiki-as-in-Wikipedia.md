@@ -3,6 +3,8 @@ title: "Wiki as in Wikipedia"
 author: Pito Salas
 date: 2005-11-04
 ---
+# [Wiki as in Wikipedia](None)
+
 
 
 >>

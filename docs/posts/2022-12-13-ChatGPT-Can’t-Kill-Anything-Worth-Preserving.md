@@ -8,6 +8,8 @@ tags:
     - pedagogy
     - teaching
 ---
+# [ChatGPT Can’t Kill Anything Worth Preserving](None)
+
 
 
 

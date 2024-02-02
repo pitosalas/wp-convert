@@ -3,6 +3,8 @@ title: "Keep an eye on the Curacao in the Little League World Series"
 author: Pito Salas
 date: 2006-08-23
 ---
+# [Keep an eye on the Curacao in the Little League World Series](None)
+
 
 Curacao has in the past won or gotten very close to winning the overall Little
 League World Series!

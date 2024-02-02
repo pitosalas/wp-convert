@@ -3,6 +3,8 @@ title: "Back from Barcamp Boston"
 author: Pito Salas
 date: 2009-04-27
 ---
+# [Back from Barcamp Boston](None)
+
 
 
 

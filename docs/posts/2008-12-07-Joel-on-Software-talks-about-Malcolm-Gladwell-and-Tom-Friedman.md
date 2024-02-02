@@ -3,6 +3,8 @@ title: "Joel on Software talks about Malcolm Gladwell and Tom Friedman"
 author: Pito Salas
 date: 2008-12-07
 ---
+# [Joel on Software talks about Malcolm Gladwell and Tom Friedman](None)
+
 
 
 

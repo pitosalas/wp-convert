@@ -3,6 +3,8 @@ title: "Google API -> Open Standard"
 author: Pito Salas
 date: 2005-11-03
 ---
+# [Google API -> Open Standard](None)
+
 
 
 >>

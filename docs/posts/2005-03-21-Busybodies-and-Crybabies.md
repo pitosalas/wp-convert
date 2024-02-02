@@ -3,6 +3,8 @@ title: "Busybodies and Crybabies"
 author: Pito Salas
 date: 2005-03-21
 ---
+# [Busybodies and Crybabies](None)
+
 
 <img
 src="http://s3.media.squarespace.com/production/1075723/12829350/weblogs/busybodies/1101910812_400.jpg"

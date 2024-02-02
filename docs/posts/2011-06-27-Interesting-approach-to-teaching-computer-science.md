@@ -7,6 +7,8 @@ tags:
     - teaching
     - university
 ---
+# [Interesting approach to teaching computer science](None)
+
 
 
 

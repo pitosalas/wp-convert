@@ -10,6 +10,8 @@ tags:
     - search
     - google
 ---
+# [Swurl - Search everything](https://swurl.com)
+
 <img src=https://swurl.com/img/swurl.com-screenshot.png width="500">
 
 Extremely cool alternative search engine.

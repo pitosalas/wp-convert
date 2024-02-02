@@ -3,6 +3,8 @@ title: "Strictly Platonic"
 author: Pito Salas
 date: 2010-07-25
 ---
+# [Strictly Platonic](None)
+
 
 
 

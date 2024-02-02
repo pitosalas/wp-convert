@@ -6,6 +6,8 @@ tags:
     - kindness
     - plato
 ---
+# [Plato: “Be Kind, for Everyone You Meet is Fighting a Great Battle.”](None)
+
 
 
 

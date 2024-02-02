@@ -3,6 +3,8 @@ title: "Incredibly cool visualizations"
 author: Pito Salas
 date: 2005-01-02
 ---
+# [Incredibly cool visualizations](None)
+
 
 In the realm of interesting visualizations, [check this one
 ](<http://turbulence.org/spotlight/thinking/chess.html>)out. It's a Chess game

@@ -8,6 +8,8 @@ tags:
     - mon-tagey
     - startups
 ---
+# [Negotiating your startup offer](None)
+
 
 
 

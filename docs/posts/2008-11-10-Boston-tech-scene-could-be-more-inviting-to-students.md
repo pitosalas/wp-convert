@@ -3,6 +3,8 @@ title: "Boston tech scene could be more inviting to students"
 author: Pito Salas
 date: 2008-11-10
 ---
+# [Boston tech scene could be more inviting to students](None)
+
 
 
 

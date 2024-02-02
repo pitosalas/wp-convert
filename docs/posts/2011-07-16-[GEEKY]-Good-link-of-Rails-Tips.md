@@ -6,6 +6,8 @@ tags:
     - Programming
     - rails
 ---
+# [[GEEKY] Good link of Rails Tips](None)
+
 
 
 

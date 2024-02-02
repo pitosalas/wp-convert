@@ -7,6 +7,8 @@ tags:
     - pricing
     - software
 ---
+# [Good e-book about software pricing](None)
+
 
 
 

@@ -3,6 +3,8 @@ title: "Java Web Start Sucks Eggs"
 author: Pito Salas
 date: 2004-07-10
 ---
+# [Java Web Start Sucks Eggs](None)
+
 
 
 >>

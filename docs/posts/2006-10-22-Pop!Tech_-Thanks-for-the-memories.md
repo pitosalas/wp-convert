@@ -3,6 +3,8 @@ title: "Pop!Tech: Thanks for the memories"
 author: Pito Salas
 date: 2006-10-22
 ---
+# [Pop!Tech: Thanks for the memories](None)
+
 
 
 >

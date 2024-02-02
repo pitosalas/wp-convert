@@ -7,6 +7,8 @@ tags:
     - rubyon-tagrails
     - scaling
 ---
+# [[GEEKY] Yes, Virginia, Rails DOES scale](None)
+
 
 
 

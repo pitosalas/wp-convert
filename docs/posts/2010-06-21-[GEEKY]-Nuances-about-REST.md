@@ -3,6 +3,8 @@ title: "[GEEKY] Nuances about REST"
 author: Pito Salas
 date: 2010-06-21
 ---
+# [[GEEKY] Nuances about REST](None)
+
 
 
 

@@ -3,6 +3,8 @@ title: "A funny classic"
 author: Pito Salas
 date: 2007-05-16
 ---
+# [A funny classic](None)
+
 
 
 

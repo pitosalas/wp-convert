@@ -5,6 +5,8 @@ date: 2008-05-09
 tags:
     - techno-taglogy-IM-phishing
 ---
+# [Firewalls scanning IM messages: Google as symbolic link](None)
+
 
 
 

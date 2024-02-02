@@ -3,6 +3,8 @@ title: "Mystery Ball"
 author: Pito Salas
 date: 2005-09-09
 ---
+# [Mystery Ball](None)
+
 
 
 >>

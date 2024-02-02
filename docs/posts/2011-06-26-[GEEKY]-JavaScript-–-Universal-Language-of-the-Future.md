@@ -7,6 +7,8 @@ tags:
     - languages
     - Programming
 ---
+# [[GEEKY] JavaScript – Universal Language of the Future](None)
+
 
 
 

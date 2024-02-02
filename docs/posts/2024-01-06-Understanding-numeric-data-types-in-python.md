@@ -8,6 +8,8 @@ tags:
     - python-tag
     - types
 ---
+# [Understanding numeric data types in python](None)
+
 
 
 

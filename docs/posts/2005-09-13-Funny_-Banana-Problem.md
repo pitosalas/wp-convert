@@ -3,6 +3,8 @@ title: "Funny: Banana Problem"
 author: Pito Salas
 date: 2005-09-13
 ---
+# [Funny: Banana Problem](None)
+
 
 
 >>

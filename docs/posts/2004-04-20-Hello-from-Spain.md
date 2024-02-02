@@ -3,6 +3,8 @@ title: "Hello from Spain"
 author: Pito Salas
 date: 2004-04-20
 ---
+# [Hello from Spain](None)
+
 
 
 >>

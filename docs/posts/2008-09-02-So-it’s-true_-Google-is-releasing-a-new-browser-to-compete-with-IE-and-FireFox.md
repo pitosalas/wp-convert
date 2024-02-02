@@ -3,6 +3,8 @@ title: "So it’s true: Google is releasing a new browser to compete with IE and
 author: Pito Salas
 date: 2008-09-02
 ---
+# [So it’s true: Google is releasing a new browser to compete with IE and FireFox](None)
+
 
 
 

@@ -7,6 +7,8 @@ tags:
     - metaphor
     - nyt
 ---
+# [Now that’s a nice metaphor](None)
+
 
 
 

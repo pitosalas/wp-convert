@@ -3,6 +3,8 @@ title: "Chris Herot on RulesBase"
 author: Pito Salas
 date: 2008-02-22
 ---
+# [Chris Herot on RulesBase](None)
+
 
 
 

@@ -3,6 +3,8 @@ title: "Goodnight Irene – Huddie Ledbetter, aka Leadbelly"
 author: Pito Salas
 date: 2005-11-24
 ---
+# [Goodnight Irene – Huddie Ledbetter, aka Leadbelly](None)
+
 
 
 >>

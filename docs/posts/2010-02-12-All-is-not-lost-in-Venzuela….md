@@ -3,6 +3,8 @@ title: "All is not lost in Venzuela…"
 author: Pito Salas
 date: 2010-02-12
 ---
+# [All is not lost in Venzuela…](None)
+
 
 
 

@@ -3,6 +3,8 @@ title: "Flight 447 from a pilot’s perspective"
 author: Pito Salas
 date: 2014-06-27
 ---
+# [Flight 447 from a pilot’s perspective](None)
+
 
 
 

@@ -3,6 +3,8 @@ title: "I am becoming a headhunter"
 author: Pito Salas
 date: 2006-01-12
 ---
+# [I am becoming a headhunter](None)
+
 
 
 >>

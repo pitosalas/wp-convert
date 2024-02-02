@@ -3,6 +3,8 @@ title: "I love beer"
 author: Pito Salas
 date: 2005-06-16
 ---
+# [I love beer](None)
+
 
 
 >>

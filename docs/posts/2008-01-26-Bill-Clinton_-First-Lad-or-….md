@@ -3,6 +3,8 @@ title: "Bill Clinton: First Lad or …"
 author: Pito Salas
 date: 2008-01-26
 ---
+# [Bill Clinton: First Lad or …](None)
+
 
 
 

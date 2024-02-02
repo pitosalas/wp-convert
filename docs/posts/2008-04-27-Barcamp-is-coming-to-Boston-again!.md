@@ -5,6 +5,8 @@ date: 2008-04-27
 tags:
     - barcamp-foocamp-boston-tag
 ---
+# [Barcamp is coming to Boston again!](None)
+
 
 
 

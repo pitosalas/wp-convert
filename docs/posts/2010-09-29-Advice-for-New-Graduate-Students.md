@@ -3,6 +3,8 @@ title: "Advice for New Graduate Students"
 author: Pito Salas
 date: 2010-09-29
 ---
+# [Advice for New Graduate Students](None)
+
 
 
 

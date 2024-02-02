@@ -7,6 +7,8 @@ tags:
     - passion-tag
     - profession-tagalism
 ---
+# [Passion vs. Professionalism: Everyone has to take the garbage out some times](None)
+
 
 
 

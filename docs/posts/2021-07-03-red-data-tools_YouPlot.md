@@ -1,18 +1,21 @@
 ---
 title: "red-data-tools/YouPlot"
 author: Pito Salas
+url: "https://github.com/red-data-tools/YouPlot" 
+link: "https://github.com/red-data-tools/YouPlot" 
+cover: "https://repository-images.githubusercontent.com/283230219/5fff5600-3668-11eb-9d1c-bbf88d25b560" 
 date: 2021-07-03
 tags:
+    - cli
+    - plot
     - ruby
     - tool
+    - howto
 ---
+# [red-data-tools/YouPlot](https://github.com/red-data-tools/YouPlot)
+
+<img src=https://repository-images.githubusercontent.com/283230219/5fff5600-3668-11eb-9d1c-bbf88d25b560 width="500">
 
 
 
-[ red-data-tools/YouPlot](<https://github.com/red-data-tools/YouPlot>)
-
-A command line tool that draw plots on the terminal. - red-data-tools/YouPlot
-
-July 3, 2021 at 06:13PM
-
-
+(**Web site except:** A command line tool that draw plots on the terminal. - red-data-tools/YouPlot) 

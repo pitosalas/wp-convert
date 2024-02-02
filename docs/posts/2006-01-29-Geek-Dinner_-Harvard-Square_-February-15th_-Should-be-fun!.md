@@ -3,6 +3,8 @@ title: "Geek Dinner? Harvard Square? February 15th? Should be fun!"
 author: Pito Salas
 date: 2006-01-29
 ---
+# [Geek Dinner? Harvard Square? February 15th? Should be fun!](None)
+
 
 
 >>

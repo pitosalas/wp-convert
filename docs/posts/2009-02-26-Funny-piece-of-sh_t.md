@@ -3,6 +3,8 @@ title: "Funny piece of sh*t"
 author: Pito Salas
 date: 2009-02-26
 ---
+# [Funny piece of sh*t](None)
+
 
 
 

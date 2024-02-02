@@ -3,6 +3,8 @@ title: "Some great links for  07/17/2018"
 author: Pito Salas
 date: 2018-07-17
 ---
+# [Some great links for  07/17/2018](None)
+
 
 
 

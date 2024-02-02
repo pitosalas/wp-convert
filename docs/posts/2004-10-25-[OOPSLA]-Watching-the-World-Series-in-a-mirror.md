@@ -3,6 +3,8 @@ title: "[OOPSLA] Watching the World Series in a mirror"
 author: Pito Salas
 date: 2004-10-25
 ---
+# [[OOPSLA] Watching the World Series in a mirror](None)
+
 
 
 >>

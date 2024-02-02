@@ -3,6 +3,8 @@ title: "MSFT and Skype, my angle"
 author: Pito Salas
 date: 2011-05-12
 ---
+# [MSFT and Skype, my angle](None)
+
 
 
 

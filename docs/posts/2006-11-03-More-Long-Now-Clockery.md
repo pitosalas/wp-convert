@@ -3,6 +3,8 @@ title: "More Long Now Clockery"
 author: Pito Salas
 date: 2006-11-03
 ---
+# [More Long Now Clockery](None)
+
 
 
 >

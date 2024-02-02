@@ -7,6 +7,8 @@ tags:
     - sno-tagoty
     - words
 ---
+# [What do you think of people who insist on saying “AN historic”?](None)
+
 
 
 

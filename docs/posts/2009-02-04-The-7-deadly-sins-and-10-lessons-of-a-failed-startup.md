@@ -6,6 +6,8 @@ tags:
     - don-tagdodge
     - startups
 ---
+# [The 7 deadly sins and 10 lessons of a failed startup](None)
+
 
 
 

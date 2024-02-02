@@ -3,6 +3,8 @@ title: "A new kind of EVIL Spyware"
 author: Pito Salas
 date: 2004-05-06
 ---
+# [A new kind of EVIL Spyware](None)
+
 
 
 >>

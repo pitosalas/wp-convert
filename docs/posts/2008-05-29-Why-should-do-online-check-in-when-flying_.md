@@ -5,6 +5,8 @@ date: 2008-05-29
 tags:
     - airlines-travel-checkin
 ---
+# [Why should do online check-in when flying?](None)
+
 
 
 

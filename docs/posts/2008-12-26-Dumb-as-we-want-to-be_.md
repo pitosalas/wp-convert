@@ -3,6 +3,8 @@ title: "Dumb as we want to be?"
 author: Pito Salas
 date: 2008-12-26
 ---
+# [Dumb as we want to be?](None)
+
 
 
 

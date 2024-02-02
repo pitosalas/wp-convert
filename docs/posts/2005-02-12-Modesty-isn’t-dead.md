@@ -3,6 +3,8 @@ title: "Modesty isn’t dead"
 author: Pito Salas
 date: 2005-02-12
 ---
+# [Modesty isn’t dead](None)
+
 
 If you are interested in blogging you certainly have come across [Robert
 Scoble's blog](<http://scoble.weblogs.com/>), the most prominent blog written

@@ -3,6 +3,8 @@ title: "VC: Rumors of its demise are probably premature"
 author: Pito Salas
 date: 2005-05-25
 ---
+# [VC: Rumors of its demise are probably premature](None)
+
 
 
 >>

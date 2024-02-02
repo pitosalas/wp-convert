@@ -6,6 +6,8 @@ tags:
     - iphon-tage
     - radioshack
 ---
+# [Followup: Upgraded my iPhone from 3GS to 4 for MINUS $40.00](None)
+
 
 
 

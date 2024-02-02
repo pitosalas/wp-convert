@@ -7,6 +7,8 @@ tags:
     - stevejobs
     - wisdom
 ---
+# [Guy Kawasaki: What I learned from Steve Jobs](None)
+
 
 
 

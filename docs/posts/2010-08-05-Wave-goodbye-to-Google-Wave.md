@@ -6,6 +6,8 @@ tags:
     - google
     - wave
 ---
+# [Wave goodbye to Google Wave](None)
+
 
 
 

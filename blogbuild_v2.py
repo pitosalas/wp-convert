@@ -171,6 +171,8 @@ title: "{title}"
 author: Pito Salas{url_text}{cover_text}
 date: {date}{tags}
 ---
+# [{title}]({url})
+
 {cover_markdown}
 {content}
 """
@@ -195,6 +197,8 @@ date: {date}
 ---
 {cover_markdown}
 {content}
+---
+[{title}]({url})
 """
             file.write(markdown)
  

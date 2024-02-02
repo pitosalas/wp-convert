@@ -3,6 +3,8 @@ title: "A beautiful visualization of news across the world"
 author: Pito Salas
 date: 2006-07-09
 ---
+# [A beautiful visualization of news across the world](None)
+
 
 
 >>

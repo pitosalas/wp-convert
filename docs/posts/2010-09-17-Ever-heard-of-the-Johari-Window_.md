@@ -3,6 +3,8 @@ title: "Ever heard of the Johari Window?"
 author: Pito Salas
 date: 2010-09-17
 ---
+# [Ever heard of the Johari Window?](None)
+
 
 
 

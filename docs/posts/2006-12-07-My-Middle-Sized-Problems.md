@@ -3,6 +3,8 @@ title: "My Middle-Sized Problems"
 author: Pito Salas
 date: 2006-12-07
 ---
+# [My Middle-Sized Problems](None)
+
 
 
 >

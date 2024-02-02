@@ -3,6 +3,8 @@ title: "[Geeky] Create UML Diagrams from the command line"
 author: Pito Salas
 date: 2009-10-14
 ---
+# [[Geeky] Create UML Diagrams from the command line](None)
+
 
 
 

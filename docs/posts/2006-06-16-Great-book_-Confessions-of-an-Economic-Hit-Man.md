@@ -3,6 +3,8 @@ title: "Great book: Confessions of an Economic Hit Man"
 author: Pito Salas
 date: 2006-06-16
 ---
+# [Great book: Confessions of an Economic Hit Man](None)
+
 
 
 >>

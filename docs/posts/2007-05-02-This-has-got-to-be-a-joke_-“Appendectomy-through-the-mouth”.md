@@ -3,6 +3,8 @@ title: "This has got to be a joke: “Appendectomy through the mouth”"
 author: Pito Salas
 date: 2007-05-02
 ---
+# [This has got to be a joke: “Appendectomy through the mouth”](None)
+
 
 
 

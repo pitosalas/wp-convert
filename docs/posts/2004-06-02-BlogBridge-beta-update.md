@@ -3,6 +3,8 @@ title: "BlogBridge beta update"
 author: Pito Salas
 date: 2004-06-02
 ---
+# [BlogBridge beta update](None)
+
 
 
 >>

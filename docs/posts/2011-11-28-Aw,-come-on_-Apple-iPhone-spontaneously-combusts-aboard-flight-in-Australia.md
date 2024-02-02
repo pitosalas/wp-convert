@@ -7,6 +7,8 @@ tags:
     - iphon-tage
     - weird
 ---
+# [Aw, come on: Apple iPhone spontaneously combusts aboard flight in Australia](None)
+
 
 
 

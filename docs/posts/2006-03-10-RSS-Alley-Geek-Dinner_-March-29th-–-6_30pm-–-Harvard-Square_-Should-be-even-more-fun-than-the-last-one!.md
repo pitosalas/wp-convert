@@ -3,6 +3,8 @@ title: "RSS Alley Geek Dinner: March 29th – 6:30pm – Harvard Square? Should 
 author: Pito Salas
 date: 2006-03-10
 ---
+# [RSS Alley Geek Dinner: March 29th – 6:30pm – Harvard Square? Should be even more fun than the last one!](None)
+
 
 
 >>

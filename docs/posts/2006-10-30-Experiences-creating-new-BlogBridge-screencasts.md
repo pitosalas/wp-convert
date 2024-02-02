@@ -3,6 +3,8 @@ title: "Experiences creating new BlogBridge screencasts"
 author: Pito Salas
 date: 2006-10-30
 ---
+# [Experiences creating new BlogBridge screencasts](None)
+
 
 
 >

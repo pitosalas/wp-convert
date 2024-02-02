@@ -9,6 +9,8 @@ tags:
     - post
     - put
 ---
+# [[GEEKY] REST and the PATCH verb](None)
+
 
 
 

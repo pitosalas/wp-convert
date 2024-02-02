@@ -3,6 +3,8 @@ title: "An actual “trial balloon”"
 author: Pito Salas
 date: 2006-01-30
 ---
+# [An actual “trial balloon”](None)
+
 
 
 >>

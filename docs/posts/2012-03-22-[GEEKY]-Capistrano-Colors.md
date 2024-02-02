@@ -7,6 +7,8 @@ tags:
     - GEEKY
     - rails
 ---
+# [[GEEKY] Capistrano Colors](None)
+
 
 
 

@@ -3,6 +3,8 @@ title: "Going, going, gone…"
 author: Pito Salas
 date: 2009-01-29
 ---
+# [Going, going, gone…](None)
+
 
 
 

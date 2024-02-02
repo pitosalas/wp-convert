@@ -9,6 +9,8 @@ tags:
     - fourth-dimension-tag
     - gaming
 ---
+# [[GAMING] Article about game designer Jonathan Blow](None)
+
 
 
 

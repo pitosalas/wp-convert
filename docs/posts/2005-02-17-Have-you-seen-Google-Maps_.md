@@ -3,6 +3,8 @@ title: "Have you seen Google Maps?"
 author: Pito Salas
 date: 2005-02-17
 ---
+# [Have you seen Google Maps?](None)
+
 
 Unless you have been living under a **rock** (or have **better** things to do
 with your time) you will have seen [Google Maps](<http://maps.google.com>).

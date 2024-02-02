@@ -3,6 +3,8 @@ title: "CRN: “NewsGator 2.0, which pulls"
 author: Pito Salas
 date: 2004-01-08
 ---
+# [CRN: “NewsGator 2.0, which pulls](None)
+
 
 
 >>

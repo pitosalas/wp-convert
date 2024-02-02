@@ -6,6 +6,8 @@ tags:
     - twitter
     - urban-outfitters
 ---
+# [Urban Outfitters Rip Off Independent Artists?](None)
+
 
 
 

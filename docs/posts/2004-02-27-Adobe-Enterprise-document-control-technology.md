@@ -3,6 +3,8 @@ title: "Adobe Enterprise document control technology"
 author: Pito Salas
 date: 2004-02-27
 ---
+# [Adobe Enterprise document control technology](None)
+
 
 
 >>

@@ -3,6 +3,8 @@ title: "The future of software?"
 author: Pito Salas
 date: 2005-12-17
 ---
+# [The future of software?](None)
+
 
 
 >>

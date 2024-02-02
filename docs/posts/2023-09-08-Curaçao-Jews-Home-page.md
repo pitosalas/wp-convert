@@ -12,6 +12,8 @@ tags:
     - jewish
     - history
 ---
+# [Curaçao Jews Home page](https://curacaojews.org)
+
 <img src=https://rdl.ink/render/https%3A%2F%2Fcuracaojews.org width="500">
 
 Web site with info about Curacao jews

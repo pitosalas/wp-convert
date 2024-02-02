@@ -3,6 +3,8 @@ title: "Yes but was it charged?"
 author: Pito Salas
 date: 2010-10-05
 ---
+# [Yes but was it charged?](None)
+
 
 
 

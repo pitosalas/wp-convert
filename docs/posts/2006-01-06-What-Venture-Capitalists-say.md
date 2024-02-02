@@ -3,6 +3,8 @@ title: "What Venture Capitalists say"
 author: Pito Salas
 date: 2006-01-06
 ---
+# [What Venture Capitalists say](None)
+
 
 
 >>

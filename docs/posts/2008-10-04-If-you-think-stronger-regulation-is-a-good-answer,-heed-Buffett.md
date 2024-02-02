@@ -3,6 +3,8 @@ title: "If you think stronger regulation is a good answer, heed Buffett"
 author: Pito Salas
 date: 2008-10-04
 ---
+# [If you think stronger regulation is a good answer, heed Buffett](None)
+
 
 
 

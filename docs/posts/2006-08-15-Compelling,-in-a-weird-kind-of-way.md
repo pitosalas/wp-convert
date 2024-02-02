@@ -3,6 +3,8 @@ title: "Compelling, in a weird kind of way"
 author: Pito Salas
 date: 2006-08-15
 ---
+# [Compelling, in a weird kind of way](None)
+
 
 
 >>

@@ -3,6 +3,8 @@ title: "Ray Kurzweil Responds"
 author: Pito Salas
 date: 2010-08-21
 ---
+# [Ray Kurzweil Responds](None)
+
 
 
 

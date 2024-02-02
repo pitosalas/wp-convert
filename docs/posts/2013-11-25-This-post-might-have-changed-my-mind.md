@@ -7,6 +7,8 @@ tags:
     - scott-adams
     - suicide
 ---
+# [This post might have changed my mind](None)
+
 
 
 

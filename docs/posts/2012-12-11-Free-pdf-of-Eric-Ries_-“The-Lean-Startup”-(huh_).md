@@ -7,6 +7,8 @@ tags:
     - lean-startups
     - pdf
 ---
+# [Free pdf of Eric Ries: “The Lean Startup” (huh?)](None)
+
 
 
 

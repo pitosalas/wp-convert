@@ -3,6 +3,8 @@ title: "Halo: Supposed to be the most unbelievably great Video Conferencing syst
 author: Pito Salas
 date: 2008-10-15
 ---
+# [Halo: Supposed to be the most unbelievably great Video Conferencing system](None)
+
 
 
 

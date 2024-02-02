@@ -5,6 +5,8 @@ date: 2021-08-01
 tags:
     - scalability
 ---
+# [Why you should build on Kubernetes from day one – Stack Overflow Blog](None)
+
 
 
 

@@ -3,6 +3,8 @@ title: "Worth reading: Corporations are people. So what if people were corporati
 author: Pito Salas
 date: 2014-07-28
 ---
+# [Worth reading: Corporations are people. So what if people were corporations?](None)
+
 
 
 

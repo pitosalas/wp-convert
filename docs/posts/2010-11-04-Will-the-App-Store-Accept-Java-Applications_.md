@@ -3,6 +3,8 @@ title: "Will the App Store Accept Java Applications?"
 author: Pito Salas
 date: 2010-11-04
 ---
+# [Will the App Store Accept Java Applications?](None)
+
 
 
 

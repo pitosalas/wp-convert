@@ -7,6 +7,8 @@ tags:
     - nyt
     - restaurant
 ---
+# [Gripping story of restaurant](None)
+
 
 
 

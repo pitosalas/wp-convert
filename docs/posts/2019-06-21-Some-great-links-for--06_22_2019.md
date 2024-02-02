@@ -3,6 +3,8 @@ title: "Some great links for  06/22/2019"
 author: Pito Salas
 date: 2019-06-21
 ---
+# [Some great links for  06/22/2019](None)
+
 
 
 

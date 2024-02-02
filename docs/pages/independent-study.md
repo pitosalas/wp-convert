@@ -114,3 +114,5 @@ for 1/4 of the final grade, and then a end-term grade which will count for 3/4
 of the grade.
 
 
+---
+[Independent Study](None)

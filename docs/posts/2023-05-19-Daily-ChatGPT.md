@@ -3,6 +3,8 @@ title: "Daily ChatGPT"
 author: Pito Salas
 date: 2023-05-19
 ---
+# [Daily ChatGPT](None)
+
 
 
 

@@ -3,6 +3,8 @@ title: "Blog tag, I’m it"
 author: Pito Salas
 date: 2006-12-22
 ---
+# [Blog tag, I’m it](None)
+
 
 
 >

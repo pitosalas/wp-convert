@@ -3,6 +3,8 @@ title: "BlogBridge Beta 3"
 author: Pito Salas
 date: 2004-08-10
 ---
+# [BlogBridge Beta 3](None)
+
 
 
 >>

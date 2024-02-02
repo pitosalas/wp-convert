@@ -5,6 +5,8 @@ date: 2008-05-20
 tags:
     - rowing-metrics
 ---
+# [Really cool rowing instrumentation](None)
+
 
 
 

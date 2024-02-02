@@ -8,6 +8,8 @@ tags:
     - joke
     - obamacare
 ---
+# [[FUNNY] Congress investigates problems with healthcare.gove](None)
+
 
 
 

@@ -3,6 +3,8 @@ title: "Another fascinating post from Scott Adams"
 author: Pito Salas
 date: 2007-01-22
 ---
+# [Another fascinating post from Scott Adams](None)
+
 
 
 >

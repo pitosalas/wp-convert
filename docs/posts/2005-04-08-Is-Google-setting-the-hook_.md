@@ -3,6 +3,8 @@ title: "Is Google setting the hook?"
 author: Pito Salas
 date: 2005-04-08
 ---
+# [Is Google setting the hook?](None)
+
 
 Recently, GMail _raised_ the free storage available to all subscribers to 2
 Gig! Amazing isn't it? I don't know how they do it - they must have a

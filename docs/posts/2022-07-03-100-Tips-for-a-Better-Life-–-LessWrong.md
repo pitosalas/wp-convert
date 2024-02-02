@@ -6,6 +6,8 @@ tags:
     - life
     - tips
 ---
+# [100 Tips for a Better Life – LessWrong](None)
+
 
 
 

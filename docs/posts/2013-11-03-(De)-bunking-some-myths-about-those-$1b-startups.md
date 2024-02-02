@@ -7,6 +7,8 @@ tags:
     - investment
     - startups
 ---
+# [(De) bunking some myths about those $1b startups](None)
+
 
 
 

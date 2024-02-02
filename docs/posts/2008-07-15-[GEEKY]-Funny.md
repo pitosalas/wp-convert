@@ -3,6 +3,8 @@ title: "[GEEKY] Funny"
 author: Pito Salas
 date: 2008-07-15
 ---
+# [[GEEKY] Funny](None)
+
 
 
 

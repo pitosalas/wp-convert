@@ -3,6 +3,8 @@ title: "Three on getting a job"
 author: Pito Salas
 date: 2008-04-03
 ---
+# [Three on getting a job](None)
+
 
 
 

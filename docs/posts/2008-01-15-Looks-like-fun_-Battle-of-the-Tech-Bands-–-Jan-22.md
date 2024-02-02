@@ -3,6 +3,8 @@ title: "Looks like fun: Battle of the Tech Bands – Jan 22"
 author: Pito Salas
 date: 2008-01-15
 ---
+# [Looks like fun: Battle of the Tech Bands – Jan 22](None)
+
 
 
 

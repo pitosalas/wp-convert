@@ -3,6 +3,8 @@ title: "Useful quick reference for a ‘lean startup’"
 author: Pito Salas
 date: 2011-09-22
 ---
+# [Useful quick reference for a ‘lean startup’](None)
+
 
 
 

@@ -3,6 +3,8 @@ title: "[GEEK] More tips for the 40 year old virgin"
 author: Pito Salas
 date: 2005-08-19
 ---
+# [[GEEK] More tips for the 40 year old virgin](None)
+
 
 
 >>

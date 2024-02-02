@@ -3,6 +3,8 @@ title: "Insightful (and not positive) article about Barack Obama"
 author: Pito Salas
 date: 2009-09-05
 ---
+# [Insightful (and not positive) article about Barack Obama](None)
+
 
 
 

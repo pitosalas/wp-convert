@@ -3,6 +3,8 @@ title: "My social theory of blogging"
 author: Pito Salas
 date: 2004-12-14
 ---
+# [My social theory of blogging](None)
+
 
 
 >>

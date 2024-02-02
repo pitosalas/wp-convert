@@ -3,6 +3,8 @@ title: "People are still doing groupware startups, believe it or not!"
 author: Pito Salas
 date: 2005-07-28
 ---
+# [People are still doing groupware startups, believe it or not!](None)
+
 
 
 >>

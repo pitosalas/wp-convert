@@ -7,6 +7,8 @@ tags:
     - scrum
     - stories
 ---
+# [Pivotal Tracker, watch out for Trajectory](None)
+
 
 
 

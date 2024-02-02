@@ -9,6 +9,8 @@ tags:
     - procrastinate
     - travel
 ---
+# [Looked at the right way, this could be good news!](None)
+
 
 
 

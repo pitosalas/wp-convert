@@ -11,6 +11,8 @@ tags:
     - best-bet
     - best-practices
 ---
+# [Lessons From Debugging](https://matt-rickard.com/lessons-from-debugging?utm_source=changelog-news)
+
 <img src=https://matt-rickard.com/api/og?title=Lessons%20From%20Debugging width="500">
 
 

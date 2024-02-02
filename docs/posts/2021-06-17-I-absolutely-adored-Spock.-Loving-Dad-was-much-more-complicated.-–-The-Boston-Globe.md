@@ -5,6 +5,8 @@ date: 2021-06-17
 tags:
     - boston-tag
 ---
+# [I absolutely adored Spock. Loving Dad was much more complicated. – The Boston Globe](None)
+
 
 
 

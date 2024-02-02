@@ -5,6 +5,8 @@ date: 2021-11-05
 tags:
     - ruby
 ---
+# [The family of anonymous functions – blocks, procs and lambdas](None)
+
 
 
 

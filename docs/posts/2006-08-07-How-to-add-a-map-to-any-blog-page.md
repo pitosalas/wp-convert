@@ -3,6 +3,8 @@ title: "How to add a map to any blog page"
 author: Pito Salas
 date: 2006-08-07
 ---
+# [How to add a map to any blog page](None)
+
 
 I came across this interesting bit in [LifeHacker:
 ](<http://www.lifehacker.com>) [WikiMapia - The geographical wikipedia -

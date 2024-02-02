@@ -3,6 +3,8 @@ title: "Venezuela’s lost human capital"
 author: Pito Salas
 date: 2007-02-07
 ---
+# [Venezuela’s lost human capital](None)
+
 
 
 >

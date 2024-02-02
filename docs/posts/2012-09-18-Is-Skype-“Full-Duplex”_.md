@@ -7,6 +7,8 @@ tags:
     - skype
     - voice
 ---
+# [Is Skype “Full Duplex”?](None)
+
 
 
 

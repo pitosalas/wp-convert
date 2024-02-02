@@ -3,6 +3,8 @@ title: "View Submission | Gradescope"
 author: Pito Salas
 date: 2021-09-22
 ---
+# [View Submission | Gradescope](None)
+
 
 
 

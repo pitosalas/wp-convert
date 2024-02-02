@@ -3,6 +3,8 @@ title: "Switcher’s Log, Part 7: How can Apple be so brain dead about usability
 author: Pito Salas
 date: 2005-04-05
 ---
+# [Switcher’s Log, Part 7: How can Apple be so brain dead about usability?](None)
+
 
 
 >>

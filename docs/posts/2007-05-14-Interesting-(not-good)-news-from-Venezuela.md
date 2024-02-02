@@ -3,6 +3,8 @@ title: "Interesting (not good) news from Venezuela"
 author: Pito Salas
 date: 2007-05-14
 ---
+# [Interesting (not good) news from Venezuela](None)
+
 
 
 

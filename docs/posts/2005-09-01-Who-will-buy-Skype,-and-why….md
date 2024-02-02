@@ -3,6 +3,8 @@ title: "Who will buy Skype, and why…"
 author: Pito Salas
 date: 2005-09-01
 ---
+# [Who will buy Skype, and why…](None)
+
 
 
 >>

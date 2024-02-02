@@ -3,6 +3,8 @@ title: "First Class/Anachronism"
 author: Pito Salas
 date: 2005-03-16
 ---
+# [First Class/Anachronism](None)
+
 
 On a lark, I used my frequent flyer miles to fly First Class on American
 Airlines today, heading out to the O'Reily ETech Conference.

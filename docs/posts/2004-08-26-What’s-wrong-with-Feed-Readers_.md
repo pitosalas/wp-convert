@@ -3,6 +3,8 @@ title: "What’s wrong with Feed Readers?"
 author: Pito Salas
 date: 2004-08-26
 ---
+# [What’s wrong with Feed Readers?](None)
+
 
 
 >>

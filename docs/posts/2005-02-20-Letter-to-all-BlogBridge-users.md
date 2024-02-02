@@ -3,6 +3,8 @@ title: "Letter to all BlogBridge users"
 author: Pito Salas
 date: 2005-02-20
 ---
+# [Letter to all BlogBridge users](None)
+
 
 Dear users, ex-users, and future users of BlogBridge,
 

@@ -6,6 +6,8 @@ tags:
     - computers
     - humor
 ---
+# [Funny: Are computers boys or are they girls?](None)
+
 
 
 

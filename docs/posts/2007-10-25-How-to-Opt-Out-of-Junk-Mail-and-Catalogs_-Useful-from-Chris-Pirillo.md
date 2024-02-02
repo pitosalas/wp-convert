@@ -3,6 +3,8 @@ title: "How to Opt Out of Junk Mail and Catalogs: Useful from Chris Pirillo"
 author: Pito Salas
 date: 2007-10-25
 ---
+# [How to Opt Out of Junk Mail and Catalogs: Useful from Chris Pirillo](None)
+
 
 
 

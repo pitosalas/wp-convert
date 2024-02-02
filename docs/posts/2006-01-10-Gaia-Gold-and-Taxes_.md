@@ -3,6 +3,8 @@ title: "Gaia Gold and Taxes?"
 author: Pito Salas
 date: 2006-01-10
 ---
+# [Gaia Gold and Taxes?](None)
+
 
 
 >>

@@ -10,6 +10,8 @@ tags:
     - rfc
     - best-practices
 ---
+# [RFC processes are a poor fit for most organizations - Jacob Kaplan-Moss](https://jacobian.org/2023/dec/1/against-rfcs/)
+
 <img src=https://jacobian.org/cards/against-rfcs.png width="500">
 
 How to make decisions in an organization. Or more like how not to make decisions in organizations. 

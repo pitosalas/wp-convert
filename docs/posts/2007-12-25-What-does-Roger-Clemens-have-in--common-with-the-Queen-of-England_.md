@@ -3,6 +3,8 @@ title: "What does Roger Clemens have in  common with the Queen of England?"
 author: Pito Salas
 date: 2007-12-25
 ---
+# [What does Roger Clemens have in  common with the Queen of England?](None)
+
 
 
 

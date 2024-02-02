@@ -6,6 +6,8 @@ tags:
     - learning
     - trigon-tagometry
 ---
+# [Khan academy to the rescue](None)
+
 
 
 

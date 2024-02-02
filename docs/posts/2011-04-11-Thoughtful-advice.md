@@ -10,6 +10,8 @@ tags:
     - living
     - steal
 ---
+# [Thoughtful advice](None)
+
 
 
 

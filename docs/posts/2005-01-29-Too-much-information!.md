@@ -3,6 +3,8 @@ title: "Too much information!"
 author: Pito Salas
 date: 2005-01-29
 ---
+# [Too much information!](None)
+
 
 It's **one thing** to be interested in blogs so you can read and learn and
 become aware of new ideas. But when it comes to joining into the discussions,

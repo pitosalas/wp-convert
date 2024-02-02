@@ -3,6 +3,8 @@ title: "Is Facebook the new Google of acquisition-lust?"
 author: Pito Salas
 date: 2007-10-20
 ---
+# [Is Facebook the new Google of acquisition-lust?](None)
+
 
 
 

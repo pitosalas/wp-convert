@@ -8,6 +8,8 @@ tags:
     - politics
     - sandra-fluke
 ---
+# [Sandra Fluke Testimony: Compelling](None)
+
 
 
 

@@ -7,6 +7,8 @@ tags:
     - schell
     - teaching
 ---
+# [Instead of giving out grades in a class, give out experience points](None)
+
 
 
 

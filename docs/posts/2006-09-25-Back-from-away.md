@@ -3,6 +3,8 @@ title: "Back from away"
 author: Pito Salas
 date: 2006-09-25
 ---
+# [Back from away](None)
+
 
 
 >

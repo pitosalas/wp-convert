@@ -3,6 +3,8 @@ title: "Technie note: Ethernet vs. USB-2 External Hard Disk"
 author: Pito Salas
 date: 2007-01-03
 ---
+# [Technie note: Ethernet vs. USB-2 External Hard Disk](None)
+
 
 
 >

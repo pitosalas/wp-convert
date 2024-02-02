@@ -3,6 +3,8 @@ title: "Windows, Windows, Windows Everywhere"
 author: Pito Salas
 date: 2004-04-29
 ---
+# [Windows, Windows, Windows Everywhere](None)
+
 
 
 >>

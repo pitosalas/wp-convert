@@ -3,6 +3,8 @@ title: "Patriots win, I am souring on Football and the NFL"
 author: Pito Salas
 date: 2007-09-17
 ---
+# [Patriots win, I am souring on Football and the NFL](None)
+
 
 
 

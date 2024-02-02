@@ -3,6 +3,8 @@ title: "An easy target…. funny"
 author: Pito Salas
 date: 2006-04-09
 ---
+# [An easy target…. funny](None)
+
 
 
 >>

@@ -3,6 +3,8 @@ title: "Checking Raspberry Pi Revision Number & Board Version – Raspberry Pi S
 author: Pito Salas
 date: 2021-05-21
 ---
+# [Checking Raspberry Pi Revision Number & Board Version – Raspberry Pi Spy](None)
+
 
 
 

@@ -3,6 +3,8 @@ title: "mySociety are doing  interesting stuff in the public arena"
 author: Pito Salas
 date: 2009-02-19
 ---
+# [mySociety are doing  interesting stuff in the public arena](None)
+
 
 
 

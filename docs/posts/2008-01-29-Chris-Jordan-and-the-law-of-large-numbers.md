@@ -3,6 +3,8 @@ title: "Chris Jordan and the law of large numbers"
 author: Pito Salas
 date: 2008-01-29
 ---
+# [Chris Jordan and the law of large numbers](None)
+
 
 
 

@@ -7,6 +7,8 @@ tags:
     - jump-the-shark
     - twitter
 ---
+# [When Twitter becomes a  blogging platform](None)
+
 
 
 

@@ -9,6 +9,8 @@ tags:
     - scottkirsner
     - vc
 ---
+# [“What’s next in tech” event in Boston in June](None)
+
 
 
 

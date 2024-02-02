@@ -3,6 +3,8 @@ title: "Inner Beauty"
 author: Pito Salas
 date: 2007-12-30
 ---
+# [Inner Beauty](None)
+
 
 
 

@@ -8,6 +8,8 @@ tags:
     - grades
     - learning
 ---
+# [Good Grades Certainly Don’t Hurt](None)
+
 
 
 

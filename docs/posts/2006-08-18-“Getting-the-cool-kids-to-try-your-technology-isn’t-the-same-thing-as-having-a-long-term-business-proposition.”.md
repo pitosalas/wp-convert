@@ -3,6 +3,8 @@ title: "“Getting the cool kids to try your technology isn’t the same thing a
 author: Pito Salas
 date: 2006-08-18
 ---
+# [“Getting the cool kids to try your technology isn’t the same thing as having a long-term business proposition.”](None)
+
 
 Scoble has a good commentary and links to more commentary about Kiko. Kiko is
 a web 2.0 / ajax / cool calendar application that appears to be throwing in

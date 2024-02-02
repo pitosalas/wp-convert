@@ -3,6 +3,8 @@ title: "Everything is getting more complicated not simpler"
 author: Pito Salas
 date: 2010-02-23
 ---
+# [Everything is getting more complicated not simpler](None)
+
 
 
 

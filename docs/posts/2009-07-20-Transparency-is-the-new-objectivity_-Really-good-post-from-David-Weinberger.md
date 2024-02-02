@@ -3,6 +3,8 @@ title: "Transparency is the new objectivity: Really good post from David Weinber
 author: Pito Salas
 date: 2009-07-20
 ---
+# [Transparency is the new objectivity: Really good post from David Weinberger](None)
+
 
 
 

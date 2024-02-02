@@ -10,6 +10,8 @@ tags:
     - osx
     - sparrow
 ---
+# [Sparrow vs. Mail.app and Mountain Lion](None)
+
 
 
 

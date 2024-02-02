@@ -3,6 +3,8 @@ title: "Enterprise 2.0 – What’s in it for you?"
 author: Pito Salas
 date: 2007-09-29
 ---
+# [Enterprise 2.0 – What’s in it for you?](None)
+
 
 
 

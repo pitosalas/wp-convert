@@ -3,6 +3,8 @@ title: "Red Sox Moon"
 author: Pito Salas
 date: 2004-10-28
 ---
+# [Red Sox Moon](None)
+
 
 
 >>

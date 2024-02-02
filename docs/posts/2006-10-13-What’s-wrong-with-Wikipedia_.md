@@ -3,6 +3,8 @@ title: "What’s wrong with Wikipedia?"
 author: Pito Salas
 date: 2006-10-13
 ---
+# [What’s wrong with Wikipedia?](None)
+
 
 
 >
