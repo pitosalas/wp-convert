@@ -1,0 +1,548 @@
+[
+    {
+        "id": 2792,
+        "date": "2020-12-14T18:06:43",
+        "date_gmt": "2020-12-14T23:06:43",
+        "guid": {
+            "rendered": "http://salas.com/?page_id=2792"
+        },
+        "modified": "2022-08-23T22:11:13",
+        "modified_gmt": "2022-08-23T22:11:13",
+        "slug": "independent-study-faq",
+        "status": "publish",
+        "type": "page",
+        "link": "https://salas.com/independent-study-faq/",
+        "title": {
+            "rendered": "Independent Study"
+        },
+        "content": {
+            "rendered": "\n<div class=\"wp-block-jetpack-markdown\"><h2>FAQ</h2>\n</div>\n\n\n\n<p><strong>Context &#8211; </strong>Faculty members have different approaches to independent studies. These are my guidelines for students doing independent studies under my direction.</p>\n\n\n\n<p><strong>How do I sign up? </strong>There is no set procedure. Generally a student who is interested in doing an independent study will speak to a faculty member that they know from a class (and that they like \ud83d\ude42 and discuss the possibility. It is best if you come with a project in mind or if you are interested int he same kind of things that the professor is interested in. The important thing is that it is all in your hands and you have to take the initiative.</p>\n\n\n\n<p><strong>Appropriate Projects</strong> &#8211; An independent study is not just some hacking fest for credit. You need to demonstrate at the end that you actually studied and learned something new and that it is interesting and deserving of credit and that you can present the results. An independent study can be about something I am passionate about (see below) or something that you are passionate about. There is a lot of flexibility.</p>\n\n\n\n<p><strong>Proposal &#8211; </strong>Before the term begins you need to develop a proposal, which would be 1-2 pages max. It should include:</p>\n\n\n\n<ol><li>Objective: In a few sentences indicate the goal or overall objective of the project. </li><li>Readings: This is the &#8220;independent study&#8221; part. Books, papers, chapters, etc are all appropriate.</li><li>Description: What is the study? What will you actually &#8220;do&#8221;? Be realistic and not overly ambitious. </li><li>Deliverables: one ore more demonstration, paper, report, video. All delivery should be collected in a single GitHub repository which normally will be public.</li><li>Schedule with at least two milestones: midterm (week 7) and final (week 13). For each milestone indicate what you expect to have done.</li><li>Software and/or hardware required. This is especially relevant for Robotics projects but may apply elsewhere.</li><li>You and why you think you can do this: Something about your own background, skills, courses, and experiences which you bring to the Independent Study and will serve to give credibility to your proposal</li><li>Discussion: Additional discussion of the project, including, for example, relevant investigation needed ahead of time, papers or literature, tools required, need for funds if any, etc.</li></ol>\n\n\n\n<p><strong>Types</strong> &#8211; There are several course numbers corresponding to independent studies. As of now, CS98a is an undergraduate independent study. CS99a is the first semester of a Senior Honors Thesis. Cosi210a is for graduate students. Depending on your status you will pick a different course.</p>\n\n\n\n<p><strong>One or multiple students &#8211; </strong>Generally independent studies are done by a single student but multiple students are  possible when the scope of the project requires it.</p>\n\n\n\n<p><strong>Meetings &#8211; </strong>We will have weekly meetings during the semester. Once you are well on your way we might move to a meeting every other week.</p>\n\n\n\n<p><strong>Rapid iterations and demos &#8211;</strong> It is important to try to get to demonstrable preliminary results as quickly as possible. I have found that this discipline helps keep an independent study on track and allows us to detect early that a pivot is required.</p>\n\n\n\n<p><strong>Deliverables &#8211; </strong>At the end of the term there will be a deliverable of some kind. We will work out the details, but in general I like the deliverables in the form of a GitHub repository. It could  include any models, drawings, images, documents, code, and any other artifacts. Associated with the repository is a multi-page report written as showcase of the results of the project, describe the process, describing future work, including help for someone who would like to continue the project. I would like the repo to be public and open source.</p>\n\n\n\n<p><strong>Grading &#8211; </strong>We will agree on assessment criteria at the start of the project. Generally I ask you to propose how you would like to be assessed and use that as a starting point. There will be a midterm grade which will count for 1/4 of the final grade, and then a end-term grade which will count for 3/4 of the grade.</p>\n\n\n\n<p></p>\n\n\n\n<p></p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Context &#8211; Faculty members have different approaches to independent studies. These are my guidelines for students doing independent studies under my direction. How do I sign up? There is no set procedure. Generally a student who is interested in doing &hellip; <a href=\"https://salas.com/independent-study-faq/\">Continue reading <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "advanced_seo_description": "",
+            "jetpack_seo_html_title": "",
+            "jetpack_seo_noindex": false,
+            "jetpack_post_was_ever_published": false,
+            "footnotes": ""
+        },
+        "jetpack_sharing_enabled": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://salas.com/wp-json/wp/v2/pages/2792"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://salas.com/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://salas.com/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://salas.com/wp-json/wp/v2/users/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://salas.com/wp-json/wp/v2/comments?post=2792"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 3,
+                    "href": "https://salas.com/wp-json/wp/v2/pages/2792/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 4088,
+                    "href": "https://salas.com/wp-json/wp/v2/pages/2792/revisions/4088"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://salas.com/wp-json/wp/v2/media?parent=2792"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 2710,
+        "date": "2020-01-29T15:45:31",
+        "date_gmt": "2020-01-29T20:45:31",
+        "guid": {
+            "rendered": "https://salascom.wordpress.com/?page_id=2710"
+        },
+        "modified": "2020-01-29T15:45:31",
+        "modified_gmt": "2020-01-29T20:45:31",
+        "slug": "jobs",
+        "status": "publish",
+        "type": "page",
+        "link": "https://salas.com/jobs/",
+        "title": {
+            "rendered": "Finding a job"
+        },
+        "content": {
+            "rendered": "\n<p>It happens from time to time that someone asks me to help them in their job search, or ask me if I know anyone who has openings, or just gives me their resume. I tend to give the same advice so I thought I would write it down. As usual this is one person&#8217;s idiosyncratic opinion, not scientifically proven nor guaranteed to be the best way to go.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Resumes</h2>\n\n\n\n<ul><li>I guess that on average, a resume that is looked at by a human is looked at for about 10 seconds. And most of them are not even looked at by a human. Your resume&#8217;s job is to pique the interest of the person enough so that they read it and decide they might want to meet you.</li><li>You should structure your resume to catch the person&#8217;s eye. Starting at the top of the page, what do you think is the most important thing about you that they should know.</li><li>For people beginning their career forcing yourself to one page is a good idea. It makes you focus. You&#8217;re justifiably proud that you started the philanthropy club in high school or that your GPA was 3.782. But probably those are not the things that will get you the job.</li><li>Include at the top: your full name, email address, mobile phone, github or other portfolio URL if you have one. No need for permanent mailing address. Here are <a href=\"https://techbeacon.com/app-dev-testing/what-do-job-seeking-developers-need-their-github\">some tips on how to organize your GitHub for best effect.</a></li><li>What is your competitive advantage? In other words, compared to someone who is your age and background, similar major, graduation date, etc, what is special about you?</li><li>Make sure that you can talk intelligently about every programing language, framework, product name, operating system, algorithm, concept that you mention. Expect the interviewer to zoom into that one thing that you are bluffing about: &#8220;You worked with a zero-knowledge reverse binary proof? How interesting, tell me more?&#8221;</li><li>Remember that you want to communicate how you will contribute to the organization, benefit the team, make money for the company. It doesn&#8217;t matter to the reader that this job will help you grow or learn or do what you always wanted to do. What&#8217;s in it for them?</li><li>You will most likely be submitting your resume electronically. Unless otherwise specified use a pdf format. You can&#8217;t assume that the recipient has the same word processing tool that you do or is even on the same kind of computer. Everyone can read and print a pdf.</li></ul>\n\n\n\n<h2 class=\"wp-block-heading\">Leads</h2>\n\n\n\n<ul><li>Treat your job hunt as a research project. It will take work and organization. Simply googling or playing with LinkedIn or Indeed might work but it&#8217;s a low percentage game.</li><li>The worst place to send your resume is to jobs@bigco.com. In other words their default resume portal. You get sent to the very bottom of the heap.</li><li>You need to use your network to find some relationship or connection to the target company. Wait, you say you don&#8217;t have a network? Wrong! Your just thinking about it in the wrong way!</li><li>There are lots of lists of jobs. Do you research. Here are some: <a href=\"https://news.ycombinator.com/jobs\">Ycombinator list</a>, &#8230;</li></ul>\n\n\n\n<h2 class=\"wp-block-heading\">Networking</h2>\n\n\n\n<p>Networking with people is the lifeblood of your professional life and your job hunt.</p>\n\n\n\n<ul><li>Join LinkedIn immediately if you haven&#8217;t yet. And request a link to everyone professional that you know who are even peripherally in your field. Professors, Managers, CEOs, bosses, speakers. </li><li>In any professional situation (or often even in social situations) be bold when you encounter someone who is further along in their career than you, someone who you kind of admire or look up to. Go up to them and introduce yourself and trade emails or Linkedin.</li></ul>\n\n\n\n<h2 class=\"wp-block-heading\">Hierarchy of targets</h2>\n\n\n\n<p>You need to focus your search a little. If you are sending out 10 resumes an hour, your doing it wrong. Try to think about what kind of place or what specific place you would like to work. Large company or small? East or West Coast or don&#8217;t you care? Consumer or Enterprise? Etc. Then use google and LinkedIn to create a prioritized list of companies that fit the bill.  Work through the list and send in your applications. Here are the different ways to do this, from least effective to most effective. </p>\n\n\n\n<ol><li>(lowest) jobs@bigco.com. This is where all the losers send their resumes. Imagine that scene at the end of the original raiders of the lost ark. That&#8217;s where your resume will be stored.</li><li>Use LinkedIn to discover people who are in your cohort (alumni of your college, people who you worked with in the past, family members) who work at your target company. You can expect that even someone you don&#8217;t know at all will be willing to help out someone from their extended &#8220;tribe&#8221;. You would to, wouldn&#8217;t you?</li><li>A so-called &#8220;warm intro&#8221; from someone who knows you and also knows the hiring manager. A warm intro is an email that introduces you to the other person and says how great you are, basically vouches for you.</li><li><span style=\"font-style:inherit;\">(highest) You have met or emailed with the actual hiring manager. That person knows you and feels you may be right for the job. This perfect alignment of the stars rarely happens.</span></li></ol>\n\n\n\n<h2 class=\"wp-block-heading\">Interview Tips (Thanks to Jason Fan and Google Brandeis Alums)</h2>\n\n\n\n<ol><li>Write test cases in coding interviews (from Grady) , this was a big one he emphasized.\u00a0 It&#8217;s great if you can pump out a lot of your code, but being able to show you can test them and that it runs correctly will set you apart.</li><li>Be yourself and do not conform to what you think the interviewer wants you to be (from Amber</li><li>Companies are looking for you to grow, it&#8217;s not about necessarily how much work you do, but your growth as a person. (from Grady)</li><li>Find the niche you are good at (from Scott).\u00a0 His job is corporate development engineer, a role he didn&#8217;t even knew existed, but that he realized it was something he loved</li><li>Keep a paper trail! (from Wesley)</li><li>{repare something for those soft questions like &#8220;What is your weakness/strength&#8221; or &#8220;Tell me about a time when something didn&#8217;t go as planned&#8221;. I hate those questions but something along those lines came up in every interview. (from Evalyn)</li><li>Just sound like a person, talk to them respectfully but don&#8217;t sound like a robot. (from Evalyn)</li></ol>\n\n\n\n<p>Finally: Just do not give up! If you really want to work at a certain place, keep reminding them that you are interested, and reapply for new opportunities there, if you see them. Even multiple times!</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>It happens from time to time that someone asks me to help them in their job search, or ask me if I know anyone who has openings, or just gives me their resume. I tend to give the same advice &hellip; <a href=\"https://salas.com/jobs/\">Continue reading <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "advanced_seo_description": "",
+            "jetpack_seo_html_title": "",
+            "jetpack_seo_noindex": false,
+            "jetpack_post_was_ever_published": false,
+            "footnotes": ""
+        },
+        "jetpack_sharing_enabled": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://salas.com/wp-json/wp/v2/pages/2710"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://salas.com/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://salas.com/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://salas.com/wp-json/wp/v2/users/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://salas.com/wp-json/wp/v2/comments?post=2710"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 0,
+                    "href": "https://salas.com/wp-json/wp/v2/pages/2710/revisions"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://salas.com/wp-json/wp/v2/media?parent=2710"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 2668,
+        "date": "2019-12-11T09:11:18",
+        "date_gmt": "2019-12-11T14:11:18",
+        "guid": {
+            "rendered": "https://salascom.wordpress.com/?page_id=2668"
+        },
+        "modified": "2019-12-11T09:11:18",
+        "modified_gmt": "2019-12-11T14:11:18",
+        "slug": "public-interest-technologist",
+        "status": "publish",
+        "type": "page",
+        "link": "https://salas.com/public-interest-technologist/",
+        "title": {
+            "rendered": "Public-Interest Technologist"
+        },
+        "content": {
+            "rendered": "\n<p>I recently realized that there&#8217;s a word for one of the things I do. It&#8217;s &#8220;Public-Interest Technologist&#8221;. Modeled after the concept of Public-Interest Law, I have and will continue to work on behalf of non-profits, charities, and other public good organizations <em>pro-bono </em>on anything within my area of expertise. Ranging from simple coding, web site construction all the way to technology selection, vetting of contractors, or strategy related questions. </p>\n\n\n\n<p>If you are interested in my services for the public interest, please send me an email and I will be glad to make time to find out if I can help.</p>\n\n\n\n<blockquote class=\"wp-block-quote\"><p><em>I think of public-interest technologists as people who combine their technological expertise with a public-interest focus, either by working on tech policy, working on a tech project with a public benefit, or working as a more traditional technologist for an organization with a public-interest focus. Public-interest technology isn\u2019t one thing; it\u2019s many things. And not everyone likes the term. Maybe it\u2019s not the most accurate term for what different people do, but it\u2019s the best umbrella term that covers everyone.</em></p><cite><em>\u00a0<a href=\"https://www.schneier.com/\">Bruce Schneier</a></em> writing in <a href=\"https://public-interest-tech.com/\">Public-Interest Technology Resources</a></cite></blockquote>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>I recently realized that there&#8217;s a word for one of the things I do. It&#8217;s &#8220;Public-Interest Technologist&#8221;. Modeled after the concept of Public-Interest Law, I have and will continue to work on behalf of non-profits, charities, and other public good &hellip; <a href=\"https://salas.com/public-interest-technologist/\">Continue reading <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "advanced_seo_description": "",
+            "jetpack_seo_html_title": "",
+            "jetpack_seo_noindex": false,
+            "jetpack_post_was_ever_published": false,
+            "footnotes": ""
+        },
+        "jetpack_sharing_enabled": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://salas.com/wp-json/wp/v2/pages/2668"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://salas.com/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://salas.com/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://salas.com/wp-json/wp/v2/users/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://salas.com/wp-json/wp/v2/comments?post=2668"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 0,
+                    "href": "https://salas.com/wp-json/wp/v2/pages/2668/revisions"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://salas.com/wp-json/wp/v2/media?parent=2668"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 2616,
+        "date": "2019-07-17T21:02:09",
+        "date_gmt": "2019-07-18T01:02:09",
+        "guid": {
+            "rendered": "https://salascom.wordpress.com/?page_id=2616"
+        },
+        "modified": "2023-04-09T00:40:39",
+        "modified_gmt": "2023-04-09T00:40:39",
+        "slug": "recommendation",
+        "status": "publish",
+        "type": "page",
+        "link": "https://salas.com/recommendation/",
+        "title": {
+            "rendered": "Recommendations"
+        },
+        "content": {
+            "rendered": "\n<p>I get this question a lot, in fact near the end of the spring semester they come in droves. I would like to answer your questions about the process. The overall theme here will be that my recommendation will be only as good as the information you supply to me. </p>\n\n\n\n<p>Realize that in order to write you a credible recommendation or give you a reference, I need to know you to some extent. That means obviously that you&#8217;ve taken a class, or done a project, or TA&#8217;d for me at some point.  If I don&#8217;t feel like   I know you well enough I will decline. In any event if you are comfortable with this please include a picture to remind me what you look like, I tend to have a very visual memory! </p>\n\n\n\n<p>Academic and Job recommendations are quite different. Here are my suggestions for the two scenarios.</p>\n\n\n\n<div class=\"wp-block-group is-layout-flow wp-block-group-is-layout-flow\"><div class=\"wp-block-group__inner-container\">\n<h2 class=\"wp-block-heading\" id=\"academic-recommendation\">Academic Recommendation</h2>\n\n\n\n<p>If you are applying to grad school or transferring or something like that then a written recommendation is typical. </p>\n\n\n\n<p>Here&#8217;s how the process works and what I ask of you:</p>\n\n\n\n<p>First, check with me if I am willing to write a recommendation for you. I will let you know that I agree if I feel that I know you well enough to write one. If I have only known you as a student in one course, it&#8217;s likely that we don&#8217;t know each other well enough so please bear that in mind when approaching me for a recommendation.</p>\n\n\n\n<p>If I agree to writing you a recommendation, then please send me the following:</p>\n\n\n\n<ul>\n<li>Your current resume (pdf not .doc or anything else)</li>\n\n\n\n<li>A list of all the computer science courses you took, the professor, and the grade.</li>\n\n\n\n<li>An email with reminders of what courses you took with me, and when that was. Include interesting or memorable things that happened or interactions that we had.</li>\n\n\n\n<li>If you&#8217;re willing, include a photo so I can make sure I remember you better</li>\n\n\n\n<li>A list of deadlines emailed to me so that I aways know when the  next one is going to be needed.</li>\n</ul>\n\n\n\n<p>Realize that the better a job you do giving me context the better a recommendation I will write. With that information I will let you know that I will be able to write the recommendation. </p>\n\n\n\n<p>When you submit the applications to the institution, they will ask for the names and emails of your recommenders. You may list me there, and include my email: pitosalas@brandeis.edu and my phone number. They will then send me an email with a link for me to submit the recommendation.</p>\n\n\n\n<p>Please keep track of who you asked for recommendations, and when all the deadlines are. A friendly reminder to me that a deadline is coming up is appreciated</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"recommendation-for-a-job-or-internship\">Recommendation for a job or internship</h2>\n\n\n\n<p>For job recommendations things work totally differently. The practice in the &#8220;real world&#8221; is to give references, almost only by phone. So the procedure is different:</p>\n\n\n\n<p>Check with me if I am willing to give you a reference. Please include the following information to help jog my memory:</p>\n\n\n\n<ul>\n<li>Your current resume (pdf not .doc or anything else)</li>\n\n\n\n<li>Rreminders of what courses you took with me, and when that was. Include interesting or memorable things that happened or interactions that we had.</li>\n\n\n\n<li>If you&#8217;re willing, include a photo so I can make sure I remember you better</li>\n\n\n\n<li></li>\n</ul>\n\n\n\n<p>Realize that the better a job you do giving me context the better a recommendation I will be able to give.  </p>\n\n\n\n<p>Usually during a second or third interview you will be asked for references. If you have my agreement you can give them my name and cell phone number. The usual practice is that I get a call and talk to the recuriter for 5 or ten minutes. There is no written recommendation as is typical for academic recommendation.</p>\n\n\n\n<p>After giving that information out, I ask that you call or email me to alert me that I might be getting a call and what the company or organization is.</p>\n\n\n\n<p>I hope this info is clear and useful for you. Feel free to ask me for more details or clarifications. And good luck!</p>\n</div></div>\n\n\n\n<p></p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>I get this question a lot, in fact near the end of the spring semester they come in droves. I would like to answer your questions about the process. The overall theme here will be that my recommendation will be &hellip; <a href=\"https://salas.com/recommendation/\">Continue reading <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "advanced_seo_description": "",
+            "jetpack_seo_html_title": "",
+            "jetpack_seo_noindex": false,
+            "jetpack_post_was_ever_published": false,
+            "footnotes": ""
+        },
+        "jetpack_sharing_enabled": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://salas.com/wp-json/wp/v2/pages/2616"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://salas.com/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://salas.com/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://salas.com/wp-json/wp/v2/users/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://salas.com/wp-json/wp/v2/comments?post=2616"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 2,
+                    "href": "https://salas.com/wp-json/wp/v2/pages/2616/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 4456,
+                    "href": "https://salas.com/wp-json/wp/v2/pages/2616/revisions/4456"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://salas.com/wp-json/wp/v2/media?parent=2616"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 2355,
+        "date": "2018-06-19T21:31:54",
+        "date_gmt": "2018-06-20T01:31:54",
+        "guid": {
+            "rendered": "https://salascom.wordpress.com/?page_id=2355"
+        },
+        "modified": "2023-02-24T13:31:10",
+        "modified_gmt": "2023-02-24T13:31:10",
+        "slug": "curacao-notes",
+        "status": "publish",
+        "type": "page",
+        "link": "https://salas.com/curacao-notes/",
+        "title": {
+            "rendered": "Curacao Notes"
+        },
+        "content": {
+            "rendered": "\n<h2 class=\"wp-block-heading\">What is this?</h2>\n\n\n\n<p>As I am always asked for tips on doing stuff in Cura\u00e7ao, I thought I would write them down here.</p>\n\n\n\n<blockquote class=\"wp-block-quote\">\n<p>Beware that all this is just my own, biased, weird, opinions. There are perfectly good restaurants, even popular ones, that I don&#8217;t like because of the atmosphere or the price or the location. There are restaurants considered boring, that I like, for the same reasons. So buyer beware.</p>\n</blockquote>\n\n\n\n<h2 class=\"wp-block-heading\">Geography and Weather</h2>\n\n\n\n<p class=\"has-drop-cap\">Curacao &nbsp;is a very small island. It&#8217;s about 40 miles long and about 5 miles wide. It&#8217;s as if you cut off Cape Cod at the Canal and straightened it out. However the roads are not as good. Still, the longest drive you can make without doubling back is around 45 minutes.</p>\n\n\n\n<p>It&#8217;s basically tropical. Or desert. It&#8217;s always around 80 degrees and with a good breeze. In the &#8220;summer&#8221; there&#8217;s almost never rain, sunny, blue skies every day. In the &#8220;winter&#8221; it might rain a little more.</p>\n\n\n\n<p>If you wear shorts, bring multiple sets. I wear only shorts almost all the time. No need for a sweater of any kind.</p>\n\n\n\n<p>Bring sunglasses, a hat, and suntan lotion!</p>\n\n\n\n<p>Driving is pretty easy. Google maps will work, better still if you download the maps so you don&#8217;t need to use your data plan. Driving is on the right, just like the USA. However the signs will not all be familiar, but common sense. Yes people drive a little crazy but really not more than Boston.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Where to stay</h2>\n\n\n\n<p>Always a very personal decision. There are tons of hotels and inns on the island. I&#8217;ve stayed in a few of them. So here&#8217;s a very idiosyncratic listing:</p>\n\n\n\n<ul>\n<li>Royal Resort &#8211; A beautiful private resort with rental suites. It&#8217;s not really a hotel in that it has just a minor restaurant but it is a gret setting with pools and beaches and fantastic setting.</li>\n\n\n\n<li>Avila &#8211; Kind of old timey hotel. Very popular with traditional. </li>\n\n\n\n<li>Trupial &#8211; Motel-like, in Mahaai, one of the residential neighborhood</li>\n\n\n\n<li>Renaissance &#8211;  American-style large hotel, right in down town</li>\n</ul>\n\n\n\n<h2 class=\"wp-block-heading\">Food</h2>\n\n\n\n<p>Restaurants here are 1) expensive and 2) have slow service. Those are generalizations but it&#8217;s good to set expectations. That way you won&#8217;t be surprised.</p>\n\n\n\n<p>Everything you eat here, almost, has to be imported, by plane or containership. Also it&#8217;s a tourist destination which also add to the costs.</p>\n\n\n\n<p>Overall the food will be familiar to you. You will have no trouble with the menus. Many of them are in Dutch, but almost all of them will have an English menu if you ask.</p>\n\n\n\n<p>You will see standard &#8220;American&#8221; food, or &#8220;French&#8221; food. You will also see Indonesian (because Indonesia, like Cura\u00e7ao used to be a colony of the Netherlands.) Also a lot of &#8220;Dutch&#8221; food.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Restaurants</h2>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile\"><figure class=\"wp-block-media-text__media\"><img loading=\"lazy\" decoding=\"async\" width=\"1920\" height=\"2560\" src=\"https://i0.wp.com/salas.com/wp-content/uploads/2023/02/IMG_2803-1-scaled.jpeg?fit=584%2C779&amp;ssl=1\" alt=\"\" class=\"wp-image-4413 size-full\" srcset=\"https://i0.wp.com/salas.com/wp-content/uploads/2023/02/IMG_2803-1-scaled.jpeg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/salas.com/wp-content/uploads/2023/02/IMG_2803-1-scaled.jpeg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/salas.com/wp-content/uploads/2023/02/IMG_2803-1-scaled.jpeg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/salas.com/wp-content/uploads/2023/02/IMG_2803-1-scaled.jpeg?resize=1152%2C1536&amp;ssl=1 1152w, https://i0.wp.com/salas.com/wp-content/uploads/2023/02/IMG_2803-1-scaled.jpeg?resize=1536%2C2048&amp;ssl=1 1536w, https://i0.wp.com/salas.com/wp-content/uploads/2023/02/IMG_2803-1-scaled.jpeg?w=1752&amp;ssl=1 1752w\" sizes=\"(max-width: 584px) 100vw, 584px\" /></figure><div class=\"wp-block-media-text__content\">\n<p><strong>De Heeren @ Sea</strong>: They have a really nice restaurant right on the beach. Not fancy but with a great atmosphere. </p>\n\n\n\n<p><strong>Goeverneur: </strong>The Dutch word for Governor. I am not really sure I spelled it right. But anyway, the big attraction here is the view. It has tables on a patio overlooking Punda and the harbor. It&#8217;s very pretty. The food is also interesting and tasty.</p>\n</div></div>\n\n\n\n<ul>\n<li><strong>De Heeren @ Sea</strong>: They have a really nice restaurant right on the beach. Not fancy but with a great atmosphere. </li>\n\n\n\n<li><strong>Kome:</strong> A favorite &#8220;nice&#8221; restaurant.</li>\n\n\n\n<li><strong>The Grill:</strong> Outdoors, informal, decent and good for kids</li>\n\n\n\n<li><strong>Omundo</strong>:In the &#8220;suburbs&#8221;. A nice kind of hip restaurant recently under new management.</li>\n\n\n\n<li></li>\n\n\n\n<li><strong>Number Ten</strong> &#8211; Also in the &#8220;suburbs&#8221; of Mahaai. Created in an old residential mansion. Hip light food and coffee.</li>\n\n\n\n<li><strong>De Heeren @ Sea</strong>: They have a really nice restaurant right on the beach. Not fancy but with a great atmosphere. </li>\n\n\n\n<li><strong>Dames</strong> &#8211; Also in the &#8220;suburbs&#8221; of Sali\u00f1a. Light, delicious sandwiches, coffee and local stuff</li>\n\n\n\n<li><strong>San Tropez</strong> &#8211; In the hip neighborhood of &#8220;Pietermaai&#8221;. All white, bright, kind of Euro-cool. Very blue swimming pool. Along the ocean on the south. Try the fish tacos, they are awesome.</li>\n\n\n\n<li><strong>Roebie\u2019s </strong>&#8211; for casual Indonesian food at zuikertuintje.</li>\n\n\n\n<li><strong>Landhuis Daniel </strong> &#8211; for delicios Dutch Pancakes.</li>\n\n\n\n<li>Landhuis Brakkeput Mei-Mei We also had a good experienc here.</li>\n\n\n\n<li><strong>Karakter</strong> with its Spa the eight experience is great ( we are going there on Wednesday)</li>\n</ul>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile\"><figure class=\"wp-block-media-text__media\"><img loading=\"lazy\" decoding=\"async\" width=\"584\" height=\"438\" src=\"https://i0.wp.com/salas.com/wp-content/uploads/2023/02/IMG_2804.jpeg?resize=584%2C438&#038;ssl=1\" alt=\"\" class=\"wp-image-4420 size-full\" srcset=\"https://i0.wp.com/salas.com/wp-content/uploads/2023/02/IMG_2804-scaled.jpeg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/salas.com/wp-content/uploads/2023/02/IMG_2804-scaled.jpeg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/salas.com/wp-content/uploads/2023/02/IMG_2804-scaled.jpeg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/salas.com/wp-content/uploads/2023/02/IMG_2804-scaled.jpeg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/salas.com/wp-content/uploads/2023/02/IMG_2804-scaled.jpeg?w=1168&amp;ssl=1 1168w, https://i0.wp.com/salas.com/wp-content/uploads/2023/02/IMG_2804-scaled.jpeg?w=1752&amp;ssl=1 1752w\" sizes=\"(max-width: 584px) 100vw, 584px\" data-recalc-dims=\"1\" /></figure><div class=\"wp-block-media-text__content\">\n<ul>\n<li><strong>The Wine Cellar</strong> &#8211; Fancy restaurant</li>\n\n\n\n<li><strong>Landhuis Daniel &#8211; </strong>Interesting, recommend the dutch pancakes</li>\n\n\n\n<li><strong>Estie&#8217;s Brasserie</strong> &#8211; New restaurant that is highly recommended. Also owned by a friend of a friend \ud83d\ude42</li>\n</ul>\n</div></div>\n\n\n\n<h2 class=\"wp-block-heading\">Must See Site Seeing</h2>\n\n\n\n<ul>\n<li>Snoa &#8211; Mikve Israel Emmanuel Synagogue</li>\n\n\n\n<li>West Punt</li>\n\n\n\n<li>Boca Tabla</li>\n\n\n\n<li>Punda &#8211; </li>\n\n\n\n<li></li>\n</ul>\n\n\n\n<h2 class=\"wp-block-heading\">Places to Go by car</h2>\n\n\n\n<p>These are not &#8220;sight seeing&#8221; necessarily, they include destinations that might have a bunch of good restaurants together, or a fun thing to do, or stuff to look at. I list &#8220;beaches&#8221; separately.</p>\n\n\n\n<ul>\n<li><strong>Zuikertuintje &#8211; </strong>In the &#8220;suburb&#8221; of Mahaai, it&#8217;s a typical small shopping area with various restaurants.</li>\n\n\n\n<li><strong>Karakter</strong> &#8211; Restaurant plus great <em>Spa The Eight</em> is worthwhiile.</li>\n\n\n\n<li><strong>Lion&#8217;s Dive/BLVD &#8220;area&#8221;</strong> &#8211; Very fun area with beach and restaurants.</li>\n\n\n\n<li><strong>&#8220;West Punt&#8221;</strong></li>\n\n\n\n<li><strong>&#8220;Boca Tabla&#8221;</strong></li>\n\n\n\n<li><strong>&#8220;Punda&#8221;</strong></li>\n\n\n\n<li><strong>&#8220;Otrabanda&#8221; + &#8220;Rif Fort&#8221;</strong></li>\n\n\n\n<li><strong>Hato Caves (near the airport.)</strong> &#8211; </li>\n\n\n\n<li><strong>Klein Santa Martha f</strong>or beautiful views, atmosphere, food is not bad. You can also stay there as it\u2019s a small hotel.`</li>\n</ul>\n\n\n\n<h2 class=\"wp-block-heading\">Not as good as they sound</h2>\n\n\n\n<p>You might hear or read about these places but in my opinion they are not worth the trip. Although I was surprised to hear recently of someone who loved the Ostrich Farm, so, who knows!</p>\n\n\n\n<ul>\n<li>Zoo or Botanical Garden</li>\n\n\n\n<li><span style=\"font-size:1rem;\">Janchi (or Jan Kristian) restaurant</span></li>\n\n\n\n<li>Ostrich Farm</li>\n</ul>\n\n\n\n<h2 class=\"wp-block-heading\">Beaches</h2>\n\n\n\n<p>This is not a list of all the beaches. There are many more. These are the ones that I like and have been to. I would recommend any of them.</p>\n\n\n\n<ul>\n<li><strong>Lagun</strong> &#8211; Very rustic, small and pictoresque beach. A favorite for snorkling</li>\n\n\n\n<li><strong>Porto Marie</strong> &#8211; One of the favorites towards the west end of the island</li>\n\n\n\n<li><strong>Cas Abao</strong> &#8211; Similar to Porto Marie, also very nice.</li>\n\n\n\n<li><strong>Blau Beach</strong> &#8211; Developed beach, closer to town. A little expensive.</li>\n\n\n\n<li><strong>Kokomo</strong> &#8211; Closer to town, and one of my favorites</li>\n\n\n\n<li><strong>Jan Thiel</strong> &#8211; Towards the east part of the island, very nice too</li>\n</ul>\n\n\n\n<p></p>\n\n\n\n<p></p>\n<div id=\"geo-post-2355\" class=\"geo geo-post\" style=\"display: none\"><span class=\"latitude\">12.1306407</span><span class=\"longitude\">-68.9063077</span></div>",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>What is this? As I am always asked for tips on doing stuff in Cura\u00e7ao, I thought I would write them down here. Beware that all this is just my own, biased, weird, opinions. There are perfectly good restaurants, even &hellip; <a href=\"https://salas.com/curacao-notes/\">Continue reading <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "open",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "advanced_seo_description": "",
+            "jetpack_seo_html_title": "",
+            "jetpack_seo_noindex": false,
+            "jetpack_post_was_ever_published": false,
+            "footnotes": ""
+        },
+        "jetpack_sharing_enabled": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://salas.com/wp-json/wp/v2/pages/2355"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://salas.com/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://salas.com/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://salas.com/wp-json/wp/v2/users/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://salas.com/wp-json/wp/v2/comments?post=2355"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 4,
+                    "href": "https://salas.com/wp-json/wp/v2/pages/2355/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 4426,
+                    "href": "https://salas.com/wp-json/wp/v2/pages/2355/revisions/4426"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://salas.com/wp-json/wp/v2/media?parent=2355"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 2168,
+        "date": "2018-04-08T11:26:50",
+        "date_gmt": "2018-04-08T11:26:50",
+        "guid": {
+            "rendered": "https://salascom.wordpress.com/?page_id=2168"
+        },
+        "modified": "2022-09-27T21:03:27",
+        "modified_gmt": "2022-09-27T21:03:27",
+        "slug": "how-do-i-keep-up",
+        "status": "publish",
+        "type": "page",
+        "link": "https://salas.com/how-do-i-keep-up/",
+        "title": {
+            "rendered": "Keeping Up"
+        },
+        "content": {
+            "rendered": "\n<p>I get this question fairly often from students who have just completed their first or second semester programming course at Brandeis and would like to continue on their own. How do I keep up with my field? How do you, Pito, Keep up?</p>\n\n\n\n<p>It depends a lot on how you learn best. Some people learn by reading from a paper book, some by browsing through a pdf of a book (who knows where they find those!?), some watch videos and some just use google.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Congratulations!</h2>\n\n\n\n<p>Congratualations! You have picked a field that changes incredibly quickly. Whatever you learn today will be obsolete in the not too distant future. You have to invest in yourself, and work at keeping up with what&#8217;s going on. More than one of you have asked me what my personal methodology is, so here is my system</p>\n\n\n\n<h2 class=\"wp-block-heading\">Be in the general flow</h2>\n\n\n\n<p>You should regularly keep up with general news, however you do that. Whether you read the New York Times or the Boston Globe or Facebook or Hacker News or whatever. Remember that those sources give you the headline but rarely teach you anything.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Figure out what kinds of things fascinate you</h2>\n\n\n\n<p>Figure out what kinds of things fascinate you. You can\u2019t keep up with everything so track your own emotional reactions as you get exposed to new ideas and concepts, in the paper, in class, on the radio, on facebook, whatever. Once you see something that\u2019s interesting you need to decide to dig into it further, write some code, read some long articles.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Some of my favorite Podcasts</h2>\n\n\n\n<p>I listen to a lot of podcasts. Some are general and some are specific to a certain language or framework. Here are some of my current favorites:</p>\n\n\n\n<ul><li><a href=\"https://podcasts.apple.com/us/podcast/the-real-python-podcast/id1501905538\">Real Python</a>  and <a href=\"https://podcasts.apple.com/us/podcast/python-bytes/id1173690032\">Python Bytes</a> are both excellent sources of new Python tools, techniques and personalities</li><li><a href=\"https://podcasts.apple.com/us/podcast/the-stack-overflow-podcast/id1483510527\">Stack Overflow Podcast</a>, <a href=\"https://podcasts.apple.com/us/podcast/maintainable/id1459893010\">Maintainable</a>, <a href=\"https://podcasts.apple.com/us/podcast/software-engineering-radio-the-podcast-for/id120906714\">Software Engineering Radio</a> are all excellent technical podcasts which don&#8217;t focus on a particular language or framework but cover engineering, technology strategy, programming and many other great topics.</li><li><a href=\"https://podcasts.apple.com/us/podcast/remote-ruby/id1397042613\">Ruby Remote</a>, <a href=\"https://podcasts.apple.com/us/podcast/code-with-jason/id1464180320\">Code with Jason</a>, <a href=\"https://podcasts.apple.com/us/podcast/ruby-rogues/id705335155\">Ruby Rogues</a> and the<a href=\"https://podcasts.apple.com/us/podcast/the-ruby-on-rails-podcast/id840890158\"> Ruby on Rails Podcast</a> are all top Ruby and Rails resources</li></ul>\n\n\n\n<h2 class=\"wp-block-heading\">Some of my favorite mailing lists and web sites</h2>\n\n\n\n<p>If a site has a mailing list, I prefer receiving a proactive notification through email than having to go back and check if there&#8217;s something new. I will always forget to check!</p>\n\n\n\n<ul><li><a href=\"https://salas.com\">My own blog (this one)</a> has evolved and changed a lot over the years. These days it&#8217;s a pure link blog, where I post technical links that I have found intriguing and fascinating.</li><li><a href=\"https://changelog.com/weekly\">Changelog Weekly</a> covers the software and computer industry</li><li><a href=\"https://realpython.com\">Real Python</a> has excellent Python tips and information</li><li><a href=\"https://rubyweekly.com\">Ruby Weekly</a> is a very short summary of everything that a Rubyist wants to keep up w </li><li><a href=\"https://www.pythonweekly.com\">Python weekly</a> is a similar newletter for Python</li></ul>\n\n\n\n<h2 class=\"wp-block-heading\">Some of my favorite Videos series and Youtube Channels</h2>\n\n\n\n<p>If you have the time and like learning by watching (and who doesn&#8217;t) then these are some of the best video resources, some on Youtube (free) and others not free but worth the money.</p>\n\n\n\n<ul><li><a href=\"https://www.youtube.com/c/arjancodes\">Arjan Codes</a> is an excellent Python series with beginner and advanced topics covered</li><li><a href=\"https://www.driftingruby.com\">Drifting Ruby</a> is a Ruby specific resource that you can use for free, or ask me for a discount code</li></ul>\n\n\n\n<h2 class=\"wp-block-heading\">Some of my favorite professional books</h2>\n\n\n\n<ul><li><a rel=\"noopener\" href=\"https://www.amazon.com/Becoming-Technical-Leader-Problem-Solving-Approach/dp/0932633021/ref=nav_custrec_signin?crid=1THXTG7HQ8X5T&amp;keywords=becoming+a+technical+leader&amp;qid=1662565587&amp;sprefix=becoming+a+technical+leader%252Caps%252C69&amp;sr=8-1&amp;_encoding=UTF8&amp;tag=blogbridge-20&amp;linkCode=ur2&amp;linkId=7782478c9187c7f22c179d1dff7cd139&amp;camp=1789&amp;creative=9325\" target=\"_blank\">Becoming a Technical Leader</a> <strong>by Gerald Weinberg</strong>. For me this book is the best guide for a new development team lead or who is a first time manager of technical people. </li><li><a href=\"https://amzn.to/3Chvvz7\">Accelerate</a> by <strong>Jez Humble and Gene Kim</strong>. The subtitle of this book is &#8220;<em>Building and Scaling High Performing Technology Organizations</em>&#8220;. It is a great summary of current thinking about Software Engineering processes and has the added advantage of being backed by research that seems credible. </li></ul>\n\n\n\n<h1 class=\"wp-block-heading\">Side Projects are crucial!</h1>\n\n\n\n<p>If your goal is to land a job in software (applies equally to industry, academia, government or non-profits) your resume only goes so far in demonstrating what you can do. An excellent option that has greater impact than people realize is to have a side project.</p>\n\n\n\n<h2 class=\"wp-block-heading\">How do I find one?</h2>\n\n\n\n<p>My general advice first of all is to find a project or a purpose to your study.&nbsp; Don&#8217;t just vacuum up (or try to) information from whatever source you choose because in my opinion that approach doesn&#8217;t work very well.</p>\n\n\n\n<p>Instead think of a project, it could be tiny, that would be fun to work on, and make that your focus. If you care about what you are doing you will be much more successful.</p>\n\n\n\n<p>If you&#8217;re into a sport &#8211; is there something there relating to scores, teams, leagues, practice, equipment, competitions, results, pictures, videos,&nbsp; are involved, scores, records, practice logs, equipment? Maybe your parents or other relatives do something that you want to build on? Maybe some application for their business or an app for their customers? You get the idea&#8230;</p>\n\n\n\n<h2 class=\"wp-block-heading\">Don&#8217;t do this by yourself &#8211; find a collaborator</h2>\n\n\n\n<p>My next general advice is to not to study or work alone. This may be difficult but it does make a big difference. Think about classmates, friends, or even people you meet online. Are they working on something that you can get interested in? You might be trying write a program to do something that interests you. You might be doing programming challenges together. Maybe one of you is learning one thing, say a new programming language, and the other one is learning a new editor, and you just compare notes and help each other solve problems.</p>\n\n\n\n<p>When you don&#8217;t study or work on your own, you have someone to help you keep focused, or to keep your motivation, or to pass the time with when you are stuck and to take a break. Obviously all this can be done if you are not in the same place, or even the same country.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>I get this question fairly often from students who have just completed their first or second semester programming course at Brandeis and would like to continue on their own. How do I keep up with my field? How do you, &hellip; <a href=\"https://salas.com/how-do-i-keep-up/\">Continue reading <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "advanced_seo_description": "",
+            "jetpack_seo_html_title": "",
+            "jetpack_seo_noindex": false,
+            "jetpack_post_was_ever_published": false,
+            "footnotes": ""
+        },
+        "jetpack_sharing_enabled": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://salas.com/wp-json/wp/v2/pages/2168"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://salas.com/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://salas.com/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://salas.com/wp-json/wp/v2/users/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://salas.com/wp-json/wp/v2/comments?post=2168"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 5,
+                    "href": "https://salas.com/wp-json/wp/v2/pages/2168/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 4148,
+                    "href": "https://salas.com/wp-json/wp/v2/pages/2168/revisions/4148"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://salas.com/wp-json/wp/v2/media?parent=2168"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    }
+]

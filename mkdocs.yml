@@ -31,6 +31,7 @@ plugins:
       enabled: true
       tags: true
       tags_file: tags.md
+
 nav:
   - Blog:
     - index.md
@@ -38,7 +39,8 @@ nav:
   - Independent Study: pages/Independent-Study.md
   - Finding A Job: pages/Finding-a-job.md
   - Keeping Up: pages/Keeping-Up.md
-  - Curacao Notes: pages/Curacao-Notes.md
+  - 'Curacao Notes': pages/Curacao-Notes.md
   - tags.md
+
 extra_css:
   - mystyle.css
