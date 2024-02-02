@@ -45,38 +45,36 @@ sense. Yes people drive a little crazy but really not more than Boston.
 
 ## Outside
 
+* [Alma Blau Art Gallery](https://museumsofcuracao.org/museum/gallery-alma-blou/)
+* [ATV Tours](https://www.atvbuggytours.com) - This is one of many!
+* [Black Sand Beach](https://curacao.for91days.com/the-black-sand-beach-of-santu-pretu/)
+* [Blue Room](https://adventuretourscuracao.com/tour/curacao-blue-room-tour/) - Unique snorkling spot
+* [Christoffel Park](https://www.christoffelpark.org/hiking-trails) - Nice walk hike, but don't climb to the top, it's too hot
+* [Den Dunki](https://www.inyourpocket.com/Curacao/Den-Dunki-National-Park_110184v)  - Nice walk hike, salt flats (zout pannen)
+* [Dina's Botanical and Historic Garden](https://museumsofcuracao.org/museum/den-paradera-dinahs-herb-garden/)
+* [Historical Harbor Tour](https://curacao.for91days.com/a-tour-of-the-schottegat-harbor/) - Wednesdays at 2pm, really interesting tour looking at history, industry, polution etc.
 * [Hoffi Mango](https://hofimango.com) - Nice walk hike
 * [Hoffi Pastor](https://www.hofipastor.org/hulphofi.htm) - Nice walk hike
+* [Kokomo Beach and Restaurant](https://www.divecuracao.info/dive/curacao-diving-guide/kokomo-beach/) and Beach
 * [Kura Hulanda](https://www.kurahulandavillage.com/place/museum-kura-hulanda/) Restored neigborhood, nice walking around, restaurants, shops
-* [Den Dunki](https://www.inyourpocket.com/Curacao/Den-Dunki-National-Park_110184v)  - Nice walk hike, salt flats (zout pannen)
-* [Christoffel Park](https://www.christoffelpark.org/hiking-trails) - Nice walk hike, but don't climb to the top, it's too hot
+* [Landhuis Daniel](https://landhuisdaniel.com) - Dutch Pancakes
 * [Landhuis Klein St Marta](https://landhuisksm.com) - Cute little hotel plus restuarant
-* [Dina's Botanical and Historic Garden](https://museumsofcuracao.org/museum/den-paradera-dinahs-herb-garden/)
-* [Landhuis Daniel](https://landhuisdaniel.com) - Dutch Pancaks
-* [Blue Room](https://adventuretourscuracao.com/tour/curacao-blue-room-tour/) - Unique snorkling spot
-* [Black Sand Beach](https://curacao.for91days.com/the-black-sand-beach-of-santu-pretu/)
-* [Sunset Boat Tour](https://adventuretourscuracao.com/tour/curacao-sunset-boat-trip/)
 * [Mangrove Park](https://www.mangrovepark.org) - very pretty
-* [ATV Tours](https://www.atvbuggytours.com) - This is one of many!
-* [Shete Boa National Park](https://www.shetebokapark.org)
-* [Kocomo Beach and Restaurant](https://www.divecuracao.info/dive/curacao-diving-guide/kokomo-beach/) and Beach
-* [Historical Harbor Tour](https://curacao.for91days.com/a-tour-of-the-schottegat-harbor/) - Wednesdays at 2pm, really interesting tour looking at history, industry, polution etc.
 * [Punda Vibes](https://www.divecuracao.info/curacao-events-and-festivals/punda-vibes-curacao/) - Thursday Night happenings in the down town
-* [Alma Blau Art Gallery](https://museumsofcuracao.org/museum/gallery-alma-blou/)
+* [Shete Boa National Park](https://www.shetebokapark.org)
+* [Sunset Boat Tour](https://adventuretourscuracao.com/tour/curacao-sunset-boat-trip/)
 
 ### Beaches
 
-This is not a list of all the beaches. There are many more. These are the
-ones that I like and have been to. I would recommend any of them.
+The word in Papiamento for beach is `playa`. This list is certainluy not a list of all the beaches. There are many more. These are the ones that I like and have been to. I would recommend any of them.
 
-* **Lagun** - Very rustic, small and pictoresque beach. A favorite for
-snorkling
-* **Porto Marie** - One of the favorites towards the west end of the
-island
-* **Cas Abao** - Similar to Porto Marie, also very nice.
-* **Blau Beach** - Developed beach, closer to town. A little expensive.
-* **Kokomo** - Closer to town, and one of my favorites
-* **Jan Thiel** - Towards the east part of the island, very nice too
+* [Blau Baai](https://www.bluebay-curacao.com/activities/beach) - Restaurant and beach
+* [Blau Beach](https://www.bluebay-curacao.com/activities/beach) - Developed beach, closer to town. A little expensive.
+* [Cas Abao Beach](https://casabaobeach.com) - Similar to Porto Marie, also very nice.
+* [Jan Thiel](https://www.janthielbeach.com/en/home/) - Towards the east part of the island, very nice too
+* [Kokomo Beach and Restaurant](https://www.divecuracao.info/dive/curacao-diving-guide/kokomo-beach/) and Beach. Closer to town, and one of my favorites
+* [Playa Lagun](https://exploringcuracao.com/playa-lagun-beach/) - Very rustic, small and pictoresque beach. A favorite for snorkling
+* [Playa Porto Mari](https://www.playaportomari.com) - One of the favorites towards the west end of the island
 
 
 ## Food
@@ -98,24 +96,22 @@ Netherlands.) Also a lot of "Dutch" food.
 
 ### Restaurants
 
-* [Blau Baai](https://www.bluebay-curacao.com/activities/beach) - Restaurant and beach
+* [De Goeverneur](https://de-gouverneur.com) - The Dutch word for Governor. I am not really sure I spelled it right. But anyway, the big attraction here is the view. It has tables on a patio overlooking Punda and the harbor. It's very pretty. The food is also interesting and tasty.
 * [Ginger Restuarant](https://gingercuracao.com) - a nice old Curacao neighborhood
 * [Karakter restaurant](https://karaktercuracao.com) and beach and spa. Restaurant plus great _Spa The Eight_ is worthwhiile. with its Spa the eight experience is great ( we are going there on Wednesday)
+* [Kome](https://www.komecuracao.com) - A favorite "nice" restaurant.
+* [Landhuis Brakkeput Mei-Mei](https://brakkeputmeimei.com/en/) We also had a good experienc here.
+* [Landhuis Daniel](https://landhuisdaniel.com) - Dutch Pancakes
+* [Pirates Cove Restaurant and Beach](http://piratebaycuracao.com/index.html)
 * [Restaurant Bij Blau](https://www.bijblauw.com)
 * [Restaurant Dames](https://www.facebook.com/dedamescuracao/). Also in the "suburbs" of Saliña. Light, delicious sandwiches, coffee and local stuff
 * [Restaurant Estys](https://estysbrasserie.com). New restaurant that is highly recommended. Also owned by a friend of a friend 🙂
 * [Restaurant Heeren By The Sea](https://www.scubalodge.com/en/Restaurants/De-Heeren-at-Sea/). They have a really nice restaurant right on the beach. Not fancy but with a great atmosphere.
 * [Restaurant Number Ten](https://numbertencuracao.com). Also in the "suburbs" of Mahaai. Created in an old residential mansion. Hip light food and coffee.
 * [Restaurant Omundo](https://omundocuracao.com). In the "suburbs". A nice kind of hip restaurant recently under new management.
-* **Kome:** A favorite "nice" restaurant.
-* **Landhuis Daniel** - for delicios Dutch Pancakes.
-* **Roebie’s** - for casual Indonesian food at zuikertuintje.
-* **San Tropez** - In the hip neighborhood of "Pietermaai". All white, bright, kind of Euro-cool. Very blue swimming pool. Along the ocean on the south. Try the fish tacos, they are awesome.
-* **The Grill:** Outdoors, informal, decent and good for kids
-* Landhuis Brakkeput Mei-Mei We also had a good experienc here.
-* Restaurant [Soi95](https://soi95.com)
-* Restaurant and Beach at [Pirates Cove](http://piratebaycuracao.com/index.html)
-**Goeverneur:** The Dutch word for Governor. I am not really sure I spelled it right. But anyway, the big attraction here is the view. It has tables on a patio overlooking Punda and the harbor. It's very pretty. The food is also interesting and tasty.
+* [Roebi's Eethuisje](https://www.facebook.com/p/Roebis-Eethuisje-Churchill-plaza-100063484929861/) - for casual Indonesian food at zuikertuintje.
+* [San Tropez Restaurant](https://www.sainttropezcuracao.com/eat/restaurant-ocean-club/) - In the hip neighborhood of "Pietermaai". All white, bright, kind of Euro-cool. Very blue swimming pool. Along the ocean on the south. Try the fish tacos, they are awesome.
+* [Soi95 Restaurant](https://soi95.com)
 
 
 ## Must See Site Seeing
@@ -150,7 +146,7 @@ worth the trip. Although I was surprised to hear recently of someone who loved
 the Ostrich Farm, so, who knows!
 
 * Zoo or Botanical Garden
-* Janchi (or Jan Kristian) restaurant
+* [Jaanchi](https://www.tripadvisor.com/ShowUserReviews-g1724323-d1046541-r16242388-Jaanchies_Restaurant-Sabana_Westpunt_Curacao.html)  (or Jan Kristian) restaurant
 * [Ostrich Farm](https://curacaoostrichfarm.com/?lang=en)
 
 ## Where to stay
