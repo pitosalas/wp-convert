@@ -6,8 +6,10 @@ SECURITY_TOKEN = os.getenv("SECURITY_TOKEN")
 headers = {
             'Accept': 'application/json',
             'User-Agent': 'Safari',
-            'Authorization': SECURITY_TOKEN
-            }
+            # 'Authorization': SECURITY_TOKEN
+            'Authorization': 'Bearer 9ca9524b-0342-43a4-b043-d0ab3569640b'
+        
+        }
 
 class RaindropApiImport:
     def __init__(self):
