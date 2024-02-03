@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - ruby gil programming software
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Nobody understands the GIL](https://www.jstorimer.com/blogs/workingwithcode/8085491-nobody-understands-the-gil)
+* **Link to site:** **[Nobody understands the GIL](https://www.jstorimer.com/blogs/workingwithcode/8085491-nobody-understands-the-gil)**

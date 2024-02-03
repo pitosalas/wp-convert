@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - tools business canvas leanstartup
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Tools for business model design? | rue2innovate](http://rue2innovate.com/2011/07/11/tools-for-business-model-design)
+* **Link to site:** **[Tools for business model design? | rue2innovate](http://rue2innovate.com/2011/07/11/tools-for-business-model-design)**

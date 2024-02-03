@@ -34,4 +34,4 @@ do you have clear ownership and if you do, **you can re-release it under a
 different license.** Makes perfect sense once you hear it.
 
 
-[Can you change the license of an Open Source product?](None)
+* **Link to site:** **[Can you change the license of an Open Source product?](None)**

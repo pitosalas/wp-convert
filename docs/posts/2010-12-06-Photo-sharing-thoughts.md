@@ -36,4 +36,4 @@ an Apple MobileMe account.
 Any other that I should consider?
 
 
-[Photo sharing thoughts](None)
+* **Link to site:** **[Photo sharing thoughts](None)**

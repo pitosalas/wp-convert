@@ -35,4 +35,4 @@ be too thick 🙂
 >> Technorati Tags: [book](<http://www.technorati.com/tag/book>)
 
 
-[Two books that look good…](None)
+* **Link to site:** **[Two books that look good…](None)**

@@ -6,7 +6,7 @@ link: "http://procssor.com/process"
 cover: "" 
 date: 2021-04-06
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[ProCSSor - Advanced CSS Prettifier](http://procssor.com/process)
+* **Link to site:** **[ProCSSor - Advanced CSS Prettifier](http://procssor.com/process)**

@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Softw Entrepreneurship
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fyoshikoder.sourceforge.net%2Findex.html width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fyoshikoder.sourceforge.net%2Findex.html>
 
 
-[Yoshikoder - Homepage](http://yoshikoder.sourceforge.net/index.html)
+* **Link to site:** **[Yoshikoder - Homepage](http://yoshikoder.sourceforge.net/index.html)**

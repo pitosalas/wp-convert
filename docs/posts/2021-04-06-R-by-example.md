@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - statistics r reference programming
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fwww.mayin.org%2Fajayshah%2FKB%2FR%2Findex.html width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.mayin.org%2Fajayshah%2FKB%2FR%2Findex.html>
 
 
 
-(**Web site excerpt:** R Statistics Language) 
-[R by example](http://www.mayin.org/ajayshah/KB/R/index.html)
+* **Web site excerpt:** R Statistics Language
+
+* **Link to site:** **[R by example](http://www.mayin.org/ajayshah/KB/R/index.html)**

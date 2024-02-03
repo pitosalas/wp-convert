@@ -6,7 +6,7 @@ link: "https://rubygems.org/gems/rabbit"
 cover: "https://rdl.ink/render/https%3A%2F%2Frubygems.org%2Fgems%2Frabbit" 
 date: 2021-04-06
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Frubygems.org%2Fgems%2Frabbit width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Frubygems.org%2Fgems%2Frabbit>
 
 
-[rabbit | RubyGems.org | your community gem host](https://rubygems.org/gems/rabbit)
+* **Link to site:** **[rabbit | RubyGems.org | your community gem host](https://rubygems.org/gems/rabbit)**

@@ -33,4 +33,4 @@ engineers.](<http://vlsicad.ucsd.edu/Research/Advice/star_engineer.pdf>):
 > Engineer](<http://vlsicad.ucsd.edu/Research/Advice/star_engineer.pdf>))
 
 
-[How to be a star engineer!](None)
+* **Link to site:** **[How to be a star engineer!](None)**

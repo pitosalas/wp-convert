@@ -49,4 +49,4 @@ nice.
 [Geeky](<http://www.technorati.com/tag/Geeky>)
 
 
-[[GEEKY] Ajax? Flash? Java? What’s the best way to create a rich browser based application?](None)
+* **Link to site:** **[[GEEKY] Ajax? Flash? Java? What’s the best way to create a rich browser based application?](None)**

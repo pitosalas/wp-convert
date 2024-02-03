@@ -23,4 +23,4 @@ screen. (The computer didn't crash, just the process…)
 >>   * …more later
 
 
-[[JAVAONE] Visiting the Java tribe](None)
+* **Link to site:** **[[JAVAONE] Visiting the Java tribe](None)**

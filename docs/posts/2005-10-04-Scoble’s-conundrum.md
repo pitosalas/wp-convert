@@ -67,4 +67,4 @@ better yet, let me give you a demo!
 [scoble](<http://www.technorati.com/tag/scoble>)
 
 
-[Scoble’s conundrum](None)
+* **Link to site:** **[Scoble’s conundrum](None)**

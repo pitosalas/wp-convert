@@ -22,4 +22,4 @@ the world. ( **Then again, it could be a 16 year old in Argentina**.)
 >> ![](https://i0.wp.com/thisisrumorcontrol.org/files/cartoon-8-15.png?w=584)
 
 
-[This Is Rumor Control](None)
+* **Link to site:** **[This Is Rumor Control](None)**

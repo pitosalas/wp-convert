@@ -59,4 +59,4 @@ company – let them open source their own stuff. [Hmm, what about Eclipse?]
 pretty impressive statement, except, why would you want that?)
 
 
-[[JAVAONE] Scott McNealy Keynote](None)
+* **Link to site:** **[[JAVAONE] Scott McNealy Keynote](None)**

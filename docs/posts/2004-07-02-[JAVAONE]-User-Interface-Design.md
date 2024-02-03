@@ -37,4 +37,4 @@ discovered JGoodies and decided that it was possible, and so decided to go
 with Java.
 
 
-[[JAVAONE] User Interface Design](None)
+* **Link to site:** **[[JAVAONE] User Interface Design](None)**

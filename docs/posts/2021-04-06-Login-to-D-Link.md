@@ -6,7 +6,7 @@ link: "http://dlinkapf79d.local/info/Login.html"
 cover: "" 
 date: 2021-04-06
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Login to D-Link](http://dlinkapf79d.local/info/Login.html)
+* **Link to site:** **[Login to D-Link](http://dlinkapf79d.local/info/Login.html)**

@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - haml coding
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Switching to HAML Delicious Clone Teach Me To Code](http://teachmetocode.com/screencasts/switching-to-haml-delicious-clone)
+* **Link to site:** **[Switching to HAML Delicious Clone Teach Me To Code](http://teachmetocode.com/screencasts/switching-to-haml-delicious-clone)**

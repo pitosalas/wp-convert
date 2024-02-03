@@ -15,4 +15,4 @@ date: 2007-01-09
 > product-of-the-year>) Bah, humbug.
 
 
-[It’s official global “bow-down-and-genuflect-while-facing-cupertino” day](None)
+* **Link to site:** **[It’s official global “bow-down-and-genuflect-while-facing-cupertino” day](None)**

@@ -22,4 +22,4 @@ Query: Is the word
 obsolete among the geek community?
 
 
-[Kluge: Is that an obsolete term?](None)
+* **Link to site:** **[Kluge: Is that an obsolete term?](None)**

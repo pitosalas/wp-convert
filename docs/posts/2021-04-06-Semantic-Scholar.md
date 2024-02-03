@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - research
 ---
-<img src=https://www.semanticscholar.org/img/semantic_scholar_og.png width="500">
+<img class="cover" src=https://www.semanticscholar.org/img/semantic_scholar_og.png>
 
 
 
-(**Web site excerpt:** Semantic Scholar uses groundbreaking AI and engineering to understand the semantics of scientific literature to help Scholars discover relevant research.) 
-[Semantic Scholar](https://www.semanticscholar.org)
+* **Web site excerpt:** Semantic Scholar uses groundbreaking AI and engineering to understand the semantics of scientific literature to help Scholars discover relevant research.
+
+* **Link to site:** **[Semantic Scholar](https://www.semanticscholar.org)**

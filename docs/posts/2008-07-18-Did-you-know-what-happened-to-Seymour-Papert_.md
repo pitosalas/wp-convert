@@ -22,4 +22,4 @@ article, it's
 worthwhile.](<http://www.boston.com/lifestyle/articles/2008/07/12/in_search_of_a_beautiful_mind/>)
 
 
-[Did you know what happened to Seymour Papert?](None)
+* **Link to site:** **[Did you know what happened to Seymour Papert?](None)**

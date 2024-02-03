@@ -10,9 +10,10 @@ tags:
     - software
     - forums
 ---
-<img src=https://www.jivesoftware.com/wp-content/uploads/Screens/homepage-screenshot-1024x571.png width="500">
+<img class="cover" src=https://www.jivesoftware.com/wp-content/uploads/Screens/homepage-screenshot-1024x571.png>
 
 
 
-(**Web site excerpt:** interesting collaborative platform) 
-[Jive Software: What's next in collaboration](http://www.jivesoftware.com)
+* **Web site excerpt:** interesting collaborative platform
+
+* **Link to site:** **[Jive Software: What's next in collaboration](http://www.jivesoftware.com)**

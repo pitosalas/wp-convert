@@ -16,4 +16,4 @@ date: 2006-10-07
 > Reference"). You gotta love this stuff!
 
 
-[Mars exploration – amazing – Opportunity keeps on knocking](None)
+* **Link to site:** **[Mars exploration – amazing – Opportunity keeps on knocking](None)**

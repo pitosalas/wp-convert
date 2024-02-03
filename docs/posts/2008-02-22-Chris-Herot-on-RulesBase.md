@@ -48,4 +48,4 @@ Linux).More fun and interesting for me, Quantrix is based on a fairly faithful
 knock-off of Lotus Improv, with improvemetns and additions. **Very cool!**
 
 
-[Chris Herot on RulesBase](None)
+* **Link to site:** **[Chris Herot on RulesBase](None)**

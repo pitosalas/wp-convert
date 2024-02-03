@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Design
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Google Chart Tools - Google Code](https://code.google.com/apis/charttools/index.html)
+* **Link to site:** **[Google Chart Tools - Google Code](https://code.google.com/apis/charttools/index.html)**

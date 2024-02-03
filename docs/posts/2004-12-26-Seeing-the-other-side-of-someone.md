@@ -14,4 +14,4 @@ his tech industry persona would probably never ever come up. _It 's easy to
 agree with what he is saying._
 
 
-[Seeing the other side of someone](None)
+* **Link to site:** **[Seeing the other side of someone](None)**

@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - finance jasonjones blogbridge
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Media & brand monitoring, alternative research, social media research for institutional investors, Fortune 1000](http://www.collectiveintellect.com)
+* **Link to site:** **[Media & brand monitoring, alternative research, social media research for institutional investors, Fortune 1000](http://www.collectiveintellect.com)**

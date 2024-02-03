@@ -17,4 +17,4 @@ Travel. Looks **nicely done**. [Kosmix](<http://www.kosmix.com/>).
 [cooltool](<http://www.technorati.com/tag/cooltool>)
 
 
-[Demo 2006 Note: Kosmix](None)
+* **Link to site:** **[Demo 2006 Note: Kosmix](None)**

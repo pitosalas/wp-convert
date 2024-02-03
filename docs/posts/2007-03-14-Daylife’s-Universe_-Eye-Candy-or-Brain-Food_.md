@@ -27,4 +27,4 @@ design, animation and creativity. [Check it
 out.](<http://universe.daylife.com/>)
 
 
-[Daylife’s Universe: Eye Candy or Brain Food?](None)
+* **Link to site:** **[Daylife’s Universe: Eye Candy or Brain Food?](None)**

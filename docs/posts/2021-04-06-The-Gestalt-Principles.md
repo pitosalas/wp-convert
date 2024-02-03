@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - designclass
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[The Gestalt Principles](http://graphicdesign.spokanefalls.edu/tutorials/process/gestaltprinciples/gestaltprinc.htm)
+* **Link to site:** **[The Gestalt Principles](http://graphicdesign.spokanefalls.edu/tutorials/process/gestaltprinciples/gestaltprinc.htm)**

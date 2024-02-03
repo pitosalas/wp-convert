@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - css layout design
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fwww.mycelly.com width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.mycelly.com>
 
 
-[Nice and Free CSS Templates](http://www.mycelly.com)
+* **Link to site:** **[Nice and Free CSS Templates](http://www.mycelly.com)**

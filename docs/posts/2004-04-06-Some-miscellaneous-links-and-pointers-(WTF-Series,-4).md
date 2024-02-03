@@ -47,4 +47,4 @@ Kleiner](<http://www.amazon.com/exec/obidos/tg/detail/-/0385484488/103-8842434-2
 >>
 
 
-[Some miscellaneous links and pointers (WTF Series, 4)](None)
+* **Link to site:** **[Some miscellaneous links and pointers (WTF Series, 4)](None)**

@@ -52,4 +52,4 @@ weren 't quite as easily** prepared to "disrupt our own business."
 [strategy](<http://technorati.com/tag/strategy>)
 
 
-[Eating your young](None)
+* **Link to site:** **[Eating your young](None)**

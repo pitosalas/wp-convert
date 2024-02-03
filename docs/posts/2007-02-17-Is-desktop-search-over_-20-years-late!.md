@@ -35,4 +35,4 @@ types of advanced features that power users will simply drool over."
 desktop-search-over.html>))
 
 
-[Is desktop search over? 20 years late!](None)
+* **Link to site:** **[Is desktop search over? 20 years late!](None)**

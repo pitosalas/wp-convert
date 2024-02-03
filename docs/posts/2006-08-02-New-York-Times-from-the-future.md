@@ -22,4 +22,4 @@ August 2, at least here in Boston. Maybe time moves quicker in New York?
 [newyorktimes](<http://www.technorati.com/tag/newyorktimes>)
 
 
-[New York Times from the future](None)
+* **Link to site:** **[New York Times from the future](None)**

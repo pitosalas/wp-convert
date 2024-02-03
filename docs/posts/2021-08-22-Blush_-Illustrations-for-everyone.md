@@ -12,9 +12,10 @@ tags:
     - clipart
     - howto
 ---
-<img src=https://blush.design/og-image.png width="500">
+<img class="cover" src=https://blush.design/og-image.png>
 
 
 
-(**Web site excerpt:** Blush makes it easy to add free illustrations to your designs. Play with fully customizable graphics made by artists across the globe.) 
-[Blush: Illustrations for everyone](https://blush.design/)
+* **Web site excerpt:** Blush makes it easy to add free illustrations to your designs. Play with fully customizable graphics made by artists across the globe.
+
+* **Link to site:** **[Blush: Illustrations for everyone](https://blush.design/)**

@@ -36,4 +36,4 @@ helping Google and hurting Microsoft.
 Crazy?
 
 
-[MSFT and Skype, my angle](None)
+* **Link to site:** **[MSFT and Skype, my angle](None)**

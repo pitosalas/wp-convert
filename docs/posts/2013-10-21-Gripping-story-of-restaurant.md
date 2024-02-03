@@ -32,4 +32,4 @@ balthazar.html?_r=0>):
 
 
 
-[Gripping story of restaurant](None)
+* **Link to site:** **[Gripping story of restaurant](None)**

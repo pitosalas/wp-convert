@@ -35,4 +35,4 @@ out!](<http://blog.tivo.com/tivo_blog/2006/03/idol_speculatio_1.html>)
 [tivo](<http://www.technorati.com/tag/tivo>)
 
 
-[American Idol fans with Tivo](None)
+* **Link to site:** **[American Idol fans with Tivo](None)**

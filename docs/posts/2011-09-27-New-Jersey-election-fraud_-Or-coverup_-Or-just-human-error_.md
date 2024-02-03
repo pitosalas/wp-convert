@@ -32,4 +32,4 @@ ballot, marked by the voter, and scanned by a computer is really the best and
 perhaps only way to ensure fair elections.
 
 
-[New Jersey election fraud? Or coverup? Or just human error?](None)
+* **Link to site:** **[New Jersey election fraud? Or coverup? Or just human error?](None)**

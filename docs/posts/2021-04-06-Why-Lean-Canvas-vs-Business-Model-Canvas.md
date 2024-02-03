@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Olin
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Why Lean Canvas vs Business Model Canvas](http://leancanvas.com/why-leancanvas-vs-business-model-canvas)
+* **Link to site:** **[Why Lean Canvas vs Business Model Canvas](http://leancanvas.com/why-leancanvas-vs-business-model-canvas)**

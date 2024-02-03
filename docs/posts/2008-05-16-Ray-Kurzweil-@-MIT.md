@@ -39,4 +39,4 @@ brilliant guy with a deadpan, monotonic delivery which at first is deadening,
 but after a while is amusing and even compelling to listen to.
 
 
-[Ray Kurzweil @ MIT](None)
+* **Link to site:** **[Ray Kurzweil @ MIT](None)**

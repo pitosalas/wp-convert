@@ -18,4 +18,4 @@ them:
 So in fact, there IS cool tech stuff going on in Boston 🙂
 
 
-[Good coverage of friends of mine](None)
+* **Link to site:** **[Good coverage of friends of mine](None)**

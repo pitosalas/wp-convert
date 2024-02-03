@@ -39,4 +39,4 @@ Share Your Opml SDK for this purpose does not violate the spirit or letter of
 the rules.
 
 
-[Fair Use of Share-your-OPML?](None)
+* **Link to site:** **[Fair Use of Share-your-OPML?](None)**

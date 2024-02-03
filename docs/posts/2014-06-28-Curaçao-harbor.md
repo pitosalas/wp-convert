@@ -12,4 +12,4 @@ Just playing with my new blogging platform to see if it works ok!
 content/uploads/2014/06/08580-image.jpg?w=584&ssl=1)
 
 
-[Curaçao harbor](None)
+* **Link to site:** **[Curaçao harbor](None)**

@@ -18,4 +18,4 @@ from [GigaOM](<http://gigaom.com>):
 > Outsourcers](<http://feeds.feedburner.com/~r/OmMalik/~3/92632691/>))
 
 
-[Interesting item about outsourcing to India…](None)
+* **Link to site:** **[Interesting item about outsourcing to India…](None)**

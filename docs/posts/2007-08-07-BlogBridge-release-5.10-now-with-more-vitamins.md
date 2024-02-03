@@ -23,4 +23,4 @@ level. At least I think so! Check it out, tell your friends, digg it, stumble
 it, and in general, help us get the word out!
 
 
-[BlogBridge release 5.10 now with more vitamins](None)
+* **Link to site:** **[BlogBridge release 5.10 now with more vitamins](None)**

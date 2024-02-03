@@ -57,4 +57,4 @@ helen-keller-plagiarism-originality/>)
 > and the lesson ought to make us modest. But nothing can do that…."
 
 
-[Mark Twain: All Ideas are Second-Hand](None)
+* **Link to site:** **[Mark Twain: All Ideas are Second-Hand](None)**

@@ -19,4 +19,4 @@ Me](<http://mashable.com/2008/04/23/twitter-lead-architect-resigns/>) from
 > itself startup, it seems unlikely he’d leave completely on his own terms."
 
 
-[Twitter mania continues, unabated, now claiming bodies, Story at 11](None)
+* **Link to site:** **[Twitter mania continues, unabated, now claiming bodies, Story at 11](None)**

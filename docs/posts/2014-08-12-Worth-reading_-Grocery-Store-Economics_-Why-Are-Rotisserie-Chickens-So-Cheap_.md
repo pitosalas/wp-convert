@@ -16,4 +16,4 @@ into individually shrink-wrapped meat units before asking for help. Link:
 http://ift.tt/1hHdpX1 My Blog
 
 
-[Worth reading: Grocery Store Economics: Why Are Rotisserie Chickens So Cheap?](None)
+* **Link to site:** **[Worth reading: Grocery Store Economics: Why Are Rotisserie Chickens So Cheap?](None)**

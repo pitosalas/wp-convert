@@ -51,4 +51,4 @@ questions.](<http://www.blogbridge.com/archives/2006/01/blogbridge_as_a.php>)
 [mashupcamp](<http://www.technorati.com/tag/mashupcamp>)
 
 
-[Insights on the world of mashups](None)
+* **Link to site:** **[Insights on the world of mashups](None)**

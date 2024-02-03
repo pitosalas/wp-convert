@@ -54,4 +54,4 @@ users.](<http://www.blogbridge.com/update064.html>)
 > Enjoy!
 
 
-[New BlogBridge Alpha](None)
+* **Link to site:** **[New BlogBridge Alpha](None)**

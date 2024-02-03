@@ -29,4 +29,4 @@ service](<http://developers.facebook.com/tos.php>).
 [soflow](<http://www.technorati.com/tag/soflow>)
 
 
-[Facebook joins the API crowd](None)
+* **Link to site:** **[Facebook joins the API crowd](None)**

@@ -22,4 +22,4 @@ we-designed-the-default-background-in-windows-7.aspx>).
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[An interesting video about design of Windows 7’s default desktop colors](None)
+* **Link to site:** **[An interesting video about design of Windows 7’s default desktop colors](None)**

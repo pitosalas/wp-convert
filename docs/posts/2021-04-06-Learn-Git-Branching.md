@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - tutorial git
 ---
-<img src=https://pcottle.github.io/learnGitBranching/assets/learnGitBranching.png width="500">
+<img class="cover" src=https://pcottle.github.io/learnGitBranching/assets/learnGitBranching.png>
 
 
 
-(**Web site excerpt:** Always can learn how this works better!) 
-[Learn Git Branching](https://learngitbranching.js.org)
+* **Web site excerpt:** Always can learn how this works better!
+
+* **Link to site:** **[Learn Git Branching](https://learngitbranching.js.org)**

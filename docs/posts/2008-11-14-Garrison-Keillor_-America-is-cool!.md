@@ -28,4 +28,4 @@ admin/post-new.php>):
 Yeah, Putin, what's with that **B-movie bad-boy scowl?**
 
 
-[Garrison Keillor: America is cool!](None)
+* **Link to site:** **[Garrison Keillor: America is cool!](None)**

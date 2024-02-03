@@ -84,4 +84,4 @@ tested or that I can create, which achieves what I outlined above?
 >> Looking for advice. I will post further musings on this as I make progress.
 
 
-[Musings on Open Source licensing](None)
+* **Link to site:** **[Musings on Open Source licensing](None)**

@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Sittercity
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Sittercity Administration](https://staging-admin-empire.sittercity.com)
+* **Link to site:** **[Sittercity Administration](https://staging-admin-empire.sittercity.com)**

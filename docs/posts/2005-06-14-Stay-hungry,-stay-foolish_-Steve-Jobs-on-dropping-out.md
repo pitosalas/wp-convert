@@ -37,4 +37,4 @@ Out"](<http://slashdot.org/comments.pl?sid=152625&cid=12810404>))
 [recommended](<http://technorati.com/tag/recommended>)
 
 
-[Stay hungry, stay foolish: Steve Jobs on dropping out](None)
+* **Link to site:** **[Stay hungry, stay foolish: Steve Jobs on dropping out](None)**

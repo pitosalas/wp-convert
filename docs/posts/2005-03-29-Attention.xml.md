@@ -50,4 +50,4 @@ the attention stream."_
 Steve's whole post.
 
 
-[Attention.xml](None)
+* **Link to site:** **[Attention.xml](None)**

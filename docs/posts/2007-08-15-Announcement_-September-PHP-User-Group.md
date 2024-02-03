@@ -20,4 +20,4 @@ On September 11, 2007, the [tag]Boston PHP User Group[/tag] is meeting about
 If you are into [tag]PHP[/tag] you should check it out!
 
 
-[Announcement: September PHP User Group](None)
+* **Link to site:** **[Announcement: September PHP User Group](None)**

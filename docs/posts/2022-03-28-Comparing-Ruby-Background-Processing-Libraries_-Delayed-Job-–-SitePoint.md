@@ -19,4 +19,4 @@ alternatives the Ruby community offers to implement it in your application.
 March 28, 2022 at 06:52PM
 
 
-[Comparing Ruby Background Processing Libraries: Delayed Job – SitePoint](None)
+* **Link to site:** **[Comparing Ruby Background Processing Libraries: Delayed Job – SitePoint](None)**

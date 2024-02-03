@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - tips blogging
 ---
-<img src=https://ferrucc.io/starting-a-blog/secrets.png width="500">
+<img class="cover" src=https://ferrucc.io/starting-a-blog/secrets.png>
 
 
 
-(**Web site excerpt:** I don’t do this myself but maybe you will find it useful) 
-[Everything I've learned in 10 years of Blogging](https://ferrucc.io/posts/starting-a-blog?mc_cid=7c5ca3f9cd&mc_eid=694db8ca58)
+* **Web site excerpt:** I don’t do this myself but maybe you will find it useful
+
+* **Link to site:** **[Everything I've learned in 10 years of Blogging](https://ferrucc.io/posts/starting-a-blog?mc_cid=7c5ca3f9cd&mc_eid=694db8ca58)**

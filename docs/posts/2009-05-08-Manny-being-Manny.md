@@ -38,4 +38,4 @@ Pitches](<http://38pitches.com/feed/>):
 > know what was in that stuff"? Come on.
 
 
-[Manny being Manny](None)
+* **Link to site:** **[Manny being Manny](None)**

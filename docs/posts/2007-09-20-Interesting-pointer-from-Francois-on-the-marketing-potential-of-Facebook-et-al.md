@@ -20,4 +20,4 @@ from [Emergence Marketing](<http://www.emergencemarketing.com/>):
 > MySpace](<http://feeds.feedburner.com/~r/EmergenceMarketing/~3/159010618/what_is_the_marketing_pot.php>))
 
 
-[Interesting pointer from Francois on the marketing potential of Facebook et al](None)
+* **Link to site:** **[Interesting pointer from Francois on the marketing potential of Facebook et al](None)**

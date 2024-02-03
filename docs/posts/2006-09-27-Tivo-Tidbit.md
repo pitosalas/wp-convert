@@ -29,4 +29,4 @@ date: 2006-09-27
 > Technorati Tags: [tivo](<http://www.technorati.com/tag/tivo>)
 
 
-[Tivo Tidbit](None)
+* **Link to site:** **[Tivo Tidbit](None)**

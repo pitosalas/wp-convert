@@ -11,4 +11,4 @@ date: 2004-01-04
 exagerate! Check it out.](<http://marsrovers.jpl.nasa.gov/home/index.html>)
 
 
-[Absolutely stunning animation of recent](None)
+* **Link to site:** **[Absolutely stunning animation of recent](None)**

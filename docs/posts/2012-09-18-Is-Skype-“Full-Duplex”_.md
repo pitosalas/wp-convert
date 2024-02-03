@@ -25,4 +25,4 @@ to a connection can be active at the same time. Last time I used it, it was in
 reference to a teletype machine!
 
 
-[Is Skype “Full Duplex”?](None)
+* **Link to site:** **[Is Skype “Full Duplex”?](None)**

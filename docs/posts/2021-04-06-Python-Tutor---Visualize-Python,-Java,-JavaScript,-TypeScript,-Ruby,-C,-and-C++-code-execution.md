@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Java
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fpythontutor.com width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fpythontutor.com>
 
 
-[Python Tutor - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution](http://pythontutor.com)
+* **Link to site:** **[Python Tutor - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution](http://pythontutor.com)**

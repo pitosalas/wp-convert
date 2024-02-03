@@ -22,4 +22,4 @@ from [Gizmag Emerging Technology Magazine](<http://www.gizmag.com/xml/>):
 > when it detects the flash from a camera. ..
 
 
-[Anti-paprazzi clutch bag gives pushy shutterbugs a taste of their own medicine](None)
+* **Link to site:** **[Anti-paprazzi clutch bag gives pushy shutterbugs a taste of their own medicine](None)**

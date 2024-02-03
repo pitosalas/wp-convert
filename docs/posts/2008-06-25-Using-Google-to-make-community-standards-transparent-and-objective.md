@@ -29,4 +29,4 @@ Read the whole article, it's quite interesting. Do you think this is a
 reasonable judicial approach?
 
 
-[Using Google to make community standards transparent and objective](None)
+* **Link to site:** **[Using Google to make community standards transparent and objective](None)**

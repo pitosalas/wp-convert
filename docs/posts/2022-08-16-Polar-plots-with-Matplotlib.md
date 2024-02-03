@@ -12,9 +12,10 @@ tags:
     - visualization
     - howto
 ---
-<img src=http://www.chiark.greenend.org.uk/~peterb/python/polar/barchart.png width="500">
+<img class="cover" src=http://www.chiark.greenend.org.uk/~peterb/python/polar/barchart.png>
 
 
 
-(**Web site excerpt:** If you need a polar plot, you need one! They are tricky to do but these examples are helfpul!) 
-[Polar plots with Matplotlib](http://www.chiark.greenend.org.uk/~peterb/python/polar/index2)
+* **Web site excerpt:** If you need a polar plot, you need one! They are tricky to do but these examples are helfpul!
+
+* **Link to site:** **[Polar plots with Matplotlib](http://www.chiark.greenend.org.uk/~peterb/python/polar/index2)**

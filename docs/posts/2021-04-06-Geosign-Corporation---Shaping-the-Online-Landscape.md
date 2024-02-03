@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - media publishing
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Geosign Corporation - Shaping the Online Landscape](http://www.geosign.com)
+* **Link to site:** **[Geosign Corporation - Shaping the Online Landscape](http://www.geosign.com)**

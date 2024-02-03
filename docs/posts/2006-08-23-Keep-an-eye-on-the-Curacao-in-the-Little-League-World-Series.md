@@ -22,4 +22,4 @@ least it's better than the big leagues where the "World" in "World Series"
 means US and Canada 🙂
 
 
-[Keep an eye on the Curacao in the Little League World Series](None)
+* **Link to site:** **[Keep an eye on the Curacao in the Little League World Series](None)**

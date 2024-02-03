@@ -25,4 +25,4 @@ he's flattered, but he often doesn't even remember the person. Oops. I will
 send him an email. Let's see if he remembers me 🙂
 
 
-[David Coursey’s back! Well, I](None)
+* **Link to site:** **[David Coursey’s back! Well, I](None)**

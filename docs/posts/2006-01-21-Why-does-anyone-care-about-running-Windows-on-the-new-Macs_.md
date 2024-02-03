@@ -82,4 +82,4 @@ allows it._
 [strategy](<http://www.technorati.com/tag/strategy>)
 
 
-[Why does anyone care about running Windows on the new Macs?](None)
+* **Link to site:** **[Why does anyone care about running Windows on the new Macs?](None)**

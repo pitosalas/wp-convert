@@ -43,4 +43,4 @@ my Tivo 🙂
 [frankrich](<http://technorati.com/tag/frankrich>)
 
 
-[Insightful tying together of the Health Care “debate”, Woodstock, Kennedy and Mad Men](None)
+* **Link to site:** **[Insightful tying together of the Health Care “debate”, Woodstock, Kennedy and Mad Men](None)**

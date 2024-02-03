@@ -31,4 +31,4 @@ with my new found graphic design swagger, I decided to design my own. [Get
 yours here!](<http://pito.spreadshirt.com/>)
 
 
-[Big Changes coming in Curaçao!](None)
+* **Link to site:** **[Big Changes coming in Curaçao!](None)**

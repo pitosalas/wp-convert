@@ -13,4 +13,4 @@ first wireless memory card." [See Eye-Fi web site.
 ](<http://www.eye.fi/>)
 
 
-[Eye-fi wireless enabled memory card for your camera](None)
+* **Link to site:** **[Eye-fi wireless enabled memory card for your camera](None)**

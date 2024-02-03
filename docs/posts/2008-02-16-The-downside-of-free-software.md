@@ -39,4 +39,4 @@ As it turns out, "We give it away free, and make it up in volume" doesn't
 always work.
 
 
-[The downside of free software](None)
+* **Link to site:** **[The downside of free software](None)**

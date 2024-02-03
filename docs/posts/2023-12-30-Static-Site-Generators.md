@@ -12,9 +12,10 @@ tags:
     - wordpress
     - python
 ---
-<img src=https://www.fullstackpython.com/img/pages/default.jpg width="500">
+<img class="cover" src=https://www.fullstackpython.com/img/pages/default.jpg>
 
 Even though I love Nanoc, I continue my forced conversion to Python and am looking for something as nice and simple as Nanoc. Let's see!
 
-(**Web site excerpt:** A static site generator combines a markup language with a templating engine to produce HTML files. Learn more on Full Stack Python.) 
-[Static Site Generators](https://www.fullstackpython.com/static-site-generator.html)
+* **Web site excerpt:** A static site generator combines a markup language with a templating engine to produce HTML files. Learn more on Full Stack Python.
+
+* **Link to site:** **[Static Site Generators](https://www.fullstackpython.com/static-site-generator.html)**

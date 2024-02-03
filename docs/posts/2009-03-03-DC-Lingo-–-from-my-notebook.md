@@ -27,4 +27,4 @@ You mark yourself as an out-of-towner if you don't know what **CQ** stands
 for.
 
 
-[DC Lingo – from my notebook](None)
+* **Link to site:** **[DC Lingo – from my notebook](None)**

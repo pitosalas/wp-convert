@@ -24,4 +24,4 @@ Technorati Tags: [google](<http://technorati.com/tag/google>),
 [maps](<http://technorati.com/tag/maps>)
 
 
-[Google Sightseeing: Target in my neighborhood](None)
+* **Link to site:** **[Google Sightseeing: Target in my neighborhood](None)**

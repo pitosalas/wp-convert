@@ -27,4 +27,4 @@ date: 2007-01-05
 > Check out [DayLife itself](<http://www.daylife.com/topstories>) 🙂
 
 
-[DayLife: very nice new News Site](None)
+* **Link to site:** **[DayLife: very nice new News Site](None)**

@@ -34,4 +34,4 @@ date: 2007-01-23
 > esque"?](<http://www.dzone.com/rsslinks/is_eclipse_too_windowsesque.html>))
 
 
-[Is Eclipse too “Windows-esque”?](None)
+* **Link to site:** **[Is Eclipse too “Windows-esque”?](None)**

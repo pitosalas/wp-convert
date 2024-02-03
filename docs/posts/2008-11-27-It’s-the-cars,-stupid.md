@@ -17,4 +17,4 @@ automakers](<http://www.pbs.org/cringely/pulpit/2008/pulpit_20081126_005507.html
 > Detroit](<http://www.pbs.org/cringely/pulpit/2008/pulpit_20081126_005507.html>))
 
 
-[It’s the cars, stupid](None)
+* **Link to site:** **[It’s the cars, stupid](None)**

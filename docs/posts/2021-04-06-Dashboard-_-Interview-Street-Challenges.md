@@ -6,7 +6,7 @@ link: "https://www.interviewstreet.com/challenges/dashboard#problems"
 cover: "" 
 date: 2021-04-06
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Dashboard | Interview Street Challenges](https://www.interviewstreet.com/challenges/dashboard#problems)
+* **Link to site:** **[Dashboard | Interview Street Challenges](https://www.interviewstreet.com/challenges/dashboard#problems)**

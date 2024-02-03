@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Design Dev Tools
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[lorempixum - placeholder images for every case](http://lorempixum.com)
+* **Link to site:** **[lorempixum - placeholder images for every case](http://lorempixum.com)**

@@ -35,4 +35,4 @@ switcheroo/>)")
 >> Technorati Tags: [cartoon](<http://www.technorati.com/tag/cartoon>)
 
 
-[Cartoon Madness](None)
+* **Link to site:** **[Cartoon Madness](None)**

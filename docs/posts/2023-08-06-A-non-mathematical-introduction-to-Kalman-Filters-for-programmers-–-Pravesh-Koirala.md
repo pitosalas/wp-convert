@@ -22,4 +22,4 @@ Kalman Filters? Kalman filters are ingenius. If you have never heard of them,
 then a very intuitive (and arguably reductive) way to think about them is to
 
 
-[A non-mathematical introduction to Kalman Filters for programmers – Pravesh Koirala](None)
+* **Link to site:** **[A non-mathematical introduction to Kalman Filters for programmers – Pravesh Koirala](None)**

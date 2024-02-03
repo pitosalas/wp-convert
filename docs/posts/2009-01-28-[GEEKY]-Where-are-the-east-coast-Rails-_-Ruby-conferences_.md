@@ -22,4 +22,4 @@ meetings](<http://weblog.rubyonrails.com/2009/1/28/ruby-rails-conferences>),
 all looking interesting, there's nothing anywhere near Boston. Hey, whatup?
 
 
-[[GEEKY] Where are the east coast Rails / Ruby conferences?](None)
+* **Link to site:** **[[GEEKY] Where are the east coast Rails / Ruby conferences?](None)**

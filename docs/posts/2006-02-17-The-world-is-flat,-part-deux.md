@@ -24,4 +24,4 @@ english.html>)
 >> Technorati Tags: [funny](<http://www.technorati.com/tag/funny>)
 
 
-[The world is flat, part deux](None)
+* **Link to site:** **[The world is flat, part deux](None)**

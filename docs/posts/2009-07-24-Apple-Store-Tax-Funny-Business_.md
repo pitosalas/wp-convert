@@ -26,4 +26,4 @@ look like a 5% tax to me!
 **What do you think? 9.8%! Who do I call?**
 
 
-[Apple Store Tax Funny Business?](None)
+* **Link to site:** **[Apple Store Tax Funny Business?](None)**

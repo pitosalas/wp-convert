@@ -12,9 +12,10 @@ tags:
     - howto
     - modules
 ---
-<img src=https://files.realpython.com/media/Python-Modules-and-Packages-An-Introduction_Watermarked.20936240a94d.jpg width="500">
+<img class="cover" src=https://files.realpython.com/media/Python-Modules-and-Packages-An-Introduction_Watermarked.20936240a94d.jpg>
 
 
 
-(**Web site excerpt:** This article explores Python modules and Python packages, two mechanisms that facilitate modular programming.) 
-[Python Modules and Packages – An Introduction – Real Python](https://realpython.com/python-modules-packages/)
+* **Web site excerpt:** This article explores Python modules and Python packages, two mechanisms that facilitate modular programming.
+
+* **Link to site:** **[Python Modules and Packages – An Introduction – Real Python](https://realpython.com/python-modules-packages/)**

@@ -25,4 +25,4 @@ And in general, read [Dilbert.com
 Blog!](<http://dilbert.com/blog/entry.feed/>)
 
 
-[Scott Adams (Dilbert in real life) Writes about the future of the internet. Insightfully.](None)
+* **Link to site:** **[Scott Adams (Dilbert in real life) Writes about the future of the internet. Insightfully.](None)**

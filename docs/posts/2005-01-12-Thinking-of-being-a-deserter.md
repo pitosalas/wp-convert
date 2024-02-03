@@ -47,4 +47,4 @@ mine for a year after he switched. He loved it. I switched a year after him. I
 feel the same."
 
 
-[Thinking of being a deserter](None)
+* **Link to site:** **[Thinking of being a deserter](None)**

@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - online analysis data platform
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Fcodap.concord.org width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fcodap.concord.org>
 
 
 
-(**Web site excerpt:** Looks really useful.) 
-[CODAP - Common Online Data Analysis Platform](https://codap.concord.org)
+* **Web site excerpt:** Looks really useful.
+
+* **Link to site:** **[CODAP - Common Online Data Analysis Platform](https://codap.concord.org)**

@@ -21,4 +21,4 @@ Blog](<http://feeds.feedburner.com/GoogleOpenSourceBlog>):
 .
 
 
-[We go full circle: Google Command Line Tool](None)
+* **Link to site:** **[We go full circle: Google Command Line Tool](None)**

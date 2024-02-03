@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - heroku postgres database rails
 ---
-<img src=https://www.herokucdn.com/images/og.png width="500">
+<img class="cover" src=https://www.herokucdn.com/images/og.png>
 
 
 
-(**Web site excerpt:** How to share a postgres database between two separate Heroku applications!) 
-[Heroku Postgres | Heroku Dev Center](https://devcenter.heroku.com/articles/heroku-postgresql)
+* **Web site excerpt:** How to share a postgres database between two separate Heroku applications!
+
+* **Link to site:** **[Heroku Postgres | Heroku Dev Center](https://devcenter.heroku.com/articles/heroku-postgresql)**

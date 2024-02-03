@@ -6,7 +6,7 @@ link: "https://trello.com/board/to-do/5004d096c429dd966243d824"
 cover: "" 
 date: 2021-04-06
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[To Do | Trello](https://trello.com/board/to-do/5004d096c429dd966243d824)
+* **Link to site:** **[To Do | Trello](https://trello.com/board/to-do/5004d096c429dd966243d824)**

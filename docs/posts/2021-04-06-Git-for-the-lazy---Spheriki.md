@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Dev Tools
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Git for the lazy - Spheriki](http://www.spheredev.org/wiki/Git_for_the_lazy)
+* **Link to site:** **[Git for the lazy - Spheriki](http://www.spheredev.org/wiki/Git_for_the_lazy)**

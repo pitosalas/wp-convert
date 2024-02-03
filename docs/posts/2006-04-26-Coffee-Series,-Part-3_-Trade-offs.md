@@ -94,4 +94,4 @@ by the way it's **way way cheaper**.
 >  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 
 
-[Coffee Series, Part 3: Trade offs](None)
+* **Link to site:** **[Coffee Series, Part 3: Trade offs](None)**

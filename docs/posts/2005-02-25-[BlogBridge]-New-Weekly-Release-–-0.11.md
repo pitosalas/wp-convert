@@ -28,4 +28,4 @@ subscribe to them as a new Feed.
 >> Enjoy!
 
 
-[[BlogBridge] New Weekly Release – 0.11](None)
+* **Link to site:** **[[BlogBridge] New Weekly Release – 0.11](None)**

@@ -11,9 +11,10 @@ tags:
     - kalman-filter
     - jupyter-notebook
 ---
-<img src=https://avatars.githubusercontent.com/u/5308143?s=400&v=4 width="500">
+<img class="cover" src=https://avatars.githubusercontent.com/u/5308143?s=400&v=4>
 
 
 
-(**Web site excerpt:** I’m trying to get smart about Kalman filters. This is a great resource) 
-[rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
+* **Web site excerpt:** I’m trying to get smart about Kalman filters. This is a great resource
+
+* **Link to site:** **[rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)**

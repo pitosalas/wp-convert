@@ -39,4 +39,4 @@ page term paper and not be able to retrieve it. [Check it out.
 >> Technorati Tags: [ajax](<http://www.technorati.com/tag/ajax>)
 
 
-[Using AJAX to do word processing on the web](None)
+* **Link to site:** **[Using AJAX to do word processing on the web](None)**

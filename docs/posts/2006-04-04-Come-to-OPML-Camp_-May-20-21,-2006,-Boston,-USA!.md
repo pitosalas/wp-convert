@@ -55,4 +55,4 @@ Massachusetts, USA **Signup** : [click here](<http://opmlcamp.com/?p=35>)
 [readinglists](<http://www.technorati.com/tag/readinglists>)
 
 
-[Come to OPML Camp: May 20-21, 2006, Boston, USA!](None)
+* **Link to site:** **[Come to OPML Camp: May 20-21, 2006, Boston, USA!](None)**

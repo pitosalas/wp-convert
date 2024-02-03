@@ -12,9 +12,10 @@ tags:
     - gem
     - cooltool
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Fwww.shalerb.org%2F width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.shalerb.org%2F>
 
 A pretty amazing, super useful package.
 
-(**Web site excerpt:** Shale - Ruby object mapper and serializer for XML, JSON and YAML) 
-[Shale - Ruby object mapper and serializer for XML, JSON, TOML and YAML](https://www.shalerb.org/)
+* **Web site excerpt:** Shale - Ruby object mapper and serializer for XML, JSON and YAML
+
+* **Link to site:** **[Shale - Ruby object mapper and serializer for XML, JSON, TOML and YAML](https://www.shalerb.org/)**

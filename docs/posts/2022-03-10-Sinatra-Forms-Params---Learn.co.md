@@ -11,9 +11,10 @@ tags:
     - example
     - tutorial
 ---
-<img src=https://flatironschool-static.s3.amazonaws.com/learn-social.png width="500">
+<img class="cover" src=https://flatironschool-static.s3.amazonaws.com/learn-social.png>
 
 
 
-(**Web site excerpt:** Learn about Sinatra Forms Params  . Start learning to code for free with real developer tools on Learn.co.) 
-[Sinatra Forms Params - Learn.co](https://learn.co/lessons/sinatra-forms-params-readme-walkthrough)
+* **Web site excerpt:** Learn about Sinatra Forms Params  . Start learning to code for free with real developer tools on Learn.co.
+
+* **Link to site:** **[Sinatra Forms Params - Learn.co](https://learn.co/lessons/sinatra-forms-params-readme-walkthrough)**

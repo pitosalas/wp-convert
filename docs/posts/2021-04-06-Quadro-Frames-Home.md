@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - frames photography MOUNTing
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fwww.quadroframes.com width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.quadroframes.com>
 
 
-[Quadro Frames Home](http://www.quadroframes.com)
+* **Link to site:** **[Quadro Frames Home](http://www.quadroframes.com)**

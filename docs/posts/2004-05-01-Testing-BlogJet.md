@@ -28,4 +28,4 @@ Very clever. I think I am going to like this utility! (And this last paragraph
 was indeed written by me, myself…)
 
 
-[Testing BlogJet](None)
+* **Link to site:** **[Testing BlogJet](None)**

@@ -63,4 +63,4 @@ from the same site, each with the same title and text. **Clearly SquareSpace
 's spam filter isn't doing its job eh?**
 
 
-[Squarespace: What’s a comment spam filter to you?](None)
+* **Link to site:** **[Squarespace: What’s a comment spam filter to you?](None)**

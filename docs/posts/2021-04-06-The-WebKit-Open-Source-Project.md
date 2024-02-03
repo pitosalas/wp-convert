@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - blogbridge opensource safari
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fwebkit.org width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwebkit.org>
 
 
 
-(**Web site excerpt:** Codebase on which safari web browser was built is apparently an open source project) 
-[The WebKit Open Source Project](http://webkit.org)
+* **Web site excerpt:** Codebase on which safari web browser was built is apparently an open source project
+
+* **Link to site:** **[The WebKit Open Source Project](http://webkit.org)**

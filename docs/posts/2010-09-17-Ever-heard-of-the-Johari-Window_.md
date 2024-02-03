@@ -26,4 +26,4 @@ known, respected or in total disrepute. It spoke to me, so I thought I would
 share it.
 
 
-[Ever heard of the Johari Window?](None)
+* **Link to site:** **[Ever heard of the Johari Window?](None)**

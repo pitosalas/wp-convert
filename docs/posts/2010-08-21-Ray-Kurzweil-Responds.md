@@ -36,4 +36,4 @@ Here's a typically articulate and persuasive rebuttal from Ray Kurzweil:
 > kurzweil-does-not-understand-the-brain>))
 
 
-[Ray Kurzweil Responds](None)
+* **Link to site:** **[Ray Kurzweil Responds](None)**

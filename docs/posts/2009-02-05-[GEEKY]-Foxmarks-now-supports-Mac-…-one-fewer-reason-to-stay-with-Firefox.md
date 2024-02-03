@@ -32,4 +32,4 @@ US/firefox/all-beta.html>) There are two areas of discontent:
 [safari](<http://technorati.com/tag/safari>)
 
 
-[[GEEKY] Foxmarks now supports Mac … one fewer reason to stay with Firefox](None)
+* **Link to site:** **[[GEEKY] Foxmarks now supports Mac … one fewer reason to stay with Firefox](None)**

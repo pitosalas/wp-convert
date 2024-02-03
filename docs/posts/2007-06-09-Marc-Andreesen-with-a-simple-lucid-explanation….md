@@ -28,4 +28,4 @@ post](<http://blog.pmarca.com/2007/06/the_truth_about.html>) in
 > 1](<http://blog.pmarca.com/2007/06/the_truth_about.html>))
 
 
-[Marc Andreesen with a simple lucid explanation…](None)
+* **Link to site:** **[Marc Andreesen with a simple lucid explanation…](None)**

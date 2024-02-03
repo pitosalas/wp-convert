@@ -19,4 +19,4 @@ them. It is the SPIN project which implements a **way-esoteric-PhD-level**
 technique to make it easier to work with the EDT.
 
 
-[[GEEK] Undrestanding and getting around EDT](None)
+* **Link to site:** **[[GEEK] Undrestanding and getting around EDT](None)**

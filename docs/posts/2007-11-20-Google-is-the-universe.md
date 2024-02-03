@@ -54,4 +54,4 @@ up" and become the global consciousness, hack into the military computers
 around the world on it's own initiative and black mail … _oh forget it._
 
 
-[Google is the universe](None)
+* **Link to site:** **[Google is the universe](None)**

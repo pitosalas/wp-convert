@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Softw Entrepreneurship
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[‎startangels.ch/downloads/LeanCanvasInstructions.pdf](http://startangels.ch/downloads/LeanCanvasInstructions.pdf)
+* **Link to site:** **[‎startangels.ch/downloads/LeanCanvasInstructions.pdf](http://startangels.ch/downloads/LeanCanvasInstructions.pdf)**

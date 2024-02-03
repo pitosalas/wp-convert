@@ -24,4 +24,4 @@ song!](<http://strangenation.cf.huffingtonpost.com/>)
 [susanwerner](<http://www.technorati.com/tag/susanwerner>)
 
 
-[My Strange Nation? Check out Susan Werner](None)
+* **Link to site:** **[My Strange Nation? Check out Susan Werner](None)**

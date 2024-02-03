@@ -45,4 +45,4 @@ and other recent
 developments.](<http://nighthacks.com/roller/jag/entry/steve_jobs_comments_on_apple>)
 
 
-[[GEEKY] Mac will be discontinuing support of Java](None)
+* **Link to site:** **[[GEEKY] Mac will be discontinuing support of Java](None)**

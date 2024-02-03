@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Brandeis
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fblogs.brandeis.edu width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fblogs.brandeis.edu>
 
 
-[Blogs @ Brandeis University](http://blogs.brandeis.edu)
+* **Link to site:** **[Blogs @ Brandeis University](http://blogs.brandeis.edu)**

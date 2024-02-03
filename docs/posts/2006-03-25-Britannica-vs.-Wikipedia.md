@@ -55,4 +55,4 @@ information](<http://www.nature.com/nature/journal/v438/n7070/extref/438900a-s1.
 [wikipedia](<http://www.technorati.com/tag/wikipedia>)
 
 
-[Britannica vs. Wikipedia](None)
+* **Link to site:** **[Britannica vs. Wikipedia](None)**

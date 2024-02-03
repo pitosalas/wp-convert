@@ -43,4 +43,4 @@ gotten around to reading those yet.
 >> Technorati Tags: [jaronlanier](<http://www.technorati.com/tag/jaronlanier>)
 
 
-[Jaron Lanier on Digital Maoism: interesting thoughts about Wikipedia and related site](None)
+* **Link to site:** **[Jaron Lanier on Digital Maoism: interesting thoughts about Wikipedia and related site](None)**

@@ -42,4 +42,4 @@ and leads to this:
 Excellent points and a **useful distinction**.
 
 
-[Clever iPhone app vs. the Transistor](None)
+* **Link to site:** **[Clever iPhone app vs. the Transistor](None)**

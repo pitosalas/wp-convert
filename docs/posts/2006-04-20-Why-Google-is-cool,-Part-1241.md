@@ -15,4 +15,4 @@ this is what it is and sends you directly to Fedex. Cool.
 >> Technorati Tags: [fedex](<http://www.technorati.com/tag/fedex>)
 
 
-[Why Google is cool, Part 1241](None)
+* **Link to site:** **[Why Google is cool, Part 1241](None)**

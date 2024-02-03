@@ -12,9 +12,10 @@ tags:
     - letter
     - template
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fwww.reference-letter.com width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.reference-letter.com>
 
 
 
-(**Web site excerpt:** Write/generate a reference letter or letter of recommendation in 7 quick steps. Hundreds of phrases and sample letters available!) 
-[Reference-Letter.com: Letter of recommendation made easy](http://www.reference-letter.com)
+* **Web site excerpt:** Write/generate a reference letter or letter of recommendation in 7 quick steps. Hundreds of phrases and sample letters available!
+
+* **Link to site:** **[Reference-Letter.com: Letter of recommendation made easy](http://www.reference-letter.com)**

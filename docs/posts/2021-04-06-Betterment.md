@@ -6,7 +6,7 @@ link: "https://wwws.betterment.com/app#performance"
 cover: "" 
 date: 2021-04-06
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Betterment](https://wwws.betterment.com/app#performance)
+* **Link to site:** **[Betterment](https://wwws.betterment.com/app#performance)**

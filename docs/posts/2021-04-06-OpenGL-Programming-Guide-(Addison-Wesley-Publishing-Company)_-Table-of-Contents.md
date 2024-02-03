@@ -6,7 +6,7 @@ link: "http://fly.cc.fer.hr/~unreal/theredbook"
 cover: "" 
 date: 2021-04-06
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[OpenGL Programming Guide (Addison-Wesley Publishing Company): Table of Contents](http://fly.cc.fer.hr/~unreal/theredbook)
+* **Link to site:** **[OpenGL Programming Guide (Addison-Wesley Publishing Company): Table of Contents](http://fly.cc.fer.hr/~unreal/theredbook)**

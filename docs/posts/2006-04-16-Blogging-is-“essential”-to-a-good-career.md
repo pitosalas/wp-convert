@@ -60,4 +60,4 @@ as anything.
 >  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 
 
-[Blogging is “essential” to a good career](None)
+* **Link to site:** **[Blogging is “essential” to a good career](None)**

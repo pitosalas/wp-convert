@@ -84,4 +84,4 @@ in the discussions as they develop. More to come!
 [OPML](<http://www.technorati.com/tag/OPML>)
 
 
-[[GEEK] OPML Validator](None)
+* **Link to site:** **[[GEEK] OPML Validator](None)**

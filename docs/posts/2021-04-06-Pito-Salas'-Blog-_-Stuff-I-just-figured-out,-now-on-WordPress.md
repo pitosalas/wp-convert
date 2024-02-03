@@ -6,9 +6,10 @@ link: "https://salascom.wordpress.com"
 cover: "https://s0.wp.com/i/blank.jpg" 
 date: 2021-04-06
 ---
-<img src=https://s0.wp.com/i/blank.jpg width="500">
+<img class="cover" src=https://s0.wp.com/i/blank.jpg>
 
 
 
-(**Web site excerpt:** Stuff I just figured out) 
-[Pito Salas' Blog | Stuff I just figured out, now on WordPress](https://salascom.wordpress.com)
+* **Web site excerpt:** Stuff I just figured out
+
+* **Link to site:** **[Pito Salas' Blog | Stuff I just figured out, now on WordPress](https://salascom.wordpress.com)**

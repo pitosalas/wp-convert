@@ -9,4 +9,4 @@ date: 2007-01-17
 > How do you like this:
 
 
-[MyBlogLog Widget experiment…](None)
+* **Link to site:** **[MyBlogLog Widget experiment…](None)**

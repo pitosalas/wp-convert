@@ -23,4 +23,4 @@ email. Of course you probably can afford to pay for a New York Times
 subscription 🙂
 
 
-[Put Down Your #2 Pencils And Use Your .EDU Email To Get Free TimesSelect](None)
+* **Link to site:** **[Put Down Your #2 Pencils And Use Your .EDU Email To Get Free TimesSelect](None)**

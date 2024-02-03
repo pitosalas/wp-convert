@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - tools nlp textmining
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Sentiment Analysis and Language Processing Tools | Code Speaks](http://lordpimpington.com/codespeaks/drupal-5.1?q=node%2F5)
+* **Link to site:** **[Sentiment Analysis and Language Processing Tools | Code Speaks](http://lordpimpington.com/codespeaks/drupal-5.1?q=node%2F5)**

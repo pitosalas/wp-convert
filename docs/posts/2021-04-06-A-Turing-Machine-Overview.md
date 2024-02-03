@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - turing-machine
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Faturingmachine.com%2Findex.php width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Faturingmachine.com%2Findex.php>
 
 
 
-(**Web site excerpt:** A wonderful trip through Turing Machines!) 
-[A Turing Machine Overview](http://aturingmachine.com/index.php)
+* **Web site excerpt:** A wonderful trip through Turing Machines!
+
+* **Link to site:** **[A Turing Machine Overview](http://aturingmachine.com/index.php)**

@@ -19,4 +19,4 @@ it and how to write tests for third-party services.
 March 8, 2022 at 09:45PM
 
 
-[Learn How to Test Third Party Services With Minitest & VCR](None)
+* **Link to site:** **[Learn How to Test Third Party Services With Minitest & VCR](None)**

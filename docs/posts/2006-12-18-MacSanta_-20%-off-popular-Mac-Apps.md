@@ -33,4 +33,4 @@ date: 2006-12-18
 > For all you mac users out there 🙂
 
 
-[MacSanta: 20% off popular Mac Apps](None)
+* **Link to site:** **[MacSanta: 20% off popular Mac Apps](None)**

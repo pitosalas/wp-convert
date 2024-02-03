@@ -20,4 +20,4 @@ player to be played at the listener's leisure."
 Times.](<http://www.nytimes.com/2005/02/19/technology/19podcasting.html?th=&adxnnl=1&adxnnlx=1108819334-ety0NN1ooB7p6C/KKvH+oQ>)
 
 
-[Article about Podcasting in the New York Times](None)
+* **Link to site:** **[Article about Podcasting in the New York Times](None)**

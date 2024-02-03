@@ -20,4 +20,4 @@ on the image of an ugly big CRT monitor. See the
 Who said they don't have a sense of humor?
 
 
-[Apple sense of humor](None)
+* **Link to site:** **[Apple sense of humor](None)**

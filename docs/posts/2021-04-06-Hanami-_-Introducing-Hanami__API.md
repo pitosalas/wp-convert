@@ -11,9 +11,10 @@ tags:
     - sinatra
     - hanami
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
 
-(**Web site excerpt:** Faster than Sinatra? By that much? Hard to believe.) 
-[Hanami | Introducing Hanami::API](http://hanamirb.org/blog/2020/02/26/introducing-hanami-api.html)
+* **Web site excerpt:** Faster than Sinatra? By that much? Hard to believe.
+
+* **Link to site:** **[Hanami | Introducing Hanami::API](http://hanamirb.org/blog/2020/02/26/introducing-hanami-api.html)**

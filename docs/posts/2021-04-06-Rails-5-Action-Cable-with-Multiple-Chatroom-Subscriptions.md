@@ -10,9 +10,10 @@ tags:
     - rails
     - actioncable
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Fwww.thegreatcodeadventure.com%2Frails-5-action-cable-with-multiple-chatroom-subscriptions width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.thegreatcodeadventure.com%2Frails-5-action-cable-with-multiple-chatroom-subscriptions>
 
 
 
-(**Web site excerpt:** Rails Actioncable is complicated. Here are a series of links about it.) 
-[Rails 5 Action Cable with Multiple Chatroom Subscriptions](https://www.thegreatcodeadventure.com/rails-5-action-cable-with-multiple-chatroom-subscriptions)
+* **Web site excerpt:** Rails Actioncable is complicated. Here are a series of links about it.
+
+* **Link to site:** **[Rails 5 Action Cable with Multiple Chatroom Subscriptions](https://www.thegreatcodeadventure.com/rails-5-action-cable-with-multiple-chatroom-subscriptions)**

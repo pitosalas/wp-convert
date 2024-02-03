@@ -17,4 +17,4 @@ They must be some kind of composite.
 pictures!](<http://artjob.ru/2007/10/18/print:page,1,samye_simpotichnye_miniplanety_alexandre_duretlutz.html>)
 
 
-[Amazing pictures](None)
+* **Link to site:** **[Amazing pictures](None)**

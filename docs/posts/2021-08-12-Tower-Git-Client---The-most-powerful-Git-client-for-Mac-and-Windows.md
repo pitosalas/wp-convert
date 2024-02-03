@@ -11,9 +11,10 @@ tags:
     - github
     - gui
 ---
-<img src=https://www.git-tower.com/assets/img/tower-git-client_sharing-image.1628665146.png width="500">
+<img class="cover" src=https://www.git-tower.com/assets/img/tower-git-client_sharing-image.1628665146.png>
 
 
 
-(**Web site excerpt:** Over 100,000 developers and designers are more productive with Tower - the most powerful Git client for Mac and Windows.) 
-[Tower Git Client - The most powerful Git client for Mac and Windows](https://www.git-tower.com/mac)
+* **Web site excerpt:** Over 100,000 developers and designers are more productive with Tower - the most powerful Git client for Mac and Windows.
+
+* **Link to site:** **[Tower Git Client - The most powerful Git client for Mac and Windows](https://www.git-tower.com/mac)**

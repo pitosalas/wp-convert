@@ -30,4 +30,4 @@ But the section about Dick Cheney brought an even crazier scenario to mind.
 What if Hillary is elected and picks Bill as ……………. VICE PRESIDENT?
 
 
-[Bill Clinton: First Lad or …](None)
+* **Link to site:** **[Bill Clinton: First Lad or …](None)**

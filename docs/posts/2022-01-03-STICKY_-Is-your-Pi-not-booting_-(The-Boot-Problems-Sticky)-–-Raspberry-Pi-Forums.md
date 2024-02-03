@@ -21,4 +21,4 @@ the people behind the software for a compatible version.
 January 4, 2022 at 12:18AM
 
 
-[STICKY: Is your Pi not booting? (The Boot Problems Sticky) – Raspberry Pi Forums](None)
+* **Link to site:** **[STICKY: Is your Pi not booting? (The Boot Problems Sticky) – Raspberry Pi Forums](None)**

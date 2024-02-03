@@ -16,4 +16,4 @@ choose](<http://inspirationlab.files.wordpress.com/2010/04/infographiclarge_v2.p
 "Infographic that will help you choose").
 
 
-[[DESIGN] Typography Cheat Sheet](None)
+* **Link to site:** **[[DESIGN] Typography Cheat Sheet](None)**

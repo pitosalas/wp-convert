@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - rails
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Frails-bestpractices.com width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Frails-bestpractices.com>
 
 
-[Rails Best Practices | rails best practices list](http://rails-bestpractices.com)
+* **Link to site:** **[Rails Best Practices | rails best practices list](http://rails-bestpractices.com)**

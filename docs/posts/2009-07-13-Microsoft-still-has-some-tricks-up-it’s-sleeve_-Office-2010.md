@@ -22,4 +22,4 @@ momentarily present web site, so Microsoft may force them to be taken down.
 _Technorati Tags:[office2010](<http://technorati.com/tag/office2010>)_
 
 
-[Microsoft still has some tricks up it’s sleeve: Office 2010](None)
+* **Link to site:** **[Microsoft still has some tricks up it’s sleeve: Office 2010](None)**

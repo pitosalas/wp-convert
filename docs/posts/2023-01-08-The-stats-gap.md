@@ -9,9 +9,10 @@ tags:
     - statistics
     - teaching
 ---
-<img src=https://worksinprogress.substack.com/p/[object%20Object] width="500">
+<img class="cover" src=https://worksinprogress.substack.com/p/[object%20Object]>
 
 
 
-(**Web site excerpt:** Students understand just enough statistics to get by) 
-[The stats gap](https://worksinprogress.substack.com/p/the-stats-gap?utm_source=substack&utm_medium=email)
+* **Web site excerpt:** Students understand just enough statistics to get by
+
+* **Link to site:** **[The stats gap](https://worksinprogress.substack.com/p/the-stats-gap?utm_source=substack&utm_medium=email)**

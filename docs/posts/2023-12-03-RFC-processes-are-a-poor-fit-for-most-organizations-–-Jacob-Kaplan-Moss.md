@@ -17,4 +17,4 @@ adopting this process for your company is a mistake. RFC processes tend to
 fail at most organizations because they lack a clear decision-making step.
 
 
-[RFC processes are a poor fit for most organizations – Jacob Kaplan-Moss](None)
+* **Link to site:** **[RFC processes are a poor fit for most organizations – Jacob Kaplan-Moss](None)**

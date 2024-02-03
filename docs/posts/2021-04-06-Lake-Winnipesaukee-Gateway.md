@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - lake
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fwinnipesaukeegateway.org width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwinnipesaukeegateway.org>
 
 
-[Lake Winnipesaukee Gateway](http://winnipesaukeegateway.org)
+* **Link to site:** **[Lake Winnipesaukee Gateway](http://winnipesaukeegateway.org)**

@@ -99,4 +99,4 @@ Any follow up questions are welcome and you can of course also download and
 play with the current beta.
 
 
-[Is BlogBridge a ‘next generation’ Feed Reader?](None)
+* **Link to site:** **[Is BlogBridge a ‘next generation’ Feed Reader?](None)**

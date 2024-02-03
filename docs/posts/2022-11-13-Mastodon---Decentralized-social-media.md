@@ -10,9 +10,10 @@ tags:
     - introduction
     - howto
 ---
-<img src=https://joinmastodon.org/preview.png width="500">
+<img class="cover" src=https://joinmastodon.org/preview.png>
 
 
 
-(**Web site excerpt:** Learn more about Mastodon, the radically different, free and open-source decentralized social media platform.) 
-[Mastodon - Decentralized social media](https://joinmastodon.org/)
+* **Web site excerpt:** Learn more about Mastodon, the radically different, free and open-source decentralized social media platform.
+
+* **Link to site:** **[Mastodon - Decentralized social media](https://joinmastodon.org/)**

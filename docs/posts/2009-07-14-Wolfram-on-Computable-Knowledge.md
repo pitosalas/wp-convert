@@ -30,4 +30,4 @@ Tags: [mathematics](<http://technorati.com/tag/mathematics>),
 [stephenwolfram](<http://technorati.com/tag/stephenwolfram>)
 
 
-[Wolfram on Computable Knowledge](None)
+* **Link to site:** **[Wolfram on Computable Knowledge](None)**

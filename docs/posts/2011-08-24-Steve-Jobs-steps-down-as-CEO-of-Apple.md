@@ -20,4 +20,4 @@ This news saddens me:
 I hope he's doing alright and is with us for many many years to come.
 
 
-[Steve Jobs steps down as CEO of Apple](None)
+* **Link to site:** **[Steve Jobs steps down as CEO of Apple](None)**

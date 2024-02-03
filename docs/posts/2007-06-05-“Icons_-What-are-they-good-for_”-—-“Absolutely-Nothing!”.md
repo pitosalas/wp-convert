@@ -41,4 +41,4 @@ be marketed in a variety of countries. I guess in Europe, culturally, people
 understand the symbols for "broil" and "rinse only." It was greek to me!
 
 
-[“Icons: What are they good for?” — “Absolutely Nothing!”](None)
+* **Link to site:** **[“Icons: What are they good for?” — “Absolutely Nothing!”](None)**

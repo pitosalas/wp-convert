@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - facebook rails rubyonrails
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Liverail - Continuing Facebook Applications with Ruby On Rails](http://www.liverail.net/articles/2007/7/16/continuing-facebook-applications-with-ruby-on-rails)
+* **Link to site:** **[Liverail - Continuing Facebook Applications with Ruby On Rails](http://www.liverail.net/articles/2007/7/16/continuing-facebook-applications-with-ruby-on-rails)**

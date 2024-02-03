@@ -35,4 +35,4 @@ it's really clear where that code snippet is from. So I agree with this post
 (and his vigorous defense in the comment stream) framing this as a Witch Hunt.
 
 
-[Sequoia Voting System Witch Hunt, err… Study Project](None)
+* **Link to site:** **[Sequoia Voting System Witch Hunt, err… Study Project](None)**

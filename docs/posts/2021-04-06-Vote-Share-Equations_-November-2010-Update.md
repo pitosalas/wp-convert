@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Elections Weather
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Ffairmodel.econ.yale.edu%2Fvote2012%2Findex2.htm width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Ffairmodel.econ.yale.edu%2Fvote2012%2Findex2.htm>
 
 
-[Vote-Share Equations: November 2010 Update](http://fairmodel.econ.yale.edu/vote2012/index2.htm)
+* **Link to site:** **[Vote-Share Equations: November 2010 Update](http://fairmodel.econ.yale.edu/vote2012/index2.htm)**

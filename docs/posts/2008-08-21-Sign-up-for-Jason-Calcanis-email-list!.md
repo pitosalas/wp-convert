@@ -24,4 +24,4 @@ about it.
 list](<https://my.binhost.com/lists/listinfo/jason>).
 
 
-[Sign up for Jason Calcanis email list!](None)
+* **Link to site:** **[Sign up for Jason Calcanis email list!](None)**

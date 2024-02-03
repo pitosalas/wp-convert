@@ -10,9 +10,10 @@ tags:
     - strategy
     - lockin
 ---
-<img src=https://martinfowler.com/articles/oss-lockin/locks_card.jpg width="500">
+<img class="cover" src=https://martinfowler.com/articles/oss-lockin/locks_card.jpg>
 
 
 
-(**Web site excerpt:** All the flabors of lockin explained.) 
-[Don't get locked up into avoiding lock-in](https://martinfowler.com/articles/oss-lockin.html)
+* **Web site excerpt:** All the flabors of lockin explained.
+
+* **Link to site:** **[Don't get locked up into avoiding lock-in](https://martinfowler.com/articles/oss-lockin.html)**

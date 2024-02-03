@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - bitcoin
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
 
-(**Web site excerpt:** Bitcoin exchange?) 
-[Kraken Digital Asset Trading Platform](https://www.kraken.com)
+* **Web site excerpt:** Bitcoin exchange?
+
+* **Link to site:** **[Kraken Digital Asset Trading Platform](https://www.kraken.com)**

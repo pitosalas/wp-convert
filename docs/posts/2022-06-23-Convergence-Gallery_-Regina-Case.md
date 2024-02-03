@@ -9,7 +9,7 @@ tags:
     - art
     - paintings
 ---
-<img src=http://convergencegallery.com/case/TheNavigatorx.jpg width="500">
+<img class="cover" src=http://convergencegallery.com/case/TheNavigatorx.jpg>
 
 
-[Convergence Gallery: Regina Case](http://convergencegallery.com/case/case.html)
+* **Link to site:** **[Convergence Gallery: Regina Case](http://convergencegallery.com/case/case.html)**

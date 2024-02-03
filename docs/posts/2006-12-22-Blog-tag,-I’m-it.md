@@ -35,4 +35,4 @@ date: 2006-12-22
 > Over to you, pals!
 
 
-[Blog tag, I’m it](None)
+* **Link to site:** **[Blog tag, I’m it](None)**

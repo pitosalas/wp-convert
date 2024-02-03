@@ -6,7 +6,7 @@ link: "https://guides.rubyonrails.org/command_line.html#rails-runner"
 cover: "https://avatars.githubusercontent.com/u/4223" 
 date: 2022-03-28
 ---
-<img src=https://avatars.githubusercontent.com/u/4223 width="500">
+<img class="cover" src=https://avatars.githubusercontent.com/u/4223>
 
 
-[The Rails Command Line — Ruby on Rails Guides](https://guides.rubyonrails.org/command_line.html#rails-runner)
+* **Link to site:** **[The Rails Command Line — Ruby on Rails Guides](https://guides.rubyonrails.org/command_line.html#rails-runner)**

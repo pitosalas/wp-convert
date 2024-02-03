@@ -59,4 +59,4 @@ And yes, I am back up again, **without SP2 installed.**
 >> **So I guess this is the exception that proves the rule.**
 
 
-[XP SP2 Makes a Hash Of It](None)
+* **Link to site:** **[XP SP2 Makes a Hash Of It](None)**

@@ -40,4 +40,4 @@ saw, what he thought about it at the time and now, and how it has unfolded for
 him.
 
 
-[What is a blog, again?](None)
+* **Link to site:** **[What is a blog, again?](None)**

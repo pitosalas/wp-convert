@@ -31,4 +31,4 @@ And even if it is, it's a **bit of a stretch** to believe that this indirect
 corporate 'control' leads to high odds that the vote would be manipulated.
 
 
-[Does Mitt Romney control it all?](None)
+* **Link to site:** **[Does Mitt Romney control it all?](None)**

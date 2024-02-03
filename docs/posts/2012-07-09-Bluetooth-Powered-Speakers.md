@@ -24,4 +24,4 @@ Punch](<http://gadgetwise.blogs.nytimes.com/2012/07/05/a-pocket-size-speaker-
 with-some-punch/>)
 
 
-[Bluetooth Powered Speakers](None)
+* **Link to site:** **[Bluetooth Powered Speakers](None)**

@@ -23,4 +23,4 @@ explained, but yet they all have it. What is it for???
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[[GEEKY] iPhone earphones revisited](None)
+* **Link to site:** **[[GEEKY] iPhone earphones revisited](None)**

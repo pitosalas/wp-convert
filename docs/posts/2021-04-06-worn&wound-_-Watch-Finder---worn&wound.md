@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - watch
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[worn&wound | Watch Finder - worn&wound](http://wornandwound.com/watch-finder)
+* **Link to site:** **[worn&wound | Watch Finder - worn&wound](http://wornandwound.com/watch-finder)**

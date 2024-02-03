@@ -40,4 +40,4 @@ date: 2007-01-15
 >  know.
 
 
-[Scott Adams writres about Spasmodic Dysphonia…](None)
+* **Link to site:** **[Scott Adams writres about Spasmodic Dysphonia…](None)**

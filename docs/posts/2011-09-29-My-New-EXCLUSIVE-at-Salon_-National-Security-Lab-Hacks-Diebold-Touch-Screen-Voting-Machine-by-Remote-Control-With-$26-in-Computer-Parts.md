@@ -21,4 +21,4 @@ BLOG](<http://www.bradblog.com/?feed=rss2>):
 > with it."
 
 
-[My New EXCLUSIVE at Salon: National Security Lab Hacks Diebold Touch-Screen Voting Machine by Remote Control With $26 in Computer Parts](None)
+* **Link to site:** **[My New EXCLUSIVE at Salon: National Security Lab Hacks Diebold Touch-Screen Voting Machine by Remote Control With $26 in Computer Parts](None)**

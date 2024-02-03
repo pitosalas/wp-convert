@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - Softw Entrepreneurship desktop apps
 ---
-<img src=https://miro.medium.com/max/837/0*ANqoJKFB5YvZLhgI. width="500">
+<img class="cover" src=https://miro.medium.com/max/837/0*ANqoJKFB5YvZLhgI.>
 
 
 
-(**Web site excerpt:** An interesting analysis of the role of desktop apps, spa's and other approaches to delivering your product.) 
-[Why desktop apps are making a comeback — EdTech and Entrepreneurship — Medium](https://medium.com/@collinmathilde/why-desktop-apps-are-making-a-comeback-5b4eb0427647)
+* **Web site excerpt:** An interesting analysis of the role of desktop apps, spa's and other approaches to delivering your product.
+
+* **Link to site:** **[Why desktop apps are making a comeback — EdTech and Entrepreneurship — Medium](https://medium.com/@collinmathilde/why-desktop-apps-are-making-a-comeback-5b4eb0427647)**

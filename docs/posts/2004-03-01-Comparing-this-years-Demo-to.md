@@ -26,4 +26,4 @@ a positive development and perhaps a **sign that we are recovering** somewhat
 from the shock of the last 3 years.
 
 
-[Comparing this years Demo to](None)
+* **Link to site:** **[Comparing this years Demo to](None)**

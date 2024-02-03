@@ -18,4 +18,4 @@ and I will fill you in.
 >> When we have **T-Shirts** , you will get one, **gratis**!
 
 
-[BlogBridge Usability Victims](None)
+* **Link to site:** **[BlogBridge Usability Victims](None)**

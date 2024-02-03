@@ -11,4 +11,4 @@ current affairs blogs](<http://www.squidoo.com/bestnewsblogs/>). Check it out,
 you might find it interesting.
 
 
-[Check out a tutorial on locating the best news blogs](None)
+* **Link to site:** **[Check out a tutorial on locating the best news blogs](None)**

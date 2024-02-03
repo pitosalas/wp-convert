@@ -11,7 +11,7 @@ tags:
     - posters
     - image
 ---
-<img src=https://hrc.contentdm.oclc.org/digital/api/singleitem/collection/p15878coll84/id/5004/thumbnail width="500">
+<img class="cover" src=https://hrc.contentdm.oclc.org/digital/api/singleitem/collection/p15878coll84/id/5004/thumbnail>
 
 Really fun collection! Why is this not showing up!
-[Browse - Harry Ransom Center Digital Collections](https://hrc.contentdm.oclc.org/digital/collection/p15878coll84/search)
+* **Link to site:** **[Browse - Harry Ransom Center Digital Collections](https://hrc.contentdm.oclc.org/digital/collection/p15878coll84/search)**

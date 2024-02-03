@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Weather
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[About Patterns - Designing Interfaces](http://designinginterfaces.com/About_Patterns)
+* **Link to site:** **[About Patterns - Designing Interfaces](http://designinginterfaces.com/About_Patterns)**

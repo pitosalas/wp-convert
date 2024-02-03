@@ -34,4 +34,4 @@ Those are some of my insights in assessing the trade-offs. Please tell me all
 the things I am missing!
 
 
-[Trade-off: Facebook vs. Ning](None)
+* **Link to site:** **[Trade-off: Facebook vs. Ning](None)**

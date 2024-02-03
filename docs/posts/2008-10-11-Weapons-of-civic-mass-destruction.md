@@ -43,4 +43,4 @@ science of persuation and we are watching two parties engaged in what amounts
 to **mutually assured destruction** ("MAD").
 
 
-[Weapons of civic mass destruction](None)
+* **Link to site:** **[Weapons of civic mass destruction](None)**

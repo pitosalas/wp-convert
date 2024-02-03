@@ -12,9 +12,10 @@ tags:
     - new-feature
     - howto
 ---
-<img src=https://www.banterly.net/content/images/2021/07/1200px-Git-logo.svg.png width="500">
+<img class="cover" src=https://www.banterly.net/content/images/2021/07/1200px-Git-logo.svg.png>
 
 
 
-(**Web site excerpt:** To my surprise, I recently found out about 2 new additions to the list of high-level commands: git restore and git switch) 
-[New in Git: switch and restore](https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/)
+* **Web site excerpt:** To my surprise, I recently found out about 2 new additions to the list of high-level commands: git restore and git switch
+
+* **Link to site:** **[New in Git: switch and restore](https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/)**

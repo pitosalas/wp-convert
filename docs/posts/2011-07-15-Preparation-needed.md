@@ -44,4 +44,4 @@ life's passion is to join or create a startup and have a really big impact on
 the world.
 
 
-[Preparation needed](None)
+* **Link to site:** **[Preparation needed](None)**

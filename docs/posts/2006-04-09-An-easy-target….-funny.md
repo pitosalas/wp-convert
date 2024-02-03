@@ -37,4 +37,4 @@ Bush](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/web
 >> Technorati Tags: [funny](<http://www.technorati.com/tag/funny>)
 
 
-[An easy target…. funny](None)
+* **Link to site:** **[An easy target…. funny](None)**

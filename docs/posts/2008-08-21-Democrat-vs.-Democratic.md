@@ -18,4 +18,4 @@ can't put my finger on why.
 Just wondering…
 
 
-[Democrat vs. Democratic](None)
+* **Link to site:** **[Democrat vs. Democratic](None)**

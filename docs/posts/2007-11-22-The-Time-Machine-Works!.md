@@ -22,4 +22,4 @@ I will wait just a little longer before committing to Leopard. It's one of
 those, if it aint broke then don't fix it kind of situations…
 
 
-[The Time Machine Works!](None)
+* **Link to site:** **[The Time Machine Works!](None)**

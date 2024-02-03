@@ -53,4 +53,4 @@ Just study the screen shot and imagine yourself an _80 year old, world war 2,
 ex-merchant marine_ who is trying to check his email. **Yikes**!
 
 
-[Vista new user experience not for the faint of heart](None)
+* **Link to site:** **[Vista new user experience not for the faint of heart](None)**

@@ -51,4 +51,4 @@ good, and he's so full of himself. I haven't looked at the games so I can just
 go by what the article says, but I liked what I read!
 
 
-[[GAMING] Article about game designer Jonathan Blow](None)
+* **Link to site:** **[[GAMING] Article about game designer Jonathan Blow](None)**

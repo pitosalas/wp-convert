@@ -6,7 +6,7 @@ link: "http://www.as220.org/fabacademy/program_info.html"
 cover: "" 
 date: 2021-04-06
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Program Information - Fab Academy at AS220 Labs - Providence, RI](http://www.as220.org/fabacademy/program_info.html)
+* **Link to site:** **[Program Information - Fab Academy at AS220 Labs - Providence, RI](http://www.as220.org/fabacademy/program_info.html)**

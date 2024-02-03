@@ -27,4 +27,4 @@ Torrent](<http://www.bittorent.com/>) and other clever file sharing
 technologies could be used as a force for good 🙂
 
 
-[Wonderful Mars pictures? Unavailable! I](None)
+* **Link to site:** **[Wonderful Mars pictures? Unavailable! I](None)**

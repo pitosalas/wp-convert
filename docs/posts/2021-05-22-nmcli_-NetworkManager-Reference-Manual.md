@@ -12,7 +12,7 @@ tags:
     - ubuntu
     - howto
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Fdeveloper.gnome.org%2FNetworkManager%2Fstable%2Fnmcli.html width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fdeveloper.gnome.org%2FNetworkManager%2Fstable%2Fnmcli.html>
 
 
-[nmcli: NetworkManager Reference Manual](https://developer.gnome.org/NetworkManager/stable/nmcli.html)
+* **Link to site:** **[nmcli: NetworkManager Reference Manual](https://developer.gnome.org/NetworkManager/stable/nmcli.html)**

@@ -15,4 +15,4 @@ Code T-Shirt, © Pito Salas, 2012. Let me know if you want to order one!
 content/uploads/2012/07/37b6f-screen20shot202012-07-1020at208-48-0020pm.png?resize=462%2C479&ssl=1)
 
 
-[T-Shirt Design](None)
+* **Link to site:** **[T-Shirt Design](None)**

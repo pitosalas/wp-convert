@@ -6,7 +6,7 @@ link: "https://github.com/jcoglan/presentations/blob/master/faye-rubyconf/style.
 cover: "" 
 date: 2021-04-06
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[faye-rubyconf/style.css at master from jcoglan's presentations - GitHub](https://github.com/jcoglan/presentations/blob/master/faye-rubyconf/style.css)
+* **Link to site:** **[faye-rubyconf/style.css at master from jcoglan's presentations - GitHub](https://github.com/jcoglan/presentations/blob/master/faye-rubyconf/style.css)**

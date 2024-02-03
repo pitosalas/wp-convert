@@ -11,9 +11,10 @@ tags:
     - package
     - ros-answer
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Fanswers.ros.org%2Fquestion%2F54178%2Fhow-to-build-just-one-package-using-catkin_make%2F width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fanswers.ros.org%2Fquestion%2F54178%2Fhow-to-build-just-one-package-using-catkin_make%2F>
 
 
 
-(**Web site excerpt:** How do I build just one package using catkin_make? I now that I can cd to the build directory and build there but that is inconvenient. And how do I build one package and its dependencies?) 
-[How to build just one package using catkin_make? - ROS Answers: Open Source Q&A Forum](https://answers.ros.org/question/54178/how-to-build-just-one-package-using-catkin_make/)
+* **Web site excerpt:** How do I build just one package using catkin_make? I now that I can cd to the build directory and build there but that is inconvenient. And how do I build one package and its dependencies?
+
+* **Link to site:** **[How to build just one package using catkin_make? - ROS Answers: Open Source Q&A Forum](https://answers.ros.org/question/54178/how-to-build-just-one-package-using-catkin_make/)**

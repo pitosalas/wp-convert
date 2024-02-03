@@ -23,4 +23,4 @@ Gazette](<http://www.applegazette.com>):
 > album-art/>))
 
 
-[Interesting ideas about using iTunes more effectively](None)
+* **Link to site:** **[Interesting ideas about using iTunes more effectively](None)**

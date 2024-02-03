@@ -13,9 +13,10 @@ tags:
     - index
     - query
 ---
-<img src=https://images.thoughtbot.com/blog-vellum-image-uploads/PbDCVAVRWCyg0dnx4KwC_PEV.png width="500">
+<img class="cover" src=https://images.thoughtbot.com/blog-vellum-image-uploads/PbDCVAVRWCyg0dnx4KwC_PEV.png>
 
 
 
-(**Web site excerpt:** What do you do when indexes aren’t enough?) 
-[Advanced Postgres Performance Tips](https://thoughtbot.com/blog/advanced-postgres-performance-tips)
+* **Web site excerpt:** What do you do when indexes aren’t enough?
+
+* **Link to site:** **[Advanced Postgres Performance Tips](https://thoughtbot.com/blog/advanced-postgres-performance-tips)**

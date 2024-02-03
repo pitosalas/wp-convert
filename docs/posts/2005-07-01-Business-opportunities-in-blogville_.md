@@ -107,4 +107,4 @@ product or just a feature?"
 [vc](<http://technorati.com/tag/vc>)
 
 
-[Business opportunities in blogville?](None)
+* **Link to site:** **[Business opportunities in blogville?](None)**

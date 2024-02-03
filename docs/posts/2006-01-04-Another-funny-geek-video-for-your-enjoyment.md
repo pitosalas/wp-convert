@@ -15,4 +15,4 @@ Sucks"](<http://www.deadtroll.com/index2.html?/video/ossuckscable.html~content>)
 >> Technorati Tags: [funny](<http://www.technorati.com/tag/funny>)
 
 
-[Another funny geek video for your enjoyment](None)
+* **Link to site:** **[Another funny geek video for your enjoyment](None)**

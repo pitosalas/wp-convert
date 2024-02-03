@@ -33,4 +33,4 @@ one to notice
 idol](<http://technorati.com/tag/american%20idol>)
 
 
-[Has Paula gotten Smarter?](None)
+* **Link to site:** **[Has Paula gotten Smarter?](None)**

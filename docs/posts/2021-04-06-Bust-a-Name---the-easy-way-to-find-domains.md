@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - dns name generator Weather
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fwww.bustaname.com width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.bustaname.com>
 
 
 
-(**Web site excerpt:** Generate dns names) 
-[Bust a Name - the easy way to find domains](http://www.bustaname.com)
+* **Web site excerpt:** Generate dns names
+
+* **Link to site:** **[Bust a Name - the easy way to find domains](http://www.bustaname.com)**

@@ -11,9 +11,10 @@ tags:
     - summarize
     - summary
 ---
-<img src=https://www.chatpdf.com/lord-of-the-flies.jpg width="500">
+<img class="cover" src=https://www.chatpdf.com/lord-of-the-flies.jpg>
 
 
 
-(**Web site excerpt:** ChatPDF is the fast and easy way to chat with any PDF, free and without sign-in. Talk to books, research papers, manuals, essays, legal contracts, whatever you have! The intelligence revolution is here, ChatGPT was just the beginning!) 
-[ChatPDF - Chat with any PDF!](https://www.chatpdf.com/)
+* **Web site excerpt:** ChatPDF is the fast and easy way to chat with any PDF, free and without sign-in. Talk to books, research papers, manuals, essays, legal contracts, whatever you have! The intelligence revolution is here, ChatGPT was just the beginning!
+
+* **Link to site:** **[ChatPDF - Chat with any PDF!](https://www.chatpdf.com/)**

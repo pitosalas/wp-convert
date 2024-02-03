@@ -40,4 +40,4 @@ to Windows XP. I hope that Apple is working with Tivo to address this!
 [tivo](<http://www.technorati.com/tag/tivo>)
 
 
-[Tivo will be able to transfer videos to Ipods… But…](None)
+* **Link to site:** **[Tivo will be able to transfer videos to Ipods… But…](None)**

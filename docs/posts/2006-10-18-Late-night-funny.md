@@ -15,4 +15,4 @@ date: 2006-10-18
 > powered by [performancing firefox](<http://performancing.com/firefox>)
 
 
-[Late night funny](None)
+* **Link to site:** **[Late night funny](None)**

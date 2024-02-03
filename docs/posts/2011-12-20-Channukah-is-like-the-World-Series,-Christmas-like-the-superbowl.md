@@ -31,4 +31,4 @@ He ends sweetly:
 (yeah, you heard me, I called Ned sweet 🙂
 
 
-[Channukah is like the World Series, Christmas like the superbowl](None)
+* **Link to site:** **[Channukah is like the World Series, Christmas like the superbowl](None)**

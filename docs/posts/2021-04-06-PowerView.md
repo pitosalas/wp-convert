@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Olin
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[PowerView](http://powerview.tumblr.com)
+* **Link to site:** **[PowerView](http://powerview.tumblr.com)**

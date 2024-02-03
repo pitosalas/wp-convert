@@ -13,9 +13,10 @@ tags:
     - gears
     - review
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Fciechanow.ski%2F width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fciechanow.ski%2F>
 
 
 
-(**Web site excerpt:** Interactive articles about physics, math, and engineering. Amazing explanations. Watches. Gears. Gps.) 
-[Bartosz Ciechanowski](https://ciechanow.ski/)
+* **Web site excerpt:** Interactive articles about physics, math, and engineering. Amazing explanations. Watches. Gears. Gps.
+
+* **Link to site:** **[Bartosz Ciechanowski](https://ciechanow.ski/)**

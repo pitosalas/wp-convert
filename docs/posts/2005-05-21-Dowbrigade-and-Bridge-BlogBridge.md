@@ -52,4 +52,4 @@ feeds. (from
 [blogbridge](<http://technorati.com/tag/blogbridge>)
 
 
-[Dowbrigade and Bridge BlogBridge](None)
+* **Link to site:** **[Dowbrigade and Bridge BlogBridge](None)**

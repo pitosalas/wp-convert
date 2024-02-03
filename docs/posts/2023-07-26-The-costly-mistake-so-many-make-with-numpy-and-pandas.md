@@ -11,9 +11,10 @@ tags:
     - perormance
     - python
 ---
-<img src=https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64b3a25c-f40a-42a5-baa8-d80f2a2a3e0c_966x966.png width="500">
+<img class="cover" src=https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64b3a25c-f40a-42a5-baa8-d80f2a2a3e0c_966x966.png>
 
 Really good performance tips for python, pandas and numpy.
 
-(**Web site excerpt:** What happens next() will shock you) 
-[The costly mistake so many make with numpy and pandas](https://open.substack.com/pub/bitecode/p/the-costly-mistake-so-many-makes?r=1slq0e&utm_medium=ios&utm_campaign=post)
+* **Web site excerpt:** What happens next() will shock you
+
+* **Link to site:** **[The costly mistake so many make with numpy and pandas](https://open.substack.com/pub/bitecode/p/the-costly-mistake-so-many-makes?r=1slq0e&utm_medium=ios&utm_campaign=post)**

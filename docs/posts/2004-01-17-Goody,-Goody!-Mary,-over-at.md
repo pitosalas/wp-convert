@@ -25,4 +25,4 @@ lately](<http://www.blogbridge.com>) has been using
 WindowsXP looking UI with Swing actually possible. No small feat.
 
 
-[Goody, Goody! Mary, over at](None)
+* **Link to site:** **[Goody, Goody! Mary, over at](None)**

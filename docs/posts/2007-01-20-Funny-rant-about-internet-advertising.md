@@ -28,4 +28,4 @@ date: 2007-01-20
 >  Internet Ads](<http://get.wis.dm/danielsalas/?p=56>))
 
 
-[Funny rant about internet advertising](None)
+* **Link to site:** **[Funny rant about internet advertising](None)**

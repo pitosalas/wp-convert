@@ -18,4 +18,4 @@ you care to listen in.
 >> Technorati Tags: [conference](<http://www.technorati.com/tag/conference>)
 
 
-[Pop!Tech starts tonight](None)
+* **Link to site:** **[Pop!Tech starts tonight](None)**

@@ -25,4 +25,4 @@ the right margin using [Grazr](<http://www.grazr.com/>) a nice, embedable OPML
 [opmlcamp](<http://www.technorati.com/tag/opmlcamp>)
 
 
-[Agenda for OPML Camp coming together](None)
+* **Link to site:** **[Agenda for OPML Camp coming together](None)**

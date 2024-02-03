@@ -12,9 +12,10 @@ tags:
     - rails
     - ruby
 ---
-<img src=https://cdn-images-1.medium.com/fit/t/12000/8000/0*SSL_6pgT7UBO6X5F width="500">
+<img class="cover" src=https://cdn-images-1.medium.com/fit/t/12000/8000/0*SSL_6pgT7UBO6X5F>
 
 
 
-(**Web site excerpt:** Super useful new gem that lets you get rails like auto loading in any ruby program) 
-[Understanding Zeitwerk in Rails 6](https://link.medium.com/4v0KyHERq0)
+* **Web site excerpt:** Super useful new gem that lets you get rails like auto loading in any ruby program
+
+* **Link to site:** **[Understanding Zeitwerk in Rails 6](https://link.medium.com/4v0KyHERq0)**

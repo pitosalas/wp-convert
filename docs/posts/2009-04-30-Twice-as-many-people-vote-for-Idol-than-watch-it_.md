@@ -30,4 +30,4 @@ idol](<http://technorati.com/tag/american%20idol>),
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[Twice as many people vote for Idol than watch it?](None)
+* **Link to site:** **[Twice as many people vote for Idol than watch it?](None)**

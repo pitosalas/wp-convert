@@ -34,4 +34,4 @@ from [ReadWriteWeb](<http://www.readwriteweb.com/>):
 > Standards](<http://feeds.feedburner.com/~r/readwriteweb/~3/248047977/your_email_password_a_true_hor.php>))
 
 
-[A True Horror Story About Why We Need Authentication Standards](None)
+* **Link to site:** **[A True Horror Story About Why We Need Authentication Standards](None)**

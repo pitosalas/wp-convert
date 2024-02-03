@@ -47,4 +47,4 @@ effect you want is that Facebook folks look and say, "Hey we should have
 developed that."
 
 
-[Is Facebook the new Google of acquisition-lust?](None)
+* **Link to site:** **[Is Facebook the new Google of acquisition-lust?](None)**

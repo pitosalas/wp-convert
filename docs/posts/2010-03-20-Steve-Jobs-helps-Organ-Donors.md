@@ -13,4 +13,4 @@ registry](<http://www.mercurynews.com/breaking-news/ci_14714795>)
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[Steve Jobs helps Organ Donors](None)
+* **Link to site:** **[Steve Jobs helps Organ Donors](None)**

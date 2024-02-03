@@ -89,4 +89,4 @@ across](<http://customwire.ap.org/dynamic/stories/D/DIGITAL_PHOTO_SHARING?SITE=O
 that goes into more objective detail.
 
 
-[New in the world of](None)
+* **Link to site:** **[New in the world of](None)**

@@ -24,4 +24,4 @@ Technorati Tags: [rails](<http://technorati.com/tag/rails>),
 [programming](<http://technorati.com/tag/programming>)
 
 
-[[GEEKY] Interesting article about code leaks](None)
+* **Link to site:** **[[GEEKY] Interesting article about code leaks](None)**

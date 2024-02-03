@@ -32,4 +32,4 @@ screen is too small: Solution: **I guess I need a Kindle.** Genius.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[Amazon’s kindle on iPhone – Genius](None)
+* **Link to site:** **[Amazon’s kindle on iPhone – Genius](None)**

@@ -11,4 +11,4 @@ Welcome to Kagi (pronounced kah-gee), a paid search engine that gives power
 back to the user.
 
 
-[Kagi Search](None)
+* **Link to site:** **[Kagi Search](None)**

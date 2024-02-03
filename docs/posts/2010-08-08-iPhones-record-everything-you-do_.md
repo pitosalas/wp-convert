@@ -25,4 +25,4 @@ exit from the Mapping application? Sounds far fetched? Capturing all the text
 you type in to improve spell check? Hmm.Not that I have anything to hide 😉
 
 
-[iPhones record everything you do?](None)
+* **Link to site:** **[iPhones record everything you do?](None)**

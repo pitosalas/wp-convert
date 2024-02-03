@@ -31,4 +31,4 @@ interesting.
 >> Technorati Tags: [corantessa](<http://www.technorati.com/tag/corantessa>)
 
 
-[Interesting Wired article about War Blogs](None)
+* **Link to site:** **[Interesting Wired article about War Blogs](None)**

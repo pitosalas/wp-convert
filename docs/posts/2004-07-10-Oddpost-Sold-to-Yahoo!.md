@@ -28,4 +28,4 @@ Safari to be better integrated and interoperable with OSX? People are worried
 about the **divergence of standards**.
 
 
-[Oddpost Sold to Yahoo!](None)
+* **Link to site:** **[Oddpost Sold to Yahoo!](None)**

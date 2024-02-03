@@ -16,4 +16,4 @@ interesting will happen 🙂
   * I have a 4 year old iMac G4 notebook. I wonder if Leopard will like it.
 
 
-[Finally updating to Leopard](None)
+* **Link to site:** **[Finally updating to Leopard](None)**

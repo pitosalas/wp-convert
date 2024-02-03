@@ -15,4 +15,4 @@ wonderful "Star Wars"-class visuals but as an overall story and movie
 experience, well, it was fine. Not even as good as Toy Story. Sorry.
 
 
-[Heresy: Wall-E just so-so](None)
+* **Link to site:** **[Heresy: Wall-E just so-so](None)**

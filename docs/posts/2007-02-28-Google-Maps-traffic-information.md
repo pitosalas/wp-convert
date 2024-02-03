@@ -16,4 +16,4 @@ information-240397.php>) from [Lifehacker](<http://www.lifehacker.com>):
 > maps/google-maps-traffic-information-240397.php>)
 
 
-[Google Maps traffic information](None)
+* **Link to site:** **[Google Maps traffic information](None)**

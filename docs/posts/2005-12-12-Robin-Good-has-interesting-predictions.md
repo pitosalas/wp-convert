@@ -30,4 +30,4 @@ Bring](<http://www.masternewmedia.org/predictions/predictions_2006/new_media_pre
 [media](<http://www.technorati.com/tag/media>)
 
 
-[Robin Good has interesting predictions](None)
+* **Link to site:** **[Robin Good has interesting predictions](None)**

@@ -45,4 +45,4 @@ to customers, and looking at it that way, clearly **Apple gets props** over
 Microsoft.
 
 
-[Who thought of it first? Who cares?](None)
+* **Link to site:** **[Who thought of it first? Who cares?](None)**

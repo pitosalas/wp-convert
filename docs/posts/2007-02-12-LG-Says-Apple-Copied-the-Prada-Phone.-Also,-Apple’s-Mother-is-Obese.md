@@ -31,4 +31,4 @@ Obese](<http://gizmodo.com/gadgets/cellphones/lg-says-apple-copied-the-prada-
 phone-also-apples-mother-is-obese-235933.php>))
 
 
-[LG Says Apple Copied the Prada Phone. Also, Apple’s Mother is Obese](None)
+* **Link to site:** **[LG Says Apple Copied the Prada Phone. Also, Apple’s Mother is Obese](None)**

@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - elections ballots design
 ---
-<img src=http://www.aiga.org/Static/images/AIGA_logo_300.png width="500">
+<img class="cover" src=http://www.aiga.org/Static/images/AIGA_logo_300.png>
 
 
 
-(**Web site excerpt:** Design standards for legible ballots) 
-[Ballot and polling place design guidelines](https://www.aiga.org/design-for-democracy-eac-reports)
+* **Web site excerpt:** Design standards for legible ballots
+
+* **Link to site:** **[Ballot and polling place design guidelines](https://www.aiga.org/design-for-democracy-eac-reports)**

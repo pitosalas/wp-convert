@@ -9,7 +9,7 @@ tags:
     - opencv
     - FOOBAR
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Fdocs.opencv.org%2F4.x%2F width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fdocs.opencv.org%2F4.x%2F>
 
 
-[OpenCV: OpenCV modules](https://docs.opencv.org/4.x/)
+* **Link to site:** **[OpenCV: OpenCV modules](https://docs.opencv.org/4.x/)**

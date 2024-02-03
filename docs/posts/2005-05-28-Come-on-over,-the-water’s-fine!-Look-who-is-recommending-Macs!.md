@@ -86,4 +86,4 @@ conclusion...")
 [microsoft](<http://technorati.com/tag/microsoft>)
 
 
-[Come on over, the water’s fine! Look who is recommending Macs!](None)
+* **Link to site:** **[Come on over, the water’s fine! Look who is recommending Macs!](None)**

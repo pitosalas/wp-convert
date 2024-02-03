@@ -26,4 +26,4 @@ from [ReadWriteWeb](<http://www.readwriteweb.com/>):
 > Overhaul](<http://feeds.feedburner.com/~r/readwriteweb/~3/243203058/lifestreaming_comes_to_yahoo.php>))
 
 
-[Do I need yet another site doing life streaming?](None)
+* **Link to site:** **[Do I need yet another site doing life streaming?](None)**

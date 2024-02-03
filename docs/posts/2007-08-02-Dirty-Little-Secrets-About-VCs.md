@@ -17,4 +17,4 @@ his new blog [Innovation Economy](<http://www.innoeco.com/>)
 > VCs](<http://www.innoeco.com/2007/08/dirty-little-secrets-about-vcs.html>))
 
 
-[Dirty Little Secrets About VCs](None)
+* **Link to site:** **[Dirty Little Secrets About VCs](None)**

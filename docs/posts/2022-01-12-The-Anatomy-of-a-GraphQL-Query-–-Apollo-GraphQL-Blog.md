@@ -15,4 +15,4 @@ graphql-query/>)
 January 12, 2022 at 04:42PM
 
 
-[The Anatomy of a GraphQL Query – Apollo GraphQL Blog](None)
+* **Link to site:** **[The Anatomy of a GraphQL Query – Apollo GraphQL Blog](None)**

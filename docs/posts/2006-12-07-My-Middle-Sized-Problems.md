@@ -18,4 +18,4 @@ date: 2006-12-07
 > Funny as usual! You should really follow this blog!
 
 
-[My Middle-Sized Problems](None)
+* **Link to site:** **[My Middle-Sized Problems](None)**

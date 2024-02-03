@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - rails development tools
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Frailsapps.github.io%2Frails-composer width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Frailsapps.github.io%2Frails-composer>
 
 
 
-(**Web site excerpt:** Skeleton of a rails app) 
-[Rails Composer · RailsApps](http://railsapps.github.io/rails-composer)
+* **Web site excerpt:** Skeleton of a rails app
+
+* **Link to site:** **[Rails Composer · RailsApps](http://railsapps.github.io/rails-composer)**

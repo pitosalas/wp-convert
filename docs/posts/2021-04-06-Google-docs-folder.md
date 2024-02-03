@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Olin
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Google docs folder](https://drive.google.com/#folders/0B_r8qvL1EWeceGVsMTVmNjRSVUk)
+* **Link to site:** **[Google docs folder](https://drive.google.com/#folders/0B_r8qvL1EWeceGVsMTVmNjRSVUk)**

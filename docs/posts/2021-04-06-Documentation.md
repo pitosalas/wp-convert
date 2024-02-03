@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - graph diagram graphviz
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Fwww.graphviz.org%2Fdocumentation width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.graphviz.org%2Fdocumentation>
 
 
-[Documentation](https://www.graphviz.org/documentation)
+* **Link to site:** **[Documentation](https://www.graphviz.org/documentation)**

@@ -28,4 +28,4 @@ Atlantic](<http://www.theatlantic.com/>) or [New
 Yorker](<http://www.newyorker.com/>) or [Salon](<http://www.salon.com/>)?
 
 
-[Where can I find non-shrill political coverage?](None)
+* **Link to site:** **[Where can I find non-shrill political coverage?](None)**

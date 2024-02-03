@@ -26,4 +26,4 @@ and-after-shots-of-jogg>)
 > jogg>)
 
 
-[Cool Photography](None)
+* **Link to site:** **[Cool Photography](None)**

@@ -23,4 +23,4 @@ of the technology platform
 >>
 
 
-[[JAVAONE] Worldwide gathering of the Java faithful](None)
+* **Link to site:** **[[JAVAONE] Worldwide gathering of the Java faithful](None)**

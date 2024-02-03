@@ -51,4 +51,4 @@ launcher, and **Konfabulator** , a visual trinkets app.
 GetAnagram**
 
 
-[Switcher’s Log, Part 4: So what software DO I use on Mac?](None)
+* **Link to site:** **[Switcher’s Log, Part 4: So what software DO I use on Mac?](None)**

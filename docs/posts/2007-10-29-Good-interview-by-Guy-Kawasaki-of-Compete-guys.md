@@ -11,4 +11,4 @@ If you are interested in SEO, there are some good facts and factoids in this
 guys](<http://blog.guykawasaki.com/2007/10/ten-questions-2.html>).
 
 
-[Good interview by Guy Kawasaki of Compete guys](None)
+* **Link to site:** **[Good interview by Guy Kawasaki of Compete guys](None)**

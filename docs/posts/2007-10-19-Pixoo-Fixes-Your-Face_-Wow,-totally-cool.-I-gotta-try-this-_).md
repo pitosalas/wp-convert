@@ -17,4 +17,4 @@ Check out [this post](<http://mashable.com/2007/10/18/pixoo/>) from
 > (from: [Pixoo Fixes Your Face](<http://mashable.com/2007/10/18/pixoo/>))
 
 
-[Pixoo Fixes Your Face: Wow, totally cool. I gotta try this :)](None)
+* **Link to site:** **[Pixoo Fixes Your Face: Wow, totally cool. I gotta try this :)](None)**

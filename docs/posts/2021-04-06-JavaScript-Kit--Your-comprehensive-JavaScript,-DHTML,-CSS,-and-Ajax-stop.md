@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - javascript reference programming
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fwww.javascriptkit.com width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.javascriptkit.com>
 
 
 
-(**Web site excerpt:** Your comprehensive JavaScript, DHTML, CSS, and Ajax stop) 
-[JavaScript Kit- Your comprehensive JavaScript, DHTML, CSS, and Ajax stop](http://www.javascriptkit.com)
+* **Web site excerpt:** Your comprehensive JavaScript, DHTML, CSS, and Ajax stop
+
+* **Link to site:** **[JavaScript Kit- Your comprehensive JavaScript, DHTML, CSS, and Ajax stop](http://www.javascriptkit.com)**

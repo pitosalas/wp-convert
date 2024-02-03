@@ -29,4 +29,4 @@ that the PR value of _**open sourcing**_ these worthless patents might
 actually be the most valuable of all!
 
 
-[IBM Patent Benevolence?](None)
+* **Link to site:** **[IBM Patent Benevolence?](None)**

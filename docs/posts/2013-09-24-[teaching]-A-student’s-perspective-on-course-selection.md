@@ -35,4 +35,4 @@ over](<http://thebrandeishoot.com/articles/13482>):
 
 
 
-[[teaching] A student’s perspective on course selection](None)
+* **Link to site:** **[[teaching] A student’s perspective on course selection](None)**

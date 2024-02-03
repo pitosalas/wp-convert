@@ -19,4 +19,4 @@ scenario:](<http://www.boston.com/business/technology/innoeco/2010/04/new_book_d
 Ok, not really funny. More ~~sad~~ ~~depressing~~ ~~poignant~~ familiar…
 
 
-[Bring me different rocks](None)
+* **Link to site:** **[Bring me different rocks](None)**

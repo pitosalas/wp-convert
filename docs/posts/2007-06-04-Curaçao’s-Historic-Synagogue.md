@@ -25,4 +25,4 @@ synagogue.](<http://www.forward.com/articles/a-birthday-celebration-for-
 curacao-s-historic-sy/>)
 
 
-[Curaçao’s Historic Synagogue](None)
+* **Link to site:** **[Curaçao’s Historic Synagogue](None)**

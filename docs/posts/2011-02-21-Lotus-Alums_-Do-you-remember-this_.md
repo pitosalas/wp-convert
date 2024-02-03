@@ -13,4 +13,4 @@ tags:
 content/uploads/2011/02/45492-visonary.jpg?resize=298%2C236&ssl=1)
 
 
-[Lotus Alums: Do you remember this?](None)
+* **Link to site:** **[Lotus Alums: Do you remember this?](None)**

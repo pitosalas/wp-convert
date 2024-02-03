@@ -76,4 +76,4 @@ had gone; I wish I could use a richer editor to create my posts; I wish… I
 wish …; I wish)
 
 
-[I want RSS to disappear.](None)
+* **Link to site:** **[I want RSS to disappear.](None)**

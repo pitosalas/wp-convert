@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - prototyping design tool
 ---
-<img src=http://marketing.invisionapp-cdn.com/www.invisionapp.com/global-assets/social/InVision-share.jpg width="500">
+<img class="cover" src=http://marketing.invisionapp-cdn.com/www.invisionapp.com/global-assets/social/InVision-share.jpg>
 
 
 
-(**Web site excerpt:** Turn individual screen mockups into a flow. Very simple. Free.) 
-[Free Web & Mobile Mockup and UI Prototyping Tool](http://www.invisionapp.com)
+* **Web site excerpt:** Turn individual screen mockups into a flow. Very simple. Free.
+
+* **Link to site:** **[Free Web & Mobile Mockup and UI Prototyping Tool](http://www.invisionapp.com)**

@@ -34,4 +34,4 @@ here!](<http://www.blogbridge.com/archives/2006/06/announcing_blog_2.php>)
 [library](<http://www.technorati.com/tag/library>)
 
 
-[Yeah, we’re building another product](None)
+* **Link to site:** **[Yeah, we’re building another product](None)**

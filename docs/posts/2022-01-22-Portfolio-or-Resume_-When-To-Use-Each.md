@@ -11,9 +11,10 @@ tags:
     - resume
     - careers
 ---
-<img src=https://images.ctfassets.net/pdf29us7flmy/5ujVW5yjZRvkeqUoVH1unL/80f081cb334f2543d2986824652b9f85/5.svg?w=1242 width="500">
+<img class="cover" src=https://images.ctfassets.net/pdf29us7flmy/5ujVW5yjZRvkeqUoVH1unL/80f081cb334f2543d2986824652b9f85/5.svg?w=1242>
 
 
 
-(**Web site excerpt:** Learn when to use a portfolio versus when to use a resume when you're searching for a job, and what the differences are between them.) 
-[Portfolio or Resume? When To Use Each](https://www.indeed.com/career-advice/resumes-cover-letters/portfolio-vs-resume)
+* **Web site excerpt:** Learn when to use a portfolio versus when to use a resume when you're searching for a job, and what the differences are between them.
+
+* **Link to site:** **[Portfolio or Resume? When To Use Each](https://www.indeed.com/career-advice/resumes-cover-letters/portfolio-vs-resume)**

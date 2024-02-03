@@ -37,4 +37,4 @@ it's really clear where that code snippet is from. So I agree with this post
 _Originally posted on Oct 23, 2009. Reprinted courtesy of ReRuns plug-in._
 
 
-[Sequoia Voting System Witch Hunt, err… Study Project](None)
+* **Link to site:** **[Sequoia Voting System Witch Hunt, err… Study Project](None)**

@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - icons buying
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fwww.777icons.com width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.777icons.com>
 
 
 
-(**Web site excerpt:** Site to get icons) 
-[Ready Windows Icon Collections](http://www.777icons.com)
+* **Web site excerpt:** Site to get icons
+
+* **Link to site:** **[Ready Windows Icon Collections](http://www.777icons.com)**

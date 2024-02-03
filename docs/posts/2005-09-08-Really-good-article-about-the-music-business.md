@@ -48,4 +48,4 @@ musician is by signing a recording contract with a giant corporation." (from
 >> Technorati Tags: [music](<http://www.technorati.com/tag/music>)
 
 
-[Really good article about the music business](None)
+* **Link to site:** **[Really good article about the music business](None)**

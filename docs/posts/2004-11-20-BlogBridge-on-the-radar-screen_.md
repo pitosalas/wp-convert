@@ -13,4 +13,4 @@ column where they periodically highlight cool application that, I guess, are
 good examples of what can be done with Java on the desktop. Thanks!
 
 
-[BlogBridge on the radar screen?](None)
+* **Link to site:** **[BlogBridge on the radar screen?](None)**

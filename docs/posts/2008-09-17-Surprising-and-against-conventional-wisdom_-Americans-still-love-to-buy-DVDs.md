@@ -19,4 +19,4 @@ to-buy-dvds>) in Silicon Alley Insider:
 Interesting article. I wonder, what about music CDs?
 
 
-[Surprising and against conventional wisdom: Americans still love to buy DVDs](None)
+* **Link to site:** **[Surprising and against conventional wisdom: Americans still love to buy DVDs](None)**

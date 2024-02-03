@@ -20,4 +20,4 @@ about.
 Check out [Wikipedia Vision ](<http://www.lkozma.net/wpv/index.html>)
 
 
-[Wikipedia on a map](None)
+* **Link to site:** **[Wikipedia on a map](None)**

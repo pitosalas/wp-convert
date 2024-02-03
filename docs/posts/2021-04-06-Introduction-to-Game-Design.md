@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - games
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Introduction to Game Design](http://people.sc.fsu.edu/~gerlebacher/course/game_design_f2010/index.html)
+* **Link to site:** **[Introduction to Game Design](http://people.sc.fsu.edu/~gerlebacher/course/game_design_f2010/index.html)**

@@ -34,4 +34,4 @@ complete? Say "Yes, Thanks" and then hang up? Or am I being a rude, impatient,
 always in a hurry northeasterner?
 
 
-[Customer Service Ceremonies](None)
+* **Link to site:** **[Customer Service Ceremonies](None)**

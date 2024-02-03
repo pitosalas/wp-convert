@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - patterns architecture
 ---
-<img src=https://miro.medium.com/max/1039/1*M22DR3WPqbWXWidYIq2GwA.png width="500">
+<img class="cover" src=https://miro.medium.com/max/1039/1*M22DR3WPqbWXWidYIq2GwA.png>
 
 
 
-(**Web site excerpt:** This is a novel set of higher level patterns. Not novel patterns, but different from all the lists of patterns that I've seen which makes this one especially interesting!) 
-[10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
+* **Web site excerpt:** This is a novel set of higher level patterns. Not novel patterns, but different from all the lists of patterns that I've seen which makes this one especially interesting!
+
+* **Link to site:** **[10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)**

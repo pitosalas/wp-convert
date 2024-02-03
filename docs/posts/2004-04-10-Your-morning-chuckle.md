@@ -17,4 +17,4 @@ and you can read her post for the thoughtful commentary on this.
 Chicken](<http://subservientchicken.com/>)
 
 
-[Your morning chuckle](None)
+* **Link to site:** **[Your morning chuckle](None)**

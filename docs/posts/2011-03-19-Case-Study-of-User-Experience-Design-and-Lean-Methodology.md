@@ -20,4 +20,4 @@ design-and-food-on-table.html>)
 > and-food-on-table.html>))
 
 
-[Case Study of User Experience Design and Lean Methodology](None)
+* **Link to site:** **[Case Study of User Experience Design and Lean Methodology](None)**

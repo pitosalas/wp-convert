@@ -39,4 +39,4 @@ content/uploads/2011/11/63af6-12439792-15047898-thumbnail.jpg?w=584&ssl=1)](<Y.S
 generation
 
 
-[Game Design: Tiled Game Boards](None)
+* **Link to site:** **[Game Design: Tiled Game Boards](None)**

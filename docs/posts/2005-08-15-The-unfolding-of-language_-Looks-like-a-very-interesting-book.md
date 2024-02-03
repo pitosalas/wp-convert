@@ -36,4 +36,4 @@ Unfolding of Language"](<http://www.worldwidewords.org/reviews/re-unf1.htm>))
 >> Technorati Tags: [book](<http://technorati.com/tag/book>)
 
 
-[The unfolding of language: Looks like a very interesting book](None)
+* **Link to site:** **[The unfolding of language: Looks like a very interesting book](None)**

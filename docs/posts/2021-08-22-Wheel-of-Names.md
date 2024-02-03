@@ -13,9 +13,10 @@ tags:
     - zoom
     - random
 ---
-<img src=https://wheelofnames.com/images/fb-screenshot.png width="500">
+<img class="cover" src=https://wheelofnames.com/images/fb-screenshot.png>
 
 
 
-(**Web site excerpt:** Enter names, spin wheel to pick a random winner. Customize look and feel, save and share wheels.) 
-[Wheel of Names](https://wheelofnames.com/#)
+* **Web site excerpt:** Enter names, spin wheel to pick a random winner. Customize look and feel, save and share wheels.
+
+* **Link to site:** **[Wheel of Names](https://wheelofnames.com/#)**

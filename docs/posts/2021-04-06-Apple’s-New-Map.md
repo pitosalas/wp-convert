@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - apple maps
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Fwww.justinobeirne.com%2Fnew-apple-maps width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.justinobeirne.com%2Fnew-apple-maps>
 
 
 
-(**Web site excerpt:** An exhaustive analysis of apple maps.) 
-[Apple’s New Map](https://www.justinobeirne.com/new-apple-maps)
+* **Web site excerpt:** An exhaustive analysis of apple maps.
+
+* **Link to site:** **[Apple’s New Map](https://www.justinobeirne.com/new-apple-maps)**

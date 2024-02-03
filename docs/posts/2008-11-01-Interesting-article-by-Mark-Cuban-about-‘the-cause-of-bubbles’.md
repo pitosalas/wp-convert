@@ -22,4 +22,4 @@ cause-of-bubbles-investment-vs-financial-engineering/>)  (IMO):
 > investment-vs-financial-engineering/>))
 
 
-[Interesting article by Mark Cuban about ‘the cause of bubbles’](None)
+* **Link to site:** **[Interesting article by Mark Cuban about ‘the cause of bubbles’](None)**

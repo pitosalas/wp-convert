@@ -9,7 +9,7 @@ tags:
     - oppenheimer
     - history
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Fwww.osti.gov%2Fopennet%2Fhearing width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.osti.gov%2Fopennet%2Fhearing>
 
 More about oppenheimer
-[Department of Energy (DOE) OpenNet documents](https://www.osti.gov/opennet/hearing)
+* **Link to site:** **[Department of Energy (DOE) OpenNet documents](https://www.osti.gov/opennet/hearing)**

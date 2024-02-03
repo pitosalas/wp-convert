@@ -30,4 +30,4 @@ interesting commentary:
 > browser-takes-page-out-of-microsoft-book-link-and-lever>))
 
 
-[So it’s true: Google is releasing a new browser to compete with IE and FireFox](None)
+* **Link to site:** **[So it’s true: Google is releasing a new browser to compete with IE and FireFox](None)**

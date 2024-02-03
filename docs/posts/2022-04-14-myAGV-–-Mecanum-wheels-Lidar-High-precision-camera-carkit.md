@@ -17,4 +17,4 @@ Control mode: autonomous navigation, handle control, keyboard control, etc.
 April 14, 2022 at 02:38PM
 
 
-[myAGV – Mecanum wheels Lidar High-precision camera carkit](None)
+* **Link to site:** **[myAGV – Mecanum wheels Lidar High-precision camera carkit](None)**

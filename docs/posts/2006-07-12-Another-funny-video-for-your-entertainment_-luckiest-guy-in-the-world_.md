@@ -16,4 +16,4 @@ hope you are as lucky as this dude!!!
 >> Technorati Tags: [funny](<http://www.technorati.com/tag/funny>)
 
 
-[Another funny video for your entertainment: luckiest guy in the world?](None)
+* **Link to site:** **[Another funny video for your entertainment: luckiest guy in the world?](None)**

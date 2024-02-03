@@ -45,4 +45,4 @@ else's content."
 [strategy](<http://technorati.com/tag/strategy>)
 
 
-[Making money with aggregators](None)
+* **Link to site:** **[Making money with aggregators](None)**

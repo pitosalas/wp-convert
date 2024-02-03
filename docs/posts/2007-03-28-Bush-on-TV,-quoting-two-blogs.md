@@ -14,4 +14,4 @@ anything about where the flowery quotes come from. Still it's a sign of the
 stature that blogs are getting in the public discourse.
 
 
-[Bush on TV, quoting two blogs](None)
+* **Link to site:** **[Bush on TV, quoting two blogs](None)**

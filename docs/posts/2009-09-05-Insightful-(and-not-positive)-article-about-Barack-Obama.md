@@ -24,4 +24,4 @@ contains some useful insights 🙂
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[Insightful (and not positive) article about Barack Obama](None)
+* **Link to site:** **[Insightful (and not positive) article about Barack Obama](None)**

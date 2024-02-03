@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - quotes quotations reference research
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fquoteinvestigator.com width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fquoteinvestigator.com>
 
 
 
-(**Web site excerpt:** Cool tool to lookup quotes) 
-[Quote Investigator | Dedicated to tracing quotations](http://quoteinvestigator.com)
+* **Web site excerpt:** Cool tool to lookup quotes
+
+* **Link to site:** **[Quote Investigator | Dedicated to tracing quotations](http://quoteinvestigator.com)**

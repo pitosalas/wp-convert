@@ -31,4 +31,4 @@ like a Predator UAV. [From the Iraq Tag on
 Flickr](<http://www.flickr.com/photos/tags/iraq/>). Classified? Who knows!
 
 
-[Is this picture classified?](None)
+* **Link to site:** **[Is this picture classified?](None)**

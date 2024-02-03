@@ -19,4 +19,4 @@ not be ready to us. (Our instructions need to be improved!)
 BlogBridge service will not be available to you!
 
 
-[[BlogBridge Tip] Activate your BlogBridge service account](None)
+* **Link to site:** **[[BlogBridge Tip] Activate your BlogBridge service account](None)**

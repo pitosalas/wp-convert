@@ -29,4 +29,4 @@ less willing to jump in an support positive but vague sounding causes.
 So I am not ready to jump in with both feet into Mayday.Us.
 
 
-[It’s probably not cool to say, but I am not sure about “Mayday.Us”](None)
+* **Link to site:** **[It’s probably not cool to say, but I am not sure about “Mayday.Us”](None)**

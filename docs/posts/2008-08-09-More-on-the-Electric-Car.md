@@ -28,4 +28,4 @@ Does cast another light on the whole EV-1 story. Now I want a
 [**Volt**](<http://en.wikipedia.org/wiki/Chevrolet_Volt>)!
 
 
-[More on the Electric Car](None)
+* **Link to site:** **[More on the Electric Car](None)**

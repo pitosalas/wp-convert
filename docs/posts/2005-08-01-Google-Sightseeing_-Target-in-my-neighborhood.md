@@ -29,4 +29,4 @@ neighborhood](<http://maps.google.com/maps?q=02474&ll=42.398932,-71.072949&spn=0
 [maps](<http://technorati.com/tag/maps>)
 
 
-[Google Sightseeing: Target in my neighborhood](None)
+* **Link to site:** **[Google Sightseeing: Target in my neighborhood](None)**

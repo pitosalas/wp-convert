@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - javascript links resources
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[ericelliott/essential-javascript-links](https://github.com/ericelliott/essential-javascript-links)
+* **Link to site:** **[ericelliott/essential-javascript-links](https://github.com/ericelliott/essential-javascript-links)**

@@ -14,4 +14,4 @@ of the point. I don’t look polite. I am big and droopy and need a haircut. No
 soul would associate me with watercress sandwiches.
 
 
-[Worth reading: How to Be Polite — The Message — Medium](None)
+* **Link to site:** **[Worth reading: How to Be Polite — The Message — Medium](None)**

@@ -40,4 +40,4 @@ And all else being equal, we prefer to enjoy ourselves along the way."
 is that not just perfect?
 
 
-[Great new book on Object Oriented design (in Ruby)](None)
+* **Link to site:** **[Great new book on Object Oriented design (in Ruby)](None)**

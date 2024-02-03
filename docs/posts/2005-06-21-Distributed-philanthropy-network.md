@@ -29,4 +29,4 @@ ModestNeeds phenomenon and its implications." (from Deborah Finn)
 >> Technorati Tags: [philantropy](<http://technorati.com/tag/philantropy>)
 
 
-[Distributed philanthropy network](None)
+* **Link to site:** **[Distributed philanthropy network](None)**

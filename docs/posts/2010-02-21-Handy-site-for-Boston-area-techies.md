@@ -17,4 +17,4 @@ something similar but seems more focused on up and coming entrepreneurs.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[Handy site for Boston area techies](None)
+* **Link to site:** **[Handy site for Boston area techies](None)**

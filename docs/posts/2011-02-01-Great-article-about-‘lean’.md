@@ -62,4 +62,4 @@ World](<http://www.oreillygmt.eu/interview/fatboy-in-a-lean-world/>) and also
 check out the links in the footnotes. More good stuff.
 
 
-[Great article about ‘lean’](None)
+* **Link to site:** **[Great article about ‘lean’](None)**

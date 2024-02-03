@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - german russian watches
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Fwww.poljot24.de%2Fen%2Fautomatik-uhren.html width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.poljot24.de%2Fen%2Fautomatik-uhren.html>
 
 
-[German russian watches](https://www.poljot24.de/en/automatik-uhren.html)
+* **Link to site:** **[German russian watches](https://www.poljot24.de/en/automatik-uhren.html)**

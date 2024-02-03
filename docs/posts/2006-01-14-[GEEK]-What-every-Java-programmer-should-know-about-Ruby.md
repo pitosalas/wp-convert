@@ -24,4 +24,4 @@ Ruby"](<http://onestepback.org/articles/10things/index.html>))
 >> Technorati Tags: [ruby](<http://www.technorati.com/tag/ruby>)
 
 
-[[GEEK] What every Java programmer should know about Ruby](None)
+* **Link to site:** **[[GEEK] What every Java programmer should know about Ruby](None)**

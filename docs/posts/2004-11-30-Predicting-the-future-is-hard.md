@@ -38,4 +38,4 @@ site.](<http://www.snopes.com/inboxer/hoaxes/computer.asp>) The big steering
 wheel should have been the tip-off.**
 
 
-[Predicting the future is hard](None)
+* **Link to site:** **[Predicting the future is hard](None)**

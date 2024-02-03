@@ -15,9 +15,10 @@ tags:
     - cosi105
     - explainer
 ---
-<img src=https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_220411_216ppi_02_RubyExecutionModels.jpg?v=1653485716 width="500">
+<img class="cover" src=https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_220411_216ppi_02_RubyExecutionModels.jpg?v=1653485716>
 
 
 
-(**Web site excerpt:** An in-depth look at threads vs processes in Ruby web applications, and when you should use each.) 
-[To Thread or Not to Thread: An In-Depth Look at Ruby’s Execution Models](https://shopify.engineering/ruby-execution-models)
+* **Web site excerpt:** An in-depth look at threads vs processes in Ruby web applications, and when you should use each.
+
+* **Link to site:** **[To Thread or Not to Thread: An In-Depth Look at Ruby’s Execution Models](https://shopify.engineering/ruby-execution-models)**

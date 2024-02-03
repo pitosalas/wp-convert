@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - DNS name generator
 ---
-<img src=http://internic-whois.com/images/logo.png width="500">
+<img class="cover" src=http://internic-whois.com/images/logo.png>
 
 
 
-(**Web site excerpt:** Another cute clever domain name searcher) 
-[Internic Whois domain name lookup tool](http://www.internic-whois.com)
+* **Web site excerpt:** Another cute clever domain name searcher
+
+* **Link to site:** **[Internic Whois domain name lookup tool](http://www.internic-whois.com)**

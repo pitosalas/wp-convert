@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - teaching edtech socialnetworks
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Fb.socrative.com width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fb.socrative.com>
 
 
-[Socrative](https://b.socrative.com)
+* **Link to site:** **[Socrative](https://b.socrative.com)**

@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - Ruby
 ---
-<img src=https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded width="500">
+<img class="cover" src=https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded>
 
 
 
-(**Web site excerpt:** Stack Overflow | The World’s Largest Online Community for Developers) 
-[Hottest 'ruby' Questions - Stack Overflow](http://stackoverflow.com/questions/tagged/ruby)
+* **Web site excerpt:** Stack Overflow | The World’s Largest Online Community for Developers
+
+* **Link to site:** **[Hottest 'ruby' Questions - Stack Overflow](http://stackoverflow.com/questions/tagged/ruby)**

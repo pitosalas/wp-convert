@@ -25,4 +25,4 @@ know is available, check whether you might have moved the application
 somewhere, hiding it from the [tag]Software Update…[/tag]
 
 
-[[GEEKY] Weakness in Mac OS X Software Update](None)
+* **Link to site:** **[[GEEKY] Weakness in Mac OS X Software Update](None)**

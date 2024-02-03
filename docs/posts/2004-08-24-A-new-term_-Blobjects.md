@@ -20,4 +20,4 @@ against everybody else who has that same kind of spime. A spime is a users
 group first, and a physical object second."
 
 
-[A new term: Blobjects](None)
+* **Link to site:** **[A new term: Blobjects](None)**

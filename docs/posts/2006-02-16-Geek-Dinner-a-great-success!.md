@@ -35,4 +35,4 @@ photos](<http://www.flickr.com/photos/hybernaut/sets/72057594065157024/show/>)!
 >> Technorati Tags: [geekdinner](<http://www.technorati.com/tag/geekdinner>)
 
 
-[Geek Dinner a great success!](None)
+* **Link to site:** **[Geek Dinner a great success!](None)**

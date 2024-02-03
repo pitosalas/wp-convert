@@ -27,4 +27,4 @@ Salas"](<http://www.google.com/search?q=balls+pito+salas&ie=utf-8&oe=utf-8&aq=t&
 US:official&client=firefox-a>)
 
 
-[Dave DeWalt leaves EMC](None)
+* **Link to site:** **[Dave DeWalt leaves EMC](None)**

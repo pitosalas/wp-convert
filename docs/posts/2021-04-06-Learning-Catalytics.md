@@ -6,7 +6,7 @@ link: "https://learningcatalytics.com/courses"
 cover: "" 
 date: 2021-04-06
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Learning Catalytics](https://learningcatalytics.com/courses)
+* **Link to site:** **[Learning Catalytics](https://learningcatalytics.com/courses)**

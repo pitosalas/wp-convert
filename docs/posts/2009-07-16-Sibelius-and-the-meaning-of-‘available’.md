@@ -40,4 +40,4 @@ Technorati Tags: [sibelius](<http://technorati.com/tag/sibelius>),
 [prerelease](<http://technorati.com/tag/prerelease>)
 
 
-[Sibelius and the meaning of ‘available’](None)
+* **Link to site:** **[Sibelius and the meaning of ‘available’](None)**

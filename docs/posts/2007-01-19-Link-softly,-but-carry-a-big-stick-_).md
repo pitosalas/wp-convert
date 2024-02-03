@@ -29,4 +29,4 @@ date: 2007-01-19
 > So, what, is it "Link softly but carry a big stick?"
 
 
-[Link softly, but carry a big stick :)](None)
+* **Link to site:** **[Link softly, but carry a big stick :)](None)**

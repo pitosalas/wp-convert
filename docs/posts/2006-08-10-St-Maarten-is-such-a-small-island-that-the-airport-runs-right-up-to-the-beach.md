@@ -31,4 +31,4 @@ proof.](<http://googlesightseeing.com/maps?p=1012&c=&t=k&hl=en&ll=18.039381,-63.
 [funny](<http://www.technorati.com/tag/funny>)
 
 
-[St Maarten is such a small island that the airport runs right up to the beach](None)
+* **Link to site:** **[St Maarten is such a small island that the airport runs right up to the beach](None)**

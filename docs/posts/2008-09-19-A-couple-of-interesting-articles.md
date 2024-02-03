@@ -44,4 +44,4 @@ are](<http://gregmankiw.blogspot.com/2008/09/pigovian-slippery-slope.html>):
 > club](<http://www.economics.harvard.edu/faculty/mankiw/files/Smart%20Taxes.pdf>)")
 
 
-[A couple of interesting articles](None)
+* **Link to site:** **[A couple of interesting articles](None)**

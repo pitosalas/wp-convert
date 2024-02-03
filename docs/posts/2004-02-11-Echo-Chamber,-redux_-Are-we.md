@@ -45,4 +45,4 @@ audience which is blogging. As it approaches **one** , you have to **wonder**.
 is there enough attention in the universe to **pay**?
 
 
-[Echo Chamber, redux: Are we](None)
+* **Link to site:** **[Echo Chamber, redux: Are we](None)**

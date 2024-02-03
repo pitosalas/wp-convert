@@ -10,9 +10,10 @@ tags:
     - cooltool
     - alternative
 ---
-<img src=https://zulipchat.com/static/images/logo/zulip-icon-128x128.png width="500">
+<img class="cover" src=https://zulipchat.com/static/images/logo/zulip-icon-128x128.png>
 
 
 
-(**Web site excerpt:** Now that slack changed its pricing model it may be time to switch. “Zulip combines the immediacy of real-time chat with an email threading model. With Zulip, you can catch up on important conversations while ignoring irrelevant ones”) 
-[Zulip: Slack alternative Chat for distributed teams](https://zulip.com/)
+* **Web site excerpt:** Now that slack changed its pricing model it may be time to switch. “Zulip combines the immediacy of real-time chat with an email threading model. With Zulip, you can catch up on important conversations while ignoring irrelevant ones”
+
+* **Link to site:** **[Zulip: Slack alternative Chat for distributed teams](https://zulip.com/)**

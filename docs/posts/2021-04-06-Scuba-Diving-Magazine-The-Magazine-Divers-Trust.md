@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - diving magazine travel
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
 
-(**Web site excerpt:** Scuba magazine) 
-[Scuba Diving Magazine-The Magazine Divers Trust](http://www.scubadiving.com/GeneralMenu)
+* **Web site excerpt:** Scuba magazine
+
+* **Link to site:** **[Scuba Diving Magazine-The Magazine Divers Trust](http://www.scubadiving.com/GeneralMenu)**

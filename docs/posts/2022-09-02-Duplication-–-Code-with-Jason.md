@@ -20,4 +20,4 @@ duplication is cheaper than the wrong abstraction. I think these advice
 snippets treat duplication in an oversimplified way that doesn’t […]
 
 
-[Duplication – Code with Jason](None)
+* **Link to site:** **[Duplication – Code with Jason](None)**

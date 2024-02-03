@@ -6,7 +6,7 @@ link: "http://www.smfawebdesign.com/pitosalas1/wp-admin"
 cover: "" 
 date: 2021-04-06
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Dashboard ‹ Whateverwhatever — WordPress](http://www.smfawebdesign.com/pitosalas1/wp-admin)
+* **Link to site:** **[Dashboard ‹ Whateverwhatever — WordPress](http://www.smfawebdesign.com/pitosalas1/wp-admin)**

@@ -14,9 +14,10 @@ tags:
     - scrum
     - project-management
 ---
-<img src=https://miro.medium.com/max/1200/1*0EygjC_Zh8oqvNFLJlsxUA.jpeg width="500">
+<img class="cover" src=https://miro.medium.com/max/1200/1*0EygjC_Zh8oqvNFLJlsxUA.jpeg>
 
 
 
-(**Web site excerpt:** Interesting data about the different types of project management) 
-[Kanban, Agile, Lean, SixSigma, PRINCE2, Waterfall and Scrum — What are those weirdos? | by Tomasz Kurowski | Medium](https://medium.com/@tomaszkurowski/kanban-agile-lean-sixsigma-prince2-waterfall-and-scrum-what-are-those-weirdos-45ed66c96bd9)
+* **Web site excerpt:** Interesting data about the different types of project management
+
+* **Link to site:** **[Kanban, Agile, Lean, SixSigma, PRINCE2, Waterfall and Scrum — What are those weirdos? | by Tomasz Kurowski | Medium](https://medium.com/@tomaszkurowski/kanban-agile-lean-sixsigma-prince2-waterfall-and-scrum-what-are-those-weirdos-45ed66c96bd9)**

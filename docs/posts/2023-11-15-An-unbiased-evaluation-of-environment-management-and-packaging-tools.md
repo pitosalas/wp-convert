@@ -12,9 +12,10 @@ tags:
     - poetry
     - version-manager
 ---
-<img src=https://alpopkes.com/images/author/image_al.jpg width="500">
+<img class="cover" src=https://alpopkes.com/images/author/image_al.jpg>
 
 Why oh why are there so many overlaps?
 
-(**Web site excerpt:** Amazing summary of all the crazy dev tools in the python world.) 
-[An unbiased evaluation of environment management and packaging tools](https://alpopkes.com/posts/python/packaging_tools/)
+* **Web site excerpt:** Amazing summary of all the crazy dev tools in the python world.
+
+* **Link to site:** **[An unbiased evaluation of environment management and packaging tools](https://alpopkes.com/posts/python/packaging_tools/)**

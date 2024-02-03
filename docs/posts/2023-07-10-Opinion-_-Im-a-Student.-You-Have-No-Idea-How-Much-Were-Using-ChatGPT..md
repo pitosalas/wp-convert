@@ -18,4 +18,4 @@ chatgpt?utm_source=Iterable&utm_medium=email&utm_campaign=campaign_7214412_nl_Ac
 Today_date_20230710&cid=at&source=&sourceid=>) –
 
 
-[Opinion | Im a Student. You Have No Idea How Much Were Using ChatGPT.](None)
+* **Link to site:** **[Opinion | Im a Student. You Have No Idea How Much Were Using ChatGPT.](None)**

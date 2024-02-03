@@ -36,4 +36,4 @@ in.
 Pretty fancy. Are they over thinking it?
 
 
-[Sophsiticated (odd) paywall at the Wall Street Journal](None)
+* **Link to site:** **[Sophsiticated (odd) paywall at the Wall Street Journal](None)**

@@ -18,4 +18,4 @@ on the subject. ( **Via**
 >> Technorati Tags: [crypto](<http://www.technorati.com/tag/crypto>)
 
 
-[All you ever wanted to know about Crypto](None)
+* **Link to site:** **[All you ever wanted to know about Crypto](None)**

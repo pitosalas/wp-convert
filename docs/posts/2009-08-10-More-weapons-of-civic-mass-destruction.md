@@ -26,4 +26,4 @@ hollering at you. How do you respond to this without actually killing
 discourse?
 
 
-[More weapons of civic mass destruction](None)
+* **Link to site:** **[More weapons of civic mass destruction](None)**

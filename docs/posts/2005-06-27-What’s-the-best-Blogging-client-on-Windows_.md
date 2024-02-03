@@ -34,4 +34,4 @@ I found and am now using the [BlogJet ](<http://blogjet.com/>)- **Clean and
 simple.**
 
 
-[What’s the best Blogging client on Windows?](None)
+* **Link to site:** **[What’s the best Blogging client on Windows?](None)**

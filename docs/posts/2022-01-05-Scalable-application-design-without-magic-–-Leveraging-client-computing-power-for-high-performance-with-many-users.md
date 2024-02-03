@@ -21,4 +21,4 @@ it handle most of the user interaction workload.
 January 5, 2022 at 05:21PM
 
 
-[Scalable application design without magic – Leveraging client computing power for high performance with many users](None)
+* **Link to site:** **[Scalable application design without magic – Leveraging client computing power for high performance with many users](None)**

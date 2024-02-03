@@ -20,4 +20,4 @@ warts and all. Anyway, [here is a bit that I found that articulates
 detail all the problems. I concur and I suffer with you.
 
 
-[Java Web Start Sucks Eggs](None)
+* **Link to site:** **[Java Web Start Sucks Eggs](None)**

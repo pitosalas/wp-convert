@@ -22,4 +22,4 @@ say:
 > tour)](<http://www.igloosoftware.com/tour>)
 
 
-[What happens if you set up an eRoom on the North Pole?](None)
+* **Link to site:** **[What happens if you set up an eRoom on the North Pole?](None)**

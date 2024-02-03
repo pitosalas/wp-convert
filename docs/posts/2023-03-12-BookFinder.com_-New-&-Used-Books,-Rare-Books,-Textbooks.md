@@ -16,4 +16,4 @@ tags:
 https://www.bookfinder.com/>) –Aggregates used book sites. Recommendo
 
 
-[BookFinder.com: New & Used Books, Rare Books, Textbooks](None)
+* **Link to site:** **[BookFinder.com: New & Used Books, Rare Books, Textbooks](None)**

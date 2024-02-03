@@ -6,9 +6,10 @@ link: "https://lp.codacy.com/code-review"
 cover: "" 
 date: 2021-04-06
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
 
-(**Web site excerpt:** Direct competition to Codeclimate) 
-[Automate Your Code Reviews](https://lp.codacy.com/code-review)
+* **Web site excerpt:** Direct competition to Codeclimate
+
+* **Link to site:** **[Automate Your Code Reviews](https://lp.codacy.com/code-review)**

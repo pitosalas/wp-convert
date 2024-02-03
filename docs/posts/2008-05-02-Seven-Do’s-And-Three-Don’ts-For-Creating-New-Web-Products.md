@@ -32,4 +32,4 @@ dos-and-three-donts-for-creating.html>) from [Why does everything
 suck?](<http://whydoeseverythingsuck.com/feeds/posts/default>):
 
 
-[Seven Do’s And Three Don’ts For Creating New Web Products](None)
+* **Link to site:** **[Seven Do’s And Three Don’ts For Creating New Web Products](None)**

@@ -39,4 +39,4 @@ Improv has come and gone. It was ground breaking in its time, won some awards,
 but not the most important award, **customer adoption**!
 
 
-[88% of spreadsheets have errors — Still!](None)
+* **Link to site:** **[88% of spreadsheets have errors — Still!](None)**

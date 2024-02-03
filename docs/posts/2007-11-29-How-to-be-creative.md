@@ -14,4 +14,4 @@ ideas](<http://www.gapingvoid.com/Moveable_Type/archives/000932.html>), with
 illustrations. **Recommended**.
 
 
-[How to be creative](None)
+* **Link to site:** **[How to be creative](None)**

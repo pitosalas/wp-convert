@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Ruby
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fthingsaaronmade.com%2Fblog%2Fintroducing-koi.html width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fthingsaaronmade.com%2Fblog%2Fintroducing-koi.html>
 
 
-[Introducing Koi - A language that teaches the basics of language implementation](http://thingsaaronmade.com/blog/introducing-koi.html)
+* **Link to site:** **[Introducing Koi - A language that teaches the basics of language implementation](http://thingsaaronmade.com/blog/introducing-koi.html)**

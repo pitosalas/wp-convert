@@ -44,4 +44,4 @@ amazon.com/e/ir?t=blogbridge-20&l=as2&o=1&a=141290224X):
 > aquired from your design can be applied generally to other situations.
 
 
-[Ivory Tower or Trade school?](None)
+* **Link to site:** **[Ivory Tower or Trade school?](None)**

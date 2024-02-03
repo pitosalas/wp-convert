@@ -42,4 +42,4 @@ actual article, but here's a nice laundry list to get you going:
 > Corner)](<http://www.idcorner.org/?s=openid>)
 
 
-[OpenID not all happyness and light?](None)
+* **Link to site:** **[OpenID not all happyness and light?](None)**

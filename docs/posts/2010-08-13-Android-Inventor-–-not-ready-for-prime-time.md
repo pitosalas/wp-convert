@@ -28,4 +28,4 @@ in more detail, and comes to more or less the same conclusion:
 > Times](<http://www.nytimes.com/2010/08/12/technology/personaltech/12pogue.html>))
 
 
-[Android Inventor – not ready for prime time](None)
+* **Link to site:** **[Android Inventor – not ready for prime time](None)**

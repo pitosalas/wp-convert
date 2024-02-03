@@ -35,4 +35,4 @@ trigonometry?playlist=New+and+Noteworthy>)and matrix knowledge that I needed.
 Amazing. Check [Khan Academy](<http://www.khanacademy.org>) out.
 
 
-[Khan academy to the rescue](None)
+* **Link to site:** **[Khan academy to the rescue](None)**

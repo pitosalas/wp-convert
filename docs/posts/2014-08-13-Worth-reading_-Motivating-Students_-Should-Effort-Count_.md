@@ -17,4 +17,4 @@ Count?](<http://www.facultyfocus.com/articles/teaching-professor-
 blog/motivating-students-effort-count/>)
 
 
-[Worth reading: Motivating Students: Should Effort Count?](None)
+* **Link to site:** **[Worth reading: Motivating Students: Should Effort Count?](None)**

@@ -48,4 +48,4 @@ that. I don't want to make this into a big **conspiracy theory** - there may
 be a perfectly innocent explanation…
 
 
-[Wikipedia and copyrights](None)
+* **Link to site:** **[Wikipedia and copyrights](None)**

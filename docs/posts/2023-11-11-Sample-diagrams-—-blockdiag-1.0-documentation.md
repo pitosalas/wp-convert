@@ -11,7 +11,7 @@ tags:
     - illustration
     - graphviz
 ---
-<img src=http://blockdiag.com/en/_images/blockdiag-65aa4915fbaf749b122e4ff0f598bd6eed011979.png width="500">
+<img class="cover" src=http://blockdiag.com/en/_images/blockdiag-65aa4915fbaf749b122e4ff0f598bd6eed011979.png>
 
 And another great tool!
-[Sample diagrams — blockdiag 1.0 documentation](http://blockdiag.com/en/blockdiag/examples.html)
+* **Link to site:** **[Sample diagrams — blockdiag 1.0 documentation](http://blockdiag.com/en/blockdiag/examples.html)**

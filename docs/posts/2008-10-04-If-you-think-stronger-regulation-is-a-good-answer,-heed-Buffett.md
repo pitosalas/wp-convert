@@ -70,4 +70,4 @@ be very, very difficult.
 …
 
 
-[If you think stronger regulation is a good answer, heed Buffett](None)
+* **Link to site:** **[If you think stronger regulation is a good answer, heed Buffett](None)**

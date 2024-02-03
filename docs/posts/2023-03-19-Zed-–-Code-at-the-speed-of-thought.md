@@ -19,4 +19,4 @@ performance, multiplayer code editor from the creators of Atom and Tree-
 sitter.”
 
 
-[Zed – Code at the speed of thought](None)
+* **Link to site:** **[Zed – Code at the speed of thought](None)**

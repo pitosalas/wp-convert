@@ -6,7 +6,7 @@ link: "http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool"
 cover: "" 
 date: 2021-04-06
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[How to Use npm as a Build Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool)
+* **Link to site:** **[How to Use npm as a Build Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool)**

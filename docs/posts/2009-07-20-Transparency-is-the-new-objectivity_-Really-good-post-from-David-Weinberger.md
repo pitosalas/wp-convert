@@ -47,4 +47,4 @@ Objectivity](<http://www.hyperorg.com/blogger/2009/07/19/transparency-is-the-
 new-objectivity/>) tells a fascinating part of the story; you should read it.
 
 
-[Transparency is the new objectivity: Really good post from David Weinberger](None)
+* **Link to site:** **[Transparency is the new objectivity: Really good post from David Weinberger](None)**

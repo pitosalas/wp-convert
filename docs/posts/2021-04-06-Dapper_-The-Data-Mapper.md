@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - rss feed
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
 
-(**Web site excerpt:** Another product to RSS-ify any web site) 
-[Dapper: The Data Mapper](http://www.dapper.net)
+* **Web site excerpt:** Another product to RSS-ify any web site
+
+* **Link to site:** **[Dapper: The Data Mapper](http://www.dapper.net)**

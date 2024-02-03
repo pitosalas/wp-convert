@@ -22,4 +22,4 @@ Unofficial Apple Weblog (TUAW)](<http://www.tuaw.com>):
 > Manager](<http://feeds.tuaw.com/~r/weblogsinc/tuaw/~3/113219781/>))
 
 
-[Something I’ve been looking for: Finder Window Manager](None)
+* **Link to site:** **[Something I’ve been looking for: Finder Window Manager](None)**

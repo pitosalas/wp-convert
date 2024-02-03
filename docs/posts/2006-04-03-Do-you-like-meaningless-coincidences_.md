@@ -26,4 +26,4 @@ date: 2006-04-03
 >> _That won 't happen again until 3006 (you may not be around to see it)…_
 
 
-[Do you like meaningless coincidences?](None)
+* **Link to site:** **[Do you like meaningless coincidences?](None)**

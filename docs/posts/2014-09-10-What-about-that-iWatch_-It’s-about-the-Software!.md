@@ -40,4 +40,4 @@ like. But it is a foundation on which will set the standard for wearables for
 a long time.
 
 
-[What about that iWatch? It’s about the Software!](None)
+* **Link to site:** **[What about that iWatch? It’s about the Software!](None)**

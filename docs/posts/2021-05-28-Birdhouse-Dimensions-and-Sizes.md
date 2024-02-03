@@ -11,9 +11,10 @@ tags:
     - building
     - howto
 ---
-<img src=https://www.thespruce.com/thmb/JKbQ_QoW1Gz7SPSBBO3OGefJf-w=/1500x1000/filters:fill(auto,1)/bird-houses-jumble-5bf0992d46e0fb0026e62677.jpg width="500">
+<img class="cover" src=https://www.thespruce.com/thmb/JKbQ_QoW1Gz7SPSBBO3OGefJf-w=/1500x1000/filters:fill(auto,1)/bird-houses-jumble-5bf0992d46e0fb0026e62677.jpg>
 
 
 
-(**Web site excerpt:** Learn why size matters for birdhouses. Includes a table of best birdhouse dimensions for different species.) 
-[Birdhouse Dimensions and Sizes](https://www.thespruce.com/bird-house-dimensions-385662)
+* **Web site excerpt:** Learn why size matters for birdhouses. Includes a table of best birdhouse dimensions for different species.
+
+* **Link to site:** **[Birdhouse Dimensions and Sizes](https://www.thespruce.com/bird-house-dimensions-385662)**

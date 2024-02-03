@@ -15,4 +15,4 @@ Impact](<http://www.technologyreview.com/read_article.aspx?id=17275&ch=infotech&
 "Technology Review: Emerging Technologies and their Impact")
 
 
-[Scratch and vote?](None)
+* **Link to site:** **[Scratch and vote?](None)**

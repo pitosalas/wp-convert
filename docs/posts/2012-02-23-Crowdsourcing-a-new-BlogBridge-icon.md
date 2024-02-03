@@ -42,4 +42,4 @@ So far I am liking **99designs.com** the best. But if you have suggestions,
 please send them to me!
 
 
-[Crowdsourcing a new BlogBridge icon](None)
+* **Link to site:** **[Crowdsourcing a new BlogBridge icon](None)**

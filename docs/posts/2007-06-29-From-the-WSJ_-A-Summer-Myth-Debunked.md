@@ -22,4 +22,4 @@ post](<http://feeds.wsjonline.com/~r/wsj/health/feed/~3/128465127/>) from
 > Debunked](<http://feeds.wsjonline.com/~r/wsj/health/feed/~3/128465127/>))
 
 
-[From the WSJ: A Summer Myth Debunked](None)
+* **Link to site:** **[From the WSJ: A Summer Myth Debunked](None)**

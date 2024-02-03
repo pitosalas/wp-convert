@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - curriculum
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[CS4720 - Web & Mobile Systems - Fall 2011](http://www.cs.virginia.edu/~sherriff/cs4720/syllabus.php)
+* **Link to site:** **[CS4720 - Web & Mobile Systems - Fall 2011](http://www.cs.virginia.edu/~sherriff/cs4720/syllabus.php)**

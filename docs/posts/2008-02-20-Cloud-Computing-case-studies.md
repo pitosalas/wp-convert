@@ -39,4 +39,4 @@ this wasn't the first time this happened, I guess not surprisingly:
 > the-dark-side-of-mashups/>))
 
 
-[Cloud Computing case studies](None)
+* **Link to site:** **[Cloud Computing case studies](None)**

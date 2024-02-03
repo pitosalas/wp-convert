@@ -13,4 +13,4 @@ aim, except sometimes I also see him on Skype. See the problem?
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[Real time chat: gtalk? skype? wave? buzz? Zzzzzzzzzzzzzz](None)
+* **Link to site:** **[Real time chat: gtalk? skype? wave? buzz? Zzzzzzzzzzzzzz](None)**

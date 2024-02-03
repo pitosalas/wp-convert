@@ -23,4 +23,4 @@ from [ReadWriteWeb](<http://www.readwriteweb.com/rss.xml>):
 > ways through which they‟ve become intermixed and mutually reinforcing."
 
 
-[Ray Ozzie on Mesh](None)
+* **Link to site:** **[Ray Ozzie on Mesh](None)**

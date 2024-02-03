@@ -35,4 +35,4 @@ activity on my blog. Very **cool**.
 >> Technorati Tags: [del.icio.us](<http://www.technorati.com/tag/del.icio.us>)
 
 
-[Notice the new del.icio.us feature I am using?](None)
+* **Link to site:** **[Notice the new del.icio.us feature I am using?](None)**

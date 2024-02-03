@@ -44,4 +44,4 @@ will not be inclined to hack or vandalize this item of information.
 will be decided by the mysterious dynamics of blog-meme-flow.
 
 
-[Folksonomies – Collaborative Classification](None)
+* **Link to site:** **[Folksonomies – Collaborative Classification](None)**

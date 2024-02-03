@@ -15,4 +15,4 @@ To many of us, those languages seemed like a bit of a fad, even if they made
 programming easier. Link: http://ift.tt/1xvv7S4 My Blog
 
 
-[Worth reading: 5 Programming Languages You’ll Need Next Year (and Beyond)](None)
+* **Link to site:** **[Worth reading: 5 Programming Languages You’ll Need Next Year (and Beyond)](None)**

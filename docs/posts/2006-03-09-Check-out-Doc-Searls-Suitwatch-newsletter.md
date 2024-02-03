@@ -38,4 +38,4 @@ matter if the content is great!
 >> Technorati Tags: [docsearls](<http://www.technorati.com/tag/docsearls>)
 
 
-[Check out Doc Searls Suitwatch newsletter](None)
+* **Link to site:** **[Check out Doc Searls Suitwatch newsletter](None)**

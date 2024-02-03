@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - education edtech course
 ---
-<img src=https://s0.wp.com/i/blank.jpg width="500">
+<img class="cover" src=https://s0.wp.com/i/blank.jpg>
 
 
 
-(**Web site excerpt:** Interesrting experiment with online content) 
-[Mark Sobkowicz](http://www.27classrooms.com)
+* **Web site excerpt:** Interesrting experiment with online content
+
+* **Link to site:** **[Mark Sobkowicz](http://www.27classrooms.com)**

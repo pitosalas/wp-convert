@@ -94,4 +94,4 @@ I think that should be a consideration before giving it **two thumbs up**?
 [sprint](<http://www.technorati.com/tag/sprint>)
 
 
-[How long should a Treo 600 last? How about an IPod?](None)
+* **Link to site:** **[How long should a Treo 600 last? How about an IPod?](None)**

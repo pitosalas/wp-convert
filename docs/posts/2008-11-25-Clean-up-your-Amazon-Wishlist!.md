@@ -34,4 +34,4 @@ you will be golden!
 [amazon books wishlist](<http://technorati.com/tag/amazon%20books%20wishlist>)
 
 
-[Clean up your Amazon Wishlist!](None)
+* **Link to site:** **[Clean up your Amazon Wishlist!](None)**

@@ -33,4 +33,4 @@ Arguments for buying APPL:
 What do you think?
 
 
-[AAPL: Short or Long?](None)
+* **Link to site:** **[AAPL: Short or Long?](None)**

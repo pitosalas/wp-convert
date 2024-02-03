@@ -17,4 +17,4 @@ a few quick thumb rules I use when writing shell scripts that I’ve come to
 appreciate over the years. Very opinionated….
 
 
-[Shell Script Best Practices — The Sharat’s](None)
+* **Link to site:** **[Shell Script Best Practices — The Sharat’s](None)**

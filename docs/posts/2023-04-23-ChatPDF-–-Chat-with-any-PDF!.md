@@ -17,4 +17,4 @@ books, research papers, manuals, essays, legal contracts, whatever you have!
 The intelligence revolution is here, ChatGPT was just the beginning!
 
 
-[ChatPDF – Chat with any PDF!](None)
+* **Link to site:** **[ChatPDF – Chat with any PDF!](None)**

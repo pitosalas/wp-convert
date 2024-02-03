@@ -10,9 +10,10 @@ tags:
     - complex
     - howto
 ---
-<img src=https://s33046.pcdn.co/wp-content/uploads/2020/02/the-tables-well-use-in-the-select-query-1.png width="500">
+<img class="cover" src=https://s33046.pcdn.co/wp-content/uploads/2020/02/the-tables-well-use-in-the-select-query-1.png>
 
 
 
-(**Web site excerpt:** Do you need to write a complex SELECT query? In this article, we’ve tried to create a recipe for you.) 
-[Learn SQL: How to Write a Complex SELECT Query](https://www.sqlshack.com/learn-sql-how-to-write-a-complex-select-query/)
+* **Web site excerpt:** Do you need to write a complex SELECT query? In this article, we’ve tried to create a recipe for you.
+
+* **Link to site:** **[Learn SQL: How to Write a Complex SELECT Query](https://www.sqlshack.com/learn-sql-how-to-write-a-complex-select-query/)**

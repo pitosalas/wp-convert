@@ -12,9 +12,10 @@ tags:
     - ubuntu
     - linux
 ---
-<img src=https://linuxhandbook.com/content/images/2020/07/raspberry-pi-headless-setup-featured.jpg width="500">
+<img class="cover" src=https://linuxhandbook.com/content/images/2020/07/raspberry-pi-headless-setup-featured.jpg>
 
 
 
-(**Web site excerpt:** A step by step guide showcasing how to install Raspberry Pi without a keyboard and monitor, i.e., headless setup of Raspberry Pi using Linux.) 
-[Raspberry Pi Headless Setup Using Linux [Step by Step]](https://linuxhandbook.com/raspberry-pi-headless-setup/)
+* **Web site excerpt:** A step by step guide showcasing how to install Raspberry Pi without a keyboard and monitor, i.e., headless setup of Raspberry Pi using Linux.
+
+* **Link to site:** **[Raspberry Pi Headless Setup Using Linux [Step by Step]](https://linuxhandbook.com/raspberry-pi-headless-setup/)**

@@ -11,9 +11,10 @@ tags:
     - demo
     - howto
 ---
-<img src=https://ubiquityrobotics.github.io/learn/assets/fiducial.png width="500">
+<img class="cover" src=https://ubiquityrobotics.github.io/learn/assets/fiducial.png>
 
 
 
-(**Web site excerpt:** Great information about how to use Fiducials for simple following and navigation) 
-[The Fiducial Follow App](https://learn.ubiquityrobotics.com/fiducial_follow_app)
+* **Web site excerpt:** Great information about how to use Fiducials for simple following and navigation
+
+* **Link to site:** **[The Fiducial Follow App](https://learn.ubiquityrobotics.com/fiducial_follow_app)**

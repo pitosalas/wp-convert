@@ -17,4 +17,4 @@ content/uploads/2023/07/Screenshot-2023-07-13-at-7.04.04-PM.png?resize=584%2C395
 content/uploads/2023/07/Screenshot-2023-07-13-at-7.04.16-PM.png?resize=584%2C489&ssl=1)
 
 
-[Here is what ChatGPT (and Claude) are good for!](None)
+* **Link to site:** **[Here is what ChatGPT (and Claude) are good for!](None)**

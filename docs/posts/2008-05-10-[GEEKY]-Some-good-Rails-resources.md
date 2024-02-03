@@ -17,4 +17,4 @@ interested in:
 I have found each of these a great resource, and I recommend them to you!
 
 
-[[GEEKY] Some good Rails resources](None)
+* **Link to site:** **[[GEEKY] Some good Rails resources](None)**

@@ -27,4 +27,4 @@ recent attempt.
 >> Technorati Tags: [osx](<http://www.technorati.com/tag/osx>)
 
 
-[Very interesting discussion of an OS X Trojan – how it works and doesn’t](None)
+* **Link to site:** **[Very interesting discussion of an OS X Trojan – how it works and doesn’t](None)**

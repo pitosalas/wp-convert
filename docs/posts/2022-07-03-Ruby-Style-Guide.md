@@ -11,9 +11,10 @@ tags:
     - rubocop
     - howto
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Fruby-style-guide.shopify.dev%2F width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fruby-style-guide.shopify.dev%2F>
 
 
 
-(**Web site excerpt:** This is a very reasonable, rational, practical style guide. “Shopify's  Ruby Style Guide. Always useful to see how the ruby experts do it!”) 
-[Ruby Style Guide](https://ruby-style-guide.shopify.dev/)
+* **Web site excerpt:** This is a very reasonable, rational, practical style guide. “Shopify's  Ruby Style Guide. Always useful to see how the ruby experts do it!”
+
+* **Link to site:** **[Ruby Style Guide](https://ruby-style-guide.shopify.dev/)**

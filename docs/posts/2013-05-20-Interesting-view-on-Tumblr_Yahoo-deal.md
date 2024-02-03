@@ -60,4 +60,4 @@ Seems like an interesting book, well worth reading:
 
 
 
-[Interesting view on Tumblr/Yahoo deal](None)
+* **Link to site:** **[Interesting view on Tumblr/Yahoo deal](None)**

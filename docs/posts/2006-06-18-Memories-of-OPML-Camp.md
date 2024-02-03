@@ -24,4 +24,4 @@ pretty cool, at least for me 🙂
 [opmlcamp](<http://www.technorati.com/tag/opmlcamp>)
 
 
-[Memories of OPML Camp](None)
+* **Link to site:** **[Memories of OPML Camp](None)**

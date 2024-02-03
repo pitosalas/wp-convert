@@ -34,4 +34,4 @@ Toshiba](<http://www.3g.co.uk/PR/Sept2005/1904.htm>).
 > [eminimall products="cellphone mobile phone cell"]
 
 
-[Finally, a simple cell phone!](None)
+* **Link to site:** **[Finally, a simple cell phone!](None)**

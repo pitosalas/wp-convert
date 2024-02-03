@@ -30,4 +30,4 @@ AI](<http://www.gamasutra.com/view/feature/6154/aces_high_numerical_techniques_i
 >
 
 
-[[GEEKY] Poker AI](None)
+* **Link to site:** **[[GEEKY] Poker AI](None)**

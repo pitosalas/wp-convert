@@ -46,4 +46,4 @@ translated into your discipline. "
 read.](<http://www.patternlanguage.com/archive/ieee/ieeetext.htm>)**
 
 
-[Patterns from the master](None)
+* **Link to site:** **[Patterns from the master](None)**

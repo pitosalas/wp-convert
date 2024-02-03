@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - Ruby tips constants
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Ffili.pp.ru%2Fleaky-constants.html width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Ffili.pp.ru%2Fleaky-constants.html>
 
 
 
-(**Web site excerpt:** Good to know!) 
-[Leaky constants](https://fili.pp.ru/leaky-constants.html)
+* **Web site excerpt:** Good to know!
+
+* **Link to site:** **[Leaky constants](https://fili.pp.ru/leaky-constants.html)**

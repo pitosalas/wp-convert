@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - stub minitest ruby mock rails
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Stubbing Twitter search in Rails 5 | Codementor](https://www.codementor.io/nimphal/stubbing-twitter-search-in-rails-5-iuwps97pd)
+* **Link to site:** **[Stubbing Twitter search in Rails 5 | Codementor](https://www.codementor.io/nimphal/stubbing-twitter-search-in-rails-5-iuwps97pd)**

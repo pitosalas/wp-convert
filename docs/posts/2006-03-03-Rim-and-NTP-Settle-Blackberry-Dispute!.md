@@ -18,4 +18,4 @@ Journal](<http://online.wsj.com/article/SB114142276287788965.html?mod=home_whats
 lawyer Jim Wallace."
 
 
-[Rim and NTP Settle Blackberry Dispute!](None)
+* **Link to site:** **[Rim and NTP Settle Blackberry Dispute!](None)**

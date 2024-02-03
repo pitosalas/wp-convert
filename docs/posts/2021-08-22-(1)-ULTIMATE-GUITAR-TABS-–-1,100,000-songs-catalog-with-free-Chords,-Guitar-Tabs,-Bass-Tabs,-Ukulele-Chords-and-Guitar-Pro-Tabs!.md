@@ -19,4 +19,4 @@ search engine, guitar lessons, gear reviews, rock news and forums!
 August 22, 2021 at 08:56PM
 
 
-[(1) ULTIMATE GUITAR TABS – 1,100,000 songs catalog with free Chords, Guitar Tabs, Bass Tabs, Ukulele Chords and Guitar Pro Tabs!](None)
+* **Link to site:** **[(1) ULTIMATE GUITAR TABS – 1,100,000 songs catalog with free Chords, Guitar Tabs, Bass Tabs, Ukulele Chords and Guitar Pro Tabs!](None)**

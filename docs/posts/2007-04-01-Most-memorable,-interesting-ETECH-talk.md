@@ -22,4 +22,4 @@ talk](<http://www.ambiguous.org/quinn/bodyhacking.html>).
 I learned new things. If that makes me a fuddie-duddie, so be it 😉
 
 
-[Most memorable, interesting ETECH talk](None)
+* **Link to site:** **[Most memorable, interesting ETECH talk](None)**

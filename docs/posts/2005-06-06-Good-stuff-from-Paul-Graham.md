@@ -41,4 +41,4 @@ you were **looking for an excuse** 🙂
 [recommended](<http://technorati.com/tag/recommended>)
 
 
-[Good stuff from Paul Graham](None)
+* **Link to site:** **[Good stuff from Paul Graham](None)**

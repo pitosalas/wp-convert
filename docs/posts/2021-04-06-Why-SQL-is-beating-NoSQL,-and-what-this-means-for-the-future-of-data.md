@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - sql nisql
 ---
-<img src=https://blog.timescale.com/content/images/2018/12/gif6.gif width="500">
+<img class="cover" src=https://blog.timescale.com/content/images/2018/12/gif6.gif>
 
 
 
-(**Web site excerpt:** After years of being left for dead, SQL today is making a comeback. How come? And what effect will this have on the data community?) 
-[Why SQL is beating NoSQL, and what this means for the future of data](https://blog.timescale.com/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a?source=userActivityShare-d383785221d0-1523797371)
+* **Web site excerpt:** After years of being left for dead, SQL today is making a comeback. How come? And what effect will this have on the data community?
+
+* **Link to site:** **[Why SQL is beating NoSQL, and what this means for the future of data](https://blog.timescale.com/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a?source=userActivityShare-d383785221d0-1523797371)**

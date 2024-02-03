@@ -35,4 +35,4 @@ whether 'Rails will Scale'. Here are my quick thoughts:
   4. Most important: Designing, building and operating a system to achieve good performance at Twitter scale is really really hard no matter what language or framework you use. Using Java or PHP or C# or whatever you like doesn't change this basic fact. Consequently changing language of framework would not be a likely cure for a scaling problem.
 
 
-[[GEEKY] Twitter and Ruby on Rails](None)
+* **Link to site:** **[[GEEKY] Twitter and Ruby on Rails](None)**

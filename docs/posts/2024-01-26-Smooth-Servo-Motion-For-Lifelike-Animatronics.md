@@ -12,9 +12,10 @@ tags:
     - arduino
     - code
 ---
-<img src=https://hackaday.com/wp-content/uploads/2021/08/smooth-servo-featured.png width="500">
+<img class="cover" src=https://hackaday.com/wp-content/uploads/2021/08/smooth-servo-featured.png>
 
 
 
-(**Web site excerpt:** Building an animatronic robot is one thing, but animating it in a lifelike fashion is a completely different challenge. Hobby servos are cheap and popular for animatronics, but just letting it move…) 
-[Smooth Servo Motion For Lifelike Animatronics](https://hackaday.com/2021/09/03/smooth-servo-motion-for-lifelike-animatronics/)
+* **Web site excerpt:** Building an animatronic robot is one thing, but animating it in a lifelike fashion is a completely different challenge. Hobby servos are cheap and popular for animatronics, but just letting it move…
+
+* **Link to site:** **[Smooth Servo Motion For Lifelike Animatronics](https://hackaday.com/2021/09/03/smooth-servo-motion-for-lifelike-animatronics/)**

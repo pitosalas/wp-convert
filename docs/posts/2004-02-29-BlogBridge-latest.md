@@ -34,4 +34,4 @@ really usable. (FeedDemon is much better.) If a few people would like to try
 out the Java Web Start deployment, send me an email and we can talk.
 
 
-[BlogBridge latest](None)
+* **Link to site:** **[BlogBridge latest](None)**

@@ -35,4 +35,4 @@ web service, especially if you are giving it away for free. It is why it's
 nice to see Yahoo, Google and Amazon publishing services.
 
 
-[[GEEKY] Alternative to Yahoo Pipes? Looks really interesting…](None)
+* **Link to site:** **[[GEEKY] Alternative to Yahoo Pipes? Looks really interesting…](None)**

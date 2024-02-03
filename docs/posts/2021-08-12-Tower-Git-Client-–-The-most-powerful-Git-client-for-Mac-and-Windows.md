@@ -18,4 +18,4 @@ most powerful Git client for Mac and Windows.
 August 12, 2021 at 01:56PM
 
 
-[Tower Git Client – The most powerful Git client for Mac and Windows](None)
+* **Link to site:** **[Tower Git Client – The most powerful Git client for Mac and Windows](None)**

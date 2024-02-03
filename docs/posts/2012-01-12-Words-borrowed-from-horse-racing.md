@@ -35,4 +35,4 @@ in daily use come from the **Racing World.** See how many surprise you!
   * down to the wire
 
 
-[Words borrowed from horse racing](None)
+* **Link to site:** **[Words borrowed from horse racing](None)**

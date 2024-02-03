@@ -10,4 +10,4 @@ date: 2008-12-24
 content/uploads/2008/12/cold.jpg?resize=470%2C353)
 
 
-[Cold, cold, cold](None)
+* **Link to site:** **[Cold, cold, cold](None)**

@@ -38,4 +38,4 @@ native-20130719?utm_source=dailynewsletter&utm_medium=email&utm_campaign=newslet
 
 
 
-[All about Rolling Stone magazine](None)
+* **Link to site:** **[All about Rolling Stone magazine](None)**

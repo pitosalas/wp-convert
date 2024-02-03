@@ -34,4 +34,4 @@ like a useful idea
 dusseault-http-patch-11.html#rfc.section.2.1>)
 
 
-[[GEEKY] REST and the PATCH verb](None)
+* **Link to site:** **[[GEEKY] REST and the PATCH verb](None)**

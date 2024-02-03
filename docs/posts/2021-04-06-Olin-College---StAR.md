@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Olin
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Olin College - StAR](http://star.olin.edu/StudentRecords.cfm#registration)
+* **Link to site:** **[Olin College - StAR](http://star.olin.edu/StudentRecords.cfm#registration)**

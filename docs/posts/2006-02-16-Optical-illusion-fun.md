@@ -42,4 +42,4 @@ at a small part. It doesn't move. Amusing!
 >> Technorati Tags: [funny](<http://www.technorati.com/tag/funny>)
 
 
-[Optical illusion fun](None)
+* **Link to site:** **[Optical illusion fun](None)**

@@ -25,4 +25,4 @@ makes **a lot of sense**. You may want to check it out - they are taking [beta
 applications.](<http://inquisix.com/invitation_requests/new>)
 
 
-[Keep an eye on Inquisix](None)
+* **Link to site:** **[Keep an eye on Inquisix](None)**

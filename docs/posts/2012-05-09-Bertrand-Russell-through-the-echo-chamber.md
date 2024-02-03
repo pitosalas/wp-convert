@@ -37,4 +37,4 @@ Revolution](<http://marginalrevolution.com/marginalrevolution/2012/05/bertrand-
 russells-10-commandments-for-teachers.html>)
 
 
-[Bertrand Russell through the echo chamber](None)
+* **Link to site:** **[Bertrand Russell through the echo chamber](None)**

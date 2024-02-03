@@ -19,4 +19,4 @@ Sounds like fun! [Check out the Battle of the Tech Bands
 here!](<http://www.xconomy.com/2007/12/04/xconomys-battle-of-the-tech-bands/>)
 
 
-[Looks like fun: Battle of the Tech Bands – Jan 22](None)
+* **Link to site:** **[Looks like fun: Battle of the Tech Bands – Jan 22](None)**

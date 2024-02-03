@@ -6,7 +6,7 @@ link: "http://wxruby.rubyforge.org/wxrubydoc.html"
 cover: "" 
 date: 2021-04-06
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Poor man's doc of wxRuby}](http://wxruby.rubyforge.org/wxrubydoc.html)
+* **Link to site:** **[Poor man's doc of wxRuby}](http://wxruby.rubyforge.org/wxrubydoc.html)**

@@ -54,4 +54,4 @@ supply this Discount Code: PS2005, and tell em Pito sent you!
 [conference](<http://technorati.com/tag/conference>)
 
 
-[BlogOn Conference: I’m on the advisory board](None)
+* **Link to site:** **[BlogOn Conference: I’m on the advisory board](None)**

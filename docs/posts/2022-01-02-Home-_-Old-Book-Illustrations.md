@@ -12,9 +12,10 @@ tags:
     - cooltool
     - free
 ---
-<img src=https://oldbookillustrations.com/wp-content/high-res/-768.jpg width="500">
+<img class="cover" src=https://oldbookillustrations.com/wp-content/high-res/-768.jpg>
 
 
 
-(**Web site excerpt:** Old Book Illustrations offers a wide range of public domain, royalty-free images scanned from old books. Searchable galleries include animals, plants, techniques, artists names, books titles, and much more...) 
-[Home | Old Book Illustrations](https://www.oldbookillustrations.com/?utm_campaign=Recomendo&utm_medium=email&utm_source=Revue%20newsletter)
+* **Web site excerpt:** Old Book Illustrations offers a wide range of public domain, royalty-free images scanned from old books. Searchable galleries include animals, plants, techniques, artists names, books titles, and much more...
+
+* **Link to site:** **[Home | Old Book Illustrations](https://www.oldbookillustrations.com/?utm_campaign=Recomendo&utm_medium=email&utm_source=Revue%20newsletter)**

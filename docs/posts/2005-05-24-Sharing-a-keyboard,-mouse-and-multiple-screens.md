@@ -25,4 +25,4 @@ computers on their desk since each system uses its own monitor(s)."
 >> Technorati Tags: [interesting](<http://technorati.com/tag/interesting>)
 
 
-[Sharing a keyboard, mouse and multiple screens](None)
+* **Link to site:** **[Sharing a keyboard, mouse and multiple screens](None)**

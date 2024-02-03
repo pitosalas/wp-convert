@@ -88,4 +88,4 @@ sense of how things are and how much work it is to support you all.
 >> Pito Salas and Aleksey Gureev"
 
 
-[BlogBridge beta is ON!](None)
+* **Link to site:** **[BlogBridge beta is ON!](None)**

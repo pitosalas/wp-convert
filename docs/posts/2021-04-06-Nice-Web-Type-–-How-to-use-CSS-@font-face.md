@@ -6,7 +6,7 @@ link: "http://nicewebtype.com/notes/2009/10/30/how-to-use-css-font-face"
 cover: "" 
 date: 2021-04-06
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Nice Web Type – How to use CSS @font-face](http://nicewebtype.com/notes/2009/10/30/how-to-use-css-font-face)
+* **Link to site:** **[Nice Web Type – How to use CSS @font-face](http://nicewebtype.com/notes/2009/10/30/how-to-use-css-font-face)**

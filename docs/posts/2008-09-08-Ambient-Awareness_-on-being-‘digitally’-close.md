@@ -25,4 +25,4 @@ also explored in detail. This is a good introductory article on the Twitter
 phenomenon.
 
 
-[Ambient Awareness: on being ‘digitally’ close](None)
+* **Link to site:** **[Ambient Awareness: on being ‘digitally’ close](None)**

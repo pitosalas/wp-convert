@@ -11,9 +11,10 @@ tags:
     - configuration power tips WiFi
     - howto
 ---
-<img src=https://miro.medium.com/max/966/1*E6mawimDo0ztAtm1TMvXrw.png width="500">
+<img class="cover" src=https://miro.medium.com/max/966/1*E6mawimDo0ztAtm1TMvXrw.png>
 
 
 
-(**Web site excerpt:** This blog post demonstrates how I set up and configure my Python development environment using pyenv and Poetry.) 
-[Creating A Modern Python Development Environment](https://link.medium.com/JW0ZwTUGupb)
+* **Web site excerpt:** This blog post demonstrates how I set up and configure my Python development environment using pyenv and Poetry.
+
+* **Link to site:** **[Creating A Modern Python Development Environment](https://link.medium.com/JW0ZwTUGupb)**

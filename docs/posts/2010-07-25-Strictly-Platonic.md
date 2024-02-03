@@ -16,4 +16,4 @@ Medium-t.html>)', according to Craigs' List denizens:
 > platonic people, it seems, want people to talk to.'
 
 
-[Strictly Platonic](None)
+* **Link to site:** **[Strictly Platonic](None)**

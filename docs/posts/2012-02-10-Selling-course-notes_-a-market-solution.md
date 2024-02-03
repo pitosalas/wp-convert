@@ -33,4 +33,4 @@ still misses the point;
 > students-profit-off-my-classes.html>)
 
 
-[Selling course notes: a market solution](None)
+* **Link to site:** **[Selling course notes: a market solution](None)**

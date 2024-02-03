@@ -23,4 +23,4 @@ teacher](<http://feedproxy.google.com/~r/OmMalik/~3/jmPjkNddZhI/>)
 I can't wait to see this in Boston!
 
 
-[Cool idea: Skillshare](None)
+* **Link to site:** **[Cool idea: Skillshare](None)**

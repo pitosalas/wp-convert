@@ -67,4 +67,4 @@ What do you think?
 docsearls](<http://technorati.com/tag/VRM%20CRM%20iammoving.org%20docsearls>)
 
 
-[VRM and Iammoving.com](None)
+* **Link to site:** **[VRM and Iammoving.com](None)**

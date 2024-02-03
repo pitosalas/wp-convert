@@ -21,4 +21,4 @@ to Java.
 >> Technorati Tags: [java](<http://technorati.com/tag/java>)
 
 
-[[Geek] Good Java Mailing List](None)
+* **Link to site:** **[[Geek] Good Java Mailing List](None)**

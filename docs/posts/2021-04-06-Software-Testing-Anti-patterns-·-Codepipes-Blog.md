@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - tdd
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fblog.codepipes.com%2Ftesting%2Fsoftware-testing-antipatterns.html width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fblog.codepipes.com%2Ftesting%2Fsoftware-testing-antipatterns.html>
 
 
-[Software Testing Anti-patterns · Codepipes Blog](http://blog.codepipes.com/testing/software-testing-antipatterns.html)
+* **Link to site:** **[Software Testing Anti-patterns · Codepipes Blog](http://blog.codepipes.com/testing/software-testing-antipatterns.html)**

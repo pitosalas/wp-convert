@@ -16,4 +16,4 @@ memory when it needs to be jogged!
 Sheet](<http://www.johnmunsch.com/projects/Presentations/docs/Log4J/log.properties>)
 
 
-[[GEEK] Ever get confused about logging.properties formats?](None)
+* **Link to site:** **[[GEEK] Ever get confused about logging.properties formats?](None)**

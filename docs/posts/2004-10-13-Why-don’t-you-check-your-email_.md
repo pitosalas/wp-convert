@@ -39,4 +39,4 @@ culture.]"
 >> **Worth reading!**
 
 
-[Why don’t you check your email?](None)
+* **Link to site:** **[Why don’t you check your email?](None)**

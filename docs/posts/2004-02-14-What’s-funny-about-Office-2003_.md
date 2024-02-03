@@ -14,4 +14,4 @@ the right. Well, no I don't really know all that it does, but note the example
 under the "Search For:" **Who said Microsoft couldn 't laugh at itself?**
 
 
-[What’s funny about Office 2003?](None)
+* **Link to site:** **[What’s funny about Office 2003?](None)**

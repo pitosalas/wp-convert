@@ -11,9 +11,10 @@ tags:
     - howto
     - explainer
 ---
-<img src=https://miro.medium.com/max/1200/0*e7YfIqLhDHmMyADU width="500">
+<img class="cover" src=https://miro.medium.com/max/1200/0*e7YfIqLhDHmMyADU>
 
 
 
-(**Web site excerpt:** Discrete Simulation is a grest alternative for scenarios that are hard or impossibke to solve analytically. Improving a busy emergency department with stochastic discrete event simulation) 
-[Object-Oriented Discrete Event Simulation — with SimPy](https://link.medium.com/QQPcixGrfvb)
+* **Web site excerpt:** Discrete Simulation is a grest alternative for scenarios that are hard or impossibke to solve analytically. Improving a busy emergency department with stochastic discrete event simulation
+
+* **Link to site:** **[Object-Oriented Discrete Event Simulation — with SimPy](https://link.medium.com/QQPcixGrfvb)**

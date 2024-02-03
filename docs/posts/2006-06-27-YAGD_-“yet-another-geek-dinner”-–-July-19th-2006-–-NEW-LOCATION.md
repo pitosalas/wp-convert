@@ -71,4 +71,4 @@ here!](<http://www.evite.com/app/publicUrl/rps@salas.com/geekdinner3>)
 [Geeky](<http://www.technorati.com/tag/Geeky>)
 
 
-[YAGD: “yet another geek dinner” – July 19th 2006 – NEW LOCATION](None)
+* **Link to site:** **[YAGD: “yet another geek dinner” – July 19th 2006 – NEW LOCATION](None)**

@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - games
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Free Textures from TextureKing](http://www.textureking.com)
+* **Link to site:** **[Free Textures from TextureKing](http://www.textureking.com)**

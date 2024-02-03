@@ -11,4 +11,4 @@ date: 2006-07-07
 >> Technorati Tags: [funny](<http://www.technorati.com/tag/funny>)
 
 
-[Soccer Fever!](None)
+* **Link to site:** **[Soccer Fever!](None)**

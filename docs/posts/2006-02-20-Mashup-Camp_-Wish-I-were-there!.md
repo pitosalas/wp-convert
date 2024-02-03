@@ -31,4 +31,4 @@ Camp](<http://www.blogbridge.com/archives/2006/02/mashup_camp_did.php>)
 [mashupcamp](<http://www.technorati.com/tag/mashupcamp>)
 
 
-[Mashup Camp: Wish I were there!](None)
+* **Link to site:** **[Mashup Camp: Wish I were there!](None)**

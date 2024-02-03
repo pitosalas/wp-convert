@@ -90,4 +90,4 @@ the wild' ([watch his blog](<http://blog.grazr.com/>) for more details)
 [opmlcamp](<http://www.technorati.com/tag/opmlcamp>)
 
 
-[[GEEK] OPML Camp was a lot of fun!](None)
+* **Link to site:** **[[GEEK] OPML Camp was a lot of fun!](None)**

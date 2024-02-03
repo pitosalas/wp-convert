@@ -12,4 +12,4 @@ a matter of holding them together and applying a vigorous shake." (from
 shaking-connects-gadgets-securely.html>)
 
 
-[Shakey-bakey Security](None)
+* **Link to site:** **[Shakey-bakey Security](None)**

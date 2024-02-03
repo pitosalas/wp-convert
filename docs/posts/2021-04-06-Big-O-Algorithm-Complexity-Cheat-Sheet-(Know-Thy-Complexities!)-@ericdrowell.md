@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - complexity programming algorithm
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fbigocheatsheet.com width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fbigocheatsheet.com>
 
 
 
-(**Web site excerpt:** Handy summary) 
-[Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell](http://bigocheatsheet.com)
+* **Web site excerpt:** Handy summary
+
+* **Link to site:** **[Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell](http://bigocheatsheet.com)**

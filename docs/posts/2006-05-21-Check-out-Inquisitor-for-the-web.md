@@ -23,4 +23,4 @@ cool](<http://www.inquisitorx.com/beta/>)!
 [cooltool](<http://www.technorati.com/tag/cooltool>)
 
 
-[Check out Inquisitor for the web](None)
+* **Link to site:** **[Check out Inquisitor for the web](None)**

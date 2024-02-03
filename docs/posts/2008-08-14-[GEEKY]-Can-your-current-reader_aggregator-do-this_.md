@@ -20,4 +20,4 @@ it!](<http://www.blogbridge.com/look>)
 Originally posted on Sep 25, 2007. Reprinted courtesy of ReRuns plug-in.
 
 
-[[GEEKY] Can your current reader/aggregator do this?](None)
+* **Link to site:** **[[GEEKY] Can your current reader/aggregator do this?](None)**

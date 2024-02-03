@@ -34,4 +34,4 @@ site](<http://opensourcelegal.org/>) and
 [opensource](<http://www.technorati.com/tag/opensource>)
 
 
-[Learning about Open Source](None)
+* **Link to site:** **[Learning about Open Source](None)**

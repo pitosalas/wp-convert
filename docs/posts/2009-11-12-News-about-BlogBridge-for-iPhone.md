@@ -17,4 +17,4 @@ iphone/>)
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[News about BlogBridge for iPhone](None)
+* **Link to site:** **[News about BlogBridge for iPhone](None)**

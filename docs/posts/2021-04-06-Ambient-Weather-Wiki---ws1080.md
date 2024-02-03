@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Weather
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Ambient Weather Wiki - ws1080](http://ambientweather.wikispaces.com/ws1080)
+* **Link to site:** **[Ambient Weather Wiki - ws1080](http://ambientweather.wikispaces.com/ws1080)**

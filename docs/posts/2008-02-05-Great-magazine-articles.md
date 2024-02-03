@@ -54,4 +54,4 @@ Shumpeter](<http://chronicle.com/cgi2-bin/printable.cgi?article=http://chronicle
 journal.org/html/17_3_urbanities-regietheater.html>)
 
 
-[Great magazine articles](None)
+* **Link to site:** **[Great magazine articles](None)**

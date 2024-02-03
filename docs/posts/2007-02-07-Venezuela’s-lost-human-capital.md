@@ -21,4 +21,4 @@ Daily](<http://www.investors.com/editorial/editorialcontent.asp?secid=1501&statu
 > thing](<http://www.investors.com/editorial/editorialcontent.asp?secid=1501&status=article&id=254621701430577&view=1>).
 
 
-[Venezuela’s lost human capital](None)
+* **Link to site:** **[Venezuela’s lost human capital](None)**

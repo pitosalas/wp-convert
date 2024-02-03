@@ -19,4 +19,4 @@ Here's a quote from Scott's post:
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[Scott Kirsner wants to put Albert Einstein on a box of wheaties](None)
+* **Link to site:** **[Scott Kirsner wants to put Albert Einstein on a box of wheaties](None)**

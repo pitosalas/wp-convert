@@ -30,4 +30,4 @@ and out of control than we would like to think:
 > Parallax)](<http://www.nytimes.com/2010/06/13/weekinreview/13kennedy.html?ref=weekinreview>)
 
 
-[Hubris, Technology and a Whale](None)
+* **Link to site:** **[Hubris, Technology and a Whale](None)**

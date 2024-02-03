@@ -20,4 +20,4 @@ are a common pattern to show a geographic trend and let readers explore the
 data …
 
 
-[How The Post is replacing Mapbox with open source solutions – Kevin Schaul](None)
+* **Link to site:** **[How The Post is replacing Mapbox with open source solutions – Kevin Schaul](None)**

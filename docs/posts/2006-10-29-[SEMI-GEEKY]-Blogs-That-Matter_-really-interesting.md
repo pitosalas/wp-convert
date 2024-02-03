@@ -45,4 +45,4 @@ date: 2006-10-29
 > [rss](<http://www.technorati.com/tag/rss>)
 
 
-[[SEMI GEEKY] Blogs That Matter: really interesting](None)
+* **Link to site:** **[[SEMI GEEKY] Blogs That Matter: really interesting](None)**

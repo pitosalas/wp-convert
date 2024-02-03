@@ -10,9 +10,10 @@ tags:
     - python
     - howto
 ---
-<img src=https://miro.medium.com/max/1266/0*oek9uPntF7vtHJP8.png width="500">
+<img class="cover" src=https://miro.medium.com/max/1266/0*oek9uPntF7vtHJP8.png>
 
 
 
-(**Web site excerpt:** Indeed how much does it help? For a ruby guy, pip == gem and poetry == bundler) 
-[Thoughts on Python Poetry. Pip is hard enough, how much does… | by Daryan Hanshew | Sep, 2022 | Medium](https://medium.com/@d-hanshew/thoughts-on-python-poetry-68cb08df01ca)
+* **Web site excerpt:** Indeed how much does it help? For a ruby guy, pip == gem and poetry == bundler
+
+* **Link to site:** **[Thoughts on Python Poetry. Pip is hard enough, how much does… | by Daryan Hanshew | Sep, 2022 | Medium](https://medium.com/@d-hanshew/thoughts-on-python-poetry-68cb08df01ca)**

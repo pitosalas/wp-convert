@@ -15,4 +15,4 @@ slides](</Brandeis%20CS%20on%20Collab_files/frame.htm>), for those few who
 might be interested.
 
 
-[Overview of Collaboration](None)
+* **Link to site:** **[Overview of Collaboration](None)**

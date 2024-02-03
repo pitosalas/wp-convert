@@ -13,9 +13,10 @@ tags:
     - ruby
     - actioncable
 ---
-<img src=https://cdn.evilmartians.com/front/posts/rails-6-b-sides-and-rarities/cover-6eb462a.png width="500">
+<img class="cover" src=https://cdn.evilmartians.com/front/posts/rails-6-b-sides-and-rarities/cover-6eb462a.png>
 
 
 
-(**Web site excerpt:** Another nice trip through upgrades to Rails for 6.0) 
-[Rails 6: B-Sides and Rarities — Martian Chronicles](https://evilmartians.com/chronicles/rails-6-b-sides-and-rarities)
+* **Web site excerpt:** Another nice trip through upgrades to Rails for 6.0
+
+* **Link to site:** **[Rails 6: B-Sides and Rarities — Martian Chronicles](https://evilmartians.com/chronicles/rails-6-b-sides-and-rarities)**

@@ -32,4 +32,4 @@ Answer](<http://www.amazon.com/gp/product/0385531680/ref=as_li_qf_sp_asin_tl?ie=
 amazon.com/e/ir?t=blogbridge-20&l=as2&o=1&a=0385531680). Read the book!
 
 
-[Common Non-sense](None)
+* **Link to site:** **[Common Non-sense](None)**

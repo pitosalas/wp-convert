@@ -30,4 +30,4 @@ that occurred in Brussels. From the article:
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[Another real-world ‘Diving Bell and the Butterfly’ story](None)
+* **Link to site:** **[Another real-world ‘Diving Bell and the Butterfly’ story](None)**

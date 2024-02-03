@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Weather
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[CityPockets | Your Personal Deal Organizer](http://www.citypockets.com)
+* **Link to site:** **[CityPockets | Your Personal Deal Organizer](http://www.citypockets.com)**

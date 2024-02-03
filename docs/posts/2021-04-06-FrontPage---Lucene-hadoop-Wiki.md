@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - etech hadoop
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
 
-(**Web site excerpt:** Interesting parallel processing scheme, model and framework) 
-[FrontPage - Lucene-hadoop Wiki](http://wiki.apache.org/lucene-hadoop/FrontPage)
+* **Web site excerpt:** Interesting parallel processing scheme, model and framework
+
+* **Link to site:** **[FrontPage - Lucene-hadoop Wiki](http://wiki.apache.org/lucene-hadoop/FrontPage)**

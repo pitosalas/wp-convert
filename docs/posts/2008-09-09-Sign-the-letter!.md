@@ -21,4 +21,4 @@ candidates/>), and if you like, [sign
 it!](<http://www.pgpf.org/getinvolved/letter-to-candidates/#sign>)
 
 
-[Sign the letter!](None)
+* **Link to site:** **[Sign the letter!](None)**

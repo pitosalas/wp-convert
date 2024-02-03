@@ -40,4 +40,4 @@ in the techniques.
 >> Technorati Tags: [movabletype](<http://technorati.com/tag/movabletype>)
 
 
-[Looks like I’ve beat comment spam — for now!](None)
+* **Link to site:** **[Looks like I’ve beat comment spam — for now!](None)**

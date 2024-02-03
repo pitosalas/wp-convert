@@ -18,4 +18,4 @@ one on the computer. See one of my favorite new terms,
 [Retronym](<//en.wikipedia.org/wiki/Retronym\)>).
 
 
-[Who’s your friend?](None)
+* **Link to site:** **[Who’s your friend?](None)**

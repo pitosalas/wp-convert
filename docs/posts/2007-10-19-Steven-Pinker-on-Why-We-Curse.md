@@ -23,4 +23,4 @@ Curse, "What the
 F***?"](<http://www.tnr.com/doc.mhtml?i=20071008&s=pinker100807>)
 
 
-[Steven Pinker on Why We Curse](None)
+* **Link to site:** **[Steven Pinker on Why We Curse](None)**

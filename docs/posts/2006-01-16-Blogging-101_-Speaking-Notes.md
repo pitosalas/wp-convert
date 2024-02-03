@@ -23,4 +23,4 @@ bunch of relevant links.
 [bloglines](<http://www.technorati.com/tag/bloglines>)
 
 
-[Blogging 101: Speaking Notes](None)
+* **Link to site:** **[Blogging 101: Speaking Notes](None)**

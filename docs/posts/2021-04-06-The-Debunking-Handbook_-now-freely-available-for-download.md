@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - debunking science
 ---
-<img src=http://www.skepticalscience.com/public/assets/images/og/button_sks2_200.jpg width="500">
+<img class="cover" src=http://www.skepticalscience.com/public/assets/images/og/button_sks2_200.jpg>
 
 
-[The Debunking Handbook: now freely available for download](http://www.skepticalscience.com/Debunking-Handbook-now-freely-available-download.html)
+* **Link to site:** **[The Debunking Handbook: now freely available for download](http://www.skepticalscience.com/Debunking-Handbook-now-freely-available-download.html)**

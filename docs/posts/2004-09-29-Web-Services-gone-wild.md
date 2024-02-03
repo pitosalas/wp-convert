@@ -62,4 +62,4 @@ it's an **interesting approach** that I will work on **refining** and then
 incorporate into [BlogBridge](<http://www.blogbridge.com>).
 
 
-[Web Services gone wild](None)
+* **Link to site:** **[Web Services gone wild](None)**

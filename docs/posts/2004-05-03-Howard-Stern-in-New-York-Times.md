@@ -10,4 +10,4 @@ date: 2004-05-03
 >> For Howard Stern fans out there, here's a good article.
 
 
-[Howard Stern in New York Times](None)
+* **Link to site:** **[Howard Stern in New York Times](None)**

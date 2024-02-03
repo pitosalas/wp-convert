@@ -52,4 +52,4 @@ other wonderful passages:
 I could go on. It's a great, long, essay. Read it.
 
 
-[Evidence of a Global SuperOrganism](None)
+* **Link to site:** **[Evidence of a Global SuperOrganism](None)**

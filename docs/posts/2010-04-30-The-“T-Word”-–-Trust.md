@@ -17,4 +17,4 @@ thought provoking, don't you think?
 > **from** [I, Cringely](<http://www.cringely.com/2010/04/the-t-word/>))
 
 
-[The “T Word” – Trust](None)
+* **Link to site:** **[The “T Word” – Trust](None)**

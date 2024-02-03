@@ -43,4 +43,4 @@ Herot's Weblog:](<http://herot.typepad.com/cherot/>)
 > tail-o.html>))
 
 
-[The Long Tail of Facebook Applications](None)
+* **Link to site:** **[The Long Tail of Facebook Applications](None)**

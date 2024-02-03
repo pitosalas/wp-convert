@@ -29,4 +29,4 @@ serious about their web site." ( **from**
 [searchengines](<http://technorati.com/tag/searchengines>)
 
 
-[[GEEKY] Google page rank patent](None)
+* **Link to site:** **[[GEEKY] Google page rank patent](None)**

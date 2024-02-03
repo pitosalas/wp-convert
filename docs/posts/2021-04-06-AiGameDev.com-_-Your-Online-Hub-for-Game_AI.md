@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Design
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[AiGameDev.com | Your Online Hub for Game/AI](http://aigamedev.com)
+* **Link to site:** **[AiGameDev.com | Your Online Hub for Game/AI](http://aigamedev.com)**

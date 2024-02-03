@@ -11,9 +11,10 @@ tags:
     - howto
     - extensions
 ---
-<img src=https://miro.medium.com/max/1148/1*8gU4gUl8ZhWThB8bRm6w0w.png width="500">
+<img class="cover" src=https://miro.medium.com/max/1148/1*8gU4gUl8ZhWThB8bRm6w0w.png>
 
 
 
-(**Web site excerpt:** Welcome back! Python is one of my favorite programming languages of all time, if you’re new to Python, check out the link below to learn…) 
-[Awesome VS Code Extensions For Python](https://link.medium.com/cTLnfCMdYmb)
+* **Web site excerpt:** Welcome back! Python is one of my favorite programming languages of all time, if you’re new to Python, check out the link below to learn…
+
+* **Link to site:** **[Awesome VS Code Extensions For Python](https://link.medium.com/cTLnfCMdYmb)**

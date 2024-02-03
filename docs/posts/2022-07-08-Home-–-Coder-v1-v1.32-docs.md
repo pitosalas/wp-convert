@@ -18,4 +18,4 @@ developer workspaces (featuring remote IDEs and all related resources) for
 DevOps, platform, and software engineering teams."
 
 
-[Home – Coder v1 v1.32 docs](None)
+* **Link to site:** **[Home – Coder v1 v1.32 docs](None)**

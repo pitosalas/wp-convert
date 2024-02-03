@@ -31,4 +31,4 @@ AD2005-07-14>))
 [vc](<http://technorati.com/tag/vc>)
 
 
-[People are still doing groupware startups, believe it or not!](None)
+* **Link to site:** **[People are still doing groupware startups, believe it or not!](None)**

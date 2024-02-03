@@ -39,4 +39,4 @@ always fascinated and amused to see just the right/wrong word make all the
 **difference** in the point being made.
 
 
-[Words DO matter](None)
+* **Link to site:** **[Words DO matter](None)**

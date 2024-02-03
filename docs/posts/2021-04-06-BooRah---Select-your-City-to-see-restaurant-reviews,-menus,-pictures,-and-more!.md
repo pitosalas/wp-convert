@@ -6,7 +6,7 @@ link: "http://www.boorah.com/restaurants"
 cover: "" 
 date: 2021-04-06
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[BooRah - Select your City to see restaurant reviews, menus, pictures, and more!](http://www.boorah.com/restaurants)
+* **Link to site:** **[BooRah - Select your City to see restaurant reviews, menus, pictures, and more!](http://www.boorah.com/restaurants)**

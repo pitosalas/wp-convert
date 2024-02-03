@@ -33,4 +33,4 @@ finds. Business and sports suggestions are particularly welcome." ( **from**
 [OPML](<http://technorati.com/tag/OPML>)
 
 
-[Blogging 101 article in NYT](None)
+* **Link to site:** **[Blogging 101 article in NYT](None)**

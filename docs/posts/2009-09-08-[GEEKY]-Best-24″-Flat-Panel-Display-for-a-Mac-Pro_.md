@@ -26,4 +26,4 @@ microphone and camera. **Any suggestions**?
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[[GEEKY] Best 24″ Flat Panel Display for a Mac Pro?](None)
+* **Link to site:** **[[GEEKY] Best 24″ Flat Panel Display for a Mac Pro?](None)**

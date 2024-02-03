@@ -33,4 +33,4 @@ this, and that Microsoft has said they want it.
 But what do I know, it's just a rumor.
 
 
-[Rumorville: Microsoft – Amazon](None)
+* **Link to site:** **[Rumorville: Microsoft – Amazon](None)**

@@ -29,4 +29,4 @@ central characteristic, even in the corporate setting."_
 ](<http://www.blogbridge.com>)🙂
 
 
-[What is a Blog, redux](None)
+* **Link to site:** **[What is a Blog, redux](None)**

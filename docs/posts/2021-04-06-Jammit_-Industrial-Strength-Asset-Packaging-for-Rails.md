@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Rails
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fdocumentcloud.github.com%2Fjammit width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fdocumentcloud.github.com%2Fjammit>
 
 
-[Jammit: Industrial Strength Asset Packaging for Rails](http://documentcloud.github.com/jammit)
+* **Link to site:** **[Jammit: Industrial Strength Asset Packaging for Rails](http://documentcloud.github.com/jammit)**

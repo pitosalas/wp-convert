@@ -70,4 +70,4 @@ some level by that long ago, seminal application, Agenda.
 a chance **Chandler** and others will have?
 
 
-[Is the world ready for a replacement to Outlook?](None)
+* **Link to site:** **[Is the world ready for a replacement to Outlook?](None)**

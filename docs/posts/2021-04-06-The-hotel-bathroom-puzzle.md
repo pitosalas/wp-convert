@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - puzzle design
 ---
-<img src=https://nevalalee.files.wordpress.com/2015/11/louis-xiv-bathroom-before.jpg?w=640 width="500">
+<img class="cover" src=https://nevalalee.files.wordpress.com/2015/11/louis-xiv-bathroom-before.jpg?w=640>
 
 
 
-(**Web site excerpt:** In his wonderful book The Evolution of Useful Things, the author and civil engineer Henry Petroski shares one of the most famous case studies in the history of design: Before it was destroyed by fi…) 
-[The hotel bathroom puzzle](https://nevalalee.wordpress.com/2015/11/27/the-hotel-bathroom-puzzle)
+* **Web site excerpt:** In his wonderful book The Evolution of Useful Things, the author and civil engineer Henry Petroski shares one of the most famous case studies in the history of design: Before it was destroyed by fi…
+
+* **Link to site:** **[The hotel bathroom puzzle](https://nevalalee.wordpress.com/2015/11/27/the-hotel-bathroom-puzzle)**

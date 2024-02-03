@@ -11,9 +11,10 @@ tags:
     - programming
     - howto
 ---
-<img src=https://res.cloudinary.com/practicaldev/image/fetch/s--Fa6wYAhR--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://proxy.duckduckgo.com/iu/%3Fu%3Dhttps%253A%252F%252Fwww.ibm.com%252Fevents%252Fthink%252Fimages%252FLeadspace_static.png%26f%3D1 width="500">
+<img class="cover" src=https://res.cloudinary.com/practicaldev/image/fetch/s--Fa6wYAhR--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://proxy.duckduckgo.com/iu/%3Fu%3Dhttps%253A%252F%252Fwww.ibm.com%252Fevents%252Fthink%252Fimages%252FLeadspace_static.png%26f%3D1>
 
 
 
-(**Web site excerpt:** think about It...) 
-[There's no \"else if\" in JS](https://dev.to/genta/theres-no-else-if-in-js--24f9)
+* **Web site excerpt:** think about It...
+
+* **Link to site:** **[There's no \"else if\" in JS](https://dev.to/genta/theres-no-else-if-in-js--24f9)**

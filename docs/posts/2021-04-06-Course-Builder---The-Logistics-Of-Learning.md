@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - course
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fwww.coursebuilder.com.au width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.coursebuilder.com.au>
 
 
-[Course Builder - The Logistics Of Learning](http://www.coursebuilder.com.au)
+* **Link to site:** **[Course Builder - The Logistics Of Learning](http://www.coursebuilder.com.au)**

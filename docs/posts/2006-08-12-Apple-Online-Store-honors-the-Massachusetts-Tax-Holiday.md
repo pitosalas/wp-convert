@@ -17,4 +17,4 @@ honoring](<http://www.apple.com/retail/taxfree/massachusetts.html>) it. I
 don't know, you can never be sure with Apple, they Think Different.
 
 
-[Apple Online Store honors the Massachusetts Tax Holiday](None)
+* **Link to site:** **[Apple Online Store honors the Massachusetts Tax Holiday](None)**

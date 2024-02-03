@@ -46,4 +46,4 @@ Preview"](<http://www.esquire.com/blogs/politics/second-presidential-
 debate-2012-13764625?click=pp>))
 
 
-[How are the presidential debates like a Nascar race?](None)
+* **Link to site:** **[How are the presidential debates like a Nascar race?](None)**

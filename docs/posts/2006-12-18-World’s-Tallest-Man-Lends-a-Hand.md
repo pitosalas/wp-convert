@@ -35,4 +35,4 @@ date: 2006-12-18
 >> ---
 
 
-[World’s Tallest Man Lends a Hand](None)
+* **Link to site:** **[World’s Tallest Man Lends a Hand](None)**

@@ -40,4 +40,4 @@ heads behind podiums….._
 >> [David](<http://www.isen.com/blog/>), count me **IN!**
 
 
-[David Isenberg’s WTF Conference: This](None)
+* **Link to site:** **[David Isenberg’s WTF Conference: This](None)**

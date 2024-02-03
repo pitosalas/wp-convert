@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Rails
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fwww.jqplot.com width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.jqplot.com>
 
 
-[jqPlot Charts and Graphs for jQuery](http://www.jqplot.com)
+* **Link to site:** **[jqPlot Charts and Graphs for jQuery](http://www.jqplot.com)**

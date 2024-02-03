@@ -24,4 +24,4 @@ misguided, that Krugman's a socialist (whatever that means) and that Krugman's
 way off base and extremely partisan. Whoops. Now I am even more confused.
 
 
-[How Corrupt is Our Language in Economic Discourse?](None)
+* **Link to site:** **[How Corrupt is Our Language in Economic Discourse?](None)**

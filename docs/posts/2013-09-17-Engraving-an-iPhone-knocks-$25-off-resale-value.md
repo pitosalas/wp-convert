@@ -22,4 +22,4 @@ $220.
 Word to the wise: Don't engrave.
 
 
-[Engraving an iPhone knocks $25 off resale value](None)
+* **Link to site:** **[Engraving an iPhone knocks $25 off resale value](None)**

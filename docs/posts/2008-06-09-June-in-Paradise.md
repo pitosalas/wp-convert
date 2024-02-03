@@ -30,4 +30,4 @@ were surprised by the **30 foot snow banks!**
 Yes, that's me in the picture 🙂
 
 
-[June in Paradise](None)
+* **Link to site:** **[June in Paradise](None)**

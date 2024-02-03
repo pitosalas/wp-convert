@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - manager file shell cli
 ---
-<img src=https://avatars.githubusercontent.com/u/5959286?s=400&v=4 width="500">
+<img class="cover" src=https://avatars.githubusercontent.com/u/5959286?s=400&v=4>
 
 
 
-(**Web site excerpt:** Looks interesting) 
-[Norton Commander is back](https://github.com/jarun/nnn)
+* **Web site excerpt:** Looks interesting
+
+* **Link to site:** **[Norton Commander is back](https://github.com/jarun/nnn)**

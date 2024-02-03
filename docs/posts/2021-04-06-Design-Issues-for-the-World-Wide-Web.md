@@ -6,7 +6,7 @@ link: "http://www.w3.org/DesignIssues"
 cover: "https://rdl.ink/render/http%3A%2F%2Fwww.w3.org%2FDesignIssues" 
 date: 2021-04-06
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fwww.w3.org%2FDesignIssues width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.w3.org%2FDesignIssues>
 
 
-[Design Issues for the World Wide Web](http://www.w3.org/DesignIssues)
+* **Link to site:** **[Design Issues for the World Wide Web](http://www.w3.org/DesignIssues)**

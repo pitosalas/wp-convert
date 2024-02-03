@@ -22,4 +22,4 @@ X-ified version of Gnu AIM (GAIM.) I just started using it 10 minutes ago, and
 so far, its every bit as good as Trillian was! Coolness!
 
 
-[Switcher’s Log](None)
+* **Link to site:** **[Switcher’s Log](None)**

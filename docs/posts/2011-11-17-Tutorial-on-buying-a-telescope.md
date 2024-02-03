@@ -55,4 +55,4 @@ If you are thinking of buying a telescope (or giving one as a gift), Ben says:
 > Hope this helps as guidance.
 
 
-[Tutorial on buying a telescope](None)
+* **Link to site:** **[Tutorial on buying a telescope](None)**

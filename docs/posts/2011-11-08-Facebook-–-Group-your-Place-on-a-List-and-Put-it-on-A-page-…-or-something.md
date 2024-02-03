@@ -26,4 +26,4 @@ useful.
 If you know better, please illuminate me!
 
 
-[Facebook – Group your Place on a List and Put it on A page … or something](None)
+* **Link to site:** **[Facebook – Group your Place on a List and Put it on A page … or something](None)**

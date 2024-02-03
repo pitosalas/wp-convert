@@ -49,4 +49,4 @@ yet whether there are other ones, but for now,
 [RMagick](<http://rmagick.rubyforge.org/>) wins for me!
 
 
-[[Geeky] RMagick and memory leaks](None)
+* **Link to site:** **[[Geeky] RMagick and memory leaks](None)**

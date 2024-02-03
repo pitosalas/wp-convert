@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - kirsner
 ---
-<img src=https://up4.typepad.com/6a00d8345169ac69e200e5501c10f08834-220si width="500">
+<img class="cover" src=https://up4.typepad.com/6a00d8345169ac69e200e5501c10f08834-220si>
 
 
-[BijanBlog](http://sabet.typepad.com)
+* **Link to site:** **[BijanBlog](http://sabet.typepad.com)**

@@ -20,4 +20,4 @@ are against offshore outsourcing today would have been against immigration in
 the past. (And I say that as an actual immigrant 🙂
 
 
-[Outsourcing and Immigration (WTF Series, 3)](None)
+* **Link to site:** **[Outsourcing and Immigration (WTF Series, 3)](None)**

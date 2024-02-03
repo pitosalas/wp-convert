@@ -20,4 +20,4 @@ legitimate requests, by noise and intimidation.
 Just a random geek thought…
 
 
-[[Random Geek Thought] Human DoS](None)
+* **Link to site:** **[[Random Geek Thought] Human DoS](None)**

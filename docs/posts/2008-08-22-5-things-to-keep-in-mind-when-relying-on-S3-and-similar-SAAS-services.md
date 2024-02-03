@@ -58,4 +58,4 @@ Here's why I say that:
 _Originally posted on Feb 19, 2008. Reprinted courtesy of ReRuns plug-in._
 
 
-[5 things to keep in mind when relying on S3 and similar SAAS services](None)
+* **Link to site:** **[5 things to keep in mind when relying on S3 and similar SAAS services](None)**

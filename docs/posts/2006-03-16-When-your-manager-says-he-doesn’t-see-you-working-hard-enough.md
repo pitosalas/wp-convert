@@ -26,4 +26,4 @@ date: 2006-03-16
 >> Technorati Tags: [management](<http://www.technorati.com/tag/management>)
 
 
-[When your manager says he doesn’t see you working hard enough](None)
+* **Link to site:** **[When your manager says he doesn’t see you working hard enough](None)**

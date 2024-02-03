@@ -11,9 +11,10 @@ tags:
     - shell
     - monitoring
 ---
-<img src=https://avatars.githubusercontent.com/u/59659483?s=400&v=4 width="500">
+<img class="cover" src=https://avatars.githubusercontent.com/u/59659483?s=400&v=4>
 
 
 
-(**Web site excerpt:** Linux/OSX/FreeBSD resource monitor. Contribute to aristocratos/bashtop development by creating an account on GitHub.) 
-[amazing little character based resource monitor](https://github.com/aristocratos/bashtop)
+* **Web site excerpt:** Linux/OSX/FreeBSD resource monitor. Contribute to aristocratos/bashtop development by creating an account on GitHub.
+
+* **Link to site:** **[amazing little character based resource monitor](https://github.com/aristocratos/bashtop)**

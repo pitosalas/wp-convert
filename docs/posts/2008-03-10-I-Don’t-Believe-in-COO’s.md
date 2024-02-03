@@ -19,4 +19,4 @@ from [Feld Thoughts](<http://www.feld.com/blog/>):
 > COO's](<http://feeds.feedburner.com/~r/FeldThoughts/~3/247383503/i_dont_believe.html>))
 
 
-[I Don’t Believe in COO’s](None)
+* **Link to site:** **[I Don’t Believe in COO’s](None)**

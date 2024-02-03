@@ -23,4 +23,4 @@ Harlan Anderson was one of the founders of DEC.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[Lexington Public Library’s responsible for the computer revolution?](None)
+* **Link to site:** **[Lexington Public Library’s responsible for the computer revolution?](None)**

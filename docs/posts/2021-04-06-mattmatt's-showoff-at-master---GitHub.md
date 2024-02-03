@@ -6,7 +6,7 @@ link: "https://github.com/mattmatt/showoff"
 cover: "" 
 date: 2021-04-06
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[mattmatt's showoff at master - GitHub](https://github.com/mattmatt/showoff)
+* **Link to site:** **[mattmatt's showoff at master - GitHub](https://github.com/mattmatt/showoff)**

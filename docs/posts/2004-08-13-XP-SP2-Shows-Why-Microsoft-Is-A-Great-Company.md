@@ -40,4 +40,4 @@ maybe then Microsoft might loose their lock-in.
 >> **Not before.**
 
 
-[XP SP2 Shows Why Microsoft Is A Great Company](None)
+* **Link to site:** **[XP SP2 Shows Why Microsoft Is A Great Company](None)**

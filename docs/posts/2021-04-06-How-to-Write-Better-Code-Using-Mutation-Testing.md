@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - mutation testing
 ---
-<img src=https://cognitohq.com/wp-content/uploads/2019/08/how-write@2x.png width="500">
+<img class="cover" src=https://cognitohq.com/wp-content/uploads/2019/08/how-write@2x.png>
 
 
 
-(**Web site excerpt:** Mutation testing is a novel and ingesting way to think about testing. Very cool.) 
-[How to Write Better Code Using Mutation Testing](https://blog.cognitohq.com/how-to-write-better-code-using-mutation-testing)
+* **Web site excerpt:** Mutation testing is a novel and ingesting way to think about testing. Very cool.
+
+* **Link to site:** **[How to Write Better Code Using Mutation Testing](https://blog.cognitohq.com/how-to-write-better-code-using-mutation-testing)**

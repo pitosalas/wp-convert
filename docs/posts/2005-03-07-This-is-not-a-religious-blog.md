@@ -16,4 +16,4 @@ been a gigantic waste of time and a waste of life. It would be a joke of
 cosmic proportions if it weren't so tragic."
 
 
-[This is not a religious blog](None)
+* **Link to site:** **[This is not a religious blog](None)**

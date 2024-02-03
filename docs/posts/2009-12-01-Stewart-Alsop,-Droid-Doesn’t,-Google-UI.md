@@ -47,4 +47,4 @@ post, and, maybe I will!
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[Stewart Alsop, Droid Doesn’t, Google UI](None)
+* **Link to site:** **[Stewart Alsop, Droid Doesn’t, Google UI](None)**

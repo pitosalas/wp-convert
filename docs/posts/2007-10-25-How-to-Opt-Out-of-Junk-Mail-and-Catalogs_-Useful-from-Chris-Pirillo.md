@@ -18,4 +18,4 @@ junk-mail-and-catalogs-2/>) from [Chris Pirillo](<http://chris.pirillo.com>):
 > and-catalogs-2/>))
 
 
-[How to Opt Out of Junk Mail and Catalogs: Useful from Chris Pirillo](None)
+* **Link to site:** **[How to Opt Out of Junk Mail and Catalogs: Useful from Chris Pirillo](None)**

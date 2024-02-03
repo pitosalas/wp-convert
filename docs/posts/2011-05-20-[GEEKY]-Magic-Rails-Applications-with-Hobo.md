@@ -36,4 +36,4 @@ If you are looking for a further accelerator for building Rails apps,
 #railsconf
 
 
-[[GEEKY] Magic Rails Applications with Hobo](None)
+* **Link to site:** **[[GEEKY] Magic Rails Applications with Hobo](None)**

@@ -17,4 +17,4 @@ IaC tools available. Learn its benefits and how to use it. This is a nice
 medium level explanation.
 
 
-[A Developer’s Guide to Terraform – Semaphore](None)
+* **Link to site:** **[A Developer’s Guide to Terraform – Semaphore](None)**

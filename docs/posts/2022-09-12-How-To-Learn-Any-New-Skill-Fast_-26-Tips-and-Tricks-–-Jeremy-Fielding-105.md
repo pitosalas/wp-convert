@@ -17,4 +17,4 @@ a new skill. I myself am struggling go learn to play the piano. Ha! I’ve been
 doing that for over 10 years. Still diggin’
 
 
-[How To Learn Any New Skill Fast: 26 Tips and Tricks – Jeremy Fielding 105](None)
+* **Link to site:** **[How To Learn Any New Skill Fast: 26 Tips and Tricks – Jeremy Fielding 105](None)**

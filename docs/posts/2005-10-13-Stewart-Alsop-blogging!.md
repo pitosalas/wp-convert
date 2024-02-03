@@ -26,4 +26,4 @@ world, so let's give him a huge audience 🙂
 [stewartalsop](<http://www.technorati.com/tag/stewartalsop>)
 
 
-[Stewart Alsop blogging!](None)
+* **Link to site:** **[Stewart Alsop blogging!](None)**

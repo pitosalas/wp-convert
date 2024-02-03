@@ -40,4 +40,4 @@ Blog](<http://www.scienceblog.com/cms/web_game_provides_breakthrough_in_predicti
 >> Technorati Tags: [interesting](<http://www.technorati.com/tag/interesting>)
 
 
-[Amusing: “Where’s George”](None)
+* **Link to site:** **[Amusing: “Where’s George”](None)**

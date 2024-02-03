@@ -6,7 +6,7 @@ link: "http://townhall.com/columnists/thomassowell/archive.shtml"
 cover: "" 
 date: 2021-04-06
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Thomas Sowell :: Townhall.com](http://townhall.com/columnists/thomassowell/archive.shtml)
+* **Link to site:** **[Thomas Sowell :: Townhall.com](http://townhall.com/columnists/thomassowell/archive.shtml)**

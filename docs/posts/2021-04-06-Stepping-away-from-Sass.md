@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - coding css sass html
 ---
-<img src=https://cathydutton.co.uk/images/profile-image.jpg width="500">
+<img class="cover" src=https://cathydutton.co.uk/images/profile-image.jpg>
 
 
 
-(**Web site excerpt:** I never liked SASS myself.) 
-[Stepping away from Sass](https://cathydutton.co.uk/posts/why-i-stopped-using-sass)
+* **Web site excerpt:** I never liked SASS myself.
+
+* **Link to site:** **[Stepping away from Sass](https://cathydutton.co.uk/posts/why-i-stopped-using-sass)**

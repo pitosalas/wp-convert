@@ -37,4 +37,4 @@ money here? I asked some people, and the answer I got was “Sell hardware, sell
 Java cards.” Somehow I am not persuaded. Why are they doing so poorly?
 
 
-[[JAVAONE] JavaOne Keynote](None)
+* **Link to site:** **[[JAVAONE] JavaOne Keynote](None)**

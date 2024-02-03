@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - designer
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fwww.arzbergerstationers.com width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.arzbergerstationers.com>
 
 
 
-(**Web site excerpt:** Thank you cards etc) 
-[Designer Stationery, Personalized Stationery, Stationery Invitations](http://www.arzbergerstationers.com)
+* **Web site excerpt:** Thank you cards etc
+
+* **Link to site:** **[Designer Stationery, Personalized Stationery, Stationery Invitations](http://www.arzbergerstationers.com)**

@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - python data science ide
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
 
-(**Web site excerpt:** Nice overview of choices of IDEs for Python and data science) 
-[Top 5 Python IDEs For Data Science (article) - DataCamp](https://www.datacamp.com/community/tutorials/data-science-python-ide)
+* **Web site excerpt:** Nice overview of choices of IDEs for Python and data science
+
+* **Link to site:** **[Top 5 Python IDEs For Data Science (article) - DataCamp](https://www.datacamp.com/community/tutorials/data-science-python-ide)**

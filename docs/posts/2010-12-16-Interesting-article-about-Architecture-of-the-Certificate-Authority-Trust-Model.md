@@ -23,4 +23,4 @@ Tinker](<http://freedom-to-tinker.com/rss.xml>):
 .
 
 
-[Interesting article about Architecture of the Certificate Authority Trust Model](None)
+* **Link to site:** **[Interesting article about Architecture of the Certificate Authority Trust Model](None)**

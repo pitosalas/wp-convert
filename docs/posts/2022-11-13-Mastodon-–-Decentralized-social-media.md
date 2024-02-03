@@ -15,4 +15,4 @@ more about Mastodon, the radically different, free and open-source
 decentralized social media platform.
 
 
-[Mastodon – Decentralized social media](None)
+* **Link to site:** **[Mastodon – Decentralized social media](None)**

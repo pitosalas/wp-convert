@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - code ruby technical lamdas
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Using Lambdas to Simplify Varying Behaviors in Your Code](https://bbs-software.com/blog/2018/08/04/using-lambdas-to-simplify-varying-behaviors-in-your-code.html)
+* **Link to site:** **[Using Lambdas to Simplify Varying Behaviors in Your Code](https://bbs-software.com/blog/2018/08/04/using-lambdas-to-simplify-varying-behaviors-in-your-code.html)**

@@ -31,4 +31,4 @@ the down-lo:
 **I 'm coming. Are you?**
 
 
-[Barcamp is coming to Boston again!](None)
+* **Link to site:** **[Barcamp is coming to Boston again!](None)**

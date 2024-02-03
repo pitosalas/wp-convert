@@ -32,4 +32,4 @@ it's interesting.
 >> Technorati Tags: [opensource](<http://www.technorati.com/tag/opensource>)
 
 
-[Open Source: the space between Corporation and Commune?](None)
+* **Link to site:** **[Open Source: the space between Corporation and Commune?](None)**

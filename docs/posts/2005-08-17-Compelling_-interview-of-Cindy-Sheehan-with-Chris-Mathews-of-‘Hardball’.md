@@ -16,4 +16,4 @@ war."](<http://msnbc.msn.com/Default.aspx?id=8972147&uart=10&uarc=Rating>)
 >> Technorati Tags: [iraq](<http://technorati.com/tag/iraq>)
 
 
-[Compelling: interview of Cindy Sheehan with Chris Mathews of ‘Hardball’](None)
+* **Link to site:** **[Compelling: interview of Cindy Sheehan with Chris Mathews of ‘Hardball’](None)**

@@ -28,4 +28,4 @@ got picked up by [Java Desktop](<http://community.java.net/javadesktop/>) as a
 >> **Wicked cool** , as they say!
 
 
-[BlogBridge makes top 10 List!](None)
+* **Link to site:** **[BlogBridge makes top 10 List!](None)**

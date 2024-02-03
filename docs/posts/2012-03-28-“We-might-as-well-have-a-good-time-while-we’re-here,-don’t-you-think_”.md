@@ -22,4 +22,4 @@ as depressing just as really good writing and really true.
 content/uploads/2012/03/b52d4-quote.png?w=584&ssl=1)
 
 
-[“We might as well have a good time while we’re here, don’t you think?”](None)
+* **Link to site:** **[“We might as well have a good time while we’re here, don’t you think?”](None)**

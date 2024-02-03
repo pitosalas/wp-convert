@@ -25,4 +25,4 @@ the tsunami victims. Why? Because the money is not the government's to give.
 [Link](<http://www.aynrand.org/site/News2?page=NewsArticle&id=10688&news_iv_ctrl=1021>).
 
 
-[When I was younger I used to admire Ayn Rand](None)
+* **Link to site:** **[When I was younger I used to admire Ayn Rand](None)**

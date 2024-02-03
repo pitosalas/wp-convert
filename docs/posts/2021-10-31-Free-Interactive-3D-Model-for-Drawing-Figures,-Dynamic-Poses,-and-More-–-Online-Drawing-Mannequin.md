@@ -21,4 +21,4 @@ also often called drawing mannequins
 October 31, 2021 at 02:21PM
 
 
-[Free Interactive 3D Model for Drawing Figures, Dynamic Poses, and More – Online Drawing Mannequin](None)
+* **Link to site:** **[Free Interactive 3D Model for Drawing Figures, Dynamic Poses, and More – Online Drawing Mannequin](None)**

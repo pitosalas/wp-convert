@@ -52,4 +52,4 @@ that humans find very useful, but the whole thing is too much of a
 [RSS](<http://www.technorati.com/tag/RSS>)
 
 
-[RSS is not a goal…](None)
+* **Link to site:** **[RSS is not a goal…](None)**

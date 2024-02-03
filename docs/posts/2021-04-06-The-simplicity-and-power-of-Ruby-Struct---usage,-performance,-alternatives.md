@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - usage ruby
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
 
-(**Web site excerpt:** Interesting esoteric info about ruby, structs, hashes and more!) 
-[The simplicity and power of Ruby Struct - usage, performance, alternatives](http://pdabrowski.com/blog/ruby/ruby-struct)
+* **Web site excerpt:** Interesting esoteric info about ruby, structs, hashes and more!
+
+* **Link to site:** **[The simplicity and power of Ruby Struct - usage, performance, alternatives](http://pdabrowski.com/blog/ruby/ruby-struct)**

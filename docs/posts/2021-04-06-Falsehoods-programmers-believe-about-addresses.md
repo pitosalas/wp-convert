@@ -10,7 +10,7 @@ tags:
     - programmers
     - programming
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Fwww.mjt.me.uk%2Fposts%2Ffalsehoods-programmers-believe-about-addresses width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.mjt.me.uk%2Fposts%2Ffalsehoods-programmers-believe-about-addresses>
 
 
-[Falsehoods programmers believe about addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses)
+* **Link to site:** **[Falsehoods programmers believe about addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses)**

@@ -10,9 +10,10 @@ tags:
     - algorithm
     - explainer
 ---
-<img src=https://res.cloudinary.com/practicaldev/image/fetch/s--lwzX09BG--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/xostdllclnv7e09tri35.jpeg width="500">
+<img class="cover" src=https://res.cloudinary.com/practicaldev/image/fetch/s--lwzX09BG--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/xostdllclnv7e09tri35.jpeg>
 
 
 
-(**Web site excerpt:** Review in a straightforward manner the complexity of the key sort algorithms) 
-[Notes on algorithms - DEV Community](https://dev.to/hexangel616/notes-on-algorithms-36pi)
+* **Web site excerpt:** Review in a straightforward manner the complexity of the key sort algorithms
+
+* **Link to site:** **[Notes on algorithms - DEV Community](https://dev.to/hexangel616/notes-on-algorithms-36pi)**

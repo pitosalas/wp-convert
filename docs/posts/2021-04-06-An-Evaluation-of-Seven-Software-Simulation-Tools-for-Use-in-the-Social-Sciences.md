@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - simulation software Weather
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[An Evaluation of Seven Software Simulation Tools for Use in the Social Sciences](http://www.irit.fr/COSI/training/evaluationoftools/Evaluation-Of-Ascape.htm)
+* **Link to site:** **[An Evaluation of Seven Software Simulation Tools for Use in the Social Sciences](http://www.irit.fr/COSI/training/evaluationoftools/Evaluation-Of-Ascape.htm)**

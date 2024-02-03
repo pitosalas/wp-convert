@@ -11,9 +11,10 @@ tags:
     - howto
     - ssh
 ---
-<img src=https://github.githubassets.com/images/modules/open_graph/github-logo.png width="500">
+<img class="cover" src=https://github.githubassets.com/images/modules/open_graph/github-logo.png>
 
 
 
-(**Web site excerpt:** Learn to work with your local repositories on your computer and remote repositories hosted on GitHub.) 
-[Managing remote repositories - GitHub Docs](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories)
+* **Web site excerpt:** Learn to work with your local repositories on your computer and remote repositories hosted on GitHub.
+
+* **Link to site:** **[Managing remote repositories - GitHub Docs](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories)**

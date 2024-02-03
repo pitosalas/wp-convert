@@ -20,4 +20,4 @@ fun and profit! Power and efficiency through content-addressable storage and
 delta compression
 
 
-[A Nibble of Git’s Object Store](None)
+* **Link to site:** **[A Nibble of Git’s Object Store](None)**

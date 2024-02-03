@@ -50,4 +50,4 @@ date: 2006-10-06
 > Technorati Tags: [oprah](<http://www.technorati.com/tag/oprah>)
 
 
-[Book report: A million little pieces](None)
+* **Link to site:** **[Book report: A million little pieces](None)**

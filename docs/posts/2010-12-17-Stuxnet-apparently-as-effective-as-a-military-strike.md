@@ -36,4 +36,4 @@ Really fascinating.
 > years](<http://www.jpost.com/IranianThreat/News/Article.aspx?id=199475>))
 
 
-[Stuxnet apparently as effective as a military strike](None)
+* **Link to site:** **[Stuxnet apparently as effective as a military strike](None)**

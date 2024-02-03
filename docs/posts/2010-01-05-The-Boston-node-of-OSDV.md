@@ -58,4 +58,4 @@ hat into the virtual ring.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[The Boston node of OSDV](None)
+* **Link to site:** **[The Boston node of OSDV](None)**

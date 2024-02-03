@@ -14,4 +14,4 @@ my being your clipping service from now on, -- these just caught my eye 🙂
   * [Interesting juxtaposition of the Cold War with Global Warming](<http://www.nytimes.com/2007/04/11/opinion/11wed4.html>)
 
 
-[interesting stuff in the paper today](None)
+* **Link to site:** **[interesting stuff in the paper today](None)**

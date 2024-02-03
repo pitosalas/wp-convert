@@ -13,9 +13,10 @@ tags:
     - k3s
     - kubernetes
 ---
-<img src=https://cdn.evilmartians.com/front/posts/ruby-on-whales-docker-for-ruby-rails-development/cover-ea9e8a2.png width="500">
+<img class="cover" src=https://cdn.evilmartians.com/front/posts/ruby-on-whales-docker-for-ruby-rails-development/cover-ea9e8a2.png>
 
 
 
-(**Web site excerpt:** I am working on a ruby on rails cluster. There will be many links about my research. An exhaustive and documented Docker configuration for developing Ruby and Rails applications) 
-[Ruby on Whales: Dockerizing Ruby and Rails development — Martian Chronicles](https://evilmartians.com/chronicles/ruby-on-whales-docker-for-ruby-rails-development)
+* **Web site excerpt:** I am working on a ruby on rails cluster. There will be many links about my research. An exhaustive and documented Docker configuration for developing Ruby and Rails applications
+
+* **Link to site:** **[Ruby on Whales: Dockerizing Ruby and Rails development — Martian Chronicles](https://evilmartians.com/chronicles/ruby-on-whales-docker-for-ruby-rails-development)**

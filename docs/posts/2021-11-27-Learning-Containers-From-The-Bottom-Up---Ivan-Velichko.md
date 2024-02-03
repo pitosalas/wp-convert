@@ -12,9 +12,10 @@ tags:
     - linux
     - explainer
 ---
-<img src=https://iximiuz.com/container-learning-path/docker-containerd-runc-2000-opt.png width="500">
+<img class="cover" src=https://iximiuz.com/container-learning-path/docker-containerd-runc-2000-opt.png>
 
 
 
-(**Web site excerpt:** What is a Container? Container vs. VM? Docker vs. Kubernetes. How to organize the learning efficiently?) 
-[Learning Containers From The Bottom Up - Ivan Velichko](https://iximiuz.com/en/posts/container-learning-path/)
+* **Web site excerpt:** What is a Container? Container vs. VM? Docker vs. Kubernetes. How to organize the learning efficiently?
+
+* **Link to site:** **[Learning Containers From The Bottom Up - Ivan Velichko](https://iximiuz.com/en/posts/container-learning-path/)**

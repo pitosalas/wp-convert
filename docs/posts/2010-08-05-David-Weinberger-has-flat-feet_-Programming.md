@@ -46,4 +46,4 @@ I wonder what the flat footed developer corps thinks. Does Visual Programming
 help?
 
 
-[David Weinberger has flat feet: Programming](None)
+* **Link to site:** **[David Weinberger has flat feet: Programming](None)**

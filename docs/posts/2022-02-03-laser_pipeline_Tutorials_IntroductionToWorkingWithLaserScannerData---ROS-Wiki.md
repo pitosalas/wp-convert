@@ -11,7 +11,7 @@ tags:
     - point-cloud
     - howto
 ---
-<img src=http://wiki.ros.org/laser_pipeline/Tutorials/IntroductionToWorkingWithLaserScannerData?action=AttachFile&do=get&target=rviz_base_small.png width="500">
+<img class="cover" src=http://wiki.ros.org/laser_pipeline/Tutorials/IntroductionToWorkingWithLaserScannerData?action=AttachFile&do=get&target=rviz_base_small.png>
 
 
-[laser_pipeline/Tutorials/IntroductionToWorkingWithLaserScannerData - ROS Wiki](http://wiki.ros.org/laser_pipeline/Tutorials/IntroductionToWorkingWithLaserScannerData)
+* **Link to site:** **[laser_pipeline/Tutorials/IntroductionToWorkingWithLaserScannerData - ROS Wiki](http://wiki.ros.org/laser_pipeline/Tutorials/IntroductionToWorkingWithLaserScannerData)**

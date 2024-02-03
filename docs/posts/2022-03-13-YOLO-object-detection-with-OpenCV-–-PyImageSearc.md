@@ -16,4 +16,4 @@ objects in images and video using OpenCV, Python, and Deep Learning.
 March 14, 2022 at 01:32AM
 
 
-[YOLO object detection with OpenCV – PyImageSearc](None)
+* **Link to site:** **[YOLO object detection with OpenCV – PyImageSearc](None)**

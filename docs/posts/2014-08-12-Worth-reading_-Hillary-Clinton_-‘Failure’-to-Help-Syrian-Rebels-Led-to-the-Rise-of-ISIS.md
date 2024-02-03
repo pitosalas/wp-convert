@@ -16,4 +16,4 @@ across Syria and Iraq today—from seizing control of the rebellion. Link:
 http://ift.tt/1A5bEuv My Blog
 
 
-[Worth reading: Hillary Clinton: ‘Failure’ to Help Syrian Rebels Led to the Rise of ISIS](None)
+* **Link to site:** **[Worth reading: Hillary Clinton: ‘Failure’ to Help Syrian Rebels Led to the Rise of ISIS](None)**

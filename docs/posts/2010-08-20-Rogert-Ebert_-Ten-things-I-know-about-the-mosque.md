@@ -20,4 +20,4 @@ from [Roger Ebert's Journal](<http://blogs.suntimes.com/ebert/atom.xml>):
 > mosque](<http://blogs.suntimes.com/ebert/2010/08/ten_things_i_know_about_the_mo.html>))
 
 
-[Rogert Ebert: Ten things I know about the mosque](None)
+* **Link to site:** **[Rogert Ebert: Ten things I know about the mosque](None)**

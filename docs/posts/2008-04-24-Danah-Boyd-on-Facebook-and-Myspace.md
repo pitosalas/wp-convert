@@ -31,4 +31,4 @@ the whole [article about Myspace and
 Facebook](<http://www.danah.org/papers/essays/ClassDivisions.html>).
 
 
-[Danah Boyd on Facebook and Myspace](None)
+* **Link to site:** **[Danah Boyd on Facebook and Myspace](None)**

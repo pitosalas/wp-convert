@@ -17,4 +17,4 @@ Unfortunately this has issues reading linux partitions (well […]
 May 24, 2021 at 04:15PM
 
 
-[The fastest way to clone an SD card on macOS – Jaimyn’s Blog](None)
+* **Link to site:** **[The fastest way to clone an SD card on macOS – Jaimyn’s Blog](None)**

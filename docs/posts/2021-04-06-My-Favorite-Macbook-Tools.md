@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - productivity tools cli macbook
 ---
-<img src=https://switowski.com/assets/img/card-post_2020-01-09-mac-tools.jpg width="500">
+<img class="cover" src=https://switowski.com/assets/img/card-post_2020-01-09-mac-tools.jpg>
 
 
 
-(**Web site excerpt:** These lists come and go all the time. I learned a couple of new ones so chance it out!) 
-[My Favorite Macbook Tools](https://switowski.com/blog/favorite-mac-tools)
+* **Web site excerpt:** These lists come and go all the time. I learned a couple of new ones so chance it out!
+
+* **Link to site:** **[My Favorite Macbook Tools](https://switowski.com/blog/favorite-mac-tools)**

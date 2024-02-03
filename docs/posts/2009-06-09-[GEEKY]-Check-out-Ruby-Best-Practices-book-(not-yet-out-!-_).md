@@ -29,4 +29,4 @@ Technorati Tags: [DSL](<http://technorati.com/tag/DSL>),
 [Ruby](<http://technorati.com/tag/Ruby>)
 
 
-[[GEEKY] Check out Ruby Best Practices book (not yet out ! :)](None)
+* **Link to site:** **[[GEEKY] Check out Ruby Best Practices book (not yet out ! :)](None)**

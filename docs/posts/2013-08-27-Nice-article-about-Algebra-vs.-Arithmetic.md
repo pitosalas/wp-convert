@@ -32,4 +32,4 @@ profkeithdevlin](<http://profkeithdevlin.org/2011/11/20/what-is-algebra/>):
 
 
 
-[Nice article about Algebra vs. Arithmetic](None)
+* **Link to site:** **[Nice article about Algebra vs. Arithmetic](None)**

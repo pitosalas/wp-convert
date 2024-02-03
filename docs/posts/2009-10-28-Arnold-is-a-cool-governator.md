@@ -40,4 +40,4 @@ Check out [Schwarzenegger Gives California Legislature A Hidden Finger
 .
 
 
-[Arnold is a cool governator](None)
+* **Link to site:** **[Arnold is a cool governator](None)**

@@ -26,4 +26,4 @@ Very well put. I think this notion applies more broadly than just non-profit
 CEOs.
 
 
-[In Defense of Raising Money: a Manifesto for NonProfit CEOs](None)
+* **Link to site:** **[In Defense of Raising Money: a Manifesto for NonProfit CEOs](None)**

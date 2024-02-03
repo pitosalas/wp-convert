@@ -12,9 +12,10 @@ tags:
     - hiking
     - trace
 ---
-<img src=http://www.wandermap.net/static/img/logo-share.png width="500">
+<img class="cover" src=http://www.wandermap.net/static/img/logo-share.png>
 
 
 
-(**Web site excerpt:** Wandermap is one of the largest collections of hike routes on the web. Hike routes can be mapped or uploaded from GPS devices.) 
-[Wandermap - Your hiking routes online](http://www.wandermap.net/en/?tab=new#/z4/54.521081,15.292969/terrain)
+* **Web site excerpt:** Wandermap is one of the largest collections of hike routes on the web. Hike routes can be mapped or uploaded from GPS devices.
+
+* **Link to site:** **[Wandermap - Your hiking routes online](http://www.wandermap.net/en/?tab=new#/z4/54.521081,15.292969/terrain)**

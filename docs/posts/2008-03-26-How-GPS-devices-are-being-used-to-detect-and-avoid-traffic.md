@@ -25,4 +25,4 @@ cell phones as well as verbal reports can get integrated together into an
 overall picture of where the traffic is and how to avoid it.
 
 
-[How GPS devices are being used to detect and avoid traffic](None)
+* **Link to site:** **[How GPS devices are being used to detect and avoid traffic](None)**

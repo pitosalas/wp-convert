@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - microservices fowler architecture
 ---
-<img src=https://martinfowler.com/articles/microservices/images/card.png width="500">
+<img class="cover" src=https://martinfowler.com/articles/microservices/images/card.png>
 
 
 
-(**Web site excerpt:** Defining the microservices architectural style by describing their nine common characteristics) 
-[Microservices](http://martinfowler.com/articles/microservices.html)
+* **Web site excerpt:** Defining the microservices architectural style by describing their nine common characteristics
+
+* **Link to site:** **[Microservices](http://martinfowler.com/articles/microservices.html)**

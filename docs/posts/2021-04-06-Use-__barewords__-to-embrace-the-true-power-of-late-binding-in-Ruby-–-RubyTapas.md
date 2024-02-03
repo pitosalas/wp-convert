@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - ruby techniques
 ---
-<img src=https://www.rubytapas.com/wp-content/uploads/2016/06/episode-004-barewords-still.jpg width="500">
+<img class="cover" src=https://www.rubytapas.com/wp-content/uploads/2016/06/episode-004-barewords-still.jpg>
 
 
-[Use \"barewords\" to embrace the true power of late-binding in Ruby – RubyTapas](https://www.rubytapas.com/2018/06/05/barewords)
+* **Link to site:** **[Use \"barewords\" to embrace the true power of late-binding in Ruby – RubyTapas](https://www.rubytapas.com/2018/06/05/barewords)**

@@ -22,4 +22,4 @@ change which means that anyone linked to your blog before will stay linked to
 your old blog and so you will experience a disruption in your traffic.
 
 
-[Moving from Radio to Movable Type](None)
+* **Link to site:** **[Moving from Radio to Movable Type](None)**

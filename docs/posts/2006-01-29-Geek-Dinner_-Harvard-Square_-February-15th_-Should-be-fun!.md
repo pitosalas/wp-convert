@@ -76,4 +76,4 @@ Services, Startups, etc.
 [geekdinner](<http://www.technorati.com/tag/geekdinner>)
 
 
-[Geek Dinner? Harvard Square? February 15th? Should be fun!](None)
+* **Link to site:** **[Geek Dinner? Harvard Square? February 15th? Should be fun!](None)**

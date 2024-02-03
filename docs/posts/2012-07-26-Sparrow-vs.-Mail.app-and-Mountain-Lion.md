@@ -50,4 +50,4 @@ GMail than Mail.app.
 I guess I will **stick with Sparrow,** for now.
 
 
-[Sparrow vs. Mail.app and Mountain Lion](None)
+* **Link to site:** **[Sparrow vs. Mail.app and Mountain Lion](None)**

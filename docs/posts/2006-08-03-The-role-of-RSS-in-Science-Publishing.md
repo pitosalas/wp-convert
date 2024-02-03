@@ -12,4 +12,4 @@ interesting survey of RSS and issues that folks in the Science community have
 to be aware of.
 
 
-[The role of RSS in Science Publishing](None)
+* **Link to site:** **[The role of RSS in Science Publishing](None)**

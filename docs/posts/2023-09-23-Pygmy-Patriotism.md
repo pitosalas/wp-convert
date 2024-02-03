@@ -12,9 +12,10 @@ tags:
     - history
     - history journalism newspapers
 ---
-<img src=https://cdn.theatlantic.com/static/theatlantic/img/lacroix-default-thumbnail.png width="500">
+<img class="cover" src=https://cdn.theatlantic.com/static/theatlantic/img/lacroix-default-thumbnail.png>
 
 More interesting history about Oppenheimer and the bomb
 
-(**Web site excerpt:** None) 
-[Pygmy Patriotism](https://www.theatlantic.com/magazine/archive/1969/11/pygmy-patriotism/659281/)
+* **Web site excerpt:** None
+
+* **Link to site:** **[Pygmy Patriotism](https://www.theatlantic.com/magazine/archive/1969/11/pygmy-patriotism/659281/)**

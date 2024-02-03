@@ -11,9 +11,10 @@ tags:
     - philosophy
     - dense
 ---
-<img src=https://149663533.v2.pressablecdn.com/wp-content/uploads/2021/10/cropped-Jacket.gif width="500">
+<img class="cover" src=https://149663533.v2.pressablecdn.com/wp-content/uploads/2021/10/cropped-Jacket.gif>
 
 
 
-(**Web site excerpt:** Author says: “Every week now, it seems, events on the ground make a fresh mockery of those who confidently assert what AI will never be able to do, or won’t do for centuries if ever, or is incoherent even …”) 
-[Why am I not terrified of AI?](https://scottaaronson.blog/?p=7064?utm_source=abyteofcodingnewsletter)
+* **Web site excerpt:** Author says: “Every week now, it seems, events on the ground make a fresh mockery of those who confidently assert what AI will never be able to do, or won’t do for centuries if ever, or is incoherent even …”
+
+* **Link to site:** **[Why am I not terrified of AI?](https://scottaaronson.blog/?p=7064?utm_source=abyteofcodingnewsletter)**

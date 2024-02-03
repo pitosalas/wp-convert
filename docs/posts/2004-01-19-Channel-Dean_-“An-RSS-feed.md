@@ -48,4 +48,4 @@ intellectual property and copyright?
 Syndication, etc.) so exciting.
 
 
-[Channel Dean: “An RSS feed](None)
+* **Link to site:** **[Channel Dean: “An RSS feed](None)**

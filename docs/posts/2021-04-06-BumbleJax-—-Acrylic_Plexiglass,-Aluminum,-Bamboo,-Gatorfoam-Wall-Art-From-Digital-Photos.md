@@ -13,9 +13,10 @@ tags:
     - mount
     - paywall
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fblog.bumblejax.com width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fblog.bumblejax.com>
 
 
 
-(**Web site excerpt:** The Photo Print & Mounting Experts) 
-[BumbleJax — Acrylic/Plexiglass, Aluminum, Bamboo, Gatorfoam Wall Art From Digital Photos](http://blog.bumblejax.com)
+* **Web site excerpt:** The Photo Print & Mounting Experts
+
+* **Link to site:** **[BumbleJax — Acrylic/Plexiglass, Aluminum, Bamboo, Gatorfoam Wall Art From Digital Photos](http://blog.bumblejax.com)**

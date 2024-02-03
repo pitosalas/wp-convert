@@ -31,4 +31,4 @@ were present in one and not the other.
 Q.E.D.
 
 
-[Order in Google arguments](None)
+* **Link to site:** **[Order in Google arguments](None)**

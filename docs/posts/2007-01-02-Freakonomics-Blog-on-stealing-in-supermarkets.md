@@ -39,4 +39,4 @@ date: 2007-01-02
 > Supermarkets](<http://feeds.feedburner.com/~r/FreakonomicsBlog/~3/69311101/>))
 
 
-[Freakonomics Blog on stealing in supermarkets](None)
+* **Link to site:** **[Freakonomics Blog on stealing in supermarkets](None)**

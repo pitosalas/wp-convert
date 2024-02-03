@@ -30,4 +30,4 @@ This is an area I am quite interested in! I am planning to [check Loomio
 out.](<https://www.loomio.org>)
 
 
-[Loomio: Collaborative Decision Making](None)
+* **Link to site:** **[Loomio: Collaborative Decision Making](None)**

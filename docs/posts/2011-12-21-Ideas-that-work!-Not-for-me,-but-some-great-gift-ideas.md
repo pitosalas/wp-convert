@@ -28,4 +28,4 @@ School](<http://feeds.feedburner.com/digitalphotographyschool>):
 > photography-school.com>)
 
 
-[Ideas that work! Not for me, but some great gift ideas](None)
+* **Link to site:** **[Ideas that work! Not for me, but some great gift ideas](None)**

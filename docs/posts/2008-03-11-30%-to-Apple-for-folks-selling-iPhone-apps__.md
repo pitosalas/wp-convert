@@ -29,4 +29,4 @@ to the thread) there is no other way to get a 3d party app onto the iPhone -
 you have to do it through Apple.
 
 
-[30% to Apple for folks selling iPhone apps??](None)
+* **Link to site:** **[30% to Apple for folks selling iPhone apps??](None)**

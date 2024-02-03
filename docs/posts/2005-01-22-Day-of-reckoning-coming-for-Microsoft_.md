@@ -39,4 +39,4 @@ may be getting interesting for Microsoft. It will take years, but I think we
 are seeing some stormclouds on the horizon.
 
 
-[Day of reckoning coming for Microsoft?](None)
+* **Link to site:** **[Day of reckoning coming for Microsoft?](None)**

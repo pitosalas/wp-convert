@@ -13,4 +13,4 @@ expand it as we release revisions and updates. If you are interested in
 joining up, send me email at beta@blogbridge.com.
 
 
-[BlogBridge beta update](None)
+* **Link to site:** **[BlogBridge beta update](None)**

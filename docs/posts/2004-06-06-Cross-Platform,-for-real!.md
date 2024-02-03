@@ -42,4 +42,4 @@ yet, other than some minor font goop, it looks quite nice, IMHO.
 > thumb.jpg?resize=300%2C289)](<https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/archives/blogbridge.jpg>)
 
 
-[Cross Platform, for real!](None)
+* **Link to site:** **[Cross Platform, for real!](None)**

@@ -27,4 +27,4 @@ experimenting with blogs and what they mean and what they are good for. And
 here we go…
 
 
-[Programming Esoterica](None)
+* **Link to site:** **[Programming Esoterica](None)**

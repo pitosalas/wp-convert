@@ -19,4 +19,4 @@ Monocular Camera with ROS Read More »
 March 18, 2022 at 08:38PM
 
 
-[Calibrating a Monocular Camera with ROS – Robotics with ROS](None)
+* **Link to site:** **[Calibrating a Monocular Camera with ROS – Robotics with ROS](None)**

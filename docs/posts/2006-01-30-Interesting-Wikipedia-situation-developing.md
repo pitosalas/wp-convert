@@ -71,4 +71,4 @@ flat after all.
 >> Technorati Tags: [wikipedia](<http://www.technorati.com/tag/wikipedia>)
 
 
-[Interesting Wikipedia situation developing](None)
+* **Link to site:** **[Interesting Wikipedia situation developing](None)**

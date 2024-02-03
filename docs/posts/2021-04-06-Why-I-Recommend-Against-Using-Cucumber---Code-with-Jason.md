@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - cucumber rails
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Why I Recommend Against Using Cucumber - Code with Jason](https://www.codewithjason.com/recommend-using-cucumber)
+* **Link to site:** **[Why I Recommend Against Using Cucumber - Code with Jason](https://www.codewithjason.com/recommend-using-cucumber)**

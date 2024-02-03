@@ -27,4 +27,4 @@ Read more about it in the [New York Times: US Underwrites Detour Around
 Sensors.](<http://www.nytimes.com/2011/06/12/world/12internet.html>)
 
 
-[Internet in a suitcase](None)
+* **Link to site:** **[Internet in a suitcase](None)**

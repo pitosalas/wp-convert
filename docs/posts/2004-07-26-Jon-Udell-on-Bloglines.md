@@ -62,4 +62,4 @@ left off**.
 >> What do you think?
 
 
-[Jon Udell on Bloglines](None)
+* **Link to site:** **[Jon Udell on Bloglines](None)**

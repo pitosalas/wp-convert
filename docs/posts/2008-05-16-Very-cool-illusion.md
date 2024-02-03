@@ -20,4 +20,4 @@ really worked for me, and is really strange and wonderful!
 Technorati Tags: [cool](<http://www.technorati.com/tag/cool>)
 
 
-[Very cool illusion](None)
+* **Link to site:** **[Very cool illusion](None)**

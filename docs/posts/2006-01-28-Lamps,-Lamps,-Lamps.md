@@ -23,4 +23,4 @@ mean, [just lamps](<http://en.wikipedia.org/wiki/Lamp>) 🙂
 >> Technorati Tags: [lamps](<http://www.technorati.com/tag/lamps>)
 
 
-[Lamps, Lamps, Lamps](None)
+* **Link to site:** **[Lamps, Lamps, Lamps](None)**

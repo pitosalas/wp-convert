@@ -40,4 +40,4 @@ effective**. But for now I guess I don't need it.
 >> Technorati Tags: [commentspam](<http://www.technorati.com/tag/commentspam>)
 
 
-[Comment spam – solved for now?](None)
+* **Link to site:** **[Comment spam – solved for now?](None)**

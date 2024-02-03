@@ -37,4 +37,4 @@ by employing some good old crowd sourcing.
 > Strategy](<https://www.mckinseyquarterly.com/Strategy/Strategy_in_Practice/The_social_side_of_strategy_2965>))
 
 
-[[EDUCATION] Crowd Sourcing your Strategy](None)
+* **Link to site:** **[[EDUCATION] Crowd Sourcing your Strategy](None)**

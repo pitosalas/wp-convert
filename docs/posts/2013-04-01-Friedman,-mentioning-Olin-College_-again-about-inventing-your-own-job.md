@@ -62,4 +62,4 @@ end:
 > a-job-invent-it.html?ref=opinion&_r=0>))
 
 
-[Friedman, mentioning Olin College: again about inventing your own job](None)
+* **Link to site:** **[Friedman, mentioning Olin College: again about inventing your own job](None)**

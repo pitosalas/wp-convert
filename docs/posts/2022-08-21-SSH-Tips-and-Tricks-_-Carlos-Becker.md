@@ -12,12 +12,13 @@ tags:
     - config
     - howto
 ---
-<img src=https://carlosbecker.com/ width="500">
+<img class="cover" src=https://carlosbecker.com/>
 
 
 
-(**Web site excerpt:** Since I joined Charm, I’ve been working and learning more about SSH, and I thought I would share a few quick tips and tricks with you.
+* **Web site excerpt:** Since I joined Charm, I’ve been working and learning more about SSH, and I thought I would share a few quick tips and tricks with you.
 Forward Yubikey Agent If you use a Yubikey (you should), you can use it in your remotes by having the key in a SSH agent and forwarding it.
 To manage the agent, I strongly recommend yubikey-agent.
-You can then forward it in your ~/.ssh/config like the following:) 
-[SSH Tips and Tricks | Carlos Becker](https://carlosbecker.dev/posts/ssh-tips-and-tricks/)
+You can then forward it in your ~/.ssh/config like the following:
+
+* **Link to site:** **[SSH Tips and Tricks | Carlos Becker](https://carlosbecker.dev/posts/ssh-tips-and-tricks/)**

@@ -22,4 +22,4 @@ other goodies. Watch the fun tour-do-force video too:
 on [Vimeo](<http://vimeo.com>).
 
 
-[[GEEKY] Resfulie GEM for Rails and RESˇ](None)
+* **Link to site:** **[[GEEKY] Resfulie GEM for Rails and RESˇ](None)**

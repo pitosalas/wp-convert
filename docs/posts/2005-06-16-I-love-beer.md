@@ -15,4 +15,4 @@ date: 2005-06-16
 >> Technorati Tags: [funny](<http://technorati.com/tag/funny>)
 
 
-[I love beer](None)
+* **Link to site:** **[I love beer](None)**

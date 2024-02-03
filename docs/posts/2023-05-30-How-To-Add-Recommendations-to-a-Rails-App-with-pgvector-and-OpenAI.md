@@ -11,9 +11,10 @@ tags:
     - rails
     - postgres
 ---
-<img src=https://miro.medium.com/v2/resize:fit:1200/1*6tpPW2BJsprHH6EUmI_JQg.png width="500">
+<img class="cover" src=https://miro.medium.com/v2/resize:fit:1200/1*6tpPW2BJsprHH6EUmI_JQg.png>
 
 
 
-(**Web site excerpt:** Creating recommendations with  pgvector, ruby-openai, and the neighbor gem.) 
-[How-To Add Recommendations to a Rails App with pgvector and OpenAI](https://link.medium.com/Xfk2UqtydAb)
+* **Web site excerpt:** Creating recommendations with  pgvector, ruby-openai, and the neighbor gem.
+
+* **Link to site:** **[How-To Add Recommendations to a Rails App with pgvector and OpenAI](https://link.medium.com/Xfk2UqtydAb)**

@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - bitcoin ebook
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fcoindale.com%2Fbitcoinbook width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fcoindale.com%2Fbitcoinbook>
 
 
-[Conversational Bitcoin: The Ebook](http://coindale.com/bitcoinbook)
+* **Link to site:** **[Conversational Bitcoin: The Ebook](http://coindale.com/bitcoinbook)**

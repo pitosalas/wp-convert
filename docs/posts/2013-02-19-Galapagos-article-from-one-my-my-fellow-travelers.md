@@ -17,4 +17,4 @@ Morning Herald by one of our co-travelers](<http://www.smh.com.au/travel/its-
 only-natural-20130214-2eeb6.html>).
 
 
-[Galapagos article from one my my fellow travelers](None)
+* **Link to site:** **[Galapagos article from one my my fellow travelers](None)**

@@ -24,4 +24,4 @@ Video](<http://techblog.tv/full-list-of-siri-commands-how-to-use-siri/>):
 
 
 
-[[GEEKY] List of Siri Commands](None)
+* **Link to site:** **[[GEEKY] List of Siri Commands](None)**

@@ -18,4 +18,4 @@ out.](<http://www.clientjava.com/blog/2004/12/07/1102430658000.html>).
 statements about Java Web Start. Here's what I said.
 
 
-[BlogBridge interview](None)
+* **Link to site:** **[BlogBridge interview](None)**

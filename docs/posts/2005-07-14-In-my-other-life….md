@@ -16,4 +16,4 @@ are looking for me to do work for you!
 >> Technorati Tags: [Consulting](<http://technorati.com/tag/Consulting>)
 
 
-[In my other life…](None)
+* **Link to site:** **[In my other life…](None)**

@@ -14,9 +14,10 @@ tags:
     - documentary
     - video
 ---
-<img src=https://www.documentarymania.com/Favicons/social-logo.png width="500">
+<img class="cover" src=https://www.documentarymania.com/Favicons/social-logo.png>
 
 
 
-(**Web site excerpt:** The world's best free documentary collection - Simply the best Documentaries) 
-[Documentary Mania - Free Documentaries Online](https://www.documentarymania.com/home.php)
+* **Web site excerpt:** The world's best free documentary collection - Simply the best Documentaries
+
+* **Link to site:** **[Documentary Mania - Free Documentaries Online](https://www.documentarymania.com/home.php)**

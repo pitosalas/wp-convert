@@ -45,4 +45,4 @@ package](<http://members.ebay.com/ws2/eBayISAPI.dll?ViewUserPage&userid=auctions
 which I thought **was a pretty cool idea**. Credit where credit is due.
 
 
-[eBay to assist in setting BlogBridge Price](None)
+* **Link to site:** **[eBay to assist in setting BlogBridge Price](None)**

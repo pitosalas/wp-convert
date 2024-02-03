@@ -29,4 +29,4 @@ in support (probably nothing) and what does wordpress.com give in support?
 (probably nothing.)
 
 
-[What’s wrong with Squarespace Support?](None)
+* **Link to site:** **[What’s wrong with Squarespace Support?](None)**

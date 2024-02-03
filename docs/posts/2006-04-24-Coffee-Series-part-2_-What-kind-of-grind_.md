@@ -70,4 +70,4 @@ fine, or did I press too hard, or both?
 >> Technorati Tags: [capresso](<http://www.technorati.com/tag/capresso>)
 
 
-[Coffee Series part 2: What kind of grind?](None)
+* **Link to site:** **[Coffee Series part 2: What kind of grind?](None)**

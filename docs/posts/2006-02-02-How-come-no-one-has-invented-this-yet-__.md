@@ -31,4 +31,4 @@ reason there's no correct emoticon, at least as far as I know…
 >> Technorati Tags: [funny](<http://www.technorati.com/tag/funny>)
 
 
-[How come no-one has invented this yet :?](None)
+* **Link to site:** **[How come no-one has invented this yet :?](None)**

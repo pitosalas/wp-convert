@@ -6,7 +6,7 @@ link: "http://www.smithsonianjourneys.org/tours/value-cruise-greece-turkey?displ
 cover: "" 
 date: 2021-04-06
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[The Wonders of Turkey and the Greek Isles: Istanbul to Athens, Ocean/River Cruises, Educational Travel - Smithsonian Journeys](http://www.smithsonianjourneys.org/tours/value-cruise-greece-turkey?display=email&sent=1)
+* **Link to site:** **[The Wonders of Turkey and the Greek Isles: Istanbul to Athens, Ocean/River Cruises, Educational Travel - Smithsonian Journeys](http://www.smithsonianjourneys.org/tours/value-cruise-greece-turkey?display=email&sent=1)**

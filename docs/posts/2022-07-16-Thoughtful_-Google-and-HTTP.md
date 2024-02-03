@@ -10,9 +10,10 @@ tags:
     - thinker
     - blog
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fthis.how%2FgoogleAndHttp%2F width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fthis.how%2FgoogleAndHttp%2F>
 
 
 
-(**Web site excerpt:** Google is a guest on the web, as we all are. Guests don't make the rules.) 
-[Thoughtful: Google and HTTP](http://this.how/googleAndHttp/)
+* **Web site excerpt:** Google is a guest on the web, as we all are. Guests don't make the rules.
+
+* **Link to site:** **[Thoughtful: Google and HTTP](http://this.how/googleAndHttp/)**

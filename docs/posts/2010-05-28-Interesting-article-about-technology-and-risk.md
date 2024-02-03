@@ -28,4 +28,4 @@ check it out.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[Interesting article about technology and risk](None)
+* **Link to site:** **[Interesting article about technology and risk](None)**

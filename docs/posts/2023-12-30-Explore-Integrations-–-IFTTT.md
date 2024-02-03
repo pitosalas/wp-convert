@@ -14,4 +14,4 @@ the services you love on IFTTT. Explore the latest tips and tricks, browse by
 category, or search by name.
 
 
-[Explore Integrations – IFTTT](None)
+* **Link to site:** **[Explore Integrations – IFTTT](None)**

@@ -35,4 +35,4 @@ interesting!](<http://blog.payne.org/2013/02/16/this-is-not-your-fathers-
 software-industry/>)
 
 
-[Are smartphone apps “applications” or “features”?](None)
+* **Link to site:** **[Are smartphone apps “applications” or “features”?](None)**

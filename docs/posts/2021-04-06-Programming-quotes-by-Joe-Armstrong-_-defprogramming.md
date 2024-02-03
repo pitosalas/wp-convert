@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - programming quotes monkey banana
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fwww.defprogramming.com%2Fquotes-by%2Fjoe-armstrong width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.defprogramming.com%2Fquotes-by%2Fjoe-armstrong>
 
 
 
-(**Web site excerpt:** Classic quote about OO vs. functional) 
-[Programming quotes by Joe Armstrong | defprogramming](http://www.defprogramming.com/quotes-by/joe-armstrong)
+* **Web site excerpt:** Classic quote about OO vs. functional
+
+* **Link to site:** **[Programming quotes by Joe Armstrong | defprogramming](http://www.defprogramming.com/quotes-by/joe-armstrong)**

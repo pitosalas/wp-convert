@@ -25,4 +25,4 @@ grid. Just a fun fact.
 > Grid)_](<http://www.haydenplanetarium.org/resources/starstruck/manhattanhenge>)
 
 
-[Happy Manhattanhenge](None)
+* **Link to site:** **[Happy Manhattanhenge](None)**

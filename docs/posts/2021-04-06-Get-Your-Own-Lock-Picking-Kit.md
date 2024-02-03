@@ -10,7 +10,7 @@ tags:
     - locks
     - howto
 ---
-<img src=https://www.coolest-gadgets.com/wp-content/uploads/2006/08/bfg.jpg width="500">
+<img class="cover" src=https://www.coolest-gadgets.com/wp-content/uploads/2006/08/bfg.jpg>
 
 
-[Get Your Own Lock Picking Kit](http://www.coolest-gadgets.com/20060511/get-your-own-lock-picking-kit)
+* **Link to site:** **[Get Your Own Lock Picking Kit](http://www.coolest-gadgets.com/20060511/get-your-own-lock-picking-kit)**

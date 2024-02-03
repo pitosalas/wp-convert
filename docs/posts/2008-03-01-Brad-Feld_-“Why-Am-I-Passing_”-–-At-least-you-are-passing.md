@@ -31,4 +31,4 @@ kinds of reasons. It's **refreshing and it should be appreciated** when a
 potential investor reaches a definitive conclusion, even if it's a "No."
 
 
-[Brad Feld: “Why Am I Passing?” – At least you are passing](None)
+* **Link to site:** **[Brad Feld: “Why Am I Passing?” – At least you are passing](None)**

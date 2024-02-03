@@ -45,4 +45,4 @@ positions.html?src=me&ref=business>):
 > positions.html?src=me&ref=business>)
 
 
-[[EDUCATION] Booting up experienced technical talent who have dated skills](None)
+* **Link to site:** **[[EDUCATION] Booting up experienced technical talent who have dated skills](None)**

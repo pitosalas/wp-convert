@@ -41,4 +41,4 @@ enlarge.)
 thumb.jpg?resize=300%2C252)](<http://s3.media.squarespace.com/production/1075723/12829350/weblogs/archives/service.html>)
 
 
-[Announcing… The BlogBridge Service ;-)](None)
+* **Link to site:** **[Announcing… The BlogBridge Service ;-)](None)**

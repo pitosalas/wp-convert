@@ -20,4 +20,4 @@ places terminated after the army decided that they now don't have money to
 support those objects.
 
 
-[After the nuclear war](None)
+* **Link to site:** **[After the nuclear war](None)**

@@ -28,4 +28,4 @@ dunno, maybe I just imagined having powered it off a week ago…
 >> Technorati Tags: [osx](<http://www.technorati.com/tag/osx>)
 
 
-[How clever is Mac OS X?](None)
+* **Link to site:** **[How clever is Mac OS X?](None)**

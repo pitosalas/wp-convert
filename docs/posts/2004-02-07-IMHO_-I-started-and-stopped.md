@@ -42,4 +42,4 @@ wrote](<http://doc.weblogs.com/2004/02/06#peaceOut>): "There's so much left to
 do. Let's stop making it harder than it already is." **Life is too short.**
 
 
-[IMHO: I started and stopped](None)
+* **Link to site:** **[IMHO: I started and stopped](None)**

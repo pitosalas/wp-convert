@@ -40,4 +40,4 @@ As I digest what I learned, I will be posting more, as well as links to a
 bunch of interesting tools we learned about.
 
 
-[Lean Startups and Custdev](None)
+* **Link to site:** **[Lean Startups and Custdev](None)**

@@ -20,4 +20,4 @@ but you have to admit that this metaphor kills:
 Deux](<http://1raindrop.typepad.com/1_raindrop/2006/12/rest_security_o_1.html>)
 
 
-[[GEEKY] Metaphors Rule! Actually, some thoughts about REST Security](None)
+* **Link to site:** **[[GEEKY] Metaphors Rule! Actually, some thoughts about REST Security](None)**

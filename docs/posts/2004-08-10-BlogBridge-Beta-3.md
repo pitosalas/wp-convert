@@ -42,4 +42,4 @@ trick!
 >> **And let me know what you think!**
 
 
-[BlogBridge Beta 3](None)
+* **Link to site:** **[BlogBridge Beta 3](None)**

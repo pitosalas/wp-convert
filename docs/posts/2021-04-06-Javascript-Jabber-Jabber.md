@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - javascript jabber
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Javascript Jabber Jabber](http://jabber.javascriptjabber.com)
+* **Link to site:** **[Javascript Jabber Jabber](http://jabber.javascriptjabber.com)**

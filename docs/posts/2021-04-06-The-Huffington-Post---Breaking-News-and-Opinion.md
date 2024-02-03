@@ -6,9 +6,10 @@ link: "http://www.huffingtonpost.com"
 cover: "https://img.huffingtonpost.com/asset/5f3448f32200001eb13888de.jpg" 
 date: 2021-04-06
 ---
-<img src=https://img.huffingtonpost.com/asset/5f3448f32200001eb13888de.jpg width="500">
+<img class="cover" src=https://img.huffingtonpost.com/asset/5f3448f32200001eb13888de.jpg>
 
 
 
-(**Web site excerpt:** Read the latest headlines, news stories, and opinion from Politics, Entertainment, Life, Perspectives, and more.) 
-[The Huffington Post - Breaking News and Opinion](http://www.huffingtonpost.com)
+* **Web site excerpt:** Read the latest headlines, news stories, and opinion from Politics, Entertainment, Life, Perspectives, and more.
+
+* **Link to site:** **[The Huffington Post - Breaking News and Opinion](http://www.huffingtonpost.com)**

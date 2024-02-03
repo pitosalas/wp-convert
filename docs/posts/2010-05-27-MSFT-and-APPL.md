@@ -18,4 +18,4 @@ service, decides to move native support of the iPhone mapping app from Google
 Maps to Microsoft Maps? Good theory?
 
 
-[MSFT and APPL](None)
+* **Link to site:** **[MSFT and APPL](None)**

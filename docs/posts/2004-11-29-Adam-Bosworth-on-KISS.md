@@ -96,4 +96,4 @@ question, but it is thought provoking (as you can see, because it provoked me
 to write this little piece)
 
 
-[Adam Bosworth on KISS](None)
+* **Link to site:** **[Adam Bosworth on KISS](None)**

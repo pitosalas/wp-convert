@@ -40,4 +40,4 @@ Life](<http://www.micropersuasion.com/2006/06/attend_a_market.html>)
 >>
 
 
-[June 27th – Wonderful miraculous stuff](None)
+* **Link to site:** **[June 27th – Wonderful miraculous stuff](None)**

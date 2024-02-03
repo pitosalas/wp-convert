@@ -20,4 +20,4 @@ If you want to join me in San Diego, please send me an
 where and when.
 
 
-[See you at ETech! Also, BlogBridge 5.0 almost there](None)
+* **Link to site:** **[See you at ETech! Also, BlogBridge 5.0 almost there](None)**

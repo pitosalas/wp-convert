@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - Softw Entrepreneurship
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Fcodingvc.com%2Fcommon-startup-timing-mistakes-and-how-to-avoid-them width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fcodingvc.com%2Fcommon-startup-timing-mistakes-and-how-to-avoid-them>
 
 
 
-(**Web site excerpt:** A collection of timing-related mistakes that startups make, like hiring aggressively just before fundraising, or overlooking seasonality or sales cycles when creating a fundraising roadmap.) 
-[Common Startup Timing Mistakes and How to Avoid Them · Coding VC](https://codingvc.com/common-startup-timing-mistakes-and-how-to-avoid-them)
+* **Web site excerpt:** A collection of timing-related mistakes that startups make, like hiring aggressively just before fundraising, or overlooking seasonality or sales cycles when creating a fundraising roadmap.
+
+* **Link to site:** **[Common Startup Timing Mistakes and How to Avoid Them · Coding VC](https://codingvc.com/common-startup-timing-mistakes-and-how-to-avoid-them)**

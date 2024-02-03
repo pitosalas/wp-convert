@@ -25,4 +25,4 @@ thoughts](<http://feeds.feedburner.com/~r/zephoria/thoughts/~3/476456764/warning
 …
 
 
-[Warning: Email Sabbatical is Imminent .. and other random thoughts](None)
+* **Link to site:** **[Warning: Email Sabbatical is Imminent .. and other random thoughts](None)**

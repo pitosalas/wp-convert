@@ -15,4 +15,4 @@ getting others to contribute on this thing. Still Fun! (If you don't know what
 BlogBridge is, [check this out](<http://www.blogbridge.com>).)
 
 
-[BlogBridge update. In the last](None)
+* **Link to site:** **[BlogBridge update. In the last](None)**

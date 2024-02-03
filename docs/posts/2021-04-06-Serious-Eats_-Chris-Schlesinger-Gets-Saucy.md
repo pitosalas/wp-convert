@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - food innerbeauty
 ---
-<img src=https://www.seriouseats.com/images/20070215scotchbonnets.jpg width="500">
+<img class="cover" src=https://www.seriouseats.com/images/20070215scotchbonnets.jpg>
 
 
 
-(**Web site excerpt:** Recipe for the very famous inner beauty sauce) 
-[Serious Eats: Chris Schlesinger Gets Saucy](http://www.seriouseats.com/required_eating/2007/02/chris-schlesinger-gets-saucy.html)
+* **Web site excerpt:** Recipe for the very famous inner beauty sauce
+
+* **Link to site:** **[Serious Eats: Chris Schlesinger Gets Saucy](http://www.seriouseats.com/required_eating/2007/02/chris-schlesinger-gets-saucy.html)**

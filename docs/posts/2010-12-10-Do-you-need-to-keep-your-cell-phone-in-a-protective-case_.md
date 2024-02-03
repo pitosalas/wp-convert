@@ -24,4 +24,4 @@ smartphones-unsung-hero/?partner=rss&emc=rss>). Here's a tidbit:
 > smartphones-unsung-hero/?partner=rss&emc=rss>))
 
 
-[Do you need to keep your cell phone in a protective case?](None)
+* **Link to site:** **[Do you need to keep your cell phone in a protective case?](None)**

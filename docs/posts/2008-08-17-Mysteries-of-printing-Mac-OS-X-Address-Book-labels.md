@@ -18,4 +18,4 @@ baffling.
 _Originally posted on Feb 15, 2008. Reprinted courtesy of ReRuns plug-in._
 
 
-[Mysteries of printing Mac OS X Address Book labels](None)
+* **Link to site:** **[Mysteries of printing Mac OS X Address Book labels](None)**

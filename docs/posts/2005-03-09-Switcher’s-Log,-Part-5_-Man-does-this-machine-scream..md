@@ -36,4 +36,4 @@ moving windows around is fast, Ripping CDs is really fast.
 >> It's really fast!
 
 
-[Switcher’s Log, Part 5: Man does this machine scream.](None)
+* **Link to site:** **[Switcher’s Log, Part 5: Man does this machine scream.](None)**

@@ -28,4 +28,4 @@ Green Tech"), from BlogBridge topic expert [Al
 Tepper](<http://www.cityhippy.net/> "Green Tech")
 
 
-[“We are the people we have been waiting for.”](None)
+* **Link to site:** **[“We are the people we have been waiting for.”](None)**

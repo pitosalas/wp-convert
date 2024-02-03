@@ -58,4 +58,4 @@ thought this was some kind of **identity theft scam**.
 >> Technorati Tags: [interesting](<http://technorati.com/tag/interesting>)
 
 
-[Identity theft scam?](None)
+* **Link to site:** **[Identity theft scam?](None)**

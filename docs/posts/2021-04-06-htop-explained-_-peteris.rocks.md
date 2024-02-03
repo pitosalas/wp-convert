@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - htop linux unix explained
 ---
-<img src=https://peteris.rocks/blog/htop/canyoukillit-before.png width="500">
+<img class="cover" src=https://peteris.rocks/blog/htop/canyoukillit-before.png>
 
 
 
-(**Web site excerpt:** Useful info) 
-[htop explained | peteris.rocks](https://peteris.rocks/blog/htop)
+* **Web site excerpt:** Useful info
+
+* **Link to site:** **[htop explained | peteris.rocks](https://peteris.rocks/blog/htop)**

@@ -16,4 +16,4 @@ Sometimes there's a crazy quilt of magic and cleverness that is totally
 baffling.
 
 
-[Mysteries of printing Mac OS X Address Book labels](None)
+* **Link to site:** **[Mysteries of printing Mac OS X Address Book labels](None)**

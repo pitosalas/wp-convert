@@ -60,4 +60,4 @@ I know?
 [vc](<http://technorati.com/tag/vc>)
 
 
-[VC: Rumors of its demise are probably premature](None)
+* **Link to site:** **[VC: Rumors of its demise are probably premature](None)**

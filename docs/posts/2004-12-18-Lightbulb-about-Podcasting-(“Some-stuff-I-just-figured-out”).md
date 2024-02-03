@@ -66,4 +66,4 @@ other multitude of people who decide they want to follow what is being said.
 **Synergy**!
 
 
-[Lightbulb about Podcasting (“Some stuff I just figured out”)](None)
+* **Link to site:** **[Lightbulb about Podcasting (“Some stuff I just figured out”)](None)**

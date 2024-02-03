@@ -12,4 +12,4 @@ Gradescope](<https://www.gradescope.com/courses/282868/assignments/1427845/submi
 September 22, 2021 at 11:42PM
 
 
-[View Submission | Gradescope](None)
+* **Link to site:** **[View Submission | Gradescope](None)**

@@ -15,4 +15,4 @@ not entitle me to a tax inversion like the big US companies are getting.
 Thanks for nothing IRS.” That got me thinking.
 
 
-[Worth reading: Corporations are people. So what if people were corporations?](None)
+* **Link to site:** **[Worth reading: Corporations are people. So what if people were corporations?](None)**

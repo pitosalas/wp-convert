@@ -25,4 +25,5 @@
 img.cover {
     float: right;
     margin-left: 15px; /* Adds space between the text and the image */
-}}
+    width: 200px;
+}

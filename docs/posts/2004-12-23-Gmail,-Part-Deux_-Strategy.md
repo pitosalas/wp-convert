@@ -62,4 +62,4 @@ advertising revenue play - which might have
 cities/>) potential.
 
 
-[Gmail, Part Deux: Strategy](None)
+* **Link to site:** **[Gmail, Part Deux: Strategy](None)**

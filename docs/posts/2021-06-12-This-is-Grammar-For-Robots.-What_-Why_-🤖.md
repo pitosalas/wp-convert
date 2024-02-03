@@ -14,9 +14,10 @@ tags:
     - research
     - optimization
 ---
-<img src=https://i.ytimg.com/vi/rSPwOeX46UA/maxresdefault.jpg width="500">
+<img class="cover" src=https://i.ytimg.com/vi/rSPwOeX46UA/maxresdefault.jpg>
 
 
 
-(**Web site excerpt:** https://lambdalabs.com/papers📝 The paper "RoboGrammar: Graph Grammar for Terrain-Optimized Robot designer. Very intersting paper !) 
-[This is Grammar For Robots. What? Why? 🤖](https://www.youtube.com/watch?v=rSPwOeX46UA)
+* **Web site excerpt:** https://lambdalabs.com/papers📝 The paper "RoboGrammar: Graph Grammar for Terrain-Optimized Robot designer. Very intersting paper !
+
+* **Link to site:** **[This is Grammar For Robots. What? Why? 🤖](https://www.youtube.com/watch?v=rSPwOeX46UA)**

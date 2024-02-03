@@ -15,4 +15,4 @@ using [CoverItLive](<http://www.coveritlive>).
 an email to tell me that you found it useful or fun or whatever!
 
 
-[Demo 2008 – Continued](None)
+* **Link to site:** **[Demo 2008 – Continued](None)**

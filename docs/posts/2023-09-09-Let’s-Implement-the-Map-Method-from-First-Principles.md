@@ -20,4 +20,4 @@ post, we'll implement the map method from scratch, in turn gaining an
 intuitive understanding of higher-order functions and when to use them.
 
 
-[Let’s Implement the Map Method from First Principles](None)
+* **Link to site:** **[Let’s Implement the Map Method from First Principles](None)**

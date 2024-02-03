@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - FOOBAR
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fwww.text-link-ads.com width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.text-link-ads.com>
 
 
-[Text Link Ads - Smart Link Marketing](http://www.text-link-ads.com)
+* **Link to site:** **[Text Link Ads - Smart Link Marketing](http://www.text-link-ads.com)**

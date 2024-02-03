@@ -12,4 +12,4 @@ of
 Linking](<http://feeds.feedburner.com/~r/LooseWire/~3/94131923/baldheaded_brit.html>)
 
 
-[Good tip: Bald-headed Britney and the Lost Art of Linking](None)
+* **Link to site:** **[Good tip: Bald-headed Britney and the Lost Art of Linking](None)**

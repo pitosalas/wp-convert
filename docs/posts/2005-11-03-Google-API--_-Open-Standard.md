@@ -55,4 +55,4 @@ blog service I use. Powerful. And not coincidentally, also enabled by an API
 [google](<http://www.technorati.com/tag/google>)
 
 
-[Google API -> Open Standard](None)
+* **Link to site:** **[Google API -> Open Standard](None)**

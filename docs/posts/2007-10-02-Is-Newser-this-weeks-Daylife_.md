@@ -21,4 +21,4 @@ As someone who follows these kinds of products pretty closely, I don't
 immediately see the key differences. Do you?
 
 
-[Is Newser this weeks Daylife?](None)
+* **Link to site:** **[Is Newser this weeks Daylife?](None)**

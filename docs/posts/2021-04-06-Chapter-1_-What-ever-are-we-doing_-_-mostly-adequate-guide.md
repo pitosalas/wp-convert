@@ -6,7 +6,7 @@ link: "http://drboolean.gitbooks.io/mostly-adequate-guide/content/ch1.html"
 cover: "" 
 date: 2021-04-06
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Chapter 1: What ever are we doing? | mostly-adequate-guide](http://drboolean.gitbooks.io/mostly-adequate-guide/content/ch1.html)
+* **Link to site:** **[Chapter 1: What ever are we doing? | mostly-adequate-guide](http://drboolean.gitbooks.io/mostly-adequate-guide/content/ch1.html)**

@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - science scholarly papers articles
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Sci-Hub: removing barriers in the way of science](http://sci-hub.io)
+* **Link to site:** **[Sci-Hub: removing barriers in the way of science](http://sci-hub.io)**

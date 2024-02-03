@@ -12,4 +12,4 @@ indeed, makes no sense.
 Maybe I am just to literal minded.
 
 
-[Indeed, the new Microsoft/Bill Gates/Jerry Seinfeld ad makes no sense!](None)
+* **Link to site:** **[Indeed, the new Microsoft/Bill Gates/Jerry Seinfeld ad makes no sense!](None)**

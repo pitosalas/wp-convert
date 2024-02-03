@@ -33,4 +33,4 @@ A little more from the article:
 > they tell you…But they made a great fortune."
 
 
-[Ideas are still cheap, right?](None)
+* **Link to site:** **[Ideas are still cheap, right?](None)**

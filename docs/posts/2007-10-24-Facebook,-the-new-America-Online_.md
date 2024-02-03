@@ -76,4 +76,4 @@ Here's Doc Searls take on it and what got me thinking:
 > time/>))
 
 
-[Facebook, the new America Online?](None)
+* **Link to site:** **[Facebook, the new America Online?](None)**

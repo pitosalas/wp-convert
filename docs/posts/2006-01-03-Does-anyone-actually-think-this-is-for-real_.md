@@ -38,4 +38,4 @@ have written about it 🙂
 >> Technorati Tags: [hoax](<http://www.technorati.com/tag/hoax>)
 
 
-[Does anyone actually think this is for real?](None)
+* **Link to site:** **[Does anyone actually think this is for real?](None)**

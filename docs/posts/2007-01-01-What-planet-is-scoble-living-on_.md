@@ -31,4 +31,4 @@ date: 2007-01-01
 >  any more.) Or he got those two PCs for Christmas. 2006.
 
 
-[What planet is scoble living on?](None)
+* **Link to site:** **[What planet is scoble living on?](None)**

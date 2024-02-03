@@ -24,4 +24,4 @@ Thing](<http://dondodge.typepad.com/the_next_big_thing/index.rdf>):
 _Originally posted on Jul 24, 2008. Reprinted courtesy of ReRuns plug-in._
 
 
-[The 7 deadly sins and 10 lessons of a failed startup](None)
+* **Link to site:** **[The 7 deadly sins and 10 lessons of a failed startup](None)**

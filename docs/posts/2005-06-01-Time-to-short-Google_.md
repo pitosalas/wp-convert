@@ -25,4 +25,4 @@ $300](<http://battellemedia.com/archives/001583.php>)
 >> Technorati Tags: [google](<http://technorati.com/tag/google>)
 
 
-[Time to short Google?](None)
+* **Link to site:** **[Time to short Google?](None)**

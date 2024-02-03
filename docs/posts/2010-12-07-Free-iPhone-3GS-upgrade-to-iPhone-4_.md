@@ -28,4 +28,4 @@ old phone, it's a free upgrade. My remaining question is, who the heck is
 CashForiPhones.com and can I trust them?
 
 
-[Free iPhone 3GS upgrade to iPhone 4?](None)
+* **Link to site:** **[Free iPhone 3GS upgrade to iPhone 4?](None)**

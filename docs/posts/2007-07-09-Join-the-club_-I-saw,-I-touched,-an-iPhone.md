@@ -28,4 +28,4 @@ Technorati Tags: [iphone totemic
 talisman](<http://technorati.com/tag/iphone%20totemic%20talisman>)
 
 
-[Join the club: I saw, I touched, an iPhone](None)
+* **Link to site:** **[Join the club: I saw, I touched, an iPhone](None)**

@@ -16,4 +16,4 @@ https://githubcopilotinvestigation.com/>) –Very interesting review of github
 copilot, open source and the law.
 
 
-[GitHub Copilot investigation · Joseph Saveri Law Firm & Matthew Butterick](None)
+* **Link to site:** **[GitHub Copilot investigation · Joseph Saveri Law Firm & Matthew Butterick](None)**

@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - etech
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
 
-(**Web site excerpt:** Another fascinating etech link. Self replicating printer.) 
-[WebHome < Main < Reprap](http://reprap.org/bin/view/Main/WebHome)
+* **Web site excerpt:** Another fascinating etech link. Self replicating printer.
+
+* **Link to site:** **[WebHome < Main < Reprap](http://reprap.org/bin/view/Main/WebHome)**

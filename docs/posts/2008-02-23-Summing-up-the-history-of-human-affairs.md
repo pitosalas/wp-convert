@@ -28,4 +28,4 @@ summed up in these simple terms:
 > _" It seemed like a good idea at the time"_
 
 
-[Summing up the history of human affairs](None)
+* **Link to site:** **[Summing up the history of human affairs](None)**

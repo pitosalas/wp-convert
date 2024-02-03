@@ -13,7 +13,7 @@ tags:
     - irobot
     - roomba
 ---
-<img src=http://rodneybrooks.com/wp-content/themes/rab/images/robots.jpg width="500">
+<img class="cover" src=http://rodneybrooks.com/wp-content/themes/rab/images/robots.jpg>
 
 
-[Predictions Scorecard, 2022 January 01 – Rodney Brooks](http://rodneybrooks.com/predictions-scorecard-2022-january-01/)
+* **Link to site:** **[Predictions Scorecard, 2022 January 01 – Rodney Brooks](http://rodneybrooks.com/predictions-scorecard-2022-january-01/)**

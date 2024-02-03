@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - Elections
 ---
-<img src=https://scytl.us/wp-content/uploads/Homepage_1.jpg width="500">
+<img class="cover" src=https://scytl.us/wp-content/uploads/Homepage_1.jpg>
 
 
 
-(**Web site excerpt:** Scytl simplifies elections with secure election products. Scytl is a global leader in election technology solutions that simplify communication with your constituents, facilitate opportunities to increase democratic participation, and streamline legislative session management.) 
-[SOE Software - e-Government Solutions](http://www.soesoftware.com/Default.aspx)
+* **Web site excerpt:** Scytl simplifies elections with secure election products. Scytl is a global leader in election technology solutions that simplify communication with your constituents, facilitate opportunities to increase democratic participation, and streamline legislative session management.
+
+* **Link to site:** **[SOE Software - e-Government Solutions](http://www.soesoftware.com/Default.aspx)**

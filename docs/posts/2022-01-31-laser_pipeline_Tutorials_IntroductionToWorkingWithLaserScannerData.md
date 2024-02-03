@@ -12,7 +12,7 @@ tags:
     - howto
     - N119
 ---
-<img src=http://library.isr.ist.utl.pt/docs/roswiki/attachments/laser_pipeline(2f)Tutorials(2f)IntroductionToWorkingWithLaserScannerData/rviz_base_small.png width="500">
+<img class="cover" src=http://library.isr.ist.utl.pt/docs/roswiki/attachments/laser_pipeline(2f)Tutorials(2f)IntroductionToWorkingWithLaserScannerData/rviz_base_small.png>
 
 
-[laser_pipeline/Tutorials/IntroductionToWorkingWithLaserScannerData](http://library.isr.ist.utl.pt/docs/roswiki/laser_pipeline(2f)Tutorials(2f)IntroductionToWorkingWithLaserScannerData.html)
+* **Link to site:** **[laser_pipeline/Tutorials/IntroductionToWorkingWithLaserScannerData](http://library.isr.ist.utl.pt/docs/roswiki/laser_pipeline(2f)Tutorials(2f)IntroductionToWorkingWithLaserScannerData.html)**

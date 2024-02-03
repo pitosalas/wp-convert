@@ -26,4 +26,4 @@ out](<http://www.blogbridge.com/install/weekly/blogbridge.jnlp0>)
 [BlogBridge](<http://www.blogbridge.com/>) won't ya?
 
 
-[Talking about RSS Aggregators](None)
+* **Link to site:** **[Talking about RSS Aggregators](None)**

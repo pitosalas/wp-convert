@@ -6,7 +6,7 @@ link: "https://hackernoon.com/frontier-ai-how-far-are-we-from-artificial-general
 cover: "https://hackernoon.com/hn-images/1*HZ22S1W4qLYOw1Lai319VA.jpeg" 
 date: 2021-04-06
 ---
-<img src=https://hackernoon.com/hn-images/1*HZ22S1W4qLYOw1Lai319VA.jpeg width="500">
+<img class="cover" src=https://hackernoon.com/hn-images/1*HZ22S1W4qLYOw1Lai319VA.jpeg>
 
 
-[Frontier AI: How far are we from artificial “general” intelligence, really?](https://hackernoon.com/frontier-ai-how-far-are-we-from-artificial-general-intelligence-really-5b13b1ebcd4e)
+* **Link to site:** **[Frontier AI: How far are we from artificial “general” intelligence, really?](https://hackernoon.com/frontier-ai-how-far-are-we-from-artificial-general-intelligence-really-5b13b1ebcd4e)**

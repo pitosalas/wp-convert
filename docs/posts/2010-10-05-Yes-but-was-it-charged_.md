@@ -33,4 +33,4 @@ Blog](<http://www.iphonedownloadblog.com/feed/>):
 > MacAllDay+%289+to+5+Mac+-+Apple+Intelligence%29&utm_content=Google+Reader>)]
 
 
-[Yes but was it charged?](None)
+* **Link to site:** **[Yes but was it charged?](None)**

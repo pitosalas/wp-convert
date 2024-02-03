@@ -42,4 +42,4 @@ vice versa.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[Frank Rick (again): The other plot](None)
+* **Link to site:** **[Frank Rick (again): The other plot](None)**

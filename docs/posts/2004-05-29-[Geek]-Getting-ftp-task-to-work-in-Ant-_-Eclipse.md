@@ -26,4 +26,4 @@ there you can a ridiculously cryptic error message.
 > p.s. Didn 't I say "GEEK" ?**Dave, thanks for the words of encouragement.
 
 
-[[Geek] Getting ftp task to work in Ant / Eclipse](None)
+* **Link to site:** **[[Geek] Getting ftp task to work in Ant / Eclipse](None)**

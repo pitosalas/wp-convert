@@ -27,4 +27,4 @@ Dear readers: have you seen FireFox pegging the CPU from time to time? Any
 fixes or explanations?
 
 
-[[GEEKY] Firefox angst](None)
+* **Link to site:** **[[GEEKY] Firefox angst](None)**

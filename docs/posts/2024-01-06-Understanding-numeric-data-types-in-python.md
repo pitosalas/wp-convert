@@ -15,4 +15,4 @@ tags:
 https://fullspeedpython.com/articles/understanding-numeric-data-types/>) –
 
 
-[Understanding numeric data types in python](None)
+* **Link to site:** **[Understanding numeric data types in python](None)**

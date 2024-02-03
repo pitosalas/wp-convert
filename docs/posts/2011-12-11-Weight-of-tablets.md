@@ -29,4 +29,4 @@ notes on this vital topic.
   * Amazon Kindle 4: 5.9 oz
 
 
-[Weight of tablets](None)
+* **Link to site:** **[Weight of tablets](None)**

@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - tracker
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Google Analytics](https://www.google.com/analytics/home/report?rid=763123&scid=347214)
+* **Link to site:** **[Google Analytics](https://www.google.com/analytics/home/report?rid=763123&scid=347214)**

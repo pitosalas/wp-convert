@@ -15,4 +15,4 @@ air](<http://www.fmqb.com/Article.asp?id=20252>). [Stern
 Fan](<http://doc.weblogs.com/>) Bloggers Unite!
 
 
-[Howard Stern finally has found](None)
+* **Link to site:** **[Howard Stern finally has found](None)**

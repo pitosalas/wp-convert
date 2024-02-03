@@ -26,4 +26,4 @@ In fact who knows if internal to the 13 port hubs there are 2 7 port hubs,
 **daisy chained**. Anyone know?
 
 
-[[geeky] Dang – I was looking for one of these just last week](None)
+* **Link to site:** **[[geeky] Dang – I was looking for one of these just last week](None)**

@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - css color
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fwww.crockford.com%2Fwrrrld%2Fcolor.html width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.crockford.com%2Fwrrrld%2Fcolor.html>
 
 
-[CSS Color Names](http://www.crockford.com/wrrrld/color.html)
+* **Link to site:** **[CSS Color Names](http://www.crockford.com/wrrrld/color.html)**

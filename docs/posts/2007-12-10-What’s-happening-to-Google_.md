@@ -39,4 +39,4 @@ spam as everything else, and some new white knight (=search engine) comes
 along to take it's place.
 
 
-[What’s happening to Google?](None)
+* **Link to site:** **[What’s happening to Google?](None)**

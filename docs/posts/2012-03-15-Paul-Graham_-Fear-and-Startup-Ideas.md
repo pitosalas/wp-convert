@@ -51,4 +51,4 @@ Paul Graham goes a step further:
 Read the article. It will inspire you!
 
 
-[Paul Graham: Fear and Startup Ideas](None)
+* **Link to site:** **[Paul Graham: Fear and Startup Ideas](None)**

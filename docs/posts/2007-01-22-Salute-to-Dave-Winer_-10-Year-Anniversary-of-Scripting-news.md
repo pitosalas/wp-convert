@@ -15,4 +15,4 @@ date: 2007-01-22
 > Hats off Dave!
 
 
-[Salute to Dave Winer: 10 Year Anniversary of Scripting news](None)
+* **Link to site:** **[Salute to Dave Winer: 10 Year Anniversary of Scripting news](None)**

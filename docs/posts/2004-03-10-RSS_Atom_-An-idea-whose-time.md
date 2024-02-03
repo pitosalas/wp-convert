@@ -40,4 +40,4 @@ requiring give on all sides, but it will set us back on a path where
 **duplication of effort** will be replaced by forward progress. It's worth it.
 
 
-[RSS/Atom: An idea whose time](None)
+* **Link to site:** **[RSS/Atom: An idea whose time](None)**

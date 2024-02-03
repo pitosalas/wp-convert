@@ -20,4 +20,4 @@ significance of that, but it is a bit surprising.
 [linkedin](<http://technorati.com/tag/linkedin>)
 
 
-[LinkedIn: Highly connected?](None)
+* **Link to site:** **[LinkedIn: Highly connected?](None)**

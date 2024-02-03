@@ -25,4 +25,4 @@ date: 2005-08-24
 "shuttle" and I blogged it directly from Flickr's blogging interface. Cool!
 
 
-[Incogruous](None)
+* **Link to site:** **[Incogruous](None)**

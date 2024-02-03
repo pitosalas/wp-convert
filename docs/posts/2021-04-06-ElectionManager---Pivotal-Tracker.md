@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Elections
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fwww.pivotaltracker.com%2Fprojects%2F53877 width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.pivotaltracker.com%2Fprojects%2F53877>
 
 
-[ElectionManager - Pivotal Tracker](http://www.pivotaltracker.com/projects/53877)
+* **Link to site:** **[ElectionManager - Pivotal Tracker](http://www.pivotaltracker.com/projects/53877)**

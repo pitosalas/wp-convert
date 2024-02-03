@@ -53,4 +53,4 @@ picture that I could have taken that is not already in [this
 collection!](<http://www.flickr.com/photos/tags/gates/show/>)
 
 
-[The Gates: What’s the point of taking pictures?](None)
+* **Link to site:** **[The Gates: What’s the point of taking pictures?](None)**

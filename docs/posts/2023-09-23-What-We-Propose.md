@@ -12,4 +12,4 @@ https://www.theatlantic.com/magazine/archive/1946/07/what-we-propose/656703/>)
 through its articles, podcasts, videos, and flagship magazine.
 
 
-[What We Propose](None)
+* **Link to site:** **[What We Propose](None)**

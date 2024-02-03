@@ -25,4 +25,4 @@ IRB, I'm not convinced yet.
   * Here's another article by the same author about [Customizing TextMate.](<http://www.macdevcenter.com/lpt/a/6983.>)
 
 
-[TextMate and Ruby](None)
+* **Link to site:** **[TextMate and Ruby](None)**

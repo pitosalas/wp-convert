@@ -13,4 +13,4 @@ Review: Laptop Killer? Pretty
 Close](<http://ptech.allthingsd.com/20100331/apple-ipad-review/>).
 
 
-[What about that iFad?](None)
+* **Link to site:** **[What about that iFad?](None)**

@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - bootstrap css html5
 ---
-<img src=https://bootsnipp.com/img/logo.jpg width="500">
+<img class="cover" src=https://bootsnipp.com/img/logo.jpg>
 
 
 
-(**Web site excerpt:** A design element gallery for web designers and web developers. Find snippets using HTML, CSS, Javascript, jQuery, and Bootstrap.) 
-[Gallery of free HTML snippets for Twitter Bootstrap. | Bootsnipp.com](http://bootsnipp.com)
+* **Web site excerpt:** A design element gallery for web designers and web developers. Find snippets using HTML, CSS, Javascript, jQuery, and Bootstrap.
+
+* **Link to site:** **[Gallery of free HTML snippets for Twitter Bootstrap. | Bootsnipp.com](http://bootsnipp.com)**

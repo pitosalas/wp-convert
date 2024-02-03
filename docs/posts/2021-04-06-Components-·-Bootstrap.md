@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - bootstrap css html5
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Components · Bootstrap](http://getbootstrap.com/components)
+* **Link to site:** **[Components · Bootstrap](http://getbootstrap.com/components)**

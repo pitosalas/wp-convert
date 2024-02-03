@@ -11,4 +11,4 @@ date: 2008-07-04
 -- the great city builder Daniel H. Burnham
 
 
-[Quote of the day](None)
+* **Link to site:** **[Quote of the day](None)**

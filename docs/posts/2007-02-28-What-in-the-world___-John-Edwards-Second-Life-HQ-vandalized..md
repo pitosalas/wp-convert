@@ -21,4 +21,4 @@ Edwards '08 Blog: News](<http://blog.johnedwards.com/section/news>):
 > vandalized.](<http://blog.johnedwards.com/story/2007/2/27/21847/2507>))
 
 
-[What in the world??? John Edwards Second Life HQ vandalized.](None)
+* **Link to site:** **[What in the world??? John Edwards Second Life HQ vandalized.](None)**

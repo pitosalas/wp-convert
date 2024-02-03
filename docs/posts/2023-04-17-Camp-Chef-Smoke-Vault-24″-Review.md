@@ -20,4 +20,4 @@ natural gas so you don't have to worry about you LP tank running out. We
 tested this model and gave it our AmazingRibs.com Platinum Medal.
 
 
-[Camp Chef Smoke Vault 24″ Review](None)
+* **Link to site:** **[Camp Chef Smoke Vault 24″ Review](None)**

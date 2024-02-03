@@ -25,4 +25,4 @@ internet](<http://www.nytimes.com/2010/08/02/business/global/02berry.html>):
 > Times](<http://www.nytimes.com/2010/08/02/business/global/02berry.html?_r=1>))
 
 
-[Blackberry network is far more secure!](None)
+* **Link to site:** **[Blackberry network is far more secure!](None)**

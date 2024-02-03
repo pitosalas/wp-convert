@@ -39,4 +39,4 @@ the publishers you could **distribute** it according to this forecast.
 Or it was just a **fluke** … Still I am pretty **impressed**.
 
 
-[Is Amazon using Wish List entries to pre-position inventory?](None)
+* **Link to site:** **[Is Amazon using Wish List entries to pre-position inventory?](None)**

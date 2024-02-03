@@ -21,4 +21,4 @@ items about the influence of twitter on blog design:
 > KM](<http://billives.typepad.com/portals_and_km/index.rdf>))
 
 
-[Twitter Week on Portals and KM](None)
+* **Link to site:** **[Twitter Week on Portals and KM](None)**

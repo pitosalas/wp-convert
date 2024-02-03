@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - oauth oauth2 google ruby development authentication
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[omniauth + Google OAuth2 on Rails](http://blog.myitcv.org.uk/2013/02/19/omniauth-google-oauth2-example.html)
+* **Link to site:** **[omniauth + Google OAuth2 on Rails](http://blog.myitcv.org.uk/2013/02/19/omniauth-google-oauth2-example.html)**

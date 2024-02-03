@@ -42,4 +42,4 @@ Add your own additional ideas. I think it would sell like crazy and who knows,
 reduce driver fatigue and accidents too!
 
 
-[Let’s give GPSs the EMOTION feature](None)
+* **Link to site:** **[Let’s give GPSs the EMOTION feature](None)**

@@ -14,4 +14,4 @@ replaced Twitter for me.It *is* a shift in perspective on how social media
 works, so here are a few tips to help wrap your head around it."
 
 
-[Wrapping Your Head Around Mastodon – K²R](None)
+* **Link to site:** **[Wrapping Your Head Around Mastodon – K²R](None)**

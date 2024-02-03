@@ -12,4 +12,4 @@ cigarettes - on the street, in restaurants, etc - than what I am used to in
 Boston. Only one data point, but notable. I wonder why.
 
 
-[Portland OR smokes](None)
+* **Link to site:** **[Portland OR smokes](None)**

@@ -6,7 +6,7 @@ link: "http://articles.slicehost.com/centos"
 cover: "" 
 date: 2021-04-06
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Slicehost: Centos](http://articles.slicehost.com/centos)
+* **Link to site:** **[Slicehost: Centos](http://articles.slicehost.com/centos)**

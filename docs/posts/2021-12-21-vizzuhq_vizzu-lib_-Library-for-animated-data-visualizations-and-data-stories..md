@@ -9,9 +9,10 @@ tags:
     - visualization
     - library
 ---
-<img src=https://repository-images.githubusercontent.com/374784415/124b1bbe-23f1-4105-9206-5a3641dba878 width="500">
+<img class="cover" src=https://repository-images.githubusercontent.com/374784415/124b1bbe-23f1-4105-9206-5a3641dba878>
 
 
 
-(**Web site excerpt:** Library for animated data visualizations and data stories. - vizzuhq/vizzu-lib: Library for animated data visualizations and data stories.) 
-[vizzuhq/vizzu-lib: Library for animated data visualizations and data stories.](https://github.com/vizzuhq/vizzu-lib)
+* **Web site excerpt:** Library for animated data visualizations and data stories. - vizzuhq/vizzu-lib: Library for animated data visualizations and data stories.
+
+* **Link to site:** **[vizzuhq/vizzu-lib: Library for animated data visualizations and data stories.](https://github.com/vizzuhq/vizzu-lib)**

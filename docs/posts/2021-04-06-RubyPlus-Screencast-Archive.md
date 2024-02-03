@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Weather
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fwww.rubyplus.org%2Fepisodes%2Farchive width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.rubyplus.org%2Fepisodes%2Farchive>
 
 
-[RubyPlus Screencast Archive](http://www.rubyplus.org/episodes/archive)
+* **Link to site:** **[RubyPlus Screencast Archive](http://www.rubyplus.org/episodes/archive)**

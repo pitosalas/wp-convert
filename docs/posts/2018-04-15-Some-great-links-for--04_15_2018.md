@@ -41,4 +41,4 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-[Some great links for  04/15/2018](None)
+* **Link to site:** **[Some great links for  04/15/2018](None)**

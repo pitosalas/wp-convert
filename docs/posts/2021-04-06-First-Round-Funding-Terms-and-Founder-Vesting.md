@@ -10,9 +10,10 @@ tags:
     - funding
     - entrepreneurship
 ---
-<img src=https://miro.medium.com/max/1200/0*jpKZ4IXsy3GvwTjN. width="500">
+<img class="cover" src=https://miro.medium.com/max/1200/0*jpKZ4IXsy3GvwTjN.>
 
 
 
-(**Web site excerpt:** There’s a great meme developing this morning on the need to simplify funding terms and documents. The meme was kicked off by Chris Dixon with this post saying that term sheets need to be simplified…) 
-[First Round Funding Terms and Founder Vesting](http://www.bothsidesofthetable.com/2009/08/17/first-round-funding-terms-and-founder-vesting)
+* **Web site excerpt:** There’s a great meme developing this morning on the need to simplify funding terms and documents. The meme was kicked off by Chris Dixon with this post saying that term sheets need to be simplified…
+
+* **Link to site:** **[First Round Funding Terms and Founder Vesting](http://www.bothsidesofthetable.com/2009/08/17/first-round-funding-terms-and-founder-vesting)**

@@ -6,7 +6,7 @@ link: "http://www.smfawebdesign.com/intermediatewebdesign10/index.html"
 cover: "" 
 date: 2021-04-06
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Intermediate Web Design](http://www.smfawebdesign.com/intermediatewebdesign10/index.html)
+* **Link to site:** **[Intermediate Web Design](http://www.smfawebdesign.com/intermediatewebdesign10/index.html)**

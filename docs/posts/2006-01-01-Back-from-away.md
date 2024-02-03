@@ -24,4 +24,4 @@ republic.asp?CCheck=1&eapid=13172-1&kword=Punta%20Cana>). A beautiful spot.
 [puntacana](<http://www.technorati.com/tag/puntacana>)
 
 
-[Back from away](None)
+* **Link to site:** **[Back from away](None)**

@@ -14,4 +14,4 @@ tags:
 content/uploads/2013/02/849e3-img_0072.jpg?resize=553%2C600&ssl=1)
 
 
-[Snow Planet Winnipisaukee](None)
+* **Link to site:** **[Snow Planet Winnipisaukee](None)**

@@ -36,4 +36,4 @@ Carpe](<http://www.clew.us/>))
 proving that no one can make money with software anymore.
 
 
-[Two really cool new applications](None)
+* **Link to site:** **[Two really cool new applications](None)**

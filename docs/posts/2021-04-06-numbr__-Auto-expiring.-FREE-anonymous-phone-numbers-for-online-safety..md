@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - ebay craigslist free number privacy
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[numbr:: Auto expiring. FREE anonymous phone numbers for online safety.](http://numbr.com)
+* **Link to site:** **[numbr:: Auto expiring. FREE anonymous phone numbers for online safety.](http://numbr.com)**

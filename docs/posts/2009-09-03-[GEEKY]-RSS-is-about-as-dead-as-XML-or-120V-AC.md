@@ -22,4 +22,4 @@ everywhere and of course, at least here in the USA, 120V AC, electricity, is.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[[GEEKY] RSS is about as dead as XML or 120V AC](None)
+* **Link to site:** **[[GEEKY] RSS is about as dead as XML or 120V AC](None)**

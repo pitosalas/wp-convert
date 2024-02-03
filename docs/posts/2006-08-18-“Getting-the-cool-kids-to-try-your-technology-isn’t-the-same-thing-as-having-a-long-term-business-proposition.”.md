@@ -37,4 +37,4 @@ long. Maybe for the cool kids, but for a real company with a real business,
 it's gonna take you longer than 2 months.
 
 
-[“Getting the cool kids to try your technology isn’t the same thing as having a long-term business proposition.”](None)
+* **Link to site:** **[“Getting the cool kids to try your technology isn’t the same thing as having a long-term business proposition.”](None)**

@@ -42,4 +42,4 @@ feed.](<http://www.pbs.org/cringely/pulpit/rss2.xml>)**
 [voip](<http://www.technorati.com/tag/voip>)
 
 
-[Who will buy Skype, and why…](None)
+* **Link to site:** **[Who will buy Skype, and why…](None)**

@@ -38,4 +38,4 @@ someone's free-busy information. These are incredibly important integrations:
 the three functions (email, calendar and addressbook) **belong together.**
 
 
-[Outlook Haters, anyone?](None)
+* **Link to site:** **[Outlook Haters, anyone?](None)**

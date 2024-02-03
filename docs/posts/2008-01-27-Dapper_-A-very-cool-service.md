@@ -23,4 +23,4 @@ Here's a really [excellent screencast showing how Dapper
 works.](<http://www.readwriteweb.com/images/dapperrww.swf> "dapper cool")
 
 
-[Dapper: A very cool service](None)
+* **Link to site:** **[Dapper: A very cool service](None)**

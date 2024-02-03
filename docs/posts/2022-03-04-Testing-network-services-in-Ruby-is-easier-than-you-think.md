@@ -13,9 +13,10 @@ tags:
     - soa
     - cosi105
 ---
-<img src=https://www.justinweiss.com/images/me-square.jpg width="500">
+<img class="cover" src=https://www.justinweiss.com/images/me-square.jpg>
 
 
 
-(**Web site excerpt:** You’ve started a new project and it’s time for your code to depend on a third-party service. It could be something like ElasticSearch, Resque, a billing provider, or just an arbitrary HTTP API. You’re a good developer, so you want this code to be well tested. But how do you test code that fires off requests to a service that’s totally out of your control?) 
-[Testing network services in Ruby is easier than you think](https://www.justinweiss.com/articles/testing-network-services-in-ruby/)
+* **Web site excerpt:** You’ve started a new project and it’s time for your code to depend on a third-party service. It could be something like ElasticSearch, Resque, a billing provider, or just an arbitrary HTTP API. You’re a good developer, so you want this code to be well tested. But how do you test code that fires off requests to a service that’s totally out of your control?
+
+* **Link to site:** **[Testing network services in Ruby is easier than you think](https://www.justinweiss.com/articles/testing-network-services-in-ruby/)**

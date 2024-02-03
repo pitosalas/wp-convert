@@ -14,9 +14,10 @@ tags:
     - rest
     - howto
 ---
-<img src=https://alistapart.com/wp-content/uploads/2018/07/webmentions.jpg?fit=1920%2C984&w=640 width="500">
+<img class="cover" src=https://alistapart.com/wp-content/uploads/2018/07/webmentions.jpg?fit=1920%2C984&w=640>
 
 
 
-(**Web site excerpt:** Very interesting underused feature in web communication) 
-[Webmentions: Enabling Better Communication on the Internet](https://alistapart.com/article/webmentions-enabling-better-communication-on-the-internet)
+* **Web site excerpt:** Very interesting underused feature in web communication
+
+* **Link to site:** **[Webmentions: Enabling Better Communication on the Internet](https://alistapart.com/article/webmentions-enabling-better-communication-on-the-internet)**

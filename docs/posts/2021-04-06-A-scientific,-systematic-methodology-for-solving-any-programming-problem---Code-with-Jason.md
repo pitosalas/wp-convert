@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - solving howto programming debugging
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
 
-(**Web site excerpt:** A good reminder of how to approach fixing a bug.) 
-[A scientific, systematic methodology for solving any programming problem - Code with Jason](https://www.codewithjason.com/scientific-systematic-methodology-solving-programming-problem)
+* **Web site excerpt:** A good reminder of how to approach fixing a bug.
+
+* **Link to site:** **[A scientific, systematic methodology for solving any programming problem - Code with Jason](https://www.codewithjason.com/scientific-systematic-methodology-solving-programming-problem)**

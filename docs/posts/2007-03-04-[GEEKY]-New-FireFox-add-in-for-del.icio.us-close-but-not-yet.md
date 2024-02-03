@@ -16,4 +16,4 @@ hogging the CPU. I look forward to the next rev, because the concept is right
 on.
 
 
-[[GEEKY] New FireFox add-in for del.icio.us close but not yet](None)
+* **Link to site:** **[[GEEKY] New FireFox add-in for del.icio.us close but not yet](None)**

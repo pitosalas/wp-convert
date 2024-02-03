@@ -18,4 +18,4 @@ or [Kayak](<http://www.kayak.com>) deal was. Just a
 [LifeHack](<http://www.lifehacker.com/>) for you.
 
 
-[Costco rental car discount](None)
+* **Link to site:** **[Costco rental car discount](None)**

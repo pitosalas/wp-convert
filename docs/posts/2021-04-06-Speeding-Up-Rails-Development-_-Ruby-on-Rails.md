@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Weather
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Speeding Up Rails Development | Ruby on Rails](http://jimneath.org/2008/11/15/speeding-up-rails-development)
+* **Link to site:** **[Speeding Up Rails Development | Ruby on Rails](http://jimneath.org/2008/11/15/speeding-up-rails-development)**

@@ -12,9 +12,10 @@ tags:
     - tricks
     - howto
 ---
-<img src=https://res.cloudinary.com/practicaldev/image/fetch/s--hkKQddrx--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/b02v13rxiqrqcrsnqnwp.png width="500">
+<img class="cover" src=https://res.cloudinary.com/practicaldev/image/fetch/s--hkKQddrx--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/b02v13rxiqrqcrsnqnwp.png>
 
 
 
-(**Web site excerpt:** Some good ideas...) 
-[My Productivity Boosters — A random collection of tricks and tools — What are yours?](https://dev.to/fabrik42/my-productivity-boosters--a-random-collection-of-tricks-and-tools--what-are-yours-28fm)
+* **Web site excerpt:** Some good ideas...
+
+* **Link to site:** **[My Productivity Boosters — A random collection of tricks and tools — What are yours?](https://dev.to/fabrik42/my-productivity-boosters--a-random-collection-of-tricks-and-tools--what-are-yours-28fm)**

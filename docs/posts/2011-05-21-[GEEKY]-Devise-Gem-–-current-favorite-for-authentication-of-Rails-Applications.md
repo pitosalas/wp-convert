@@ -20,4 +20,4 @@ straightforward. Check it out if you were looking for something like that.
 #railsconf
 
 
-[[GEEKY] Devise Gem – current favorite for authentication of Rails Applications](None)
+* **Link to site:** **[[GEEKY] Devise Gem – current favorite for authentication of Rails Applications](None)**

@@ -16,4 +16,4 @@ favorite](</2004/02/24.html#a173>) tool in this space,
 [X1](<http://www.x1.com/>). Check it out.
 
 
-[Scoble on Search. Robert Scoble](None)
+* **Link to site:** **[Scoble on Search. Robert Scoble](None)**

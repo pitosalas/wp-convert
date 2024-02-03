@@ -39,4 +39,4 @@ anyone spell **e-c-h-o-c-h-a-m-b-e-r?
 [opensource](<http://www.technorati.com/tag/opensource>)
 
 
-[Interesting article  about Open Source in the Financial Times](None)
+* **Link to site:** **[Interesting article  about Open Source in the Financial Times](None)**

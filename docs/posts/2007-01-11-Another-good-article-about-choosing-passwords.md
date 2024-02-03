@@ -33,4 +33,4 @@ date: 2007-01-11
 > Read the whole thing!
 
 
-[Another good article about choosing passwords](None)
+* **Link to site:** **[Another good article about choosing passwords](None)**

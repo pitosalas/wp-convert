@@ -17,4 +17,4 @@ thought](<http://www.nationalenquirer.com/celebrity/63426>)
 >> Technorati Tags: [georgebush](<http://www.technorati.com/tag/georgebush>)
 
 
-[Hope this isn’t true…](None)
+* **Link to site:** **[Hope this isn’t true…](None)**

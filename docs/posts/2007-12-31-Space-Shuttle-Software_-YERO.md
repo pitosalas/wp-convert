@@ -21,4 +21,4 @@ is almost hard to believe was that the computers on the Apollo had the power
 of a modern day digital watch. I bet they didn't have a YERO problem 🙂
 
 
-[Space Shuttle Software: YERO](None)
+* **Link to site:** **[Space Shuttle Software: YERO](None)**

@@ -40,4 +40,4 @@ matches will be rated more **highly** (actually this is configurable.)
 >> WDYT?
 
 
-[Find what you care about with BlogBridge](None)
+* **Link to site:** **[Find what you care about with BlogBridge](None)**

@@ -56,4 +56,4 @@ little signature line at the end of it:
 Check this out: http://www.blogbridge.com/look`
 
 
-[Why I now have an email signature](None)
+* **Link to site:** **[Why I now have an email signature](None)**

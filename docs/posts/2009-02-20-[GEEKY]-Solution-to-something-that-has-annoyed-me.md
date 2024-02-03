@@ -13,4 +13,4 @@ control.html>)." Thanks.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[[GEEKY] Solution to something that has annoyed me](None)
+* **Link to site:** **[[GEEKY] Solution to something that has annoyed me](None)**

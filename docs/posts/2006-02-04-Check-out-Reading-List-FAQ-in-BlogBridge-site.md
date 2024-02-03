@@ -24,4 +24,4 @@ can actually see and hear how it all works!
 [readinglists](<http://www.technorati.com/tag/readinglists>)
 
 
-[Check out Reading List FAQ in BlogBridge site](None)
+* **Link to site:** **[Check out Reading List FAQ in BlogBridge site](None)**

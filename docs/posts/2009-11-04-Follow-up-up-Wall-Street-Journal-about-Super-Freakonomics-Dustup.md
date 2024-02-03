@@ -52,4 +52,4 @@ Technorati Tags: [realclimate](<http://technorati.com/tag/realclimate>),
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[Follow-up up Wall Street Journal about Super Freakonomics Dustup](None)
+* **Link to site:** **[Follow-up up Wall Street Journal about Super Freakonomics Dustup](None)**

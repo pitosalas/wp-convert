@@ -51,4 +51,4 @@ Way to go [Huntington](<http://www.huntingtontheatre.org>)! I think Becky Shaw
 and Stick Fly are still running. Go see them.
 
 
-[Huntington Theatre in Boston IS BACK!](None)
+* **Link to site:** **[Huntington Theatre in Boston IS BACK!](None)**

@@ -12,9 +12,10 @@ tags:
     - runbook
     - cosi105
 ---
-<img src=https://miro.medium.com/max/1200/1*vbXVBMieAvlO81Cx0-LuqQ.png width="500">
+<img class="cover" src=https://miro.medium.com/max/1200/1*vbXVBMieAvlO81Cx0-LuqQ.png>
 
 
 
-(**Web site excerpt:** At Braintree, we like to write tools to automate our work. Our latest tool is Runbook, a Ruby DSL for gradually automating system…) 
-[Runbook: A Ruby DSL for Gradual System Automation](https://medium.com/@patrick.blesi/https-medium-com-braintree-product-technology-runbook-be6f072cfc0d)
+* **Web site excerpt:** At Braintree, we like to write tools to automate our work. Our latest tool is Runbook, a Ruby DSL for gradually automating system…
+
+* **Link to site:** **[Runbook: A Ruby DSL for Gradual System Automation](https://medium.com/@patrick.blesi/https-medium-com-braintree-product-technology-runbook-be6f072cfc0d)**

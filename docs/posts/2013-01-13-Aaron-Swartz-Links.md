@@ -29,4 +29,4 @@ Swartz](<http://www.zephoria.org/thoughts/archives/2013/01/13/aaron-
 swartz.html>)
 
 
-[Aaron Swartz Links](None)
+* **Link to site:** **[Aaron Swartz Links](None)**

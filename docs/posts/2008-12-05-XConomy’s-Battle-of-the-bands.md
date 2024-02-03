@@ -34,4 +34,4 @@ the-tech-bands-2/>)
 info](<http://www.xconomy.com/boston/2008/11/05/battle-of-the-tech-bands-2/>)
 
 
-[XConomy’s Battle of the bands](None)
+* **Link to site:** **[XConomy’s Battle of the bands](None)**

@@ -21,4 +21,4 @@ music," he said at the time. "And we're toying with refrigeration, too." (
 **from** [APCMag](<http://www.apcmag.com/apc/v3.nsf/dir/ipodvideo>))
 
 
-[Apple Video iPod Strategy](None)
+* **Link to site:** **[Apple Video iPod Strategy](None)**

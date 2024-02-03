@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - database mobile javascript
 ---
-<img src=https://firebase.google.com/images/social.png width="500">
+<img class="cover" src=https://firebase.google.com/images/social.png>
 
 
 
-(**Web site excerpt:** General database with synchronization accessible via javascript. seems very useful for mobile) 
-[Firebase - A scalable real-time backend for your website](https://www.firebase.com)
+* **Web site excerpt:** General database with synchronization accessible via javascript. seems very useful for mobile
+
+* **Link to site:** **[Firebase - A scalable real-time backend for your website](https://www.firebase.com)**

@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Weather
 ---
-<img src=http://cdn.oreillystatic.com/oreilly/images/oreilly-social-icon-120.png width="500">
+<img class="cover" src=http://cdn.oreillystatic.com/oreilly/images/oreilly-social-icon-120.png>
 
 
-[Rails in a Nutshell](http://rails-nutshell.labs.oreilly.com/index.html)
+* **Link to site:** **[Rails in a Nutshell](http://rails-nutshell.labs.oreilly.com/index.html)**

@@ -9,4 +9,4 @@ wicked cool way to check how fast your internet connection really is. Tastes
 good and looks good too!
 
 
-[Coolest connection speed tester ever](None)
+* **Link to site:** **[Coolest connection speed tester ever](None)**

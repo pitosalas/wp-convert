@@ -70,4 +70,4 @@ many other gems just like that one.
 >> Technorati Tags: [microsoft](<http://www.technorati.com/tag/microsoft>)
 
 
-[Microsoft blogging: “What do managers do…”](None)
+* **Link to site:** **[Microsoft blogging: “What do managers do…”](None)**

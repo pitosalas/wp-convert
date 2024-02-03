@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - git cheatsheet howto commands
 ---
-<img src=https://miro.medium.com/focal/1200/632/23/47/1*jDDDzcjb2blWLSN68q3l2A.png width="500">
+<img class="cover" src=https://miro.medium.com/focal/1200/632/23/47/1*jDDDzcjb2blWLSN68q3l2A.png>
 
 
 
-(**Web site excerpt:** A great collection of semi- advanced git commands. Super useful!) 
-[Git Commands to Live By](https://link.medium.com/sbnKSHQCDcb)
+* **Web site excerpt:** A great collection of semi- advanced git commands. Super useful!
+
+* **Link to site:** **[Git Commands to Live By](https://link.medium.com/sbnKSHQCDcb)**

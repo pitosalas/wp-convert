@@ -54,4 +54,4 @@ reporting. I mean, this isn't the speed of light we are talking about here.)
 [truth](<http://technorati.com/tag/truth>)
 
 
-[Scoble, Technorati and Bloglines (and Dow Jones and Nasdaq AGAIN different?! What’s going on?)](None)
+* **Link to site:** **[Scoble, Technorati and Bloglines (and Dow Jones and Nasdaq AGAIN different?! What’s going on?)](None)**

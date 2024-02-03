@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - gem procrastinate
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Frfw.posterous.com%2F33144299 width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Frfw.posterous.com%2F33144299>
 
 
-[Stop procrastination: Introducing the noprocrast gem - rfw.posterous.com](http://rfw.posterous.com/33144299)
+* **Link to site:** **[Stop procrastination: Introducing the noprocrast gem - rfw.posterous.com](http://rfw.posterous.com/33144299)**

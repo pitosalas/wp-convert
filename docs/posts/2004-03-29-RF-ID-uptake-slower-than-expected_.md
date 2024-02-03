@@ -56,4 +56,4 @@ today](<http://www.nytimes.com/2004/03/29/technology/29radio.html>) about
 adopt to RF-ID.
 
 
-[RF-ID uptake slower than expected?](None)
+* **Link to site:** **[RF-ID uptake slower than expected?](None)**

@@ -20,4 +20,4 @@ from [Schneier on Security](<http://www.schneier.com/blog/>):
 > Lemons](<http://www.schneier.com/blog/archives/2007/04/a_security_mark.html>))
 
 
-[Really interesting story about why good used cars don’t sell](None)
+* **Link to site:** **[Really interesting story about why good used cars don’t sell](None)**

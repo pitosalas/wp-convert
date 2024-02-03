@@ -40,4 +40,4 @@ ednote12jun12,0,3840544.story?coll=la-news-comment-editorials>))
 [truth](<http://technorati.com/tag/truth>)
 
 
-[What if we all vote on the truth?](None)
+* **Link to site:** **[What if we all vote on the truth?](None)**

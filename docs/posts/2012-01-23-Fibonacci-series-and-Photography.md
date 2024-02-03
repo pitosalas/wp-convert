@@ -35,4 +35,4 @@ article about that very topic:
 > steroids>))
 
 
-[Fibonacci series and Photography](None)
+* **Link to site:** **[Fibonacci series and Photography](None)**

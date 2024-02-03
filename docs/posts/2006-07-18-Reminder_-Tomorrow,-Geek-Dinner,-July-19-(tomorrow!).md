@@ -40,4 +40,4 @@ Mall.
 here!](<http://www.evite.com/app/publicUrl/rps@salas.com/geekdinner3>)
 
 
-[Reminder: Tomorrow, Geek Dinner, July 19 (tomorrow!)](None)
+* **Link to site:** **[Reminder: Tomorrow, Geek Dinner, July 19 (tomorrow!)](None)**

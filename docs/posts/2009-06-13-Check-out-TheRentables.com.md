@@ -25,4 +25,4 @@ information.Technorati Tags:
 [startups](<http://technorati.com/tag/startups>)
 
 
-[Check out TheRentables.com](None)
+* **Link to site:** **[Check out TheRentables.com](None)**

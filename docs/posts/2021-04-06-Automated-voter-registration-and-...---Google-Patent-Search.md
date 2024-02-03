@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Elections
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Automated voter registration and ... - Google Patent Search](http://www.google.com/patents/about?dq=Koumoutseas&id=LmiDAAAAEBAJ)
+* **Link to site:** **[Automated voter registration and ... - Google Patent Search](http://www.google.com/patents/about?dq=Koumoutseas&id=LmiDAAAAEBAJ)**

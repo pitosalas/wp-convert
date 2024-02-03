@@ -19,4 +19,4 @@ faster, better and feature rich alternative command line tools to replace the
 decades old legacy Linux commands.
 
 
-[Modern Alternatives to Some of the Classic Linux Commands – It’s FOSS](None)
+* **Link to site:** **[Modern Alternatives to Some of the Classic Linux Commands – It’s FOSS](None)**

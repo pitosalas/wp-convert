@@ -51,4 +51,4 @@ see the point he's making. Technorati Tags:
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[The torture discussion back in 2001](None)
+* **Link to site:** **[The torture discussion back in 2001](None)**

@@ -18,4 +18,4 @@ improve the signal-to-noise ratio.
 >> Very relevant to BlogBridge, of course.
 
 
-[VCs and Aggregators](None)
+* **Link to site:** **[VCs and Aggregators](None)**

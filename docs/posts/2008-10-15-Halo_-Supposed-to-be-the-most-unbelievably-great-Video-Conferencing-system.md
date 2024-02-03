@@ -18,4 +18,4 @@ heard 50-100K.
 > [Introducing Halo](<http://www.hp.com/halo/introducing.html>))
 
 
-[Halo: Supposed to be the most unbelievably great Video Conferencing system](None)
+* **Link to site:** **[Halo: Supposed to be the most unbelievably great Video Conferencing system](None)**

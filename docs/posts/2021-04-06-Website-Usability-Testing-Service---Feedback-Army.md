@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Design
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fwww.feedbackarmy.com width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.feedbackarmy.com>
 
 
-[Website Usability Testing Service - Feedback Army](http://www.feedbackarmy.com)
+* **Link to site:** **[Website Usability Testing Service - Feedback Army](http://www.feedbackarmy.com)**

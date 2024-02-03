@@ -17,4 +17,4 @@ revolution.com/crystal-is-not-ruby-part-1-8736f8c2ae58?source=ifttt
 --------------1>) on [Medium](<https://medium.com>).
 
 
-[Recommended: Crystal is not Ruby Part 1](None)
+* **Link to site:** **[Recommended: Crystal is not Ruby Part 1](None)**

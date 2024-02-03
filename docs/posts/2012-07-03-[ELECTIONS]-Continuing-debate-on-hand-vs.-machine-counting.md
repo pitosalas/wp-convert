@@ -21,4 +21,4 @@ Just from today's New York Times:
 > count-votes.html>))
 
 
-[[ELECTIONS] Continuing debate on hand vs. machine counting](None)
+* **Link to site:** **[[ELECTIONS] Continuing debate on hand vs. machine counting](None)**

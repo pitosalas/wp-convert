@@ -26,4 +26,4 @@ spontaneously-combusts-aboard-flight-in-australia/>)
 content/uploads/2011/11/32265-iphone-flames.png?resize=278%2C368&ssl=1)
 
 
-[Aw, come on: Apple iPhone spontaneously combusts aboard flight in Australia](None)
+* **Link to site:** **[Aw, come on: Apple iPhone spontaneously combusts aboard flight in Australia](None)**

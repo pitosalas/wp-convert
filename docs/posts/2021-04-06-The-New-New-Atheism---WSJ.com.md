@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - religion wsj
 ---
-<img src=https://s.wsj.net/img/meta/wsj-social-share.png width="500">
+<img class="cover" src=https://s.wsj.net/img/meta/wsj-social-share.png>
 
 
 
-(**Web site excerpt:** An interesting article about atheism) 
-[The New New Atheism - WSJ.com](http://online.wsj.com/article/SB118454735982067207.html?mod=most_viewed_day)
+* **Web site excerpt:** An interesting article about atheism
+
+* **Link to site:** **[The New New Atheism - WSJ.com](http://online.wsj.com/article/SB118454735982067207.html?mod=most_viewed_day)**

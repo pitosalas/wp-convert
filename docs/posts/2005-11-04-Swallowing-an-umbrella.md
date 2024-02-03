@@ -23,4 +23,4 @@ online](<http://bmj.bmjjournals.com/cgi/content/full/331/7524/1080?ehom>), via
 >> Technorati Tags: [funny](<http://www.technorati.com/tag/funny>)
 
 
-[Swallowing an umbrella](None)
+* **Link to site:** **[Swallowing an umbrella](None)**

@@ -18,4 +18,4 @@ Extensions](<http://mashable.com/2008/06/26/firefox-3-extensions/>) from
 Lots of good stuff there if you are a FireFox 3 user. Check 'em out!
 
 
-[30+ Must-Have Updated Firefox 3 Extensions](None)
+* **Link to site:** **[30+ Must-Have Updated Firefox 3 Extensions](None)**

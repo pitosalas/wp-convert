@@ -21,4 +21,4 @@ ios.html>):
 
 
 
-[Useful document about design for iOS (iPad and IPhone)](None)
+* **Link to site:** **[Useful document about design for iOS (iPad and IPhone)](None)**

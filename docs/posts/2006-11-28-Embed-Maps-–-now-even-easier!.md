@@ -17,4 +17,4 @@ date: 2006-11-28
 > <http://fmatlas.com/view/pitosalas/20061127_lakewinnepesaukee>
 
 
-[Embed Maps – now even easier!](None)
+* **Link to site:** **[Embed Maps – now even easier!](None)**

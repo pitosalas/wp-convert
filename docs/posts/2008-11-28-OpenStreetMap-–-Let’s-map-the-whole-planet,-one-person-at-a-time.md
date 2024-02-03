@@ -32,4 +32,4 @@ And very likely the results will be more up to date, more detailed and more
 accurate.
 
 
-[OpenStreetMap – Let’s map the whole planet, one person at a time](None)
+* **Link to site:** **[OpenStreetMap – Let’s map the whole planet, one person at a time](None)**

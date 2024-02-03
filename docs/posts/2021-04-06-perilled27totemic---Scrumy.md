@@ -6,7 +6,7 @@ link: "http://scrumy.com/perilled27totemic"
 cover: "" 
 date: 2021-04-06
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[perilled27totemic - Scrumy](http://scrumy.com/perilled27totemic)
+* **Link to site:** **[perilled27totemic - Scrumy](http://scrumy.com/perilled27totemic)**

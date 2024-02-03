@@ -11,9 +11,10 @@ tags:
     - howto
     - scheduling
 ---
-<img src=https://meetedgar.com/wp-content/uploads/2022/05/ME_Hero_FINAL-2.png width="500">
+<img class="cover" src=https://meetedgar.com/wp-content/uploads/2022/05/ME_Hero_FINAL-2.png>
 
 
 
-(**Web site excerpt:** Social Media automatic posting tool. Seems popular with the cognizenti) 
-[Home - Meet Edgar](https://meetedgar.com/)
+* **Web site excerpt:** Social Media automatic posting tool. Seems popular with the cognizenti
+
+* **Link to site:** **[Home - Meet Edgar](https://meetedgar.com/)**

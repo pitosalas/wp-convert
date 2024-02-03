@@ -20,4 +20,4 @@ from [James Fallows](<http://jamesfallows.theatlantic.com/>):
 > Jr?](<http://jamesfallows.theatlantic.com/archives/2007/08/would_this_have_saved_jfk_jr.php>))
 
 
-[Would this have saved JFK Jr?](None)
+* **Link to site:** **[Would this have saved JFK Jr?](None)**

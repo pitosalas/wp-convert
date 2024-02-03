@@ -56,4 +56,4 @@ IV](<http://nick.typepad.com/blog/2006/06/bloggercon_iv.html>)
 >> Technorati Tags: [bloggercon](<http://www.technorati.com/tag/bloggercon>)
 
 
-[BloggerCon – Wish I was there](None)
+* **Link to site:** **[BloggerCon – Wish I was there](None)**

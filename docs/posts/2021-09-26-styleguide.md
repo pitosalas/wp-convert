@@ -11,9 +11,10 @@ tags:
     - google
     - standards
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Fgoogle.github.io%2Fstyleguide%2Fpyguide.html width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fgoogle.github.io%2Fstyleguide%2Fpyguide.html>
 
 
 
-(**Web site excerpt:** Style guides for Google-originated open-source projects) 
-[styleguide](https://google.github.io/styleguide/pyguide.html)
+* **Web site excerpt:** Style guides for Google-originated open-source projects
+
+* **Link to site:** **[styleguide](https://google.github.io/styleguide/pyguide.html)**

@@ -31,4 +31,4 @@ What if we created a similar service, but focused exclusively on products for
 app phones (e.g. iPhone and Android.) What do you think?
 
 
-[Quirky for Mobile Products?](None)
+* **Link to site:** **[Quirky for Mobile Products?](None)**

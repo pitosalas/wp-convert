@@ -26,4 +26,4 @@ understand that they need the product a pure entrepreneur is developing._
 called "loopy and obsessed" **high praise**!
 
 
-[“Pure Entrepreneurship” article in tbe Boston Globe](None)
+* **Link to site:** **[“Pure Entrepreneurship” article in tbe Boston Globe](None)**

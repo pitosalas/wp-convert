@@ -15,4 +15,4 @@ access. Not true. [Oddpost](<http://www.oddpost.com/>), a very nice and unique
 web-based mail client has had this for a while. **I recommend it.**
 
 
-[Opera and RSS](None)
+* **Link to site:** **[Opera and RSS](None)**

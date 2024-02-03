@@ -42,4 +42,4 @@ functional](<http://kupu.oscom.org/>)
 that I should take a look at, please drop me a line or post a comment.
 
 
-[[GEEK] Web Rich Text Editors (Apropos of nothing)](None)
+* **Link to site:** **[[GEEK] Web Rich Text Editors (Apropos of nothing)](None)**

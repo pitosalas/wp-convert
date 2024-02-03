@@ -35,4 +35,4 @@ Crunching](<http://safari.oreilly.com/?x=1&mode=section&sortKey=title&sortOrder=
 [pivottables](<http://technorati.com/tag/pivottables>)
 
 
-[A bit of personal PR (at least I labeled it so you can skip it)](None)
+* **Link to site:** **[A bit of personal PR (at least I labeled it so you can skip it)](None)**

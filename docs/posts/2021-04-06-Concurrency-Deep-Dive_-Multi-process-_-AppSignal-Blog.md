@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - Software Engineering
 ---
-<img src=https://blog.appsignal.com/images/blog/2017-03/multi-process-twitter.jpg width="500">
+<img class="cover" src=https://blog.appsignal.com/images/blog/2017-03/multi-process-twitter.jpg>
 
 
 
-(**Web site excerpt:** A deep dive into achieving concurrency using multi-process.) 
-[Concurrency Deep Dive: Multi-process | AppSignal Blog](http://blog.appsignal.com/2017/03/07/ruby-magic-concurrency-processes.html)
+* **Web site excerpt:** A deep dive into achieving concurrency using multi-process.
+
+* **Link to site:** **[Concurrency Deep Dive: Multi-process | AppSignal Blog](http://blog.appsignal.com/2017/03/07/ruby-magic-concurrency-processes.html)**

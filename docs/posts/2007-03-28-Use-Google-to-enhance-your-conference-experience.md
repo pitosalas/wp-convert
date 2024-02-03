@@ -31,4 +31,4 @@ But anyway, despite some very non-descriptive session titles, thanks to
 google, I now know what which one I want to go to.
 
 
-[Use Google to enhance your conference experience](None)
+* **Link to site:** **[Use Google to enhance your conference experience](None)**

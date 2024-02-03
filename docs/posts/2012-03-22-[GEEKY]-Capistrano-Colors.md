@@ -26,4 +26,4 @@ life will be a little better.
 >
 
 
-[[GEEKY] Capistrano Colors](None)
+* **Link to site:** **[[GEEKY] Capistrano Colors](None)**

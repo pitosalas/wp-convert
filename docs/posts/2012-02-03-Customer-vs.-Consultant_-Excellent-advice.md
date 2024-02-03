@@ -31,4 +31,4 @@ If you are a tech consultant or are thinking of hiring one, this article has
 some excellent advice.
 
 
-[Customer vs. Consultant: Excellent advice](None)
+* **Link to site:** **[Customer vs. Consultant: Excellent advice](None)**

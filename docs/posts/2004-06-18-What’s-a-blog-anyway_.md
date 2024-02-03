@@ -53,4 +53,4 @@ other sources I do get the sense that it's accurate. But for all I know it's
 100% pure propaganda. So you do have to be a careful consumer of this stuff.
 
 
-[What’s a blog anyway?](None)
+* **Link to site:** **[What’s a blog anyway?](None)**

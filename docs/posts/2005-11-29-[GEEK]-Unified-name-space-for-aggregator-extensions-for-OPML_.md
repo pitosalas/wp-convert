@@ -133,4 +133,4 @@ thing?
 [OPML](<http://www.technorati.com/tag/OPML>)
 
 
-[[GEEK] Unified name space for aggregator extensions for OPML?](None)
+* **Link to site:** **[[GEEK] Unified name space for aggregator extensions for OPML?](None)**

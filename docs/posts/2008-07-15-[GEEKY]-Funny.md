@@ -10,4 +10,4 @@ date: 2008-07-15
 minute.](<http://www.osnews.com/story/19266/WTFs_m>)
 
 
-[[GEEKY] Funny](None)
+* **Link to site:** **[[GEEKY] Funny](None)**

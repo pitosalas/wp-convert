@@ -45,4 +45,4 @@ to **mutually assured destruction** ("MAD").
 _Originally posted on Oct 11, 2008. Reprinted courtesy of ReRuns plug-in._
 
 
-[Weapons of civic mass destruction](None)
+* **Link to site:** **[Weapons of civic mass destruction](None)**

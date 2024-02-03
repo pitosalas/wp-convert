@@ -20,4 +20,4 @@ All in all, a string on minor annoyances coupled with no special benefit led
 me to demote Safari and promote Firefox back to my dock!
 
 
-[[GEEKY] Switched from Firefox to Safari, and back again](None)
+* **Link to site:** **[[GEEKY] Switched from Firefox to Safari, and back again](None)**

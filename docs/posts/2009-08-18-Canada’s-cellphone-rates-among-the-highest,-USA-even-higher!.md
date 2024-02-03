@@ -25,4 +25,4 @@ rates are really high compared to other countries, the USA pays even more:
 [canada](<http://technorati.com/tag/canada>)
 
 
-[Canada’s cellphone rates among the highest, USA even higher!](None)
+* **Link to site:** **[Canada’s cellphone rates among the highest, USA even higher!](None)**

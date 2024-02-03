@@ -13,4 +13,4 @@ satellite-location/13237/#>)
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[A compelling question about GPSs](None)
+* **Link to site:** **[A compelling question about GPSs](None)**

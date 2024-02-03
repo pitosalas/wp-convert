@@ -20,4 +20,4 @@ post](<http://feeds.feedburner.com/~r/CompeteBlog/~3/106882473/>) from
 > Secret](<http://feeds.feedburner.com/~r/CompeteBlog/~3/106882473/>))
 
 
-[Craigslist’s Dirty Little Secret](None)
+* **Link to site:** **[Craigslist’s Dirty Little Secret](None)**

@@ -33,4 +33,4 @@ the internet, and that Google Maps is unbelievably cool!
 [wikimapia](<http://www.technorati.com/tag/wikimapia>)
 
 
-[How to add a map to any blog page](None)
+* **Link to site:** **[How to add a map to any blog page](None)**

@@ -27,4 +27,4 @@ Marketing](<http://searchengineland.com/>):
 > Building](<http://feeds.searchengineland.com/~r/searchengineland/~3/162031302/070927-113222.php>))
 
 
-[Google Maps Causes US Navy To Change Its Swastika Building](None)
+* **Link to site:** **[Google Maps Causes US Navy To Change Its Swastika Building](None)**

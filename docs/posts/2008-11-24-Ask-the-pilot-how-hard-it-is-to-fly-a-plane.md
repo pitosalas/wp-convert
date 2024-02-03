@@ -37,4 +37,4 @@ terror](<http://www.salon.com/tech/col/smith/2008/11/14/askthepilot298/index.htm
 askthepilot](<http://technorati.com/tag/pilot%20flying%20airplanes%20askthepilot>)
 
 
-[Ask the pilot how hard it is to fly a plane](None)
+* **Link to site:** **[Ask the pilot how hard it is to fly a plane](None)**

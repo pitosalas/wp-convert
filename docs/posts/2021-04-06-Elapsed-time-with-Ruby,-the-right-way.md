@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - time ruby
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Fblog.dnsimple.com%2F2018%2F03%2Felapsed-time-with-ruby-the-right-way width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fblog.dnsimple.com%2F2018%2F03%2Felapsed-time-with-ruby-the-right-way>
 
 
 
-(**Web site excerpt:** Esoteric details about time in ruby!) 
-[Elapsed time with Ruby, the right way](https://blog.dnsimple.com/2018/03/elapsed-time-with-ruby-the-right-way)
+* **Web site excerpt:** Esoteric details about time in ruby!
+
+* **Link to site:** **[Elapsed time with Ruby, the right way](https://blog.dnsimple.com/2018/03/elapsed-time-with-ruby-the-right-way)**

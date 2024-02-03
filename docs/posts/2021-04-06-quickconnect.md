@@ -6,7 +6,7 @@ link: "http://quickconnect.to/pitosalas"
 cover: "" 
 date: 2021-04-06
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[quickconnect](http://quickconnect.to/pitosalas)
+* **Link to site:** **[quickconnect](http://quickconnect.to/pitosalas)**

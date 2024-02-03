@@ -17,4 +17,4 @@ more useful. Expect lots of additions to the Specs page as we move into
 another phase of development.
 
 
-[BlogBridge – Quiet but Busy!](None)
+* **Link to site:** **[BlogBridge – Quiet but Busy!](None)**

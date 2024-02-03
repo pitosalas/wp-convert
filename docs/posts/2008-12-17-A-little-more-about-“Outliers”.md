@@ -40,4 +40,4 @@ But in the end, I am not so sure:
 [gladwell nyt outliers](<http://technorati.com/tag/gladwell%20nyt%20outliers>)
 
 
-[A little more about “Outliers”](None)
+* **Link to site:** **[A little more about “Outliers”](None)**

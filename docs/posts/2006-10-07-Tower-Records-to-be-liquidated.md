@@ -12,4 +12,4 @@ date: 2006-10-07
 > "AP Wire | 10/06/2006 | Group plans to liquidate Tower Records")
 
 
-[Tower Records to be liquidated](None)
+* **Link to site:** **[Tower Records to be liquidated](None)**

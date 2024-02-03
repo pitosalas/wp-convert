@@ -24,4 +24,4 @@ campaign.](<https://www.kickstarter.com/projects/1655781518/lift-off-get-me-
 off-this-planet>) Are you? You should!
 
 
-[Cool new board game: Kickstarter: “Lift Off! – Get me off this Planet”](None)
+* **Link to site:** **[Cool new board game: Kickstarter: “Lift Off! – Get me off this Planet”](None)**

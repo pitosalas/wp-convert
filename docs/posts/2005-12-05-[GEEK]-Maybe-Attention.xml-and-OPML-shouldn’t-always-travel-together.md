@@ -50,4 +50,4 @@ aggregators generally aren't parsing nor generating.)
 [XOXO](<http://www.technorati.com/tag/XOXO>)
 
 
-[[GEEK] Maybe Attention.xml and OPML shouldn’t always travel together](None)
+* **Link to site:** **[[GEEK] Maybe Attention.xml and OPML shouldn’t always travel together](None)**

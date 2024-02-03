@@ -18,4 +18,4 @@ So, if you have an iPhone 3GS in good condition, and your AT&T contract is up,
 then you should upgrade to an iPhone 4 and make $40 in the process. Cool!
 
 
-[Followup: Upgraded my iPhone from 3GS to 4 for MINUS $40.00](None)
+* **Link to site:** **[Followup: Upgraded my iPhone from 3GS to 4 for MINUS $40.00](None)**

@@ -36,4 +36,4 @@ scheme. I just have a hard time swallowing that McChrystal and his team didn't
 know exactly what they were doing.
 
 
-[[POLITICS] McChrystal self-sabotage](None)
+* **Link to site:** **[[POLITICS] McChrystal self-sabotage](None)**

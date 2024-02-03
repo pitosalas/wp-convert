@@ -10,4 +10,4 @@ A handy list: ["Open Source Apps on Mac from Linux and Open
 Source"](<http://linux.wordpress.com/open-source-apps-on-mac/>)
 
 
-[Colection of Mac open source apps](None)
+* **Link to site:** **[Colection of Mac open source apps](None)**

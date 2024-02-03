@@ -24,4 +24,4 @@ people off. My new standard is that I will precede the title with [geek] to
 give early warning and allow people to skip it.
 
 
-[[Geek] Debugging focus problems](None)
+* **Link to site:** **[[Geek] Debugging focus problems](None)**

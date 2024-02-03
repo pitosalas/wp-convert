@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Rails
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fvis.stanford.edu%2Fprotovis%2Fex%2Fdot-full.html width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fvis.stanford.edu%2Fprotovis%2Fex%2Fdot-full.html>
 
 
-[Scatterplot](http://vis.stanford.edu/protovis/ex/dot-full.html)
+* **Link to site:** **[Scatterplot](http://vis.stanford.edu/protovis/ex/dot-full.html)**

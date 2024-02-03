@@ -17,4 +17,4 @@ shot-2010-07-21-at-51029-pm.png?resize=178%2C124)](<https://i0.wp.com/s3.media.s
 content/uploads/2010/07/screen-shot-2010-07-21-at-51029-pm.png>)
 
 
-[[GEEKY] Something wrong with this picture?](None)
+* **Link to site:** **[[GEEKY] Something wrong with this picture?](None)**

@@ -30,4 +30,4 @@ lots of stuff that your current aggregator may
 not.](<http://www.blogbridge.com/2007/09/24/can-your-current-tool-do-this/>)
 
 
-[BlogBridge 6.0 is out](None)
+* **Link to site:** **[BlogBridge 6.0 is out](None)**

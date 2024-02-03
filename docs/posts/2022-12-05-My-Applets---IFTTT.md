@@ -9,9 +9,10 @@ tags:
     - test
     - deleteme
 ---
-<img src=https://web-assets.ifttt.com/packs/media/shared/ifttt-banner-517eb7015c41a6670370.png width="500">
+<img class="cover" src=https://web-assets.ifttt.com/packs/media/shared/ifttt-banner-517eb7015c41a6670370.png>
 
 
 
-(**Web site excerpt:** Manage your IFTTT Applets.) 
-[My Applets - IFTTT](https://ifttt.com/my_applets)
+* **Web site excerpt:** Manage your IFTTT Applets.
+
+* **Link to site:** **[My Applets - IFTTT](https://ifttt.com/my_applets)**

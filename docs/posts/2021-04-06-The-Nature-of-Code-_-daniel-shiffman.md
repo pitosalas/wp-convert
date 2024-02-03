@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Design
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[The Nature of Code | daniel shiffman](http://www.shiffman.net/teaching/nature)
+* **Link to site:** **[The Nature of Code | daniel shiffman](http://www.shiffman.net/teaching/nature)**

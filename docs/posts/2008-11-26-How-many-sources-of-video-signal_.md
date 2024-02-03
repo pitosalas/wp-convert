@@ -30,4 +30,4 @@ article.](<http://blog.wired.com/gadgets/2008/04/myka-one-set-to.html>)
 bittorrent](<http://technorati.com/tag/myka%20settopbox%20video%20dvd%20bittorrent>)
 
 
-[How many sources of video signal?](None)
+* **Link to site:** **[How many sources of video signal?](None)**

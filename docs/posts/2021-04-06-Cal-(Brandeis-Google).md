@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Brandeis
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Cal (Brandeis Google)](https://calendar.google.com/calendar/b/1/render#main_7)
+* **Link to site:** **[Cal (Brandeis Google)](https://calendar.google.com/calendar/b/1/render#main_7)**

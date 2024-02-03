@@ -13,4 +13,4 @@ shot-2009-11-01-at-62549-pm.png?resize=517%2C258)
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[House Health Care Bill: Brief Summary](None)
+* **Link to site:** **[House Health Care Bill: Brief Summary](None)**

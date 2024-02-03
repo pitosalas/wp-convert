@@ -97,4 +97,4 @@ Here is the full article written by Jeremy Wagstaff…
 > really is.
 
 
-[Blind to Bargains – Jeremy Wagstaff](None)
+* **Link to site:** **[Blind to Bargains – Jeremy Wagstaff](None)**

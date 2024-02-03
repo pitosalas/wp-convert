@@ -16,4 +16,4 @@ was: "In fact, CP+B came up with about 400 different actions that the chicken
 could do, and then filmed them in the course of a day in Los Angeles."
 
 
-[Follow-up to Subservient Chicken](None)
+* **Link to site:** **[Follow-up to Subservient Chicken](None)**

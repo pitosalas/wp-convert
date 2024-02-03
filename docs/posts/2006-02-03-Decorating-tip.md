@@ -31,4 +31,4 @@ be"?
 >> Technorati Tags: [decorating](<http://www.technorati.com/tag/decorating>)
 
 
-[Decorating tip](None)
+* **Link to site:** **[Decorating tip](None)**

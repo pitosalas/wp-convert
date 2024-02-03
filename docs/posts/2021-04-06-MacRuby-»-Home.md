@@ -6,7 +6,7 @@ link: "http://www.macruby.org"
 cover: "https://rdl.ink/render/http%3A%2F%2Fwww.macruby.org" 
 date: 2021-04-06
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fwww.macruby.org width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.macruby.org>
 
 
-[MacRuby » Home](http://www.macruby.org)
+* **Link to site:** **[MacRuby » Home](http://www.macruby.org)**

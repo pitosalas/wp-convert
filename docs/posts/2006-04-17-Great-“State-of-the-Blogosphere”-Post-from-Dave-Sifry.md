@@ -50,4 +50,4 @@ thing](<http://www.sifry.com/alerts/archives/000432.html>).
 [blogging](<http://www.technorati.com/tag/blogging>)
 
 
-[Great “State of the Blogosphere” Post from Dave Sifry](None)
+* **Link to site:** **[Great “State of the Blogosphere” Post from Dave Sifry](None)**

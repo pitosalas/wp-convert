@@ -49,4 +49,4 @@ Victory](<http://www.theatlantic.com/doc/200609/fallows_victory>))
 >> May you live in interesting times.
 
 
-[James Fallows: “The War on Terror is Over”](None)
+* **Link to site:** **[James Fallows: “The War on Terror is Over”](None)**

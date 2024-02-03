@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Brandeis
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fwww.brandeis.edu%2Fprovost%2Ffaculty-info%2Findex.html width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.brandeis.edu%2Fprovost%2Ffaculty-info%2Findex.html>
 
 
-[Information for Faculty | Provost's Office | Brandeis University](http://www.brandeis.edu/provost/faculty-info/index.html)
+* **Link to site:** **[Information for Faculty | Provost's Office | Brandeis University](http://www.brandeis.edu/provost/faculty-info/index.html)**

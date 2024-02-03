@@ -51,4 +51,4 @@ date: 2006-12-30
 > Analemma](<http://scienceblogs.com/goodmath/2006/12/a_great_math_site_understandin.php>))
 
 
-[A Great Math Site: Understanding the Analemma](None)
+* **Link to site:** **[A Great Math Site: Understanding the Analemma](None)**

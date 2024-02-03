@@ -40,4 +40,4 @@ date: 2007-01-16
 > live/>))
 
 
-[Really cool new site: MyPunchBowl](None)
+* **Link to site:** **[Really cool new site: MyPunchBowl](None)**

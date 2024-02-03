@@ -28,4 +28,4 @@ original design was truly original.
 Things are never as simple as they appear…
 
 
-[Urban Outfitters Rip Off Independent Artists?](None)
+* **Link to site:** **[Urban Outfitters Rip Off Independent Artists?](None)**

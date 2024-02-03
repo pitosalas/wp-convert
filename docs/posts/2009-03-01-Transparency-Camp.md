@@ -31,4 +31,4 @@ not exactly clear to me (today) I feel that there will be an inevitable impact
 over time. These are early days, but this is very important work.
 
 
-[Transparency Camp](None)
+* **Link to site:** **[Transparency Camp](None)**

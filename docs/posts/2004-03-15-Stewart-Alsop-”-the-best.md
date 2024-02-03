@@ -36,4 +36,4 @@ Stewart Alsop the elder in fact was a political columnist of some renown until
 he passed away in  1974.
 
 
-[Stewart Alsop ” the best](None)
+* **Link to site:** **[Stewart Alsop ” the best](None)**

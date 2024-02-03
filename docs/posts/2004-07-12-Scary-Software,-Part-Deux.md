@@ -25,4 +25,4 @@ signed by R. Pito Salas and Associates", and that would assure people who know
 me personally. I would hope my user base grows beyond that 🙂
 
 
-[Scary Software, Part Deux](None)
+* **Link to site:** **[Scary Software, Part Deux](None)**

@@ -11,11 +11,11 @@ tags:
     - cardboard
     - youtube
 ---
-<img src=https://i.ytimg.com/vi/Pk2wHf4ub3c/mqdefault.jpg width="500">
+<img class="cover" src=https://i.ytimg.com/vi/Pk2wHf4ub3c/mqdefault.jpg>
 
 
 
-(**Web site excerpt:** All three cardboard videos in One, adjusted sound, new footage and all new footage and voice over and music for the tools section.
+* **Web site excerpt:** All three cardboard videos in One, adjusted sound, new footage and all new footage and voice over and music for the tools section.
 
 CardBoard Basics, a Tutorial guide for Chip Board matte board, Bristolboard and model making for all designers architects model makers hobbyists and crafters.I show how I build some 2" x 2" 50.8mm x50.8mm cardboard cubes as well as some more advanced shapes using straight cut x-acto blades and white PVA glue.
 
@@ -81,5 +81,6 @@ Instagram: https://www.instagram.com/botzendesign @botzendesign
 
 Botzen Design Inc.
 Industrial Design and Product Visualization
-http://www.botzen.com) 
-[CardBoard Basics: Full Series with Advanced Basics plus Tools](https://youtube.com/watch?v=Pk2wHf4ub3c&feature=share)
+http://www.botzen.com
+
+* **Link to site:** **[CardBoard Basics: Full Series with Advanced Basics plus Tools](https://youtube.com/watch?v=Pk2wHf4ub3c&feature=share)**

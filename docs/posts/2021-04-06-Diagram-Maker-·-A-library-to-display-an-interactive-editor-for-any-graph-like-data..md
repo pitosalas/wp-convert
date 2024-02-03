@@ -11,9 +11,10 @@ tags:
     - interactive
     - diagram
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Fawslabs.github.io%2Fdiagram-maker width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fawslabs.github.io%2Fdiagram-maker>
 
 
 
-(**Web site excerpt:** Looks like a useful addition to the various diagram makers.) 
-[Diagram Maker · A library to display an interactive editor for any graph-like data.](https://awslabs.github.io/diagram-maker)
+* **Web site excerpt:** Looks like a useful addition to the various diagram makers.
+
+* **Link to site:** **[Diagram Maker · A library to display an interactive editor for any graph-like data.](https://awslabs.github.io/diagram-maker)**

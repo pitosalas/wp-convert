@@ -11,9 +11,10 @@ tags:
     - cli
     - cooltool
 ---
-<img src=https://www.visidata.org/images/meta/og.jpg width="500">
+<img class="cover" src=https://www.visidata.org/images/meta/og.jpg>
 
 
 
-(**Web site excerpt:** Command-line interactive multitool for tabular data.) 
-[Open-source data multitool | VisiData](https://www.visidata.org/?utm_source=substack&utm_medium=email)
+* **Web site excerpt:** Command-line interactive multitool for tabular data.
+
+* **Link to site:** **[Open-source data multitool | VisiData](https://www.visidata.org/?utm_source=substack&utm_medium=email)**

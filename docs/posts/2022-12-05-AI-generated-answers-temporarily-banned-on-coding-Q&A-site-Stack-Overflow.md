@@ -23,4 +23,4 @@ chatbot ChatGPT to flood the site with AI responses, but Stack Overflow’s mods
 say these ‘have a high rate of being incorrect.’"
 
 
-[AI-generated answers temporarily banned on coding Q&A site Stack Overflow](None)
+* **Link to site:** **[AI-generated answers temporarily banned on coding Q&A site Stack Overflow](None)**

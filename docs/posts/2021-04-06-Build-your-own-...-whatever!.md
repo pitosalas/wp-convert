@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - howto instructions build
 ---
-<img src=https://avatars.githubusercontent.com/u/1736595?s=400&v=4 width="500">
+<img class="cover" src=https://avatars.githubusercontent.com/u/1736595?s=400&v=4>
 
 
 
-(**Web site excerpt:** Build your own... operating system, programming language, web server, etc.) 
-[Build your own ... whatever!](https://github.com/danistefanovic/build-your-own-x)
+* **Web site excerpt:** Build your own... operating system, programming language, web server, etc.
+
+* **Link to site:** **[Build your own ... whatever!](https://github.com/danistefanovic/build-your-own-x)**

@@ -21,4 +21,4 @@ contractors represented in the **government**. A fascinating read.
 >> Technorati Tags: [book](<http://www.technorati.com/tag/book>)
 
 
-[Great book: Confessions of an Economic Hit Man](None)
+* **Link to site:** **[Great book: Confessions of an Economic Hit Man](None)**

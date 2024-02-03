@@ -19,4 +19,4 @@ FAQ](<http://www.blogbridge.com/faqpage.htm>).
 here](<http://www.blogbridge.com/install/beta2/blogbridge.jnlp>).
 
 
-[BlogBridge Beta 2 is now available to play with](None)
+* **Link to site:** **[BlogBridge Beta 2 is now available to play with](None)**

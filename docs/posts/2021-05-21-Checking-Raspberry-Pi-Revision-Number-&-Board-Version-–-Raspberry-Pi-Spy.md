@@ -16,4 +16,4 @@ have using these easy techniques.
 May 22, 2021 at 03:10AM
 
 
-[Checking Raspberry Pi Revision Number & Board Version – Raspberry Pi Spy](None)
+* **Link to site:** **[Checking Raspberry Pi Revision Number & Board Version – Raspberry Pi Spy](None)**

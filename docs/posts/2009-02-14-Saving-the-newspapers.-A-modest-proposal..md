@@ -43,4 +43,4 @@ blogging each idea that pops into their head (yours truly included) it's hard
 to know what's original!
 
 
-[Saving the newspapers. A modest proposal.](None)
+* **Link to site:** **[Saving the newspapers. A modest proposal.](None)**

@@ -13,9 +13,10 @@ tags:
     - large
     - service
 ---
-<img src=https://www.posterpresentations.com/assets/images/professional-pg-506x340.png width="500">
+<img class="cover" src=https://www.posterpresentations.com/assets/images/professional-pg-506x340.png>
 
 
 
-(**Web site excerpt:** Poster printing services and pricing guide.) 
-[Price guide for research poster printing](https://www.posterpresentations.com/price-guide.html)
+* **Web site excerpt:** Poster printing services and pricing guide.
+
+* **Link to site:** **[Price guide for research poster printing](https://www.posterpresentations.com/price-guide.html)**

@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - font
 ---
-<img src=https://public-sans.digital.gov/assets/img/public-hi.png width="500">
+<img class="cover" src=https://public-sans.digital.gov/assets/img/public-hi.png>
 
 
 
-(**Web site excerpt:** Could be useful!) 
-[Public Sans](https://public-sans.digital.gov)
+* **Web site excerpt:** Could be useful!
+
+* **Link to site:** **[Public Sans](https://public-sans.digital.gov)**

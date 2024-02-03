@@ -25,4 +25,4 @@ Here's the kicker. He said, "What if I give you $5.00 right now?".
 I still didn't want to buy it… How does that make any sense?
 
 
-[The funny thing about iPhone apps](None)
+* **Link to site:** **[The funny thing about iPhone apps](None)**

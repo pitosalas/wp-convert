@@ -6,7 +6,7 @@ link: "https://coinbase.com/transactions"
 cover: "" 
 date: 2021-04-06
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Coinbase - Your Hosted Bitcoin Wallet](https://coinbase.com/transactions)
+* **Link to site:** **[Coinbase - Your Hosted Bitcoin Wallet](https://coinbase.com/transactions)**

@@ -22,4 +22,4 @@ a new programming language (Objective C) and it's tools, traditions, and bugs.
 And no one on the planet other than Apple uses Objective C.
 
 
-[[GEEKY] Why I am not yet developing for iOS](None)
+* **Link to site:** **[[GEEKY] Why I am not yet developing for iOS](None)**

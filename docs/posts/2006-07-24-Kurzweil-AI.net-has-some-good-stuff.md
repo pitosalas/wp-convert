@@ -39,4 +39,4 @@ worth keeping an eye on!
 [kurzweil](<http://www.technorati.com/tag/kurzweil>)
 
 
-[Kurzweil AI.net has some good stuff](None)
+* **Link to site:** **[Kurzweil AI.net has some good stuff](None)**

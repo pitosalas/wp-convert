@@ -22,4 +22,4 @@ Blog](<http://dilbertblog.typepad.com/the_dilbert_blog/>):
 > all.html>))
 
 
-[Dilbert blog does it again (photo added)](None)
+* **Link to site:** **[Dilbert blog does it again (photo added)](None)**

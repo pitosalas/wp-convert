@@ -15,4 +15,4 @@ themselves.
 >> Technorati Tags: [odd](<http://www.technorati.com/tag/odd>)
 
 
-[Can I do this?](None)
+* **Link to site:** **[Can I do this?](None)**

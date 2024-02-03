@@ -27,4 +27,4 @@ here.](<http://www.nytimes.com/2013/04/11/technology/personaltech/how-to-
 lighten-the-crush-of-e-mail.html?pagewanted=all&_r=0>)
 
 
-[Great tips for dealing with email](None)
+* **Link to site:** **[Great tips for dealing with email](None)**

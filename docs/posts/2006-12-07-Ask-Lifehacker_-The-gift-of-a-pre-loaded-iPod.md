@@ -23,4 +23,4 @@ date: 2006-12-07
 > This is a really good idea! I will use it this holiday season!
 
 
-[Ask Lifehacker: The gift of a pre-loaded iPod](None)
+* **Link to site:** **[Ask Lifehacker: The gift of a pre-loaded iPod](None)**

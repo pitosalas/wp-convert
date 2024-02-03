@@ -51,4 +51,4 @@ beta to about 10 people to start, and plan to ramp that up over the next
 months, while constantly adding features and removing bugs.
 
 
-[What’s a beta, anyway?](None)
+* **Link to site:** **[What’s a beta, anyway?](None)**

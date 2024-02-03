@@ -28,4 +28,4 @@ components." ( **from** [JDemo web site](<http://www.jdemo.de/>))
 >> Technorati Tags: [cooltool](<http://www.technorati.com/tag/cooltool>)
 
 
-[[GEEK] JDemo: Java Demonstration Framework](None)
+* **Link to site:** **[[GEEK] JDemo: Java Demonstration Framework](None)**

@@ -73,4 +73,4 @@ how to check their email.
 > [puppy](<http://www.technorati.com/tag/puppy>)
 
 
-[More musings on the not-better-RSS-aggregator](None)
+* **Link to site:** **[More musings on the not-better-RSS-aggregator](None)**

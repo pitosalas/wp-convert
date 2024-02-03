@@ -29,4 +29,4 @@ commentary.
 >> **Check it out!**
 
 
-[Have you seen Google Maps?](None)
+* **Link to site:** **[Have you seen Google Maps?](None)**

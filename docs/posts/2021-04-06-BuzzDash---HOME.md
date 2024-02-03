@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - reading
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
 
-(**Web site excerpt:** Looks really interesting) 
-[BuzzDash - HOME](http://www.buzzdash.com/index.php?page=home)
+* **Web site excerpt:** Looks really interesting
+
+* **Link to site:** **[BuzzDash - HOME](http://www.buzzdash.com/index.php?page=home)**

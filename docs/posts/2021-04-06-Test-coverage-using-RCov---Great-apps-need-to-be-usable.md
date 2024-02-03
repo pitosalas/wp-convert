@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Ruby
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Test coverage using RCov - Great apps need to be usable](http://blog.jennyfong.net/2010/04/17/test-coverage-using-rcov)
+* **Link to site:** **[Test coverage using RCov - Great apps need to be usable](http://blog.jennyfong.net/2010/04/17/test-coverage-using-rcov)**

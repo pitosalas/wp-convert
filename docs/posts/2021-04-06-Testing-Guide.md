@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - howto examples martinfowler techniques testing
 ---
-<img src=https://martinfowler.com/logo-sq.png width="500">
+<img class="cover" src=https://martinfowler.com/logo-sq.png>
 
 
 
-(**Web site excerpt:** Martin Fowler always has interesting views and recommendations) 
-[Testing Guide](https://martinfowler.com/testing)
+* **Web site excerpt:** Martin Fowler always has interesting views and recommendations
+
+* **Link to site:** **[Testing Guide](https://martinfowler.com/testing)**

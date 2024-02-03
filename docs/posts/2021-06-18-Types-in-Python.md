@@ -10,9 +10,10 @@ tags:
     - howto
     - data-types
 ---
-<img src=https://images.ctfassets.net/23aumh6u8s0i/6uBzrqHNLlSAoER6HtgDN0/accd8f871b1de37f472b94da4346afa2/python-hero width="500">
+<img class="cover" src=https://images.ctfassets.net/23aumh6u8s0i/6uBzrqHNLlSAoER6HtgDN0/accd8f871b1de37f472b94da4346afa2/python-hero>
 
 
 
-(**Web site excerpt:** A bird's view look to the Typing features in Python 3.x. My impression is that it's pretty confusing!) 
-[Types in Python](https://auth0.com/blog/typing-in-python/)
+* **Web site excerpt:** A bird's view look to the Typing features in Python 3.x. My impression is that it's pretty confusing!
+
+* **Link to site:** **[Types in Python](https://auth0.com/blog/typing-in-python/)**

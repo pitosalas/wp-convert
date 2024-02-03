@@ -11,9 +11,10 @@ tags:
     - howto
     - threads
 ---
-<img src=https://www.speedshop.co/assets/posts/img/the-ruby-gvl.png width="500">
+<img class="cover" src=https://www.speedshop.co/assets/posts/img/the-ruby-gvl.png>
 
 
 
-(**Web site excerpt:** MRI Ruby's Global VM Lock: frequently mislabeled, misunderstood and maligned. Does the GVL mean that Ruby has no concurrency story or CaN'T sCaLe? To underst...) 
-[The Practical Effects of the GVL on Scaling in Ruby](https://www.speedshop.co/2020/05/11/the-ruby-gvl-and-scaling.html)
+* **Web site excerpt:** MRI Ruby's Global VM Lock: frequently mislabeled, misunderstood and maligned. Does the GVL mean that Ruby has no concurrency story or CaN'T sCaLe? To underst...
+
+* **Link to site:** **[The Practical Effects of the GVL on Scaling in Ruby](https://www.speedshop.co/2020/05/11/the-ruby-gvl-and-scaling.html)**

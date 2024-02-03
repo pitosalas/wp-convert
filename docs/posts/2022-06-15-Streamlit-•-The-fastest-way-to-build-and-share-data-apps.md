@@ -12,9 +12,10 @@ tags:
     - otp
     - howto
 ---
-<img src=https://streamlit.io/sharing-image-facebook.jpg width="500">
+<img class="cover" src=https://streamlit.io/sharing-image-facebook.jpg>
 
 
 
-(**Web site excerpt:** Streamlit is an open-source app framework for Machine Learning and Data Science teams. Create beautiful web apps in minutes.) 
-[Streamlit • The fastest way to build and share data apps](https://streamlit.io/)
+* **Web site excerpt:** Streamlit is an open-source app framework for Machine Learning and Data Science teams. Create beautiful web apps in minutes.
+
+* **Link to site:** **[Streamlit • The fastest way to build and share data apps](https://streamlit.io/)**

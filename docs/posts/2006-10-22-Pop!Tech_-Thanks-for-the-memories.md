@@ -38,4 +38,4 @@ date: 2006-10-22
 > Technorati Tags: [poptech](<http://technorati.com/tag/poptech>)
 
 
-[Pop!Tech: Thanks for the memories](None)
+* **Link to site:** **[Pop!Tech: Thanks for the memories](None)**

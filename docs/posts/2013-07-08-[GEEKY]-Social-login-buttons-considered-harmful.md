@@ -36,4 +36,4 @@ Blog](<http://blog.mailchimp.com/social-login-buttons-arent-worth-it/>):
  Yea
 
 
-[[GEEKY] Social login buttons considered harmful](None)
+* **Link to site:** **[[GEEKY] Social login buttons considered harmful](None)**

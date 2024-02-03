@@ -14,4 +14,4 @@ an online catalog can be funny.
 Larry)](<http://producten.hema.nl/>)
 
 
-[Funny product catalog](None)
+* **Link to site:** **[Funny product catalog](None)**

@@ -43,4 +43,4 @@ date: 2007-01-22
 > Update](<http://dilbertblog.typepad.com/the_dilbert_blog/2007/01/voice_update_1.html>))
 
 
-[Another fascinating post from Scott Adams](None)
+* **Link to site:** **[Another fascinating post from Scott Adams](None)**

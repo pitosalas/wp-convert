@@ -11,11 +11,12 @@ tags:
     - paper
     - scholarship
 ---
-<img src=https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png width="500">
+<img class="cover" src=https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png>
 
 
 
-(**Web site excerpt:** We present YOLO, a new approach to object detection. Prior work on object
+* **Web site excerpt:** We present YOLO, a new approach to object detection. Prior work on object
 detection repurposes classifiers to perform detection. Instead, we frame object
-detection as a regression problem to...) 
-[You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
+detection as a regression problem to...
+
+* **Link to site:** **[You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)**

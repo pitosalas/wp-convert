@@ -39,4 +39,4 @@ off the ground, please, get in touch or post a comment!
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[Op-ed in Mass High Tech about ResourceMatcher.org](None)
+* **Link to site:** **[Op-ed in Mass High Tech about ResourceMatcher.org](None)**

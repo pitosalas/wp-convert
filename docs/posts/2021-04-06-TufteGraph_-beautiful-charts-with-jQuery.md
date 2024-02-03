@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - charts query javascript graphs development
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fxaviershay.github.io%2Ftufte-graph width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fxaviershay.github.io%2Ftufte-graph>
 
 
-[TufteGraph: beautiful charts with jQuery](http://xaviershay.github.io/tufte-graph)
+* **Link to site:** **[TufteGraph: beautiful charts with jQuery](http://xaviershay.github.io/tufte-graph)**

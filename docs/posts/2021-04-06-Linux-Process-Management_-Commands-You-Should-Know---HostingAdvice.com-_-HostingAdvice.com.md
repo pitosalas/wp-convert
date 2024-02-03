@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - linux management commands
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Linux Process Management: Commands You Should Know - HostingAdvice.com | HostingAdvice.com](http://www.hostingadvice.com/blog/linux-process-management-commands-know)
+* **Link to site:** **[Linux Process Management: Commands You Should Know - HostingAdvice.com | HostingAdvice.com](http://www.hostingadvice.com/blog/linux-process-management-commands-know)**

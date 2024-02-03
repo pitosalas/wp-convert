@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - programming howto MockMechanics hacker visual
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Fmockmechanics.com width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fmockmechanics.com>
 
 
 
-(**Web site excerpt:** Very cool and clever visual programming.) 
-[MockMechanics](https://mockmechanics.com)
+* **Web site excerpt:** Very cool and clever visual programming.
+
+* **Link to site:** **[MockMechanics](https://mockmechanics.com)**

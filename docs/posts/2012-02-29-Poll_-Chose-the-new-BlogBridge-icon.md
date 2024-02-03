@@ -14,4 +14,4 @@ tags:
 icons>)
 
 
-[Poll: Chose the new BlogBridge icon](None)
+* **Link to site:** **[Poll: Chose the new BlogBridge icon](None)**

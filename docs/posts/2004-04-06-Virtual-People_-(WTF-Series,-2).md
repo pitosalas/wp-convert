@@ -23,4 +23,4 @@ regulate digital personas as a third actor along with natural people and
 corporate-like entities.
 
 
-[Virtual People? (WTF Series, 2)](None)
+* **Link to site:** **[Virtual People? (WTF Series, 2)](None)**

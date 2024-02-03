@@ -12,9 +12,10 @@ tags:
     - visualization
     - illustration
 ---
-<img src=https://excalidraw.com/og-image-2.png width="500">
+<img class="cover" src=https://excalidraw.com/og-image-2.png>
 
 Another grade drawing and diagram tool!
 
-(**Web site excerpt:** Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.) 
-[Excalidraw — Collaborative whiteboarding made easy](https://excalidraw.com/)
+* **Web site excerpt:** Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
+
+* **Link to site:** **[Excalidraw — Collaborative whiteboarding made easy](https://excalidraw.com/)**

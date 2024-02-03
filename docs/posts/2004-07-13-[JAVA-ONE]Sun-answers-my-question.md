@@ -45,4 +45,4 @@ like GE made money on standard rails, [and other parallel examples]"
 sure that it **doesn 't bristle with confidence and passion**.
 
 
-[[JAVA ONE]Sun answers my question](None)
+* **Link to site:** **[[JAVA ONE]Sun answers my question](None)**

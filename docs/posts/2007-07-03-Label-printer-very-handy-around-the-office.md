@@ -54,4 +54,4 @@ printers. They are great!
 Sponsored Post
 
 
-[Label printer very handy around the office](None)
+* **Link to site:** **[Label printer very handy around the office](None)**

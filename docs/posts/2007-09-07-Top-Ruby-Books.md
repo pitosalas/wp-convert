@@ -20,4 +20,4 @@ project.
 But of course, that's how BlogBridge started. A decent play project…
 
 
-[Top Ruby Books](None)
+* **Link to site:** **[Top Ruby Books](None)**

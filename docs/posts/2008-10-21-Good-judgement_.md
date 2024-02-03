@@ -30,4 +30,4 @@ for-other-people-or>).
 > brief/2008/10/17/hedge-fund-manager-goodbye-and-f-you>))
 
 
-[Good judgement?](None)
+* **Link to site:** **[Good judgement?](None)**

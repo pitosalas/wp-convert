@@ -16,4 +16,4 @@ for Twitter users: only 'friend' people who you really know and at some weird
 level care whether they are having a ham sandwich.
 
 
-[Leaving my friends – Twitterspam](None)
+* **Link to site:** **[Leaving my friends – Twitterspam](None)**

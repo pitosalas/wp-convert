@@ -17,4 +17,4 @@ first to identify the problem:
 > Thoughts on the Social Graph](<http://bradfitz.com/social-graph-problem/>))
 
 
-[An interesting paper about social networks](None)
+* **Link to site:** **[An interesting paper about social networks](None)**

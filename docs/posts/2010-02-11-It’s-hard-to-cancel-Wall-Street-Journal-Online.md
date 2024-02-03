@@ -23,4 +23,4 @@ again, who then tries to talk you out of canceling. Geez.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[It’s hard to cancel Wall Street Journal Online](None)
+* **Link to site:** **[It’s hard to cancel Wall Street Journal Online](None)**

@@ -12,9 +12,10 @@ tags:
     - literature
     - computer-science
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Fscholar.google.com%2Fcitations%3Fview_op%3Dtop_venues%26hl%3Den%26vq%3Deng width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fscholar.google.com%2Fcitations%3Fview_op%3Dtop_venues%26hl%3Den%26vq%3Deng>
 
 
 
-(**Web site excerpt:** Great list of top publications) 
-[Engineering & Computer Science - Google Scholar Metrics](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng)
+* **Web site excerpt:** Great list of top publications
+
+* **Link to site:** **[Engineering & Computer Science - Google Scholar Metrics](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng)**

@@ -11,9 +11,10 @@ tags:
     - machine-learning
     - artificial-intelligence
 ---
-<img src=https://miro.medium.com/max/682/0*ZRVahOY1Md8Xb67p.jpeg width="500">
+<img class="cover" src=https://miro.medium.com/max/682/0*ZRVahOY1Md8Xb67p.jpeg>
 
 
 
-(**Web site excerpt:** The bureaucrats are running the asylum. Very provocative article.) 
-[Machine Learning: The Great Stagnation](https://towardsdatascience.com/machine-learning-the-great-stagnation-3a0f044e17e0)
+* **Web site excerpt:** The bureaucrats are running the asylum. Very provocative article.
+
+* **Link to site:** **[Machine Learning: The Great Stagnation](https://towardsdatascience.com/machine-learning-the-great-stagnation-3a0f044e17e0)**

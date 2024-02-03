@@ -36,4 +36,4 @@ Design Dead?")"
 [technical](<http://technorati.com/tag/technical>)
 
 
-[Good article about software design](None)
+* **Link to site:** **[Good article about software design](None)**

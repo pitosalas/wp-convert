@@ -32,4 +32,4 @@ Tags: [mathematics](<http://technorati.com/tag/mathematics>),
 _Originally posted on Jul 14, 2009. Reprinted courtesy of ReRuns plug-in._
 
 
-[Wolfram on Computable Knowledge](None)
+* **Link to site:** **[Wolfram on Computable Knowledge](None)**

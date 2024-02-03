@@ -16,4 +16,4 @@ proof of that.
 Ginsburg](<http://vimeo.com/sarahginsburg>) on [Vimeo](<http://vimeo.com>).
 
 
-[By boat from Boston Harbor to the Lower Mystic Lake](None)
+* **Link to site:** **[By boat from Boston Harbor to the Lower Mystic Lake](None)**

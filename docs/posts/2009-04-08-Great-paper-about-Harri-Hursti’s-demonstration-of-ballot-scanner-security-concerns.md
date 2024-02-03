@@ -49,4 +49,4 @@ way in which he describes what was done.
 [ballots](<http://technorati.com/tag/ballots>)
 
 
-[Great paper about Harri Hursti’s demonstration of ballot scanner security concerns](None)
+* **Link to site:** **[Great paper about Harri Hursti’s demonstration of ballot scanner security concerns](None)**

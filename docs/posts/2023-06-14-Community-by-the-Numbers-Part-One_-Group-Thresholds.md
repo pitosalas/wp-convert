@@ -14,4 +14,4 @@ tags:
 Thresholds](<http://www.lifewithalacrity.com/2008/09/group-threshold.html>) –
 
 
-[Community by the Numbers Part One: Group Thresholds](None)
+* **Link to site:** **[Community by the Numbers Part One: Group Thresholds](None)**

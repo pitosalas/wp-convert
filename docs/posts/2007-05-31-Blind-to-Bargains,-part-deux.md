@@ -50,4 +50,4 @@ has pondered it too in ["Blind to Bargains".)](</2007/04/28/blind-to-bargains-
 jeremy-wagstaff/>)
 
 
-[Blind to Bargains, part deux](None)
+* **Link to site:** **[Blind to Bargains, part deux](None)**

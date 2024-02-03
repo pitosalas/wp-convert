@@ -6,7 +6,7 @@ link: "http://blogrunner.com"
 cover: "" 
 date: 2021-04-06
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Blogrunner](http://blogrunner.com)
+* **Link to site:** **[Blogrunner](http://blogrunner.com)**

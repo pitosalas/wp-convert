@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - rails class abstract
 ---
-<img src=https://cdn.branch.io/branch-assets/1602694458802-og_image.png width="500">
+<img class="cover" src=https://cdn.branch.io/branch-assets/1602694458802-og_image.png>
 
 
 
-(**Web site excerpt:** Interesting Rails abstract classes feature) 
-[Deep Rails: How to use Abstract Classes](https://link.medium.com/qwR3chzoYS)
+* **Web site excerpt:** Interesting Rails abstract classes feature
+
+* **Link to site:** **[Deep Rails: How to use Abstract Classes](https://link.medium.com/qwR3chzoYS)**

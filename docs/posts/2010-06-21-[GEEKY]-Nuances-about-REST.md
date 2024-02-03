@@ -70,4 +70,4 @@ part of a much broader and general topic of 'Web Services and Cloud
 Computing." Next time.)
 
 
-[[GEEKY] Nuances about REST](None)
+* **Link to site:** **[[GEEKY] Nuances about REST](None)**

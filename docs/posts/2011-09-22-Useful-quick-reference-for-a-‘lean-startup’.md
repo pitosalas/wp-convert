@@ -20,4 +20,4 @@ benefit from it 🙂
 > real business?” ( **from** : How to Build a Web Startup)
 
 
-[Useful quick reference for a ‘lean startup’](None)
+* **Link to site:** **[Useful quick reference for a ‘lean startup’](None)**

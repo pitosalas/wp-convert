@@ -10,9 +10,10 @@ tags:
     - web
     - robot
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Frobotwebtools.org%2F width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Frobotwebtools.org%2F>
 
 
 
-(**Web site excerpt:** ROBOT WEB TOOLS ALLOWS WEB APPLICATIONS TO INTERFACE WITH A VARIETY OF ROBOTS RUNNING MIDDLEWARE LIKE THE POPULAR ROBOT OPERATING SYSTEM (ROS) USING THE LATEST IN HTML5 AND JAVASCRIPT.) 
-[Robot Web Tools](http://robotwebtools.org/)
+* **Web site excerpt:** ROBOT WEB TOOLS ALLOWS WEB APPLICATIONS TO INTERFACE WITH A VARIETY OF ROBOTS RUNNING MIDDLEWARE LIKE THE POPULAR ROBOT OPERATING SYSTEM (ROS) USING THE LATEST IN HTML5 AND JAVASCRIPT.
+
+* **Link to site:** **[Robot Web Tools](http://robotwebtools.org/)**

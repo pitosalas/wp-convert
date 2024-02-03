@@ -45,4 +45,4 @@ point](<http://www.corante.com/many/archives/2005/01/07/folksonomies_controlled_
 At least I am in good company.
 
 
-[Tags, Meta Tags, Meta Data, Yada Yada](None)
+* **Link to site:** **[Tags, Meta Tags, Meta Data, Yada Yada](None)**

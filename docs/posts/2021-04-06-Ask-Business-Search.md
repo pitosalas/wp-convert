@@ -6,7 +6,7 @@ link: "http://city.ask.com/city"
 cover: "" 
 date: 2021-04-06
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Ask Business Search](http://city.ask.com/city)
+* **Link to site:** **[Ask Business Search](http://city.ask.com/city)**

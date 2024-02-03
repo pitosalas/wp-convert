@@ -10,4 +10,4 @@ date: 2006-12-12
 > coupon.](<http://f.chtah.com/i/9/276579820/couponbook50_1212.htm>)
 
 
-[Today only: 40% off at Borders](None)
+* **Link to site:** **[Today only: 40% off at Borders](None)**

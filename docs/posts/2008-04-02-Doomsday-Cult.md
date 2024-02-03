@@ -22,4 +22,4 @@ Blog](<http://dilbertblog.typepad.com/the_dilbert_blog/index.rdf>):
 > out of doomsday."
 
 
-[Doomsday Cult](None)
+* **Link to site:** **[Doomsday Cult](None)**

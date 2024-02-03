@@ -19,4 +19,4 @@ inherently flawed. While they present challenges in visibility and
 performance, correct usage can mitigate these issues.
 
 
-[Lago Blog – ORMs are criticized for the wrong reasons](None)
+* **Link to site:** **[Lago Blog – ORMs are criticized for the wrong reasons](None)**

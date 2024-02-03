@@ -19,4 +19,4 @@ date: 2006-10-19
 > Technorati Tags: [poptech](<http://technorati.com/tag/poptech>)
 
 
-[Pop!Tech: why do I feel inadequate?](None)
+* **Link to site:** **[Pop!Tech: why do I feel inadequate?](None)**

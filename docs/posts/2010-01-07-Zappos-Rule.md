@@ -35,4 +35,4 @@ service. Nice. Too bad I buy shoes only once every 2 or 3 years 🙂
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[Zappos Rule](None)
+* **Link to site:** **[Zappos Rule](None)**

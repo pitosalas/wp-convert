@@ -44,4 +44,4 @@ You see that you end up with a fairly tricky decision matrix. More tomorrow on
 how I solved this dilemma.
 
 
-[5 Questions to ask when deciding whether to rely on S3 et al](None)
+* **Link to site:** **[5 Questions to ask when deciding whether to rely on S3 et al](None)**

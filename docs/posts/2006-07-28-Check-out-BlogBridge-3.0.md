@@ -15,4 +15,4 @@ mention here, but see the
 for the juicy details!
 
 
-[Check out BlogBridge 3.0](None)
+* **Link to site:** **[Check out BlogBridge 3.0](None)**

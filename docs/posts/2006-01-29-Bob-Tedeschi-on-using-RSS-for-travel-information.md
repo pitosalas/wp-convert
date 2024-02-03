@@ -93,4 +93,4 @@ Tedeschi>), [OPML](<http://www.technorati.com/tag/OPML>),
 [travel](<http://www.technorati.com/tag/travel>)
 
 
-[Bob Tedeschi on using RSS for travel information](None)
+* **Link to site:** **[Bob Tedeschi on using RSS for travel information](None)**

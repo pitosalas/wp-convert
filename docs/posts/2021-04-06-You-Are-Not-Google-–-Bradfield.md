@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - Software Engineering
 ---
-<img src=https://miro.medium.com/max/512/1*58fByP3ysdAKFlbH_KAWRQ.jpeg width="500">
+<img class="cover" src=https://miro.medium.com/max/512/1*58fByP3ysdAKFlbH_KAWRQ.jpeg>
 
 
 
-(**Web site excerpt:** Software engineers go crazy for the most ridiculous things. We like to think that we’re hyper-rational, but when we have to choose a…) 
-[You Are Not Google – Bradfield](https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb)
+* **Web site excerpt:** Software engineers go crazy for the most ridiculous things. We like to think that we’re hyper-rational, but when we have to choose a…
+
+* **Link to site:** **[You Are Not Google – Bradfield](https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb)**

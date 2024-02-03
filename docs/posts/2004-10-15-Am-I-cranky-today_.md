@@ -34,4 +34,4 @@ still feel the same…), but how about IRC? I mean calling IRC 'friction free'?
 Puleeez. I would call it maximum friction! Anyway, just cranky I guess.
 
 
-[Am I cranky today?](None)
+* **Link to site:** **[Am I cranky today?](None)**

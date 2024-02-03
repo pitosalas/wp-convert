@@ -24,4 +24,4 @@ thing](<http://www.thesmokinggun.com/graphics/art3/0322061cheney1.gif>), it's
 kinda funny.
 
 
-[Cheney watches Fox and Only Fox](None)
+* **Link to site:** **[Cheney watches Fox and Only Fox](None)**

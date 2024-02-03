@@ -54,4 +54,4 @@ up to the top of Blogdex. Geez, it's so hard to be original!
 > effect of getting me to read the resume!_
 
 
-[Getting Your R�sum� Read –](None)
+* **Link to site:** **[Getting Your R�sum� Read –](None)**

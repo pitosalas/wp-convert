@@ -41,4 +41,4 @@ this wasn't the first time this happened, I guess not surprisingly:
 _Originally posted on Feb 20, 2008. Reprinted courtesy of ReRuns plug-in._
 
 
-[Cloud Computing case studies](None)
+* **Link to site:** **[Cloud Computing case studies](None)**

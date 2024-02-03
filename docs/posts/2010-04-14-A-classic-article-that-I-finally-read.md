@@ -24,4 +24,4 @@ impactful:
 > labs.com/who/ken/trust.html>))
 
 
-[A classic article that I finally read](None)
+* **Link to site:** **[A classic article that I finally read](None)**

@@ -12,4 +12,4 @@ date: 2008-08-07
 Originally posted on Jan 01, 2006. Reprinted courtesy of ReRuns plug-in.
 
 
-[Why is this funny?](None)
+* **Link to site:** **[Why is this funny?](None)**

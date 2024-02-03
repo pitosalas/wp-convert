@@ -19,4 +19,4 @@ Rails development in Visual Studio Code
 May 29, 2022 at 05:29PM
 
 
-[Rails Extension Power Pack – Visual Studio Marketplace](None)
+* **Link to site:** **[Rails Extension Power Pack – Visual Studio Marketplace](None)**

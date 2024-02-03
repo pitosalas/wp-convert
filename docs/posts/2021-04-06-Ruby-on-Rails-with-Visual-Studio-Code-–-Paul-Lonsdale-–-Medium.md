@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - ruby
 ---
-<img src=https://miro.medium.com/max/640/1*oRZJdK1AUiPVSyjXbIeHdA.png width="500">
+<img class="cover" src=https://miro.medium.com/max/640/1*oRZJdK1AUiPVSyjXbIeHdA.png>
 
 
 
-(**Web site excerpt:** Find out how to customise Visual Studio Code for Ruby on Rails development) 
-[Ruby on Rails with Visual Studio Code – Paul Lonsdale – Medium](https://medium.com/@PaulWritesCode/ruby-on-rails-with-visual-studio-code-bc5681a2c098)
+* **Web site excerpt:** Find out how to customise Visual Studio Code for Ruby on Rails development
+
+* **Link to site:** **[Ruby on Rails with Visual Studio Code – Paul Lonsdale – Medium](https://medium.com/@PaulWritesCode/ruby-on-rails-with-visual-studio-code-bc5681a2c098)**

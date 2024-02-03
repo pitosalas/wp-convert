@@ -58,4 +58,4 @@ see a bad picture of yours truly back in those days.
 Yeah its a few years ago… but still, pretty cool!
 
 
-[Shamless self-promotion: Improv and moi mentioned in PC Magazine](None)
+* **Link to site:** **[Shamless self-promotion: Improv and moi mentioned in PC Magazine](None)**

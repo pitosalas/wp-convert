@@ -9,4 +9,4 @@ date: 2007-05-16
 [![https://i0.wp.com/www.linuxkungfu.org/images/fun/geek/project.jpg?w=584](https://i0.wp.com/www.linuxkungfu.org/images/fun/geek/project.jpg?w=584)](<https://i0.wp.com/www.linuxkungfu.org/images/fun/geek/project.jpg>)
 
 
-[A funny classic](None)
+* **Link to site:** **[A funny classic](None)**

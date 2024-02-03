@@ -19,4 +19,4 @@ date: 2006-12-17
 > Tools](<http://www.kk.org>)
 
 
-[Holiday gift for the geek who has everything](None)
+* **Link to site:** **[Holiday gift for the geek who has everything](None)**

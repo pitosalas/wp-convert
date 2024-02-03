@@ -13,9 +13,10 @@ tags:
     - cli
     - linux
 ---
-<img src=https://opengraph.githubassets.com/00b239de9182ba3f7c0b1e7c5cb22fe3007b070e1713590b4ca039ac63ef654e/Overv/outrun width="500">
+<img class="cover" src=https://opengraph.githubassets.com/00b239de9182ba3f7c0b1e7c5cb22fe3007b070e1713590b4ca039ac63ef654e/Overv/outrun>
 
 
 
-(**Web site excerpt:** Execute a local command using the processing power of another Linux machine. - Overv/outrun: Execute a local command using the processing power of another Linux machine.) 
-[Overv/outrun: Execute a local command using the processing power of another Linux machine.](https://github.com/Overv/outrun)
+* **Web site excerpt:** Execute a local command using the processing power of another Linux machine. - Overv/outrun: Execute a local command using the processing power of another Linux machine.
+
+* **Link to site:** **[Overv/outrun: Execute a local command using the processing power of another Linux machine.](https://github.com/Overv/outrun)**

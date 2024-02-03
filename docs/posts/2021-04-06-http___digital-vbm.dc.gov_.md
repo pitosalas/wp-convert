@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Elections
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[http://digital-vbm.dc.gov/](http://digital-vbm.dc.gov)
+* **Link to site:** **[http://digital-vbm.dc.gov/](http://digital-vbm.dc.gov)**

@@ -20,4 +20,4 @@ initialization sequence do this:
 facility, but some of the libraries I like still use log4j.)
 
 
-[[GEEK] Is Log4J not doing what you expect, or not finding its properties?](None)
+* **Link to site:** **[[GEEK] Is Log4J not doing what you expect, or not finding its properties?](None)**

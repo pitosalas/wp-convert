@@ -42,4 +42,4 @@ links:
   * Here's a collection from the [BlogBridge Library](<http://library.blogbridge.com/>) of [all the blogs and sites related to Pop!Tech 2007](<http://library.blogbridge.com/folder/13006-pop-tech-bloggers> "BlogBridge library of Pop!Tech 2007 related blogs").
 
 
-[Pop!Tech 2007 – notes and thoughts](None)
+* **Link to site:** **[Pop!Tech 2007 – notes and thoughts](None)**

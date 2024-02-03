@@ -69,4 +69,4 @@ talk or get involved.
 <http://www.blogbridge.com>.
 
 
-[Scott Kirsner of the Boston](None)
+* **Link to site:** **[Scott Kirsner of the Boston](None)**

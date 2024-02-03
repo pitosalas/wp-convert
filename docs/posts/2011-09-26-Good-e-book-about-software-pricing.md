@@ -18,4 +18,4 @@ nice introduction to a tricky topic. I am considering a major revamp of the
 changes and this guide helps me think through those questions.
 
 
-[Good e-book about software pricing](None)
+* **Link to site:** **[Good e-book about software pricing](None)**

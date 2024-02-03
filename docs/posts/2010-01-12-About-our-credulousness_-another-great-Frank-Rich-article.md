@@ -36,4 +36,4 @@ I recommend reading the whole thing. Here's a telling quote:
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[About our credulousness: another great Frank Rich article](None)
+* **Link to site:** **[About our credulousness: another great Frank Rich article](None)**

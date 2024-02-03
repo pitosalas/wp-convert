@@ -21,4 +21,4 @@ basic techniques, and shares some of the pitfalls. This…
 March 24, 2022 at 03:03PM
 
 
-[The Basics of Database Sharding – Brent Ozar Unlimited®](None)
+* **Link to site:** **[The Basics of Database Sharding – Brent Ozar Unlimited®](None)**

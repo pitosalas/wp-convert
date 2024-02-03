@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Olin
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Can I get Mockups for free? | Balsamiq](http://support.balsamiq.com/customer/portal/articles/105924#edu)
+* **Link to site:** **[Can I get Mockups for free? | Balsamiq](http://support.balsamiq.com/customer/portal/articles/105924#edu)**

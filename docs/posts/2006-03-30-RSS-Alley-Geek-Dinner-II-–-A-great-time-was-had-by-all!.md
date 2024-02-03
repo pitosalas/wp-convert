@@ -30,4 +30,4 @@ one soon, somewhere around the beginning of June.
 [RSSAlley](<http://www.technorati.com/tag/RSSAlley>)
 
 
-[RSS Alley Geek Dinner II – A great time was had by all!](None)
+* **Link to site:** **[RSS Alley Geek Dinner II – A great time was had by all!](None)**

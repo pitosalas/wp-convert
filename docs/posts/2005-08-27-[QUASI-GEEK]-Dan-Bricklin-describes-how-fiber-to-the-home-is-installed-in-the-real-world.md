@@ -45,4 +45,4 @@ for?…
 [verizon](<http://www.technorati.com/tag/verizon>)
 
 
-[[QUASI-GEEK] Dan Bricklin describes how fiber to the home is installed in the real world](None)
+* **Link to site:** **[[QUASI-GEEK] Dan Bricklin describes how fiber to the home is installed in the real world](None)**

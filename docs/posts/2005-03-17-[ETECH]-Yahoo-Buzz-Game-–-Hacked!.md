@@ -35,4 +35,4 @@ internet. With a little scripting and about two hours of investigation I was
 able to build an automated buzz cheater."
 
 
-[[ETECH] Yahoo Buzz Game – Hacked!](None)
+* **Link to site:** **[[ETECH] Yahoo Buzz Game – Hacked!](None)**

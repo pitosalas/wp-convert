@@ -16,4 +16,4 @@ neodymium magnets. Great Prices. Discs, Rings, Cones, Cylinders, Arcs, Cubes,
 Rectangles, Squares, and much more.
 
 
-[SuperMagnetMan – Neodymium Magnets, Many Shapes & Sizes!](None)
+* **Link to site:** **[SuperMagnetMan – Neodymium Magnets, Many Shapes & Sizes!](None)**

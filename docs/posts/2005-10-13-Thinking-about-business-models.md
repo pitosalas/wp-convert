@@ -53,4 +53,4 @@ are worth thinking about.
 [businessmodel](<http://www.technorati.com/tag/businessmodel>)
 
 
-[Thinking about business models](None)
+* **Link to site:** **[Thinking about business models](None)**

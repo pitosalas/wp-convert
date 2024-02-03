@@ -13,4 +13,4 @@ dynamics and strategy that apply to the evolution of the Windows APIs and
 programming paradigms in general. A good readl
 
 
-[Joel on API Wars](None)
+* **Link to site:** **[Joel on API Wars](None)**

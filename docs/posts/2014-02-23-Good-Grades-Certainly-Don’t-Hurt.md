@@ -19,4 +19,4 @@ tags:
 > an advantage. But Google has its eyes on much more.
 
 
-[Good Grades Certainly Don’t Hurt](None)
+* **Link to site:** **[Good Grades Certainly Don’t Hurt](None)**

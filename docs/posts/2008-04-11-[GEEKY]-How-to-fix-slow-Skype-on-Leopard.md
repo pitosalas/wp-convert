@@ -25,4 +25,4 @@ driving itself crazy trying to show them.
 **Unclicking the "Show Address Book Contacts" check box solved it for me.**
 
 
-[[GEEKY] How to fix slow Skype on Leopard](None)
+* **Link to site:** **[[GEEKY] How to fix slow Skype on Leopard](None)**

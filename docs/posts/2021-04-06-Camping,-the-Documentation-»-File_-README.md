@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - ruby framework
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Camping, the Documentation » File: README](http://camping.rubyforge.org/files/README.html)
+* **Link to site:** **[Camping, the Documentation » File: README](http://camping.rubyforge.org/files/README.html)**

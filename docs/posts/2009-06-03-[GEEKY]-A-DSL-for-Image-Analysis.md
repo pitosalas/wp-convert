@@ -82,4 +82,4 @@ Technorati Tags: [dsl](<http://technorati.com/tag/dsl>),
 [ballots](<http://technorati.com/tag/ballots>)
 
 
-[[GEEKY] A DSL for Image Analysis](None)
+* **Link to site:** **[[GEEKY] A DSL for Image Analysis](None)**

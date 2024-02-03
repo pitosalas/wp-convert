@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - stocks money investing
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Stocks & Sectors - SeekingAlpha.com](http://seekingalpha.com/dashboard/sector?source=headtabs)
+* **Link to site:** **[Stocks & Sectors - SeekingAlpha.com](http://seekingalpha.com/dashboard/sector?source=headtabs)**

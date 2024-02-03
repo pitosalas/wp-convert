@@ -31,4 +31,4 @@ date: 2006-12-09
 > recommended](<http://www.dzone.com/rsslinks/free_book_on_algorithms_highly_recommended.html>))
 
 
-[Free book on “Algorithms” highly recommended](None)
+* **Link to site:** **[Free book on “Algorithms” highly recommended](None)**

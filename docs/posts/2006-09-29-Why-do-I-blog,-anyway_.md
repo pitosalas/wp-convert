@@ -41,4 +41,4 @@ date: 2006-09-29
 >
 
 
-[Why do I blog, anyway?](None)
+* **Link to site:** **[Why do I blog, anyway?](None)**

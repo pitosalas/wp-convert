@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - daulist articles video rss tutorials
 ---
-<img src=https://www.commoncraft.com/sites/default/files/videos/images/RSS.jpg width="500">
+<img class="cover" src=https://www.commoncraft.com/sites/default/files/videos/images/RSS.jpg>
 
 
 
-(**Web site excerpt:** An introduction to RSS as a way to save time reading websites.) 
-[Video: RSS in Plain English | Common Craft - In Plain English](http://www.commoncraft.com/rss_plain_english)
+* **Web site excerpt:** An introduction to RSS as a way to save time reading websites.
+
+* **Link to site:** **[Video: RSS in Plain English | Common Craft - In Plain English](http://www.commoncraft.com/rss_plain_english)**

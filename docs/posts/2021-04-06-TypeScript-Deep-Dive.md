@@ -6,7 +6,7 @@ link: "http://basarat.gitbooks.io/typescript"
 cover: "https://app.gitbook.com/share/space/thumbnail/-LxQ3jdctbmysueh2fxn.png" 
 date: 2021-04-06
 ---
-<img src=https://app.gitbook.com/share/space/thumbnail/-LxQ3jdctbmysueh2fxn.png width="500">
+<img class="cover" src=https://app.gitbook.com/share/space/thumbnail/-LxQ3jdctbmysueh2fxn.png>
 
 
-[TypeScript Deep Dive](http://basarat.gitbooks.io/typescript)
+* **Link to site:** **[TypeScript Deep Dive](http://basarat.gitbooks.io/typescript)**

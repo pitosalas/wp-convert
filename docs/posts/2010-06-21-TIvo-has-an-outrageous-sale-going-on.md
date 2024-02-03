@@ -15,4 +15,4 @@ device alone are worth the
 $30![](<https://www3.tivo.com/store/clearance.do?WT.ac=tivohome_clearancecenter_HD29_content_body>)
 
 
-[TIvo has an outrageous sale going on](None)
+* **Link to site:** **[TIvo has an outrageous sale going on](None)**

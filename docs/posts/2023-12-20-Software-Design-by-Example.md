@@ -10,7 +10,7 @@ tags:
     - education
     - design
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Fthird-bit.com%2Fsdxpy%2F width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fthird-bit.com%2Fsdxpy%2F>
 
 Pretty exhaustive book about software design. Could be a textbook someday.
-[Software Design by Example](https://third-bit.com/sdxpy/)
+* **Link to site:** **[Software Design by Example](https://third-bit.com/sdxpy/)**

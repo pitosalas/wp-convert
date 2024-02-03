@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - rebate business consumer product
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Rebate trickery, again](http://www.salas.com/2007/08/23/rebate-trickery-again)
+* **Link to site:** **[Rebate trickery, again](http://www.salas.com/2007/08/23/rebate-trickery-again)**

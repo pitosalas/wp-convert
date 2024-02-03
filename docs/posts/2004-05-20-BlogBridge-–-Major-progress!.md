@@ -13,4 +13,4 @@ it suitable as a beta. While it is still way less featurefull than for example
 FeedDemon, we do have some very neat wrinkles that others don't have. Try it!
 
 
-[BlogBridge – Major progress!](None)
+* **Link to site:** **[BlogBridge – Major progress!](None)**

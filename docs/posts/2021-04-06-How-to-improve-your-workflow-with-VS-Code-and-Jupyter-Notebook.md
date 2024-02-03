@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - jupyter vscode
 ---
-<img src=https://miro.medium.com/max/1200/1*V_-jIywD4jcrTsXca5_fQQ.png width="500">
+<img class="cover" src=https://miro.medium.com/max/1200/1*V_-jIywD4jcrTsXca5_fQQ.png>
 
 
 
-(**Web site excerpt:** Supercharge your Data Science workflow. Jupyter Notebooks + VS Code = 💘) 
-[How to improve your workflow with VS Code and Jupyter Notebook](https://towardsdatascience.com/how-to-improve-your-workflow-with-vs-code-and-jupyter-notebook-f96777f8f1bd?source=userActivityShare-d383785221d0-1524315624)
+* **Web site excerpt:** Supercharge your Data Science workflow. Jupyter Notebooks + VS Code = 💘
+
+* **Link to site:** **[How to improve your workflow with VS Code and Jupyter Notebook](https://towardsdatascience.com/how-to-improve-your-workflow-with-vs-code-and-jupyter-notebook-f96777f8f1bd?source=userActivityShare-d383785221d0-1524315624)**

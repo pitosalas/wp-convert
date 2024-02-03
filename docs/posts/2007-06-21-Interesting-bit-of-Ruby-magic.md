@@ -14,4 +14,4 @@ Replace](<http://feeds.feedburner.com/~r/Gluttonous/~3/109566815/snippet-
 multi-search-and-replace>)
 
 
-[Interesting bit of Ruby magic](None)
+* **Link to site:** **[Interesting bit of Ruby magic](None)**

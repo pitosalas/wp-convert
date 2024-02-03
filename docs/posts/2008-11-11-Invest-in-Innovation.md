@@ -29,4 +29,4 @@ innovations…')
 ](<http://www.thenation.com/doc/20081117/henry_manzi>)
 
 
-[Invest in Innovation](None)
+* **Link to site:** **[Invest in Innovation](None)**

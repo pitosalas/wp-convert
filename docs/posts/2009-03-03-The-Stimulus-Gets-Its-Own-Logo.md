@@ -21,4 +21,4 @@ stimulus-gets-its-own-logo-2009-3>):
 > own for the National Recovery Administration. Obama's is far less fascist."
 
 
-[The Stimulus Gets Its Own Logo](None)
+* **Link to site:** **[The Stimulus Gets Its Own Logo](None)**

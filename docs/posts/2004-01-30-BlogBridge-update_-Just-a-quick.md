@@ -48,4 +48,4 @@ few people would like to try out the Java Web Start deployment, send me an
 email and we can talk.
 
 
-[BlogBridge update: Just a quick](None)
+* **Link to site:** **[BlogBridge update: Just a quick](None)**

@@ -10,9 +10,10 @@ tags:
     - functional
     - explainer
 ---
-<img src=https://miro.medium.com/max/1200/1*O_IPtztfkHodO-mkbk7uiw.jpeg width="500">
+<img class="cover" src=https://miro.medium.com/max/1200/1*O_IPtztfkHodO-mkbk7uiw.jpeg>
 
 
 
-(**Web site excerpt:** Take a tour of Python’s functools module and learn how to use its higher-order functions to implement caching, overloading and much more) 
-[Functools — The Power of Higher-Order Functions in Python](https://link.medium.com/IEmqKFMjyhb)
+* **Web site excerpt:** Take a tour of Python’s functools module and learn how to use its higher-order functions to implement caching, overloading and much more
+
+* **Link to site:** **[Functools — The Power of Higher-Order Functions in Python](https://link.medium.com/IEmqKFMjyhb)**

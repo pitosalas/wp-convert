@@ -15,9 +15,10 @@ tags:
     - howto
     - explainer
 ---
-<img src=https://wp.flickr.net/wp-content/uploads/sites/3/2012/09/code-flickr-com-drawn-header-grey-large.png width="500">
+<img class="cover" src=https://wp.flickr.net/wp-content/uploads/sites/3/2012/09/code-flickr-com-drawn-header-grey-large.png>
 
 
 
-(**Web site excerpt:** Code switches at Flickr) 
-[Flipping Out | code.flickr.com](https://code.flickr.net/2009/12/02/flipping-out/)
+* **Web site excerpt:** Code switches at Flickr
+
+* **Link to site:** **[Flipping Out | code.flickr.com](https://code.flickr.net/2009/12/02/flipping-out/)**

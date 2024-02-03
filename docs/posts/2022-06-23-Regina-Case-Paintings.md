@@ -9,9 +9,10 @@ tags:
     - art
     - paintings
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Freginacase.com%2Flinks.html width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Freginacase.com%2Flinks.html>
 
 
 
-(**Web site excerpt:** One of the several painters in Santa Fe that we really liked!) 
-[Regina Case Paintings](https://reginacase.com/links.html)
+* **Web site excerpt:** One of the several painters in Santa Fe that we really liked!
+
+* **Link to site:** **[Regina Case Paintings](https://reginacase.com/links.html)**

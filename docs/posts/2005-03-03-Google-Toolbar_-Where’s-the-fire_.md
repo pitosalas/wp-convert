@@ -30,4 +30,4 @@ played with the toolbar it automatically changed a web page to turn addresses
 into links to Google Maps.
 
 
-[Google Toolbar: Where’s the fire?](None)
+* **Link to site:** **[Google Toolbar: Where’s the fire?](None)**

@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Weather
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Friday Traffic Report](http://www.jackhumphrey.com/fridaytrafficreport/promotion-and-publishing-products)
+* **Link to site:** **[Friday Traffic Report](http://www.jackhumphrey.com/fridaytrafficreport/promotion-and-publishing-products)**

@@ -56,4 +56,4 @@ chance **Chandler** and others will have?
 _Originally posted on Jun 28, 2004. Reprinted courtesy of ReRuns plug-in._
 
 
-[How the world changes (Was: Is the world ready for a replacement to Outlook?)](None)
+* **Link to site:** **[How the world changes (Was: Is the world ready for a replacement to Outlook?)](None)**

@@ -23,4 +23,4 @@ From reading these, T-Mobile seems to be the right choice for me and where I
 live. Do you use T-Mobile? How do you like it?
 
 
-[Using a cell phone while out of the USA](None)
+* **Link to site:** **[Using a cell phone while out of the USA](None)**

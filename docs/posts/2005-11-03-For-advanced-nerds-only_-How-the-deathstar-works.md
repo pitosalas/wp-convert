@@ -33,4 +33,4 @@ star.htm/printable>)!
 >> Technorati Tags: [cool](<http://www.technorati.com/tag/cool>)
 
 
-[For advanced nerds only: How the deathstar works](None)
+* **Link to site:** **[For advanced nerds only: How the deathstar works](None)**

@@ -51,4 +51,4 @@ camp that says that OS X is simply superior to Windows XP. I would say it's
 different, in a **good** way.
 
 
-[Switcher’s log, Part 8: In conclusion…](None)
+* **Link to site:** **[Switcher’s log, Part 8: In conclusion…](None)**

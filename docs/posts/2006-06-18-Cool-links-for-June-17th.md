@@ -41,4 +41,4 @@ Subway](<http://www.time.com/time/nation/printout/0,8816,1205309,00.html>)
 >>
 
 
-[Cool links for June 17th](None)
+* **Link to site:** **[Cool links for June 17th](None)**

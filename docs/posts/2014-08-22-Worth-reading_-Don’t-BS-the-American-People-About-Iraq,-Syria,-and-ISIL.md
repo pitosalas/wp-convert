@@ -25,4 +25,4 @@ Isil](<http://warontherocks.com/2014/08/dont-bs-the-american-people-about-
 iraq-syria-and-isil/#_>)
 
 
-[Worth reading: Don’t BS the American People About Iraq, Syria, and ISIL](None)
+* **Link to site:** **[Worth reading: Don’t BS the American People About Iraq, Syria, and ISIL](None)**

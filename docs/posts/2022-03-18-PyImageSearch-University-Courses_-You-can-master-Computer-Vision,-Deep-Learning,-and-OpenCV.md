@@ -10,9 +10,10 @@ tags:
     - opencv
     - course
 ---
-<img src=https://embed-fastly.wistia.com/deliveries/4bda0a1602c8b4d96d63a02617f3069e.jpg?image_crop_resized=1920x1080 width="500">
+<img class="cover" src=https://embed-fastly.wistia.com/deliveries/4bda0a1602c8b4d96d63a02617f3069e.jpg?image_crop_resized=1920x1080>
 
 
 
-(**Web site excerpt:** Computer Vision, Deep Learning, and OpenCV courses from PyImageSearch and Dr. Adrian Rosebrock) 
-[PyImageSearch University Courses: You can master Computer Vision, Deep Learning, and OpenCV](https://pyimagesearch.com/pyimagesearch-university/)
+* **Web site excerpt:** Computer Vision, Deep Learning, and OpenCV courses from PyImageSearch and Dr. Adrian Rosebrock
+
+* **Link to site:** **[PyImageSearch University Courses: You can master Computer Vision, Deep Learning, and OpenCV](https://pyimagesearch.com/pyimagesearch-university/)**

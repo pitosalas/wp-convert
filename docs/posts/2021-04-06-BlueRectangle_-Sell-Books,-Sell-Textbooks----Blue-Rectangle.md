@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - books buying
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[BlueRectangle: Sell Books, Sell Textbooks -- Blue Rectangle](http://www.bluerectangle.com/buyback)
+* **Link to site:** **[BlueRectangle: Sell Books, Sell Textbooks -- Blue Rectangle](http://www.bluerectangle.com/buyback)**

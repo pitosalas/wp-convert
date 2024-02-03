@@ -10,7 +10,7 @@ tags:
     - python
     - cooltool
 ---
-<img src=https://bpython-interpreter.org/theme/images/bpython.png width="500">
+<img class="cover" src=https://bpython-interpreter.org/theme/images/bpython.png>
 
 I had not come across this alternate python repl. It looks interesting and I need to investigate it further. It has some very cool features.
-[Alternate Python REPL - bpython](https://bpython-interpreter.org/)
+* **Link to site:** **[Alternate Python REPL - bpython](https://bpython-interpreter.org/)**

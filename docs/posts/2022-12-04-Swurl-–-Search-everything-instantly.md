@@ -21,4 +21,4 @@ Twitter, Reddit, Amazon, & many more sites all at once. See all the results in
 1 organized view.”
 
 
-[Swurl – Search everything instantly](None)
+* **Link to site:** **[Swurl – Search everything instantly](None)**

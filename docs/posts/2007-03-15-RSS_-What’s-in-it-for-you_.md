@@ -15,4 +15,4 @@ notes](</stories/rssprez.pdf>) I prepared for my part of the show. ["RSS:
 What's In it For You"](</stories/rssprez.pdf>)
 
 
-[RSS: What’s in it for you?](None)
+* **Link to site:** **[RSS: What’s in it for you?](None)**

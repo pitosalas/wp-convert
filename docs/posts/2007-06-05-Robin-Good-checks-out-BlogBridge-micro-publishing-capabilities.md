@@ -30,4 +30,4 @@ aggregation-publishing/newsmastering-from-RSS-feed-reading-to-dirtect-
 publishing-Blogbridge-20070605.htm>)"
 
 
-[Robin Good checks out BlogBridge micro publishing capabilities](None)
+* **Link to site:** **[Robin Good checks out BlogBridge micro publishing capabilities](None)**

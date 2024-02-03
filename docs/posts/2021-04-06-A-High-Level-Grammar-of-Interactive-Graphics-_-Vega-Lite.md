@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - visualization graphics charts javascript json
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Fvega.github.io%2Fvega-lite width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fvega.github.io%2Fvega-lite>
 
 
 
-(**Web site excerpt:** Looks really useful) 
-[A High-Level Grammar of Interactive Graphics | Vega-Lite](https://vega.github.io/vega-lite)
+* **Web site excerpt:** Looks really useful
+
+* **Link to site:** **[A High-Level Grammar of Interactive Graphics | Vega-Lite](https://vega.github.io/vega-lite)**

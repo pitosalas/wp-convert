@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Robotics
 ---
-<img src=https://docs.python-guide.org/_static/social-card.jpg width="500">
+<img class="cover" src=https://docs.python-guide.org/_static/social-card.jpg>
 
 
-[Testing Your Code — The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/writing/tests)
+* **Link to site:** **[Testing Your Code — The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/writing/tests)**

@@ -22,4 +22,4 @@ away.](<http://www.flickr.com/photos/ahmedzahid/27019316/>)
 >> Technorati Tags: [flickr](<http://technorati.com/tag/flickr>)
 
 
-[Ok it’s official: The Maldives is the most beautiful place on earth](None)
+* **Link to site:** **[Ok it’s official: The Maldives is the most beautiful place on earth](None)**

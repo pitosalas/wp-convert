@@ -30,4 +30,4 @@ good!
 [puppy](<http://technorati.com/tag/puppy>)
 
 
-[[GEEK] This may be good news for Java, long term](None)
+* **Link to site:** **[[GEEK] This may be good news for Java, long term](None)**

@@ -46,4 +46,4 @@ am still nailing down the details of the curriculum but it's very exciting to
 have this opportunity and I am totally psyched about it!
 
 
-[Teaching at Olin College next year](None)
+* **Link to site:** **[Teaching at Olin College next year](None)**

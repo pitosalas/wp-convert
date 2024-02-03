@@ -11,4 +11,4 @@ the back of my mind for something I think of as [Data Rss. Check it out
 here.](<http://www.blogbridge.com/2009/02/27/data-rss-early-ideas/>)
 
 
-[[GEEKY] Towards a DataRSS](None)
+* **Link to site:** **[[GEEKY] Towards a DataRSS](None)**

@@ -16,4 +16,4 @@ ThinkGeek](<http://www.thinkgeek.com>).
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[Shopping Tip: if you need to find a gift for a GEEK](None)
+* **Link to site:** **[Shopping Tip: if you need to find a gift for a GEEK](None)**

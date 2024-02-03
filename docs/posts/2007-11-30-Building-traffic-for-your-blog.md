@@ -16,4 +16,4 @@ Anyway here's a good [article with lots of good solid common sense about
 building traffic for your blog](<http://www.seobook.com/bloggers>).
 
 
-[Building traffic for your blog](None)
+* **Link to site:** **[Building traffic for your blog](None)**

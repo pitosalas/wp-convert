@@ -11,9 +11,10 @@ tags:
     - education
     - scholarly
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fportal.getty.edu%2Fportal%2Flanding width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fportal.getty.edu%2Fportal%2Flanding>
 
 
 
-(**Web site excerpt:** Free research on art history) 
-[Getty Research Portal](http://portal.getty.edu/portal/landing)
+* **Web site excerpt:** Free research on art history
+
+* **Link to site:** **[Getty Research Portal](http://portal.getty.edu/portal/landing)**

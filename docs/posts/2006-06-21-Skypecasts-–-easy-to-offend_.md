@@ -67,4 +67,4 @@ And then all was well.
 [skypecast](<http://www.technorati.com/tag/skypecast>)
 
 
-[Skypecasts – easy to offend?](None)
+* **Link to site:** **[Skypecasts – easy to offend?](None)**

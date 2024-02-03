@@ -21,4 +21,4 @@ cheek. Here's what my log book says so far:
 Next post: What's different that matters in Leopard, at least to me.
 
 
-[More about Leopard, Apple’s answer to Vista](None)
+* **Link to site:** **[More about Leopard, Apple’s answer to Vista](None)**

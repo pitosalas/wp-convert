@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - rails integration deployment
 ---
-<img src=https://dynamic.thoughtworks.com/landing_pages/social_image-c17e8cd3aad470b262057c2ad59fdace.jpeg width="500">
+<img class="cover" src=https://dynamic.thoughtworks.com/landing_pages/social_image-c17e8cd3aad470b262057c2ad59fdace.jpeg>
 
 
 
-(**Web site excerpt:** We are serious about our craft and always striving to improve the way we do things. Our technologists bring successful, field-tested techniques and ideas from around the globe to open source solutions. We contribute to and use open-source software wherever possible.) 
-[CruiseControl.rb](http://cruisecontrolrb.thoughtworks.com/documentation/license)
+* **Web site excerpt:** We are serious about our craft and always striving to improve the way we do things. Our technologists bring successful, field-tested techniques and ideas from around the globe to open source solutions. We contribute to and use open-source software wherever possible.
+
+* **Link to site:** **[CruiseControl.rb](http://cruisecontrolrb.thoughtworks.com/documentation/license)**

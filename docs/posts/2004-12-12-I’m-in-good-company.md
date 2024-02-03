@@ -14,4 +14,4 @@ this,](<http://news.zdnet.com/2100-3513_22-5484053.html>) showing that I am in
 [good company](<http://radio.weblogs.com/0001011/2004/12/11.html#a8862>)!
 
 
-[I’m in good company](None)
+* **Link to site:** **[I’m in good company](None)**

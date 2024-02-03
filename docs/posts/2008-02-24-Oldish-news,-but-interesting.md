@@ -20,4 +20,4 @@ It's too bad. Think Secret was a valuable resource. I wonder where Nick will
 turn up next.
 
 
-[Oldish news, but interesting](None)
+* **Link to site:** **[Oldish news, but interesting](None)**

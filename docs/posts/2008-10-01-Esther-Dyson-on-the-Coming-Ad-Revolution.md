@@ -30,4 +30,4 @@ I suggest you [read the whole
 thing](<http://online.wsj.com/article/SB120269162692857749.html?mod=googlenews_wsj>).
 
 
-[Esther Dyson on the Coming Ad Revolution](None)
+* **Link to site:** **[Esther Dyson on the Coming Ad Revolution](None)**

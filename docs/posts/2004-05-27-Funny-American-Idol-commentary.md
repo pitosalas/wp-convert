@@ -23,4 +23,4 @@ announced our next American president. "
 Wins](<http://www.nytimes.com/2004/05/27/arts/television/27idol.html>)
 
 
-[Funny American Idol commentary](None)
+* **Link to site:** **[Funny American Idol commentary](None)**

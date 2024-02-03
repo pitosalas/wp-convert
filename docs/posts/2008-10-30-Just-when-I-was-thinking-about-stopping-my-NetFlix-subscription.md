@@ -25,4 +25,4 @@ monthly Tivo bill to get at this huge collection of movies. Wait, am I,
 really???
 
 
-[Just when I was thinking about stopping my NetFlix subscription](None)
+* **Link to site:** **[Just when I was thinking about stopping my NetFlix subscription](None)**

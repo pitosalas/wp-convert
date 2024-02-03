@@ -11,9 +11,10 @@ tags:
     - functions
     - howto
 ---
-<img src=https://www.danielmorell.com/images/articles/daniel_morell_python_dynamic_functions.jpg width="500">
+<img class="cover" src=https://www.danielmorell.com/images/articles/daniel_morell_python_dynamic_functions.jpg>
 
 
 
-(**Web site excerpt:** Sometimes you need to call a function in Python but you don't know which one until runtime. Let me show you how to dynamically call a function in Python.) 
-[Dynamically calling functions in Python... Safely](https://www.danielmorell.com/blog/dynamically-calling-functions-in-python-safely)
+* **Web site excerpt:** Sometimes you need to call a function in Python but you don't know which one until runtime. Let me show you how to dynamically call a function in Python.
+
+* **Link to site:** **[Dynamically calling functions in Python... Safely](https://www.danielmorell.com/blog/dynamically-calling-functions-in-python-safely)**

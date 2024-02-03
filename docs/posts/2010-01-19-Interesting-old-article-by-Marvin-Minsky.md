@@ -19,4 +19,4 @@ Minsky](<http://web.media.mit.edu/%7Eminsky/papers/ComputersCantThink.txt>).
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[Interesting old article by Marvin Minsky](None)
+* **Link to site:** **[Interesting old article by Marvin Minsky](None)**

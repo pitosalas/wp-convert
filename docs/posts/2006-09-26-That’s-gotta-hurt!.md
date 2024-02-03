@@ -11,4 +11,4 @@ date: 2006-09-26
 > "Yahoo! News Photo")
 
 
-[That’s gotta hurt!](None)
+* **Link to site:** **[That’s gotta hurt!](None)**

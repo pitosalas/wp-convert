@@ -16,4 +16,4 @@ download.htm>). I haven't experimented much with it yet, so I don't know how
 good it is.
 
 
-[Update on Digital Photography. When](None)
+* **Link to site:** **[Update on Digital Photography. When](None)**

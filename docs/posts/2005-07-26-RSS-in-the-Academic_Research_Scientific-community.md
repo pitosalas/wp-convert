@@ -119,4 +119,4 @@ list](<http://library.usask.ca/ejournals/rss_feeds.php?letter=A>), it's
 [science](<http://technorati.com/tag/science>)
 
 
-[RSS in the Academic/Research/Scientific community](None)
+* **Link to site:** **[RSS in the Academic/Research/Scientific community](None)**

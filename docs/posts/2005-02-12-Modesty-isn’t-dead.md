@@ -34,4 +34,4 @@ it all Bill Gates wouldn't have hired 57,000 of us. So, these articles need to
 be shared by the more than 1,360 Microsoft bloggers who work in public.
 
 
-[Modesty isn’t dead](None)
+* **Link to site:** **[Modesty isn’t dead](None)**

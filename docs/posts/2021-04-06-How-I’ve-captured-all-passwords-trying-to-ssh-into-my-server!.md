@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - passwords ssh
 ---
-<img src=https://hackernoon.com/Devimg/story-image-default.png width="500">
+<img class="cover" src=https://hackernoon.com/Devimg/story-image-default.png>
 
 
-[How I’ve captured all passwords trying to ssh into my server!](https://hackernoon.com/how-ive-captured-all-passwords-trying-to-ssh-into-my-server-d26a2a6263ec)
+* **Link to site:** **[How I’ve captured all passwords trying to ssh into my server!](https://hackernoon.com/how-ive-captured-all-passwords-trying-to-ssh-into-my-server-d26a2a6263ec)**

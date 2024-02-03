@@ -39,4 +39,4 @@ date: 2006-12-28
 > restaurant](<http://crave.cnet.com/8301-1_105-9670397-1.html?part=rss&tag=feed&subj=Crave>))
 
 
-[Cool underwater restaurant…](None)
+* **Link to site:** **[Cool underwater restaurant…](None)**

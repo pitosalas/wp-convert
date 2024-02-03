@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Design
 ---
-<img src=https://64.media.tumblr.com/avatar_26778403b799_128.pnj width="500">
+<img class="cover" src=https://64.media.tumblr.com/avatar_26778403b799_128.pnj>
 
 
-[Prettify* — Nice icons and wallpapers](http://prettifyit.com)
+* **Link to site:** **[Prettify* — Nice icons and wallpapers](http://prettifyit.com)**

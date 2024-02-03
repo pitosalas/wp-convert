@@ -18,4 +18,4 @@ blodget/should-you-really-panic-n_b_132440.html>):
 …
 
 
-[Now I am getting nervous… Cramer wants me to sell everything?](None)
+* **Link to site:** **[Now I am getting nervous… Cramer wants me to sell everything?](None)**

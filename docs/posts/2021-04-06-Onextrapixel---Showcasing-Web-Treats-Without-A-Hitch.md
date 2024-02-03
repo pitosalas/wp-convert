@@ -6,9 +6,10 @@ link: "http://www.onextrapixel.com"
 cover: "https://rdl.ink/render/http%3A%2F%2Fwww.onextrapixel.com" 
 date: 2021-04-06
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fwww.onextrapixel.com width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.onextrapixel.com>
 
 
 
-(**Web site excerpt:** Web Design and Development Online Magazine) 
-[Onextrapixel - Showcasing Web Treats Without A Hitch](http://www.onextrapixel.com)
+* **Web site excerpt:** Web Design and Development Online Magazine
+
+* **Link to site:** **[Onextrapixel - Showcasing Web Treats Without A Hitch](http://www.onextrapixel.com)**

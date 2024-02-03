@@ -15,4 +15,4 @@ email and I will tell you where to download it. (It's not ready for prime time
 yet, though, just for playing around.)
 
 
-[BlogBridge has spiffy new icons.](None)
+* **Link to site:** **[BlogBridge has spiffy new icons.](None)**

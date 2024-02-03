@@ -17,4 +17,4 @@ package. - GitHub - TomWright/dasel: Select, put…
 March 13, 2022 at 03:17PM
 
 
-[GitHub – TomWright/dasel: Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.](None)
+* **Link to site:** **[GitHub – TomWright/dasel: Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.](None)**

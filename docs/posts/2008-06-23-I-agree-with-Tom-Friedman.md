@@ -24,4 +24,4 @@ with him then, and I still agree with him:
 > Leave](<http://www.nytimes.com/2008/06/22/opinion/22friedman.html>))
 
 
-[I agree with Tom Friedman](None)
+* **Link to site:** **[I agree with Tom Friedman](None)**

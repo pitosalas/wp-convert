@@ -32,4 +32,4 @@ ways** Flash is **cooler**.
 [flash](<http://www.technorati.com/tag/flash>)
 
 
-[A beautiful visualization of news across the world](None)
+* **Link to site:** **[A beautiful visualization of news across the world](None)**

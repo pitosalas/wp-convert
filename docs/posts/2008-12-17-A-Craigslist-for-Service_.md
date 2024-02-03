@@ -40,4 +40,4 @@ I need to check those out. What do you think of the idea? Would you like to
 see it happen?
 
 
-[A Craigslist for Service?](None)
+* **Link to site:** **[A Craigslist for Service?](None)**

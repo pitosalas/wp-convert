@@ -18,4 +18,4 @@ article.](<http://www.technologyreview.com/view/530561/the-revolutionary-
 technique-that-quietly-changed-machine-vision-forever/>)
 
 
-[The Revolutionary Technique That Quietly Changed Machine Vision Forever](None)
+* **Link to site:** **[The Revolutionary Technique That Quietly Changed Machine Vision Forever](None)**

@@ -27,4 +27,4 @@ I have to say that when I read it, the thought expressed in the quote above
 really resonated.
 
 
-[More than Charisma](None)
+* **Link to site:** **[More than Charisma](None)**

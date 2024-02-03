@@ -15,4 +15,4 @@ world!](<http://books.guardian.co.uk/shoptalk/story/0,,2239172,00.html?gusrc=rss
 "bookstores")
 
 
-[Top bookstores around the world](None)
+* **Link to site:** **[Top bookstores around the world](None)**

@@ -26,4 +26,4 @@ it. [Click here to download and run
 BlogBridge.](<http://www.blogbridge.com/download.htm>)
 
 
-[BlogBridge Beta 2 almost ready](None)
+* **Link to site:** **[BlogBridge Beta 2 almost ready](None)**

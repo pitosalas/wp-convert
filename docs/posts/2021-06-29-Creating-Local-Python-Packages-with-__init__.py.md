@@ -12,9 +12,10 @@ tags:
     - programming
     - modularity
 ---
-<img src=https://miro.medium.com/max/800/1*dia9TerNoY9l-2WJx5_UjA.jpeg width="500">
+<img class="cover" src=https://miro.medium.com/max/800/1*dia9TerNoY9l-2WJx5_UjA.jpeg>
 
 
 
-(**Web site excerpt:** Packages are so confusing in Python. Here are some of the better links I've found about Packages for code reuse and distribution) 
-[Creating Local Python Packages with __init__.py](https://codeburst.io/creating-local-python-packages-with-init-py-aa19f1e9e80f)
+* **Web site excerpt:** Packages are so confusing in Python. Here are some of the better links I've found about Packages for code reuse and distribution
+
+* **Link to site:** **[Creating Local Python Packages with __init__.py](https://codeburst.io/creating-local-python-packages-with-init-py-aa19f1e9e80f)**

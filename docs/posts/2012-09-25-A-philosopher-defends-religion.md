@@ -43,4 +43,4 @@ amazon.com/e/ir?t=blogbridge-20&l=as2&o=1&a=0199812098) ". This sets the tone:
 > defends-religion/?pagination=false>)
 
 
-[A philosopher defends religion](None)
+* **Link to site:** **[A philosopher defends religion](None)**

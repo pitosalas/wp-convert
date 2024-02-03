@@ -12,9 +12,10 @@ tags:
     - raspi
     - raspberry-pi
 ---
-<img src=https://i.ytimg.com/vi/GVgMM_TFeOw/hqdefault.jpg width="500">
+<img class="cover" src=https://i.ytimg.com/vi/GVgMM_TFeOw/hqdefault.jpg>
 
 
 
-(**Web site excerpt:** Got an unused Raspberry Pi 3 or 4 laying around? Let's put it to good use by installing Ubuntu 20.04 Focal Fossa on it! This will make a great platform to cr...) 
-[Install Ubuntu 20.04 on a Raspberry Pi](https://www.youtube.com/watch?v=GVgMM_TFeOw)
+* **Web site excerpt:** Got an unused Raspberry Pi 3 or 4 laying around? Let's put it to good use by installing Ubuntu 20.04 Focal Fossa on it! This will make a great platform to cr...
+
+* **Link to site:** **[Install Ubuntu 20.04 on a Raspberry Pi](https://www.youtube.com/watch?v=GVgMM_TFeOw)**

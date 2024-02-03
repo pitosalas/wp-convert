@@ -15,4 +15,4 @@ along. ReservationHop was a small project to book tables under bogus names and
 then sell them. Tags: July 26, 2014 at 03:20PM via IFTTT
 
 
-[Worth Reading: Where Restaurant Reservations Come From](None)
+* **Link to site:** **[Worth Reading: Where Restaurant Reservations Come From](None)**

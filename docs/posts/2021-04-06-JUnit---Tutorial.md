@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - java
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[JUnit - Tutorial](http://www.vogella.de/articles/JUnit/article.html)
+* **Link to site:** **[JUnit - Tutorial](http://www.vogella.de/articles/JUnit/article.html)**

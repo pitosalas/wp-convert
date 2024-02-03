@@ -10,4 +10,4 @@ date: 2023-06-29
 TeacherEase](<https://www.teacherease.com/standards-based-grading.aspx>) –
 
 
-[What is Standards-based Grading? – TeacherEase](None)
+* **Link to site:** **[What is Standards-based Grading? – TeacherEase](None)**

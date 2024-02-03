@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - static page serverless
 ---
-<img src=https://lambstatus.github.io/logos/logo-metatag.png width="500">
+<img class="cover" src=https://lambstatus.github.io/logos/logo-metatag.png>
 
 
 
-(**Web site excerpt:** Seems like a great idea!) 
-[Serverless Status Page system](https://lambstatus.github.io)
+* **Web site excerpt:** Seems like a great idea!
+
+* **Link to site:** **[Serverless Status Page system](https://lambstatus.github.io)**

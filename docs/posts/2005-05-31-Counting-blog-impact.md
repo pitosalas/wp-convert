@@ -27,4 +27,4 @@ a lot." ( **from** Wall Street Journal Online)
 >> Technorati Tags: [blog](<http://technorati.com/tag/blog>)
 
 
-[Counting blog impact](None)
+* **Link to site:** **[Counting blog impact](None)**

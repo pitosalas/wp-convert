@@ -6,7 +6,7 @@ link: "https://jewishboston.beanstalkapp.com"
 cover: "" 
 date: 2021-04-06
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[JewishBoston: Dashboard — Beanstalk](https://jewishboston.beanstalkapp.com)
+* **Link to site:** **[JewishBoston: Dashboard — Beanstalk](https://jewishboston.beanstalkapp.com)**

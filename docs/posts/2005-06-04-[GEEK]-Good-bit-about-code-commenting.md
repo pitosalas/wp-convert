@@ -21,4 +21,4 @@ Comments](<http://www.stickyminds.com/pop_print.asp?ObjectId=9041&ObjectType=ART
 >> Technorati Tags: [programming](<http://technorati.com/tag/programming>)
 
 
-[[GEEK] Good bit about code commenting](None)
+* **Link to site:** **[[GEEK] Good bit about code commenting](None)**

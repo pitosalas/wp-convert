@@ -22,4 +22,4 @@ Interesting story…
 -- http://mitsloanblog.typepad.com/mba2015/2014/07/venture-capital-women.html
 
 
-[On Being a Female in Venture Capital](None)
+* **Link to site:** **[On Being a Female in Venture Capital](None)**

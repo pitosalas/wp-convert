@@ -80,4 +80,4 @@ others) are the best predictor of the subjective "how interesting will you
 find this blog" question, which the Starz are meant to convey.
 
 
-[Some arcana about how BlogStarz! work](None)
+* **Link to site:** **[Some arcana about how BlogStarz! work](None)**

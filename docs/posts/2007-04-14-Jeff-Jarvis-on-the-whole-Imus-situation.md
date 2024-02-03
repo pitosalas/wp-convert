@@ -23,4 +23,4 @@ Check out [this post](<http://www.buzzmachine.com/2007/04/13/on-imus/>) from
 > ( **from** : [On Imus](<http://www.buzzmachine.com/2007/04/13/on-imus/>))
 
 
-[Jeff Jarvis on the whole Imus situation](None)
+* **Link to site:** **[Jeff Jarvis on the whole Imus situation](None)**

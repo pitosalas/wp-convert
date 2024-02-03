@@ -32,4 +32,4 @@ to send me an email so I can keep an eye out and connect you to candidates.
 >> Technorati Tags: [jobs](<http://www.technorati.com/tag/jobs>)
 
 
-[I am becoming a headhunter](None)
+* **Link to site:** **[I am becoming a headhunter](None)**

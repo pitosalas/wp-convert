@@ -89,4 +89,4 @@ sonething that you think you came up with, I appologize!
   * [Debugging: The Science of Deduction](<https://speakerdeck.com/daniellesucher/debugging-the-science-of-deduction>)
 
 
-[Rules of Thumb for Software Engineers](None)
+* **Link to site:** **[Rules of Thumb for Software Engineers](None)**

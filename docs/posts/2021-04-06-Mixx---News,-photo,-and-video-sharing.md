@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - news media tagging mixx socialnetworks
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fwww.mixx.com width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.mixx.com>
 
 
-[Mixx - News, photo, and video sharing](http://www.mixx.com)
+* **Link to site:** **[Mixx - News, photo, and video sharing](http://www.mixx.com)**

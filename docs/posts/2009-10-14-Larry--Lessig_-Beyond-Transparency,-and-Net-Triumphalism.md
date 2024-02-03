@@ -30,4 +30,4 @@ Blog](<http://www.hyperorg.com/blogger/feed/>):
 > beyond-transparency-and-net-triumphalism/>))
 
 
-[Larry  Lessig: Beyond Transparency, and Net Triumphalism](None)
+* **Link to site:** **[Larry  Lessig: Beyond Transparency, and Net Triumphalism](None)**

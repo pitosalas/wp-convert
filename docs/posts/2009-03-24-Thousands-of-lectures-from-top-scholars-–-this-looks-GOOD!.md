@@ -17,4 +17,4 @@ scholars](<http://academicearth.org/>)
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[Thousands of lectures from top scholars – this looks GOOD!](None)
+* **Link to site:** **[Thousands of lectures from top scholars – this looks GOOD!](None)**

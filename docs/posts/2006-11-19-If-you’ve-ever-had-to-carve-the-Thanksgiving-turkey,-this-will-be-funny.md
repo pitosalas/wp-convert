@@ -19,4 +19,4 @@ date: 2006-11-19
 > Globe](<http://www.boston.com/news/local/articles/2006/11/19/carving_out_his_niche/>)
 
 
-[If you’ve ever had to carve the Thanksgiving turkey, this will be funny](None)
+* **Link to site:** **[If you’ve ever had to carve the Thanksgiving turkey, this will be funny](None)**

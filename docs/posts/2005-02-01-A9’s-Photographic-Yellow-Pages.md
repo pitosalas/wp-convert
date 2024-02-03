@@ -17,4 +17,4 @@ when!)](<http://www.amazon.com/gp/yp/B0003GKFQK/002-5349435-1904851?>)!
 >> Amusing to see the photo and the map of the place, isn't it?
 
 
-[A9’s Photographic Yellow Pages](None)
+* **Link to site:** **[A9’s Photographic Yellow Pages](None)**

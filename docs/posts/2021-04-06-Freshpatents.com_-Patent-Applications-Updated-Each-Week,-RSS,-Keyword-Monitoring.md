@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - daulist patents ip business research rss
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Freshpatents.com: Patent Applications Updated Each Week, RSS, Keyword Monitoring](http://freshpatents.com)
+* **Link to site:** **[Freshpatents.com: Patent Applications Updated Each Week, RSS, Keyword Monitoring](http://freshpatents.com)**

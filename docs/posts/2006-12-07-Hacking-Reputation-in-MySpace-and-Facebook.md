@@ -30,4 +30,4 @@ Facebook](<http://www.schneier.com/blog/archives/2006/12/hacking_reputat.html>))
 > Facebook](<http://www.schneier.com/blog/archives/2006/12/hacking_reputat.html>)
 
 
-[Hacking Reputation in MySpace and Facebook](None)
+* **Link to site:** **[Hacking Reputation in MySpace and Facebook](None)**

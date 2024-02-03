@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - feed mac
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Arno's Blog](http://arno.org/blog/rss.xml)
+* **Link to site:** **[Arno's Blog](http://arno.org/blog/rss.xml)**

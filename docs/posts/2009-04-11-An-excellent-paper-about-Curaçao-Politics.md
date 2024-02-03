@@ -45,4 +45,4 @@ Here's a taste:
 [netherlands](<http://technorati.com/tag/netherlands>)
 
 
-[An excellent paper about Curaçao Politics](None)
+* **Link to site:** **[An excellent paper about Curaçao Politics](None)**

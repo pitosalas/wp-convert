@@ -6,7 +6,7 @@ link: "https://manager.linode.com/linodes"
 cover: "https://rdl.ink/render/https%3A%2F%2Fmanager.linode.com%2Flinodes" 
 date: 2021-04-06
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Fmanager.linode.com%2Flinodes width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fmanager.linode.com%2Flinodes>
 
 
-[Linode - Linode Manager](https://manager.linode.com/linodes)
+* **Link to site:** **[Linode - Linode Manager](https://manager.linode.com/linodes)**

@@ -11,9 +11,10 @@ tags:
     - package
     - google-maps
 ---
-<img src=https://miro.medium.com/max/1200/1*FIYVG7jKknCncAkIJLAIRQ.jpeg width="500">
+<img class="cover" src=https://miro.medium.com/max/1200/1*FIYVG7jKknCncAkIJLAIRQ.jpeg>
 
 
 
-(**Web site excerpt:** One of the best things about using Python is its infinity of open-source libraries. There is a library for basically anything. If you have read some of my previous blogs, you may have noticed that…) 
-[5 Python Libraries That You Don’t Know, But Should](https://link.medium.com/xEjq6wILSgb)
+* **Web site excerpt:** One of the best things about using Python is its infinity of open-source libraries. There is a library for basically anything. If you have read some of my previous blogs, you may have noticed that…
+
+* **Link to site:** **[5 Python Libraries That You Don’t Know, But Should](https://link.medium.com/xEjq6wILSgb)**

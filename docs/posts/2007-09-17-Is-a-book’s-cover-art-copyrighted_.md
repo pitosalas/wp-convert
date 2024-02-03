@@ -14,4 +14,4 @@ cover.
 Funny?
 
 
-[Is a book’s cover art copyrighted?](None)
+* **Link to site:** **[Is a book’s cover art copyrighted?](None)**

@@ -53,4 +53,4 @@ Not likely.
 >> What computer will I be using 10 years from now?
 
 
-[Switcher’s Log, Part 3: What I miss from my PC Days](None)
+* **Link to site:** **[Switcher’s Log, Part 3: What I miss from my PC Days](None)**

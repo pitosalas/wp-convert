@@ -10,9 +10,10 @@ tags:
     - lessons-learned
     - advice
 ---
-<img src=https://www.simplethread.com/wp-content/uploads/2021/10/20-Things-Ive-Learned-in-My-20-Years-as-a-Software-Engineer.png width="500">
+<img class="cover" src=https://www.simplethread.com/wp-content/uploads/2021/10/20-Things-Ive-Learned-in-My-20-Years-as-a-Software-Engineer.png>
 
 Interesting learnings. Worth a read 
 
-(**Web site excerpt:** Important, Read This First You’re about to read a blog post with a lot of advice. Learning from those who came before us is instrumental to success, but we often forget an important caveat. Almost all advice is contextual, yet it is rarely delivered with any context. “You just need to charge more!” says the company […]) 
-[20 Things I've Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/?utm_source=changelog-news)
+* **Web site excerpt:** Important, Read This First You’re about to read a blog post with a lot of advice. Learning from those who came before us is instrumental to success, but we often forget an important caveat. Almost all advice is contextual, yet it is rarely delivered with any context. “You just need to charge more!” says the company […]
+
+* **Link to site:** **[20 Things I've Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/?utm_source=changelog-news)**

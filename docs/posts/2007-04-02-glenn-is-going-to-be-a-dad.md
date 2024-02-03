@@ -25,4 +25,4 @@ log](<http://www.furia.com/page.cgi>):
 All the best, glenn!
 
 
-[glenn is going to be a dad](None)
+* **Link to site:** **[glenn is going to be a dad](None)**

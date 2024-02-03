@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - poptech
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Blog | MobileActive.org](http://mobileactive.org/blog)
+* **Link to site:** **[Blog | MobileActive.org](http://mobileactive.org/blog)**

@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Brandeis
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[IT Ticket Portal](https://help.brandeis.edu/help/servicedesk/customer/portal/1/create/50)
+* **Link to site:** **[IT Ticket Portal](https://help.brandeis.edu/help/servicedesk/customer/portal/1/create/50)**

@@ -15,4 +15,4 @@ date: 2006-10-13
 > [KurzweilAI.net](<http://www.kurzweilai.net/index.html?flash=1>)
 
 
-[What’s wrong with Wikipedia?](None)
+* **Link to site:** **[What’s wrong with Wikipedia?](None)**

@@ -60,4 +60,4 @@ And if you click on the preceding two links you will get the corresponding
 applications.
 
 
-[[BlogBridge Tip] New Weekly Build Available](None)
+* **Link to site:** **[[BlogBridge Tip] New Weekly Build Available](None)**

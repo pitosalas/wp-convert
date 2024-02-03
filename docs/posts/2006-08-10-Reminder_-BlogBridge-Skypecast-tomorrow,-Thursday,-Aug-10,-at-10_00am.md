@@ -18,4 +18,4 @@ come all!
 [skypecast](<http://www.technorati.com/tag/skypecast>)
 
 
-[Reminder: BlogBridge Skypecast tomorrow, Thursday, Aug 10, at 10:00am](None)
+* **Link to site:** **[Reminder: BlogBridge Skypecast tomorrow, Thursday, Aug 10, at 10:00am](None)**

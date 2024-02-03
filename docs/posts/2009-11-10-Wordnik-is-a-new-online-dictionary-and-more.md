@@ -15,4 +15,4 @@ might [like](<http://www.wordnik.com/words/like>) it.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[Wordnik is a new online dictionary and more](None)
+* **Link to site:** **[Wordnik is a new online dictionary and more](None)**

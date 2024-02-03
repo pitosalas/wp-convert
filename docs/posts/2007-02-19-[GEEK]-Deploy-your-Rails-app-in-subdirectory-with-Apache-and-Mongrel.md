@@ -20,4 +20,4 @@ from [dzone.com: latest front page](<http://www.dzone.com/>):
 Â
 
 
-[[GEEK] Deploy your Rails app in subdirectory with Apache and Mongrel](None)
+* **Link to site:** **[[GEEK] Deploy your Rails app in subdirectory with Apache and Mongrel](None)**

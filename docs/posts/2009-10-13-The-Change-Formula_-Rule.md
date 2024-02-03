@@ -59,4 +59,4 @@ but **psychologically, they are.**
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[The Change Formula: Rule](None)
+* **Link to site:** **[The Change Formula: Rule](None)**

@@ -16,4 +16,4 @@ are in Python, what is actually embedded into the page? We shall see!
 ## [Visualizing Alghorithms](<http://bost.ocks.org/mike/algorithms/>)
 
 
-[Visualizing Algorithms](None)
+* **Link to site:** **[Visualizing Algorithms](None)**

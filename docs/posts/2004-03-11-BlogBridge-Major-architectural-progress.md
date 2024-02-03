@@ -41,4 +41,4 @@ bar and tie all the commands either to the command bar or the right click
 menu.
 
 
-[BlogBridge Major architectural progress](None)
+* **Link to site:** **[BlogBridge Major architectural progress](None)**

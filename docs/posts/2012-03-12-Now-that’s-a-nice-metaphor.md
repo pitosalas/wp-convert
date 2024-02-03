@@ -22,4 +22,4 @@ mitts-rich-predicament.html>) but that quote jumped out at me I had to spin up
 the ole blog machine.
 
 
-[Now that’s a nice metaphor](None)
+* **Link to site:** **[Now that’s a nice metaphor](None)**

@@ -12,9 +12,10 @@ tags:
     - howto
     - gem
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Fwww.phlex.fun%2F width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.phlex.fun%2F>
 
 
 
-(**Web site excerpt:** If youve done a bit of Rails, you might have written some helpers like this. This package seems like a more complete and comprehensive implementation of this idea.) 
-[Phlex — fast, object-oriented view framework for Ruby](https://www.phlex.fun/)
+* **Web site excerpt:** If youve done a bit of Rails, you might have written some helpers like this. This package seems like a more complete and comprehensive implementation of this idea.
+
+* **Link to site:** **[Phlex — fast, object-oriented view framework for Ruby](https://www.phlex.fun/)**

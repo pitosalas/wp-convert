@@ -23,4 +23,4 @@ joke about this along the lines of "even worse than putting your foot in your
 MOUTH!" But I would never say that. It would be in such bad taste.
 
 
-[More on truly weird medical condition](None)
+* **Link to site:** **[More on truly weird medical condition](None)**

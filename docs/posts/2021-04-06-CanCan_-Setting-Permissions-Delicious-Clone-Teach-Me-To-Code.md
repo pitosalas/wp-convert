@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - ruby permissions rails gem
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[CanCan: Setting Permissions Delicious Clone Teach Me To Code](http://teachmetocode.com/screencasts/cancan-setting-permissions-delicious-clone)
+* **Link to site:** **[CanCan: Setting Permissions Delicious Clone Teach Me To Code](http://teachmetocode.com/screencasts/cancan-setting-permissions-delicious-clone)**

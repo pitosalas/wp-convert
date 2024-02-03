@@ -6,7 +6,7 @@ link: "http://www.webmin.com/intro.html"
 cover: "" 
 date: 2021-04-06
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[webmin doc](http://www.webmin.com/intro.html)
+* **Link to site:** **[webmin doc](http://www.webmin.com/intro.html)**

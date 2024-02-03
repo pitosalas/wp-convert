@@ -34,4 +34,4 @@ find enlightening:
 [marketing](<http://technorati.com/tag/marketing>)
 
 
-[Is twitter for people or for marketing?](None)
+* **Link to site:** **[Is twitter for people or for marketing?](None)**

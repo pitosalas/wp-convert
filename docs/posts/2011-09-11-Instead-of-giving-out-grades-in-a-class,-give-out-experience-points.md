@@ -85,4 +85,4 @@ Anyway, it was an inspired idea. Not sure if it's practical but it does make
 me think…
 
 
-[Instead of giving out grades in a class, give out experience points](None)
+* **Link to site:** **[Instead of giving out grades in a class, give out experience points](None)**

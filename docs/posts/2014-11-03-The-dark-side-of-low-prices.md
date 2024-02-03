@@ -40,4 +40,4 @@ confusing bills and all that.
 We are getting what we asked for.
 
 
-[The dark side of low prices](None)
+* **Link to site:** **[The dark side of low prices](None)**

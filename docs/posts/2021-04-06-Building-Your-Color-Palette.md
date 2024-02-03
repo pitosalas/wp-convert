@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - color design palette howto
 ---
-<img src=https://s3.amazonaws.com/refactoring-ui/book-twitter-card.png width="500">
+<img class="cover" src=https://s3.amazonaws.com/refactoring-ui/book-twitter-card.png>
 
 
 
-(**Web site excerpt:** Excellent guide to picking good colors in a UI) 
-[Building Your Color Palette](https://refactoringui.com/previews/building-your-color-palette)
+* **Web site excerpt:** Excellent guide to picking good colors in a UI
+
+* **Link to site:** **[Building Your Color Palette](https://refactoringui.com/previews/building-your-color-palette)**

@@ -12,4 +12,4 @@ twitter/>). Check it out! p.s. if you don't know what the previous sentence
 means, don't worry about it. You must not really be geeky.
 
 
-[[GEEKY] How to use Twitter in Rails](None)
+* **Link to site:** **[[GEEKY] How to use Twitter in Rails](None)**

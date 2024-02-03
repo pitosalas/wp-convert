@@ -39,4 +39,4 @@ of digital devices:
 Great idea! Let's see it on [Kickstarter](<http://www.kickstarter.com>) soon!
 
 
-[What is the cellphone equivalent of a hat rack?](None)
+* **Link to site:** **[What is the cellphone equivalent of a hat rack?](None)**

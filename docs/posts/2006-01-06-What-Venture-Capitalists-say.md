@@ -37,4 +37,4 @@ written, humorous and contains some really good advice!
 >> Technorati Tags: [vc](<http://www.technorati.com/tag/vc>)
 
 
-[What Venture Capitalists say](None)
+* **Link to site:** **[What Venture Capitalists say](None)**

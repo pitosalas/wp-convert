@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - scrum
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fwww.agile-tools.net%2Fscrum.asp width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.agile-tools.net%2Fscrum.asp>
 
 
 
-(**Web site excerpt:** Looks like a nice overview of scrum ideas) 
-[Agile Tools | Project Management Open-Source and Free Software](http://www.agile-tools.net/scrum.asp)
+* **Web site excerpt:** Looks like a nice overview of scrum ideas
+
+* **Link to site:** **[Agile Tools | Project Management Open-Source and Free Software](http://www.agile-tools.net/scrum.asp)**

@@ -13,4 +13,4 @@ content/uploads/2011/07/fdc3d-screen-
 shot-2011-07-22-at-91239-am.png?resize=237%2C248&ssl=1)
 
 
-[Should I add this guy to a Google+ Circle?](None)
+* **Link to site:** **[Should I add this guy to a Google+ Circle?](None)**

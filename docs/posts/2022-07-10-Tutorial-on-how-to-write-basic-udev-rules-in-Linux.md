@@ -13,9 +13,10 @@ tags:
     - linux
     - raspi
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
 
-(**Web site excerpt:** Another tutorial on these hairy udev rules! Getting the base concepts about udev rules) 
-[Tutorial on how to write basic udev rules in Linux](https://linuxconfig.org/tutorial-on-how-to-write-basic-udev-rules-in-linux)
+* **Web site excerpt:** Another tutorial on these hairy udev rules! Getting the base concepts about udev rules
+
+* **Link to site:** **[Tutorial on how to write basic udev rules in Linux](https://linuxconfig.org/tutorial-on-how-to-write-basic-udev-rules-in-linux)**

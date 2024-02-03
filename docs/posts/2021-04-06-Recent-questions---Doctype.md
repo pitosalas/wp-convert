@@ -6,7 +6,7 @@ link: "http://doctype.com/questions"
 cover: "" 
 date: 2021-04-06
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Recent questions - Doctype](http://doctype.com/questions)
+* **Link to site:** **[Recent questions - Doctype](http://doctype.com/questions)**

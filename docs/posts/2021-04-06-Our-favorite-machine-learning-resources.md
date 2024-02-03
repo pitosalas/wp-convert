@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - ruby
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Our favorite machine learning resources](https://www.honeybadger.io/blog/exclusive/machine_learning_resource_list.html)
+* **Link to site:** **[Our favorite machine learning resources](https://www.honeybadger.io/blog/exclusive/machine_learning_resource_list.html)**

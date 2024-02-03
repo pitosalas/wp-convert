@@ -16,4 +16,4 @@ date: 2007-01-19
 > details!](<http://www.bostonphp.org/component/option,com_gigcal/task,details/gigcal_gigs_id,24/>)
 
 
-[Boston PHP meeting coming up](None)
+* **Link to site:** **[Boston PHP meeting coming up](None)**

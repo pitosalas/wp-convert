@@ -17,4 +17,4 @@ https://www.shalerb.org/>) –Shale - Ruby object mapper and serializer for XML,
 JSON and YAML
 
 
-[Shale – Ruby object mapper and serializer for XML, JSON, TOML and YAML](None)
+* **Link to site:** **[Shale – Ruby object mapper and serializer for XML, JSON, TOML and YAML](None)**

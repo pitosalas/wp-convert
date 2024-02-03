@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Ruby
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Continuous Thinking—](http://www.continuousthinking.com/tags/arext)
+* **Link to site:** **[Continuous Thinking—](http://www.continuousthinking.com/tags/arext)**

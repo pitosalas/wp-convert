@@ -45,4 +45,4 @@ features. As usual, if you want to be a beta tester, please send email to
 beta@blogbridge.com and we'll see if we can fit you in.
 
 
-[BlogBridge Beta, part deux](None)
+* **Link to site:** **[BlogBridge Beta, part deux](None)**

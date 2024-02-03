@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Olin
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Lean Startup Canvas: Your Product is NOT The Product](http://www.ashmaurya.com/2011/06/your-product-is-not-the-product)
+* **Link to site:** **[Lean Startup Canvas: Your Product is NOT The Product](http://www.ashmaurya.com/2011/06/your-product-is-not-the-product)**

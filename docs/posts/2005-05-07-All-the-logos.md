@@ -16,4 +16,4 @@ Vector EPS Logos](<http://www.allthelogos.com/>):
 >> Technorati Tags: [interesting](<http://technorati.com/tag/interesting>)
 
 
-[All the logos](None)
+* **Link to site:** **[All the logos](None)**

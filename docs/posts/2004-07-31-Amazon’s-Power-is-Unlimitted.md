@@ -15,4 +15,4 @@ date: 2004-07-31
 >> Wow, they let me **change my birthday**. Now that's **powerful**!
 
 
-[Amazon’s Power is Unlimitted](None)
+* **Link to site:** **[Amazon’s Power is Unlimitted](None)**

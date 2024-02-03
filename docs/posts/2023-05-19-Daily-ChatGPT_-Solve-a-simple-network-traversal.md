@@ -49,4 +49,4 @@ The best route from Node A to Node F is Path 1 (A -> C -> F) with a total cost
 of 55.
 
 
-[Daily ChatGPT: Solve a simple network traversal](None)
+* **Link to site:** **[Daily ChatGPT: Solve a simple network traversal](None)**

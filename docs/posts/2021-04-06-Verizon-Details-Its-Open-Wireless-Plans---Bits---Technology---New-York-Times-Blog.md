@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - meshnetworks
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
 
-(**Web site excerpt:** background info about verizon opening their network) 
-[Verizon Details Its Open Wireless Plans - Bits - Technology - New York Times Blog](http://bits.blogs.nytimes.com/2008/03/19/verizon-details-its-open-wireless-plans/index.html)
+* **Web site excerpt:** background info about verizon opening their network
+
+* **Link to site:** **[Verizon Details Its Open Wireless Plans - Bits - Technology - New York Times Blog](http://bits.blogs.nytimes.com/2008/03/19/verizon-details-its-open-wireless-plans/index.html)**

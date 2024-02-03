@@ -74,4 +74,4 @@ same phrase back and forth.
 [funny](<http://technorati.com/tag/funny>)
 
 
-[Machine translation: Funny!](None)
+* **Link to site:** **[Machine translation: Funny!](None)**

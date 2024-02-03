@@ -52,4 +52,4 @@ problems would constitute more complex activities."
 >> Technorati Tags: [funny](<http://www.technorati.com/tag/funny>)
 
 
-[Funny: Banana Problem](None)
+* **Link to site:** **[Funny: Banana Problem](None)**

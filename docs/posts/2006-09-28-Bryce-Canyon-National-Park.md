@@ -49,4 +49,4 @@ date: 2006-09-28
 >  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 
 
-[Bryce Canyon National Park](None)
+* **Link to site:** **[Bryce Canyon National Park](None)**

@@ -38,4 +38,4 @@ date: 2006-12-14
 > Reading this makes me wonder if I am not taking this far enough…
 
 
-[A good bit by Bruce Schneier about “Real-World Passwords”](None)
+* **Link to site:** **[A good bit by Bruce Schneier about “Real-World Passwords”](None)**

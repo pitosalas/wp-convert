@@ -6,7 +6,7 @@ link: "http://opengameart.org"
 cover: "https://rdl.ink/render/http%3A%2F%2Fopengameart.org" 
 date: 2021-04-06
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fopengameart.org width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fopengameart.org>
 
 
-[Welcome to OpenGameArt.org | OpenGameArt.org](http://opengameart.org)
+* **Link to site:** **[Welcome to OpenGameArt.org | OpenGameArt.org](http://opengameart.org)**

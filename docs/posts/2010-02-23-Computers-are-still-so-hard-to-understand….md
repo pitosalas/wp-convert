@@ -47,4 +47,4 @@ It doesn't exist. **Yet**.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[Computers are still so hard to understand…](None)
+* **Link to site:** **[Computers are still so hard to understand…](None)**

@@ -40,4 +40,4 @@ Both written totally in Rails.
 # **railsconf** -- What, can't I use hashtags in a blog post?
 
 
-[[GEEKY] Yes, Virginia, Rails DOES scale](None)
+* **Link to site:** **[[GEEKY] Yes, Virginia, Rails DOES scale](None)**

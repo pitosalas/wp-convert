@@ -11,4 +11,4 @@ date: 2009-02-26
 Work](<http://www.theonion.com/content/video/sony_releases_new_stupid_piece_of>)
 
 
-[Funny piece of sh*t](None)
+* **Link to site:** **[Funny piece of sh*t](None)**

@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - statistics analysis math
 ---
-<img src=https://setosa.io/ev/principal-component-analysis/fb-thumb.png width="500">
+<img class="cover" src=https://setosa.io/ev/principal-component-analysis/fb-thumb.png>
 
 
-[Principal Component Analysis explained visually](http://setosa.io/ev/principal-component-analysis)
+* **Link to site:** **[Principal Component Analysis explained visually](http://setosa.io/ev/principal-component-analysis)**

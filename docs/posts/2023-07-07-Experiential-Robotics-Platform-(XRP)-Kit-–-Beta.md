@@ -16,4 +16,4 @@ a hands-on, comprehensive robotics platform and includes everything needed to
 build and program a beginner to advanced robot.
 
 
-[Experiential Robotics Platform (XRP) Kit – Beta](None)
+* **Link to site:** **[Experiential Robotics Platform (XRP) Kit – Beta](None)**

@@ -20,4 +20,4 @@ database for testing. But what exactly is application configuration, and why
 is it needed? The website a …
 
 
-[Configuration in Python Applications: No Magic, Just Necessary Practice](None)
+* **Link to site:** **[Configuration in Python Applications: No Magic, Just Necessary Practice](None)**

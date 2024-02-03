@@ -33,4 +33,4 @@ date: 2007-01-03
 > Next post will be on my evaluation of Backup software for Mac OS X.
 
 
-[Technie note: Ethernet vs. USB-2 External Hard Disk](None)
+* **Link to site:** **[Technie note: Ethernet vs. USB-2 External Hard Disk](None)**

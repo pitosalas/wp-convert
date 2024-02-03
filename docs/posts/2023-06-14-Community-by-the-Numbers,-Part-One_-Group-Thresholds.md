@@ -10,7 +10,7 @@ tags:
     - group-size
     - dunbar
 ---
-<img src=http://www.lifewithalacrity.com/previous/images/2008/09/22/circle_of_hands.jpg width="500">
+<img class="cover" src=http://www.lifewithalacrity.com/previous/images/2008/09/22/circle_of_hands.jpg>
 
 We often think of communities as organic creatures, which come into existence and grow on their own. However, the truth is they are fragile blossoms.
-[Community by the Numbers, Part One: Group Thresholds](http://www.lifewithalacrity.com/2008/09/group-threshold.html)
+* **Link to site:** **[Community by the Numbers, Part One: Group Thresholds](http://www.lifewithalacrity.com/2008/09/group-threshold.html)**

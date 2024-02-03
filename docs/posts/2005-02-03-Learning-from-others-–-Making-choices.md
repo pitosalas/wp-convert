@@ -40,4 +40,4 @@ fact that there is enough **diversity** in taste and work style to allow more
 than one model succeed.
 
 
-[Learning from others – Making choices](None)
+* **Link to site:** **[Learning from others – Making choices](None)**

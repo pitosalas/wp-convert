@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - carlo science markov chain monte data
 ---
-<img src=https://miro.medium.com/max/940/0*l3B0NWQWP4yAzyU1. width="500">
+<img class="cover" src=https://miro.medium.com/max/940/0*l3B0NWQWP4yAzyU1.>
 
 
 
-(**Web site excerpt:** Interesting practical article about using MCMCs to create estimates.) 
-[Markov Chain Monte Carlo in Python – Towards Data Science](https://towardsdatascience.com/markov-chain-monte-carlo-in-python-44f7e609be98)
+* **Web site excerpt:** Interesting practical article about using MCMCs to create estimates.
+
+* **Link to site:** **[Markov Chain Monte Carlo in Python – Towards Data Science](https://towardsdatascience.com/markov-chain-monte-carlo-in-python-44f7e609be98)**

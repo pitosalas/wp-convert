@@ -21,4 +21,4 @@ Mindless and unique. Let them know what you think!
 you!](<http://unbouncepages.com/giraffe-adventure/>)
 
 
-[Cool new game? Giraffe Adventure…](None)
+* **Link to site:** **[Cool new game? Giraffe Adventure…](None)**

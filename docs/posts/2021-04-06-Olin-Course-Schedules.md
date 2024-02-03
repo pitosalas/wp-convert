@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Olin
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Olin Course Schedules](https://sis.olin.edu/cgi-bin/faculty/frame.cgi)
+* **Link to site:** **[Olin Course Schedules](https://sis.olin.edu/cgi-bin/faculty/frame.cgi)**

@@ -30,4 +30,4 @@ RSS](<http://www.mcgeesmusings.net/2004/11/19.html#a4424>)
 KM](<http://billives.typepad.com/portals_and_km/2004/11/nice_aggregator.html>)]
 
 
-[A couple of good Blog aggregator commentaries](None)
+* **Link to site:** **[A couple of good Blog aggregator commentaries](None)**

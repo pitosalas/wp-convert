@@ -50,4 +50,4 @@ funny-names>) from [A List of Lists](<http://www.alistoflists.com>):
 The [blog itself is amusin](<http://www.alistoflists.com/>)g, I recommend it!
 
 
-[32 Places With Funny Names](None)
+* **Link to site:** **[32 Places With Funny Names](None)**

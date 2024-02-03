@@ -26,4 +26,4 @@ magsafe.html>):
 
 
 
-[[GEEKY] Even the simplest things are complicated](None)
+* **Link to site:** **[[GEEKY] Even the simplest things are complicated](None)**

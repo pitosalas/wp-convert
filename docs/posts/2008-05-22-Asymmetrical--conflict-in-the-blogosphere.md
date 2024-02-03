@@ -41,4 +41,4 @@ side** of all the good that we get from the internet. But I know I personally
 will **think twice before zipping off a blog post or comment in anger.**
 
 
-[Asymmetrical  conflict in the blogosphere](None)
+* **Link to site:** **[Asymmetrical  conflict in the blogosphere](None)**

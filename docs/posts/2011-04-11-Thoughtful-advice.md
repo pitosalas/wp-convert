@@ -45,4 +45,4 @@ artist-and-relax-nothing-is-original>)
 Wow, from the **bible**. Who knew.
 
 
-[Thoughtful advice](None)
+* **Link to site:** **[Thoughtful advice](None)**

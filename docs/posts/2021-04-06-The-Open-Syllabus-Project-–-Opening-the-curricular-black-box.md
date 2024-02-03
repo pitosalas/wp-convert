@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - syllabus teaching education open
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fopensyllabusproject.org width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fopensyllabusproject.org>
 
 
 
-(**Web site excerpt:** Opening the curricular black box) 
-[The Open Syllabus Project – Opening the curricular black box](http://opensyllabusproject.org)
+* **Web site excerpt:** Opening the curricular black box
+
+* **Link to site:** **[The Open Syllabus Project – Opening the curricular black box](http://opensyllabusproject.org)**

@@ -26,4 +26,4 @@ These guidelines may or may not apply for you. I learned them through personal
 experience and have the scars to prove it!
 
 
-[Email Rookie Mistakes](None)
+* **Link to site:** **[Email Rookie Mistakes](None)**

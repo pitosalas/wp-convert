@@ -99,4 +99,4 @@ especially like YOU to come.
 >> Pito Salas and the BlogBridge team
 
 
-[Letter to all BlogBridge users](None)
+* **Link to site:** **[Letter to all BlogBridge users](None)**

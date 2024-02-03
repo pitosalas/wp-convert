@@ -9,9 +9,10 @@ tags:
     - climate
     - education
 ---
-<img src=https://i0.wp.com/tropicsu.org/wp-content/uploads/2017/09/final-logo-copy.jpg?fit=404%2C392&ssl=1 width="500">
+<img class="cover" src=https://i0.wp.com/tropicsu.org/wp-content/uploads/2017/09/final-logo-copy.jpg?fit=404%2C392&ssl=1>
 
 
 
-(**Web site excerpt:** The goal is not to introduce Climate Education as a standalone topic, but to integrate it with the core curriculum of Science, Mathematics and Social Sciences.) 
-[Climate Change Education Across the Curricula, Across the Globe](https://tropicsu.org/)
+* **Web site excerpt:** The goal is not to introduce Climate Education as a standalone topic, but to integrate it with the core curriculum of Science, Mathematics and Social Sciences.
+
+* **Link to site:** **[Climate Change Education Across the Curricula, Across the Globe](https://tropicsu.org/)**

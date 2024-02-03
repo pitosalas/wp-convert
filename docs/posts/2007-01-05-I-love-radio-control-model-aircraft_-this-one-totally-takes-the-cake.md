@@ -12,4 +12,4 @@ date: 2007-01-05
 > Technorati Tags: [cool](<http://www.technorati.com/tag/cool>)
 
 
-[I love radio control model aircraft: this one totally takes the cake](None)
+* **Link to site:** **[I love radio control model aircraft: this one totally takes the cake](None)**

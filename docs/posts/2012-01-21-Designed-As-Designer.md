@@ -27,4 +27,4 @@ computer world. Here's the article: [Designed as
 Designer](<http://dreamsongs.com/Files/DesignedAsDesignerExpanded.pdf>).
 
 
-[Designed As Designer](None)
+* **Link to site:** **[Designed As Designer](None)**

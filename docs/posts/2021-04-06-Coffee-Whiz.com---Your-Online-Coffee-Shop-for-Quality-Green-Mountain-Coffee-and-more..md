@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - coffee k-cups keurig
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Coffee Whiz.com - Your Online Coffee Shop for Quality Green Mountain Coffee and more.](http://www.coffeewhiz.com)
+* **Link to site:** **[Coffee Whiz.com - Your Online Coffee Shop for Quality Green Mountain Coffee and more.](http://www.coffeewhiz.com)**

@@ -34,4 +34,4 @@ source software users thought they were alone…
 >> _
 
 
-[Curacao in Open Source News?!](None)
+* **Link to site:** **[Curacao in Open Source News?!](None)**

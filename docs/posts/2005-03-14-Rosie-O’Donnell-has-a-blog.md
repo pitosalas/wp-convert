@@ -26,4 +26,4 @@ four."
 >> Not that I am a fan one way or another, but, who would have thunk!
 
 
-[Rosie O’Donnell has a blog](None)
+* **Link to site:** **[Rosie O’Donnell has a blog](None)**

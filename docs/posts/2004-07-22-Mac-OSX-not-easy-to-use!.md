@@ -60,4 +60,4 @@ Mac user's claim that Mac is inherently easier to use than WInXP. First of
 all, it's more similar than different and second of all, it's not all good.
 
 
-[Mac OSX not easy to use!](None)
+* **Link to site:** **[Mac OSX not easy to use!](None)**

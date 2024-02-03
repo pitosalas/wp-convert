@@ -46,4 +46,4 @@ amazon.com/e/ir?t=blogbridge-20&l=as2&o=1&a=1594512965)
 [institutions](<http://technorati.com/tag/institutions>)
 
 
-[What Life Asks of Us](None)
+* **Link to site:** **[What Life Asks of Us](None)**

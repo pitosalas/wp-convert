@@ -11,9 +11,10 @@ tags:
     - regexp
     - howto
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Ftomayko.com%2Fblog%2F2011%2Fawkward-ruby width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Ftomayko.com%2Fblog%2F2011%2Fawkward-ruby>
 
 
 
-(**Web site excerpt:** From AWK to Ruby) 
-[AWK-ward Ruby](https://tomayko.com/blog/2011/awkward-ruby)
+* **Web site excerpt:** From AWK to Ruby
+
+* **Link to site:** **[AWK-ward Ruby](https://tomayko.com/blog/2011/awkward-ruby)**

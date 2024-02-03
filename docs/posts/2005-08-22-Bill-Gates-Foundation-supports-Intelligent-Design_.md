@@ -33,4 +33,4 @@ Times](<http://www.nytimes.com/2005/08/21/national/21evolve.html?ei=5090&en=24bc
 to be a good survey of the issue.
 
 
-[Bill Gates Foundation supports Intelligent Design?](None)
+* **Link to site:** **[Bill Gates Foundation supports Intelligent Design?](None)**

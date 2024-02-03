@@ -19,4 +19,4 @@ Google again, reinventing the wheel. Gmail doesn't have folders, it has tags.
 And now Chrome has funny tabs instead of ones that look 'normal'
 
 
-[Safari now has Scribefire](None)
+* **Link to site:** **[Safari now has Scribefire](None)**

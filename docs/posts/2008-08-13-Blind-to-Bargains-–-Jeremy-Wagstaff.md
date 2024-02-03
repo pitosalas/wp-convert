@@ -99,4 +99,4 @@ Here is a full article written by Jeremy Wagstaff…
 Originally posted on Apr 29, 2007. Reprinted courtesy of ReRuns plug-in.
 
 
-[Blind to Bargains – Jeremy Wagstaff](None)
+* **Link to site:** **[Blind to Bargains – Jeremy Wagstaff](None)**

@@ -12,9 +12,10 @@ tags:
     - deployment
     - kubernetes
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Fgetkuby.io width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fgetkuby.io>
 
 
 
-(**Web site excerpt:** Looks like another wonderful rails deployment solution. Definitely will check this out as an alternative to Heroku.) 
-[Hello from Kuby | Kuby](https://getkuby.io)
+* **Web site excerpt:** Looks like another wonderful rails deployment solution. Definitely will check this out as an alternative to Heroku.
+
+* **Link to site:** **[Hello from Kuby | Kuby](https://getkuby.io)**

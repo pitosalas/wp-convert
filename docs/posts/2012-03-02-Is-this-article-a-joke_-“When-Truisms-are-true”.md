@@ -73,4 +73,4 @@ and
 check if this was Humor or Satire.
 
 
-[Is this article a joke? “When Truisms are true”](None)
+* **Link to site:** **[Is this article a joke? “When Truisms are true”](None)**

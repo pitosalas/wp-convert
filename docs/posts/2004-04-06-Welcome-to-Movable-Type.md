@@ -17,4 +17,4 @@ will miss certain things I've gotten used to in Radio. We'll see how it goes.
 Please let me know if anything breaks!
 
 
-[Welcome to Movable Type](None)
+* **Link to site:** **[Welcome to Movable Type](None)**

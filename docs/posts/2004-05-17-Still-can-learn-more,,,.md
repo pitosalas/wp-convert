@@ -18,4 +18,4 @@ topics.
 why it's taking me so long to learn this "Java" thing 🙂
 
 
-[Still can learn more,,,](None)
+* **Link to site:** **[Still can learn more,,,](None)**

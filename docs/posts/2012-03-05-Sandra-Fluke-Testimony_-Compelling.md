@@ -14,4 +14,4 @@ tags:
 [youtube http://www.youtube.com/watch?v=xlRC0nsjtKQ&w=420&h=315]
 
 
-[Sandra Fluke Testimony: Compelling](None)
+* **Link to site:** **[Sandra Fluke Testimony: Compelling](None)**

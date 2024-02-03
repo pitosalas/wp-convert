@@ -32,4 +32,4 @@ in 1972.](<http://www.hughhewitt.com/#postid874>)
 why blogs are great!**
 
 
-[Why Blogs are great, #102](None)
+* **Link to site:** **[Why Blogs are great, #102](None)**

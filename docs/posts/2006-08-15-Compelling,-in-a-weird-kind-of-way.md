@@ -23,4 +23,4 @@ date: 2006-08-15
 [photography](<http://www.technorati.com/tag/photography>)
 
 
-[Compelling, in a weird kind of way](None)
+* **Link to site:** **[Compelling, in a weird kind of way](None)**

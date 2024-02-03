@@ -47,4 +47,4 @@ like it must, but I've never actually been able to **prove** or verify this.
 >> Technorati Tags: [printer](<http://technorati.com/tag/printer>)
 
 
-[Color laser printers consume lots of consumables](None)
+* **Link to site:** **[Color laser printers consume lots of consumables](None)**

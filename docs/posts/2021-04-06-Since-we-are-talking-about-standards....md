@@ -10,9 +10,10 @@ tags:
     - ttv
     - osdv
 ---
-<img src=https://trustthevote.org/wp-content/uploads/2018/10/ttv_symbol_color_check.png?w=237 width="500">
+<img class="cover" src=https://trustthevote.org/wp-content/uploads/2018/10/ttv_symbol_color_check.png?w=237>
 
 
 
-(**Web site excerpt:** I came across this post about standards, by Adam Bosworth, a well known net luminary who is working (or so I gather) on Electronic Medical Records. You can imagine that next to Elections, E-Medical…) 
-[Since we are talking about standards...](http://www.trustthevote.org/since-we-are-talking-about-standards)
+* **Web site excerpt:** I came across this post about standards, by Adam Bosworth, a well known net luminary who is working (or so I gather) on Electronic Medical Records. You can imagine that next to Elections, E-Medical…
+
+* **Link to site:** **[Since we are talking about standards...](http://www.trustthevote.org/since-we-are-talking-about-standards)**

@@ -21,4 +21,4 @@ Flickr](<http://www.fotopedia.com/items/flickr-3255348609>). Are they using
 Flickr to prime their pump?
 
 
-[Interesting search engines](None)
+* **Link to site:** **[Interesting search engines](None)**

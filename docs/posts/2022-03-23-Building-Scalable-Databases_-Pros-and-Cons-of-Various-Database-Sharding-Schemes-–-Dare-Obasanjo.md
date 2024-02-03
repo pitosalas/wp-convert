@@ -22,4 +22,4 @@ than to grow it vertically by adding beefier servers.
 March 24, 2022 at 12:33AM
 
 
-[Building Scalable Databases: Pros and Cons of Various Database Sharding Schemes – Dare Obasanjo](None)
+* **Link to site:** **[Building Scalable Databases: Pros and Cons of Various Database Sharding Schemes – Dare Obasanjo](None)**

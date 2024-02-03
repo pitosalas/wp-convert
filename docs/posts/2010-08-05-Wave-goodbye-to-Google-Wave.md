@@ -30,4 +30,4 @@ Will I be able to live without it? Sure, nothing is irreplaceable. Google
 Buzz, on the other hand, lasted about 2 weeks with me. It was truly useless.
 
 
-[Wave goodbye to Google Wave](None)
+* **Link to site:** **[Wave goodbye to Google Wave](None)**

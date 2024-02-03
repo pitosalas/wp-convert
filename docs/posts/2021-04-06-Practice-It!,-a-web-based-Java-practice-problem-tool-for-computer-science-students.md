@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Java
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Practice-It!, a web-based Java practice problem tool for computer science students](http://practiceit.cs.washington.edu/index.jsp)
+* **Link to site:** **[Practice-It!, a web-based Java practice problem tool for computer science students](http://practiceit.cs.washington.edu/index.jsp)**

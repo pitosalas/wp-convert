@@ -27,4 +27,4 @@ date, and will meet essential human needs. Like Adium." ( **from** ongoing,
 [software](<http://www.technorati.com/tag/software>)
 
 
-[The future of software?](None)
+* **Link to site:** **[The future of software?](None)**

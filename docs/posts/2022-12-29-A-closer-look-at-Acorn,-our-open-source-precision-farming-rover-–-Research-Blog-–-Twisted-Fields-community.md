@@ -24,4 +24,4 @@ Hello everyone and welcome to Twisted Fields, our research farm in San
 Gregorio …"
 
 
-[A closer look at Acorn, our open source precision farming rover – Research Blog – Twisted Fields community](None)
+* **Link to site:** **[A closer look at Acorn, our open source precision farming rover – Research Blog – Twisted Fields community](None)**

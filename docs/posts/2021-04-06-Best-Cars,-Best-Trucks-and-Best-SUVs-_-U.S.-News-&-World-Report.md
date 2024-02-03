@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - cars reviews
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Best Cars, Best Trucks and Best SUVs | U.S. News & World Report](https://cars.usnews.com/cars-trucks)
+* **Link to site:** **[Best Cars, Best Trucks and Best SUVs | U.S. News & World Report](https://cars.usnews.com/cars-trucks)**

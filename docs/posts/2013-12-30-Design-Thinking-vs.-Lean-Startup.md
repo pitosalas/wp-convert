@@ -74,4 +74,4 @@ The easy answer is they are two sides of the same coin. The provocative answer
 is that two highly acclaimed approaches are 180% opposite to each other.
 
 
-[Design Thinking vs. Lean Startup](None)
+* **Link to site:** **[Design Thinking vs. Lean Startup](None)**

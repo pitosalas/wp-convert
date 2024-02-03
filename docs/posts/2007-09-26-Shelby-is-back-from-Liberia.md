@@ -22,4 +22,4 @@ Trees](<http://allabuja.blogspot.com/>):
 interesting and revealing stories.
 
 
-[Shelby is back from Liberia](None)
+* **Link to site:** **[Shelby is back from Liberia](None)**

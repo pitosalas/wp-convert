@@ -25,4 +25,4 @@ LCD display to wake up. Facts of the case:
 Do you know?
 
 
-[[GEEKY] Why does my LCD display not wake up?](None)
+* **Link to site:** **[[GEEKY] Why does my LCD display not wake up?](None)**

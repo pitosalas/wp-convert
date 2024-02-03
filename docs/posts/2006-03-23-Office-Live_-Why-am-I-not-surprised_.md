@@ -40,4 +40,4 @@ Office](<http://www.activewin.com/awin/comments.asp?HeadlineIndex=33627>)")
 [fud](<http://www.technorati.com/tag/fud>)
 
 
-[Office Live: Why am I not surprised?](None)
+* **Link to site:** **[Office Live: Why am I not surprised?](None)**

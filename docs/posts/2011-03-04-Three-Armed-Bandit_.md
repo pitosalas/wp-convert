@@ -26,4 +26,4 @@ hand-researchers-conv-2011-02-23>)
 > hand-researchers-conv-2011-02-23>))
 
 
-[Three Armed Bandit?](None)
+* **Link to site:** **[Three Armed Bandit?](None)**

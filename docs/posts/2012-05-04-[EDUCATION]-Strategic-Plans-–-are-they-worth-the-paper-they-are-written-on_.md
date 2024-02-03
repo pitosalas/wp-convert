@@ -48,4 +48,4 @@ Here's the conclusion from the article:
 > Neither/128227/>)
 
 
-[[EDUCATION] Strategic Plans – are they worth the paper they are written on?](None)
+* **Link to site:** **[[EDUCATION] Strategic Plans – are they worth the paper they are written on?](None)**

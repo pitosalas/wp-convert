@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - ruby python data refinement
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fzonov.me%2Fcomparison-of-ruby-and-pythons-pandas-for-data-refinement width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fzonov.me%2Fcomparison-of-ruby-and-pythons-pandas-for-data-refinement>
 
 
 
-(**Web site excerpt:** Not sure if it's any good. I was just looking for a Ruby counterpart to Pandas. So far I found this and the other link I posted.) 
-[Comparison of Ruby and Python's Pandas for Data refinement | Zonov.me](http://zonov.me/comparison-of-ruby-and-pythons-pandas-for-data-refinement)
+* **Web site excerpt:** Not sure if it's any good. I was just looking for a Ruby counterpart to Pandas. So far I found this and the other link I posted.
+
+* **Link to site:** **[Comparison of Ruby and Python's Pandas for Data refinement | Zonov.me](http://zonov.me/comparison-of-ruby-and-pythons-pandas-for-data-refinement)**

@@ -12,9 +12,10 @@ tags:
     - framework
     - ruby
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Fbullettrain.co%2F width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fbullettrain.co%2F>
 
 
 
-(**Web site excerpt:** Bullet Train is a Ruby on Rails SaaS-in-a-Box that saves developers months of effort and new founders tens of thousands of dollars.) 
-[The Ruby on Rails SaaS Template | Bullet Train](https://bullettrain.co/)
+* **Web site excerpt:** Bullet Train is a Ruby on Rails SaaS-in-a-Box that saves developers months of effort and new founders tens of thousands of dollars.
+
+* **Link to site:** **[The Ruby on Rails SaaS Template | Bullet Train](https://bullettrain.co/)**

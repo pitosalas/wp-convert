@@ -26,4 +26,4 @@ Technorati Tags: [sports](<http://www.technorati.com/tag/sports>),
 [rowing](<http://www.technorati.com/tag/rowing>)
 
 
-[Really cool rowing instrumentation](None)
+* **Link to site:** **[Really cool rowing instrumentation](None)**

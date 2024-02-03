@@ -25,4 +25,4 @@ many things it's not so complex once you **understand** it.
 [swing](<http://www.technorati.com/tag/swing>)
 
 
-[[GEEK} Good article about pluggable LAFs in Java](None)
+* **Link to site:** **[[GEEK} Good article about pluggable LAFs in Java](None)**

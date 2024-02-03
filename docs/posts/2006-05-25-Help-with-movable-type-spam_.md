@@ -18,4 +18,4 @@ hand? Please email me!
 >> Technorati Tags: [movabletype](<http://www.technorati.com/tag/movabletype>)
 
 
-[Help with movable type spam?](None)
+* **Link to site:** **[Help with movable type spam?](None)**

@@ -16,4 +16,4 @@ content/uploads/imagewell/firefoxphish.jpg?resize=334%2C284)
 (not that I would have fallen for it 🙂
 
 
-[Magic Firefox Phishing Message](None)
+* **Link to site:** **[Magic Firefox Phishing Message](None)**

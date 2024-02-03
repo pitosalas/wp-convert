@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - ruby documentation reference
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fwww.omniref.com width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.omniref.com>
 
 
 
-(**Web site excerpt:** Tim Robertson has a website.) 
-[Ruby Documentation Search - Omniref](http://www.omniref.com)
+* **Web site excerpt:** Tim Robertson has a website.
+
+* **Link to site:** **[Ruby Documentation Search - Omniref](http://www.omniref.com)**

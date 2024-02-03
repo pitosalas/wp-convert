@@ -20,4 +20,4 @@ reading "only" 10, using a web browser is more than fine.
 >> Check it out, there are lots of other interesting tidbits!
 
 
-[Interesting blog survey](None)
+* **Link to site:** **[Interesting blog survey](None)**

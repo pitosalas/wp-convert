@@ -12,9 +12,10 @@ tags:
     - hiring
     - acm
 ---
-<img src=https://codeclimate.com/blog/wp-content/uploads/2019/04/cash-cent-child-1246954.jpg width="500">
+<img class="cover" src=https://codeclimate.com/blog/wp-content/uploads/2019/04/cash-cent-child-1246954.jpg>
 
 
 
-(**Web site excerpt:** Perspective on the payback of hiring more people vs. optimizing Dev process so as to require fewer.) 
-[Hire People or Optimize Processes: A cost-benefit analysis for engineering leaders](https://codeclimate.com/blog/scale-engineering-calculator?__s=fzzssq55zd58mvijpssx)
+* **Web site excerpt:** Perspective on the payback of hiring more people vs. optimizing Dev process so as to require fewer.
+
+* **Link to site:** **[Hire People or Optimize Processes: A cost-benefit analysis for engineering leaders](https://codeclimate.com/blog/scale-engineering-calculator?__s=fzzssq55zd58mvijpssx)**

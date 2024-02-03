@@ -25,4 +25,4 @@ Check it [out](<http://www.blogbridge.com/install/weekly/blogbridge.jnlp>)!
 [technorati](<http://technorati.com/tag/technorati>)
 
 
-[Important new (weekly) release of BlogBridge](None)
+* **Link to site:** **[Important new (weekly) release of BlogBridge](None)**

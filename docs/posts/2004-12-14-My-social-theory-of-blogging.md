@@ -32,4 +32,4 @@ world."
 >> I don't know if this rings true to other bloggers, **but it does to me.**
 
 
-[My social theory of blogging](None)
+* **Link to site:** **[My social theory of blogging](None)**

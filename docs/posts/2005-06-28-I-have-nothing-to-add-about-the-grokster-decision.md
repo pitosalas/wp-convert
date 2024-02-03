@@ -9,4 +9,4 @@ Aren't you glad, since every other blogger is blah-blah-blah'ing about it?
 insightful posts about it.
 
 
-[I have nothing to add about the grokster decision](None)
+* **Link to site:** **[I have nothing to add about the grokster decision](None)**

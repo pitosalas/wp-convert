@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - ruby rails concerns
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Rails Concerns and Ruby Modules](https://www.learnhowtoprogram.com/rails/building-an-api/rails-concerns-and-ruby-modules)
+* **Link to site:** **[Rails Concerns and Ruby Modules](https://www.learnhowtoprogram.com/rails/building-an-api/rails-concerns-and-ruby-modules)**

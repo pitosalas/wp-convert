@@ -47,4 +47,4 @@ I think this might again turn the publishing world upside down. Questions:
 Genius?!
 
 
-[Kindle book prices: another genius move](None)
+* **Link to site:** **[Kindle book prices: another genius move](None)**

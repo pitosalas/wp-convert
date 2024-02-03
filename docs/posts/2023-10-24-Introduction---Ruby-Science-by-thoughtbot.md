@@ -12,7 +12,7 @@ tags:
     - patterns
     - software-engineering
 ---
-<img src=https://thoughtbot.com/social/social-media-banner-generic.png width="500">
+<img class="cover" src=https://thoughtbot.com/social/social-media-banner-generic.png>
 
 A beautiful book, free, online, full of actionable advice for ruby devs.
-[Introduction - Ruby Science by thoughtbot](https://thoughtbot.com/ruby-science/introduction.html?utm_source=shortruby&utm_campaign=shortruby_0063&ref=shortruby.com)
+* **Link to site:** **[Introduction - Ruby Science by thoughtbot](https://thoughtbot.com/ruby-science/introduction.html?utm_source=shortruby&utm_campaign=shortruby_0063&ref=shortruby.com)**

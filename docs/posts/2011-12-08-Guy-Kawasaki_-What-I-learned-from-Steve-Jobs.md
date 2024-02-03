@@ -22,4 +22,4 @@ jobs.html#axzz1fxoYzTQr>):
 > jobs.html#axzz1fxoYzTQr>))
 
 
-[Guy Kawasaki: What I learned from Steve Jobs](None)
+* **Link to site:** **[Guy Kawasaki: What I learned from Steve Jobs](None)**

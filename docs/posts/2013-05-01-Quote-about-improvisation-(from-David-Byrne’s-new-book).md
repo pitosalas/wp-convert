@@ -23,4 +23,4 @@ designing software products or teaching. I am thinking. Do you have an idea?
 content/uploads/2013/05/20c44-img_111320-202013-04-2220at2018-41-15.jpg?resize=584%2C239&ssl=1)
 
 
-[Quote about improvisation (from David Byrne’s new book)](None)
+* **Link to site:** **[Quote about improvisation (from David Byrne’s new book)](None)**

@@ -15,4 +15,4 @@ economics of news gathering in the Internet age suck,” as he puts it. Link:
 "http://ift.tt/1qrLoY6"
 
 
-[Worth reading: Journalism is doing just fine, thanks — it’s mass-media business models that are ailing — Tech News and Analysis](None)
+* **Link to site:** **[Worth reading: Journalism is doing just fine, thanks — it’s mass-media business models that are ailing — Tech News and Analysis](None)**

@@ -11,9 +11,10 @@ tags:
     - computer-science
     - journals
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fwww.wikicfp.com%2Fcfp%2F width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.wikicfp.com%2Fcfp%2F>
 
 
 
-(**Web site excerpt:** A Wiki website of Calls For Papers (CFP) of international conferences, workshops, meetings, seminars, events, journals and book chapters in computer science, communications, software engineering, artificial intelligence, machine learning, networking, signal processing, systems etc.) 
-[WikiCFP : Call For Papers of Conferences, Workshops and Journals](http://www.wikicfp.com/cfp/)
+* **Web site excerpt:** A Wiki website of Calls For Papers (CFP) of international conferences, workshops, meetings, seminars, events, journals and book chapters in computer science, communications, software engineering, artificial intelligence, machine learning, networking, signal processing, systems etc.
+
+* **Link to site:** **[WikiCFP : Call For Papers of Conferences, Workshops and Journals](http://www.wikicfp.com/cfp/)**

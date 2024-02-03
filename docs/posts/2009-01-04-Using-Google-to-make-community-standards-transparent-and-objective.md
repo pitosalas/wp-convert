@@ -31,4 +31,4 @@ reasonable judicial approach?
 _Originally posted on Jun 25, 2008. Reprinted courtesy of ReRuns plug-in._
 
 
-[Using Google to make community standards transparent and objective](None)
+* **Link to site:** **[Using Google to make community standards transparent and objective](None)**

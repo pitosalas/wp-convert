@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Olin
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Sunrise Blinds](https://sites.google.com/site/teamsunriseblinds)
+* **Link to site:** **[Sunrise Blinds](https://sites.google.com/site/teamsunriseblinds)**

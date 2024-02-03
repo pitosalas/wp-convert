@@ -42,4 +42,4 @@ article](<http://www.newsweek.com/id/191396/output/print>):
 I don't know… I thought it was an interesting/funny article.
 
 
-[Exploding head scene](None)
+* **Link to site:** **[Exploding head scene](None)**

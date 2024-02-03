@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - optimizing rails performance scalability database scaling scale
 ---
-<img src=https://www.herokucdn.com/images/og.png width="500">
+<img class="cover" src=https://www.herokucdn.com/images/og.png>
 
 
 
-(**Web site excerpt:** Good tips on basic dB optimization. Especially for Heroku and Postgres) 
-[Optimizing Database Performance in Rails](https://blog.heroku.com/rails-database-optimization)
+* **Web site excerpt:** Good tips on basic dB optimization. Especially for Heroku and Postgres
+
+* **Link to site:** **[Optimizing Database Performance in Rails](https://blog.heroku.com/rails-database-optimization)**

@@ -44,4 +44,4 @@ how about the "Wait here while I go refill my drink, (and never return.)."
 Some day I should write an article!
 
 
-[Pecking order? Puleeze! Joi Ito](None)
+* **Link to site:** **[Pecking order? Puleeze! Joi Ito](None)**

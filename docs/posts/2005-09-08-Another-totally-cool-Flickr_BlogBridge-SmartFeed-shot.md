@@ -22,4 +22,4 @@ date: 2005-09-08
 whether it's doctored but it's impressive!
 
 
-[Another totally cool Flickr/BlogBridge SmartFeed shot](None)
+* **Link to site:** **[Another totally cool Flickr/BlogBridge SmartFeed shot](None)**

@@ -29,4 +29,4 @@ magazine, but as a blog post!)
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[“Society doesn’t need newspapers. What we need is journalism”](None)
+* **Link to site:** **[“Society doesn’t need newspapers. What we need is journalism”](None)**

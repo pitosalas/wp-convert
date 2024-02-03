@@ -12,9 +12,10 @@ tags:
     - scale
     - youre-not-google
 ---
-<img src=https://willem.com/blog/2020-05-11_scalable-application-design-without-magic/images/Scalable-application-design-without-magic-2x.jpg width="500">
+<img class="cover" src=https://willem.com/blog/2020-05-11_scalable-application-design-without-magic/images/Scalable-application-design-without-magic-2x.jpg>
 
 
 
-(**Web site excerpt:** I needed to design a scalable backend infrastructure that could handle lots of concurrent users. I did this by leveraging the client's computing power having it handle most of the user interaction workload.) 
-[Scalable application design without magic - Leveraging client computing power for high performance with many users](https://willem.com/blog/2020-05-11_scalable-application-design-without-magic/)
+* **Web site excerpt:** I needed to design a scalable backend infrastructure that could handle lots of concurrent users. I did this by leveraging the client's computing power having it handle most of the user interaction workload.
+
+* **Link to site:** **[Scalable application design without magic - Leveraging client computing power for high performance with many users](https://willem.com/blog/2020-05-11_scalable-application-design-without-magic/)**

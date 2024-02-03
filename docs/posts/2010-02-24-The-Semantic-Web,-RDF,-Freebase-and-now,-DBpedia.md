@@ -46,4 +46,4 @@ dbpedia-and-freebase/>):
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[The Semantic Web, RDF, Freebase and now, DBpedia](None)
+* **Link to site:** **[The Semantic Web, RDF, Freebase and now, DBpedia](None)**

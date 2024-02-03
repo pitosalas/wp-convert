@@ -21,4 +21,4 @@ page as we move into another phase of development.
 >> Keep those cards and letters coming in!
 
 
-[BlogBridge – coming along!](None)
+* **Link to site:** **[BlogBridge – coming along!](None)**

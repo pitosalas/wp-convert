@@ -24,4 +24,4 @@ on-podcasting/>))
 [itunes](<http://technorati.com/tag/itunes>)
 
 
-[Very Cool: iTunes supports Podcasting!](None)
+* **Link to site:** **[Very Cool: iTunes supports Podcasting!](None)**

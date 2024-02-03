@@ -41,4 +41,4 @@ there is signs that the students and parents (the customers after all) are
 demanding this. Change is slow, but it is coming.
 
 
-[[EDUCATION] Sign of change in the universe](None)
+* **Link to site:** **[[EDUCATION] Sign of change in the universe](None)**

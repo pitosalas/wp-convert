@@ -16,4 +16,4 @@ the rendering of the Blog Aricles, which now include support for a larger
 subset of html, including images and soon links.
 
 
-[Open Source Icons and BlogBridge](None)
+* **Link to site:** **[Open Source Icons and BlogBridge](None)**

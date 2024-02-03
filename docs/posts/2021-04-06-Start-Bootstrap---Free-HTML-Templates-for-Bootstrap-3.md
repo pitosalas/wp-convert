@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - bootstrap css html5
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Start Bootstrap - Free HTML Templates for Bootstrap 3](http://startbootstrap.com/all-templates)
+* **Link to site:** **[Start Bootstrap - Free HTML Templates for Bootstrap 3](http://startbootstrap.com/all-templates)**

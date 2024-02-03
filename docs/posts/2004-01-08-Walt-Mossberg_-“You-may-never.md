@@ -57,4 +57,4 @@ controls. So much credit still goes to Microsoft. Sorry!
 NetCaptor, but both are better than IE.
 
 
-[Walt Mossberg: “You may never](None)
+* **Link to site:** **[Walt Mossberg: “You may never](None)**

@@ -26,4 +26,4 @@ Apple might have better handled the price change of the iPhone. See it in
 > to-spend-20.html>))
 
 
-[Seth Godin has good insights](None)
+* **Link to site:** **[Seth Godin has good insights](None)**

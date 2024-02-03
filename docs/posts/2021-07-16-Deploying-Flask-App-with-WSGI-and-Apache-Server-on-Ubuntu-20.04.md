@@ -12,9 +12,10 @@ tags:
     - ubuntu
     - howto
 ---
-<img src=https://miro.medium.com/max/797/1*sq1oigRgSKIkZ5N3fNbKMA.png width="500">
+<img class="cover" src=https://miro.medium.com/max/797/1*sq1oigRgSKIkZ5N3fNbKMA.png>
 
 
 
-(**Web site excerpt:** Description) 
-[Deploying Flask App with WSGI and Apache Server on Ubuntu 20.04](https://asdkazmi.medium.com/deploying-flask-app-with-wsgi-and-apache-server-on-ubuntu-20-04-396607e0e40f)
+* **Web site excerpt:** Description
+
+* **Link to site:** **[Deploying Flask App with WSGI and Apache Server on Ubuntu 20.04](https://asdkazmi.medium.com/deploying-flask-app-with-wsgi-and-apache-server-on-ubuntu-20-04-396607e0e40f)**

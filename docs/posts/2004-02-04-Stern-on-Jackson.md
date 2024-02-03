@@ -26,4 +26,4 @@ Stewart](<http://www.comedycentral.com/tv_shows/thedailyshowwithjonstewart/>)
 made more or less the same point.
 
 
-[Stern on Jackson](None)
+* **Link to site:** **[Stern on Jackson](None)**

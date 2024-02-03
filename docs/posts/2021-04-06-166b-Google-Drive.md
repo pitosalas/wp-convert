@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Brandeis
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[166b Google Drive](https://drive.google.com/drive/u/1/folders/0B2SSgva8RXyFSEZUcnNSM294UUE)
+* **Link to site:** **[166b Google Drive](https://drive.google.com/drive/u/1/folders/0B2SSgva8RXyFSEZUcnNSM294UUE)**

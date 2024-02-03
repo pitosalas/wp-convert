@@ -13,9 +13,10 @@ tags:
     - howto
     - powtoon
 ---
-<img src=https://static.powtoon.co/images/powtoon_thumb.jpg width="500">
+<img class="cover" src=https://static.powtoon.co/images/powtoon_thumb.jpg>
 
 
 
-(**Web site excerpt:** Powtoon gives you everything you need to easily make professional videos and presentations that your clients, colleagues, and friends will love! No design or tech skills are necessary — it’s free, easy, and awesome!) 
-[Powtoon | Create Awesome Videos Yourself](https://www.powtoon.com/index)
+* **Web site excerpt:** Powtoon gives you everything you need to easily make professional videos and presentations that your clients, colleagues, and friends will love! No design or tech skills are necessary — it’s free, easy, and awesome!
+
+* **Link to site:** **[Powtoon | Create Awesome Videos Yourself](https://www.powtoon.com/index)**

@@ -12,9 +12,10 @@ tags:
     - ros
     - navigation
 ---
-<img src=https://roboticsknowledgebase.com/assets/images/ricardo-gomez-angel-162935.jpg width="500">
+<img class="cover" src=https://roboticsknowledgebase.com/assets/images/ricardo-gomez-angel-162935.jpg>
 
 
 
-(**Web site excerpt:** The Robotics Knowledgebase exists to advance knowledge in the robotics discipline.) 
-[The Wiki for Robot Builders](https://roboticsknowledgebase.com/)
+* **Web site excerpt:** The Robotics Knowledgebase exists to advance knowledge in the robotics discipline.
+
+* **Link to site:** **[The Wiki for Robot Builders](https://roboticsknowledgebase.com/)**

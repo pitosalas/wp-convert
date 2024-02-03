@@ -44,4 +44,4 @@ life changing, but interesting.
 >>
 
 
-[June 26 – Cool stuff!](None)
+* **Link to site:** **[June 26 – Cool stuff!](None)**

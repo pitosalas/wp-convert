@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - java framework
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fwww.pippo.ro width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.pippo.ro>
 
 
 
-(**Web site excerpt:** Pippo site repository) 
-[Pippo : Pippo](http://www.pippo.ro)
+* **Web site excerpt:** Pippo site repository
+
+* **Link to site:** **[Pippo : Pippo](http://www.pippo.ro)**

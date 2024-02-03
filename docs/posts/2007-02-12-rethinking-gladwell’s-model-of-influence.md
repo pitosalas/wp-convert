@@ -17,4 +17,4 @@ date: 2007-02-12
 > worth taking a look.
 
 
-[rethinking gladwell’s model of influence](None)
+* **Link to site:** **[rethinking gladwell’s model of influence](None)**

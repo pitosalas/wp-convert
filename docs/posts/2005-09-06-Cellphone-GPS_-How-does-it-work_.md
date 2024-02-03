@@ -48,4 +48,4 @@ cool!](<https://mobile.garmin.com/obn/demo.jsp>)
 [gps](<http://www.technorati.com/tag/gps>)
 
 
-[Cellphone GPS: How does it work?](None)
+* **Link to site:** **[Cellphone GPS: How does it work?](None)**

@@ -36,4 +36,4 @@ date: 2007-01-09
 > Food for thought…
 
 
-[Drama in Blog Time.](None)
+* **Link to site:** **[Drama in Blog Time.](None)**

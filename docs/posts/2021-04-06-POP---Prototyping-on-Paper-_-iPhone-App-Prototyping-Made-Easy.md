@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - prototyping iphone design paper ux mobile tools
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[POP - Prototyping on Paper | iPhone App Prototyping Made Easy](http://popapp.in)
+* **Link to site:** **[POP - Prototyping on Paper | iPhone App Prototyping Made Easy](http://popapp.in)**

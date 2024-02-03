@@ -26,4 +26,4 @@ date: 2007-01-15
 > Macworld](<http://blogs.adobe.com/jnack/2007/01/iphone_quip_o_t.html>))
 
 
-[“I�_Tm going to wait for the iPhone Shuffle. You just clip it to your ear and call people at random.”](None)
+* **Link to site:** **[“I�_Tm going to wait for the iPhone Shuffle. You just clip it to your ear and call people at random.”](None)**

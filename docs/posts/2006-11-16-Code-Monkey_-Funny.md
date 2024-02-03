@@ -50,4 +50,4 @@ it." ( **from** [Thing a Week](<http://jonathancoulton>))
 > Technorati Tags: [funny](<http://www.technorati.com/tag/funny>)
 
 
-[Code Monkey: Funny](None)
+* **Link to site:** **[Code Monkey: Funny](None)**

@@ -11,9 +11,10 @@ tags:
     - netplan
     - howto
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
 
-(**Web site excerpt:** In this article we learn about Netplan and we see how can we use it to setup network interfaces on Ubuntu) 
-[Netplan network configuration tutorial for beginners - LinuxConfig.org](https://linuxconfig.org/netplan-network-configuration-tutorial-for-beginners)
+* **Web site excerpt:** In this article we learn about Netplan and we see how can we use it to setup network interfaces on Ubuntu
+
+* **Link to site:** **[Netplan network configuration tutorial for beginners - LinuxConfig.org](https://linuxconfig.org/netplan-network-configuration-tutorial-for-beginners)**

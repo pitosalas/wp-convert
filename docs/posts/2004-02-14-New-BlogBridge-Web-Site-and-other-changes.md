@@ -17,4 +17,4 @@ set to unread under certain conditions. Also there will be some changes
 required in the low level persistence handling to track unread.
 
 
-[New BlogBridge Web Site and other changes](None)
+* **Link to site:** **[New BlogBridge Web Site and other changes](None)**

@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - research
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Fsyshomer.mainlib.brandeis.edu%2Filliad%2Filliad.dll width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fsyshomer.mainlib.brandeis.edu%2Filliad%2Filliad.dll>
 
 
-[Inter Library Loan Brandeis](https://syshomer.mainlib.brandeis.edu/illiad/illiad.dll)
+* **Link to site:** **[Inter Library Loan Brandeis](https://syshomer.mainlib.brandeis.edu/illiad/illiad.dll)**

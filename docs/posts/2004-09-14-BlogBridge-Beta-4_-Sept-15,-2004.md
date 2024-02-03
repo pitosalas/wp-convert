@@ -62,4 +62,4 @@ the opposite order: good / unread / total.
 >> **Try the new beta. I hope you like it. Let me know!**
 
 
-[BlogBridge Beta 4: Sept 15, 2004](None)
+* **Link to site:** **[BlogBridge Beta 4: Sept 15, 2004](None)**

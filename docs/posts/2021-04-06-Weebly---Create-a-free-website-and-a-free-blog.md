@@ -6,7 +6,7 @@ link: "http://designers.weebly.com/designer_features.php"
 cover: "" 
 date: 2021-04-06
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Weebly - Create a free website and a free blog](http://designers.weebly.com/designer_features.php)
+* **Link to site:** **[Weebly - Create a free website and a free blog](http://designers.weebly.com/designer_features.php)**

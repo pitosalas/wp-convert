@@ -25,4 +25,4 @@ make sense to you. Read the article if not. I wonder whether W3C will embrace
 this as a 'good idea'. I think they should!
 
 
-[[GEEKY] Connecting Web Apps with Web Intents](None)
+* **Link to site:** **[[GEEKY] Connecting Web Apps with Web Intents](None)**

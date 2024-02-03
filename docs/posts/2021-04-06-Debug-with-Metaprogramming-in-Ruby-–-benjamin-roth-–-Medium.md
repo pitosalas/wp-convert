@@ -11,9 +11,10 @@ tags:
     - advanced
     - howto
 ---
-<img src=https://miro.medium.com/max/1196/1*qRz0XOPZhdgFy6e85rpnSQ.png width="500">
+<img class="cover" src=https://miro.medium.com/max/1196/1*qRz0XOPZhdgFy6e85rpnSQ.png>
 
 
 
-(**Web site excerpt:** Pretty advanced ideas but an interesting read.) 
-[Debug with Metaprogramming in Ruby – benjamin roth – Medium](https://medium.com/@apneadiving/metaprogramming-debugging-in-ruby-13c3a5a80667?source=userActivityShare-d383785221d0-1523622204)
+* **Web site excerpt:** Pretty advanced ideas but an interesting read.
+
+* **Link to site:** **[Debug with Metaprogramming in Ruby – benjamin roth – Medium](https://medium.com/@apneadiving/metaprogramming-debugging-in-ruby-13c3a5a80667?source=userActivityShare-d383785221d0-1523622204)**

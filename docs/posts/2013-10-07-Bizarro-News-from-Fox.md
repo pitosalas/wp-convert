@@ -24,4 +24,4 @@ deck>):
 
 
 
-[Bizarro News from Fox](None)
+* **Link to site:** **[Bizarro News from Fox](None)**

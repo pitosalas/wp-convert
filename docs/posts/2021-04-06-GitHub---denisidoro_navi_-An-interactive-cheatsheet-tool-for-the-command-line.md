@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - cli cheatsheet shell linux howto advice
 ---
-<img src=https://avatars.githubusercontent.com/u/3226564?s=400&v=4 width="500">
+<img class="cover" src=https://avatars.githubusercontent.com/u/3226564?s=400&v=4>
 
 
 
-(**Web site excerpt:** Command line cheat sheets. Not sure but could be useful.) 
-[GitHub - denisidoro/navi: An interactive cheatsheet tool for the command-line](https://github.com/denisidoro/navi)
+* **Web site excerpt:** Command line cheat sheets. Not sure but could be useful.
+
+* **Link to site:** **[GitHub - denisidoro/navi: An interactive cheatsheet tool for the command-line](https://github.com/denisidoro/navi)**

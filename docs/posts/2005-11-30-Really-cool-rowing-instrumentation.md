@@ -28,4 +28,4 @@ ChampionMetrics web ite](<http://www.championmetrics.com/index.html>))
 [rowing](<http://www.technorati.com/tag/rowing>)
 
 
-[Really cool rowing instrumentation](None)
+* **Link to site:** **[Really cool rowing instrumentation](None)**

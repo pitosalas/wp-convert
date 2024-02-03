@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - ide code ruby programming
 ---
-<img src=https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_179x109.png width="500">
+<img class="cover" src=https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_179x109.png>
 
 
 
-(**Web site excerpt:** Cloud based IDE. What languages? Can't tell. It says it's for Ruby too.) 
-[Cloud9 IDE | Online IDE – Your code anywhere, anytime](https://c9.io)
+* **Web site excerpt:** Cloud based IDE. What languages? Can't tell. It says it's for Ruby too.
+
+* **Link to site:** **[Cloud9 IDE | Online IDE – Your code anywhere, anytime](https://c9.io)**

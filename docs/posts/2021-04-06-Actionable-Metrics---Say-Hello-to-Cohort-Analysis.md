@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - entrepreneur leanstartup metrics entrepreneurship
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Actionable Metrics - Say Hello to Cohort Analysis](http://www.ashmaurya.com/2010/07/3-rules-to-actionable-metrics)
+* **Link to site:** **[Actionable Metrics - Say Hello to Cohort Analysis](http://www.ashmaurya.com/2010/07/3-rules-to-actionable-metrics)**

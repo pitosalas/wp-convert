@@ -11,9 +11,10 @@ tags:
     - logo
     - graphics
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Fwww.designevo.com%2Fapps%2Flogo%2F%3Fname%3Dred-circle-postmark width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.designevo.com%2Fapps%2Flogo%2F%3Fname%3Dred-circle-postmark>
 
 
 
-(**Web site excerpt:** DesignEvo s logo maker helps you create custom logos in minutes for free, no design experience needed Try with millions of icons and 100 fonts immediately!) 
-[Red Circle Postmark Logo | DesignEvo Logo Maker](https://www.designevo.com/apps/logo/?name=red-circle-postmark)
+* **Web site excerpt:** DesignEvo s logo maker helps you create custom logos in minutes for free, no design experience needed Try with millions of icons and 100 fonts immediately!
+
+* **Link to site:** **[Red Circle Postmark Logo | DesignEvo Logo Maker](https://www.designevo.com/apps/logo/?name=red-circle-postmark)**

@@ -46,4 +46,4 @@ But there are no keys to go to the start of a line (Control-A) or the end
 (Control-E). And no play, pause, etc. keys. Huh?
 
 
-[Switcher’s Log, Part 7: How can Apple be so brain dead about usability?](None)
+* **Link to site:** **[Switcher’s Log, Part 7: How can Apple be so brain dead about usability?](None)**

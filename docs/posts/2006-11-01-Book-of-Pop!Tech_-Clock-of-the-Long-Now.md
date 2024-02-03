@@ -53,4 +53,4 @@ Infinite Games](<http://www.longnow.org/>))
 > Intriguing, ain't it?
 
 
-[Book of Pop!Tech: Clock of the Long Now](None)
+* **Link to site:** **[Book of Pop!Tech: Clock of the Long Now](None)**

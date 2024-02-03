@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Design
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fhighcharts.com%2Flicense width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fhighcharts.com%2Flicense>
 
 
-[Highcharts - License and Pricing](http://highcharts.com/license)
+* **Link to site:** **[Highcharts - License and Pricing](http://highcharts.com/license)**

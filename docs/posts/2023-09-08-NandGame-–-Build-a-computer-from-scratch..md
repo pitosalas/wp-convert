@@ -17,4 +17,4 @@ powerful components. Starts with the simplest logical components and ends up
 with a programmable computer.
 
 
-[NandGame – Build a computer from scratch.](None)
+* **Link to site:** **[NandGame – Build a computer from scratch.](None)**

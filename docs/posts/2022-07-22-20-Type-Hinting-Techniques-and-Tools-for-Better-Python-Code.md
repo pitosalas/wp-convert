@@ -10,9 +10,10 @@ tags:
     - type-hints
     - howto
 ---
-<img src=https://miro.medium.com/max/1000/1*_AAGPOqVVo_A32kzZ2PK0g.jpeg width="500">
+<img class="cover" src=https://miro.medium.com/max/1000/1*_AAGPOqVVo_A32kzZ2PK0g.jpeg>
 
 
 
-(**Web site excerpt:** Let’s discuss why type hinting techniques and tools improve your Python code) 
-[20 Type Hinting Techniques and Tools for Better Python Code](https://betterprogramming.pub/twenty-type-hinting-techniques-and-tools-for-better-python-code-e877e0b0c679)
+* **Web site excerpt:** Let’s discuss why type hinting techniques and tools improve your Python code
+
+* **Link to site:** **[20 Type Hinting Techniques and Tools for Better Python Code](https://betterprogramming.pub/twenty-type-hinting-techniques-and-tools-for-better-python-code-e877e0b0c679)**

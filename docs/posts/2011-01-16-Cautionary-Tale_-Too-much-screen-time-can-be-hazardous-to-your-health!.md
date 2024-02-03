@@ -23,4 +23,4 @@ Health](<http://www.sciencedaily.com/releases/2011/01/110110164736.htm>).
 > Health](<http://www.sciencedaily.com/releases/2011/01/110110164736.htm>)
 
 
-[Cautionary Tale? Too much screen time can be hazardous to your health!](None)
+* **Link to site:** **[Cautionary Tale? Too much screen time can be hazardous to your health!](None)**

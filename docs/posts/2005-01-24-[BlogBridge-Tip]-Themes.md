@@ -10,4 +10,4 @@ and other UI settings in one fell swoop. For example, the "Big Theme" uses
 larger fonts making them easier to read. Enjoy!
 
 
-[[BlogBridge Tip] Themes](None)
+* **Link to site:** **[[BlogBridge Tip] Themes](None)**

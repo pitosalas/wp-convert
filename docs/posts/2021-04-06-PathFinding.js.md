@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - robotics robot pathfinding visualization
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Fqiao.github.io%2FPathFinding.js%2Fvisual width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fqiao.github.io%2FPathFinding.js%2Fvisual>
 
 
 
-(**Web site excerpt:** A fantastic visualization of various path finding algorithms) 
-[PathFinding.js](https://qiao.github.io/PathFinding.js/visual)
+* **Web site excerpt:** A fantastic visualization of various path finding algorithms
+
+* **Link to site:** **[PathFinding.js](https://qiao.github.io/PathFinding.js/visual)**

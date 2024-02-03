@@ -41,4 +41,4 @@ away by blogs of course, but arguably by the internet writ large, the internet
 phenomenon. It _could_ happen.
 
 
-[Blogging, Journalism and Credibility – Harvard](None)
+* **Link to site:** **[Blogging, Journalism and Credibility – Harvard](None)**

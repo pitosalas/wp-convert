@@ -9,7 +9,7 @@ tags:
     - brandeis
     - research
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Flts.brandeis.edu width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Flts.brandeis.edu>
 
 
-[LTS At Brandeis](http://lts.brandeis.edu)
+* **Link to site:** **[LTS At Brandeis](http://lts.brandeis.edu)**

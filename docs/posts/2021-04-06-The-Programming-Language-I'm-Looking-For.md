@@ -10,9 +10,10 @@ tags:
     - crystal
     - programming-language
 ---
-<img src=https://cdn-images-1.medium.com/fit/t/6720/4112/1*Mb90t5K_K65gE-1YBm8xMA.png width="500">
+<img class="cover" src=https://cdn-images-1.medium.com/fit/t/6720/4112/1*Mb90t5K_K65gE-1YBm8xMA.png>
 
 
 
-(**Web site excerpt:** Nice review of various programming language s including crystal) 
-[The Programming Language I'm Looking For](https://link.medium.com/LebIg2vriS)
+* **Web site excerpt:** Nice review of various programming language s including crystal
+
+* **Link to site:** **[The Programming Language I'm Looking For](https://link.medium.com/LebIg2vriS)**

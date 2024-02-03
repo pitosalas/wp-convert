@@ -18,4 +18,4 @@ American/European date styles, ISO8601, images, links, locations, and more. -
 GitHub - kochrt/markwhen: Make a cascading timeline …
 
 
-[GitHub – kochrt/markwhen: Make a cascading timeline from markdown-like text.](None)
+* **Link to site:** **[GitHub – kochrt/markwhen: Make a cascading timeline from markdown-like text.](None)**

@@ -15,4 +15,4 @@ routes can be mapped or uploaded from GPS devices.
 December 26, 2021 at 01:57PM
 
 
-[Wandermap – Your hiking routes online](None)
+* **Link to site:** **[Wandermap – Your hiking routes online](None)**

@@ -25,4 +25,4 @@ leaving the show in January.](<http://www.howardstern.com/rundown.hs>)
 As I say, a soap opera for sure, but riveting.
 
 
-[[STERN INSIDE BASEBALL] Wild day on Howard Stern show](None)
+* **Link to site:** **[[STERN INSIDE BASEBALL] Wild day on Howard Stern show](None)**

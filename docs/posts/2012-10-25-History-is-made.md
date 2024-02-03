@@ -32,4 +32,4 @@ the tablets have a built in 'kick-stand' for standing it upright. Cool again!
 **Well done Microsoft!**
 
 
-[History is made](None)
+* **Link to site:** **[History is made](None)**

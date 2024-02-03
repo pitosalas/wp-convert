@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - load testing programming scale
 ---
-<img src=https://www.joedog.org/wp-content/themes/joedog/images/pommie-sm.gif width="500">
+<img class="cover" src=https://www.joedog.org/wp-content/themes/joedog/images/pommie-sm.gif>
 
 
-[Siege User's Manual](http://www.joedog.org/siege-manual)
+* **Link to site:** **[Siege User's Manual](http://www.joedog.org/siege-manual)**

@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - civics
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Supreme Decision | iCivics](http://www.icivics.org/games/supreme-decision)
+* **Link to site:** **[Supreme Decision | iCivics](http://www.icivics.org/games/supreme-decision)**

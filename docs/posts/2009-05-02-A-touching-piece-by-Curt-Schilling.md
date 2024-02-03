@@ -20,4 +20,4 @@ This is from his blog:
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[A touching piece by Curt Schilling](None)
+* **Link to site:** **[A touching piece by Curt Schilling](None)**

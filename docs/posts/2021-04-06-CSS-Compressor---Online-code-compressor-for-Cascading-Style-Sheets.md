@@ -6,7 +6,7 @@ link: "http://www.csscompressor.com"
 cover: "" 
 date: 2021-04-06
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[CSS Compressor - Online code compressor for Cascading Style Sheets](http://www.csscompressor.com)
+* **Link to site:** **[CSS Compressor - Online code compressor for Cascading Style Sheets](http://www.csscompressor.com)**

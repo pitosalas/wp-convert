@@ -11,9 +11,10 @@ tags:
     - tips
     - sessions
 ---
-<img src=http://www.getlaura.com/wp-content/uploads/2014/08/Screen-Shot-2014-09-30-at-5.34.49-PM.png width="500">
+<img class="cover" src=http://www.getlaura.com/wp-content/uploads/2014/08/Screen-Shot-2014-09-30-at-5.34.49-PM.png>
 
 
 
-(**Web site excerpt:** Useful things to remember about using sessions in Sinatra) 
-[How to Enable Sessions with Sinatra | getLaura](http://www.getlaura.com/how-to-enable-sessions-with-sinatra)
+* **Web site excerpt:** Useful things to remember about using sessions in Sinatra
+
+* **Link to site:** **[How to Enable Sessions with Sinatra | getLaura](http://www.getlaura.com/how-to-enable-sessions-with-sinatra)**

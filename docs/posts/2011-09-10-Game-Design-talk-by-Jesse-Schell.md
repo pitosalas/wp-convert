@@ -23,4 +23,4 @@ life in the future. Very plausible.
 5](<http://www.g4tv.com/games/ps3/61899/guitar-hero-5>)
 
 
-[Game Design talk by Jesse Schell](None)
+* **Link to site:** **[Game Design talk by Jesse Schell](None)**

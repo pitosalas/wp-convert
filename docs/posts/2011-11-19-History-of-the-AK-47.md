@@ -31,4 +31,4 @@ gun>)
 > popular-gun>)
 
 
-[History of the AK-47](None)
+* **Link to site:** **[History of the AK-47](None)**

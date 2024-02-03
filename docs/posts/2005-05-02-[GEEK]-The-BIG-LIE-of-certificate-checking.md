@@ -82,4 +82,4 @@ it gives the user a **very false sense of security.**
 [webstart](<http://technorati.com/tag/webstart>)
 
 
-[[GEEK] The BIG LIE of certificate checking](None)
+* **Link to site:** **[[GEEK] The BIG LIE of certificate checking](None)**

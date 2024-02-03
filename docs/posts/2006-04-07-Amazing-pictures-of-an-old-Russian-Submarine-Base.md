@@ -20,4 +20,4 @@ excellent.[Thanks Aleksey](<http://blog.noizeramp.com/>)!
 >> Technorati Tags: [amazing](<http://www.technorati.com/tag/amazing>)
 
 
-[Amazing pictures of an old Russian Submarine Base](None)
+* **Link to site:** **[Amazing pictures of an old Russian Submarine Base](None)**

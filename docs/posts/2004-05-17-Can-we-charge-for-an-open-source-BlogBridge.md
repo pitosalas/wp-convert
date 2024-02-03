@@ -36,4 +36,4 @@ least initially. Over time, depending on how things go, it might make sense to
 have a different, non-open-source, commercial version of BlogBridge.
 
 
-[Can we charge for an open source BlogBridge](None)
+* **Link to site:** **[Can we charge for an open source BlogBridge](None)**

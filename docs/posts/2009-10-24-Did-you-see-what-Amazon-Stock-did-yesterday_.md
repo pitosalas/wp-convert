@@ -22,4 +22,4 @@ content/uploads/2009/10/screen-shot-2009-10-24-at-114910-am.png?w=584)
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[Did you see what Amazon Stock did yesterday?](None)
+* **Link to site:** **[Did you see what Amazon Stock did yesterday?](None)**

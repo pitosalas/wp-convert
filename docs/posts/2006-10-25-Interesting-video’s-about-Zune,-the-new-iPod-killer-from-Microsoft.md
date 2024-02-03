@@ -18,4 +18,4 @@ date: 2006-10-25
 > scoble](<http://technorati.com/tag/zune%20ipod%20scoble>)
 
 
-[Interesting video’s about Zune, the new iPod killer from Microsoft](None)
+* **Link to site:** **[Interesting video’s about Zune, the new iPod killer from Microsoft](None)**

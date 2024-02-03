@@ -12,9 +12,10 @@ tags:
     - jokes
     - programming
 ---
-<img src=https://miro.medium.com/focal/1200/632/59/23/1*s7t5y_jFHW2WIWfCO9d0GQ.jpeg width="500">
+<img class="cover" src=https://miro.medium.com/focal/1200/632/59/23/1*s7t5y_jFHW2WIWfCO9d0GQ.jpeg>
 
 
 
-(**Web site excerpt:** Groan but ok, funny) 
-[10 Ultimate Programming Jokes](https://link.medium.com/gybRfn32zdb)
+* **Web site excerpt:** Groan but ok, funny
+
+* **Link to site:** **[10 Ultimate Programming Jokes](https://link.medium.com/gybRfn32zdb)**

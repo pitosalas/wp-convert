@@ -19,4 +19,4 @@ linkedin-adds-profile-photos/>):
 > ‘we can be as friendly-looking as Facebook too guys’."
 
 
-[LinkedIn has photos, finally](None)
+* **Link to site:** **[LinkedIn has photos, finally](None)**

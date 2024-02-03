@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - rails ActionCable Websockets
 ---
-<img src=https://hackernoon.com/hn-images/1*apO3HjeMwi8ZX4LzSCzkOg.png width="500">
+<img class="cover" src=https://hackernoon.com/hn-images/1*apO3HjeMwi8ZX4LzSCzkOg.png>
 
 
 
-(**Web site excerpt:** Rails Actioncable is really complicated. Here's another link) 
-[The Practical Guide to Using ActionCable – Hacker Noon](https://hackernoon.com/the-practical-guide-to-using-actioncable-30d570d8988c)
+* **Web site excerpt:** Rails Actioncable is really complicated. Here's another link
+
+* **Link to site:** **[The Practical Guide to Using ActionCable – Hacker Noon](https://hackernoon.com/the-practical-guide-to-using-actioncable-30d570d8988c)**

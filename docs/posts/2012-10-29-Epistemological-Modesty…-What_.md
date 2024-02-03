@@ -60,4 +60,4 @@ got to go to look of the definition of
 [epistemological](<http://en.wikipedia.org/wiki/Epistemology>). See u!)
 
 
-[Epistemological Modesty… What?](None)
+* **Link to site:** **[Epistemological Modesty… What?](None)**

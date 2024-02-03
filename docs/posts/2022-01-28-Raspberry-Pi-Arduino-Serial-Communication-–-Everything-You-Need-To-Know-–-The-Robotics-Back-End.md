@@ -16,4 +16,4 @@ Learn how to connect your boards together, setup software, and write code.
 January 28, 2022 at 02:27PM
 
 
-[Raspberry Pi Arduino Serial Communication – Everything You Need To Know – The Robotics Back-End](None)
+* **Link to site:** **[Raspberry Pi Arduino Serial Communication – Everything You Need To Know – The Robotics Back-End](None)**

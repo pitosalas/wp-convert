@@ -24,4 +24,4 @@ bundler-gumby-framework>):
 
 
 
-[[GEEKY] Using bundler to create and publish a gem](None)
+* **Link to site:** **[[GEEKY] Using bundler to create and publish a gem](None)**

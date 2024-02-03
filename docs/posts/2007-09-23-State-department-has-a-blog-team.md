@@ -19,4 +19,4 @@ Debate", from the New York
 Times.](<http://www.nytimes.com/2007/09/22/washington/22bloggers.html>)
 
 
-[State department has a blog team](None)
+* **Link to site:** **[State department has a blog team](None)**

@@ -45,4 +45,4 @@ Passim Folk Music & Cultural Center
 Cambridge, MA 02138
 
 
-[Support Club Passim in Harvard Square!!!](None)
+* **Link to site:** **[Support Club Passim in Harvard Square!!!](None)**

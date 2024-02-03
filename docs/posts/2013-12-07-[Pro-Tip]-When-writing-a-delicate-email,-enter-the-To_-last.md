@@ -17,4 +17,4 @@ will possibly cause collateral damage if you're not done word smithing your
 message.
 
 
-[[Pro-Tip] When writing a delicate email, enter the To: last](None)
+* **Link to site:** **[[Pro-Tip] When writing a delicate email, enter the To: last](None)**

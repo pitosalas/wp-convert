@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - google
 ---
-<img src=https://miro.medium.com/max/1200/1*FvSI0P8Kzco2oXnpIRMe2w.jpeg width="500">
+<img class="cover" src=https://miro.medium.com/max/1200/1*FvSI0P8Kzco2oXnpIRMe2w.jpeg>
 
 
 
-(**Web site excerpt:** An introduction to the future of data science) 
-[Automated Machine Learning on the Cloud in Python – Towards Data Science](https://towardsdatascience.com/automated-machine-learning-on-the-cloud-in-python-47cf568859f?source=userActivityShare-d383785221d0-1527471394)
+* **Web site excerpt:** An introduction to the future of data science
+
+* **Link to site:** **[Automated Machine Learning on the Cloud in Python – Towards Data Science](https://towardsdatascience.com/automated-machine-learning-on-the-cloud-in-python-47cf568859f?source=userActivityShare-d383785221d0-1527471394)**

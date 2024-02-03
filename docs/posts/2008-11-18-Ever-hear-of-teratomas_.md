@@ -28,4 +28,4 @@ reading it:
 > diagnosis-t.html?ref=magazine>))
 
 
-[Ever hear of teratomas?](None)
+* **Link to site:** **[Ever hear of teratomas?](None)**

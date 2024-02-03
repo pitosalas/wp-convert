@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - dev overmind tools foreman rails howto
 ---
-<img src=https://testdouble.com/test-double-og-image.png width="500">
+<img class="cover" src=https://testdouble.com/test-double-og-image.png>
 
 
 
-(**Web site excerpt:** Foreman is now superseded by overmind, which is better and more awesome. Worth a look.) 
-[Test Double | Our Blog | Improving Dev Experience with Overmind](https://blog.testdouble.com/posts/2020-03-17-improving-dev-experience-with-overmind)
+* **Web site excerpt:** Foreman is now superseded by overmind, which is better and more awesome. Worth a look.
+
+* **Link to site:** **[Test Double | Our Blog | Improving Dev Experience with Overmind](https://blog.testdouble.com/posts/2020-03-17-improving-dev-experience-with-overmind)**

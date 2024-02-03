@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - ruby games
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Rubygame: The Blog | From the guy who brought you Rubygame: The Library](http://blog.rubygame.org)
+* **Link to site:** **[Rubygame: The Blog | From the guy who brought you Rubygame: The Library](http://blog.rubygame.org)**

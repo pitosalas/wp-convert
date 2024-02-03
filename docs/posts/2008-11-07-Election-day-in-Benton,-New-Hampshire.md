@@ -67,4 +67,4 @@ inappropriate the polling place. Ouch!
 Still though he never asked us to remove the Barack Obapple sign.
 
 
-[Election day in Benton, New Hampshire](None)
+* **Link to site:** **[Election day in Benton, New Hampshire](None)**

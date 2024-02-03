@@ -13,4 +13,4 @@ link](<http://www.backfire.dk/EMPIRENORTH/newsite/products_en001.htm>). It
 just has to be a prank.
 
 
-[GPS and Civil Liberties?](None)
+* **Link to site:** **[GPS and Civil Liberties?](None)**

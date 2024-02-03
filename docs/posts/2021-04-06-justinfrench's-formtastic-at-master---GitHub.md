@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - Elections
 ---
-<img src=https://avatars.githubusercontent.com/u/6845884?s=400&v=4 width="500">
+<img class="cover" src=https://avatars.githubusercontent.com/u/6845884?s=400&v=4>
 
 
 
-(**Web site excerpt:** A Rails form builder plugin with semantically rich and accessible markup. - formtastic/formtastic) 
-[justinfrench's formtastic at master - GitHub](http://github.com/justinfrench/formtastic)
+* **Web site excerpt:** A Rails form builder plugin with semantically rich and accessible markup. - formtastic/formtastic
+
+* **Link to site:** **[justinfrench's formtastic at master - GitHub](http://github.com/justinfrench/formtastic)**

@@ -11,9 +11,10 @@ tags:
     - tutorials
     - ruby on rails
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fwww.railscasts.com width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.railscasts.com>
 
 
 
-(**Web site excerpt:** Short Ruby on Rails screencasts containing tips, tricks and tutorials. Great for both novice and experienced programmers.) 
-[Railscasts - Free Ruby on Rails Screencasts](http://www.railscasts.com)
+* **Web site excerpt:** Short Ruby on Rails screencasts containing tips, tricks and tutorials. Great for both novice and experienced programmers.
+
+* **Link to site:** **[Railscasts - Free Ruby on Rails Screencasts](http://www.railscasts.com)**

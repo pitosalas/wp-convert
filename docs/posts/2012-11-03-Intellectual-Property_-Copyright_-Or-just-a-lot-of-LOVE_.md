@@ -73,4 +73,4 @@ Will I be asked to take it down (and destroy the 16 one-of-a-kind t-shirts.)
 And will I win the case in court, because, "everyone else is copying it"?
 
 
-[Intellectual Property? Copyright? Or just a lot of LOVE?](None)
+* **Link to site:** **[Intellectual Property? Copyright? Or just a lot of LOVE?](None)**

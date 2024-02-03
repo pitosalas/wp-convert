@@ -16,4 +16,4 @@ blog](<http://www.blogbridge.com/weblog/archives/000671.html>) and
 >> Technorati Tags: [blogbridge](<http://technorati.com/tag/blogbridge>)
 
 
-[BlogBridge 1.5 Weekly released today](None)
+* **Link to site:** **[BlogBridge 1.5 Weekly released today](None)**

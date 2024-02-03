@@ -6,9 +6,10 @@ link: "http://techcrunch.com/2013/04/19/strategies-for-building-political-social
 cover: "https://techcrunch.com/wp-content/uploads/2012/11/democracy1.jpg?w=98" 
 date: 2021-04-06
 ---
-<img src=https://techcrunch.com/wp-content/uploads/2012/11/democracy1.jpg?w=98 width="500">
+<img class="cover" src=https://techcrunch.com/wp-content/uploads/2012/11/democracy1.jpg?w=98>
 
 
 
-(**Web site excerpt:** Very interesting lessons about getting to viral) 
-[How To Build A Political Social Network That Actually Works | TechCrunch](http://techcrunch.com/2013/04/19/strategies-for-building-political-social-networks)
+* **Web site excerpt:** Very interesting lessons about getting to viral
+
+* **Link to site:** **[How To Build A Political Social Network That Actually Works | TechCrunch](http://techcrunch.com/2013/04/19/strategies-for-building-political-social-networks)**

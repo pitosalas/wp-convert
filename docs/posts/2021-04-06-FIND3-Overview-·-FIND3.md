@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - find
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[FIND3 Overview · FIND3](https://www.internalpositioning.com/doc/overview.md)
+* **Link to site:** **[FIND3 Overview · FIND3](https://www.internalpositioning.com/doc/overview.md)**

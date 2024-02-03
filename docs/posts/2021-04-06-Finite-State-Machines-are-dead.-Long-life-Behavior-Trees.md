@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - robotics fsm video trees behavior
 ---
-<img src=https://i.ytimg.com/vi/22KUPktetzg/mqdefault.jpg width="500">
+<img class="cover" src=https://i.ytimg.com/vi/22KUPktetzg/mqdefault.jpg>
 
 
 
-(**Web site excerpt:** Very nice explanation of behavior trees) 
-[Finite State Machines are dead. Long life Behavior Trees](https://www.youtube.com/watch?feature=youtu.be&v=22KUPktetzg)
+* **Web site excerpt:** Very nice explanation of behavior trees
+
+* **Link to site:** **[Finite State Machines are dead. Long life Behavior Trees](https://www.youtube.com/watch?feature=youtu.be&v=22KUPktetzg)**

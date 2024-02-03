@@ -42,4 +42,4 @@ model as well. I think you'll like that when you hear about it 🙂
 wanted to point to Dan's interesting pieces.
 
 
-[Thoughts about software licensing](None)
+* **Link to site:** **[Thoughts about software licensing](None)**

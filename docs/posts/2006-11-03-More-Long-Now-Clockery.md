@@ -27,4 +27,4 @@ date: 2006-11-03
 > [clockofthelongnow](<http://www.technorati.com/tag/clockofthelongnow>)
 
 
-[More Long Now Clockery](None)
+* **Link to site:** **[More Long Now Clockery](None)**

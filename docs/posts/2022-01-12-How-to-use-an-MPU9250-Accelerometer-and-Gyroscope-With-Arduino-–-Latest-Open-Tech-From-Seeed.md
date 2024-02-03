@@ -19,4 +19,4 @@ Arduino!
 January 13, 2022 at 03:10AM
 
 
-[How to use an MPU9250 Accelerometer and Gyroscope With Arduino – Latest Open Tech From Seeed](None)
+* **Link to site:** **[How to use an MPU9250 Accelerometer and Gyroscope With Arduino – Latest Open Tech From Seeed](None)**

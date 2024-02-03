@@ -12,7 +12,7 @@ tags:
     - learn
     - good
 ---
-<img src=http://www.robogrok.com/images/img0002.png width="500">
+<img class="cover" src=http://www.robogrok.com/images/img0002.png>
 
 
-[RoboGrok University-Level Robotics 1 Course](http://www.robogrok.com/Robotics_1.php)
+* **Link to site:** **[RoboGrok University-Level Robotics 1 Course](http://www.robogrok.com/Robotics_1.php)**

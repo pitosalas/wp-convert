@@ -25,4 +25,4 @@ difference 🙂 and I always mentally smirk when I hear them talking about 'my
 companies' and words to that effect.
 
 
-[Those are not “your companies” dude](None)
+* **Link to site:** **[Those are not “your companies” dude](None)**

@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - elections voting Weather
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Election Administration Research Center](http://earc.berkeley.edu/hosting.php)
+* **Link to site:** **[Election Administration Research Center](http://earc.berkeley.edu/hosting.php)**

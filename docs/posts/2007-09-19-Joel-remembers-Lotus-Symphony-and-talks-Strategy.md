@@ -25,4 +25,4 @@ for the second coming of other great product names owned by Lotus: Lotus
 Manuscript; Lotus Jazz; _Where are they now?_
 
 
-[Joel remembers Lotus Symphony and talks Strategy](None)
+* **Link to site:** **[Joel remembers Lotus Symphony and talks Strategy](None)**

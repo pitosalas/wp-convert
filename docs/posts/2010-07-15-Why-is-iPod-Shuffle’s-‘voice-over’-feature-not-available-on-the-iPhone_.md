@@ -13,4 +13,4 @@ available on the far more powerful and expensive iPhone? Is there a technical
 reason or a marketing reason or some other mysterious reason?
 
 
-[Why is iPod Shuffle’s ‘voice over’ feature not available on the iPhone?](None)
+* **Link to site:** **[Why is iPod Shuffle’s ‘voice over’ feature not available on the iPhone?](None)**

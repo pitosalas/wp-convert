@@ -11,9 +11,10 @@ tags:
     - datascience
     - otp
 ---
-<img src=https://www.civitaslearning.com/wp-content/uploads/2021/05/circleinset_vlsummit2021signpost_500px.png width="500">
+<img class="cover" src=https://www.civitaslearning.com/wp-content/uploads/2021/05/circleinset_vlsummit2021signpost_500px.png>
 
 
 
-(**Web site excerpt:** We equip higher ed with actionable insights, connected workflow, and services to improve enrollment, course success, persistence and graduation.) 
-[Civitas Learning | Student Success Platform & Services - Civitas Learning](https://www.civitaslearning.com/)
+* **Web site excerpt:** We equip higher ed with actionable insights, connected workflow, and services to improve enrollment, course success, persistence and graduation.
+
+* **Link to site:** **[Civitas Learning | Student Success Platform & Services - Civitas Learning](https://www.civitaslearning.com/)**

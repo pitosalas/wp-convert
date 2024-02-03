@@ -72,4 +72,4 @@ be very, very difficult.
 _Originally posted on Oct 04, 2008. Reprinted courtesy of ReRuns plug-in._
 
 
-[If you think stronger regulation is a good answer, heed Buffett](None)
+* **Link to site:** **[If you think stronger regulation is a good answer, heed Buffett](None)**

@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - ruby pry
 ---
-<img src=https://miro.medium.com/max/819/1*QTCgxaIflO13BjErDm69nw.png width="500">
+<img class="cover" src=https://miro.medium.com/max/819/1*QTCgxaIflO13BjErDm69nw.png>
 
 
 
-(**Web site excerpt:** Some useful pry tricks) 
-[Four things about Pry – Runtime Revolution](https://revs.runtime-revolution.com/four-things-about-pry-a0ebb10c6c2e)
+* **Web site excerpt:** Some useful pry tricks
+
+* **Link to site:** **[Four things about Pry – Runtime Revolution](https://revs.runtime-revolution.com/four-things-about-pry-a0ebb10c6c2e)**

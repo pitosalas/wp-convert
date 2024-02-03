@@ -13,9 +13,10 @@ tags:
     - education
     - study
 ---
-<img src=https://www.worcester.edu/uploadedImages/FacebookDefaultLinkImage.png width="500">
+<img class="cover" src=https://www.worcester.edu/uploadedImages/FacebookDefaultLinkImage.png>
 
 
 
-(**Web site excerpt:** There are two options for instructors to facilitate class sessions remotely: Synchronous or Asynchronous.) 
-[Remote Teaching: Synchronous vs. Asynchronous | Center for Teaching and Learning | Worcester State University](https://www.worcester.edu/CTL-Remote-Teaching-Synchronous-vs-Asynchronous/)
+* **Web site excerpt:** There are two options for instructors to facilitate class sessions remotely: Synchronous or Asynchronous.
+
+* **Link to site:** **[Remote Teaching: Synchronous vs. Asynchronous | Center for Teaching and Learning | Worcester State University](https://www.worcester.edu/CTL-Remote-Teaching-Synchronous-vs-Asynchronous/)**

@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - icon design computer database graphics free
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Iconfinder - Icon search made easy!](http://www.iconfinder.net)
+* **Link to site:** **[Iconfinder - Icon search made easy!](http://www.iconfinder.net)**

@@ -17,4 +17,4 @@ able to use as soon as I get back.
 [ZOMG](<http://www.urbandictionary.com/define.php?term=zomg>))
 
 
-[[GEEKY] RubyConf](None)
+* **Link to site:** **[[GEEKY] RubyConf](None)**

@@ -33,4 +33,4 @@ The talk is in three sections, **read them all!**
   3. [Talk at Yale: Part 3 of 3](<http://www.joelonsoftware.com/items/2007/12/05.html>)
 
 
-[Computer Science: Theory and Practice](None)
+* **Link to site:** **[Computer Science: Theory and Practice](None)**

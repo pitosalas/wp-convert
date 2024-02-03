@@ -35,4 +35,4 @@ believe and have applied to my own decisions:
 > the question, but right now, maybe both choices are equally good."
 
 
-[Advice about listening to yoruself](None)
+* **Link to site:** **[Advice about listening to yoruself](None)**

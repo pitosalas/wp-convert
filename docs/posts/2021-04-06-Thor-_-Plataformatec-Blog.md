@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - thor development ruby
 ---
-<img src=http://blog.plataformatec.com.br/wp-content/themes/ptec/assets/opengraph.png width="500">
+<img class="cover" src=http://blog.plataformatec.com.br/wp-content/themes/ptec/assets/opengraph.png>
 
 
-[Thor | Plataformatec Blog](http://blog.plataformatec.com.br/tag/thor)
+* **Link to site:** **[Thor | Plataformatec Blog](http://blog.plataformatec.com.br/tag/thor)**

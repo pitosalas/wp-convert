@@ -28,4 +28,4 @@ a live TV pic (tags: [soccer](<http://del.icio.us/pitosalas/soccer>)
 >>
 
 
-[Cool stuff from the 21st!](None)
+* **Link to site:** **[Cool stuff from the 21st!](None)**

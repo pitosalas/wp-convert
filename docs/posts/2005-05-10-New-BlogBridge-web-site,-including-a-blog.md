@@ -34,4 +34,4 @@ to users.
 [UI](<http://technorati.com/tag/UI>)
 
 
-[New BlogBridge web site, including a blog](None)
+* **Link to site:** **[New BlogBridge web site, including a blog](None)**

@@ -33,4 +33,4 @@ But in the meanwhile I have a fairly clever design that fits all the days of
 one year on a tiny bit of paper. That's cool!
 
 
-[How do you fit a 365 day calendar on an index card?](None)
+* **Link to site:** **[How do you fit a 365 day calendar on an index card?](None)**

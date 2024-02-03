@@ -13,4 +13,4 @@ and I thought I'd try it….
 [http://www.coveritlive.com/index2.php?option=com_altcaster&task=viewaltcast&altcast_code=36d660e56f&height=550&width=470](<http://www.coveritlive.com/index2.php?option=com_altcaster&task=viewaltcast&altcast_code=36d660e56f&height=550&width=470>)
 
 
-[Demo 2008 – Liveblog experiment](None)
+* **Link to site:** **[Demo 2008 – Liveblog experiment](None)**

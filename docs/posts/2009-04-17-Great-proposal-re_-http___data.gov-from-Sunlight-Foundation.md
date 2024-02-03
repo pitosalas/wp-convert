@@ -28,4 +28,4 @@ makes the ideas come to life. If you are interested in government
 transparency, like I am, you should take a look at the proposals
 
 
-[Great proposal re: http://data.gov from Sunlight Foundation](None)
+* **Link to site:** **[Great proposal re: http://data.gov from Sunlight Foundation](None)**

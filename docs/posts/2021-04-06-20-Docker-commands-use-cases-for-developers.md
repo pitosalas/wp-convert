@@ -9,9 +9,10 @@ tags:
     - tips
     - docker
 ---
-<img src=https://res.cloudinary.com/practicaldev/image/fetch/s--TDvyFHR4--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/eb9kj55j7bu8ax6yue5t.jpg width="500">
+<img class="cover" src=https://res.cloudinary.com/practicaldev/image/fetch/s--TDvyFHR4--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/eb9kj55j7bu8ax6yue5t.jpg>
 
 
 
-(**Web site excerpt:** Finally I’ve joined the docker bandwagon) 
-[20 Docker commands use cases for developers](https://dev.to/alex_barashkov/20-docker-commands-use-cases-for-developers-2d9g)
+* **Web site excerpt:** Finally I’ve joined the docker bandwagon
+
+* **Link to site:** **[20 Docker commands use cases for developers](https://dev.to/alex_barashkov/20-docker-commands-use-cases-for-developers-2d9g)**

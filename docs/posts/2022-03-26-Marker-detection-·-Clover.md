@@ -10,9 +10,10 @@ tags:
     - aruco-detect
     - howto
 ---
-<img src=https://clover.coex.tech/assets/aruco-axis.png width="500">
+<img class="cover" src=https://clover.coex.tech/assets/aruco-axis.png>
 
 
 
-(**Web site excerpt:** A section from another robot that describes how to use aruco_detect) 
-[Marker detection · Clover](https://clover.coex.tech/en/aruco_marker.html)
+* **Web site excerpt:** A section from another robot that describes how to use aruco_detect
+
+* **Link to site:** **[Marker detection · Clover](https://clover.coex.tech/en/aruco_marker.html)**

@@ -72,4 +72,4 @@ honestly and you may well figure out a way to improve things.
 [guykawasaki](<http://www.technorati.com/tag/guykawasaki>)
 
 
-[Guy Kawasaki misses the most important ‘Art of Firing’](None)
+* **Link to site:** **[Guy Kawasaki misses the most important ‘Art of Firing’](None)**

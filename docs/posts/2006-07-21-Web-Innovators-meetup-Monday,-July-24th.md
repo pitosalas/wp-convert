@@ -18,4 +18,4 @@ I'll be there!
 >> Technorati Tags: [geekdinner](<http://www.technorati.com/tag/geekdinner>)
 
 
-[Web Innovators meetup Monday, July 24th](None)
+* **Link to site:** **[Web Innovators meetup Monday, July 24th](None)**

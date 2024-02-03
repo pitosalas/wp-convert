@@ -42,4 +42,4 @@ information around the internet that relates to what I have written.
 [searchengines](<http://technorati.com/tag/searchengines>)
 
 
-[Check out Findory](None)
+* **Link to site:** **[Check out Findory](None)**

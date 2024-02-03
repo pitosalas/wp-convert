@@ -35,4 +35,4 @@ email is also read by the development team: blogbridge-
 devl@lists.sourceforge.net.
 
 
-[BlogBridge tip: Send us Feedback](None)
+* **Link to site:** **[BlogBridge tip: Send us Feedback](None)**

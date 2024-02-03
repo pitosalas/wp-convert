@@ -38,4 +38,4 @@ on SourceForge.
 think!](<http://www.blogbridge.com/projectpage.htm#releases>)
 
 
-[BlogBridge releases coming fast and furious](None)
+* **Link to site:** **[BlogBridge releases coming fast and furious](None)**

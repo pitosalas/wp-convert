@@ -57,4 +57,4 @@ an](<http://www.nytimes.com/2011/12/13/opinion/amazons-jungle-
 logic.html?_r=4&pagewanted=all>) Anti-Amazon screed from a set of authors.
 
 
-[Support your local bookstore](None)
+* **Link to site:** **[Support your local bookstore](None)**

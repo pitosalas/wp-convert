@@ -25,4 +25,4 @@ From Jeremy Wagstaff's [Loose Wire Blog](<http://www.loosewireblog.com>):
 > journalism-is.html>))
 
 
-[Wikileaks, continued](None)
+* **Link to site:** **[Wikileaks, continued](None)**

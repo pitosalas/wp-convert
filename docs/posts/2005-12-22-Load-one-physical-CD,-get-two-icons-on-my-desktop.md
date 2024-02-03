@@ -35,4 +35,4 @@ connection to Sony? Is it loading a rootkit?I dunno. Paranoid.
 [rootkit](<http://www.technorati.com/tag/rootkit>)
 
 
-[Load one physical CD, get two icons on my desktop](None)
+* **Link to site:** **[Load one physical CD, get two icons on my desktop](None)**

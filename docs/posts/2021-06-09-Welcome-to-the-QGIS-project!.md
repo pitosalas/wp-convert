@@ -13,7 +13,7 @@ tags:
     - howto
     - visualization
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Fwww.qgis.org%2Fen%2Fsite%2F width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.qgis.org%2Fen%2Fsite%2F>
 
 
-[Welcome to the QGIS project!](https://www.qgis.org/en/site/)
+* **Link to site:** **[Welcome to the QGIS project!](https://www.qgis.org/en/site/)**

@@ -36,4 +36,4 @@ Technorati Tags: [techcrunch arrington
 ](<http://technorati.com/tag/techcrunch%20arrington%20>)
 
 
-[Good article about TechCrunch and Michael Arrington in Wired](None)
+* **Link to site:** **[Good article about TechCrunch and Michael Arrington in Wired](None)**

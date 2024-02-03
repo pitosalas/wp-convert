@@ -46,4 +46,4 @@ good read!
 [wireless](<http://technorati.com/tag/wireless>)
 
 
-[Boston is thinking about city-wide wi-fi access](None)
+* **Link to site:** **[Boston is thinking about city-wide wi-fi access](None)**

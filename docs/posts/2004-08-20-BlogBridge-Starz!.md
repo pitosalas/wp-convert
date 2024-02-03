@@ -77,4 +77,4 @@ thumb.jpg?resize=300%2C289)
 things we can do for the user. **That 's for another time.**
 
 
-[BlogBridge Starz!](None)
+* **Link to site:** **[BlogBridge Starz!](None)**

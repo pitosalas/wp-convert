@@ -25,4 +25,4 @@ upside down! Well actually leftside right.
 >> Watching baseball through a mirror. **Funny.**
 
 
-[[OOPSLA] Watching the World Series in a mirror](None)
+* **Link to site:** **[[OOPSLA] Watching the World Series in a mirror](None)**

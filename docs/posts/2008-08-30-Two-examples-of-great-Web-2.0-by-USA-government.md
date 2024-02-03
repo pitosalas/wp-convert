@@ -68,4 +68,4 @@ valuable service. Kudos!
 _Originally posted on Feb 28, 2008. Reprinted courtesy of ReRuns plug-in._
 
 
-[Two examples of great Web 2.0 by USA government](None)
+* **Link to site:** **[Two examples of great Web 2.0 by USA government](None)**

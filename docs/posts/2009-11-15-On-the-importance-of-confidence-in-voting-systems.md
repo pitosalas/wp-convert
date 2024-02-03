@@ -57,4 +57,4 @@ personal opinion.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[On the importance of confidence in voting systems](None)
+* **Link to site:** **[On the importance of confidence in voting systems](None)**

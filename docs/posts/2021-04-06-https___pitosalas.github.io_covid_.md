@@ -6,7 +6,7 @@ link: "https://pitosalas.github.io/covid"
 cover: "" 
 date: 2021-04-06
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[https://pitosalas.github.io/covid/](https://pitosalas.github.io/covid)
+* **Link to site:** **[https://pitosalas.github.io/covid/](https://pitosalas.github.io/covid)**

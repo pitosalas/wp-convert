@@ -15,4 +15,4 @@ here.](<http://www.spaceimaging.com/gallery/spacepics/central_park_12Feb05.jpg>)
 It's a really huge file though. The image on the right is a little extract.
 
 
-[We’re going to see “The Gates” in New York](None)
+* **Link to site:** **[We’re going to see “The Gates” in New York](None)**

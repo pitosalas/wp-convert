@@ -46,4 +46,4 @@ feature is Technorati Tags support.
 [mac](<http://technorati.com/tag/mac>), [osx](<http://technorati.com/tag/osx>)
 
 
-[Great new OS X Software Releases](None)
+* **Link to site:** **[Great new OS X Software Releases](None)**

@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - go games
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fwww.kiseido.com%2FBegin.htm width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.kiseido.com%2FBegin.htm>
 
 
-[Graded Go Problems for Beginners](http://www.kiseido.com/Begin.htm)
+* **Link to site:** **[Graded Go Problems for Beginners](http://www.kiseido.com/Begin.htm)**

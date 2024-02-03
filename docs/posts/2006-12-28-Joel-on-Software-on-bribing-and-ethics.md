@@ -80,4 +80,4 @@ microsoft-vista-giveaway-is-an-awesome-idea/>)
 >  over backwards to avoid "the appearance" of impropriety.
 
 
-[Joel on Software on bribing and ethics](None)
+* **Link to site:** **[Joel on Software on bribing and ethics](None)**

@@ -29,4 +29,4 @@ a-google-rival/>))"
 > another pretty good article introducing the idea from TimesOnline.
 
 
-[New search engine from Wikipedia-land](None)
+* **Link to site:** **[New search engine from Wikipedia-land](None)**

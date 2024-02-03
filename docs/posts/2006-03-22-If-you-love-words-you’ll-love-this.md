@@ -46,4 +46,4 @@ almost as bad as their our obsession with Web 2.0
 [graphicdesign](<http://www.technorati.com/tag/graphicdesign>)
 
 
-[If you love words you’ll love this](None)
+* **Link to site:** **[If you love words you’ll love this](None)**

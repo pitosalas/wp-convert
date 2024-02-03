@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - developers frameworks learning lifehacks
 ---
-<img src=http://sizovs.net/images/me.png width="500">
+<img class="cover" src=http://sizovs.net/images/me.png>
 
 
 
-(**Web site excerpt:** Without reading this, I know I totally agree!) 
-[Stop Learning Frameworks – Lifehacks for Developers by Eduards Sizovs](https://sizovs.net/2018/12/17/stop-learning-frameworks)
+* **Web site excerpt:** Without reading this, I know I totally agree!
+
+* **Link to site:** **[Stop Learning Frameworks – Lifehacks for Developers by Eduards Sizovs](https://sizovs.net/2018/12/17/stop-learning-frameworks)**

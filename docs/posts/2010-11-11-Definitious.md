@@ -19,4 +19,4 @@ version](<http://www.brandeis.edu/jbs/r2011programs/mobileapps/index.html>) of
 the course for this coming summer. It's going to be even better!
 
 
-[Definitious](None)
+* **Link to site:** **[Definitious](None)**

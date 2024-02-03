@@ -31,4 +31,4 @@ feeding […], 3. Newspaper ego […]" ( **from**
 [wikipedia](<http://technorati.com/tag/wikipedia>)
 
 
-[What if we all vote on the truth, part 3](None)
+* **Link to site:** **[What if we all vote on the truth, part 3](None)**

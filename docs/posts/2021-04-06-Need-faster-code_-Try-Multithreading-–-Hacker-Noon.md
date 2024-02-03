@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - runtimes jruby mri concurrency ruby tips
 ---
-<img src=https://hackernoon.com/hn-images/0*Y9UVar3ATIDrWsVq.jpg width="500">
+<img class="cover" src=https://hackernoon.com/hn-images/0*Y9UVar3ATIDrWsVq.jpg>
 
 
 
-(**Web site excerpt:** More nice information about multithreading and concurrency in Ruby) 
-[Need faster code? Try Multithreading – Hacker Noon](https://hackernoon.com/need-faster-code-try-multithreading-5dc30c83837c)
+* **Web site excerpt:** More nice information about multithreading and concurrency in Ruby
+
+* **Link to site:** **[Need faster code? Try Multithreading – Hacker Noon](https://hackernoon.com/need-faster-code-try-multithreading-5dc30c83837c)**

@@ -31,4 +31,4 @@ font**? Nah I don't think so. **Carbon copies** anyone?
 [typewriter](<http://www.technorati.com/tag/typewriter>)
 
 
-[Can you believe these dudes still use typewriters?](None)
+* **Link to site:** **[Can you believe these dudes still use typewriters?](None)**

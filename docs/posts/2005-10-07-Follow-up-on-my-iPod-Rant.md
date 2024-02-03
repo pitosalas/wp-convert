@@ -39,4 +39,4 @@ on the nano. Funny.
 >> Technorati Tags: [iPod](<http://www.technorati.com/tag/iPod>)
 
 
-[Follow-up on my iPod Rant](None)
+* **Link to site:** **[Follow-up on my iPod Rant](None)**

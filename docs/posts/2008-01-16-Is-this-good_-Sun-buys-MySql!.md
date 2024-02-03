@@ -28,4 +28,4 @@ Journal:](<http://online.wsj.com/article/SB120049014746494511.html?mod=hps_us_wh
 > about-tearing-down-wsjcoms-subscription-wall/>)
 
 
-[Is this good? Sun buys MySql!](None)
+* **Link to site:** **[Is this good? Sun buys MySql!](None)**

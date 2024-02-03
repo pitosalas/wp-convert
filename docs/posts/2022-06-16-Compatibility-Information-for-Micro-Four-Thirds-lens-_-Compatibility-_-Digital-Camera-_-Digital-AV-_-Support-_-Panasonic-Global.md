@@ -14,7 +14,7 @@ tags:
     - compatibility
     - OIS
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Fav.jpn.support.panasonic.com%2Fsupport%2Fglobal%2Fcs%2Fdsc%2Fconnect%2FMicroFourThirds_lens.html width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fav.jpn.support.panasonic.com%2Fsupport%2Fglobal%2Fcs%2Fdsc%2Fconnect%2FMicroFourThirds_lens.html>
 
 
-[Compatibility Information for Micro Four Thirds lens | Compatibility | Digital Camera | Digital AV | Support | Panasonic Global](https://av.jpn.support.panasonic.com/support/global/cs/dsc/connect/MicroFourThirds_lens.html)
+* **Link to site:** **[Compatibility Information for Micro Four Thirds lens | Compatibility | Digital Camera | Digital AV | Support | Panasonic Global](https://av.jpn.support.panasonic.com/support/global/cs/dsc/connect/MicroFourThirds_lens.html)**

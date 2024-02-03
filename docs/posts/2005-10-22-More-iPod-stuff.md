@@ -29,4 +29,4 @@ comments-pitofake.cgi?entry_id=895>)on [my post
 that he didn't write about it because of my post. **Duh**.)
 
 
-[More iPod stuff](None)
+* **Link to site:** **[More iPod stuff](None)**

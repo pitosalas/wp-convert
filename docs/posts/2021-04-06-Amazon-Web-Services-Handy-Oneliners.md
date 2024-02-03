@@ -9,9 +9,10 @@ tags:
     - aws
     - howto
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Fadayinthelifeof.nl%2F2020%2F05%2F20%2Faws.html width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fadayinthelifeof.nl%2F2020%2F05%2F20%2Faws.html>
 
 
 
-(**Web site excerpt:** Great one line explanations of all the millions of AWS services.) 
-[Amazon Web Services Handy Oneliners](https://adayinthelifeof.nl/2020/05/20/aws.html)
+* **Web site excerpt:** Great one line explanations of all the millions of AWS services.
+
+* **Link to site:** **[Amazon Web Services Handy Oneliners](https://adayinthelifeof.nl/2020/05/20/aws.html)**

@@ -16,4 +16,4 @@ site](<http://www.panoramas.dk/>) actually is an archive of all kinds of cool
 360 degree panoramas!
 
 
-[Some amazing (Mars) panoramas. This](None)
+* **Link to site:** **[Some amazing (Mars) panoramas. This](None)**

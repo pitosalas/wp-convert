@@ -30,4 +30,4 @@ I suppose it was **inevitable**.
 aggregator could **strip them out**?
 
 
-[RSS Feed Advertising](None)
+* **Link to site:** **[RSS Feed Advertising](None)**

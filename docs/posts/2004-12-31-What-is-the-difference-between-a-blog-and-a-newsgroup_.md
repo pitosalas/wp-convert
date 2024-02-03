@@ -30,4 +30,4 @@ because you are **interested** in a particular **author 's **point of view.
 shades of grey in between.
 
 
-[What is the difference between a blog and a newsgroup?](None)
+* **Link to site:** **[What is the difference between a blog and a newsgroup?](None)**

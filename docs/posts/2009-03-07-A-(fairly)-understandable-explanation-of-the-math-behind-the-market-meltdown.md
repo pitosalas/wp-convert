@@ -24,4 +24,4 @@ pop-math-head like me you will find it interesting:
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[A (fairly) understandable explanation of the math behind the market meltdown](None)
+* **Link to site:** **[A (fairly) understandable explanation of the math behind the market meltdown](None)**

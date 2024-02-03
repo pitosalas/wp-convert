@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Ruby
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[WxRubyWiki: WxRuby](http://wxruby.rubyforge.org/wiki/wiki.pl)
+* **Link to site:** **[WxRubyWiki: WxRuby](http://wxruby.rubyforge.org/wiki/wiki.pl)**

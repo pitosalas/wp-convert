@@ -40,4 +40,4 @@ date: 2006-12-29
 > support](<http://feeds.tuaw.com/~r/weblogsinc/tuaw/~3/68102824/>))
 
 
-[OMG: Lotus Notes still alive and kicking ?](None)
+* **Link to site:** **[OMG: Lotus Notes still alive and kicking ?](None)**

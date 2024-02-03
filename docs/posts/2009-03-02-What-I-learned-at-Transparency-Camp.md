@@ -45,4 +45,4 @@ its entirety**. But here's the opening paragraph:
 > Government](<http://www.whitehouse.gov/the_press_office/TransparencyandOpenGovernment/>))
 
 
-[What I learned at Transparency Camp](None)
+* **Link to site:** **[What I learned at Transparency Camp](None)**

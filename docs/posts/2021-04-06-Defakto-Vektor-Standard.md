@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - watches automatic
 ---
-<img src= width="500">
+<img class="cover" src=>
 
 
-[Defakto Vektor Standard](https://www.defakto-watches.com/watches/vektor/standard/632)
+* **Link to site:** **[Defakto Vektor Standard](https://www.defakto-watches.com/watches/vektor/standard/632)**

@@ -35,4 +35,4 @@ conclusion by a slightly different route:
 So, go learn JavaScript. Y **ou will need it for your next job.**
 
 
-[[GEEKY] JavaScript – Universal Language of the Future](None)
+* **Link to site:** **[[GEEKY] JavaScript – Universal Language of the Future](None)**

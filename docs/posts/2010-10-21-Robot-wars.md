@@ -42,4 +42,4 @@ Pakistan"](<http://www.nytimes.com/2010/10/20/opinion/20khalilzad.html?hp>)
 > Times](<http://www.nytimes.com/2010/10/20/opinion/20khalilzad.html?hp>))
 
 
-[Robot wars](None)
+* **Link to site:** **[Robot wars](None)**

@@ -25,4 +25,4 @@ post](<http://feeds.feedburner.com/~r/FreakonomicsBlog/~3/128698530/>) from
 Read the article, it poses an interesting connundrum.
 
 
-[Interesting article about buying and selling real estate: “Another Look at ‘Sellers’ Concessions’ in Real Estate”](None)
+* **Link to site:** **[Interesting article about buying and selling real estate: “Another Look at ‘Sellers’ Concessions’ in Real Estate”](None)**

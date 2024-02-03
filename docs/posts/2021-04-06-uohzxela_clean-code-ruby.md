@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - cleancode code concepts
 ---
-<img src=https://avatars.githubusercontent.com/u/4747352?s=400&v=4 width="500">
+<img class="cover" src=https://avatars.githubusercontent.com/u/4747352?s=400&v=4>
 
 
 
-(**Web site excerpt:** Nice summary of good coding practices. Ruby specific.) 
-[uohzxela/clean-code-ruby](https://github.com/uohzxela/clean-code-ruby)
+* **Web site excerpt:** Nice summary of good coding practices. Ruby specific.
+
+* **Link to site:** **[uohzxela/clean-code-ruby](https://github.com/uohzxela/clean-code-ruby)**

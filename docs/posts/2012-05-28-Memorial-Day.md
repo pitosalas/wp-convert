@@ -22,4 +22,4 @@ Blog](<http://atwar.blogs.nytimes.com/2012/05/25/as-memorial-day-nears-a-
 single-image-that-continues-to-haunt/>))_
 
 
-[Memorial Day](None)
+* **Link to site:** **[Memorial Day](None)**

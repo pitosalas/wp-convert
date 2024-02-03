@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Weather
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fwww.stanford.edu%2Fclass%2Fcs142%2Fcgi-bin%2Findex.php width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.stanford.edu%2Fclass%2Fcs142%2Fcgi-bin%2Findex.php>
 
 
-[CS 142: Web Applications](http://www.stanford.edu/class/cs142/cgi-bin/index.php)
+* **Link to site:** **[CS 142: Web Applications](http://www.stanford.edu/class/cs142/cgi-bin/index.php)**

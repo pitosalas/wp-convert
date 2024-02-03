@@ -33,4 +33,4 @@ to any Enthusiasm 🙂
 [gasoline](<http://www.technorati.com/tag/gasoline>)
 
 
-[[QUASI-GEEK]A trip to the market](None)
+* **Link to site:** **[[QUASI-GEEK]A trip to the market](None)**

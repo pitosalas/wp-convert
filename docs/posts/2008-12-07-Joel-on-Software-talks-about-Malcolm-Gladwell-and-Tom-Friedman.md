@@ -76,4 +76,4 @@ himself (or Himself) is falling into this trap himself:
 malcolmgladwell](<http://technorati.com/tag/joelonsoftware%20thomasfriedman%20malcolmgladwell>)
 
 
-[Joel on Software talks about Malcolm Gladwell and Tom Friedman](None)
+* **Link to site:** **[Joel on Software talks about Malcolm Gladwell and Tom Friedman](None)**

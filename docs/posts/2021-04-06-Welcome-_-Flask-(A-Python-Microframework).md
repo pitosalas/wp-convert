@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - framework tutorial python
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fflask.pocoo.org width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fflask.pocoo.org>
 
 
 
-(**Web site excerpt:** Wow, this looks just like Sinatra. If you want to build a quick web server this is the tool for you!) 
-[Welcome | Flask (A Python Microframework)](http://flask.pocoo.org)
+* **Web site excerpt:** Wow, this looks just like Sinatra. If you want to build a quick web server this is the tool for you!
+
+* **Link to site:** **[Welcome | Flask (A Python Microframework)](http://flask.pocoo.org)**

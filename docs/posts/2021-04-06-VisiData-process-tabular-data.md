@@ -11,9 +11,10 @@ tags:
     - visualize
     - spreadsheet
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Fwww.visidata.org%2Finstall width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.visidata.org%2Finstall>
 
 
 
-(**Web site excerpt:** brew tap saulpw/vd And run it by just typing vd) 
-[VisiData process tabular data](https://www.visidata.org/install)
+* **Web site excerpt:** brew tap saulpw/vd And run it by just typing vd
+
+* **Link to site:** **[VisiData process tabular data](https://www.visidata.org/install)**

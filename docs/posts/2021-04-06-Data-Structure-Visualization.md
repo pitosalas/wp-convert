@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - visualization programming data-structures computer-science algorithm
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fwww.cs.usfca.edu%2F~galles%2Fvisualization%2FAlgorithms.html width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.cs.usfca.edu%2F~galles%2Fvisualization%2FAlgorithms.html>
 
 
-[Data Structure Visualization](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+* **Link to site:** **[Data Structure Visualization](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)**

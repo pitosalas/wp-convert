@@ -21,4 +21,4 @@ I tried the first two, but the third looks cool too. I liked Facebox the best.
 Your mileage may/will vary.
 
 
-[[Geeky] Doing popups in Rails and elsewhere](None)
+* **Link to site:** **[[Geeky] Doing popups in Rails and elsewhere](None)**

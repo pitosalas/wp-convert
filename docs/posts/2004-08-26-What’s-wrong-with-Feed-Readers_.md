@@ -28,4 +28,4 @@ the ideas mentioned here are already planned for BlogBridge, but there are
 lots of good tidbits to insipre further work!
 
 
-[What’s wrong with Feed Readers?](None)
+* **Link to site:** **[What’s wrong with Feed Readers?](None)**

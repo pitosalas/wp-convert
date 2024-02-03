@@ -17,4 +17,4 @@ date: 2006-12-08
 >  Ruby](<http://www.therailsway.com/2006/12/8/idiomatic-ruby>).
 
 
-[Good article about idiomatic Ruby](None)
+* **Link to site:** **[Good article about idiomatic Ruby](None)**

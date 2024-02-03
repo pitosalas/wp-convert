@@ -27,4 +27,4 @@ survey.](<http://www.surveymonkey.com/Users/70157786/Surveys/665601347079/3BE2D8
 [enterprise](<http://www.technorati.com/tag/enterprise>)
 
 
-[Help us find out what’s going on in enterprise blogging](None)
+* **Link to site:** **[Help us find out what’s going on in enterprise blogging](None)**

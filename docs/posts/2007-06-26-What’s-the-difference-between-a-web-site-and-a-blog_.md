@@ -11,4 +11,4 @@ introduction to the topic. Check out ["The difference between a web site and a
 blog" ](<http://www.squidoo.com/differenceblogandwebsite/>)on Squidoo.
 
 
-[What’s the difference between a web site and a blog?](None)
+* **Link to site:** **[What’s the difference between a web site and a blog?](None)**

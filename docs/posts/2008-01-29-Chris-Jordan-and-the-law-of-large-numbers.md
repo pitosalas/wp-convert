@@ -20,4 +20,4 @@ Magazine.](<http://www.portfolio.com/interactive-features/2007/12/running-the-
 numbers> "number chris jordan")
 
 
-[Chris Jordan and the law of large numbers](None)
+* **Link to site:** **[Chris Jordan and the law of large numbers](None)**

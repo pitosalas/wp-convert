@@ -10,9 +10,10 @@ tags:
     - kubernetes
     - raspi
 ---
-<img src=https://miro.medium.com/max/1200/0*xb7XVWvwhkpccXpY width="500">
+<img class="cover" src=https://miro.medium.com/max/1200/0*xb7XVWvwhkpccXpY>
 
 
 
-(**Web site excerpt:** There are a lot of reasons why you might want to have your personal Kubernetes cluster. Personally, I like building my own tools and…) 
-[The Ultimate Guide to Building Your Personal K3S Cluster](https://itnext.io/the-ultimate-guide-to-building-your-personal-k3s-cluster-bf2643f31dd3)
+* **Web site excerpt:** There are a lot of reasons why you might want to have your personal Kubernetes cluster. Personally, I like building my own tools and…
+
+* **Link to site:** **[The Ultimate Guide to Building Your Personal K3S Cluster](https://itnext.io/the-ultimate-guide-to-building-your-personal-k3s-cluster-bf2643f31dd3)**

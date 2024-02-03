@@ -12,9 +12,10 @@ tags:
     - hash
     - howto
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Fwww.the-paper-trail.org%2Fpost%2Fart-paper-notes width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.the-paper-trail.org%2Fpost%2Fart-paper-notes>
 
 
 
-(**Web site excerpt:** Inter3sting variations on tries) 
-[Beating hash tables with trees? The ART-ful radix trie](https://www.the-paper-trail.org/post/art-paper-notes)
+* **Web site excerpt:** Inter3sting variations on tries
+
+* **Link to site:** **[Beating hash tables with trees? The ART-ful radix trie](https://www.the-paper-trail.org/post/art-paper-notes)**

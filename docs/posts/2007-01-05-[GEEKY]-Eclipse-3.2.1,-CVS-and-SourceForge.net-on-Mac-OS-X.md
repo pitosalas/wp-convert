@@ -39,4 +39,4 @@ date: 2007-01-05
 > Thanks for listening.
 
 
-[[GEEKY] Eclipse 3.2.1, CVS and SourceForge.net on Mac OS X](None)
+* **Link to site:** **[[GEEKY] Eclipse 3.2.1, CVS and SourceForge.net on Mac OS X](None)**

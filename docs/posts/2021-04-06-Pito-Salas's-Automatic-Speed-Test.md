@@ -6,9 +6,10 @@ link: "https://testmy.net/auto?callInfo=1&r_time=1&schVar1="
 cover: "https://tmnstatic.com/images/tmn-icon-128B-min.png" 
 date: 2021-04-06
 ---
-<img src=https://tmnstatic.com/images/tmn-icon-128B-min.png width="500">
+<img class="cover" src=https://tmnstatic.com/images/tmn-icon-128B-min.png>
 
 
 
-(**Web site excerpt:** Monitor and graph your Internet connection speed over time with this automatic speed test.) 
-[Pito Salas's Automatic Speed Test](https://testmy.net/auto?callInfo=1&r_time=1&schVar1=)
+* **Web site excerpt:** Monitor and graph your Internet connection speed over time with this automatic speed test.
+
+* **Link to site:** **[Pito Salas's Automatic Speed Test](https://testmy.net/auto?callInfo=1&r_time=1&schVar1=)**

@@ -24,4 +24,4 @@ would ban Java/Swing applications. If anyone has real information about this,
 please let me know!
 
 
-[Will the App Store Accept Java Applications?](None)
+* **Link to site:** **[Will the App Store Accept Java Applications?](None)**

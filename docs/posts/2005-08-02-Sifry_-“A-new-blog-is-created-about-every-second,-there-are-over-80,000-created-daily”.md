@@ -49,4 +49,4 @@ for lots of other **interesting tidbits**!
 [technorati](<http://technorati.com/tag/technorati>)
 
 
-[Sifry: “A new blog is created about every second, there are over 80,000 created daily”](None)
+* **Link to site:** **[Sifry: “A new blog is created about every second, there are over 80,000 created daily”](None)**

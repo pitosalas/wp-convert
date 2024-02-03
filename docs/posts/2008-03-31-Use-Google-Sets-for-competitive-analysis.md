@@ -55,4 +55,4 @@ Technorati Tags: [blogbridge](<http://technorati.com/tag/blogbridge>),
 [competitive analysis](<http://technorati.com/tag/competitive%20analysis>)
 
 
-[Use Google Sets for competitive analysis](None)
+* **Link to site:** **[Use Google Sets for competitive analysis](None)**

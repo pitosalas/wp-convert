@@ -20,4 +20,4 @@ expect."
 > Technorati Tags: [PHP](<http://www.technorati.com/tag/PHP>)
 
 
-[[GEEKY] BostonPHP Meeting: Ajax Update](None)
+* **Link to site:** **[[GEEKY] BostonPHP Meeting: Ajax Update](None)**

@@ -19,4 +19,4 @@ to checking manually every day or so. (You can see it annoyed me sufficiently
 to bother writing this 🙂
 
 
-[[geeky] Google Groups missing key functionality](None)
+* **Link to site:** **[[geeky] Google Groups missing key functionality](None)**

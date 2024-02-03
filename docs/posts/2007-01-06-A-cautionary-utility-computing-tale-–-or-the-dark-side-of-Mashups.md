@@ -53,4 +53,4 @@ tale](<http://feeds.feedburner.com/~r/zdnet/BTL/~3/71375022/>))
 > [web2.0](<http://www.technorati.com/tag/web2.0>)
 
 
-[A cautionary utility computing tale – or the dark side of Mashups](None)
+* **Link to site:** **[A cautionary utility computing tale – or the dark side of Mashups](None)**

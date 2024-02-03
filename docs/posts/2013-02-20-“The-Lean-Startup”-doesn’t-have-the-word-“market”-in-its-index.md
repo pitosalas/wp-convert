@@ -19,4 +19,4 @@ using it as a "textbook" for the Entrepreneurship course I am teaching at
 Oddly enough, I couldn't find the word "market" in the index.
 
 
-[“The Lean Startup” doesn’t have the word “market” in its index](None)
+* **Link to site:** **[“The Lean Startup” doesn’t have the word “market” in its index](None)**

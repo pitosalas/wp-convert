@@ -13,9 +13,10 @@ tags:
     - guide
     - howto
 ---
-<img src=https://i.ytimg.com/vi/kPzy3fXY7X0/maxresdefault.jpg width="500">
+<img class="cover" src=https://i.ytimg.com/vi/kPzy3fXY7X0/maxresdefault.jpg>
 
 
 
-(**Web site excerpt:** ▪ ROS Online Course: This ROS course is a ROS robot programming guide based on the experiences we had accumulated from ROS projects like TurtleBot3, OpenCR a...) 
-[Chapter 09 Embedded System](https://www.youtube.com/watch?v=kPzy3fXY7X0)
+* **Web site excerpt:** ▪ ROS Online Course: This ROS course is a ROS robot programming guide based on the experiences we had accumulated from ROS projects like TurtleBot3, OpenCR a...
+
+* **Link to site:** **[Chapter 09 Embedded System](https://www.youtube.com/watch?v=kPzy3fXY7X0)**

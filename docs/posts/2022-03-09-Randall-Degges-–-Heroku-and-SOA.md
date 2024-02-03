@@ -17,4 +17,4 @@ service oriented web app, you might find this interesting.
 March 10, 2022 at 12:16AM
 
 
-[Randall Degges – Heroku and SOA](None)
+* **Link to site:** **[Randall Degges – Heroku and SOA](None)**

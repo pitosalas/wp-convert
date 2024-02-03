@@ -14,4 +14,4 @@ blog, ["Seeing both sides."](<http://www.bostonvcblog.com/>) He's off to a
 great start!
 
 
-[Another VC is blogging – what’s going on?](None)
+* **Link to site:** **[Another VC is blogging – what’s going on?](None)**

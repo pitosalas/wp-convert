@@ -24,4 +24,4 @@ at [BlogBridge's Guide of Facebook blogs and
 feeds](<http://library.blogbridge.com/folder/13069-world-of-facebook>)]
 
 
-[10 Commandments might apply to more than just Facebook!](None)
+* **Link to site:** **[10 Commandments might apply to more than just Facebook!](None)**

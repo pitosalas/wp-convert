@@ -32,4 +32,4 @@ It's a good argument. Here's a semi random thoughtful bit:
 > future-t.html?_r=1&pagewanted=all>))
 
 
-[Kevin Kelly writes about pervasive (or is it ubiquitous) screens](None)
+* **Link to site:** **[Kevin Kelly writes about pervasive (or is it ubiquitous) screens](None)**

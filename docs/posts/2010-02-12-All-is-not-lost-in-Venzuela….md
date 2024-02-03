@@ -11,4 +11,4 @@ date: 2010-02-12
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-[All is not lost in Venzuela…](None)
+* **Link to site:** **[All is not lost in Venzuela…](None)**

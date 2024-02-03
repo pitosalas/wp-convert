@@ -22,4 +22,4 @@ image-spam/> "A Mail.app rule for catching image spam - The Unofficial Apple
 Weblog \(TUAW\)")
 
 
-[Mail rule to catch image spam](None)
+* **Link to site:** **[Mail rule to catch image spam](None)**

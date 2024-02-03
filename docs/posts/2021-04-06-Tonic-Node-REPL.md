@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - repl node
 ---
-<img src=https://rdl.ink/render/https%3A%2F%2Frunkit.com%2Fpitosalas%2F5602bf254821830c00fe2a4d width="500">
+<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Frunkit.com%2Fpitosalas%2F5602bf254821830c00fe2a4d>
 
 
 
-(**Web site excerpt:** RunKit notebooks are interactive javascript playgrounds connected to a complete node environment right in your browser. Every npm module pre-installed.) 
-[Tonic Node REPL](https://runkit.com/pitosalas/5602bf254821830c00fe2a4d)
+* **Web site excerpt:** RunKit notebooks are interactive javascript playgrounds connected to a complete node environment right in your browser. Every npm module pre-installed.
+
+* **Link to site:** **[Tonic Node REPL](https://runkit.com/pitosalas/5602bf254821830c00fe2a4d)**

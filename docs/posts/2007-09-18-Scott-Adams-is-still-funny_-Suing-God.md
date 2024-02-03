@@ -21,4 +21,4 @@ Blog](<http://dilbertblog.typepad.com/the_dilbert_blog/>):
 > god.html>))
 
 
-[Scott Adams is still funny: Suing God](None)
+* **Link to site:** **[Scott Adams is still funny: Suing God](None)**

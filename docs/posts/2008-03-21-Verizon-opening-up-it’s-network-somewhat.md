@@ -27,4 +27,4 @@ Does this allow the creation of a new class of device placed in homes or cars
 or what-not that uses the cell network as it's backbone?
 
 
-[Verizon opening up it’s network somewhat](None)
+* **Link to site:** **[Verizon opening up it’s network somewhat](None)**

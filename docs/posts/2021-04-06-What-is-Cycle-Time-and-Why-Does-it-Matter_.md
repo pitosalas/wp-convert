@@ -6,9 +6,10 @@ link: "https://codeclimate.com/blog/software-engineering-cycle-time?__s=fzzssq55
 cover: "https://codeclimate.com/blog/wp-content/uploads/2018/11/annie-spratt-dWYU3i-mqEo-unsplash.jpg" 
 date: 2021-04-06
 ---
-<img src=https://codeclimate.com/blog/wp-content/uploads/2018/11/annie-spratt-dWYU3i-mqEo-unsplash.jpg width="500">
+<img class="cover" src=https://codeclimate.com/blog/wp-content/uploads/2018/11/annie-spratt-dWYU3i-mqEo-unsplash.jpg>
 
 
 
-(**Web site excerpt:** An interesting concept related to agile planning, and velocity. Useful.) 
-[What is Cycle Time and Why Does it Matter?](https://codeclimate.com/blog/software-engineering-cycle-time?__s=fzzssq55zd58mvijpssx)
+* **Web site excerpt:** An interesting concept related to agile planning, and velocity. Useful.
+
+* **Link to site:** **[What is Cycle Time and Why Does it Matter?](https://codeclimate.com/blog/software-engineering-cycle-time?__s=fzzssq55zd58mvijpssx)**

@@ -46,4 +46,4 @@ date: 2006-12-23
 > feed-platform-patent-review.html>))
 
 
-[In-depth analysis of Microsoft content syndication platform patent application](None)
+* **Link to site:** **[In-depth analysis of Microsoft content syndication platform patent application](None)**

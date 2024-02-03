@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - handmade gift
 ---
-<img src=https://rdl.ink/render/http%3A%2F%2Fwww.uncommongoods.com%2Fgifts%2Fby-recipient%2Fhand-made width="500">
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.uncommongoods.com%2Fgifts%2Fby-recipient%2Fhand-made>
 
 
-[Handmade by recipient | UncommonGoods](http://www.uncommongoods.com/gifts/by-recipient/hand-made)
+* **Link to site:** **[Handmade by recipient | UncommonGoods](http://www.uncommongoods.com/gifts/by-recipient/hand-made)**

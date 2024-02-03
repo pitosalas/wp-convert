@@ -35,4 +35,4 @@ if it had come out 5 months ago:
 > Bandits](<http://www.nytimes.com/2009/05/31/opinion/31kristof.html?_r=1&ref=opinion>))
 
 
-[Wandering through Asia](None)
+* **Link to site:** **[Wandering through Asia](None)**
