@@ -2,11 +2,11 @@ import json
 from time import sleep
 import requests
 import os
-SECURITY_TOKEN = os.getenv("SECURITY_TOKEN")
-print("******")
-print(SECURITY_TOKEN)
-print("******")
-headers = {
+class RaindropApiImport:
+    def __init__(self):
+        self.sec_token = os.getenv("SECURITY_TOKEN")
+        print(f"*********** Sec token: {self.sec_token})
+        self.headers = {
             'Accept': 'application/json',
             'User-Agent': 'Safari',
             'Authorization': SECURITY_TOKEN
@@ -14,14 +14,13 @@ headers = {
         
         }
 
-class RaindropApiImport:
-    def __init__(self):
+
         self.drops = {}
         self.topcolid = None
 
     def retrieve_top_collection_id(self):
         url = "https://api.raindrop.io/rest/v1/collections"
-        response = requests.get(url, headers=headers)
+        response = requests.get(url, headers=self.headers)
         resp_json = response.json()['items'][0]
         self.topcolid = resp_json["_id"]
 
@@ -32,7 +31,7 @@ class RaindropApiImport:
         drops = 0
         while True:
             params = { 'page': page }
-            response = requests.get(url, headers=headers, params=params)
+            response = requests.get(url, headers=self.headers, params=params)
             if response.status_code != 200 or len(response.json()["items"]) == 0:
                 print(f"""Breaking loop because: {response.status_code}""")
                 break
