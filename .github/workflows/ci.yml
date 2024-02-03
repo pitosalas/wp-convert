@@ -4,11 +4,13 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 0,12 * * *'
 permissions:
   contents: write
 jobs:
   deploy:
+    env:
+      SECURITY_TOKEN: ${{secrets.SECURITY_TOKEN}}    
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -30,10 +32,7 @@ jobs:
       - run: pip install mkdocs-awesome-pages-plugin
       - run: pip install mkdocs-section-index
       - run: pip install html2text
-      - run: python wpimport.py
       - run: python tagsimport.py
       - run: python raindrop_api_import.py
       - run: python blogbuild_v2.py
       - run: mkdocs gh-deploy --force
-    env:
-      SECURITY_TOKEN: ${{ secrets.SECURITY_TOKEN }}
