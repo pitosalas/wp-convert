@@ -3,7 +3,9 @@ from time import sleep
 import requests
 import os
 SECURITY_TOKEN = os.getenv("SECURITY_TOKEN")
+print("******")
 print(SECURITY_TOKEN)
+print("******")
 headers = {
             'Accept': 'application/json',
             'User-Agent': 'Safari',
