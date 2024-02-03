@@ -97,8 +97,13 @@
                         </time>
                       </div>
                     </li>
-                    <li class="md-nav__item">Link: 
-                      <a href="{{ page.meta.link }}>{{ page.meta.title }}</a>
+                    <li class="md-nav__item">
+                      <div class="md-nav__link">
+                        {% include ".icons/material/link.svg" %}
+                        <span class="md-ellipsis>
+                          <a href="{{ page.meta.link }}">{{ page.meta.title }}</a>
+                        </span>
+                      </div>
                     </li>
 
                     <!-- Post date updated -->
