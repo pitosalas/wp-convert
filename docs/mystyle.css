@@ -21,3 +21,8 @@
 .md-typeset ol li, .md-typeset ul li {
   margin-bottom: 0px;
 }
+
+img.cover {
+    float: left;
+    margin-right: 15px; /* Adds space between the text and the image */
+}}
