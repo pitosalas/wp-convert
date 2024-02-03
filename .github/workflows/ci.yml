@@ -10,7 +10,7 @@ permissions:
 jobs:
   deploy:
     env:
-      SECURITY_TOKEN: ${{secrets.SECURITY_TOKEN}}    
+      RAINDROP_TOKEN: ${{secrets.RAINDROP_TOKEN}}    
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

@@ -4,7 +4,7 @@ import requests
 import os
 class RaindropApiImport:
     def __init__(self):
-        self.sec_token = os.getenv("SECURITY_TOKEN")
+        self.sec_token = os.getenv("RAINDROP_TOKEN")
         print(f"*********** Sec token: {self.sec_token}")
         self.headers = {
             'Accept': 'application/json',
