@@ -23,6 +23,6 @@
 }
 
 img.cover {
-    float: left;
-    margin-right: 15px; /* Adds space between the text and the image */
+    float: right;
+    margin-left: 15px; /* Adds space between the text and the image */
 }}
