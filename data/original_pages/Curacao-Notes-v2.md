@@ -34,7 +34,6 @@ Driving is pretty easy. Google maps will work, better still if you download the 
 
 ### Things to do and see
 
-* [Alma Blau Art Gallery](https://museumsofcuracao.org/museum/gallery-alma-blou/) - Lovely local art gallery
 * [ATV Tours](https://www.atvbuggytours.com) - This is one of many. It is a popular activity but I've never tried it myself. Remember it is very hot and the sun is always out. So keep that in mind.
 * [Black Sand Beach](https://curacao.for91days.com/the-black-sand-beach-of-santu-pretu/) - Kind of cool but not as black as the Hawaii black sand beaches.
 * [Blue Room](https://adventuretourscuracao.com/tour/curacao-blue-room-tour/) - Unique snorkling spot. Only accessible by water. You take a boat tour out to it and then jump in. Memorable. 
@@ -92,7 +91,7 @@ You will see standard "American" food, or "French" food. You will also see Indon
 * [Restaurant Omundo](https://omundocuracao.com). In the "suburbs". A nice kind of hip restaurant recently under new management.
 * [Roebi's Eethuisje](https://www.facebook.com/p/Roebis-Eethuisje-Churchill-plaza-100063484929861/) - for casual Indonesian food at zuikertuintje.
 * [San Tropez Restaurant](https://www.sainttropezcuracao.com/eat/restaurant-ocean-club/) - In the hip neighborhood of "Pietermaai". All white, bright, kind of Euro-cool. Very blue swimming pool. Along the ocean on the south. Try the fish tacos, they are awesome.
-* [Soi95 Restaurant](https://soi95.com)
+* [Soi 95 Restaurant](https://soi95.com). Asian style food. Very popular!
 * VillaVis. No web site that I can find. Recommended by the locals. It is at the rotunda di Caracasbaai and is by the same owner as de Visserij in Piscaderabaai.  Closed Tuesdays and Wednesdays.}
 
 
