@@ -93,7 +93,7 @@ You will see standard "American" food, or "French" food. You will also see Indon
 * [Roebi's Eethuisje](https://www.facebook.com/p/Roebis-Eethuisje-Churchill-plaza-100063484929861/) - for casual Indonesian food at zuikertuintje.
 * [San Tropez Restaurant](https://www.sainttropezcuracao.com/eat/restaurant-ocean-club/) - In the hip neighborhood of "Pietermaai". All white, bright, kind of Euro-cool. Very blue swimming pool. Along the ocean on the south. Try the fish tacos, they are awesome.
 * [Soi95 Restaurant](https://soi95.com)
-* VIllaVis. No web site that I can find. Recommended by the locals. It is at the rotunda di Caracasbaai and is by the same owner as de Visserij in Piscaderabaai.  Closed Tuesdays and Wednesdays.}
+* VillaVis. No web site that I can find. Recommended by the locals. It is at the rotunda di Caracasbaai and is by the same owner as de Visserij in Piscaderabaai.  Closed Tuesdays and Wednesdays.}
 
 
 ## Not as good as they sound
