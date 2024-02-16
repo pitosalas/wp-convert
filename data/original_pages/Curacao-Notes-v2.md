@@ -25,7 +25,6 @@ Driving is pretty easy. Google maps will work, better still if you download the 
 
 ## Outside
 
-
 ### Must Do Site Seeing
 
 * [Snoa](https://snoa.com) - Mikve Israel Emmanuel Synagogue. You know, where I had my Bar Mitzvah. Very interesting building and history.
