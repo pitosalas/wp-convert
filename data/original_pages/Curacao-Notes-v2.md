@@ -105,6 +105,17 @@ the Ostrich Farm, so, who knows!
 * [Jaanchi](https://www.tripadvisor.com/ShowUserReviews-g1724323-d1046541-r16242388-Jaanchies_Restaurant-Sabana_Westpunt_Curacao.html)  (or Jan Kristian) restaurant
 * [Ostrich Farm](https://curacaoostrichfarm.com/?lang=en)
 
+## Diving
+
+The last time I went scuba diving was around 2020, so everything has changed and my info could be out of date. Basically all dive sites are really good and pretty similar. There are dive operations all over the place. Some are more professional than others. 
+
+For an operator that is on a beach (there are many) most will offer just shore dives. Some have a boat. The ones that operate from a hotel or developed area will often not have shore dives but will have one or two pretty big boats and they usually offer two dive packages, with a 1 hour or so stop at sea between them. They will give you water or juice or granola bars during the break. Getting in the water is easiest with a beach even if it is rocky. Next is off of one of the bigger boats although if the water is choppy you have to time your self to grab onto the ladder to get back on board which can be a little gnarly but very doable. THe crew on board is super helpful and qualified.I
+
+You can find any dive depth you want. The bottom falls off gradually and then fast. THere is a lot to see, corals and lots of fish etc. Sometimes there are man made objects like boats or cars etc to swim around. You can go by the name of the dive site realizing that they usually exaggerate what there is to see. Mushroom Forest is not really a forest for example.
+
+* superior producer - my favorite - about 100’ so on the deep side but really cool. Entry is a little gnarly but ok
+* tugboat - very very shallow. FIne to bring snorkelers along. They will enjoy it as much. There is a beach in Caracas Baai near Fort Beekenburg that is very close to it so you can swim out to it without paying for a boat if you want. But everyone goes to it.
+
 ## Money
 
 Things are priced in the Curaçao guilder and/or US Dollars. The exchange rate is pretty consistently $1.00 = NAf 1.75. Anything different is a little suspicious. Often you can ask to pay in one or the other.
