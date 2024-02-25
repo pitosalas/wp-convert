@@ -32,7 +32,7 @@ class TagsImport:
         self.tags = {}
 
     def retrieve_tags(self):
-        url = "http://www.salas.com/wp-json/wp/v2/tags"
+        url = "https://lit.cfv.mybluehost.me/wp-json/wp/v2/tags"
         headers = {"Accept": "application/json", "User-Agent": "Safari"}
         current_page = 1
         total_pages = None
