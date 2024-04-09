@@ -18,3 +18,6 @@ This page has a set of useful extra resources to complement my talk at the Robot
 
 → [Pito Salas Contact](mailto: rpsalas@brandeis.edu)
 
+![image](images/qrrie.jpg)
+
+
