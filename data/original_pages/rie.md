@@ -18,6 +18,8 @@ This page has a set of useful extra resources to complement my talk at the Robot
 
 → [Personal Blog](https://salas.com)
 
+→ [Papers referenced](https://www.semanticscholar.org/shared/library/folder/8723858?utm_source=direct_link)
+
 → [Pito Salas Contact](mailto: rpsalas@brandeis.edu)
 
 ![image](/images/qrrie.jpg)
