@@ -8,7 +8,7 @@ This page has a set of useful extra resources to complement my talk at the Robot
 
 → [Presentation Slides](https://docs.google.com/presentation/d/1k1g1jlDdkESRZw01iQPK4HVUCMieRc_rhHX4nLbEDUo/edit?usp=sharing)
 
-→ [Submitted Paper(/images/rie2024v3.pdf)]
+→ [Submitted Paper](/images/rie2024v3.pdf)
 
 → [Course Syllabus and complete content](http://cosi119r.s3-website-us-west-2.amazonaws.com)
 
