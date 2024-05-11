@@ -31,7 +31,11 @@ plugins:
       enabled: true
       tags: true
       tags_file: tags.md
-
+  - rss:
+      date_from_meta:
+        as_creation: date
+      categories:
+        - tags 
 nav:
   - Blog:
     - index.md

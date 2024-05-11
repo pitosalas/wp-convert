@@ -1,7 +1,7 @@
 import json
 import requests
 
-MAX_API_PAGES = 10000
+MAX_API_PAGES = 100
 
 class WpImport:
     def __init__(self):
@@ -10,7 +10,7 @@ class WpImport:
 
     def retrieve_posts(self):
         # Endpoint for the WordPress post API, replace with your WordPress site URL
-        url = "http://www.salas.com/wp-json/wp/v2/posts"
+        url = "https://lit.cfv.mybluehost.me/wp-json/wp/v2/posts"
         headers = {
             'Accept': 'application/json',
             'User-Agent': 'Safari'
@@ -40,10 +40,9 @@ class WpImport:
         post = self.drop_unneeded_keys(post)
         return(post)
 
-
     def retrieve_pages(self):
         # Endpoint for the WordPress post API, replace with your WordPress site URL
-        url = "http://www.salas.com/wp-json/wp/v2/pages"
+        url = "http://lit.cfv.mybluehost.me/wp-json/wp/v2/pages"
         headers = {
             'Accept': 'application/json',
             'User-Agent': 'Safari'
@@ -89,12 +88,12 @@ class WpImport:
 
     def save_posts(self):
         # save posts as a json file
-        with open('data/wp_posts.json', 'w') as outfile:
+        with open('data/wp_posts-test.json', 'w') as outfile:
             json.dump(self.posts, outfile)
 
     def save_pages(self):
         # save posts as a json file
-        with open('data/wp_pages.json', 'w') as outfile:
+        with open('data/wp_pages-test.json', 'w') as outfile:
             json.dump(self.pages, outfile)
 
     def run(self):

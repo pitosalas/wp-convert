@@ -32,6 +32,7 @@ jobs:
       - run: pip install mkdocs-awesome-pages-plugin
       - run: pip install mkdocs-section-index
       - run: pip install html2text
+      - run: pip install mkdocs-rss-plugin
       - run: python raindrop_api_import.py
       - run: python blogbuild_v2.py
       - run: mkdocs gh-deploy --force
