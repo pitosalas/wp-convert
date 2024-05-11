@@ -1,0 +1,19 @@
+---
+title: "Don't get locked up into avoiding lock-in"
+author: Pito Salas
+url: "https://martinfowler.com/articles/oss-lockin.html" 
+link: "https://martinfowler.com/articles/oss-lockin.html" 
+cover: "https://martinfowler.com/articles/oss-lockin/locks_card.jpg" 
+date: 2021-04-06
+tags:
+    - howto
+    - strategy
+    - lockin
+---
+<img class="cover" src=https://martinfowler.com/articles/oss-lockin/locks_card.jpg>
+
+
+
+* **Web site excerpt:** All the flabors of lockin explained.
+
+* **Link to site:** **[Don't get locked up into avoiding lock-in](https://martinfowler.com/articles/oss-lockin.html)**
