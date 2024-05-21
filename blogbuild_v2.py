@@ -65,11 +65,7 @@ class BlogBuild:
         self.generate_wp_posts()
         self.generate_wp_pages()
         self.incorporate_original_pages()
-<<<<<<< HEAD
         self.incorporate_original_posts()
-        # self.()
-=======
->>>>>>> d2dd8d9ca8637d2335cf7116e2b3df57414f8037
 
     def incorporate_original_pages(self):   
         self.copy_all_files(ORIGINAL_PAGES_DIRECTORY, PAGES_DIRECTORY)
