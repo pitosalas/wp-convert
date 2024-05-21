@@ -1,0 +1,20 @@
+---
+title: "How to Hide the MacBook Pro Notch"
+author: Pito Salas
+url: "https://www.macrumors.com/how-to/hide-notch-macbook-pro/?Bibblio_source=true" 
+link: "https://www.macrumors.com/how-to/hide-notch-macbook-pro/?Bibblio_source=true" 
+cover: "https://images.macrumors.com/t/c40LFa_HMYCrp51vMeAClco6VN4=/1600x/article-new/2021/10/macbook-pro-2021-notch-feature.jpg" 
+date: 2021-12-06
+tags:
+    - mbp
+    - notch
+    - app
+    - macos
+---
+<img class="cover" src=https://images.macrumors.com/t/c40LFa_HMYCrp51vMeAClco6VN4=/1600x/article-new/2021/10/macbook-pro-2021-notch-feature.jpg>
+
+
+
+* **Web site excerpt:** Apple's 2021 MacBook Pro models unexpectedly came with a display notch, or as Apple calls it, a camera housing, which sits dead center at the top...
+
+* **Link to site:** **[How to Hide the MacBook Pro Notch](https://www.macrumors.com/how-to/hide-notch-macbook-pro/?Bibblio_source=true)**

@@ -10,6 +10,8 @@ import shutil
 POSTS_DIRECTORY = "docs/posts"
 PAGES_DIRECTORY = "docs/pages"
 ORIGINAL_PAGES_DIRECTORY = "data/original_pages"
+ORIGINAL_POSTS_DIRECTORY = "data/original_posts"
+
 
 class BlogBuild:
     def __init__(self):
@@ -63,10 +65,15 @@ class BlogBuild:
         self.generate_wp_posts()
         self.generate_wp_pages()
         self.incorporate_original_pages()
+        self.incorporate_original_posts()
         # self.()
 
     def incorporate_original_pages(self):   
         self.copy_all_files(ORIGINAL_PAGES_DIRECTORY, PAGES_DIRECTORY)
+    
+    def incorporate_original_posts(self):
+        self.copy_all_files(ORIGINAL_POSTS_DIRECTORY, POSTS_DIRECTORY)
+
 
     def generate_wp_posts(self):
         count = 0

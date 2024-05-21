@@ -6,6 +6,10 @@ date: apr-2024
 
 This page has a set of useful extra resources to complement my talk at the Robots in Education conference in Koblenz, Germany, April 2024. All this material is free and open source and available for use and modification.
 
+→ [Presentation Slides](https://docs.google.com/presentation/d/1k1g1jlDdkESRZw01iQPK4HVUCMieRc_rhHX4nLbEDUo/edit?usp=sharing)
+
+→ [Submitted Paper](/images/rie2024v3.pdf)
+
 → [Course Syllabus and complete content](http://cosi119r.s3-website-us-west-2.amazonaws.com)
 
 → [Lab Notebook](https://campusrover.github.io/labnotebook2/)
@@ -14,10 +18,10 @@ This page has a set of useful extra resources to complement my talk at the Robot
 
 → [Personal Blog](https://salas.com)
 
-→ [Presentation Slides](https://docs.google.com/presentation/d/1k1g1jlDdkESRZw01iQPK4HVUCMieRc_rhHX4nLbEDUo/edit?usp=sharing)
+→ [Papers referenced](https://www.semanticscholar.org/shared/library/folder/8723858?utm_source=direct_link)
 
 → [Pito Salas Contact](mailto: rpsalas@brandeis.edu)
 
-![image](images/qrrie.jpg)
+![image](/images/qrrie.jpg)
 
 
