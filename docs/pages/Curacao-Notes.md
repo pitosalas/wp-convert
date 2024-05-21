@@ -163,8 +163,8 @@ there on Wednesday)
 
 >>
 
->> ![](https://i0.wp.com/salas.com/wp-
-content/uploads/2023/02/IMG_2804.jpeg?resize=584%2C438&ssl=1)
+>> ![](https://i0.wp.com/lit.cfv.mybluehost.me/wp-
+content/uploads/2023/02/IMG_2804.jpeg?resize=584%2C438)
 
 >>
 

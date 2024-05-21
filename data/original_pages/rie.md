@@ -1,6 +1,6 @@
 ---
 title: Robotics in Education 2024
-date: apr-2024
+date: 2024-04-12
 ---
 ## Lessons Learned: The Evolution of an Undergraduate Robotics Course in Computer Science
 

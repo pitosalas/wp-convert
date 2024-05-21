@@ -3,31 +3,32 @@ import requests
 
 MAX_API_PAGES = 10000
 MAP = {
-     "media":
+ "media":
+    {
+        "url": "http://lit.cfv.mybluehost.me/wp-json/wp/v2/media",
+        "file": "data/wp_scan_media.json",
+    },
+        "posts":
+    {
+        "url": "http://lit.cfv.mybluehost.me/wp-json/wp/v2/posts",
+        "file": "data/wp_scan_posts.json",
+    },
+        "pages":
+    {
+        "url": "http://lit.cfv.mybluehost.me/wp-json/wp/v2/pages",
+        "file": "data/wp_scan_pages.json",
+    },
+        "categories":
         {
-            "url": "http://www.salas.com/wp-json/wp/v2/media",
-            "file": "data/wp_scan_media.json",
+            "url": "http://lit.cfv.mybluehost.me/wp-json/wp/v2/categories",
+            "file": "data/wp_scan_taxonomies.json",
         },
-            "posts":
+                    "tags":
         {
-            "url": "http://www.salas.com/wp-json/wp/v2/posts",
-            "file": "data/wp_scan_posts.json",
-        },
-            "pages":
-        {
-            "url": "http://www.salas.com/wp-json/wp/v2/pages",
-            "file": "data/wp_scan_pages.json",
-        },
-            "blocks":
-        {
-            "url": "http://www.salas.com/wp-json/wp/v2/blocks",
-            "file": "data/wp_scan_blocks.json",
-        },
-            "taxonomies":
-        {
-            "url": "http://www.salas.com/wp-json/wp/v2/taxonomies",
+            "url": "http://lit.cfv.mybluehost.me/wp-json/wp/v2/tags",
             "file": "data/wp_scan_taxonomies.json",
         }
+
 }
 
  

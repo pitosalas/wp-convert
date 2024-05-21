@@ -98,9 +98,9 @@ will always forget to check!
 
 >>
 
->>   * [My own blog (this one)](<https://salas.com>) has evolved and changed a
-lot over the years. These days it's a pure link blog, where I post technical
-links that I have found intriguing and fascinating.
+>>   * [My own blog (this one)](<http://lit.cfv.mybluehost.me>) has evolved
+and changed a lot over the years. These days it's a pure link blog, where I
+post technical links that I have found intriguing and fascinating.
 
 >>   * [Changelog Weekly](<https://changelog.com/weekly>) covers the software
 and computer industry
