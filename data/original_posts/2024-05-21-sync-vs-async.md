@@ -1,5 +1,5 @@
 ---
-title: "Will remote teaching go all synchronous or all asynchronous?
+title: Will remote teaching go all synchronous or all asynchronous
 author: Pito Salas
 date: 2024-05-21
 tags:
