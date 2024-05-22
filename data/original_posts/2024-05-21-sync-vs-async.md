@@ -13,12 +13,12 @@ tags:
 
 I gave perplexity.ai a series of prompts narrowing down the topic and then asked it to write a two page article about it. I forced it to take a side although all along it was trying to say **It depends**. The final prompt was: 
 
-    A synthesized, fact-dense article that takes a strong stance towards synchronous remote learning, while also acknowledging the benefits of asynchronous learning.
+*A synthesized, fact-dense article that takes a strong stance towards synchronous remote learning, while also acknowledging the benefits of asynchronous learning.*
 
-What do you think? 
-
+* **What do you think?**
+<hr/>
 ## The Future of Remote Learning: A Strong Case for Synchronous Methods
-** By [Perplexity.ai](www.perplexity.ai)
+**By [Perplexity.ai](www.perplexity.ai)**
 
 As the landscape of education continues to evolve, the debate between synchronous and asynchronous remote learning has intensified. With advancements in internet connectivity and online learning platforms, synchronous remote learning is poised to become the dominant mode of education. This article presents a compelling case for why synchronous remote learning will outstrip asynchronous methods, supported by detailed references and data.
 
@@ -66,23 +66,24 @@ The evidence strongly supports the view that synchronous remote learning will ou
 This article provides a fact-dense, data-supported argument in favor of synchronous remote learning, while acknowledging the benefits of asynchronous methods.
 
 Citations:
-[1] https://gravitas.sbs.org/blog/benefits-of-online-synchronous-learning/
-[2] https://www.easygenerator.com/en/blog/e-learning/synchronous-learning-vs-asynchronous-learning/
-[3] https://www.panopto.com/blog/asynchronous-learning-explained-examples-benefits-and-more/
-[4] https://www.d2l.com/blog/guide-synchronous-vs-asynchronous-learning/
-[5] https://www.evisions.com/resources/blog/synchronous-vs-asynchronous-learning-whats-the-balance-for-success/
-[6] https://www.softwareadvice.com/resources/asynchronous-vs-synchronous-learning/
-[7] https://infobase.com/blog/synchronous-vs-asynchronous-learning-what-makes-them-different/
-[8] https://elmlearning.com/blog/synchronous-learning-advantages-disadvantages/
-[9] https://www.brynmawr.edu/news/asynchronous-vs-synchronous-learning-quick-overview
-[10] https://www.edsurge.com/news/2020-10-01-asynchronous-learning-or-live-lessons-which-one-works-better-for-me
-[11] https://www.waybook.com/blog/synchronous-vs-asynchronous-training-which-one-to-choose
-[12] https://online.njit.edu/blog-posts/synchronous-vs-asynchronous-online-learning-what%E2%80%99s-difference
-[13] https://edtechmagazine.com/higher/article/2021/10/changing-face-instruction-synchronous-vs-asynchronous-e-learning-perfcon
-[14] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8542673/
-[15] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10960437/
-[16] https://uwaterloo.ca/keep-learning/strategies-remote-teaching/synchronous-vs-asynchronous-online-learning
-[17] https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.733554/full
-[18] https://thebestschools.org/resources/synchronous-vs-asynchronous-programs-courses/
-[19] https://calt.umbc.edu/teaching/course-design-online/synchronous-vs-asynchronous-remote-instruction/
-[20] https://online.osu.edu/resources/learn/whats-difference-between-asynchronous-and-synchronous-learning
+
+1. https://gravitas.sbs.org/blog/benefits-of-online-synchronous-learning/
+2. https://www.easygenerator.com/en/blog/e-learning/synchronous-learning-vs-asynchronous-learning/
+3. https://www.panopto.com/blog/asynchronous-learning-explained-examples-benefits-and-more/
+4. https://www.d2l.com/blog/guide-synchronous-vs-asynchronous-learning/
+5. https://www.evisions.com/resources/blog/synchronous-vs-asynchronous-learning-whats-the-balance-for-success/
+6. https://www.softwareadvice.com/resources/asynchronous-vs-synchronous-learning/
+7. https://infobase.com/blog/synchronous-vs-asynchronous-learning-what-makes-them-different/
+1. https://elmlearning.com/blog/synchronous-learning-advantages-disadvantages/
+1. https://www.brynmawr.edu/news/asynchronous-vs-synchronous-learning-quick-overview
+1. https://www.edsurge.com/news/2020-10-01-asynchronous-learning-or-live-lessons-which-one-works-better-for-me
+1. https://www.waybook.com/blog/synchronous-vs-asynchronous-training-which-one-to-choose
+1. https://online.njit.edu/blog-posts/synchronous-vs-asynchronous-online-learning-what%E2%80%99s-difference
+1. https://edtechmagazine.com/higher/article/2021/10/changing-face-instruction-synchronous-vs-asynchronous-e-learning-perfcon
+1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8542673/
+1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10960437/
+1. https://uwaterloo.ca/keep-learning/strategies-remote-teaching/synchronous-vs-asynchronous-online-learning
+1. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.733554/full
+1. https://thebestschools.org/resources/synchronous-vs-asynchronous-programs-courses/
+1. https://calt.umbc.edu/teaching/course-design-online/synchronous-vs-asynchronous-remote-instruction/
+1.  https://online.osu.edu/resources/learn/whats-difference-between-asynchronous-and-synchronous-learning
