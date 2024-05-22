@@ -1,5 +1,5 @@
 ---
-title: The Future of Remote Learning: A Strong Case for Synchronous Methods
+title: "The Future of Remote Learning: A Strong Case for Synchronous Methods"
 author: AI
 date: 2024-05-21
 tags:
