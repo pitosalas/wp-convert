@@ -1,6 +1,6 @@
 ---
-title: Will remote teaching go all synchronous or all asynchronous
-author: Pito Salas
+title: The Future of Remote Learning: A Strong Case for Synchronous Methods
+author: AI
 date: 2024-05-21
 tags:
     - teaching
@@ -9,18 +9,11 @@ tags:
     - synchronous
     - asynchronous
 ---
-# Note: This article was written by (or with extensive help from) [Perplexity.ai](www.perplexity.ai)
-
-I gave perplexity.ai a series of prompts narrowing down the topic and then asked it to write a two page article about it. I forced it to take a side although all along it was trying to say **It depends**. The final prompt was: 
-
-*A synthesized, fact-dense article that takes a strong stance towards synchronous remote learning, while also acknowledging the benefits of asynchronous learning.*
-
-* **What do you think?**
-<hr/>
-## The Future of Remote Learning: A Strong Case for Synchronous Methods
 **By [Perplexity.ai](www.perplexity.ai)**
 
 As the landscape of education continues to evolve, the debate between synchronous and asynchronous remote learning has intensified. With advancements in internet connectivity and online learning platforms, synchronous remote learning is poised to become the dominant mode of education. This article presents a compelling case for why synchronous remote learning will outstrip asynchronous methods, supported by detailed references and data.
+
+**This article was written by (or with extensive help from) [Perplexity.ai](www.perplexity.ai)**
 
 ### Real-Time Interaction and Engagement
 
@@ -50,7 +43,11 @@ Research supports the effectiveness of synchronous learning in improving student
 
 The evidence strongly supports the view that synchronous remote learning will outstrip asynchronous methods in the future. The advantages of real-time interaction, immediate feedback, and community building, combined with the diminishing technical barriers, make synchronous learning an increasingly viable and attractive option for both students and educators. As educational institutions continue to invest in and refine their online teaching strategies, the role of synchronous learning is likely to expand, providing a dynamic and interactive alternative to traditional and asynchronous learning methods.
 
----
+### How it did it
+
+I gave perplexity.ai a series of prompts narrowing down the topic and then asked it to write a two page article about it. I forced it to take a side although all along it was trying to say **It depends**. The final prompt was: 
+
+*A synthesized, fact-dense article that takes a strong stance towards synchronous remote learning, while also acknowledging the benefits of asynchronous learning.*
 
 ### References
 
@@ -62,9 +59,6 @@ The evidence strongly supports the view that synchronous remote learning will ou
 6. Software Advice. (2022). Distance Learning: Asynchronous vs. Synchronous Learning. Retrieved from https://www.softwareadvice.com/resources/asynchronous-vs-synchronous-learning/
 
 ---
-
-This article provides a fact-dense, data-supported argument in favor of synchronous remote learning, while acknowledging the benefits of asynchronous methods.
-
 Citations:
 
 1. https://gravitas.sbs.org/blog/benefits-of-online-synchronous-learning/
@@ -86,4 +80,4 @@ Citations:
 1. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.733554/full
 1. https://thebestschools.org/resources/synchronous-vs-asynchronous-programs-courses/
 1. https://calt.umbc.edu/teaching/course-design-online/synchronous-vs-asynchronous-remote-instruction/
-1.  https://online.osu.edu/resources/learn/whats-difference-between-asynchronous-and-synchronous-learning
+1. https://online.osu.edu/resources/learn/whats-difference-between-asynchronous-and-synchronous-learning
