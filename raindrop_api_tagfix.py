@@ -4,14 +4,11 @@ import requests
 import os
 class RaindropApiImport:
     def __init__(self):
-        self.sec_token = os.getenv("RAINDROP_TOKEN")
         self.headers = {
             'Accept': 'application/json',
             'User-Agent': 'Safari',
             'Authorization': self.sec_token        
         }
-
-
         self.drops = {}
         self.topcolid = None
 
@@ -20,6 +17,19 @@ class RaindropApiImport:
         response = requests.get(url, headers=self.headers)
         resp_json = response.json()['items'][0]
         self.topcolid = resp_json["_id"]
+
+    def retrieve_tags(self):
+        url = f"https://api.raindrop.io/rest/v1/tags/{self.topcolid}"
+        while True:
+            response = requests.get(url, headers=self.headers)
+            if response.status_code != 200:
+                print(f"""Breaking loop because: {response.status_code}""")
+                break
+            sleep(0.25)
+            for tag in response.json()['items']:
+                if tag["count"] <= 3:
+                    print(tag)
+            break
 
 
     def retrieve_drops(self):
@@ -51,8 +61,7 @@ class RaindropApiImport:
 
     def run(self):
         self.retrieve_top_collection_id()
-        self.retrieve_drops()
-        self.save_drops()
+        self.retrieve_tags()
 
 # Main program
 if __name__ == "__main__":
