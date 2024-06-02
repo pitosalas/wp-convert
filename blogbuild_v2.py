@@ -12,6 +12,25 @@ PAGES_DIRECTORY = "docs/pages"
 ORIGINAL_PAGES_DIRECTORY = "data/original_pages"
 ORIGINAL_POSTS_DIRECTORY = "data/original_posts"
 
+def fix_drop_content(drop):
+    content = f"""{drop['note']}"""
+    if drop['excerpt'] != "":
+        content += f"""\n\n* **Web site excerpt:** {drop['excerpt']}\n"""
+    return content
+
+def fix_drop_tags(tags):
+    if isinstance(tags, list):
+        return tags
+    ret_tag = re.split(', | |,', tags)
+    if ret_tag != tags:
+        print(f"""{tags} -> {ret_tag}""")
+    return ret_tag
+
+def fix_drop_date(date_string):
+    parsed_date = datetime.fromisoformat(date_string.rstrip("Z"))
+    parsed_date.replace(tzinfo=None)
+    return parsed_date.strftime("%Y-%m-%d")        
+
 
 class BlogBuild:
     def __init__(self):
