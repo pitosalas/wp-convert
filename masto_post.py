@@ -68,9 +68,10 @@ class MastoPost:
         rest_url = "https://ruby.social/api/v1/statuses"
         status = f"""{content} {tags_str}: "{title}"({url})"""
         json_data_dict = { "status" : status, "links" : url }
-        response = requests.post(rest_url, headers=self.headers, data=json_data_dict)
-        if response.status_code == 200:
-            self.masto_urls.append(url)
+        print(f"fake posting {json_data_dict}")
+        # response = requests.post(rest_url, headers=self.headers, data=json_data_dict)
+        # if response.status_code == 200:
+        #     self.masto_urls.append(url)
 
     def run(self):
         self.retrieve_api_drops_from_file()
