@@ -42,7 +42,7 @@ class MastoPost:
     def write_api_drops_to_masto(self):
         count = 0
         for index, (drop_title, drop) in enumerate(self.drops.items()):
-            if count > 1:
+            if count != 33:
                 count += 1
                 continue
             title = drop_title
