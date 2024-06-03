@@ -22,7 +22,19 @@ jobs:
       - uses: actions/setup-python@v4
         with:
           python-version: 3.x
-      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
+      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
+
+    # Cache the first item (e.g., a specific file)
+      - name: Cache masto saved URLS
+        id: cache-masto-saved-urls
+        uses: actions/cache@v3
+        with:
+          path: data/masto_url_list.json
+          key: cache-first-file-${{ github.sha }}
+          restore-keys: |
+            cache-first-file-
+
+
       - uses: actions/cache@v3
         with:
           key: mkdocs-material-${{ env.cache_id }}
