@@ -14,7 +14,6 @@ jobs:
       MASTO_TOKEN: ${{secrets.MASTO_TOKEN}}
       CI_COMMIT_MESSAGE: Update url list
       CI_COMMIT_AUTHOR: GH action
-
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -22,12 +21,13 @@ jobs:
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-      - name install stuff
-      - uses: actions/setup-python@v4
+      - name: install stuff
+        uses: actions/setup-python@v4
         with:
           python-version: 3.x
       - name: Cache 
         run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
+      - name: mkdocs-material
         uses: actions/cache@v3
         with:
           key: mkdocs-material-${{ env.cache_id }}
