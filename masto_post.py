@@ -42,6 +42,7 @@ class MastoPost:
     def write_api_drops_to_masto(self):
         count = 0
         for index, (drop_title, drop) in enumerate(self.drops.items()):
+            print(f"Processing {count} {drop_title}")
             if count != 34:
                 count += 1
                 continue
