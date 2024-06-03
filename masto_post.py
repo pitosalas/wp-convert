@@ -44,6 +44,7 @@ class MastoPost:
         for index, (drop_title, drop) in enumerate(self.drops.items()):
             if count > 1:
                 count += 1
+                continue
             title = drop_title
             content = self.fix_drop_content(drop)
             date = fix_drop_date(drop['created'])
