@@ -5,6 +5,8 @@ import re
 import os
 
 MASTO_URL_FILE = "data/masto_url_list.json"
+SAFE_MODE = False
+MASTO_MAX_POST_PER_RUN = 3
 
 class MastoPost:
 
@@ -16,6 +18,7 @@ class MastoPost:
             'User-Agent': 'Safari',
             'Authorization': self.sec_token        
         }
+        self.masto_post_count = 0
 
     def retrieve_api_drops_from_file(self) -> None:
         with open('data/api_drops.json') as json_file:
@@ -64,18 +67,19 @@ class MastoPost:
         print(f"""Total: {count} Drop Posts Generated""")
 
     def create_masto_post(self, title, content, date, tags_str, url, cover):
-        if url in self.masto_urls:
+        if url in self.masto_urls or self.masto_post_count >= MASTO_MAX_POST_PER_RUN:
             return
         rest_url = "https://ruby.social/api/v1/statuses"
         status = f"""{content} {tags_str}: "{title}"({url})"""
         json_data_dict = { "status" : status, "links" : url }
-        if True:
+        if SAFE_MODE:
             print(f"fake posting {json_data_dict}")
             self.masto_urls.append(url)
         else:
             response = requests.post(rest_url, headers=self.headers, data=json_data_dict)
             if response.status_code == 200:
                 self.masto_urls.append(url)
+                self.masto_post_count += 1
 
     def run(self):
         self.retrieve_api_drops_from_file()
