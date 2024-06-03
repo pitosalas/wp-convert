@@ -10,7 +10,8 @@ permissions:
 jobs:
   deploy:
     env:
-      RAINDROP_TOKEN: ${{secrets.RAINDROP_TOKEN}}    
+      RAINDROP_TOKEN: ${{secrets.RAINDROP_TOKEN}}   
+      MASTO_TOKEN: ${{secrets.MASTO_TOKEN}}     
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -37,3 +38,11 @@ jobs:
       - run: python masto_post.py
       - run: python blogbuild_v2.py
       - run: mkdocs gh-deploy --force
+      
+
+      - name: Commit updated file
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Commit updated files
+          file_pattern: data/masto_url_list.json
+
