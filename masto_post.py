@@ -42,7 +42,7 @@ class MastoPost:
     def write_api_drops_to_masto(self):
         count = 0
         for index, (drop_title, drop) in enumerate(self.drops.items()):
-            if count != 33:
+            if count != 34:
                 count += 1
                 continue
             title = drop_title
@@ -69,6 +69,8 @@ class MastoPost:
         status = f"""{content} {tags_str}: "{title}"({url})"""
         json_data_dict = { "status" : status, "links" : url }
         print(f"fake posting {json_data_dict}")
+        self.masto_urls.append(url)
+
         # response = requests.post(rest_url, headers=self.headers, data=json_data_dict)
         # if response.status_code == 200:
         #     self.masto_urls.append(url)

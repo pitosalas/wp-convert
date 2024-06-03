@@ -47,7 +47,7 @@ jobs:
           python masto_post.py
           python blogbuild_v2.py
           mkdocs gh-deploy --force
-      - name: GIT Commit Build Artifacts (coverage, dist, devdist, docs)
+      - name: GIT Commit Build Artifacts
         run: |
             git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
             git config --global user.email "username@users.noreply.github.com"
