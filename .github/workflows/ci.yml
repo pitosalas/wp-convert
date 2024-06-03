@@ -30,11 +30,9 @@ jobs:
         uses: actions/cache@v3
         with:
           path: data/masto_url_list.json
-          key: cache-first-file-${{ github.sha }}
+          key: cache-masto-file-${{ github.sha }}
           restore-keys: |
-            cache-first-file-
-
-
+            cache-masto-file-
       - uses: actions/cache@v3
         with:
           key: mkdocs-material-${{ env.cache_id }}
