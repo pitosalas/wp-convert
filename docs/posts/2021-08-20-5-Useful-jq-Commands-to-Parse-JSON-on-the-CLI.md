@@ -10,8 +10,8 @@ tags:
     - howto
     - json
     - cli
-    - tools
     - cooltool
+    - tool
 ---
 <img class="cover" src=https://www.fabian-keller.de/blog/5-useful-jq-commands-parse-json-cli/5-useful-jq-commands-parse-json-cli.jpg>
 

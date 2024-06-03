@@ -8,8 +8,6 @@ tags:
     - hebrew
 ---
 
-
-
 I just received this notification from AT&T. Pretty innocuous, but, what's up
 with using Hebrew letters as bullets? Odd.
 

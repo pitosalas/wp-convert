@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-12-15
 ---
 
-
-
 The irony and paradox confounds:
 
 > "[…] Mr. Dreier, who grew up on Long Island, the son of a refugee from  

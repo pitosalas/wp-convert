@@ -10,6 +10,7 @@ tags:
     - docker
     - tool
     - cooltool
+    - scale deploy build rails docker howto
 ---
 <img class="cover" src=https://opengraph.githubassets.com/59c967040ac739dcdf5fb032c7a850be71965571da07b1657c75f151c527b1ab/rails/docked>
 

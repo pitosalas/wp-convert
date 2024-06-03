@@ -9,8 +9,6 @@ tags:
     - sanfrancisco
 ---
 
-
-
 Yesterday was great. The buzz in the place is unbelievable. This place is the
 Launch Conference. Organized and run beautifully by [Jason Calacanis
 (](<http://calacanis.com/>)who has become much more warm and fuzzy than I

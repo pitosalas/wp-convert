@@ -6,8 +6,6 @@ tags:
     - SNL-SaturdayNightLive
 ---
 
-
-
 [Saturday Night Live ](<http://www.nbc.com/Saturday_Night_Live/>)is having the
 **best season in years**. Consistently much funnier than last year or the year
 before. Last night, Christopher Walken again was extremely funny: the writing

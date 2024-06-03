@@ -29,10 +29,7 @@ the accelerator. The car had to be towed back to the dealership for repairs.
 >>
 
 >> Heaven help us! A whole new meaning to **mission critical** software!
-
->>
-
->> Technorati Tags: [cars](<http://technorati.com/tag/cars>)
+Technorati Tags: [cars](<http://technorati.com/tag/cars>)
 
 
 * **Link to site:** **[What happens when your car’s (software) crashes?](None)**

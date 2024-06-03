@@ -10,8 +10,6 @@ tags:
     - menu
 ---
 
-
-
 [ Bartender 4 - Take control of your Menu bar](<
 https://www.macbartender.com/>) –
 

@@ -6,9 +6,9 @@ link: "https://guitarscientist.com/generator/?v=191a1262fd87"
 cover: "http://www.guitarscientist.com/generator/img/gspreview.jpg" 
 date: 2021-05-06
 tags:
-    - diagrams
     - guitar
     - howto
+    - diagram
 ---
 <img class="cover" src=http://www.guitarscientist.com/generator/img/gspreview.jpg>
 

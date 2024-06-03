@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2010-02-23
 ---
 
-
-
 Following on on my post yesterday about "What we don't understand."
 
 As I was writing it, I was trying to use examples of simple things that just

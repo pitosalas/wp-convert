@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-12-18
 ---
 
-
-
 If you are a hardcore blog reader like I am, and like [BlogBridge
 fans](<http://www.blogbridge.com> "Best blog reader for financial analysts,
 researchers, investors, fund managers") are, it's worth giving a little

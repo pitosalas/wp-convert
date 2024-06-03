@@ -6,7 +6,7 @@ link: "http://startbootstrap.com/all-templates"
 cover: "" 
 date: 2021-04-06
 tags:
-    - bootstrap css html5
+    - bootstrap
 ---
 <img class="cover" src=>
 

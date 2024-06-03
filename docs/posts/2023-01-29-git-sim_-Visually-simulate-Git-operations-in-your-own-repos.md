@@ -10,6 +10,7 @@ tags:
     - learn
     - howto
     - explainer
+    - git-tips
 ---
 <img class="cover" src=https://initialcommit.com/img/initialcommit/git-sim.jpg>
 

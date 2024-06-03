@@ -8,8 +8,8 @@ date: 2021-04-06
 tags:
     - bitcoin
     - btc
-    - article
     - scams
+    - articles
 ---
 <img class="cover" src=https://c.apple.news/AgEXQUVRVmlIbmcyVEFDTFY0ZVN3Q0FUREEAMA>
 

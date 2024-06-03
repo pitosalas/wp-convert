@@ -9,8 +9,8 @@ tags:
     - photography
     - envelope
     - theory
-    - testing
-    - cameras
+    - camera
+    - test
 ---
 <img class="cover" src=https://farm4.staticflickr.com/3705/13748332853_4b513a7109_c.jpg>
 

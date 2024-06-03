@@ -10,6 +10,7 @@ tags:
     - rules-of-thumb
     - best-practices
     - programming
+    - programming-language
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Flink.medium.com%2FTBEn3DfbDob>
 

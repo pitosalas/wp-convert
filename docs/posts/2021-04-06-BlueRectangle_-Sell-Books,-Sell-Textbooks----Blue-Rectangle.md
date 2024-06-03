@@ -6,7 +6,7 @@ link: "http://www.bluerectangle.com/buyback"
 cover: "" 
 date: 2021-04-06
 tags:
-    - books buying
+    - books
 ---
 <img class="cover" src=>
 

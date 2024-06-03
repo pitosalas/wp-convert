@@ -7,7 +7,7 @@ cover: "https://ivanartgallery.com/dA/6a5e21e8-67e1-4a61-b7d4-9268fd036398/image
 date: 2022-06-23
 tags:
     - art
-    - paintings
+    - painting
 ---
 <img class="cover" src=https://ivanartgallery.com/dA/6a5e21e8-67e1-4a61-b7d4-9268fd036398/image/v/f03aa933-2c90-4c35-9370-f208ae6dd3ad>
 

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-01-27
 ---
 
-
-
 It's a little hard to explain and I didn't manage to get it working myself
 yet, but still I am highly intrigued with [Dapper](<http://www.dapper.net>
 "dapper is very cool"). [Dapper](<http://www.dapper.net> "dapper is very

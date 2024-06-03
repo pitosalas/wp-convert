@@ -7,6 +7,7 @@ cover: "https://rdl.ink/render/https%3A%2F%2Freinteractive.com%2Fposts%2F359-doc
 date: 2021-04-06
 tags:
     - development docker
+    - scale deploy build rails docker howto
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Freinteractive.com%2Fposts%2F359-docker-for-rails-development>
 

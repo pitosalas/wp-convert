@@ -10,7 +10,7 @@ tags:
     - js
     - javascript
     - strategy
-    - open-source
+    - opensource
 ---
 <img class="cover" src=https://cdn-blog.testdouble.com/img/social/must-have-10-years-experience-with-lineman-js.582a660a15f144cb607f7ebed6b4d86ab7f148abdb51f8a272687bab8ec79cf8.jpg>
 

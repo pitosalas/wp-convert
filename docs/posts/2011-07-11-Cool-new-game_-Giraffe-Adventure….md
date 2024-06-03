@@ -8,8 +8,6 @@ tags:
     - gaming
 ---
 
-
-
 If you're interested in computer games for Android, see what you think of this
 one's potential… Coming soon to an Android near you according to some friends
 of mine.

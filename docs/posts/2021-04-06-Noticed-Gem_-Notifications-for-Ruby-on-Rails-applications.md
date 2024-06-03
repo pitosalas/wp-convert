@@ -8,8 +8,9 @@ date: 2021-04-06
 tags:
     - rails
     - howto
-    - gems
     - notification
+    - gem
+    - rails ruby
 ---
 <img class="cover" src=https://repository-images.githubusercontent.com/283022742/323eb100-28f5-11eb-8da5-b23d3388f432>
 

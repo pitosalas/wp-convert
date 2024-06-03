@@ -4,14 +4,11 @@ author: Pito Salas
 date: 2004-06-18
 ---
 
-
->>
-
->> I am away from home, at my home in Curacao for a reunion of Salas folks
-from around the world. I saw an childhood friend of mine, Raul, who asked me
-'So what's a blog, anyway'? I was taken aback, because, what would Raul be
-doing, reading my blog, and especially with the rather 'odd' image that I left
-as the top entry before I headed down here?
+I am away from home, at my home in Curacao for a reunion of Salas folks from
+around the world. I saw an childhood friend of mine, Raul, who asked me 'So
+what's a blog, anyway'? I was taken aback, because, what would Raul be doing,
+reading my blog, and especially with the rather 'odd' image that I left as the
+top entry before I headed down here?
 
 >>
 

@@ -9,8 +9,6 @@ tags:
     - union-tags
 ---
 
-
-
 I recently saw the movie "Waiting for Superman" - yes I am late to the party.
 But in case you have not seen it let me recommend it to you as a highly
 revealing and disappointing view into the way the American school system runs,

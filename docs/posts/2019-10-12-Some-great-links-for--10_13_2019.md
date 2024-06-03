@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-10-12
 ---
 
-
-
   * [Postgres Is Underrated—It Handles More than You Think - DEV Community ](<https://dev.to/heroku/postgres-is-underrated-it-handles-more-than-you-think-4ff3?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email>)
 
 Really great rundown of less known features of Postgres!

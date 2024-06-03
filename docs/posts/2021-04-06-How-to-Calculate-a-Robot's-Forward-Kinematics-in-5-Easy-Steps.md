@@ -7,6 +7,7 @@ cover: "http://blog.robotiq.com/hubfs/hd_diagram.jpg#keepProtocol"
 date: 2021-04-06
 tags:
     - robot kinematics forward mathematics
+    - robotics
 ---
 <img class="cover" src=http://blog.robotiq.com/hubfs/hd_diagram.jpg#keepProtocol>
 

@@ -7,8 +7,6 @@ tags:
     - steve-jobs
 ---
 
-
-
 This news saddens me:
 
 > "Apple CEO and co-founder Steve Jobs resigned today as chief executive

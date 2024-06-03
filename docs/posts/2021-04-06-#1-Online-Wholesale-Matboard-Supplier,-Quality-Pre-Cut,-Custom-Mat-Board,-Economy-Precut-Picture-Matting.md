@@ -6,7 +6,9 @@ link: "http://www.redimat.com"
 cover: "https://rdl.ink/render/http%3A%2F%2Fwww.redimat.com" 
 date: 2021-04-06
 tags:
-    - photography framing art
+    - photography
+    - framing
+    - art
 ---
 <img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.redimat.com>
 

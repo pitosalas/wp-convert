@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2011-09-22
 ---
 
-
-
 Check this post [How To Build a Web Startup – Lean LaunchPad
 Edition](<http://steveblank.com/2011/09/22/how-to-build-a-web-startup-lean-
 launchpad-edition/>) from [Steve Blank.](<http://steveblank.com/feed/>) Of
@@ -17,7 +15,7 @@ benefit from it 🙂
 > questions are, “How do I get my great idea on the web? What are the steps in
 > building a web site?” And the most important question is, “How do I use the
 > business model canvas and Customer Development to test whether this is a
-> real business?” ( **from** : How to Build a Web Startup)
+> real business?” (**from** : How to Build a Web Startup)
 
 
 * **Link to site:** **[Useful quick reference for a ‘lean startup’](None)**

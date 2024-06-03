@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-01-11
 ---
 
-
-
   * [Broot](<https://dystroy.org/broot/>)
 
 Looks like this might be useful.

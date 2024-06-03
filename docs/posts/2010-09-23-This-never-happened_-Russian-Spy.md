@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2010-09-23
 ---
 
-
-
 This never happened…
 
 We were working on some piece of software or something and the Russians

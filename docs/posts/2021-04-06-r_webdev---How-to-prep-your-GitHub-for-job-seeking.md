@@ -7,6 +7,7 @@ cover: "https://external-preview.redd.it/YMPZTYosGtHGXv1uS9w78kPJEjf83SgwfzqnRn2
 date: 2021-04-06
 tags:
     - job resume github organization
+    - github
 ---
 <img class="cover" src=https://external-preview.redd.it/YMPZTYosGtHGXv1uS9w78kPJEjf83SgwfzqnRn2z1ug.jpg?width=600&height=300&auto=webp&crop=600:300,smart&s=a5f56e141d1b355006eb674a8f890aa0ad4aac92>
 

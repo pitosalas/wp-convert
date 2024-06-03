@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-12-22
 ---
 
-
-
   * [Algorithm Archive · GitBook](<https://www.algorithm-archive.org>)
 
 There are lots of algorithm libraries. This one is a nice one!

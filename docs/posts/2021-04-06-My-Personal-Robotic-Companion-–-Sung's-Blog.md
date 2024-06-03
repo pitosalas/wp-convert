@@ -7,6 +7,8 @@ cover: "https://sungjik.files.wordpress.com/2015/09/20150926_215254.jpg?w=640"
 date: 2021-04-06
 tags:
     - Robotics
+    - robot
+    - robotics
 ---
 <img class="cover" src=https://sungjik.files.wordpress.com/2015/09/20150926_215254.jpg?w=640>
 

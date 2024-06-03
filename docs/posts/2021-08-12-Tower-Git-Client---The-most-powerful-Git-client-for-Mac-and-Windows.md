@@ -10,6 +10,8 @@ tags:
     - git
     - github
     - gui
+    - tips
+    - howto
 ---
 <img class="cover" src=https://www.git-tower.com/assets/img/tower-git-client_sharing-image.1628665146.png>
 

@@ -8,7 +8,7 @@ date: 2021-10-12
 tags:
     - carpentry
     - wood
-    - tools
+    - tool
 ---
 <img class="cover" src=https://c.apple.news/AgEXQTVtLTZtbDFZUWpTS21nTjc2S3RSMFEAMA>
 

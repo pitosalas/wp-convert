@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-01-17
 ---
 
-
-
 [![](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-
 content/uploads/imagewell//Picture%25204.jpg?w=584)](<http://producten.hema.nl/>)Yes
 an online catalog can be funny.

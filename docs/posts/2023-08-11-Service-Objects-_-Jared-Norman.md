@@ -10,6 +10,7 @@ tags:
     - howto
     - explainer
     - service-objects
+    - service-oriented-architecture
 ---
 <img class="cover" src=https://jardo.dev/assets/me-63ca9992682663661ecad10807f9694bf0b4e361b4014849c12b01f0786a0a46.jpg>
 

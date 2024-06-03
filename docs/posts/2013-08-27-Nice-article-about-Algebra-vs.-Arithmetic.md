@@ -9,13 +9,10 @@ tags:
     - mathematics
 ---
 
-
-
 If you are anything like me, this is something you've try to articulate.
 Here's a great article on that arcane topic!
 
-[What is algebra? |
-profkeithdevlin](<http://profkeithdevlin.org/2011/11/20/what-is-algebra/>):
+[What is algebra? | profkeithdevlin](<http://profkeithdevlin.org/2011/11/20/what-is-algebra/>):
 
 > Is mastery of algebra (i.e., algebraic thinking) worth the effort? You bet
 > -- though you'd be hard pressed to reach that conclusion based on what you

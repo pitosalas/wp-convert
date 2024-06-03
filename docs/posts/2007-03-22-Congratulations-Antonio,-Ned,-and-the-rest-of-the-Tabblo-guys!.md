@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-03-22
 ---
 
-
-
 I just stumbled (get it?) across this:
 
 > "Hewlett-Packard announced Thursday that it plans to acquire start-up

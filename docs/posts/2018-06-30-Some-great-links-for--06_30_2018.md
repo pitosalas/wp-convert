@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-06-30
 ---
 
-
-
   * [[EN][Keynote] Parallel and Thread-Safe Ruby at High-Speed with TruffleRuby / Benoit Daloze @eregontp](<https://m.youtube.com/watch?v=mRKjWrNJ8DI>)
 
 tags: [performance](<https://www.diigo.com/user/pitosalas/performance>)

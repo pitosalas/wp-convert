@@ -7,6 +7,8 @@ cover: "https://softcover.s3.amazonaws.com/636/ruby_on_rails_tutorial_6th_editio
 date: 2021-04-06
 tags:
     - rails
+    - rails ruby
+    - ruby
 ---
 <img class="cover" src=https://softcover.s3.amazonaws.com/636/ruby_on_rails_tutorial_6th_edition/images/cover-web.png>
 

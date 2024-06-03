@@ -4,13 +4,10 @@ author: Pito Salas
 date: 2004-10-18
 ---
 
-
->>
-
->> **Believe** me when I say that this **will only be interesting** to you if
-you are curious about the thinking about the Starz rating system that we've
-built into BlogBridge. If you don't have a burning curiosity, trust me, it
-will put you to sleep 🙂
+**Believe** me when I say that this **will only be interesting** to you if you
+are curious about the thinking about the Starz rating system that we've built
+into BlogBridge. If you don't have a burning curiosity, trust me, it will put
+you to sleep 🙂
 
 >>
 

@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2004-12-12
 ---
 
-
->>
-
->> A week or so ago [I posted an amusing
+A week or so ago [I posted an amusing
 picture](</weblogs/archives/000523.html>), supposedly from Popular Mechanics.
 Well it was quickly debunked as a hoax. This [morning,
 this,](<http://news.zdnet.com/2100-3513_22-5484053.html>) showing that I am in

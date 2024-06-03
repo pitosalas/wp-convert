@@ -8,8 +8,6 @@ tags:
     - jobs-rails
 ---
 
-
-
 I get asked from time to time to recommend ruby, rails, and other developers
 in the Boston area, either for full time or part time gigs. I'm developing a
 list of good local job resources - started so far with the help of pal [Brian

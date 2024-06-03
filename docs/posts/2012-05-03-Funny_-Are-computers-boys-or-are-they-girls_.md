@@ -7,8 +7,6 @@ tags:
     - humor
 ---
 
-
-
 A SPANISH Teacher was explaining to her class that in Spanish, unlike English,
 nouns are designated as either masculine or feminine.
 

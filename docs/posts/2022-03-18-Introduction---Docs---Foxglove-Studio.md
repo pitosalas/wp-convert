@@ -9,7 +9,7 @@ tags:
     - ros
     - rviz
     - windows
-    - tools
+    - tool
 ---
 <img class="cover" src=https://foxglove.dev/images/og-image.png>
 

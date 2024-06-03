@@ -7,6 +7,7 @@ cover: "https://cathydutton.co.uk/images/profile-image.jpg"
 date: 2021-04-06
 tags:
     - coding css sass html
+    - design
 ---
 <img class="cover" src=https://cathydutton.co.uk/images/profile-image.jpg>
 

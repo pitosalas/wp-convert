@@ -7,6 +7,7 @@ cover: "https://www.herokucdn.com/images/og.png"
 date: 2021-04-06
 tags:
     - heroku postgres database rails
+    - heroku
 ---
 <img class="cover" src=https://www.herokucdn.com/images/og.png>
 

@@ -7,6 +7,7 @@ cover: "https://miro.medium.com/max/1200/1*CugpD67GJkeJ887gof3jlw.jpeg"
 date: 2021-04-06
 tags:
     - installing stimulus rails javascript
+    - scale deploy build rails docker howto
 ---
 <img class="cover" src=https://miro.medium.com/max/1200/1*CugpD67GJkeJ887gof3jlw.jpeg>
 

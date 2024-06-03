@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2010-11-11
 ---
 
-
-
 Check out this [cool site developed](<http://definitious.com>) by some
 Brandeis students who participated in the [bootcamp-like
 course](<http://www.brandeis.edu/jbs/r2010programs/websservices/index.html>)

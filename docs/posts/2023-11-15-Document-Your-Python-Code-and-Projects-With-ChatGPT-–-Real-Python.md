@@ -7,9 +7,11 @@ cover: "https://files.realpython.com/media/Documenting-Your-Code-with-the-Help-o
 date: 2023-11-15
 tags:
     - python
-    - chatgpt
     - documentation
     - docstrings
+    - chat-gpt
+    - tips
+    - howto
 ---
 <img class="cover" src=https://files.realpython.com/media/Documenting-Your-Code-with-the-Help-of-ChatGPT_Watermarked.daa041e7ad32.jpg>
 

@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2004-10-15
 ---
 
-
->>
-
->> Here I go again, picking a out quote from a [blogger who I really like
+Here I go again, picking a out quote from a [blogger who I really like
 ](<http://scoble.weblogs.com/>)and dissecting it. I don't know, maybe I am
 cranky. Robert Scoble, of Microsoft and Scobelizer fame, [reports on a
 conversation he had with Kim
@@ -17,8 +14,9 @@ the whole dang thing. Buried somewhere in the middle, Scoble says:
 
 >>
 
->>> "It was not possible until there was **friction free collaboration**
-(blogs, RSS, Wikis, IRC chat), and a large number of open source components."
+>>> "It was not possible until there was **friction free
+collaboration**(blogs, RSS, Wikis, IRC chat), and a large number of open
+source components."
 
 >>
 

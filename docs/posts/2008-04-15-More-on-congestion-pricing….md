@@ -6,8 +6,6 @@ tags:
     - con-taggestion-tagpricing-nyc-meshnetworks-gps
 ---
 
-
-
 From a few previous posts you know that I have a [curiosity about
 congestion](</2008/03/26/how-gps-devices-are-being-used-to-detect-and-avoid-
 traffic/avoid-traffic/>) pricing as a [way to allay traffic
@@ -24,8 +22,8 @@ at.
 > something can be done about it. There is also a growing movement nationally
 > to charge drivers more directly for the use of the roads and technology.
 > This will make charging easier and more sophisticated in the future by
-> allowing for time-of-day, day-of-week, and level of congestion pricing." (
-> **from** [What We Didn't Know About Congestion
+> allowing for time-of-day, day-of-week, and level of congestion pricing."
+> (**from** [What We Didn't Know About Congestion
 > Pricing](<http://http//freakonomics.blogs.nytimes.com/2008/04/14/what-didnt-
 > we-know-about-congestion-pricing/>))
 

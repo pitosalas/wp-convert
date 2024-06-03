@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2009-09-08
 ---
 
-
-
 I agree with this point from the post [My Take On The Healthcare
 Debate](<http://www.pheedcontent.com/click.phdo?i=3427a348815a338daa7346e55a0001d7>)
 from [Daily Dish (Andrew

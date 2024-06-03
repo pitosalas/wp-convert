@@ -7,6 +7,8 @@ cover: "https://res.cloudinary.com/practicaldev/image/fetch/s--PjTJFnAG--/c_imag
 date: 2021-04-06
 tags:
     - brutalist
+    - web
+    - design
 ---
 <img class="cover" src=https://res.cloudinary.com/practicaldev/image/fetch/s--PjTJFnAG--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/vtd3ryqp0ojc3m488s6h.jpg>
 

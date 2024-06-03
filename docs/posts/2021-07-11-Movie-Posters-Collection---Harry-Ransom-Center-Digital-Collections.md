@@ -6,12 +6,12 @@ link: "https://hrc.contentdm.oclc.org/digital/collection/p15878coll84?utm_campai
 cover: "https://rdl.ink/render/https%3A%2F%2Fhrc.contentdm.oclc.org%2Fdigital%2Fcollection%2Fp15878coll84%3Futm_campaign%3DRecomendo%26utm_medium%3Demail%26utm_source%3DRevue%2520newsletter" 
 date: 2021-07-11
 tags:
-    - movie
     - art
     - design
     - color
     - posters
     - images
+    - films
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fhrc.contentdm.oclc.org%2Fdigital%2Fcollection%2Fp15878coll84%3Futm_campaign%3DRecomendo%26utm_medium%3Demail%26utm_source%3DRevue%2520newsletter>
 

@@ -8,8 +8,6 @@ tags:
     - theatre
 ---
 
-
-
 I Just came back from seeing "[Gods Of
 Carnage"](<http://www.huntingtontheatre.org/season/production.aspx?id=10226&src=t>)
 at the [Huntington Theatre (in

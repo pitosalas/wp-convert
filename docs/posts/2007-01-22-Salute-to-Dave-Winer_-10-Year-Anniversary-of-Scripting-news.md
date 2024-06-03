@@ -4,11 +4,10 @@ author: Pito Salas
 date: 2007-01-22
 ---
 
+Check out [this
+post](<http://www.scripting.com/2007/01/21.html#timeFliesWhenYoureHavingFun>)
+from [Scripting News](<http://www.scripting.com/>)
 
->
-> Check out [this
-> post](<http://www.scripting.com/2007/01/21.html#timeFliesWhenYoureHavingFun>)
-> from [Scripting News](<http://www.scripting.com/>)
 >
 > It's Dave Winer's 10th Anniversary writing Scripting News and Blogging.
 >

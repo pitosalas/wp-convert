@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-02-04
 ---
 
-
-
 This is really cool! Check out [this
 post](<http://feeds.autoblog.com/~r/weblogsinc/autoblog/~3/202445315/>) from
 [Autoblog](<http://www.autoblog.com>):

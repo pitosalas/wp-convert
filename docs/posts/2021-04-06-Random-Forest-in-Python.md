@@ -6,7 +6,7 @@ link: "https://towardsdatascience.com/random-forest-in-python-24d0893d51c0?sourc
 cover: "https://miro.medium.com/max/1200/1*1p1PAJXEmxbzE4TJ_w81cQ.jpeg" 
 date: 2021-04-06
 tags:
-    - visualization
+    - visualize
 ---
 <img class="cover" src=https://miro.medium.com/max/1200/1*1p1PAJXEmxbzE4TJ_w81cQ.jpeg>
 

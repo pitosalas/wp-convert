@@ -7,6 +7,7 @@ cover: "https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og
 date: 2021-04-06
 tags:
     - Software Engineering
+    - software-engineering
 ---
 <img class="cover" src=https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/568305/og_image_new_logo_main-a9ff5e307ce2906c23f94ba4e6321a34.png>
 

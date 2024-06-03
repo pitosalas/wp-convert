@@ -4,12 +4,11 @@ author: Pito Salas
 date: 2007-01-03
 ---
 
+I am enhancing the backup methodology here at BlogBridge Enterprises and was
+selecting a new 500Gb external hard disk. One choice I made was whether to get
+an **Ethernet** , i.e. network attached, hard disk or connect one directly to
+my Mac via **USB-2** or FireWire.
 
->
-> I am enhancing the backup methodology here at BlogBridge Enterprises and was
-> selecting a new 500Gb external hard disk. One choice I made was whether to
-> get an **Ethernet** , i.e. network attached, hard disk or connect one
-> directly to my Mac via **USB-2** or FireWire.
 >
 > Admittedly being too **lazy** to do calculations I guessed that the limiting
 > factor on speed of a hard disk would be the hard disk transfer speed itself

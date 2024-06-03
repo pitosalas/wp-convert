@@ -4,13 +4,9 @@ author: Pito Salas
 date: 2004-04-06
 ---
 
-
->>
-
->> Some say that it’s very important that they be able to use one identity
-while doing one thing, and a different one for another. In ‘cyberspace’ they
-want to be able to express themselves without that expression being tied back
-to them.
+Some say that it’s very important that they be able to use one identity while
+doing one thing, and a different one for another. In ‘cyberspace’ they want to
+be able to express themselves without that expression being tied back to them.
 
 >>
 

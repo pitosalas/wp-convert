@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2010-08-22
 ---
 
-
-
 Check out this post [Chefs and
 Editors](<http://dilbert.com/blog/entry/chefs_and_editors/>) from [Dilbert.com
 Blog](<http://dilbert.com/blog/entry.feed/>):
@@ -17,8 +15,8 @@ Blog](<http://dilbert.com/blog/entry.feed/>):
 > notion that most editors have skill, but few are artists. The world of print
 > publishing is driven by editors who are exceptionally skilled. But they
 > aren't artists. Newser is edited by an artist. He or she isn't giving me
-> information; he's adjusting my mood. That's art. That's the future. (
-> **from:**[Chefs and
+> information; he's adjusting my mood. That's art. That's the future.
+> (**from:**[Chefs and
 > Editors](<http://dilbert.com/blog/entry/chefs_and_editors/>))
 
 And in general, read [Dilbert.com

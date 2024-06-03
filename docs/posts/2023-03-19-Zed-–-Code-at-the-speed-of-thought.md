@@ -9,8 +9,6 @@ tags:
     - vscode
 ---
 
-
-
 [ Zed - Code at the speed of thought](< https://zed.dev/>) –Just to prove that
 theres never the last word on anything, especially programmers editors. I
 thought history ended with vscode. But take a look st this, pretty

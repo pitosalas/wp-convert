@@ -10,6 +10,9 @@ tags:
     - python-package
     - git
     - cli
+    - github
+    - tips
+    - howto
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fgitpython.readthedocs.io%2Fen%2Fstable%2Fintro.html>
 

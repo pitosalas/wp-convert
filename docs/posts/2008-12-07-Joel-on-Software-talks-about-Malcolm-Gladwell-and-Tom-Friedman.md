@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-12-07
 ---
 
-
-
 There have been a number of articles taking shots at some of Malcolm
 Gladwell's latest book, "Outliers". No doubt Mr. Gladwell is really good at
 getting visibility for his books and has hit upon a formula with The Tipping

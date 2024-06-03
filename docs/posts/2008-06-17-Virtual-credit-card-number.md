@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-06-17
 ---
 
-
-
 My Citibank MasterCard allows me to generate a virtual credit card number,
 pretty simply, using a fairly ugly web interface. But a few clicks and you get
 a picture of a credit card, including numbers, dates and CVC. The magic is

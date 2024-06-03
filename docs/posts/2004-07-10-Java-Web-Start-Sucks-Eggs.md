@@ -4,12 +4,9 @@ author: Pito Salas
 date: 2004-07-10
 ---
 
-
->>
-
->> I've written [about this before](</weblogs/archives/000450.html>), and
-after all it is fairly (no, very) esoteric. Java Web Start is Java's approach
-to installation and distribution and updating of Java desktop applications.
+I've written [about this before](</weblogs/archives/000450.html>), and after
+all it is fairly (no, very) esoteric. Java Web Start is Java's approach to
+installation and distribution and updating of Java desktop applications.
 
 >>
 

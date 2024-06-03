@@ -11,6 +11,7 @@ tags:
     - docker
     - howto
     - tutorial
+    - scale deploy build rails docker howto
 ---
 <img class="cover" src=https://www.honeybadger.io/images/pull_image.png>
 

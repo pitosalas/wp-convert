@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-06-05
 ---
 
-
-
 ![Picture
 2-4](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/images/posts/Picture%25202-4.png?resize=420%2C366)There's
 an amusing site called [Google

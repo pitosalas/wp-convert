@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-03-01
 ---
 
-
-
   * [Google Interviewing Process for Software Developer Role in 2020 / Habr](<https://habr.com/en/post/489698/>)
 
 The madness of interviewing at google. OMG!

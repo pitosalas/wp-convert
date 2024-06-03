@@ -8,8 +8,6 @@ tags:
     - theater
 ---
 
-
-
 They may not like me to say this, but as a longtime subscriber, I've been very
 disappointed for the last several seasons at the [Huntington Theater in
 Boston](<http://www.huntingtontheatre.org>). A very hit or miss program with

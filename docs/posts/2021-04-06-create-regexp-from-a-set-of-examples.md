@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - howto tools regex
     - howto
-    - tools
+    - tool
 ---
 <img class="cover" src=https://avatars.githubusercontent.com/u/1145043?s=400&v=4>
 

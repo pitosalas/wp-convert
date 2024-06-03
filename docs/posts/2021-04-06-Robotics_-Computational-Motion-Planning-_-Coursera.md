@@ -7,6 +7,7 @@ cover: "https://s3.amazonaws.com/coursera/media/Grid_Coursera_Partners_updated.p
 date: 2021-04-06
 tags:
     - Robotics
+    - robotics
 ---
 <img class="cover" src=https://s3.amazonaws.com/coursera/media/Grid_Coursera_Partners_updated.png>
 

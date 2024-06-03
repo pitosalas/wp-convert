@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2009-03-24
 ---
 
-
-
 I spent 5 minutes [perusing this site, and it looks really
 good.](<http://academicearth.org/>) Wow, makes me want to be back in college.
 Now if only had time (and discipline?) to actually watch some of these

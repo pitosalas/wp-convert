@@ -9,8 +9,6 @@ tags:
     - mark-twain
 ---
 
-
-
 I have often been heard to say: "Ideas are Cheap", by which I mean to say that
 my admiration goes more with the implementation, the making real and tangible,
 of an idea than the idea itself. It's much easier to come up with something

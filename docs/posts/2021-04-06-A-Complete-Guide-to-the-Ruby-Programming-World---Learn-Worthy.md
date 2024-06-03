@@ -7,6 +7,7 @@ cover: "https://learnworthy.net/wp-content/uploads/2019/08/A-Complete-Guide-to-t
 date: 2021-04-06
 tags:
     - programming guide ruby overview
+    - programming-language
 ---
 <img class="cover" src=https://learnworthy.net/wp-content/uploads/2019/08/A-Complete-Guide-to-the-Ruby-Programming-World.png>
 

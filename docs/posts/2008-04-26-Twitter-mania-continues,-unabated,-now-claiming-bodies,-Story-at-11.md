@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-04-26
 ---
 
-
-
 Check this post [Twitter’s Lead Architect Leaves: It’s Not You, It’s
 Me](<http://mashable.com/2008/04/23/twitter-lead-architect-resigns/>) from
 [Mashable!](<http://feeds.feedburner.com/mashable>):

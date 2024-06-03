@@ -7,6 +7,8 @@ cover: "https://res.cloudinary.com/practicaldev/image/fetch/s--e2vMP1EM--/c_imag
 date: 2021-04-06
 tags:
     - programming dev learning beginner
+    - programming
+    - programming-language
 ---
 <img class="cover" src=https://res.cloudinary.com/practicaldev/image/fetch/s--e2vMP1EM--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/2viihq3r5g6c9h7zatbo.png>
 

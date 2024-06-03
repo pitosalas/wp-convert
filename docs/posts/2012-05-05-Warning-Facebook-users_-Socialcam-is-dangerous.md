@@ -7,8 +7,6 @@ tags:
     - socialcam
 ---
 
-
-
 On Facebook you may see something like "George Harrison is **watching a video
 on Socialcam** " followed by a video.
 

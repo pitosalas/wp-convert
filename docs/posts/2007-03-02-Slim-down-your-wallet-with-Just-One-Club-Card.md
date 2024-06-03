@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-03-02
 ---
 
-
-
 This looks kind of neat - check out [this
 post](<http://lifehacker.com/software/wallet/slim-down-your-wallet-with-just-
 one-club-card-240816.php>) from [Lifehacker](<http://www.lifehacker.com>):

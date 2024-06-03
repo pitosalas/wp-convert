@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-02-22
 ---
 
-
-
 Chris Herot writes about a new product called RulesBase: Check out [this
 post](<http://herot.typepad.com/cherot/2008/02/rulesbase.html>) from
 [Christopher Herot's Weblog](<http://herot.typepad.com/cherot/>):
@@ -31,10 +29,10 @@ post](<http://herot.typepad.com/cherot/2008/02/rulesbase.html>) from
 > [Improv](<http://en.wikipedia.org/wiki/Lotus_Improv>). The company was
 > acquired by IRI which later became part of Oracle.
 >
-> ( **from** :
+> (**from** :
 > [RulesBase](<http://herot.typepad.com/cherot/2008/02/rulesbase.html>))
 
-One other product in the ' **everything old is new again** ' category is
+One other product in the '**everything old is new again** ' category is
 [Quantrix](<http://www.quantrix.com/>), who say:
 
 > "Frustrated with error-prone, inflexible spreadsheets? Quantrix is multi-

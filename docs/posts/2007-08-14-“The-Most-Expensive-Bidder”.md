@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-08-14
 ---
 
-
-
 [tag]Funny[/tag]!
 
 I saw this in Dilbert this weekend.

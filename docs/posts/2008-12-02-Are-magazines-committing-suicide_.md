@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-12-02
 ---
 
-
-
 I was traveling this weekend and as I am wont to do, spent too much time at
 bookstores and magazine stands.
 

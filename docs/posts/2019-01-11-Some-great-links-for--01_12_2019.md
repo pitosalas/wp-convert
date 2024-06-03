@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-01-11
 ---
 
-
-
   * [Did you know that you can use Bundler without Gemfile? | Blog | Victor Afanasev — Web Developer and Digital Nomad](<https://victorafanasev.info/tech/you-can-use-bundler-without-gemfile>)
 
 Small tip explains how to selfcontain bundler with a ruby script.

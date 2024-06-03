@@ -11,6 +11,7 @@ tags:
     - aruco-detect
     - howto
     - ros
+    - object-detection
 ---
 <img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwiki.ros.org%2Faruco_detect>
 

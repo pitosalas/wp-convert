@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-12-27
 ---
 
-
-
   * [We’re Finally Learning the Lesson of Y2K — and It’s Too Late](<https://link.medium.com/b3wRq9eHZS>)
 
 I remember taking out hundreds of dollars

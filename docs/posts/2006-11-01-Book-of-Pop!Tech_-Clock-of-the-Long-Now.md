@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2006-11-01
 ---
 
-
->
->
-> [http://rcm.amazon.com/e/cm?t=blogbridge-20&o=1&p=8&l=as1&asins=0465007805&fc1=000000&IS2=1&lt1=_blank&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr](<http://rcm.amazon.com/e/cm?t=blogbridge-20&o=1&p=8&l=as1&asins=0465007805&fc1=000000&IS2=1&lt1=_blank&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr>)  
+[http://rcm.amazon.com/e/cm?t=blogbridge-20&o=1&p=8&l=as1&asins=0465007805&fc1=000000&IS2=1&lt1=_blank&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr](<http://rcm.amazon.com/e/cm?t=blogbridge-20&o=1&p=8&l=as1&asins=0465007805&fc1=000000&IS2=1&lt1=_blank&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr>)  
 > I just finished reading Steward Brand's book ["The Clock of The Long
 > Now"](<http://www.amazon.com/Clock-Long-Now-Responsibility-
 > Computer/dp/0465007805/sr=8-1/qid=1162344498/ref=pd_bbs_sr_1/104-6954476-0116706?ie=UTF8&s=books>).
@@ -27,7 +24,7 @@ mechanisms, and specific problems and cases.
 
 >> The main problems might be stated, How do we make long term thinking
 automatic and common instead of difficult and rare? How do we make the taking
-of long term responsibilities inevitable?" ( **from** [Clock of the Long
+of long term responsibilities inevitable?" (**from** [Clock of the Long
 Now](<http://www.amazon.com/Clock-Long-Now-Responsibility-
 Computer/dp/0465007805/sr=8-1/qid=1162344498/ref=pd_bbs_sr_1/104-6954476-0116706?ie=UTF8&s=books>)")
 
@@ -46,7 +43,7 @@ Computer/dp/0465007805/sr=8-1/qid=1162344498/ref=pd_bbs_sr_1/104-6954476-0116706
 
 >> "There are at least two kinds of games. One could be called finite, the
 other infinite. A finite game is played for the purpose of winning, an
-infinite game for the purpose of continuing to play." ( **from** [Finite and
+infinite game for the purpose of continuing to play." (**from** [Finite and
 Infinite Games](<http://www.longnow.org/>))
 
 >

@@ -10,8 +10,6 @@ tags:
     - voice
 ---
 
-
-
 A lot has been written about [Siri (the new voice activated assistant in the
 iPhone 4s)](<http://www.apple.com/iphone/features/siri.html>). I have to say
 that it works surprisingly well. It has been **eerily accurate in properly

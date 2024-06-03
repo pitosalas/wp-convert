@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-09-01
 ---
 
-
-
   * [WTF :: WTF - the terminal dashboard](<https://wtfutil.com>)
 
 A kind of crazy cool dashboard for all kinds of info all in text suitable for

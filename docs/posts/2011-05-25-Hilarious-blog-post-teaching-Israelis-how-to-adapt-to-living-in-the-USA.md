@@ -7,8 +7,6 @@ tags:
     - USA
 ---
 
-
-
 This is too funny. Here's a taste, but you should read the whole article
 saying [how an Israeli should adapt to living in the United
 States.](<http://avi-rubin.blogspot.com/2011/05/advice-for-israelis-coming-to-
@@ -23,7 +21,7 @@ us.html>) For example, this is about the express line in the super market:
 > not expect six people to simultaneously yell at each other at the top of
 > their lungs as a result of this unlikely confrontation. As you can see, the
 > express line requires an adjustment period for any Israeli, and is perhaps
-> the place where you will first start to feel homesick." ( **from** [Advice
+> the place where you will first start to feel homesick." (**from** [Advice
 > for Israelis coming to the United States](<http://avi-
 > rubin.blogspot.com/2011/05/advice-for-israelis-coming-to-us.html>))
 

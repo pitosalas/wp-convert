@@ -8,8 +8,6 @@ tags:
     - security
 ---
 
-
-
 I recently saw the movie [Hacking
 Democracy](<http://www.hackingdemocracy.com/>). It's absolutely fascinating
 and basic background for anyone interested in election reform. In it you learn

@@ -4,12 +4,8 @@ author: Pito Salas
 date: 2004-07-10
 ---
 
-
->>
-
->> Hey, check out our [new and improved web
-site.](<http://www.blogbridge.com>) There is lots of new content, particulary
-[a bunch of screen shots
+Hey, check out our [new and improved web site.](<http://www.blogbridge.com>)
+There is lots of new content, particulary [a bunch of screen shots
 ](<http://www.blogbridge.com/productpage.htm#screens>)and a [greatly augmented
 FAQ](<http://www.blogbridge.com/faqpage.htm>).
 

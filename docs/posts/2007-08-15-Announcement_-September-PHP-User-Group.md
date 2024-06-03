@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-08-15
 ---
 
-
-
 On September 11, 2007, the [tag]Boston PHP User Group[/tag] is meeting about
 "Building the PHP-stack for the [tag]enterprise[/tag]":
 

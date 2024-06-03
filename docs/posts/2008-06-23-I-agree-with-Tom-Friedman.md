@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-06-23
 ---
 
-
-
 [![](https://i0.wp.com/farm4.static.flickr.com/3038/2555325935_dbcd7283e3.jpg?w=584)](<http://www.flickr.com/photos/12842060@N06/2555325935>)He's
 been [saying something like this since a week after
 9/11](<http://www.nytimes.com/2008/06/22/opinion/22friedman.html>). I agreed

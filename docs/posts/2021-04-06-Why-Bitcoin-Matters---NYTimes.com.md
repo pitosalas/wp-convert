@@ -6,7 +6,7 @@ link: "http://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters?_php=true&_php
 cover: "https://static01.nyt.com/images/2014/01/22/business/dbpix-marc-andreessen/dbpix-marc-andreessen-thumbLarge.jpg" 
 date: 2021-04-06
 tags:
-    - bitcoin nytimes
+    - bitcoin
 ---
 <img class="cover" src=https://static01.nyt.com/images/2014/01/22/business/dbpix-marc-andreessen/dbpix-marc-andreessen-thumbLarge.jpg>
 

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-09-18
 ---
 
-
-
 Scott Adams of course is the evil genius behind Dilbert, which as you know I
 am a big fan of. Scott also has a really funny blog. As proof, this is from
 [the latest

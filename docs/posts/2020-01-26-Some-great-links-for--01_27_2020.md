@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-01-26
 ---
 
-
-
   * [Goodbye, Clean Code — Overreacted](<https://overreacted.io/goodbye-clean-code/>)
 
 DRY. Everything in moderation. On rules and knowing when to break them.

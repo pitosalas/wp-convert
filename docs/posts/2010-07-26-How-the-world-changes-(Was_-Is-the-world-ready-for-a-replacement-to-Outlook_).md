@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2010-07-26
 ---
 
-
-
 Now that I've been blogging for a while, it's fun and instructive sometimes to
 see some of the older stuff that I wrote to see how fast our tech world
 changes and how I myself change…[Everyone loves](<http://reviews-

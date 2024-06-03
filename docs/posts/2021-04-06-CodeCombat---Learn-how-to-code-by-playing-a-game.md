@@ -9,6 +9,7 @@ tags:
     - coding
     - programming
     - game
+    - vscode
 ---
 <img class="cover" src=http://codecombat.com/images/pages/base/logo_square_250.png>
 

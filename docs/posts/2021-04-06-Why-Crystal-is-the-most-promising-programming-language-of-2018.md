@@ -7,6 +7,7 @@ cover: "https://miro.medium.com/max/1200/1*rHm4XkrFFvAJDHinuBo3Sg.png"
 date: 2021-04-06
 tags:
     - crystal programming ruby compiled
+    - programming-language
 ---
 <img class="cover" src=https://miro.medium.com/max/1200/1*rHm4XkrFFvAJDHinuBo3Sg.png>
 

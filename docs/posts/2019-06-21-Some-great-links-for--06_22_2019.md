@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-06-21
 ---
 
-
-
   * [Open-sourcing Sorbet: a fast, powerful type checker for Ruby · Sorbet](<https://sorbet.org/blog/2019/06/20/open-sourcing-sorbet>)
 
 Claims to bring gradual type checking to ruby.

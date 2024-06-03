@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2004-07-10
 ---
 
-
->>
-
->> [Dave Winer comments on the sale of OddPost to
+[Dave Winer comments on the sale of OddPost to
 Yahoo](<http://archive.scripting.com/2004/07/09>). I've been an avid OddPost
 fan for a while and I am glad to see them succeed. It's an impressive tour the
 force, an existence proof that you can build quite a nice UI in a browser.

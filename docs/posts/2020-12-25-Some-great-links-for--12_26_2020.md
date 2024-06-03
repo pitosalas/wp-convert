@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-12-25
 ---
 
-
-
   * [This Could Be the New Java](<https://link.medium.com/S6fWoGZpvcb>)
 
 I thought Kotlin was the natural heir. This makes a good case for Scala!

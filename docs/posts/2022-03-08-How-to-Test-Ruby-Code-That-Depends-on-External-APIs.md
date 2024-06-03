@@ -7,10 +7,10 @@ cover: "https://www.honeybadger.io/images/pull_image.png"
 date: 2022-03-08
 tags:
     - soa
-    - testing
     - rspec
     - ruby
     - services
+    - test
 ---
 <img class="cover" src=https://www.honeybadger.io/images/pull_image.png>
 

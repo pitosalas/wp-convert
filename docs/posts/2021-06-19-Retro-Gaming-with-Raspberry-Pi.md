@@ -8,9 +8,9 @@ date: 2021-06-19
 tags:
     - raspberry-pi
     - raspi
-    - controls
     - interface
     - howto
+    - control
 ---
 <img class="cover" src=https://cdn-learn.adafruit.com/guides/images/000/000/290/medium800/joust.jpg>
 

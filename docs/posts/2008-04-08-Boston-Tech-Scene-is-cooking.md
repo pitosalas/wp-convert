@@ -6,8 +6,6 @@ tags:
     - boston-tag-techno-taglogy-gatherings
 ---
 
-
-
 Last week I went to the monthly ["WebInno" - web innovators group -
 ](<http://www.webinnovatorsgroup.com/>)meeting at the Sonesta in Cambridge,
 Massachusetts (USA). I am **quite impressed** with the attendance and the

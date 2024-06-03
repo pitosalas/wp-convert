@@ -7,8 +7,6 @@ tags:
     - machine-vision-tag
 ---
 
-
-
 In the world of machine vision, the equivalent goal is to win the ImageNet
 Large-Scale Visual Recognition Challenge. This is a competition that has run
 every year since 2010 to evaluate image recognition algorithms. (It is

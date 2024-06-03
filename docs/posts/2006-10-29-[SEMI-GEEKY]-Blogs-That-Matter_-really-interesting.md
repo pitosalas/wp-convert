@@ -4,11 +4,10 @@ author: Pito Salas
 date: 2006-10-29
 ---
 
+From [LifeHacker](<http://www.lifehacker.com/software/bloglines/find-feeds-
+that-matter-209796.php>) (one of my new favorite sites) comes a pointer to a
+site called [FeedsThatMatter](<http://morpheus.cs.umbc.edu/bloglines/>).
 
->
-> From [LifeHacker](<http://www.lifehacker.com/software/bloglines/find-feeds-
-> that-matter-209796.php>) (one of my new favorite sites) comes a pointer to a
-> site called [FeedsThatMatter](<http://morpheus.cs.umbc.edu/bloglines/>).
 >
 > What it seems to do is to look at public subscriptions listed in BlogLines,
 > do a tag analysis, and display a [tag

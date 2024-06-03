@@ -12,8 +12,6 @@ tags:
     - university
 ---
 
-
-
 ![](https://i0.wp.com/www.vias.org/glazebrook_practphys/img/glazebrook_practical_physics-584.png?w=584)
 
 As you know the topic of the future of the university, the role of MOOCs, and
@@ -30,7 +28,7 @@ However I want to pull a single quote out of that:
 > **_the ability to be assertive in a meeting; to disagree pleasantly; to know
 > when to interrupt and when not to; to understand the flow of discussion and
 > how to change people’s minds; to attract mentors; to understand situations;
-> to discern what can change and what can’t. " _**( **from** [New York Times -
+> to discern what can change and what can’t. " _**(**from** [New York Times -
 > The Practical University](<http://www.nytimes.com/2013/04/05/opinion/Brooks-
 > The-Practical-University.html>))
 

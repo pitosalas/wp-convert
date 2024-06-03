@@ -9,8 +9,6 @@ tags:
     - politics
 ---
 
-
-
 Here's a topic I have never written about before… Nation Building. I just want
 to point you to a great article I read in the Globe yesterday that puts some
 meat on the question of "Nation Building," when has it happened before? How
@@ -33,7 +31,7 @@ nation/0xbYDVALs87xCw4wcnHQcM/story.xml>)
 > follow. And it does not take centuries — or even more than a generation — to
 > build a sense of citizenship. In fact, what we know about forging national
 > identities actually makes the situation in the Middle East seem less dire
-> than it would first appear. ( **from["How to build a nation" - The Boston
+> than it would first appear. (**from["How to build a nation" - The Boston
 > Globe](<http://www.bostonglobe.com/ideas/2011/10/01/how-build-
 > nation/0xbYDVALs87xCw4wcnHQcM/story.xml>))**
 

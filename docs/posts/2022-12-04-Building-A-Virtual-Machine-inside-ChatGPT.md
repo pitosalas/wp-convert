@@ -10,7 +10,7 @@ tags:
     - chat-gpt
     - linux
     - shell
-    - the-matrix
+    - matrix
 ---
 <img class="cover" src=https://www.engraved.blog/content/images/2022/12/deepmind-mbq0qL3ynMs-unsplash.jpg>
 

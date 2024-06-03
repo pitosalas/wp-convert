@@ -8,10 +8,10 @@ date: 2022-08-11
 tags:
     - photo
     - quality
-    - printing
     - large
     - service
     - poster
+    - print
 ---
 <img class="cover" src=https://images.mpix.com/ver/m2.5.0/970x0/products/posters/posters_banner.mjpg>
 

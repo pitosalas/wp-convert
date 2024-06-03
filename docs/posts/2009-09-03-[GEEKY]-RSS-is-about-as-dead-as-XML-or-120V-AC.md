@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2009-09-03
 ---
 
-
-
 I've seen a couple of "[RSS is dead](<http://www.pehub.com/49053/rss-is-dead-
 so-is-the-rss-fund/>)" headlines in the last few days, and even though I am on
 vacation I couldn't resist a quick post.

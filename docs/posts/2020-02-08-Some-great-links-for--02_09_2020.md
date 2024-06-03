@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-02-08
 ---
 
-
-
   * [Gemifying Your Style Guide to DRY Your CSS - Ruby on Rails Upgrades](<https://www.fastruby.io/blog/gems/dry/ruby/gemifying-your-styleguide.html>)
 
 A very nice technique to build a gem with all your css and js in one place.

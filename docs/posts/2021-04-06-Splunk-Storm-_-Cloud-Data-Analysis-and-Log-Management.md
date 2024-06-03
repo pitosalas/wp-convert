@@ -7,6 +7,7 @@ cover: ""
 date: 2021-04-06
 tags:
     - statistics logfiles data
+    - data-analysis
 ---
 <img class="cover" src=>
 

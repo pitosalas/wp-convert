@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-07-10
 ---
 
-
-
   * [LaTeX Tips n Tricks for Conference Papers](<http://gurmeet.net/computer-science/latex-tips-n-tricks-for-conference-papers/>)
 
 tags: [latex](<https://www.diigo.com/user/pitosalas/latex>)

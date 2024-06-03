@@ -8,8 +8,6 @@ tags:
     - words
 ---
 
-
-
 I know (at least I believe) that, for example,
 
 "… Scott Brown and I reached an historic agreement…"

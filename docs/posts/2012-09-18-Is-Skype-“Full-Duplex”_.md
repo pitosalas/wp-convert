@@ -8,8 +8,6 @@ tags:
     - voice
 ---
 
-
-
 What an antiquated term: Full Duplex. I don't know if that term is used
 anymore but what i mean is this:
 

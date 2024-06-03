@@ -9,6 +9,7 @@ tags:
     - comarison
     - crystal
     - programming-language
+    - programming
 ---
 <img class="cover" src=https://cdn-images-1.medium.com/fit/t/6720/4112/1*Mb90t5K_K65gE-1YBm8xMA.png>
 

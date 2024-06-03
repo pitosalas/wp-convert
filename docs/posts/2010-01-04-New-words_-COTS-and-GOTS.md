@@ -9,8 +9,6 @@ tags:
     - trustthevote
 ---
 
-
-
 In my work with the [Open Source Digital Voting
 foundation](<http://www.osdv.org>), and
 [TrustTheVote](<www.trustthevote.org>), I just learned two new words, for your

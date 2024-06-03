@@ -7,7 +7,6 @@ cover: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:go
 date: 2022-12-29
 tags:
     - books
-    - ratial
     - retail
     - barnes-and-nobel
     - turnarounds

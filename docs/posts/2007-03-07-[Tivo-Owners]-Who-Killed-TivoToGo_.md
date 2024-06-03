@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-03-07
 ---
 
-
-
 I am a die-hard Tivo user. Yesterday I stumbled across mention that TivoTogo
 now worked on Macs, so the promise of watching Tivo'd content on my iPod led
 me to waste a couple of hours trying to get it to work.

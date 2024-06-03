@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-08-06
 ---
 
-
-
   * [Noticed Gem: Notifications for Ruby on Rails applications](<https://github.com/excid3/noticed>)
 
 very useful gem to send all kinds of notification from Rails. Haven't tested

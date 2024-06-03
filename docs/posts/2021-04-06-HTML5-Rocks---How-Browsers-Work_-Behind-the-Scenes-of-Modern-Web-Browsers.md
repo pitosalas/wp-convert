@@ -7,6 +7,7 @@ cover: "https://www.html5rocks.com/static/images/profiles/taligarsiel.png"
 date: 2021-04-06
 tags:
     - programming browsers browser
+    - web
 ---
 <img class="cover" src=https://www.html5rocks.com/static/images/profiles/taligarsiel.png>
 

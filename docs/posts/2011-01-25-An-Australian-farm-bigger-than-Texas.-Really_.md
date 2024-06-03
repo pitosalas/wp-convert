@@ -8,8 +8,6 @@ tags:
     - texas
 ---
 
-
-
 I heard yesterday that there is "at least one farm" in Australia bigger than
 Texas. I guess this was a way to remind me that Australia is really really
 big. Which I think I knew already so I let it go.

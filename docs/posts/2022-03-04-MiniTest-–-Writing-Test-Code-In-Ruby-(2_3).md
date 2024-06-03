@@ -7,8 +7,6 @@ tags:
     - testing
 ---
 
-
-
 [ MiniTest - Writing Test Code In Ruby
 (2/3)](<https://dev.to/exampro/minitest-writing-test-code-in-ruby-
 part-2-of-3-4306>)

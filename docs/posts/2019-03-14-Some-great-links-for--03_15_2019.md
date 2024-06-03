@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-03-14
 ---
 
-
-
   * [Myo | How I learned to Stop Worrying and Love Quaternions](<http://developerblog.myo.com/quaternions/>)
 
 Quaternions are a really complicated mathematical concept which are used

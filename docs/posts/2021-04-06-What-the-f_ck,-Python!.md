@@ -8,9 +8,10 @@ date: 2021-04-06
 tags:
     - pythin
     - python
-    - patterns
     - howto
-    - examples
+    - example
+    - pattern
+    - python-package
 ---
 <img class="cover" src=https://avatars.githubusercontent.com/u/10217535?s=400&v=4>
 

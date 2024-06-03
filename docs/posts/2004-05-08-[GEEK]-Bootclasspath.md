@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2004-05-08
 ---
 
-
->>
-
->> In order to debug a hairy problem, I need to step into some Java system  
+In order to debug a hairy problem, I need to step into some Java system  
 > classes (hashmap.java) HashMap.class is to be found in rt.jar, part of the  
 > standard Java distribution (1.4.2_04) but it does NOT have debug info  
 > compiled in.

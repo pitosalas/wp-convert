@@ -4,9 +4,7 @@ author: Pito Salas
 date: 2007-01-04
 ---
 
-
->
-> <!-  
+<!-  
 >  body { font-style: normal; font-family: Lucida Grande; font-weight: normal;
 > font-variant: normal; font-size: 11pt; line-height: normal }  
 >  ->

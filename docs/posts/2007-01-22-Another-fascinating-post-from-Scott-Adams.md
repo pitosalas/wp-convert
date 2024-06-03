@@ -4,9 +4,7 @@ author: Pito Salas
 date: 2007-01-22
 ---
 
-
->
-> <!-  
+<!-  
 >  body { font-style: normal; font-variant: normal; line-height: normal; font-
 > family: Lucida Grande; font-size: 11pt; font-weight: normal }  
 >  ->
@@ -38,7 +36,7 @@ date: 2007-01-22
 >  the sniff test with flying colors.
 >>
 
->> […snip]" ( **from** : [Voice  
+>> […snip]" (**from** : [Voice  
 >
 > Update](<http://dilbertblog.typepad.com/the_dilbert_blog/2007/01/voice_update_1.html>))
 

@@ -8,9 +8,9 @@ date: 2021-04-06
 tags:
     - scaling
     - monoliths
-    - engineering
     - architecture
     - design
+    - engineer
 ---
 <img class="cover" src=https://insights-images.thoughtworks.com/bee_cropped_dabbab6afb11701c9088a6a9d7a4afa4.jpeg>
 

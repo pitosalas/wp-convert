@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2010-03-24
 ---
 
-
-
 [David Mamet (supposedly) wrote this compelling note to tv
 writers](<http://www.slashfilm.com/2010/03/23/a-letter-from-david-mamet-to-
 the-writers-of-the-unit/>) for the now-defunct tv show "The Unit" (which I

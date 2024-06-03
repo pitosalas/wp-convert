@@ -10,8 +10,6 @@ tags:
     - referendum
 ---
 
-
-
 This is probably not high on your radar, but if you have interest in the
 island of Curaçao you may have heard about the big referendum issue that is
 being hotly debated these days.

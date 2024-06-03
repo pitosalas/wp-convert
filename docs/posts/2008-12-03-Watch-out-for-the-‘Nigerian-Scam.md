@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-12-03
 ---
 
-
-
 Yes, some people do fall for it
 
 > "So how did this otherwise lucid, intelligent woman end up sending  

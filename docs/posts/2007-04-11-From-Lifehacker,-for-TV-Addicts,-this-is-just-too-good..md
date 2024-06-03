@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-04-11
 ---
 
-
-
 Check out [this post](<http://lifehacker.com/software/bittorrent/download-of-
 the-day-tvshows-mac-251442.php>) from
 [Lifehacker](<http://www.lifehacker.com>):

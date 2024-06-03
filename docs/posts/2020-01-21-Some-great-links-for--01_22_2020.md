@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-01-21
 ---
 
-
-
   * [Python built-ins worth learning - Trey Hunner](<https://treyhunner.com/2019/05/python-builtins-worth-learning/>)
 
 A fantastic efficient way to review most of the top methods and functions in

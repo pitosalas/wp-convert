@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2009-06-03
 ---
 
-
-
 I have been working quite a lot on **Election Reform**   over the last few
 weeks, at least from the technology side.
 

@@ -7,8 +7,6 @@ tags:
     - olin-college
 ---
 
-
-
 [Control The Sun!](<http://www.mylanderpages.com/sunrise_blinds/olin>)
 
 As you know, I am teaching a course at Olin College this spring - alas we are

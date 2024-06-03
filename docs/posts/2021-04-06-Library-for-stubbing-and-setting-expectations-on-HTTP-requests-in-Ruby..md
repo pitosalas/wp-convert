@@ -10,8 +10,8 @@ tags:
     - mock
     - library
     - rest
-    - testing
     - ruby
+    - test
 ---
 <img class="cover" src=https://avatars.githubusercontent.com/u/15547?s=400&v=4>
 

@@ -9,8 +9,6 @@ tags:
     - trader-joes
 ---
 
-
-
 My favorite mustard these days is the Dijon from Trader Joes's!
 
 [The Yellow Commodity Hotter Than Gold - Yahoo!

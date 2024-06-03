@@ -7,6 +7,7 @@ cover: "https://rdl.ink/render/https%3A%2F%2Ftreyhunner.com%2F2019%2F05%2Fpython
 date: 2021-04-06
 tags:
     - Python howto learning
+    - python-package
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Ftreyhunner.com%2F2019%2F05%2Fpython-builtins-worth-learning>
 

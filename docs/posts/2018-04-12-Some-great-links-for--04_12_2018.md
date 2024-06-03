@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-04-12
 ---
 
-
-
   * [Micromessaging: Connecting Heroku Microservices w/Redis and RabbitMQ](<https://blog.carbonfive.com/2014/04/28/micromessaging-connecting-heroku-microservices-wredis-and-rabbitmq/>)
 
 A brief article explaining different architectures for Microservices on

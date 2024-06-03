@@ -7,8 +7,6 @@ tags:
     - testing
 ---
 
-
-
 [ Learn How to Test Third Party Services With Minitest &
 VCR](<https://blog.eduonix.com/web-programming-tutorials/learn-test-third-
 party-services-minitest-vcr/>)

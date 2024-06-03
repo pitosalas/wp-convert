@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-07-05
 ---
 
-
-
   * [Don't miss out on css variables](<https://dev.to/timdeschryver/don-t-miss-out-on-css-variables-4708?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email>)
 
 This seems very useful!

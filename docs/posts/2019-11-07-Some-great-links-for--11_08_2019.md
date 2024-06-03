@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-11-07
 ---
 
-
-
   * [A Recipe for Training Neural Networks](<https://karpathy.github.io/2019/04/25/recipe/>)
 
 Very good article for anyone using Neural Networks

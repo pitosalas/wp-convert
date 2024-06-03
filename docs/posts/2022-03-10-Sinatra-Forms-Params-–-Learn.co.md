@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2022-03-10
 ---
 
-
-
 [ Sinatra Forms Params - Learn.co](<https://learn.co/lessons/sinatra-forms-
 params-readme-walkthrough>)
 

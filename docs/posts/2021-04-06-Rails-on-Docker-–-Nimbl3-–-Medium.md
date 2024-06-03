@@ -7,6 +7,7 @@ cover: "https://miro.medium.com/max/1200/1*lX-Ognzk3oFDDi4nTAjGcw.png"
 date: 2021-04-06
 tags:
     - Rails docker deployment
+    - scale deploy build rails docker howto
 ---
 <img class="cover" src=https://miro.medium.com/max/1200/1*lX-Ognzk3oFDDi4nTAjGcw.png>
 

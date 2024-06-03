@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-01-15
 ---
 
-
-
   * [Ruby From Other Languages](<https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/>)
 
 If you are coming to Ruby from another programming language there are a lot of

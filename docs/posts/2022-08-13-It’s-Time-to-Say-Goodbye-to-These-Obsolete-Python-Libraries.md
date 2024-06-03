@@ -8,8 +8,6 @@ tags:
     - tools
 ---
 
-
-
 [ It's Time to Say Goodbye to These Obsolete Python Libraries](<
 https://martinheinz.dev/blog/77>) –p  
 With every Python release, there are new modules being added and new and

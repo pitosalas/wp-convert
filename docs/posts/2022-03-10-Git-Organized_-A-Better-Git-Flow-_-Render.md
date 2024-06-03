@@ -7,10 +7,10 @@ cover: "https://render.com/static/fedb9832395a0f61cbe04b2a6ca08ed1/improved-git-
 date: 2022-03-10
 tags:
     - git
-    - workflow
     - howto
     - tutorial
     - advanced
+    - git-tips
 ---
 <img class="cover" src=https://render.com/static/fedb9832395a0f61cbe04b2a6ca08ed1/improved-git-flow-2.png>
 

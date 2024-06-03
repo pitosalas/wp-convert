@@ -7,6 +7,7 @@ cover: "https://www.drone.io/images/og-image.jpg"
 date: 2021-04-06
 tags:
     - ruby rails ci Ruby
+    - pricing
 ---
 <img class="cover" src=https://www.drone.io/images/og-image.jpg>
 

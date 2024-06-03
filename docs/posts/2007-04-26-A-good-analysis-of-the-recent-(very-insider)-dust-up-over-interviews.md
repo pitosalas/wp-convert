@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-04-26
 ---
 
-
-
 Check out [this post](<http://www.buzzmachine.com/2007/04/26/the-obsolete-
 interview/>) from [BuzzMachine](<http://www.buzzmachine.com>):
 

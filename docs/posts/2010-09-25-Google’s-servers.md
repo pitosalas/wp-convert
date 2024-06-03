@@ -8,8 +8,6 @@ tags:
     - ups
 ---
 
-
-
 From an article about Google's hardware:
 
 > "Google's big surprise: each server has its own 12-volt battery to supply

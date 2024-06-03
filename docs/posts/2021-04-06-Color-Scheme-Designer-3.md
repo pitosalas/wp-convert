@@ -5,6 +5,8 @@ url: "http://colorschemedesigner.com"
 link: "http://colorschemedesigner.com" 
 cover: "https://paletton.com/img/paletton-preview-20140414.png" 
 date: 2021-04-06
+tags:
+    - design
 ---
 <img class="cover" src=https://paletton.com/img/paletton-preview-20140414.png>
 

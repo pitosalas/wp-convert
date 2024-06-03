@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-07-28
 ---
 
-
-
   * [Scripting and automating git processes](<https://stackoverflow.com/questions/3878624/how-do-i-programmatically-determine-if-there-are-uncommitted-changes/41646552>)
 
 This one is pretty eclectic but if you find yourself writing a script in ruby

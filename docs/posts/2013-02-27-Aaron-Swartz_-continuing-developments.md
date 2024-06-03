@@ -8,8 +8,6 @@ tags:
     - legal
 ---
 
-
-
 In the continuing stories around Aaron Swartz and events that led to his
 tragic suicide recently:
 
@@ -21,8 +19,8 @@ tragic suicide recently:
 > internet and just saw him as a high-profile scalp they could claim,
 > facilitated by a criminal justice system and computer crime laws
 > specifically designed to give prosecutors, however incompetent or malicious,
-> all the wrong incentives and all the power they could ever want." (
-> **from**[TarenSK](<http://tarensk.tumblr.com/post/44047376234/doj-admits-
+> all the wrong incentives and all the power they could ever want."
+> (**from**[TarenSK](<http://tarensk.tumblr.com/post/44047376234/doj-admits-
 > aarons-prosecution-was-political>))
 
 

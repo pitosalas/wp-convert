@@ -6,7 +6,7 @@ link: "https://engineering.videoblocks.com/web-architecture-101-a3224e126947"
 cover: "https://miro.medium.com/max/665/1*K6M-x-6e39jMq_c-2xqZIQ.png" 
 date: 2021-04-06
 tags:
-    - web basics architecture
+    - web
 ---
 <img class="cover" src=https://miro.medium.com/max/665/1*K6M-x-6e39jMq_c-2xqZIQ.png>
 

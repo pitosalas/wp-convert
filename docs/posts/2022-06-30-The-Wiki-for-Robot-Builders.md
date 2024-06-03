@@ -11,6 +11,9 @@ tags:
     - explainer
     - ros
     - navigation
+    - robot
+    - robot-kit
+    - robots
 ---
 <img class="cover" src=https://roboticsknowledgebase.com/assets/images/ricardo-gomez-angel-162935.jpg>
 

@@ -8,8 +8,6 @@ tags:
     - subscription-tags
 ---
 
-
-
 From an email I sent, just because:
 
 > "Dear CU:

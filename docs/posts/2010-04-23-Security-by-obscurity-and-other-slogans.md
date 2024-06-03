@@ -7,8 +7,6 @@ tags:
     - security
 ---
 
-
-
 If you've been in computing for any time you may have been hit over the head
 by the slogan "Security by Obscurity is No Security". As I have understood the
 argument it has a few components:

@@ -7,8 +7,6 @@ tags:
     - groupon-tag
 ---
 
-
-
 I've been using various Groupon-ish web sites to **great advantage.** Whether
 it's [Groupon](<http://www.groupon.com>) itself, or
 [LivingSocial](<http://livingsocial.com>),

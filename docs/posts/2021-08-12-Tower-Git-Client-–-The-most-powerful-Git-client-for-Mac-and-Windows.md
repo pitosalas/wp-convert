@@ -7,8 +7,6 @@ tags:
     - github
 ---
 
-
-
 [ Tower Git Client - The most powerful Git client for Mac and
 Windows](<https://www.git-tower.com/mac>)
 

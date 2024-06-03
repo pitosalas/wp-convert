@@ -6,7 +6,7 @@ link: "https://medium.com/selleo/essential-rubyonrails-patterns-form-objects-b19
 cover: "https://miro.medium.com/max/1200/1*gDebplxiXaJJg38YraHcgg.jpeg" 
 date: 2021-04-06
 tags:
-    - ruby formobjects Rails forms
+    - formobjects
 ---
 <img class="cover" src=https://miro.medium.com/max/1200/1*gDebplxiXaJJg38YraHcgg.jpeg>
 

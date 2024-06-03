@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-08-23
 ---
 
-
-
   * [Rodauth: A Refreshing Authentication Solution for Ruby | Janko's Blog](<https://janko.io/rodauth-a-refreshing-authentication-solution-for-ruby/>)
 
 Always nice to see alternatives to devise but this is just as complicated. I

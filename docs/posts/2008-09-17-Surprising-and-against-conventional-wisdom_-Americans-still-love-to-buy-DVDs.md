@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-09-17
 ---
 
-
-
 [Interesting article about the sale of
 DVDs](<http://www.alleyinsider.com/2008/9/forget-itunes-americans-still-love-
 to-buy-dvds>) in Silicon Alley Insider:

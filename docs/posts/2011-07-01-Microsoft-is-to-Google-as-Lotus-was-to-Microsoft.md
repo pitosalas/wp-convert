@@ -10,8 +10,6 @@ tags:
     - microsoft
 ---
 
-
-
 This isn't a huge new insight but it's interesting to see **history kind of
 repeating itself**.
 
@@ -33,7 +31,7 @@ MS-DOS? And then Microsoft Windows 'came along' (that coming along took
 **almost a decade** but still Lotus got caught short.
 
 Lotus kept investing in 1-2-3 - the couldn't not - while Microsoft without the
-' **baggage** ' of an installed base could bet on their 'new platform' and
+'**baggage** ' of an installed base could bet on their 'new platform' and
 build a great new spreadsheet called Excel. It was a **gamble, and they won.**
 
 Now we might be seeing history repeating itself. In a New [York Times
@@ -45,14 +43,14 @@ computing/28soft.html>) from a day or three ago:
 > it represents wishful thinking or a workable strategy. Microsoft’s plan is
 > to embrace the demand for cloud-based tools for office workers, which
 > promise to be less costly for companies than conventional software, and yet
-> avoid cannibalizing a business that is its biggest single money-maker." (
-> **from** [Microsoft Takes to Cloud to Ward Off
+> avoid cannibalizing a business that is its biggest single money-maker."
+> (**from** [Microsoft Takes to Cloud to Ward Off
 > Competition](<http://www.nytimes.com/2011/06/28/technology/business-
 > computing/28soft.html>))
 
 Wow, that sounds like what I heard around Lotus about 15 years ago.
 
-Imagine this: " _Lotus ' plan is to embrace the demand for Windows-based tools
+Imagine this: "_Lotus ' plan is to embrace the demand for Windows-based tools
 for office workers,[…] and yet avoid cannibalizing a business that is its
 biggest single money-maker"_
 

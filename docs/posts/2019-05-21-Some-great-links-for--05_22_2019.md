@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-05-21
 ---
 
-
-
   * [Plotly | Make charts and dashboards online](<https://plot.ly/#/>)
 
 An amazing graphing and plotting web site

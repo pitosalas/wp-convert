@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-08-08
 ---
 
-
-
 Quick movie review: two movies of more or less the same flavor: [[tag]The
 Bourne Ultimatum[/tag]](<http://www.imdb.com/title/tt0440963/>) with heart-
 throb [Matt Damon](<http://www.imdb.com/name/nm0000354/>) vs. [Live Free or

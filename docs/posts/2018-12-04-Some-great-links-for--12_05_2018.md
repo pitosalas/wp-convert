@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-12-04
 ---
 
-
-
   * <https://link.medium.com/LzL8HArenS>
 
 A really great list of services to integrate into your application. A bunch

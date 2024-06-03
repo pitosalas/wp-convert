@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2004-08-26
 ---
 
-
->>
-
->> Here are two very interesting posts on the question of Feed Readers:
+Here are two very interesting posts on the question of Feed Readers:
 
 >>
 

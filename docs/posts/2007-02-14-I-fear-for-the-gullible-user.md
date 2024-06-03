@@ -4,12 +4,11 @@ author: Pito Salas
 date: 2007-02-14
 ---
 
+I received this email from "Bank of America". It obviously a phishing attack
+but it sounds so legitimate and straightforward that I can easily see lots of
+people (including some I know) to fall for it. Scary, look: even the URL looks
+real:
 
->
-> I received this email from "Bank of America". It obviously a phishing attack
-> but it sounds so legitimate and straightforward that I can easily see lots
-> of people (including some I know) to fall for it. Scary, look: even the URL
-> looks real:
 >
 
 >> Dear Customer:

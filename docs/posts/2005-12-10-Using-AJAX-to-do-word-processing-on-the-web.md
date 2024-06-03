@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2005-12-10
 ---
 
-
->>
-
->> You may not have heard of this, but we are now starting to see quite decent
+You may not have heard of this, but we are now starting to see quite decent
 word processing applications implemented directly in the browser, using a
 technique that has become known as "AJAX" - Asyncrhonous Javascript And XML.
 As usual there is debate about what AJAX really means, who invented it
@@ -21,7 +18,7 @@ that run directly in the browser:
 
 >>> "None of these methods, however, are as simple to set up as a standard Web
 browser, which can quickly access a file from anywhere in the world. That's
-the promise that AJAX brings to the party." ( **from** [AJAX: the way word
+the promise that AJAX brings to the party." (**from** [AJAX: the way word
 processing will
 be](<http://itmanagement.earthweb.com/columns/executive_tech/article.php/3567061>))
 

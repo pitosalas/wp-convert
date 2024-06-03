@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-03-11
 ---
 
-
-
 Check out [this
 post](<http://feeds.feedburner.com/%7Er/jutopia/%7E3/247128668/>) from [Planet
 RubyOnRails](<http://www.planetrubyonrails.org/>):

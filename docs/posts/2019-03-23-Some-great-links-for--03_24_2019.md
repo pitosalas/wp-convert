@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-03-23
 ---
 
-
-
   * [Redis streams as a pure data structure](<http://antirez.com/news/128>)
 
 Really really interesting use case for REDIS, and a great scalability pattern

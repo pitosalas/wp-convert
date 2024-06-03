@@ -1,22 +1,21 @@
 ---
 title: "Refurbishing and modernizing Python codebases with refurb"
 author: Pito Salas
-url: "https://link.medium.com/6agwPv3Mvvb" 
-link: "https://link.medium.com/6agwPv3Mvvb" 
-cover: "https://miro.medium.com/max/1200/0*WTMgn1SO_IF8DA7K" 
 date: 2022-12-05
 tags:
-    - python
-    - code-smells
-    - smells
     - code
-    - tool
+    - code-smells
     - howto
+    - python-tag
+    - smells
+    - tool
 ---
-<img class="cover" src=https://miro.medium.com/max/1200/0*WTMgn1SO_IF8DA7K>
+
+[ Refurbishing and modernizing Python codebases with refurb](<
+https://link.medium.com/6agwPv3Mvvb>) –I havent tried this tool. If it works
+(a big if) it would be very useful. Heres what the author says: “As we know,
+Python is an interpreted language. Interpreted code is always slower than
+direct machine code because it takes a lot more…”
 
 
-
-* **Web site excerpt:** I havent tried this tool. If it works (a big if) it would be very useful. Heres what the author says: “As we know, Python is an interpreted language. Interpreted code is always slower than direct machine code because it takes a lot more…”
-
-* **Link to site:** **[Refurbishing and modernizing Python codebases with refurb](https://link.medium.com/6agwPv3Mvvb)**
+* **Link to site:** **[Refurbishing and modernizing Python codebases with refurb](None)**

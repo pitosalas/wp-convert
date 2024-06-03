@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-01-29
 ---
 
-
-
 I'm at the Demo 2008 Conference today. Ever heard of Live Blogging? It's when
 some crazy person decides to type a narrative of an event in real time. For
 fun and profit. I read about this product called Cover It Live to do just that

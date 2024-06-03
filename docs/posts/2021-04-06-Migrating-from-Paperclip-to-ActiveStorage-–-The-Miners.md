@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - rails
     - paperclip
-    - activestorage
+    - active-storage
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fblog.codeminer42.com%2Fmigrating-from-paperclip-to-activestorage-b37ef187fb17>
 

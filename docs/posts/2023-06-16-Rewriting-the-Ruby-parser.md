@@ -8,8 +8,8 @@ date: 2023-06-16
 tags:
     - ruby
     - parser
-    - yarp
     - explainer
+    - rails
 ---
 <img class="cover" src=https://railsatscale.com/2023-06-12-rewriting-the-ruby-parser/error-tolerance.png>
 

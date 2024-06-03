@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-09-27
 ---
 
-
-
   * [Goodhart’s Law: Are Academic Metrics Being Gamed?](<https://thegradient.pub/over-optimization-of-academic-publishing-metrics/>)
 
 Interesting trends in scholarly work, references, citations and academic

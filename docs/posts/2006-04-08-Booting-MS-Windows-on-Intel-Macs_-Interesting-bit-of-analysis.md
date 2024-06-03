@@ -4,18 +4,11 @@ author: Pito Salas
 date: 2006-04-08
 ---
 
-
->>
-
->> To be honest, hardly followed the [pages and
+To be honest, hardly followed the [pages and
 pages](<http://del.icio.us/search/?setcount=100&all=bootcamp>) of blog
 analysis of Apple's recent release of "Boot Camp" a utility allowing users to
 boot WIndows XP on Macintosh Intel-based computers. Didn't seem like that big
-a deal to me.
-
->>
-
->> Today in the New York Times, a [good op-ed
+a deal to me. Today in the New York Times, a [good op-ed
 piece](<http://www.nytimes.com/2006/04/08/opinion/08cringely.html?_r=1&oref=slogin>)
 analyzing what it may or may not mean, by [Robert X.
 Cringely](<http://www.pbs.org/cringely/>). If you haven't followed the debate,
@@ -36,10 +29,7 @@ Attack](<http://www.nytimes.com/2006/04/08/opinion/08cringely.html?_r=1&oref=slo
 
 >> [Read the
 article](<http://www.nytimes.com/2006/04/08/opinion/08cringely.html?_r=1&oref=slogin>).
-
->>
-
->> Technorati Tags: [apple](<http://www.technorati.com/tag/apple>),
+Technorati Tags: [apple](<http://www.technorati.com/tag/apple>),
 [bootcamp](<http://www.technorati.com/tag/bootcamp>)
 
 

@@ -7,6 +7,9 @@ cover: "https://cdn2.hubspot.net/hubfs/493098/images/posts/1434724171-javascript
 date: 2021-04-06
 tags:
     - Software Engineering
+    - rails
+    - rails ruby
+    - ruby
 ---
 <img class="cover" src=https://cdn2.hubspot.net/hubfs/493098/images/posts/1434724171-javascript.png#keepProtocol>
 

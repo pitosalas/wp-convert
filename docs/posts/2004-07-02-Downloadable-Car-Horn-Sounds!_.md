@@ -4,12 +4,9 @@ author: Pito Salas
 date: 2004-07-02
 ---
 
-
->>
-
->> Did you know that you (or your teenager) can buy cool new ring tones for
-their cell phone? They cost a buck or two and are quite the rage, especially
-in countries other than the US 🙂 You probably knew this.
+Did you know that you (or your teenager) can buy cool new ring tones for their
+cell phone? They cost a buck or two and are quite the rage, especially in
+countries other than the US 🙂 You probably knew this.
 
 >>
 

@@ -7,9 +7,9 @@ cover: "https://pbs.twimg.com/media/FM8YWOOXEAQRRat.jpg:large"
 date: 2022-03-07
 tags:
     - rails
-    - activerecord
     - howto
     - joins
+    - active-record
 ---
 <img class="cover" src=https://pbs.twimg.com/media/FM8YWOOXEAQRRat.jpg:large>
 

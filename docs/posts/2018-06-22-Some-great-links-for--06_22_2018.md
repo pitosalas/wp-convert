@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-06-22
 ---
 
-
-
   * [P. Maier GmbH Watch Shop - P. Maier GmbH](<https://www.maier-uhren.de>)
 
 tags: [watch](<https://www.diigo.com/user/pitosalas/watch>)

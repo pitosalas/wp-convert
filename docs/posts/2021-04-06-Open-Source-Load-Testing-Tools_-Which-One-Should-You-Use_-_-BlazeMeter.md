@@ -6,10 +6,10 @@ link: "https://blazemeter.com/blog/open-source-load-testing-tools-which-one-shou
 cover: "https://www.blazemeter.com/new_images/bzm-logo.png" 
 date: 2021-04-06
 tags:
-    - testing
     - sinatra
     - scaling
     - review
+    - test
 ---
 <img class="cover" src=https://www.blazemeter.com/new_images/bzm-logo.png>
 

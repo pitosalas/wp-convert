@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2004-05-17
 ---
 
-
->>
-
->> As you know we are developing [BlogBridge](<http://www.blogbridge.com>), "a
+As you know we are developing [BlogBridge](<http://www.blogbridge.com>), "a
 new kind of blog reader." As you may know, BlogBridge is [open source
 ](<https://sourceforge.net/projects/blogbridge/>)(see
 https://sourceforge.net/projects/blogbridge/.)

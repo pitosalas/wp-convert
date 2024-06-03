@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2014-08-28
 ---
 
-
-
 Interesting story…
 
 > "My summer internship was full of many positive experiences. I won’t forget,

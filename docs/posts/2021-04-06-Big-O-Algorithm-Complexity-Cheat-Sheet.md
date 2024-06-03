@@ -7,10 +7,10 @@ cover: "https://rdl.ink/render/http%3A%2F%2Fbigocheatsheet.com"
 date: 2021-04-06
 tags:
     - big-o
-    - computer-science
-    - algorithm
-    - cheat-sheet
     - explainer
+    - computerscience
+    - algorithms
+    - cheatsheet
 ---
 <img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fbigocheatsheet.com>
 

@@ -10,6 +10,8 @@ tags:
     - rails
     - frsmework
     - web
+    - rails ruby
+    - ruby
 ---
 <img class="cover" src=https://www.sphereinc.com/wp-content/uploads/2016/02/go-for-rails-developers.webp>
 

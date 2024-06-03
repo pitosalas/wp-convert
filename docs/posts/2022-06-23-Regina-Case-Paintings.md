@@ -7,7 +7,7 @@ cover: "https://rdl.ink/render/https%3A%2F%2Freginacase.com%2Flinks.html"
 date: 2022-06-23
 tags:
     - art
-    - paintings
+    - painting
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Freginacase.com%2Flinks.html>
 

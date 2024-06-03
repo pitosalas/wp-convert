@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-03-16
 ---
 
-
-
 I am constantly downloading applications and utilities off the web to try this
 or that out. I am as paranoid as the next guy so I do think about where this
 app came from and what havock it may or may not be planning.

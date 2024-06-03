@@ -7,8 +7,6 @@ tags:
     - farnsworth
 ---
 
-
-
 [ Farnsworth House - Wikipedia](<
 https://en.wikipedia.org/wiki/Farnsworth_House>) –
 

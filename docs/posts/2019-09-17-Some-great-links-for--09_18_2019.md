@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-09-17
 ---
 
-
-
   * [Listen Notes: The best podcast search engine](<https://www.listennotes.com>)
 
 Really useful tool to find podcasts and episodes. A nice looking podcast

@@ -7,6 +7,9 @@ cover: "https://www.mrpt.org/wp-content/uploads/2013/10/kf-slam-6d-demo.jpg"
 date: 2021-04-06
 tags:
     - FOOBAR
+    - robot
+    - robot-kit
+    - robotics
 ---
 <img class="cover" src=https://www.mrpt.org/wp-content/uploads/2013/10/kf-slam-6d-demo.jpg>
 

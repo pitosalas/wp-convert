@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-06-20
 ---
 
-
-
 Check out [this
 post](<http://feeds.tuaw.com/~r/weblogsinc/tuaw/~3/126525047/>) from [The
 Unofficial Apple Weblog (TUAW)](<http://www.tuaw.com>):
@@ -21,7 +19,7 @@ Unofficial Apple Weblog (TUAW)](<http://www.tuaw.com>):
 > across America will be standing guard and providing security for the giant
 > iPhone launch event."
 >
-> ( **from** : [iPhone Crowd
+> (**from** : [iPhone Crowd
 > Control](<http://feeds.tuaw.com/~r/weblogsinc/tuaw/~3/126525047/>))
 
 Can we just **get a life** already?

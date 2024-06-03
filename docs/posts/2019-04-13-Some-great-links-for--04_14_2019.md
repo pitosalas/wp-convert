@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-04-13
 ---
 
-
-
   * [Maintain the "GitHub flow" with Gitpod, an online, browser IDE - JAXenter](<https://jaxenter.com/gitpod-github-ide-157678.html>)
 
 Looks quite useful if it works nicely.

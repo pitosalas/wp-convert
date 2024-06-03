@@ -9,8 +9,6 @@ tags:
     - security
 ---
 
-
-
 I was rather pleased with myself!
 
 I have been changing all my passwords to easier to remember but supposedly
@@ -27,10 +25,7 @@ like it was not as secure as the experts were telling me…
 Shoot. Here we go again. Now it seems simple length is not good enough,
 occording to this article.
 
-["thereisnofatebutwhat­wemake"--Turbo-charged cracking comes to long passwords
-| Ars
-Technica](<http://arstechnica.com/security/2013/08/thereisnofatebutwhatwemake-
-turbo-charged-cracking-comes-to-long-passwords/>):
+["thereisnofatebutwhat­wemake"--Turbo-charged cracking comes to long passwords | Ars Technica](<http://arstechnica.com/security/2013/08/thereisnofatebutwhatwemake-turbo-charged-cracking-comes-to-long-passwords/>):
 
 > For the first time, the freely available password cracker ocl-Hashcat-plus
 > is able to tackle passcodes with as many as 55 characters. It's an

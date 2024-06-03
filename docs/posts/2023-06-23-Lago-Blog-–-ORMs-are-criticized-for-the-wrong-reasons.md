@@ -10,8 +10,6 @@ tags:
     - sql
 ---
 
-
-
 [ Lago Blog - ORMs are criticized for the wrong
 reasons](<https://www.getlago.com/blog/orms-are-criticized-for-the-wrong-
 reasons>) –ORMs, often criticized, are typically misused rather than

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-11-11
 ---
 
-
-
   * [App Downloads – GeoGebra](<http://Amazing trigonometry visual calculator>)
 
 Ok you don't need this more than once every decade, but if you do need help in

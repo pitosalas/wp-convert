@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2006-02-05
 ---
 
-
->>
-
->> [Amyloo](<http://blogs.opml.org/amyloo/>) has an [interesting
+[Amyloo](<http://blogs.opml.org/amyloo/>) has an [interesting
 post](<http://blogs.opml.org/amyloo/2006/02/04#churningUrnsOfBurningFunk>)
 about reading lists. One thing **bears expanding** on:
 
@@ -17,7 +14,7 @@ about reading lists. One thing **bears expanding** on:
 static -- refined and appended to, but keeping most of the same data over
 time. A slant on reading lists I've thought about are specialized lists that
 change their composition entirely on a periodic basis, a list in which none of
-the feeds you see today may be there next week." ( **from** [Churning urns of
+the feeds you see today may be there next week." (**from** [Churning urns of
 burning
 funk](<http://blogs.opml.org/amyloo/2006/02/04#churningUrnsOfBurningFunk>))
 
@@ -25,34 +22,20 @@ funk](<http://blogs.opml.org/amyloo/2006/02/04#churningUrnsOfBurningFunk>))
 
 >> **True**. And actually there are a lot of very interesting sources for
 reading lists which are not human experts but still make very interesting
-reading.
-
->>
-
->> For example, you can get [Feedster's Top
+reading.  For example, you can get [Feedster's Top
 100](<http://top500.feedster.com/>) Blogs as a [Reading
 List](<http://top500.feedster.com/top500.php?type=opml>). The result using
 this hyperlink as a Reading List is a dynamic set of feeds, the Feedster 100,
-which is automatically changed whenever Feedster resorts their Top100.
-
->>
-
->> Almost more interesting, you can use Gada.be to compute a dynamic Reading
-List which is the result of a search query. So for example, interactively,
-here is Gada.be's search result for Chris Pirillo. And here is the same thing
-as a [Reading List.](<http://gada.be/d/chrispirillo/opml>) The result of using
-this hyperlink as a Reading List is a set of feeds corresponding to the result
-of the search in a whole series of search engines.
-
->>
-
->> [Try both examples in
+which is automatically changed whenever Feedster resorts their Top100. Almost
+more interesting, you can use Gada.be to compute a dynamic Reading List which
+is the result of a search query. So for example, interactively, here is
+Gada.be's search result for Chris Pirillo. And here is the same thing as a
+[Reading List.](<http://gada.be/d/chrispirillo/opml>) The result of using this
+hyperlink as a Reading List is a set of feeds corresponding to the result of
+the search in a whole series of search engines. [Try both examples in
 BlogBridge](<http://www.blogbridge.com/archives/2006/02/how_do_i_subscr.php>)
 to see. Makes your **head spin** doesn't it? (At least it does mine 🙂
-
->>
-
->> Technorati Tags: [OPML](<http://www.technorati.com/tag/OPML>),
+Technorati Tags: [OPML](<http://www.technorati.com/tag/OPML>),
 [readinglists](<http://www.technorati.com/tag/readinglists>)
 
 

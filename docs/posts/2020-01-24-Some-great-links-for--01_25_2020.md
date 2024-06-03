@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-01-24
 ---
 
-
-
   * [How I write backends](<https://github.com/fpereiro/backendlore/blob/master/readme.md>)
 
 Very nice detailed set of guidelines for a scalable node backend

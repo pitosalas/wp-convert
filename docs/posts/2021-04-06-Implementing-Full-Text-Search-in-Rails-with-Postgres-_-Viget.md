@@ -7,6 +7,7 @@ cover: "https://static.viget.com/ryan-blog.jpg?mtime=20160629135022&focal=none"
 date: 2021-04-06
 tags:
     - postgres tip search text fulltext postgresql
+    - postgres
 ---
 <img class="cover" src=https://static.viget.com/ryan-blog.jpg?mtime=20160629135022&focal=none>
 

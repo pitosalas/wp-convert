@@ -8,7 +8,6 @@ date: 2022-05-13
 tags:
     - argumentation
     - debate
-    - reason
 ---
 <img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fmnei.nl%2Fschopenhauer%2F38-stratagems.htm>
 

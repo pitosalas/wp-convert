@@ -5,6 +5,8 @@ url: "https://consensus.app/search/"
 link: "https://consensus.app/search/" 
 cover: "https://consensus.app/images/og-search.png" 
 date: 2023-12-30
+tags:
+    - research
 ---
 <img class="cover" src=https://consensus.app/images/og-search.png>
 

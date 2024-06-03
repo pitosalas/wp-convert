@@ -7,11 +7,11 @@ cover: "https://www.akshaykhot.com/content/images/2023/05/concerns-5.png"
 date: 2023-06-01
 tags:
     - rails
-    - object-oriented-prpgramming
     - oop
     - concerns
     - ruby
     - modules
+    - object-oriented
 ---
 <img class="cover" src=https://www.akshaykhot.com/content/images/2023/05/concerns-5.png>
 

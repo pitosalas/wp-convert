@@ -9,8 +9,6 @@ tags:
     - products
 ---
 
-
-
 The [Launch Conference](<http://www.launch.co/>) is starting today. It is
 descended from many venerable conferences, particularly like
 [Demo](<http://www.demo.com/ehome/index.php?eventid=29414&>). I was a fairly
@@ -43,7 +41,7 @@ about [AidAide](<http://bostinno.com/2011/04/15/harvard-sophomore-founds-aid-
 aide-to-help-students-find-financial-aid/screen-
 shot-2011-04-12-at-12-25-53-pm/>). Just shows, like there are no new ideas!)
 
-[**Vocre.com**](<http://vocre.com/>) **:** Video calls with live language
+[**Vocre.com**](<http://vocre.com/>)**:** Video calls with live language
 translation. I speak in English. I see the text of my message to make sure
 it's correct. I press send and my counterpart hear's my message in, say,
 Italian.

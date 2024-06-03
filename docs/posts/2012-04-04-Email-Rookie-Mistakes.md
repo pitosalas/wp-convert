@@ -9,8 +9,6 @@ tags:
     - rooky
 ---
 
-
-
 I've watched some people struggling with some email blow ups and frustrations
 over the years and I was just thinking about some of the ways I've developed
 to avoid them. I am not going into the best salutation or the best conclusion

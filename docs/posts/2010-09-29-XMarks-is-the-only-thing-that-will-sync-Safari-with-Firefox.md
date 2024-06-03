@@ -10,8 +10,6 @@ tags:
     - xmarks
 ---
 
-
-
 And, it's leaving us:
 
 > "The past four years have been a wild ride for us: growing something from

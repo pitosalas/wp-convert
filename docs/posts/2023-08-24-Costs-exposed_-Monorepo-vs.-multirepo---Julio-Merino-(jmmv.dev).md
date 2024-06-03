@@ -10,7 +10,7 @@ tags:
     - git
     - github
     - monorepo
-    - comparison
+    - compare
 ---
 <img class="cover" src=https://jmmv.dev/images/2023-08-23-freebsd-gnome-repos.png>
 

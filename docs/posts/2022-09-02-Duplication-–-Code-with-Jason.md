@@ -9,8 +9,6 @@ tags:
     - software-engineering
 ---
 
-
-
 [ Duplication - Code with Jason](<
 https://www.codewithjason.com/duplication/>) –Duplication can pose serious
 maintenance problems to codebases. Developers’ attempts to fix duplication can

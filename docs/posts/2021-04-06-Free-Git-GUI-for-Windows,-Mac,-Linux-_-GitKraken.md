@@ -7,6 +7,7 @@ cover: "https://www.gitkraken.com/img/og/og-git-client.png"
 date: 2021-04-06
 tags:
     - software howto git cli client
+    - github
 ---
 <img class="cover" src=https://www.gitkraken.com/img/og/og-git-client.png>
 

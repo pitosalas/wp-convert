@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-12-08
 ---
 
-
-
   * [7 Deadly Sins Python Developers Do](<https://link.medium.com/s5bCXwQa3bb>)
 
 Another set of very useful Python tips and tricks.

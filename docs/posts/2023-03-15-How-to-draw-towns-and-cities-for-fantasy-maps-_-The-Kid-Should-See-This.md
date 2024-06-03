@@ -7,11 +7,10 @@ cover: "https://thekidshouldseethis.com/wp-content/uploads/2023/03/a2f7wxlcd6s.j
 date: 2023-03-15
 tags:
     - art
-    - games
-    - maps
     - map
     - drawing
     - design
+    - game
 ---
 <img class="cover" src=https://thekidshouldseethis.com/wp-content/uploads/2023/03/a2f7wxlcd6s.jpg>
 

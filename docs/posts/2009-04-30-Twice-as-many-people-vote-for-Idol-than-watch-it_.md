@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2009-04-30
 ---
 
-
-
 This does not compute:
 
 > "As the final five contestants on “American Idol” competed for a chance at
@@ -14,7 +12,7 @@ This does not compute:
 >
 > According to Nielsen’s estimates, 22.5 million viewers tuned in to the
 > reality show during the 8 p.m. hour, easily more than any other program on
-> Tuesday" ( **from** [New York
+> Tuesday" (**from** [New York
 > Times](<http://tvdecoder.blogs.nytimes.com/2009/04/29/ratings-first-place-
 > for-the-final-five-idols/?scp=2&sq=idol&st=cse>))
 

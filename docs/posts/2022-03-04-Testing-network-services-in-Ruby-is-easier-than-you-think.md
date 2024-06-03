@@ -6,12 +6,12 @@ link: "https://www.justinweiss.com/articles/testing-network-services-in-ruby/"
 cover: "https://www.justinweiss.com/images/me-square.jpg" 
 date: 2022-03-04
 tags:
-    - testing
     - doubles
     - ruby
     - network
     - soa
     - cosi105
+    - test
 ---
 <img class="cover" src=https://www.justinweiss.com/images/me-square.jpg>
 

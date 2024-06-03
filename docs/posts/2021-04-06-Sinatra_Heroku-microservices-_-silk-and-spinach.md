@@ -7,9 +7,8 @@ cover: "https://s0.wp.com/i/blank.jpg"
 date: 2021-04-06
 tags:
     - sinatra
-    - microservices
-    - reddis
     - queueing
+    - microservice
 ---
 <img class="cover" src=https://s0.wp.com/i/blank.jpg>
 

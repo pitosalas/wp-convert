@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2004-11-11
 ---
 
-
->>
-
->> If you haven't heard about
+If you haven't heard about
 [Wikipedia](<http://en.wikipedia.org/wiki/Main_Page>), you should check it
 out. It's a grass roots encyclopedia. It has a huge number of articles,
 contributed in general by anyone who feels like writing an article, presumably

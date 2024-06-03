@@ -7,8 +7,6 @@ tags:
     - con-tagsumer-reports
 ---
 
-
-
 ![](https://i0.wp.com/salas.com/wp-
 content/uploads/2013/08/b4582-img_2028.jpg?w=584&ssl=1)
 

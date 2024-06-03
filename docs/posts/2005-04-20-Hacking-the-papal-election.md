@@ -4,18 +4,12 @@ author: Pito Salas
 date: 2005-04-20
 ---
 
-
->>
-
->> I have to admit to being **fascinated** with the Vatican, and the
-**ancient** , elaborate **traditions** and **rules** that surround the papacy.
-
->>
-
->> Bruce Schneier, in his ( **excellent** ) monthly newsletter had a [really
-interesting discussion](<http://www.schneier.com/crypto-gram-0504.html#8>)
-about the rules and procedures that have been set down (and fairly
-**recently** updated) for the papal election:
+I have to admit to being **fascinated** with the Vatican, and the **ancient**
+, elaborate **traditions** and **rules** that surround the papacy.  Bruce
+Schneier, in his (**excellent**) monthly newsletter had a [really interesting
+discussion](<http://www.schneier.com/crypto-gram-0504.html#8>) about the rules
+and procedures that have been set down (and fairly **recently** updated) for
+the papal election:
 
 >>
 

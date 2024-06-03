@@ -8,7 +8,6 @@ date: 2022-11-29
 tags:
     - scale
     - bottleneck
-    - locks
     - lock
     - performance
     - code

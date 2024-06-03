@@ -8,7 +8,7 @@ date: 2022-12-30
 tags:
     - heroku
     - hosting
-    - alternatives
+    - alternative
 ---
 <img class="cover" src=https://miro.medium.com/max/1200/1*huSfnrEenakS17YeLLlngg.png>
 

@@ -11,8 +11,6 @@ tags:
     - twitter
 ---
 
-
-
 A simple question that for some reason does not have a simple answer:
 
 > "I want to follow someone's twitter feed using an RSS reader, where is it?"

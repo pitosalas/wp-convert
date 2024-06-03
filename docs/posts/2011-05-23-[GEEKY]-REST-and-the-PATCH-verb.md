@@ -10,8 +10,6 @@ tags:
     - put
 ---
 
-
-
 Last year when teaching [REST](<http://www.packetizer.com/ws/rest.html>)
 concepts at Brandeis University I proved the truism that there's no better way
 to learn about something than to try and teach it. We (all) wrapped ourselves

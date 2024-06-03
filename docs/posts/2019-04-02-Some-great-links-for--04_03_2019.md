@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-04-02
 ---
 
-
-
   * [Architecting Ruby on Rails Apps as Microservices | Codeship | via @codeship](<http://blog.codeship.com/architecting-rails-apps-as-microservices/?utm_source=rubyweekly&utm_medium=email>)
 
 Great article about Service Oriented Architectures

@@ -11,8 +11,6 @@ tags:
     - Programming
 ---
 
-
-
 I know basic Javascript. I think I will be learning more soon. I think
 JavaScript is the language of the (near) future. Predicting what the language
 of the (further) future is would be impossible, as programming languages come
@@ -36,7 +34,7 @@ language:](<http://ejohn.org/blog/javascript-as-a-first-language/>)
 > "At [Khan Academy](<http://www.khanacademy.org/>) we've been investigating
 > teaching Computer Science to students in some new and interesting ways. The
 > most interesting aspect of which is that we're likely going to be teaching
-> them JavaScript as their first language." ( **from:**[JavaScript as a first
+> them JavaScript as their first language." (**from:**[JavaScript as a first
 > Language](<http://ejohn.org/blog/javascript-as-a-first-language/>))
 
 Read the whole article, it's pretty cool!

@@ -4,17 +4,14 @@ author: Pito Salas
 date: 2004-12-22
 ---
 
-
->>
-
->> First the **punchline** : [go to this link, fill out a short
+First the **punchline** : [go to this link, fill out a short
 questionaire,](<http://www.successandyou.net/RAC/>) and receive a $15
 Starbucks gift card in the mail, no questions asked. But hurry, because I
 wouldn't be surprised if that offer evaporates quickly.
 
 >>
 
->> Here is one of those cool " **internet effects. "** There's a site called
+>> Here is one of those cool "**internet effects. "** There's a site called
 [DealNews ](<http://www.dealnews.com>)where you can immediate reports of
 interesting offers, coupons, deals, etc. They are posted there by I don't know
 who - people without a life. They also [have an RSS Feed

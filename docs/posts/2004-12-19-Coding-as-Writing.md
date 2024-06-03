@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2004-12-19
 ---
 
-
->>
-
->> If you read this blog at all, you know that I've been working on a piece of
+If you read this blog at all, you know that I've been working on a piece of
 software ([BlogBridge](<http://www.blogbridge.com>)) which at this point I am
 pretty excited about, even though I don't know where it will go or end up.
 

@@ -9,8 +9,9 @@ tags:
     - howto
     - rails
     - heroku
-    - deployment
     - kubernetes
+    - deploy
+    - scale deploy build rails docker howto
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fgetkuby.io>
 

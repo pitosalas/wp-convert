@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2010-07-28
 ---
 
-
-
 Continuing the post from the other day about Wikileaks, I found some excellent
 further links that might interest you:
 

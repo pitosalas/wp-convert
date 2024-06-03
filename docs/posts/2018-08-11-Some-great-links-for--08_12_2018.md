@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-08-11
 ---
 
-
-
   * [Webmentions: Enabling Better Communication on the Internet](<https://alistapart.com/article/webmentions-enabling-better-communication-on-the-internet>)
 
 Very interesting underused feature in web communication

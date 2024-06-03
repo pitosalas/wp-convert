@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2009-03-03
 ---
 
-
-
 Check out this post [The Stimulus Gets Its Own
 Logo](<http://feedproxy.google.com/~r/clusterstock/~3/S3OuWiYTLfc/the-
 stimulus-gets-its-own-logo-2009-3>):

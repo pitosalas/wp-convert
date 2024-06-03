@@ -6,10 +6,10 @@ link: "https://www.codementor.io/@lmuzinic/how-good-is-your-test-suite-g93tx6qot
 cover: "https://cdn.filestackcontent.com/56bublXcS7myC0b6QOSX" 
 date: 2022-03-09
 tags:
-    - testing
     - mutation-testing
     - properties
     - software 737 bugs testing airplane warstories quality
+    - test
 ---
 <img class="cover" src=https://cdn.filestackcontent.com/56bublXcS7myC0b6QOSX>
 

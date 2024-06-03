@@ -9,8 +9,6 @@ tags:
     - public
 ---
 
-
-
 If you work with non-profit projects that collect or disseminate large amounts
 of public data, you would find this interesting.
 
@@ -26,7 +24,7 @@ From their site:
 > AWS is hosting the public data sets at no charge for the community, and like
 > all AWS services, users pay only for the compute and storage they use for
 > their own applications. Learn more about Public Data Sets on AWS and visit
-> the Public Data Sets forum." ( **from** [Amazon's Public Data
+> the Public Data Sets forum." (**from** [Amazon's Public Data
 > Sets](<http://aws.amazon.com/datasets>))
 
 Here's the link: <http://aws.amazon.com/datasets>

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-11-01
 ---
 
-
-
   * [PyRobot: An Open Source Robotics Research Platform](<https://github.com/facebookresearch/pyrobot?utm_source=share&utm_medium=ios_app&utm_name=iossmf>)
 
 Very nice python interface to control a robot that hides a lot of the

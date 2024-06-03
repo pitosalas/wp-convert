@@ -8,9 +8,9 @@ date: 2021-04-06
 tags:
     - boosters
     - productivity
-    - tools
     - tricks
     - howto
+    - tool
 ---
 <img class="cover" src=https://res.cloudinary.com/practicaldev/image/fetch/s--hkKQddrx--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/b02v13rxiqrqcrsnqnwp.png>
 

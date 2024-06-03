@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-03-11
 ---
 
-
-
 On Mac, I've been using only FireFox for a while now. But lately I've seen
 some things that have made me nervous. More than once I've seen FireFox peg
 the CPU for no apparent reason. Recently I had bad experiences with the latest

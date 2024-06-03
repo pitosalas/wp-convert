@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2014-08-13
 ---
 
-
-
 ![](https://i0.wp.com/salas.com/wp-
 content/uploads/2014/08/f41d7-1407946425174.jpg?w=584&ssl=1)
 

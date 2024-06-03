@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2014-06-27
 ---
 
-
-
 Interesting article: [The media loves the "wrong speed" theory, but a
 lightning strike and electrical failure are more likely
 culprits.](<http://www.salon.com/tech/col/smith/2009/06/08/storm/print.html>)  

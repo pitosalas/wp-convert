@@ -6,8 +6,6 @@ tags:
     - design
 ---
 
-
-
 [ Randall Degges - Heroku and SOA](<https://www.rdegges.com/2014/heroku-and-
 soa/>)
 

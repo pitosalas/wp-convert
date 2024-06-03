@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-10-06
 ---
 
-
-
   * [SQL queries don't start with SELECT - Julia Evans](<https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select/>)
 
 Surprising and useful way to think about correct SQL statements.

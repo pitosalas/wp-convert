@@ -6,7 +6,8 @@ link: "https://www.bignerdranch.com/blog/testing-rails-service-oriented-architec
 cover: "https://www.bignerdranch.com/assets/img/blog/2014/07/SOA-architecture.png" 
 date: 2021-04-06
 tags:
-    - testing
+    - test
+    - service-oriented-architecture
 ---
 <img class="cover" src=https://www.bignerdranch.com/assets/img/blog/2014/07/SOA-architecture.png>
 

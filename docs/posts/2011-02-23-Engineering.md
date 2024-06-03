@@ -7,8 +7,6 @@ tags:
     - failure
 ---
 
-
-
 Some choice quotes to introduce a good [lecture about
 Engineering](<http://sunnyday.mit.edu/16.355/Augustine.htm>):
 
@@ -28,7 +26,7 @@ Engineering](<http://sunnyday.mit.edu/16.355/Augustine.htm>):
 >
 > Or listen to a great aviator speaking about the profession: "Flying machines
 > will eventually be fast; they will be used in sport but they should not be
-> thought of as commercial carriers."' ( **from** [1996 Woodruff Distinguished
+> thought of as commercial carriers."' (**from** [1996 Woodruff Distinguished
 > Lecture by Norman
 > Augustine](<http://sunnyday.mit.edu/16.355/Augustine.htm>))
 

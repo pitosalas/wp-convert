@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2009-11-21
 ---
 
-
-
 An article from Canadian Healthcare Technology notes that [US Healthcare
 wastes up to $800 billion a year.](<http://www.canhealth.com/News1252.html>) I
 don't disbelieve this article but it doesn't make me not want to start with

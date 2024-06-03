@@ -4,12 +4,11 @@ author: Pito Salas
 date: 2006-10-11
 ---
 
+Before I discuss this new product idea I am turning over in my mind, I want to
+say a few things about why I keep working in this area. I mean there are so
+many people working on aggregators, and after all Microsoft is building it
+into IE, and it's been in FireFox for a while. Why bother?
 
->
-> Before I discuss this new product idea I am turning over in my mind, I want
-> to say a few things about why I keep working in this area. I mean there are
-> so many people working on aggregators, and after all Microsoft is building
-> it into IE, and it's been in FireFox for a while. Why bother?
 >
 > I've thought all along, and I still believe, that all these blog readers, or
 > aggregators, or whatever you want to call them are **really important** but
@@ -19,10 +18,10 @@ date: 2006-10-11
 > are very much **generation zero,** and are more or less following the same
 > pattern, in a way set by email readers.
 >
-> The reason I am very **bullish** on this **space** (and I use that vague
-> term on purpose) is that there is so much useful, general, non geek, high
-> quality information out there, that such a large percentage of people have
-> no idea about, and yet if they could see it they would devour it.
+> The reason I am very **bullish** on this **space**(and I use that vague term
+> on purpose) is that there is so much useful, general, non geek, high quality
+> information out there, that such a large percentage of people have no idea
+> about, and yet if they could see it they would devour it.
 >
 > Just recently I was reading Discover Magazine, and I came across an
 > [interesting

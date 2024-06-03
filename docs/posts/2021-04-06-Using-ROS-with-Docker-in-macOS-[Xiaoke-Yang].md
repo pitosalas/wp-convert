@@ -7,6 +7,7 @@ cover: "https://rdl.ink/render/https%3A%2F%2Fwww.xiaokeyang.com%2Fblog%2Fusing_r
 date: 2021-04-06
 tags:
     - mac ros docker gazebo
+    - scale deploy build rails docker howto
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.xiaokeyang.com%2Fblog%2Fusing_ros_with_docker_in_macos>
 

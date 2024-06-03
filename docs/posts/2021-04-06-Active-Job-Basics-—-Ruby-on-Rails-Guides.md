@@ -7,7 +7,7 @@ cover: "https://avatars.githubusercontent.com/u/4223"
 date: 2021-04-06
 tags:
     - ruby
-    - activejob
+    - active-job
 ---
 <img class="cover" src=https://avatars.githubusercontent.com/u/4223>
 

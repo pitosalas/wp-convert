@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-08-23
 ---
 
-
-
 Bill Ives of the [[tag]Portals and KM[/tag]
 blog](<http://billives.typepad.com/portals_and_km/>) did an [interesting bit
 of

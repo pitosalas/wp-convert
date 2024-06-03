@@ -11,8 +11,6 @@ tags:
     - science-and-philosophy
 ---
 
-
-
 I saw an article in the New York Times and other places about the future of
 the University, and even the End of the University. I have a bit of a
 curiosity about this topic as [Lecturer at Brandeis
@@ -28,7 +26,7 @@ university.html>) and giving his own perspective, where he says:
 > start talking about curricular reform (say, revising the core curriculum of
 > a college)-very quickly principled discussion of what constitutes a good
 > education devolves into a matter of protecting faculty "lines" in "our"
-> department. ( **from** : [The End of the
+> department. (**from** : [The End of the
 > University?)](<http://forsclavigera.blogspot.com/2009/04/end-of-
 > university.html>)
 

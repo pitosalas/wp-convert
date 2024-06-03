@@ -6,8 +6,6 @@ tags:
     - pagerank-countermeasures-colossus-mon-tagey-ecommerce
 ---
 
-
-
 As you may have heard, I've been learning all about Search Engine Optimization
 (SEO) lately. I just came across this amazing little service called the
 [DigPageRank Pagerank Checker](<http://digpagerank.com/index.php>). The story

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-06-13
 ---
 
-
-
   * [Enhanced Shell Scripting with Ruby](<https://www.devdungeon.com/content/enhanced-shell-scripting-ruby>)
 
 Really nice summary of using ruby for scripting.

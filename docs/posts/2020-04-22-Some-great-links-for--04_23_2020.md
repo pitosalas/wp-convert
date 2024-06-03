@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-04-22
 ---
 
-
-
   * [Stripe is Silently Recording Your Movements On its Customers' Websites · mtlynch.io](<https://mtlynch.io/stripe-recording-its-customers/>)
 
 This kind of thing doesn’t bother me too much. But I know certain people are

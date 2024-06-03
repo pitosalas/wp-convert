@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-01-17
 ---
 
-
-
   * [101 Bash Commands and Tips for Beginners to Experts](<https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je?utm_source=Newsletter+Subscribers&utm_campaign=bd8f7b0ddf-EMAIL_CAMPAIGN_2019_01_14_07_51&utm_medium=email&utm_term=0_d8f11d5d1e-bd8f7b0ddf-154336497>)
 
 Always looking for new productivity in the shell!

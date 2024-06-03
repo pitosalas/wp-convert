@@ -12,6 +12,7 @@ tags:
     - poetry
     - pip
     - pyenv
+    - python-package
 ---
 <img class="cover" src=>
 

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2010-02-08
 ---
 
-
-
 That was the old slogan of [Jon Stewart's Daily
 Show](<http://www.thedailyshow.com/>). This morning, while I was in a meeting,
 my cell phone reported the following 'breaking news' from

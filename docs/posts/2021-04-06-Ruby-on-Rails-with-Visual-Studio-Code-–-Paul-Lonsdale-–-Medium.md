@@ -7,6 +7,8 @@ cover: "https://miro.medium.com/max/640/1*oRZJdK1AUiPVSyjXbIeHdA.png"
 date: 2021-04-06
 tags:
     - ruby
+    - rails
+    - rails ruby
 ---
 <img class="cover" src=https://miro.medium.com/max/640/1*oRZJdK1AUiPVSyjXbIeHdA.png>
 

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-05-02
 ---
 
-
-
 Check out [this
 post](<http://feeds.feedburner.com/~r/boingboing/iBag/~3/113698776/appendectomy_through.html>)
 from [Boing Boing](<http://www.boingboing.net/>):

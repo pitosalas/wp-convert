@@ -6,10 +6,8 @@ link: "http://www.wandermap.net/en/?tab=new#/z4/54.521081,15.292969/terrain"
 cover: "http://www.wandermap.net/static/img/logo-share.png" 
 date: 2021-12-26
 tags:
-    - walk
     - map
     - hike
-    - hiking
     - trace
 ---
 <img class="cover" src=http://www.wandermap.net/static/img/logo-share.png>

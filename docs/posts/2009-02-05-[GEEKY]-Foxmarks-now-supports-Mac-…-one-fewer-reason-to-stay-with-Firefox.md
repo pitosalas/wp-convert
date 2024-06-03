@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2009-02-05
 ---
 
-
-
 I read in [Personal Technology (Wall Street Journal) today that Foxmarks, the
 handy, free utility that synchronizes my Firefox bookmarks between several
 computers, now works with Safari as

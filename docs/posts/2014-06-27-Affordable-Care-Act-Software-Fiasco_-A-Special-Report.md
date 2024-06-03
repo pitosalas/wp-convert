@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2014-06-27
 ---
 
-
-
 I came across this video by Armando Fox with his views of what went wrong with
 the Obamacare website, from a deep technical perspective. It's part of a
 [University of California at Berkley course on SAAS Software

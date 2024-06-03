@@ -7,6 +7,7 @@ cover: "https://rdl.ink/render/http%3A%2F%2Fwww.agile-tools.net%2Fscrum.asp"
 date: 2021-04-06
 tags:
     - scrum
+    - opensource
 ---
 <img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.agile-tools.net%2Fscrum.asp>
 

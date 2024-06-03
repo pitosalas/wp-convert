@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-09-23
 ---
 
-
-
 Apparently the US State Department has a team of bloggers who get into
 discussions on boards and blogs around the world, taking an interesting
 alternative approach to the usual formal, high level diplomacy:

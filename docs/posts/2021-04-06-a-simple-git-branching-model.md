@@ -7,6 +7,8 @@ cover: "https://raw.githubusercontent.com/gist/jbenet/ee6c9ac48068889b0912/raw/a
 date: 2021-04-06
 tags:
     - git development ruby github programming
+    - git-tips
+    - git
 ---
 <img class="cover" src=https://raw.githubusercontent.com/gist/jbenet/ee6c9ac48068889b0912/raw/a16c3021388a89012ad3baf2f1867db1d9de1e01/z-git-branching.jpg>
 

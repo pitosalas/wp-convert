@@ -8,8 +8,6 @@ tags:
     - politics
 ---
 
-
-
 Americans Elect got Tom Friedman to endorse their effort to get a third party
 presidential ballot in November. He wrote about it and convinced me too that
 it was a good idea. A month or two ago I started having misgivings and now, it
@@ -25,7 +23,7 @@ pretty bleak picture:
 > media blitz would result in a centrist groundswell that revolutionizes
 > American politics. It built no participatory community, and assumed that the
 > Internet would magically serve one up for them. The result has been an all-
-> too-predictable failure." ( **from**
+> too-predictable failure." (**from**
 > [Techpresident.com](<http://techpresident.com/news/22148/op-ed-americans-
 > elect-they-built-it-and-nobody-came#.T6Pvbfdd82E.twitter>))
 
@@ -37,7 +35,7 @@ Maybe we didn't understand the dynamics of the web well enough:
 > The lowered transaction costs of the web help to reveal the true demand
 > curve for citizen politics. That can prove transformative -- particularly
 > around issues where there's pent-up demand, but traditionally high barriers
-> to participation." ( **from**
+> to participation." (**from**
 > [Techpresident.com](<http://techpresident.com/news/22148/op-ed-americans-
 > elect-they-built-it-and-nobody-came#.T6Pvbfdd82E.twitter>))
 
@@ -50,7 +48,7 @@ But that didn't happen:
 >
 > There is no radical center in American politics. Build the nicest platform
 > money can buy for a disinterested population and you're still going to be
-> left hearing the chirp of online crickets." ( **from**
+> left hearing the chirp of online crickets." (**from**
 > [Techpresident.com](<http://techpresident.com/news/22148/op-ed-americans-
 > elect-they-built-it-and-nobody-came#.T6Pvbfdd82E.twitter>))
 

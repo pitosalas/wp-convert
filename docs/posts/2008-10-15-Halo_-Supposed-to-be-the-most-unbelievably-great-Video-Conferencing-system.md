@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-10-15
 ---
 
-
-
 [Halo, from HP. Really?](<http://www.hp.com/halo/what_is.html>)
 
 Unfortunately it is outrageously expensive. Can't find the number online but I

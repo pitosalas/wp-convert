@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2010-02-24
 ---
 
-
-
 I was talking with [Noah Mendelsohn](<http://www.arcanedomain.com/>) this
 morning and we got into a discussion about [RDF](<http://www.w3.org/RDF/>) and
 it's role in the world. Noah mentioned something called
@@ -39,7 +37,7 @@ dbpedia-and-freebase/>):
 > focused on curating unstructured and semi-structured data about everything
 > and releasing it back into the wild (with structure) – get the bulk of their
 > information from Wikipedia, so the amount of topical overlap is assumed to
-> be extremely high" ( **from** [Cross-Pollinating DBPedia and
+> be extremely high" (**from** [Cross-Pollinating DBPedia and
 > Freebase](<http://www.semanticfocus.com/blog/entry/title/cross-pollinating-
 > dbpedia-and-freebase/>))
 

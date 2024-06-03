@@ -4,15 +4,12 @@ author: Pito Salas
 date: 2004-09-27
 ---
 
+You know I am a fan of the cool **little Mars Rovers**. Here's an interesting
+little bit from Nasa:
 
 >>
 
->> You know I am a fan of the cool **little Mars Rovers**. Here's an
-interesting little bit from Nasa:
-
->>
-
->> " **Mars Orbiter Sees Rover Tracks Among Thousands of New Images**
+>> "**Mars Orbiter Sees Rover Tracks Among Thousands of New Images**
 
 >>
 

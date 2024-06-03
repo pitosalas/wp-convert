@@ -7,6 +7,7 @@ cover: "https://d3op8yelmiam9s.cloudfront.net/public/images/2021-02-06/161261083
 date: 2021-04-06
 tags:
     - ruby free tutorials
+    - tutorial
 ---
 <img class="cover" src=https://d3op8yelmiam9s.cloudfront.net/public/images/2021-02-06/1612610831092-learnetto.png>
 

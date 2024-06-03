@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-04-24
 ---
 
-
-
 A really interesting [article for anyone interested in social
 networks](<http://www.danah.org/papers/essays/ClassDivisions.html>) and their
 role and impact in our society.

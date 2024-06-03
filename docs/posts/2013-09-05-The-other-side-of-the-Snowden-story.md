@@ -9,10 +9,7 @@ tags:
     - topsecret
 ---
 
-
-
-[What Did Edward Snowden Get Wrong? Everything |
-RAND](<http://m.rand.org/commentary/2013/08/10/LAT.html>):
+[What Did Edward Snowden Get Wrong? Everything | RAND](<http://m.rand.org/commentary/2013/08/10/LAT.html>):
 
 > Incidents like the Snowden affair put my former colleagues in the
 > intelligence community in an impossible position. Yes, the official

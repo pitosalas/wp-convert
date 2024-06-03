@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-10-27
 ---
 
-
-
 Check out this weird new practice called 5S:
 
 > "5S is a key concept of the lean manufacturing techniques that have made

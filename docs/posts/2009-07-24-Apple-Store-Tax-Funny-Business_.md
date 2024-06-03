@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2009-07-24
 ---
 
-
-
 A friend of mine pointed out that for some reason when he ordered is
 (wonderful) iPhone 3GS, the Apple Store charged the **wrong amount for sales
 tax.**

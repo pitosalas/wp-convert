@@ -7,8 +7,6 @@ tags:
     - photography
 ---
 
-
-
 I know my own Christmas/Channukah gifts have already been purchased by Santa.
 So this is not for me, but I saw a bunch of cool ideas on this list, so I
 thought I would share it! Check this post [10 Great Gifts For Photographers
@@ -24,7 +22,7 @@ School](<http://feeds.feedburner.com/digitalphotographyschool>):
 > for a hair cut or something worse, we’re better off giving the inquiring
 > gift-giver options under $20. Here is a great list of affordable gift
 > suggestions that will put a smile on any photographers face just in time for
-> the holidays!" ( **from** [Digital Photography School)](<http://www.digital-
+> the holidays!" (**from** [Digital Photography School)](<http://www.digital-
 > photography-school.com>)
 
 

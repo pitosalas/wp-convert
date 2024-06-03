@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-09-17
 ---
 
-
-
 Reading this article about [The Casualties Of the NFL, in Men's
 Journal](<http://www.mensjournal.com/feature/M162/M162_CasualtiesoftheNFL.html>)
 the other week really colors my view of the NFL and football. Here's a bit of

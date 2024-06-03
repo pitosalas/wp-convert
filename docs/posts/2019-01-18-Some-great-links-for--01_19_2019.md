@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-01-18
 ---
 
-
-
   * [Using Ruby in 2019 - Jason Charnes](<https://jasoncharnes.com/using-ruby-in-2019/>)
 
 Slightly apologetic rundown of Why Ruby

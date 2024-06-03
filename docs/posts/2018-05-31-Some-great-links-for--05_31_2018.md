@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-05-31
 ---
 
-
-
   * [wrotniak.net: Lenses for Olympus E-System Cameras](<http://wrotniak.net/photo/43/lenses.html>)
 
 tags: [lenses](<https://www.diigo.com/user/pitosalas/lenses>)

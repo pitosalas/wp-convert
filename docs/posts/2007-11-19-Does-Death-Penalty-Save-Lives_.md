@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-11-19
 ---
 
-
-
 Very interesting [article in the New York Times discussing whether the death
 penalty saves lives](<http://www.nytimes.com/2007/11/18/us/18deter.html>),
 

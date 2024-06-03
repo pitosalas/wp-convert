@@ -6,7 +6,8 @@ link: "http://hbswk.hbs.edu/cgi-bin/print"
 cover: "https://hbswk.hbs.edu/PublishingImages/social/hbswk_260.jpg" 
 date: 2021-04-06
 tags:
-    - gametheory microsoft
+    - opensource
+    - gametheory
 ---
 <img class="cover" src=https://hbswk.hbs.edu/PublishingImages/social/hbswk_260.jpg>
 

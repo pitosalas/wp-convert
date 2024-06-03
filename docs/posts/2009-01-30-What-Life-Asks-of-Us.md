@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2009-01-30
 ---
 
-
-
 A column in the NYTimes that offers a very different perspective from what we
 might think of as the goal of a liberal education:
 

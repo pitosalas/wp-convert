@@ -10,8 +10,6 @@ tags:
     - story
 ---
 
-
-
 This is just a great read.
 
 [A Speck in the Sea -

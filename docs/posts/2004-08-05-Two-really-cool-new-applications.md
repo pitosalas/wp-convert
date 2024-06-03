@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2004-08-05
 ---
 
-
->>
-
->> Today I was introduced by two totally different people to **two really cool
+Today I was introduced by two totally different people to **two really cool
 little utilities**.
 
 >>

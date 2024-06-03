@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-12-17
 ---
 
-
-
 [Andy went to FlexCamp](<http://blog.payne.org/2007/12/08/report-flexcamp-
 boston-2007/> "Andy Payne and Flexcamp") last week and was good enough to
 [write up his observations. He says:  

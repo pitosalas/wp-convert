@@ -7,8 +7,6 @@ tags:
     - google
 ---
 
-
-
 That's my Gmail window. The black bar is Google's toolbar.
 
 ![Screen Shot 2012 03 26 at 8 15 21 PM](https://i0.wp.com/salas.com/wp-

@@ -6,8 +6,6 @@ tags:
     - swallow-boathouse
 ---
 
-
-
 [ Swallow Boathouse - Wikipedia](<
 https://en.wikipedia.org/wiki/Swallow_Boathouse>) –
 

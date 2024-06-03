@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-01-31
 ---
 
-
-
 Sites that have to support a huge amount of traffic tend to want to be static
 html. No matter how fast PHP or perl is, in the end, static pages win. So
 tools pop up to allow you to generate a templated site, but generate it into
@@ -19,7 +17,7 @@ site generators. Here's what it does:
 > substituted so that, for example, a menu is generated. Actually, this
 > website was generated with webgen and, for example, the menu that you can
 > see was created dynamically. For more information look at the
-> documentation!" ( **from** [Webgen](<http://webgen.rubyforge.org/index.html>
+> documentation!" (**from** [Webgen](<http://webgen.rubyforge.org/index.html>
 > "software opensource cool"))
 
 

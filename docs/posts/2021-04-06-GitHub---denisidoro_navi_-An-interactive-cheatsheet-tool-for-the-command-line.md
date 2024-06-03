@@ -6,7 +6,7 @@ link: "https://github.com/denisidoro/navi"
 cover: "https://avatars.githubusercontent.com/u/3226564?s=400&v=4" 
 date: 2021-04-06
 tags:
-    - cli cheatsheet shell linux howto advice
+    - cli
 ---
 <img class="cover" src=https://avatars.githubusercontent.com/u/3226564?s=400&v=4>
 

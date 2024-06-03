@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2010-04-14
 ---
 
-
-
 The article "[Reflections on Trusting Trust](<http://cm.bell-
 labs.com/who/ken/trust.html>)" is often mentioned in conversation and cited. I
 finally tracked down and read this classic, and it is indeed a classic of
@@ -19,8 +17,8 @@ impactful:
 > picked on the C compiler. I could have picked on any program-handling
 > program such as an assembler, a loader, or even hardware microcode. As the
 > level of program gets lower, these bugs will be harder and harder to detect.
-> A well installed microcode bug will be almost impossible to detect." (
-> **from** [Reflections on Trusting Trust](<http://cm.bell-
+> A well installed microcode bug will be almost impossible to detect."
+> (**from** [Reflections on Trusting Trust](<http://cm.bell-
 > labs.com/who/ken/trust.html>))
 
 

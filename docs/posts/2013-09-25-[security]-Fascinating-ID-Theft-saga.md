@@ -8,8 +8,6 @@ tags:
     - security
 ---
 
-
-
 It is quite amazing (but not surprising) the degree of sophistication, care,
 and patience these hackers apply. Their engineering and business savvy are at
 the same level as the best of Google and Amazon.

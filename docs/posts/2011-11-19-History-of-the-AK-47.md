@@ -9,8 +9,6 @@ tags:
     - rifles
 ---
 
-
-
 Not my usual topic, but I came across a rather [interesting article about the
 history of the famous (infamous) AK-47 machine
 gun.](<http://www.thenewatlantis.com/publications/the-worlds-most-popular-

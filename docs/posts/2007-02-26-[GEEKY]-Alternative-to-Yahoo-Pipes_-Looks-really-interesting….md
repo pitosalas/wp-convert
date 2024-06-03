@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-02-26
 ---
 
-
-
 Check out [this post](<http://lifehacker.com/software/rss/mash-up-rss-feeds-
 with-xfruits-239457.php>) from [Lifehacker](<http://www.lifehacker.com>):
 

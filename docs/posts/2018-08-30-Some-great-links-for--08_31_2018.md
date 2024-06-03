@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-08-30
 ---
 
-
-
   * [iridakos - Creating a Linux Desktop application with Ruby](<https://iridakos.com/tutorials/2018/01/25/creating-a-gtk-todo-application-with-ruby.html>)
 
 A really nice tutorial explaining how to write a gui app on Linux using Ruby.

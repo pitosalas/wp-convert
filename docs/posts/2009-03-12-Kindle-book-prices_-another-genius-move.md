@@ -14,8 +14,6 @@ tags:
     - son-tagy-ebook-reader
 ---
 
-
-
 Take a book that I was interested in, ["The Lords of Finance", by Liaquat
 Ahamed](<http://www.amazon.com/Lords-Finance-Bankers-Broke-
 World/dp/159420182X/ref=sr_oe_1_1?ie=UTF8&s=digital-

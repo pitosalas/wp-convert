@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-01-12
 ---
 
-
-
   * [Scooter startup Bird tried to silence a journalist. It did not go well. – TechCrunch](<https://techcrunch.com/2019/01/11/scooter-startup-bird-silence-journalist/>)
 
 Fun bit of IP and hacking news. Yeah not fun for the recipient, but

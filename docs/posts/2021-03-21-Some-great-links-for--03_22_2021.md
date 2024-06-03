@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2021-03-21
 ---
 
-
-
   * [GitHub - Overv/outrun: Execute a local command using the processing power of another Linux machine.](<https://github.com/Overv/outrun>)
 
 A pretty amazing little tool if you need this kind of thing!

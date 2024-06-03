@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-12-29
 ---
 
-
-
 I always love [Kevin Kelly's
 writing](<http://www.nytimes.com/2008/11/23/magazine/23wwln-
 future-t.html?_r=1&pagewanted=all>) and thinking and this article in a [recent

@@ -9,8 +9,6 @@ tags:
     - impact
 ---
 
-
-
 Chris Shipley of Guidewire Group has a [great post bemoaning how entrepreneurs
 are driven to invest their time and energy and (other peoples' money) on more
 and more vacuous projects:](<http://guidewiregroup.com/2011/11/make-it-

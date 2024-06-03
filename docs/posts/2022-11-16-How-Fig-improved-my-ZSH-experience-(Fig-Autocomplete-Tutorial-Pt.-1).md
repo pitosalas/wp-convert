@@ -7,7 +7,6 @@ cover: "https://res.cloudinary.com/practicaldev/image/fetch/s--o1GbFd3j--/c_imag
 date: 2022-11-16
 tags:
     - oh-my-zsh
-    - zshell
     - howto
     - performance
     - explainer

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-10-04
 ---
 
-
-
   * [One-liner introduction - Ruby one-liners cookbook](<https://learnbyexample.github.io/learn_ruby_oneliners/one-liner-introduction.html>)
 
 One liners are always fun to learn.

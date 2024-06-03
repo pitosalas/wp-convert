@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-04-11
 ---
 
-
-
   * [Regexper](<https://regexper.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn>)
 
 tags: [regexp](<https://www.diigo.com/user/pitosalas/regexp>)

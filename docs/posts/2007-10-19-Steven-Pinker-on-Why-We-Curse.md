@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-10-19
 ---
 
-
-
 I know that access to my blog is blocked at least by EMC (heard so from
 friends there) so I will refrain from quoting [this
 article's](<http://www.tnr.com/doc.mhtml?i=20071008&s=pinker100807>) first

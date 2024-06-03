@@ -9,8 +9,6 @@ tags:
     - queen
 ---
 
-
-
 [youtube http://www.youtube.com/watch?v=Hjqf5F7PPGw]
 
 

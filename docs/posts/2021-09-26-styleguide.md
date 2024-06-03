@@ -10,6 +10,8 @@ tags:
     - style
     - google
     - standards
+    - tips
+    - howto
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fgoogle.github.io%2Fstyleguide%2Fpyguide.html>
 

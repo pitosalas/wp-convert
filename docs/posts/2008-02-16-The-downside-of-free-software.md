@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-02-16
 ---
 
-
-
 Yesterday the [New York Times had an interesting article about our expectation
 that software (and web sites and web applications) all should be
 free](<http://www.nytimes.com/2008/02/09/technology/09free.html?_r=1&oref=slogin>).
@@ -16,7 +14,7 @@ belabor it again. From the article:
 > Internet’s latest phase: people using freely distributed applications, from
 > e-mail and word processing programs to spreadsheets, games and financial
 > management tools. They run on distant, massive and shared data centers, and
-> users of the services pay with their attention to ads, not cash. ( **from**
+> users of the services pay with their attention to ads, not cash. (**from**
 > [New York
 > Times](<http://www.nytimes.com/2008/02/09/technology/09free.html?_r=1&oref=slogin>))
 
@@ -31,7 +29,7 @@ Last month, a really great and popular web based application, after a few
 years of free service, decided it had to close it's doors. From the final post
 by Greg Linden, it's intrepid leader:
 
-> "Findory turned off its last webserver today. Sadness." ( **from** [Findory
+> "Findory turned off its last webserver today. Sadness." (**from** [Findory
 > turns off the lights](<http://glinden.blogspot.com/2007/12/findory-turns-
 > off-lights.html>))
 

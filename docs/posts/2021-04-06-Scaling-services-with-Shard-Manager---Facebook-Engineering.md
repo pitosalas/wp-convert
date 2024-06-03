@@ -9,8 +9,8 @@ tags:
     - scaling
     - howto
     - shard
-    - FOOBAR
     - facebook
+    - service
 ---
 <img class="cover" src=https://engineering.fb.com/wp-content/uploads/2020/08/SHARD_manager_hero_01.jpg>
 

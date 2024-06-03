@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-09-19
 ---
 
-
-
 Check out [this post](<http://www.joelonsoftware.com/items/2007/09/18.html>)
 from [Joel on Software](<http://www.joelonsoftware.com>):
 

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-07-20
 ---
 
-
-
 Yeah I know all the [reviews have been
 raving](<http://www.rottentomatoes.com/m/wall_e/>) - "Best movie this year" -
 "[Will change your

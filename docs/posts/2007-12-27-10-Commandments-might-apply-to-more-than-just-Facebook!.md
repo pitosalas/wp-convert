@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-12-27
 ---
 
-
-
 Check out these [10 Commandments for Facebook
 Applications](<http://facereviews.com/2007/12/27/10-commandments-for-facebook-
 applications/>). They are pretty good commandments for software in general. I

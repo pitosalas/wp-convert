@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-08-10
 ---
 
-
-
   * [Why we don’t trust software for voting](<https://www.diigo.com/item/image/7lk/14970513>)
 
 tags: [voting](<https://www.diigo.com/user/pitosalas/voting>)

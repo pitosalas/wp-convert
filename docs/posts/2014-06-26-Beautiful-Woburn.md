@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2014-06-26
 ---
 
-
-
 I bet you didn't know there was a forest like this in Woburn!
 
 ![](https://i0.wp.com/salas.com/wp-

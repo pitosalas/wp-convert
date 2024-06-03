@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-07-10
 ---
 
-
-
   * [strong_password v0.0.7 rubygem hijacked](<https://withatwist.dev/strong-password-rubygem-hijacked.html>)
 
 Interesting description of how a public library or gem can be taken over, and

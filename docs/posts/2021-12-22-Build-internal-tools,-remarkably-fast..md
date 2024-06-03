@@ -6,11 +6,11 @@ link: "https://retool.com/"
 cover: "https://retool.com/og-image.png" 
 date: 2021-12-22
 tags:
-    - visualiztion
-    - tools
     - howto
     - dashboard
     - product
+    - tool
+    - visualize
 ---
 <img class="cover" src=https://retool.com/og-image.png>
 

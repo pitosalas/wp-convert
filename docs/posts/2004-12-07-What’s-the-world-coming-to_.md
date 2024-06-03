@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2004-12-07
 ---
 
-
->>
-
->> Someone just pointed [me to this item on Mike Zellers
+Someone just pointed [me to this item on Mike Zellers
 blog](<http://www.mikezellers.com/archives/000627.html>), under the title,
 "best explanation of election i can think of…." Just having taken a short
 Photoshop course and wanting to test my newly found chops, here's a little

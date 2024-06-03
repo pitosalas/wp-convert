@@ -9,7 +9,6 @@ tags:
     - curacao
     - jews
     - snoa
-    - jewish
     - history
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fcuracaojews.org>

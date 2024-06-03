@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-06-06
 ---
 
-
-
 Sounds ominous, right? So I call them up, and I hear a serious voice telling
 me to please hold on, then I hear the official sounding "you are being
 recorded" beep beep beep.

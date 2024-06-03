@@ -10,8 +10,6 @@ tags:
     - washington-tag-post
 ---
 
-
-
 [ How The Post is replacing Mapbox with open source solutions - Kevin
 Schaul](< https://www.kschaul.com/post/2023/02/16/how-the-post-is-replacing-
 mapbox-with-open-source-solutions/>) –Last week I published a story for The

@@ -10,6 +10,7 @@ tags:
     - robotics
     - lab
     - information
+    - robots
 ---
 <img class="cover" src=>
 

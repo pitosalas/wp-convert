@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-08-21
 ---
 
-
-
 I wonder about this.
 
 Why is it considered a slur to use [Democrat as an

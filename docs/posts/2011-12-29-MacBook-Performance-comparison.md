@@ -10,8 +10,6 @@ tags:
     - performance
 ---
 
-
-
 Due to an unusual set of coincidences I have 3 different Macintosh computers
 in my office today so I could run performance comparisons. After a brief bit
 of research I came across [XBench](<http://xbench.com/>), a free, open source

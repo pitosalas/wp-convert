@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-11-14
 ---
 
-
-
   * [Home | web.dev](<https://web.dev>)
 
 An interesting google tool for checking a web sites performance and other

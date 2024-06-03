@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-02-26
 ---
 
-
-
 Here's a new online light weight database product that picks up where
 [QuickBase](<http://www.quickbase.com/p/home.asp>) leaves off and goes crazy.
 It's called [**blist**](<http://www.blist.com>). It has a far snazzier (and

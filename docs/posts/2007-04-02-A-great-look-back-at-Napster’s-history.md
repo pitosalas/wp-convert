@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-04-02
 ---
 
-
-
 Today we hear that [EMI is going to sell DRM-free music over the iTunes
 Store](<http://www.bloomberg.com/apps/news?pid=20601087&sid=a4e12pnBnXzw&refer=home>).
 I haven't studied the fine print yet, but it's clearly a big deal no matter
@@ -21,7 +19,7 @@ Thing](<http://dondodge.typepad.com/the_next_big_thing/>):
 > inside story of Napster, and at the end, some lessons learned for
 > entrepreneurs.
 >
-> ( **from** : [How Napster changed the world - A look back 7 years
+> (**from** : [How Napster changed the world - A look back 7 years
 > later](<http://feeds.feedburner.com/~r/TheNextBigThing/~3/105439000/how_napster_cha.html>))
 
 

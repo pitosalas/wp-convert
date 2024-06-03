@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-06-02
 ---
 
-
-
   * [How to solve the Google recruiters’ puzzle about throwing eggs from a building | Codementor](<https://www.codementor.io/marcinmoskala/how-to-solve-the-google-recruiters-puzzle-about-throwing-eggs-from-a-building-jicqz9lnd?utm_swu=7179>)
 
 tags: [puzzle](<https://www.diigo.com/user/pitosalas/puzzle>)

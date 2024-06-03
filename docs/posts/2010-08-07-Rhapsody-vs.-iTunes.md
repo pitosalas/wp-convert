@@ -23,8 +23,6 @@ tags:
     - subscription-tags
 ---
 
-
-
 I think I might be entering a new phase in my music listening. I listen to a
 ton of music, on my iPhone, on my computer, in my car, all the time. And up to
 now it's always been downloaded (purchased) music that I organize manually

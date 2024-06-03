@@ -8,7 +8,6 @@ date: 2022-06-27
 tags:
     - robotics
     - line-fitting
-    - ransac
     - howto
 ---
 <img class="cover" src=https://miro.medium.com/max/1200/1*t8MHM3mdzcW5iz5I5Uroww.jpeg>

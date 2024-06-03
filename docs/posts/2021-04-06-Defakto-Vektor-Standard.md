@@ -6,7 +6,7 @@ link: "https://www.defakto-watches.com/watches/vektor/standard/632"
 cover: "" 
 date: 2021-04-06
 tags:
-    - watches automatic
+    - watches
 ---
 <img class="cover" src=>
 

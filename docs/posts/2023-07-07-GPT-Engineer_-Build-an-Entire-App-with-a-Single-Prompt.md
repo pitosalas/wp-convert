@@ -7,10 +7,10 @@ cover: "https://miro.medium.com/v2/resize:fit:1200/0*nfKmcfuzpVYPxfXg"
 date: 2023-07-07
 tags:
     - cooltool
-    - ChatGPT
     - programming
     - python
     - automation
+    - chat-gpt
 ---
 <img class="cover" src=https://miro.medium.com/v2/resize:fit:1200/0*nfKmcfuzpVYPxfXg>
 

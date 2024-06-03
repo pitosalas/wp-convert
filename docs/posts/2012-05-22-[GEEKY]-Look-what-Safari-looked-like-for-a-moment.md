@@ -8,8 +8,6 @@ tags:
     - safari
 ---
 
-
-
 I can't explain it but I was just scrolling around some pdf in Safari and it
 actually turned my world upside down (and inside out!)
 

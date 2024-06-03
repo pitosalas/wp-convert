@@ -7,8 +7,6 @@ tags:
     - Programming
 ---
 
-
-
 [youtube http://www.youtube.com/watch?v=dU1xS07N-FA&w=560&h=315]
 
 

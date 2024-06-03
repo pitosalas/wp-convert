@@ -8,8 +8,6 @@ tags:
     - nyt
 ---
 
-
-
 I love this metaphor - or is it a simile - or a malapropism - who knows:
 
 > "It’s the cloud within the sterling silver lining" - [Frank Bruni in the New

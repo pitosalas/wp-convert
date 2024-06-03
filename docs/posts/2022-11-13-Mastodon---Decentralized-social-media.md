@@ -9,6 +9,7 @@ tags:
     - mastodon
     - introduction
     - howto
+    - social-media
 ---
 <img class="cover" src=https://joinmastodon.org/preview.png>
 

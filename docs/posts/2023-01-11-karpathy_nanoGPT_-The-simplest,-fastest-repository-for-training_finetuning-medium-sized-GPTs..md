@@ -7,9 +7,9 @@ cover: "https://opengraph.githubassets.com/b069437194b47be981e4eeb92757e811d56ed
 date: 2023-01-11
 tags:
     - gpt
-    - ChatGPT
     - code
     - howto
+    - chat-gpt
 ---
 <img class="cover" src=https://opengraph.githubassets.com/b069437194b47be981e4eeb92757e811d56ed5e62c2455e84c676846f740d95e/karpathy/nanoGPT>
 

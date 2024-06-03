@@ -6,7 +6,6 @@ link: "https://devhints.io"
 cover: "https://assets.devhints.io/previews/index.jpg?t=20210316010446" 
 date: 2021-04-06
 tags:
-    - cheatsheet programming tips
     - tips
     - howto
     - cheatsheet

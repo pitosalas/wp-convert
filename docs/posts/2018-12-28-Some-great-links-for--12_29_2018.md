@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-12-28
 ---
 
-
-
   * [Fish shell 3.0](<https://www.reddit.com/r/programming/comments/aabai1/fish_shell_30/?st=JQ88H4HL&sh=d8b24ec5>)
 
 Big news! If you aren’t using the Fish shell yet, what are you waiting for?

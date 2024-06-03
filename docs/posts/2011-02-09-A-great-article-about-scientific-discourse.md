@@ -9,8 +9,6 @@ tags:
     - software
 ---
 
-
-
 This article is called ["Fact and Folklore In Software Engineering"
 ](<http://morendil.github.com/folklore.html>) and while it is about that, the
 part that was more interesting to me was the first section talking about
@@ -18,7 +16,7 @@ Scientific Discourse:
 
 > "This article is about why some “facts” refuse to die, and about how to
 > avoid being fooled by opinion disguised as scientific “fact”. We start,
-> therefore, with some observations on science and facts." ( **from** ["Fact
+> therefore, with some observations on science and facts." (**from** ["Fact
 > and Folklore In Software
 > Engineering"](<http://morendil.github.com/folklore.html>))
 
@@ -32,9 +30,8 @@ actually has a rigorous process:
 > good use in some of the tools he created to assess the status of an
 > _ongoing_ debate about a matter that falls within the purview of science,
 > one that hasn’t been settled - what he calls a
-> [controversy](<http://www.demoscience.org/>)." ( **from** ["Fact and
-> Folklore In Software
-> Engineering"](<http://morendil.github.com/folklore.html>))
+> [controversy](<http://www.demoscience.org/>)." (**from** ["Fact and Folklore
+> In Software Engineering"](<http://morendil.github.com/folklore.html>))
 
 After lots of further interesting detail about this idea, he finally comes
 back to the question: "So what is known about programmer productivity?":
@@ -43,7 +40,7 @@ back to the question: "So what is known about programmer productivity?":
 > profession, according to which “programmer productivity varies by a factor
 > of 10 (or 5, or 20) between the best and worst individuals”. This is a
 > remarkable statement, not least because of its implications: for instance,
-> programmer compensation does not vary accordingly." ( **from** ["Fact and
+> programmer compensation does not vary accordingly." (**from** ["Fact and
 > Folklore In Software
 > Engineering"](<http://morendil.github.com/folklore.html>))
 

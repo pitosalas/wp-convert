@@ -7,10 +7,11 @@ cover: "https://files.realpython.com/media/Python-Modules-and-Packages-An-Introd
 date: 2021-06-29
 tags:
     - python
-    - packages
     - modularity
     - howto
     - modules
+    - package
+    - python-package
 ---
 <img class="cover" src=https://files.realpython.com/media/Python-Modules-and-Packages-An-Introduction_Watermarked.20936240a94d.jpg>
 

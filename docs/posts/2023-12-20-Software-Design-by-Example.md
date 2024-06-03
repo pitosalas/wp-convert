@@ -6,9 +6,9 @@ link: "https://third-bit.com/sdxpy/"
 cover: "https://rdl.ink/render/https%3A%2F%2Fthird-bit.com%2Fsdxpy%2F" 
 date: 2023-12-20
 tags:
-    - computer-science
     - education
     - design
+    - computerscience
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fthird-bit.com%2Fsdxpy%2F>
 

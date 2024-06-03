@@ -23,19 +23,11 @@ really nice, I think OS X is just a little bit nicer.
 
 >>
 
->>
-
->>
-
->> BTW, Not that that Mac is without fault - it certainly has its share of
-brain dead usability "features', but all in all it's just easier on the eyes.
-
->>
-
->> But what do you care about what I use for development. The real excuse for
-this post is to quote you a hilarious comment that someone on the Java mailing
-list said when I posed the question about the trade-offs between Mac and
-Windows:
+BTW, Not that that Mac is without fault - it certainly has its share of brain
+dead usability "features', but all in all it's just easier on the eyes. But
+what do you care about what I use for development. The real excuse for this
+post is to quote you a hilarious comment that someone on the Java mailing list
+said when I posed the question about the trade-offs between Mac and Windows:
 
 >>
 

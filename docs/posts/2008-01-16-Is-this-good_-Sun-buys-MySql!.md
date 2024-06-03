@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-01-16
 ---
 
-
-
 From the [Wall Street
 Journal:](<http://online.wsj.com/article/SB120049014746494511.html?mod=hps_us_whats_news>)
 

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2011-09-29
 ---
 
-
-
 Continuing my linking to Election related news, check out this post [Diebold
 Touch-Screen Voting Machine Hacked by Remote Control With $26 in Computer
 Parts](<http://www.bradblog.com/?p=8785>) from [The BRAD

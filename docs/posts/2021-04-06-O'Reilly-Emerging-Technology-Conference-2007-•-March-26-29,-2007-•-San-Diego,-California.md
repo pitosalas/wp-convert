@@ -7,6 +7,7 @@ cover: ""
 date: 2021-04-06
 tags:
     - etech math
+    - math
 ---
 <img class="cover" src=>
 

@@ -4,11 +4,10 @@ author: Pito Salas
 date: 2006-11-23
 ---
 
+Ok, assembled masses: I've rearranged my office and now my USB connected
+printers are farther away from the computer and closer to an ethernet
+connection.
 
->
-> Ok, assembled masses: I've rearranged my office and now my USB connected
-> printers are farther away from the computer and closer to an ethernet
-> connection.
 >
 > So, what I need is a USB hub which connects with an RJ45 rather than to a
 > computer. I guess that would make it a Netwrok Enabled USB hub.

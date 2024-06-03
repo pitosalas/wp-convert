@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-03-20
 ---
 
-
-
 You know I follow the vagaries of computer voting machines, right? Here's an
 interesting article about how one e-voting machine maker is trying to prohibit
 a researcher from studying the security (= trying to hack into) one of their

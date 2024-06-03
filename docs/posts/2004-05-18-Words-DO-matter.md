@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2004-05-18
 ---
 
-
->>
-
->> I was scanning [Jon Udell's
+I was scanning [Jon Udell's
 blog](<http://weblog.infoworld.com/udell/2004/05/17.html>) and came across the
 following:
 

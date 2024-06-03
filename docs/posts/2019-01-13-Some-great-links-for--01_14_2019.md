@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-01-13
 ---
 
-
-
   * [VC article in the NYT](<https://nyti.ms/2RGPb8T?smid=nytcore-ios-share>)
 
 VCs aren’t the only game in own anymore!

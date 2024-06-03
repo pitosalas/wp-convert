@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-04-15
 ---
 
-
-
   * [JupyterLab is Ready for Users – Jupyter Blog](<https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906?source=userActivityShare-d383785221d0-1523740866>)
 
 tags: [python](<https://www.diigo.com/user/pitosalas/python>)

@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2004-02-29
 ---
 
-
->>
-
->> **Forced to use Atom.** Well, it's happening… My friend [Paul
+**Forced to use Atom.** Well, it's happening… My friend [Paul
 English](<http://www.paulenglish.com/>) has been using Blogger for the longest
 time for his personal blog. I often complained to him that I used a Blog
 Reader (FeedDemon is my current favorite, until BlogBridge comes out 🙂 and

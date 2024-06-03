@@ -6,7 +6,7 @@ link: "http://www.arzbergerstationers.com"
 cover: "https://rdl.ink/render/http%3A%2F%2Fwww.arzbergerstationers.com" 
 date: 2021-04-06
 tags:
-    - designer
+    - design
 ---
 <img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.arzbergerstationers.com>
 

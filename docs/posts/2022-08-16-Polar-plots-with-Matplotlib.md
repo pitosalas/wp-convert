@@ -9,8 +9,8 @@ tags:
     - matplotlib
     - polar
     - plot
-    - visualization
     - howto
+    - visualize
 ---
 <img class="cover" src=http://www.chiark.greenend.org.uk/~peterb/python/polar/barchart.png>
 

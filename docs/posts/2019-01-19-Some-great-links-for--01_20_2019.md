@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-01-19
 ---
 
-
-
   * [Download Trial | SimpleDiagrams](<https://www.simplediagrams.com/trial>)
 
 Another interesting diagramming and sketching tool.

@@ -7,6 +7,7 @@ cover: "https://dev.to/social_previews/article/109505.png"
 date: 2021-04-06
 tags:
     - nav tricks flexbox howto css tips
+    - design
 ---
 <img class="cover" src=https://dev.to/social_previews/article/109505.png>
 

@@ -8,10 +8,10 @@ date: 2022-03-28
 tags:
     - performance
     - rails
-    - rendering
     - scale
     - howto
     - partial-rendering
+    - render
 ---
 <img class="cover" src=https://miro.medium.com/max/1200/1*BT-gkevBSD0L1ZvLSeXCsw.png>
 

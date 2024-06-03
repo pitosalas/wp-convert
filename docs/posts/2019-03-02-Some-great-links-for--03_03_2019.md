@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-03-02
 ---
 
-
-
   * [Adrian Boeing: Blog: Dynamic Window Algorithm motion planning](<https://adrianboeing.blogspot.com/2012/05/dynamic-window-algorithm-motion.html>)
 
 Looks interesting but not sure we can use it!

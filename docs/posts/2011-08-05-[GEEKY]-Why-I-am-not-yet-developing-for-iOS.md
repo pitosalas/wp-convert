@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2011-08-05
 ---
 
-
-
 Check this post [A strong argument for why iOS development is
 winning](<http://feedproxy.google.com/~r/TheAppleBlog/~3/krBkGLrizAY/>)
 
@@ -13,7 +11,7 @@ winning](<http://feedproxy.google.com/~r/TheAppleBlog/~3/krBkGLrizAY/>)
 > has posted a smart list of the main reasons why a new developer finds
 > Apple’s mobile operating system such an attractive prospect. Eidhof, who is
 > in the process of developing his first software for Apple devices, broke
-> down the appeal of iOS using six main points." ( **from** [TheAppleBlog —
+> down the appeal of iOS using six main points." (**from** [TheAppleBlog —
 > Apple and iOS News, Tips and
 > Reviews](<http://feeds.feedburner.com/theappleblog>))
 

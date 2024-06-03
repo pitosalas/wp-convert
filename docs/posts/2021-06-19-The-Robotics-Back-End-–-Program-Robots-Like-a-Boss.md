@@ -6,8 +6,6 @@ tags:
     - courses
 ---
 
-
-
 [ The Robotics Back-End - Program Robots Like a
 Boss](<https://roboticsbackend.com/>)
 

@@ -8,8 +8,6 @@ tags:
     - woodyallen
 ---
 
-
-
 I just saw Blue Jasmine, the latest Woody Allen movie. It is excellent and I
 recommend it. I also happened to read [Nicholas Kristof's column in the New
 York Times](<http://kristof.blogs.nytimes.com/2014/02/01/an-open-letter-from-

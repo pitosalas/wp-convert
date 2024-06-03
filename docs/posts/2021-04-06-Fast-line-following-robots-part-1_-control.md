@@ -7,6 +7,7 @@ cover: "https://rdl.ink/render/https%3A%2F%2Fwww.a1k0n.net%2F2018%2F11%2F13%2Ffa
 date: 2021-04-06
 tags:
     - robots control linefollowing
+    - robotics
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.a1k0n.net%2F2018%2F11%2F13%2Ffast-line-following.html>
 

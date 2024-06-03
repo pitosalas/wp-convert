@@ -8,8 +8,8 @@ date: 2022-10-20
 tags:
     - heroku
     - python
-    - alternatives
     - review
+    - alternative
 ---
 <img class="cover" src=https://testdriven.io/static/images/blog/heroku_alternatives_social_card.png>
 

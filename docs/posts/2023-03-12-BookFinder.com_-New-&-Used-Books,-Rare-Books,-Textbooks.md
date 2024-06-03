@@ -10,8 +10,6 @@ tags:
     - used
 ---
 
-
-
 [ BookFinder.com: New & Used Books, Rare Books, Textbooks](<
 https://www.bookfinder.com/>) –Aggregates used book sites. Recommendo
 

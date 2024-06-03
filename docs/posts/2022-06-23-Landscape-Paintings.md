@@ -7,7 +7,7 @@ cover: "https://images.discerningassets.com/image/upload/q_auto/c_fit,h_600,w_60
 date: 2022-06-23
 tags:
     - art
-    - paintings
+    - painting
 ---
 <img class="cover" src=https://images.discerningassets.com/image/upload/q_auto/c_fit,h_600,w_600/v1626382754/_DSC5487_rpg4ts.jpg>
 

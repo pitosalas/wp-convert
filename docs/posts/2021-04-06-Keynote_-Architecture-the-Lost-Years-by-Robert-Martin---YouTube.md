@@ -5,6 +5,8 @@ url: "http://www.youtube.com/watch?feature=player_embedded&v=WpkDN78P884"
 link: "http://www.youtube.com/watch?feature=player_embedded&v=WpkDN78P884" 
 cover: "https://i.ytimg.com/vi/WpkDN78P884/mqdefault.jpg" 
 date: 2021-04-06
+tags:
+    - software-engineering
 ---
 <img class="cover" src=https://i.ytimg.com/vi/WpkDN78P884/mqdefault.jpg>
 

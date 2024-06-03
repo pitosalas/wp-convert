@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-09-28
 ---
 
-
-
 Finally, [welcome to the 20th  century,
 [tag]LinkedIn[/tag]](<http://www.techcrunch.com/2007/09/27/picture-this-
 linkedin-adds-profile-photos/>):

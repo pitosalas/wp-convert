@@ -8,8 +8,6 @@ tags:
     - poker
 ---
 
-
-
 An interesting article about how to think about [designing Artificial
 Intelligence for playing
 poker](<http://gamecareerguide.com/features/896/poker_ai_a_starting_.php>).
@@ -20,7 +18,7 @@ design. You also learn the basics of Poker at the same time:
 > fully understand the rules of the game and the tactics typically used to
 > win. So when I worked on poker I spent a fair amount of time reading the
 > best books and playing the game, both against existing AI and real humans of
-> various levels of experience." ( **from** [Poker AI: A Starting
+> various levels of experience." (**from** [Poker AI: A Starting
 > Point](<http://gamecareerguide.com/features/896/poker_ai_a_starting_.php>))
 
 And here's a follow up article on the same topic: "[Aces High: Numerical

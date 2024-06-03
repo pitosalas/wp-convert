@@ -6,7 +6,7 @@ link: "http://www.thewatchprince.com/Watch-Bands?gclid=CjwKEAiApYGyBRC-g_jIstudu
 cover: "https://rdl.ink/render/http%3A%2F%2Fwww.thewatchprince.com%2FWatch-Bands%3Fgclid%3DCjwKEAiApYGyBRC-g_jIstuduV8SJABCEzhZJHbq9aRudv5QqSjpKKlygL1Df2ngLyU0EujIr2GPdhoCrB7w_wcB" 
 date: 2021-04-06
 tags:
-    - watch watches
+    - watches
 ---
 <img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.thewatchprince.com%2FWatch-Bands%3Fgclid%3DCjwKEAiApYGyBRC-g_jIstuduV8SJABCEzhZJHbq9aRudv5QqSjpKKlygL1Df2ngLyU0EujIr2GPdhoCrB7w_wcB>
 

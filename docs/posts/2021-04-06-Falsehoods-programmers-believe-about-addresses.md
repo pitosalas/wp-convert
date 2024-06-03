@@ -6,7 +6,6 @@ link: "https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresse
 cover: "https://rdl.ink/render/https%3A%2F%2Fwww.mjt.me.uk%2Fposts%2Ffalsehoods-programmers-believe-about-addresses" 
 date: 2021-04-06
 tags:
-    - adresses
     - programmers
     - programming
 ---

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2009-11-30
 ---
 
-
-
 I've occasionally [shopped here](<http://www.thinkgeek.com>). I got another
 bit of mail from them for so-called Cyber Monday. Looking at the [stuff they
 had](<http://www.thinkgeek.com>) (much of which I wanted for myself), I

@@ -8,6 +8,7 @@ date: 2021-04-06
 tags:
     - rake
     - sinatra
+    - scale deploy build rails docker howto
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fdefman.me%2Fblog%2Fsinatra-app>
 

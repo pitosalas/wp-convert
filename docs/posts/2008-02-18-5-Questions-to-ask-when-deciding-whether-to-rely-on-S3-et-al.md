@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-02-18
 ---
 
-
-
 Several products I've worked on recently have relied on Amazon's really
 impressive web services. I've written before about how much [I admire services
 such as S3 and EC2, solid, commercial quality infrastructure

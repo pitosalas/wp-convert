@@ -8,8 +8,6 @@ tags:
     - university
 ---
 
-
-
 An interesting [article by David Brooks in the New York Times commenting on
 the views of the always controversial Peter
 Thiel.](<http://www.nytimes.com/2012/04/24/opinion/brooks-the-creative-

@@ -5,6 +5,8 @@ url: "http://www.w3resource.com/twitter-bootstrap/tutorial.php"
 link: "http://www.w3resource.com/twitter-bootstrap/tutorial.php" 
 cover: "http://www.w3resource.com/w3r_images/twitter-bootstrap.gif" 
 date: 2021-04-06
+tags:
+    - tutorial
 ---
 <img class="cover" src=http://www.w3resource.com/w3r_images/twitter-bootstrap.gif>
 

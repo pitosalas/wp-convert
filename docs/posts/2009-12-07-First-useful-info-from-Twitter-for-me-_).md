@@ -8,8 +8,6 @@ tags:
     - terroir
 ---
 
-
-
 After sending an email to [Terroir Coffee](<http://www.terroircoffee.com/>)
 asking them to explain the roastiness terminology that they use for all their
 coffee. It's obscure and not mentioned on the web site. No response.

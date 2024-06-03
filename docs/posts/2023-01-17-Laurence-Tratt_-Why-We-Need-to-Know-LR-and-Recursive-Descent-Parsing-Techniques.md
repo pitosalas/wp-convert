@@ -9,7 +9,6 @@ tags:
     - parser
     - top-down
     - LR
-    - recursive-descent
     - explainer
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Ftratt.net%2Flaurie%2Fblog%2F2023%2Fwhy_we_need_to_know_lr_and_recursive_descent_parsing_techniques.html>

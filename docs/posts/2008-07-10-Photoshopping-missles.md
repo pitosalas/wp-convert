@@ -8,8 +8,6 @@ tags:
     - photoshop
 ---
 
-
-
 I recently saw a Nova episode about Hany Farid about so called "Digital
 Forensics", that is how to detect and discover photos manipulated digitally.
 Here are some useful links if you are interested:

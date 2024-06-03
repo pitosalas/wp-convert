@@ -10,8 +10,6 @@ tags:
     - television-tag
 ---
 
-
-
 Finally I found someone expressing what I have been thinking about [the fracas
 about NBC, Jay Leno, Conan O'Brien](<http://www.tvsquad.com/2010/01/18/jay-
 leno-and-the-missed-opportunity/>) etc. etc. And while I didn't know then what

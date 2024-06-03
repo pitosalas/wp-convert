@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-06-14
 ---
 
-
-
 I've been doing quite a bit of traveling lately and have been experimenting
 with those noise cancelling headphones. Actually I couldn't convince myself to
 spend $350 on the Bose headphones who, by reputation anyway, set the standard.

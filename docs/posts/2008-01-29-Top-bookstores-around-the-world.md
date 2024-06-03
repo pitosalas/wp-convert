@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-01-29
 ---
 
-
-
 You like [Barnes and Noble](<http://www.barnesandnoble.com/> "bookstore")? How
 about [Border's?](<http://www.amazon.com/exec/obidos/tg/browse/-/577394>
 "bookstore") Or do you prefer [Amazon](<http://www.amazon.com> "bookstore")?

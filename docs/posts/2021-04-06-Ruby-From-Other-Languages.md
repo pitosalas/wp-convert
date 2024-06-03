@@ -7,6 +7,7 @@ cover: "https://rdl.ink/render/https%3A%2F%2Fwww.ruby-lang.org%2Fen%2Fdocumentat
 date: 2021-04-06
 tags:
     - ruby learning
+    - programming-language
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.ruby-lang.org%2Fen%2Fdocumentation%2Fruby-from-other-languages>
 

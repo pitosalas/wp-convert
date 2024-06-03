@@ -8,8 +8,6 @@ tags:
     - higher-education-tag
 ---
 
-
-
 Unfortunately students can be quite focused on their grades, and as a result I
 end up paying more attention to grading than I would like. By the way let me
 point out that 'grading' is more than assigning a grade to a bit of homework.

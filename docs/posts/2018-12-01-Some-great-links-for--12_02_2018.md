@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-12-01
 ---
 
-
-
   * <https://link.medium.com/Cd6lBUGriS>
 
 InterSystems perspectives on being a researcher and scientist

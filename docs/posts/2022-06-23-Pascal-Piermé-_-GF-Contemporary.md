@@ -7,7 +7,7 @@ cover: "https://cdn.artcld.com/img/w_640,h_640,c_pad,b_ffffff/btkhhpu0twd99gb860
 date: 2022-06-23
 tags:
     - art
-    - paintings
+    - painting
 ---
 <img class="cover" src=https://cdn.artcld.com/img/w_640,h_640,c_pad,b_ffffff/btkhhpu0twd99gb86072.jpg>
 

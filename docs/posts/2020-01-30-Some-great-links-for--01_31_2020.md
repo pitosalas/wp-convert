@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-01-30
 ---
 
-
-
   * [Different Ways to Set Attributes in ActiveRecord (Rails 6)](<https://scottbartell.com/2020/01/30/set-attributes-in-active-record-rails-6/?utm_source=share&utm_medium=ios_app&utm_name=iossmf>)
 
 It’s always hard to remember all the different options that activerecord

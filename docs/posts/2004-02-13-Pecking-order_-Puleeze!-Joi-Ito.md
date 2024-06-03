@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2004-02-13
 ---
 
-
->>
-
->> **Pecking order? Puleeze!**[Joi Ito
+**Pecking order? Puleeze!**[Joi Ito
 writes](<http://joi.ito.com/archives/2004/02/12/pecking_at_etech.html>) with
 apparent confusion about the a comment from [Russel Beattie who commented
 that](<http://www.russellbeattie.com/notebook/1006105.html>): "but boy it

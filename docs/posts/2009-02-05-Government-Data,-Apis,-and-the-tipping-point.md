@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2009-02-05
 ---
 
-
-
 I've been discovering the mass of information that is created by the
 government and is very slowly making its way online. I will be posting my
 discoveries from time to time.

@@ -8,8 +8,6 @@ tags:
     - visualization-tag
 ---
 
-
-
 Check out this article that shows off how visualizations can help you
 understand how algorithms work. It's an amazing piece of work: Creatively, he
 figured out how to illustrate an algorithm so I can better understand how it

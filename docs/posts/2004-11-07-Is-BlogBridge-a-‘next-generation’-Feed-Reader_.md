@@ -4,12 +4,9 @@ author: Pito Salas
 date: 2004-11-07
 ---
 
-
->>
-
->> In response to a query from Andrew Watt and Danny Ayers about what they
-called next-generation infromation aggregators, I wrote this, and I thought
-I'd share it here too.
+In response to a query from Andrew Watt and Danny Ayers about what they called
+next-generation infromation aggregators, I wrote this, and I thought I'd share
+it here too.
 
 >>
 

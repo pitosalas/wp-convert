@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-07-25
 ---
 
-
-
   * [Orange Computers - HP ProLiant and Dell PowerEdge Servers](<https://www.orangecomputers.com/node/>)
 
 tags: [hardware](<https://www.diigo.com/user/pitosalas/hardware>)

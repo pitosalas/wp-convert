@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2004-07-10
 ---
 
-
->>
-
->> Well we've been **busy little beavers** and are getting ready to release
+Well we've been **busy little beavers** and are getting ready to release
 BlogBridge Beta 2. It has quite a few nifty new features! I will write a
 little more about it tomorrow or Monday.
 

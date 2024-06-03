@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2009-12-01
 ---
 
-
-
 This is an [insider's three-fer](<http://alsop-louie.com/gadgets/droid-doesnt-
 its-not-ready-for-prime-time/>). In this article, Stewart describes his
 [horrible personal experience](<http://alsop-louie.com/gadgets/droid-doesnt-

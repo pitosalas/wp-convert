@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2010-02-15
 ---
 
-
-
 I just accidentally pinged someone over wave who I wanted to chat with,
 thinking that it would go over gtalk, of course normally I talk to him over
 aim, except sometimes I also see him on Skype. See the problem?

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2022-01-11
 ---
 
-
-
 [ ServoCity - Servos, Actobotics, Gears, Motors and
 More!](<https://www.servocity.com/>)
 

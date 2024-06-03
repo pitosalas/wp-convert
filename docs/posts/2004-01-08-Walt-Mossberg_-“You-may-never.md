@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2004-01-08
 ---
 
-
->>
-
->> **[Walt
+**[Walt
 Mossberg:](<http://online.wsj.com/article/0,,SB107351380768717600,00.html?mod=technology%5Ffeatured%5Fstories%5Fhs>)**
 **" You may never go back to Internet Explorer again." **In the current
 episode of Mossberg's Personal Technology, he sings the praises of tabbed

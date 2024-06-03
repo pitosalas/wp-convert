@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - azure
     - devops
-    - testing
+    - test
 ---
 <img class="cover" src=https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png>
 

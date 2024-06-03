@@ -7,8 +7,8 @@ cover: "https://opengraph.githubassets.com/89fbb5cc6a161efc3f1558987a342492d68fe
 date: 2022-01-24
 tags:
     - csv
-    - tools
     - howto
+    - tool
 ---
 <img class="cover" src=https://opengraph.githubassets.com/89fbb5cc6a161efc3f1558987a342492d68fef4fc1c51e3e6f8d0759180824da/secretGeek/AwesomeCSV>
 

@@ -6,7 +6,6 @@ link: "http://www.gurteen.com/gurteen/gurteen.nsf/id/L001742"
 cover: "https://farm8.staticflickr.com/7636/16750118620_2b53f1c55c_s.jpg" 
 date: 2021-04-06
 tags:
-    - wavelets
     - history
     - interesting
 ---

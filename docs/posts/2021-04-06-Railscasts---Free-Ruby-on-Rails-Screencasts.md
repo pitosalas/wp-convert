@@ -6,10 +6,10 @@ link: "http://www.railscasts.com"
 cover: "https://rdl.ink/render/http%3A%2F%2Fwww.railscasts.com" 
 date: 2021-04-06
 tags:
-    - podcasts
     - rails
-    - tutorials
-    - ruby on rails
+    - rails ruby
+    - tutorial
+    - podcast
 ---
 <img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.railscasts.com>
 

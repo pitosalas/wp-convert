@@ -10,6 +10,7 @@ tags:
     - robot
     - campusrover
     - service
+    - robots
 ---
 <img class="cover" src=https://www.freedomrobotics.com/hubfs/Featured%20Image%20-%20Logo.png#keepProtocol>
 

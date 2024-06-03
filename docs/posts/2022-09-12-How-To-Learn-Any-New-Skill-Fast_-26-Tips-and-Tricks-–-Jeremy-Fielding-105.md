@@ -8,8 +8,6 @@ tags:
     - skills
 ---
 
-
-
 [ How To Learn Any New Skill Fast: 26 Tips and Tricks - Jeremy Fielding 105](<
 https://youtu.be/DPbKux9cemU>) –My first video post to this. This is an
 excellent motivator and explainer to all of you trying or struggling to learn

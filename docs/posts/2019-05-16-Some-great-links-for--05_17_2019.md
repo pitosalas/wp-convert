@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-05-16
 ---
 
-
-
   * [We Can Do Better Than SQL](<https://edgedb.com/blog/we-can-do-better-than-sql/>)
 
 Interesting account of all the ways that SQL sucks and of course a proposed

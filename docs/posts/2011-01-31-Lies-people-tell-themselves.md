@@ -10,8 +10,6 @@ tags:
     - techno-taglogy
 ---
 
-
-
 [Michael Arrington ](<http://en.wikipedia.org/wiki/Michael_Arrington>)is a
 famous Tech-pundit-commentator-blogger who recently left or got fired from AOL
 because he wanted to be a VC while being a journalist covering the companies
@@ -33,7 +31,7 @@ quit all the whining. Yes he is a genius provocateur.
 > on earth like Silicon Valley. Nowhere else that is structurally designed to
 > help you make whatever you can imagine into reality. Nowhere else where
 > there are so many like minded people who are willing to sacrifice and work
-> hard to create something new…." ( **from**
+> hard to create something new…." (**from**
 > [Uncrunched](<http://uncrunched.com/2011/11/27/startups-are-hard-so-work-
 > more-cry-less-and-quit-all-the-whining/>))
 
@@ -50,7 +48,7 @@ a diary from 1994](<http://www.jwz.org/gruntle/nscpdorm.html>), for example:
 > nefarious 8-bit color management issues. But it was no big deal, we just had
 > the meeting later. It's hard for someone to hold it against you when you
 > miss a meeting because you've been at work so long that you've passed out
-> from exhaustion." ( **from** [NSCP
+> from exhaustion." (**from** [NSCP
 > Dorm](<http://www.jwz.org/gruntle/nscpdorm.html>))
 
 You get the idea. Well wouldn't you know, Jamie Zawinski for 2011 is not so
@@ -64,9 +62,8 @@ to-sell-a-con/>) he writes:
 > people in his line of work get richer is if young, poorly-socialized, naive
 > geniuses believe that story! Without those coat-tails to ride, VCs might
 > have to work for a living. Once that kid burns out, they'll just slot a new
-> one in." ( **from** [Jamie
-> Zawinski)](<http://www.jwz.org/blog/2011/11/watch-a-vc-use-my-name-to-sell-
-> a-con/>)
+> one in." (**from** [Jamie Zawinski)](<http://www.jwz.org/blog/2011/11/watch-
+> a-vc-use-my-name-to-sell-a-con/>)
 
 You might gather that in this case I am more in Zawinski's camp.
 

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2023-05-19
 ---
 
-
-
 Tell me how this is simple word completion. Can this be broadened to a more
 complicated network. Could it be used for some kind of semi-intelligent
 navigation?

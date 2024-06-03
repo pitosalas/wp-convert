@@ -9,8 +9,8 @@ tags:
     - rails
     - performance
     - cache
-    - compression
     - cooltool
+    - compress
 ---
 <img class="cover" src=https://opengraph.githubassets.com/819fd897e1552acc9d11ad8f88f27d08dc5ed1ecab37563a491eb7446070d128/pawurb/rails-brotli-cache>
 

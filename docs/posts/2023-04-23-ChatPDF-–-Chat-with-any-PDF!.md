@@ -9,8 +9,6 @@ tags:
     - summary
 ---
 
-
-
 [ ChatPDF - Chat with any PDF!](< https://www.chatpdf.com/>) –ChatPDF is the
 fast and easy way to chat with any PDF, free and without sign-in. Talk to
 books, research papers, manuals, essays, legal contracts, whatever you have!

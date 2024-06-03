@@ -4,13 +4,10 @@ author: Pito Salas
 date: 2004-08-05
 ---
 
-
->>
-
->> I've done a little research about what the Open Source really means,
-legally, when it comes to [BlogBridge](<http://www.blogbridge.com>). I wrote
-about this question a few months ago, and now, having consulted with people
-who know, here's an update.
+I've done a little research about what the Open Source really means, legally,
+when it comes to [BlogBridge](<http://www.blogbridge.com>). I wrote about this
+question a few months ago, and now, having consulted with people who know,
+here's an update.
 
 >>
 
@@ -21,10 +18,10 @@ who know, here's an update.
 >>   * BlogBridge should be available, in source code form and executable form
 to everyone who wants to look at it and use it. It should be a bona fida open
 source project.  
->  **Reasoning** : We will be able to recruit others to help us build it; It
-> is a significant differentiator among the other blog readers out there; And
-> we can legitimately use services such as Source Forge to manage the project
-> and its source code.
+> **Reasoning** : We will be able to recruit others to help us build it; It is
+> a significant differentiator among the other blog readers out there; And we
+> can legitimately use services such as Source Forge to manage the project and
+> its source code.
 >>   * If a commercial entity wants to use the code to build a commercial
 business, we would like them to have to come to us for permission.  
 > **Reasoning** : Obviously, we aren't making any money on this; if someone
@@ -69,7 +66,7 @@ ability to embark on a commercial project, what do we do?
 >>
 
 >> We release a copy of the source code under a different, commerical license.
-This copy forms the basis of the commerical project. It's called " **dual
+This copy forms the basis of the commerical project. It's called "**dual
 licensing "** and it's a well understood and accepted model.
 
 

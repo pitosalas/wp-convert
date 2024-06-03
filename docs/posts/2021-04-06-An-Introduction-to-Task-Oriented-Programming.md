@@ -7,6 +7,8 @@ cover: "https://b.thumbs.redditmedia.com/YtHG-5z4IJ-EUK7TMTuBH9YEIVFOJWjCM14V6t-
 date: 2021-04-06
 tags:
     - programming robots oriented task future
+    - programming
+    - programming-language
 ---
 <img class="cover" src=https://b.thumbs.redditmedia.com/YtHG-5z4IJ-EUK7TMTuBH9YEIVFOJWjCM14V6t-kyXA.jpg>
 

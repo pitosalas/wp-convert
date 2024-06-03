@@ -8,8 +8,7 @@ date: 2021-05-28
 tags:
     - covid
     - science
-    - article
-    - wired
+    - articles
 ---
 <img class="cover" src=https://media.wired.com/photos/60809244a2b5c89083d59170/191:100/w_1280,c_limit/NR_CovidAerosols508.JPG>
 

@@ -6,8 +6,6 @@ tags:
     - navigation-tag
 ---
 
-
-
 [ navigation/Tutorials/RobotSetup - ROS
 Wiki](<https://wiki.ros.org/navigation/Tutorials/RobotSetup>)
 

@@ -11,8 +11,6 @@ tags:
     - robert-indiana
 ---
 
-
-
 I was rather proud of the art I designed for a t-shirt this summer. It's cool
 but of course it's a direct ripoff, um, no, I mean, it was inspired by a well
 known piece. If I show you my design, below:

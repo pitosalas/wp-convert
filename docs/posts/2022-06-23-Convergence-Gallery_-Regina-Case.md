@@ -7,7 +7,7 @@ cover: "http://convergencegallery.com/case/TheNavigatorx.jpg"
 date: 2022-06-23
 tags:
     - art
-    - paintings
+    - painting
 ---
 <img class="cover" src=http://convergencegallery.com/case/TheNavigatorx.jpg>
 

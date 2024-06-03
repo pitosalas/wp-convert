@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-03-25
 ---
 
-
-
   * [Drawing Graphs using Dot and Graphviz](<http://tonyballantyne.com/graphs.html>)
 
 Another great overview and cheatsheet for Dot

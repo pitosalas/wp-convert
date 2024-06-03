@@ -9,7 +9,6 @@ tags:
     - sinatra
     - howto
     - sessions
-    - redirect
     - render
 ---
 <img class="cover" src=https://miro.medium.com/max/1200/1*rCDPBFcxOJKEe0b9kkX5BA.jpeg>

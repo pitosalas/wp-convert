@@ -8,8 +8,6 @@ tags:
     - weird
 ---
 
-
-
 This is just a [weird story:](<http://www.bgr.com/2011/11/28/apple-iphone-
 spontaneously-combusts-aboard-flight-in-australia/>)
 
@@ -18,9 +16,9 @@ spontaneously-combusts-aboard-flight-in-australia/>)
 > ZL319 were welcomed to their destination in Sydney, Australia on Friday by a
 > frightening ordeal. According to the airline, a passenger’s iPhone began
 > “emitting a significant amount of dense smoke” shortly after the flight
-> landed, and the smoke was accompanied by a red glow." ( **from** [Bioy
-> Genius Report](<http://www.bgr.com/2011/11/28/apple-iphone-spontaneously-
-> combusts-aboard-flight-in-australia/>))
+> landed, and the smoke was accompanied by a red glow." (**from** [Bioy Genius
+> Report](<http://www.bgr.com/2011/11/28/apple-iphone-spontaneously-combusts-
+> aboard-flight-in-australia/>))
 
 ![Iphone flames](https://i0.wp.com/salas.com/wp-
 content/uploads/2011/11/32265-iphone-flames.png?resize=278%2C368&ssl=1)

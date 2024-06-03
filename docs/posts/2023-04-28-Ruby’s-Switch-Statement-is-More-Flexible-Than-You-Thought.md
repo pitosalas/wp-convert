@@ -10,8 +10,6 @@ tags:
     - syntax
 ---
 
-
-
 [ Ruby's Switch Statement is More Flexible Than You Thought](<
 https://www.akshaykhot.com/ruby-switch-statement/>) –Ruby's switch statement
 is very versatile and flexible, especially due to the dynamic nature of Ruby.

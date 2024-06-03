@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-12-26
 ---
 
-
-
   * [Deep Rails: How to use Abstract Classes](<https://link.medium.com/qwR3chzoYS>)
 
 Interesting Rails abstract classes feature

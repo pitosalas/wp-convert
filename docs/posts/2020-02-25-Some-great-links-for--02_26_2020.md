@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-02-25
 ---
 
-
-
   * [jq - CLI for JSON files](<https://stedolan.github.io/jq/>)
 
 This is an amazing tool when you need it. Do queries, merges, filters on json

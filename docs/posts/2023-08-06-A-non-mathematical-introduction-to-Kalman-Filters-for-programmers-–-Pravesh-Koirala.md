@@ -10,8 +10,6 @@ tags:
     - robotics
 ---
 
-
-
 [ A non-mathematical introduction to Kalman Filters for programmers - Pravesh
 Koirala](< https://praveshkoirala.com/2023/06/13/a-non-mathematical-
 introduction-to-kalman-filters-for-

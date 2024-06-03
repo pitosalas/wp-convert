@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-03-06
 ---
 
-
-
   * [Optimize animated GIF](<https://ezgif.com/optimize/ezgif-5-bca12753301f.gif>)
 
 Really good site for creating animated gifs from videos and lots lots more.

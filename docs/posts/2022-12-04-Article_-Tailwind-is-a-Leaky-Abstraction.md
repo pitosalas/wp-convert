@@ -7,8 +7,8 @@ cover: "https://jakelazaroff.com/public/og/tailwind-is-a-leaky-abstraction.png"
 date: 2022-12-04
 tags:
     - css
-    - styling
     - tailwind
+    - style
 ---
 <img class="cover" src=https://jakelazaroff.com/public/og/tailwind-is-a-leaky-abstraction.png>
 

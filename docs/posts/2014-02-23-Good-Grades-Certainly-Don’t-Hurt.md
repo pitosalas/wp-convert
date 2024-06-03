@@ -9,8 +9,6 @@ tags:
     - learning
 ---
 
-
-
 [How to Get a Job at Google - NYTimes.com](<http://nyti.ms/1jTJavh>):
 
 > Don’t get him wrong, Bock begins, “Good grades certainly don’t hurt.” Many

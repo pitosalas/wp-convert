@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-02-28
 ---
 
-
-
 Check out [this
 post](<http://blog.johnedwards.com/story/2007/2/27/21847/2507>) from [John
 Edwards '08 Blog: News](<http://blog.johnedwards.com/section/news>):
@@ -17,7 +15,7 @@ Edwards '08 Blog: News](<http://blog.johnedwards.com/section/news>):
 > … I witnessed this event, taking names and photos, including the owners of
 > the pictures."
 >
-> ( **from** : [John Edwards Second Life HQ
+> (**from** : [John Edwards Second Life HQ
 > vandalized.](<http://blog.johnedwards.com/story/2007/2/27/21847/2507>))
 
 

@@ -6,11 +6,11 @@ link: "http://infolab.stanford.edu/~ullman/focs.html"
 cover: "http://infolab.stanford.edu/~ullman/gifs/focs.gif" 
 date: 2022-01-28
 tags:
-    - computer-science
     - teaching
-    - learning
     - fundamentals
     - textbook
+    - learn
+    - computerscience
 ---
 <img class="cover" src=http://infolab.stanford.edu/~ullman/gifs/focs.gif>
 

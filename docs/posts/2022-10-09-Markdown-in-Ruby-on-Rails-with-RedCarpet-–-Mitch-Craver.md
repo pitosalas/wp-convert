@@ -11,6 +11,7 @@ tags:
     - text
     - gem
     - howto
+    - ruby
 ---
 <img class="cover" src=https://www.mitchcraver.com/wp-content/uploads/2022/04/pexels-sergio-souza-1779359.webp>
 

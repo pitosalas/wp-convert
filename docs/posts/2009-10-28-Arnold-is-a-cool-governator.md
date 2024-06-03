@@ -4,10 +4,8 @@ author: Pito Salas
 date: 2009-10-28
 ---
 
-
-
 Check out [Schwarzenegger Gives California Legislature A Hidden Finger
-](<http://feedproxy.google.com/~r/Techcrunch/~3/4oTAz5xglu0/>)( **from**
+](<http://feedproxy.google.com/~r/Techcrunch/~3/4oTAz5xglu0/>)(**from**
 [TechCrunch](<http://feeds.feedburner.com/Techcrunch>):
 
 > "![](https://i0.wp.com/cache0.techcrunch.com/wp-
@@ -33,7 +31,7 @@ Check out [Schwarzenegger Gives California Legislature A Hidden Finger
 > bin/article.cgi?f=/c/a/2009/10/28/MNBN1ABKB8.DTL>) for all the quotes and
 > denials.
 >
-> Now, back to our regularly scheduled programing." ( **from:**[Schwarzenegger
+> Now, back to our regularly scheduled programing." (**from:**[Schwarzenegger
 > Gives California Legislature A Hidden Finger)
 > ](<http://feedproxy.google.com/~r/Techcrunch/~3/4oTAz5xglu0/>)
 

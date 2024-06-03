@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2004-06-28
 ---
 
-
->>
-
->> What’s going on with Java version numbers?
+What’s going on with Java version numbers?
 
 >>
 

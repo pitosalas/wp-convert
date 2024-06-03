@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2009-02-20
 ---
 
-
-
 Check out the "[article: Getting "Open With" back under
 control](<http://blog.pastie.org/2009/01/getting-open-with-back-under-
 control.html>)." Thanks.

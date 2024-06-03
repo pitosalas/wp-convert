@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2004-06-03
 ---
 
-
->>
-
->> [Another article in the New York Times about
+[Another article in the New York Times about
 RSS:](<http://www.nytimes.com/2004/06/03/technology/circuits/03basi.html>)  
 > "Called R.S.S. (the initials are variously said to stand for Rich Site
 > Summary, Really Simple Syndication and more obscure formulations), this

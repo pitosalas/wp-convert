@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-01-11
 ---
 
-
-
 Yes there's been lots of rumors of [Microsoft acquiring Yahoo, or
 Logitech.](<http://www.paidcontent.org/entry/419-rumorville-microsoft-yahoo-
 microsoft-logitech-news-corp-monster/>) They come and go constantly.

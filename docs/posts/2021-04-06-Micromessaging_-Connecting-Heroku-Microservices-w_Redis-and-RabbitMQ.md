@@ -5,8 +5,6 @@ url: "https://blog.carbonfive.com/2014/04/28/micromessaging-connecting-heroku-mi
 link: "https://blog.carbonfive.com/2014/04/28/micromessaging-connecting-heroku-microservices-wredis-and-rabbitmq" 
 cover: "https://s0.wp.com/i/blank.jpg" 
 date: 2021-04-06
-tags:
-    - reddis rabbitmq queueing
 ---
 <img class="cover" src=https://s0.wp.com/i/blank.jpg>
 

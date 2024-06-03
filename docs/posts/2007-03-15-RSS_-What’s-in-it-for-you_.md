@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-03-15
 ---
 
-
-
 I am participating in the "[Institute of Management Consultants" New England
 Chapter program tonight, entitled "Help prospects find you (and your clients)
 using Web 2.0.](<http://www.imcne.org/weekly_updates/wu_07_0314.html#event3>)"

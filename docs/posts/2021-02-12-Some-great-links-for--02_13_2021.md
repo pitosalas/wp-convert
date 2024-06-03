@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2021-02-12
 ---
 
-
-
   * [15 Python Packages You Probably Don’t Know Exits](<https://link.medium.com/csSHSvZHOdb>)
 
 Sweet collection of very useful python packages

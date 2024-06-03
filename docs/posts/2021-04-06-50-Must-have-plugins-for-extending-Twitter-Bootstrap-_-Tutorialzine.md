@@ -6,7 +6,7 @@ link: "http://tutorialzine.com/2013/07/50-must-have-plugins-for-extending-twitte
 cover: "https://tutorialzine.com/media/2013/07/featured_4.jpg" 
 date: 2021-04-06
 tags:
-    - bootstrap plugins css
+    - bootstrap
 ---
 <img class="cover" src=https://tutorialzine.com/media/2013/07/featured_4.jpg>
 

@@ -7,10 +7,10 @@ cover: "https://excalidraw.com/og-image-2.png"
 date: 2023-11-11
 tags:
     - drawing
-    - diagrams
     - drag-and-drop
-    - visualization
     - illustration
+    - diagram
+    - visualize
 ---
 <img class="cover" src=https://excalidraw.com/og-image-2.png>
 

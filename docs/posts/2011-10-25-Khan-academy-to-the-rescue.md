@@ -7,8 +7,6 @@ tags:
     - trigon-tagometry
 ---
 
-
-
 If you haven't heard about [Khan Academy](<http://www.khanacademy.org>), let
 me be the first one to introduce you to its wonders. There is [a huge library
 of 10-12 minute educational videos on high-school and college level topics

@@ -8,9 +8,9 @@ date: 2022-06-15
 tags:
     - python
     - dashboard
-    - visualization
     - otp
     - howto
+    - visualize
 ---
 <img class="cover" src=https://streamlit.io/sharing-image-facebook.jpg>
 

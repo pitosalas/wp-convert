@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2009-02-09
 ---
 
-
-
 A very interesting article about [volunteering, and applying the wikipedia
 philosophy to
 volunteering](<http://www.techpresident.com/blog/entry/33677/information_age_volunteerism_open_sourced_crowdsourced>).

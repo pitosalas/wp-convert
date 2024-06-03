@@ -9,8 +9,6 @@ tags:
     - set
 ---
 
-
-
 [ The What, the Why, and the How of Bloom Filter - The Lean Software
 Boutique](< https://www.ombulabs.com/blog/systemdesign/ruby/bloom-filter-and-
 what-makes-them-special.html>) –Have you ever wondered how does Medium

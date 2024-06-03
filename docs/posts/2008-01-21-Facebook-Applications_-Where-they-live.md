@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-01-21
 ---
 
-
-
 I've been learning and thinking about Facebook applications, which everyone
 else is also writing and thinking about… I will be posting about some of the
 interesting facts and insights as they come up.

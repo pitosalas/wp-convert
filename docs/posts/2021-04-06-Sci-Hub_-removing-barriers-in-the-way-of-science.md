@@ -1,14 +1,14 @@
 ---
 title: "Sci-Hub: removing barriers in the way of science"
 author: Pito Salas
-url: "http://sci-hub.io" 
-link: "http://sci-hub.io" 
+url: "https://sci-hub.ac" 
+link: "https://sci-hub.ac" 
 cover: "" 
 date: 2021-04-06
 tags:
-    - science scholarly papers articles
+    - research
 ---
 <img class="cover" src=>
 
 
-* **Link to site:** **[Sci-Hub: removing barriers in the way of science](http://sci-hub.io)**
+* **Link to site:** **[Sci-Hub: removing barriers in the way of science](https://sci-hub.ac)**

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-07-19
 ---
 
-
-
   * [Goodbye ActiveRecord! - Inside Aircall - Medium](<https://medium.com/inside-aircall/goodbye-activerecord-e61ce894ed48>)
 
 Always wanted to learn more about this new Orm

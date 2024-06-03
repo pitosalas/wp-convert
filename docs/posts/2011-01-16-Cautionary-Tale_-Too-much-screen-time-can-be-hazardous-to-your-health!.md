@@ -8,8 +8,6 @@ tags:
     - TV
 ---
 
-
-
 From Science Daily: [Couch Potatoes Beware: Too Much Time Spent Watching TV Is
 Harmful to Heart
 Health](<http://www.sciencedaily.com/releases/2011/01/110110164736.htm>).

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2014-06-28
 ---
 
-
-
 I wrote [recently about Fake Steve and wondered aloud how he could get away
 with what he gets away with](</2007/11/28/how-does-fake-steve-get-away-with-
 this/>).

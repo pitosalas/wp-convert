@@ -6,8 +6,6 @@ tags:
     - religion-tag-obama-jerusalem
 ---
 
-
-
 Ok this is a bit irreverent.
 
 There's been a spat relating to the note that Barack Obama wrote and left in

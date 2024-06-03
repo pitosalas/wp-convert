@@ -9,8 +9,6 @@ tags:
     - storage
 ---
 
-
-
 [ A Nibble of Git's Object Store](< https://getcode.substack.com/p/a-nibble-
 of-gits-object-store?utm_source=post-email-
 title&publication_id=794951&post_id=89691737&isFreemail=true&utm_medium=email>)

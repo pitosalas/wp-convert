@@ -9,8 +9,6 @@ tags:
     - tripwow
 ---
 
-
-
 <http://images.travelpod.com/bin/tripwow/flash/tripwow.swf>
 
 [Galapagos

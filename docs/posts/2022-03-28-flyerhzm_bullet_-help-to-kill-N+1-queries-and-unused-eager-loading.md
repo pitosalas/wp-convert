@@ -9,9 +9,9 @@ tags:
     - database
     - scale
     - performance
-    - activerecord
     - ruby
     - gem
+    - active-record
 ---
 <img class="cover" src=https://opengraph.githubassets.com/69acba65a4e522dd8e4a3be12a9ac8aecde2140fa1ad09e170fe02f7b76e9113/flyerhzm/bullet>
 

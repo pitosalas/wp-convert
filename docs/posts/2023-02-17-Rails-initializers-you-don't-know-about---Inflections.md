@@ -8,11 +8,11 @@ date: 2023-02-17
 tags:
     - rails
     - ruby
-    - ruby-on-rails
     - initializers
     - inflections
     - fun
     - explainer
+    - rails ruby
 ---
 <img class="cover" src=https://blog.saeloun.com/images/og_logo.png>
 

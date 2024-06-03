@@ -6,7 +6,7 @@ link: "http://designshack.net/articles/css/20-awesome-resources-for-twitter-boot
 cover: "https://designshack.net/wp-content/uploads/bootstrap-resources.png" 
 date: 2021-04-06
 tags:
-    - bootstrap design css resources html link
+    - bootstrap
 ---
 <img class="cover" src=https://designshack.net/wp-content/uploads/bootstrap-resources.png>
 

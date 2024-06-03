@@ -10,6 +10,7 @@ tags:
     - url
     - howto
     - ssh
+    - tips
 ---
 <img class="cover" src=https://github.githubassets.com/images/modules/open_graph/github-logo.png>
 

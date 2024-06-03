@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-11-18
 ---
 
-
-
 Here's a [truly weird
 article](<http://www.nytimes.com/2008/11/09/magazine/09wwln-
 diagnosis-t.html?ref=magazine>), which a sticks in my mind a week after

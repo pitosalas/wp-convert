@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-01-23
 ---
 
-
-
   * [12 cool things you can do with GitHub – Hacker Noon](<https://hackernoon.com/12-cool-things-you-can-do-with-github-f3e0424cf2f0>)
 
 Pretty good tips for the github power user

@@ -7,8 +7,8 @@ cover: "https://rdl.ink/render/https%3A%2F%2Fpoorvucenter.yale.edu%2Fteaching%2F
 date: 2024-01-13
 tags:
     - teaching
-    - journals
-    - papers
+    - paper
+    - journal
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fpoorvucenter.yale.edu%2Fteaching%2Fideas-teaching%2Fteaching-journal-articles>
 

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2021-01-24
 ---
 
-
-
   * [People Data Labs](<https://www.peopledatalabs.com>)
 
 A fairly amazing service api if it works. Check it out and let us know!

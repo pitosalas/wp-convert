@@ -7,10 +7,11 @@ cover: "https://miro.medium.com/max/800/1*dia9TerNoY9l-2WJx5_UjA.jpeg"
 date: 2021-06-29
 tags:
     - python
-    - packages
     - howoto
     - programming
     - modularity
+    - package
+    - python-package
 ---
 <img class="cover" src=https://miro.medium.com/max/800/1*dia9TerNoY9l-2WJx5_UjA.jpeg>
 

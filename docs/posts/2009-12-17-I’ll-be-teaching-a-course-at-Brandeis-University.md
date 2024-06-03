@@ -12,8 +12,6 @@ tags:
     - web
 ---
 
-
-
 **Follow along as I develop the course:**[Brandeis University Web App Dev,
 Mobile App Dev and
 Incubator](<http://docs.google.com/View?id=ah8kcntpcgb9_29dpdk3thp>)

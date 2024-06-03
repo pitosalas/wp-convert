@@ -10,8 +10,6 @@ tags:
     - repositories
 ---
 
-
-
 [ Costs exposed: Monorepo vs. multirepo - Julio Merino (jmmv.dev)](<
 https://jmmv.dev/2023/08/costs-exposed-monorepo-multirepo.html>) –In software
 engineering organizations, there are certain practices that keep costs under

@@ -9,8 +9,6 @@ tags:
     - twitter
 ---
 
-
-
 Do you receive tons of notification emails form your various subscriptions or
 social sites like Twitter and Facebook and the others? Have you thought about
 the impact on your productivity all these teasers are?

@@ -4,17 +4,10 @@ author: Pito Salas
 date: 2005-06-06
 ---
 
-
->>
-
->> If you work with software developers you'll **appreciate** these two pieces
-by **Paul Graham** , author of [Hackers and
+If you work with software developers you'll **appreciate** these two pieces by
+**Paul Graham** , author of [Hackers and
 Painters](<http://www.paulgraham.com/hp.html>), a book that I also
-**recommend** heartily.
-
->>
-
->> He always has **interesting** things to say:
+**recommend** heartily.  He always has **interesting** things to say:
 
 >>
 
@@ -32,11 +25,8 @@ Podcast](<http://www.itconversations.com/shows/detail188.html>) of a speech he
 gave at the Open Source Convention (OSCON), which I also highly recommend (and
 it would be a good introduction to [IT
 Conversations](<http://www.itconversations.com/index.html>) and Podcasting if
-you were **looking for an excuse** 🙂
-
->>
-
->> Technorati Tags: [programming](<http://technorati.com/tag/programming>),
+you were **looking for an excuse** 🙂 Technorati Tags:
+[programming](<http://technorati.com/tag/programming>),
 [hackers](<http://technorati.com/tag/hackers>),
 [recommended](<http://technorati.com/tag/recommended>)
 

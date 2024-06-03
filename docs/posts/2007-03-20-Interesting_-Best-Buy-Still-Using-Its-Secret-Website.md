@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-03-20
 ---
 
-
-
 Check out [this post](<http://consumerist.com/consumer/best-buy/update-best-
 buy-still-using-its-secret-website-245216.php>) from
 [Consumerist](<http://www.consumerist.com>):

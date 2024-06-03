@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-07-04
 ---
 
-
-
   * [Editors | Drifting Ruby](<https://www.driftingruby.com/episodes/editors>)
 
 tags: [editors](<https://www.diigo.com/user/pitosalas/editors>)

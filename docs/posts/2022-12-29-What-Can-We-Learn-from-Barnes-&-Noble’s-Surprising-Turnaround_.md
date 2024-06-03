@@ -12,8 +12,6 @@ tags:
     - turnarounds
 ---
 
-
-
 [ What Can We Learn from Barnes & Noble's Surprising Turnaround?](<
 https://tedgioia.substack.com/p/what-can-we-learn-from-barnes-and>) –I was in
 a Barnes and Nobel again after many years. Actually many years before that I

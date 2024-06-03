@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-08-09
 ---
 
-
-
   * [full featured html embeddable spreadsheet](<https://github.com/mengshukeji/Luckysheet>)
 
 tags: [howto](<https://www.diigo.com/user/pitosalas/howto>)

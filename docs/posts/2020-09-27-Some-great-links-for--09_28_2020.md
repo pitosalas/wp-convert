@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-09-27
 ---
 
-
-
   * [Free Git GUI for Windows, Mac, Linux | GitKraken](<https://www.gitkraken.com>)
 
 This looks like an amazing tool. I plan to try it asap!

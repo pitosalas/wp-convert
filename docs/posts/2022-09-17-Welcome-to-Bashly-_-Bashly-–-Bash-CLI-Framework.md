@@ -10,11 +10,7 @@ tags:
     - howto
 ---
 
-
-
-[ Welcome to Bashly | Bashly - Bash CLI Framework](<
-https://bashly.dannyb.co/>) –Bashly is a command line application (written in
-Ruby) that lets you generate feature-rich bash command line tools.
+[ Welcome to Bashly | Bashly - Bash CLI Framework](< https://bashly.dannyb.co/>) –Bashly is a command line application (written in Ruby) that lets you generate feature-rich bash command line tools.
 
 
 * **Link to site:** **[Welcome to Bashly | Bashly – Bash CLI Framework](None)**

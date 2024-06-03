@@ -9,7 +9,7 @@ tags:
     - robotics
     - online
     - free
-    - courses
+    - course
 ---
 <img class="cover" src=https://asianroboticsreview.com/wp-content/uploads/elementor/thumbs/freeRobotics1000-pjqupfpojsrbz7nuph5cza2fthcarqhujna6royin8.png>
 

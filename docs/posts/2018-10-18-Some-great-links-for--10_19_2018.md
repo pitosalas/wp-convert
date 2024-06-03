@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-10-18
 ---
 
-
-
   * [](<https://www.reddit.com/r/compsci/comments/9oztot/algorithms_tutorial_series_for_beginners/?st=JNEHXSO7&sh=2d2fba36>)
 
 tags: [tutorial](<https://www.diigo.com/user/pitosalas/tutorial>)

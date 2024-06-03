@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2004-10-13
 ---
 
-
->>
-
->> A [very interesting
+A [very interesting
 piece](<http://www.zephoria.org/thoughts/archives/2004/10/10/a_culture_of_feeds_syndication_and_youth_culture.html>)
 about how people are beginning to use Instant Messaging instead of email. It's
 quite counterintuitive, but it does seem to correlate in one particular
@@ -15,7 +12,7 @@ college student I know pretty well.
 
 >>
 
->>> "Youth use email to talk with **parents and authorities** (including
+>>> "Youth use email to talk with **parents and authorities**(including
 corporate emails like from Xanga); it's where they get the functional stuff.
 They check email once a day. They get notices there, but they're **mostly
 disregarded.**

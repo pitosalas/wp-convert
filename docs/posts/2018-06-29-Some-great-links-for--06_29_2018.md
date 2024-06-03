@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-06-29
 ---
 
-
-
   * [Ruby's Powerful Method Arguments & How To Use Them Correctly - RubyGuides](<http://www.rubyguides.com/2018/06/rubys-method-arguments/>)
 
 tags: [arguments](<https://www.diigo.com/user/pitosalas/arguments>) [how

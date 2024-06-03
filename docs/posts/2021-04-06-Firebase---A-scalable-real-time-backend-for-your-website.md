@@ -7,6 +7,7 @@ cover: "https://firebase.google.com/images/social.png"
 date: 2021-04-06
 tags:
     - database mobile javascript
+    - web
 ---
 <img class="cover" src=https://firebase.google.com/images/social.png>
 

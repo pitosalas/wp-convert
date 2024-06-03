@@ -7,7 +7,6 @@ cover: "https://www.macbartender.com/Bartender4/img/Icon-1024.png"
 date: 2022-11-13
 tags:
     - macos
-    - add-on
     - howto
     - desktop
     - menu

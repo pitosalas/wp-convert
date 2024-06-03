@@ -4,14 +4,11 @@ author: Pito Salas
 date: 2004-08-15
 ---
 
-
->>
-
->> [This is a really interesting new site
+[This is a really interesting new site
 ](<http://thisisrumorcontrol.org/>)where the posters, apparently [well
 informed folks in the intelligence, defense and state community
 ](<http://www.thisisrumorcontrol.org/welcome>)comment on what's going on in
-the world. ( **Then again, it could be a 16 year old in Argentina**.)
+the world. (**Then again, it could be a 16 year old in Argentina**.)
 
 >>
 

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-05-06
 ---
 
-
-
   * [Instrumenting Ruby on Rails with Prometheus](<https://www.firehydrant.io/blog/instrumenting-ruby-on-rails-with-prometheus/?utm_source=share&utm_medium=ios_app>)
 
 Pretty cool way to instrument rails code. Not sure how performant it is

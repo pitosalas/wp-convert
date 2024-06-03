@@ -6,7 +6,7 @@ link: "https://nickjanetakis.com/blog/80-characters-per-line-is-a-standard-worth
 cover: "https://nickjanetakis.com/assets/blog/cards/80-characters-per-line-is-a-standard-worth-sticking-to-even-today-aa5cc76f7dce524af245675bcd9316fa4b6b7db3d3427a1242fb63eff3ae9b57.jpg" 
 date: 2021-04-06
 tags:
-    - characters line programming standard tips
+    - characters
 ---
 <img class="cover" src=https://nickjanetakis.com/assets/blog/cards/80-characters-per-line-is-a-standard-worth-sticking-to-even-today-aa5cc76f7dce524af245675bcd9316fa4b6b7db3d3427a1242fb63eff3ae9b57.jpg>
 

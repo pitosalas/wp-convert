@@ -7,9 +7,9 @@ cover: "https://content.instructables.com/ORIG/FFQ/HCD8/JAMTV7UH/FFQHCD8JAMTV7UH
 date: 2021-11-11
 tags:
     - electronics
-    - tools
     - howto
     - crimping
+    - tool
 ---
 <img class="cover" src=https://content.instructables.com/ORIG/FFQ/HCD8/JAMTV7UH/FFQHCD8JAMTV7UH.jpg?auto=webp&frame=1&width=2100>
 

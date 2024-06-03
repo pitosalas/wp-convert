@@ -9,9 +9,9 @@ tags:
     - postgres
     - performance
     - howto
-    - tools
     - index
     - query
+    - tool
 ---
 <img class="cover" src=https://images.thoughtbot.com/blog-vellum-image-uploads/PbDCVAVRWCyg0dnx4KwC_PEV.png>
 

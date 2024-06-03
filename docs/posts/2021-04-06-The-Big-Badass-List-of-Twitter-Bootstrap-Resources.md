@@ -6,7 +6,7 @@ link: "http://www.bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-res
 cover: "https://rdl.ink/render/http%3A%2F%2Fwww.bootstraphero.com%2Fthe-big-badass-list-of-twitter-bootstrap-resources" 
 date: 2021-04-06
 tags:
-    - bootstrap development design twitter
+    - bootstrap
 ---
 <img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.bootstraphero.com%2Fthe-big-badass-list-of-twitter-bootstrap-resources>
 

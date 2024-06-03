@@ -7,7 +7,6 @@ cover: "https://dev.to/social_previews/article/475327.png"
 date: 2021-04-06
 tags:
     - howto
-    - website
     - free
     - templates
     - page

@@ -5,6 +5,8 @@ url: "https://clearseasresearch.com/blog/marketing-research/basic-data-analysis-
 link: "https://clearseasresearch.com/blog/marketing-research/basic-data-analysis-for-non-researchers-what-you-need-to-know-and-pitfalls-to-avoid" 
 cover: "https://clearseasresearch.com/wp-content/uploads/2018/04/BasicDataAnalysis-768x423-1.jpg" 
 date: 2021-04-06
+tags:
+    - data-analysis
 ---
 <img class="cover" src=https://clearseasresearch.com/wp-content/uploads/2018/04/BasicDataAnalysis-768x423-1.jpg>
 

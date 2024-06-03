@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-03-07
 ---
 
-
-
 Isaac Asimov was a visonary don't you think?
 
 > "South Korea's obsession with technology has led it to consider what may be

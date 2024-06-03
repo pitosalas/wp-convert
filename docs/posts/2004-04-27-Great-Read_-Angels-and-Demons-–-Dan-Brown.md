@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2004-04-27
 ---
 
-
->>
-
->> By sheer coincidence, the day before leaving for Spain, two people
+By sheer coincidence, the day before leaving for Spain, two people
 independently mentioned to me that [Angels and Demons by Dan Brown
 ](<http://www.amazon.com/exec/obidos/tg/detail/-/0671027360/002-2245285-3016003?v=glance>)was
 good, even better than [Da Vinci Code by the same

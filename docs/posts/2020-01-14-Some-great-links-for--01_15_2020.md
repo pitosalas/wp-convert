@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-01-14
 ---
 
-
-
   * [Academic Torrents](<http://academictorrents.com>)
 
 If you’re looking for data for your research project, this is an impressive

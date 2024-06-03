@@ -8,8 +8,6 @@ tags:
     - swiplely
 ---
 
-
-
 So there's this rather cool new service that says they will find and give you
 special deals to the stores and merchants you use already. The way they do it
 is to examine your credit card bills and help you find deals. They say:

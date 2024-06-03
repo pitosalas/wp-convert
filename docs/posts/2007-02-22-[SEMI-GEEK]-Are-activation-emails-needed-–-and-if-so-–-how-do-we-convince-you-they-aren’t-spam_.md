@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-02-22
 ---
 
-
-
 Here's an odd but important problem, at least for us here at BlogBridge.
 
 When you sign up for a BlogBridge account, we, like many other sites, send you

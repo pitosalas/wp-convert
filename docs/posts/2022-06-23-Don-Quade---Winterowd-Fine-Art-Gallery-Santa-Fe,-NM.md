@@ -7,7 +7,7 @@ cover: "https://fineartsantafe.com/wp-content/uploads/2019/05/dq_musicymariposa_
 date: 2022-06-23
 tags:
     - art
-    - paintings
+    - painting
 ---
 <img class="cover" src=https://fineartsantafe.com/wp-content/uploads/2019/05/dq_musicymariposa_16x16.jpg>
 

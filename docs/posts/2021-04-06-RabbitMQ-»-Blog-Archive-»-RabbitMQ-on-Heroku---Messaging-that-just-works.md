@@ -7,6 +7,7 @@ cover: "https://rdl.ink/render/https%3A%2F%2Fwww.rabbitmq.com%2Fblog%2F2011%2F09
 date: 2021-04-06
 tags:
     - rabbitmq messaging
+    - heroku
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.rabbitmq.com%2Fblog%2F2011%2F09%2F01%2Frabbitmq-on-heroku>
 

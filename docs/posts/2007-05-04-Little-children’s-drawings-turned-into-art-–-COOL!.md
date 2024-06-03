@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-05-04
 ---
 
-
-
 Check [this link out, there are lots of really fun
 drawings](<http://www.linkinn.com/wiki_101.php?add=&id=3192&select=All>). The
 artists take a little kid's drawing and turns it into something amazing.

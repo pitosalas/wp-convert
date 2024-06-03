@@ -7,9 +7,10 @@ cover: "https://miro.medium.com/max/1148/1*8gU4gUl8ZhWThB8bRm6w0w.png"
 date: 2022-01-20
 tags:
     - python
-    - vscose
     - howto
     - extensions
+    - python-package
+    - vscode
 ---
 <img class="cover" src=https://miro.medium.com/max/1148/1*8gU4gUl8ZhWThB8bRm6w0w.png>
 

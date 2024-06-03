@@ -7,6 +7,7 @@ cover: "https://pluralsight.imgix.net/course-images/code-school-rails-for-zombie
 date: 2021-04-06
 tags:
     - ruby rails teaching learning
+    - tutorial
 ---
 <img class="cover" src=https://pluralsight.imgix.net/course-images/code-school-rails-for-zombies-v1.png>
 

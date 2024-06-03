@@ -7,6 +7,8 @@ cover: "https://avatars.githubusercontent.com/u/32069?s=400&v=4"
 date: 2021-04-06
 tags:
     - Elections
+    - tips
+    - howto
 ---
 <img class="cover" src=https://avatars.githubusercontent.com/u/32069?s=400&v=4>
 

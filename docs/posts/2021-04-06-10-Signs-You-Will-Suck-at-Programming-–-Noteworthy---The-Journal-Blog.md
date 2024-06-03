@@ -7,6 +7,7 @@ cover: "https://miro.medium.com/max/1200/0*cF-7zKh4jqldcDf2"
 date: 2021-04-06
 tags:
     - skill programming learners
+    - programming
 ---
 <img class="cover" src=https://miro.medium.com/max/1200/0*cF-7zKh4jqldcDf2>
 

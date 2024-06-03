@@ -9,6 +9,7 @@ tags:
     - css
     - howto
     - explainer
+    - design
 ---
 <img class="cover" src=https://res.cloudinary.com/practicaldev/image/fetch/s--CJA3dVfz--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/zlwwm0z1v3mu6w443eps.png>
 

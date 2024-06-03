@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2004-01-17
 ---
 
-
->>
-
->> **Goody, Goody!**[Mary, over at
+**Goody, Goody!**[Mary, over at
 LockerGnome](<http://channels.lockergnome.com/news/archives/008603.phtml>)
 notes: "…to look like a Windows application. With JGoodies you can give them
 what they want, and a whole lot more besides!". This is in reference to a

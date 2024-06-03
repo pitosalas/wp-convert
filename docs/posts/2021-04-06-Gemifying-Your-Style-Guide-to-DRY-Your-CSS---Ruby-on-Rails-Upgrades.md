@@ -5,6 +5,8 @@ url: "https://www.fastruby.io/blog/gems/dry/ruby/gemifying-your-styleguide.html"
 link: "https://www.fastruby.io/blog/gems/dry/ruby/gemifying-your-styleguide.html" 
 cover: "https://fastruby.io/blog/assets/images/header/gemifying-your-style-guide-to-dry-your-css.jpg" 
 date: 2021-04-06
+tags:
+    - design
 ---
 <img class="cover" src=https://fastruby.io/blog/assets/images/header/gemifying-your-style-guide-to-dry-your-css.jpg>
 

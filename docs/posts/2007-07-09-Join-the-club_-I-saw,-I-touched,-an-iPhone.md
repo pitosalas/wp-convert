@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-07-09
 ---
 
-
-
 I am not going to write yet another long review or commentary. But I can't
 resist a few crass words:
 

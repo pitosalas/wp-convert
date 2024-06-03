@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2009-02-06
 ---
 
-
-
 ![passimlogo](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-
 content/uploads/2009/02/passimlogo.gif?resize=226%2C167)Hey, how about doing
 me a favor?

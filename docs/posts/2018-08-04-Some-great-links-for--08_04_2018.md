@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-08-04
 ---
 
-
-
   * [Gobot - Golang framework for robotics, drones, and the Internet of Things (IoT)](<https://gobot.io>)
 
 tags: [robotics](<https://www.diigo.com/user/pitosalas/robotics>)

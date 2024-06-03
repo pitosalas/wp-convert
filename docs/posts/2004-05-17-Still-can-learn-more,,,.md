@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2004-05-17
 ---
 
-
->>
-
->> If you are doing Java programming, check out [Hardcore
+If you are doing Java programming, check out [Hardcore
 Java](<http://store.yahoo.com/softpro/0-596-00568-7.html>) by Robert Simmon
 Jr. It's a idiosyncratic tour through many very interesting advanced Java
 topics.

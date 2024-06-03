@@ -7,8 +7,6 @@ tags:
     - mission-tag
 ---
 
-
-
 Maybe I've been out of the corporate world for too long. And I do wish
 Microsoft well because Google and Facebook and others need competition so they
 don't totally ruin our world. So I read with interest [Satya Nadella's email

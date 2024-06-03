@@ -12,6 +12,7 @@ tags:
     - color
     - large
     - service
+    - pricing
 ---
 <img class="cover" src=https://www.posterpresentations.com/assets/images/professional-pg-506x340.png>
 

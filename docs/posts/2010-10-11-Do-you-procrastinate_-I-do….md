@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2010-10-11
 ---
 
-
-
 Here's an insightful [New Yorker article about
 procrastination](<http://www.newyorker.com/arts/critics/books/2010/10/11/101011crbo_books_surowiecki?currentPage=all>).
 There are some useful ideas and techniques in this article. One of my
@@ -29,7 +27,7 @@ favorites is the concept of 'self-binding' (not a form of masochism):
 > Today, problem gamblers write contracts with casinos banning them from the
 > premises. And people who are trying to lose weight or finish a project will
 > sometimes make bets with their friends so that if they don’t deliver on
-> their promise it’ll cost them money." ( **from** the [New
+> their promise it’ll cost them money." (**from** the [New
 > Yorker](<http://www.newyorker.com/arts/critics/books/2010/10/11/101011crbo_books_surowiecki?currentPage=all#ixzz123hefY84>))
 
 [What we can learn from procrastination : The New

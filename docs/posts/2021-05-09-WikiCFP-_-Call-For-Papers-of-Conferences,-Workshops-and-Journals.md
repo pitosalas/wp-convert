@@ -7,9 +7,9 @@ cover: "https://rdl.ink/render/http%3A%2F%2Fwww.wikicfp.com%2Fcfp%2F"
 date: 2021-05-09
 tags:
     - conferences
-    - papers
-    - computer-science
-    - journals
+    - paper
+    - computerscience
+    - journal
 ---
 <img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.wikicfp.com%2Fcfp%2F>
 

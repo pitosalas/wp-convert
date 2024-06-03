@@ -8,8 +8,6 @@ tags:
     - sunset
 ---
 
-
-
 I noticed yesterday that sunset is now occurring at 4:12pm. The day before it
 was 4:11pm. So **sunset is getting later!** **Summer** is almost here, right?
 

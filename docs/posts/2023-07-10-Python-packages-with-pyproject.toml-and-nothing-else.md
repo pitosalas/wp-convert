@@ -12,6 +12,7 @@ tags:
     - programming
     - toml
     - poetry
+    - python-package
 ---
 <img class="cover" src=https://s3.amazonaws.com/til.simonwillison.net/00cb52aab1488d26adfdaa7d69f4bf2c.jpg>
 

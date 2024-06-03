@@ -8,8 +8,8 @@ date: 2022-03-13
 tags:
     - opencv
     - python
-    - tutorials
     - robotics
+    - tutorial
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fdocs.opencv.org%2F4.x%2Fd6%2Fd00%2Ftutorial_py_root.html>
 

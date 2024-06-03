@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2022-02-14
 ---
 
-
-
 [ GitHub - ngs-lang/ngs: Next Generation Shell (NGS)](<https://github.com/ngs-
 lang/ngs/>)
 

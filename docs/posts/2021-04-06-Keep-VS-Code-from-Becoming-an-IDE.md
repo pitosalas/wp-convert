@@ -7,6 +7,8 @@ cover: "https://res.cloudinary.com/practicaldev/image/fetch/s--aPp01yi9--/c_imag
 date: 2021-04-06
 tags:
     - ide vscode code
+    - vscode
+    - visual-studio
 ---
 <img class="cover" src=https://res.cloudinary.com/practicaldev/image/fetch/s--aPp01yi9--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/6dncsd01jt6rm8ipx2sd.png>
 

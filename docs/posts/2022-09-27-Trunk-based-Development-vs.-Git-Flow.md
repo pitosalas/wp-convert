@@ -11,6 +11,8 @@ tags:
     - branches
     - trunk-based
     - gitflow
+    - tips
+    - howto
 ---
 <img class="cover" src=https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/776970/trunk-based-development-git-flow-2e99b359908d4b2793dd64970b1d402c.png>
 

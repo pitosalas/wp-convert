@@ -7,11 +7,11 @@ cover: "https://i.ytimg.com/vi/nU6NPuxkQck/hqdefault.jpg"
 date: 2022-04-04
 tags:
     - video
-    - presentations
     - academia
     - teaching
     - hiwto
     - howto
+    - presentation
 ---
 <img class="cover" src=https://i.ytimg.com/vi/nU6NPuxkQck/hqdefault.jpg>
 

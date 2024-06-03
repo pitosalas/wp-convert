@@ -7,6 +7,7 @@ cover: "https://rdl.ink/render/http%3A%2F%2Fwebdevelopersfieldguide.com"
 date: 2021-04-06
 tags:
     - Dev Tools
+    - web
 ---
 <img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwebdevelopersfieldguide.com>
 

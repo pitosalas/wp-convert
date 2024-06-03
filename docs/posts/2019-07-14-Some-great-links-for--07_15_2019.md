@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-07-14
 ---
 
-
-
   * [styd/apexcharts.rb](<https://github.com/styd/apexcharts.rb>)
 
 This is an AMAZING collection of graphs. Great to have a ruby binding. Haven’t

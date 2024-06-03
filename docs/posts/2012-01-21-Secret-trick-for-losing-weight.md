@@ -8,8 +8,6 @@ tags:
     - weightloss
 ---
 
-
-
 I am going to share my **secret technology** for losing weight. It's a mental
 exercise that really works. It is inspired by the neuro-economics concept of
 "[anchoring](<http://en.wikipedia.org/wiki/Anchoring>)". Here's how it works:
@@ -21,7 +19,7 @@ Then I step on the scale. I
 
 see, let's say, 170.5lbs. I am not surprised, but **part of my subconscious is
 disappointed** and I am re-motivated to keep working on it. My focus and
-motivation is pumped up. It works! ( **Patent pending 2011, R. Pito Salas)**
+motivation is pumped up. It works! (**Patent pending 2011, R. Pito Salas)**
 
 Before this technique, I would step on the scale thinking, I hope that I am
 maybe half a pound less than yesterday, but anyway, it better not be up. So
@@ -36,7 +34,7 @@ Hadn't heard about anchoring before? Here's a bit about it:
 > other information to reflect the "anchored" information. Through this
 > cognitive bias, the first information learned about a subject (or, more
 > generally, information learned at an early age) can affect future decision-
-> making and information analysis." ( **from**
+> making and information analysis." (**from**
 > [Wikipedia](<http://en.wikipedia.org/wiki/Anchoring>))
 
 And also:
@@ -58,7 +56,7 @@ And also:
 >
 > A natural conclusion is that if preferences are unduly labile and influenced
 > by innocuous properties of circumstance, then no optimization principles may
-> underlie even straightforward individual economic decisions." ( **from**
+> underlie even straightforward individual economic decisions." (**from**
 > [University of
 > Alaska)](<http://www.econpapers.uaa.alaska.edu/RePEC/ala/wpaper/ALA201102.pdf>)
 

@@ -6,13 +6,13 @@ link: "https://simonwillison.net/2022/Dec/5/rust-chatgpt-copilot/"
 cover: "https://static.simonwillison.net/static/2022/copilot-2.jpg" 
 date: 2022-12-07
 tags:
-    - ChatGPT
-    - learning
     - ethics
     - rust
     - advent-of-code
     - explainer
     - ai
+    - learn
+    - chat-gpt
 ---
 <img class="cover" src=https://static.simonwillison.net/static/2022/copilot-2.jpg>
 

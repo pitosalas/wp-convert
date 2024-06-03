@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-12-24
 ---
 
-
-
   * [more handy python snippets ](<https://link.medium.com/U8bjsYsqG2>)
 
 More handy shortcuts and one liners in everyday use

@@ -10,8 +10,6 @@ tags:
     - rock-and-roll
 ---
 
-
-
 If you are, or ever were, a Billy Joel Fan you will really like this
 interview. Fascinating to read what seem to be the reasonably honest thoughts
 and feelings of a Rock Star!

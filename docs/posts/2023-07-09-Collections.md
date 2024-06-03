@@ -9,6 +9,9 @@ tags:
     - creativity
     - art
     - books
+    - interesting
+    - collection
+    - documentaries
 ---
 <img class="cover" src=https://publicdomainreview.org/static/pdr-circles-66b0b7b42092975f0d5502ab646d9fa8.png>
 

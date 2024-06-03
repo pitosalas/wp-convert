@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-04-30
 ---
 
-
-
   * [Low-hanging design fruit: why you should use Google Font Superfamilies](<https://medium.freecodecamp.org/low-hanging-design-fruit-why-you-should-use-google-font-superfamilies-1dae04b2fc50?source=userActivityShare-d383785221d0-1525000385>)
 
 tags: [fonts](<https://www.diigo.com/user/pitosalas/fonts>)

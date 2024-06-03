@@ -8,8 +8,6 @@ tags:
     - time
 ---
 
-
-
 > "Revelers will have an extra second to enjoy the New Year celebrations.
 >
 > Drunken party goers may not notice but, thanks to the Earth's erratic

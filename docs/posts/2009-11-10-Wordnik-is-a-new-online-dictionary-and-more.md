@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2009-11-10
 ---
 
-
-
 Just came across [Wordnik](<http://www.wordnik.com>), what looks like a
 [mega](<http://www.wordnik.com/words/mega>) dictionary. Maybe it's more of a
 [meta](<http://www.wordnik.com/words/meta>) dictionary. It's part of the

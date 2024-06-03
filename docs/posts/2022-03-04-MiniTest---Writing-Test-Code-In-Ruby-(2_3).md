@@ -7,11 +7,11 @@ cover: "https://res.cloudinary.com/practicaldev/image/fetch/s--FmReUTtc--/c_imag
 date: 2022-03-04
 tags:
     - ruby
-    - testing
     - minitest
     - howto
     - cosi105
     - cosi166
+    - test
 ---
 <img class="cover" src=https://res.cloudinary.com/practicaldev/image/fetch/s--FmReUTtc--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/ra84ev8eotczc12eysfu.png>
 

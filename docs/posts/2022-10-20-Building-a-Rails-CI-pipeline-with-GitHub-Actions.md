@@ -10,6 +10,8 @@ tags:
     - ci
     - github
     - heroku
+    - tips
+    - howto
 ---
 <img class="cover" src=https://boringrails.com/images/github-actions-ci.png>
 

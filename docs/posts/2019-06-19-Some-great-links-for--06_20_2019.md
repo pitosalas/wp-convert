@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-06-19
 ---
 
-
-
   * [Behavior trees for AI: How they work](<https://www.gamasutra.com/blogs/ChrisSimpson/20140717/221339/Behavior_trees_for_AI_How_they_work.php>)
 
 An interesting complement or alternative to finite state machines in robotics.

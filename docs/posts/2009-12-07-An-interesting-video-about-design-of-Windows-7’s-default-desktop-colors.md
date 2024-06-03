@@ -8,8 +8,6 @@ tags:
     - windows7
 ---
 
-
-
 If you're interested in design and illustration, you might like this video of
 how Microsoft went about [designing the default desktop for Windows
 7](<http://windowsteamblog.com/blogs/windows7/archive/2009/12/06/how-we-

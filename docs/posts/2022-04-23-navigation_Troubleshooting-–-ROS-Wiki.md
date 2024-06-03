@@ -6,8 +6,6 @@ tags:
     - navigation-tag
 ---
 
-
-
 [ navigation/Troubleshooting - ROS
 Wiki](<https://wiki.ros.org/navigation/Troubleshooting>)
 

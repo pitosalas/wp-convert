@@ -9,8 +9,6 @@ tags:
     - sweden
 ---
 
-
-
 An interesting international perspective on politics:
 
 > "…So, believe me, US politics don’t have a Left. Looking at the presidential
@@ -19,7 +17,7 @@ An interesting international perspective on politics:
 > control and all make frequent mention of their religious beliefs in public.
 > These are extremist stances. Not even the tiny Christian Democrat party
 > mentions God publicly in Sweden, for fear of alienating the pragmatic
-> rationalist majority…." ( **from**
+> rationalist majority…." (**from**
 > [Aardvarchaeology](<http://scienceblogs.com/aardvarchaeology/2008/02/03/us-
 > politics-have-no-left-wing/>))
 

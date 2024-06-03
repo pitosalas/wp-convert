@@ -9,6 +9,8 @@ tags:
     - ros
     - web
     - robot
+    - robot-kit
+    - robotics
 ---
 <img class="cover" src=https://rdl.ink/render/http%3A%2F%2Frobotwebtools.org%2F>
 

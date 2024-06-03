@@ -10,6 +10,8 @@ tags:
     - storage
     - internals
     - explainer
+    - tips
+    - howto
 ---
 <img class="cover" src=https://getcode.substack.com/p/[object%20Object]>
 

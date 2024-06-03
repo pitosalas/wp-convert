@@ -10,8 +10,6 @@ tags:
     - value
 ---
 
-
-
 **Good news** : I looked up what the trade-in value is for my iPhone 4S 32Gig.
 Much to my pleasant surprise, it's $195. Almost enough to pay for my new
 iPhone 5S!

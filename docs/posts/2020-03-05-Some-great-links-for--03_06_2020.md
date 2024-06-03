@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-03-05
 ---
 
-
-
   * [Library for stubbing and setting expectations on HTTP requests in Ruby.](<https://github.com/bblimke/webmock>)
 
 There are many of these building blocks. Use this to mock a web service that

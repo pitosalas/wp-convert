@@ -10,8 +10,6 @@ tags:
     - kindle
 ---
 
-
-
 Enjoy: [Amazon.com: 50 Ways to Protect Your Identity in a Digital Age: New
 Financial Threats You Need to Know and How to Avoid Them (2nd Edition) eBook:
 Steve Weisman: Kindle

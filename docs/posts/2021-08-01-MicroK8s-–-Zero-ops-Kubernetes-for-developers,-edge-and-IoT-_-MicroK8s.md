@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2021-08-01
 ---
 
-
-
-[ MicroK8s - Zero-ops Kubernetes for developers, edge and IoT |
-MicroK8s](<https://microk8s.io/>)
+[ MicroK8s - Zero-ops Kubernetes for developers, edge and IoT | MicroK8s](<https://microk8s.io/>)
 
 MicroK8s is the simplest production-grade upstream K8s. Lightweight and
 focused. Single command install on Linux, Windows and macOS. Made for devops,

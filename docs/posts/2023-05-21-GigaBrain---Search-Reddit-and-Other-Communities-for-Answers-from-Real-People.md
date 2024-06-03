@@ -8,7 +8,6 @@ date: 2023-05-21
 tags:
     - shopping
     - search
-    - reddit
     - cooltool
 ---
 <img class="cover" src=https://thegigabrain.com/assets/192x192.png>

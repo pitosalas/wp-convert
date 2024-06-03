@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-10-25
 ---
 
-
-
 Check out [this post](<http://chris.pirillo.com/2007/10/24/how-to-opt-out-of-
 junk-mail-and-catalogs-2/>) from [Chris Pirillo](<http://chris.pirillo.com>):
 

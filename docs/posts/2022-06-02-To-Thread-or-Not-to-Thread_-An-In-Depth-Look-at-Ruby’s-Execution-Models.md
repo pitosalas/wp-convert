@@ -10,10 +10,10 @@ tags:
     - rails
     - internals
     - gvl
-    - processes
     - threads
     - cosi105
     - explainer
+    - process
 ---
 <img class="cover" src=https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_220411_216ppi_02_RubyExecutionModels.jpg?v=1653485716>
 

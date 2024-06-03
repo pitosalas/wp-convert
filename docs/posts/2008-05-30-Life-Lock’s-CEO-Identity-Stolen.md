@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-05-30
 ---
 
-
-
 Check this post [Life Lock's CEO Identity
 Stolen](<http://www.metafilter.com/72057/Life-Locks-CEO-Identity-Stolen>) from
 [MetaFilter](<http://xml.metafilter.com/rss.xml>):

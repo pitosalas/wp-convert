@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-10-11
 ---
 
-
-
   * [Hello from Kuby | Kuby](<https://getkuby.io>)
 
 Looks like another wonderful rails deployment solution. Definitely will check

@@ -10,6 +10,7 @@ tags:
     - rubyist
     - parsing
     - parser
+    - programming-language
 ---
 <img class="cover" src=https://ondemand.bannerbear.com/signedurl/Mn62mqoVbWvyB5wgQ1/image.jpg?modifications=W3sibmFtZSI6InRpdGxlIiwidGV4dCI6IkNyZWF0ZSBhIEJ1c2luZXNzIExhbmd1YWdlIGZvciBhIFJhaWxzIEFwcGxpY2F0aW9uIn0seyJuYW1lIjoiaW1hZ2UiLCJpbWFnZV91cmwiOiJodHRwczovL2FwcHNpZ25hbC1uZXh0anMtYmxvZy05dGRuajNzYXUtYXBwc2lnbmFsLnZlcmNlbC5hcHAvaW1hZ2VzL2Jsb2cvMjAyMy0wMS9idXNpbmVzcy1sYW5ndWFnZS1yYWlscy5wbmcifSx7Im5hbWUiOiJjYXRlZ29yeV9sb2dvIiwiaW1hZ2VfdXJsIjoiaHR0cHM6Ly9hcHBzaWduYWwtbmV4dGpzLWJsb2ctOXRkbmozc2F1LWFwcHNpZ25hbC52ZXJjZWwuYXBwL2ltYWdlcy9sb2dvcy9ydWJ5LWxvZ28ucG5nIn1d&s=9775ee29248f439c45078b278535e6825534c5dd9c5d128514638de346fd18bf>
 

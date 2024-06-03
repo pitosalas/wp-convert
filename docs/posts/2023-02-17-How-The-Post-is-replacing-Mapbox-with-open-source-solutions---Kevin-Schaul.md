@@ -8,9 +8,8 @@ date: 2023-02-17
 tags:
     - map
     - mapbox
-    - open-source
     - mapping
-    - washington-post
+    - opensource
 ---
 <img class="cover" src=https://www.kschaul.com/post/2023/02/16/how-the-post-is-replacing-mapbox-with-open-source-solutions/maputnik.png>
 

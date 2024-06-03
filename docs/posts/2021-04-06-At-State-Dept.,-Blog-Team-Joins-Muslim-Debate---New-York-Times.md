@@ -6,7 +6,7 @@ link: "http://www.nytimes.com/2007/09/22/washington/22bloggers.html?_r=1&oref=sl
 cover: "https://static01.nyt.com/newsgraphics/images/icons/defaultCrop.png?year=2007" 
 date: 2021-04-06
 tags:
-    - blogging daubootcamp
+    - blog
 ---
 <img class="cover" src=https://static01.nyt.com/newsgraphics/images/icons/defaultCrop.png?year=2007>
 

@@ -9,8 +9,6 @@ tags:
     - software
 ---
 
-
-
 Are you thinking about hiring a software developer to build your system? Here
 are "[8 Things You Ought to Know If You Do Not Know Anything About Hiring a
 Software Developer](<http://blog.8thlight.com/angelique-

@@ -12,8 +12,6 @@ tags:
     - logos
 ---
 
-
-
 One of these two is from Apple and one is from Google. They both contain
 coupons and cards. Which is which?
 

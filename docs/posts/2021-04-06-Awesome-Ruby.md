@@ -7,6 +7,9 @@ cover: "http://awesome-ruby.com/images/logo_l.png"
 date: 2021-04-06
 tags:
     - ruby gems library
+    - rails
+    - rails ruby
+    - ruby
 ---
 <img class="cover" src=http://awesome-ruby.com/images/logo_l.png>
 

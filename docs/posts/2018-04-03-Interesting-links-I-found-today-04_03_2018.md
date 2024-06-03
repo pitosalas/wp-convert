@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-04-03
 ---
 
-
-
   * [IMSLP/Petrucci Music Library: Free Public Domain Sheet Music](<http://imslp.org/wiki/Main_Page>)
 
 Great resource

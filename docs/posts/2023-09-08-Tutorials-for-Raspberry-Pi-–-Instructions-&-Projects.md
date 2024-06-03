@@ -7,8 +7,8 @@ cover: "https://tutorials-raspberrypi.com/wp-content/uploads/2016/10/Raspberry-P
 date: 2023-09-08
 tags:
     - raspberry-pi
-    - tutorials
     - cooltools
+    - tutorial
 ---
 <img class="cover" src=https://tutorials-raspberrypi.com/wp-content/uploads/2016/10/Raspberry-Pi-Gas-Sensor-MQ-2-450x450.jpg>
 

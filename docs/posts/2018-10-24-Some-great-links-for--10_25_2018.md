@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-10-24
 ---
 
-
-
   * <https://link.medium.com/0oNpyGJ4gR>
 
 Excellent detailed article about benchmarking a rails app and then introducing

@@ -7,6 +7,8 @@ cover: "https://cacm.acm.org/system/assets/0001/5470/041514_Bertrand-Meyer-250.l
 date: 2021-04-06
 tags:
     - Software Engineering
+    - programming
+    - programming-language
 ---
 <img class="cover" src=https://cacm.acm.org/system/assets/0001/5470/041514_Bertrand-Meyer-250.large.jpg?1476779476&1397569694>
 

@@ -10,8 +10,6 @@ tags:
     - new-york-times
 ---
 
-
-
 The other day I wrote a post where I [mentioned Google's App
 Inventor](</2010/08/05/david-weinberger-has-flat-feet-programming/>), and I
 mentioned it with some skepticism.
@@ -24,7 +22,7 @@ in more detail, and comes to more or less the same conclusion:
 > will have one in schools and computer classes, among other niches.
 >
 > But for nonprogrammers on their own? Forget it. Android Hype Inventor is
-> more like it." ( **from** [the New York
+> more like it." (**from** [the New York
 > Times](<http://www.nytimes.com/2010/08/12/technology/personaltech/12pogue.html>))
 
 

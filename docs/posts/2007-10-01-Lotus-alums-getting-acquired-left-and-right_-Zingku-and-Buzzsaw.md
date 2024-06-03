@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-10-01
 ---
 
-
-
 In recent weeks there have been two exciting announcements of acquisitions of
 companies started by friends of mine, and not coincidentally, ex-[Lotus
 Development Corporation](<http://en.wikipedia.org/wiki/Lotus_Software>) folks.

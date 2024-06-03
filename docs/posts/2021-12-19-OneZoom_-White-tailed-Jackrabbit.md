@@ -9,10 +9,10 @@ tags:
     - evolution
     - tree
     - game
-    - visualization
     - animal
     - plants
     - kids
+    - visualize
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.onezoom.org%2Flife%2F%40Lepus_townsendii%3D747875%3Fimg%3Dbest_any%26anim%3Dflight%23x240%2Cy57%2Cw1.1080>
 

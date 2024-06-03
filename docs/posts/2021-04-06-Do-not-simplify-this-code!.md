@@ -6,7 +6,7 @@ link: "https://github.com/kubernetes/kubernetes/blob/ec2e767e59395376fa191d7c56a
 cover: "https://avatars.githubusercontent.com/u/13629408?s=400&v=4" 
 date: 2021-04-06
 tags:
-    - refactoring code
+    - refactoring
 ---
 <img class="cover" src=https://avatars.githubusercontent.com/u/13629408?s=400&v=4>
 

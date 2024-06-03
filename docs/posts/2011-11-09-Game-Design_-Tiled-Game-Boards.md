@@ -8,8 +8,6 @@ tags:
     - tiledgames
 ---
 
-
-
 I've spent the last few weeks in dribs and drabs building a new game for
 Android. Lately I got deeper on what it means to have a 'tiled' game space
 display where you construct the appearance of the game space by arranging a

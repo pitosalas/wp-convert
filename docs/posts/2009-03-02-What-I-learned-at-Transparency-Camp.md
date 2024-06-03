@@ -8,8 +8,6 @@ tags:
     - transparencycamp
 ---
 
-
-
 There are people in our government who are **strongly pushing** for more
 openness and who are very focused on delivering better, more modern, service
 to citizens. They operate under some **severe constraints** , in some cases
@@ -27,7 +25,7 @@ is a very important contribution. Here's the kind of thing it covers:
 > share what we’ve learned and propose solutions for how to best use these new
 > tools across government. These recommendations are based on our first-hand
 > experience using social media within our own agencies and from hundreds of
-> conversations with web managers across the country." ( **from** "[Barriers
+> conversations with web managers across the country." (**from** "[Barriers
 > and Potential
 > Solutions](<http://www.usa.gov/webcontent/documents/SocialMediaFed%20Govt_BarriersPotentialSolutions.pdf>)")
 

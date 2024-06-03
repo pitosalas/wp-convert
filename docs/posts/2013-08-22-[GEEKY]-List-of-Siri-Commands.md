@@ -9,8 +9,6 @@ tags:
     - siri
 ---
 
-
-
 [How to Use Siri - Full list of Siri Commands for iPhone, iPad,
 Video](<http://techblog.tv/full-list-of-siri-commands-how-to-use-siri/>):
 

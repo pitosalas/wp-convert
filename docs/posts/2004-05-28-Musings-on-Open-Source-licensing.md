@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2004-05-28
 ---
 
-
->>
-
->> As I continue to make rapid progress on
+As I continue to make rapid progress on
 [BlogBridge](<http://www.blogbridge.com/>), now with a significant amount of
 help, I am asking myself some tricky questions about licensing, which I
 thought I'd try out here. (By the way, BlogBridge is the blog reader that I've

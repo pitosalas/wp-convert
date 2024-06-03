@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-05-27
 ---
 
-
-
   * [Very impressive data transformation tool](<https://www.visidata.org/install/>)
 
 It claims to be able to convert, transform and massage data in css, json and

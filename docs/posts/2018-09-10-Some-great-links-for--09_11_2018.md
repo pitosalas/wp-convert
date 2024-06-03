@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-09-10
 ---
 
-
-
   * [Ruby one-liners](<http://benoithamelin.tumblr.com/ruby1line/>)
 
 tags: [code](<https://www.diigo.com/user/pitosalas/code>)

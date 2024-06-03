@@ -7,8 +7,6 @@ tags:
     - rails3
 ---
 
-
-
 Just a quick read of this post showed me several great gems that I want to try
 right away! If you're a Rails programmer this is going to be of great
 interest: [Rails 3: Fully

@@ -9,8 +9,6 @@ tags:
     - software
 ---
 
-
-
 Other than the headline, which is amusing, I am not sure about the methodology
 or significance of this [study in US News (do they still
 exist?)](<http://money.usnews.com/careers/best-jobs/rankings/the-100-best-

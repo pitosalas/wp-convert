@@ -8,8 +8,6 @@ tags:
     - lame
 ---
 
-
-
 Email I just sent to Amazon.
 
 > Dear Amazon: I can't believe you stoop as low as that and hide the ability

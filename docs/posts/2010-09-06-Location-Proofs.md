@@ -9,8 +9,6 @@ tags:
     - security
 ---
 
-
-
 The more businesses reward me for showing up at their establishments, the more
 likely it will be that a bad guy would want to pretend that they were there to
 garner those rewards.
@@ -27,7 +25,7 @@ proofs](<http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.143.9580&rep=r
 > users have an incentive to cheat. Instead, such applications require their
 > users to prove their locations. Unfortu- nately, today’s mobile users lack a
 > mechanism to prove their cur- rent or past locations. Consequently, these
-> applications have yet to take off despite their potential." ( **from**
+> applications have yet to take off despite their potential." (**from**
 > [Enabling new mobile applications with location
 > proofs](<http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.143.9580&rep=rep1&type=pdf>))
 

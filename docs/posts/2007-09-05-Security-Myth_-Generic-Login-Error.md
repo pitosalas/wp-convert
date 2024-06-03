@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-09-05
 ---
 
-
-
 Check out [this post](<http://blog.jayfields.com/2007/09/security-myth-
 generic-login-error.html>) from [Jay Fields
 Thoughts](<http://blog.jayfields.com/>):

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-12-16
 ---
 
-
-
   * [typicode/json-server](<https://github.com/typicode/json-server>)
 
 Useful faker for rest apis.

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-03-25
 ---
 
-
-
   * [Facade Pattern in Rails for Performance and Maintainability | AppSignal Blog](<https://blog.appsignal.com/2020/03/18/facade-pattern-in-rails-for-performance-and-maintainability.html>)
 
 Good explanation. Although I don’t know exactly what his difference is between

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-06-19
 ---
 
-
-
   * [Smart Weather Station Indoor Outdoor | Netatmo](<https://www.netatmo.com/en-US/product/weather/weatherstation>)
 
 tags: [weather](<https://www.diigo.com/user/pitosalas/weather>)

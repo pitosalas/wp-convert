@@ -10,8 +10,6 @@ tags:
     - video
 ---
 
-
-
 [ Documentary Mania - Free Documentaries
 Online](<https://www.documentarymania.com/home.php>)
 

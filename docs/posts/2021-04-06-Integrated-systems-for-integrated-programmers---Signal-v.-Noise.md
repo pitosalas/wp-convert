@@ -7,9 +7,9 @@ cover: "https://i1.wp.com/m.signalvnoise.com/wp-content/uploads/2019/01/cropped-
 date: 2021-04-06
 tags:
     - architecture
-    - microservices
     - monoliths
     - design
+    - microservice
 ---
 <img class="cover" src=https://i1.wp.com/m.signalvnoise.com/wp-content/uploads/2019/01/cropped-svn-icon.gif?fit=240%2C240&ssl=1>
 

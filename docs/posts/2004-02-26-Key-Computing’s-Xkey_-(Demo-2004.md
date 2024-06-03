@@ -4,15 +4,12 @@ author: Pito Salas
 date: 2004-02-26
 ---
 
-
->>
-
->> [**Key Computing 's Xkey:**](<http://www.key-computing.com/XKey.asp>)
-**(Demo 2004 Series - 3) **By my informal survey, this was the **favorite** at
-demo. XKey is a tiny USB port device (kind of like one of those little USB
-flash devices) which, by plugging into a laptop, **transforms the host
-computer into a private, isolated, separate computer, connected by VPN to the
-corporate network.**
+[**Key Computing 's Xkey:**](<http://www.key-computing.com/XKey.asp>)**(Demo
+2004 Series - 3) **By my informal survey, this was the **favorite** at demo.
+XKey is a tiny USB port device (kind of like one of those little USB flash
+devices) which, by plugging into a laptop, **transforms the host computer into
+a private, isolated, separate computer, connected by VPN to the corporate
+network.**
 
 >>
 

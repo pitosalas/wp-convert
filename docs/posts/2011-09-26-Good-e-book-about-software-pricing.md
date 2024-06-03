@@ -8,8 +8,6 @@ tags:
     - software
 ---
 
-
-
 Pricing software is a perennial challenge. I came across this ebook, ["Don't
 just roll the dice" by Neil
 Davidson.](<http://www.neildavidson.com/dontjustrollthedice.html>) It's a very

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-02-15
 ---
 
-
-
   * [What’s coming to Rails 6.0? – Ruby Inside – Medium](<https://medium.com/rubyinside/whats-coming-to-rails-6-0-8ec79eea66da>)
 
 Rails 6 will help with database sharding!

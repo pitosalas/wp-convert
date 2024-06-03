@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-03-06
 ---
 
-
-
   * [Please stop recommending Git Flow! – George Stocker](<https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow/>)
 
 It’s always hard to handle branches. This was a very popular post when it came

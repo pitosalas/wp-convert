@@ -4,12 +4,8 @@ author: Pito Salas
 date: 2004-05-24
 ---
 
-
->>
-
->> [Scoble ](<http://scoble.weblogs.com/>)bemoans the fact that folks aren't
-all using the XML Icon, and he cites [Random
-Bytes.](<http://www.byte.org/blog>)
+[Scoble ](<http://scoble.weblogs.com/>)bemoans the fact that folks aren't all
+using the XML Icon, and he cites [Random Bytes.](<http://www.byte.org/blog>)
 
 >>
 

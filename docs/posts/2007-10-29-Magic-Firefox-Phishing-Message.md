@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-10-29
 ---
 
-
-
 Pleasantly surprised to see this, and I didn't even know it was checking for
 me:
 

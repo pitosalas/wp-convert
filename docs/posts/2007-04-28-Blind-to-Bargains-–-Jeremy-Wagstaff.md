@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-04-28
 ---
 
-
-
 Here is the full article written by Jeremy Wagstaff…
 
 > Blind to Bargains  

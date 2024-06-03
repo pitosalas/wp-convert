@@ -6,7 +6,7 @@ link: "http://www.andengine.org"
 cover: "" 
 date: 2021-04-06
 tags:
-    - games
+    - game
 ---
 <img class="cover" src=>
 

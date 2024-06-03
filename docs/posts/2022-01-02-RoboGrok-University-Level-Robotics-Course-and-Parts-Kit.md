@@ -8,10 +8,12 @@ date: 2022-01-02
 tags:
     - robotics course
     - hands-on
-    - robotics kit
     - robots
     - course
     - theory
+    - robot-kit
+    - robot
+    - robotics
 ---
 <img class="cover" src=http://www.robogrok.com/images/img0166.png>
 

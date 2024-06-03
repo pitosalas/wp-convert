@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-12-29
 ---
 
-
-
   * [Altair: Declarative Visualization in Python](<https://altair-viz.github.io/index.html>)
 
 Amazing pretty visualizations in Python based on vega-lite platform

@@ -8,8 +8,6 @@ tags:
     - teaching
 ---
 
-
-
 ![](https://i0.wp.com/c.o0bg.com/rf/image_960w/Boston/2011-2020/2013/03/12/BostonGlobe.com/Regional/Images/21weolin_2.jpg?w=584)
 
 I don't know if I mentioned that I'm teaching Engineering Entrepreneurship at
@@ -29,7 +27,7 @@ problems/XynshUPgDeFRUsAgjNCbeO/story.html>) It describes a course called
 > course is in its third year with funding from a Healthy Aging grant from the
 > MetroWest Health Foundation in Framingham. While Olin previously partnered
 > with the Needham and Wellesley councils on aging, this year’s class involves
-> seniors affiliated with the Natick Council on Aging." ( **from** [Boston
+> seniors affiliated with the Natick Council on Aging." (**from** [Boston
 > Globe](<http://www.bostonglobe.com/metro/regionals/west/2013/03/23/engineering-
 > for-humanity-needham-olin-college-olin-program-teams-students-seniors-solve-
 > problems-olin-course-teams-students-seniors-solve-

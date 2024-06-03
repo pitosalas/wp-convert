@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2010-05-28
 ---
 
-
-
 [David Brooks of the New York Times writes about technology and
 risk](<http://www.nytimes.com/2010/05/28/opinion/28brooks.html>), in the
 context of the drilling disaster in the Gulf:
@@ -19,7 +17,7 @@ context of the drilling disaster in the Gulf:
 > Feynman compared this to playing Russian roulette. Success in the last round
 > is not a good predictor of success this time. Nonetheless, as things seemed
 > to be going well, people unconsciously adjust their definition of acceptable
-> risk." ( **from**[Drilling for
+> risk." (**from**[Drilling for
 > Certainty](<http://www.nytimes.com/2010/05/28/opinion/28brooks.html>), NYT)
 
 Good [article](<http://www.nytimes.com/2010/05/28/opinion/28brooks.html>),

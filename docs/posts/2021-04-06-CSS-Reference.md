@@ -7,6 +7,8 @@ cover: "https://rdl.ink/render/http%3A%2F%2Freference.sitepoint.com%2Fcss"
 date: 2021-04-06
 tags:
     - css reference design
+    - web
+    - design
 ---
 <img class="cover" src=https://rdl.ink/render/http%3A%2F%2Freference.sitepoint.com%2Fcss>
 

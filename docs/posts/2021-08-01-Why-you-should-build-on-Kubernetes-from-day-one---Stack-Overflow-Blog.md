@@ -8,8 +8,8 @@ date: 2021-08-01
 tags:
     - kubernetes
     - scalability
-    - containers
     - howto
+    - container
 ---
 <img class="cover" src=https://149351115.v2.pressablecdn.com/wp-content/uploads/2021/07/blog-k8s.png>
 

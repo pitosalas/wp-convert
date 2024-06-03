@@ -6,12 +6,12 @@ link: "https://evilmartians.com/chronicles/rails-6-b-sides-and-rarities"
 cover: "https://cdn.evilmartians.com/front/posts/rails-6-b-sides-and-rarities/cover-6eb462a.png" 
 date: 2021-04-06
 tags:
-    - activerecord
     - news
-    - activestorage
     - rails
     - ruby
     - actioncable
+    - active-record
+    - active-storage
 ---
 <img class="cover" src=https://cdn.evilmartians.com/front/posts/rails-6-b-sides-and-rarities/cover-6eb462a.png>
 

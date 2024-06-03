@@ -7,8 +7,8 @@ cover: "https://static.miraheze.org/rosettacodewiki/d/d3/RosettaCodeTitle.png"
 date: 2022-10-23
 tags:
     - programming
-    - examples
-    - wiki
+    - example
+    - programming-language
 ---
 <img class="cover" src=https://static.miraheze.org/rosettacodewiki/d/d3/RosettaCodeTitle.png>
 

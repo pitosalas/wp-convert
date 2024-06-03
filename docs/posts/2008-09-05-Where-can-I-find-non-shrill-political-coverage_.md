@@ -6,8 +6,6 @@ tags:
     - liberal-con-tagservative-republican-democrat-newyorktimes-n
 ---
 
-
-
 I read the [New York Times](<http://www.nytimes.com/>), and magazines like
 [The Atlantic](<http://www.theatlantic.com/>) and [The New
 Yorker](<http://www.newyorker.com/>), and web sites like

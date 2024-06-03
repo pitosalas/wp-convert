@@ -10,7 +10,7 @@ tags:
     - lidar
     - point-cloud
     - howto
-    - N119
+    - cos-119
 ---
 <img class="cover" src=http://library.isr.ist.utl.pt/docs/roswiki/attachments/laser_pipeline(2f)Tutorials(2f)IntroductionToWorkingWithLaserScannerData/rviz_base_small.png>
 

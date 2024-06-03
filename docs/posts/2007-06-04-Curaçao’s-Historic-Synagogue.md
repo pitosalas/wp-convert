@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-06-04
 ---
 
-
-
 Recently I visited
 [Curaçao](<http://maps.google.com/maps?f=q&hl=en&geocode=&q=curacao+netherlands+antilles&ie=UTF8&ll=12.209838,-68.943329&spn=0.668425,1.043701&t=h&z=10&iwloc=addr&om=1>)
 to participate in the celebration of the 275th anniversary of the building of

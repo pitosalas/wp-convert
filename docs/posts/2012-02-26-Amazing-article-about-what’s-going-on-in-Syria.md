@@ -11,8 +11,6 @@ tags:
     - war
 ---
 
-
-
 ![MarieColvin](https://i0.wp.com/www.havantchildrensuniversity.co.uk/public/images/logos-
 small/sunday-times-logo.gif?w=584)
 

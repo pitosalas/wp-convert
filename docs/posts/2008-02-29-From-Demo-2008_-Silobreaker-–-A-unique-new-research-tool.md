@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-02-29
 ---
 
-
-
 Joining the ranks of the growing number of **news aggregation and research**
 sites is [Silobreaker](<http://www.silobreaker.com>), which I first met at
 Demo 2008. **Two things** catch my interest with Silobreaker - try it by

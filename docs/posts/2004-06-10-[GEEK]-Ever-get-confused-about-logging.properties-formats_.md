@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2004-06-10
 ---
 
-
->>
-
->> I know I do! Here's a very concise summary of the syntax that will jog your
+I know I do! Here's a very concise summary of the syntax that will jog your
 memory when it needs to be jogged!
 
 >>

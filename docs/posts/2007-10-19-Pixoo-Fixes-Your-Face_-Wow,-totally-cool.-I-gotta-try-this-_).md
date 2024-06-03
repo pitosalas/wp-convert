@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-10-19
 ---
 
-
-
 Check out [this post](<http://mashable.com/2007/10/18/pixoo/>) from
 [Mashable!](<http://mashable.com>):
 

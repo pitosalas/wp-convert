@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-12-19
 ---
 
-
-
 Hey! If you live in Boston or Cambridge, and you like music, especially Folk
 music, then you've probably been to [Club Passim in
 Cambridge](<http://www.clubpassim.org/>) - Harvard Square actually. It's a lot

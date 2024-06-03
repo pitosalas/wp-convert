@@ -4,15 +4,14 @@ author: Pito Salas
 date: 2006-10-22
 ---
 
+Well it's over and I am getting ready to head back to real life. Pop!Tech
+remains my favorite conference (and not just because I can drive here from my
+house.) It's hard to capture what it's like but if you are interested, here
+are some links that could give you a flavor. Thanks to all the diligent
+bloggers ([most especially Ethan
+Zuckerman](<http://www.ethanzuckerman.com/blog/>)) who did all this writing so
+I didn't have to!
 
->
-> Well it's over and I am getting ready to head back to real life. Pop!Tech
-> remains my favorite conference (and not just because I can drive here from
-> my house.) It's hard to capture what it's like but if you are interested,
-> here are some links that could give you a flavor. Thanks to all the diligent
-> bloggers ([most especially Ethan
-> Zuckerman](<http://www.ethanzuckerman.com/blog/>)) who did all this writing
-> so I didn't have to!
 >
 >   * [You had me at
 > "erinaeous"](<http://www.ethanzuckerman.com/blog/?p=1058>) - Erin McKean

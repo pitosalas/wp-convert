@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-07-13
 ---
 
-
-
   * [Measuring Performance Metrics in Rails - via @codeship](<https://blog.codeship.com/measuring-performance-metrics-in-rails/?utm_source=CodeshipNewsletter&utm_source=hs_email&utm_campaign=Weekly%20Newsletters&utm_medium=email&utm_content=64321865&_hsenc=p2ANqtz-8KtBUTDL_x4CYjPJHmnXRYu5tjqqcbKIqoO5AB7sIUqywxaBgWZ0p4sIWsmjq5-qmg2mg1hKST-SkJWB22WkboAU13_g&_hsmi=64322087>)
 
 tags: [performance](<https://www.diigo.com/user/pitosalas/performance>)

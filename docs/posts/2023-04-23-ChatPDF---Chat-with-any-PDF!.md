@@ -6,10 +6,10 @@ link: "https://www.chatpdf.com/"
 cover: "https://www.chatpdf.com/lord-of-the-flies.jpg" 
 date: 2023-04-23
 tags:
-    - ChatGPT
     - pdf
     - summarize
     - summary
+    - chat-gpt
 ---
 <img class="cover" src=https://www.chatpdf.com/lord-of-the-flies.jpg>
 

@@ -7,11 +7,12 @@ cover: "https://miro.medium.com/max/1200/1*A4sZ2qS0jxVmeA3qGba0ag.jpeg"
 date: 2021-04-06
 tags:
     - python
-    - libraries
-    - packages
     - howto
     - cooltools
     - data cleaning
+    - package
+    - python-package
+    - library
 ---
 <img class="cover" src=https://miro.medium.com/max/1200/1*A4sZ2qS0jxVmeA3qGba0ag.jpeg>
 

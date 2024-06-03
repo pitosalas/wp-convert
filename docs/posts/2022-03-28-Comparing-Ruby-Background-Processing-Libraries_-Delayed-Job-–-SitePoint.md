@@ -7,8 +7,6 @@ tags:
     - ruby
 ---
 
-
-
 [ Comparing Ruby Background Processing Libraries: Delayed Job -
 SitePoint](<https://www.sitepoint.com/comparing-ruby-background-processing-
 libraries-delayed-job/>)

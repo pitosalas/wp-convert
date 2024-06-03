@@ -9,8 +9,6 @@ tags:
     - ux
 ---
 
-
-
 I created this quick and dirty list of useful resources for some friends who
 wanted to dig into the latest thinking on web and mobile user interface
 design. I am sure this list is incomplete and quirky but I thought it would be

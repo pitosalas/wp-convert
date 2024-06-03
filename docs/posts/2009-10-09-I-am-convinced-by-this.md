@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2009-10-09
 ---
 
-
-
 Sergey Brin of Google has an op-ed in today's [New York
 Times](<http://www.nytimes.com/2009/10/09/opinion/09brin.html?_r=1&partner=rss&emc=rss>),
 making the case for Google Books:
@@ -17,7 +15,7 @@ making the case for Google Books:
 > print. After that, they are found only in a vanishing number of libraries
 > and used book stores. As the years pass, contracts get lost and forgotten,
 > authors and publishers disappear, the rights holders become impossible to
-> track down." ( **from** [A Library to Last
+> track down." (**from** [A Library to Last
 > Forever](<http://www.nytimes.com/2009/10/09/opinion/09brin.html?_r=1&partner=rss&emc=rss>))
 
 Pretty convincing stuff. [Read the whole

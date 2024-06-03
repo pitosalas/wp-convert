@@ -8,8 +8,6 @@ tags:
     - politics
 ---
 
-
-
 Thomas Geoghegan has a fantastic column in the New York Times [explaining the
 mess we are in because of the perversion of the fillibuster
 rule.](<http://www.nytimes.com/2010/01/11/opinion/11geoghegan.html?ref=opinion&pagewanted=all>)
@@ -22,7 +20,7 @@ blood boil?
 > to overcome a filibuster and pass any contested bill. The founders, though,
 > were dead set against supermajorities as a general rule, and the ever-
 > present filibuster threat has made the Senate a more extreme check on the
-> popular will than they ever intended" ( **from** [New York Times, "Mr. Smith
+> popular will than they ever intended" (**from** [New York Times, "Mr. Smith
 > Rewrites the
 > Constitution")](<http://www.nytimes.com/2010/01/11/opinion/11geoghegan.html?ref=opinion&pagewanted=all>)
 

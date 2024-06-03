@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-03-16
 ---
 
-
-
   * [Presenting XXH3](<https://fastcompression.blogspot.com/2019/03/presenting-xxh3.html?m=1>)
 
 Always interesting to see major improvements in classic algorithms

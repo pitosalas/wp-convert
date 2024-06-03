@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-12-05
 ---
 
-
-
 From XConomy Seattle, this article covers '[an inspiring talk by Nick Hanauer
 of Seattle-based Second Avenue
 Partners](<http://www.xconomy.com/seattle/2008/12/03/how-to-spot-a-

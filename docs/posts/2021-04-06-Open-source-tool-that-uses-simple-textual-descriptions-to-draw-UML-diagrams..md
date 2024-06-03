@@ -6,7 +6,7 @@ link: "http://plantuml.com"
 cover: "http://plantuml.com/og-index" 
 date: 2021-04-06
 tags:
-    - chart diagram flowchart tools
+    - charts
 ---
 <img class="cover" src=http://plantuml.com/og-index>
 

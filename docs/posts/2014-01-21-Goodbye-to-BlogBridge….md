@@ -8,8 +8,6 @@ tags:
     - RSS
 ---
 
-
-
 ![](https://i0.wp.com/static.squarespace.com/static/50734a43c4aa091ef5261c5a/53a8d945e4b0457dcd6e167c/53a8d946e4b0457dcd6e23fd/1390270322677/1000w/bblogo%20small.png?w=584&ssl=1)After
 a glorious run of almost 10 years, regretfully, I've decided to decomission
 BlogBridge. My longtime freinds and blog followers will remember that I and

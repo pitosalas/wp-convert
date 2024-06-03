@@ -4,13 +4,7 @@ author: Pito Salas
 date: 2008-03-09
 ---
 
-
-
-An interesting post by Cringely, forseeing the imminent demise of most 350
-social networks. This quote, only tangentially relevant is good, but you
-should read the whole
-[post](<http://www.pbs.org/cringely/pulpit/2008/pulpit_20080307_004467.html>)
-from [I, Cringely . The Pulpit | PBS](<http://www.pbs.org/cringely/pulpit/>):
+An interesting post by Cringely, forseeing the imminent demise of most 350 social networks. This quote, only tangentially relevant is good, but you should read the whole [post](<http://www.pbs.org/cringely/pulpit/2008/pulpit_20080307_004467.html>) from [I, Cringely . The Pulpit | PBS](<http://www.pbs.org/cringely/pulpit/>):
 
 > "Marshall McLuhan argued that **obsolete communication technologies survive
 > as art forms**. This is true, I'd say, for Morse code and movable type

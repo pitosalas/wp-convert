@@ -7,8 +7,6 @@ tags:
     - ettiquette
 ---
 
-
-
 Here's a tiny social conundrum. When someone writes you, calls you and leave a
 message, calls and doesn't, or even texts you, what is your obligation to
 respond? If the question is "are you free for lunch today" and you know you

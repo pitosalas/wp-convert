@@ -12,8 +12,6 @@ tags:
     - success
 ---
 
-
-
 A [fascinating article,](<http://reason.com/archives/2012/01/26/how-much-is-
 an-astronauts-life-worth>) which is hard to disagree with, although the
 conclusion is a little counter-intuitive:
@@ -22,7 +20,7 @@ conclusion is a little counter-intuitive:
 > rather than allow seven volunteers to attempt a repair, on the grounds that
 > the odds favoring their survival were only 50 to 1. Such an officer would be
 > court-martialed and regarded with universal contempt both by his brother
-> officers and by society at large." ( **from** [How Much is an Astronaut's
+> officers and by society at large." (**from** [How Much is an Astronaut's
 > Life Worth?)](<http://reason.com/archives/2012/01/26/how-much-is-an-
 > astronauts-life-worth>)
 

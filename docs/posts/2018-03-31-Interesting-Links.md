@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-03-31
 ---
 
-
-
   * [5 Tips To Write Idiomatic Pandas Code (article) - DataCamp](<https://www.datacamp.com/community/tutorials/pandas-idiomatic>)
 
   * [Architecting Ruby on Rails Apps as Microservices | Codeship | via @codeship](<https://blog.codeship.com/architecting-rails-apps-as-microservices/>)

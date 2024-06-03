@@ -7,11 +7,11 @@ cover: "https://static01.nyt.com/images/2022/12/30/autossell/30Andersen-FirstFra
 date: 2023-01-02
 tags:
     - art
-    - ChatGPT
     - creativity
     - plagiarism
-    - article
     - nyt
+    - articles
+    - chat-gpt
 ---
 <img class="cover" src=https://static01.nyt.com/images/2022/12/30/autossell/30Andersen-FirstFrame/30Andersen-FirstFrame-largeHorizontalJumbo-v2.jpg>
 

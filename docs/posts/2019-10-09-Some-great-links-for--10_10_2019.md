@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-10-09
 ---
 
-
-
   * [Rails Performance Tips](<https://link.medium.com/cgTBPZxXD0>)
 
 Super useful modern rundown of low hanging fruit performance tips for rails.

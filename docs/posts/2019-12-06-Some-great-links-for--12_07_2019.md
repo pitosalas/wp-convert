@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-12-06
 ---
 
-
-
   * [A High-Level Grammar of Interactive Graphics | Vega-Lite](<https://vega.github.io/vega-lite/>)
 
 Looks really useful

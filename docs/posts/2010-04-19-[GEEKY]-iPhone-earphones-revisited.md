@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2010-04-19
 ---
 
-
-
 The earphone/microphone that came with my iPhone is acting odd. First I
 thought it was a problem with my ear, then with my iPhone, but it seems to be
 a problem with the earphones, which I never thought of as something that could

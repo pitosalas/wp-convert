@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-04-14
 ---
 
-
-
 Check out [this post](<http://www.buzzmachine.com/2007/04/13/on-imus/>) from
 [BuzzMachine](<http://www.buzzmachine.com>):
 
@@ -20,7 +18,7 @@ Check out [this post](<http://www.buzzmachine.com/2007/04/13/on-imus/>) from
 > politics and the nation by the tyranny of the gotcha moment. I will also
 > warn of the danger of life in the age of offense.[snip…]"
 >
-> ( **from** : [On Imus](<http://www.buzzmachine.com/2007/04/13/on-imus/>))
+> (**from** : [On Imus](<http://www.buzzmachine.com/2007/04/13/on-imus/>))
 
 
 * **Link to site:** **[Jeff Jarvis on the whole Imus situation](None)**

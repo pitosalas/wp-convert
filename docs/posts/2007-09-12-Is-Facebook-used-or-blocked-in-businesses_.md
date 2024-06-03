@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-09-12
 ---
 
-
-
 It's hard to get good data on this, and I keep get wildly varying opinions. I
 haven't fully formed my own yet, but here's another data point:
 

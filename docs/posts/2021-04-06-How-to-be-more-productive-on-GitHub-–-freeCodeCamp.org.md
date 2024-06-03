@@ -7,6 +7,7 @@ cover: "https://cdn-media-1.freecodecamp.org/images/1*-Mc_lCYQhg5p45VrhbdfJQ.png
 date: 2021-04-06
 tags:
     - tips browse github search powerusers
+    - github
 ---
 <img class="cover" src=https://cdn-media-1.freecodecamp.org/images/1*-Mc_lCYQhg5p45VrhbdfJQ.png>
 

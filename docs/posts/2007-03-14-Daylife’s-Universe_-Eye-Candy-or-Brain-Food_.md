@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-03-14
 ---
 
-
-
 [Daylife](<http://www.daylife.com>) is a new news oriented web site that came
 onto the scene a little while back to a lot of fanfare. I've used it on and
 off and it's ok. It's certainly a lot prettier to look at than things like

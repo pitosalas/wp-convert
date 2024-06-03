@@ -8,8 +8,6 @@ tags:
     - ruby
 ---
 
-
-
 I first came across Sandy Metz in this video:
 
 [vimeo 12350535 w=500 h=281]

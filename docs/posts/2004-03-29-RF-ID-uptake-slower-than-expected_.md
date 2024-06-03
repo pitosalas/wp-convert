@@ -4,12 +4,9 @@ author: Pito Salas
 date: 2004-03-29
 ---
 
-
->>
-
->> I've been a quasi-believer about RD-ID technology for a while now. I know
-more than several people who are investing their time and money into this
-space, but I am a **fence-sitter**. Briefly, why?
+I've been a quasi-believer about RD-ID technology for a while now. I know more
+than several people who are investing their time and money into this space,
+but I am a **fence-sitter**. Briefly, why?
 
 >>
 

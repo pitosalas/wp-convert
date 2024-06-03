@@ -10,7 +10,7 @@ tags:
     - howto
     - forms
     - multi-step
-    - patterns
+    - pattern
 ---
 <img class="cover" src=http://www.codewithjason.com/wp-content/uploads/2020/03/multi-step-form.png>
 

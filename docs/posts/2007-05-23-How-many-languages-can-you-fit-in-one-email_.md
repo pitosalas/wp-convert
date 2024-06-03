@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-05-23
 ---
 
-
-
 Here's an email I received recently. How many different languages do you
 count?
 

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2009-06-24
 ---
 
-
-
 Leaving aside _what_ exactly an Electronic Voting Machine _is_ , the New York
 Times weighed in with this editorial the other day:
 
@@ -18,16 +16,16 @@ Times weighed in with this editorial the other day:
 > Congress should pass it while there is still time to get ready for 2010
 > […[click here for the whole
 > thing](<http://www.nytimes.com/2009/06/22/opinion/22mon2.html?_r=1&scp=2&sq=electronic%20voting&st=cse>)]"
-> ( **from** [How to Trust Electronic Voting, New York
+> (**from** [How to Trust Electronic Voting, New York
 > Times](<http://www.nytimes.com/2009/06/22/opinion/22mon2.html?_r=1&scp=2&sq=electronic%20voting&st=cse>))
 
 I wasn't sure whether or not Representative Holt's bill was good or not, so I
 was interested to read this commentary on another influential elections
 related blog. Let me jump to the punchline:
 
-> " _The New York Times_ just doesn't get it. You'd think, by now, they would.
-> But they don't. And they should print a correction immediately […snip…]" (
-> **from** [New York Times wrong again on
+> "_The New York Times_ just doesn't get it. You'd think, by now, they would.
+> But they don't. And they should print a correction immediately […snip…]"
+> (**from** [New York Times wrong again on
 > E-Voting](<http://www.bradblog.com/?p=7249#more-7249>)')
 
 and more:
@@ -36,7 +34,7 @@ and more:
 > very 2005, is also incredibly misleading. The idea that "electronic voting
 > machines that…produce a paper record" are somehow more trustworthy than
 > those which don't, has long ago been discredited by computer scientists and
-> security experts.[snip…]" ( **also from** [New York Times wrong again on
+> security experts.[snip…]" (**also from** [New York Times wrong again on
 > E-Voting](<http://www.bradblog.com/?p=7249#more-7249>)')
 
 And here then is another rebuttal from [someone who believes that having any
@@ -49,7 +47,7 @@ trouble:](<http://www.opednews.com/author/author2302.html>)
 > with compromised ballots to validate a fraudulent computerized count), no
 > statistically improbable audits (as proposed by Mr. Holt), can reverse the
 > untrustworthy and completely unverifiable results of a privatized,
-> computerized, non-public, concealed vote count.[snip…]" ( **from** "[Forget
+> computerized, non-public, concealed vote count.[snip…]" (**from** "[Forget
 > Iran, say NO to concealed vote counting in the US of
 > A"](<http://www.opednews.com/articles/Forget-Iran-say-NO-to-con-by-Nancy-
 > Tobi-090623-712.html>))

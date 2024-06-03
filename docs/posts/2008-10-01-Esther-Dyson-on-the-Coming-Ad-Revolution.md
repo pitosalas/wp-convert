@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-10-01
 ---
 
-
-
 [Esther Dyson](<http://www.edventure.com/>) wrote this very interesting [Wall
 Street Journal article about how online advertising is
 changing](<http://online.wsj.com/article/SB120269162692857749.html?mod=googlenews_wsj>).

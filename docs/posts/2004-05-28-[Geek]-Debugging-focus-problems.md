@@ -4,11 +4,8 @@ author: Pito Salas
 date: 2004-05-28
 ---
 
-
->>
-
->> Struggling with debugging hairy focus and other UI problems in Swing
-(Java)? Here's a handy little tip that I just found out about:
+Struggling with debugging hairy focus and other UI problems in Swing (Java)?
+Here's a handy little tip that I just found out about:
 
 >>
 

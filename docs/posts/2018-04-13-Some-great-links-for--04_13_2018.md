@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-04-13
 ---
 
-
-
   * [TechRabbit: Makara: a read-write splitting adapter for Active Record](<http://tech.taskrabbit.com/blog/2013/01/02/makara/>)
 
 An alternative to Octopus as a solution to shard databases

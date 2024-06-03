@@ -4,12 +4,9 @@ author: Pito Salas
 date: 2004-06-10
 ---
 
-
->>
-
->> Occassionally, I will have either an incredibly **positive** or
-**negative** reaction to a book, play or movie and I will be moved, who knows
-why, to write a bit about it here. Well, I just saw ["The Day After Tomorrow"
+Occassionally, I will have either an incredibly **positive** or **negative**
+reaction to a book, play or movie and I will be moved, who knows why, to write
+a bit about it here. Well, I just saw ["The Day After Tomorrow"
 ](<http://www.apple.com/trailers/fox/dayaftertomorrow/>)and it is **totally
 lame**. Yes the special effects are impressive, but the story, the dialog, the
 way the characters react, is so stilted, so ridiculous, that it annoyed me

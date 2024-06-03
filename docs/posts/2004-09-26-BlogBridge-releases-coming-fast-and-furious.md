@@ -4,13 +4,10 @@ author: Pito Salas
 date: 2004-09-26
 ---
 
-
->>
-
->> BlogBridge is going **" Great Guns"** as I told my friend David in answer
-to "What's going on with BlogBridge?" Well I don't really know what the heck
-that means except that **I am pumped** to see the progress we've been making.
-More and more every day. And now there's a way for you to see it too!
+BlogBridge is going **" Great Guns"** as I told my friend David in answer to
+"What's going on with BlogBridge?" Well I don't really know what the heck that
+means except that **I am pumped** to see the progress we've been making. More
+and more every day. And now there's a way for you to see it too!
 
 >>
 

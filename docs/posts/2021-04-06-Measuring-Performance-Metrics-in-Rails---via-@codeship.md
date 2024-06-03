@@ -6,7 +6,7 @@ link: "https://blog.codeship.com/measuring-performance-metrics-in-rails?_hsenc=p
 cover: "https://images.ctfassets.net/vtn4rfaw6n2j/78NZRU1yGiJ1J1XO0LzgOf/e4eed6af466b8c1362156581f18feb24/cloudbees-social-image-default-w-slogan-white.png" 
 date: 2021-04-06
 tags:
-    - performance rails
+    - rails performance
 ---
 <img class="cover" src=https://images.ctfassets.net/vtn4rfaw6n2j/78NZRU1yGiJ1J1XO0LzgOf/e4eed6af466b8c1362156581f18feb24/cloudbees-social-image-default-w-slogan-white.png>
 

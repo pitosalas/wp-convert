@@ -10,8 +10,6 @@ tags:
     - thehour
 ---
 
-
-
 I was recently visiting Curaçao and remembered that I had read that **Netflix
 was now available in South America** so I thought I would check it out.
 (Curaçao is not technically in South America but close enough!) Well, it

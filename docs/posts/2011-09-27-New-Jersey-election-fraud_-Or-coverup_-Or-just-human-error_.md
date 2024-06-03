@@ -9,8 +9,6 @@ tags:
     - fraud
 ---
 
-
-
 [Andrew Appel ](<http://www.cs.princeton.edu/~appel/>)is one of the best known
 academics studying and commenting on elections and computer science and
 technology related to elections. He wrote a really interesting report, "[New

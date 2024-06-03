@@ -10,8 +10,6 @@ tags:
     - visual-programming-environ-tagments
 ---
 
-
-
 Check this post [The flatfooted learning
 society](<http://www.hyperorg.com/blogger/2010/08/02/the-flatfooted-learning-
 society/>) from [Joho the Blog](<http://www.hyperorg.com/blogger/feed/>):
@@ -23,7 +21,7 @@ society/>) from [Joho the Blog](<http://www.hyperorg.com/blogger/feed/>):
 > a fair bit of hobbyist Lisp “programming” (I once wrote a beginner’s guide
 > to Lisp as a document extension language), I can’t handle the self-reflexive
 > capabilities that turn Lisp into a super-tool for Paul Graham. I’m terrible
-> at math. I simply could not have become a pro. ( **from:**[The flatfooted
+> at math. I simply could not have become a pro. (**from:**[The flatfooted
 > learning society](<http://www.hyperorg.com/blogger/2010/08/02/the-
 > flatfooted-learning-society/>))
 

@@ -9,8 +9,6 @@ tags:
     - mon-tagey
 ---
 
-
-
 The thing about a bubble is that while people worry about it, no one is
 actually sure whether they are in one, and especially when it will be over.
 The other thing about bubbles is that they keep happening because they are the
@@ -28,7 +26,7 @@ result of human nature (greed and self-deception):
 > piling into me-too start-ups that imitate popular Web companies that already
 > received financing. Companies that involve social shopping, mobile photo
 > sharing and new social networking are finding it easy to attract investors
-> because no one wants to miss the next big thing." ( **from** [Sillicon Valey
+> because no one wants to miss the next big thing." (**from** [Sillicon Valey
 > Shows Sign of a New Dot-Com
 > frenzy](<http://dealbook.nytimes.com/2010/12/03/a-silicon-bubble-shows-
 > signs-of-reinflating/>))

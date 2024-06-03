@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2009-02-19
 ---
 
-
-
 A british organization (or should I say organisation?) called mySociety has
 done some **really cool** publically minded open source projects.
 
@@ -29,7 +27,7 @@ Quid](<http://www.mysociety.org/2009/02/19/why-i-want-a-million-quid/>):
 
 > We love them partly because they are so small and simple, and that affection
 > can lead to a dangerous narrative that only small and zero-cost scalable can
-> ever be seriously considered." ( **from:** from
+> ever be seriously considered." (**from:** from
 > [mySociety](<http://www.mysociety.org/feed/>))
 
 > …

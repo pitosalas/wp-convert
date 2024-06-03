@@ -7,9 +7,9 @@ cover: "https://refactoring.guru/images/refactoring/social/facebook-share-previe
 date: 2021-12-28
 tags:
     - refactoring
-    - patterns
     - ruby
     - howto
+    - pattern
 ---
 <img class="cover" src=https://refactoring.guru/images/refactoring/social/facebook-share-preview.png?id=dbf9e98269595be86eb6>
 

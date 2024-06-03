@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-08-01
 ---
 
-
-
   * [piotrmurach/tty-box](<https://github.com/piotrmurach/tty-box>)
 
 Everything old is new again

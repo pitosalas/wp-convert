@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-04-27
 ---
 
-
-
   * [Results from the 2018 Rails Hosting Survey | Planet Argon](<http://rails-hosting.com/2018/>)
 
 tags: [survey](<https://www.diigo.com/user/pitosalas/survey>)

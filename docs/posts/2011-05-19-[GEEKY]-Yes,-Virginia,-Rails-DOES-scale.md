@@ -8,8 +8,6 @@ tags:
     - scaling
 ---
 
-
-
 Why doesn't every one **love Rails**? I am surprised when I run into someone
 (Pat?) who's not so sure about Rails. Usually it's about scalability.
 
@@ -37,7 +35,7 @@ Both written totally in Rails.
 
 'Nuf said?
 
-# **railsconf** -- What, can't I use hashtags in a blog post?
+#**railsconf** -- What, can't I use hashtags in a blog post?
 
 
 * **Link to site:** **[[GEEKY] Yes, Virginia, Rails DOES scale](None)**

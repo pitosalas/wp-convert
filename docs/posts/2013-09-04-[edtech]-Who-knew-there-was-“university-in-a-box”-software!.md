@@ -7,8 +7,6 @@ tags:
     - university
 ---
 
-
-
 I stumbled across this web site. I can't say anything about their status or
 quality but I was suprised that someone developed what looks like a complete
 "university admin in a box" cloud based software. Maybe I can use it for

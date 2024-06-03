@@ -7,6 +7,7 @@ cover: "https://miro.medium.com/max/512/1*58fByP3ysdAKFlbH_KAWRQ.jpeg"
 date: 2021-04-06
 tags:
     - Software Engineering
+    - software-engineering
 ---
 <img class="cover" src=https://miro.medium.com/max/512/1*58fByP3ysdAKFlbH_KAWRQ.jpeg>
 

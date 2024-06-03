@@ -11,6 +11,7 @@ tags:
     - image
     - build
     - howto
+    - scale deploy build rails docker howto
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fblog.jaimyn.dev%2Fhow-to-build-multi-architecture-docker-images-on-an-m1-mac%2F>
 

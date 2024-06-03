@@ -8,8 +8,6 @@ tags:
     - paula-abdul
 ---
 
-
-
 I've been an American Idol fan for a while now, in fact from the very start.
 I've been commenting to the TV Set that Paula is seeming much smarter,
 incisive and interesting this year than in the past.[ I see I am not the only

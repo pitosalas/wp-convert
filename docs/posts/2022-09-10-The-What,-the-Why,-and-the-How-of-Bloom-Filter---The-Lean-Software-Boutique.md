@@ -7,9 +7,9 @@ cover: "https://www.ombulabs.com/blog/assets/images/profile.png"
 date: 2022-09-10
 tags:
     - bloom-filter
-    - algorithm
     - howto
     - set
+    - algorithms
 ---
 <img class="cover" src=https://www.ombulabs.com/blog/assets/images/profile.png>
 

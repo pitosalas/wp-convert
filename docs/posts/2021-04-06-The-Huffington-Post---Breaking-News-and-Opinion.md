@@ -5,6 +5,8 @@ url: "http://www.huffingtonpost.com"
 link: "http://www.huffingtonpost.com" 
 cover: "https://img.huffingtonpost.com/asset/5f3448f32200001eb13888de.jpg" 
 date: 2021-04-06
+tags:
+    - watch
 ---
 <img class="cover" src=https://img.huffingtonpost.com/asset/5f3448f32200001eb13888de.jpg>
 

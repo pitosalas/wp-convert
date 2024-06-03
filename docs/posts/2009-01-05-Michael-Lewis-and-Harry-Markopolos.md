@@ -8,8 +8,6 @@ tags:
     - michael-lewis
 ---
 
-
-
 In an excellent article on [The End of The Financial World as We Know
 It](<http://www.nytimes.com/2009/01/04/opinion/04lewiseinhorn.html?em>), an
 even more fascinating story about Harry Markopolos:

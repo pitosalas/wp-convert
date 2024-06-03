@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2014-08-22
 ---
 
-
-
 This is worth looking at: The apparent beheading of American journalist James
 Foley by the Islamic State of Iraq and the Levant (ISIL) is a stark reminder
 of the group’s terrible brutality and the seriousness required to counter

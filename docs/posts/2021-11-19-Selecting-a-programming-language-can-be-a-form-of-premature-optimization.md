@@ -9,6 +9,7 @@ tags:
     - python
     - performance
     - opinion
+    - programming-language
 ---
 <img class="cover" src=https://snarky.ca/content/images/2016/12/104_0419.JPG>
 

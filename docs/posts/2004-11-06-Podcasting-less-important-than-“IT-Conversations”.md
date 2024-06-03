@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2004-11-06
 ---
 
-
->>
-
->> I was working out, listening an [IT Conversations
+I was working out, listening an [IT Conversations
 ](<http://www.itconversations.com/>)interview with [Joel
 Spolsky](<http://www.joelonsoftware.com/>). It was **interesting** and passed
 the time.

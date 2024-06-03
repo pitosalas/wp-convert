@@ -10,6 +10,7 @@ tags:
     - guide
     - buy
     - shop
+    - watch
 ---
 <img class="cover" src=http://teddybaldassarre.com/cdn/shop/articles/Hamilton-Intra-Matic-Chronograph-H-FI.jpg?v=1695742790>
 

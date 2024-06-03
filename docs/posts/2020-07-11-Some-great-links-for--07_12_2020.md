@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-07-11
 ---
 
-
-
   * [PEP 622 -- Structural Pattern Matching | Python.org](<https://www.python.org/dev/peps/pep-0622/>)
 
 A pretty nice concept for patterns in python.

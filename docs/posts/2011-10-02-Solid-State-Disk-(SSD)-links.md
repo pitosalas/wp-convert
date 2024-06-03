@@ -7,8 +7,6 @@ tags:
     - ssd
 ---
 
-
-
 I've been looking into changing up the primary (and only) disk in my 2 year
 old Mac Pro to a Solid State Disk (SSD). Based on what I've seen on the new
 Mac Airs I think it will **boost performance a lot** more than adding more

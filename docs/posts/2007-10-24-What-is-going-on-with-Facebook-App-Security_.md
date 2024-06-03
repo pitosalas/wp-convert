@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-10-24
 ---
 
-
-
 Here's what my iLike Facebook application is showing me… Now what's Mark
 Zuckerberg's name doing there???
 

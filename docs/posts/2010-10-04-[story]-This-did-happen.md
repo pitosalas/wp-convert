@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2010-10-04
 ---
 
-
-
 PART 1: THE ELDERS
 
 Now, such a long time after first contact, it was hard to remember the times,

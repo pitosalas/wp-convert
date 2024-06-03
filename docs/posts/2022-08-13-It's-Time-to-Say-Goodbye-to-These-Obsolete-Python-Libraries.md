@@ -7,8 +7,8 @@ cover: "https://res.cloudinary.com/martinheinz/image/upload/v1567247069/blog/og_
 date: 2022-08-13
 tags:
     - python
-    - tools
     - howto
+    - tool
 ---
 <img class="cover" src=https://res.cloudinary.com/martinheinz/image/upload/v1567247069/blog/og_image_s4v0wv.png>
 

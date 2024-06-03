@@ -10,8 +10,6 @@ tags:
     - travel
 ---
 
-
-
 I came across this article a few days ago. [The Ticktock of the Death Clock -
 NYTimes.com](<http://well.blogs.nytimes.com/2013/08/01/the-tick-tock-of-the-
 death-clock/?_r=0>). Yes a depressing topic. The author muses on the wonderful

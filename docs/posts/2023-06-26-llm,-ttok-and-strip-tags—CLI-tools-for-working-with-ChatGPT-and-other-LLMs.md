@@ -6,10 +6,10 @@ link: "https://simonwillison.net/2023/May/18/cli-tools-for-llms/"
 cover: "https://static.simonwillison.net/static/2023/llm-nytimes-card.jpg" 
 date: 2023-06-26
 tags:
-    - ChatGPT
     - cli
     - pipes
     - cooltool
+    - chat-gpt
 ---
 <img class="cover" src=https://static.simonwillison.net/static/2023/llm-nytimes-card.jpg>
 

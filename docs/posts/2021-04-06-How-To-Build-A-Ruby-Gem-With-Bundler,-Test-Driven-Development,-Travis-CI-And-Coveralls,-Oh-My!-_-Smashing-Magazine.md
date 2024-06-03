@@ -7,6 +7,8 @@ cover: "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f0
 date: 2021-04-06
 tags:
     - ruby development tools
+    - tips
+    - howto
 ---
 <img class="cover" src=https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b10ab46c-a52e-4532-adc6-2bc2071148d4/ruby-on-rails-illu.jpg>
 

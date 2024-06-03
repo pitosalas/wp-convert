@@ -5,6 +5,8 @@ url: "https://medium.freecodecamp.org/how-to-make-responsiveness-super-simple-wi
 link: "https://medium.freecodecamp.org/how-to-make-responsiveness-super-simple-with-css-variables-8c90ebf80d7f?source=userActivityShare-d383785221d0-1521772177" 
 cover: "https://cdn-media-1.freecodecamp.org/images/1*tLQrkgJJhKV3YrzPxsVVFA.png" 
 date: 2021-04-06
+tags:
+    - design
 ---
 <img class="cover" src=https://cdn-media-1.freecodecamp.org/images/1*tLQrkgJJhKV3YrzPxsVVFA.png>
 

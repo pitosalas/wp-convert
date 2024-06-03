@@ -8,8 +8,6 @@ tags:
     - haroza
 ---
 
-
-
 Here's how we make Garoza (Charoset) in Curaçao.
 
 [![thumbs](https://i0.wp.com/salas.com/wp-

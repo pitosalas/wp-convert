@@ -9,14 +9,12 @@ tags:
     - science
 ---
 
-
-
 An [interesting commentary on a couple of patents that issued from the US
 Patent Office:](<http://gailly.net/05533051.html>)
 
 > "The US patent office no longer grants patents on perpetual motion machines,
 > but has recently granted at least two patents on a mathematically impossible
-> process: compression of truly random data" ( **from**
+> process: compression of truly random data" (**from**
 > [Gailly.net](<http://gailly.net/05533051.html>))
 
 Also you might be interested in the topic, [there's a second patent that seems

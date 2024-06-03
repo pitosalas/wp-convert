@@ -7,7 +7,6 @@ cover: "https://i.ytimg.com/vi/DPbKux9cemU/maxresdefault.jpg"
 date: 2022-09-12
 tags:
     - learn
-    - learning
     - skills
 ---
 <img class="cover" src=https://i.ytimg.com/vi/DPbKux9cemU/maxresdefault.jpg>

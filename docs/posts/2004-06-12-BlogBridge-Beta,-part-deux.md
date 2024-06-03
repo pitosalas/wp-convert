@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2004-06-12
 ---
 
-
->>
-
->> I shoulda known…
+I shoulda known…
 
 >>
 

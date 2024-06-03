@@ -7,6 +7,8 @@ cover: "http://s3.amazonaws.com/assets.aldaily.com/images/twittercard-aldaily.pn
 date: 2021-04-06
 tags:
     - culture news literature books philosophy daily
+    - education
+    - higher-education
 ---
 <img class="cover" src=http://s3.amazonaws.com/assets.aldaily.com/images/twittercard-aldaily.png>
 

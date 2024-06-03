@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-04-15
 ---
 
-
-
   * [Faster PostgreSQL Counting](<https://www.citusdata.com/blog/2016/10/12/count-performance/>)
 
 More abo!ut performance of Postgres

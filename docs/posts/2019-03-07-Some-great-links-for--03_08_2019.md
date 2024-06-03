@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-03-07
 ---
 
-
-
   * [End-to-End Arguments in System Design | the morning paper](<https://blog.acolyer.org/2014/11/14/end-to-end-arguments-in-system-design/>)
 
 tags: [en-to-end](<https://www.diigo.com/user/pitosalas/en-to-end>)

@@ -7,6 +7,7 @@ cover: "https://miro.medium.com/max/1200/1*NNGQKrDrn1u9C0mbNlzr-g.png"
 date: 2021-04-06
 tags:
     - package algorithms python howto
+    - python-package
 ---
 <img class="cover" src=https://miro.medium.com/max/1200/1*NNGQKrDrn1u9C0mbNlzr-g.png>
 

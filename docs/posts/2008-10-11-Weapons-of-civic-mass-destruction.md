@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-10-11
 ---
 
-
-
 I am struck by how broken our political process is. I'm not the first nor the
 last to make this observation, How did we get here and what are the underlying
 reasons?

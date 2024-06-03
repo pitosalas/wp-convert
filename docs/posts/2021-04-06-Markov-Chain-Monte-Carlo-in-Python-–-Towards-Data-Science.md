@@ -6,7 +6,7 @@ link: "https://towardsdatascience.com/markov-chain-monte-carlo-in-python-44f7e60
 cover: "https://miro.medium.com/max/940/0*l3B0NWQWP4yAzyU1." 
 date: 2021-04-06
 tags:
-    - carlo science markov chain monte data
+    - markov-chains
 ---
 <img class="cover" src=https://miro.medium.com/max/940/0*l3B0NWQWP4yAzyU1.>
 

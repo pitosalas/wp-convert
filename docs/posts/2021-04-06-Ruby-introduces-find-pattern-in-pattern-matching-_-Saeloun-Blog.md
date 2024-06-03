@@ -9,7 +9,7 @@ tags:
     - howto
     - ruby
     - architecture
-    - patterns
+    - pattern
 ---
 <img class="cover" src=https://blog.saeloun.com/images/og_logo.png>
 

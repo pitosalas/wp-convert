@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-03-20
 ---
 
-
-
 Check out [this post](<http://consumerist.com/consumer/free-stuff/put-down-
 your-2-pencils-and-use-your-edu-email-to-get-free-timesselect-245560.php>)
 from [Consumerist](<http://www.consumerist.com>):

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2021-03-02
 ---
 
-
-
   * [Standard Deviation is an Inferior Measurement*](<https://link.medium.com/gbpcSJtCieb>)
 
 Interesting bit of statistics esoterica…

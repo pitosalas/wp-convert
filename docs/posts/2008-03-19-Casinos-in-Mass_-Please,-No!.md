@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-03-19
 ---
 
-
-
 [youtube http://www.youtube.com/watch?v=ZfWsfDweeM4&hl=en]I found my way onto
 Robin Chase's blog, [Network Musings](<http://networkmusings.blogspot.com/>).
 She writes about lots of stuff I am interested in. Starting with the top post

@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2004-04-30
 ---
 
-
->>
-
->> [Dan Bricklin's written a bit on a topic that's been indirectly on my mind
+[Dan Bricklin's written a bit on a topic that's been indirectly on my mind
 lately](<http://www.bricklin.com/licensingthinking.htm>). It has to do with
 [BlogBridge](<http://www.blogbridge.com>), the Blogging tool that I've been
 developing as a back room project for a while now (I post periodic updates, so

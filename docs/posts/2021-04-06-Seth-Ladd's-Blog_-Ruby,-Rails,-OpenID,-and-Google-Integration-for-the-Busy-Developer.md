@@ -7,6 +7,8 @@ cover: "https://rdl.ink/render/http%3A%2F%2Fblog.sethladd.com%2F2010%2F09%2Fruby
 date: 2021-04-06
 tags:
     - rails authentication teaching
+    - rails
+    - ruby
 ---
 <img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fblog.sethladd.com%2F2010%2F09%2Fruby-rails-openid-and-google.html>
 

@@ -6,8 +6,6 @@ tags:
     - windows
 ---
 
-
-
 [ Introduction - Docs - Foxglove Studio](<https://foxglove.dev/docs/studio>)
 
 Looks great, but I have not tried it! Foxglove Studio is a visualization and

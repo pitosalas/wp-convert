@@ -7,6 +7,7 @@ cover: "https://rdl.ink/render/https%3A%2F%2Fhackernoon.com%2Fhow-to-avoid-makin
 date: 2021-04-06
 tags:
     - microservice soa services
+    - service-oriented-architecture
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fhackernoon.com%2Fhow-to-avoid-making-your-microservices-too-small-an-interview-with-darby-frey-3eda7c5f5721%3Fsource%3DuserActivityShare-d383785221d0-1523797556>
 

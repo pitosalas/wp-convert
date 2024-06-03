@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-06-18
 ---
 
-
-
 I am on a Mac and I have lots of odd little things running, doing backups,
 syncs, who knows what. Every so often my computer goes "boink!" with no error
 message or display and I wonder, hmm, I wonder what just happened?

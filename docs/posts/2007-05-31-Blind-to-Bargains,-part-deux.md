@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-05-31
 ---
 
-
-
 I follow [Chris Pirillo's blog](<http://chris.pirillo.com/>) and other
 writings religiously. Two recent, contrasting posts really caught my eye
 because I think they reflect the popular bias against software. That is,

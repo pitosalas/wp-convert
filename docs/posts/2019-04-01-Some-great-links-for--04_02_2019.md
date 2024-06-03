@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-04-01
 ---
 
-
-
   * [Untangling Ruby Threads](<https://thoughtbot.com/blog/untangling-ruby-threads>)
 
 Dealing with Ruby Threads is tricky. And add to that understanding the GIL,

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-03-27
 ---
 
-
-
 Usually more on the bleeding edge than this, I decided to wait until now to
 upgrade my macs to Leopard which is the name of the new Mac OS X release. If
 anything interesting happens I will let you know. Hopefully nothing

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-11-03
 ---
 
-
-
   * [GitHub - iris-ua/iris_lama: LaMa - A Localization and Mapping library](<https://github.com/iris-ua/iris_lama>)
 
 Another interesting SLAM library to try

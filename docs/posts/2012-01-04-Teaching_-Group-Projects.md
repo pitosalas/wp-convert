@@ -13,8 +13,6 @@ tags:
     - teams
 ---
 
-
-
 I've had occasion as you know to [teach a few times at Brandeis
 University.](<https://sites.google.com/site/brandeiscosijbs/>) The courses
 were in Web Development, Mobile Development and Game Development. A major

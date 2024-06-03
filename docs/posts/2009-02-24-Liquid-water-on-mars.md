@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2009-02-24
 ---
 
-
-
 > "NASA's Phoenix lander may have captured the first images of liquid water on
 > Mars - droplets that apparently splashed onto the spacecraft's leg during
 > landing, according to some members of the Phoenix team." (from

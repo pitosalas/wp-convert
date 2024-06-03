@@ -7,6 +7,7 @@ cover: "https://www.citusdata.com/assets/images/twitter/vintage-calculator-1200x
 date: 2021-04-06
 tags:
     - postgres performance postgresql scaling
+    - postgres
 ---
 <img class="cover" src=https://www.citusdata.com/assets/images/twitter/vintage-calculator-1200x630.jpg>
 

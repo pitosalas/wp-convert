@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-09-19
 ---
 
-
-
 A very interesting article in Edge.org (by the way, an always interesting
 site.) This one is called [Moral Psychology and the misunderstanding of
 religion:](<http://www.edge.org/3rd_culture/haidt07/haidt07_index.html>)

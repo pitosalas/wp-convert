@@ -8,8 +8,6 @@ tags:
     - windows
 ---
 
-
-
 I don't pay much attention to Microsoft and Windows these days. I admit it, I
 am a hardcore Mac and Linux user, more comfortable in the unix shell than I
 ever was at a Dos prompt.
@@ -35,8 +33,8 @@ generation-file-system-for-windows-refs.aspx>)":
 > didnât start from scratch, but reimagined it where it made sense and built
 > on the right parts of NTFS where that made sense. Above all, we are
 > delivering this in a pragmatic manner consistent with the delivery of a
-> major file systemâsomething only Microsoft has done at this scale. (
-> **from**[Building the Next Generation File System for Windows:
+> major file systemâsomething only Microsoft has done at this scale.
+> (**from**[Building the Next Generation File System for Windows:
 > ReFS)](<http://blogs.msdn.com/b/b8/archive/2012/01/16/building-the-next-
 > generation-file-system-for-windows-refs.aspx>)
 

@@ -7,6 +7,8 @@ cover: "https://rdl.ink/render/https%3A%2F%2Fgobot.io"
 date: 2021-04-06
 tags:
     - robotics framework
+    - robots
+    - robotics
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fgobot.io>
 

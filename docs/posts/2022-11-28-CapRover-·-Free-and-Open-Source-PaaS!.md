@@ -8,11 +8,12 @@ date: 2022-11-28
 tags:
     - pass
     - heroku
-    - deployment
     - tool
     - cli
     - howto
     - explainer
+    - deploy
+    - scale deploy build rails docker howto
 ---
 <img class="cover" src=https://caprover.com/img/logo.png>
 

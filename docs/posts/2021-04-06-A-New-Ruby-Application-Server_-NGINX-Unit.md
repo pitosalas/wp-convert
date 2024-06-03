@@ -7,6 +7,8 @@ cover: "https://www.speedshop.co/assets/posts/img/nginxunit-share.jpg"
 date: 2021-04-06
 tags:
     - ruby nginx
+    - rails
+    - ruby
 ---
 <img class="cover" src=https://www.speedshop.co/assets/posts/img/nginxunit-share.jpg>
 

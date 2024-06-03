@@ -8,8 +8,6 @@ tags:
     - timmason-tag
 ---
 
-
-
 **Tortoise**  
 by [Tim Mason](<http://www.timothydmason.com/tortoise.shtml>)
 

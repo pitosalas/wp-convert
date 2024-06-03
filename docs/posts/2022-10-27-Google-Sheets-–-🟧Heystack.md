@@ -9,8 +9,6 @@ tags:
     - sheets
 ---
 
-
-
 [ Google Sheets - 🟧Heystack](< https://heystacks.com/?type=sheets>) –Discover
 the best public Google docs
 

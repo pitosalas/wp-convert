@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-04-08
 ---
 
-
-
   * [codercom/code-server](<https://github.com/codercom/code-server>)
 
 I don’t quite understand this, nor have I tried it. But the claim is pretty

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-12-15
 ---
 
-
-
   * [Git: Cheat Sheet (advanced) - DEV Community ](<https://dev.to/maxpou/git-cheat-sheet-advanced-3a17>)
 
 A really nice diagram worth the cost of admission by itself.

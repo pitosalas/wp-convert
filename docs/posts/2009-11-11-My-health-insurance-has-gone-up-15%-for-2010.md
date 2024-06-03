@@ -4,9 +4,7 @@ author: Pito Salas
 date: 2009-11-11
 ---
 
-
-
-Yeah, I just received the renewal paperwork for health insurance, and i **t 's
+Yeah, I just received the renewal paperwork for health insurance, and i**t 's
 up**. This is with [Blue Cross Blue Shield of
 Massachusetts](<http://www.bluecrossma.com/common/en_US/index.jsp>), with whom
 I have been having a fine experience. I am **happy** with the service, and the

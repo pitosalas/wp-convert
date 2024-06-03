@@ -7,6 +7,7 @@ cover: "https://res.infoq.com/articles/dependency-oriented-thinking-1/en/smallim
 date: 2021-04-06
 tags:
     - soa
+    - service-oriented-architecture
 ---
 <img class="cover" src=https://res.infoq.com/articles/dependency-oriented-thinking-1/en/smallimage/logo2.jpg>
 

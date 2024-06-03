@@ -10,11 +10,7 @@ tags:
     - TV
 ---
 
-
-
-[Fox News debuts bizarre, giant tablets in its outrageous new newsroom | The
-Verge](<http://www.theverge.com/2013/10/7/4812630/fox-news-shepard-smith-news-
-deck>):
+[Fox News debuts bizarre, giant tablets in its outrageous new newsroom | The Verge](<http://www.theverge.com/2013/10/7/4812630/fox-news-shepard-smith-news-deck>):
 
 > Fox News has just unveiled a breathtakingly ridiculous newsroom, complete
 > with novelty-sized Windows-based touchscreens, a Twitter wall, and a wannabe

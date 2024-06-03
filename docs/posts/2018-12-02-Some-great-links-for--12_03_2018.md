@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-12-02
 ---
 
-
-
   * [jarun/nnn](<https://github.com/jarun/nnn>)
 
 Looks interesting

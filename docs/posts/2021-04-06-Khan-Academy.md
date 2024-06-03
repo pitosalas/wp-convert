@@ -5,6 +5,8 @@ url: "http://www.khanacademy.org"
 link: "http://www.khanacademy.org" 
 cover: "https://cdn.kastatic.org/images/khan-logo-dark-background-2.png" 
 date: 2021-04-06
+tags:
+    - math
 ---
 <img class="cover" src=https://cdn.kastatic.org/images/khan-logo-dark-background-2.png>
 

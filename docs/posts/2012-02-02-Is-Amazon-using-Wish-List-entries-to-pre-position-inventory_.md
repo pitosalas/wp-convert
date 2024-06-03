@@ -9,8 +9,6 @@ tags:
     - wishlist
 ---
 
-
-
 This happened: I had a book on my Amazon wish list for several months.
 
 **Yesterday** , I finally **placed** the order at around **3pm** and **today**

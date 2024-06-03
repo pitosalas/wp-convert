@@ -9,8 +9,6 @@ tags:
     - senators
 ---
 
-
-
 "Dear Congressman,
 
 I implore you to PLEASE do all you can to break the deadlock and the impasse.

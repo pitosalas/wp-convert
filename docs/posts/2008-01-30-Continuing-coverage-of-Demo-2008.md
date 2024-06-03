@@ -6,8 +6,6 @@ tags:
     - liveblog-demo2008-con-tagference-products-techno-taglogy
 ---
 
-
-
 Yesterday was a busy day! I saw lots of excellent products and ideas. I don't
 know how useful the Liveblog was for y'all, but it was a handy way to have me
 take notes and concentrate on what was happening. You wouldn't think you need

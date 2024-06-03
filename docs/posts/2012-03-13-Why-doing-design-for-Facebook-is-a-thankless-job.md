@@ -10,8 +10,6 @@ tags:
     - ux
 ---
 
-
-
 A friend of mine hates, HATES, the new [Facebook
 timeline.](<https://www.facebook.com/pitosalas>) She wants to turn it off, but
 can't. I happen to think the timeline is really cool, well designed, useful.

@@ -6,8 +6,6 @@ tags:
     - mac-osx-skype
 ---
 
-
-
 [![](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-
 content/uploads/imagewell/skypeslow-thumb.jpg?w=584)(Click for enlargement)
 ](<https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-

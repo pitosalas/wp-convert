@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-11-27
 ---
 
-
-
 [13 port USB hub](<http://www.coolest-gadgets.com/20071126/13-port-usb-hub-
 keeps-everything-connected/>)
 

@@ -4,11 +4,9 @@ author: Pito Salas
 date: 2009-10-24
 ---
 
-
-
 Check out [It’s Not My
 Company](<http://feedproxy.google.com/~r/FeldThoughts/~3/PyHZOmRdMI4/its-not-
-my-company.html>)( **from** [Feld
+my-company.html>)(**from** [Feld
 Thoughts](<http://feeds.feedburner.com/feldthoughts>)🙂
 
 > "While I’ve got plenty of rights as an investor, I’m very aware that I’m “an
@@ -16,7 +14,7 @@ Thoughts](<http://feeds.feedburner.com/feldthoughts>)🙂
 > more annoying than hearing one of your investors refer to the business as
 > “his company.” Now, if the investor owns more than 50% of the company, I
 > guess this is a legitimate legal perspective, but it’s still an incredibly
-> demotivating position to tak" ( **from:**[It’s Not My Company)
+> demotivating position to tak" (**from:**[It’s Not My Company)
 > ](<http://feedproxy.google.com/~r/FeldThoughts/~3/PyHZOmRdMI4/its-not-my-
 > company.html>)
 

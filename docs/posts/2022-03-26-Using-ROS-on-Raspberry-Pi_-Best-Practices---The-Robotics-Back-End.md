@@ -12,6 +12,7 @@ tags:
     - configuration
     - setup
     - raspberry-pi
+    - robotics
 ---
 <img class="cover" src=https://roboticsbackend.com/wp-content/uploads/2019/07/ROS_For_Beginners_A_Step_by_Step_Course.jpg>
 

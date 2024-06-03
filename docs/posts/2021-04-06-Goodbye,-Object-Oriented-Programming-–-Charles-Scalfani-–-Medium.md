@@ -7,6 +7,7 @@ cover: "https://miro.medium.com/max/590/1*cBFSQ9Ytv_D0jwGtpuL5WA.png"
 date: 2021-04-06
 tags:
     - design java OO classes
+    - programming-language
 ---
 <img class="cover" src=https://miro.medium.com/max/590/1*cBFSQ9Ytv_D0jwGtpuL5WA.png>
 

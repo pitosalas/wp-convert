@@ -6,7 +6,8 @@ link: "http://webkit.org"
 cover: "https://rdl.ink/render/http%3A%2F%2Fwebkit.org" 
 date: 2021-04-06
 tags:
-    - blogbridge opensource safari
+    - opensource
+    - blogbridge
 ---
 <img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwebkit.org>
 

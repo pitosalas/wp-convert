@@ -11,8 +11,6 @@ tags:
     - uocd
 ---
 
-
-
 ### Point
 
 [Solving Problems for Real World, Using Design -

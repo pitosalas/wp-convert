@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-04-01
 ---
 
-
-
 I don't want to label myself as a fuddie-duddie. I keep thinking back to this
 talk at ETech. [Quinn Norton](<http://www.ambiguous.org/quinn/>) is a engaging
 and funny speaker who talked about ["body hacking" (click to see the

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-10-23
 ---
 
-
-
 This has been my all time favorite conference. Unfortunately I can't make it
 this year. However, here it is, streaming LIVE from Camden. Wish I was there!
 

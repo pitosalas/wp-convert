@@ -6,11 +6,11 @@ link: "https://www.the-paper-trail.org/post/art-paper-notes"
 cover: "https://rdl.ink/render/https%3A%2F%2Fwww.the-paper-trail.org%2Fpost%2Fart-paper-notes" 
 date: 2021-04-06
 tags:
-    - trees
     - datastructures
     - tries
     - hash
     - howto
+    - tree
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.the-paper-trail.org%2Fpost%2Fart-paper-notes>
 

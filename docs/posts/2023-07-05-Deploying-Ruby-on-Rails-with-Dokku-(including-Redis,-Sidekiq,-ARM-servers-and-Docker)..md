@@ -7,13 +7,16 @@ cover: "https://railsnotes.xyz/static/images/deploying-ruby-on-rails-with-dokku-
 date: 2023-07-05
 tags:
     - rails
-    - deployment
     - dokku
-    - digital-oceab
+    - digital-ocean
+    - heroku
+    - cloud
+    - deploy
+    - scale deploy build rails docker howto
 ---
 <img class="cover" src=https://railsnotes.xyz/static/images/deploying-ruby-on-rails-with-dokku-redis-sidekiq-arm-docker-hetzner/cover.png>
 
-Dokku is used by digital ocean. This is the ultimate Dokku + Ruby on Rails guide — I cover running Dokku on x86 and ARM, deploying Sidekiq and Redis, dockerizing our Ruby on Rails app, and more...
+Dokku is one of several do-it-yourself heroku replacements which started getting attention when Heroku terminated their free tier.
 
 * **Web site excerpt:** This is the ultimate Dokku + Ruby on Rails guide — I cover running Dokku on x86 and ARM, deploying Sidekiq and Redis, dockerizing our Ruby on Rails app, and more...
 

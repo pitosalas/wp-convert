@@ -4,9 +4,7 @@ author: Pito Salas
 date: 2006-12-07
 ---
 
-
->
-> Check out [this  
+Check out [this  
 >
 > post](<http://dilbertblog.typepad.com/the_dilbert_blog/2006/12/my_middlesized_.html>)
 > from [The  

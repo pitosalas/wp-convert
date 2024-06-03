@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2004-11-22
 ---
 
-
->>
-
->> My answer to the question: **" What is a Blog", **which I get asked often,
+My answer to the question: **" What is a Blog", **which I get asked often,
 goes something like this:
 
 >>

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-06-10
 ---
 
-
-
   * [CS81 Fall 2017](<https://www.cs.swarthmore.edu/~meeden/cs81/f17/>)
 
 Robotics Course that looks great

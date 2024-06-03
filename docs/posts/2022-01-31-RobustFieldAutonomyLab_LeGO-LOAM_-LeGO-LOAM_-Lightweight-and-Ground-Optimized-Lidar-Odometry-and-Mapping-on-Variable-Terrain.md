@@ -7,8 +7,8 @@ cover: "https://opengraph.githubassets.com/40e85ded919fd0d9e76b3f0e91bce14241248
 date: 2022-01-31
 tags:
     - robotics
-    - N119
     - project-ideas
+    - cos-119
 ---
 <img class="cover" src=https://opengraph.githubassets.com/40e85ded919fd0d9e76b3f0e91bce142412484eeb68c7a5f4e676acce99bad46/RobustFieldAutonomyLab/LeGO-LOAM>
 

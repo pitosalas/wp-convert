@@ -11,8 +11,8 @@ tags:
     - dsl
     - howto
     - notes
-    - rests
     - instruments
+    - rest
 ---
 <img class="cover" src=https://alda.io/>
 

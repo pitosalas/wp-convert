@@ -12,6 +12,7 @@ tags:
     - dockerfile
     - k3s
     - kubernetes
+    - scale deploy build rails docker howto
 ---
 <img class="cover" src=https://cdn.evilmartians.com/front/posts/ruby-on-whales-docker-for-ruby-rails-development/cover-ea9e8a2.png>
 

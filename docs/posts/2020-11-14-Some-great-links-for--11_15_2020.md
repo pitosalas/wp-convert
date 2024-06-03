@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-11-14
 ---
 
-
-
   * [Pauls Online Math Notes](<https://tutorial.math.lamar.edu>)
 
 Seems like a comprehensive but short and sweet set of basic math notes for

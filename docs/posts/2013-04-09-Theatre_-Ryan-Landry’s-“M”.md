@@ -8,8 +8,6 @@ tags:
     - theatre
 ---
 
-
-
 We saw "[Ryan Landry's "M"" at the Calderwood Pavilion in the South
 End](<http://www.goldstar.com/e/65476>) last weekend. I started out a bit
 suspiciously when the playwright (who's not famous) name is part of the name

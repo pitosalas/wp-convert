@@ -7,6 +7,7 @@ cover: ""
 date: 2021-04-06
 tags:
     - docker rails howto
+    - scale deploy build rails docker howto
 ---
 <img class="cover" src=>
 

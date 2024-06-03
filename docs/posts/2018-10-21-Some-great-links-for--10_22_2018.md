@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-10-21
 ---
 
-
-
   * [danburzo/percollate](<https://github.com/danburzo/percollate>)
 
 This looks like a super useful tool!

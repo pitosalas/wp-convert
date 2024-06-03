@@ -8,7 +8,6 @@ date: 2023-06-18
 tags:
     - ruby
     - explainer
-    - blocks
     - lambda
     - functions
     - proc

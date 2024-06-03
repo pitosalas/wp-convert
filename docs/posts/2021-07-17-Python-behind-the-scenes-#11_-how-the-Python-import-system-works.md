@@ -11,6 +11,7 @@ tags:
     - import-statement
     - explainer
     - in-depth
+    - python-package
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Ftenthousandmeters.com%2Fblog%2Fpython-behind-the-scenes-11-how-the-python-import-system-works%2F>
 

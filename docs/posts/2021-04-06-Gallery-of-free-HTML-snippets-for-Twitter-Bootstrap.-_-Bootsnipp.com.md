@@ -6,7 +6,7 @@ link: "http://bootsnipp.com"
 cover: "https://bootsnipp.com/img/logo.jpg" 
 date: 2021-04-06
 tags:
-    - bootstrap css html5
+    - bootstrap
 ---
 <img class="cover" src=https://bootsnipp.com/img/logo.jpg>
 

@@ -7,6 +7,7 @@ cover: "https://rdl.ink/render/https%3A%2F%2Fwww.latex-tutorial.com%2Ftutorials"
 date: 2021-04-06
 tags:
     - latex tex guide
+    - tutorial
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.latex-tutorial.com%2Ftutorials>
 

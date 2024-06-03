@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-05-07
 ---
 
-
-
   * [Frontier AI: How far are we from artificial “general” intelligence, really?](<https://hackernoon.com/frontier-ai-how-far-are-we-from-artificial-general-intelligence-really-5b13b1ebcd4e>)
 
 tags: [artificial

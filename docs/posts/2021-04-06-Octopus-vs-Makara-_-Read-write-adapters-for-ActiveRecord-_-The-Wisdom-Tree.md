@@ -6,7 +6,7 @@ link: "https://ypoonawala.wordpress.com/2015/11/15/octopus-vs-makara-read-write-
 cover: "https://s0.wp.com/i/blank.jpg" 
 date: 2021-04-06
 tags:
-    - activerecord
+    - active-record
 ---
 <img class="cover" src=https://s0.wp.com/i/blank.jpg>
 

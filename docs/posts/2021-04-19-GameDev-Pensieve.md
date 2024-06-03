@@ -6,10 +6,10 @@ link: "https://www.gamedevpensieve.com/main"
 cover: "https://lh6.googleusercontent.com/zNxxWdiRy0lC5kWjIHp_fWHROZ7o-qlXpn1nENk2hO1YBJjC_XUtVAEBPTyBkayMBBvh0WZgP8VGNwuSm76rF-Y5EUFGMbr_34QOE1gO1UOE-uYo=w1280" 
 date: 2021-04-19
 tags:
-    - gaming
     - decision making
     - algorithms
     - howto
+    - game
 ---
 <img class="cover" src=https://lh6.googleusercontent.com/zNxxWdiRy0lC5kWjIHp_fWHROZ7o-qlXpn1nENk2hO1YBJjC_XUtVAEBPTyBkayMBBvh0WZgP8VGNwuSm76rF-Y5EUFGMbr_34QOE1gO1UOE-uYo=w1280>
 

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2010-09-17
 ---
 
-
-
 I came across the idea of the [Johari
 Window](<http://en.wikipedia.org/wiki/Johari_window>) during one of the
 presentations at the Bif-6 Conference. I'd never heard of it before. To me

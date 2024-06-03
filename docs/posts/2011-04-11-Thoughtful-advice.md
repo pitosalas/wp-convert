@@ -11,8 +11,6 @@ tags:
     - steal
 ---
 
-
-
 No need to paraphrase or editorialize. Just read the whole thing, will ya?
 Lots of good advice that I wish I had gotten years ago.
 

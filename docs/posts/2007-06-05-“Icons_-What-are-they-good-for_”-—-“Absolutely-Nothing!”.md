@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-06-05
 ---
 
-
-
 [Jeremy Wagstaff, in his regular "Loose
 Wires"](<http://online.wsj.com/article/SB118064841957620556.html?mod=Loose+Wire>)
 column tells some truth about icons in software:

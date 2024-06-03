@@ -12,6 +12,9 @@ tags:
     - tool
     - cooltool
     - jq
+    - github
+    - tips
+    - howto
 ---
 <img class="cover" src=https://opengraph.githubassets.com/6b2a890711584f3a7b3124fd128c9bd704260237efc62d5996b542168c8a8d8b/mgdm/htmlq>
 

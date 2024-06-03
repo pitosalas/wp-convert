@@ -7,8 +7,6 @@ tags:
     - mooc
 ---
 
-
-
 [Master's Degree Is New Frontier of Study Online -
 NYTimes.com](<http://www.nytimes.com/2013/08/18/education/masters-degree-is-
 new-frontier-of-study-online.html?_r=0>):

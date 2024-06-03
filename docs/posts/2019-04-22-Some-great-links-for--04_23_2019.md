@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-04-22
 ---
 
-
-
   * [Why OO Sucks](<http://www.cs.otago.ac.nz/staffpriv/ok/Joe-Hates-OO.htm>)
 
 Joe Armstrong is a famous person in Erlang circles. He passes away yesterday.

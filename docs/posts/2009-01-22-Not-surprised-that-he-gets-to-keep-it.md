@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2009-01-22
 ---
 
-
-
 There's been some back and forth silliness about whether Barack Obama can keep
 his Blackberry. All the pundits said "no way" but I thought, geez, the guy is
 President (did you hear?) all he has to do is say: 'make it so':

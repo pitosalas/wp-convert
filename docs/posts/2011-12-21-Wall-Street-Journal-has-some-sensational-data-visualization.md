@@ -10,8 +10,6 @@ tags:
     - wsj
 ---
 
-
-
 I don't know if you need [an account to see the amazingly useful, elegant and
 well implemented bit of data visualization in the Wall Street
 Journa](<http://projects.wsj.com/campaign2012/polls#cand=Gingrich&race=21&region=IA&src=rcpo>)l.

@@ -8,8 +8,6 @@ tags:
     - nyt
 ---
 
-
-
 From the New York Times, an [article by Nick Kristof, describing a real-life
 story of a friend of his and health
 care.](<http://www.nytimes.com/2012/10/14/opinion/sunday/kristof-a-possibly-
@@ -34,7 +32,7 @@ possibly-fatal-mistake.html>):
 > a bachelor, so he didn’t have a spouse whose insurance he could fall back on
 > in his midlife crisis. In any case, we all take risks, and usually we get
 > away with them. Scott is a usually prudent guy who took a chance, and then
-> everything went wrong." ( **from** [The New York
+> everything went wrong." (**from** [The New York
 > Times](<http://www.nytimes.com/2012/10/14/opinion/sunday/kristof-a-possibly-
 > fatal-mistake.html>))
 

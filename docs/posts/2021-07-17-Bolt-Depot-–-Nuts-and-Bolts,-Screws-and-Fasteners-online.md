@@ -6,8 +6,6 @@ tags:
     - shopping
 ---
 
-
-
 [ Bolt Depot - Nuts and Bolts, Screws and Fasteners
 online](<https://www.boltdepot.com/>)
 

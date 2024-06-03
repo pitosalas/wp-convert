@@ -8,8 +8,6 @@ tags:
     - seed-investing
 ---
 
-
-
 A couple of entrepreneurs asked me whether I'd be interested in investing in
 their project at a very early stage. The question arose, what kind of
 information would I need (and by extension would any other potential angel

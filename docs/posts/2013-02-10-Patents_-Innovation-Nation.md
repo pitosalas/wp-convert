@@ -9,8 +9,6 @@ tags:
     - patents
 ---
 
-
-
 An [interesting view on patents from Judge
 Posner](<http://www.nytimes.com/2013/02/09/opinion/nocera-innovation-nation-
 at-war.html>):

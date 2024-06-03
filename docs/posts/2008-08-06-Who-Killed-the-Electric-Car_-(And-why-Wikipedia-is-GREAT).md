@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-08-06
 ---
 
-
-
 I just saw the [movie "Who Killed the Electric
 Car"](<http://www.sonyclassics.com/whokilledtheelectriccar/>) which makes a
 **pretty compelling** case that years ago General Motors had a **working and

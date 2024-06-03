@@ -8,8 +8,6 @@ tags:
     - nyt
 ---
 
-
-
 ![](https://i0.wp.com/graphics8.nytimes.com/images/section/learning/general/onthisday/big/0720_big.gif?w=584)
 
 

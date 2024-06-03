@@ -7,6 +7,7 @@ cover: "https://miro.medium.com/max/1000/0*78Wut4nTELlloega"
 date: 2021-04-06
 tags:
     - coding howto rails api
+    - scale deploy build rails docker howto
 ---
 <img class="cover" src=https://miro.medium.com/max/1000/0*78Wut4nTELlloega>
 

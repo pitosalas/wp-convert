@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-12-21
 ---
 
-
-
 Here's an interesting new product, just into beta:
 [Inquisix](<http://inquisix.com/>). This is a service for **sales people** who
 need a more effective alternative to cold calling to generate leads.

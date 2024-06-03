@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-11-13
 ---
 
-
-
   * [Getafix: How Facebook tools learn to fix bugs automatically - Facebook Code](<https://code.fb.com/developer-tools/getafix-how-facebook-tools-learn-to-fix-bugs-automatically/>)
 
 Amazing automated bug discovery and fixing tool

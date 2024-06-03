@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-03-24
 ---
 
-
-
   * [Flatdoc](<http://ricostacruz.com/flatdoc/>)
 
 A super simple automatic open source doc generator. Except I dont quite

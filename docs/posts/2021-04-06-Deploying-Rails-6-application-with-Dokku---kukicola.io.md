@@ -10,8 +10,9 @@ tags:
     - scale
     - dokku
     - explainer
-    - applications
     - rails
+    - scale deploy build rails docker howto
+    - application
 ---
 <img class="cover" src=https://kukicola.io/assets/img/photo.jpg>
 

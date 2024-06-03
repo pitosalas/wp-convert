@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-11-16
 ---
 
-
-
   * [The Waiting Time Paradox, or, Why Is My Bus Always Late?](<http://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav>)
 
 tags: [random](<https://www.diigo.com/user/pitosalas/random>)

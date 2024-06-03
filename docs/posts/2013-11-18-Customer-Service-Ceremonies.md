@@ -10,8 +10,6 @@ tags:
     - telephon-tage
 ---
 
-
-
 Nowadays, when I am done talking to telephone suport of any company, they seem
 to be trained to go through a long ceremony before letting me go:
 

@@ -6,8 +6,6 @@ tags:
     - usps-newenglandpatriots-postalservice-logos-icon-tags
 ---
 
-
-
 I've gotten more interested in logos and graphic design lately so I guess I am
 noticing stuff like this more than before…
 

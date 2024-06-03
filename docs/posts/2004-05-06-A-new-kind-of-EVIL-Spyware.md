@@ -4,11 +4,8 @@ author: Pito Salas
 date: 2004-05-06
 ---
 
-
->>
-
->> One of my computers has gone totally haywire with spyware, popups popping
-all over the place, and more. Here's the new spin, which I hadn't seen before.
+One of my computers has gone totally haywire with spyware, popups popping all
+over the place, and more. Here's the new spin, which I hadn't seen before.
 
 >>
 

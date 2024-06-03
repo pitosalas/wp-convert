@@ -9,8 +9,6 @@ tags:
     - python
     - package
     - vector
-    - 2d
-    - 3d
 ---
 <img class="cover" src=https://vector.readthedocs.io/en/latest/_static/vector-logo.png>
 

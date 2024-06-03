@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2021-02-03
 ---
 
-
-
   * [10 Ultimate Programming Jokes](<https://link.medium.com/gybRfn32zdb>)
 
 Groan but ok, funny

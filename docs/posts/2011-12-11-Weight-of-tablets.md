@@ -12,8 +12,6 @@ tags:
     - weight
 ---
 
-
-
 I've been playing around with each of the major tablets while considering 'my
 next move' 🙂
 

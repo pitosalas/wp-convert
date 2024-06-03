@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-02-10
 ---
 
-
-
   * [SSL Cert Rotation with Runbook | dev/blesi](<http://patrick.ble.si/ssl-cert-rotation-with-runbook>)
 
 More about Runbook my favorite automation tool so far!

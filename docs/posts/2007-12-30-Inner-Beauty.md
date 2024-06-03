@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-12-30
 ---
 
-
-
 If you know or remember the great Inner Beauty hot sauce, then you will be
 interested in this article whice (claims to) reveal the actual, [original
 recipe for Inner Beauty

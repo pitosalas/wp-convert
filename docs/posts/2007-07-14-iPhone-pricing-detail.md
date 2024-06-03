@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-07-14
 ---
 
-
-
 I was chatting with my neighborhood iPhone (Cingular/AT&T) dealer and learned
 this interesting detail (which all you hard code iPhone fanatics out there I
 am sure know all about.)

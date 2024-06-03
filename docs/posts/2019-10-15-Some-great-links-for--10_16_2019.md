@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-10-15
 ---
 
-
-
   * [How to Write Fast Code in Ruby on Rails – Shopify Engineering](<https://engineering.shopify.com/blogs/engineering/write-fast-code-ruby-rails>)
 
 These people have one of the largest rails apps. They know what they are

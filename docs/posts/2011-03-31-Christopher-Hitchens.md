@@ -7,8 +7,6 @@ tags:
     - hitchens
 ---
 
-
-
 A really excellent [interview/review of Christopher Hitchens and his memoir,
 "Hitch-22":](<http://www.telegraph.co.uk/culture/books/8388695/Godless-in-
 Tumourville-Christopher-Hitchens-interview.html>)

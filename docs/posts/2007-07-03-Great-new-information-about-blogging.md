@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-07-03
 ---
 
-
-
 I just finished writing a few brief tutorials that I thought might be of
 interest to you and, well, everyone. Please check them out - if you find them
 useful, please pass them on to your friends!

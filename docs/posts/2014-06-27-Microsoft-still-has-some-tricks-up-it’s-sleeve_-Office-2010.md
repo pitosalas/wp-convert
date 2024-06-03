@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2014-06-27
 ---
 
-
-
 Now I've been a mac for about 4 years now, so I generally don't pay too much
 attention to Microsoft's new product releases. But take a look at some of
 these videos about Office 2010. There's are some impressive new developments.

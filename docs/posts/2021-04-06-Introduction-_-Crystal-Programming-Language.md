@@ -7,6 +7,7 @@ cover: "https://crystal-lang.org/images/icon.png"
 date: 2021-04-06
 tags:
     - crystal programming language ruby
+    - programming-language
 ---
 <img class="cover" src=https://crystal-lang.org/images/icon.png>
 

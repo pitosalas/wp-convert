@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-08-05
 ---
 
-
-
   * [r/webdev - How to prep your GitHub for job seeking](<https://www.reddit.com/r/webdev/comments/90xmpw/how_to_prep_your_github_for_job_seeking/>)
 
 tags: [job](<https://www.diigo.com/user/pitosalas/job>)

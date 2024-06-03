@@ -8,8 +8,6 @@ tags:
     - trustthevote
 ---
 
-
-
 I work at the [Open Source Digital Voting Foundation](<http://www.osdv.org>),
 where we are creating new, modern, open source, and publicly owned technology
 for operating all aspects of voting in the US.
@@ -32,7 +30,7 @@ across this bit as a small reminder of why we need it:
 > “return of canvass” forms. They are given to police officers at the polling
 > places, who take them to local precinct houses, where the numbers are
 > entered in a computer and transmitted to the board and to The Associated
-> Press — which distributes them to other news organizations." ( **from**[
+> Press — which distributes them to other news organizations." (**from**[
 > Recount Finds 195,000 Voters Were Missed on Election
 > Night](<http://www.nytimes.com/2010/12/03/nyregion/03votes.html>))
 

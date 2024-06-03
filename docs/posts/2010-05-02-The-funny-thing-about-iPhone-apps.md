@@ -8,8 +8,6 @@ tags:
     - iphon-tage
 ---
 
-
-
 So a friend of mine told me of his iPhone app, called
 [Etude](<http://etudeapp.com/>). He sung the praises, it sounds really cool to
 me. So I whipped out my iPhone and went to download the app. Wouldn't you know

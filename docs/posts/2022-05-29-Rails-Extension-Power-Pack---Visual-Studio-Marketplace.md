@@ -10,6 +10,7 @@ tags:
     - rails
     - howto
     - extensions
+    - ruby
 ---
 <img class="cover" src=https://andrewmcodes.gallerycdn.vsassets.io/extensions/andrewmcodes/rails-extension-power-pack/1.0.0/1653556705947/Microsoft.VisualStudio.Services.Icons.Default>
 

@@ -8,8 +8,6 @@ tags:
     - repl
 ---
 
-
-
 [ Alternate Python REPL - bpython](< https://bpython-interpreter.org/>) –
 
 

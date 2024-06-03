@@ -9,7 +9,8 @@ tags:
     - college
     - university
     - credentials
-    - wsj
+    - education
+    - higher-education
 ---
 <img class="cover" src=https://images.wsj.net/im-913482/social>
 

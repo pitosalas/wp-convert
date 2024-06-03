@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2004-06-28
 ---
 
-
->>
-
->> [Everyone loves](<http://reviews-
+[Everyone loves](<http://reviews-
 zdnet.com.com/AnchorDesk/4520-7297_16-5141451.html?tag=adts>) to beat up on
 Microsoft's **Outlook**. Including me! See [Outlook Haters
 Anyone?](</weblogs/archives/000396.html>) and [Outlook 2003

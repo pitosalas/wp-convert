@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2021-05-24
 ---
 
-
-
 [ The fastest way to clone an SD card on macOS - Jaimyn's
 Blog](<https://blog.jaimyn.dev/the-fastest-way-to-clone-sd-card-macos/>)
 

@@ -10,8 +10,6 @@ tags:
     - web
 ---
 
-
-
 I was a **volunteer** for the Democratic Committee in Arlington Mass. They
 have an **impressive** operation, just like what you've heard. For example,
 the systems they used to deploy us volunteers.
@@ -53,7 +51,7 @@ election day. Here's a nice quote:
 > entire endeavor was that a supposedly **small government candidate** gutted
 > the local structure of [get out the vote] efforts in favor of a
 > **centralized, faceless organization** in a far off place (in this case,
-> their Boston headquarters). Wrap your head around that…." ( **from**
+> their Boston headquarters). Wrap your head around that…." (**from**
 > [Arstechnica](<http://arstechnica.com/information-technology/2012/11/inside-
 > team-romneys-whale-of-an-it-meltdown/>))
 

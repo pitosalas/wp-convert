@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-12-30
 ---
 
-
-
   * [Git Commands to Live By](<https://link.medium.com/sbnKSHQCDcb>)
 
 A great collection of semi- advanced git commands. Super useful!

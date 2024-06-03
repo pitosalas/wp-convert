@@ -8,8 +8,6 @@ tags:
     - Harvard
 ---
 
-
-
 [Harvard Business School Case Study - Gender Equity -
 NYTimes.com](<http://www.nytimes.com/2013/09/08/education/harvard-case-study-
 gender-equity.html?_r=0>):

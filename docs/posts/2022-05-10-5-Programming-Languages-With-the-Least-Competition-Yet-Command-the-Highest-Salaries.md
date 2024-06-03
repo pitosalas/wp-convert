@@ -9,6 +9,7 @@ tags:
     - language
     - jobs
     - salary
+    - programming-language
 ---
 <img class="cover" src=https://miro.medium.com/max/1200/1*0WhNdihFH5675DBHYNYZrg.jpeg>
 

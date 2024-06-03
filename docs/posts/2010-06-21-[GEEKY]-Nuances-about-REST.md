@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2010-06-21
 ---
 
-
-
 While teaching at Brandeis University this summer (see [Cosi JBS Web
 Site](<http://iceland.cs.brandeis.edu/webapps/FrontPage?from=navigationbox>))
 I've come to think a lot more deeply about the often cliche'd 'REST' approach

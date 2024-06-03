@@ -6,7 +6,7 @@ link: "https://www.longislandwatch.com"
 cover: "https://rdl.ink/render/https%3A%2F%2Fwww.longislandwatch.com" 
 date: 2021-04-06
 tags:
-    - watches longisland
+    - watches
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.longislandwatch.com>
 

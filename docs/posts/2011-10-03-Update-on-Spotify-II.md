@@ -8,8 +8,6 @@ tags:
     - spotify
 ---
 
-
-
 I have become a total Spotify addict. I have almost totally stopped
 downloading MP3s and am gradually locating all my favorite music on Spotify. I
 posed a couple of semi-sceptical notes when I first started using Spotify and

@@ -5,6 +5,8 @@ url: "http://www.watchuseek.com"
 link: "http://www.watchuseek.com" 
 cover: "https://images.platforum.cloud/logos/watchuseek_com_profile.png" 
 date: 2021-04-06
+tags:
+    - watch
 ---
 <img class="cover" src=https://images.platforum.cloud/logos/watchuseek_com_profile.png>
 

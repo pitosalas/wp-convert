@@ -9,8 +9,8 @@ tags:
     - documentation
     - github
     - howto
-    - readthedocs
     - gitbook
+    - tutorial
 ---
 <img class="cover" src=https://docs.readthedocs.io/en/stable/_images/github-template.png>
 

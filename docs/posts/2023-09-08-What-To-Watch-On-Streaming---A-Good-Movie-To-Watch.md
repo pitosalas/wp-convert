@@ -6,11 +6,11 @@ link: "https://agoodmovietowatch.com"
 cover: "https://agoodmovietowatch.com/assets/agmtw_logo.png" 
 date: 2023-09-08
 tags:
-    - movies
     - cooltool
     - recommendations
     - films
     - streaming
+    - watch
 ---
 <img class="cover" src=https://agoodmovietowatch.com/assets/agmtw_logo.png>
 

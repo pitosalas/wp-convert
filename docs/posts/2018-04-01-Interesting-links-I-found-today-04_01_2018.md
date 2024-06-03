@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-04-01
 ---
 
-
-
   * [FIND3 Overview · FIND3](<https://www.internalpositioning.com/doc/overview.md>)
 
   * [LKML: Linus Torvalds: Re: detecting integer constant expressions in macros](<https://lkml.org/lkml/2018/3/20/845>)

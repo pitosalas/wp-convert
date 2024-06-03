@@ -8,6 +8,8 @@ date: 2023-06-06
 tags:
     - git
     - opinion
+    - tips
+    - howto
 ---
 <img class="cover" src=https://cdn.changelog.com/uploads/posts/wwlO/large.png?v=63772756066>
 

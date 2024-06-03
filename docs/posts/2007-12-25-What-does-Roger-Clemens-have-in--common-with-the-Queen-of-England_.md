@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-12-25
 ---
 
-
-
 Youtube!
 
 > [Here is Roger Clemens denying his use of

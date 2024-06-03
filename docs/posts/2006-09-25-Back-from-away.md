@@ -4,12 +4,11 @@ author: Pito Salas
 date: 2006-09-25
 ---
 
+I just returned from a trip in the American Southwest, starting in St. George
+Utah, to Bryce Canyon National Park, Capitol Reef Park, Arches National Park,
+Canyonlands National Park and ending in Mesa Verde National Park. A
+spectacular trip. I am now back, invigorated and ready for action.
 
->
-> I just returned from a trip in the American Southwest, starting in St.
-> George Utah, to Bryce Canyon National Park, Capitol Reef Park, Arches
-> National Park, Canyonlands National Park and ending in Mesa Verde National
-> Park. A spectacular trip. I am now back, invigorated and ready for action.
 >
 >
 > [http://wikimapia.org/s/#y=38324420&x=-110401611&z=7&l=0&m=a](<http://wikimapia.org/s/#y=38324420&x=-110401611&z=7&l=0&m=a>)

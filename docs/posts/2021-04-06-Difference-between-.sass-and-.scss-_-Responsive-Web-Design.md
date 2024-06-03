@@ -7,6 +7,7 @@ cover: "https://rdl.ink/render/https%3A%2F%2Fresponsivedesign.is%2Farticles%2Fdi
 date: 2021-04-06
 tags:
     - sass web design scss
+    - design
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fresponsivedesign.is%2Farticles%2Fdifference-between-sass-and-scss>
 

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-09-01
 ---
 
-
-
   * [westonganger (Weston Ganger)](<https://github.com/westonganger>)
 
 A gem containing functionality to represent, import and export spreadsheets

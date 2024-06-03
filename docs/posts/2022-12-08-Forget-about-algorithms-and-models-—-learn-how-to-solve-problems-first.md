@@ -9,6 +9,8 @@ tags:
     - programming
     - teaching
     - problem-solving
+    - math
+    - programming-language
 ---
 <img class="cover" src=https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F12%2FUntitled-design-15.jpg&signature=1e1ff3fb9564da4904d5946734762cfa>
 

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-11-14
 ---
 
-
-
 A neat article in [Salon, by Garrison Keillor - America is cool](</wp-
 admin/post-new.php>):
 

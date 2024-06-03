@@ -6,8 +6,6 @@ tags:
     - linkedin
 ---
 
-
-
 I don't know what's going on, am I suddenly famous? LinkedIn invites are
 picking up. I think it's more likely that LinkedIn has come up with a clever
 way to encourage people to link to others. I don't know, but I am receiving

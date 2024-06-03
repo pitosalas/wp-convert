@@ -6,13 +6,14 @@ link: "https://www.youtube.com/watch?v=rSPwOeX46UA"
 cover: "https://i.ytimg.com/vi/rSPwOeX46UA/maxresdefault.jpg" 
 date: 2021-06-12
 tags:
-    - papers
     - robots
     - two minute papers
     - grammar
     - design
     - research
     - optimization
+    - paper
+    - robotics
 ---
 <img class="cover" src=https://i.ytimg.com/vi/rSPwOeX46UA/maxresdefault.jpg>
 

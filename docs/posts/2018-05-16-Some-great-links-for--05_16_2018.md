@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-05-16
 ---
 
-
-
   * [Weekly Command: managing processes with htop](<https://monades.roperzh.com/weekly-command-managing-processes-with-htop/>)
 
 tags: [processes](<https://www.diigo.com/user/pitosalas/processes>)

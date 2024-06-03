@@ -8,8 +8,6 @@ tags:
     - nyt
 ---
 
-
-
 From the New York Times, [How Exercise Benefits the
 Brain:](<http://well.blogs.nytimes.com/2011/11/30/how-exercise-benefits-the-
 brain/>)
@@ -19,7 +17,7 @@ brain/>)
 > understood which parts of the brain are affected or how those effects
 > influence thinking. The Irish study suggests that the increases in BDNF
 > prompted by exercise may play a particular role in improving memory and
-> recall." ( **from** [NYT](<http://well.blogs.nytimes.com/2011/11/30/how-
+> recall." (**from** [NYT](<http://well.blogs.nytimes.com/2011/11/30/how-
 > exercise-benefits-the-brain/>))
 
 

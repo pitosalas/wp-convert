@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2009-08-11
 ---
 
-
-
 It strikes me that the way speakers are being shouted down at these (now)
 famous town hall meetings on health care reform is a form on human '[denial of
 service' attack](<http://en.wikipedia.org/wiki/Denial-of-service_attack>).

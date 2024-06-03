@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-03-26
 ---
 
-
-
 This is relevant to the discussion about [congestion pricing, mesh networks
 and avoiding traffic jams](</2008/03/22/what-does-urban-congestion-have-to-do-
 with-mesh-networks/>), a topic that I am getting interested in as you could

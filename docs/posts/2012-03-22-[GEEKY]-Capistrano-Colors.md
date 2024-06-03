@@ -8,8 +8,6 @@ tags:
     - rails
 ---
 
-
-
 A random, highly specific and geeky tip:
 
 > If you’ve used Capistrano before, you’re familiar with the large error logs.

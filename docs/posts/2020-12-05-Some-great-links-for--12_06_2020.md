@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-12-05
 ---
 
-
-
   * [4 Advanced Tricks With Python Functions You Might Not Know](<https://link.medium.com/iszX4UbdYbb>)
 
 One cam never have too many of these!

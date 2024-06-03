@@ -9,8 +9,6 @@ tags:
     - startups
 ---
 
-
-
 Amazing story of a great looking product, and awesome demo, on the spot
 investment of $100,000 and still… **It didn 't work.** The story was told by
 Scott Kirsner in the Boston Globe:

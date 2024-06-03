@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-12-09
 ---
 
-
-
 Tom Friedman recently had a good column about global warming ("global climate
 change") and what is, or should be being done about it, where he quotes the
 Onion:

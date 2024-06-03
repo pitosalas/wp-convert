@@ -6,7 +6,7 @@ link: "https://github.com/teivah/algodeck"
 cover: "https://avatars.githubusercontent.com/u/934784?s=400&v=4" 
 date: 2021-04-06
 tags:
-    - cheatsheet howto algorithms interview
+    - cheatsheet
 ---
 <img class="cover" src=https://avatars.githubusercontent.com/u/934784?s=400&v=4>
 

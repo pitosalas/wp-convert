@@ -7,10 +7,10 @@ cover: "https://tii.imgix.net/production/articles/6842/23515add-43d5-4102-a723-4
 date: 2021-12-21
 tags:
     - video
-    - gaming
-    - children
     - education
     - violence
+    - game
+    - kids
 ---
 <img class="cover" src=https://tii.imgix.net/production/articles/6842/23515add-43d5-4102-a723-42adc8f56911.jpg?w=800&fm=jpg&auto=compress&frame=0>
 

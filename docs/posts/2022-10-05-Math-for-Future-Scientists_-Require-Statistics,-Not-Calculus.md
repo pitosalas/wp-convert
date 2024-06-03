@@ -8,10 +8,10 @@ date: 2022-10-05
 tags:
     - calculus
     - statistics
-    - mathematics
     - education
     - highschool
     - higher-education
+    - math
 ---
 <img class="cover" src=https://s3.amazonaws.com/prod.static-content.quillette.com/2022/09/Math--1-.png>
 

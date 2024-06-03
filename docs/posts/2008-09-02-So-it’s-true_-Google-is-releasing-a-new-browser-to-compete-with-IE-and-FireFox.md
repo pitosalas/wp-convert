@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-09-02
 ---
 
-
-
 _(updated at 12:08pm Sept 2)_
 
 > "In a posting on a company site Monday, Google indicated that a version of
@@ -25,7 +23,7 @@ interesting commentary:
 > browser, giving you yet another icon choice to add to your browser
 > collection alongside IE, Firefox, and Safari. It will also likely include
 > some whizbang new features that force Microsoft and Mozilla to immediately
-> retool their own offerings. But that's almost beside the point." ( **from**
+> retool their own offerings. But that's almost beside the point." (**from**
 > [Silicon Valley Insider](<http://www.alleyinsider.com/2008/9/google-chrome-
 > browser-takes-page-out-of-microsoft-book-link-and-lever>))
 

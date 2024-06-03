@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-11-10
 ---
 
-
-
   * [Crystal is not Ruby Pt. 2 – Runtime Revolution](<https://revs.runtime-revolution.com/crystal-is-not-ruby-pt-2-7c3d988aa9a1>)
 
 Ive been playing around a lot with Crystal. If you're a ruby person you will

@@ -9,8 +9,6 @@ tags:
     - social-media
 ---
 
-
-
 [ Home - Meet Edgar](< https://meetedgar.com/>) –Social Media automatic
 posting tool. Seems popular with the cognizenti
 

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2010-12-10
 ---
 
-
-
 Check out this really interesting [Pogue article in the New York Times:
 "Gorilla Glass, the Smartphone's Unsung
 Hero"](<http://pogue.blogs.nytimes.com/2010/12/09/gorilla-glass-the-
@@ -18,7 +16,7 @@ smartphones-unsung-hero/?partner=rss&emc=rss>). Here's a tidbit:
 > the glass into a bag full of keys and shook it hard; it came out without a
 > scratch on it! Jobs immediately seized on the idea of using it for his
 > iPhone. Today, Apple buys practically all the Gorilla Glass that Corning can
-> make. Apple is the world’s No. 1 consumer of it.” ( **from** [Pogue article
+> make. Apple is the world’s No. 1 consumer of it.” (**from** [Pogue article
 > in the New York Times: "Gorilla Glass, the Smartphone's Unsung
 > Hero"](<http://pogue.blogs.nytimes.com/2010/12/09/gorilla-glass-the-
 > smartphones-unsung-hero/?partner=rss&emc=rss>))

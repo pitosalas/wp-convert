@@ -10,8 +10,6 @@ tags:
     - wsj
 ---
 
-
-
 I am reading a really cool book right now: [GARBO: The Spy Who Saved
 D-Day](<http://www.amazon.com/gp/product/155002504X/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=155002504X&linkCode=as2&tag=blogbridge-20>)![](http://ir-
 na.amazon-adsystem.com/e/ir?t=blogbridge-20&l=as2&o=1&a=155002504X)a about a

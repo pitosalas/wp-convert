@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-12-07
 ---
 
-
-
   * [From ActiveRecord callbacks to Publish/Subscribe pattern and event-driven design - Karol Galanciak - Distributed Systems Architect and Ruby on Rails expert](<https://karolgalanciak.com/blog/2019/11/30/from-activerecord-callbacks-to-publish-slash-subscribe-pattern-and-event-driven-design/>)
 
 I always thought those trigger callbacks in activerecord were a problem.

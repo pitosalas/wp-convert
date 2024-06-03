@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-12-18
 ---
 
-
-
   * [When Should You NOT Use Rails?](<http://codefol.io/posts/when-should-you-not-use-rails/>)
 
 Useful, but not necessarily universally agreed-upon, guides!

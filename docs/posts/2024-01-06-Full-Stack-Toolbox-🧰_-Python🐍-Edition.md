@@ -7,9 +7,10 @@ cover: "https://res.cloudinary.com/practicaldev/image/fetch/s--DkVgf8YE--/c_imag
 date: 2024-01-06
 tags:
     - python
-    - visualization
     - framework
     - list
+    - python-package
+    - visualize
 ---
 <img class="cover" src=https://res.cloudinary.com/practicaldev/image/fetch/s--DkVgf8YE--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7tggvlji6wlnal0gc6zk.gif>
 

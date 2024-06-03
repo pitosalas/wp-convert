@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-12-17
 ---
 
-
-
   * [Testing Guide](<https://martinfowler.com/testing/?utm_source=Software+Weekly&utm_campaign=6c04d3499a-EMAIL_CAMPAIGN_12_03_2018_16_23_COPY_01&utm_medium=email&utm_term=0_846fac531b-6c04d3499a-183168357>)
 
 Martin Fowler always has interesting views and recommendations

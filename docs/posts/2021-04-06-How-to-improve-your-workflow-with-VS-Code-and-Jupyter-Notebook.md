@@ -7,6 +7,8 @@ cover: "https://miro.medium.com/max/1200/1*V_-jIywD4jcrTsXca5_fQQ.png"
 date: 2021-04-06
 tags:
     - jupyter vscode
+    - vscode
+    - visual-studio
 ---
 <img class="cover" src=https://miro.medium.com/max/1200/1*V_-jIywD4jcrTsXca5_fQQ.png>
 

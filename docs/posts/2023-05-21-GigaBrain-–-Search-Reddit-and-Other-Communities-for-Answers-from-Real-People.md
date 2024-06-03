@@ -9,8 +9,6 @@ tags:
     - shopping
 ---
 
-
-
 [ GigaBrain - Search Reddit and Other Communities for Answers from Real
 People](< https://thegigabrain.com/>) –GigaBrain finds the most useful
 discussions on reddit and other communities. We sift through the noise and

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-11-22
 ---
 
-
-
   * [TabNine | Install TabNine](<https://tabnine.com/install>)
 
 Looks really cool. ML auto completion for any programming language. Must try.

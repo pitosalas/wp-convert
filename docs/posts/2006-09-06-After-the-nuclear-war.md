@@ -5,11 +5,9 @@ date: 2006-09-06
 ---
 
 Actually this is a fascinating photo essay of an abandoned city in the Soviet
-Union, left to gradually die off while the USSR collapsed.
+Union, left to gradually die off while the USSR collapsed. Check out  An
+Abandoned City" href="http://englishrussia.com/?p=276″>An Abandoned City
 
->
-> Check out  An Abandoned City" href="http://englishrussia.com/?p=276″>An
-> Abandoned City
 >
 
 >> Here is a little photo-session of an abandoned city. When the Soviet Union

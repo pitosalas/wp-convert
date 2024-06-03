@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-06-26
 ---
 
-
-
   * [Crystal is not Ruby Pt. 2 – Runtime Revolution](<https://revs.runtime-revolution.com/crystal-is-not-ruby-pt-2-7c3d988aa9a1?source=userActivityShare-d383785221d0-1529896500>)
 
 tags: [Ruby](<https://www.diigo.com/user/pitosalas/Ruby>)

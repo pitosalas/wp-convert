@@ -9,6 +9,9 @@ tags:
     - language
     - shell
     - automation
+    - github
+    - tips
+    - howto
 ---
 <img class="cover" src=https://repository-images.githubusercontent.com/13143215/820419a1-8b60-436e-8c92-8ac9e1147dd8>
 

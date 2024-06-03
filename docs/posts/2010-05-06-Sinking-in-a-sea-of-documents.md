@@ -8,8 +8,6 @@ tags:
     - indexing
 ---
 
-
-
 Lately because of one of my projects I am having to work my way through a
 bunch of long, semi structured documents containing things such as requests
 for proposals, government program reports, threat models and all kinds of

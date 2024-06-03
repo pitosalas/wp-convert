@@ -6,10 +6,10 @@ link: "https://concerningquality.com/models/"
 cover: "https://rdl.ink/render/https%3A%2F%2Fconcerningquality.com%2Fmodels%2F" 
 date: 2022-12-14
 tags:
-    - testing
-    - models
     - design
     - explainer
+    - test
+    - model
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fconcerningquality.com%2Fmodels%2F>
 

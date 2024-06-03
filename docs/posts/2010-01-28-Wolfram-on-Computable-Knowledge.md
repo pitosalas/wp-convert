@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2010-01-28
 ---
 
-
-
 [Stephen Wolfram](<http://en.wikipedia.org/wiki/Stephen_Wolfram>) is a
 [genius](<http://en.wikipedia.org/wiki/Genius>). (Ok, he's also a bit
 grandiose, self-promoting and arrogant, but I think he's amazing. Kind of like

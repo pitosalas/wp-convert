@@ -7,6 +7,7 @@ cover: "https://www.theconstructsim.com/wp-content/uploads/2018/01/Should-you-us
 date: 2021-04-06
 tags:
     - ROS advice robotics startup
+    - robotics
 ---
 <img class="cover" src=https://www.theconstructsim.com/wp-content/uploads/2018/01/Should-you-use-ROS-or-not-post-by-the-construct.png>
 

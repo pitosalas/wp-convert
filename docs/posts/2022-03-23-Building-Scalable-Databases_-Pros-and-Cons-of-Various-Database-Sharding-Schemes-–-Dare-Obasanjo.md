@@ -7,8 +7,6 @@ tags:
     - scaling
 ---
 
-
-
 [ Building Scalable Databases: Pros and Cons of Various Database Sharding
 Schemes - Dare
 Obasanjo](<http://www.25hoursaday.com/weblog/2009/01/16/BuildingScalableDatabasesProsAndConsOfVariousDatabaseShardingSchemes.aspx>)

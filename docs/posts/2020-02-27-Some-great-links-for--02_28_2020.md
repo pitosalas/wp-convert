@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-02-27
 ---
 
-
-
   * [How to write Javascript in Rails 6 | Webpacker, Yarn and Sprockets](<https://blog.capsens.eu/how-to-write-javascript-in-rails-6-webpacker-yarn-and-sprockets-cdf990387463>)
 
 A good introduction to the very confusing combination of JavaScript, yarn,

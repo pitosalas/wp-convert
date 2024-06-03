@@ -7,8 +7,6 @@ tags:
     - quirky
 ---
 
-
-
 I read about [Quirky.com](<http://www.quirky.com/>) in the [paper the other
 day.](<http://www.nytimes.com/2011/08/25/garden/ben-kaufman-quirkycom-founder-
 on-problem-solving-qa.html>) From my perusal it's a site where people (you and

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-01-28
 ---
 
-
-
   * [40 Best Ruby Gems We Can’t Live Without](<https://www.codica.com/blog/top-ruby-gems-we-cant-live-without/>)
 
 It’s always welcome to see what the latest most useful gems are.

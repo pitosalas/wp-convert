@@ -9,8 +9,6 @@ tags:
     - nyt
 ---
 
-
-
 This article gives a [fascinating perspective on the disconnect between what
 they teach in law school and what knowledge is required to actually be an
 effective lawyer.](<http://www.nytimes.com/2011/11/20/business/after-law-

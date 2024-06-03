@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2004-05-01
 ---
 
-
->>
-
->> [David Coursey writes an interesting bit
+[David Coursey writes an interesting bit
 ](<http://blog.ziffdavis.com/coursey/archive/2004/04/28/739.aspx>)about how
 the competitors to Microft Office (i.e. Star Office, Word Perfect, what not)
 need to get themselves an Outlook competitor, because that's the only (or

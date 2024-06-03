@@ -12,8 +12,6 @@ tags:
     - ruby-on-tag-rails
 ---
 
-
-
 [ Rails initializers you don't know about - Inflections](<
 https://blog.saeloun.com/2023/02/09/rails-initializers-you-dont-know-about-
 inflections>) –Fun Rails Esoterica. One of the features that new Rails people

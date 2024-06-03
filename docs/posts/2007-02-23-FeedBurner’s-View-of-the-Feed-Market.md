@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-02-23
 ---
 
-
-
 If you are a blogger then you probably keep an eye out on the 'circulation' of
 your blog. It's a black art full of subjetivity and highly detailed technical
 tidbits that have to be understood and then interpretted before you really
@@ -24,7 +22,7 @@ Questions)](<http://blogs.feedburner.com/feedburner/>):
 > and draw some conclusions about how audiences are consuming content in new
 > and different ways. [snip…]"
 >
-> ( **from** : [FeedBurner's View of the Feed
+> (**from** : [FeedBurner's View of the Feed
 > Market](<http://feeds.feedburner.com/%7Er/BurnThisRSS2/%7E3/94307599/feedburners_view_of_the_feed_m.php>))
 
 

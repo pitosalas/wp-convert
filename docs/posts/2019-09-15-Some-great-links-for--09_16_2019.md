@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-09-15
 ---
 
-
-
   * [Ganbreeder](<http://www.artbreeder.com/models>)
 
 Pretty interesting example of generative art and AI deepfakes related

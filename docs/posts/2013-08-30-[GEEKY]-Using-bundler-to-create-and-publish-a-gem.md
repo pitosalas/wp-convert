@@ -8,13 +8,9 @@ tags:
     - rubygems
 ---
 
-
-
 A really useful link. For Ruby programmers only.
 
-[Jorge Coca | [HOW-TO] Build a Rails gem with Bundler - Gumby
-Framework](<http://www.jorgecoca.com/articles/how-to-build-a-rails-gem-with-
-bundler-gumby-framework>):
+[Jorge Coca | [HOW-TO] Build a Rails gem with Bundler - Gumby Framework](<http://www.jorgecoca.com/articles/how-to-build-a-rails-gem-with-bundler-gumby-framework>):
 
 > Since I'm building a new Rails website, and I wanted to use Gumby as a part
 > of my Gemfile, and I couldn't find a gem with the newest version of the

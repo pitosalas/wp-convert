@@ -4,10 +4,6 @@ author: Pito Salas
 date: 2004-07-24
 ---
 
-
->>
-
->>
 ![hdrservice.jpg](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/archives/hdrservice.jpg?resize=374%2C142)
 
 >>

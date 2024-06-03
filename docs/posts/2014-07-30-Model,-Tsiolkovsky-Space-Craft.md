@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2014-07-30
 ---
 
-
-
 Check out some really cool images: Soviet model makers built this spacecraft
 based on the designs and notes of Konstantin Tsiolkovsky. Late in his life,
 much of Tsiolkovsky's theoretical work focused on ideas about transporting

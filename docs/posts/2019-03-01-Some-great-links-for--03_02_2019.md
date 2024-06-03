@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-03-01
 ---
 
-
-
   * [The Easiest Programming Language To Learn Is… - Codesmith Development](<https://codesmithdev.com/the-easiest-programming-language-to-learn-is/>)
 
 I agree, of course!

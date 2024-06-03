@@ -11,6 +11,9 @@ tags:
     - python
     - library
     - package
+    - robot
+    - robot-kit
+    - robots
 ---
 <img class="cover" src=https://opengraph.githubassets.com/cd9377f9a1e4fcb461d4d314dfb80b4666d27cd431aeda405ce7a5654930980e/petercorke/robotics-toolbox-python>
 

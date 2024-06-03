@@ -7,6 +7,7 @@ cover: "https://rdl.ink/render/https%3A%2F%2Fkarolgalanciak.com%2Fblog%2F2018%2F
 date: 2021-04-06
 tags:
     - database postgres scale rails indexes
+    - postgres
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fkarolgalanciak.com%2Fblog%2F2018%2F08%2F19%2Findexes-on-rails-how-to-make-the-most-of-your-postgres-database>
 

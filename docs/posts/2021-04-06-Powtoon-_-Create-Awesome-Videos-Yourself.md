@@ -8,10 +8,10 @@ date: 2021-04-06
 tags:
     - animation
     - presentation
-    - tools
     - cooltool
     - howto
     - powtoon
+    - tool
 ---
 <img class="cover" src=https://static.powtoon.co/images/powtoon_thumb.jpg>
 

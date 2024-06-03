@@ -9,8 +9,6 @@ tags:
     - smartphon-tage
 ---
 
-
-
 Andy [Payne wrote an interesting analysis about the future of the "software
 industry"](<http://blog.payne.org/2013/02/16/this-is-not-your-fathers-
 software-industry/>) or whatever we should call it nowadays (e.g. is Amazon a
@@ -26,7 +24,7 @@ Andy asks:
 > narrower ideas. The industry gorilla platforms fuel a “feature ecosystem”:
 > are those icons on your phone “apps” or “features”? Viewed in person terms:
 > a thousand 100-person software teams might now be 30,000 3-person teams.
-> Software is no longer a sport of kings." ( **from**
+> Software is no longer a sport of kings." (**from**
 > [blog.payne.org)](<http://blog.payne.org/2013/02/16/this-is-not-your-
 > fathers-software-industry/>)
 

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-05-03
 ---
 
-
-
 TechCrunch:
 
 > "We’re hearing this from multiple sources: After nearly two years of
@@ -24,7 +22,7 @@ whether 'Rails will Scale'. Here are my quick thoughts:
 
   1. First of all, is the rumor true? See comment at the bottom of the post referenced above:   
 
-> " **Update:** Regarding Evan Williams’ statement
+> "**Update:** Regarding Evan Williams’ statement
 > [here](<http://twitter.com/ev/statuses/801530348>), all I can say is that
 > multiple sources claim that Twitter is telling people they are planning on
 > moving away from Ruby on Rails. This is not the first time a company has

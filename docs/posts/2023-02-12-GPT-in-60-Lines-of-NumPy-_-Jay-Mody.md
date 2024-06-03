@@ -9,9 +9,9 @@ tags:
     - python
     - chat-gpt
     - machine-learning
-    - neural-network
     - explainer
     - source-code
+    - neural-net
 ---
 <img class="cover" src=https://jaykmody.com/profile.png>
 

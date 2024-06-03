@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2004-08-24
 ---
 
-
->>
-
->> [A very thought provoking speech by Bruce Sterling at SigGraph 2004.
+[A very thought provoking speech by Bruce Sterling at SigGraph 2004.
 Recommended.](<http://www.boingboing.net/images/blobjects.htm>)
 
 >>

@@ -7,6 +7,7 @@ cover: "https://coderwall-assets-0.s3.amazonaws.com/uploads/user/avatar/55418/9c
 date: 2021-04-06
 tags:
     - postgres performance ruby fulltext
+    - postgres
 ---
 <img class="cover" src=https://coderwall-assets-0.s3.amazonaws.com/uploads/user/avatar/55418/9c6165b107059ea5dfa2e81985fe8272.jpeg>
 

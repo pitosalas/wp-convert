@@ -5,8 +5,6 @@ url: "https://www.ably.io/concepts/websockets"
 link: "https://www.ably.io/concepts/websockets" 
 cover: "" 
 date: 2021-04-06
-tags:
-    - Websockets tutorial
 ---
 <img class="cover" src=>
 

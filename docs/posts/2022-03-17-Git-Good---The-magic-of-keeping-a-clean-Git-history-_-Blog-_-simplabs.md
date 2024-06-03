@@ -10,8 +10,8 @@ tags:
     - howto
     - github
     - branch
-    - rebase
     - reset
+    - tips
 ---
 <img class="cover" src=https://simplabs.com/assets/images/posts/2021-05-26-keeping-a-clean-git-history/og-image-f230bfb2c964cc99d347fd7995135d3b.png>
 

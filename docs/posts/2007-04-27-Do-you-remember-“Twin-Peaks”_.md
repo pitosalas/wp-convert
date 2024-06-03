@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-04-27
 ---
 
-
-
 "Harry, I'm going to let you in on a little secret. Every day, once a day,
 give yourself a present. Don't plan it,, don't wait for it, just … let it
 happen. Could be a new shirt at the men's store, a catnap in your office

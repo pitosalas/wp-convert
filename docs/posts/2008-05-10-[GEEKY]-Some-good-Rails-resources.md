@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-05-10
 ---
 
-
-
 Just a few handy links that, if you are a Rails developer you may be
 interested in:
 

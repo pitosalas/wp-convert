@@ -7,8 +7,6 @@ tags:
     - washington-tagpost
 ---
 
-
-
 > "Each morning when he arrives at the Oval Office, President Obama asks his
 > staff to deliver him a package containing 10 letters. It is a mere sampling
 > of the 40,000 or so that Americans send to the White House every day -- a

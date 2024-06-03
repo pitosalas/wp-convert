@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-06-11
 ---
 
-
-
 [![Events in
 Madrid](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-
 content/uploads/2007/06/apimage.jpg?w=584)](<https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-11-09
 ---
 
-
-
   * [Bilgin's Blog | Kalman Filter For Dummies](<http://bilgin.esme.org/BitsAndBytes/KalmanFilterforDummies>)
 
 More Kalman Filter links. This one is one of the best.

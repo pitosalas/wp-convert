@@ -12,8 +12,6 @@ tags:
     - watching
 ---
 
-
-
 It's obvious if you think about it, but this article drives some points home.
 If you use some kind of web service to read, listen, watch, charge, use,
 borrow or share stuff, that company not only knows what you've (read, listened

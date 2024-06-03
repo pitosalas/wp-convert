@@ -6,7 +6,7 @@ link: "https://www.codementor.io/pivovarit/beware-of-java-stream-api-habits-when
 cover: "https://cdn.filestackcontent.com/KJ6W0XZgQfcFt11DSIsw" 
 date: 2021-04-06
 tags:
-    - api performance kotlin streams
+    - FOOBAR
 ---
 <img class="cover" src=https://cdn.filestackcontent.com/KJ6W0XZgQfcFt11DSIsw>
 

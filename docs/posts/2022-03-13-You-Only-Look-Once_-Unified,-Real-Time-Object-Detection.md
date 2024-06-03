@@ -10,6 +10,7 @@ tags:
     - cv
     - paper
     - scholarship
+    - object-detection
 ---
 <img class="cover" src=https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png>
 

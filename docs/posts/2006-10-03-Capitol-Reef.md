@@ -4,11 +4,9 @@ author: Pito Salas
 date: 2006-10-03
 ---
 
+[![](https://i0.wp.com/static.flickr.com/90/253257941_7846e495d3_m.jpg?w=584)](<http://www.flickr.com/photos/98431073@N00/253257941/>
+"photo sharing")
 
->
->
-> [![](https://i0.wp.com/static.flickr.com/90/253257941_7846e495d3_m.jpg?w=584)](<http://www.flickr.com/photos/98431073@N00/253257941/>
-> "photo sharing")
 >
 > Continuing my series about my recent trip through 5 National Parks, here's
 > [Capitol Reef](<http://www.nps.gov/care>). This is a little known **National

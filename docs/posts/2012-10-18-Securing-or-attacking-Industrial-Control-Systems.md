@@ -9,8 +9,6 @@ tags:
     - security
 ---
 
-
-
 It turns out that Kaspersky Labs is developing a [brand new operating system
 specifically designed to be used in embedded industrial systems and industrial
 control systems](<http://eugene.kaspersky.com/2012/10/16/kl-developing-its-
@@ -36,8 +34,8 @@ The obvious question:
 > behind-the-scenes, undeclared activity. This is the important bit: the
 > impossibility of executing third-party code, or of breaking into the system
 > or running unauthorized applications on our OS; and this is both provable
-> and testable." ( **from** [Kaspersky Lab Developing Its Own Operating
-> System? We Confirm the Rumors, and End the
+> and testable." (**from** [Kaspersky Lab Developing Its Own Operating System?
+> We Confirm the Rumors, and End the
 > Speculation!](<http://eugene.kaspersky.com/2012/10/16/kl-developing-its-own-
 > operating-system-we-confirm-the-rumors-and-end-the-speculation/>))
 

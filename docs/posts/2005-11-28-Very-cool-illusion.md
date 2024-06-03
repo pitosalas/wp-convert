@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2005-11-28
 ---
 
-
->>
-
->> [Try this
+[Try this
 out](<http://www.patmedia.net/marklevinson/cool/cool_illusion.html>), it
 really worked for me, and is really strange and wonderful!
 

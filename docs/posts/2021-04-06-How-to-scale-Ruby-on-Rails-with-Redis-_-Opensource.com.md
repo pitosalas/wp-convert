@@ -7,6 +7,7 @@ cover: "https://opensource.com/sites/default/files/lead-images/OSCD_Govt_GrowsTh
 date: 2021-04-06
 tags:
     - redis caching rails howto
+    - scale deploy build rails docker howto
 ---
 <img class="cover" src=https://opensource.com/sites/default/files/lead-images/OSCD_Govt_GrowsThePie_520X292.png>
 

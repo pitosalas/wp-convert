@@ -8,8 +8,6 @@ tags:
     - teams
 ---
 
-
-
 [ Community by the Numbers, Part One: Group
 Thresholds](<http://www.lifewithalacrity.com/2008/09/group-threshold.html>) –
 

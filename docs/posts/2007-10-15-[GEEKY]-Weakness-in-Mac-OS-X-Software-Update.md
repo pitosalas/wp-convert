@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-10-15
 ---
 
-
-
 Everyone loves how much easier Mac OS X makes it to install software. Well
 sort of. It's a place where new users easily get stumped. What the heck are
 those .dmg files anyway, and where's the installer? Well this post isn't about

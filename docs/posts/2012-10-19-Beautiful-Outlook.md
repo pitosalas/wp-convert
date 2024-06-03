@@ -8,8 +8,6 @@ tags:
     - outlook
 ---
 
-
-
 I don't know why this **has not gotten more press.** You should take a look at
 Microsoft's new Gmail killer, [outlook.com](<http://www.outlook.com>). It's a
 totally web based email client, like Gmail, but the user experience is **miles

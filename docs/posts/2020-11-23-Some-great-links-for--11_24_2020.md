@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-11-23
 ---
 
-
-
   * [Building Your Color Palette](<https://refactoringui.com/previews/building-your-color-palette/>)
 
 Excellent guide to picking good colors in a UI

@@ -9,7 +9,7 @@ tags:
     - camera
     - lens
     - shopping
-    - visualization
+    - visualize
 ---
 <img class="cover" src=https://pxlmag.com/db/images/size-comparison-tool.png>
 

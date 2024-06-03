@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-02-15
 ---
 
-
-
 Apple always, or almost always, thinks through the user interface carefully
 and includes all kinds of deft and elegant touches that delight and amaze
 users.

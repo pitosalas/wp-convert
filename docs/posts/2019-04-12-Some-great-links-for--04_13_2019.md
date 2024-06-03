@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-04-12
 ---
 
-
-
   * [Hire People or Optimize Processes: A cost-benefit analysis for engineering leaders](<https://codeclimate.com/blog/scale-engineering-calculator/?utm_source=drip&utm_medium=email&utm_content=&utm_campaign=velocity-calculator-blog&__s=fzzssq55zd58mvijpssx>)
 
 Perspective on the payback of hiring more people vs. optimizing Dev process so

@@ -7,6 +7,7 @@ cover: "https://www.herokucdn.com/images/og.png"
 date: 2021-04-06
 tags:
     - optimizing rails performance scalability database scaling scale
+    - postgres
 ---
 <img class="cover" src=https://www.herokucdn.com/images/og.png>
 

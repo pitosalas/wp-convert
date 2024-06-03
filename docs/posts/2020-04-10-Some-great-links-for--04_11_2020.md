@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-04-10
 ---
 
-
-
   * [Cleaning and Prepping Data with Python for Data Science — Best Practices and Helpful Packages](<https://medium.com/@rrfd/cleaning-and-prepping-data-with-python-for-data-science-best-practices-and-helpful-packages-af1edfbe2a3>)
 
 Tour de force explanation of techniques for data cleaning in python data

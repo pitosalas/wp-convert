@@ -6,7 +6,6 @@ link: "https://onezero.medium.com/the-largely-untold-story-of-how-one-guy-in-cal
 cover: "https://miro.medium.com/max/1200/1*aefn-nN0XjVgG-0L9MRi-Q.jpeg" 
 date: 2022-11-13
 tags:
-    - daniel rosehill
     - medium
 ---
 <img class="cover" src=https://miro.medium.com/max/1200/1*aefn-nN0XjVgG-0L9MRi-Q.jpeg>

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-05-27
 ---
 
-
-
 I just came across [Dave Dupre's blog](<http://davedupre.com>). Some good
 reading there, for example:
 

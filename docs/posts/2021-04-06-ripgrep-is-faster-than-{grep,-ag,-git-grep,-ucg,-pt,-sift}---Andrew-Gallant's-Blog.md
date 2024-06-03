@@ -6,7 +6,7 @@ link: "https://blog.burntsushi.net/ripgrep"
 cover: "https://rdl.ink/render/https%3A%2F%2Fblog.burntsushi.net%2Fripgrep" 
 date: 2021-04-06
 tags:
-    - cli grep
+    - grep
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fblog.burntsushi.net%2Fripgrep>
 

@@ -10,6 +10,7 @@ tags:
     - library
     - package
     - google-maps
+    - python-package
 ---
 <img class="cover" src=https://miro.medium.com/max/1200/1*FIYVG7jKknCncAkIJLAIRQ.jpeg>
 

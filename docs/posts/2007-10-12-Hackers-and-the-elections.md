@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-10-12
 ---
 
-
-
 In [New Scientist Tech](<http://technology.newscientist.com/home.ns>), an
 interesting article about [hackers and the
 elections](<http://technology.newscientist.com/article/dn12754-hackers-could-

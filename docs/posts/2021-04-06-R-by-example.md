@@ -7,6 +7,7 @@ cover: "https://rdl.ink/render/http%3A%2F%2Fwww.mayin.org%2Fajayshah%2FKB%2FR%2F
 date: 2021-04-06
 tags:
     - statistics r reference programming
+    - example
 ---
 <img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.mayin.org%2Fajayshah%2FKB%2FR%2Findex.html>
 

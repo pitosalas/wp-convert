@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2009-08-18
 ---
 
-
-
 Did you think you pay a lot for cellphone coverage? An [article in the Globe
 and Mail about cellphone
 rates](<http://www.theglobeandmail.com/news/technology/canadas-cellphone-

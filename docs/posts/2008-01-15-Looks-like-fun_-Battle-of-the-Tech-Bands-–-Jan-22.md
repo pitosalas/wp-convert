@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-01-15
 ---
 
-
-
 ![](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-
 content/uploads/imagewell/battle_640.jpg?w=584)  
 I just came across this announcement for the ['Battle of the Tech

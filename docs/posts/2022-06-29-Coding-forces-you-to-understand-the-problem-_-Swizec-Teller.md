@@ -7,8 +7,9 @@ cover: "https://swizec.com/social-cards/coding-forces-you-to-understand-the-prob
 date: 2022-06-29
 tags:
     - coding
-    - learning
     - programming
+    - learn
+    - programming-language
 ---
 <img class="cover" src=https://swizec.com/social-cards/coding-forces-you-to-understand-the-problem.png>
 

@@ -10,6 +10,7 @@ tags:
     - fiducials
     - demo
     - howto
+    - ubiquity-robotics
 ---
 <img class="cover" src=https://ubiquityrobotics.github.io/learn/assets/fiducial.png>
 

@@ -4,11 +4,8 @@ author: Pito Salas
 date: 2004-12-02
 ---
 
-
->>
-
->> Seems like a dredged up some "old" (you know who you are) **Improv fans**
-with [my earlier posting](</weblogs/archives/000522.html>), so I thought an
+Seems like a dredged up some "old" (you know who you are) **Improv fans** with
+[my earlier posting](</weblogs/archives/000522.html>), so I thought an
 additional comment or two might be in order.
 
 >>
@@ -20,7 +17,7 @@ was not successful, as a product.
 
 >>
 
->> The concept of an alternative ( **not** replacement) for a spreadsheet for
+>> The concept of an alternative (**not** replacement) for a spreadsheet for
 real financial modeling is, I think, quite sound. (Yes, I can do page layout
 in Microsoft Word, but if that's my purpose, PageMaker is better. You could
 make an analogous point about PowerPoint and PhotoShop.)

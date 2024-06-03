@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-11-18
 ---
 
-
-
   * [harelba/q](<https://github.com/harelba/q>)
 
 Under the right circumstances this is an amazingly useful tool

@@ -4,11 +4,8 @@ author: Pito Salas
 date: 2004-08-13
 ---
 
-
->>
-
->> As you know, [I am quite impressed with Microsoft's ability to build and
-ship and deploy and sell and support software at an absolutely mass
+As you know, [I am quite impressed with Microsoft's ability to build and ship
+and deploy and sell and support software at an absolutely mass
 scale.](</weblogs/archives/000475.html>)
 
 >>
@@ -30,7 +27,7 @@ and which caused the upgrade to try to unwind itself.
 
 >>
 
->> Up to a point when one of those famous " **about to install unsigned
+>> Up to a point when one of those famous "**about to install unsigned
 software, do you want to proceed** " messages that [I love so
 much](</weblogs/archives/000460.html>) came up, quite unexpectedly. Being
 suspicious of what might be going on, I said "no." _Everything seemed fine._
@@ -52,7 +49,7 @@ not the only one. [And Microsoft, God Bless em, had a technote
 ](<http://support.microsoft.com/default.aspx?scid=kb;en-us;875355>)that took
 me through a tortured process of cutting 8 floppies, booting of of them into
 the "Recovery Console", lighting some incese, and following a bunch of steps.
-And yes, I am back up again, **without SP2 installed.**
+And yes, I am back up again,**without SP2 installed.**
 
 >>
 

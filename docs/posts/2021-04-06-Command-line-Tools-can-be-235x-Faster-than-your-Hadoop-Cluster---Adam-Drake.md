@@ -6,7 +6,7 @@ link: "https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-had
 cover: "https://adamdrake.com/static/images/twitter-card.jpg" 
 date: 2021-04-06
 tags:
-    - cli hadoop tools
+    - tool
 ---
 <img class="cover" src=https://adamdrake.com/static/images/twitter-card.jpg>
 

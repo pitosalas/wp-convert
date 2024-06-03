@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-01-10
 ---
 
-
-
 ![iLike iTunes
 ](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-
 content/uploads/imagewell//ilikesex.jpg?w=584)iLike is this really cool,

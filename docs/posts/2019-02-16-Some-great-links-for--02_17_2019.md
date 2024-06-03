@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-02-16
 ---
 
-
-
   * [Opinion | No, You Can’t Ignore Email. It’s Rude.](<https://nyti.ms/2EcopxB?smid=nytcore-ios-share>)
 
 True statement about emails. I agree although I know some people who

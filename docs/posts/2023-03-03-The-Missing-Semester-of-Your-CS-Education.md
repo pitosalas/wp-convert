@@ -7,10 +7,10 @@ cover: "https://rdl.ink/render/https%3A%2F%2Fmissing.csail.mit.edu%2F%3Futm_sour
 date: 2023-03-03
 tags:
     - education
-    - computer-science
     - software-engineering
     - explainer
     - course
+    - computerscience
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fmissing.csail.mit.edu%2F%3Futm_source%3Dhackernewsletter%26utm_medium%3Demail%26utm_term%3Dfav>
 

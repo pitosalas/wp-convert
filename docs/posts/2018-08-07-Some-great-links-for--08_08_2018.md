@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-08-07
 ---
 
-
-
   * [Javalin - A lightweight Java and Kotlin web framework](<https://javalin.io>)
 
 tags: [kotlin](<https://www.diigo.com/user/pitosalas/kotlin>)

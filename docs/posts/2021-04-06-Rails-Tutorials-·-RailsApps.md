@@ -7,6 +7,9 @@ cover: "https://rdl.ink/render/https%3A%2F%2Ftutorials.railsapps.org%2Fplan%2Fho
 date: 2021-04-06
 tags:
     - rails education tutorials
+    - tutorial
+    - rails
+    - ruby
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Ftutorials.railsapps.org%2Fplan%2Fhobo%3Fopt_in%3Dfalse>
 

@@ -9,16 +9,11 @@ tags:
     - wall-street
 ---
 
-
-
 A fascinating although quite long article by Michael Lewis in Vanity Fair.
 Michael Lewis is an amazing non-fiction writer, best known to me for Moneyball
 (about baseball) and Liars Poker (about Wall Street.)
 
-[Michael Lewis: Did Goldman Sachs Overstep in Criminally Charging Its Ex-
-Programmer? | Vanity
-Fair](<http://www.vanityfair.com/business/2013/09/michael-lewis-goldman-sachs-
-programmer>):
+[Michael Lewis: Did Goldman Sachs Overstep in Criminally Charging Its Ex-Programmer? | Vanity Fair](<http://www.vanityfair.com/business/2013/09/michael-lewis-goldman-sachs-programmer>):
 
 > A month after ace programmer Sergey Aleynikov left Goldman Sachs, he was
 > arrested. Exactly what he'd done neither the F.B.I., which interrogated him,

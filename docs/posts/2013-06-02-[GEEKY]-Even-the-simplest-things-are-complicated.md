@@ -10,8 +10,6 @@ tags:
     - patents
 ---
 
-
-
 I love this article revealing the beautiful hidden complexity of the lowly
 magsafe connector.
 

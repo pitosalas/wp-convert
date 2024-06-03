@@ -8,9 +8,9 @@ date: 2023-02-20
 tags:
     - ai
     - transformers
-    - neural-networks
     - index
     - list
+    - neural-net
 ---
 <img class="cover" src=https://amatriain.net/blog/images/02-01.jpeg>
 

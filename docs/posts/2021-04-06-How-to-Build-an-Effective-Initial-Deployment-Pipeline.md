@@ -7,6 +7,7 @@ cover: "https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_fi
 date: 2021-04-06
 tags:
     - deployment devops cd ci pipeline
+    - scale deploy build rails docker howto
 ---
 <img class="cover" src=https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/16009/effective-ci-cd-deployment-pipeline-e098f13dc711e7301d2b8988358fff67.png>
 

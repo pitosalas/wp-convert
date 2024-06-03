@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2022-03-13
 ---
 
-
-
 [ GitHub - TomWright/dasel: Select, put and delete data from JSON, TOML, YAML,
 XML and CSV files with a single tool. Supports conversion between formats and
 can be used as a Go package.](<https://github.com/TomWright/dasel>)

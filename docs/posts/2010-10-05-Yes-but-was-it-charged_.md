@@ -4,11 +4,9 @@ author: Pito Salas
 date: 2010-10-05
 ---
 
-
-
 Check out [Actor Tony Curtis Was Buried With His
 iPhone](<http://www.iphonedownloadblog.com/2010/10/04/actor-tony-curtis-was-
-buried-with-his-iphone/>)( **from** [iPhone Download
+buried-with-his-iphone/>)(**from** [iPhone Download
 Blog](<http://www.iphonedownloadblog.com/feed/>):
 
 > "

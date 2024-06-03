@@ -7,9 +7,8 @@ cover: "https://avatars.githubusercontent.com/u/51121562?s=400&v=4"
 date: 2021-04-06
 tags:
     - api
-    - websrvices
     - directory
-    - api howto list
+    - howto
 ---
 <img class="cover" src=https://avatars.githubusercontent.com/u/51121562?s=400&v=4>
 

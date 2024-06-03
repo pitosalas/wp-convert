@@ -7,8 +7,6 @@ tags:
     - safari
 ---
 
-
-
 Just reaching out you mac experts. I used to think I was one, but this one has
 me stumped.
 

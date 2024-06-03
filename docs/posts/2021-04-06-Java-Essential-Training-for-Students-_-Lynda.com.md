@@ -7,6 +7,7 @@ cover: "https://cdn.lynda.com/video/415233-29-636280666739559084_315x560_thumb.j
 date: 2021-04-06
 tags:
     - Java
+    - tutorial
 ---
 <img class="cover" src=https://cdn.lynda.com/video/415233-29-636280666739559084_315x560_thumb.jpg>
 

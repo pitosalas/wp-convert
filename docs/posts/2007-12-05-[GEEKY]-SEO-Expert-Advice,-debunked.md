@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-12-05
 ---
 
-
-
 Search Engine Optimization is a weird wacky world with experts, oracles,
 analysis, opinion and superstition. If you are into it, here's a l[ook at how
 complex and intricate SEO

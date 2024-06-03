@@ -13,7 +13,6 @@ tags:
     - listing
     - shopping
     - compare
-    - comparison
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.m43lenses.com%2F>
 

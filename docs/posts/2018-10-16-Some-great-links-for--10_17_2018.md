@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-10-16
 ---
 
-
-
   * [alexmojaki/birdseye](<https://github.com/alexmojaki/birdseye>)
 
 This looks amazing, for teaching.

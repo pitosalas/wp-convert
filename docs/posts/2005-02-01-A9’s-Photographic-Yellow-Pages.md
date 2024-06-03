@@ -11,10 +11,7 @@ about this, so I won't repeat except to relate my experience in setting up a
 breakfast with a friend of mine. [Here is the link I sent him (so now you know
 where, but you don't know
 when!)](<http://www.amazon.com/gp/yp/B0003GKFQK/002-5349435-1904851?>)!
-
->>
-
->> Amusing to see the photo and the map of the place, isn't it?
+Amusing to see the photo and the map of the place, isn't it?
 
 
 * **Link to site:** **[A9’s Photographic Yellow Pages](None)**

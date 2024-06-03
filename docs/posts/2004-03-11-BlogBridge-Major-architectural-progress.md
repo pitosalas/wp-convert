@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2004-03-11
 ---
 
-
->>
-
->> We made some major new progress since the last update.
+We made some major new progress since the last update.
 
 >>
 

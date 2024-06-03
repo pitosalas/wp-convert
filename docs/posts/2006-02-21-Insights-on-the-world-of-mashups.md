@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2006-02-21
 ---
 
-
->>
-
->> [Adam Green](<//www.darwinianweb.com/>) has two very insightful posts about
+[Adam Green](<//www.darwinianweb.com/>) has two very insightful posts about
 Mashups inspired at [Mashup Camp](<http://www.mashupcamp.com/>):
 
 >>
@@ -32,22 +29,15 @@ country" (from "[Who pays whom](<http://mashup.darwinianweb.com/>)?")
 >>
 
 >> [Read them](<http://mashup.darwinianweb.com/archive/2006/25.html>)
-[both](<http://mashup.darwinianweb.com/>). Good stuff.
-
->>
-
->> By the way this stuff is somewhat relevant to
-[BlogBridge](<http://www.blogbridge.com/>), even though it's [not your
-conventional
+[both](<http://mashup.darwinianweb.com/>). Good stuff.  By the way this stuff
+is somewhat relevant to [BlogBridge](<http://www.blogbridge.com/>), even
+though it's [not your conventional
 mashup](<http://www.blogbridge.com/archives/2006/01/blogbridge_as_a.php>), if
 you think about it BlogBridge, and it's relationship to the BlogBridge
 Service, and other services such as del.icio.us and Technorati raise [very
 similar
 questions.](<http://www.blogbridge.com/archives/2006/01/blogbridge_as_a.php>)
-
->>
-
->> Technorati Tags: [mashup](<http://www.technorati.com/tag/mashup>),
+Technorati Tags: [mashup](<http://www.technorati.com/tag/mashup>),
 [mashupcamp](<http://www.technorati.com/tag/mashupcamp>)
 
 

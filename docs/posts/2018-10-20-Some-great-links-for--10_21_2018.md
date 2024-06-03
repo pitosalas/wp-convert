@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-10-20
 ---
 
-
-
   * [A collection of awesome Ruby libraries, tools, frameworks and software](<https://github.com/markets/awesome-ruby>)
 
 Always looking for the best possible rub tools? Here you go!

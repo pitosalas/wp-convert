@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2010-06-24
 ---
 
-
-
 I don't know yet whether I agree with or disagree with what is said in "[REST
 Security (or lack
 thereof)](<http://1raindrop.typepad.com/1_raindrop/2006/12/rest_security_o.html>)"

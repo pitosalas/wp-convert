@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-01-07
 ---
 
-
-
 A lot has been written about electronic voting machines and their
 vulnerabilities.
 

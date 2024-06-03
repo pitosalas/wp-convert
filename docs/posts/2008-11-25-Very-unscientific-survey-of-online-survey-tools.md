@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-11-25
 ---
 
-
-
 Because of a couple of projects that I am working on, I thought I might be
 able to use some tool for an online survey. I have two particular
 requirements:

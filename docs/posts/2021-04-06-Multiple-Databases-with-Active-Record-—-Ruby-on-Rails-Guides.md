@@ -10,7 +10,7 @@ tags:
     - database
     - scaling
     - performance
-    - activrecord
+    - active-record
 ---
 <img class="cover" src=https://avatars.githubusercontent.com/u/4223>
 

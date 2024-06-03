@@ -7,7 +7,6 @@ cover: "https://samwho.dev/images/samwho-2018-profile.png"
 date: 2023-05-22
 tags:
     - malloc
-    - c
     - tutorial
     - explainer
     - best-bet

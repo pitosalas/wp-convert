@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2005-06-04
 ---
 
-
->>
-
->> Another neat link I was shown:
+Another neat link I was shown:
 
 >>
 

@@ -11,6 +11,7 @@ tags:
     - kernel
     - course
     - education
+    - tutorial
 ---
 <img class="cover" src=https://img-c.udemycdn.com/course/480x270/3721456_d2e9.jpg>
 

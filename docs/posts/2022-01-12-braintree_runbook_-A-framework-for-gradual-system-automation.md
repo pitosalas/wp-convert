@@ -8,8 +8,8 @@ date: 2022-01-12
 tags:
     - automation
     - devops
-    - tools
     - howto
+    - tool
 ---
 <img class="cover" src=https://opengraph.githubassets.com/38cb0314dab9103129e7616c4e89159f307ff3e8786092f6d04a7d4b1a7a6ad7/braintree/runbook>
 

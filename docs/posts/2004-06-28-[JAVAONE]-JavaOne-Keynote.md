@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2004-06-28
 ---
 
-
->>
-
->> As you know I am attending the JavaOne conference. I jotted down my key
+As you know I am attending the JavaOne conference. I jotted down my key
 takeaways during the keynote for myself, which I thought I’d share here. The
 keynote featured several Sun execs, particularly Jonathan Schwarts, their
 President and COO.

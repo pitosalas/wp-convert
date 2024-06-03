@@ -5,6 +5,9 @@ url: "https://github.com/tmm1/perftools.rb"
 link: "https://github.com/tmm1/perftools.rb" 
 cover: "https://avatars.githubusercontent.com/u/2567?s=400&v=4" 
 date: 2021-04-06
+tags:
+    - tips
+    - howto
 ---
 <img class="cover" src=https://avatars.githubusercontent.com/u/2567?s=400&v=4>
 

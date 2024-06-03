@@ -5,8 +5,6 @@ url: "https://ngrok.com/pricing"
 link: "https://ngrok.com/pricing" 
 cover: "https://rdl.ink/render/https%3A%2F%2Fngrok.com%2Fpricing" 
 date: 2021-04-06
-tags:
-    - web rails server
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fngrok.com%2Fpricing>
 

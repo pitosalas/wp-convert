@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2005-05-23
 ---
 
-
->>
-
->> Nothing to add:
+Nothing to add:
 
 >>
 

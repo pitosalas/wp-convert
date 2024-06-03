@@ -10,7 +10,6 @@ tags:
     - computer-vision
     - ai
     - camera
-    - ai camera
     - huskylens
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.dfrobot.com%2Fproduct-1922.html>

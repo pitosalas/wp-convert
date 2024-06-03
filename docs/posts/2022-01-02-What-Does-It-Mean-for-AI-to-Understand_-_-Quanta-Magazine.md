@@ -11,6 +11,7 @@ tags:
     - turing-test
     - quants
     - cooltool
+    - artificial-intelligence
 ---
 <img class="cover" src=https://d2r55xnwy6nx47.cloudfront.net/uploads/2021/12/AI-Understanding_1200_social.jpg>
 

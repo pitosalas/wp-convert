@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2022-03-13
 ---
 
-
-
 [ YOLO object detection with OpenCV -
 PyImageSearc](<https://pyimagesearch.com/2018/11/12/yolo-object-detection-
 with-opencv/>)

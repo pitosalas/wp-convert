@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-08-25
 ---
 
-
-
   * [4 Rules for Intuitive UX – Learn UI Design](<https://learnui.design/blog/4-rules-intuitive-ux.html>)
 
 Fantastic set of really low hanging fruit UI rules. Stuff that anyone can

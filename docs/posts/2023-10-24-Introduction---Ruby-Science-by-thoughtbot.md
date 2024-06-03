@@ -9,8 +9,8 @@ tags:
     - ruby
     - howto
     - best-bet
-    - patterns
     - software-engineering
+    - pattern
 ---
 <img class="cover" src=https://thoughtbot.com/social/social-media-banner-generic.png>
 

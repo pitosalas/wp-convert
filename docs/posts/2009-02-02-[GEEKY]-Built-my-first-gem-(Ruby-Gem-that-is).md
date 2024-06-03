@@ -14,8 +14,6 @@ tags:
     - time
 ---
 
-
-
 I've gotten interested in what is going on in the public sector, in particular
 in the world of non profits. I've learned a lot, met many people and been
 trying to define a project that would at the same time do something to better

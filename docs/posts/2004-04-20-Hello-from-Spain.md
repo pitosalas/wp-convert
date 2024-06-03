@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2004-04-20
 ---
 
-
->>
-
->> Geeking out from an Internet Cafe in Granada, Spain. We´re here for a short
+Geeking out from an Internet Cafe in Granada, Spain. We´re here for a short
 vacation, and we have a little time to kill this afternoon so I thought I´d
 quickly post an update for those of you who know (or care) that we are away.
 Granada is a nice little town in Southern Spain, with a Moorish or Middle

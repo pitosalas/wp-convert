@@ -4,12 +4,11 @@ author: Pito Salas
 date: 2006-11-29
 ---
 
+Some clever scientists are trying to measure how fast meme's travel on the
+web. My contribution to the experiment is to [add a link to their article to
+my
+article.](<http://acephalous.typepad.com/acephalous/2006/11/measuring_the_s.html>)
 
->
-> Some clever scientists are trying to measure how fast meme's travel on the
-> web. My contribution to the experiment is to [add a link to their article to
-> my
-> article.](<http://acephalous.typepad.com/acephalous/2006/11/measuring_the_s.html>)
 >
 > What's a meme, anyway? Think of ideas as little organisms that live in a
 > person's mind (metaphorically.) And think of how good, meaningful ideas will

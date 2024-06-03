@@ -11,8 +11,7 @@ tags:
     - sheets
     - google
     - arrays
-    - sumproduct
-    - functions callbacks promises JavaScript
+    - promises
 ---
 <img class="cover" src=https://support.content.office.net/en-us/media/1acbe524-c074-46da-9707-ef3f8ffb84ba.jpg>
 

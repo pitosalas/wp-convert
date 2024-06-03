@@ -6,7 +6,7 @@ link: "http://www.businessinsider.com/bitcoin-developer-responds-to-mtgox-2014-2
 cover: "https://www.businessinsider.com/public/assets/BI/US/og-image-logo-social.png" 
 date: 2021-04-06
 tags:
-    - bitcoin security cryptography
+    - bitcoin
 ---
 <img class="cover" src=https://www.businessinsider.com/public/assets/BI/US/og-image-logo-social.png>
 

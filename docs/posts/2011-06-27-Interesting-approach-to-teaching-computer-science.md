@@ -8,8 +8,6 @@ tags:
     - university
 ---
 
-
-
 Fun article about Ben Hescott who has some unique - and **impressive** -
 approaches to teaching an abstract topic:
 
@@ -19,7 +17,7 @@ approaches to teaching an abstract topic:
 > kept saying, "I don't see it.'' So I turned off the computer, grabbed a
 > piece of chalk, and went through the material slowly on the blackboard,
 > without notes. Afterward, the kid said, "You're a really good teacher when
-> you're not using PowerPoint.'' That changed everything." ( **from** [The
+> you're not using PowerPoint.'' That changed everything." (**from** [The
 > Boston
 > Globe](<http://articles.boston.com/2011-06-14/news/29657519_1_teaching-
 > moment-computer-giggle>))

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-11-22
 ---
 
-
-
 Check out [this post](<http://blog.payne.org/2007/11/15/involuntary-test-of-
 time-machine/>) from [blog.payne.org](<http://blog.payne.org>):
 

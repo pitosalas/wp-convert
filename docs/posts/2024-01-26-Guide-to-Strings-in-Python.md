@@ -11,6 +11,7 @@ tags:
     - howto
     - code
     - explainer
+    - f-strings
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fstackabuse.com%2Fguide-to-strings-in-python%2F>
 

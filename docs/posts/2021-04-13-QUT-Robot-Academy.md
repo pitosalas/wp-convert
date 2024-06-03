@@ -12,6 +12,9 @@ tags:
     - online
     - video
     - howto
+    - robot
+    - robot-kit
+    - robots
 ---
 <img class="cover" src=https://robotacademy.net.au/wp-content/uploads/2017/05/OG-Image-main.jpg>
 

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2010-02-21
 ---
 
-
-
 I came across [VentureFizz](<http://venturefizz.com/>). It's a broad resource
 for Boston area techies: "[VentureFizz can help you see what's buzzing in
 Boston's tech community](<http://venturefizz.com/>)" Particularly useful is

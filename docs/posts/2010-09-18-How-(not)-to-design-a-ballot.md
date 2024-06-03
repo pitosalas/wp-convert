@@ -8,8 +8,6 @@ tags:
     - election-tags
 ---
 
-
-
 My head is full of democracy and elections these days. How come, you ask? Well
 for the last year or so I've been working for the Open Source Digital Voting
 Foundation, on elections technology. This month's focus is generating ballots

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-12-16
 ---
 
-
-
   * [The Lesson to Unlearn](<http://paulgraham.com/lesson.html>)
 
 "The most damaging thing you learned in school wasn't something you learned in

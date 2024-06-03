@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-11-13
 ---
 
-
-
   * [PathFinding.js](<https://qiao.github.io/PathFinding.js/visual/>)
 
 A fantastic visualization of various path finding algorithms

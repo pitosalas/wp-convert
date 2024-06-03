@@ -9,8 +9,6 @@ tags:
     - opensource
 ---
 
-
-
 [ GitHub Copilot investigation · Joseph Saveri Law Firm & Matthew Butterick](<
 https://githubcopilotinvestigation.com/>) –Very interesting review of github
 copilot, open source and the law.

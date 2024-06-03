@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2022-04-14
 ---
 
-
-
 [ myAGV - Mecanum wheels Lidar High-precision camera
 carkit](<https://shop.elephantrobotics.com/products/myagv?variant=39485298835542>)
 

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-08-14
 ---
 
-
-
 Check out the [latest summary of amazing feats
 ](<http://www.blogbridge.com/products-services/blogbridge/visual-tour/>)by
 BlogBridge. I don't want to be too cheeky, but there are some pretty cool

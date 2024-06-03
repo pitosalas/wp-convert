@@ -9,8 +9,6 @@ tags:
     - sproutcore
 ---
 
-
-
 [Sproutcore](<http://www.sproutcore.com/about/>) is a JavaScript framework for
 writing powerful web applications with less code. It looks to me as a way to
 write a lot more of your application in JavaScript running in the browser. And

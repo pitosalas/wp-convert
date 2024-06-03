@@ -6,7 +6,9 @@ link: "http://www.dreamstime.com"
 cover: "" 
 date: 2021-04-06
 tags:
-    - photography stockphotos image
+    - photography
+    - image
+    - frames
 ---
 <img class="cover" src=>
 

@@ -9,8 +9,6 @@ tags:
     - startup
 ---
 
-
-
 I always thought that startups are over glamorized. They are not for everyone.
 On the other hand, some people also over stress about the 'risk' of joining a
 startup, which I don't by either. Check out: [Alex Payne -- Letter To A Young

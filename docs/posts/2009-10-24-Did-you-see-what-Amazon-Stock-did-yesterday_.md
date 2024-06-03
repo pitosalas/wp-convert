@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2009-10-24
 ---
 
-
-
 I have believed that Amazon is a much bigger deal than people realize. Not
 only are they the ultimate retailer that seem to have everything, at better
 prices, more conveniently offered, than anyone else, but, the technology (in

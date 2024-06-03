@@ -6,10 +6,7 @@ tags:
     - food
 ---
 
-
-
-[ Grilling Food & Grilling Tips | Kingsford |
-Kingsford®](<https://www.kingsford.com/how-to-food/>)
+[ Grilling Food & Grilling Tips | Kingsford | Kingsford®](<https://www.kingsford.com/how-to-food/>)
 
 Find out what\'s the best way to charcoal grill and smoke your favorite cuts
 of meat, fish, and veggies.

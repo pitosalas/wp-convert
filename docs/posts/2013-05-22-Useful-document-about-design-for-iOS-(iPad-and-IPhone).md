@@ -6,8 +6,6 @@ tags:
     - ios-iphon-tage-ipad-user-interface
 ---
 
-
-
 [Starters Guide to iOS Design](<http://taybenlor.com/2013/05/21/designing-for-
 ios.html>):
 

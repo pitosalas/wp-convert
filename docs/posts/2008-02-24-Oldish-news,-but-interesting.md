@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-02-24
 ---
 
-
-
 I came across this note that the fairly famous spat between Apple Gossip site
 Think Secret and Apple Inc. has been settled:
 

@@ -8,8 +8,6 @@ tags:
     - zappos
 ---
 
-
-
 I don't own or buy many shoes. Recently I needed to replace a shoe and visited
 my previously favorite shoe store, twice (they had to get the right size from
 the other store, or something…) but left not satisfied. This is a really good

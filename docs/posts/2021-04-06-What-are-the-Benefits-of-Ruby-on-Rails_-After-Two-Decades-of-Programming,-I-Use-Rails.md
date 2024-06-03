@@ -7,6 +7,8 @@ cover: "https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_fi
 date: 2021-04-06
 tags:
     - tips
+    - rails
+    - rails ruby
 ---
 <img class="cover" src=https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/16954/default-social-8-96d057f8e815a2ed90ed7e8808a2c7e3.png>
 

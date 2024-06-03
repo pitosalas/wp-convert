@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-08-24
 ---
 
-
-
   * [The GVL and C Extensions - a cooperative partnership](<https://mailchi.mp/railsspeed/the-gvl-and-c-extensions-a-cooperative-partnership?e=5a26f26f7d>)
 
 very interesting way to embed C in ruby, if you’re into that kind of thing!

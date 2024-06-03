@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-10-19
 ---
 
-
-
   * [Minitest Tutorial: Getting Started with Minitest | Codeship | via @codeship](<https://blog.codeship.com/getting-started-with-minitest/>)
 
 Lots of great details about using Minitest I prefer minitest/spec.

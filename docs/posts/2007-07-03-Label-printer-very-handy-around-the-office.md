@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-07-03
 ---
 
-
-
 A few years ago I got the idea to get myself a [label
 printer](<http://en.wikipedia.org/wiki/Label_printer>) for around the office.
 Turns out that it's been really really handy.

@@ -7,8 +7,6 @@ tags:
     - econ-tagomy
 ---
 
-
-
 [Kirk McDonald: Sorry, College Grads, I Probably Won't Hire You -
 WSJ.com](<http://online.wsj.com/article/SB10001424127887323744604578470900844821388.html?mod=itp>):
 

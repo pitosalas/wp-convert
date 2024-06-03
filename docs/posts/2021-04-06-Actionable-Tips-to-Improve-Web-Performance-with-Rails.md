@@ -6,7 +6,7 @@ link: "https://www.monterail.com/blog/actionable-tips-to-improve-web-performance
 cover: "https://www.monterail.com/hubfs/webperformance.png#keepProtocol" 
 date: 2021-04-06
 tags:
-    - web performance rails
+    - rails performance
 ---
 <img class="cover" src=https://www.monterail.com/hubfs/webperformance.png#keepProtocol>
 

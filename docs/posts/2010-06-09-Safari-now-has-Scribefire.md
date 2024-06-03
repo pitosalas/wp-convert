@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2010-06-09
 ---
 
-
-
 Yay! One reason holding me to using FireFox on Mac was that I rely heavily on
 [Scribefire](<http://www.scribefire.com/2010/06/07/scribefire-and-safari-
 sitting-in-a-tree/>) which was not really working on Safari. I am using it now

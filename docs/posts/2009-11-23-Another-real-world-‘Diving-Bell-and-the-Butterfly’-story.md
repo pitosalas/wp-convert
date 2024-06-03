@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2009-11-23
 ---
 
-
-
 Did you read the book ["The Diving Bell and The
 Butterfly"](<http://www.amazon.com/Diving-Bell-Butterfly-Memoir-
 Death/dp/0375701214>)? Or see the movie? It's quite an amazing story of a man
@@ -23,7 +21,7 @@ that occurred in Brussels. From the article:
 > "You have to imagine yourself lying in bed wanting to speak and move but
 > unable to do so — while in your head you are OK," Vanhaudenhuyse said. "It
 > was extremely difficult for him and he showed a lot of anger, which is
-> normal since he was very frustrated," she said.' ( **from** "[Son In Coma
+> normal since he was very frustrated," she said.' (**from** "[Son In Coma
 > Heard Everything for 23
 > Years](<http://news.yahoo.com/s/ap/20091123/ap_on_he_me/eu_belgium_coma_recovery>)")
 

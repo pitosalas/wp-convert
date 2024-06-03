@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-10-05
 ---
 
-
-
   * [ngrok - secure introspectable tunnels to localhost](<https://ngrok.com/pricing>)
 
 This looks like an amazing tool to surface a local server on the open web. I

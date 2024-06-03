@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-03-16
 ---
 
-
-
 Useful and interesting information from Google for Webmasters. Chec out [this
 post](<http://googlesystem.blogspot.com/2007/03/most-popular-anchor-texts-for-
 your-site.html>) from [Google Operating

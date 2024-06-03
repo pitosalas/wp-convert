@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-02-05
 ---
 
-
-
 I was going to wait until I had read each of these great articles that all won
 the ["Sidney
 Awards"](<http://www.nytimes.com/2007/12/25/opinion/25brooks.html?_r=1&ref=opinion&oref=slogin>

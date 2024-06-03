@@ -6,11 +6,11 @@ link: "https://www.nature.com/articles/d41586-023-00056-7?utm_source=Nature+Brie
 cover: "https://media.nature.com/lw1024/magazine-assets/d41586-023-00056-7/d41586-023-00056-7_23914468.jpg" 
 date: 2023-01-13
 tags:
-    - ChatGPT
     - explainer
     - science
     - journal
     - writing
+    - chat-gpt
 ---
 <img class="cover" src=https://media.nature.com/lw1024/magazine-assets/d41586-023-00056-7/d41586-023-00056-7_23914468.jpg>
 

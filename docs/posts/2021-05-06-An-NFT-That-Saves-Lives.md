@@ -6,9 +6,9 @@ link: "http://paulgraham.com/nft.html"
 cover: "https://rdl.ink/render/http%3A%2F%2Fpaulgraham.com%2Fnft.html" 
 date: 2021-05-06
 tags:
-    - lives
     - nft
     - paulgraham
+    - life
 ---
 <img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fpaulgraham.com%2Fnft.html>
 

@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2005-09-13
 ---
 
-
->>
-
->> This is from a dictionary:
+This is from a dictionary:
 
 >>
 

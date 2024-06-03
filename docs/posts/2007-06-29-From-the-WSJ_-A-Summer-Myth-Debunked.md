@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-06-29
 ---
 
-
-
 Check out [this
 post](<http://feeds.wsjonline.com/~r/wsj/health/feed/~3/128465127/>) from
 [WSJ.com: Health Blog](<http://blogs.wsj.com/health>):

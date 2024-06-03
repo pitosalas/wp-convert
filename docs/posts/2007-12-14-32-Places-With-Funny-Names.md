@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-12-14
 ---
 
-
-
 I discovered a new funny blog: it's the List of Lists blog. For example, check
 out [this post](<http://www.alistoflists.com/places-events/32-places-with-
 funny-names>) from [A List of Lists](<http://www.alistoflists.com>):

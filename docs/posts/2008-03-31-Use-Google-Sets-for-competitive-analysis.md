@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-03-31
 ---
 
-
-
 I bet you've not heard of another crazy-cool service from Google, Google Sets.
 I first read about Google Sets some months ago but didn't bother looking until
 today, Sunday, when i saw this interesting article about [Google Set's

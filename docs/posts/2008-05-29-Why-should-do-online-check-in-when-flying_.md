@@ -6,8 +6,6 @@ tags:
     - airlines-travel-checkin
 ---
 
-
-
 This, from American Airlines:
 
 > "Your trip is eligible for check-in now. Save time at the airport and check-

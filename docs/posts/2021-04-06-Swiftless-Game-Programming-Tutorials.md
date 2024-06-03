@@ -5,6 +5,8 @@ url: "http://www.swiftless.com"
 link: "http://www.swiftless.com" 
 cover: "https://rdl.ink/render/http%3A%2F%2Fwww.swiftless.com" 
 date: 2021-04-06
+tags:
+    - tutorial
 ---
 <img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.swiftless.com>
 

@@ -8,8 +8,6 @@ tags:
     - robots
 ---
 
-
-
 I am not being metaphorical, in fact, I am talking about gutters on your roof.
 A few years ago I wasn't regularly cleaning my gutters and had a close call
 with roof leaks when we had an extensive period of rain and freezing that

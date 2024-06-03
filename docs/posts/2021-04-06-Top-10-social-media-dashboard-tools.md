@@ -7,6 +7,7 @@ cover: "https://www.socialbrite.org/wp-content/uploads/2010/11/HootSuite400.jpg"
 date: 2021-04-06
 tags:
     - dashboard
+    - social-media
 ---
 <img class="cover" src=https://www.socialbrite.org/wp-content/uploads/2010/11/HootSuite400.jpg>
 

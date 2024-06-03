@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-08-19
 ---
 
-
-
 Check out [this
 post](<http://jamesfallows.theatlantic.com/archives/2007/08/would_this_have_saved_jfk_jr.php>)
 from [James Fallows](<http://jamesfallows.theatlantic.com/>):

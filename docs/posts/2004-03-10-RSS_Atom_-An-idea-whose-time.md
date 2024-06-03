@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2004-03-10
 ---
 
-
->>
-
->> **RSS/Atom: An idea whose time has come.**[Dave
+**RSS/Atom: An idea whose time has come.**[Dave
 Winer](<http://archive.scripting.com/2004/03/09#rssIsRaging>) is [reaching
 out](<http://blogs.law.harvard.edu/crimson1/2004/03/08#a1243>) to the Atom
 people to try for the grand unification of the two formats. If you look back

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2010-09-20
 ---
 
-
-
 Just go to this link.
 
 [United States Postal Service: Free Shipping

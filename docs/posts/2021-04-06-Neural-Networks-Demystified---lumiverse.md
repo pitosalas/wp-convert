@@ -5,6 +5,8 @@ url: "http://lumiverse.io/series/neural-networks-demystified"
 link: "http://lumiverse.io/series/neural-networks-demystified" 
 cover: "https://lumiverse.io/static/img/lumiverse2.png" 
 date: 2021-04-06
+tags:
+    - artificial-intelligence
 ---
 <img class="cover" src=https://lumiverse.io/static/img/lumiverse2.png>
 

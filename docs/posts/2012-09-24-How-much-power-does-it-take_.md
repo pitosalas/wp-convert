@@ -9,12 +9,10 @@ tags:
     - waste
 ---
 
-
-
 I remember wondering about this when I was in college -- this is before I
 really knew anything about computers.
 
-I noticed that our computer center charged by the **minute of processor time
+I noticed that our computer center charged by the**minute of processor time
 and** it was a lot! I remember people freaking out because their random prime
 number generator ran overnight and the department got billed an unexpected
 $1,000.00. And they were in trouble!
@@ -35,7 +33,7 @@ the hook:
 > a 40-by-60-foot rental space here with racks of computer servers that were
 > needed to store and process information from members’ accounts. The
 > electricity pouring into the computers was overheating Ethernet sockets and
-> other crucial components." ( **from**[New York
+> other crucial components." (**from**[New York
 > Times)](<http://www.nytimes.com/2012/09/23/technology/data-centers-waste-
 > vast-amounts-of-energy-belying-industry-image.html?hp>)
 
@@ -51,7 +49,7 @@ times-story-power-pollution-and-the-internet-is-a-sloppy-failure/>)
 > by the Internet companies. Huan Liu based on an external model, estimates
 > Amazon’s EC2 utilization at 7 to 25 percent. But Amazon, Facebook, and
 > Google, don’t report their utilization rates. It is not accurate to make
-> this implied association." ( **from**
+> this implied association." (**from**
 > [Forbes](<http://www.forbes.com/sites/danwoods/2012/09/23/why-the-new-york-
 > times-story-power-pollution-and-the-internet-is-a-sloppy-failure/>))
 

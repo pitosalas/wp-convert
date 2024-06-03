@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-01-27
 ---
 
-
-
   * [The Cost of Investing Too Heavily in a JavaScript Framework - DEV Community ](<https://dev.to/ryansmith/the-cost-of-investing-too-heavily-in-a-javascript-framework-2121>)
 
 For serious projects, think twice about betting totally on a big heavy

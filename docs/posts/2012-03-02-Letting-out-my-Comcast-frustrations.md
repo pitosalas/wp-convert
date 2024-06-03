@@ -10,8 +10,6 @@ tags:
     - verizon-tag
 ---
 
-
-
 > "Dear Kelley
 >
 > I've had a very bad two days with Comcast, and if you check my account you

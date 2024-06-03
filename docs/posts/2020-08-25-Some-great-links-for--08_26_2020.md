@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-08-25
 ---
 
-
-
   * [ajeetdsouza/zoxide](<https://github.com/ajeetdsouza/zoxide>)
 
 A great new tool!

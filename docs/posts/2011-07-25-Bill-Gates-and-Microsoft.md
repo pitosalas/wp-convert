@@ -7,8 +7,6 @@ tags:
     - microsoft
 ---
 
-
-
 I still **don 't love Microsoft**. I used to, actually, use Windows day in and
 day out, for years. But I am known to **frown** a the thought of sitting down
 and usingn Windows 7 or whatever it's called these days.

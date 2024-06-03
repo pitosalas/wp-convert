@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2010-06-21
 ---
 
-
-
 Right now, take a look at [Tivo's
 Site](<https://www3.tivo.com/store/clearance.do?WT.ac=tivohome_clearancecenter_HD29_content_body>).
 They are 'giving away' refurbished Tivos for $30.00. I just bought one the

@@ -8,9 +8,10 @@ date: 2021-09-02
 tags:
     - rails
     - opensource
-    - examples
-    - gems
     - ruby
+    - example
+    - gem
+    - rails ruby
 ---
 <img class="cover" src=https://opensourcerails.org/android-chrome-512x512.png>
 

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2010-11-12
 ---
 
-
-
 The problem with conferences is knowing what session to go to, right?
 
 Check out this talk called "[ZOMG WHY IS MY CODE SO SLOW? Aaron

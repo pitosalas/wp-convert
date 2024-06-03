@@ -9,7 +9,7 @@ tags:
     - operating-system
     - game
     - teaching
-    - learning
+    - learn
 ---
 <img class="cover" src=https://img.itch.zone/aW1nLzEyOTgzMzY1LnBuZw==/original/Ib6g02.png>
 

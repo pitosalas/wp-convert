@@ -5,6 +5,8 @@ url: "http://www.dataschool.io/15-hours-of-expert-machine-learning-videos"
 link: "http://www.dataschool.io/15-hours-of-expert-machine-learning-videos" 
 cover: "https://rdl.ink/render/http%3A%2F%2Fwww.dataschool.io%2F15-hours-of-expert-machine-learning-videos" 
 date: 2021-04-06
+tags:
+    - tutorial
 ---
 <img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.dataschool.io%2F15-hours-of-expert-machine-learning-videos>
 

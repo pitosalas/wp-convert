@@ -8,9 +8,9 @@ date: 2022-12-05
 tags:
     - mastodon
     - web
-    - web-hook
     - ifttt
     - api
+    - web-hooks
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Falephnaughtpix.github.io%2Fdeadjournal%2F2019%2F12%2F16%2Fhow-to-post-instagram-posts-on-mastodon-using-ifttt.html>
 

@@ -8,8 +8,6 @@ tags:
     - making
 ---
 
-
-
 This bit of advice rings very true to me. Read the whole article, but here's a
 tasty bit.
 

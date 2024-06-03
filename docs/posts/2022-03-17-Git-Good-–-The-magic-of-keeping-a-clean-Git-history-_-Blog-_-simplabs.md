@@ -7,10 +7,7 @@ tags:
     - github
 ---
 
-
-
-[ Git Good - The magic of keeping a clean Git history | Blog |
-simplabs](<https://simplabs.com/blog/2021/05/26/keeping-a-clean-git-history/>)
+[ Git Good - The magic of keeping a clean Git history | Blog | simplabs](<https://simplabs.com/blog/2021/05/26/keeping-a-clean-git-history/>)
 
 This post is designed to help you form a solid mental model while working with
 Git both professionally and in an open source project, and how to ensure you

@@ -7,6 +7,7 @@ cover: "https://res.cloudinary.com/practicaldev/image/fetch/s--T5lLQOxM--/c_imag
 date: 2021-04-06
 tags:
     - services soa docker
+    - scale deploy build rails docker howto
 ---
 <img class="cover" src=https://res.cloudinary.com/practicaldev/image/fetch/s--T5lLQOxM--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/yhvffgr58iy7s3okdqf4.jpg>
 

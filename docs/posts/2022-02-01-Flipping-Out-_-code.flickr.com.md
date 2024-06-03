@@ -11,9 +11,9 @@ tags:
     - feature-switches
     - cosi105
     - software-engineering
-    - engineering
     - howto
     - explainer
+    - engineer
 ---
 <img class="cover" src=https://wp.flickr.net/wp-content/uploads/sites/3/2012/09/code-flickr-com-drawn-header-grey-large.png>
 

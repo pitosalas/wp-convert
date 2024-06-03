@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2010-02-14
 ---
 
-
-
 A [Carrotmob](<http://carrotmob.org/>) is a network of consumers (?) who buy
 products in order to reward businesses who are making the most socially
 responsible decisions.

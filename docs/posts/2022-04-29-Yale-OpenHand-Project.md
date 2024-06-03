@@ -8,7 +8,6 @@ date: 2022-04-29
 tags:
     - robotics
     - gripper
-    - 3d-print
     - howto
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.eng.yale.edu%2Fgrablab%2Fopenhand%2F>

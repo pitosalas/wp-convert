@@ -8,18 +8,16 @@ tags:
     - infringement
 ---
 
-
-
 Check out [Targeted Copyright Enforcement: Deterring Many Users with a Few
 Lawsuits](<http://freedom-to-tinker.com/blog/felten/targeted-copyright-
-enforcement-deterring-many-users-few-lawsuits>)( **from** [Freedom to
+enforcement-deterring-many-users-few-lawsuits>)(**from** [Freedom to
 Tinker](<http://freedom-to-tinker.com/rss.xml>):
 
 > "One reason the record industry's strategy of suing online infringers ran
 > into trouble is that there are too many infringers to sue. If the industry
 > can only sue a tiny fraction of infringers, then any individual infringer
-> will know that he is very unlikely to be sued, and deterrence will fail." (
-> **from:**[Targeted Copyright Enforcement: Deterring Many Users with a Few
+> will know that he is very unlikely to be sued, and deterrence will fail."
+> (**from:**[Targeted Copyright Enforcement: Deterring Many Users with a Few
 > Lawsuits) ](<http://freedom-to-tinker.com/blog/felten/targeted-copyright-
 > enforcement-deterring-many-users-few-lawsuits>)
 

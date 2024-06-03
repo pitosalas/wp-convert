@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-09-05
 ---
 
-
-
 Gizmodo shows the first ad, and even though I love Jerry and like Bill, it,
 indeed, makes no sense.
 

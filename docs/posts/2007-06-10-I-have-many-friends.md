@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-06-10
 ---
 
-
-
 A funny article in the New York Times the other day:
 
 > "[…snap] I HAVE reached a curious point in life. Although I feel like the
@@ -24,7 +22,7 @@ was similar:
 > Shockingly, quite a few of them — the friends, not the daughter — accepted
 > my invitation and gave me access to their Profiles, including their
 > interests, hobbies, school affiliations and in some cases, physical
-> whereabouts. [snap…]" ( **from** '[omg my mom joined
+> whereabouts. [snap…]" (**from** '[omg my mom joined
 > facebook](<http://www.nytimes.com/2007/06/07/fashion/07Cyber.html?_r=1&oref=slogin>)')
 
 I too have many friends on Facebook. I haven't friended my son though…

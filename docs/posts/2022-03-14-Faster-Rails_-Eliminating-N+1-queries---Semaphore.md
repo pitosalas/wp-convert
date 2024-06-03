@@ -7,11 +7,11 @@ cover: "https://wpblog.semaphoreci.com/wp-content/uploads/2017/08/Faster-Rails-E
 date: 2022-03-14
 tags:
     - rails
-    - activerecord
     - performance
     - scale
     - tuning
     - n-plus-one
+    - active-record
 ---
 <img class="cover" src=https://wpblog.semaphoreci.com/wp-content/uploads/2017/08/Faster-Rails-Eliminating-N1-queries.jpg>
 

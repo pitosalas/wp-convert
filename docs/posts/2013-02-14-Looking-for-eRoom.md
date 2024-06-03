@@ -8,8 +8,6 @@ tags:
     - eroom
 ---
 
-
-
 Long time ago I worked at a company called eRoom Technology where we developed
 a product called… eRoom. It was pretty successful and it was bought by a
 company called

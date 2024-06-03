@@ -12,7 +12,7 @@ tags:
     - raspberry-pi
     - code
     - tool
-    - camousrover
+    - campusrover
 ---
 <img class="cover" src=https://opengraph.githubassets.com/5abac2423220552327b527bde73618891aaa62dc0c42a1c2b8845dae29a1e7b6/ggerganov/whisper.cpp>
 

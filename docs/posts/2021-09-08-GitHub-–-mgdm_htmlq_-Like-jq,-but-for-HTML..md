@@ -6,8 +6,6 @@ tags:
     - tool
 ---
 
-
-
 [ GitHub - mgdm/htmlq: Like jq, but for
 HTML.](<https://github.com/mgdm/htmlq>)
 

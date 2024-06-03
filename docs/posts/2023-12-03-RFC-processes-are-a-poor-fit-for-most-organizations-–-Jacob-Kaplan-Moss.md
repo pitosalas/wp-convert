@@ -8,8 +8,6 @@ tags:
     - rfc
 ---
 
-
-
 [ RFC processes are a poor fit for most organizations - Jacob Kaplan-Moss](<
 https://jacobian.org/2023/dec/1/against-rfcs/>) –The RFC process has been a
 huge success in defining the standards that run the Internet, but naively

@@ -7,8 +7,6 @@ tags:
     - performance
 ---
 
-
-
 [ Using ROS on Raspberry Pi: Best Practices - The Robotics Back-
 End](<https://roboticsbackend.com/using-ros-on-raspberry-pi-best-practices/>)
 

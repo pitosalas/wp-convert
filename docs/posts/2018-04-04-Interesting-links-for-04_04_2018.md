@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2018-04-04
 ---
 
-
-
   * [1.10. Decision Trees — scikit-learn 0.19.1 documentation](<http://scikit-learn.org/stable/modules/tree.html>)
 
   * [From Rails to Clojure, then to Java, then back to Rails - Engineering Management](<https://engineering-management.space/post/from-rails-to-clojure-to-java-to-rails/>)

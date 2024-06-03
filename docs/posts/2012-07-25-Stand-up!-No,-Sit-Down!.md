@@ -10,8 +10,6 @@ tags:
     - sitting
 ---
 
-
-
 You know the old joke that today they say something is good for you, tomorrow
 it's bad, and the day after it's good again? Recently there was a lot of press
 that sitting 3 hours a day could take years off your lifespan. "[Sitting for
@@ -21,7 +19,7 @@ Journal:](<http://online.wsj.com/article/SB1000142405270230334340457751685356793
 > "Sitting down for more than three hours a day can shave a person's life
 > expectancy by two years, even if he or she is physically active and refrains
 > from dangerous habits like smoking, according to a study to be published on
-> Tuesday in the online journal BMJ Open." ( **from** [the Wall Street
+> Tuesday in the online journal BMJ Open." (**from** [the Wall Street
 > Journal](<http://online.wsj.com/article/SB10001424052702303343404577516853567934264.html>))
 
 Yeah but I thought: nowadays, a major part of the economy involves sitting for
@@ -48,7 +46,7 @@ a short while later:
 > But that doesn't mean the act of sitting itself is deadly. Instead, it could
 > be that people who spend more time sitting are less healthy to begin with,
 > or that those who sit less are using that time in healthier ways such as
-> exercising." ( **from**[the Wall Street
+> exercising." (**from**[the Wall Street
 > Journal](<http://online.wsj.com/article/SB10000872396390444097904577536880563432896.html?mod=djemnumbers_t>))
 
 Phew. That's a release. I can **sit down again!**

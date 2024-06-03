@@ -7,6 +7,7 @@ cover: "https://cssreference.io/images/css-reference-share.png"
 date: 2021-04-06
 tags:
     - css animations
+    - design
 ---
 <img class="cover" src=https://cssreference.io/images/css-reference-share.png>
 

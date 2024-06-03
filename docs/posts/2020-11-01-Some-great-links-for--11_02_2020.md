@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-11-01
 ---
 
-
-
   * [MockMechanics](<https://mockmechanics.com>)
 
 Very cool and clever visual programming.

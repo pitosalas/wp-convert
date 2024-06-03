@@ -8,9 +8,9 @@ date: 2022-01-05
 tags:
     - scaling
     - software
-    - engineering
     - youre-not-google
     - rules-of-thumb
+    - engineer
 ---
 <img class="cover" src=https://miro.medium.com/max/681/1*2DYpuGytCWCOX5Ulbsw7Nw.png>
 

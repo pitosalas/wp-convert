@@ -6,7 +6,7 @@ link: "https://flexport.engineering/approximating-prettier-for-ruby-with-rubocop
 cover: "https://miro.medium.com/max/1200/1*aUkL5BXdNOa-097rZp7bSg.png" 
 date: 2021-04-06
 tags:
-    - code formatting engineering ruby rubocop
+    - rubocop
 ---
 <img class="cover" src=https://miro.medium.com/max/1200/1*aUkL5BXdNOa-097rZp7bSg.png>
 

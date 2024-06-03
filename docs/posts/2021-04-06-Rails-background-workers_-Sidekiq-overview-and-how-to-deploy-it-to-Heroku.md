@@ -7,6 +7,8 @@ cover: "https://miro.medium.com/max/800/1*VPwJk4g9GgzUvKdLZpN-rQ.png"
 date: 2021-04-06
 tags:
     - errors heroku ruby
+    - heroku
+    - scale deploy build rails docker howto
 ---
 <img class="cover" src=https://miro.medium.com/max/800/1*VPwJk4g9GgzUvKdLZpN-rQ.png>
 

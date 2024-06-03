@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-05-31
 ---
 
-
-
   * [GGather](<https://ggather.com>)
 
 Looks like a really good one.

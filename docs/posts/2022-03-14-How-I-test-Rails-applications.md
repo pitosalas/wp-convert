@@ -7,9 +7,9 @@ cover: "https://miro.medium.com/max/1200/1*89NN2ncgkrmIAmEue_S6yA.jpeg"
 date: 2022-03-14
 tags:
     - rails
-    - testing
     - tdd
     - howto
+    - test
 ---
 <img class="cover" src=https://miro.medium.com/max/1200/1*89NN2ncgkrmIAmEue_S6yA.jpeg>
 

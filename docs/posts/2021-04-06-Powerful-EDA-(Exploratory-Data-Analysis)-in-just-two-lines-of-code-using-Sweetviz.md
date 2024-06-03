@@ -8,11 +8,11 @@ date: 2021-04-06
 tags:
     - howto
     - eda
-    - tools
     - oython
     - python
-    - visualization
     - cooltool
+    - tool
+    - visualize
 ---
 <img class="cover" src=https://miro.medium.com/max/994/1*jx_ShECen95-F_M5PH9HCA.png>
 

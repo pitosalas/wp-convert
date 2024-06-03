@@ -13,8 +13,6 @@ tags:
     - twitter
 ---
 
-
-
 I've been doing quite a bit of reading about social networks in preparation
 for the 2012 edition of my Brandeis University Course, "[Web and Social
 Applications](<https://sites.google.com/site/jbs2012cosiwebsocial/>)". This
@@ -52,7 +50,7 @@ small-positive-role-in-human-relationships/256346/>) contains what for me is a
 > language -- a fundamentally oral form -- through reading, which is a hack in
 > our brain. I suspect such people may well be at a major disadvantage similar
 > to the way people who could not or would not talk on the telephone would be
-> in late 20th century." ( **from** [Social Media's Small Positive Role in
+> in late 20th century." (**from** [Social Media's Small Positive Role in
 > Human
 > Relationships](<http://www.theatlantic.com/technology/archive/2012/04/social-
 > medias-small-positive-role-in-human-relationships/256346/>))

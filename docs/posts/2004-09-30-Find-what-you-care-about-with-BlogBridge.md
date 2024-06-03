@@ -4,12 +4,9 @@ author: Pito Salas
 date: 2004-09-30
 ---
 
-
->>
-
->> We just got a **totally cool** new BlogBridge feature working, which
-actually was suggested by a user a few months ago: keyword highlighting. It's
-quite simple:
+We just got a **totally cool** new BlogBridge feature working, which actually
+was suggested by a user a few months ago: keyword highlighting. It's quite
+simple:
 
 >>
 
@@ -33,7 +30,7 @@ highlighted.
 
 >> **That 's not all**. Keyword matches also figure in the **scoring** of
 feeds, so when you want to look only at your highest rated feeds, those with
-matches will be rated more **highly** (actually this is configurable.)
+matches will be rated more **highly**(actually this is configurable.)
 
 >>
 

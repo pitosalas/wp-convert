@@ -7,8 +7,6 @@ tags:
     - wave
 ---
 
-
-
 Google leaves products in Beta forever, they say.
 
 Not Google Wave. They actually announced [Wave's impending
@@ -18,8 +16,8 @@ wave.html>)
 > "But despite these wins, and numerous loyal fans, Wave has not seen the user
 > adoption we would have liked. We don’t plan to continue developing Wave as a
 > standalone product, but we will maintain the site at least through the end
-> of the year and extend the technology for use in other Google projects." (
-> **from** [Google Blog](<http://googleblog.blogspot.com/2010/08/update-on-
+> of the year and extend the technology for use in other Google projects."
+> (**from** [Google Blog](<http://googleblog.blogspot.com/2010/08/update-on-
 > google-wave.html>))
 
 This really stinks, Google. I've begun to really on rely and evangelize Wave.

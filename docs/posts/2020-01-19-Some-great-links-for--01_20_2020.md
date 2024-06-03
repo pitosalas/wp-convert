@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2020-01-19
 ---
 
-
-
   * [My Favorite Macbook Tools](<https://switowski.com/blog/favorite-mac-tools>)
 
 These lists come and go all the time. I learned a couple of new ones so chance

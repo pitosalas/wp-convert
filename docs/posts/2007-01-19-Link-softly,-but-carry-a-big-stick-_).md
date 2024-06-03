@@ -4,9 +4,7 @@ author: Pito Salas
 date: 2007-01-19
 ---
 
-
->
-> Some people have such juice (i.e traffic) to their blog that they when  
+Some people have such juice (i.e traffic) to their blog that they when  
 >  they sneeze, the blogsphere gets a cold. In [this  
 >  post](<http://scobleizer.com/2007/01/18/the-link-blog-effect/>) from
 > [Scobleizer - Tech Geek  

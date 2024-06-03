@@ -7,9 +7,9 @@ cover: "https://149663533.v2.pressablecdn.com/wp-content/uploads/2021/10/cropped
 date: 2023-03-10
 tags:
     - ai
-    - ChatGPT
     - philosophy
     - dense
+    - chat-gpt
 ---
 <img class="cover" src=https://149663533.v2.pressablecdn.com/wp-content/uploads/2021/10/cropped-Jacket.gif>
 

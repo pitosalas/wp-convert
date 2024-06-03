@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2009-10-23
 ---
 
-
-
 Check this post [Sequoia Voting System Witch Hunt, err… Study
 Project](<http://www.codersrevolution.com/index.cfm/2009/10/21/Sequoia-Voting-
 System-Witch-Hunt-err-Study-Project>) from [Coder's
@@ -23,8 +21,8 @@ Revolution](<http://www.codersrevolution.com/rss.cfm?mode=full>):
 > election data for Riverside County, California. It came in the form of a
 > Microsoft SQL Server backup that was SUPPOSED to have all the code such as
 > stored procs and triggers redacted. I wandered over to the "Sequoia Voting
-> System Study Project" and scored me a copy of the data. [More] (
-> **from:**[Sequoia Voting System Witch Hunt, err… Study
+> System Study Project" and scored me a copy of the data. [More]
+> (**from:**[Sequoia Voting System Witch Hunt, err… Study
 > Project](<http://www.codersrevolution.com/index.cfm/2009/10/21/Sequoia-
 > Voting-System-Witch-Hunt-err-Study-Project>))
 

@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-03-10
 ---
 
-
-
   * [How to scale Ruby on Rails with Redis | Opensource.com](<https://opensource.com/article/18/4/ruby-rails-redis>)
 
 Another nice tutorial on Caching with Redis and Rails

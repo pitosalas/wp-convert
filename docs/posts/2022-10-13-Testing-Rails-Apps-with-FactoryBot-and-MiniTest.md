@@ -6,12 +6,12 @@ link: "https://fuzzyblog.io/blog/rails/2022/07/27/testing-rails-apps-with-factor
 cover: "http://fuzzyblog.io/blog/assets/scott_johnson.jpg" 
 date: 2022-10-13
 tags:
-    - testing
     - test
     - factorybot
     - minitest
     - howto
     - rails
+    - ruby
 ---
 <img class="cover" src=http://fuzzyblog.io/blog/assets/scott_johnson.jpg>
 

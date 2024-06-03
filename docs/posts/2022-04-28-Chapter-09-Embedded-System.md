@@ -12,6 +12,7 @@ tags:
     - arduino
     - guide
     - howto
+    - robotics
 ---
 <img class="cover" src=https://i.ytimg.com/vi/kPzy3fXY7X0/maxresdefault.jpg>
 

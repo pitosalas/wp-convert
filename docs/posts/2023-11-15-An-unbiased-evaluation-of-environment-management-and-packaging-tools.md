@@ -11,6 +11,9 @@ tags:
     - pyenv
     - poetry
     - version-manager
+    - python-package
+    - packaging
+    - enviroment
 ---
 <img class="cover" src=https://alpopkes.com/images/author/image_al.jpg>
 

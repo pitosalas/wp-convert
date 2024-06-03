@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2009-11-15
 ---
 
-
-
 I was following a series of articles about the Brazilian e-voting system,
 which apparently underwent a white-hat hack test and survived. It started with
 this Slashdot article, "[Hackers Fail to Crack Brazillian Voting
@@ -34,8 +32,8 @@ talk about the white-hat test.
 
 The final quote was, I felt, the most **significant** in a way:
 
-> " _" The main value of the system is that our society believes in it,"_ he
-> said" ( **from** [How Brazil has put an 'e' in
+> "_" The main value of the system is that our society believes in it,"_ he
+> said" (**from** [How Brazil has put an 'e' in
 > vote](<http://news.bbc.co.uk/2/hi/technology/7644751.stm>))
 
 This quote, from a Mr. Rocha, the engineer who created the first electronic

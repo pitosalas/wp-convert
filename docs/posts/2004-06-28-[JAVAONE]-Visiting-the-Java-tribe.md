@@ -4,13 +4,10 @@ author: Pito Salas
 date: 2004-06-28
 ---
 
-
->>
-
->> I am here at JavaOne and living among a very different crowd than I’ve been
-in lately. It’s the gathering of the Java faithful, and there’s a different
-feel here compared with the world I come from, the Windows/Microsoft world.
-Here are some of my field notes and random impressions.
+I am here at JavaOne and living among a very different crowd than I’ve been in
+lately. It’s the gathering of the Java faithful, and there’s a different feel
+here compared with the world I come from, the Windows/Microsoft world. Here
+are some of my field notes and random impressions.
 
 >>
 

@@ -7,6 +7,8 @@ cover: "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~S
 date: 2021-04-06
 tags:
     - Robotics
+    - robots
+    - robotics
 ---
 <img class="cover" src=https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~SPECIALIZATION!~robotics/XDP~SPECIALIZATION!~robotics.jpeg>
 

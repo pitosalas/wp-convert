@@ -8,8 +8,9 @@ date: 2023-04-23
 tags:
     - teenager
     - phone
-    - mobile-phone
     - depression
+    - mobile
+    - social-media
 ---
 <img class="cover" src=https://img.semafor.com/4e84d5f520481583c8cd5cb00c12b57a7f8b10fb-5472x3648.jpg?rect=0,388,5472,2873&w=1200&h=630&q=75&auto=format>
 

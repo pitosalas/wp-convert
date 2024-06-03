@@ -8,7 +8,6 @@ date: 2022-01-13
 tags:
     - robotics
     - imu
-    - N9250
     - explainer
 ---
 <img class="cover" src=https://www.seeedstudio.com/blog/wp-content/uploads/2020/06/image-58.png>

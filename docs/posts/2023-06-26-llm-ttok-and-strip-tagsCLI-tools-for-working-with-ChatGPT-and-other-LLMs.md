@@ -9,8 +9,6 @@ tags:
     - pipes
 ---
 
-
-
 [ llm, ttok and strip-tags—CLI tools for working with ChatGPT and other
 LLMs](<https://simonwillison.net/2023/May/18/cli-tools-for-llms/>) –I’ve been
 building out a small suite of command-line tools for working with ChatGPT,

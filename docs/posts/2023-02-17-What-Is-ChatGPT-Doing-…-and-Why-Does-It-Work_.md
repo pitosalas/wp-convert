@@ -9,7 +9,7 @@ tags:
     - stephen-wolfram
     - chat-gpt
     - machine-learning
-    - neural-nets
+    - neural-net
 ---
 <img class="cover" src=https://content.wolfram.com/uploads/sites/43/2023/02/hero3-chat-exposition.png>
 

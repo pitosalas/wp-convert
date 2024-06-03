@@ -7,6 +7,7 @@ cover: "https://martinfowler.com/articles/microservices/images/card.png"
 date: 2021-04-06
 tags:
     - microservices fowler architecture
+    - service-oriented-architecture
 ---
 <img class="cover" src=https://martinfowler.com/articles/microservices/images/card.png>
 

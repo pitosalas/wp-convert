@@ -9,8 +9,6 @@ tags:
     - olin-college
 ---
 
-
-
 Tom Friedman, quoting Tony Wagner, describes what he thinks should be taught
 today (that isn't really being taught:)
 
@@ -22,7 +20,7 @@ today (that isn't really being taught:)
 > than academic knowledge. As one executive told me, ‘We can teach new hires
 > the content, and we will have to because it continues to change, but we
 > can’t teach them how to think — to ask the right questions — and to take
-> initiative.’ ” ( **from**[NYT - Need A Job? Invent
+> initiative.’ ” (**from**[NYT - Need A Job? Invent
 > It!](<http://www.nytimes.com/2013/03/31/opinion/sunday/friedman-need-a-job-
 > invent-it.html?ref=opinion&_r=0>))
 
@@ -43,7 +41,7 @@ Another quote:
 > must be our highest priority. We need to focus more on teaching the skill
 > and will to learn and to make a difference and bring the three most powerful
 > ingredients of intrinsic motivation into the classroom: play, passion and
-> purpose.” ( **from**[NYT - Need A Job? Invent
+> purpose.” (**from**[NYT - Need A Job? Invent
 > It!](<http://www.nytimes.com/2013/03/31/opinion/sunday/friedman-need-a-job-
 > invent-it.html?ref=opinion&_r=0>))
 
@@ -57,7 +55,7 @@ end:
 > EdLeader21 are developing new approaches to teaching 21st-century skills.
 > There are also a growing number of ‘reinvented’ colleges like the **Olin
 > College of Engineering,** the M.I.T. Media Lab and the ‘D-school’ at
-> Stanford where students learn to innovate.” ( **from**[NYT - Need A Job?
+> Stanford where students learn to innovate.” (**from**[NYT - Need A Job?
 > Invent It!](<http://www.nytimes.com/2013/03/31/opinion/sunday/friedman-need-
 > a-job-invent-it.html?ref=opinion&_r=0>))
 

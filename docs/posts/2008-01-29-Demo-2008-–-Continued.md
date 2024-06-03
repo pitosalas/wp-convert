@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-01-29
 ---
 
-
-
 Getting ready for the next segment, here's my continued Liveblog of the event,
 using [CoverItLive](<http://www.coveritlive>).
 

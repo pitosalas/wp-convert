@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2019-01-14
 ---
 
-
-
   * [CSS doesn’t suck - Andy Bell](<https://andy-bell.design/wrote/css-doesnt-suck/>)
 
 See previous post. I admit I haven’t built super complicated sites, but I

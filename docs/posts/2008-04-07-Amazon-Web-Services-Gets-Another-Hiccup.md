@@ -6,8 +6,6 @@ tags:
     - amazon-tag-amzn-webservices-xml
 ---
 
-
-
 I've wondered and written before about the 'downside' or 'risk' of building
 your application based on one of the excellent SAAS services from Amazon. And
 I do think they are excellent. But check this post [Amazon Web Services Gets

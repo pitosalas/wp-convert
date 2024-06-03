@@ -10,8 +10,6 @@ tags:
     - treatment
 ---
 
-
-
 [youtube http://www.youtube.com/watch?v=aUaInS6HIGo&w=560&h=315]
 
 

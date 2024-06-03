@@ -9,8 +9,6 @@ tags:
     - thinking
 ---
 
-
-
 Just came across this odd link somewhere. He's a good and clear writer,
 enjoyable to read whether you agree or not: [Why People Think Computers Can't
 by Marvin

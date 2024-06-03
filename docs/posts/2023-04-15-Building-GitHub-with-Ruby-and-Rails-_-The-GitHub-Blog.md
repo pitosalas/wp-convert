@@ -10,6 +10,8 @@ tags:
     - rails
     - github
     - ci
+    - rails ruby
+    - scale deploy build rails docker howto
 ---
 <img class="cover" src=https://github.blog/wp-content/uploads/2023/04/1200x630-Partnerships-Dark@2x.png>
 

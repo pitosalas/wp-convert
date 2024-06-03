@@ -9,6 +9,7 @@ tags:
     - aruco-detect
     - fiducial
     - fiducial-slam
+    - ubiquity-robotics
 ---
 <img class="cover" src=https://learn.ubiquityrobotics.com/doing_more/two_fiducials.png>
 

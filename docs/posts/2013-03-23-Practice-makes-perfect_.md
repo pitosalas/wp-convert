@@ -8,8 +8,6 @@ tags:
     - practice
 ---
 
-
-
 ![](https://i0.wp.com/www.cjspianos.com/piano_player.jpg?w=584)
 
 I am (after 10 years) a beginner pianist who wants to improve. I practice, but
@@ -29,7 +27,7 @@ something-wrong-the-surprisingly-relaxed-lives-of-elite-achievers/>)
 > The difference was in how they spent this time. The elite players were
 > spending almost three times more hours than the average players on
 > deliberate practice — the uncomfortable, methodical work of stretching your
-> ability. ( **from:**[ "If you're busy, you're doing something
+> ability. (**from:**[ "If you're busy, you're doing something
 > wrong"](<http://calnewport.com/blog/2011/11/11/if-youre-busy-youre-doing-
 > something-wrong-the-surprisingly-relaxed-lives-of-elite-achievers/>))
 

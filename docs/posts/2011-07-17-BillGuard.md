@@ -8,8 +8,6 @@ tags:
     - security
 ---
 
-
-
 This [site looks really good](<http://www.billguard.com/>), but I am not
 signing up yet.
 

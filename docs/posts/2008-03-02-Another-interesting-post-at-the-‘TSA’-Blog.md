@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2008-03-02
 ---
 
-
-
 Another really interesting [post](<http://www.tsa.gov/blog/2008/02/truth-
 behind-title-behavior-detection.html>) from [TSA Blog: Evolution of
 Security](<http://www.tsa.gov/blog/index.shtm>): (which should be called 'The

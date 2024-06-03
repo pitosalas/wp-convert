@@ -8,8 +8,6 @@ tags:
     - echo-chamber
 ---
 
-
-
 I saw this in [Marginal
 Revolution](<http://marginalrevolution.com/marginalrevolution/2012/05/bertrand-
 russells-10-commandments-for-teachers.html>), who saw this in

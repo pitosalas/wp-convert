@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2021-01-28
 ---
 
-
-
   * [How to Get a Software Developer Internship](<https://link.medium.com/jtrlTwwLpdb>)
 
 Good advice for new grads hunting for a position.

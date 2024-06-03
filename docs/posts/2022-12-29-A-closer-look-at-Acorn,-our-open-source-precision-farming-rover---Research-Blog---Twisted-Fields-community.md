@@ -8,8 +8,7 @@ date: 2022-12-29
 tags:
     - robots
     - farming
-    - acorn
-    - open-source
+    - opensource
 ---
 <img class="cover" src=https://community.twistedfields.com/uploads/default/original/1X/6fc1d04a314e1f2faa27f898e7059cd3afabb05f.jpeg>
 

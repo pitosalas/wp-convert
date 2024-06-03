@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2009-10-15
 ---
 
-
-
 I want to do an electricity audit for my house. I am looking for a web site
 that lets me complete a survey of all my  
 electricity consuming devices and estimates my KWh. I suspect there may be

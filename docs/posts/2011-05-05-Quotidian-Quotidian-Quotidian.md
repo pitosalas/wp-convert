@@ -6,8 +6,6 @@ tags:
     - quotidian
 ---
 
-
-
 This word "QUOTIDIAN" seems to have become popular suddenly. Did you notice?
 
 Or is it just me that is noticing it more because up to a minute ago I didn't

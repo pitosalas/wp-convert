@@ -7,9 +7,9 @@ cover: "https://longliveruby.herokuapp.com/assets/longliveruby.jpg"
 date: 2021-11-05
 tags:
     - ruby
-    - blocks
     - howto
     - explainer
+    - block
 ---
 <img class="cover" src=https://longliveruby.herokuapp.com/assets/longliveruby.jpg>
 

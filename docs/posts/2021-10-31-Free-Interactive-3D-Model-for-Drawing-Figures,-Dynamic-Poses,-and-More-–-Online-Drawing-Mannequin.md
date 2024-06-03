@@ -7,8 +7,6 @@ tags:
     - design
 ---
 
-
-
 [ Free Interactive 3D Model for Drawing Figures, Dynamic Poses, and More -
 Online Drawing
 Mannequin](<https://setpose.com/?utm_campaign=Recomendo&utm_medium=email&utm_source=Revue%20newsletter>)

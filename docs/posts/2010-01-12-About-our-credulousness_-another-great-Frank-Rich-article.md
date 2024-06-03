@@ -8,8 +8,6 @@ tags:
     - tigerwoods
 ---
 
-
-
 Another great column from [Frank Rich -- Tiger Woods, Person of The
 Year](<http://www.nytimes.com/2009/12/20/opinion/20rich.html?_r=1&pagewanted=all>).
 I recommend reading the whole thing. Here's a telling quote:
@@ -29,7 +27,7 @@ I recommend reading the whole thing. Here's a telling quote:
 > were hyping any misleading shred of intelligence that could fit their
 > predetermined march to war. It’s the same impulse that kept many from
 > questioning how Mark McGwire’s and Barry Bonds’s outlandishly cartoonish
-> physiques could possibly be steroid-free." ( **from** [Frank Rich, Tiger
+> physiques could possibly be steroid-free." (**from** [Frank Rich, Tiger
 > Woods, Person of The
 > Year](<http://www.nytimes.com/2009/12/20/opinion/20rich.html?_r=1&pagewanted=all>))
 

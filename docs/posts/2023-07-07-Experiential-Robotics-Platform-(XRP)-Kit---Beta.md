@@ -9,6 +9,8 @@ tags:
     - robotics
     - education
     - cooltool
+    - robot
+    - robot-kit
 ---
 <img class="cover" src=https://cdn.sparkfun.com/r/92-92/assets/parts/2/2/1/9/1/XRP_Robot-02.jpg>
 

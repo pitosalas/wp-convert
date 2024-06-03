@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2004-03-01
 ---
 
-
->>
-
->> **Scoble on Search.** Robert Scoble (of Microsoft fame) [writes about a new
+**Scoble on Search.** Robert Scoble (of Microsoft fame) [writes about a new
 search utility](<http://radio.weblogs.com/0001011/2004/02/29.html#a6730>)
 called [LookOut](<http://www.lookoutsoft.com/>). Scanning the web site, it
 looks pretty cool. The idea of going to Outlook to search the file system,

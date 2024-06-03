@@ -5,6 +5,8 @@ url: "https://stackoverflow.com/questions/2134574/why-do-all-databases-have-a-pu
 link: "https://stackoverflow.com/questions/2134574/why-do-all-databases-have-a-public-schema-in-postgresql" 
 cover: "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" 
 date: 2022-04-13
+tags:
+    - postgres
 ---
 <img class="cover" src=https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded>
 

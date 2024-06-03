@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2009-06-10
 ---
 
-
-
 [TIVO keeps on getting cooler and
 cooler:](<http://online.wsj.com/article/SB122533284014583011.html?mod=djemTECH>)
 

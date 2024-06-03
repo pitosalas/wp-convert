@@ -9,8 +9,8 @@ tags:
     - virus
     - science
     - covid
-    - new-yorker
-    - article
+    - articles
+    - newyorker
 ---
 <img class="cover" src=https://media.newyorker.com/photos/60afb7b63c162291f832788b/1:1/w_1600,h_1600,c_limit/nyker-covid-leak.gif>
 

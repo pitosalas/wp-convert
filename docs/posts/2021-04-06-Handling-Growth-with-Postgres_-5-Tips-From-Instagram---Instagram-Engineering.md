@@ -7,6 +7,7 @@ cover: "https://rdl.ink/render/http%3A%2F%2Finstagram-engineering.tumblr.com%2Fp
 date: 2021-04-06
 tags:
     - postgres scaling database
+    - postgres
 ---
 <img class="cover" src=https://rdl.ink/render/http%3A%2F%2Finstagram-engineering.tumblr.com%2Fpost%2F40781627982%2Fhandling-growth-with-postgres-5-tips-from>
 

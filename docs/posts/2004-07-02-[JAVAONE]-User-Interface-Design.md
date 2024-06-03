@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2004-07-02
 ---
 
-
->>
-
->> Someone whose oppinion I listen to, Karsten Lentzch, recommends these books
+Someone whose oppinion I listen to, Karsten Lentzch, recommends these books
 about user interface design:
 
 >>

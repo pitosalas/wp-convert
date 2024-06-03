@@ -10,8 +10,6 @@ tags:
     - wsj
 ---
 
-
-
 Listen, I **love** the New York Times. I read it cover to cover (or pixel to
 pixel) every day and have it delivered in dead-tree format to my doorstep each
 morning.

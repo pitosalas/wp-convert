@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2009-07-08
 ---
 
-
-
 Not that I care about Paprazzi countermeasures, but this is just c-l-e-v-e-r!
 Check this post [Anti-paprazzi clutch bag gives pushy shutterbugs a taste of
 their own

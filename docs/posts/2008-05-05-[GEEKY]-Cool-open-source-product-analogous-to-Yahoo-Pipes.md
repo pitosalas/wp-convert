@@ -6,8 +6,6 @@ tags:
     - Snaplogic-opensource-rest
 ---
 
-
-
 [SnapLogic](<http://www.snaplogic.com>) is an open source product (at least in
 it's base edition) providing tools to construct pipelines that deliver and
 process and filter information through collections of interconnected REST

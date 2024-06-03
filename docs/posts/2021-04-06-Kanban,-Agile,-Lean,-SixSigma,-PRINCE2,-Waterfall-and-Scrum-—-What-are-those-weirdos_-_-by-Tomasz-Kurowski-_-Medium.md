@@ -10,7 +10,6 @@ tags:
     - agile
     - lean
     - prince
-    - waterfall
     - scrum
     - project-management
 ---

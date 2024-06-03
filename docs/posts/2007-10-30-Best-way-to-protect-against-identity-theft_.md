@@ -4,8 +4,6 @@ author: Pito Salas
 date: 2007-10-30
 ---
 
-
-
 I've come across these two services, priced similarly, sound similar.
 
 [ID TheftSmart](<https://www.idtheftsmart.com/>) - The name sounds like they

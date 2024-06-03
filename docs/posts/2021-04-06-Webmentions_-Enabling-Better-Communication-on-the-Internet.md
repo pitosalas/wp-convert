@@ -9,10 +9,9 @@ tags:
     - api
     - hooks
     - web
-    - webmentions
-    - webhooks
     - rest
     - howto
+    - web-hooks
 ---
 <img class="cover" src=https://alistapart.com/wp-content/uploads/2018/07/webmentions.jpg?fit=1920%2C984&w=640>
 

@@ -7,10 +7,9 @@ cover: "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2016/04
 date: 2021-06-02
 tags:
     - raspi
-    - wifi
-    - tools
     - howto
     - trouble-shooting
+    - tool
 ---
 <img class="cover" src=https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2016/04/raspberry-pi-bluetooth-wifi.jpg>
 

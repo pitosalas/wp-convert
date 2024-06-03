@@ -5,6 +5,8 @@ url: "https://interviewing.io/blog/how-hard-is-it-to-cheat-with-chatgpt-in-techn
 link: "https://interviewing.io/blog/how-hard-is-it-to-cheat-with-chatgpt-in-technical-interviews" 
 cover: "https://strapi-iio.s3.us-west-2.amazonaws.com/Pass_rate_by_question_type_when_trying_to_cheat_with_Chat_GPT_c20c87712e.png" 
 date: 2024-02-02
+tags:
+    - chat-gpt
 ---
 <img class="cover" src=https://strapi-iio.s3.us-west-2.amazonaws.com/Pass_rate_by_question_type_when_trying_to_cheat_with_Chat_GPT_c20c87712e.png>
 

@@ -4,11 +4,7 @@ author: Pito Salas
 date: 2004-11-29
 ---
 
-
->>
-
->> [Adam Bosworth's
-speech](<http://www.adambosworth.net/archives/000031.html>)
+[Adam Bosworth's speech](<http://www.adambosworth.net/archives/000031.html>)
 
 >>
 
@@ -20,19 +16,19 @@ procedure calls.
 
 >>
 
->> [ **Aside #1** : If you feel your eyelids getting heavy around now, I
+>> [**Aside #1** : If you feel your eyelids getting heavy around now, I
 appologize for not labeling this entry as "GEEK" but I thought it was border
 line]
 
 >>
 
->> [ **Aside #2** : I wonder whether the term "Web Services" is now dated, and
+>> [**Aside #2** : I wonder whether the term "Web Services" is now dated, and
 what the more au courant term is. Perhaps "service oriented architecture". If
 so, please accept my appologies for not being fully PC]
 
 >>
 
->> [ **Aside #3** : I see that Aside #1 and #2 are both appologies. I should
+>> [**Aside #3** : I see that Aside #1 and #2 are both appologies. I should
 have labeled them Applogogy #1 and #2. I appologize.]
 
 >>
