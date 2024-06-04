@@ -5,16 +5,20 @@ RE_INVALID_SLUG_CHAR = re.compile(r'[^\w\- ]', re.UNICODE)
 RE_WHITESPACE = re.compile(r'\s', re.UNICODE)
 
 def _make_slug(text, sep, **kwargs):
+
     slug = unicodedata.normalize('NFC', text)
     slug = RE_HTML_TAGS.sub('', slug)
     slug = RE_INVALID_SLUG_CHAR.sub('', slug)
     slug = slug.strip().lower()
+    print(RE_WHITESPACE)
     slug = RE_WHITESPACE.sub(sep, slug)
     return slug
 
 def _make_slug_short(text, sep, **kwargs):
     words = _make_slug(text, sep, **kwargs).split(sep)
-    return sep.join(words[:5])
+    result = sep.join(words[:5])
+    print(f"make slug short: {text}, {sep}, {kwargs} -> {result}")
+    return result
 
 def slugify(**kwargs):
     if 'short' in kwargs and kwargs['short']:
