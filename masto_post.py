@@ -16,6 +16,7 @@ class MastoPost:
 
     def __init__(self):
         self.sec_token: str = os.getenv("MASTO_TOKEN", "")
+
         if self.sec_token == "":
             raise ValueError("MASTO_TOKEN environment variable is not set")
 
@@ -55,7 +56,7 @@ class MastoPost:
         count = 0
         for index, (drop_title, drop) in enumerate(self.drops.items()):
             # print(f"Processing {count} {drop_title}")
-            if count > 5:
+            if count > 10:
                 count += 1
                 continue
             title = drop_title
@@ -75,13 +76,10 @@ class MastoPost:
             count += 1
         print(f"""Total: {count} Drop Posts Generated""")
 
-    def get_slug(self, title: str, date: str):
+    def get_slug(self, title: str, date_str: str):
         slug = ext.slugs._make_slug_short(title, "-", kwargs={'short' : True})
-        date_str = "X"
         url_with_slug = f"https://www.salas.com/{date_str}/{slug}"
-        print(f"get_sluyg: {url_with_slug}")
         return url_with_slug
-
     def create_masto_post(self, title: str, content: str, date: str, tags_str: str, url: str, cover: str) -> None:
         if url in self.masto_urls or self.masto_post_count >= MASTO_MAX_POST_PER_RUN:
             return
