@@ -8,7 +8,7 @@ from typing import Union
 import ext.slugs
 
 MASTO_URL_FILE = "data/masto_url_list.json"
-SAFE_MODE = True
+SAFE_MODE = False
 MASTO_MAX_POST_PER_RUN = 3
 
 JsonValue = Union[str, dict[str, str]]
@@ -16,7 +16,6 @@ class MastoPost:
 
     def __init__(self):
         self.sec_token: str = os.getenv("MASTO_TOKEN", "")
-
         if self.sec_token == "":
             raise ValueError("MASTO_TOKEN environment variable is not set")
 
@@ -56,7 +55,7 @@ class MastoPost:
         count = 0
         for index, (drop_title, drop) in enumerate(self.drops.items()):
             # print(f"Processing {count} {drop_title}")
-            if count > 10:
+            if count > 2:
                 count += 1
                 continue
             title = drop_title
