@@ -86,7 +86,6 @@ class MastoPost:
         rest_url: str = "https://ruby.social/api/v1/statuses"
         status: str = f"""{content} {tags_str}: "{title}"({url})"""
         url_with_slug = self.get_slug(title, date)
-        print(url_with_slug)
         json_data_dict: dict[str, JsonValue] = {"status": status, "links": url_with_slug}
         if SAFE_MODE:
             print(f"fake posting {json_data_dict}")
