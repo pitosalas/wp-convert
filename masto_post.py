@@ -79,7 +79,7 @@ class MastoPost:
     def get_slug(self, title: str, date_str: str):
         slug = ext.slugs._make_slug_short(title, "-", kwargs={'short' : True})
         date_str = date_str.replace("-", "/")
-        url_with_slug = f"https://www.salas.com/{date_str}/{slug}"
+        url_with_slug = f"https://salas.com/{date_str}/{slug}/"
         return url_with_slug
     def create_masto_post(self, title: str, content: str, date: str, tags_str: str, url: str, cover: str) -> None:
         if url in self.masto_urls or self.masto_post_count >= MASTO_MAX_POST_PER_RUN:
