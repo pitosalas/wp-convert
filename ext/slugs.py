@@ -10,14 +10,12 @@ def _make_slug(text, sep, **kwargs):
     slug = RE_HTML_TAGS.sub('', slug)
     slug = RE_INVALID_SLUG_CHAR.sub('', slug)
     slug = slug.strip().lower()
-    print(RE_WHITESPACE)
     slug = RE_WHITESPACE.sub(sep, slug)
     return slug
 
 def _make_slug_short(text, sep, **kwargs):
     words = _make_slug(text, sep, **kwargs).split(sep)
     result = sep.join(words[:5])
-    print(f"make slug short: {text}, {sep}, {kwargs} -> {result}")
     return result
 
 def slugify(**kwargs):
