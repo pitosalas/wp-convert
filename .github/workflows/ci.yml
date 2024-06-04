@@ -46,7 +46,7 @@ jobs:
           python raindrop_api_import.py
           python masto_post.py
           python blogbuild_v2.py
-          mkdocs gh-deploy --force
+          export PYTHONPATH=. ; mkdocs gh-deploy --force
       - name: GIT Commit Build Artifacts
         run: |
             git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
