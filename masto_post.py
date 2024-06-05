@@ -84,9 +84,9 @@ class MastoPost:
         if url in self.masto_urls or self.masto_post_count >= MASTO_MAX_POST_PER_RUN:
             return
         rest_url: str = "https://ruby.social/api/v1/statuses"
-        status: str = f"""{content} {tags_str}: "{title}"({rest_url})"""
         url_with_slug = self.get_slug(title, date)
-        json_data_dict: dict[str, JsonValue] = {"status": status, "links": url_with_slug}
+        status: str = f"""{content} {tags_str}: "{title}"({url_with_slug})"""
+        json_data_dict: dict[str, JsonValue] = {"status": status, "links": url}
         if SAFE_MODE:
             print(f"fake posting {json_data_dict}")
             self.masto_urls.append(url)
