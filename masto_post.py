@@ -55,7 +55,7 @@ class MastoPost:
         count = 0
         for index, (drop_title, drop) in enumerate(self.drops.items()):
             # print(f"Processing {count} {drop_title}")
-            if count > 2:
+            if count > 5:
                 count += 1
                 continue
             title = drop_title
@@ -75,26 +75,26 @@ class MastoPost:
             count += 1
         print(f"""Total: {count} Drop Posts Generated""")
 
-    def get_slug(self, title: str, date_str: str):
+    def get_salas_url_with_slug(self, title: str, date_str: str):
         slug = ext.slugs._make_slug_short(title, "-", kwargs={'short' : True})
         date_str = date_str.replace("-", "/")
         url_with_slug = f"https://salas.com/{date_str}/{slug}/"
         return url_with_slug
+    
     def create_masto_post(self, title: str, content: str, date: str, tags_str: str, url: str, cover: str) -> None:
         if url in self.masto_urls or self.masto_post_count >= MASTO_MAX_POST_PER_RUN:
             return
         rest_url: str = "https://ruby.social/api/v1/statuses"
-        url_with_slug = self.get_slug(title, date)
-        status: str = f"""{content} {tags_str}: "{title}"({url_with_slug})"""
+        salas_url_with_slug = self.get_salas_url_with_slug(title, date)
+        status: str = f"""{content} {tags_str}: "{title}"({salas_url_with_slug})"""
         json_data_dict: dict[str, JsonValue] = {"status": status, "links": url}
+        self.masto_post_count += 1
         if SAFE_MODE:
             print(f"fake posting {json_data_dict}")
-            self.masto_urls.append(url)
         else:
             response = requests.post(rest_url, headers=self.headers, data=json_data_dict)
             if response.status_code == 200:
                 self.masto_urls.append(url)
-                self.masto_post_count += 1
                 print(f"successful posting {json_data_dict}")
 
 
