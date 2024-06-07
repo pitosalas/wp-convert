@@ -15,8 +15,7 @@ JsonValue = Union[str, dict[str, str]]
 class MastoPost:
 
     def __init__(self):
-        # self.sec_token: str = os.getenv("MASTO_TOKEN", "")
-        self.sec_token: str = "Bearer FFhzaYJGMBd2C5vC1jw9DN1s5yx00Lcv3kI9c40EnyA"        
+        self.sec_token: str = os.getenv("MASTO_TOKEN", "")
         if self.sec_token == "":
             raise ValueError("MASTO_TOKEN environment variable is not set")
 
