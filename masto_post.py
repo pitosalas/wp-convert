@@ -73,7 +73,7 @@ class MastoPost:
                 tags_str = ""
             self.create_masto_post(title, content, date, tags_str, url, cover)
             count += 1
-        print(f"""Total: {count} Drop Posts Generated""")
+        print(f"""Masto Post Run: {count} Drop Posts Generated""")
 
     def get_salas_url_with_slug(self, title: str, date_str: str):
         slug = ext.slugs._make_slug_short(title, "-", kwargs={'short' : True})
@@ -90,12 +90,12 @@ class MastoPost:
         json_data_dict: dict[str, JsonValue] = {"status": status}
         self.masto_post_count += 1
         if SAFE_MODE:
-            print(f"fake posting {json_data_dict}")
+            print(f"masto_post: fake mode posting {json_data_dict}")
         else:
             response = requests.post(rest_url, headers=self.headers, data=json_data_dict)
             if response.status_code == 200:
                 self.masto_urls.append(url)
-                print(f"successful posting {json_data_dict}")
+                print(f"masto_post: successful posting {json_data_dict}")
 
 
     def run(self):
@@ -108,4 +108,4 @@ class MastoPost:
 if __name__ == "__main__":
     masto = MastoPost()
     masto.run()
-    print("done")
+    print("masto_post: done")
