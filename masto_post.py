@@ -15,7 +15,8 @@ JsonValue = Union[str, dict[str, str]]
 class MastoPost:
 
     def __init__(self):
-        self.sec_token: str = os.getenv("MASTO_TOKEN", "")
+        # self.sec_token: str = os.getenv("MASTO_TOKEN", "")
+        self.sec_token: str = "Bearer FFhzaYJGMBd2C5vC1jw9DN1s5yx00Lcv3kI9c40EnyA"        
         if self.sec_token == "":
             raise ValueError("MASTO_TOKEN environment variable is not set")
 
@@ -90,18 +91,20 @@ class MastoPost:
             return
         rest_url: str = "https://ruby.social/api/v1/statuses"
         salas_url_with_slug = self.get_salas_url_with_slug(title, date)
-        status = f"""{content} {tags_str} {salas_url_with_slug}: from: "{title}"({url})"""
+        abbreviated_content = content if len(content) <= 300 else content[:347] + "..."
+        status = f"""{abbreviated_content} {tags_str}: from: "{title}"({url})"""
+        # status = f""" {tags_str} {salas_url_with_slug}: from: "{title}"({url})"""
         json_data_dict: dict[str, JsonValue] = {"status": status}
-        self.masto_post_count += 1
         if SAFE_MODE:
-            print(f"masto_post: fake mode posting {json_data_dict}")
+            print(f"masto_post: fake mode posting {title}")
         else:
             response = requests.post(rest_url, headers=self.headers, data=json_data_dict)
             if response.status_code == 200:
+                self.masto_post_count += 1
                 self.masto_urls.append(url)
-                print(f"masto_post: successful posting {json_data_dict}")
+                print(f"masto_post: successful posting {title}")
             else:
-                print(f"masto_post: error posting: {response.status_code} on {json_data_dict}")
+                print(f"masto_post: error posting: {response.status_code} on {title}")
 
     def run(self):
         self.retrieve_api_drops_from_file()
