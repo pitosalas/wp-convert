@@ -83,14 +83,14 @@ class MastoPost:
     
     def create_masto_post(self, title: str, content: str, date: str, tags_str: str, url: str, cover: str) -> None:
         if url in self.masto_urls:
-            print(f"""masto_post: skipping because {title} was previously added""")
+            print(f"""masto_post: skipping previously added {title}""")
             return
         if self.masto_post_count >= MASTO_MAX_POST_PER_RUN:
-            print(f"""masto_post: skipping because {title} reached maximum""")
+            print(f"""masto_post: reached maximum, so skipped {title} """)
             return
         rest_url: str = "https://ruby.social/api/v1/statuses"
         salas_url_with_slug = self.get_salas_url_with_slug(title, date)
-        status: str = f"""{content} {tags_str} {salas_url_with_slug}: from: "{title}"({url})"""
+        status = f"""{content} {tags_str} {salas_url_with_slug}: from: "{title}"({url})"""
         json_data_dict: dict[str, JsonValue] = {"status": status}
         self.masto_post_count += 1
         if SAFE_MODE:
@@ -100,6 +100,8 @@ class MastoPost:
             if response.status_code == 200:
                 self.masto_urls.append(url)
                 print(f"masto_post: successful posting {json_data_dict}")
+            else:
+                print(f"masto_post: error posting: {response.status_code} on {json_data_dict}")
 
     def run(self):
         self.retrieve_api_drops_from_file()
