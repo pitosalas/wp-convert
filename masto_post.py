@@ -10,6 +10,7 @@ import ext.slugs
 MASTO_URL_FILE = "data/masto_url_list.json"
 SAFE_MODE = False
 MASTO_MAX_POST_PER_RUN = 2
+MASTO_MAX_STATUS_LENGTH = 500
 
 JsonValue = Union[str, dict[str, str]]
 class MastoPost:
@@ -90,7 +91,8 @@ class MastoPost:
             return
         rest_url: str = "https://ruby.social/api/v1/statuses"
         salas_url_with_slug = self.get_salas_url_with_slug(title, date)
-        abbreviated_content = content if len(content) <= 300 else content[:347] + "..."
+        content_max_length = MASTO_MAX_STATUS_LENGTH - len(tags_str) - len(url) - len(title) - 20
+        abbreviated_content = content if len(content) <= content_max_length else content[:347] + "..."
         status = f"""{abbreviated_content} {tags_str}: from: "{title}"({url})"""
         # status = f""" {tags_str} {salas_url_with_slug}: from: "{title}"({url})"""
         json_data_dict: dict[str, JsonValue] = {"status": status}
