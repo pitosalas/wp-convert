@@ -5,6 +5,8 @@ url: "https://engineering-management.space/post/from-rails-to-clojure-to-java-to
 link: "https://engineering-management.space/post/from-rails-to-clojure-to-java-to-rails" 
 cover: "https://engineering-management.space/img/rails-clojure-java-rails.png" 
 date: 2021-04-06
+tags:
+    - java clojure engineering rails
 ---
 <img class="cover" src=https://engineering-management.space/img/rails-clojure-java-rails.png>
 
