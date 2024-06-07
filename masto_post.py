@@ -8,14 +8,15 @@ from typing import Union
 import ext.slugs
 
 MASTO_URL_FILE = "data/masto_url_list.json"
-SAFE_MODE = False
+SAFE_MODE = True
 MASTO_MAX_POST_PER_RUN = 3
 
 JsonValue = Union[str, dict[str, str]]
 class MastoPost:
 
     def __init__(self):
-        self.sec_token: str = os.getenv("MASTO_TOKEN", "")
+        # self.sec_token: str = os.getenv("MASTO_TOKEN", "")
+        self.sec_token = "Bearer qwKLkzzw9xOq9-aUsj2Vekzc9NDQBvDF-CSEOS3OOss"
         if self.sec_token == "":
             raise ValueError("MASTO_TOKEN environment variable is not set")
 
@@ -86,8 +87,8 @@ class MastoPost:
             return
         rest_url: str = "https://ruby.social/api/v1/statuses"
         salas_url_with_slug = self.get_salas_url_with_slug(title, date)
-        status: str = f"""{content} {tags_str}: "{title}"({salas_url_with_slug})"""
-        json_data_dict: dict[str, JsonValue] = {"status": status, "links": url}
+        status: str = f"""{content} {tags_str}{url}: "{title}"({salas_url_with_slug})"""
+        json_data_dict: dict[str, JsonValue] = {"status": status}
         self.masto_post_count += 1
         if SAFE_MODE:
             print(f"fake posting {json_data_dict}")
