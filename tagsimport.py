@@ -52,8 +52,7 @@ class TagsImport:
             for tag in tags:
                 action(tag)
         else:
-            print("Failed to retrieve tags. Status code:", response.status_code)
-            print(response.text)
+            print("raindropimport: Failed to retrieve tags. Status code:", response.status_code)
 
     def process_a_tag(self, tag):
         self.tags[tag["id"]] = clean_tag(tag["name"])
@@ -73,4 +72,4 @@ class TagsImport:
 if __name__ == "__main__":
     wp_conv = TagsImport()
     wp_conv.run()
-    print("done")
+    print("raindropimport: done")

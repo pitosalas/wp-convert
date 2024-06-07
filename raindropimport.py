@@ -32,7 +32,7 @@ class RaindropImport:
 if __name__ == "__main__":
     wp_conv = RaindropImport()
     wp_conv.run()
-    print("done")
+    print("raindropimport: done")
 
                     
 

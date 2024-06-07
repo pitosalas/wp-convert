@@ -30,7 +30,7 @@ class RaindropApiImport:
             params = { 'page': page }
             response = requests.get(url, headers=self.headers, params=params)
             if response.status_code != 200 or len(response.json()["items"]) == 0:
-                print(f"""Breaking loop because: {response.status_code}""")
+                print(f"""raindrop_api_import: Breaking loop after: {page} pages and {drops} drops""")
                 break
             sleep(0.25)
             page += 1
@@ -58,4 +58,4 @@ class RaindropApiImport:
 if __name__ == "__main__":
     rain = RaindropApiImport()
     rain.run()
-    print("done")
+    print("logbuild_v2: done")

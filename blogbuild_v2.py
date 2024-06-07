@@ -23,7 +23,7 @@ def fix_drop_tags(tags):
         return tags
     ret_tag = re.split(', | |,', tags)
     if ret_tag != tags:
-        print(f"""{tags} -> {ret_tag}""")
+        print(f"""blogbuild_v2 fixed {tags} -> {ret_tag}""")
     return ret_tag
 
 def fix_drop_date(date_string):
@@ -70,8 +70,8 @@ class BlogBuild:
                     shutil.copy(file_path, destination)
                 count += 1
             except Exception as e:
-                print(f'Failed to copy {file_path}. Reason: {e}')
-        print(f"""Total: {count} files copied""")
+                print(f'blogbuild_v2: Failed to copy {file_path}. Reason: {e}')
+        print(f"""blogbuild_v2Total: {count} files copied""")
 
     def run(self):
         self.create_or_empty_directory(POSTS_DIRECTORY)
@@ -106,7 +106,7 @@ class BlogBuild:
             self.save_individual_post(title, content, date, tags, None, None)
             # print(f"Adding Post {title}")
             count += 1
-        print(f"""Total: {count} wp Posts Generated""")
+        print(f"""blogbuild_v2: Total: {count} wp Posts Generated""")
 
     def generate_wp_pages(self):
         count = 0
@@ -116,7 +116,7 @@ class BlogBuild:
             date = datetime.strptime(post['date'], '%Y-%m-%dT%H:%M:%S').strftime('%Y-%m-%d')
             self.save_individual_page(title, content, date, None, None)
             count += 1
-        print(f"""Total: {count} wp Pages Generated""")
+        print(f"""blogbuild_v2: Total: {count} wp Pages Generated""")
 
     
     def generate_drop_posts(self):
@@ -133,16 +133,16 @@ class BlogBuild:
                 for tag in rawtags:
                     if re.match(r"^\d+$", tag):
                         tag = "N" + tag
-                        print(f"""*** {tag} ***""")
+                        print(f"""blogbuild_v2: numerical {tag}""")
                     if re.match(r".*[,+.=:!'].*", tag) is not None:
-                        print(f"""***** {tag}""")
+                        print(f"""logbuild_v2: invalid: {tag}""")
                         tag = "FOOBAR"
                     tags_str += f"""\n    - {tag}"""
             else:
                 tags_str = ""
             self.save_individual_post(title, content, date, tags_str, url, cover)
             count += 1
-        print(f"""Total: {count} Drop Posts Generated""")
+        print(f"""logbuild_v2: total: {count} Drop Posts Generated""")
 
     def fix_drop_content(self, drop):
         content = f"""{drop['note']}"""
@@ -155,7 +155,7 @@ class BlogBuild:
             return tags
         ret_tag = re.split(', | |,', tags)
         if ret_tag != tags:
-            print(f"""{tags} -> {ret_tag}""")
+            print(f"""blogbuild_v2: {tags} -> {ret_tag}""")
         return ret_tag
 
     def fix_drop_date(self, date_string):
@@ -244,7 +244,7 @@ date: {date}
                     elif os.path.isdir(file_path):
                         shutil.rmtree(file_path)
                 except Exception as e:
-                    print(f'Failed to delete {file_path}. Reason: {e}')
+                    print(f'blogbuild_v2: Failed to delete {file_path}. Reason: {e}')
         else:
             # Create the directory if it doesn't exist
             os.makedirs(dir_path)
@@ -253,6 +253,6 @@ date: {date}
 if __name__ == "__main__":
     blog_build = BlogBuild()
     blog_build.run()
-    print("done")
+    print("blogbuild_v2: done")
 
 

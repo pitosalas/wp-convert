@@ -26,7 +26,7 @@ class WpImport:
             total_pages = int(response.headers['X-WP-TotalPages'])
             self.process_posts(response, self.process_a_post)
             current_page += 1
-            print(f"Retrieved {len(self.posts)} posts so far")
+            print(f"wpimport: Retrieved {len(self.posts)} posts so far")
         return requests.get(url, headers=headers)
 
     def process_posts(self, response, action):
@@ -58,7 +58,7 @@ class WpImport:
 
             total_pages = int(response.headers['X-WP-TotalPages'])
             self.process_pages(response, self.process_a_page)
-            print(f"Retrieved {len(self.posts)} pages so far")
+            print(f"wpimport: Retrieved {len(self.posts)} pages so far")
             current_page += 1
         return requests.get(url, headers=headers)
 
@@ -70,8 +70,7 @@ class WpImport:
             for post in posts:
                 self.pages.append(action(post))
         else:
-            print("Failed to retrieve page. Status code:", response.status_code)
-            print(response.text)
+            print("wpimport: Failed to retrieve page. Status code:", response.status_code)
 
     def process_a_page(self, post: dict) -> dict:
         page = self.drop_unneeded_keys(post)
@@ -106,7 +105,7 @@ class WpImport:
 if __name__ == "__main__":
     wp_conv = WpImport()
     wp_conv.run()
-    print("done")
+    print("wpimport: done")
 
 
 
