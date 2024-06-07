@@ -73,7 +73,7 @@ class MastoPost:
                 tags_str = ""
             self.create_masto_post(title, content, date, tags_str, url, cover)
             count += 1
-        print(f"""Masto Post Run: {count} Drop Posts Generated""")
+        print(f"""masto_post {count} Drop Posts Processed""")
 
     def get_salas_url_with_slug(self, title: str, date_str: str):
         slug = ext.slugs._make_slug_short(title, "-", kwargs={'short' : True})
@@ -83,6 +83,7 @@ class MastoPost:
     
     def create_masto_post(self, title: str, content: str, date: str, tags_str: str, url: str, cover: str) -> None:
         if url in self.masto_urls or self.masto_post_count >= MASTO_MAX_POST_PER_RUN:
+            print(f"""masto_post: maximum masto statuses reached: {self.masto_post_count}""")
             return
         rest_url: str = "https://ruby.social/api/v1/statuses"
         salas_url_with_slug = self.get_salas_url_with_slug(title, date)
@@ -97,7 +98,6 @@ class MastoPost:
                 self.masto_urls.append(url)
                 print(f"masto_post: successful posting {json_data_dict}")
 
-
     def run(self):
         self.retrieve_api_drops_from_file()
         self.load_masto_url_file()
@@ -106,6 +106,7 @@ class MastoPost:
 
 # Main program
 if __name__ == "__main__":
+    print("masto_post: start")
     masto = MastoPost()
     masto.run()
     print("masto_post: done")

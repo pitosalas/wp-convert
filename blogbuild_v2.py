@@ -135,14 +135,14 @@ class BlogBuild:
                         tag = "N" + tag
                         print(f"""blogbuild_v2: numerical {tag}""")
                     if re.match(r".*[,+.=:!'].*", tag) is not None:
-                        print(f"""logbuild_v2: invalid: {tag}""")
+                        print(f"""blogbuild_v2: invalid: {tag}""")
                         tag = "FOOBAR"
                     tags_str += f"""\n    - {tag}"""
             else:
                 tags_str = ""
             self.save_individual_post(title, content, date, tags_str, url, cover)
             count += 1
-        print(f"""logbuild_v2: total: {count} Drop Posts Generated""")
+        print(f"""blogbuild_v2: total: {count} Drop Posts Generated""")
 
     def fix_drop_content(self, drop):
         content = f"""{drop['note']}"""
@@ -251,6 +251,7 @@ date: {date}
 
 # Main program
 if __name__ == "__main__":
+    print("blogbuild_v2: start")
     blog_build = BlogBuild()
     blog_build.run()
     print("blogbuild_v2: done")
