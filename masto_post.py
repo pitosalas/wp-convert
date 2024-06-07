@@ -86,7 +86,7 @@ class MastoPost:
             return
         rest_url: str = "https://ruby.social/api/v1/statuses"
         salas_url_with_slug = self.get_salas_url_with_slug(title, date)
-        status: str = f"""{content} {tags_str}{url}: "{title}"({salas_url_with_slug})"""
+        status: str = f"""{content} {tags_str} {salas_url_with_slug}: from: "{title}"({url})"""
         json_data_dict: dict[str, JsonValue] = {"status": status}
         self.masto_post_count += 1
         if SAFE_MODE:
