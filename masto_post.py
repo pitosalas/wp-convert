@@ -82,8 +82,11 @@ class MastoPost:
         return url_with_slug
     
     def create_masto_post(self, title: str, content: str, date: str, tags_str: str, url: str, cover: str) -> None:
-        if url in self.masto_urls or self.masto_post_count >= MASTO_MAX_POST_PER_RUN:
-            print(f"""masto_post: skipping because masto post was previously added or reached maximum""")
+        if url in self.masto_urls:
+            print(f"""masto_post: skipping because {title} }was previously added""")
+            return
+        if self.masto_post_count >= MASTO_MAX_POST_PER_RUN:
+            print(f"""masto_post: skipping because {title} reached maximum""")
             return
         rest_url: str = "https://ruby.social/api/v1/statuses"
         salas_url_with_slug = self.get_salas_url_with_slug(title, date)
