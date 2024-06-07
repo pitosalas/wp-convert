@@ -75,7 +75,7 @@ class MastoPost:
             count += 1
         print(f"""masto_post {count} Drop Posts Processed, {self.masto_post_count} masto posts performed""")
 
-    def get_salas_url_with_slug(self, title: str, date_str: str):
+    def get_salas_url_with_slug(self, title, date_str):
         slug = ext.slugs._make_slug_short(title, "-", kwargs={'short' : True})
         date_str = date_str.replace("-", "/")
         url_with_slug = f"https://salas.com/{date_str}/{slug}/"
