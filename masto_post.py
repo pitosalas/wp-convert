@@ -8,8 +8,8 @@ from typing import Union
 import ext.slugs
 
 MASTO_URL_FILE = "data/masto_url_list.json"
-SAFE_MODE = True
-MASTO_MAX_POST_PER_RUN = 3
+SAFE_MODE = False
+MASTO_MAX_POST_PER_RUN = 1
 
 JsonValue = Union[str, dict[str, str]]
 class MastoPost:
