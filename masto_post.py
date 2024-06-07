@@ -92,7 +92,7 @@ class MastoPost:
         rest_url: str = "https://ruby.social/api/v1/statuses"
         salas_url_with_slug = self.get_salas_url_with_slug(title, date)
         content_max_length = MASTO_MAX_STATUS_LENGTH - len(tags_str) - len(url) - len(title) - 20
-        abbreviated_content = content if len(content) <= content_max_length else content[:347] + "..."
+        abbreviated_content = content if len(content) <= content_max_length else content[:content_max_length] + "..."
         status = f"""{abbreviated_content} {tags_str}: from: "{title}"({url})"""
         # status = f""" {tags_str} {salas_url_with_slug}: from: "{title}"({url})"""
         json_data_dict: dict[str, JsonValue] = {"status": status}
@@ -105,7 +105,7 @@ class MastoPost:
                 self.masto_urls.append(url)
                 print(f"masto_post: successful posting {title}")
             else:
-                print(f"masto_post: error posting: {response.status_code} on {title}")
+                print(f"masto_post: error posting: {response.status_code} on {title}[{len(status)}]")
 
     def run(self):
         self.retrieve_api_drops_from_file()
