@@ -1,0 +1,34 @@
+.md-post--excerpt {
+  margin-bottom: 1.5em;
+}
+
+.md-post {
+  border-bottom: .1rem solid var(--md-default-fg-color--light);
+}
+
+@media screen and (max-width: 76.2344em) {
+  .md-tabs {
+    display: initial;
+  }
+}
+
+.banner img {
+  width: 100%;
+  height: 100px;
+  display: block;
+}
+.md-typeset ol li, .md-typeset ul li {
+  margin-bottom: 0px;
+}
+
+img.cover {
+    float: right;
+    margin-left: 15px; /* Adds space between the text and the image */
+    width: 200px;
+}
+
+.blue-bar {
+  width: 100%;
+  height: 10px;
+  background-color: hsla(186, 89%, 27%, 0.78);
+}
