@@ -1,0 +1,16 @@
+[tool.black]
+line-length = 75
+
+[tool.docformatter]
+recursive = true
+wrap-summaries = 82
+wrap-descriptions = 81
+blank = true
+
+[tool.ruff]
+line-length = 80
+
+[tool.ruff.format]
+quote-style = "single"
+indent-style = "space"
+docstring-code-format = true

@@ -16,18 +16,21 @@ jobs:
       CI_COMMIT_AUTHOR: GH action
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
+        with: 
+          fetch-depth: 0
       - name: Configure Git Credentials
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-      - name: install stuff
+      - name: install python
         uses: actions/setup-python@v4
         with:
           python-version: 3.x
-      - name: Cache 
+      - name: Setup github_eng with cache 
         run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
-      - name: mkdocs-material
+      - name: grab content via cahce if possible
         uses: actions/cache@v3
         with:
           key: mkdocs-material-${{ env.cache_id }}
@@ -41,7 +44,7 @@ jobs:
           pip install mkdocs-section-index
           pip install html2text
           pip install mkdocs-rss-plugin
-      - name: run tools
+      - name: run the pipeline
         run: | 
           python raindrop_api_import.py
           python masto_post.py

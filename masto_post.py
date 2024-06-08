@@ -2,7 +2,6 @@ import json
 from typing import Union
 from blogbuild_v2 import fix_drop_date, fix_drop_tags
 import requests
-import re
 import os
 from typing import Union
 import ext.slugs
