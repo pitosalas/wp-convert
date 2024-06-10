@@ -54,7 +54,7 @@ class MastoPost:
         count = 0
         for index, (drop_title, drop) in enumerate(self.drops.items()):
             # print(f"Processing {count} {drop_title}")
-            if count > 5:
+            if count > 10:
                 count += 1
                 continue
             title = drop_title
