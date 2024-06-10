@@ -479,6 +479,15 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#geeky-a-dsl-for-image-analysis" class="md-nav__link">
+    <span class="md-ellipsis">
+      [GEEKY] A DSL for Image Analysis
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#wandering-through-asia" class="md-nav__link">
     <span class="md-ellipsis">
       Wandering through Asia
@@ -554,15 +563,6 @@
   <a href="#whats-next-in-tech-event-in-boston-in-june" class="md-nav__link">
     <span class="md-ellipsis">
       “What’s next in tech” event in Boston in June
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#back-from-barcamp-boston" class="md-nav__link">
-    <span class="md-ellipsis">
-      Back from Barcamp Boston
     </span>
   </a>
   
@@ -1213,6 +1213,15 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#geeky-a-dsl-for-image-analysis" class="md-nav__link">
+    <span class="md-ellipsis">
+      [GEEKY] A DSL for Image Analysis
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#wandering-through-asia" class="md-nav__link">
     <span class="md-ellipsis">
       Wandering through Asia
@@ -1293,15 +1302,6 @@
   
 </li>
       
-        <li class="md-nav__item">
-  <a href="#back-from-barcamp-boston" class="md-nav__link">
-    <span class="md-ellipsis">
-      Back from Barcamp Boston
-    </span>
-  </a>
-  
-</li>
-      
     </ul>
   
 </nav>
@@ -1316,6 +1316,142 @@
       <header class="md-typeset">
         <h1 id="index">Index</h1>
       </header>
+      
+        <!--
+  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Post excerpt -->
+<article class="md-post md-post--excerpt">
+  <header class="md-post__header">
+
+    <!-- Post authors -->
+    
+
+    <!-- Post metadata -->
+    <div class="md-post__meta md-meta">
+      <ul class="md-meta__list">
+
+        <!-- Post date -->
+        <li class="md-meta__item">
+          <time datetime="2009-06-03 00:00:00">June 3, 2009</time></li>
+
+        <!-- Post categories -->
+        
+
+        <!-- Post readtime -->
+        
+        
+        <li class="md-meta__item">
+          
+          2 min read
+          
+        </li>
+        
+      </ul>
+
+      <!-- Draft marker -->
+      
+    </div>
+  </header>
+  <div>
+
+    <!-- Post content -->
+    <div class="md-post__content md-typeset">
+      <h2 id="geeky-a-dsl-for-image-analysis"><a class="toclink" href="../../2009/06/03/geeky-a-dsl-for-image/">[GEEKY] A DSL for Image Analysis</a></h2>
+<p>I have been working quite a lot on <strong>Election Reform</strong>   over the last few
+weeks, at least from the technology side.</p>
+<p>To be honest there is just so much I could be blogging about in this narrow
+specialized space that <a href="http://wiki.trustthevote.org/index.php/Main_Page">my cup
+overfloweth</a>, but also it
+has been an impediment, not knowing where to start. There's so much background
+and new new learning (for me anyway) that it's been daunting.</p>
+<p>Herewith the start of my attempts to further document what I am up to.</p>
+<p>One task I've taken on is prototyping a "<a href="http://www.sos.ca.gov/elections/elections_peas.htm">post election
+audit</a>" system (more on
+this soon.) Basically at the heart of that beast is a bit of code to analyze
+an image of a ballot and figure out what the vote was.</p>
+<p><strong>For now</strong> my programming language of choice is <strong>Ruby</strong> , although image
+processing with Ruby <strong>may still turn out to be impractical</strong>. I've been
+studying up on the task, reading books (see <a href="http://www.amazon.com/gp/product/052188411X?ie=UTF8&amp;tag=blogbridge-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=052188411X">Practical Algorithms for Image
+Analysis</a><img alt="" src="http://www.assoc-
+amazon.com/e/ir?t=blogbridge-20&amp;l=as2&amp;o=1&amp;a=052188411X" />, for example) and
+studying techniques and image processing code libraries that seem appropriate.</p>
+<p>Two of the biggies I have come across are
+<a href="http://rmagick.rubyforge.org/">RMagick/ImageMagick</a> and
+<a href="http://opencv.willowgarage.com/wiki/">OpenCV</a>. Both have a lot of history
+and dynamic communities. <strong>I don 't know yet</strong> which is the best one to use.
+The investigation <strong>continues</strong>.</p>
+<p>But one idea I have started to implement which is quite fruitful on many
+levels is a "<a href="http://www.oreillynet.com/ruby/blog/2005/12/what_is_a_dsl.html">Domain Specific
+Language</a>"
+for Image Analysis. There is a lot of literature on creating DSLs, and in
+particular DSLs hosted on Ruby. They are easy to do and in this particular
+domain, add a lot to my productivity and ability to frame and comprehend what
+the heck I am doing.</p>
+<p>I won't go into hairy technical detail here but I would be glad to share my
+approach and my code with anyone who asks. Here's what one of my earliest test
+programs look like as written in this home-brew DSL:</p>
+<p>`<br />
+open_image :one, "432Leon200dpibw431.tif"<br />
+open_image :target, "target2.tif"<br />
+open_image :t3, "target3.tif"  </p>
+<h2 id="_1"><a class="toclink" href="../../2009/06/03/geeky-a-dsl-for-image/#_1"></a></h2>
+<p>binarize :one<br />
+binarize :target  </p>
+<h2 id="_2"><a class="toclink" href="../../2009/06/03/geeky-a-dsl-for-image/#_2"></a></h2>
+<p>find_similar_regions :one, :target, :points<br />
+print :points  </p>
+<h2 id="_3"><a class="toclink" href="../../2009/06/03/geeky-a-dsl-for-image/#_3"></a></h2>
+<p>relativize_points :points, :outpoints<br />
+print :outpoints  </p>
+<h2 id="_4"><a class="toclink" href="../../2009/06/03/geeky-a-dsl-for-image/#_4"></a></h2>
+<p>deskew :one<br />
+write_image :one, "432Deskewed.tif"<br />
+find_first_nonwhite_row :one, :nonwhite_row<br />
+print :nonwhite_row<br />
+`</p>
+<p>See how it talks in very high level primitives about image processing? Also
+see how the choice between OpenCV and RMagick is totally hidden? I can change
+my mind later and not break anything Is it kind of readable?</p>
+<p>I will build out this DSL just in the direction and to the extent needed for
+my particular task, Ballot analysis. But you can see that it can go pretty
+far. How'd'you like it?</p>
+<p>Technorati Tags: <a href="http://technorati.com/tag/dsl">dsl</a>,
+<a href="http://technorati.com/tag/ruby">ruby</a>,
+<a href="http://technorati.com/tag/opencv">opencv</a>,
+<a href="http://technorati.com/tag/imagemagick">imagemagick</a>,
+<a href="http://technorati.com/tag/ballots">ballots</a></p>
+<ul>
+<li><strong>Link to site:</strong> <strong><a href="None">[GEEKY] A DSL for Image Analysis</a></strong></li>
+</ul>
+
+      <!-- Continue reading link -->
+      <nav class="md-post__action">
+        <a href="../../2009/06/03/geeky-a-dsl-for-image/">
+          Continue reading
+        </a>
+      </nav>
+    </div>
+</article>
       
         <!--
   Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
@@ -2131,99 +2267,6 @@ event</a>.</strong></p>
       <!-- Continue reading link -->
       <nav class="md-post__action">
         <a href="../../2009/04/30/whats-next-in-tech-event/">
-          Continue reading
-        </a>
-      </nav>
-    </div>
-</article>
-      
-        <!--
-  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Post excerpt -->
-<article class="md-post md-post--excerpt">
-  <header class="md-post__header">
-
-    <!-- Post authors -->
-    
-
-    <!-- Post metadata -->
-    <div class="md-post__meta md-meta">
-      <ul class="md-meta__list">
-
-        <!-- Post date -->
-        <li class="md-meta__item">
-          <time datetime="2009-04-27 00:00:00">April 27, 2009</time></li>
-
-        <!-- Post categories -->
-        
-
-        <!-- Post readtime -->
-        
-        
-        <li class="md-meta__item">
-          
-          2 min read
-          
-        </li>
-        
-      </ul>
-
-      <!-- Draft marker -->
-      
-    </div>
-  </header>
-  <div>
-
-    <!-- Post content -->
-    <div class="md-post__content md-typeset">
-      <h2 id="back-from-barcamp-boston"><a class="toclink" href="../../2009/04/27/back-from-barcamp-boston/">Back from Barcamp Boston</a></h2>
-<p><a href="http://www.flickr.com/photos/xxv/3480291552/sizes/o/"><img alt="" src="https://i0.wp.com/farm4.static.flickr.com/3569/3480291552_47e25d7520_m.jpg?resize=240%2C118" /></a></p>
-<p>This weekend I had a chance to attend BarCamp Boston (4). As usual it was fun
-and interesting and I had a chance to hang out and talk with a bunch of
-interesting people.</p>
-<p>If you don't know how a Bar Camp works, it is of the genre of "Unconferences"
-and one of the keys is that it has no program, ahead of time.</p>
-<p>Kind of a leap of faith, you know? Anyway, the image to the left (and click on
-it to see the enlargement) shows how at the end of the meeting the program is
-fully visible, and actually quite interesting! Click on it to see a big
-englargement.</p>
-<p><a href="https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-
-content/uploads/2009/04/picture-1.png"><img alt="my
-card" src="https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-
-content/uploads/2009/04/picture-1.png?resize=251%2C202" /></a><br />
-Also for the first time, I got up the nerve to do a session on Voting
-Technology, my current focus area.</p>
-<p>And here is a closeup of my brilliant bit of marketing for my session. The
-checkmarks are how other attendees indicate their interest in a topic, which
-is how it ends up on the board. I think I had about 10-15 people participate.
-It was cool.</p>
-<ul>
-<li><strong>Link to site:</strong> <strong><a href="None">Back from Barcamp Boston</a></strong></li>
-</ul>
-
-      <!-- Continue reading link -->
-      <nav class="md-post__action">
-        <a href="../../2009/04/27/back-from-barcamp-boston/">
           Continue reading
         </a>
       </nav>

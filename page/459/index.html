@@ -479,6 +479,15 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#blogbridge-open-source-license" class="md-nav__link">
+    <span class="md-ellipsis">
+      BlogBridge open source license
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#can-you-change-the-license-of-an-open-source-product" class="md-nav__link">
     <span class="md-ellipsis">
       Can you change the license of an Open Source product?
@@ -554,15 +563,6 @@
   <a href="#will-wikis-rule-the-world" class="md-nav__link">
     <span class="md-ellipsis">
       Will Wikis Rule the World?
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#mac-osx-not-easy-to-use" class="md-nav__link">
-    <span class="md-ellipsis">
-      Mac OSX not easy to use!
     </span>
   </a>
   
@@ -1213,6 +1213,15 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#blogbridge-open-source-license" class="md-nav__link">
+    <span class="md-ellipsis">
+      BlogBridge open source license
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#can-you-change-the-license-of-an-open-source-product" class="md-nav__link">
     <span class="md-ellipsis">
       Can you change the license of an Open Source product?
@@ -1293,15 +1302,6 @@
   
 </li>
       
-        <li class="md-nav__item">
-  <a href="#mac-osx-not-easy-to-use" class="md-nav__link">
-    <span class="md-ellipsis">
-      Mac OSX not easy to use!
-    </span>
-  </a>
-  
-</li>
-      
     </ul>
   
 </nav>
@@ -1316,6 +1316,122 @@
       <header class="md-typeset">
         <h1 id="index">Index</h1>
       </header>
+      
+        <!--
+  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Post excerpt -->
+<article class="md-post md-post--excerpt">
+  <header class="md-post__header">
+
+    <!-- Post authors -->
+    
+
+    <!-- Post metadata -->
+    <div class="md-post__meta md-meta">
+      <ul class="md-meta__list">
+
+        <!-- Post date -->
+        <li class="md-meta__item">
+          <time datetime="2004-08-05 00:00:00">August 5, 2004</time></li>
+
+        <!-- Post categories -->
+        
+
+        <!-- Post readtime -->
+        
+        
+        <li class="md-meta__item">
+          
+          2 min read
+          
+        </li>
+        
+      </ul>
+
+      <!-- Draft marker -->
+      
+    </div>
+  </header>
+  <div>
+
+    <!-- Post content -->
+    <div class="md-post__content md-typeset">
+      <h2 id="blogbridge-open-source-license"><a class="toclink" href="../../2004/08/05/blogbridge-open-source-license/">BlogBridge open source license</a></h2>
+<p>I've done a little research about what the Open Source really means, legally,
+when it comes to <a href="http://www.blogbridge.com">BlogBridge</a>. I wrote about this
+question a few months ago, and now, having consulted with people who know,
+here's an update.</p>
+<blockquote>
+<blockquote>
+<p>First of all, start with the goals.</p>
+<ul>
+<li>BlogBridge should be available, in source code form and executable form
+to everyone who wants to look at it and use it. It should be a bona fida open
+source project.<br />
+<strong>Reasoning</strong> : We will be able to recruit others to help us build it; It is
+a significant differentiator among the other blog readers out there; And we
+can legitimately use services such as Source Forge to manage the project and
+its source code.</li>
+<li>If a commercial entity wants to use the code to build a commercial
+business, we would like them to have to come to us for permission.<br />
+<strong>Reasoning</strong> : Obviously, we aren't making any money on this; if someone
+else wants to, it would be nice if we were involved.</li>
+</ul>
+<p>As it turns out, this is not an unusual set of objectives, and it is pretty
+straightforward to achieve.</p>
+<p>As of BlogBridge 0.5.4, the <strong>product will be licensed under the GPL</strong>
+(rather than the <a href="http://www.gnu.org/copyleft/lesser.html">LGPL </a>which is
+what we had before.)</p>
+<p>The effect of this is that the first objective above is fully achieved
+<strong>implicitly</strong>. The second objective is achieved, indirectly:</p>
+<p>Because the GPL is quite strict in its requirements of releasing any
+modifications, enhancements, etc also under the GPL, it makes the <strong>source
+code as it stands</strong> unsuitable for a commercial purpose. The obligations
+attached to modifying the source would really discourage anyone from building
+a business around it.</p>
+<p>(You might wonder, once you've released something as Open Source, can you
+decide to change the license? Isn't that prohibited? <a href="/weblogs/archives/000471.html">It turns out that it's
+perfectly alright.</a>)</p>
+<p>The code as it stands therefore is <strong>incompatible</strong> with a commercial
+project. If we decide that we want to embark on, or give someone else the
+ability to embark on a commercial project, what do we do?</p>
+<p>We release a copy of the source code under a different, commerical license.
+This copy forms the basis of the commerical project. It's called "<strong>dual
+licensing "</strong> and it's a well understood and accepted model.</p>
+</blockquote>
+</blockquote>
+<ul>
+<li><strong>Link to site:</strong> <strong><a href="None">BlogBridge open source license</a></strong></li>
+</ul>
+
+      <!-- Continue reading link -->
+      <nav class="md-post__action">
+        <a href="../../2004/08/05/blogbridge-open-source-license/">
+          Continue reading
+        </a>
+      </nav>
+    </div>
+</article>
       
         <!--
   Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
@@ -2119,130 +2235,6 @@ sales approach.</p>
       <!-- Continue reading link -->
       <nav class="md-post__action">
         <a href="../../2004/07/23/will-wikis-rule-the-world/">
-          Continue reading
-        </a>
-      </nav>
-    </div>
-</article>
-      
-        <!--
-  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Post excerpt -->
-<article class="md-post md-post--excerpt">
-  <header class="md-post__header">
-
-    <!-- Post authors -->
-    
-
-    <!-- Post metadata -->
-    <div class="md-post__meta md-meta">
-      <ul class="md-meta__list">
-
-        <!-- Post date -->
-        <li class="md-meta__item">
-          <time datetime="2004-07-22 00:00:00">July 22, 2004</time></li>
-
-        <!-- Post categories -->
-        
-
-        <!-- Post readtime -->
-        
-        
-        <li class="md-meta__item">
-          
-          2 min read
-          
-        </li>
-        
-      </ul>
-
-      <!-- Draft marker -->
-      
-    </div>
-  </header>
-  <div>
-
-    <!-- Post content -->
-    <div class="md-post__content md-typeset">
-      <h2 id="mac-osx-not-easy-to-use"><a class="toclink" href="../../2004/07/22/mac-osx-not-easy-to/">Mac OSX not easy to use!</a></h2>
-<p>Years ago I was a hardcore Mac fanatic. I was one of the creators of a long-
-gone early Macintosh application called Jazz. I programmed on a Lisa in 68000
-assembly language. As I said, a long time ago 🙂</p>
-<blockquote>
-<blockquote>
-<p>Anyway, for years I've been a PC guy, but still with a warm spot in my
-heart for Mac. Recently we got an iBook in our family and so I had a chance to
-reaquaint myself with how the world had changed.</p>
-<p>After hearing disparaging remarks from Mac folks about Windows XP lack of
-usability and elegance I was all set to be blown away by OSX. Here some first
-impressions.</p>
-<ul>
-<li>
-<p>Yes indeed, OSX is beautiful to look at. It wows you with some nifty
-and novel animations. The level of design, colors, icons, etc. is all really
-enjoyable to look at.</p>
-</li>
-<li>
-<p>OSX has a little Unix heart beating inside it. This means it's nirvana
-for Unix folks. But to the average joe it also means something: stability. It
-has yet to crash on me.</p>
-</li>
-<li>
-<p>I can't believe that it still has only a single button mouse. And it's
-funny because you can see how OSX gradually is inching towards giving in on
-this little bit of obsolete religion. If you plug a 2 button mouse into the
-USB port, it works like a charm. And the scroll wheel works. And some
-applications even put up a context menu. But because Mac is conflicted about
-this, this is not nearly consistent and pervasive enough.</p>
-</li>
-<li>
-<p>Gluing the menu bar to the top of the screen an antiquated holdover
-from when screens were tiny and there was no multi-tasking (even the term
-multi-tasking sounds quaint given that everyone does it.) The result is that
-it's often not obvious what application you are in.</p>
-</li>
-<li>
-<p>And while the dialog boxes are pretty, they are not necessarily well
-designed. One trivial example: if you are setting up your airport, and you
-have enabled security (like everyone does) then it is not explained anywhere
-that you must precede the hex password with a dollar sign to get it to work.
-Another trivial one: in more than one place I was 4 steps down a 'wizard' when
-I decided to quit out of it, except there was no Cancel button. I had to
-'back-back-back' to get back to the start.</p>
-</li>
-</ul>
-<p>Anyway there you have it. I think with this experience I would debate the
-Mac user's claim that Mac is inherently easier to use than WInXP. First of
-all, it's more similar than different and second of all, it's not all good.</p>
-</blockquote>
-</blockquote>
-<ul>
-<li><strong>Link to site:</strong> <strong><a href="None">Mac OSX not easy to use!</a></strong></li>
-</ul>
-
-      <!-- Continue reading link -->
-      <nav class="md-post__action">
-        <a href="../../2004/07/22/mac-osx-not-easy-to/">
           Continue reading
         </a>
       </nav>
