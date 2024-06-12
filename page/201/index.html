@@ -479,6 +479,24 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#ruby-concurrency-in-praise-of-condition-variables-vaneycktio" class="md-nav__link">
+    <span class="md-ellipsis">
+      Ruby concurrency: in praise of condition variables · vaneyckt.io
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ruby-goes-serverless-apache-openwhisk-adds-native-support-for-ruby" class="md-nav__link">
+    <span class="md-ellipsis">
+      Ruby goes Serverless! - Apache OpenWhisk adds native support for Ruby
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#ruby-introduces-find-pattern-in-pattern-matching-saeloun-blog" class="md-nav__link">
     <span class="md-ellipsis">
       Ruby introduces find pattern in pattern matching | Saeloun Blog
@@ -545,24 +563,6 @@
   <a href="#ruby-tricks-for-junior-developers-drivy-engineering" class="md-nav__link">
     <span class="md-ellipsis">
       Ruby tricks for junior developers | Drivy Engineering
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#rubydocinfo-library-listing" class="md-nav__link">
-    <span class="md-ellipsis">
-      RubyDoc.info - Library Listing
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#rubyidioms-tokland-ruby-conventions-and-idioms-my-personal-repository-for-code-and-documentation-google-project-hosting" class="md-nav__link">
-    <span class="md-ellipsis">
-      RubyIdioms - tokland - Ruby conventions and idioms - My personal repository for code and documentation - Google Project Hosting
     </span>
   </a>
   
@@ -1213,6 +1213,24 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#ruby-concurrency-in-praise-of-condition-variables-vaneycktio" class="md-nav__link">
+    <span class="md-ellipsis">
+      Ruby concurrency: in praise of condition variables · vaneyckt.io
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ruby-goes-serverless-apache-openwhisk-adds-native-support-for-ruby" class="md-nav__link">
+    <span class="md-ellipsis">
+      Ruby goes Serverless! - Apache OpenWhisk adds native support for Ruby
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#ruby-introduces-find-pattern-in-pattern-matching-saeloun-blog" class="md-nav__link">
     <span class="md-ellipsis">
       Ruby introduces find pattern in pattern matching | Saeloun Blog
@@ -1284,24 +1302,6 @@
   
 </li>
       
-        <li class="md-nav__item">
-  <a href="#rubydocinfo-library-listing" class="md-nav__link">
-    <span class="md-ellipsis">
-      RubyDoc.info - Library Listing
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#rubyidioms-tokland-ruby-conventions-and-idioms-my-personal-repository-for-code-and-documentation-google-project-hosting" class="md-nav__link">
-    <span class="md-ellipsis">
-      RubyIdioms - tokland - Ruby conventions and idioms - My personal repository for code and documentation - Google Project Hosting
-    </span>
-  </a>
-  
-</li>
-      
     </ul>
   
 </nav>
@@ -1316,6 +1316,159 @@
       <header class="md-typeset">
         <h1 id="index">Index</h1>
       </header>
+      
+        <!--
+  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Post excerpt -->
+<article class="md-post md-post--excerpt">
+  <header class="md-post__header">
+
+    <!-- Post authors -->
+    
+
+    <!-- Post metadata -->
+    <div class="md-post__meta md-meta">
+      <ul class="md-meta__list">
+
+        <!-- Post date -->
+        <li class="md-meta__item">
+          <time datetime="2021-04-06 00:00:00">April 6, 2021</time></li>
+
+        <!-- Post categories -->
+        
+
+        <!-- Post readtime -->
+        
+        
+        <li class="md-meta__item">
+          
+          1 min read
+          
+        </li>
+        
+      </ul>
+
+      <!-- Draft marker -->
+      
+    </div>
+  </header>
+  <div>
+
+    <!-- Post content -->
+    <div class="md-post__content md-typeset">
+      <h2 id="ruby-concurrency-in-praise-of-condition-variables-vaneycktio"><a class="toclink" href="../../2021/04/06/ruby-concurrency-in-praise-of/">Ruby concurrency: in praise of condition variables · vaneyckt.io</a></h2>
+<p><img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fvaneyckt.io%2Fposts%2Fruby_concurrency_in_praise_of_condition_variables></p>
+<ul>
+<li><strong>Link to site:</strong> <strong><a href="https://vaneyckt.io/posts/ruby_concurrency_in_praise_of_condition_variables">Ruby concurrency: in praise of condition variables · vaneyckt.io</a></strong></li>
+</ul>
+
+      <!-- Continue reading link -->
+      <nav class="md-post__action">
+        <a href="../../2021/04/06/ruby-concurrency-in-praise-of/">
+          Continue reading
+        </a>
+      </nav>
+    </div>
+</article>
+      
+        <!--
+  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Post excerpt -->
+<article class="md-post md-post--excerpt">
+  <header class="md-post__header">
+
+    <!-- Post authors -->
+    
+
+    <!-- Post metadata -->
+    <div class="md-post__meta md-meta">
+      <ul class="md-meta__list">
+
+        <!-- Post date -->
+        <li class="md-meta__item">
+          <time datetime="2021-04-06 00:00:00">April 6, 2021</time></li>
+
+        <!-- Post categories -->
+        
+
+        <!-- Post readtime -->
+        
+        
+        <li class="md-meta__item">
+          
+          1 min read
+          
+        </li>
+        
+      </ul>
+
+      <!-- Draft marker -->
+      
+    </div>
+  </header>
+  <div>
+
+    <!-- Post content -->
+    <div class="md-post__content md-typeset">
+      <h2 id="ruby-goes-serverless-apache-openwhisk-adds-native-support-for-ruby"><a class="toclink" href="../../2021/04/06/ruby-goes-serverless--/">Ruby goes Serverless! - Apache OpenWhisk adds native support for Ruby</a></h2>
+<p><img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fmedium.com%2Fopenwhisk%2Fruby-goes-serverless-apache-openwhisk-adds-native-support-for-ruby-7134faee14e></p>
+<ul>
+<li>
+<p><strong>Web site excerpt:</strong> Title says it all.</p>
+</li>
+<li>
+<p><strong>Link to site:</strong> <strong><a href="https://medium.com/openwhisk/ruby-goes-serverless-apache-openwhisk-adds-native-support-for-ruby-7134faee14e">Ruby goes Serverless! - Apache OpenWhisk adds native support for Ruby</a></strong></p>
+</li>
+</ul>
+
+      <!-- Continue reading link -->
+      <nav class="md-post__action">
+        <a href="../../2021/04/06/ruby-goes-serverless--/">
+          Continue reading
+        </a>
+      </nav>
+    </div>
+</article>
       
         <!--
   Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
@@ -1933,159 +2086,6 @@
       <!-- Continue reading link -->
       <nav class="md-post__action">
         <a href="../../2021/04/06/ruby-tricks-for-junior-developers/">
-          Continue reading
-        </a>
-      </nav>
-    </div>
-</article>
-      
-        <!--
-  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Post excerpt -->
-<article class="md-post md-post--excerpt">
-  <header class="md-post__header">
-
-    <!-- Post authors -->
-    
-
-    <!-- Post metadata -->
-    <div class="md-post__meta md-meta">
-      <ul class="md-meta__list">
-
-        <!-- Post date -->
-        <li class="md-meta__item">
-          <time datetime="2021-04-06 00:00:00">April 6, 2021</time></li>
-
-        <!-- Post categories -->
-        
-
-        <!-- Post readtime -->
-        
-        
-        <li class="md-meta__item">
-          
-          1 min read
-          
-        </li>
-        
-      </ul>
-
-      <!-- Draft marker -->
-      
-    </div>
-  </header>
-  <div>
-
-    <!-- Post content -->
-    <div class="md-post__content md-typeset">
-      <h2 id="rubydocinfo-library-listing"><a class="toclink" href="../../2021/04/06/rubydocinfo---library-listing/">RubyDoc.info - Library Listing</a></h2>
-<p><img class="cover" src=https://rdl.ink/render/http%3A%2F%2Frubydoc.info%2Ffeatured></p>
-<ul>
-<li><strong>Link to site:</strong> <strong><a href="http://rubydoc.info/featured">RubyDoc.info - Library Listing</a></strong></li>
-</ul>
-
-      <!-- Continue reading link -->
-      <nav class="md-post__action">
-        <a href="../../2021/04/06/rubydocinfo---library-listing/">
-          Continue reading
-        </a>
-      </nav>
-    </div>
-</article>
-      
-        <!--
-  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Post excerpt -->
-<article class="md-post md-post--excerpt">
-  <header class="md-post__header">
-
-    <!-- Post authors -->
-    
-
-    <!-- Post metadata -->
-    <div class="md-post__meta md-meta">
-      <ul class="md-meta__list">
-
-        <!-- Post date -->
-        <li class="md-meta__item">
-          <time datetime="2021-04-06 00:00:00">April 6, 2021</time></li>
-
-        <!-- Post categories -->
-        
-
-        <!-- Post readtime -->
-        
-        
-        <li class="md-meta__item">
-          
-          1 min read
-          
-        </li>
-        
-      </ul>
-
-      <!-- Draft marker -->
-      
-    </div>
-  </header>
-  <div>
-
-    <!-- Post content -->
-    <div class="md-post__content md-typeset">
-      <h2 id="rubyidioms-tokland-ruby-conventions-and-idioms-my-personal-repository-for-code-and-documentation-google-project-hosting"><a class="toclink" href="../../2021/04/06/rubyidioms---tokland-/">RubyIdioms - tokland - Ruby conventions and idioms - My personal repository for code and documentation - Google Project Hosting</a></h2>
-<p><img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fcode.google.com%2Fp%2Ftokland%2Fwiki%2FRubyIdioms></p>
-<ul>
-<li>
-<p><strong>Web site excerpt:</strong> Very nice list of idioms</p>
-</li>
-<li>
-<p><strong>Link to site:</strong> <strong><a href="http://code.google.com/p/tokland/wiki/RubyIdioms">RubyIdioms - tokland - Ruby conventions and idioms - My personal repository for code and documentation - Google Project Hosting</a></strong></p>
-</li>
-</ul>
-
-      <!-- Continue reading link -->
-      <nav class="md-post__action">
-        <a href="../../2021/04/06/rubyidioms---tokland-/">
           Continue reading
         </a>
       </nav>
