@@ -479,6 +479,15 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#5-questions-to-ask-when-deciding-whether-to-rely-on-s3-et-al" class="md-nav__link">
+    <span class="md-ellipsis">
+      5 Questions to ask when deciding whether to rely on S3 et al
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#the-downside-of-free-software" class="md-nav__link">
     <span class="md-ellipsis">
       The downside of free software
@@ -554,15 +563,6 @@
   <a href="#great-magazine-articles" class="md-nav__link">
     <span class="md-ellipsis">
       Great magazine articles
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#virtual-cable-takes-your-gps-and-raises-you-a-heads-up-display" class="md-nav__link">
-    <span class="md-ellipsis">
-      Virtual Cable takes your GPS and raises you a heads-up display
     </span>
   </a>
   
@@ -1213,6 +1213,15 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#5-questions-to-ask-when-deciding-whether-to-rely-on-s3-et-al" class="md-nav__link">
+    <span class="md-ellipsis">
+      5 Questions to ask when deciding whether to rely on S3 et al
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#the-downside-of-free-software" class="md-nav__link">
     <span class="md-ellipsis">
       The downside of free software
@@ -1293,15 +1302,6 @@
   
 </li>
       
-        <li class="md-nav__item">
-  <a href="#virtual-cable-takes-your-gps-and-raises-you-a-heads-up-display" class="md-nav__link">
-    <span class="md-ellipsis">
-      Virtual Cable takes your GPS and raises you a heads-up display
-    </span>
-  </a>
-  
-</li>
-      
     </ul>
   
 </nav>
@@ -1316,6 +1316,119 @@
       <header class="md-typeset">
         <h1 id="index">Index</h1>
       </header>
+      
+        <!--
+  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Post excerpt -->
+<article class="md-post md-post--excerpt">
+  <header class="md-post__header">
+
+    <!-- Post authors -->
+    
+
+    <!-- Post metadata -->
+    <div class="md-post__meta md-meta">
+      <ul class="md-meta__list">
+
+        <!-- Post date -->
+        <li class="md-meta__item">
+          <time datetime="2008-02-18 00:00:00">February 18, 2008</time></li>
+
+        <!-- Post categories -->
+        
+
+        <!-- Post readtime -->
+        
+        
+        <li class="md-meta__item">
+          
+          1 min read
+          
+        </li>
+        
+      </ul>
+
+      <!-- Draft marker -->
+      
+    </div>
+  </header>
+  <div>
+
+    <!-- Post content -->
+    <div class="md-post__content md-typeset">
+      <h2 id="5-questions-to-ask-when-deciding-whether-to-rely-on-s3-et-al"><a class="toclink" href="../../2008/02/18/5-questions-to-ask-when/">5 Questions to ask when deciding whether to rely on S3 et al</a></h2>
+<p>Several products I've worked on recently have relied on Amazon's really
+impressive web services. I've written before about how much <a href="/2008/01/11/rumorville-microsoft-amazon/">I admire services
+such as S3 and EC2, solid, commercial quality infrastructure
+services</a>.</p>
+<p>They address (and? or? solve) a big problem that application builders have:</p>
+<blockquote>
+<p>"How many servers will I need, how many users will I have, how much storage
+will I need … and in the end, how much will all that cost?".</p>
+</blockquote>
+<p>They solve this by offering key components of infrastructure as a "software as
+a service", SAAS. Starting with permanent storage, which is delivered by S3,
+followed by <a href="http://www.amazon.com/b/ref=sc_fe_l_2?ie=UTF8&amp;node=201590011&amp;no=3435361&amp;me=A36L942TSJ2AJA">computes or servers, delivered by
+EC2</a>,
+and further followed by a growing variety of other infrastuctural services.</p>
+<p>Let's look at what questions to ask when deciding to use any of these
+services. For example, when deciding to depend on <a href="http://www.amazon.com/S3-AWS-home-page-
+Money/b/ref=sc_fe_l_2?ie=UTF8&amp;node=16427261&amp;no=3435361&amp;me=A36L942TSJ2AJA">Amazon's S3 storage
+service</a>
+(delivered over the internet, no hardware required) <strong>instead of</strong> buying a
+series of file and database servers (hardware) you need to consider the trade-
+offs:</p>
+<ol>
+<li>
+<p>Given my expected growth, what is the comparable cost?</p>
+</li>
+<li>
+<p>What are my options in each case if my growth doesn't actually develop as I expect?</p>
+</li>
+<li>
+<p>What is the comparable performance?</p>
+</li>
+<li>
+<p>What is the comparable reliability?</p>
+</li>
+<li>
+<p>If the whole scheme doesn't work out, how hard is it to switch?</p>
+</li>
+</ol>
+<p>You see that you end up with a fairly tricky decision matrix. More tomorrow on
+how I solved this dilemma.</p>
+<ul>
+<li><strong>Link to site:</strong> <strong><a href="None">5 Questions to ask when deciding whether to rely on S3 et al</a></strong></li>
+</ul>
+
+      <!-- Continue reading link -->
+      <nav class="md-post__action">
+        <a href="../../2008/02/18/5-questions-to-ask-when/">
+          Continue reading
+        </a>
+      </nav>
+    </div>
+</article>
       
         <!--
   Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
@@ -2108,99 +2221,6 @@ journal.org/html/17_3_urbanities-regietheater.html">City Journa: The abduction o
       <!-- Continue reading link -->
       <nav class="md-post__action">
         <a href="../../2008/02/05/great-magazine-articles/">
-          Continue reading
-        </a>
-      </nav>
-    </div>
-</article>
-      
-        <!--
-  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Post excerpt -->
-<article class="md-post md-post--excerpt">
-  <header class="md-post__header">
-
-    <!-- Post authors -->
-    
-
-    <!-- Post metadata -->
-    <div class="md-post__meta md-meta">
-      <ul class="md-meta__list">
-
-        <!-- Post date -->
-        <li class="md-meta__item">
-          <time datetime="2008-02-04 00:00:00">February 4, 2008</time></li>
-
-        <!-- Post categories -->
-        
-
-        <!-- Post readtime -->
-        
-        
-        <li class="md-meta__item">
-          
-          1 min read
-          
-        </li>
-        
-      </ul>
-
-      <!-- Draft marker -->
-      
-    </div>
-  </header>
-  <div>
-
-    <!-- Post content -->
-    <div class="md-post__content md-typeset">
-      <h2 id="virtual-cable-takes-your-gps-and-raises-you-a-heads-up-display"><a class="toclink" href="../../2008/02/04/virtual-cable-takes-your-gps/">Virtual Cable takes your GPS and raises you a heads-up display</a></h2>
-<p>This is really cool! Check out <a href="http://feeds.autoblog.com/~r/weblogsinc/autoblog/~3/202445315/">this
-post</a> from
-<a href="http://www.autoblog.com">Autoblog</a>:</p>
-<blockquote>
-<p>Filed under: Safety, TechTwo things plague GPS users: being forced to deal
-with dubious direction vocalizations and the amount of time spent looking at
-the screen when you should be paying attention to the road. MVS is
-developing a solution and it's likely the most revolutionary concept to
-date.</p>
-<p>The system is comprised of a series of mirrors that project a three-
-dimensional line onto the windshield giving drivers a heads-up display of
-their intended path of travel.</p>
-<p>(from: <a href="http://feeds.autoblog.com/~r/weblogsinc/autoblog/~3/202445315/">Virtual Cable takes your GPS and raises you a heads-up
-display</a>)</p>
-</blockquote>
-<p>The other really cool idea I have seen for making it easier to follow a route
-computed by the GPS is to <a href="http://www.engadget.com/2005/08/19/microsoft-
-files-patent-for-phantom-car/">project a virtual car on your windscreen which you
-are supposed to just follow</a>. This was from an Engadget article about a
-Microsoft Patent.</p>
-<ul>
-<li><strong>Link to site:</strong> <strong><a href="None">Virtual Cable takes your GPS and raises you a heads-up display</a></strong></li>
-</ul>
-
-      <!-- Continue reading link -->
-      <nav class="md-post__action">
-        <a href="../../2008/02/04/virtual-cable-takes-your-gps/">
           Continue reading
         </a>
       </nav>
