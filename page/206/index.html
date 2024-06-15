@@ -479,6 +479,24 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#serverless-slack-bot-on-lambda-with-ruby-and-whats-the-less-pleasant-part-about-it" class="md-nav__link">
+    <span class="md-ellipsis">
+      Serverless Slack bot on Lambda with Ruby (and what’s the less pleasant part about it)
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#serverless-status-page-system" class="md-nav__link">
+    <span class="md-ellipsis">
+      Serverless Status Page system
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#serverless-15-slower-and-8x-more-expensive" class="md-nav__link">
     <span class="md-ellipsis">
       Serverless: 15% slower and 8x more expensive
@@ -545,24 +563,6 @@
   <a href="#siege-users-manual" class="md-nav__link">
     <span class="md-ellipsis">
       Siege User's Manual
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#silobreaker-welcome" class="md-nav__link">
-    <span class="md-ellipsis">
-      Silobreaker: Welcome
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#similarity-in-postgres-and-rails-using-trigrams-pganalyze" class="md-nav__link">
-    <span class="md-ellipsis">
-      Similarity in Postgres and Rails using Trigrams · pganalyze
     </span>
   </a>
   
@@ -1213,6 +1213,24 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#serverless-slack-bot-on-lambda-with-ruby-and-whats-the-less-pleasant-part-about-it" class="md-nav__link">
+    <span class="md-ellipsis">
+      Serverless Slack bot on Lambda with Ruby (and what’s the less pleasant part about it)
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#serverless-status-page-system" class="md-nav__link">
+    <span class="md-ellipsis">
+      Serverless Status Page system
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#serverless-15-slower-and-8x-more-expensive" class="md-nav__link">
     <span class="md-ellipsis">
       Serverless: 15% slower and 8x more expensive
@@ -1284,24 +1302,6 @@
   
 </li>
       
-        <li class="md-nav__item">
-  <a href="#silobreaker-welcome" class="md-nav__link">
-    <span class="md-ellipsis">
-      Silobreaker: Welcome
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#similarity-in-postgres-and-rails-using-trigrams-pganalyze" class="md-nav__link">
-    <span class="md-ellipsis">
-      Similarity in Postgres and Rails using Trigrams · pganalyze
-    </span>
-  </a>
-  
-</li>
-      
     </ul>
   
 </nav>
@@ -1316,6 +1316,164 @@
       <header class="md-typeset">
         <h1 id="index">Index</h1>
       </header>
+      
+        <!--
+  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Post excerpt -->
+<article class="md-post md-post--excerpt">
+  <header class="md-post__header">
+
+    <!-- Post authors -->
+    
+
+    <!-- Post metadata -->
+    <div class="md-post__meta md-meta">
+      <ul class="md-meta__list">
+
+        <!-- Post date -->
+        <li class="md-meta__item">
+          <time datetime="2021-04-06 00:00:00">April 6, 2021</time></li>
+
+        <!-- Post categories -->
+        
+
+        <!-- Post readtime -->
+        
+        
+        <li class="md-meta__item">
+          
+          1 min read
+          
+        </li>
+        
+      </ul>
+
+      <!-- Draft marker -->
+      
+    </div>
+  </header>
+  <div>
+
+    <!-- Post content -->
+    <div class="md-post__content md-typeset">
+      <h2 id="serverless-slack-bot-on-lambda-with-ruby-and-whats-the-less-pleasant-part-about-it"><a class="toclink" href="../../2021/04/06/serverless-slack-bot-on-lambda/">Serverless Slack bot on Lambda with Ruby (and what’s the less pleasant part about it)</a></h2>
+<p><img class="cover" src=https://blog-arkency.imgix.net/~text?bg=C41D48&fit=max&h=315&txt=Serverless%20Slack%20bot%20on%20Lambda%20with%20Ruby%20%28and%20what%E2%80%99s%20the%20less%20pleasant%20part%20about%20it%29&txtalign=middle%2Ccenter&txtclr=FFF&txtfont=Georgia%2CBold&txtpad=30&txtsize=42&w=640></p>
+<ul>
+<li>
+<p><strong>Web site excerpt:</strong> Hi, we're Arkency and it's our blog with meaty content.</p>
+</li>
+<li>
+<p><strong>Link to site:</strong> <strong><a href="https://blog.arkency.com/our-slack-bot-now-on-lambda-with-ruby">Serverless Slack bot on Lambda with Ruby (and what’s the less pleasant part about it)</a></strong></p>
+</li>
+</ul>
+
+      <!-- Continue reading link -->
+      <nav class="md-post__action">
+        <a href="../../2021/04/06/serverless-slack-bot-on-lambda/">
+          Continue reading
+        </a>
+      </nav>
+    </div>
+</article>
+      
+        <!--
+  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Post excerpt -->
+<article class="md-post md-post--excerpt">
+  <header class="md-post__header">
+
+    <!-- Post authors -->
+    
+
+    <!-- Post metadata -->
+    <div class="md-post__meta md-meta">
+      <ul class="md-meta__list">
+
+        <!-- Post date -->
+        <li class="md-meta__item">
+          <time datetime="2021-04-06 00:00:00">April 6, 2021</time></li>
+
+        <!-- Post categories -->
+        
+
+        <!-- Post readtime -->
+        
+        
+        <li class="md-meta__item">
+          
+          1 min read
+          
+        </li>
+        
+      </ul>
+
+      <!-- Draft marker -->
+      
+    </div>
+  </header>
+  <div>
+
+    <!-- Post content -->
+    <div class="md-post__content md-typeset">
+      <h2 id="serverless-status-page-system"><a class="toclink" href="../../2021/04/06/serverless-status-page-system/">Serverless Status Page system</a></h2>
+<p><img class="cover" src=https://lambstatus.github.io/logos/logo-metatag.png></p>
+<ul>
+<li>
+<p><strong>Web site excerpt:</strong> Seems like a great idea!</p>
+</li>
+<li>
+<p><strong>Link to site:</strong> <strong><a href="https://lambstatus.github.io">Serverless Status Page system</a></strong></p>
+</li>
+</ul>
+
+      <!-- Continue reading link -->
+      <nav class="md-post__action">
+        <a href="../../2021/04/06/serverless-status-page-system/">
+          Continue reading
+        </a>
+      </nav>
+    </div>
+</article>
       
         <!--
   Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
@@ -1933,164 +2091,6 @@
       <!-- Continue reading link -->
       <nav class="md-post__action">
         <a href="../../2021/04/06/siege-users-manual/">
-          Continue reading
-        </a>
-      </nav>
-    </div>
-</article>
-      
-        <!--
-  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Post excerpt -->
-<article class="md-post md-post--excerpt">
-  <header class="md-post__header">
-
-    <!-- Post authors -->
-    
-
-    <!-- Post metadata -->
-    <div class="md-post__meta md-meta">
-      <ul class="md-meta__list">
-
-        <!-- Post date -->
-        <li class="md-meta__item">
-          <time datetime="2021-04-06 00:00:00">April 6, 2021</time></li>
-
-        <!-- Post categories -->
-        
-
-        <!-- Post readtime -->
-        
-        
-        <li class="md-meta__item">
-          
-          1 min read
-          
-        </li>
-        
-      </ul>
-
-      <!-- Draft marker -->
-      
-    </div>
-  </header>
-  <div>
-
-    <!-- Post content -->
-    <div class="md-post__content md-typeset">
-      <h2 id="silobreaker-welcome"><a class="toclink" href="../../2021/04/06/silobreaker-welcome/">Silobreaker: Welcome</a></h2>
-<p><img class="cover" src=https://www.silobreaker.com/wp-content/uploads/2020/09/Silobreaker-UI-Product-Hero.gif></p>
-<ul>
-<li>
-<p><strong>Web site excerpt:</strong> Silobreaker helps security, business and intelligence professionals make sense of the overwhelming amount of data on the web.</p>
-</li>
-<li>
-<p><strong>Link to site:</strong> <strong><a href="http://www.silobreaker.com">Silobreaker: Welcome</a></strong></p>
-</li>
-</ul>
-
-      <!-- Continue reading link -->
-      <nav class="md-post__action">
-        <a href="../../2021/04/06/silobreaker-welcome/">
-          Continue reading
-        </a>
-      </nav>
-    </div>
-</article>
-      
-        <!--
-  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Post excerpt -->
-<article class="md-post md-post--excerpt">
-  <header class="md-post__header">
-
-    <!-- Post authors -->
-    
-
-    <!-- Post metadata -->
-    <div class="md-post__meta md-meta">
-      <ul class="md-meta__list">
-
-        <!-- Post date -->
-        <li class="md-meta__item">
-          <time datetime="2021-04-06 00:00:00">April 6, 2021</time></li>
-
-        <!-- Post categories -->
-        
-
-        <!-- Post readtime -->
-        
-        
-        <li class="md-meta__item">
-          
-          1 min read
-          
-        </li>
-        
-      </ul>
-
-      <!-- Draft marker -->
-      
-    </div>
-  </header>
-  <div>
-
-    <!-- Post content -->
-    <div class="md-post__content md-typeset">
-      <h2 id="similarity-in-postgres-and-rails-using-trigrams-pganalyze"><a class="toclink" href="../../2021/04/06/similarity-in-postgres-and-rails/">Similarity in Postgres and Rails using Trigrams · pganalyze</a></h2>
-<p><img class="cover" src=https://pganalyze.com/static/ef64956fa3f7e5b63be54016af025be1/b1395/similarity_in_postgres_and_ruby_on_rails_using_trigrams_pganalyze.jpg></p>
-<ul>
-<li>
-<p><strong>Web site excerpt:</strong> Useful feature of Postgres that’s right there but easy to overlook!</p>
-</li>
-<li>
-<p><strong>Link to site:</strong> <strong><a href="https://pganalyze.com/blog/similarity-in-postgres-and-ruby-on-rails-using-trigrams">Similarity in Postgres and Rails using Trigrams · pganalyze</a></strong></p>
-</li>
-</ul>
-
-      <!-- Continue reading link -->
-      <nav class="md-post__action">
-        <a href="../../2021/04/06/similarity-in-postgres-and-rails/">
           Continue reading
         </a>
       </nav>
