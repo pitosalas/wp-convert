@@ -8,14 +8,14 @@ from typing import Union
 import ext.slugs
 
 MASTO_URL_FILE = "data/masto_url_list.json"
-SAFE_MODE = True
+SAFE_MODE = False
 MASTO_MAX_POST_PER_RUN = 2
 MASTO_MAX_STATUS_LENGTH = 500
 
 JsonValue = Union[str, dict[str, str]]
 class MastoPost:
     def __init__(self):
-        self.sec_token: str = "Bearer " + os.getenv("MASTO_TOKEN", "")
+        self.sec_token: str = "os.getenv("MASTO_TOKEN", "")
         if self.sec_token == "":
             raise ValueError("MASTO_TOKEN environment variable is not set")
 
@@ -23,7 +23,7 @@ class MastoPost:
         self.headers: dict[str, str] = {
             'Accept': 'application/json',
             'User-Agent': 'Safari',
-            'Authorization': self.sec_token        
+            'Authorization': "Bearer " + self.sec_token        
         }
         self.masto_post_count: int = 0
 
@@ -94,8 +94,11 @@ class MastoPost:
         salas_url_with_slug = self.get_salas_url_with_slug(title, date)
         content_max_length = MASTO_MAX_STATUS_LENGTH - len(tags_str) - len(url) - len(title) - 20
         abbreviated_content = content if len(content) <= content_max_length else content[:content_max_length] + "..."
-        status = f"""{abbreviated_content} {tags_str}: from: "{title}"({url})"""
-        # status = f""" {tags_str} {salas_url_with_slug}: from: "{title}"({url})"""
+#       status = f"""{abbreviated_content} {tags_str}:from: "{title}"({url})"""
+#        status = f""" {abbreviated_content} {tags_str} ({salas_url_with_slug}):
+#
+#"{title}"({url})"""
+        status = f"""{abbreviated_content} {tags_str}""" 
         json_data_dict: dict[str, JsonValue] = {"status": status}
         if SAFE_MODE:
             print(f"masto_post: fake mode posting {title}")
