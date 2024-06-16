@@ -41,7 +41,7 @@ class RaindropApiImport:
                 # Removing the name key-value pair as it's already used as a dictionary key
                 del drop['title']
                 self.drops[key] = drop
-            # print(f"""Page: {page} drop: {drops} retrieved""")
+            # print(f"""Page: {page} drop: {drops} retrieved""") 
             
     def save_drops(self):
         with open('data/api_drops.json', 'w') as json_file:
