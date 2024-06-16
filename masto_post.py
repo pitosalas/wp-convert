@@ -1,4 +1,5 @@
 import json
+import random
 from typing import Union
 from blogbuild_v2 import fix_drop_date, fix_drop_tags
 import requests
@@ -7,7 +8,7 @@ from typing import Union
 import ext.slugs
 
 MASTO_URL_FILE = "data/masto_url_list.json"
-SAFE_MODE = False
+SAFE_MODE = True
 MASTO_MAX_POST_PER_RUN = 2
 MASTO_MAX_STATUS_LENGTH = 500
 
@@ -49,11 +50,13 @@ class MastoPost:
     def fix_drop_content(self, drop):
         content = f"""{drop['note']}"""
         return content
+    
+    def choose_random_drop(self) -> bool:
+        return random.randint(1, 10000) == 1
 
     def write_api_drops_to_masto(self):
         count = 0
         for index, (drop_title, drop) in enumerate(self.drops.items()):
-            # print(f"Processing {count} {drop_title}")
             if count > 10:
                 count += 1
                 continue

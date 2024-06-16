@@ -200,13 +200,10 @@ class BlogBuild:
 
     def tags_to_markdown(self, tags):
         """Given list of tag IDs as input and converts them into a markdown-
-        formatted string.
-
-        It retrieves the corresponding tag text from a dictionary and appends it
+        formatted string. It retrieves the corresponding tag text from a dictionary and appends it
         to the markdown string. If a tag ID does not have a corresponding tag
         text, it uses the string "none" instead. The function then returns the
         markdown string containing the tags.
-
         """
         tags_string = ""
         for tag_id in tags:

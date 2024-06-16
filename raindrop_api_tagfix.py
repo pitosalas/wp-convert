@@ -2,8 +2,11 @@ import json
 from time import sleep
 import requests
 import os
+from raindrop_utils import retrieve_top_collection_id as retrieve_top_collection_id
+
 class RaindropApiImport:
     def __init__(self):
+        self.sec_token = os.getenv("RAINDROP_TOKEN")
         self.headers = {
             'Accept': 'application/json',
             'User-Agent': 'Safari',
@@ -12,14 +15,8 @@ class RaindropApiImport:
         self.drops = {}
         self.topcolid = None
 
-    def retrieve_top_collection_id(self):
-        url = "https://api.raindrop.io/rest/v1/collections"
-        response = requests.get(url, headers=self.headers)
-        resp_json = response.json()['items'][0]
-        self.topcolid = resp_json["_id"]
-
-    def retrieve_tags(self):
-        url = f"https://api.raindrop.io/rest/v1/tags/{self.topcolid}"
+    def retrieve_tags(self, top_id):
+        url = f"https://api.raindrop.io/rest/v1/tags/{top_id}"
         while True:
             response = requests.get(url, headers=self.headers)
             if response.status_code != 200:
@@ -32,8 +29,8 @@ class RaindropApiImport:
             break
 
 
-    def retrieve_drops(self):
-        url = f"https://api.raindrop.io/rest/v1/raindrops/{self.topcolid}"
+    def retrieve_drops(self, top_id):
+        url = f"https://api.raindrop.io/rest/v1/raindrops/{top_id}"
         page = 0
         drops = 0
         while True:
@@ -60,8 +57,10 @@ class RaindropApiImport:
 
 
     def run(self):
-        self.retrieve_top_collection_id()
-        self.retrieve_tags()
+        top_id = retrieve_top_collection_id(self.headers)
+        #self.retrieve_tags(top_id)
+        self.retrieve_drops(top_id)
+
 
 # Main program
 if __name__ == "__main__":
