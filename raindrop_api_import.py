@@ -4,11 +4,11 @@ import requests
 import os
 class RaindropApiImport:
     def __init__(self):
-        self.sec_token = os.getenv("RAINDROP_TOKEN")
+        self.sec_token: str = str(os.getenv("RAINDROP_TOKEN"))
         self.headers = {
             'Accept': 'application/json',
             'User-Agent': 'Safari',
-            'Authorization': self.sec_token        
+            'Authorization': "Bearer " + self.sec_token        
         }
 
 
