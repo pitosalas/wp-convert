@@ -479,6 +479,24 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#the-myth-of-the-safety-of-signed-code" class="md-nav__link">
+    <span class="md-ellipsis">
+      The myth of the safety of signed code
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#i-have-nothing-to-add-about-the-grokster-decision" class="md-nav__link">
+    <span class="md-ellipsis">
+      I have nothing to add about the grokster decision
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#whats-the-best-blogging-client-on-windows" class="md-nav__link">
     <span class="md-ellipsis">
       What’s the best Blogging client on Windows?
@@ -545,24 +563,6 @@
   <a href="#what-if-we-all-vote-on-the-truth-part-2" class="md-nav__link">
     <span class="md-ellipsis">
       What if we all vote on the truth, part 2
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#distributed-network-of-service-providers" class="md-nav__link">
-    <span class="md-ellipsis">
-      Distributed network of service providers
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#making-money-with-aggregators" class="md-nav__link">
-    <span class="md-ellipsis">
-      Making money with aggregators
     </span>
   </a>
   
@@ -1213,6 +1213,24 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#the-myth-of-the-safety-of-signed-code" class="md-nav__link">
+    <span class="md-ellipsis">
+      The myth of the safety of signed code
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#i-have-nothing-to-add-about-the-grokster-decision" class="md-nav__link">
+    <span class="md-ellipsis">
+      I have nothing to add about the grokster decision
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#whats-the-best-blogging-client-on-windows" class="md-nav__link">
     <span class="md-ellipsis">
       What’s the best Blogging client on Windows?
@@ -1284,24 +1302,6 @@
   
 </li>
       
-        <li class="md-nav__item">
-  <a href="#distributed-network-of-service-providers" class="md-nav__link">
-    <span class="md-ellipsis">
-      Distributed network of service providers
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#making-money-with-aggregators" class="md-nav__link">
-    <span class="md-ellipsis">
-      Making money with aggregators
-    </span>
-  </a>
-  
-</li>
-      
     </ul>
   
 </nav>
@@ -1316,6 +1316,182 @@
       <header class="md-typeset">
         <h1 id="index">Index</h1>
       </header>
+      
+        <!--
+  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Post excerpt -->
+<article class="md-post md-post--excerpt">
+  <header class="md-post__header">
+
+    <!-- Post authors -->
+    
+
+    <!-- Post metadata -->
+    <div class="md-post__meta md-meta">
+      <ul class="md-meta__list">
+
+        <!-- Post date -->
+        <li class="md-meta__item">
+          <time datetime="2005-06-29 00:00:00">June 29, 2005</time></li>
+
+        <!-- Post categories -->
+        
+
+        <!-- Post readtime -->
+        
+        
+        <li class="md-meta__item">
+          
+          2 min read
+          
+        </li>
+        
+      </ul>
+
+      <!-- Draft marker -->
+      
+    </div>
+  </header>
+  <div>
+
+    <!-- Post content -->
+    <div class="md-post__content md-typeset">
+      <h2 id="the-myth-of-the-safety-of-signed-code"><a class="toclink" href="../../2005/06/29/the-myth-of-the-safety/">The myth of the safety of signed code</a></h2>
+<p>This is <strong>commonly accepted wisdom</strong> : When I download and install an
+application on my computer (any platform) it is a accepted wisdom that if the
+application is signed with a recognized and valid certificate, I am practicing
+safe download and my computer isn't going to be damaged. This belief is so
+<strong>entrenched</strong> that I will probably be labelled as "just doesn't get it" by
+the cognecenti for saying that the emperor has no clothes. In many cases for
+most users, there's no additional safety. When users download an application
+that is not validly signed, they get various forms of ominous warnings about
+their computer being exposed to grave danger. So far so good. However if the
+certificate is valid, the speed bump is removed, they are happily told that
+the application was signed by for example "Microsoft Corporation." and if they
+trust Microsoft they <strong>can download in comfort.</strong> That's the <strong>myth</strong>. There's
+the flaw. Why? Two reasons: <strong>first</strong> , many people use software from lesser
+known companies… Let's say the message is "… if you trust software from Matrix
+Software in Madrid Spain" then you can download in comfort. Even if you think
+you know Matrix Software, you certainly don't know whether in Madrid has other
+companies called Matrix Technology, or Matrix Inc., or Matrix Systems, each of
+which could be a <strong>malware producer</strong>.  Second, related reason: Let's say the
+message is "… if you trust software from Sun in London, U.K. …" then you can
+download in comfort. How do you know if this is _<strong>the</strong> _Sun Microsystems
+that you thin it's about? The myth is <strong>promulgated</strong> every time a user is
+reminded that it's dangerous to run unsigned or not validly certified software
+and that it's perfectly safe to run certified software. As you can see, it's
+<strong>pretty easy</strong> for a malware provider to sign their software with a valid
+certificate and get the help from the OS vendors in gaining <strong>undeserved</strong>
+trust from end users. Why has no one called out this myth for what it is? The
+emperor has no clothes!</p>
+<ul>
+<li><strong>Link to site:</strong> <strong><a href="None">The myth of the safety of signed code</a></strong></li>
+</ul>
+
+      <!-- Continue reading link -->
+      <nav class="md-post__action">
+        <a href="../../2005/06/29/the-myth-of-the-safety/">
+          Continue reading
+        </a>
+      </nav>
+    </div>
+</article>
+      
+        <!--
+  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Post excerpt -->
+<article class="md-post md-post--excerpt">
+  <header class="md-post__header">
+
+    <!-- Post authors -->
+    
+
+    <!-- Post metadata -->
+    <div class="md-post__meta md-meta">
+      <ul class="md-meta__list">
+
+        <!-- Post date -->
+        <li class="md-meta__item">
+          <time datetime="2005-06-28 00:00:00">June 28, 2005</time></li>
+
+        <!-- Post categories -->
+        
+
+        <!-- Post readtime -->
+        
+        
+        <li class="md-meta__item">
+          
+          1 min read
+          
+        </li>
+        
+      </ul>
+
+      <!-- Draft marker -->
+      
+    </div>
+  </header>
+  <div>
+
+    <!-- Post content -->
+    <div class="md-post__content md-typeset">
+      <h2 id="i-have-nothing-to-add-about-the-grokster-decision"><a class="toclink" href="../../2005/06/28/i-have-nothing-to-add/">I have nothing to add about the grokster decision</a></h2>
+<p>Aren't you glad, since every other blogger is blah-blah-blah'ing about it?
+<a href="http://www.eff.org/deeplinks/">But here is a link </a>with some really
+insightful posts about it.</p>
+<ul>
+<li><strong>Link to site:</strong> <strong><a href="None">I have nothing to add about the grokster decision</a></strong></li>
+</ul>
+
+      <!-- Continue reading link -->
+      <nav class="md-post__action">
+        <a href="../../2005/06/28/i-have-nothing-to-add/">
+          Continue reading
+        </a>
+      </nav>
+    </div>
+</article>
       
         <!--
   Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
@@ -2047,190 +2223,6 @@ Page</a>)</p>
       <!-- Continue reading link -->
       <nav class="md-post__action">
         <a href="../../2005/06/20/what-if-we-all-vote/">
-          Continue reading
-        </a>
-      </nav>
-    </div>
-</article>
-      
-        <!--
-  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Post excerpt -->
-<article class="md-post md-post--excerpt">
-  <header class="md-post__header">
-
-    <!-- Post authors -->
-    
-
-    <!-- Post metadata -->
-    <div class="md-post__meta md-meta">
-      <ul class="md-meta__list">
-
-        <!-- Post date -->
-        <li class="md-meta__item">
-          <time datetime="2005-06-17 00:00:00">June 17, 2005</time></li>
-
-        <!-- Post categories -->
-        
-
-        <!-- Post readtime -->
-        
-        
-        <li class="md-meta__item">
-          
-          1 min read
-          
-        </li>
-        
-      </ul>
-
-      <!-- Draft marker -->
-      
-    </div>
-  </header>
-  <div>
-
-    <!-- Post content -->
-    <div class="md-post__content md-typeset">
-      <h2 id="distributed-network-of-service-providers"><a class="toclink" href="../../2005/06/17/distributed-network-of-service-providers/">Distributed network of service providers</a></h2>
-<p>Not computer service providers, but folks like carpenters and plumbers…. I
-came across <a href="http://www.servicemagic.com/">ServiceMagic</a>, which is a pretty
-cool site for locating and hiring people to work on projects around the house.
-I needed three doors repaired and on a lark I posted the project on this site.
-I had a phone call in 5 minutes, and 2 more within the hour. I chose one of
-them to come by and give me a free estimate in 2 days.  So that's pretty
-impressive, considering usually you don't even get a call back. Now lets see
-the quality of the service! Technorati Tags:
-<a href="http://technorati.com/tag/home">home</a>,
-<a href="http://technorati.com/tag/useful">useful</a>,
-<a href="http://technorati.com/tag/recommended">recommended</a></p>
-<ul>
-<li><strong>Link to site:</strong> <strong><a href="None">Distributed network of service providers</a></strong></li>
-</ul>
-
-      <!-- Continue reading link -->
-      <nav class="md-post__action">
-        <a href="../../2005/06/17/distributed-network-of-service-providers/">
-          Continue reading
-        </a>
-      </nav>
-    </div>
-</article>
-      
-        <!--
-  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Post excerpt -->
-<article class="md-post md-post--excerpt">
-  <header class="md-post__header">
-
-    <!-- Post authors -->
-    
-
-    <!-- Post metadata -->
-    <div class="md-post__meta md-meta">
-      <ul class="md-meta__list">
-
-        <!-- Post date -->
-        <li class="md-meta__item">
-          <time datetime="2005-06-17 00:00:00">June 17, 2005</time></li>
-
-        <!-- Post categories -->
-        
-
-        <!-- Post readtime -->
-        
-        
-        <li class="md-meta__item">
-          
-          1 min read
-          
-        </li>
-        
-      </ul>
-
-      <!-- Draft marker -->
-      
-    </div>
-  </header>
-  <div>
-
-    <!-- Post content -->
-    <div class="md-post__content md-typeset">
-      <h2 id="making-money-with-aggregators"><a class="toclink" href="../../2005/06/17/making-money-with-aggregators/">Making money with aggregators</a></h2>
-<p><a href="http://www.emergencemarketing.com/">Francois</a>, reacting to something
-<a href="http://calacanis.weblogsinc.com/entry/1234000760046672/">written by Jason
-Calcanis</a>, makes a
-<a href="http://www.blogbridge.com/archives/2005/06/can_an_aggregat.php">very good point
-in</a> this
-discussion about feed and blog aggregators needing to have a way to make
-money: <a href="http://calacanis.weblogsinc.com/entry/1234000760046672/">Jason</a>:</p>
-<blockquote>
-<blockquote>
-<blockquote>
-<p>"A number of people have asked me how I handle folks lifting our RSS Feeds
-and putting advertising against them. The first step I take is sending an
-email like the one below letting people know what we allow and what we don't
-allow. I always CC our legal counsel and include a screen shot."</p>
-</blockquote>
-<p><a href="http://www.blogbridge.com/archives/2005/06/can_an_aggregat.php">Francois</a>:</p>
-<blockquote>
-<p>"Where it breaks down for me is in the scenario of a company selling an
-aggregator to its end users (and there are some of them out there). In effect,
-and according to Jason's logic, that company is also making money from someone
-else's content."</p>
-</blockquote>
-<p>Technorati Tags: <a href="http://technorati.com/tag/blog">blog</a>,
-<a href="http://technorati.com/tag/IP">IP</a>,
-<a href="http://technorati.com/tag/strategy">strategy</a></p>
-</blockquote>
-</blockquote>
-<ul>
-<li><strong>Link to site:</strong> <strong><a href="None">Making money with aggregators</a></strong></li>
-</ul>
-
-      <!-- Continue reading link -->
-      <nav class="md-post__action">
-        <a href="../../2005/06/17/making-money-with-aggregators/">
           Continue reading
         </a>
       </nav>
