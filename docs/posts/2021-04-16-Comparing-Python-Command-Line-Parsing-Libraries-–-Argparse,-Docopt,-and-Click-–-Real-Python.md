@@ -9,7 +9,7 @@ tags:
     - python
     - howto
     - cli
-    - utilities
+    - utility
 ---
 <img class="cover" src=https://files.realpython.com/media/command-line-tools.e8b0c6695e39.png>
 

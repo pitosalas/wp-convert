@@ -8,6 +8,7 @@ date: 2021-04-06
 tags:
     - css html sass coding
     - design
+    - css
 ---
 <img class="cover" src=https://hankchizljaw.imgix.net/social-share.png?sat=-100&con=100>
 

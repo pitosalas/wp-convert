@@ -9,8 +9,8 @@ tags:
     - howto visualization python graphs
     - howto
     - python
-    - cooltools
     - visualize
+    - cooltool
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fdocs.streamlit.io%2Fen%2Fstable>
 

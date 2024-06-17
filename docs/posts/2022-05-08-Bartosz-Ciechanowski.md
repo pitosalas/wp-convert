@@ -7,12 +7,12 @@ cover: "https://rdl.ink/render/https%3A%2F%2Fciechanow.ski%2F"
 date: 2022-05-08
 tags:
     - visual
-    - explanation
     - gps
     - watches
     - gears
     - review
     - math
+    - explain
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fciechanow.ski%2F>
 

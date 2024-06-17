@@ -9,7 +9,7 @@ tags:
     - portfolio
     - digital-portfolio
     - resume
-    - careers
+    - career
 ---
 <img class="cover" src=https://images.ctfassets.net/pdf29us7flmy/5ujVW5yjZRvkeqUoVH1unL/80f081cb334f2543d2986824652b9f85/5.svg?w=1242>
 

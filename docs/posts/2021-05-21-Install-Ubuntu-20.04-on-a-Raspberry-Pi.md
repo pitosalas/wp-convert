@@ -8,9 +8,9 @@ date: 2021-05-21
 tags:
     - ubuntu
     - video
-    - installation
     - raspi
     - raspberry-pi
+    - install
 ---
 <img class="cover" src=https://i.ytimg.com/vi/GVgMM_TFeOw/hqdefault.jpg>
 

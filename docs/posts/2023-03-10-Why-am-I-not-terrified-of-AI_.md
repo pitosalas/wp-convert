@@ -9,7 +9,7 @@ tags:
     - ai
     - philosophy
     - dense
-    - chat-gpt
+    - chatgpt
 ---
 <img class="cover" src=https://149663533.v2.pressablecdn.com/wp-content/uploads/2021/10/cropped-Jacket.gif>
 

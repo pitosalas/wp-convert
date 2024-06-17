@@ -7,11 +7,11 @@ cover: "https://jaykmody.com/profile.png"
 date: 2023-02-12
 tags:
     - python
-    - chat-gpt
     - machine-learning
     - explainer
     - source-code
     - neural-net
+    - chatgpt
 ---
 <img class="cover" src=https://jaykmody.com/profile.png>
 

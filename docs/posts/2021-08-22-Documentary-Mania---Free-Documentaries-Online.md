@@ -8,7 +8,6 @@ date: 2021-08-22
 tags:
     - art
     - culture
-    - documentaries
     - history
     - science
     - documentary

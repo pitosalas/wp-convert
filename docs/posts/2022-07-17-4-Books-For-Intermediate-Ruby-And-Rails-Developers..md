@@ -6,10 +6,10 @@ link: "https://manny.codes/4-books-for-intermediate-ruby-and-rails-developers/"
 cover: "https://emmanuelhayford.com/images/4-books-intermediate-ruby-rails.jpg" 
 date: 2022-07-17
 tags:
-    - books
     - ruby
     - advanced
     - howto
+    - book
 ---
 <img class="cover" src=https://emmanuelhayford.com/images/4-books-intermediate-ruby-rails.jpg>
 

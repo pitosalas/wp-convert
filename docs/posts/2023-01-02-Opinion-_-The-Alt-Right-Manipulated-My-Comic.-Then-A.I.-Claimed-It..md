@@ -11,7 +11,7 @@ tags:
     - plagiarism
     - nyt
     - articles
-    - chat-gpt
+    - chatgpt
 ---
 <img class="cover" src=https://static01.nyt.com/images/2022/12/30/autossell/30Andersen-FirstFrame/30Andersen-FirstFrame-largeHorizontalJumbo-v2.jpg>
 

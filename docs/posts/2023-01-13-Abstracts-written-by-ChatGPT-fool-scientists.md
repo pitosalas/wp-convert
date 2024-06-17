@@ -10,7 +10,7 @@ tags:
     - science
     - journal
     - writing
-    - chat-gpt
+    - chatgpt
 ---
 <img class="cover" src=https://media.nature.com/lw1024/magazine-assets/d41586-023-00056-7/d41586-023-00056-7_23914468.jpg>
 

@@ -8,11 +8,11 @@ date: 2021-04-06
 tags:
     - python
     - howto
-    - cooltools
     - data cleaning
     - package
     - python-package
     - library
+    - cooltool
 ---
 <img class="cover" src=https://miro.medium.com/max/1200/1*A4sZ2qS0jxVmeA3qGba0ag.jpeg>
 

@@ -6,8 +6,8 @@ link: "https://medium.com/ki-labs-engineering/top-5-contemporary-software-engine
 cover: "https://miro.medium.com/max/1200/1*MykufWg6D_3BWuV8lG2xbg.jpeg" 
 date: 2021-04-06
 tags:
-    - books
     - software-engineering
+    - book
 ---
 <img class="cover" src=https://miro.medium.com/max/1200/1*MykufWg6D_3BWuV8lG2xbg.jpeg>
 

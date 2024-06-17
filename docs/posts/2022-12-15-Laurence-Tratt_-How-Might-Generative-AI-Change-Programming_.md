@@ -9,7 +9,7 @@ tags:
     - programming
     - copilot
     - explainer
-    - chat-gpt
+    - chatgpt
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Ftratt.net%2Flaurie%2Fblog%2F2022%2Fhow_might_generative_ai_change_programming.html%3Futm_source%3Dabyteofcodingnewsletter>
 

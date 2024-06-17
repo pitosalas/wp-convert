@@ -7,6 +7,7 @@ cover: "https://miro.medium.com/max/1200/0*FSf31OHQmGq6nyzT."
 date: 2021-04-06
 tags:
     - css
+    - design
 ---
 <img class="cover" src=https://miro.medium.com/max/1200/0*FSf31OHQmGq6nyzT.>
 
