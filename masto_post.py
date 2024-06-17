@@ -15,7 +15,7 @@ MASTO_MAX_STATUS_LENGTH = 500
 JsonValue = Union[str, dict[str, str]]
 class MastoPost:
     def __init__(self):
-        self.sec_token: str = "os.getenv("MASTO_TOKEN", "")
+        self.sec_token: str = os.getenv("MASTO_TOKEN", "")
         if self.sec_token == "":
             raise ValueError("MASTO_TOKEN environment variable is not set")
 
