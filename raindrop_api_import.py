@@ -5,20 +5,19 @@ import os
 class RaindropApiImport:
     def __init__(self):
         self.sec_token: str = str(os.getenv("RAINDROP_TOKEN"))
-
+        print(self.sec_token)
         self.headers = {
             'Accept': 'application/json',
             'User-Agent': 'Safari',
             'Authorization': "Bearer " + self.sec_token        
         }
-
-
         self.drops = {}
         self.topcolid = None
 
     def retrieve_top_collection_id(self):
         url = "https://api.raindrop.io/rest/v1/collections"
         response = requests.get(url, headers=self.headers)
+        print(response)
         resp_json = response.json()['items'][0]
         self.topcolid = resp_json["_id"]
 

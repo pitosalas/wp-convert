@@ -1,5 +1,6 @@
 import os
 from raindrop_utils import process_drops, retrieve_top_collection_id, setup_http_headers
+from typing import Any, Dict
 
 
 class DropTagRepair:
@@ -14,13 +15,27 @@ class DropTagRepair:
         self.topcolid = None
 
     def get_drops(self, top_id, headers):
-        process_drops(top_id, headers, self.process_drop: Callable[[dict[any, any]], any])
+        process_drops(top_id, headers, self.process_drop: Callable[[dict[Any, Any]], Any])
 
-    def process_drop(self, drop: dict[any, any]) -> any:
-        return None
+    def process_drop(self, drop: dict[Any, Any]) -> Any:
+        tags = self.get_tags_as_str_array(drop)
+        tags = self.repair_tags(tags)
+        tag_array = self.convert_tag_to_array(tags)
+        # convert tags back to tag array
+        self.update_drop(drop)
         pass
 
-    def update_drop(self):
+    def get_tags_as_str_array(self, drop):
+        tag_array = []
+        return tag_array
+    
+    def repair_tags(self, tags):
+        pass
+
+    def convert_tag_to_array(self, tags):
+        pass
+
+    def update_drop(self, drop):
         pass
 
     def run(self):
