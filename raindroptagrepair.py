@@ -4,24 +4,13 @@ from typing import Any, Dict
 
 
 class DropTagRepair:
-    def __init(self):
-        self.sec_token = os.getenv("RAINDROP_TOKEN")
-        self.headers = {
-            'Accept': 'application/json',
-            'User-Agent': 'Safari',
-            'Authorization': self.sec_token        
-        }
-        self.drops = {}
-        self.topcolid = None
+    def process_drops(self, top_id, headers):
+        self.process_drop(top_id, headers, self.process_drop)
 
-    def get_drops(self, top_id, headers):
-        process_drops(top_id, headers, self.process_drop: Callable[[dict[Any, Any]], Any])
-
-    def process_drop(self, drop: dict[Any, Any]) -> Any:
+    def process_drop(self, headers,top_id, drop): 
         tags = self.get_tags_as_str_array(drop)
         tags = self.repair_tags(tags)
         tag_array = self.convert_tag_to_array(tags)
-        # convert tags back to tag array
         self.update_drop(drop)
         pass
 
@@ -41,7 +30,7 @@ class DropTagRepair:
     def run(self):
         headers = setup_http_headers()
         top_id = retrieve_top_collection_id(headers)    
-        self.get_drops(top_id, headers)
+        self.process_drops(top_id, headers)
 
 # Main program
 if __name__ == "__main__":

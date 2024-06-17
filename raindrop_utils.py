@@ -1,13 +1,15 @@
 from time import sleep
-from typing import Callable
+from typing import Any, Dict, Callable
+import os
+
 import requests
 
-def setup_http_headers():
+def setup_raindrop_header():
     sec_token = os.getenv("RAINDROP_TOKEN")
     headers = {
         'Accept': 'application/json',
         'User-Agent': 'Safari',
-        'Authorization': sec_token        
+        'Authorization': "Bearer " +sec_token        
     }
     return headers
 
@@ -17,7 +19,7 @@ def retrieve_top_collection_id(headers):
     resp_json = response.json()['items'][0]
     return resp_json["_id"]
 
-def process_drops(top_id, headers, process_drop: Callable[[dict[any, any]], any])
+def process_drops(top_id, headers, process_drop: Callable[[dict[Any, Any]], Any]):
     url = f"https://api.raindrop.io/rest/v1/raindrops/{top_id}"
     page = 0
     drops = 0
