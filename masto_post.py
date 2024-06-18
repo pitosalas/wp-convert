@@ -10,7 +10,7 @@ import ext.slugs
 MASTO_URL_FILE = "data/masto_url_list.json"
 SAFE_MODE = False
 MASTO_MAX_POST_PER_RUN = 2
-MASTO_MAX_STATUS_LENGTH = 500
+MASTO_MAX_STATUS_LENGTH = 510
 
 JsonValue = Union[str, dict[str, str]]
 class MastoPost:
