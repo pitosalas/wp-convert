@@ -127,12 +127,9 @@ class BlogBuild:
         print(f"""blogbuild_v2: Total: {count} wp Pages Generated""")
 
     def generate_drop_posts(self):
-        """Generates drop posts based on the drops stored in the object.
-
-        This method iterates over the drops stored in the object and generates drop posts
+        """Generates drop posts based on the drops stored in the object. This method iterates over the drops stored in the object and generates drop posts
         by extracting the necessary information such as title, content, date, URL, cover,
-        and tags. It then saves each individual drop post using the `save_individual_post`
-        method.
+        and tags. It then saves each individual drop post using the `save_individual_post`method.
 
         """
         count = 0
@@ -176,13 +173,8 @@ class BlogBuild:
 
     def fix_drop_tags(self, tags):
         """The fix_drop_tags function takes a parameter tags and checks if it is a
-        list.
-
-        If it is already a list, it returns it as is. If it is not a list, it
-        splits the string using commas and spaces as delimiters and returns the
-        resulting list. Additionally, if the split list is different from the
+        list. If it is already a list, it returns it as is. If it is not a list, it splits the string using commas and spaces as delimiters and returns the resulting list. Additionally, if the split list is different from the
         original tags, it prints a message indicating the change.
-
         """
         if isinstance(tags, list):
             return tags
