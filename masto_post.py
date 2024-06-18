@@ -98,7 +98,7 @@ class MastoPost:
 #        status = f""" {abbreviated_content} {tags_str} ({salas_url_with_slug}):
 #
 #"{title}"({url})"""
-        status = f"""{abbreviated_content} {tags_str}""" 
+        status = f"""{abbreviated_content}{salas_url_with_slug}{tags_str} """ 
         json_data_dict: dict[str, JsonValue] = {"status": status}
         if SAFE_MODE:
             print(f"masto_post: fake mode posting {title}")
