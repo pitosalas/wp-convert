@@ -6,7 +6,6 @@ import requests
 
 def setup_raindrop_header():
     sec_token = os.getenv("RAINDROP_TOKEN")
-    sec_token = "10ed9563-4ea6-4716-bcde-621730ed8f57"
     headers = {
         'Accept': 'application/json',
         'User-Agent': 'Safari',
