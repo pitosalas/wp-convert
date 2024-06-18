@@ -1,16 +1,21 @@
 ---
 title: "DIY Garden Poles"
 author: Pito Salas
+url: "https://www.gardengatemagazine.com/articles/projects/all/diy-garden-poles/" 
+link: "https://www.gardengatemagazine.com/articles/projects/all/diy-garden-poles/" 
+cover: "https://images.ctfassets.net/zma7thmmcinb/66kLVqD11mb7clN3f2CHpt/cff725f89938ba0bc2b300038cada67e/garden-poles-play.jpg" 
 date: 2022-04-03
+tags:
+    - garden
+    - woodworking
+    - diy
+    - howto
+    - plans
 ---
-
-[ DIY Garden
-Poles](<https://www.gardengatemagazine.com/articles/projects/all/diy-garden-
-poles/>)
-
-Build your own garden poles and personalize your outdoor space.
-
-April 3, 2022 at 10:51PM
+<img class="cover" src=https://images.ctfassets.net/zma7thmmcinb/66kLVqD11mb7clN3f2CHpt/cff725f89938ba0bc2b300038cada67e/garden-poles-play.jpg>
 
 
-* **Link to site:** **[DIY Garden Poles](None)**
+
+* **Web site excerpt:** Build your own garden poles and personalize your outdoor space.
+
+* **Link to site:** **[DIY Garden Poles](https://www.gardengatemagazine.com/articles/projects/all/diy-garden-poles/)**
