@@ -1,17 +1,22 @@
 ---
 title: "Advanced Postgres Performance Tips"
 author: Pito Salas
+url: "https://thoughtbot.com/blog/advanced-postgres-performance-tips" 
+link: "https://thoughtbot.com/blog/advanced-postgres-performance-tips" 
+cover: "https://images.thoughtbot.com/blog-vellum-image-uploads/PbDCVAVRWCyg0dnx4KwC_PEV.png" 
 date: 2022-03-05
 tags:
+    - postgres
     - performance
+    - howto
+    - index
+    - query
+    - tool
 ---
-
-[ Advanced Postgres Performance Tips](<https://thoughtbot.com/blog/advanced-
-postgres-performance-tips>)
-
-What do you do when indexes aren’t enough?
-
-March 5, 2022 at 02:50PM
+<img class="cover" src=https://images.thoughtbot.com/blog-vellum-image-uploads/PbDCVAVRWCyg0dnx4KwC_PEV.png>
 
 
-* **Link to site:** **[Advanced Postgres Performance Tips](None)**
+
+* **Web site excerpt:** What do you do when indexes aren’t enough?
+
+* **Link to site:** **[Advanced Postgres Performance Tips](https://thoughtbot.com/blog/advanced-postgres-performance-tips)**
