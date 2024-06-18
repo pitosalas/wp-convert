@@ -6,6 +6,7 @@ import requests
 
 def setup_raindrop_header():
     sec_token = str(os.getenv("RAINDROP_TOKEN"))
+    sec_token = "6c9f4e08-d837-41e8-b431-beac7c72b3f9"
     headers = {
         'Accept': 'application/json',
         'User-Agent': 'Safari',
@@ -19,11 +20,20 @@ def retrieve_top_collection_id(headers):
     resp_json = response.json()['items'][0]
     return resp_json["_id"]
 
-def process_drops(top_id, headers, process_drop: Callable[[dict[Any, Any]], Any]):
+def update_drop(headers, drop, updated_tags):
+    id = drop["_id"]
+    url = f"https://api.raindrop.io/rest/v1/raindrops/{id}"
+    params = { 'tags': updated_tags}
+    response = requests.put(url, headers=headers, params=params)
+    if response.status_code != 200:
+        raise RuntimeError(f"update drop failed with {response.status_code}")
+        
+
+def process_drops(top_id, headers, process_drop: Callable[[dict[Any, Any]], Any], max_drop):
     url = f"https://api.raindrop.io/rest/v1/raindrops/{top_id}"
     page = 0
     drops = 0
-    while True:
+    while drops < max_drop:
         params = { 'page': page }
         response = requests.get(url, headers=headers, params=params)
         if response.status_code != 200 or len(response.json()["items"]) == 0:
