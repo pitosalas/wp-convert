@@ -12,7 +12,7 @@ tags:
     - explainer
     - ai
     - learn
-    - chat-gpt
+    - chatgpt
 ---
 <img class="cover" src=https://static.simonwillison.net/static/2022/copilot-2.jpg>
 

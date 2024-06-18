@@ -7,10 +7,10 @@ cover: "https://www.engraved.blog/content/images/2022/12/deepmind-mbq0qL3ynMs-un
 date: 2022-12-04
 tags:
     - text-generation
-    - chat-gpt
     - linux
     - shell
     - matrix
+    - chatgpt
 ---
 <img class="cover" src=https://www.engraved.blog/content/images/2022/12/deepmind-mbq0qL3ynMs-unsplash.jpg>
 

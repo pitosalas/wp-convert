@@ -7,10 +7,10 @@ cover: "https://rdl.ink/render/https%3A%2F%2Fvlsicad.ucsd.edu%2FResearch%2FAdvic
 date: 2022-12-20
 tags:
     - research
-    - careers
     - phd
     - cooltool
     - network
+    - career
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fvlsicad.ucsd.edu%2FResearch%2FAdvice%2Fnetwork.html%3Ffbclid%3DIwAR1hpXv9cIKCfFBbK1i3K0U7L1qXgxfxY0Xn7-m_3q2w9_BqJ-A7jjGCKQc%26utm_campaign%3DTools%2520for%2520Possibilities%26utm_medium%3Demail%26utm_source%3DRevue%2520newsletter>
 

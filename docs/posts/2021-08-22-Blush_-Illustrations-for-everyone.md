@@ -7,10 +7,10 @@ cover: "https://blush.design/og-image.png"
 date: 2021-08-22
 tags:
     - images
-    - cooltools
     - custom
     - clipart
     - howto
+    - cooltool
 ---
 <img class="cover" src=https://blush.design/og-image.png>
 

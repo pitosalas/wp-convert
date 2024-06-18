@@ -9,7 +9,7 @@ tags:
     - teaching
     - cheating
     - opinion
-    - chat-gpt
+    - chatgpt
 ---
 <img class="cover" src=https://chronicle.brightspotcdn.com/dims4/default/fce57e8/2147483647/strip/true/crop/686x360+0+190/resize/1200x630!/quality/90/?url=http%3A%2F%2Fchronicle-brightspot.s3.amazonaws.com%2F25%2F57%2F96562f514fbc98f1246ea91e25c2%2Fterrystudentai-williamson-square.jpg>
 

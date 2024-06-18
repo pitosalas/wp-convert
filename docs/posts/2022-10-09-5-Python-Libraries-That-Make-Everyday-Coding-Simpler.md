@@ -8,9 +8,9 @@ date: 2022-10-09
 tags:
     - python
     - howto
-    - utilities
     - library
     - python-package
+    - utility
 ---
 <img class="cover" src=https://miro.medium.com/max/1200/1*hHTGhG410jjG9TwcMMuK8w.jpeg>
 

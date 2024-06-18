@@ -9,7 +9,7 @@ tags:
     - pdf
     - summarize
     - summary
-    - chat-gpt
+    - chatgpt
 ---
 <img class="cover" src=https://www.chatpdf.com/lord-of-the-flies.jpg>
 

@@ -10,7 +10,7 @@ tags:
     - programming
     - python
     - automation
-    - chat-gpt
+    - chatgpt
 ---
 <img class="cover" src=https://miro.medium.com/v2/resize:fit:1200/0*nfKmcfuzpVYPxfXg>
 

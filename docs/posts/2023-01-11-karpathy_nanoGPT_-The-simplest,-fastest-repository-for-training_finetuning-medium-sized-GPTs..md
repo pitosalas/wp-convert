@@ -9,7 +9,7 @@ tags:
     - gpt
     - code
     - howto
-    - chat-gpt
+    - chatgpt
 ---
 <img class="cover" src=https://opengraph.githubassets.com/b069437194b47be981e4eeb92757e811d56ed5e62c2455e84c676846f740d95e/karpathy/nanoGPT>
 

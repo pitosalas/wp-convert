@@ -7,9 +7,9 @@ cover: "https://content.wolfram.com/uploads/sites/43/2023/02/hero3-chat-expositi
 date: 2023-02-17
 tags:
     - stephen-wolfram
-    - chat-gpt
     - machine-learning
     - neural-net
+    - chatgpt
 ---
 <img class="cover" src=https://content.wolfram.com/uploads/sites/43/2023/02/hero3-chat-exposition.png>
 

@@ -6,11 +6,11 @@ link: "https://matt-rickard.com/lessons-from-debugging?utm_source=changelog-news
 cover: "https://matt-rickard.com/api/og?title=Lessons%20From%20Debugging" 
 date: 2023-10-03
 tags:
-    - debugging
     - howto
     - best-bet
     - best-practices
     - programming
+    - debug
 ---
 <img class="cover" src=https://matt-rickard.com/api/og?title=Lessons%20From%20Debugging>
 

@@ -9,7 +9,7 @@ tags:
     - cli
     - pipes
     - cooltool
-    - chat-gpt
+    - chatgpt
 ---
 <img class="cover" src=https://static.simonwillison.net/static/2023/llm-nytimes-card.jpg>
 

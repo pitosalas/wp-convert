@@ -6,10 +6,10 @@ link: "https://link.medium.com/QQPcixGrfvb"
 cover: "https://miro.medium.com/max/1200/0*e7YfIqLhDHmMyADU" 
 date: 2022-11-25
 tags:
-    - simulation
     - discrete
     - howto
     - explainer
+    - simulator
 ---
 <img class="cover" src=https://miro.medium.com/max/1200/0*e7YfIqLhDHmMyADU>
 

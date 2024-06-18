@@ -6,9 +6,9 @@ link: "https://link.medium.com/QrUk4lpkmsb"
 cover: "https://miro.medium.com/max/381/0*yC_Y4tQQ6b7Ou5tV.jpeg" 
 date: 2022-08-09
 tags:
-    - books
     - software-engineering
     - cooltool
+    - book
 ---
 <img class="cover" src=https://miro.medium.com/max/381/0*yC_Y4tQQ6b7Ou5tV.jpeg>
 

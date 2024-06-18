@@ -9,8 +9,8 @@ tags:
     - soa
     - rspec
     - ruby
-    - services
     - test
+    - service
 ---
 <img class="cover" src=https://www.honeybadger.io/images/pull_image.png>
 

@@ -10,7 +10,7 @@ tags:
     - information
     - geography
     - map
-    - sizes
+    - size
 ---
 <img class="cover" src=http://thetruesize.com/img/twitter-card-screenshot.jpg>
 

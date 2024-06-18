@@ -8,9 +8,9 @@ date: 2022-10-09
 tags:
     - linux
     - cli
-    - utilities
     - howto
     - best
+    - utility
 ---
 <img class="cover" src=https://miro.medium.com/max/1200/1*0SywjMtUl7GSVFYVpbTJow.png>
 

@@ -9,9 +9,9 @@ tags:
     - python
     - documentation
     - docstrings
-    - chat-gpt
     - tips
     - howto
+    - chatgpt
 ---
 <img class="cover" src=https://files.realpython.com/media/Documenting-Your-Code-with-the-Help-of-ChatGPT_Watermarked.daa041e7ad32.jpg>
 

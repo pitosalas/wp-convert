@@ -8,7 +8,7 @@ date: 2022-07-12
 tags:
     - photo
     - enlargement
-    - services
+    - service
 ---
 <img class="cover" src=https://whcc-com-prod-images0.imgix.net/images/whcc_default-seo-image.jpg?fm=jpg&w=1200&h=630&fit=crop&crop=focalpoint&fp-x=.5&fp-y=.5>
 
