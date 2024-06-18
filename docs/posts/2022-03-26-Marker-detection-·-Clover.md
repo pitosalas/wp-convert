@@ -1,19 +1,14 @@
 ---
 title: "Marker detection · Clover"
 author: Pito Salas
-url: "https://clover.coex.tech/en/aruco_marker.html" 
-link: "https://clover.coex.tech/en/aruco_marker.html" 
-cover: "https://clover.coex.tech/assets/aruco-axis.png" 
 date: 2022-03-26
-tags:
-    - aruco
-    - aruco-detect
-    - howto
 ---
-<img class="cover" src=https://clover.coex.tech/assets/aruco-axis.png>
+
+[ Marker detection · Clover](<https://clover.coex.tech/en/aruco_marker.html>)
+
+A section from another robot that describes how to use aruco_detect
+
+March 26, 2022 at 07:48PM
 
 
-
-* **Web site excerpt:** A section from another robot that describes how to use aruco_detect
-
-* **Link to site:** **[Marker detection · Clover](https://clover.coex.tech/en/aruco_marker.html)**
+* **Link to site:** **[Marker detection · Clover](None)**

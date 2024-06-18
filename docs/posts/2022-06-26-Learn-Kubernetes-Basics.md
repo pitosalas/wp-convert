@@ -1,19 +1,14 @@
 ---
 title: "Learn Kubernetes Basics"
 author: Pito Salas
-url: "https://kubernetes.io/docs/tutorials/kubernetes-basics/" 
-link: "https://kubernetes.io/docs/tutorials/kubernetes-basics/" 
-cover: "https://kubernetes.io/images/favicon.png" 
 date: 2022-06-26
 tags:
-    - kubernetes
     - basics
     - howto
+    - kubernetes
 ---
-<img class="cover" src=https://kubernetes.io/images/favicon.png>
+
+Production-Grade Container Orchestration
 
 
-
-* **Web site excerpt:** Production-Grade Container Orchestration. One of many writeups on how to work with K8S and friends!
-
-* **Link to site:** **[Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)**
+* **Link to site:** **[Learn Kubernetes Basics](None)**

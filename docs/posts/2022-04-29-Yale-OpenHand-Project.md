@@ -1,19 +1,16 @@
 ---
 title: "Yale OpenHand Project"
 author: Pito Salas
-url: "https://www.eng.yale.edu/grablab/openhand/" 
-link: "https://www.eng.yale.edu/grablab/openhand/" 
-cover: "https://rdl.ink/render/https%3A%2F%2Fwww.eng.yale.edu%2Fgrablab%2Fopenhand%2F" 
 date: 2022-04-29
-tags:
-    - robotics
-    - gripper
-    - howto
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.eng.yale.edu%2Fgrablab%2Fopenhand%2F>
+
+[ Yale OpenHand Project](<https://www.eng.yale.edu/grablab/openhand/>)
+
+The Yale OpenHand Project is a movement to advance the design and use of
+robotic hands designed and built through rapid-prototyping techniques in order
+to encourage more variation and innovation in mechanical hardware.
+
+April 29, 2022 at 02:02PM
 
 
-
-* **Web site excerpt:** The Yale OpenHand Project is a movement to advance the design and use of robotic hands designed and built through rapid-prototyping techniques in order to encourage more variation and innovation in mechanical hardware.
-
-* **Link to site:** **[Yale OpenHand Project](https://www.eng.yale.edu/grablab/openhand/)**
+* **Link to site:** **[Yale OpenHand Project](None)**

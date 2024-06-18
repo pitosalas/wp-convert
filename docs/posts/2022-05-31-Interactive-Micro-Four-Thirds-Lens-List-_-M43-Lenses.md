@@ -1,23 +1,16 @@
 ---
 title: "Interactive Micro Four Thirds Lens List | M43 Lenses"
 author: Pito Salas
-url: "https://www.m43lenses.com/" 
-link: "https://www.m43lenses.com/" 
-cover: "https://rdl.ink/render/https%3A%2F%2Fwww.m43lenses.com%2F" 
 date: 2022-05-31
 tags:
-    - lenses
-    - zoom
-    - guide
-    - mft
-    - listing
     - shopping
-    - compare
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.m43lenses.com%2F>
+
+[ Interactive Micro Four Thirds Lens List | M43 Lenses](<https://www.m43lenses.com/>)
+
+M43 Lenses: Interactive Micro Four Thirds Lens List
+
+May 31, 2022 at 06:56PM
 
 
-
-* **Web site excerpt:** M43 Lenses: Interactive Micro Four Thirds Lens List
-
-* **Link to site:** **[Interactive Micro Four Thirds Lens List | M43 Lenses](https://www.m43lenses.com/)**
+* **Link to site:** **[Interactive Micro Four Thirds Lens List | M43 Lenses](None)**

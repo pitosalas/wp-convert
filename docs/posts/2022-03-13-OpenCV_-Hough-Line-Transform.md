@@ -1,17 +1,13 @@
 ---
 title: "OpenCV: Hough Line Transform"
 author: Pito Salas
-url: "https://docs.opencv.org/4.x/d6/d10/tutorial_py_houghlines.html" 
-link: "https://docs.opencv.org/4.x/d6/d10/tutorial_py_houghlines.html" 
-cover: "https://docs.opencv.org/4.x/houghlinesdemo.gif" 
 date: 2022-03-13
-tags:
-    - hough-line-transform
-    - hough
-    - cv
-    - python
 ---
-<img class="cover" src=https://docs.opencv.org/4.x/houghlinesdemo.gif>
+
+[ OpenCV: Hough Line
+Transform](<https://docs.opencv.org/4.x/d6/d10/tutorial_py_houghlines.html>)
+
+March 14, 2022 at 01:30AM
 
 
-* **Link to site:** **[OpenCV: Hough Line Transform](https://docs.opencv.org/4.x/d6/d10/tutorial_py_houghlines.html)**
+* **Link to site:** **[OpenCV: Hough Line Transform](None)**
