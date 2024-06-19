@@ -4,9 +4,14 @@ author: Pito Salas
 date: 2004-07-10
 ---
 
-I've written [about this before](</weblogs/archives/000450.html>), and after
-all it is fairly (no, very) esoteric. Java Web Start is Java's approach to
-installation and distribution and updating of Java desktop applications.
+**Link: [Java Web Start Sucks Eggs](None):** ""
+
+
+>>
+
+>> I've written [about this before](</weblogs/archives/000450.html>), and
+after all it is fairly (no, very) esoteric. Java Web Start is Java's approach
+to installation and distribution and updating of Java desktop applications.
 
 >>
 
@@ -17,4 +22,3 @@ warts and all. Anyway, [here is a bit that I found that articulates
 detail all the problems. I concur and I suffer with you.
 
 
-* **Link to site:** **[Java Web Start Sucks Eggs](None)**

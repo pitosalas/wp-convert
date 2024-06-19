@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-01-18
 ---
 
+**Link: [Some great links for  01/19/2019](None):** ""
+
+
+
   * [Using Ruby in 2019 - Jason Charnes](<https://jasoncharnes.com/using-ruby-in-2019/>)
 
 Slightly apologetic rundown of Why Ruby
@@ -32,4 +36,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  01/19/2019](None)**

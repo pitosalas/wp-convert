@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2009-06-08
 ---
 
+**Link: [Open Government: Remixing Government Data](None):** ""
+
+
+
 I found this article to be a good primer on what's going on with open
 government data. [Remixing Government Data: Through mashups and Web apps,
 third parties are making innovative use of agencies'
@@ -17,4 +21,3 @@ and "[Government SDK](<http://github.com/pitosalas/govsdk/tree/master>)".
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-* **Link to site:** **[Open Government: Remixing Government Data](None)**

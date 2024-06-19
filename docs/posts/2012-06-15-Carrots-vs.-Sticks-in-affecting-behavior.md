@@ -10,6 +10,10 @@ tags:
     - traffic
 ---
 
+**Link: [Carrots vs. Sticks in affecting behavior](None):** ""
+
+
+
 Instead of charging extra ('congestion pricing') to drive your car during rush
 hour, how about giving me a reward (a lottery ticket) for driving using less
 congested routes? That's a clever idea that is being tested by a Stanford
@@ -45,4 +49,3 @@ Leather district, that might be rewarded.
 So a cool idea, but I wonder what actual traffic experts would say about it!
 
 
-* **Link to site:** **[Carrots vs. Sticks in affecting behavior](None)**

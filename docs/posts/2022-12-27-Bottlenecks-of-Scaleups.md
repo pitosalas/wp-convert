@@ -13,8 +13,6 @@ tags:
 ---
 <img class="cover" src=https://martinfowler.com/articles/bottlenecks-of-scaleups/card.png>
 
+**Link: [Bottlenecks of Scaleups](https://martinfowler.com/articles/bottlenecks-of-scaleups/):** "Common bottlenecks that prevent startups from scaling as quickly as they should. Thoughtworks always has good deep insight about software engineering. This too is an interesting series."
 
 
-* **Web site excerpt:** Common bottlenecks that prevent startups from scaling as quickly as they should. Thoughtworks always has good deep insight about software engineering. This too is an interesting series.
-
-* **Link to site:** **[Bottlenecks of Scaleups](https://martinfowler.com/articles/bottlenecks-of-scaleups/)**

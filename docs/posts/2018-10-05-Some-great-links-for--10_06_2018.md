@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-10-05
 ---
 
+**Link: [Some great links for  10/06/2018](None):** ""
+
+
+
   * [ngrok - secure introspectable tunnels to localhost](<https://ngrok.com/pricing>)
 
 This looks like an amazing tool to surface a local server on the open web. I
@@ -25,4 +29,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  10/06/2018](None)**

@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-10-21
 ---
 
+**Link: [Some great links for  10/22/2018](None):** ""
+
+
+
   * [danburzo/percollate](<https://github.com/danburzo/percollate>)
 
 This looks like a super useful tool!
@@ -26,4 +30,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  10/22/2018](None)**

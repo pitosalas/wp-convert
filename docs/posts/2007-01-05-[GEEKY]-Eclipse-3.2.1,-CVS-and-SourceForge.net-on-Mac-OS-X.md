@@ -4,11 +4,14 @@ author: Pito Salas
 date: 2007-01-05
 ---
 
-If you need this tip, it will save you a lot of time. 99% likely though, you
-don't need it and it will read as complete gibberish. But I feel compelled to
-share it because it's totally obscure and I just spent 2 hours trying to
-figure it out.
+**Link: [[GEEKY] Eclipse 3.2.1, CVS and SourceForge.net on Mac OS X](None):** ""
 
+
+>
+> If you need this tip, it will save you a lot of time. 99% likely though, you
+> don't need it and it will read as complete gibberish. But I feel compelled
+> to share it because it's totally obscure and I just spent 2 hours trying to
+> figure it out.
 >
 > Problem:
 >
@@ -38,4 +41,3 @@ figure it out.
 > Thanks for listening.
 
 
-* **Link to site:** **[[GEEKY] Eclipse 3.2.1, CVS and SourceForge.net on Mac OS X](None)**

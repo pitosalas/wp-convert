@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-03-17
 ---
 
+**Link: [Interesting ideas about using iTunes more effectively](None):** ""
+
+
+
 Check out [this post](<http://www.applegazette.com/itunes/dockart-change-your-
 itunes-icon-to-album-art/>) from [Apple
 Gazette](<http://www.applegazette.com>):
@@ -21,4 +25,3 @@ Gazette](<http://www.applegazette.com>):
 > album-art/>))
 
 
-* **Link to site:** **[Interesting ideas about using iTunes more effectively](None)**

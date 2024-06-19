@@ -10,6 +10,10 @@ tags:
     - students
 ---
 
+**Link: [Preparation needed](None):** ""
+
+
+
 I've been thinking a lot lately about what kind of preparation college
 students need as they graduate to pursue their futures. Thomas Friedman writes
 an excellent column in the New York Times where he says:
@@ -33,7 +37,7 @@ an excellent column in the New York Times where he says:
 > all looking for the same kind of people — people who not only have the
 > critical thinking skills to do the value-adding jobs that technology can’t,
 > but also people who can invent, adapt and reinvent their jobs every day, in
-> a market that changes faster than ever. " **(**From** The New York Times:
+> a market that changes faster than ever. " **( **From** The New York Times:
 > The Start-Up of You)
 
 This is really true. If your life's ambition is to pursue an advanced degree
@@ -42,4 +46,3 @@ life's passion is to join or create a startup and have a really big impact on
 the world.
 
 
-* **Link to site:** **[Preparation needed](None)**

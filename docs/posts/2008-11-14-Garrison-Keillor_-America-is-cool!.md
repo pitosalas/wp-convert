@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-11-14
 ---
 
+**Link: [Garrison Keillor: America is cool!](None):** ""
+
+
+
 A neat article in [Salon, by Garrison Keillor - America is cool](</wp-
 admin/post-new.php>):
 
@@ -26,4 +30,3 @@ admin/post-new.php>):
 Yeah, Putin, what's with that **B-movie bad-boy scowl?**
 
 
-* **Link to site:** **[Garrison Keillor: America is cool!](None)**

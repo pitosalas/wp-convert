@@ -6,6 +6,10 @@ tags:
     - qwiki
 ---
 
+**Link: [Interesting search engines](None):** ""
+
+
+
 [Qwiki seems to create multi-media presentations on any topic at
 all.](<http://www.qwiki.com>) I picked an odd topic, like "[BlogBridge", and
 it did a half decent job](<http://www.qwiki.com/q/#!/BlogBridge>). I don't
@@ -19,4 +23,3 @@ Flickr](<http://www.fotopedia.com/items/flickr-3255348609>). Are they using
 Flickr to prime their pump?
 
 
-* **Link to site:** **[Interesting search engines](None)**

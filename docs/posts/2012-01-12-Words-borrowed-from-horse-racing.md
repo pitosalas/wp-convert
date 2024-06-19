@@ -8,6 +8,10 @@ tags:
     - seabiscuit
 ---
 
+**Link: [Words borrowed from horse racing](None):** ""
+
+
+
 I just finished reading the book
 [Seabiscuit](<http://www.amazon.com/Seabiscuit-American-Legend-Laura-
 Hillenbrand/dp/0449005615>). I previously had no interest (and no respect) for
@@ -33,4 +37,3 @@ in daily use come from the **Racing World.** See how many surprise you!
   * down to the wire
 
 
-* **Link to site:** **[Words borrowed from horse racing](None)**

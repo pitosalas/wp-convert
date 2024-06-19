@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2009-06-10
 ---
 
+**Link: [Just when I was thinking about stopping my NetFlix subscription](None):** ""
+
+
+
 [TIVO keeps on getting cooler and
 cooler:](<http://online.wsj.com/article/SB122533284014583011.html?mod=djemTECH>)
 
@@ -25,4 +29,3 @@ really???
 _Originally posted on Oct 31, 2008. Reprinted courtesy of ReRuns plug-in._
 
 
-* **Link to site:** **[Just when I was thinking about stopping my NetFlix subscription](None)**

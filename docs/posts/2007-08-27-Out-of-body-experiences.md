@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-08-27
 ---
 
+**Link: [Out of body experiences](None):** ""
+
+
+
 A really interesting experiment reported in various places trigger the
 sensation of an [tag]out of body experience[/tag]. I read about it first in
 the New York Times: ["Scientists induce Out-of-Body
@@ -19,4 +23,3 @@ But here are some additional links about it:
 [youtube=http://www.youtube.com/watch?v=4PQAc_Z2OfQ&w=425&h=350]
 
 
-* **Link to site:** **[Out of body experiences](None)**

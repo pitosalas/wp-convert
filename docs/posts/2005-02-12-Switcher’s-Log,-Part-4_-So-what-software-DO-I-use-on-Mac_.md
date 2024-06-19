@@ -4,6 +4,8 @@ author: Pito Salas
 date: 2005-02-12
 ---
 
+**Link: [Switcher’s Log, Part 4: So what software DO I use on Mac?](None):** ""
+
 This is a topic of continuing interest to people who hear that I switched.
 Here are some general comments:
 
@@ -26,11 +28,13 @@ utilities -- many of them don't exist on Mac. For example Plaxo, SecondCopy,
 GetAnagram - three of my favorites on XP. These omissions are not enough to
 make me regret having moved.
 
-Ok, now the list:
+>>
+
+>> Ok, now the list:
 
 >>
 
->>   * _Applications I use every hour of every day:_**Mail, Addressbook and
+>>   * _Applications I use every hour of every day:_ **Mail, Addressbook and
 iCal** , which together are supposed to replace **Outlook** , but don't quite.
 Eclipse, which is essentially identical on Mac OS X. **BlogBridge** of course,
 which is identical and wonderful on all platforms 🙂 **Safari** , replacing
@@ -41,7 +45,7 @@ and is nicer than **Tillion**.
 iTunes, Skype** , which are identical on Mac OS X. **iPhoto** , replaces and
 is almost identical to **Picasa**.
 
->>   * _OS X only applications which I use regularly:_**MarsEdit** , which is
+>>   * _OS X only applications which I use regularly:_ **MarsEdit** , which is
 the editor that I am using to write this post. **QuickSilver** , an app
 launcher, and **Konfabulator** , a visual trinkets app.
 
@@ -49,4 +53,3 @@ launcher, and **Konfabulator** , a visual trinkets app.
 GetAnagram**
 
 
-* **Link to site:** **[Switcher’s Log, Part 4: So what software DO I use on Mac?](None)**

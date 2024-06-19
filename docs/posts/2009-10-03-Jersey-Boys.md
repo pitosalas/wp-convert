@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2009-10-03
 ---
 
+**Link: [Jersey Boys](None):** ""
+
+
+
 We saw the ["Jersey Boys"](<http://www.jerseyboysinfo.com/>) musical in
 Chicago last night. It's a lot of fun, even though the sound system at the
 ["Bank of America Theatre"](<http://www.lasalle-bank-theater.com/>) wasn't up
@@ -20,4 +24,3 @@ was like. Can you recommend one?
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-* **Link to site:** **[Jersey Boys](None)**

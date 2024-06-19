@@ -8,6 +8,10 @@ tags:
     - independent
 ---
 
+**Link: [Support your local bookstore](None):** ""
+
+
+
 I have a **warm spot** in my heart for independent bookstores, as such a store
 **paid for my college education.** My family business was a bookstore. It is
 no longer around however, having gone out of business years ago. Blame
@@ -55,4 +59,3 @@ an](<http://www.nytimes.com/2011/12/13/opinion/amazons-jungle-
 logic.html?_r=4&pagewanted=all>) Anti-Amazon screed from a set of authors.
 
 
-* **Link to site:** **[Support your local bookstore](None)**

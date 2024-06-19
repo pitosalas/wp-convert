@@ -4,11 +4,15 @@ author: Pito Salas
 date: 2006-12-18
 ---
 
-<!-  
+**Link: [TIME 2006 Person Of The Year: What a cop out!](None):** ""
+
+  
+>  
+> <!-  
 >  body { line-height: normal; font-style: normal; font-variant: normal; font-
 > weight: normal; font-size: 11pt; font-family: Lucida Grande }  
->  ->  
->  
+>  ->
+>
 > Time Magazine news "You?" as the person of the year? What a cop-out!  
 > Check out [this  
 >
@@ -29,4 +33,3 @@ date: 2006-12-18
 > (No?)](<http://bagnewsnotes.typepad.com/bagnews/2006/12/time_2006_perso.html>))
 
 
-* **Link to site:** **[TIME 2006 Person Of The Year: What a cop out!](None)**

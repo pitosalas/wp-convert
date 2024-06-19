@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-06-03
 ---
 
-[BlogBridge ](<http://www.blogbridge.com>)is getting ready to go into a
+**Link: [What’s a beta, anyway?](None):** ""
+
+
+>>
+
+>> [BlogBridge ](<http://www.blogbridge.com>)is getting ready to go into a
 limited beta test. The purpose is to get some early feedback on the basic User
 Interface model and the overall product vision. If you are interested in
 participating, please send an email to email@blogbridge.com.
@@ -48,4 +53,3 @@ beta to about 10 people to start, and plan to ramp that up over the next
 months, while constantly adding features and removing bugs.
 
 
-* **Link to site:** **[What’s a beta, anyway?](None)**

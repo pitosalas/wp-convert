@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2009-06-12
 ---
 
+**Link: [Election day in Benton, New Hampshire](None):** ""
+
+
+
 My post about Barack Obama's election was getting a bit long, so I thought I'd
 break it up and get some more blog miles out of the story.
 
@@ -67,4 +71,3 @@ Still though he never asked us to remove the Barack Obapple sign.
 _Originally posted on Nov 08, 2008. Reprinted courtesy of ReRuns plug-in._
 
 
-* **Link to site:** **[Election day in Benton, New Hampshire](None)**

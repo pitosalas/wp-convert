@@ -4,7 +4,11 @@ author: Pito Salas
 date: 2006-12-29
 ---
 
-<!-  
+**Link: [OMG: Lotus Notes still alive and kicking ?](None):** ""
+
+
+>
+> <!-  
 >  body { font-size: 11pt; line-height: normal; font-weight: normal; font-
 > variant: normal; font-style: normal; font-family: Lucida Grande }  
 >  ->
@@ -38,4 +42,3 @@ date: 2006-12-29
 > support](<http://feeds.tuaw.com/~r/weblogsinc/tuaw/~3/68102824/>))
 
 
-* **Link to site:** **[OMG: Lotus Notes still alive and kicking ?](None)**

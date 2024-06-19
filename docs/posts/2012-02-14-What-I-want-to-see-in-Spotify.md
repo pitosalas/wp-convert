@@ -10,6 +10,10 @@ tags:
     - spotify
 ---
 
+**Link: [What I want to see in Spotify](None):** ""
+
+
+
 As you know, I am a big big fan of Spotify. Lately I've been playing with the
 Last.FM integration. It's a handy way for me to see what new music or artists
 I might like to listen to. I've discovered plenty of new music that way, it's
@@ -25,4 +29,3 @@ am washing dishes. You get the idea.
 If you work for Spotify, what do you think?
 
 
-* **Link to site:** **[What I want to see in Spotify](None)**

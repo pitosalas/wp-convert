@@ -7,6 +7,10 @@ tags:
     - spotify
 ---
 
+**Link: [Update about Spotify](None):** ""
+
+
+
 So I have now been using Spotify for about a week after sumarily deserting
 Rhapsody (no stickyness at all!) Here's my summary:
 
@@ -38,4 +42,3 @@ Jury is still out for me…
 **
 
 
-* **Link to site:** **[Update about Spotify](None)**

@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-11-06
 ---
 
-I was lucky enough to meet and spend some time with [**Ward
+**Link: [[OOPSLA] Where Wikis come from](None):** ""
+
+
+>>
+
+>> I was lucky enough to meet and spend some time with [**Ward
 Cunningham**](<http://c2.com/cgi/wiki?WardCunningham>)at [OOPSLA
 ](<http://www.oopsla.org/2004/ShowPage.do?id=Home>)this year. I also heard him
 present in a big hall. If you are a [Wiki
@@ -68,11 +73,10 @@ in the right place.
 > And so proto-wiki** was born. Of course this Wiki-markup **is only one of**
 > the three (IMHO) **seminal** features of Wikis. The **other two** are: _the
 > total lack of access control and the ability to refer to something before it
-> exists._**More on those later.**
+> exists._ **More on those later.**
 >>
 
 >> So that's the story, **as I heard** it. I thought it might be of interest
 to you.
 
 
-* **Link to site:** **[[OOPSLA] Where Wikis come from](None)**

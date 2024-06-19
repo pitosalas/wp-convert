@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2011-07-14
 ---
 
+**Link: [Are you losing money?](None):** ""
+
+
+
 From ABC News, but I've seen a similar story elsewhere:
 
 > "There are 300 million [third-party
@@ -23,4 +27,3 @@ The article seems to focus on landlines. Does that mean that this problem does
 not occur with cell phones? That would be good to know?
 
 
-* **Link to site:** **[Are you losing money?](None)**

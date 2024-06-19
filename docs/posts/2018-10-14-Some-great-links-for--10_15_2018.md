@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-10-14
 ---
 
+**Link: [Some great links for  10/15/2018](None):** ""
+
+
+
   * [Ruby goes Serverless! - Apache OpenWhisk adds native support for Ruby](<https://medium.com/openwhisk/ruby-goes-serverless-apache-openwhisk-adds-native-support-for-ruby-7134faee14e>)
 
 Title says it all.
@@ -34,4 +38,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  10/15/2018](None)**

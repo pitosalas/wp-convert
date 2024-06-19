@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-10-11
 ---
 
+**Link: [Weapons of civic mass destruction](None):** ""
+
+
+
 I am struck by how broken our political process is. I'm not the first nor the
 last to make this observation, How did we get here and what are the underlying
 reasons?
@@ -41,4 +45,3 @@ science of persuation and we are watching two parties engaged in what amounts
 to **mutually assured destruction** ("MAD").
 
 
-* **Link to site:** **[Weapons of civic mass destruction](None)**

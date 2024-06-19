@@ -12,6 +12,10 @@ tags:
     - turnarounds
 ---
 
+**Link: [What Can We Learn from Barnes & Noble’s Surprising Turnaround?](None):** ""
+
+
+
 [ What Can We Learn from Barnes & Noble's Surprising Turnaround?](<
 https://tedgioia.substack.com/p/what-can-we-learn-from-barnes-and>) –I was in
 a Barnes and Nobel again after many years. Actually many years before that I
@@ -22,4 +26,3 @@ books and books. Great article:"Digital platforms are struggling, meanwhile a
 136-year-old book retailer is growing again. But why?"
 
 
-* **Link to site:** **[What Can We Learn from Barnes & Noble’s Surprising Turnaround?](None)**

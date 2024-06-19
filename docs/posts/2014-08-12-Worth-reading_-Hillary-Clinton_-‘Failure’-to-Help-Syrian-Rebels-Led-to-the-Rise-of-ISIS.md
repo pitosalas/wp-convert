@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2014-08-12
 ---
 
+**Link: [Worth reading: Hillary Clinton: ‘Failure’ to Help Syrian Rebels Led to the Rise of ISIS](None):** ""
+
+
+
 ![](https://i0.wp.com/salas.com/wp-
 content/uploads/2014/08/b66ed-1407848922617.jpg?w=584&ssl=1)
 
@@ -14,4 +18,3 @@ across Syria and Iraq today—from seizing control of the rebellion. Link:
 http://ift.tt/1A5bEuv My Blog
 
 
-* **Link to site:** **[Worth reading: Hillary Clinton: ‘Failure’ to Help Syrian Rebels Led to the Rise of ISIS](None)**

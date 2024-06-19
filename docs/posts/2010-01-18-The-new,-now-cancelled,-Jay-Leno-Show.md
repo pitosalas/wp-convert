@@ -10,6 +10,10 @@ tags:
     - television-tag
 ---
 
+**Link: [The new, now cancelled, Jay Leno Show](None):** ""
+
+
+
 Finally I found someone expressing what I have been thinking about [the fracas
 about NBC, Jay Leno, Conan O'Brien](<http://www.tvsquad.com/2010/01/18/jay-
 leno-and-the-missed-opportunity/>) etc. etc. And while I didn't know then what
@@ -35,4 +39,3 @@ I used to be a fan.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-* **Link to site:** **[The new, now cancelled, Jay Leno Show](None)**

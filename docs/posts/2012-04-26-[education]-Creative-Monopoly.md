@@ -8,6 +8,10 @@ tags:
     - university
 ---
 
+**Link: [[education] Creative Monopoly](None):** ""
+
+
+
 An interesting [article by David Brooks in the New York Times commenting on
 the views of the always controversial Peter
 Thiel.](<http://www.nytimes.com/2012/04/24/opinion/brooks-the-creative-
@@ -43,4 +47,3 @@ Why would that be bad? Read on:
 > monopoly.html?_r=1>)
 
 
-* **Link to site:** **[[education] Creative Monopoly](None)**

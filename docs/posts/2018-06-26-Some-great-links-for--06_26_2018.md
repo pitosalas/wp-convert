@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-06-26
 ---
 
+**Link: [Some great links for  06/26/2018](None):** ""
+
+
+
   * [Crystal is not Ruby Pt. 2 – Runtime Revolution](<https://revs.runtime-revolution.com/crystal-is-not-ruby-pt-2-7c3d988aa9a1?source=userActivityShare-d383785221d0-1529896500>)
 
 tags: [Ruby](<https://www.diigo.com/user/pitosalas/Ruby>)
@@ -20,4 +24,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  06/26/2018](None)**

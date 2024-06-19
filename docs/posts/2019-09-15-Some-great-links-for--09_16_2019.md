@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-09-15
 ---
 
+**Link: [Some great links for  09/16/2019](None):** ""
+
+
+
   * [Ganbreeder](<http://www.artbreeder.com/models>)
 
 Pretty interesting example of generative art and AI deepfakes related
@@ -18,4 +22,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  09/16/2019](None)**

@@ -6,6 +6,10 @@ tags:
     - iphon-tage
 ---
 
+**Link: [Maybe I hate my iPhone](None):** ""
+
+
+
 [This is from today's New York Times
 Magazine](<http://www.nytimes.com/2009/04/05/magazine/05wwln-
 medium-t.html?ref=technology>). I didn't know [Virginia
@@ -36,4 +40,3 @@ might grow, over time, to hate my iPhone or what it does to me.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-* **Link to site:** **[Maybe I hate my iPhone](None)**

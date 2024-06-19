@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-07-19
 ---
 
+**Link: [Some great links for  07/20/2019](None):** ""
+
+
+
   * [Goodbye ActiveRecord! - Inside Aircall - Medium](<https://medium.com/inside-aircall/goodbye-activerecord-e61ce894ed48>)
 
 Always wanted to learn more about this new Orm
@@ -27,4 +31,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  07/20/2019](None)**

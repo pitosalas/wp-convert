@@ -6,6 +6,10 @@ tags:
     - iphon-tage
 ---
 
+**Link: [iPhone 3GS – Questions](None):** ""
+
+
+
 Ok so I've had the new iPhone for a little while now. This is my first ever
 iPhone and I have some questions. Maybe you can help me?
 
@@ -17,4 +21,3 @@ Any experts out there who want to comment?
 Technorati Tags: [iphone](<http://technorati.com/tag/iphone>)
 
 
-* **Link to site:** **[iPhone 3GS – Questions](None)**

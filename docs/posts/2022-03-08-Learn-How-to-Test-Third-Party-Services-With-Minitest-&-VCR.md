@@ -7,6 +7,10 @@ tags:
     - testing
 ---
 
+**Link: [Learn How to Test Third Party Services With Minitest & VCR](None):** ""
+
+
+
 [ Learn How to Test Third Party Services With Minitest &
 VCR](<https://blog.eduonix.com/web-programming-tutorials/learn-test-third-
 party-services-minitest-vcr/>)
@@ -17,4 +21,3 @@ it and how to write tests for third-party services.
 March 8, 2022 at 09:45PM
 
 
-* **Link to site:** **[Learn How to Test Third Party Services With Minitest & VCR](None)**

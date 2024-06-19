@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-09-02
 ---
 
+**Link: [TSA and photo IDs](None):** ""
+
+
+
 An interesting article from Bruce Schneier about why he believes that TSA
 requirement of photo IDs is a waste of time:
 
@@ -23,4 +27,3 @@ just what Schneier gives instructions for. I wonder whether Schneier will get
 a call from them? Nah, he's too well known!
 
 
-* **Link to site:** **[TSA and photo IDs](None)**

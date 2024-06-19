@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2014-08-18
 ---
 
+**Link: [Worth reading: How to Be Polite — The Message — Medium](None):** ""
+
+
+
 ![](https://i0.wp.com/salas.com/wp-
 content/uploads/2014/08/5524e-1408365433155.png?w=584&ssl=1)
 
@@ -12,4 +16,3 @@ of the point. I don’t look polite. I am big and droopy and need a haircut. No
 soul would associate me with watercress sandwiches.
 
 
-* **Link to site:** **[Worth reading: How to Be Polite — The Message — Medium](None)**

@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-05-15
 ---
 
+**Link: [Leaving my friends – Twitterspam](None):** ""
+
+
+
 I've been **de-friending** one person after another on Twitter. Why? Because
 many of them are A-listers who 'generously 'accepted my friendship and are now
 **spamming** me via Twitter with their latest exploits. Dull.
@@ -14,4 +18,3 @@ for Twitter users: only 'friend' people who you really know and at some weird
 level care whether they are having a ham sandwich.
 
 
-* **Link to site:** **[Leaving my friends – Twitterspam](None)**

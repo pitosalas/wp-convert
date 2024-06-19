@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-07-02
 ---
 
-Someone whose oppinion I listen to, Karsten Lentzch, recommends these books
+**Link: [[JAVAONE] User Interface Design](None):** ""
+
+
+>>
+
+>> Someone whose oppinion I listen to, Karsten Lentzch, recommends these books
 about user interface design:
 
 >>
@@ -34,4 +39,3 @@ discovered JGoodies and decided that it was possible, and so decided to go
 with Java.
 
 
-* **Link to site:** **[[JAVAONE] User Interface Design](None)**

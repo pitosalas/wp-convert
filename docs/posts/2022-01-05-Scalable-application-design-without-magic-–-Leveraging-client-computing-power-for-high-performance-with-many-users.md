@@ -7,6 +7,10 @@ tags:
     - scaling
 ---
 
+**Link: [Scalable application design without magic – Leveraging client computing power for high performance with many users](None):** ""
+
+
+
 [ Scalable application design without magic - Leveraging client computing
 power for high performance with many
 users](<https://willem.com/blog/2020-05-11_scalable-application-design-
@@ -19,4 +23,3 @@ it handle most of the user interaction workload.
 January 5, 2022 at 05:21PM
 
 
-* **Link to site:** **[Scalable application design without magic – Leveraging client computing power for high performance with many users](None)**

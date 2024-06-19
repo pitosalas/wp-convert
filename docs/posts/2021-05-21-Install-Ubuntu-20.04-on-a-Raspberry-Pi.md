@@ -14,8 +14,6 @@ tags:
 ---
 <img class="cover" src=https://i.ytimg.com/vi/GVgMM_TFeOw/hqdefault.jpg>
 
+**Link: [Install Ubuntu 20.04 on a Raspberry Pi](https://www.youtube.com/watch?v=GVgMM_TFeOw):** "Got an unused Raspberry Pi 3 or 4 laying around? Let's put it to good use by installing Ubuntu 20.04 Focal Fossa on it! This will make a great platform to cr..."
 
 
-* **Web site excerpt:** Got an unused Raspberry Pi 3 or 4 laying around? Let's put it to good use by installing Ubuntu 20.04 Focal Fossa on it! This will make a great platform to cr...
-
-* **Link to site:** **[Install Ubuntu 20.04 on a Raspberry Pi](https://www.youtube.com/watch?v=GVgMM_TFeOw)**

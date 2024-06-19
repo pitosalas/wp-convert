@@ -6,6 +6,10 @@ tags:
     - religion-tag-obama-jerusalem
 ---
 
+**Link: [Should he have signed the letter?](None):** ""
+
+
+
 Ok this is a bit irreverent.
 
 There's been a spat relating to the note that Barack Obama wrote and left in
@@ -27,4 +31,3 @@ I mean I guess the intended recipient of the letter would know who wrote it. I
 guess that's the difference between a letter and a prayer.
 
 
-* **Link to site:** **[Should he have signed the letter?](None)**

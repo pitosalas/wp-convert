@@ -4,8 +4,13 @@ author: Pito Salas
 date: 2004-01-14
 ---
 
-**I want RSS to disappear.** The question was posed, "What do users want from
-RSS"? I thought long and hard about this and here's where I come out.
+**Link: [I want RSS to disappear.](None):** ""
+
+
+>>
+
+>> **I want RSS to disappear.** The question was posed, "What do users want
+from RSS"? I thought long and hard about this and here's where I come out.
 
 >>
 
@@ -73,4 +78,3 @@ had gone; I wish I could use a richer editor to create my posts; I wish… I
 wish …; I wish)
 
 
-* **Link to site:** **[I want RSS to disappear.](None)**

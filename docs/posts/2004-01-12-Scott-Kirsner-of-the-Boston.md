@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-01-12
 ---
 
-**[Scott Kirsner of the Boston
+**Link: [Scott Kirsner of the Boston](None):** ""
+
+
+>>
+
+>> **[Scott Kirsner of the Boston
 Globe:](<http://www.boston.com/business/technology/articles/2004/01/12/tech_negativity_bubble_begins_to_deflate/>)
 "**Salas has spent the past few months developing **BlogBridge** , software
 that allows users to easily keep tabs on multiple weblogs -- kind of a
@@ -21,9 +26,9 @@ whole bit is:
 >
 >>>
 
->>> _**Pito Salas** was the chief technology officer at **eRoom** , an online
-collaboration company acquired last year by **Documentum** , which in turn was
-bought by **EMC**. Salas has spent the past few months developing
+>>>  _ **Pito Salas** was the chief technology officer at **eRoom** , an
+online collaboration company acquired last year by **Documentum** , which in
+turn was bought by **EMC**. Salas has spent the past few months developing
 **BlogBridge** , software that allows users to easily keep tabs on multiple
 weblogs -- kind of a "Reader's Digest" for the blog world. (You can try out an
 early version at www.blogbridge.com.)_
@@ -34,8 +39,8 @@ early version at www.blogbridge.com.)_
 >
 >>>
 
->>> _But now it seems like Salas, a onetime Lotus exec, has put the project on
-hold temporarily, and is turning his energies to consulting._
+>>>  _But now it seems like Salas, a onetime Lotus exec, has put the project
+on hold temporarily, and is turning his energies to consulting._
 
 >>
 
@@ -66,4 +71,3 @@ talk or get involved.
 <http://www.blogbridge.com>.
 
 
-* **Link to site:** **[Scott Kirsner of the Boston](None)**

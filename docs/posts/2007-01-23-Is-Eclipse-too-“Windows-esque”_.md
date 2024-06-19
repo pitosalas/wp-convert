@@ -4,7 +4,11 @@ author: Pito Salas
 date: 2007-01-23
 ---
 
-<!-  
+**Link: [Is Eclipse too “Windows-esque”?](None):** ""
+
+
+>
+> <!-  
 >  body { font-style: normal; line-height: normal; font-variant: normal; font-
 > family: Lucida Grande; font-size: 11pt; font-weight: normal }  
 >  ->
@@ -32,4 +36,3 @@ date: 2007-01-23
 > esque"?](<http://www.dzone.com/rsslinks/is_eclipse_too_windowsesque.html>))
 
 
-* **Link to site:** **[Is Eclipse too “Windows-esque”?](None)**

@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-05-01
 ---
 
+**Link: [Something I’ve been looking for: Finder Window Manager](None):** ""
+
+
+
 Check out [this
 post](<http://feeds.tuaw.com/~r/weblogsinc/tuaw/~3/113219781/>) from [The
 Unofficial Apple Weblog (TUAW)](<http://www.tuaw.com>):
@@ -20,4 +24,3 @@ Unofficial Apple Weblog (TUAW)](<http://www.tuaw.com>):
 > Manager](<http://feeds.tuaw.com/~r/weblogsinc/tuaw/~3/113219781/>))
 
 
-* **Link to site:** **[Something I’ve been looking for: Finder Window Manager](None)**

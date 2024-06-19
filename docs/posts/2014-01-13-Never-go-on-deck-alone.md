@@ -10,6 +10,10 @@ tags:
     - story
 ---
 
+**Link: [Never go on deck alone](None):** ""
+
+
+
 This is just a great read.
 
 [A Speck in the Sea -
@@ -23,4 +27,3 @@ sea.html?_r=0>):
 
 
 
-* **Link to site:** **[Never go on deck alone](None)**

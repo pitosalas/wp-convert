@@ -9,6 +9,10 @@ tags:
     - quote
 ---
 
+**Link: [Quote about improvisation (from David Byrne’s new book)](None):** ""
+
+
+
 I picked up David Byrne's new book: [How Music
 Works](<http://www.amazon.com/gp/product/1936365537/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1936365537&linkCode=as2&tag=blogbridge-20>)![](http://www.assoc-
 amazon.com/e/ir?t=blogbridge-20&l=as2&o=1&a=1936365537) while waiting around
@@ -21,4 +25,3 @@ designing software products or teaching. I am thinking. Do you have an idea?
 content/uploads/2013/05/20c44-img_111320-202013-04-2220at2018-41-15.jpg?resize=584%2C239&ssl=1)
 
 
-* **Link to site:** **[Quote about improvisation (from David Byrne’s new book)](None)**

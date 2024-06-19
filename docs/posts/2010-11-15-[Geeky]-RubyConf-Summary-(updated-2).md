@@ -9,6 +9,10 @@ tags:
     - rubycon-tagf
 ---
 
+**Link: [[Geeky] RubyConf Summary (updated 2)](None):** ""
+
+
+
 RubyConf 2010 was excellent. It was my first and probably not my last. Some
 general thoughts and then a master list of links (the real meat.)
 
@@ -92,4 +96,3 @@ And here are many more really good ones:
   * [Rails Talk Ruby CSS Parser](<http://railstalk.com/2010/1/5/ruby-css-parser>) - I was thinking back to some of my own projects, and one is to create a CSS simplifier/optimizer. Here's a Ruby based CSS parser.
 
 
-* **Link to site:** **[[Geeky] RubyConf Summary (updated 2)](None)**

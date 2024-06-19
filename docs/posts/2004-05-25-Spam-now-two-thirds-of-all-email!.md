@@ -4,9 +4,14 @@ author: Pito Salas
 date: 2004-05-25
 ---
 
-It's even worse than you thought: "E-mail security firm MessageLabs' filtering
-statistics for April, which were published on Monday, show that 67.6 percent
-of all global e-mail traffic is spam."
+**Link: [Spam now two thirds of all email!](None):** ""
+
+
+>>
+
+>> It's even worse than you thought: "E-mail security firm MessageLabs'
+filtering statistics for April, which were published on Monday, show that 67.6
+percent of all global e-mail traffic is spam."
 
 >>
 
@@ -14,4 +19,3 @@ of all global e-mail traffic is spam."
 email](<http://zdnet.com.com/2100-1105-5219078.html>)
 
 
-* **Link to site:** **[Spam now two thirds of all email!](None)**

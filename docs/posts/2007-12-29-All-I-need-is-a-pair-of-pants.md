@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-12-29
 ---
 
+**Link: [All I need is a pair of pants](None):** ""
+
+
+
 Check out [this
 post](<http://feeds.feedburner.com/~r/zephoria/thoughts/~3/207694274/all_i_need_is_a.html>)
 from [apophenia](<http://www.zephoria.org/thoughts/>) (no I didn't write it 🙂
@@ -27,11 +31,10 @@ from [apophenia](<http://www.zephoria.org/thoughts/>) (no I didn't write it 🙂
 Ok, so what I find unbelievable and shocking about this paragraph is that
 someone would try on over 150 pairs. Let's see, if trying on a pair takes
 optimistically an average of 5 minutes, and she kept up this pace for 4 hours
-per day, then our friend danah spent 3 days doing nothing**but trying on
+per day, then our friend danah spent 3 days doing nothing **but trying on
 pants.**
 
 [I've known one other person who insisted that his first name not be
 capitalized: glenn. Who knows…. But then my name is Pito.]
 
 
-* **Link to site:** **[All I need is a pair of pants](None)**

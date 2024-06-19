@@ -9,6 +9,10 @@ tags:
     - software
 ---
 
+**Link: [Designed As Designer](None):** ""
+
+
+
 If you are interested in design and especially design and architecture of
 software, and you have a philosophical bent, you will enjoy this essay… I
 can't even attempt to summarize it's content, and even the abstract from the
@@ -16,7 +20,7 @@ paper itself is quite inscrutable:
 
 > "Conceptual integrity arises not (simply) from one mind or from a small
 > number of agreeing resonant minds, but from sometimes hidden co-authors and
-> the thing designed itself." (**From** [Designed As
+> the thing designed itself." ( **From** [Designed As
 > Designer](<http://dreamsongs.com/Files/DesignedAsDesignerExpanded.pdf>))
 
 What can I tell you. The author is the [Richard
@@ -25,4 +29,3 @@ computer world. Here's the article: [Designed as
 Designer](<http://dreamsongs.com/Files/DesignedAsDesignerExpanded.pdf>).
 
 
-* **Link to site:** **[Designed As Designer](None)**

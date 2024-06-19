@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-11-12
 ---
 
+**Link: [Some great links for  11/13/2018](None):** ""
+
+
+
   * [A Safer RuboCop](<https://metaredux.com/posts/2018/10/27/a-safer-rubocop.html>)
 
 Rubocop is a great tool for Ruby programmers
@@ -28,4 +32,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  11/13/2018](None)**

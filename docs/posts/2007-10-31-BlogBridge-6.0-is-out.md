@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-10-31
 ---
 
+**Link: [BlogBridge 6.0 is out](None):** ""
+
+
+
 We just released [BlogBridge
 6.0](<http://www.blogbridge.com/2007/10/19/blogbridge-60-on-our-shelves-right-
 now/> "BlogBridge released"). It's getting [really good
@@ -28,4 +32,3 @@ lots of stuff that your current aggregator may
 not.](<http://www.blogbridge.com/2007/09/24/can-your-current-tool-do-this/>)
 
 
-* **Link to site:** **[BlogBridge 6.0 is out](None)**

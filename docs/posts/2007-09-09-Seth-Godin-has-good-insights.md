@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-09-09
 ---
 
+**Link: [Seth Godin has good insights](None):** ""
+
+
+
 Check out [this
 post](<http://feeds.feedburner.com/~r/typepad/sethsmainblog/~3/153853886/how-
 to-spend-20.html>) where Seth Godin gives some really good ideas about how
@@ -15,7 +19,7 @@ Apple might have better handled the price change of the iPhone. See it in
 > because it announces to your friends-every time the phone rings-that you got
 > in early). -- Free pass to get to the head of the line next time a new hot
 > product comes out. -- Ability to buy a specially colored iPod, or an iPod
-> with limited edition music that no one else can buy.**The key** is to not
+> with limited edition music that no one else can buy. **The key** is to not
 > give price protection to early buyers (that's unsustainable as a business
 > model) but to make them feel more exclusive, not less.
 >
@@ -24,4 +28,3 @@ Apple might have better handled the price change of the iPhone. See it in
 > to-spend-20.html>))
 
 
-* **Link to site:** **[Seth Godin has good insights](None)**

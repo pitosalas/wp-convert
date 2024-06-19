@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-05-17
 ---
 
-If you are doing Java programming, check out [Hardcore
+**Link: [Still can learn more,,,](None):** ""
+
+
+>>
+
+>> If you are doing Java programming, check out [Hardcore
 Java](<http://store.yahoo.com/softpro/0-596-00568-7.html>) by Robert Simmon
 Jr. It's a idiosyncratic tour through many very interesting advanced Java
 topics.
@@ -15,4 +20,3 @@ topics.
 why it's taking me so long to learn this "Java" thing 🙂
 
 
-* **Link to site:** **[Still can learn more,,,](None)**

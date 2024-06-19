@@ -4,11 +4,14 @@ author: Pito Salas
 date: 2006-11-22
 ---
 
-[Kottke points to an ](<http://www.kottke.org/06/11/rope-burning-logic-
-problem>)amusing set of logic questions posted by  "3 Quarks Daily" with the
-(silly - you'll see why) suggestion that it might make good dinner table
-conversation this Thanksgiving (in the US , of course 🙂
+**Link: [Who comes to your thanksgiving dinner?](None):** ""
 
+
+>
+> [Kottke points to an ](<http://www.kottke.org/06/11/rope-burning-logic-
+> problem>)amusing set of logic questions posted by  "3 Quarks Daily" with the
+> (silly - you'll see why) suggestion that it might make good dinner table
+> conversation this Thanksgiving (in the US , of course 🙂
 >
 > I won't repeat Kottke's quote of the Rope Burning Question, but you should
 > [check it
@@ -24,4 +27,3 @@ conversation this Thanksgiving (in the US , of course 🙂
 > that's the kind of crowd that sits around my table… You?
 
 
-* **Link to site:** **[Who comes to your thanksgiving dinner?](None)**

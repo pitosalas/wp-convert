@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-04-20
 ---
 
+**Link: [Some great links for  04/20/2018](None):** ""
+
+
+
   * [7 Practical Tips for Cheating at Design – Refactoring UI – Medium](<https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886?source=userActivityShare-d383785221d0-1524177305>)
 
 Awesome useful tips for pretty design!
@@ -77,4 +81,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  04/20/2018](None)**

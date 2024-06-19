@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-11-25
 ---
 
+**Link: [Very unscientific survey of online survey tools](None):** ""
+
+
+
 Because of a couple of projects that I am working on, I thought I might be
 able to use some tool for an online survey. I have two particular
 requirements:
@@ -27,4 +31,3 @@ For me, [SurveyMonkey](<http://www.surveymonkey.com>) is the right choice.
 surveymonkey](<http://technorati.com/tag/form%20wufoo%20zoomerang%20surveymonkey>)
 
 
-* **Link to site:** **[Very unscientific survey of online survey tools](None)**

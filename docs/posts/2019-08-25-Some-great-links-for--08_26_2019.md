@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-08-25
 ---
 
+**Link: [Some great links for  08/26/2019](None):** ""
+
+
+
   * [4 Rules for Intuitive UX – Learn UI Design](<https://learnui.design/blog/4-rules-intuitive-ux.html>)
 
 Fantastic set of really low hanging fruit UI rules. Stuff that anyone can
@@ -28,4 +32,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  08/26/2019](None)**

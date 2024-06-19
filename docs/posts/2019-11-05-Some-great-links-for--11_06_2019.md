@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-11-05
 ---
 
+**Link: [Some great links for  11/06/2019](None):** ""
+
+
+
   * [Finite State Machines are dead. Long life Behavior Trees](<https://www.youtube.com/watch?v=22KUPktetzg&feature=youtu.be>)
 
 Very nice explanation of behavior trees
@@ -18,4 +22,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  11/06/2019](None)**

@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-03-05
 ---
 
+**Link: [AA Flight 62 – A terrorist probe?](None):** ""
+
+
+
 Really interesting article which asks whether a [recent incident on an
 Americann Airlines flight in fact was a terrorist dry
 run:](<http://www.theaviationnation.com/2007/02/13/american-airlines-
@@ -15,4 +19,3 @@ flight-62-terror-probe/>)
 > […snip]" (from "American Airlines Flight 62: A terrorist probe?")
 
 
-* **Link to site:** **[AA Flight 62 – A terrorist probe?](None)**

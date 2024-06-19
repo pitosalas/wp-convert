@@ -15,8 +15,6 @@ tags:
 ---
 <img class="cover" src=https://wheelofnames.com/images/fb-screenshot.png>
 
+**Link: [Wheel of Names](https://wheelofnames.com/#):** "Enter names, spin wheel to pick a random winner. Customize look and feel, save and share wheels."
 
 
-* **Web site excerpt:** Enter names, spin wheel to pick a random winner. Customize look and feel, save and share wheels.
-
-* **Link to site:** **[Wheel of Names](https://wheelofnames.com/#)**

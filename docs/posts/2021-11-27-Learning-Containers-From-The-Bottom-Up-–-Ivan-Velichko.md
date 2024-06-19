@@ -6,6 +6,10 @@ tags:
     - linux
 ---
 
+**Link: [Learning Containers From The Bottom Up – Ivan Velichko](None):** ""
+
+
+
 [ Learning Containers From The Bottom Up - Ivan
 Velichko](<https://iximiuz.com/en/posts/container-learning-path/>)
 
@@ -15,4 +19,3 @@ the learning efficiently?
 November 27, 2021 at 07:27PM
 
 
-* **Link to site:** **[Learning Containers From The Bottom Up – Ivan Velichko](None)**

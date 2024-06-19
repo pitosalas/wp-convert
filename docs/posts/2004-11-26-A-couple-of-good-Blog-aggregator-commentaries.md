@@ -4,8 +4,13 @@ author: Pito Salas
 date: 2004-11-26
 ---
 
-Here are two interesting bits that look at all the aggregators and have some
-interesting comments about capabilities and futures.
+**Link: [A couple of good Blog aggregator commentaries](None):** ""
+
+
+>>
+
+>> Here are two interesting bits that look at all the aggregators and have
+some interesting comments about capabilities and futures.
 
 >>
 
@@ -27,4 +32,3 @@ RSS](<http://www.mcgeesmusings.net/2004/11/19.html#a4424>)
 KM](<http://billives.typepad.com/portals_and_km/2004/11/nice_aggregator.html>)]
 
 
-* **Link to site:** **[A couple of good Blog aggregator commentaries](None)**

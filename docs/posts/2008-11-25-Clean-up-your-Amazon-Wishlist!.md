@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-11-25
 ---
 
+**Link: [Clean up your Amazon Wishlist!](None):** ""
+
+
+
 If you are anything like me, you are constantly coming across books and other
 goodies that look interesting but not interesting enough to actually get.
 
@@ -32,4 +36,3 @@ you will be golden!
 [amazon books wishlist](<http://technorati.com/tag/amazon%20books%20wishlist>)
 
 
-* **Link to site:** **[Clean up your Amazon Wishlist!](None)**

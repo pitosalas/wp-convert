@@ -9,6 +9,10 @@ tags:
     - senate
 ---
 
+**Link: [The number of pages in a congressional bill](None):** ""
+
+
+
 I have to do a little research. It seems to be a favorite talking point by
 politicians on all sides of a debate to criticize or dismiss a piece of
 legislation based on the number of pages it has. It's an odd bit of criticism:
@@ -18,4 +22,3 @@ Watch this space. I am going to find some answers. If you know some of the
 data, please post a response or send me an email!
 
 
-* **Link to site:** **[The number of pages in a congressional bill](None)**

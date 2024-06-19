@@ -7,6 +7,10 @@ tags:
     - voting
 ---
 
+**Link: [Sudafed and Voting](None):** ""
+
+
+
 A theme that I have followed in this blog is the question of whether it's a
 good idea to require a picture ID of some kind before permitting a citizen to
 vote. In another [article in the New York Times called "Republican Legislators
@@ -34,4 +38,3 @@ Which is pretty convincing comment, on the face of it, isn't it? Except:
   6. Coincidentally there's no such correlation between people who want or need to fly
 
 
-* **Link to site:** **[Sudafed and Voting](None)**

@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-03-17
 ---
 
+**Link: [[Geeky] Doing popups in Rails and elsewhere](None):** ""
+
+
+
 So my little toy pedagogical application needed a pretty popup box. Actually I
 wanted one so I could see close up some of the alternatives. In the process I
 came across three different code snippets, each one doing it in a little bit
@@ -19,4 +23,3 @@ I tried the first two, but the third looks cool too. I liked Facebox the best.
 Your mileage may/will vary.
 
 
-* **Link to site:** **[[Geeky] Doing popups in Rails and elsewhere](None)**

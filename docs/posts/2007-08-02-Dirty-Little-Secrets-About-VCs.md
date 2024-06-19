@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-08-02
 ---
 
+**Link: [Dirty Little Secrets About VCs](None):** ""
+
+
+
 Scott Kirsner writes about VC's [this
 post](<http://www.innoeco.com/2007/08/dirty-little-secrets-about-vcs.html>) in
 his new blog [Innovation Economy](<http://www.innoeco.com/>)
@@ -15,4 +19,3 @@ his new blog [Innovation Economy](<http://www.innoeco.com/>)
 > VCs](<http://www.innoeco.com/2007/08/dirty-little-secrets-about-vcs.html>))
 
 
-* **Link to site:** **[Dirty Little Secrets About VCs](None)**

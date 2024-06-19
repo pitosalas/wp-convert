@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-09-30
 ---
 
+**Link: [Some great links for  10/01/2019](None):** ""
+
+
+
   * [Comparing Database Types: How Database Types Evolved to Meet Different Needs | Prisma](<https://www.prisma.io/blog/comparison-of-database-models-1iz9u29nwn37?utm_source=Software+Weekly&utm_campaign=5442598d45-EMAIL_CAMPAIGN_12_03_2018_16_23_COPY_01&utm_medium=email&utm_term=0_846fac531b-5442598d45-183168357>)
 
 Really nice taxonomy of database types in history.
@@ -35,4 +39,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  10/01/2019](None)**

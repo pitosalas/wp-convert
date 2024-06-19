@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-03-10
 ---
 
-**RSS/Atom: An idea whose time has come.**[Dave
+**Link: [RSS/Atom: An idea whose time](None):** ""
+
+
+>>
+
+>> **RSS/Atom: An idea whose time has come.**[Dave
 Winer](<http://archive.scripting.com/2004/03/09#rssIsRaging>) is [reaching
 out](<http://blogs.law.harvard.edu/crimson1/2004/03/08#a1243>) to the Atom
 people to try for the grand unification of the two formats. If you look back
@@ -37,4 +42,3 @@ requiring give on all sides, but it will set us back on a path where
 **duplication of effort** will be replaced by forward progress. It's worth it.
 
 
-* **Link to site:** **[RSS/Atom: An idea whose time](None)**

@@ -10,6 +10,10 @@ tags:
     - wharton-tag
 ---
 
+**Link: [Give more to receive more](None):** ""
+
+
+
 ![](https://i0.wp.com/blog.kidsemail.org/wp-
 content/uploads/2012/11/gifts.jpg?w=584)
 
@@ -24,7 +28,7 @@ Professor that sounds just too good to be true:
 > built a career in professional motivation by trying to unpack the puzzle of
 > his own success. He has always helped; he has always been productive. How,
 > he has wondered for most of his professional life, does the interplay of
-> those two factors work for everyone else? (**from** ["Is Giving the Secret
+> those two factors work for everyone else? ( **from** ["Is Giving the Secret
 > to Getting Ahead"?](<http://www.nytimes.com/2013/03/31/magazine/is-giving-
 > the-secret-to-getting-ahead.html?ref=magazine>))
 
@@ -38,4 +42,3 @@ you're not going to feel helpful enough. I guess there's always room for
 improvement!
 
 
-* **Link to site:** **[Give more to receive more](None)**

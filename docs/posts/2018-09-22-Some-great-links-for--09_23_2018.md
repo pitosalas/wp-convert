@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-09-22
 ---
 
+**Link: [Some great links for  09/23/2018](None):** ""
+
+
+
   * [FREE Tutorials on React.js, Ruby on Rails, JavaScript](<https://learnetto.com/?utm_source=Learnetto&utm_campaign=18da4cee30-EMAIL_CAMPAIGN_2017_02_03_COPY_01&utm_medium=email&utm_term=0_dc9c211d3c-18da4cee30-196126073&goal=0_dc9c211d3c-18da4cee30-196126073>)
 
 This has just been made free! I think these tutorials will contain some gems.
@@ -74,4 +78,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  09/23/2018](None)**

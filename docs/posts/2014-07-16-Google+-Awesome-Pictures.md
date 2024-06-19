@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2014-07-16
 ---
 
+**Link: [Google+ Awesome Pictures](None):** ""
+
+
+
 A very little known feature of Google+ Is the "auto awesome" feature. I want
 to sing its praises!
 
@@ -28,4 +32,3 @@ content/uploads/2014/07/1865d-img_0293.jpg?w=584&ssl=1)
 content/uploads/2014/07/4872c-img_0293-effects.jpg?w=584&ssl=1)
 
 
-* **Link to site:** **[Google+ Awesome Pictures](None)**

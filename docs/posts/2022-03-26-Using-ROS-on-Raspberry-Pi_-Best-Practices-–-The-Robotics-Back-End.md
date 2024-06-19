@@ -7,6 +7,10 @@ tags:
     - performance
 ---
 
+**Link: [Using ROS on Raspberry Pi: Best Practices – The Robotics Back-End](None):** ""
+
+
+
 [ Using ROS on Raspberry Pi: Best Practices - The Robotics Back-
 End](<https://roboticsbackend.com/using-ros-on-raspberry-pi-best-practices/>)
 
@@ -16,4 +20,3 @@ making more robust, high-performance, and scalable robotics projects!
 March 26, 2022 at 04:13PM
 
 
-* **Link to site:** **[Using ROS on Raspberry Pi: Best Practices – The Robotics Back-End](None)**

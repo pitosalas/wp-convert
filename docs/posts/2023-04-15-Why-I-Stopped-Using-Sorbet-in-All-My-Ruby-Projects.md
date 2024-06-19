@@ -14,8 +14,6 @@ tags:
 ---
 <img class="cover" src=https://miro.medium.com/v2/resize:fit:1200/0*euZOCwo47_yOc8In>
 
+**Link: [Why I Stopped Using Sorbet in All My Ruby Projects](https://link.medium.com/WL2X59490yb):** "And why I think you should stop using it too"
 
 
-* **Web site excerpt:** And why I think you should stop using it too
-
-* **Link to site:** **[Why I Stopped Using Sorbet in All My Ruby Projects](https://link.medium.com/WL2X59490yb)**

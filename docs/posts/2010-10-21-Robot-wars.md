@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2010-10-21
 ---
 
+**Link: [Robot wars](None):** ""
+
+
+
 Two very contrasting ways of looking at our **relationship with Pakistan.** I
 don't know where I stand, to be honest.
 
@@ -21,7 +25,7 @@ hari-obamas-robot-wars-endanger-us-all-2106931.html>):
 > The remaining 98 per cent are as innocent as the victims of 9/11. He says:
 > "It's not moral." And it gets worse: "Every one of these dead non-combatants
 > represents an alienated family, and more recruits for a militant movement
-> that has grown exponentially as drone strikes have increased." (**from**
+> that has grown exponentially as drone strikes have increased." ( **from**
 > [The
 > Independent)](<http://www.independent.co.uk/opinion/commentators/johann-
 > hari/johann--hari-obamas-robot-wars-endanger-us-all-2106931.html>)
@@ -40,4 +44,3 @@ Pakistan"](<http://www.nytimes.com/2010/10/20/opinion/20khalilzad.html?hp>)
 > Times](<http://www.nytimes.com/2010/10/20/opinion/20khalilzad.html?hp>))
 
 
-* **Link to site:** **[Robot wars](None)**

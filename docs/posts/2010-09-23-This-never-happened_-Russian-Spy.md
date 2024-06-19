@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2010-09-23
 ---
 
+**Link: [This never happened: Russian Spy](None):** ""
+
+
+
 This never happened…
 
 We were working on some piece of software or something and the Russians
@@ -45,4 +49,3 @@ But another guy thiought she was getting up there to sing happy birdthday or
 to congratulate him on his birthday. He was old.
 
 
-* **Link to site:** **[This never happened: Russian Spy](None)**

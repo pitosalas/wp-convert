@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2014-07-27
 ---
 
+**Link: [Worth reading: Who lives on those islands in Lake Winnipesaukee?](None):** ""
+
+
+
 ![](https://i0.wp.com/salas.com/wp-
 content/uploads/2014/07/493ed-1406473218258.jpg?w=584&ssl=1)
 
@@ -12,4 +16,3 @@ have a cozy cottage on an island and you need a new couch? If you’re Boxford,
 Mass.Who lives on those islands in Lake Winnipesaukee?
 
 
-* **Link to site:** **[Worth reading: Who lives on those islands in Lake Winnipesaukee?](None)**

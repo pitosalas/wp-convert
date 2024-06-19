@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-06-29
 ---
 
+**Link: [Devil in the White City is now an archeaological dig!](None):** ""
+
+
+
 I am just finished reading [Devil In The White
 City](<http://www.amazon.com/Devil-White-City-Madness-Changed/dp/0375725601>)
 by Erik Larson. Loved it!
@@ -15,4 +19,3 @@ murderer, but that's something else again.) I am only part way through the
 book but it's quite good so far.
 
 
-* **Link to site:** **[Devil in the White City is now an archeaological dig!](None)**

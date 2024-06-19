@@ -9,6 +9,10 @@ tags:
     - sproutcore
 ---
 
+**Link: [[GEEKY] Full Applications that run in the browser](None):** ""
+
+
+
 [Sproutcore](<http://www.sproutcore.com/about/>) is a JavaScript framework for
 writing powerful web applications with less code. It looks to me as a way to
 write a lot more of your application in JavaScript running in the browser. And
@@ -33,4 +37,3 @@ network connection is gone.
 > opportunity to rethink the architecture of modern web applications."
 
 
-* **Link to site:** **[[GEEKY] Full Applications that run in the browser](None)**

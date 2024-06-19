@@ -8,6 +8,10 @@ tags:
     - Programming
 ---
 
+**Link: [[GEEKY] JavaScript – Universal Language of the Future](None):** ""
+
+
+
 JavaScript is the language of the future. Why do I say this?
 
 I love Ruby, I respect Java, and I am jealous of Python. And of course I have
@@ -30,7 +34,6 @@ conclusion by a slightly different route:
 > everyone needs to learn JavaScript in the next
 > year."](<http://radar.oreilly.com/2011/06/time-to-learn-javascript.html>))
 
-So, go learn JavaScript. Y**ou will need it for your next job.**
+So, go learn JavaScript. Y **ou will need it for your next job.**
 
 
-* **Link to site:** **[[GEEKY] JavaScript – Universal Language of the Future](None)**

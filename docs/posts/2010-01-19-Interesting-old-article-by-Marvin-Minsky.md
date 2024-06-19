@@ -9,6 +9,10 @@ tags:
     - thinking
 ---
 
+**Link: [Interesting old article by Marvin Minsky](None):** ""
+
+
+
 Just came across this odd link somewhere. He's a good and clear writer,
 enjoyable to read whether you agree or not: [Why People Think Computers Can't
 by Marvin
@@ -17,4 +21,3 @@ Minsky](<http://web.media.mit.edu/%7Eminsky/papers/ComputersCantThink.txt>).
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-* **Link to site:** **[Interesting old article by Marvin Minsky](None)**

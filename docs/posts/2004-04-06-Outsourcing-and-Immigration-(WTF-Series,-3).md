@@ -4,10 +4,15 @@ author: Pito Salas
 date: 2004-04-06
 ---
 
-What’s the relationship between offshore outsourcing and immigration? Here’s
-an interesting connection. Immigration brings workers from other countries to
-this one. With outsourcing, we send the work to them (because with fast
-networks, we can…)
+**Link: [Outsourcing and Immigration (WTF Series, 3)](None):** ""
+
+
+>>
+
+>> What’s the relationship between offshore outsourcing and immigration?
+Here’s an interesting connection. Immigration brings workers from other
+countries to this one. With outsourcing, we send the work to them (because
+with fast networks, we can…)
 
 >>
 
@@ -17,4 +22,3 @@ are against offshore outsourcing today would have been against immigration in
 the past. (And I say that as an actual immigrant 🙂
 
 
-* **Link to site:** **[Outsourcing and Immigration (WTF Series, 3)](None)**

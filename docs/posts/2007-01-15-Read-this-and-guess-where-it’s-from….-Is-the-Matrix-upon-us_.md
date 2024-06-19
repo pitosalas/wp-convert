@@ -4,7 +4,11 @@ author: Pito Salas
 date: 2007-01-15
 ---
 
-<!-  
+**Link: [Read this and guess where it’s from…. Is the Matrix upon us?](None):** ""
+
+
+>
+> <!-  
 >  body { font-variant: normal; font-size: 11pt; font-style: normal; font-
 > weight: normal; font-family: Tahoma; line-height: normal }  
 >  ->
@@ -18,9 +22,8 @@ date: 2007-01-15
 >  complete with this operation by about 4:30 pm PST.
 >>
 
->> (**from** : [Update  
+>> ( **from** : [Update  
 >  on Search and TP issues](<http://blog.secondlife.com/2007/01/14/update-on-
 > search-and-tp-issues/>))
 
 
-* **Link to site:** **[Read this and guess where it’s from…. Is the Matrix upon us?](None)**

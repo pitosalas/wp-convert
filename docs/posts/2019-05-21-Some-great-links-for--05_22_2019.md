@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-05-21
 ---
 
+**Link: [Some great links for  05/22/2019](None):** ""
+
+
+
   * [Plotly | Make charts and dashboards online](<https://plot.ly/#/>)
 
 An amazing graphing and plotting web site
@@ -17,4 +21,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  05/22/2019](None)**

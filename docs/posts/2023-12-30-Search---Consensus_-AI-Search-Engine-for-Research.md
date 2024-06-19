@@ -10,8 +10,6 @@ tags:
 ---
 <img class="cover" src=https://consensus.app/images/og-search.png>
 
+**Link: [Search - Consensus: AI Search Engine for Research](https://consensus.app/search/):** "Consensus is a search engine that uses AI to find answers in scientific research."
+
 yada yada
-
-* **Web site excerpt:** Consensus is a search engine that uses AI to find answers in scientific research.
-
-* **Link to site:** **[Search - Consensus: AI Search Engine for Research](https://consensus.app/search/)**

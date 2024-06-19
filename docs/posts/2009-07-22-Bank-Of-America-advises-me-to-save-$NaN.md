@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2009-07-22
 ---
 
+**Link: [Bank Of America advises me to save $NaN](None):** ""
+
+
+
 [![picture-1](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-
 content/uploads/2009/07/picture-1.png?resize=497%2C338)](<https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-
 content/uploads/2009/07/picture-1.png>)This is just a little funny.
@@ -17,4 +21,3 @@ me how much I should be saving.
 ### Bank of America's advice: **NaN**
 
 
-* **Link to site:** **[Bank Of America advises me to save $NaN](None)**

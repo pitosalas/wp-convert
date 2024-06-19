@@ -9,6 +9,10 @@ tags:
     - railscon-tagf
 ---
 
+**Link: [[GEEKY] Magic Rails Applications with Hobo](None):** ""
+
+
+
 Another tidbit I came across at RailsConf is
 [Hobo](<http://www.hobocentral.net/about/>). I haven't tried it myself but did
 just go through the screencast and tutorial. I think it's worth a closer look.
@@ -21,7 +25,7 @@ just go through the screencast and tutorial. I think it's worth a closer look.
 > application development. The opinion that is most central to Hobo is this:
 > we have found that there is a great deal of similarity from one web
 > application to the next. Much more similarity in fact, than is supported by
-> today’s frameworks. We would rather implement this stuff once." (**from**
+> today’s frameworks. We would rather implement this stuff once." ( **from**
 > [Hobo Web Site](<http://www.hobocentral.net/about/>))
 
 The question with these kinds of packages is whether they are flexible in the
@@ -34,4 +38,3 @@ If you are looking for a further accelerator for building Rails apps,
 #railsconf
 
 
-* **Link to site:** **[[GEEKY] Magic Rails Applications with Hobo](None)**

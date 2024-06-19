@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-08-10
 ---
 
+**Link: [Some great links for  08/11/2018](None):** ""
+
+
+
   * [Why we don’t trust software for voting](<https://www.diigo.com/item/image/7lk/14970513>)
 
 tags: [voting](<https://www.diigo.com/user/pitosalas/voting>)
@@ -14,4 +18,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  08/11/2018](None)**

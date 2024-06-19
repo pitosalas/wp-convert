@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-09-17
 ---
 
+**Link: [Surprising and against conventional wisdom: Americans still love to buy DVDs](None):** ""
+
+
+
 [Interesting article about the sale of
 DVDs](<http://www.alleyinsider.com/2008/9/forget-itunes-americans-still-love-
 to-buy-dvds>) in Silicon Alley Insider:
@@ -17,4 +21,3 @@ to-buy-dvds>) in Silicon Alley Insider:
 Interesting article. I wonder, what about music CDs?
 
 
-* **Link to site:** **[Surprising and against conventional wisdom: Americans still love to buy DVDs](None)**

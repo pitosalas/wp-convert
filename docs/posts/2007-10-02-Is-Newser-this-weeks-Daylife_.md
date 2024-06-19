@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-10-02
 ---
 
+**Link: [Is Newser this weeks Daylife?](None):** ""
+
+
+
 [Newser.com](<http://www.newser.com/>) is a new news site, with the tag line:
 "Faster, Smarter News." Seems like it does some kind of automatic
 classification of news by one of 9 major topics and organizes it automatically
@@ -19,4 +23,3 @@ As someone who follows these kinds of products pretty closely, I don't
 immediately see the key differences. Do you?
 
 
-* **Link to site:** **[Is Newser this weeks Daylife?](None)**

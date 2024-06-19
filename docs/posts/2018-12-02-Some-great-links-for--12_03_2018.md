@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-12-02
 ---
 
+**Link: [Some great links for  12/03/2018](None):** ""
+
+
+
   * [jarun/nnn](<https://github.com/jarun/nnn>)
 
 Looks interesting
@@ -26,4 +30,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  12/03/2018](None)**

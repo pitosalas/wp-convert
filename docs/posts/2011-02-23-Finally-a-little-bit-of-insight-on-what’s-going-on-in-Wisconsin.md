@@ -7,6 +7,10 @@ tags:
     - wiscon-tagsin
 ---
 
+**Link: [Finally a little bit of insight on what’s going on in Wisconsin](None):** ""
+
+
+
 I've seen several interviews with [Scott
 Walker](<http://en.wikipedia.org/wiki/Scott_Walker_\(politician\)>), the
 Governor of Wisconsin, about his efforts to 'balance the budget'. I put that
@@ -52,12 +56,11 @@ private sector unions:
 > public sector unions tend to run into fiscal crises. They tend to have
 > workplaces where personnel decisions are made on the basis of seniority, not
 > merit. There is little relationship between excellence and reward, which
-> leads to resentment among taxpayers who don’t have that luxury.[…snip…]"
-> (**from** [Make Everybody Hurt, New York
+> leads to resentment among taxpayers who don’t have that luxury.[…snip…]" (
+> **from** [Make Everybody Hurt, New York
 > Times](<http://www.nytimes.com/2011/02/22/opinion/22brooks.html?_r=1&ref=davidbrooks>))
 
 If this is interesting to you, read [Make Everybody Hurt in The New York
 Times](<http://www.nytimes.com/2011/02/22/opinion/22brooks.html?_r=1&ref=davidbrooks>).
 
 
-* **Link to site:** **[Finally a little bit of insight on what’s going on in Wisconsin](None)**

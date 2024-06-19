@@ -8,6 +8,10 @@ tags:
     - iphon-tage
 ---
 
+**Link: [The funny thing about iPhone apps](None):** ""
+
+
+
 So a friend of mine told me of his iPhone app, called
 [Etude](<http://etudeapp.com/>). He sung the praises, it sounds really cool to
 me. So I whipped out my iPhone and went to download the app. Wouldn't you know
@@ -23,4 +27,3 @@ Here's the kicker. He said, "What if I give you $5.00 right now?".
 I still didn't want to buy it… How does that make any sense?
 
 
-* **Link to site:** **[The funny thing about iPhone apps](None)**

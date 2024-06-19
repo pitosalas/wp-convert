@@ -13,5 +13,6 @@ tags:
 ---
 <img class="cover" src=https://www.orwellfoundation.com/wp-content/uploads/2011/02/Politics-and-the-English-Language-628x1024.jpg>
 
+**Link: [Politics and the English Language | The Orwell Foundation](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/):** ""
+
 Useful thoughts about politics and langauge
-* **Link to site:** **[Politics and the English Language | The Orwell Foundation](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/)**

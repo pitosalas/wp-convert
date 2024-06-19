@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-10-24
 ---
 
+**Link: [Some great links for  10/25/2018](None):** ""
+
+
+
   * <https://link.medium.com/0oNpyGJ4gR>
 
 Excellent detailed article about benchmarking a rails app and then introducing
@@ -19,4 +23,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  10/25/2018](None)**

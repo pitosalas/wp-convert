@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2009-08-22
 ---
 
+**Link: [Health Care Stories from the U.K.](None):** ""
+
+
+
 Sure, one isolated story doesn't prove anything, but then our health care
 debate often seems to be carried on the basis of isolated stories, so [here's
 an article about the British Health Care
@@ -15,7 +19,7 @@ that I came across this morning. From that article:
 > constitute a society, and a decent society provides certain necessities for
 > its members. Freedom from hunger is one. Police protection is another. Free
 > healthcare from the cradle to the grave is simply one more item on this
-> list.[…]" (**from** [Salon, Why I love Britain's health care
+> list.[…]" ( **from** [Salon, Why I love Britain's health care
 > system")](<http://www.salon.com/opinion/feature/2009/08/22/nhs/index.html?source=rss&aim=/opinion/feature>)
 
 In a world of a gazillion people it's easy to find a convincing or touching or
@@ -27,4 +31,3 @@ privilege.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-* **Link to site:** **[Health Care Stories from the U.K.](None)**

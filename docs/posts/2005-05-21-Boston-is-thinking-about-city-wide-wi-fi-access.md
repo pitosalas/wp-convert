@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2005-05-21
 ---
 
-Michael Feldman of [Dowbrigade](<http://blogs.law.harvard.edu/dowbrigade/>)
+**Link: [Boston is thinking about city-wide wi-fi access](None):** ""
+
+
+>>
+
+>> Michael Feldman of [Dowbrigade](<http://blogs.law.harvard.edu/dowbrigade/>)
 has a [really
 interesting](<http://blogs.law.harvard.edu/dowbrigade/2005/05/20#a5155>)
 report on something that I didn't even know was going on in Boston. Apparently
@@ -35,8 +40,11 @@ second panel was anything like the first, we were going to need it."
 
 >> Anyway, check out the [whole
 thing](<http://blogs.law.harvard.edu/dowbrigade/2005/05/20%23a5155>). It's a
-good read! Technorati Tags: [boston](<http://technorati.com/tag/boston>),
+good read!
+
+>>
+
+>> Technorati Tags: [boston](<http://technorati.com/tag/boston>),
 [wireless](<http://technorati.com/tag/wireless>)
 
 
-* **Link to site:** **[Boston is thinking about city-wide wi-fi access](None)**

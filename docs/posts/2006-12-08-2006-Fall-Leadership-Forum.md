@@ -4,12 +4,15 @@ author: Pito Salas
 date: 2006-12-08
 ---
 
-I am at the [2006 Fall Leadership
-Forum](<http://www.guidewiregroup.com/site/fallforum/>) in Sonoma, CA. Wine is
-everywhere, even a free bottle in the hotel room. And all that wine and wine
-information is kind of squandered on me. So I won't talk about wine, but here
-are some tidbits from the conference…
+**Link: [2006 Fall Leadership Forum](None):** ""
 
+
+>
+> I am at the [2006 Fall Leadership
+> Forum](<http://www.guidewiregroup.com/site/fallforum/>) in Sonoma, CA. Wine
+> is everywhere, even a free bottle in the hotel room. And all that wine and
+> wine information is kind of squandered on me. So I won't talk about wine,
+> but here are some tidbits from the conference…
 >
 >   * Check out [PicLens](<http://www.piclens.com/mac/>), a Safari-only (so
 > far) plug-in. It adds a very cool photo browsing experience to sites like
@@ -33,4 +36,3 @@ are some tidbits from the conference…
 >
 
 
-* **Link to site:** **[2006 Fall Leadership Forum](None)**

@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2009-10-24
 ---
 
+**Link: [Did you see what Amazon Stock did yesterday?](None):** ""
+
+
+
 I have believed that Amazon is a much bigger deal than people realize. Not
 only are they the ultimate retailer that seem to have everything, at better
 prices, more conveniently offered, than anyone else, but, the technology (in
@@ -20,4 +24,3 @@ content/uploads/2009/10/screen-shot-2009-10-24-at-114910-am.png?w=584)
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-* **Link to site:** **[Did you see what Amazon Stock did yesterday?](None)**

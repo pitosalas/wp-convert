@@ -11,6 +11,10 @@ tags:
     - uocd
 ---
 
+**Link: [Design Thinking vs. Lean Startup](None):** ""
+
+
+
 ### Point
 
 [Solving Problems for Real World, Using Design -
@@ -72,4 +76,3 @@ The easy answer is they are two sides of the same coin. The provocative answer
 is that two highly acclaimed approaches are 180% opposite to each other.
 
 
-* **Link to site:** **[Design Thinking vs. Lean Startup](None)**

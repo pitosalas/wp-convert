@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-10-21
 ---
 
+**Link: [Good judgement?](None):** ""
+
+
+
 This has been picked up all over the place, so you might have already seen it.
 I thought it was good. There are many sections that are quotable, I pick just
 one. You should just read the whole thing, as I said, [picked
@@ -28,4 +32,3 @@ for-other-people-or>).
 > brief/2008/10/17/hedge-fund-manager-goodbye-and-f-you>))
 
 
-* **Link to site:** **[Good judgement?](None)**

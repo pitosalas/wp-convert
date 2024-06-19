@@ -4,8 +4,13 @@ author: Pito Salas
 date: 2004-12-08
 ---
 
-You might think it's a bad idea for me to complain about Java Web Start. Well
-the truth is that I really like it and so am really frustrated by it's
+**Link: [[GEEK] Java Web Start](None):** ""
+
+
+>>
+
+>> You might think it's a bad idea for me to complain about Java Web Start.
+Well the truth is that I really like it and so am really frustrated by it's
 failures. In my own small way I am hoping to wake up someone at Sun to see the
 importance of this little bit of technology to their grand Java strategy.
 
@@ -58,4 +63,3 @@ all its flavors) building the solution. Becuase a working solution will be
 very difficult to build. But it is the keys to the kingdom IMHO. "
 
 
-* **Link to site:** **[[GEEK] Java Web Start](None)**

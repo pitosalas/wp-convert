@@ -6,6 +6,10 @@ tags:
     - airlines-travel-checkin
 ---
 
+**Link: [Why should do online check-in when flying?](None):** ""
+
+
+
 This, from American Airlines:
 
 > "Your trip is eligible for check-in now. Save time at the airport and check-
@@ -24,4 +28,3 @@ don't think any of these
 Checking in online seems cool, but why???
 
 
-* **Link to site:** **[Why should do online check-in when flying?](None)**

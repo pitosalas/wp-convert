@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-05-02
 ---
 
+**Link: [This has got to be a joke: “Appendectomy through the mouth”](None):** ""
+
+
+
 Check out [this
 post](<http://feeds.feedburner.com/~r/boingboing/iBag/~3/113698776/appendectomy_through.html>)
 from [Boing Boing](<http://www.boingboing.net/>):
@@ -23,4 +27,3 @@ from [Boing Boing](<http://www.boingboing.net/>):
 > mouth](<http://feeds.feedburner.com/~r/boingboing/iBag/~3/113698776/appendectomy_through.html>))
 
 
-* **Link to site:** **[This has got to be a joke: “Appendectomy through the mouth”](None)**

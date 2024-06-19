@@ -8,6 +8,10 @@ tags:
     - theatre
 ---
 
+**Link: [“Gods of Carnage” – Huntington Theatre](None):** ""
+
+
+
 I Just came back from seeing "[Gods Of
 Carnage"](<http://www.huntingtontheatre.org/season/production.aspx?id=10226&src=t>)
 at the [Huntington Theatre (in
@@ -37,4 +41,3 @@ plays and the season isn't even half over yet.
 I am **excited** to see what comes next!
 
 
-* **Link to site:** **[“Gods of Carnage” – Huntington Theatre](None)**

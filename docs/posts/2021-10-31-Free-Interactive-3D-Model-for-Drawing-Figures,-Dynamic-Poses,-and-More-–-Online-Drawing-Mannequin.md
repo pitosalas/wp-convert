@@ -7,6 +7,10 @@ tags:
     - design
 ---
 
+**Link: [Free Interactive 3D Model for Drawing Figures, Dynamic Poses, and More – Online Drawing Mannequin](None):** ""
+
+
+
 [ Free Interactive 3D Model for Drawing Figures, Dynamic Poses, and More -
 Online Drawing
 Mannequin](<https://setpose.com/?utm_campaign=Recomendo&utm_medium=email&utm_source=Revue%20newsletter>)
@@ -19,4 +23,3 @@ also often called drawing mannequins
 October 31, 2021 at 02:21PM
 
 
-* **Link to site:** **[Free Interactive 3D Model for Drawing Figures, Dynamic Poses, and More – Online Drawing Mannequin](None)**

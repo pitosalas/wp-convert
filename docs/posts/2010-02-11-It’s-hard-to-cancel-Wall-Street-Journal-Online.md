@@ -8,6 +8,10 @@ tags:
     - weather
 ---
 
+**Link: [It’s hard to cancel Wall Street Journal Online](None):** ""
+
+
+
 Who would think that an august publication like the [Wall Street
 Journal](<http://www.wsj.com>) would pull something like this: I was paying
 for access to their online edition. I decided to cancel it. Their very rich
@@ -21,4 +25,3 @@ again, who then tries to talk you out of canceling. Geez.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-* **Link to site:** **[It’s hard to cancel Wall Street Journal Online](None)**

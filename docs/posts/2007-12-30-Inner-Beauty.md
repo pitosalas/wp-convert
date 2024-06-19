@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-12-30
 ---
 
+**Link: [Inner Beauty](None):** ""
+
+
+
 If you know or remember the great Inner Beauty hot sauce, then you will be
 interested in this article whice (claims to) reveal the actual, [original
 recipe for Inner Beauty
@@ -20,4 +24,3 @@ Next time I will try to up the mustard quantity a little.
 Still quite good, worth a try!
 
 
-* **Link to site:** **[Inner Beauty](None)**

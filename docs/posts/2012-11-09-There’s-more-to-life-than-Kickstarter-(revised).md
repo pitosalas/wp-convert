@@ -8,6 +8,10 @@ tags:
     - kickstarter
 ---
 
+**Link: [There’s more to life than Kickstarter (revised)](None):** ""
+
+
+
 Everyone (almost) has heard of [Kickstarter](<http://www.kickstarter.com>),
 right? It's the best known (I think) of the so-called **Crowd Funding**
 services. Let's say you have a project - it can be anything - a record, a
@@ -46,4 +50,3 @@ projects:
   * [Crowdtilt](<https://www.crowdtilt.com>) - "We Want To Rid The World of the Phrase, 'Wouldn't it be cool if we"
 
 
-* **Link to site:** **[There’s more to life than Kickstarter (revised)](None)**

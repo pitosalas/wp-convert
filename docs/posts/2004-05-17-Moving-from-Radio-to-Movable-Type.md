@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-05-17
 ---
 
-I've seen [some discussion
+**Link: [Moving from Radio to Movable Type](None):** ""
+
+
+>>
+
+>> I've seen [some discussion
 ](<http://www.intertwingly.net/blog/2004/05/16/Freedom-0-1-x2148>)on [the
 issues related to changing ](<http://postneo.com/2004/05/15.html#a3411>)blog
 infrastructure from one system to another. In my case, I moved from Radio to
@@ -19,4 +24,3 @@ change which means that anyone linked to your blog before will stay linked to
 your old blog and so you will experience a disruption in your traffic.
 
 
-* **Link to site:** **[Moving from Radio to Movable Type](None)**

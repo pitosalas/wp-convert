@@ -4,13 +4,17 @@ author: Pito Salas
 date: 2010-11-13
 ---
 
+**Link: [Overreaction](None):** ""
+
+
+
 I tend to agree with this writer that:
 
 > "With respect to airport security, it is remarkable how we have come to
 > place Sept. 11, 2001, as the fulcrum upon which we balance almost all of our
 > decisions. As if deadly terrorism didn't exist prior to that day, when
 > really we've been dealing with the same old threats for decades. What have
-> we learned? What have we done?" (**from** [News Flash: Deadly Terrorism
+> we learned? What have we done?" ( **from** [News Flash: Deadly Terrorism
 > Existed before
 > 9/11](<http://www.salon.com/technology/ask_the_pilot/2010/11/10/airport_security/index.html>))
 
@@ -34,16 +38,15 @@ The article concludes:
 > "In the 1980s we did not overreact. We did not stage ill-fated invasions of
 > distant countries. People did not cease traveling and the airline industry
 > did not fall into chaos. We were lazy in enacting better security, perhaps,
-> but as a country our  _psychological_ reaction, much to our credit, was
-> calm, measured and not yet self-defeating. This time, thanks to the wholly
+> but as a country our _psychological_ reaction, much to our credit, was calm,
+> measured and not yet self-defeating. This time, thanks to the wholly
 > unhealthy changes in our national and cultural mind-set, I fear it will be
 > different. […]
 >
 > "The terrorists have won" is a refrain I don't like using. It's
 > sensationalist and ignores inherent complexities. But for the moment, I
-> can't think of a better way of putting it." (**from** [News Flash: Deadly
+> can't think of a better way of putting it." ( **from** [News Flash: Deadly
 > Terrorism Existed before
 > 9/11](<http://www.salon.com/technology/ask_the_pilot/2010/11/10/airport_security/index.html>))
 
 
-* **Link to site:** **[Overreaction](None)**

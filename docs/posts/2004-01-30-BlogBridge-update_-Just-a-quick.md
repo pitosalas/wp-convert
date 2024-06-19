@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-01-30
 ---
 
-**BlogBridge update:** Just a quick note about what's up with
+**Link: [BlogBridge update: Just a quick](None):** ""
+
+
+>>
+
+>> **BlogBridge update:** Just a quick note about what's up with
 [BlogBridge](<http://www.blogbridge.com>). My time has been severely drained
 by a new consulting project, so progress has slowed down more than I would
 like. The last while I was knee-deep in installation, deployment, upgrade
@@ -45,4 +50,3 @@ few people would like to try out the Java Web Start deployment, send me an
 email and we can talk.
 
 
-* **Link to site:** **[BlogBridge update: Just a quick](None)**

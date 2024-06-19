@@ -9,6 +9,10 @@ tags:
     - senators
 ---
 
+**Link: [What I told my Congressman and Senators](None):** ""
+
+
+
 "Dear Congressman,
 
 I implore you to PLEASE do all you can to break the deadlock and the impasse.
@@ -28,4 +32,3 @@ Please I beg you ALL to get along!
 Pito Salas"
 
 
-* **Link to site:** **[What I told my Congressman and Senators](None)**

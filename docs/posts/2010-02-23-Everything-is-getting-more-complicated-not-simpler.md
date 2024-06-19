@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2010-02-23
 ---
 
+**Link: [Everything is getting more complicated not simpler](None):** ""
+
+
+
 Following on on my post yesterday about "What we don't understand."
 
 As I was writing it, I was trying to use examples of simple things that just
@@ -25,4 +29,3 @@ It shouldn't be rocket surgery.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-* **Link to site:** **[Everything is getting more complicated not simpler](None)**

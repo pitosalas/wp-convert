@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-08-20
 ---
 
+**Link: [An interesting paper about social networks](None):** ""
+
+
+
 The [guy who created [tag]Live Journal[/tag]](<http://www.bradfitz.com/>)
 (Brad Fitzpatrick) has a manifesto of sorts regarding what needs to happen
 next in the world of [tag]social networking[/tag]. He is certainly not the
@@ -15,4 +19,3 @@ first to identify the problem:
 > Thoughts on the Social Graph](<http://bradfitz.com/social-graph-problem/>))
 
 
-* **Link to site:** **[An interesting paper about social networks](None)**

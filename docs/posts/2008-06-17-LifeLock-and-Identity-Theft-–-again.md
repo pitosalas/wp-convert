@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-06-17
 ---
 
+**Link: [LifeLock and Identity Theft – again](None):** ""
+
+
+
 I am a LifeLock customer and so I follow developments in this arena pretty
 closely. Check this post [LifeLock and Identity
 Theft](<http://www.schneier.com/blog/archives/2008/06/lifelock_and_id.html>)
@@ -21,4 +25,3 @@ basically saying that LifeLock is clever and useful but too expensive. That's
 more positive than the press they've been getting.
 
 
-* **Link to site:** **[LifeLock and Identity Theft – again](None)**

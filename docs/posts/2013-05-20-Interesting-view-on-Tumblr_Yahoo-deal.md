@@ -10,6 +10,10 @@ tags:
     - yahoo
 ---
 
+**Link: [Interesting view on Tumblr/Yahoo deal](None):** ""
+
+
+
 [Yahoo, Tumblr, and the Loyalty Factor - Ben Gomes-Casseres - Harvard Business
 Review](<http://blogs.hbr.org/cs/2013/05/yahoo_tumblr_and_the_loyalty_f.html>):
 a blog post analyzing f some of the strategic issues underlying the
@@ -21,12 +25,13 @@ Tumblr/Yahoo deal:
 > Where are these users to go? There is no equivalent forum of this type,
 > richness, and network size (at least not yet). It would seem that the 18-24
 > year-old demographic that Yahoo is pining for does not have an easy exit
-> choice…." (**from:
+> choice…." ( **from:
 >
 > **
 >
 > [Ben Gomes-Casseres - Harvard Business
-> Review](<http://blogs.hbr.org/cs/2013/05/yahoo_tumblr_and_the_loyalty_f.html>)**)**
+> Review](<http://blogs.hbr.org/cs/2013/05/yahoo_tumblr_and_the_loyalty_f.html>)
+> **)**
 
 He also mentions a book - [Exit, Voice, and Loyalty
 (Hirshman)](<http://www.amazon.com/gp/product/0674276604/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0674276604&linkCode=as2&tag=blogbridge-20>)![](http://www.assoc-
@@ -46,7 +51,7 @@ Seems like an interesting book, well worth reading:
 > book appeared, Milton Friedman and his colleagues in the Chicago School were
 > busy extending the empire of exit to new areas. If public schools or public
 > housing were rotten, they argued, people should be encouraged to escape
-> them." (**from** : [The
+> them." ( **from** : [The
 > Economist)](<http://www.economist.com/news/business/21568708-great-lateral-
 > thinker-died-december-10th-exit-albert-hirschman>)
 
@@ -57,4 +62,3 @@ Seems like an interesting book, well worth reading:
 
 
 
-* **Link to site:** **[Interesting view on Tumblr/Yahoo deal](None)**

@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2020-09-27
 ---
 
+**Link: [Some great links for  09/28/2020](None):** ""
+
+
+
   * [Free Git GUI for Windows, Mac, Linux | GitKraken](<https://www.gitkraken.com>)
 
 This looks like an amazing tool. I plan to try it asap!
@@ -28,4 +32,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  09/28/2020](None)**

@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2020-05-27
 ---
 
+**Link: [Some great links for  05/28/2020](None):** ""
+
+
+
   * [Very impressive data transformation tool](<https://www.visidata.org/install/>)
 
 It claims to be able to convert, transform and massage data in css, json and
@@ -24,4 +28,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  05/28/2020](None)**

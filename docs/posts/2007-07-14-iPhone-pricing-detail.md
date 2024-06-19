@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-07-14
 ---
 
+**Link: [iPhone pricing detail](None):** ""
+
+
+
 I was chatting with my neighborhood iPhone (Cingular/AT&T) dealer and learned
 this interesting detail (which all you hard code iPhone fanatics out there I
 am sure know all about.)
@@ -33,4 +37,3 @@ sharply](<http://news.zdnet.com/2100-9595_22-6151185.html>) sooner rather than
 later.
 
 
-* **Link to site:** **[iPhone pricing detail](None)**

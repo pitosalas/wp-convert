@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-09-17
 ---
 
+**Link: [Patriots win, I am souring on Football and the NFL](None):** ""
+
+
+
 Reading this article about [The Casualties Of the NFL, in Men's
 Journal](<http://www.mensjournal.com/feature/M162/M162_CasualtiesoftheNFL.html>)
 the other week really colors my view of the NFL and football. Here's a bit of
@@ -27,4 +31,3 @@ it to give you a taste:
 > billion in assets…." (from The Casualties of the NFL, Men's Journal)
 
 
-* **Link to site:** **[Patriots win, I am souring on Football and the NFL](None)**

@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-04-01
 ---
 
+**Link: [Some great links for  04/02/2019](None):** ""
+
+
+
   * [Untangling Ruby Threads](<https://thoughtbot.com/blog/untangling-ruby-threads>)
 
 Dealing with Ruby Threads is tricky. And add to that understanding the GIL,
@@ -49,4 +53,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  04/02/2019](None)**

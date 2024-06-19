@@ -4,8 +4,13 @@ author: Pito Salas
 date: 2004-06-06
 ---
 
-We are busy getting [BlogBridge ](<http://www.blogbridge.com>)ready for beta
-(send email if you want to participate.) I hope we are only days away.
+**Link: [Cross Platform, for real!](None):** ""
+
+
+>>
+
+>> We are busy getting [BlogBridge ](<http://www.blogbridge.com>)ready for
+beta (send email if you want to participate.) I hope we are only days away.
 
 >>
 
@@ -39,4 +44,3 @@ yet, other than some minor font goop, it looks quite nice, IMHO.
 > thumb.jpg?resize=300%2C289)](<https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/archives/blogbridge.jpg>)
 
 
-* **Link to site:** **[Cross Platform, for real!](None)**

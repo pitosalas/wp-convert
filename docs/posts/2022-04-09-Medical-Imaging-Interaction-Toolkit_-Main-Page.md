@@ -14,5 +14,6 @@ tags:
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fdocs.mitk.org%2F2021.10%2Findex.html>
 
+**Link: [Medical Imaging Interaction Toolkit: Main Page](https://docs.mitk.org/2021.10/index.html):** ""
 
-* **Link to site:** **[Medical Imaging Interaction Toolkit: Main Page](https://docs.mitk.org/2021.10/index.html)**
+

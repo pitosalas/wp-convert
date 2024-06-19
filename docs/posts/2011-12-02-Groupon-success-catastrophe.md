@@ -9,6 +9,10 @@ tags:
     - techno-taglogy
 ---
 
+**Link: [Groupon success catastrophe](None):** ""
+
+
+
 I bought a Groupon for a local restaurant. About 1 week before it expired I
 went to make a dinner reservation and it turned out that they were booked up
 for the next 3 months - and so effectively I could not use the groupon for
@@ -32,7 +36,6 @@ web/groupon-bakery-102000-cupcakes>)that just came across the wire:
 > her $19,500, effectively wiping out her year's profits, MSNBC reported.
 > "Without doubt, it was my worst ever business decision," she told BBC. "We
 > had thousands of orders pouring in that really we hadn't expected to have. A
-> much larger company would have difficulty coping." (**from** Global Post)
+> much larger company would have difficulty coping." ( **from** Global Post)
 
 
-* **Link to site:** **[Groupon success catastrophe](None)**

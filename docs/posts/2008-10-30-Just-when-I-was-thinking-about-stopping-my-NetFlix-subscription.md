@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-10-30
 ---
 
+**Link: [Just when I was thinking about stopping my NetFlix subscription](None):** ""
+
+
+
 [TIVO keeps on getting cooler and
 cooler:](<http://online.wsj.com/article/SB122533284014583011.html?mod=djemTECH>)
 
@@ -23,4 +27,3 @@ monthly Tivo bill to get at this huge collection of movies. Wait, am I,
 really???
 
 
-* **Link to site:** **[Just when I was thinking about stopping my NetFlix subscription](None)**

@@ -10,11 +10,15 @@ tags:
     - truth
 ---
 
+**Link: [Trees talk to each other at night and other facts](None):** ""
+
+
+
 [Cory Doctorow: Lies I've Told My 3 Year Old Recently Trees
 talk…](<http://mostlysignssomeportents.tumblr.com/post/56399386214/lies-ive-
 told-my-3-year-old-recently-trees-talk>):
 
-> "**Lies I 've Told My 3 Year Old Recently**
+> " **Lies I 've Told My 3 Year Old Recently**
 >
 > Trees talk to each other at night.  
 > All fish are named either Lorna or Jack.  
@@ -37,4 +41,3 @@ told-my-3-year-old-recently-trees-talk>):
 > ive-told-my-3-year-old-recently-trees-talk>))
 
 
-* **Link to site:** **[Trees talk to each other at night and other facts](None)**

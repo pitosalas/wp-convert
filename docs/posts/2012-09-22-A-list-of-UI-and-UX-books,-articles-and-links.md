@@ -9,6 +9,10 @@ tags:
     - ux
 ---
 
+**Link: [A list of UI and UX books, articles and links](None):** ""
+
+
+
 I created this quick and dirty list of useful resources for some friends who
 wanted to dig into the latest thinking on web and mobile user interface
 design. I am sure this list is incomplete and quirky but I thought it would be
@@ -23,4 +27,3 @@ good to share:
   * This site, [Core77](<http://www.core77.com>)often has good inspirations and photos.
 
 
-* **Link to site:** **[A list of UI and UX books, articles and links](None)**

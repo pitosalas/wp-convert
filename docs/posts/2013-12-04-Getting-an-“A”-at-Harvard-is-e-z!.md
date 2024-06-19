@@ -8,6 +8,10 @@ tags:
     - higher-education-tag
 ---
 
+**Link: [Getting an “A” at Harvard is e-z!](None):** ""
+
+
+
 Unfortunately students can be quite focused on their grades, and as a result I
 end up paying more attention to grading than I would like. By the way let me
 point out that 'grading' is more than assigning a grade to a bit of homework.
@@ -38,4 +42,3 @@ into Harvard that all the students deserve the grades they get because that's
 just _how good they are!_
 
 
-* **Link to site:** **[Getting an “A” at Harvard is e-z!](None)**

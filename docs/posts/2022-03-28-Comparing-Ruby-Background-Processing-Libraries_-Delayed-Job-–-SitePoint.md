@@ -7,6 +7,10 @@ tags:
     - ruby
 ---
 
+**Link: [Comparing Ruby Background Processing Libraries: Delayed Job – SitePoint](None):** ""
+
+
+
 [ Comparing Ruby Background Processing Libraries: Delayed Job -
 SitePoint](<https://www.sitepoint.com/comparing-ruby-background-processing-
 libraries-delayed-job/>)
@@ -17,4 +21,3 @@ alternatives the Ruby community offers to implement it in your application.
 March 28, 2022 at 06:52PM
 
 
-* **Link to site:** **[Comparing Ruby Background Processing Libraries: Delayed Job – SitePoint](None)**

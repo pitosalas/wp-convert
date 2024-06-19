@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-05-01
 ---
 
-I have installed an interesting application -
+**Link: [Testing BlogJet](None):** ""
+
+
+>>
+
+>> I have installed an interesting application -
 [BlogJet](<http://blogjet.com/>). It's a cool Windows client for my blog tool
 (as well as for other tools). Get your copy here:
 [http://blogjet.com](<http://blogjet.com/>)
@@ -25,4 +30,3 @@ Very clever. I think I am going to like this utility! (And this last paragraph
 was indeed written by me, myself…)
 
 
-* **Link to site:** **[Testing BlogJet](None)**

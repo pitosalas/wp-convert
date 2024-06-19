@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-09-09
 ---
 
+**Link: [Sign the letter!](None):** ""
+
+
+
 Maybe this is one [more of the futile
 petitions](<http://www.pgpf.org/getinvolved/letter-to-candidates/>) that we
 send around and to each other, but the goal rings true to me:
@@ -19,4 +23,3 @@ candidates/>), and if you like, [sign
 it!](<http://www.pgpf.org/getinvolved/letter-to-candidates/#sign>)
 
 
-* **Link to site:** **[Sign the letter!](None)**

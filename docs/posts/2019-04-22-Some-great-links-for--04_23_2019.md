@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-04-22
 ---
 
+**Link: [Some great links for  04/23/2019](None):** ""
+
+
+
   * [Why OO Sucks](<http://www.cs.otago.ac.nz/staffpriv/ok/Joe-Hates-OO.htm>)
 
 Joe Armstrong is a famous person in Erlang circles. He passes away yesterday.
@@ -16,4 +20,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  04/23/2019](None)**

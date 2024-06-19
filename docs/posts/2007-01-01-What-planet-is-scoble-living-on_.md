@@ -4,7 +4,11 @@ author: Pito Salas
 date: 2007-01-01
 ---
 
-<!-  
+**Link: [What planet is scoble living on?](None):** ""
+
+
+>
+> <!-  
 >  body { font-style: normal; font-size: 11pt; font-family: Lucida Grande;
 > line-height: normal; font-weight: normal; font-variant: normal }  
 >  ->
@@ -29,4 +33,3 @@ date: 2007-01-01
 >  any more.) Or he got those two PCs for Christmas. 2006.
 
 
-* **Link to site:** **[What planet is scoble living on?](None)**

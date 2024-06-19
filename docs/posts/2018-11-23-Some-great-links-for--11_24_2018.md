@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-11-23
 ---
 
+**Link: [Some great links for  11/24/2018](None):** ""
+
+
+
   * [Fibers Are the Right Solution](<https://www.codeotaku.com/journal/2018-11/fibers-are-the-right-solution/index>)
 
 Good description of how to use fibers in ruby.
@@ -45,4 +49,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  11/24/2018](None)**

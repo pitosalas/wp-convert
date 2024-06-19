@@ -12,8 +12,6 @@ tags:
 ---
 <img class="cover" src=https://kubernetes.io/images/favicon.png>
 
+**Link: [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/):** "Production-Grade Container Orchestration. One of many writeups on how to work with K8S and friends!"
 
 
-* **Web site excerpt:** Production-Grade Container Orchestration. One of many writeups on how to work with K8S and friends!
-
-* **Link to site:** **[Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)**

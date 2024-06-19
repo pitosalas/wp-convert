@@ -8,10 +8,13 @@ tags:
     - phon-tagebill
 ---
 
+**Link: [Watch out for fake 3d party charges on your phone bill](None):** ""
+
+
+
 Heads up: "[Phone Bill Fees: How to identify 3rd-party charges and protect
 yourself](<http://abcnews.go.com/Business/FinancialSecurity/phone-bill-fees-
 identify-3rd-party-charges-protect/story?id=14065780#.TsfH7WBSUjM>)" FROM
 FRAUD!
 
 
-* **Link to site:** **[Watch out for fake 3d party charges on your phone bill](None)**

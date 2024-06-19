@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2020-05-31
 ---
 
+**Link: [Some great links for  06/01/2020](None):** ""
+
+
+
   * [GGather](<https://ggather.com>)
 
 Looks like a really good one.
@@ -22,4 +26,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  06/01/2020](None)**

@@ -4,7 +4,11 @@ author: Pito Salas
 date: 2006-12-14
 ---
 
-<!-  
+**Link: [A good bit by Bruce Schneier about “Real-World Passwords”](None):** ""
+
+
+>
+> <!-  
 >  body { font-weight: normal; font-family: Lucida Grande; font-variant:
 > normal; line-height: normal; font-size: 11pt; font-style: normal }  
 >  ->
@@ -36,4 +40,3 @@ date: 2006-12-14
 > Reading this makes me wonder if I am not taking this far enough…
 
 
-* **Link to site:** **[A good bit by Bruce Schneier about “Real-World Passwords”](None)**

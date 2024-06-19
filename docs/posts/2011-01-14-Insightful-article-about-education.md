@@ -8,6 +8,10 @@ tags:
     - intelligence
 ---
 
+**Link: [Insightful article about education](None):** ""
+
+
+
 An insightful article about higher education in the USA: [The Disadvantages of
 an Elite Education](<http://www.theamericanscholar.org/the-disadvantages-of-
 an-elite-education/print/>). Here are some interesting quotes. It's a long
@@ -30,7 +34,7 @@ article and all of it was quite interesting.
 > (athletes, legacies).
 >
 > At a school like Yale, students who come to class and work hard expect
-> nothing less than an A-. And most of the time, they get it." (**from** T[he
+> nothing less than an A-. And most of the time, they get it." ( **from** T[he
 > Disadvantages of an Elite Educatio](<http://www.theamericanscholar.org/the-
 > disadvantages-of-an-elite-education/print/>)n)
 
@@ -50,7 +54,7 @@ also:
 >
 > Not so at places like Cleveland State. My friend once got a D in a class in
 > which she’d been running an A because she was coming off a waitressing shift
-> and had to hand in her term paper an hour late." (**from** T[he
+> and had to hand in her term paper an hour late." ( **from** T[he
 > Disadvantages of an Elite Educatio](<http://www.theamericanscholar.org/the-
 > disadvantages-of-an-elite-education/print/>)n)
 >
@@ -59,4 +63,3 @@ also:
 > education/print/>)n
 
 
-* **Link to site:** **[Insightful article about education](None)**

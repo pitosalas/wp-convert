@@ -4,9 +4,14 @@ author: Pito Salas
 date: 2004-03-29
 ---
 
-I've been a quasi-believer about RD-ID technology for a while now. I know more
-than several people who are investing their time and money into this space,
-but I am a **fence-sitter**. Briefly, why?
+**Link: [RF-ID uptake slower than expected?](None):** ""
+
+
+>>
+
+>> I've been a quasi-believer about RD-ID technology for a while now. I know
+more than several people who are investing their time and money into this
+space, but I am a **fence-sitter**. Briefly, why?
 
 >>
 
@@ -53,4 +58,3 @@ today](<http://www.nytimes.com/2004/03/29/technology/29radio.html>) about
 adopt to RF-ID.
 
 
-* **Link to site:** **[RF-ID uptake slower than expected?](None)**

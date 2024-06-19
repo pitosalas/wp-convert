@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2011-08-10
 ---
 
+**Link: [Cool idea: Skillshare](None):** ""
+
+
+
 Check this post [With Skillshare, everyone can be a
 teacher](<http://feedproxy.google.com/~r/OmMalik/~3/jmPjkNddZhI/>)
 
@@ -14,11 +18,10 @@ teacher](<http://feedproxy.google.com/~r/OmMalik/~3/jmPjkNddZhI/>)
 > to expand to Boston and Los Angeles later this year. It’s already built a
 > strong community of users, who are leveraging Skillshare in much the same
 > way Airbnb has transformed short term room rentals, Kickstarter has evolved
-> project fundraising and Getaround is changing car sharing." (**from**
+> project fundraising and Getaround is changing car sharing." ( **from**
 > [GigaOM — Tech News, Analysis and
 > Trends](<http://feeds.feedburner.com/ommalik>))
 
 I can't wait to see this in Boston!
 
 
-* **Link to site:** **[Cool idea: Skillshare](None)**

@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-02-11
 ---
 
-**Echo Chamber, redux:** Are we **wasting** our **valuable** brain cells
+**Link: [Echo Chamber, redux: Are we](None):** ""
+
+
+>>
+
+>> **Echo Chamber, redux:** Are we **wasting** our **valuable** brain cells
 **duplicating** each other's work? There was an excellent and thought
 provoking presentation by Dave Sifry of Technorati fame at the ETech Forum. I
 wish I was there.
@@ -42,4 +47,3 @@ audience which is blogging. As it approaches **one** , you have to **wonder**.
 is there enough attention in the universe to **pay**?
 
 
-* **Link to site:** **[Echo Chamber, redux: Are we](None)**

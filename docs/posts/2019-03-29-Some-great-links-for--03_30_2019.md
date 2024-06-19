@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-03-29
 ---
 
+**Link: [Some great links for  03/30/2019](None):** ""
+
+
+
   * [Scaling a Ruby on Rails app on Heroku](<https://scottbartell.com/2019/03/26/how-to-scale-ruby-on-rails-app-on-heroku/>)
 
 You know I’m into scalability right now. Here’s a short article with lots of
@@ -29,4 +33,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  03/30/2019](None)**

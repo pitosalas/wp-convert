@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-05-13
 ---
 
+**Link: [Some great links for  05/13/2018](None):** ""
+
+
+
   * [Apache Cordova Tutorial: Developing Mobile Applications with Cordova](<https://www.toptal.com/mobile/developing-mobile-applications-with-apache-cordova?utm_campaign=Toptal%20Engineering%20Blog&utm_source=hs_email&utm_medium=email&utm_content=62780212&_hsenc=p2ANqtz-9-z378Np046jyA8inm4YyPqLUGoS6gQIPE23M_yJEFAKuaYAcceJ4dajr6xkn4TRf4l8gU8dqeTZqqoYWtI5xDIg2RCg&_hsmi=62780212>)
 
 tags: [apache](<https://www.diigo.com/user/pitosalas/apache>)
@@ -32,4 +36,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  05/13/2018](None)**

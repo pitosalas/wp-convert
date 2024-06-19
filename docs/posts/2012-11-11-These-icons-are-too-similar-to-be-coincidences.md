@@ -12,6 +12,10 @@ tags:
     - logos
 ---
 
+**Link: [These icons are too similar to be coincidences](None):** ""
+
+
+
 One of these two is from Apple and one is from Google. They both contain
 coupons and cards. Which is which?
 
@@ -22,4 +26,3 @@ content/uploads/2012/11/089ff-
 screen20shot202012-11-1120at2012-19-5420pm.png?resize=90%2C78&ssl=1)
 
 
-* **Link to site:** **[These icons are too similar to be coincidences](None)**

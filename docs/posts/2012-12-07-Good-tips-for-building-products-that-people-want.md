@@ -9,6 +9,10 @@ tags:
     - startups
 ---
 
+**Link: [Good tips for building products that people want](None):** ""
+
+
+
 Here is [a good cheat sheet on how to build products that people really want.
 It is cribbed from this article on
 TechCrunch.](<http://techcrunch.com/2012/11/30/instagram-co-founder-mike-
@@ -45,4 +49,3 @@ kriegers-8-principles-for-building-products-people-want/>)
 >
 
 
-* **Link to site:** **[Good tips for building products that people want](None)**

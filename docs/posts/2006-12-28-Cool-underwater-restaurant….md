@@ -4,7 +4,11 @@ author: Pito Salas
 date: 2006-12-28
 ---
 
-<!-  
+**Link: [Cool underwater restaurant…](None):** ""
+
+
+>
+> <!-  
 >  body { font-size: 11pt; line-height: normal; font-weight: normal; font-
 > variant: normal; font-style: normal; font-family: Lucida Grande }  
 >  ->
@@ -37,4 +41,3 @@ date: 2006-12-28
 > restaurant](<http://crave.cnet.com/8301-1_105-9670397-1.html?part=rss&tag=feed&subj=Crave>))
 
 
-* **Link to site:** **[Cool underwater restaurant…](None)**

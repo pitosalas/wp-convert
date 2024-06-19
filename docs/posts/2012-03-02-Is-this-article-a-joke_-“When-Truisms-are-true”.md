@@ -11,6 +11,10 @@ tags:
     - research
 ---
 
+**Link: [Is this article a joke? “When Truisms are true”](None):** ""
+
+
+
 ![26GRAYMATTER-
 articleInline.jpg](https://i0.wp.com/graphics8.nytimes.com/images/2012/02/26/sunday-
 review/26GRAYMATTER/26GRAYMATTER-articleInline.jpg?w=584)
@@ -30,7 +34,7 @@ It starts with a claim that sounds plausible:
 > Studies show, for example, that someone holding a warm cup of coffee tends
 > to perceive a stranger as having a "warmer" personality. Likewise when
 > holding something heavy, people see things as more serious and important –
-> more - weighty" (**from**[When Truisms are
+> more - weighty" ( **from**[When Truisms are
 > True)](<http://www.nytimes.com/2012/02/26/opinion/sunday/when-truisms-are-
 > true.html>)
 
@@ -49,7 +53,7 @@ out conclusions they seem to be coming to:
 > During the task we tracked the number of correct responses suggested by the
 > students. We found that those thinking outside the box were significantly
 > more creative: compared with those thinking inside the box, they came up
-> with over 20 percent more creative solutions." (**from**[When Truisms are
+> with over 20 percent more creative solutions." ( **from**[When Truisms are
 > True)](<http://www.nytimes.com/2012/02/26/opinion/sunday/when-truisms-are-
 > true.html>)
 
@@ -63,7 +67,7 @@ and
 > 25 percent more original ideas. Such creativity was assessed in terms of
 > fluency (the number of ideas generated), flexibility (the number of unique
 > categories that described the generated ideas) and originality (as judged by
-> independent raters)." (**from**[When Truisms are
+> independent raters)." ( **from**[When Truisms are
 > True)](<http://www.nytimes.com/2012/02/26/opinion/sunday/when-truisms-are-
 > true.html>)
 
@@ -71,4 +75,3 @@ and
 check if this was Humor or Satire.
 
 
-* **Link to site:** **[Is this article a joke? “When Truisms are true”](None)**

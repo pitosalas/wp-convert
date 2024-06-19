@@ -13,8 +13,6 @@ tags:
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Ftratt.net%2Flaurie%2Fblog%2F2022%2Fhow_might_generative_ai_change_programming.html%3Futm_source%3Dabyteofcodingnewsletter>
 
+**Link: [Laurence Tratt: How Might Generative AI Change Programming?](https://tratt.net/laurie/blog/2022/how_might_generative_ai_change_programming.html?utm_source=abyteofcodingnewsletter):** "More about a topic that is extremely hot right now"
 
 
-* **Web site excerpt:** More about a topic that is extremely hot right now
-
-* **Link to site:** **[Laurence Tratt: How Might Generative AI Change Programming?](https://tratt.net/laurie/blog/2022/how_might_generative_ai_change_programming.html?utm_source=abyteofcodingnewsletter)**

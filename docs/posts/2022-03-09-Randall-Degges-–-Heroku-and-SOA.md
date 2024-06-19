@@ -6,6 +6,10 @@ tags:
     - design
 ---
 
+**Link: [Randall Degges – Heroku and SOA](None):** ""
+
+
+
 [ Randall Degges - Heroku and SOA](<https://www.rdegges.com/2014/heroku-and-
 soa/>)
 
@@ -15,4 +19,3 @@ service oriented web app, you might find this interesting.
 March 10, 2022 at 12:16AM
 
 
-* **Link to site:** **[Randall Degges – Heroku and SOA](None)**

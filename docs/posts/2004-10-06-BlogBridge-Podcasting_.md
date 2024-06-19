@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-10-06
 ---
 
-There's a site called [IT Conversations](<http://www.itconversations.com/>)
+**Link: [BlogBridge Podcasting?](None):** ""
+
+
+>>
+
+>> There's a site called [IT Conversations](<http://www.itconversations.com/>)
 that has a collection of interviews, recorded on mp3s with some very
 interesting people. Also included are lectures, debates and panels. It is an
 excellent site, **I recommend it.**
@@ -59,4 +64,3 @@ download and transfer to the iPod.
 think it will be quite useful!**
 
 
-* **Link to site:** **[BlogBridge Podcasting?](None)**

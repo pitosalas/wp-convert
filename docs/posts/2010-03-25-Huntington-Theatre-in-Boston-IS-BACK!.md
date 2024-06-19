@@ -8,6 +8,10 @@ tags:
     - theater
 ---
 
+**Link: [Huntington Theatre in Boston IS BACK!](None):** ""
+
+
+
 They may not like me to say this, but as a longtime subscriber, I've been very
 disappointed for the last several seasons at the [Huntington Theater in
 Boston](<http://www.huntingtontheatre.org>). A very hit or miss program with
@@ -49,4 +53,3 @@ Way to go [Huntington](<http://www.huntingtontheatre.org>)! I think Becky Shaw
 and Stick Fly are still running. Go see them.
 
 
-* **Link to site:** **[Huntington Theatre in Boston IS BACK!](None)**

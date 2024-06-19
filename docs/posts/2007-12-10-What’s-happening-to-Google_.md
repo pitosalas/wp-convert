@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-12-10
 ---
 
+**Link: [What’s happening to Google?](None):** ""
+
+
+
 You know I am a [fan of Google](</2007/11/20/google-is-the-universe/>). But
 lately I've had some conversations which have sensitized me to noticing the
 quality of Google's search results. As I've written elsewhere, the world of
@@ -37,4 +41,3 @@ spam as everything else, and some new white knight (=search engine) comes
 along to take it's place.
 
 
-* **Link to site:** **[What’s happening to Google?](None)**

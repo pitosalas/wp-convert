@@ -6,6 +6,10 @@ tags:
     - enterprise-20-techno-taglogy-blogbridge-km-portals
 ---
 
+**Link: [Great coverage of Enterprise 2.0](None):** ""
+
+
+
 In the Portals and KM blog, a pair of great articles about "Enterprise 2.0".
 Bill Ives has been following and covering Enterprise 2.0, which I've seen
 [defined as "the Application of Web 2.0 technologies to workers using network
@@ -20,4 +24,3 @@ going on in the space:
   2. [**Enterprise 2.0 Tools: Update on Descriptions and Reviews from 2007:**](<http://billives.typepad.com/portals_and_km/2008/01/enterprise-20-t.html> "Enterprise 2.0") "In the last few months I have been talking with a number of tools that can support Enterprise 2.0. I posted on each, either here or at the FastForward blog, often in both spots. Some are currently more web focused but could be adapted to the enterprise. Here is an updated listing on them with links to the relevant blog post."
 
 
-* **Link to site:** **[Great coverage of Enterprise 2.0](None)**

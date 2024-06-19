@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-03-10
 ---
 
+**Link: [Some great links for  03/11/2019](None):** ""
+
+
+
   * [How to scale Ruby on Rails with Redis | Opensource.com](<https://opensource.com/article/18/4/ruby-rails-redis>)
 
 Another nice tutorial on Caching with Redis and Rails
@@ -41,4 +45,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  03/11/2019](None)**

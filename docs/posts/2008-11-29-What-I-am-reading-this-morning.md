@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-11-29
 ---
 
+**Link: [What I am reading this morning](None):** ""
+
+
+
 A few really quick links:
 
   * [Responsible Tweeting](<http://www.poynter.org/column.asp?id=31&aid=154820>), about the role of Twitter 'news' in influencing real world events.
@@ -16,4 +20,3 @@ I said 'really quick links'. Elapsed time, 3 minutes. There you have it.
 Enjoy.
 
 
-* **Link to site:** **[What I am reading this morning](None)**

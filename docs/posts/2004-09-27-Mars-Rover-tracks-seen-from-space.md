@@ -4,12 +4,17 @@ author: Pito Salas
 date: 2004-09-27
 ---
 
-You know I am a fan of the cool **little Mars Rovers**. Here's an interesting
-little bit from Nasa:
+**Link: [Mars Rover tracks seen from space](None):** ""
+
 
 >>
 
->> "**Mars Orbiter Sees Rover Tracks Among Thousands of New Images**
+>> You know I am a fan of the cool **little Mars Rovers**. Here's an
+interesting little bit from Nasa:
+
+>>
+
+>> " **Mars Orbiter Sees Rover Tracks Among Thousands of New Images**
 
 >>
 
@@ -40,4 +45,3 @@ of the Mars Exploration Rover sites seen from orbit."
 >> Amazing, huh?
 
 
-* **Link to site:** **[Mars Rover tracks seen from space](None)**

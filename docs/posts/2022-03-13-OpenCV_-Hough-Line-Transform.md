@@ -13,5 +13,6 @@ tags:
 ---
 <img class="cover" src=https://docs.opencv.org/4.x/houghlinesdemo.gif>
 
+**Link: [OpenCV: Hough Line Transform](https://docs.opencv.org/4.x/d6/d10/tutorial_py_houghlines.html):** ""
 
-* **Link to site:** **[OpenCV: Hough Line Transform](https://docs.opencv.org/4.x/d6/d10/tutorial_py_houghlines.html)**
+

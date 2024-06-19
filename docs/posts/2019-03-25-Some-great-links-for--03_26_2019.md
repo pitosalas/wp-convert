@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-03-25
 ---
 
+**Link: [Some great links for  03/26/2019](None):** ""
+
+
+
   * [Drawing Graphs using Dot and Graphviz](<http://tonyballantyne.com/graphs.html>)
 
 Another great overview and cheatsheet for Dot
@@ -18,4 +22,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  03/26/2019](None)**

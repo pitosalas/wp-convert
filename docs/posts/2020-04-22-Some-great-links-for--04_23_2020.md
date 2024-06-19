@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2020-04-22
 ---
 
+**Link: [Some great links for  04/23/2020](None):** ""
+
+
+
   * [Stripe is Silently Recording Your Movements On its Customers' Websites · mtlynch.io](<https://mtlynch.io/stripe-recording-its-customers/>)
 
 This kind of thing doesn’t bother me too much. But I know certain people are
@@ -18,4 +22,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  04/23/2020](None)**

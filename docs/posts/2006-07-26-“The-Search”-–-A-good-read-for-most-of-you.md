@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2006-07-26
 ---
 
-If you read my blog chances are you'll **really enjoy** John Batelle's book
+**Link: [“The Search” – A good read for most of you](None):** ""
+
+
+>>
+
+>> If you read my blog chances are you'll **really enjoy** John Batelle's book
 [The Search: How Google and Its Rivals Rewrote the Rules of Business and
 Transformed Our
 Culture](<http://www.amazon.com/exec/obidos/redirect?link_code=as2&path=ASIN/1591840880&tag=blogbridge-20&camp=1789&creative=9325>)![](http://www.assoc-
@@ -15,4 +20,3 @@ other than to say that it's a really good read and worthwhile.
 **Recommended**.
 
 
-* **Link to site:** **[“The Search” – A good read for most of you](None)**

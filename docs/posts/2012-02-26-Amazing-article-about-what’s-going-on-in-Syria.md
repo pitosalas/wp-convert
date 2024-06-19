@@ -11,6 +11,10 @@ tags:
     - war
 ---
 
+**Link: [Amazing article about what’s going on in Syria](None):** ""
+
+
+
 ![MarieColvin](https://i0.wp.com/www.havantchildrensuniversity.co.uk/public/images/logos-
 small/sunday-times-logo.gif?w=584)
 
@@ -38,4 +42,3 @@ The sad postscript is that this article was [Marie Colvin's
 herself killed soon after in a bombing.
 
 
-* **Link to site:** **[Amazing article about what’s going on in Syria](None)**

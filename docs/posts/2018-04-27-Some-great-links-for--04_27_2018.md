@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-04-27
 ---
 
+**Link: [Some great links for  04/27/2018](None):** ""
+
+
+
   * [Results from the 2018 Rails Hosting Survey | Planet Argon](<http://rails-hosting.com/2018/>)
 
 tags: [survey](<https://www.diigo.com/user/pitosalas/survey>)
@@ -31,4 +35,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  04/27/2018](None)**

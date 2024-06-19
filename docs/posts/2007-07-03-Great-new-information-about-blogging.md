@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-07-03
 ---
 
+**Link: [Great new information about blogging](None):** ""
+
+
+
 I just finished writing a few brief tutorials that I thought might be of
 interest to you and, well, everyone. Please check them out - if you find them
 useful, please pass them on to your friends!
@@ -13,4 +17,3 @@ useful, please pass them on to your friends!
   * ["What are the best news blogs"](<http://www.squidoo.com/bestnewsblogs/>) - How do you go about finding the best blogs about current events?
 
 
-* **Link to site:** **[Great new information about blogging](None)**

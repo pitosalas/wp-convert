@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2020-06-03
 ---
 
+**Link: [Some great links for  06/04/2020](None):** ""
+
+
+
   * [The Unreasonable Effectiveness of Method Chaining in Pandas](<https://link.medium.com/1gv9kHV606>)
 
 Good article exploring and explaining the functional or fluent style of design
@@ -18,4 +22,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  06/04/2020](None)**

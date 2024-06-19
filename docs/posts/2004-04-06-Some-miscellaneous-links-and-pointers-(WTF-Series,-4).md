@@ -4,9 +4,14 @@ author: Pito Salas
 date: 2004-04-06
 ---
 
-I am at the [WTF conference](<http://www.stupidnet.com/>) (more of a retreat.)
-IN addition to the more cogent posts that follow, here are some links and
-pointers that may be of interest.  
+**Link: [Some miscellaneous links and pointers (WTF Series, 4)](None):** ""
+
+
+>>
+
+>> I am at the [WTF conference](<http://www.stupidnet.com/>) (more of a
+retreat.) IN addition to the more cogent posts that follow, here are some
+links and pointers that may be of interest.  
 >
 >>
 
@@ -44,4 +49,3 @@ Kleiner](<http://www.amazon.com/exec/obidos/tg/detail/-/0385484488/103-8842434-2
 >>
 
 
-* **Link to site:** **[Some miscellaneous links and pointers (WTF Series, 4)](None)**

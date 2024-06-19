@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2009-07-24
 ---
 
+**Link: [Apple Store Tax Funny Business?](None):** ""
+
+
+
 A friend of mine pointed out that for some reason when he ordered is
 (wonderful) iPhone 3GS, the Apple Store charged the **wrong amount for sales
 tax.**
@@ -24,4 +28,3 @@ look like a 5% tax to me!
 **What do you think? 9.8%! Who do I call?**
 
 
-* **Link to site:** **[Apple Store Tax Funny Business?](None)**

@@ -9,6 +9,10 @@ tags:
     - learning
 ---
 
+**Link: [Good Grades Certainly Don’t Hurt](None):** ""
+
+
+
 [How to Get a Job at Google - NYTimes.com](<http://nyti.ms/1jTJavh>):
 
 > Don’t get him wrong, Bock begins, “Good grades certainly don’t hurt.” Many
@@ -17,4 +21,3 @@ tags:
 > an advantage. But Google has its eyes on much more.
 
 
-* **Link to site:** **[Good Grades Certainly Don’t Hurt](None)**

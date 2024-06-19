@@ -9,6 +9,10 @@ tags:
     - storage
 ---
 
+**Link: [A Nibble of Git’s Object Store](None):** ""
+
+
+
 [ A Nibble of Git's Object Store](< https://getcode.substack.com/p/a-nibble-
 of-gits-object-store?utm_source=post-email-
 title&publication_id=794951&post_id=89691737&isFreemail=true&utm_medium=email>)
@@ -18,4 +22,3 @@ fun and profit! Power and efficiency through content-addressable storage and
 delta compression
 
 
-* **Link to site:** **[A Nibble of Git’s Object Store](None)**

@@ -8,6 +8,10 @@ tags:
     - lean-startups
 ---
 
+**Link: [Lean Startups and Custdev](None):** ""
+
+
+
 I had the interesting experience this weekend to attend the "[Lean Startup
 Machine" weekend at the Microsoft
 NERD.](<http://boston.theleanstartupmachine.com/>) It was kind of a hackathon
@@ -38,4 +42,3 @@ As I digest what I learned, I will be posting more, as well as links to a
 bunch of interesting tools we learned about.
 
 
-* **Link to site:** **[Lean Startups and Custdev](None)**

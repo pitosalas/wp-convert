@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-09-30
 ---
 
+**Link: [Some great links for  10/01/2018](None):** ""
+
+
+
   * [Is your Rails app ready for Production? | AkitaOnRails.com](<http://www.akitaonrails.com/2016/03/22/is-your-rails-app-ready-for-production>)
 
 An excellent review of the various issues you have to consider when deciding
@@ -53,4 +57,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  10/01/2018](None)**

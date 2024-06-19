@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-06-28
 ---
 
-[Everyone loves](<http://reviews-
+**Link: [Is the world ready for a replacement to Outlook?](None):** ""
+
+
+>>
+
+>> [Everyone loves](<http://reviews-
 zdnet.com.com/AnchorDesk/4520-7297_16-5141451.html?tag=adts>) to beat up on
 Microsoft's **Outlook**. Including me! See [Outlook Haters
 Anyone?](</weblogs/archives/000396.html>) and [Outlook 2003
@@ -67,4 +72,3 @@ some level by that long ago, seminal application, Agenda.
 a chance **Chandler** and others will have?
 
 
-* **Link to site:** **[Is the world ready for a replacement to Outlook?](None)**

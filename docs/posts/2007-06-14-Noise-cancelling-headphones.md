@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-06-14
 ---
 
+**Link: [Noise cancelling headphones](None):** ""
+
+
+
 I've been doing quite a bit of traveling lately and have been experimenting
 with those noise cancelling headphones. Actually I couldn't convince myself to
 spend $350 on the Bose headphones who, by reputation anyway, set the standard.
@@ -63,4 +67,3 @@ Technorati Tags: [earprotection bose noise
 headphone](<http://technorati.com/tag/earprotection%20bose%20noise%20headphone>)
 
 
-* **Link to site:** **[Noise cancelling headphones](None)**

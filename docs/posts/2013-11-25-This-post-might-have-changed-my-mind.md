@@ -8,6 +8,10 @@ tags:
     - suicide
 ---
 
+**Link: [This post might have changed my mind](None):** ""
+
+
+
 Scott Adams is the guy behind the famous Dilbert comics. I've not worked in a
 big corporation for a while and I've not been reading Dilbert for quite a
 while too. But Scott Adams remains a brilliant humourist. This post however,
@@ -25,4 +29,3 @@ is not meant as humour:
 Postscript: His Dad passed away a few hours after he wrote this
 
 
-* **Link to site:** **[This post might have changed my mind](None)**

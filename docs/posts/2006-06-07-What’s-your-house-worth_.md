@@ -4,11 +4,20 @@ author: Pito Salas
 date: 2006-06-07
 ---
 
-If you haven't seen this, it's kind of cool. [Zillow](<http://www.zillow.com>)
-is a web site that take an address - maybe your **home address** , maybe your
-boss's, maybe your **arch** enemy's - and shows you a lot of information about
-the property, especially an estimate of it's current market value and how it's
-changed. **Cool**.  <!-  
+**Link: [What’s your house worth?](None):** ""
+
+
+>>
+
+>> If you haven't seen this, it's kind of cool.
+[Zillow](<http://www.zillow.com>) is a web site that take an address - maybe
+your **home address** , maybe your boss's, maybe your **arch** enemy's - and
+shows you a lot of information about the property, especially an estimate of
+it's current market value and how it's changed. **Cool**.
+
+>>
+
+>> <!-  
 > google_ad_client = "pub-7907243313795006";  
 > google_alternate_ad_url = "http://www.blogbridge.com";  
 > google_ad_width = 468;  
@@ -23,9 +32,10 @@ changed. **Cool**.  <!-
 > google_color_text = ["000000″,"000000″,"000000″,"333333"];  
 > //->  
 > <script type="text/javascript"  
->  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"> Technorati
-> Tags: [cool](<http://www.technorati.com/tag/cool>),
-> [cooltool](<http://www.technorati.com/tag/cooltool>)
+>  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+>>
+
+>> Technorati Tags: [cool](<http://www.technorati.com/tag/cool>),
+[cooltool](<http://www.technorati.com/tag/cooltool>)
 
 
-* **Link to site:** **[What’s your house worth?](None)**

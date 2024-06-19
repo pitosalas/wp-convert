@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-09-17
 ---
 
+**Link: [Some great links for  09/18/2019](None):** ""
+
+
+
   * [Listen Notes: The best podcast search engine](<https://www.listennotes.com>)
 
 Really useful tool to find podcasts and episodes. A nice looking podcast
@@ -18,4 +22,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  09/18/2019](None)**

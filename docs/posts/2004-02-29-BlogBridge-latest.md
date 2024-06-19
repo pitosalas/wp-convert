@@ -4,9 +4,14 @@ author: Pito Salas
 date: 2004-02-29
 ---
 
-Just a quick note about what's up with BlogBridge. My time has been severely
-drained by a new consulting project, so progress has slowed down more than I
-would like. The last while I was knee-deep in installation, deployment,
+**Link: [BlogBridge latest](None):** ""
+
+
+>>
+
+>> Just a quick note about what's up with BlogBridge. My time has been
+severely drained by a new consulting project, so progress has slowed down more
+than I would like. The last while I was knee-deep in installation, deployment,
 upgrade facilities. I looked at a bunch of possible ways of
 distributing,installing and then upgrading the application, evaluating 3 of
 them in detail. What a mess!
@@ -31,4 +36,3 @@ really usable. (FeedDemon is much better.) If a few people would like to try
 out the Java Web Start deployment, send me an email and we can talk.
 
 
-* **Link to site:** **[BlogBridge latest](None)**

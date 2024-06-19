@@ -4,9 +4,13 @@ author: Pito Salas
 date: 2007-02-05
 ---
 
-If you use the Bank of America online banking site you've seen what they call
-the 'Site Identity' feature that is supposed to save you from being phished:
+**Link: [Neat Bank of America site security feature doesn’t do anything !](None):** ""
 
+
+>
+> If you use the Bank of America online banking site you've seen what they
+> call the 'Site Identity' feature that is supposed to save you from being
+> phished:
 >
 
 >> "… online banking customers are asked to select an image, like a dog or
@@ -16,7 +20,7 @@ chess piece, that they will see every time they log in to their account.
 
 >> The idea is that if customers do not see their image, they could be at a
 fraudulent Web site, dummied up to look like their bank's, and should not
-enter their passwords." (**from**
+enter their passwords." ( **from**
 [NYT](<http://www.nytimes.com/2007/02/05/technology/05secure.html>))
 
 >
@@ -33,11 +37,10 @@ percent of the time."
 >>
 
 >> "He added: "If a bank were to ask me if they should deploy it, I would say
-no, wait for something better," he said." (**from**
+no, wait for something better," he said." ( **from**
 [NYT](<http://www.nytimes.com/2007/02/05/technology/05secure.html>))
 
 >
 > Oh well… Read the whole article!
 
 
-* **Link to site:** **[Neat Bank of America site security feature doesn’t do anything !](None)**

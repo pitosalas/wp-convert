@@ -7,6 +7,10 @@ tags:
     - schell
 ---
 
+**Link: [Game Design talk by Jesse Schell](None):** ""
+
+
+
 If you are interested in Game Design you have probably seen this video… I
 finally watched it and thought it was really worth sharing. I definitely
 recommend it. [Jesse Schell](<http://www.schellgames.com/>) is funny and
@@ -21,4 +25,3 @@ life in the future. Very plausible.
 5](<http://www.g4tv.com/games/ps3/61899/guitar-hero-5>)
 
 
-* **Link to site:** **[Game Design talk by Jesse Schell](None)**

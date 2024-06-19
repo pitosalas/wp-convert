@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-08-05
 ---
 
-Today I was introduced by two totally different people to **two really cool
+**Link: [Two really cool new applications](None):** ""
+
+
+>>
+
+>> Today I was introduced by two totally different people to **two really cool
 little utilities**.
 
 >>
@@ -33,4 +38,3 @@ Carpe](<http://www.clew.us/>))
 proving that no one can make money with software anymore.
 
 
-* **Link to site:** **[Two really cool new applications](None)**

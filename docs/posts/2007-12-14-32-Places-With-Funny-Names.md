@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-12-14
 ---
 
+**Link: [32 Places With Funny Names](None):** ""
+
+
+
 I discovered a new funny blog: it's the List of Lists blog. For example, check
 out [this post](<http://www.alistoflists.com/places-events/32-places-with-
 funny-names>) from [A List of Lists](<http://www.alistoflists.com>):
@@ -48,4 +52,3 @@ funny-names>) from [A List of Lists](<http://www.alistoflists.com>):
 The [blog itself is amusin](<http://www.alistoflists.com/>)g, I recommend it!
 
 
-* **Link to site:** **[32 Places With Funny Names](None)**

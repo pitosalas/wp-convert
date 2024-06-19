@@ -7,6 +7,10 @@ tags:
     - pinterest
 ---
 
+**Link: [What is Pinterest good for?](None):** ""
+
+
+
 Funny thing, I like many people are trying to figure out what
 [Pinterest](<www.pinterest.com>) is good for. Well I found a use.
 
@@ -30,4 +34,3 @@ I will try to set it up so you can add an idea or two if you have any
 contribution. Whoops, that might be dangerous. Shall we try?
 
 
-* **Link to site:** **[What is Pinterest good for?](None)**

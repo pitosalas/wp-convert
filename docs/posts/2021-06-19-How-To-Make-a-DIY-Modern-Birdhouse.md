@@ -13,8 +13,6 @@ tags:
 ---
 <img class="cover" src=http://assets.curbly.com/photos/0000/0013/5044/picture_1.png>
 
+**Link: [How To Make a DIY Modern Birdhouse](https://www.curbly.com/how-to-make-a-birdhouse):** "Learn how to make a birdhouse two ways. A modern, handmade birdhouse that doesn't require power tools, and a mid-century modern birdhouse."
 
 
-* **Web site excerpt:** Learn how to make a birdhouse two ways. A modern, handmade birdhouse that doesn't require power tools, and a mid-century modern birdhouse.
-
-* **Link to site:** **[How To Make a DIY Modern Birdhouse](https://www.curbly.com/how-to-make-a-birdhouse)**

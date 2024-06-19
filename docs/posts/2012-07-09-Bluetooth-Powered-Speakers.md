@@ -9,6 +9,10 @@ tags:
     - speakers
 ---
 
+**Link: [Bluetooth Powered Speakers](None):** ""
+
+
+
 I am considering these Bluetooth Wireless Powered Speakers… which should I
 get?
 
@@ -22,4 +26,3 @@ Punch](<http://gadgetwise.blogs.nytimes.com/2012/07/05/a-pocket-size-speaker-
 with-some-punch/>)
 
 
-* **Link to site:** **[Bluetooth Powered Speakers](None)**

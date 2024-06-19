@@ -10,6 +10,10 @@ tags:
     - textmate
 ---
 
+**Link: [[GEEKY] Sublime Text surpassing TextMate?](None):** ""
+
+
+
 I've been doing some more coding these days in Ruby.
 
 I've had great success and fun (especially when debugging) using
@@ -31,4 +35,3 @@ Text 2](<http://www.sublimetext.com/2>) as a great alternative to TextMate.
 So… Here I go. I will report back.
 
 
-* **Link to site:** **[[GEEKY] Sublime Text surpassing TextMate?](None)**

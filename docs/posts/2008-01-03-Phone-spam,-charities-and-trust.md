@@ -7,6 +7,10 @@ tags:
     - fraud
 ---
 
+**Link: [Phone spam, charities and trust](None):** ""
+
+
+
 In the [New York Times, an editorial talks about a study that reveals rampant
 abuses in certain charitable causes
 ](<http://www.nytimes.com/2007/12/25/opinion/25tue3.html>)(or organizations
@@ -28,4 +32,3 @@ tactics, rudeness, accusations and so on. I had my suspicions and this new
 study kind of corroborates them.
 
 
-* **Link to site:** **[Phone spam, charities and trust](None)**

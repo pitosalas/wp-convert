@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-02-24
 ---
 
+**Link: [Oldish news, but interesting](None):** ""
+
+
+
 I came across this note that the fairly famous spat between Apple Gossip site
 Think Secret and Apple Inc. has been settled:
 
@@ -18,4 +22,3 @@ It's too bad. Think Secret was a valuable resource. I wonder where Nick will
 turn up next.
 
 
-* **Link to site:** **[Oldish news, but interesting](None)**

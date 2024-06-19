@@ -7,6 +7,10 @@ tags:
     - github
 ---
 
+**Link: [Tower Git Client – The most powerful Git client for Mac and Windows](None):** ""
+
+
+
 [ Tower Git Client - The most powerful Git client for Mac and
 Windows](<https://www.git-tower.com/mac>)
 
@@ -16,4 +20,3 @@ most powerful Git client for Mac and Windows.
 August 12, 2021 at 01:56PM
 
 
-* **Link to site:** **[Tower Git Client – The most powerful Git client for Mac and Windows](None)**

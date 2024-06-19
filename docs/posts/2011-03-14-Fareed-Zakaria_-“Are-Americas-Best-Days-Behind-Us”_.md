@@ -8,6 +8,10 @@ tags:
     - USA
 ---
 
+**Link: [Fareed Zakaria: “Are Americas Best Days Behind Us”?](None):** ""
+
+
+
 I know it's a **provocative title** , and sadly I suspect that many of the
 'intended audience' will agree with much of what he says, but then also feel
 like there's nothing that can be done about it.
@@ -40,7 +44,7 @@ tells us:
 > some areas in which we are still clearly No. 1, but they're not ones we
 > usually brag about. We have the most guns. We have the most crime among rich
 > countries. And, of course, we have by far the largest amount of debt in the
-> world." (**from** [Fareed
+> world." ( **from** [Fareed
 > Zakaria](<http://www.fareedzakaria.com/home/Articles/Entries/2011/3/3_Are_Americas_Best_Days_Behind_Us.html>))
 
 **Old news, right?** I have seen stats like this before, and they are
@@ -88,4 +92,3 @@ because:
 I probably will be branded as a socialist just for liking this article.
 
 
-* **Link to site:** **[Fareed Zakaria: “Are Americas Best Days Behind Us”?](None)**

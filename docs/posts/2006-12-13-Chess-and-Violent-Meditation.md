@@ -4,7 +4,11 @@ author: Pito Salas
 date: 2006-12-13
 ---
 
-<!-  
+**Link: [Chess and Violent Meditation](None):** ""
+
+
+>
+> <!-  
 >  body { font-family: Tahoma; font-size: 11pt; line-height: normal; font-
 > variant: normal; font-weight: normal; font-style: normal }  
 >  ->
@@ -24,4 +28,3 @@ date: 2006-12-13
 >  Meditation](<http://get.wis.dm/danielsalas/?p=50>))
 
 
-* **Link to site:** **[Chess and Violent Meditation](None)**

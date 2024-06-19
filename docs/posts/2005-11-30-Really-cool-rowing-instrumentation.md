@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2005-11-30
 ---
 
-If there are any rowing fanatics out there, or competitive rowing coaches,
+**Link: [Really cool rowing instrumentation](None):** ""
+
+
+>>
+
+>> If there are any rowing fanatics out there, or competitive rowing coaches,
 [take a look at this cool in-
 boat](<http://www.championmetrics.com/index.html>) rowing instrumentation
 product.
@@ -16,7 +21,7 @@ software to provide a complete measurement system.The revolutionary force
 sensors installed between the foot stretchers and the rails capture the amount
 of force being exerted by each rower on a stroke by stroke basis. It measures
 the balance between the right and left feet for each rower. Also captured is
-the total boat's performance and the deceleration after catch.** " (**f[rom
+the total boat's performance and the deceleration after catch. ** " (**f[rom
 ChampionMetrics web ite](<http://www.championmetrics.com/index.html>))
 
 >>
@@ -25,4 +30,3 @@ ChampionMetrics web ite](<http://www.championmetrics.com/index.html>))
 [rowing](<http://www.technorati.com/tag/rowing>)
 
 
-* **Link to site:** **[Really cool rowing instrumentation](None)**

@@ -11,5 +11,6 @@ tags:
 ---
 <img class="cover" src=>
 
+**Link: [The Security Hearing of Robert Oppenheimer: An Account](https://famous-trials.com/oppenheimer/2688-the-security-hearing-of-robert-oppenheimer-an-account):** ""
 
-* **Link to site:** **[The Security Hearing of Robert Oppenheimer: An Account](https://famous-trials.com/oppenheimer/2688-the-security-hearing-of-robert-oppenheimer-an-account)**
+

@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2010-10-08
 ---
 
+**Link: [Big Changes coming in Curaçao!](None):** ""
+
+
+
 You may not follow the news, but Curaçao is undergoing major constitutional
 changes, as are all the Netherlands Antilles. In fact, as of this Sunday, Oct
 10, ("10-10-10") the Netherlands Antilles will cease to exist as a legal
@@ -29,4 +33,3 @@ with my new found graphic design swagger, I decided to design my own. [Get
 yours here!](<http://pito.spreadshirt.com/>)
 
 
-* **Link to site:** **[Big Changes coming in Curaçao!](None)**

@@ -7,6 +7,10 @@ tags:
     - needleinahaystack
 ---
 
+**Link: [Two fun (to me) articles about arcane mathematical topics](None):** ""
+
+
+
 Ok, probably to a mathematician these are not arcane, but to normal people
 (oops, sorry, I love mathematicians) I think they might be. Anyway, read and
 enjoy without any further commentary:
@@ -16,4 +20,3 @@ enjoy without any further commentary:
   * [Needle-in-a-haystack Problems, and P vs. NP](<http://freedom-to-tinker.com/blog/felten/needle-haystack-problems-and-p-vs-np>). "[snip…]Last week I wrote about needle-in-a-haystack problems, in which it's hard to find the solution but if somebody tells you the solution it's easy to verify. A commenter asked whether such problems are related tothe P vs. NP problem, which is the most important unsolved problem in theoretical computer science. It turns out that they are related, and that needle-in-a-haystack problems are a nice framework for explaining the P vs. NP problem, which few non-experts seem to understand.[snip…]"
 
 
-* **Link to site:** **[Two fun (to me) articles about arcane mathematical topics](None)**

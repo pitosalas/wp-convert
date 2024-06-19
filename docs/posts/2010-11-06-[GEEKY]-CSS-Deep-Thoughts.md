@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2010-11-06
 ---
 
+**Link: [[GEEKY] CSS Deep Thoughts](None):** ""
+
+
+
 I feel that I am finally mastering CSS and in doing so I am seeing some
 interesting patterns. It seems to me that it's very easy to get into a
 situation where you have too many CSS rules that overlap and override each
@@ -31,4 +35,3 @@ tools to do this, or has this been tried and turned out to be technically
 intractable? Seems to me like it should be possible.
 
 
-* **Link to site:** **[[GEEKY] CSS Deep Thoughts](None)**

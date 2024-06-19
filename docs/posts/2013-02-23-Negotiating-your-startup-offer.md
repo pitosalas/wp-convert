@@ -9,8 +9,11 @@ tags:
     - startups
 ---
 
+**Link: [Negotiating your startup offer](None):** ""
+
+
+
 Pretty good review of a broad topic: [Negotiating Your Startup
 Offer](<http://rob.by/2013/negotiating-your-startup-job-offer>)
 
 
-* **Link to site:** **[Negotiating your startup offer](None)**

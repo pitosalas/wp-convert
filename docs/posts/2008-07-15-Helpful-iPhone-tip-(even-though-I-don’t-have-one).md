@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-07-15
 ---
 
+**Link: [Helpful iPhone tip (even though I don’t have one)](None):** ""
+
+
+
 I saw this somewhere and I thought I would share as it seems very useful, yet
 obscure:
 
@@ -14,4 +18,3 @@ obscure:
 > the Apple logo. Let go then.
 
 
-* **Link to site:** **[Helpful iPhone tip (even though I don’t have one)](None)**

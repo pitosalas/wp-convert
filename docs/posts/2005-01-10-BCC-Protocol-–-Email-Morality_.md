@@ -4,12 +4,21 @@ author: Pito Salas
 date: 2005-01-10
 ---
 
+**Link: [BCC Protocol – Email Morality?](None):** ""
+
 What does the existence of "BCC" (which I think stands for the anachronism
 "blind carbon copy") tell us about the social norms of emails? This thought
 occurred to me just now as I was the recipient of an email (corresponding to
-(3) in the not at all uncommon scenario that I describe below. It is an
-interesting piece of deception that we all participate in, isn't it? Has
-anyone ever thought about the morality of email addressing? Scenario:
+(3) in the not at all uncommon scenario that I describe below.
+
+>>
+
+>> It is an interesting piece of deception that we all participate in, isn't
+it? Has anyone ever thought about the morality of email addressing?
+
+>>
+
+>> Scenario:
 
 >>
 
@@ -19,7 +28,9 @@ anyone ever thought about the morality of email addressing? Scenario:
 
 >>   3. A sends an email directly to X, BCC to B
 
-Analysis:
+>>
+
+>> Analysis:
 
 >>
 
@@ -42,10 +53,19 @@ said.
 
 >>
 
-Hmm, sounds like a bit of interpersonal deception is going on here. I am not
-casting judgement - I've played the role of X, A, B or C more than once. But
-it does make you think. What would Dear Abby say? **Update:** As one wag said
-to me in email: "I think Dear Abby might say that Pito needs a hobby :-)"
+>>
+
+>> Hmm, sounds like a bit of interpersonal deception is going on here. I am
+not casting judgement - I've played the role of X, A, B or C more than once.
+But it does make you think.
+
+>>
+
+>> What would Dear Abby say?
+
+>>
+
+>> **Update:** As one wag said to me in email: "I think Dear Abby might say
+that Pito needs a hobby :-)"
 
 
-* **Link to site:** **[BCC Protocol – Email Morality?](None)**

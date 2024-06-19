@@ -9,6 +9,10 @@ tags:
     - startups
 ---
 
+**Link: [More about GreenGoose and the Brush Monkey](None):** ""
+
+
+
 Amazing story of a great looking product, and awesome demo, on the spot
 investment of $100,000 and still… **It didn 't work.** The story was told by
 Scott Kirsner in the Boston Globe:
@@ -43,4 +47,3 @@ where you can read more of how it ended:
 > Blog](<http://www.boston.com/business/technology/innoeco/2013/09/bonus_material_what_happens_af.html>))
 
 
-* **Link to site:** **[More about GreenGoose and the Brush Monkey](None)**

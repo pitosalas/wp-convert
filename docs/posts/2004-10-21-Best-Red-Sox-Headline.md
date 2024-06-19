@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-10-21
 ---
 
-**Isn 't it sweet! **Did you know you could get a big collection of front
+**Link: [Best Red Sox Headline](None):** ""
+
+
+>>
+
+>> **Isn 't it sweet! **Did you know you could get a big collection of front
 pages of newspapers at the
 [Newseum](<http://www.newseum.org/todaysfrontpages/>)?
 
@@ -20,11 +25,10 @@ pages of newspapers at the
 >>
 
 >> Late update -- Additional funny headlines:  
-> **  
+>  **  
 > " The Empire Strikes Out!"
 >>
 
 >> "Yank This!"**
 
 
-* **Link to site:** **[Best Red Sox Headline](None)**

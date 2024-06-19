@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2009-10-15
 ---
 
+**Link: [Electricity Audit Survey Tool?](None):** ""
+
+
+
 I want to do an electricity audit for my house. I am looking for a web site
 that lets me complete a survey of all my  
 electricity consuming devices and estimates my KWh. I suspect there may be
@@ -14,4 +18,3 @@ did the research of how much power a Staples paper shredder uses when it's on
 but not in use, and on, and on and on.
 
 
-* **Link to site:** **[Electricity Audit Survey Tool?](None)**

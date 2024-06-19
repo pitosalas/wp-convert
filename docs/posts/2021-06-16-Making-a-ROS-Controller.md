@@ -13,8 +13,6 @@ tags:
 ---
 <img class="cover" src=https://miro.medium.com/max/1200/1*MVTaV3IhGJA-6NtmSqGVXQ.jpeg>
 
+**Link: [Making a ROS Controller](https://medium.com/@mr_koz/making-a-ros-controller-720caa36abd2):** "Interesting instructions for creating your own "game controller" for ROS"
 
 
-* **Web site excerpt:** Interesting instructions for creating your own "game controller" for ROS
-
-* **Link to site:** **[Making a ROS Controller](https://medium.com/@mr_koz/making-a-ros-controller-720caa36abd2)**

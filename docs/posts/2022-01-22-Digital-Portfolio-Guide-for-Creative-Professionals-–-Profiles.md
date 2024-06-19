@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2022-01-22
 ---
 
+**Link: [Digital Portfolio Guide for Creative Professionals – Profiles](None):** ""
+
+
+
 [ Digital Portfolio Guide for Creative Professionals -
 Profiles](<https://www.careerprofiles.com/job-seeker-advice-tips/digital-
 portfolio-guide-creative-professional/>)
@@ -11,4 +15,3 @@ portfolio-guide-creative-professional/>)
 January 22, 2022 at 07:23PM
 
 
-* **Link to site:** **[Digital Portfolio Guide for Creative Professionals – Profiles](None)**

@@ -4,10 +4,13 @@ author: Pito Salas
 date: 2006-10-30
 ---
 
-Over on our new BlogBridge site, we've been working on a new set of
-Screencasts. We discovered various problems with what we had done before and
-thought, let's try to make things better (as they say at Philips.)
+**Link: [Experiences creating new BlogBridge screencasts](None):** ""
 
+
+>
+> Over on our new BlogBridge site, we've been working on a new set of
+> Screencasts. We discovered various problems with what we had done before and
+> thought, let's try to make things better (as they say at Philips.)
 >
 > I thought I'd share my stream of consciousness notes from that experience.
 >
@@ -40,4 +43,3 @@ thought, let's try to make things better (as they say at Philips.)
 > Technorati Tags: [screencast](<http://www.technorati.com/tag/screencast>)
 
 
-* **Link to site:** **[Experiences creating new BlogBridge screencasts](None)**

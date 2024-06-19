@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-12-04
 ---
 
+**Link: [Some great links for  12/05/2018](None):** ""
+
+
+
   * <https://link.medium.com/LzL8HArenS>
 
 A really great list of services to integrate into your application. A bunch
@@ -17,4 +21,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  12/05/2018](None)**

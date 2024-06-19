@@ -8,6 +8,10 @@ tags:
     - twitter
 ---
 
+**Link: [When Twitter becomes a  blogging platform](None):** ""
+
+
+
 I have been noticing more and more **serialized tweets**. In other words,
 someone tweets several times in a row because what they have to say will not
 fit into 140 characters. They number them and fire them off one after the
@@ -35,4 +39,3 @@ Twitter starts accepting long messages people will say that **Twitter jumped
 the shark.** I doubt it. I think it's inevitable.
 
 
-* **Link to site:** **[When Twitter becomes a  blogging platform](None)**

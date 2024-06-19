@@ -8,6 +8,10 @@ tags:
     - sunset
 ---
 
+**Link: [Summer’s almost here](None):** ""
+
+
+
 I noticed yesterday that sunset is now occurring at 4:12pm. The day before it
 was 4:11pm. So **sunset is getting later!** **Summer** is almost here, right?
 
@@ -20,4 +24,3 @@ several weeks before sunrise starts getting earlier. Note: the explanation is
 very complicated.
 
 
-* **Link to site:** **[Summer’s almost here](None)**

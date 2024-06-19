@@ -13,8 +13,6 @@ tags:
 ---
 <img class="cover" src=https://miro.medium.com/max/682/0*ZRVahOY1Md8Xb67p.jpeg>
 
+**Link: [Machine Learning: The Great Stagnation](https://towardsdatascience.com/machine-learning-the-great-stagnation-3a0f044e17e0):** "The bureaucrats are running the asylum. Very provocative article."
 
 
-* **Web site excerpt:** The bureaucrats are running the asylum. Very provocative article.
-
-* **Link to site:** **[Machine Learning: The Great Stagnation](https://towardsdatascience.com/machine-learning-the-great-stagnation-3a0f044e17e0)**

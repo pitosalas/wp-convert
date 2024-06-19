@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-03-27
 ---
 
+**Link: [Finally updating to Leopard](None):** ""
+
+
+
 Usually more on the bleeding edge than this, I decided to wait until now to
 upgrade my macs to Leopard which is the name of the new Mac OS X release. If
 anything interesting happens I will let you know. Hopefully nothing
@@ -14,4 +18,3 @@ interesting will happen 🙂
   * I have a 4 year old iMac G4 notebook. I wonder if Leopard will like it.
 
 
-* **Link to site:** **[Finally updating to Leopard](None)**

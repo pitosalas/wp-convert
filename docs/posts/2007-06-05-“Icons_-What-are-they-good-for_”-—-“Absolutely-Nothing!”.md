@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-06-05
 ---
 
+**Link: [“Icons: What are they good for?” — “Absolutely Nothing!”](None):** ""
+
+
+
 [Jeremy Wagstaff, in his regular "Loose
 Wires"](<http://online.wsj.com/article/SB118064841957620556.html?mod=Loose+Wire>)
 column tells some truth about icons in software:
@@ -39,4 +43,3 @@ be marketed in a variety of countries. I guess in Europe, culturally, people
 understand the symbols for "broil" and "rinse only." It was greek to me!
 
 
-* **Link to site:** **[“Icons: What are they good for?” — “Absolutely Nothing!”](None)**

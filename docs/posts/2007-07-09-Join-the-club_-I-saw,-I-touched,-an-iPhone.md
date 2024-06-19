@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-07-09
 ---
 
+**Link: [Join the club: I saw, I touched, an iPhone](None):** ""
+
+
+
 I am not going to write yet another long review or commentary. But I can't
 resist a few crass words:
 
@@ -26,4 +30,3 @@ Technorati Tags: [iphone totemic
 talisman](<http://technorati.com/tag/iphone%20totemic%20talisman>)
 
 
-* **Link to site:** **[Join the club: I saw, I touched, an iPhone](None)**

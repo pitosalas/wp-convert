@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-04-21
 ---
 
+**Link: [Some great links for  04/22/2019](None):** ""
+
+
+
   * [Dockerize the multi-services application for local development](<https://dev.to/amplifr/dockerize-the-multi-services-application-for-local-development-2oig?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email>)
 
 Combining multiple services in a container makes local development easier.
@@ -50,4 +54,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  04/22/2019](None)**

@@ -9,6 +9,10 @@ tags:
     - union-tags
 ---
 
+**Link: [Waiting for Superman](None):** ""
+
+
+
 I recently saw the movie "Waiting for Superman" - yes I am late to the party.
 But in case you have not seen it let me recommend it to you as a highly
 revealing and disappointing view into the way the American school system runs,
@@ -21,4 +25,3 @@ for the DVD.](<http://movies.netflix.com/Movie/Waiting-for-
 Superman/70129364#height2429>)
 
 
-* **Link to site:** **[Waiting for Superman](None)**

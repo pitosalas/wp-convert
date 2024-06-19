@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2010-10-04
 ---
 
+**Link: [[story] This did happen](None):** ""
+
+
+
 PART 1: THE ELDERS
 
 Now, such a long time after first contact, it was hard to remember the times,
@@ -79,4 +83,3 @@ Intelligence, Diplomacy and Legal could not decide, and respond, quickly, the
 borders would be redrawn perhaps permanently.
 
 
-* **Link to site:** **[[story] This did happen](None)**

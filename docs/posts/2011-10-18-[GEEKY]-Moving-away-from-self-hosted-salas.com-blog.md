@@ -9,6 +9,10 @@ tags:
     - wordpresscom
 ---
 
+**Link: [[GEEKY] Moving away from self-hosted salas.com blog](None):** ""
+
+
+
 Running my own Linux server has lost it's sex appeal. Now I am going for
 simplicity and so I am exploring simply not having my own server but using one
 of the several cloud services. It turns out that there are lots of little
@@ -25,4 +29,3 @@ bumps in the road to move from one to the other:
 So you see my friends, things are never simple… I will keep you posted.
 
 
-* **Link to site:** **[[GEEKY] Moving away from self-hosted salas.com blog](None)**

@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-12-17
 ---
 
+**Link: [Andy Payne goes to Flexcamp](None):** ""
+
+
+
 [Andy went to FlexCamp](<http://blog.payne.org/2007/12/08/report-flexcamp-
 boston-2007/> "Andy Payne and Flexcamp") last week and was good enough to
 [write up his observations. He says:  
@@ -44,4 +48,3 @@ Finally a couple of other Flash tidbits:
   * On the other hand, the iPhone still does NOT have flash, and some have [speculated about Apple's strategic and tactical motivations](<http://www.mercurious.com/wordpress/2007/08/29/iphone-and-flash/>).
 
 
-* **Link to site:** **[Andy Payne goes to Flexcamp](None)**

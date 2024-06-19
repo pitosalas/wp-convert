@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-05-12
 ---
 
-It's been quiet but we've been busy. We are getting ready to put up a major
+**Link: [BlogBridge – Quiet but Busy!](None):** ""
+
+
+>>
+
+>> It's been quiet but we've been busy. We are getting ready to put up a major
 new revision of BlogBridge with goodies such as drag and drop of Channels,
 Collapse/Expand groups of articles, based on age, Next Unread processing, a
 bunch of new User Preferences. Also we are doing a bit of a reorganization of
@@ -14,4 +19,3 @@ more useful. Expect lots of additions to the Specs page as we move into
 another phase of development.
 
 
-* **Link to site:** **[BlogBridge – Quiet but Busy!](None)**

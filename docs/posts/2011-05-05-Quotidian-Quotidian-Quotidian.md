@@ -6,6 +6,10 @@ tags:
     - quotidian
 ---
 
+**Link: [Quotidian Quotidian Quotidian](None):** ""
+
+
+
 This word "QUOTIDIAN" seems to have become popular suddenly. Did you notice?
 
 Or is it just me that is noticing it more because up to a minute ago I didn't
@@ -15,4 +19,3 @@ It's so simple, [once you know
 🙂](<http://dictionary.reference.com/browse/quotidian>)
 
 
-* **Link to site:** **[Quotidian Quotidian Quotidian](None)**

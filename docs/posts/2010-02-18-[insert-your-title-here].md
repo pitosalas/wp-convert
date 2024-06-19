@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2010-02-18
 ---
 
+**Link: [[insert your title here]](None):** ""
+
+
+
 "I am so disappointed in the government"  
 "Are we driving off a cliff with two sets of hands on the steering wheel?"  
 "What is wrong with those people!"
@@ -18,12 +22,11 @@ No more.
 > gain. The main urgency for both parties seems to be about pinning blame on
 > the other, before November’s elections, for deficits now averaging $1
 > trillion a year, the largest since World War II relative to the size of the
-> economy."
-> ([**read**](<http://www.nytimes.com/2010/02/17/business/economy/17gridlock.html?ref=business>)
+> economy." ([
+> **read**](<http://www.nytimes.com/2010/02/17/business/economy/17gridlock.html?ref=business>)
 > the [whole article in The New York
 > Times)](<http://www.nytimes.com/2010/02/17/business/economy/17gridlock.html?ref=business>)
 
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-* **Link to site:** **[[insert your title here]](None)**

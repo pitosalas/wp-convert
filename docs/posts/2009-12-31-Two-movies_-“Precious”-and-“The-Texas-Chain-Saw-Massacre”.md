@@ -4,7 +4,11 @@ author: Pito Salas
 date: 2009-12-31
 ---
 
-(**Note** : Spoilers for both movies, but nothing that everyone probably has
+**Link: [Two movies: “Precious” and “The Texas Chain Saw Massacre”](None):** ""
+
+
+
+( **Note** : Spoilers for both movies, but nothing that everyone probably has
 already been exposed to)
 
 I saw both these movies this weekend. [One I thought was very good but
@@ -43,4 +47,3 @@ What do you think?
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-* **Link to site:** **[Two movies: “Precious” and “The Texas Chain Saw Massacre”](None)**

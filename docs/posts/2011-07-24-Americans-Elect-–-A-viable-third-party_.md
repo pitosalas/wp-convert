@@ -9,6 +9,10 @@ tags:
     - thomas-friendman
 ---
 
+**Link: [Americans Elect – A viable third party?](None):** ""
+
+
+
 It's unusual to see [Thomas
 Friedman](<http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/thomaslfriedman/index.html?inline=nyt-
 per>) to throw his weight this thoroughly behind an outside organization:
@@ -27,4 +31,3 @@ I am not sure this is for real, but it sure sounds interesting. I am [signing
 up.](<http://www.americanselect.org/>)
 
 
-* **Link to site:** **[Americans Elect – A viable third party?](None)**

@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-04-11
 ---
 
+**Link: [From Lifehacker, for TV Addicts, this is just too good.](None):** ""
+
+
+
 Check out [this post](<http://lifehacker.com/software/bittorrent/download-of-
 the-day-tvshows-mac-251442.php>) from
 [Lifehacker](<http://www.lifehacker.com>):
@@ -18,4 +22,3 @@ the-day-tvshows-mac-251442.php>) from
 > tvshows-mac-251442.php>))
 
 
-* **Link to site:** **[From Lifehacker, for TV Addicts, this is just too good.](None)**

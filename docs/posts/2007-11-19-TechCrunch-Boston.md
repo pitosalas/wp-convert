@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-11-19
 ---
 
+**Link: [TechCrunch Boston](None):** ""
+
+
+
 Two nights ago, Friday, I got to go to the **[TechCrunch Boston
 party](<http://www.techcrunch.com/2007/11/16/highlights-for-tonights-
 techcrunch-meetup-in-boston/>)** at The Estate in Boston (which oddly enough
@@ -32,4 +36,3 @@ people in one evening, especially if you aren't counting the winks and nods.
 And by the way, what's all this winking you're doing anyway? 🙂
 
 
-* **Link to site:** **[TechCrunch Boston](None)**

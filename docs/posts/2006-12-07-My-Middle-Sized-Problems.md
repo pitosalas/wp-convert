@@ -4,7 +4,11 @@ author: Pito Salas
 date: 2006-12-07
 ---
 
-Check out [this  
+**Link: [My Middle-Sized Problems](None):** ""
+
+
+>
+> Check out [this  
 >
 > post](<http://dilbertblog.typepad.com/the_dilbert_blog/2006/12/my_middlesized_.html>)
 > from [The  
@@ -16,4 +20,3 @@ Check out [this
 > Funny as usual! You should really follow this blog!
 
 
-* **Link to site:** **[My Middle-Sized Problems](None)**

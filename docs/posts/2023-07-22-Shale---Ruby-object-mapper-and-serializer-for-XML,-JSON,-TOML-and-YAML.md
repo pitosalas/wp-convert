@@ -14,8 +14,6 @@ tags:
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.shalerb.org%2F>
 
+**Link: [Shale - Ruby object mapper and serializer for XML, JSON, TOML and YAML](https://www.shalerb.org/):** "Shale - Ruby object mapper and serializer for XML, JSON and YAML"
+
 A pretty amazing, super useful package.
-
-* **Web site excerpt:** Shale - Ruby object mapper and serializer for XML, JSON and YAML
-
-* **Link to site:** **[Shale - Ruby object mapper and serializer for XML, JSON, TOML and YAML](https://www.shalerb.org/)**

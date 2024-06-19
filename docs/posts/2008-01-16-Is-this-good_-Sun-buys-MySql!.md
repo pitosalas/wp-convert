@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-01-16
 ---
 
+**Link: [Is this good? Sun buys MySql!](None):** ""
+
+
+
 From the [Wall Street
 Journal:](<http://online.wsj.com/article/SB120049014746494511.html?mod=hps_us_whats_news>)
 
@@ -26,4 +30,3 @@ Journal:](<http://online.wsj.com/article/SB120049014746494511.html?mod=hps_us_wh
 > about-tearing-down-wsjcoms-subscription-wall/>)
 
 
-* **Link to site:** **[Is this good? Sun buys MySql!](None)**

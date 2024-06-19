@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-03-20
 ---
 
+**Link: [Put Down Your #2 Pencils And Use Your .EDU Email To Get Free TimesSelect](None):** ""
+
+
+
 Check out [this post](<http://consumerist.com/consumer/free-stuff/put-down-
 your-2-pencils-and-use-your-edu-email-to-get-free-timesselect-245560.php>)
 from [Consumerist](<http://www.consumerist.com>):
@@ -21,4 +25,3 @@ email. Of course you probably can afford to pay for a New York Times
 subscription 🙂
 
 
-* **Link to site:** **[Put Down Your #2 Pencils And Use Your .EDU Email To Get Free TimesSelect](None)**

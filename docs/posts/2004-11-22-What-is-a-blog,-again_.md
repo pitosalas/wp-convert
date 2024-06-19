@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-11-22
 ---
 
-My answer to the question: **" What is a Blog", **which I get asked often,
+**Link: [What is a blog, again?](None):** ""
+
+
+>>
+
+>> My answer to the question: **" What is a Blog", **which I get asked often,
 goes something like this:
 
 >>
@@ -37,4 +42,3 @@ saw, what he thought about it at the time and now, and how it has unfolded for
 him.
 
 
-* **Link to site:** **[What is a blog, again?](None)**

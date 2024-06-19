@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-12-23
 ---
 
+**Link: [Some great links for  12/24/2018](None):** ""
+
+
+
   * [André Staltz - JavaScript Getter-Setter Pyramid](<https://staltz.com/javascript-getter-setter-pyramid.html>)
 
 Really excellent explanation of all the different ways functions can be used
@@ -18,4 +22,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  12/24/2018](None)**

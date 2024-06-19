@@ -9,6 +9,10 @@ tags:
     - impact
 ---
 
+**Link: [Make it matter](None):** ""
+
+
+
 Chris Shipley of Guidewire Group has a [great post bemoaning how entrepreneurs
 are driven to invest their time and energy and (other peoples' money) on more
 and more vacuous projects:](<http://guidewiregroup.com/2011/11/make-it-
@@ -42,4 +46,3 @@ give them more of that. If it doesn't work then try something else.)
 What we asked for.
 
 
-* **Link to site:** **[Make it matter](None)**

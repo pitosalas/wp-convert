@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-09-27
 ---
 
+**Link: [Some great links for  09/28/2019](None):** ""
+
+
+
   * [Goodhart’s Law: Are Academic Metrics Being Gamed?](<https://thegradient.pub/over-optimization-of-academic-publishing-metrics/>)
 
 Interesting trends in scholarly work, references, citations and academic
@@ -19,4 +23,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  09/28/2019](None)**

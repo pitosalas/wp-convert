@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-12-26
 ---
 
+**Link: [Some great links for  12/27/2018](None):** ""
+
+
+
   * [Deep Rails: How to use Abstract Classes](<https://link.medium.com/qwR3chzoYS>)
 
 Interesting Rails abstract classes feature
@@ -24,4 +28,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  12/27/2018](None)**

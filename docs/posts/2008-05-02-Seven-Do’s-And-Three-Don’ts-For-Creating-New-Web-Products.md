@@ -6,6 +6,10 @@ tags:
     - techno-taglogy-product-entrepreneurship-startup
 ---
 
+**Link: [Seven Do’s And Three Don’ts For Creating New Web Products](None):** ""
+
+
+
 [Seven Do’s And Three Don’ts For Creating New Web
 Products](<http://feeds.feedburner.com/~r/WhyDoesEverythingSuck/~3/281422506/seven-
 dos-and-three-donts-for-creating.html>) contains some excellent **Do 's and
@@ -30,4 +34,3 @@ dos-and-three-donts-for-creating.html>) from [Why does everything
 suck?](<http://whydoeseverythingsuck.com/feeds/posts/default>):
 
 
-* **Link to site:** **[Seven Do’s And Three Don’ts For Creating New Web Products](None)**

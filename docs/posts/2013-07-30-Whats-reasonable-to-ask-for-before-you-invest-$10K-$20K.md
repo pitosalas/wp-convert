@@ -8,6 +8,10 @@ tags:
     - seed-investing
 ---
 
+**Link: [Whats reasonable to ask for before you invest $10K-$20K](None):** ""
+
+
+
 A couple of entrepreneurs asked me whether I'd be interested in investing in
 their project at a very early stage. The question arose, what kind of
 information would I need (and by extension would any other potential angel
@@ -23,4 +27,3 @@ need) to see before even considering this?
 Hmm. Am I asking too many questions for a 'mere' $10,000?
 
 
-* **Link to site:** **[Whats reasonable to ask for before you invest $10K-$20K](None)**

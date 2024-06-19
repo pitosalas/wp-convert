@@ -4,11 +4,16 @@ author: Pito Salas
 date: 2004-02-27
 ---
 
-**Real Virtual Reality! (Demo 2004 Series - 6)** I am not clear as to whether
-[Total Immersion](<http://www.t-immersion.com/>) is a product, company,
-research product or what. But they had the most compelling and memorable
-technology demonstration. It was an amazing virtual reality experience of what
-they called **“augmented reality. "**
+**Link: [Real Virtual Reality! (Demo 2004](None):** ""
+
+
+>>
+
+>> **Real Virtual Reality! (Demo 2004 Series - 6)** I am not clear as to
+whether [Total Immersion](<http://www.t-immersion.com/>) is a product,
+company, research product or what. But they had the most compelling and
+memorable technology demonstration. It was an amazing virtual reality
+experience of what they called  **“augmented reality. "**
 
 >>
 
@@ -36,4 +41,3 @@ blown away. I can't say if one **' versed in the art'** would have thought the
 same or been bored.
 
 
-* **Link to site:** **[Real Virtual Reality! (Demo 2004](None)**

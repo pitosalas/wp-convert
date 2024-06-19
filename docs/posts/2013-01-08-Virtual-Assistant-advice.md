@@ -6,6 +6,10 @@ tags:
     - virtual-assistant
 ---
 
+**Link: [Virtual Assistant advice](None):** ""
+
+
+
 I have a regular need for a small project to be done, a little bit of
 research, some following up on projects and so on. I've thought about using a
 "Virtual Assistant" for this but there is now so much noise in the area that
@@ -20,4 +24,3 @@ Any feedback on your experiences or thoughts about this would be really
 interesting!
 
 
-* **Link to site:** **[Virtual Assistant advice](None)**

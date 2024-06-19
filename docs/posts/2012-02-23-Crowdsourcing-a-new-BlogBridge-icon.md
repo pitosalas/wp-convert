@@ -11,6 +11,10 @@ tags:
     - logo
 ---
 
+**Link: [Crowdsourcing a new BlogBridge icon](None):** ""
+
+
+
 Well, it's been about 5 years with the same (lovely) BlogBridge application
 icon and as we are redesigning the web site and releasing a major new release
 of the product, we thought, hey, it's time to update the icon to something,
@@ -40,4 +44,3 @@ So far I am liking **99designs.com** the best. But if you have suggestions,
 please send them to me!
 
 
-* **Link to site:** **[Crowdsourcing a new BlogBridge icon](None)**

@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2020-06-10
 ---
 
+**Link: [Some great links for  06/11/2020](None):** ""
+
+
+
   * [CS81 Fall 2017](<https://www.cs.swarthmore.edu/~meeden/cs81/f17/>)
 
 Robotics Course that looks great
@@ -23,4 +27,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  06/11/2020](None)**

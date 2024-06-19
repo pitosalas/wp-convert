@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-10-12
 ---
 
+**Link: [Some great links for  10/13/2019](None):** ""
+
+
+
   * [Postgres Is Underrated—It Handles More than You Think - DEV Community ](<https://dev.to/heroku/postgres-is-underrated-it-handles-more-than-you-think-4ff3?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email>)
 
 Really great rundown of less known features of Postgres!
@@ -17,4 +21,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  10/13/2019](None)**

@@ -7,6 +7,10 @@ tags:
     - mission-tag
 ---
 
+**Link: [Corporate doublespeak or inspiration?](None):** ""
+
+
+
 Maybe I've been out of the corporate world for too long. And I do wish
 Microsoft well because Google and Facebook and others need competition so they
 don't totally ruin our world. So I read with interest [Satya Nadella's email
@@ -37,4 +41,3 @@ received this as a way to get me excited and feeling that there was renewed
 focus in the company. Well, meh.
 
 
-* **Link to site:** **[Corporate doublespeak or inspiration?](None)**

@@ -12,6 +12,10 @@ tags:
     - watching
 ---
 
+**Link: [The Cloud is Watching You](None):** ""
+
+
+
 It's obvious if you think about it, but this article drives some points home.
 If you use some kind of web service to read, listen, watch, charge, use,
 borrow or share stuff, that company not only knows what you've (read, listened
@@ -43,4 +47,3 @@ track-habits-the-e-books-are-reading-you.html>):
 > fastest of all.
 
 
-* **Link to site:** **[The Cloud is Watching You](None)**

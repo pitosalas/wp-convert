@@ -9,6 +9,10 @@ tags:
     - youth
 ---
 
+**Link: [Why You Want To Be A Learn-it-All](None):** ""
+
+
+
 A provocatively titled article ([Why Youth Has an Advantage In
 Innovation)](<http://abovethecrowd.com/2012/03/26/why-youth-has-an-advantage-
 in-innovation-why-you-want-to-be-a-learn-it-all/>) argues that to innovate you
@@ -71,11 +75,10 @@ believe this:
 > "f you want to stay “young” and innovative, you have no choice but to
 > immerse yourself in the emerging tools of the current and next generation.
 > You MUST stay current, as it is illusionary to imagine being innovative
-> without being current." (**From** [Why You Want to Be A Learn-it-
+> without being current." ( **From** [Why You Want to Be A Learn-it-
 > All](<http://abovethecrowd.com/2012/03/26/why-youth-has-an-advantage-in-
 > innovation-why-you-want-to-be-a-learn-it-all/>)
 
 [](<http://abovecrowd.files.wordpress.com/2012/03/gboro1xrgb.jpeg>)
 
 
-* **Link to site:** **[Why You Want To Be A Learn-it-All](None)**

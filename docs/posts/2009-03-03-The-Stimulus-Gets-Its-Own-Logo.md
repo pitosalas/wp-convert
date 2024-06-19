@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2009-03-03
 ---
 
+**Link: [The Stimulus Gets Its Own Logo](None):** ""
+
+
+
 Check out this post [The Stimulus Gets Its Own
 Logo](<http://feedproxy.google.com/~r/clusterstock/~3/S3OuWiYTLfc/the-
 stimulus-gets-its-own-logo-2009-3>):
@@ -19,4 +23,3 @@ stimulus-gets-its-own-logo-2009-3>):
 > own for the National Recovery Administration. Obama's is far less fascist."
 
 
-* **Link to site:** **[The Stimulus Gets Its Own Logo](None)**

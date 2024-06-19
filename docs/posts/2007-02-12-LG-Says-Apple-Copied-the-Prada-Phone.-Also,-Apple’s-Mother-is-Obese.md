@@ -4,9 +4,12 @@ author: Pito Salas
 date: 2007-02-12
 ---
 
-Actually the funniest part of this was the headline… **" Also, Apple's Mother
-is Obese"**
+**Link: [LG Says Apple Copied the Prada Phone. Also, Apple’s Mother is Obese](None):** ""
 
+
+>
+> Actually the funniest part of this was the headline… **" Also, Apple's
+> Mother is Obese"**
 >
 > Check out [this post](<http://gizmodo.com/gadgets/cellphones/lg-says-apple-
 > copied-the-prada-phone-also-apples-mother-is-obese-235933.php>) from
@@ -25,9 +28,8 @@ when it was presented in the iF Design Award and won the prize in September
 
 >
 
->> (**from** : [LG Says Apple Copied the Prada Phone. Also, Apple's Mother is
+>> ( **from** : [LG Says Apple Copied the Prada Phone. Also, Apple's Mother is
 Obese](<http://gizmodo.com/gadgets/cellphones/lg-says-apple-copied-the-prada-
 phone-also-apples-mother-is-obese-235933.php>))
 
 
-* **Link to site:** **[LG Says Apple Copied the Prada Phone. Also, Apple’s Mother is Obese](None)**

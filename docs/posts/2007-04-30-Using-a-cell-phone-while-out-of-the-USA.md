@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-04-30
 ---
 
+**Link: [Using a cell phone while out of the USA](None):** ""
+
+
+
 Lately, for some crazy reason, I've found myself, multiple times, in Toronto,
 Canada, and Willemstad Curaçao. My Sprint phone doesn't work in either place.
 As luck would have it, my Sprint contract is about to expire and so I am
@@ -21,4 +25,3 @@ From reading these, T-Mobile seems to be the right choice for me and where I
 live. Do you use T-Mobile? How do you like it?
 
 
-* **Link to site:** **[Using a cell phone while out of the USA](None)**

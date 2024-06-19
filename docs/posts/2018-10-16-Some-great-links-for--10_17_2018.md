@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-10-16
 ---
 
+**Link: [Some great links for  10/17/2018](None):** ""
+
+
+
   * [alexmojaki/birdseye](<https://github.com/alexmojaki/birdseye>)
 
 This looks amazing, for teaching.
@@ -16,4 +20,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  10/17/2018](None)**

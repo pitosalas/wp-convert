@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-03-03
 ---
 
+**Link: [Some great links for  03/04/2019](None):** ""
+
+
+
   * [80 Characters per Line Is a Standard Worth Sticking to Even Today](<https://nickjanetakis.com/blog/80-characters-per-line-is-a-standard-worth-sticking-to-even-today>)
 
 tags: [characters](<https://www.diigo.com/user/pitosalas/characters>)
@@ -16,4 +20,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  03/04/2019](None)**

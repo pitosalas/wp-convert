@@ -4,9 +4,14 @@ author: Pito Salas
 date: 2004-07-02
 ---
 
-Did you know that you (or your teenager) can buy cool new ring tones for their
-cell phone? They cost a buck or two and are quite the rage, especially in
-countries other than the US 🙂 You probably knew this.
+**Link: [Downloadable Car Horn Sounds!?](None):** ""
+
+
+>>
+
+>> Did you know that you (or your teenager) can buy cool new ring tones for
+their cell phone? They cost a buck or two and are quite the rage, especially
+in countries other than the US 🙂 You probably knew this.
 
 >>
 
@@ -37,4 +42,3 @@ for your horn? How about a Star Trek Condition-Red Claxon?
 >> It could happen… 🙂
 
 
-* **Link to site:** **[Downloadable Car Horn Sounds!?](None)**

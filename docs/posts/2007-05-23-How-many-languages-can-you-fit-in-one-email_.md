@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-05-23
 ---
 
+**Link: [How many languages can you fit in one email?](None):** ""
+
+
+
 Here's an email I received recently. How many different languages do you
 count?
 
@@ -16,4 +20,3 @@ count?
 > Chag Sameach (Shavuot)"
 
 
-* **Link to site:** **[How many languages can you fit in one email?](None)**

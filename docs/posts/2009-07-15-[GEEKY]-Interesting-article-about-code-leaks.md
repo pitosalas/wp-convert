@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2009-07-15
 ---
 
+**Link: [[GEEKY] Interesting article about code leaks](None):** ""
+
+
+
 [Check out this interesting case study of how one awful memory leak was
 tracked down and killed](<http://codehappy.wordpress.com/2007/01/17/tracking-
 a-memory-leak-in-rails/>):
@@ -12,7 +16,7 @@ a-memory-leak-in-rails/>):
 > development framework, spent thousands of person-hours developing your
 > application and then find a memory leak. Worse yet, you’ve got a memory leak
 > in an interpreted scripting environment where you have little to no control
-> over how memory is allocated and managed at runtime." (**from** [Tracking a
+> over how memory is allocated and managed at runtime." ( **from** [Tracking a
 > memory leak in Rails](<http://codehappy.wordpress.com/2007/01/17/tracking-a-
 > memory-leak-in-rails/>))
 
@@ -22,4 +26,3 @@ Technorati Tags: [rails](<http://technorati.com/tag/rails>),
 [programming](<http://technorati.com/tag/programming>)
 
 
-* **Link to site:** **[[GEEKY] Interesting article about code leaks](None)**

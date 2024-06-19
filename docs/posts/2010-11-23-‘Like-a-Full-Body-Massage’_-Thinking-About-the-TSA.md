@@ -4,9 +4,13 @@ author: Pito Salas
 date: 2010-11-23
 ---
 
+**Link: [‘Like a Full-Body Massage’: Thinking About the TSA](None):** ""
+
+
+
 Check out ['Like a Full-Body Massage': Thinking About the
-TSA](<http://feedproxy.google.com/~r/JamesFallows/~3/NNwMNTHc8Kw/click.phdo>)(**from**
-[James Fallows :: The
+TSA](<http://feedproxy.google.com/~r/JamesFallows/~3/NNwMNTHc8Kw/click.phdo>)(
+**from** [James Fallows :: The
 Atlantic](<http://feeds.feedburner.com/jamesfallows?format=xml>):
 
 > "3) The 'zero-risk' mentality vs 'acceptable' risk. Every society accepts
@@ -16,7 +20,7 @@ Atlantic](<http://feeds.feedburner.com/jamesfallows?format=xml>):
 > be to eliminate the activities -- no driving, no drinking, no weapons of any
 > kind, no planes or bikes. While risk/reward tradeoffs vary between, say,
 > Sweden and China, no nation accepts the total social controls that would be
-> necessary to eliminate risk altogether." (**from:**['Like a Full-Body
+> necessary to eliminate risk altogether." ( **from:**['Like a Full-Body
 > Massage': Thinking About the TSA)
 > ](<http://feedproxy.google.com/~r/JamesFallows/~3/NNwMNTHc8Kw/click.phdo>)
 
@@ -28,4 +32,3 @@ there's something about our political discourse that makes taking this
 position a hard one for an actual political 'leader' to espouse.
 
 
-* **Link to site:** **[‘Like a Full-Body Massage’: Thinking About the TSA](None)**

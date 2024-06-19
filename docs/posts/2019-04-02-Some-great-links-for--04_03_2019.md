@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-04-02
 ---
 
+**Link: [Some great links for  04/03/2019](None):** ""
+
+
+
   * [Architecting Ruby on Rails Apps as Microservices | Codeship | via @codeship](<http://blog.codeship.com/architecting-rails-apps-as-microservices/?utm_source=rubyweekly&utm_medium=email>)
 
 Great article about Service Oriented Architectures
@@ -28,4 +32,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  04/03/2019](None)**

@@ -8,6 +8,10 @@ tags:
     - robots
 ---
 
+**Link: [Get someone to clean your gutters for you](None):** ""
+
+
+
 I am not being metaphorical, in fact, I am talking about gutters on your roof.
 A few years ago I wasn't regularly cleaning my gutters and had a close call
 with roof leaks when we had an extensive period of rain and freezing that
@@ -19,4 +23,3 @@ Here's a far more 2013 solution to the same problem. Yes, Robots are no longer
 just for sweeping your living room!
 
 
-* **Link to site:** **[Get someone to clean your gutters for you](None)**

@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-12-06
 ---
 
+**Link: [Once more, why dos’t thou blog?](None):** ""
+
+
+
 [Recently there was a comment to one of my post asking the perennial
 question](</2007/11/26/the-f-word/#comments>) that non-bloggers ask of
 bloggers, (and bloggers ask of themselve all the time too 🙂
@@ -31,4 +35,3 @@ philosophically but just give you my gut responses to these questions:
   3. "How has blogging affected you?" I can't say it has affected me that much. I go through spurts of blogging and not blogging and I always enjoy it. It's kind of my personal scratch pad or notebook of stuff that I want to get out of my head and 'down on paper' and so it's enjoyable. Now that I've been doing it for several years, I have quite a public record on what I care about, believe, am interested in and so on, so, for better or for worse, this blog has become a significant component of my public resumé or reputation.
 
 
-* **Link to site:** **[Once more, why dos’t thou blog?](None)**

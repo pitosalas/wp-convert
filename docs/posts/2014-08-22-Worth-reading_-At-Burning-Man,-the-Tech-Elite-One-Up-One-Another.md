@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2014-08-22
 ---
 
+**Link: [Worth reading: At Burning Man, the Tech Elite One-Up One Another](None):** ""
+
+
+
 ![](https://i0.wp.com/salas.com/wp-
 content/uploads/2014/08/b07d2-1408723086316.jpg?w=584&ssl=1)
 
@@ -13,4 +17,3 @@ amounts of money. The second is pretending they don’t care about that money.
 Link: Link to original
 
 
-* **Link to site:** **[Worth reading: At Burning Man, the Tech Elite One-Up One Another](None)**

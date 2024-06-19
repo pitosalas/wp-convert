@@ -8,6 +8,10 @@ tags:
     - ups
 ---
 
+**Link: [Google’s servers](None):** ""
+
+
+
 From an article about Google's hardware:
 
 > "Google's big surprise: each server has its own 12-volt battery to supply
@@ -22,4 +26,3 @@ There are lots of other choice tidbits about the design of the millions (?) of
 tiny servers that Google uses to run its data centers. Quite interesting.
 
 
-* **Link to site:** **[Google’s servers](None)**

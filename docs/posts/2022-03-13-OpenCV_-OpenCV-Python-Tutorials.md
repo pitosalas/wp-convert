@@ -13,5 +13,6 @@ tags:
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fdocs.opencv.org%2F4.x%2Fd6%2Fd00%2Ftutorial_py_root.html>
 
+**Link: [OpenCV: OpenCV-Python Tutorials](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html):** ""
 
-* **Link to site:** **[OpenCV: OpenCV-Python Tutorials](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)**
+

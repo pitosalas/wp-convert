@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-04-16
 ---
 
-A [good little insight from Rafe Needleman ](<http://reviews-
+**Link: [Area codes become meaningless](None):** ""
+
+
+>>
+
+>> A [good little insight from Rafe Needleman ](<http://reviews-
 zdnet.com.com/AnchorDesk/4520-7297_16-5129645.html>)in his new column over at
 ZDNet.
 
@@ -19,4 +24,3 @@ will be one of those anachronistic telecom terms, like dialing, that doesn't
 mean anything close to what it once did. "_
 
 
-* **Link to site:** **[Area codes become meaningless](None)**

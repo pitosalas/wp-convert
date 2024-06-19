@@ -4,6 +4,12 @@ author: Pito Salas
 date: 2004-11-30
 ---
 
+**Link: [Predicting the future is hard](None):** ""
+
+
+>>
+
+>>
 [![pic59763.jpg](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/archives/pic59763-thumb.jpg?resize=300%2C225)](<https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/archives/pic59763.jpg>)
 
 >>
@@ -34,4 +40,3 @@ site.](<http://www.snopes.com/inboxer/hoaxes/computer.asp>) The big steering
 wheel should have been the tip-off.**
 
 
-* **Link to site:** **[Predicting the future is hard](None)**

@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-09-28
 ---
 
+**Link: [Big Numbers](None):** ""
+
+
+
 Like everyone else, I've been following the drama on Wall Street, Main Street,
 Washington DC and so on.
 
@@ -21,4 +25,3 @@ content/uploads/2008/09/picture-1.png?w=584)
 **Wow!!!!**
 
 
-* **Link to site:** **[Big Numbers](None)**

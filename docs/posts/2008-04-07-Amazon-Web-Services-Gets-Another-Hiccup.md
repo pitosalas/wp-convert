@@ -6,6 +6,10 @@ tags:
     - amazon-tag-amzn-webservices-xml
 ---
 
+**Link: [Amazon Web Services Gets Another Hiccup](None):** ""
+
+
+
 I've wondered and written before about the 'downside' or 'risk' of building
 your application based on one of the excellent SAAS services from Amazon. And
 I do think they are excellent. But check this post [Amazon Web Services Gets
@@ -22,4 +26,3 @@ from [TechCrunch](<http://feeds.feedburner.com/Techcrunch>):
 > of the night."
 
 
-* **Link to site:** **[Amazon Web Services Gets Another Hiccup](None)**

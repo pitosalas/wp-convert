@@ -4,12 +4,16 @@ author: Pito Salas
 date: 2007-05-21
 ---
 
+**Link: [Shamless self-promotion: Improv and moi mentioned in PC Magazine](None):** ""
+
+
+
 PC Magazine's newest issue has a retrospective of their past 25 years and
 Lotus[ Improv gets mentioned for one of the big deals of
 1993](<http://www.pcmag.com/article2/0,1895,2129553,00.asp>). And yes, you can
 see a bad picture of yours truly back in those days.
 
-> "**Innovators: Pito Salas**  
+> " **Innovators: Pito Salas**  
 >
 >
 > // Set slideShowSpeed (milliseconds) var slideShowSpeed = 3000 // Duration
@@ -25,13 +29,23 @@ see a bad picture of yours truly back in those days.
 >
 > (p-1)) j=0 t = setTimeout(\'runSlideShow()\', slideShowSpeed) } //->
 >
-> ![](https://i0.wp.com/www.pcmag.com/images/pcm_spacer.gif?resize=10%2C1) | ![](https://i0.wp.com/www.pcmag.com/images/pcm_spacer.gif?resize=2%2C1) | SLIDESHOW | ![](https://i0.wp.com/www.pcmag.com/images/pcm_spacer.gif?resize=2%2C1)  
+> ![](https://i0.wp.com/www.pcmag.com/images/pcm_spacer.gif?resize=10%2C1)
+>
+> | ![](https://i0.wp.com/www.pcmag.com/images/pcm_spacer.gif?resize=2%2C1)
+>
+> | SLIDESHOW
+>
+> | ![](https://i0.wp.com/www.pcmag.com/images/pcm_spacer.gif?resize=2%2C1)  
+>  
 > ---|---|---|---  
 >  
 >
 > [![](https://i0.wp.com/common.ziffdavisinternet.com/util_get_image/17/0,1425,i=175289,00.gif?resize=85%2C85)](<http://www.pcmag.com/slideshow_viewer/0,1205,l=207390&p=1&s=27550&a=207389&po=1&i=1,00.asp?p=y>)  
 >  
-> [Slideshow](<http://www.pcmag.com/slideshow_viewer/0,1205,l=207390&p=1&s=27550&a=207389&po=1&i=1,00.asp?p=y>) | [All Shots](<http://www.pcmag.com/slideshow/0,1206,l=207390&s=27550&a=207389,00.asp>)  
+>
+> [Slideshow](<http://www.pcmag.com/slideshow_viewer/0,1205,l=207390&p=1&s=27550&a=207389&po=1&i=1,00.asp?p=y>)
+> | [All
+> Shots](<http://www.pcmag.com/slideshow/0,1206,l=207390&s=27550&a=207389,00.asp>)  
 >  
 > ![](https://i0.wp.com/www.pcmag.com/images/pcm_spacer.gif?resize=1%2C10)  
 >  
@@ -46,4 +60,3 @@ see a bad picture of yours truly back in those days.
 Yeah its a few years ago… but still, pretty cool!
 
 
-* **Link to site:** **[Shamless self-promotion: Improv and moi mentioned in PC Magazine](None)**

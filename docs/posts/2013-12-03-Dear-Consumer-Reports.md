@@ -8,6 +8,10 @@ tags:
     - subscription-tags
 ---
 
+**Link: [Dear Consumer Reports](None):** ""
+
+
+
 From an email I sent, just because:
 
 > "Dear CU:
@@ -39,4 +43,3 @@ From an email I sent, just because:
 > Pito Salas, longtime subscriber."
 
 
-* **Link to site:** **[Dear Consumer Reports](None)**

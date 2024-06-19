@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-04-16
 ---
 
+**Link: [Some great links for  04/16/2018](None):** ""
+
+
+
   * [Top 5 Python IDEs For Data Science (article) - DataCamp](<https://www.datacamp.com/community/tutorials/data-science-python-ide>)
 
 Nice overview of choices of IDEs for Python and data science
@@ -68,4 +72,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  04/16/2018](None)**

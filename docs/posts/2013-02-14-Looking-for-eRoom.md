@@ -8,6 +8,10 @@ tags:
     - eroom
 ---
 
+**Link: [Looking for eRoom](None):** ""
+
+
+
 Long time ago I worked at a company called eRoom Technology where we developed
 a product called… eRoom. It was pretty successful and it was bought by a
 company called
@@ -24,4 +28,3 @@ sheet/h4690-documentum-centerstage-ds.pdf>) Or is that something else?
 exist? Or is the only thing left [eRoom.net](<http://www.eroom.net>)?
 
 
-* **Link to site:** **[Looking for eRoom](None)**

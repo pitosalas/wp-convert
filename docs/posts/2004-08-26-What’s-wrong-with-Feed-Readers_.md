@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-08-26
 ---
 
-Here are two very interesting posts on the question of Feed Readers:
+**Link: [What’s wrong with Feed Readers?](None):** ""
+
+
+>>
+
+>> Here are two very interesting posts on the question of Feed Readers:
 
 >>
 
@@ -25,4 +30,3 @@ the ideas mentioned here are already planned for BlogBridge, but there are
 lots of good tidbits to insipre further work!
 
 
-* **Link to site:** **[What’s wrong with Feed Readers?](None)**

@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-05-27
 ---
 
+**Link: [Dave (not that one) writes about Fear of Failure](None):** ""
+
+
+
 I just came across [Dave Dupre's blog](<http://davedupre.com>). Some good
 reading there, for example:
 
@@ -22,4 +26,3 @@ Technorati Tags: [softwaredevelopment
 management](<http://technorati.com/tag/softwaredevelopment%20management>)
 
 
-* **Link to site:** **[Dave (not that one) writes about Fear of Failure](None)**

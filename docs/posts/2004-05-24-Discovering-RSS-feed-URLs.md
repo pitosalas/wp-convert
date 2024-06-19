@@ -4,8 +4,14 @@ author: Pito Salas
 date: 2004-05-24
 ---
 
-[Scoble ](<http://scoble.weblogs.com/>)bemoans the fact that folks aren't all
-using the XML Icon, and he cites [Random Bytes.](<http://www.byte.org/blog>)
+**Link: [Discovering RSS feed URLs](None):** ""
+
+
+>>
+
+>> [Scoble ](<http://scoble.weblogs.com/>)bemoans the fact that folks aren't
+all using the XML Icon, and he cites [Random
+Bytes.](<http://www.byte.org/blog>)
 
 >>
 
@@ -47,4 +53,3 @@ for Random Bytes
 >> What is a user to do now?
 
 
-* **Link to site:** **[Discovering RSS feed URLs](None)**

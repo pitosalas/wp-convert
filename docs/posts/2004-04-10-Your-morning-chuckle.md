@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-04-10
 ---
 
-[Thanks to Chris Shipley for this
+**Link: [Your morning chuckle](None):** ""
+
+
+>>
+
+>> [Thanks to Chris Shipley for this
 link](<http://cshipley.typepad.com/chris_shipley_group/2004/04/truth_fiction_r.html>),
 and you can read her post for the thoughtful commentary on this.
 
@@ -14,4 +19,3 @@ and you can read her post for the thoughtful commentary on this.
 Chicken](<http://subservientchicken.com/>)
 
 
-* **Link to site:** **[Your morning chuckle](None)**

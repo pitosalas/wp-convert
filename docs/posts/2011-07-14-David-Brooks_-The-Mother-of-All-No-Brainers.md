@@ -7,6 +7,10 @@ tags:
     - nyt
 ---
 
+**Link: [David Brooks: The Mother of All No-Brainers](None):** ""
+
+
+
 Another on the mark article by [David Brooks: the mother of all no
 brainers](<http://www.nytimes.com/2011/07/05/opinion/05brooks.html?_r=1&src=ISMR_HP_LI_LST_FB>).
 
@@ -30,4 +34,3 @@ acting like children:
 > And they will be right.
 
 
-* **Link to site:** **[David Brooks: The Mother of All No-Brainers](None)**

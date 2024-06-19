@@ -8,6 +8,10 @@ tags:
     - indexing
 ---
 
+**Link: [Sinking in a sea of documents](None):** ""
+
+
+
 Lately because of one of my projects I am having to work my way through a
 bunch of long, semi structured documents containing things such as requests
 for proposals, government program reports, threat models and all kinds of
@@ -31,4 +35,3 @@ indexing, document comprehension or structured searching.
 Any suggested leads or ideas?
 
 
-* **Link to site:** **[Sinking in a sea of documents](None)**

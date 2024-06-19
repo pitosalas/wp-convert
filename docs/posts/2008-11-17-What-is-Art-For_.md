@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-11-17
 ---
 
+**Link: [What is Art For?](None):** ""
+
+
+
 A really [good article in the New York Times Magazine today about Lewis
 Hyde](<http://www.nytimes.com/2008/11/16/magazine/16hyde-t.html>). I had not
 heard of [Lewis Hyde](<http://www.lewishyde.com>) before. First of all, the
@@ -46,4 +50,3 @@ and much more:
 Good stuff.
 
 
-* **Link to site:** **[What is Art For?](None)**

@@ -13,8 +13,6 @@ tags:
 ---
 <img class="cover" src=https://miro.medium.com/max/966/1*E6mawimDo0ztAtm1TMvXrw.png>
 
+**Link: [Creating A Modern Python Development Environment](https://link.medium.com/JW0ZwTUGupb):** "This blog post demonstrates how I set up and configure my Python development environment using pyenv and Poetry."
 
 
-* **Web site excerpt:** This blog post demonstrates how I set up and configure my Python development environment using pyenv and Poetry.
-
-* **Link to site:** **[Creating A Modern Python Development Environment](https://link.medium.com/JW0ZwTUGupb)**

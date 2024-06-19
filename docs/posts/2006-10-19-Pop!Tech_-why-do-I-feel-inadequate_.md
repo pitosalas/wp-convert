@@ -4,9 +4,12 @@ author: Pito Salas
 date: 2006-10-19
 ---
 
-Ok, [Pop!Tech](<http://onsite.poptech.org/>) is a wonderful conference,
-already, and I am learning and stimulated and all that.
+**Link: [Pop!Tech: why do I feel inadequate?](None):** ""
 
+
+>
+> Ok, [Pop!Tech](<http://onsite.poptech.org/>) is a wonderful conference,
+> already, and I am learning and stimulated and all that.
 >
 > But why, oh why, is everyone an author, thinker, serial entrepreneur,
 > extraordinary, world renowned, and inimitable? Inventor, artist, composer,
@@ -18,4 +21,3 @@ already, and I am learning and stimulated and all that.
 > Technorati Tags: [poptech](<http://technorati.com/tag/poptech>)
 
 
-* **Link to site:** **[Pop!Tech: why do I feel inadequate?](None)**

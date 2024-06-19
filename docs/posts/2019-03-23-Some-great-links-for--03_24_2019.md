@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-03-23
 ---
 
+**Link: [Some great links for  03/24/2019](None):** ""
+
+
+
   * [Redis streams as a pure data structure](<http://antirez.com/news/128>)
 
 Really really interesting use case for REDIS, and a great scalability pattern
@@ -27,4 +31,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  03/24/2019](None)**

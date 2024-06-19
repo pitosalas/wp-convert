@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-04-11
 ---
 
+**Link: [Some great links for  04/11/2018](None):** ""
+
+
+
   * [Regexper](<https://regexper.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn>)
 
 tags: [regexp](<https://www.diigo.com/user/pitosalas/regexp>)
@@ -24,4 +28,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  04/11/2018](None)**

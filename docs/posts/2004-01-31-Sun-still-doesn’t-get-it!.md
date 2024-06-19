@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-01-31
 ---
 
-**Sun still doesn 't get it! **Ouch this hurts. The UI below is what the
+**Link: [Sun still doesn’t get it!](None):** ""
+
+
+>>
+
+>> **Sun still doesn 't get it! **Ouch this hurts. The UI below is what the
 vaunted Sun provides to Windows users as their standard "Java Web Start"
 Experience -- the latest release of Java no less - fresh off the presses.  
 >
@@ -42,4 +47,3 @@ experience?
 javawebstart.jpg](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/images/2004/01/30/javawebstart.jpg?resize=420%2C290)
 
 
-* **Link to site:** **[Sun still doesn’t get it!](None)**

@@ -7,6 +7,10 @@ tags:
     - testing
 ---
 
+**Link: [MiniTest – Writing Test Code In Ruby (2/3)](None):** ""
+
+
+
 [ MiniTest - Writing Test Code In Ruby
 (2/3)](<https://dev.to/exampro/minitest-writing-test-code-in-ruby-
 part-2-of-3-4306>)
@@ -17,4 +21,3 @@ suggest starting at Part 1….
 March 4, 2022 at 02:54PM
 
 
-* **Link to site:** **[MiniTest – Writing Test Code In Ruby (2/3)](None)**

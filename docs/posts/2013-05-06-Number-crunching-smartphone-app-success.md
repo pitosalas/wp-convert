@@ -10,6 +10,10 @@ tags:
     - statistics
 ---
 
+**Link: [Number crunching smartphone app success](None):** ""
+
+
+
 Here's my five-step plan for world domination:
 
 1\. I am creating a **comprehensive taxonomy** of characteristics of
@@ -56,4 +60,3 @@ equation-of-a-hit-film-script-with-data.html?_r=0>):
 
 
 
-* **Link to site:** **[Number crunching smartphone app success](None)**

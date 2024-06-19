@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-12-07
 ---
 
+**Link: [Joel on Software talks about Malcolm Gladwell and Tom Friedman](None):** ""
+
+
+
 There have been a number of articles taking shots at some of Malcolm
 Gladwell's latest book, "Outliers". No doubt Mr. Gladwell is really good at
 getting visibility for his books and has hit upon a formula with The Tipping
@@ -74,4 +78,3 @@ himself (or Himself) is falling into this trap himself:
 malcolmgladwell](<http://technorati.com/tag/joelonsoftware%20thomasfriedman%20malcolmgladwell>)
 
 
-* **Link to site:** **[Joel on Software talks about Malcolm Gladwell and Tom Friedman](None)**

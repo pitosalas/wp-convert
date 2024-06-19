@@ -7,6 +7,10 @@ tags:
     - ruby
 ---
 
+**Link: [Ruby Internals](None):** ""
+
+
+
 Here's an interesting article about how Ruby (the programming language not the
 gem) is interpretted or compiled. (It's funny to contemplate what that
 question might mean to someone who thinks we are talking about a gem and not a
@@ -29,4 +33,3 @@ compiled>). Here's a quote to give you a taste:
 > compiled>))
 
 
-* **Link to site:** **[Ruby Internals](None)**

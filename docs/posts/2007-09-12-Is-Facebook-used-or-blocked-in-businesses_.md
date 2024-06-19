@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-09-12
 ---
 
+**Link: [Is Facebook used or blocked in businesses?](None):** ""
+
+
+
 It's hard to get good data on this, and I keep get wildly varying opinions. I
 haven't fully formed my own yet, but here's another data point:
 
@@ -16,4 +20,3 @@ haven't fully formed my own yet, but here's another data point:
 What do you think?
 
 
-* **Link to site:** **[Is Facebook used or blocked in businesses?](None)**

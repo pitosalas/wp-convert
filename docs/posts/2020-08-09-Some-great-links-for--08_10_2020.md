@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2020-08-09
 ---
 
+**Link: [Some great links for  08/10/2020](None):** ""
+
+
+
   * [full featured html embeddable spreadsheet](<https://github.com/mengshukeji/Luckysheet>)
 
 tags: [howto](<https://www.diigo.com/user/pitosalas/howto>)
@@ -22,4 +26,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  08/10/2020](None)**

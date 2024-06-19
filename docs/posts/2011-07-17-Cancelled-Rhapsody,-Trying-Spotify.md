@@ -7,6 +7,10 @@ tags:
     - spotify
 ---
 
+**Link: [Cancelled Rhapsody, Trying Spotify](None):** ""
+
+
+
 As I said in the previous post, I am a bit of a promiscuous signer upper. From
 a cursory look, Rhapsody and Spotify are fairly similar. They both charge $10
 per month for unlimited listening to all kinds of music. I saw a few blog
@@ -24,4 +28,3 @@ to set up and play with.
 I will report back!
 
 
-* **Link to site:** **[Cancelled Rhapsody, Trying Spotify](None)**

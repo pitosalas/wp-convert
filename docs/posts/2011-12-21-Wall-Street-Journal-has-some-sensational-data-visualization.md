@@ -10,6 +10,10 @@ tags:
     - wsj
 ---
 
+**Link: [Wall Street Journal has some sensational data visualization](None):** ""
+
+
+
 I don't know if you need [an account to see the amazingly useful, elegant and
 well implemented bit of data visualization in the Wall Street
 Journa](<http://projects.wsj.com/campaign2012/polls#cand=Gingrich&race=21&region=IA&src=rcpo>)l.
@@ -21,4 +25,3 @@ sliced in all kinds of ways that are useful and easy to use. Well done WSJ!
 content/uploads/2011/12/4ae19-screen20shot202011-12-2120at209-22-4520am.png?resize=584%2C530&ssl=1)
 
 
-* **Link to site:** **[Wall Street Journal has some sensational data visualization](None)**

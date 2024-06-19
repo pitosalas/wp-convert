@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-03-11
 ---
 
-We made some major new progress since the last update.
+**Link: [BlogBridge Major architectural progress](None):** ""
+
+
+>>
+
+>> We made some major new progress since the last update.
 
 >>
 
@@ -38,4 +43,3 @@ bar and tie all the commands either to the command bar or the right click
 menu.
 
 
-* **Link to site:** **[BlogBridge Major architectural progress](None)**

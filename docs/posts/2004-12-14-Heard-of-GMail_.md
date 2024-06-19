@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-12-14
 ---
 
-There are many interesting things about
+**Link: [Heard of GMail?](None):** ""
+
+
+>>
+
+>> There are many interesting things about
 [GMail](<http://gmail.google.com/gmail>), so this is either going to be a long
 post or one of a series. First things first: **GMail is now my primary email
 provider**. Yes, you heard that right. It's free, does a great job with spam
@@ -39,7 +44,7 @@ well as into the phone. **Sweet**!
 
 >> GMail, with no training, was catching spam with what feels like **99%**
 accuracy. Other than that, my Outlook experience is unchanged, and my Treo
-phone based email is much much better (no spam.)_I recommend it._
+phone based email is much much better (no spam.) _I recommend it._
 
 >>
 
@@ -48,4 +53,3 @@ service for free? What might their long term stragegy be? Whats the story with
 the GMail invites and how do you get one?
 
 
-* **Link to site:** **[Heard of GMail?](None)**

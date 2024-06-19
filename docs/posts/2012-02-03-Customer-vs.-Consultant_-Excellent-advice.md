@@ -11,6 +11,10 @@ tags:
     - software
 ---
 
+**Link: [Customer vs. Consultant: Excellent advice](None):** ""
+
+
+
 From an article called "[Effective Customer Consultant
 Relationships"](<http://8thlight.github.com/dave-moore/2012/01/20/effective-
 customer-consultant-relationship.html>):
@@ -29,4 +33,3 @@ If you are a tech consultant or are thinking of hiring one, this article has
 some excellent advice.
 
 
-* **Link to site:** **[Customer vs. Consultant: Excellent advice](None)**

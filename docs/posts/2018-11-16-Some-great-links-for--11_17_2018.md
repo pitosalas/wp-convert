@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-11-16
 ---
 
+**Link: [Some great links for  11/17/2018](None):** ""
+
+
+
   * [The Waiting Time Paradox, or, Why Is My Bus Always Late?](<http://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav>)
 
 tags: [random](<https://www.diigo.com/user/pitosalas/random>)
@@ -30,4 +34,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  11/17/2018](None)**

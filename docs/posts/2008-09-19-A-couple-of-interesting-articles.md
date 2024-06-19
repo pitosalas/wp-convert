@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-09-19
 ---
 
+**Link: [A couple of interesting articles](None):** ""
+
+
+
 A very interesting article in Edge.org (by the way, an always interesting
 site.) This one is called [Moral Psychology and the misunderstanding of
 religion:](<http://www.edge.org/3rd_culture/haidt07/haidt07_index.html>)
@@ -42,4 +46,3 @@ are](<http://gregmankiw.blogspot.com/2008/09/pigovian-slippery-slope.html>):
 > club](<http://www.economics.harvard.edu/faculty/mankiw/files/Smart%20Taxes.pdf>)")
 
 
-* **Link to site:** **[A couple of interesting articles](None)**

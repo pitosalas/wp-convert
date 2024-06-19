@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-06-10
 ---
 
-I know I do! Here's a very concise summary of the syntax that will jog your
+**Link: [[GEEK] Ever get confused about logging.properties formats?](None):** ""
+
+
+>>
+
+>> I know I do! Here's a very concise summary of the syntax that will jog your
 memory when it needs to be jogged!
 
 >>
@@ -13,4 +18,3 @@ memory when it needs to be jogged!
 Sheet](<http://www.johnmunsch.com/projects/Presentations/docs/Log4J/log.properties>)
 
 
-* **Link to site:** **[[GEEK] Ever get confused about logging.properties formats?](None)**

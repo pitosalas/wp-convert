@@ -4,9 +4,12 @@ author: Pito Salas
 date: 2006-11-19
 ---
 
-Yes, every year some wag writes a funny article about carving a turkey, but
-this one is _really_ funny! Among the many chuckles:
+**Link: [If you’ve ever had to carve the Thanksgiving turkey, this will be funny](None):** ""
 
+
+>
+> Yes, every year some wag writes a funny article about carving a turkey, but
+> this one is _really_ funny! Among the many chuckles:
 >
 
 >> All conversation dies when he picks up his weapons. The festive warmth  
@@ -18,4 +21,3 @@ this one is _really_ funny! Among the many chuckles:
 > Globe](<http://www.boston.com/news/local/articles/2006/11/19/carving_out_his_niche/>)
 
 
-* **Link to site:** **[If you’ve ever had to carve the Thanksgiving turkey, this will be funny](None)**

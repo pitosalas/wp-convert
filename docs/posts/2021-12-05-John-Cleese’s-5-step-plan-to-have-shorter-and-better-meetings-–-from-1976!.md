@@ -6,6 +6,10 @@ tags:
     - time
 ---
 
+**Link: [John Cleese’s 5-step plan to have shorter and better meetings – from 1976!](None):** ""
+
+
+
 [ John Cleese's 5-step plan to have shorter and better meetings - from
 1976!](<https://youtube.com/watch?v=Ff9V0mISmtk&feature=share>)
 
@@ -32,4 +36,3 @@ Stars: John Cleese, Robert Hardy, Timothy West
 December 5, 2021 at 02:08PM
 
 
-* **Link to site:** **[John Cleese’s 5-step plan to have shorter and better meetings – from 1976!](None)**

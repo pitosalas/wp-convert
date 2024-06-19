@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-04-20
 ---
 
+**Link: [Steve Balmer read my blog (in my dream)](None):** ""
+
+
+
 I've been setting up a new Windows Vista notebook over the last few days for
 use by a non technical user. What a **basket case**. What a disaster. And I am
 referring to Vista not the user 🙂
@@ -27,4 +31,3 @@ to the page saying, and "THIS is from YOUR blog…". I think I might have gotten
 fired in the dream…
 
 
-* **Link to site:** **[Steve Balmer read my blog (in my dream)](None)**

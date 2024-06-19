@@ -4,8 +4,11 @@ author: Pito Salas
 date: 2006-09-27
 ---
 
-If:
+**Link: [Tivo Tidbit](None):** ""
 
+
+>
+> If:
 >
 >   * You happen to have a Tivo
 >
@@ -28,4 +31,3 @@ If:
 > Technorati Tags: [tivo](<http://www.technorati.com/tag/tivo>)
 
 
-* **Link to site:** **[Tivo Tidbit](None)**

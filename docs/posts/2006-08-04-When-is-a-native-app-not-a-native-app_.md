@@ -4,6 +4,8 @@ author: Pito Salas
 date: 2006-08-04
 ---
 
+**Link: [When is a native app not a native app?](None):** ""
+
 Quite interesting analysis (at least to us Geeks) showing that the notion of a
 'WIndows XP' standard or native UI is actually a myth. Read it here: [Prashant
 Deva's blog: How many of your Windows apps use the native Windows
@@ -12,4 +14,3 @@ use.html#comments> "Prashant Deva's blog: How many of your Windows apps use
 the native Windows UI?")
 
 
-* **Link to site:** **[When is a native app not a native app?](None)**

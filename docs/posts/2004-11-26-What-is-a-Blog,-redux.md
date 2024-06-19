@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-11-26
 ---
 
-I just [came across a good
+**Link: [What is a Blog, redux](None):** ""
+
+
+>>
+
+>> I just [came across a good
 summary](<http://www.portalsmag.com/articles/default.asp?ArticleID=6159>) on
 one of our favorite topics from KM Magazine. It was written by [Bill Ives of
 Portals and KM fame:](<http://billives.typepad.com/portals_and_km/>)
@@ -26,4 +31,3 @@ central characteristic, even in the corporate setting."_
 ](<http://www.blogbridge.com>)🙂
 
 
-* **Link to site:** **[What is a Blog, redux](None)**

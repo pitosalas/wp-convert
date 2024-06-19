@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-12-08
 ---
 
-Yesterday I was interviewed about BlogBridge by
+**Link: [BlogBridge interview](None):** ""
+
+
+>>
+
+>> Yesterday I was interviewed about BlogBridge by
 [ClientJava.com](<http://www.clientjava.com/blog/>), a _very useful_ Web site
 for us Java desktop developers. [Check it
 out.](<http://www.clientjava.com/blog/2004/12/07/1102430658000.html>).
@@ -15,4 +20,3 @@ out.](<http://www.clientjava.com/blog/2004/12/07/1102430658000.html>).
 statements about Java Web Start. Here's what I said.
 
 
-* **Link to site:** **[BlogBridge interview](None)**

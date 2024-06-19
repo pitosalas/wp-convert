@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-05-18
 ---
 
-I was scanning [Jon Udell's
+**Link: [Words DO matter](None):** ""
+
+
+>>
+
+>> I was scanning [Jon Udell's
 blog](<http://weblog.infoworld.com/udell/2004/05/17.html>) and came across the
 following:
 
@@ -36,4 +41,3 @@ always fascinated and amused to see just the right/wrong word make all the
 **difference** in the point being made.
 
 
-* **Link to site:** **[Words DO matter](None)**

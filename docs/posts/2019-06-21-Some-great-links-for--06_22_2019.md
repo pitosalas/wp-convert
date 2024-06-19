@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-06-21
 ---
 
+**Link: [Some great links for  06/22/2019](None):** ""
+
+
+
   * [Open-sourcing Sorbet: a fast, powerful type checker for Ruby · Sorbet](<https://sorbet.org/blog/2019/06/20/open-sourcing-sorbet>)
 
 Claims to bring gradual type checking to ruby.
@@ -18,4 +22,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  06/22/2019](None)**

@@ -6,6 +6,10 @@ tags:
     - business20-enterprise20-billives
 ---
 
+**Link: [On the business impact of Web 2.0](None):** ""
+
+
+
 [Bill Ives of the Portals and KM Blog](<http://billives.typepad.com/>) writes
 an interesting two-part article on the business impact of Web 2.0:
 
@@ -31,4 +35,3 @@ acquired by Active Network.
   * [Business Impacts of Web 2.0: Part Two - User Generated Content Success at Little League Baseball](<http://billives.typepad.com/portals_and_km/2007/07/business-impa-1.html>)
 
 
-* **Link to site:** **[On the business impact of Web 2.0](None)**

@@ -4,8 +4,13 @@ author: Pito Salas
 date: 2004-07-26
 ---
 
-[Jon (and many others) really like Bloglines a lot; I recommend his article -
-there's a lot to learn
+**Link: [Jon Udell on Bloglines](None):** ""
+
+
+>>
+
+>> [Jon (and many others) really like Bloglines a lot; I recommend his article
+- there's a lot to learn
 there.](<http://weblog.infoworld.com/udell/2004/07/25.html>)
 
 >>
@@ -59,4 +64,3 @@ left off**.
 >> What do you think?
 
 
-* **Link to site:** **[Jon Udell on Bloglines](None)**

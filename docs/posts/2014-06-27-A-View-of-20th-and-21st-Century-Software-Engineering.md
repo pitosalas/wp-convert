@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2014-06-27
 ---
 
+**Link: [A View of 20th and 21st Century Software Engineering](None):** ""
+
+
+
 I've been digging pretty deep into the Software Engineering literature to
 prepare a new course I am developing and came across this. It's always fun to
 have a top-10 list even in the driest of topics, so here is Barry Boehm's
@@ -71,4 +75,3 @@ For the 2010’s
   * − Don’t believe everything you read. Take a look at the downslope of the Gartner rollercoaster in Figure 10. 
 
 
-* **Link to site:** **[A View of 20th and 21st Century Software Engineering](None)**

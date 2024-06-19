@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-12-18
 ---
 
-I attended a Podcasting meeting at [Berkman
+**Link: [Lightbulb about Podcasting (“Some stuff I just figured out”)](None):** ""
+
+
+>>
+
+>> I attended a Podcasting meeting at [Berkman
 ](<http://cyber.law.harvard.edu/home/>)a [couple of days ago
 ](<http://archive.scripting.com/2004/12/13#When:9:43:04AM>)(see ["The Berkman
 Choir" ](<http://static2.podcatch.com/blogs/gems/snedit/berkmanChoir.mp3>)for
@@ -63,4 +68,3 @@ other multitude of people who decide they want to follow what is being said.
 **Synergy**!
 
 
-* **Link to site:** **[Lightbulb about Podcasting (“Some stuff I just figured out”)](None)**

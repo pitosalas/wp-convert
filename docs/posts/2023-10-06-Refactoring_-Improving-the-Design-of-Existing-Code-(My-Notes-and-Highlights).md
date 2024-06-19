@@ -17,9 +17,7 @@ tags:
 ---
 <img class="cover" src=https://www.akshaykhot.com/content/images/2023/10/refactoring.png>
 
+**Link: [Refactoring: Improving the Design of Existing Code (My Notes and Highlights)](https://www.akshaykhot.com/notes-on-refactoring/?ref=akshays-blog-newsletter):** "I recently re-read Martin Fowler's excellent book on refactoring. It's about improving the design and quality of your code in small steps, without changing external behavior. The book contains detailed descriptions of refactorings, with motivation, mechanics, and an example for each. A must-read."
+
 This book is a classic, and recently they came out with an update using Javascript instead of Java. Here's one person's commentary on that book.
 
-
-* **Web site excerpt:** I recently re-read Martin Fowler's excellent book on refactoring. It's about improving the design and quality of your code in small steps, without changing external behavior. The book contains detailed descriptions of refactorings, with motivation, mechanics, and an example for each. A must-read.
-
-* **Link to site:** **[Refactoring: Improving the Design of Existing Code (My Notes and Highlights)](https://www.akshaykhot.com/notes-on-refactoring/?ref=akshays-blog-newsletter)**

@@ -10,6 +10,10 @@ tags:
     - syntax
 ---
 
+**Link: [Ruby’s Switch Statement is More Flexible Than You Thought](None):** ""
+
+
+
 [ Ruby's Switch Statement is More Flexible Than You Thought](<
 https://www.akshaykhot.com/ruby-switch-statement/>) –Ruby's switch statement
 is very versatile and flexible, especially due to the dynamic nature of Ruby.
@@ -18,4 +22,3 @@ why it works the way it works. Hint: it uses the `===` operator (method) under
 the hood.
 
 
-* **Link to site:** **[Ruby’s Switch Statement is More Flexible Than You Thought](None)**

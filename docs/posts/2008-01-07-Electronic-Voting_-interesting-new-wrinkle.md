@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-01-07
 ---
 
+**Link: [Electronic Voting: interesting new wrinkle](None):** ""
+
+
+
 A lot has been written about electronic voting machines and their
 vulnerabilities.
 
@@ -40,4 +44,3 @@ L. Rivest, who among us geeks is very well known as the "R" in RSA, but for
 the New York Times is simply an "M.I.T. Computer Scientist".]
 
 
-* **Link to site:** **[Electronic Voting: interesting new wrinkle](None)**

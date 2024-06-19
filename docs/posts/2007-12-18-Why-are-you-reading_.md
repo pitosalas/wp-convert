@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-12-18
 ---
 
+**Link: [Why are you reading?](None):** ""
+
+
+
 If you are a hardcore blog reader like I am, and like [BlogBridge
 fans](<http://www.blogbridge.com> "Best blog reader for financial analysts,
 researchers, investors, fund managers") are, it's worth giving a little
@@ -20,4 +24,3 @@ Read the whole article: it **challenges assumptions** about why we read (and
 write) our blogs so diligently.
 
 
-* **Link to site:** **[Why are you reading?](None)**

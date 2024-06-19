@@ -4,12 +4,15 @@ author: Pito Salas
 date: 2006-12-26
 ---
 
-If you keep up, you may have heard abou this. A new search engine coming from
-Wikipedia founder Jimmy Wales. Check out [this
-post](<http://mashable.com/2006/12/23/wikiasari-wikipedia-founder-launching-a-
-google-rival/>) from [Mashable!](<http://mashable.com>)for a pretty good
-update:
+**Link: [New search engine from Wikipedia-land](None):** ""
 
+
+>
+> If you keep up, you may have heard abou this. A new search engine coming
+> from Wikipedia founder Jimmy Wales. Check out [this
+> post](<http://mashable.com/2006/12/23/wikiasari-wikipedia-founder-launching-
+> a-google-rival/>) from [Mashable!](<http://mashable.com>)for a pretty good
+> update:
 >
 
 >> "Wikipedia founder Jimmy Wales is set to launch a search engine early next
@@ -18,7 +21,7 @@ Yahoo.
 
 >>
 
->> (**Read the rest** here: [Wikiasari: Wikipedia Founder Launching a Google
+>> ( **Read the rest** here: [Wikiasari: Wikipedia Founder Launching a Google
 Rival](<http://mashable.com/2006/12/23/wikiasari-wikipedia-founder-launching-
 a-google-rival/>))"
 
@@ -28,4 +31,3 @@ a-google-rival/>))"
 > another pretty good article introducing the idea from TimesOnline.
 
 
-* **Link to site:** **[New search engine from Wikipedia-land](None)**

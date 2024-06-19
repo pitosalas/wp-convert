@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2020-01-14
 ---
 
+**Link: [Some great links for  01/15/2020](None):** ""
+
+
+
   * [Academic Torrents](<http://academictorrents.com>)
 
 If you’re looking for data for your research project, this is an impressive
@@ -20,4 +24,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  01/15/2020](None)**

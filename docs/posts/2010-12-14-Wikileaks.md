@@ -9,6 +9,10 @@ tags:
     - wikileaks
 ---
 
+**Link: [Wikileaks](None):** ""
+
+
+
 Like many, I don't know yet whether I **support or condemn** the Wikileaks
 action that has been discussed and debated at length on all fora. You have to
 agree that it has yielded some **interesting insights** about the way the
@@ -44,7 +48,7 @@ which comments on one of the questions I raise above:
 > "Mr. Packer is very much against the prosecution of WikiLeaks on grounds of
 > treason because, he said, “discerning the **legal difference** between what
 > WikiLeaks did and what news organizations do is difficult and would set a
-> terrible precedent." (**from** [The New York
+> terrible precedent." ( **from** [The New York
 > Times](<http://www.nytimes.com/2010/12/13/business/media/13carr.html?pagewanted=2&_r=2&ref=business>))
 
 Look at this interesting [post by David
@@ -63,11 +67,10 @@ who says:
 > manage the cables. Many are two letter country or regional tags—US, AF, PK
 > etc—while others are four letter subject tags—from AADP for Automated Data
 > Processing to PREL for external political relations, or SMIG for immigration
-> related terms." (**from** [Jeremy Wagstaff: Data, Wikileaks and
+> related terms." ( **from** [Jeremy Wagstaff: Data, Wikileaks and
 > War](<http://www.loosewireblog.com/2010/12/data-wikileaks-and-war.html>)")
 
 You see, this Wikileaks question raises some important and tricky questions,
 and they are not all about who called who by what name.
 
 
-* **Link to site:** **[Wikileaks](None)**

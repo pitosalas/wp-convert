@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2005-05-23
 ---
 
-Nothing to add:
+**Link: [Very Cool: iTunes supports Podcasting!](None):** ""
+
+
+>>
+
+>> Nothing to add:
 
 >>
 
@@ -21,4 +26,3 @@ on-podcasting/>))
 [itunes](<http://technorati.com/tag/itunes>)
 
 
-* **Link to site:** **[Very Cool: iTunes supports Podcasting!](None)**

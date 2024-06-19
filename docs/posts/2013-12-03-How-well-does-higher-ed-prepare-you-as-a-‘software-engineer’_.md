@@ -4,11 +4,17 @@ author: Pito Salas
 date: 2013-12-03
 ---
 
+**Link: [How well does higher ed prepare you as a ‘software engineer’?](None):** ""
+
+
+
 This article is a bit harsh/one-sided, but I still thought it was interesting
 to see an attempt at comparing programming as practiced in two very different
 contexts.
 
-[What's the difference between college-level and corporate programming? | Ars Technica](<http://arstechnica.com/information-technology/2013/12/whats-the-difference-between-college-level-and-corporate-programming/>):
+[What's the difference between college-level and corporate programming? | Ars
+Technica](<http://arstechnica.com/information-technology/2013/12/whats-the-
+difference-between-college-level-and-corporate-programming/>):
 
 > Programming in school and programming in the real world are so inherently
 > different to the point where there's actually very little overlap. CS will
@@ -32,4 +38,3 @@ answer-to-all-of-societys-problems/>)
 > the future"
 
 
-* **Link to site:** **[How well does higher ed prepare you as a ‘software engineer’?](None)**

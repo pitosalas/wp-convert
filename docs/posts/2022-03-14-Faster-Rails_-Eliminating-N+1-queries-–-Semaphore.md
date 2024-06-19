@@ -7,6 +7,10 @@ tags:
     - rails
 ---
 
+**Link: [Faster Rails: Eliminating N+1 queries – Semaphore](None):** ""
+
+
+
 [ Faster Rails: Eliminating N+1 queries -
 Semaphore](<https://semaphoreci.com/blog/2017/08/09/faster-rails-eliminating-
 n-plus-one-queries.html>)
@@ -17,4 +21,3 @@ them from your project.
 March 14, 2022 at 04:28PM
 
 
-* **Link to site:** **[Faster Rails: Eliminating N+1 queries – Semaphore](None)**

@@ -4,7 +4,11 @@ author: Pito Salas
 date: 2006-12-08
 ---
 
-<!-  
+**Link: [Good article about idiomatic Ruby](None):** ""
+
+
+>
+> <!-  
 >  body { font-size: 11pt; font-family: Tahoma; font-weight: normal; line-
 > height: normal; font-style: normal; font-variant: normal }  
 >  ->
@@ -15,4 +19,3 @@ date: 2006-12-08
 >  Ruby](<http://www.therailsway.com/2006/12/8/idiomatic-ruby>).
 
 
-* **Link to site:** **[Good article about idiomatic Ruby](None)**

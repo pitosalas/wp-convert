@@ -10,6 +10,10 @@ tags:
     - gaming
 ---
 
+**Link: [[GAMING] Article about game designer Jonathan Blow](None):** ""
+
+
+
 A good [article in the Atlantic about game designer Jonathan
 Blow](<http://www.theatlantic.com/magazine/archive/2012/05/the-most-dangerous-
 gamer/8928/>). Interesting quote:
@@ -24,7 +28,7 @@ gamer/8928/>). Interesting quote:
 >
 > You thought chasing that knowledge would make you happy, but like Tim, part
 > of you eventually wished you could turn back time and do things over again.”
-> (**from** [Atlantic
+> ( **from** [Atlantic
 > Magazine](<http://www.theatlantic.com/magazine/archive/2012/05/the-most-
 > dangerous-gamer/8928/?single_page=true>))
 
@@ -37,9 +41,9 @@ quite amazing:
 > while, as he and Blow chatted avidly about extruding surfaces and imagining
 > flat planes as tubes.
 >
-> In  _Miegakure_ , two spatial dimensions are constant, and the player solves
-> puzzles by swapping between the two others with the press of a button.
-> (**from**[Atlantic
+> In _Miegakure_ , two spatial dimensions are constant, and the player solves
+> puzzles by swapping between the two others with the press of a button. (
+> **from**[Atlantic
 > Magazine](<http://www.theatlantic.com/magazine/archive/2012/05/the-most-
 > dangerous-gamer/8928/?single_page=true>))
 
@@ -49,4 +53,3 @@ good, and he's so full of himself. I haven't looked at the games so I can just
 go by what the article says, but I liked what I read!
 
 
-* **Link to site:** **[[GAMING] Article about game designer Jonathan Blow](None)**

@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-12-08
 ---
 
+**Link: [Computer Science: Theory and Practice](None):** ""
+
+
+
 Joel Spolsky of Joel on Software gave an outstanding talk at Yale which he has
 written up on his blog. For budding Computer Science majors, people getting
 into the computer world or business, there is a lot of **good wisdom** to be
@@ -18,7 +22,7 @@ from the perspective of those who are involved in creating it. Here's how he
 > that’s such a bad thing. The suits recognize that there are diminishing
 > returns to fixing bugs. Once the software hits a certain level of quality
 > that allows it to solve someone’s problem, that person will pay for it and
-> derive benefit out of it." (**from** [Joel on
+> derive benefit out of it." ( **from** [Joel on
 > Software](<http://www.joelonsoftware.com/items/2007/12/03.html> "Computer
 > Science Theory and Practice"))
 
@@ -31,4 +35,3 @@ The talk is in three sections, **read them all!**
   3. [Talk at Yale: Part 3 of 3](<http://www.joelonsoftware.com/items/2007/12/05.html>)
 
 
-* **Link to site:** **[Computer Science: Theory and Practice](None)**

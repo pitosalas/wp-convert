@@ -4,7 +4,13 @@ author: Pito Salas
 date: 2004-05-07
 ---
 
-Well, not really dark: This is in reference to [Shel Isreal's recent bit about
+**Link: [The “dark” side of LinkedIn](None):** ""
+
+
+>>
+
+>> Well, not really dark: This is in reference to [Shel Isreal's recent bit
+about
 LinkedIn.](<http://seems2shel.typepad.com/itseemstome/2004/05/linkedin_part_3.html>)
 Shel notes that [LinkedIn ](<http://www.linkedin.com/>)is actually **good for
 recruiting**. He cites some examples of folks who assembled a team using
@@ -28,4 +34,3 @@ in our brand new startup. It would make it too easy for the best people to be
 >> LinkedIn is an **order of magnitude worse/better/more.**
 
 
-* **Link to site:** **[The “dark” side of LinkedIn](None)**

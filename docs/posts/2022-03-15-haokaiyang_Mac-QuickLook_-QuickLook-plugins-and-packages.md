@@ -13,8 +13,6 @@ tags:
 ---
 <img class="cover" src=https://opengraph.githubassets.com/eef6b9baa2b0c09b28e599ca2d65164d260c4fae38b0b0969c662b342ea01dc0/haokaiyang/Mac-QuickLook>
 
+**Link: [haokaiyang/Mac-QuickLook: QuickLook plugins and packages](https://github.com/haokaiyang/Mac-QuickLook):** "QuickLook plugins and packages. Contribute to haokaiyang/Mac-QuickLook development by creating an account on GitHub."
 
 
-* **Web site excerpt:** QuickLook plugins and packages. Contribute to haokaiyang/Mac-QuickLook development by creating an account on GitHub.
-
-* **Link to site:** **[haokaiyang/Mac-QuickLook: QuickLook plugins and packages](https://github.com/haokaiyang/Mac-QuickLook)**

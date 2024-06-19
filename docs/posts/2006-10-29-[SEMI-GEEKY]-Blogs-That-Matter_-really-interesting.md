@@ -4,10 +4,13 @@ author: Pito Salas
 date: 2006-10-29
 ---
 
-From [LifeHacker](<http://www.lifehacker.com/software/bloglines/find-feeds-
-that-matter-209796.php>) (one of my new favorite sites) comes a pointer to a
-site called [FeedsThatMatter](<http://morpheus.cs.umbc.edu/bloglines/>).
+**Link: [[SEMI GEEKY] Blogs That Matter: really interesting](None):** ""
 
+
+>
+> From [LifeHacker](<http://www.lifehacker.com/software/bloglines/find-feeds-
+> that-matter-209796.php>) (one of my new favorite sites) comes a pointer to a
+> site called [FeedsThatMatter](<http://morpheus.cs.umbc.edu/bloglines/>).
 >
 > What it seems to do is to look at public subscriptions listed in BlogLines,
 > do a tag analysis, and display a [tag
@@ -44,4 +47,3 @@ site called [FeedsThatMatter](<http://morpheus.cs.umbc.edu/bloglines/>).
 > [rss](<http://www.technorati.com/tag/rss>)
 
 
-* **Link to site:** **[[SEMI GEEKY] Blogs That Matter: really interesting](None)**

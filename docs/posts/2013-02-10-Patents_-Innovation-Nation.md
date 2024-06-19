@@ -9,6 +9,10 @@ tags:
     - patents
 ---
 
+**Link: [Patents: Innovation Nation](None):** ""
+
+
+
 An [interesting view on patents from Judge
 Posner](<http://www.nytimes.com/2013/02/09/opinion/nocera-innovation-nation-
 at-war.html>):
@@ -27,4 +31,3 @@ America](<http://www.theatlantic.com/business/archive/2012/07/why-there-are-
 too-many-patents-in-america/259725/>)" (from The Atlantic)
 
 
-* **Link to site:** **[Patents: Innovation Nation](None)**

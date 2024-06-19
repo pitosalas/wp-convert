@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2009-07-16
 ---
 
+**Link: [Sibelius and the meaning of ‘available’](None):** ""
+
+
+
 There aren't many good options for Music notation software.
 [Sibelius](<http://www.sibelius.com/home/index_flash.html>) is in my opinion
 the best, which as this software goes is not saying all that much. For it's
@@ -18,10 +22,10 @@ justify. Still there were a few things in it that I wanted.
 They started taking orders over a month ago. They have a **not very generous**
 deal for upgraders (I already have version 5) but still I decided to order it.
 
-**A month later,** Version 6 is still on '**backorder** ' whatever that means.
-I asked the rep I just spoke to **what they mean when they say that it 's
-'available**' (Yes I admit I was being a pain in the ass and that she is in no
-way at fault.).
+**A month later,** Version 6 is still on ' **backorder** ' whatever that
+means. I asked the rep I just spoke to **what they mean when they say that it
+'s 'available**' (Yes I admit I was being a pain in the ass and that she is in
+no way at fault.).
 
 She said, it means that you can order it.
 
@@ -38,4 +42,3 @@ Technorati Tags: [sibelius](<http://technorati.com/tag/sibelius>),
 [prerelease](<http://technorati.com/tag/prerelease>)
 
 
-* **Link to site:** **[Sibelius and the meaning of ‘available’](None)**

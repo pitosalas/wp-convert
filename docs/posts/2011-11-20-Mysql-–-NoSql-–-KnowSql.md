@@ -8,6 +8,10 @@ tags:
     - no-tagsql
 ---
 
+**Link: [Mysql – NoSql – KnowSql](None):** ""
+
+
+
 A catchy headline, but is it true? "[Facebook Trapped in MySql 'a fate worse
 than death'. ](<http://gigaom.com/cloud/facebook-trapped-in-mysql-fate-worse-
 than-death/>)This is a quote of what Michael Stonebreaker supposedly said in
@@ -20,7 +24,7 @@ this interview article:
 > compliance and handling multithreading) and relatively few on actually
 > finding and serving data. This might be fine for a small application with a
 > small data set, but it quickly becomes too much to handle as data and
-> transaction volumes grow." (**from**
+> transaction volumes grow." ( **from**
 > [GigaOm](<http://gigaom.com/cloud/facebook-trapped-in-mysql-fate-worse-than-
 > death/>))
 
@@ -31,4 +35,3 @@ A few other interesting points and links from the article:
   * An interesting [blog post introducing and further explaining the idea of "New Sql"](<http://blogs.the451group.com/information_management/2011/04/06/what-we-talk-about-when-we-talk-about-newsql/>)
 
 
-* **Link to site:** **[Mysql – NoSql – KnowSql](None)**

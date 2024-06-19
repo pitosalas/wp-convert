@@ -12,8 +12,6 @@ tags:
 ---
 <img class="cover" src=https://clover.coex.tech/assets/aruco-axis.png>
 
+**Link: [Marker detection · Clover](https://clover.coex.tech/en/aruco_marker.html):** "A section from another robot that describes how to use aruco_detect"
 
 
-* **Web site excerpt:** A section from another robot that describes how to use aruco_detect
-
-* **Link to site:** **[Marker detection · Clover](https://clover.coex.tech/en/aruco_marker.html)**

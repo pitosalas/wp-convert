@@ -8,6 +8,10 @@ tags:
     - person-tagal
 ---
 
+**Link: [What Should You Do with Your Life? Directions and Advice – Alexey Guzey](None):** ""
+
+
+
 [ What Should You Do with Your Life? Directions and Advice - Alexey Guzey](<
 https://guzey.com/personal/what-should-you-do-with-your-life/#cold-emails-and-
 twitter>) –I ask a lot of people about their life plans. At least half of them
@@ -19,4 +23,3 @@ some people are excited about Church Lab’s list of projects and of their
 implications (via Adam Marblestone) Also see …
 
 
-* **Link to site:** **[What Should You Do with Your Life? Directions and Advice – Alexey Guzey](None)**

@@ -7,8 +7,11 @@ tags:
     - glass
 ---
 
+**Link: [Glass: this is pretty amazing!](None):** ""
+
+
+
 [youtube
 http://www.youtube.com/watch?v=6Cf7IL_eZ38&hl=en_US&feature=player_embedded&version=3]
 
 
-* **Link to site:** **[Glass: this is pretty amazing!](None)**

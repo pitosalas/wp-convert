@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-07-09
 ---
 
+**Link: [The Science of Large Breasts, and Other Evolutionary Verities](None):** ""
+
+
+
 Hey, don't blame me, I'm just posting a pointer to this interesting story over
 that the ever-legitimate Freakonomics Blog.
 
@@ -37,4 +41,3 @@ Blog](<http://www.freakonomics.com/blog>):
 > Verities](<http://feeds.feedburner.com/~r/FreakonomicsBlog/~3/131969662/>))
 
 
-* **Link to site:** **[The Science of Large Breasts, and Other Evolutionary Verities](None)**

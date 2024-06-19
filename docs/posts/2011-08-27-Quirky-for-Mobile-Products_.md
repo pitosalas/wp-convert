@@ -7,6 +7,10 @@ tags:
     - quirky
 ---
 
+**Link: [Quirky for Mobile Products?](None):** ""
+
+
+
 I read about [Quirky.com](<http://www.quirky.com/>) in the [paper the other
 day.](<http://www.nytimes.com/2011/08/25/garden/ben-kaufman-quirkycom-founder-
 on-problem-solving-qa.html>) From my perusal it's a site where people (you and
@@ -29,4 +33,3 @@ What if we created a similar service, but focused exclusively on products for
 app phones (e.g. iPhone and Android.) What do you think?
 
 
-* **Link to site:** **[Quirky for Mobile Products?](None)**

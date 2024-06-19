@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-02-26
 ---
 
+**Link: [[GEEKY] Alternative to Yahoo Pipes? Looks really interesting…](None):** ""
+
+
+
 Check out [this post](<http://lifehacker.com/software/rss/mash-up-rss-feeds-
 with-xfruits-239457.php>) from [Lifehacker](<http://www.lifehacker.com>):
 
@@ -33,4 +37,3 @@ web service, especially if you are giving it away for free. It is why it's
 nice to see Yahoo, Google and Amazon publishing services.
 
 
-* **Link to site:** **[[GEEKY] Alternative to Yahoo Pipes? Looks really interesting…](None)**

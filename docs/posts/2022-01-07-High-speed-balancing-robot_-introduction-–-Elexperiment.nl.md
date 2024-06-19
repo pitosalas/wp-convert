@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2022-01-07
 ---
 
+**Link: [High speed balancing robot: introduction – Elexperiment.nl](None):** ""
+
+
+
 [ High speed balancing robot: introduction -
 Elexperiment.nl](<https://elexperiment.nl/2018/11/high-speed-balancing-robot-
 introduction/>)
@@ -17,4 +21,3 @@ architecture… Read More »
 January 8, 2022 at 01:17AM
 
 
-* **Link to site:** **[High speed balancing robot: introduction – Elexperiment.nl](None)**

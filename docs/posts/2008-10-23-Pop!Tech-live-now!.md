@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-10-23
 ---
 
+**Link: [Pop!Tech live now!](None):** ""
+
+
+
 This has been my all time favorite conference. Unfortunately I can't make it
 this year. However, here it is, streaming LIVE from Camden. Wish I was there!
 
@@ -11,4 +15,3 @@ this year. However, here it is, streaming LIVE from Camden. Wish I was there!
 Pop!Tech](<http://www.poptech.org/live/>)
 
 
-* **Link to site:** **[Pop!Tech live now!](None)**

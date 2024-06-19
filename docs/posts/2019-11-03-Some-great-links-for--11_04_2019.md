@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-11-03
 ---
 
+**Link: [Some great links for  11/04/2019](None):** ""
+
+
+
   * [GitHub - iris-ua/iris_lama: LaMa - A Localization and Mapping library](<https://github.com/iris-ua/iris_lama>)
 
 Another interesting SLAM library to try
@@ -35,4 +39,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  11/04/2019](None)**

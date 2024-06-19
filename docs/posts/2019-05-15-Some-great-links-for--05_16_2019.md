@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-05-15
 ---
 
+**Link: [Some great links for  05/16/2019](None):** ""
+
+
+
   * [How the Boeing 737 Max Disaster Looks to a Software Developer](<https://spectrum.ieee.org/aerospace/aviation/how-the-boeing-737-max-disaster-looks-to-a-software-developer>)
 
 A great analysis of this terrible example of the impact of bugs
@@ -29,4 +33,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  05/16/2019](None)**

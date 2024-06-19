@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2014-06-27
 ---
 
+**Link: [Let’s give GPSs the EMOTION feature](None):** ""
+
+
+
 Maybe it's because I just arrived from a long drive and stay in New York where
 I was guided by the nose by my TomTom GPS lady.
 
@@ -42,4 +46,3 @@ reduce driver fatigue and accidents too!
 _Originally posted on Jul 29, 2009. Reprinted courtesy of ReRuns plug-in._
 
 
-* **Link to site:** **[Let’s give GPSs the EMOTION feature](None)**

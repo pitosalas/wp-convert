@@ -9,6 +9,10 @@ tags:
     - scalability
 ---
 
+**Link: [MapReduce Patterns and Examples](None):** ""
+
+
+
 Great review article:
 
 > "In this article I digested a number of MapReduce patterns and algorithms to
@@ -16,7 +20,7 @@ Great review article:
 > web or scientific articles. Several practical case studies are also
 > provided. All descriptions and code snippets use the standard Hadoopâs
 > MapReduce model with Mappers, Reduces, Combiners, Partitioners, and sorting.
-> This framework is depicted in the figure below." (**from** [Highly
+> This framework is depicted in the figure below." ( **from** [Highly
 > Scalable)](<http://highlyscalable.wordpress.com/2012/02/01/mapreduce-
 > patterns/>)
 
@@ -26,4 +30,3 @@ Algorithms, and Use
 Cases"](<http://highlyscalable.wordpress.com/2012/02/01/mapreduce-patterns/>)
 
 
-* **Link to site:** **[MapReduce Patterns and Examples](None)**

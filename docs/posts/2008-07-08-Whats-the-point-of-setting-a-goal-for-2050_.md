@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-07-08
 ---
 
+**Link: [Whats the point of setting a goal for 2050?](None):** ""
+
+
+
 How lame and do-nothing can you get when the best you can do is to [set a goal
 to be met in
 2050,](<http://news.yahoo.com/s/ap/20080708/ap_on_re_as/g8_climate_change>)
@@ -19,4 +23,3 @@ has any effect on anything real?
 Lame-o?
 
 
-* **Link to site:** **[Whats the point of setting a goal for 2050?](None)**

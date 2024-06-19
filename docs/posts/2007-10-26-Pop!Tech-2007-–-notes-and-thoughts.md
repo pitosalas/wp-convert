@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-10-26
 ---
 
+**Link: [Pop!Tech 2007 – notes and thoughts](None):** ""
+
+
+
 My purely biased view of the most memorable presenters, quotes and associated
 links:
 
@@ -13,7 +17,7 @@ links:
 
   * Quote heard in the corridors: _" The size of the font on the name badges is directly proportional to the price of attending the conference."_
 
-  * According to [Dan Pink, author of "A Whole New Mind": ](<http://www.danpink.com/>)these are the keys to giving a memorable speech: "_Brevity, Levity, and Repetition_ " (and repetition). [Here's Ethan's blogging about Dan's presentation](<http://www.ethanzuckerman.com/blog/2007/10/18/poptech-daniel-pinks-whole-new-economy/>).
+  * According to [Dan Pink, author of "A Whole New Mind": ](<http://www.danpink.com/>)these are the keys to giving a memorable speech: " _Brevity, Levity, and Repetition_ " (and repetition). [Here's Ethan's blogging about Dan's presentation](<http://www.ethanzuckerman.com/blog/2007/10/18/poptech-daniel-pinks-whole-new-economy/>).
 
   * According to [Dan Gilbert](<http://www.wjh.harvard.edu/~dtg/gilbert.htm>) ([see also Ethan Z's coverage](<http://www.ethanzuckerman.com/blog/2007/10/19/poptech-happiness-and-risk/>)), we humans are best at recognizing and responding to threats when it has all these characteristics. The fewer of them, the less likely it is that we will take a threat seriously. (Global Climate Change as an example.) 
 
@@ -40,4 +44,3 @@ links:
   * Here's a collection from the [BlogBridge Library](<http://library.blogbridge.com/>) of [all the blogs and sites related to Pop!Tech 2007](<http://library.blogbridge.com/folder/13006-pop-tech-bloggers> "BlogBridge library of Pop!Tech 2007 related blogs").
 
 
-* **Link to site:** **[Pop!Tech 2007 – notes and thoughts](None)**

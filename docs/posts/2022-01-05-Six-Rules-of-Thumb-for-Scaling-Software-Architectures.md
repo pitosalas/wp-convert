@@ -14,8 +14,6 @@ tags:
 ---
 <img class="cover" src=https://miro.medium.com/max/681/1*2DYpuGytCWCOX5Ulbsw7Nw.png>
 
+**Link: [Six Rules of Thumb for Scaling Software Architectures](https://medium.com/@i.gorton/six-rules-of-thumb-for-scaling-software-architectures-a831960414f9):** "We live in an age where massive scale, Internet-facing systems like Google, Amazon, Facebook and the like are engineering icons. They…"
 
 
-* **Web site excerpt:** We live in an age where massive scale, Internet-facing systems like Google, Amazon, Facebook and the like are engineering icons. They…
-
-* **Link to site:** **[Six Rules of Thumb for Scaling Software Architectures](https://medium.com/@i.gorton/six-rules-of-thumb-for-scaling-software-architectures-a831960414f9)**

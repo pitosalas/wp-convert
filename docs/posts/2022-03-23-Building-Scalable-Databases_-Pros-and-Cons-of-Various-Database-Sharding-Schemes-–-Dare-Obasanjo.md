@@ -7,6 +7,10 @@ tags:
     - scaling
 ---
 
+**Link: [Building Scalable Databases: Pros and Cons of Various Database Sharding Schemes – Dare Obasanjo](None):** ""
+
+
+
 [ Building Scalable Databases: Pros and Cons of Various Database Sharding
 Schemes - Dare
 Obasanjo](<http://www.25hoursaday.com/weblog/2009/01/16/BuildingScalableDatabasesProsAndConsOfVariousDatabaseShardingSchemes.aspx>)
@@ -20,4 +24,3 @@ than to grow it vertically by adding beefier servers.
 March 24, 2022 at 12:33AM
 
 
-* **Link to site:** **[Building Scalable Databases: Pros and Cons of Various Database Sharding Schemes – Dare Obasanjo](None)**

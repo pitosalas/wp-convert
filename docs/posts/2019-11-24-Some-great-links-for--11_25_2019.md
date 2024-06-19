@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-11-24
 ---
 
+**Link: [Some great links for  11/25/2019](None):** ""
+
+
+
   * [How to Process Passwords as a Software Developer - DEV Community ](<https://dev.to/nathilia_pierce/how-to-process-passwords-as-a-software-developer-3dkh>)
 
 Very useful tips and techniques on handling of passwords.
@@ -42,4 +46,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  11/25/2019](None)**

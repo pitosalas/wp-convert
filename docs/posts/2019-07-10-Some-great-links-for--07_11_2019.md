@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-07-10
 ---
 
+**Link: [Some great links for  07/11/2019](None):** ""
+
+
+
   * [strong_password v0.0.7 rubygem hijacked](<https://withatwist.dev/strong-password-rubygem-hijacked.html>)
 
 Interesting description of how a public library or gem can be taken over, and
@@ -38,4 +42,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  07/11/2019](None)**

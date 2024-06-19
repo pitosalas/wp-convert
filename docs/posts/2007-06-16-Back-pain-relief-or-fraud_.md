@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-06-16
 ---
 
+**Link: [Back pain relief or fraud?](None):** ""
+
+
+
 A friend of mine has been experiencing debilitating back pain for a year now.
 He's seen pain specialists, surgeons and so on, and so far the only treatment
 has been pain medications, strong ones. He is desperate.
@@ -63,4 +67,3 @@ google_color_url = "008000";
 src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 
 
-* **Link to site:** **[Back pain relief or fraud?](None)**

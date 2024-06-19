@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-04-22
 ---
 
+**Link: [Some great links for  04/22/2018](None):** ""
+
+
+
   * [How to improve your workflow with VS Code and Jupyter Notebook](<https://towardsdatascience.com/how-to-improve-your-workflow-with-vs-code-and-jupyter-notebook-f96777f8f1bd?source=userActivityShare-d383785221d0-1524315624>)
 
 tags: [jupyter](<https://www.diigo.com/user/pitosalas/jupyter>)
@@ -52,4 +56,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  04/22/2018](None)**

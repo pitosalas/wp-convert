@@ -6,6 +6,10 @@ tags:
     - tool
 ---
 
+**Link: [GitHub – mgdm/htmlq: Like jq, but for HTML.](None):** ""
+
+
+
 [ GitHub - mgdm/htmlq: Like jq, but for
 HTML.](<https://github.com/mgdm/htmlq>)
 
@@ -15,4 +19,3 @@ account on GitHub.
 September 8, 2021 at 02:48PM
 
 
-* **Link to site:** **[GitHub – mgdm/htmlq: Like jq, but for HTML.](None)**

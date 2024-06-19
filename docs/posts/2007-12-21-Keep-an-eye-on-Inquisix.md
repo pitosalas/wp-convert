@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-12-21
 ---
 
+**Link: [Keep an eye on Inquisix](None):** ""
+
+
+
 Here's an interesting new product, just into beta:
 [Inquisix](<http://inquisix.com/>). This is a service for **sales people** who
 need a more effective alternative to cold calling to generate leads.
@@ -23,4 +27,3 @@ makes **a lot of sense**. You may want to check it out - they are taking [beta
 applications.](<http://inquisix.com/invitation_requests/new>)
 
 
-* **Link to site:** **[Keep an eye on Inquisix](None)**

@@ -9,6 +9,10 @@ tags:
     - trustthevote
 ---
 
+**Link: [New words: COTS and GOTS](None):** ""
+
+
+
 In my work with the [Open Source Digital Voting
 foundation](<http://www.osdv.org>), and
 [TrustTheVote](<www.trustthevote.org>), I just learned two new words, for your
@@ -24,4 +28,3 @@ Ok, not all the posts here are gems, but it is also my personal memory bank 🙂
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-* **Link to site:** **[New words: COTS and GOTS](None)**

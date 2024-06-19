@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-05-16
 ---
 
+**Link: [Some great links for  05/17/2019](None):** ""
+
+
+
   * [We Can Do Better Than SQL](<https://edgedb.com/blog/we-can-do-better-than-sql/>)
 
 Interesting account of all the ways that SQL sucks and of course a proposed
@@ -52,4 +56,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  05/17/2019](None)**

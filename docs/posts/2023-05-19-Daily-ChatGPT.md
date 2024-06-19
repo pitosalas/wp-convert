@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2023-05-19
 ---
 
+**Link: [Daily ChatGPT](None):** ""
+
+
+
 I have been using ChatGPT on a daily basis. Not for joking or playing but for
 work. It is like a super search engine combined with a fallible expert. When I
 tell this story to various people they seem surprised and ask "Give me an
@@ -15,4 +19,3 @@ autocomplete. While they may be technically correct (and I doubt they are) you
 cannot ignore ChatGPT feats that look nothing like autocomplete.
 
 
-* **Link to site:** **[Daily ChatGPT](None)**

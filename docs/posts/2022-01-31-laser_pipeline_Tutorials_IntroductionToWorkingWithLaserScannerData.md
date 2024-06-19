@@ -14,5 +14,6 @@ tags:
 ---
 <img class="cover" src=http://library.isr.ist.utl.pt/docs/roswiki/attachments/laser_pipeline(2f)Tutorials(2f)IntroductionToWorkingWithLaserScannerData/rviz_base_small.png>
 
+**Link: [laser_pipeline/Tutorials/IntroductionToWorkingWithLaserScannerData](http://library.isr.ist.utl.pt/docs/roswiki/laser_pipeline(2f)Tutorials(2f)IntroductionToWorkingWithLaserScannerData.html):** ""
 
-* **Link to site:** **[laser_pipeline/Tutorials/IntroductionToWorkingWithLaserScannerData](http://library.isr.ist.utl.pt/docs/roswiki/laser_pipeline(2f)Tutorials(2f)IntroductionToWorkingWithLaserScannerData.html)**
+

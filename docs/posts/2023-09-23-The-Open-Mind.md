@@ -14,8 +14,6 @@ tags:
 ---
 <img class="cover" src=https://cdn.theatlantic.com/thumbor/0dtyoSNknNzfuVplHbvEObIK8T4=/0x133:2376x1371/1200x625/media/img/2017/08/AP_869174129484/original.jpg>
 
+**Link: [The Open Mind](https://www.theatlantic.com/magazine/archive/1949/02/the-open-mind/305431/):** "None"
+
 More interesting history about Oppenheimer and the bomb
-
-* **Web site excerpt:** None
-
-* **Link to site:** **[The Open Mind](https://www.theatlantic.com/magazine/archive/1949/02/the-open-mind/305431/)**

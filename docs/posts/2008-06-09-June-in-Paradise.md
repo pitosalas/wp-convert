@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-06-09
 ---
 
+**Link: [June in Paradise](None):** ""
+
+
+
 ![](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-
 content/uploads/imagewell//paradise.jpg?resize=198%2C331)I just returned from
 [RailsConf](<http://en.oreilly.com/rails2008/public/content/home>), a
@@ -28,4 +32,3 @@ were surprised by the **30 foot snow banks!**
 Yes, that's me in the picture 🙂
 
 
-* **Link to site:** **[June in Paradise](None)**

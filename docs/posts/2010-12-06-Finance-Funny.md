@@ -8,7 +8,10 @@ tags:
     - quantitative-easing
 ---
 
+**Link: [Finance Funny](None):** ""
+
+
+
 [youtube=http://www.youtube.com/watch?v=PTUY16CkS-k&w=427&h=260]
 
 
-* **Link to site:** **[Finance Funny](None)**

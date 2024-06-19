@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-09-10
 ---
 
-[I came across a fascinating article,
+**Link: [Patterns from the master](None):** ""
+
+
+>>
+
+>> [I came across a fascinating article,
 ](<http://www.patternlanguage.com/archive/ieee/ieeetext.htm>)a transcript of a
 speech by **Christopher Alexander** , architect and author of "A Pattern
 Language."
@@ -43,4 +48,3 @@ translated into your discipline. "
 read.](<http://www.patternlanguage.com/archive/ieee/ieeetext.htm>)**
 
 
-* **Link to site:** **[Patterns from the master](None)**

@@ -4,12 +4,15 @@ author: Pito Salas
 date: 2006-10-13
 ---
 
-One **correspondent** **asked** : "Isn't this what bb:library is about or
-Technorati Blog Directory or egs. like [Corante Web
-Hub](<http://web.corante.com/>), [Global
-Voices](<http://www.globalvoicesonline.org/>), [World
-Changing](<http://www.worldchanging.com/>)?"
+**Link: [More musings on the not-better-RSS-aggregator](None):** ""
 
+
+>
+> One **correspondent** **asked** : "Isn't this what bb:library is about or
+> Technorati Blog Directory or egs. like [Corante Web
+> Hub](<http://web.corante.com/>), [Global
+> Voices](<http://www.globalvoicesonline.org/>), [World
+> Changing](<http://www.worldchanging.com/>)?"
 >
 > Well, it might be a **reinvention of those wheels**. I don't know yet. I
 > know I am **not interested** in reinventing wheels. But let me play some
@@ -72,4 +75,3 @@ how to check their email.
 > [puppy](<http://www.technorati.com/tag/puppy>)
 
 
-* **Link to site:** **[More musings on the not-better-RSS-aggregator](None)**

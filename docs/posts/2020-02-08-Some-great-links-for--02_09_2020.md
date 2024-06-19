@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2020-02-08
 ---
 
+**Link: [Some great links for  02/09/2020](None):** ""
+
+
+
   * [Gemifying Your Style Guide to DRY Your CSS - Ruby on Rails Upgrades](<https://www.fastruby.io/blog/gems/dry/ruby/gemifying-your-styleguide.html>)
 
 A very nice technique to build a gem with all your css and js in one place.
@@ -55,4 +59,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  02/09/2020](None)**

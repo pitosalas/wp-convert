@@ -14,8 +14,6 @@ tags:
 ---
 <img class="cover" src=https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png>
 
+**Link: [Simple 8-bit Assembler Simulator in Javascript](https://schweigi.github.io/assembler-simulator/):** "One of many simple CPU simulators. I'm teaching a course in Operating Systems and I've been looking for a really simple and clear visual simulator for a CPU. This one is the best one yet. But I would like a better one. This one is missing any kind of support for IO or System calls or something like that. But it's usable."
 
 
-* **Web site excerpt:** One of many simple CPU simulators. I'm teaching a course in Operating Systems and I've been looking for a really simple and clear visual simulator for a CPU. This one is the best one yet. But I would like a better one. This one is missing any kind of support for IO or System calls or something like that. But it's usable.
-
-* **Link to site:** **[Simple 8-bit Assembler Simulator in Javascript](https://schweigi.github.io/assembler-simulator/)**

@@ -9,6 +9,10 @@ tags:
     - myths
 ---
 
+**Link: [How to be a star engineer!](None):** ""
+
+
+
 We all want to be star engineers, right? Here's an intriguing article from
 about ten years ago engineers from top companies helped to [dispel the myths
 about star performers and uncover the surprising secrets of stellar
@@ -27,8 +31,7 @@ engineers.](<http://vlsicad.ucsd.edu/Research/Advice/star_engineer.pdf>):
 > What the labs wanted to know was: what separates the star from the average
 > performer? Is it innate or can star performance be learned? Could a program
 > to improve productivity be designed that would help turn average performers
-> into stars?" (**from** [How To Be A Star
+> into stars?" ( **from** [How To Be A Star
 > Engineer](<http://vlsicad.ucsd.edu/Research/Advice/star_engineer.pdf>))
 
 
-* **Link to site:** **[How to be a star engineer!](None)**

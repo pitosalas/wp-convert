@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2009-01-29
 ---
 
+**Link: [Going, going, gone…](None):** ""
+
+
+
 You've heard me bemoan the death of magazines, newspapers, and other valuable
 things (radio? small software products) that we are killing by demanding and
 expecting them to become cheaper and cheaper, and eventually free. And after
@@ -26,4 +30,3 @@ Television](<http://www.nytimes.com/2009/01/28/opinion/28swensen.html?_r=1&hp>).
 [opensource](<http://technorati.com/tag/opensource>)
 
 
-* **Link to site:** **[Going, going, gone…](None)**

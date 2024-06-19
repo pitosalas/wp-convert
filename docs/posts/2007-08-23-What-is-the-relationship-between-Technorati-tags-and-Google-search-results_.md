@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-08-23
 ---
 
+**Link: [What is the relationship between Technorati tags and Google search results?](None):** ""
+
+
+
 Bill Ives of the [[tag]Portals and KM[/tag]
 blog](<http://billives.typepad.com/portals_and_km/>) did an [interesting bit
 of
@@ -18,4 +22,3 @@ it allows me to simply mark up the text I am writing inline and certain words
 will automagically become Technorati tags.
 
 
-* **Link to site:** **[What is the relationship between Technorati tags and Google search results?](None)**

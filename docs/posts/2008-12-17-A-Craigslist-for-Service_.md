@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-12-17
 ---
 
+**Link: [A Craigslist for Service?](None):** ""
+
+
+
 Something I've been thinking about a lot lately is the need for some kind of
 platform to match local community projects with resources to do them. For
 example the project might be to build a playground, clear a lot, raise money
@@ -31,11 +35,10 @@ service/>):
 > and [Kiva.org](<http://kiva.org/>) to find ways to donate your time and
 > money in useful and thoughtful ways, along with other ideas.
 >
-> […] (**from:** from [Sunlight
+> […] ( **from:** from [Sunlight
 > Foundation](<http://blog.sunlightfoundation.com/feed/>))
 
 I need to check those out. What do you think of the idea? Would you like to
 see it happen?
 
 
-* **Link to site:** **[A Craigslist for Service?](None)**

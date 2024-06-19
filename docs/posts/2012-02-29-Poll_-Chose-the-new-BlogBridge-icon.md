@@ -8,8 +8,11 @@ tags:
     - poll
 ---
 
+**Link: [Poll: Chose the new BlogBridge icon](None):** ""
+
+
+
 99designs is #1 for [Button & Icon Design](<http://99designs.com/buttons-
 icons>)
 
 
-* **Link to site:** **[Poll: Chose the new BlogBridge icon](None)**

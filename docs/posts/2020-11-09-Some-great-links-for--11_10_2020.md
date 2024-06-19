@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2020-11-09
 ---
 
+**Link: [Some great links for  11/10/2020](None):** ""
+
+
+
   * [Bilgin's Blog | Kalman Filter For Dummies](<http://bilgin.esme.org/BitsAndBytes/KalmanFilterforDummies>)
 
 More Kalman Filter links. This one is one of the best.
@@ -26,4 +30,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  11/10/2020](None)**

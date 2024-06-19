@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-03-24
 ---
 
+**Link: [Some great links for  03/25/2019](None):** ""
+
+
+
   * [Flatdoc](<http://ricostacruz.com/flatdoc/>)
 
 A super simple automatic open source doc generator. Except I dont quite
@@ -25,4 +29,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  03/25/2019](None)**

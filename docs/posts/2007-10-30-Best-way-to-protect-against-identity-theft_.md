@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-10-30
 ---
 
+**Link: [Best way to protect against identity theft?](None):** ""
+
+
+
 I've come across these two services, priced similarly, sound similar.
 
 [ID TheftSmart](<https://www.idtheftsmart.com/>) - The name sounds like they
@@ -18,4 +22,3 @@ Do you know anything about the pros and cons of services like these, or the
 specifics of either or both of these?
 
 
-* **Link to site:** **[Best way to protect against identity theft?](None)**

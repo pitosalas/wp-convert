@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-03-15
 ---
 
+**Link: [Costco rental car discount](None):** ""
+
+
+
 I've been a member of [Costco](<http://www.costco.com/>) for years. Yeah, you
 always buy more stuff there than you intended, but it's so much fun!
 
@@ -16,4 +20,3 @@ or [Kayak](<http://www.kayak.com>) deal was. Just a
 [LifeHack](<http://www.lifehacker.com/>) for you.
 
 
-* **Link to site:** **[Costco rental car discount](None)**

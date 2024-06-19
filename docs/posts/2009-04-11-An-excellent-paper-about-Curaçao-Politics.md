@@ -10,6 +10,10 @@ tags:
     - referendum
 ---
 
+**Link: [An excellent paper about Curaçao Politics](None):** ""
+
+
+
 This is probably not high on your radar, but if you have interest in the
 island of Curaçao you may have heard about the big referendum issue that is
 being hotly debated these days.
@@ -43,4 +47,3 @@ Here's a taste:
 [netherlands](<http://technorati.com/tag/netherlands>)
 
 
-* **Link to site:** **[An excellent paper about Curaçao Politics](None)**

@@ -4,6 +4,12 @@ author: Pito Salas
 date: 2004-07-24
 ---
 
+**Link: [Announcing… The BlogBridge Service ;-)](None):** ""
+
+
+>>
+
+>>
 ![hdrservice.jpg](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/archives/hdrservice.jpg?resize=374%2C142)
 
 >>
@@ -37,4 +43,3 @@ enlarge.)
 thumb.jpg?resize=300%2C252)](<http://s3.media.squarespace.com/production/1075723/12829350/weblogs/archives/service.html>)
 
 
-* **Link to site:** **[Announcing… The BlogBridge Service ;-)](None)**

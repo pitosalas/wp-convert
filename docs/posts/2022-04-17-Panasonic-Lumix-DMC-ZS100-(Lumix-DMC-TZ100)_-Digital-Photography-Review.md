@@ -11,8 +11,6 @@ tags:
 ---
 <img class="cover" src=https://www.dpreview.com/files/p/E~products/panasonic_dmczs100/shots/8ae99cfa353d477fbf090a00d5b7d9b5.png>
 
+**Link: [Panasonic Lumix DMC-ZS100 (Lumix DMC-TZ100): Digital Photography Review](https://www.dpreview.com/products/panasonic/compacts/panasonic_dmczs100):** "Expert news, reviews and videos of the latest digital cameras, lenses, accessories, and phones. Get answers to your questions in our photography forums."
 
 
-* **Web site excerpt:** Expert news, reviews and videos of the latest digital cameras, lenses, accessories, and phones. Get answers to your questions in our photography forums.
-
-* **Link to site:** **[Panasonic Lumix DMC-ZS100 (Lumix DMC-TZ100): Digital Photography Review](https://www.dpreview.com/products/panasonic/compacts/panasonic_dmczs100)**

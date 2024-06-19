@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-12-07
 ---
 
+**Link: [Some great links for  12/08/2018](None):** ""
+
+
+
   * [Picking a colour scale for scientific graphics | Better Figures](<https://betterfigures.org/2015/06/23/picking-a-colour-scale-for-scientific-graphics/>)
 
 Picking colors is not an obvious thing. This is a good article about this!
@@ -17,4 +21,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  12/08/2018](None)**

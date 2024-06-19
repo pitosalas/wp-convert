@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-07-15
 ---
 
+**Link: [Some great links for  07/16/2019](None):** ""
+
+
+
   * [Linux Applications Performance: Introduction - Unixism](<https://unixism.net/2019/04/linux-applications-performance-introduction/>)
 
 A comprehensive look at how web (http) servers work
@@ -17,4 +21,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  07/16/2019](None)**

@@ -6,8 +6,11 @@ tags:
     - stevejobs-apple
 ---
 
+**Link: [More on Steve Jobs](None):** ""
+
+
+
 Breaking news from CNN: "Apple CEO Steve Jobs takes leave until end of June;
 Jobs says health issues "more complex than I originally thought."
 
 
-* **Link to site:** **[More on Steve Jobs](None)**

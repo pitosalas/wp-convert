@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-12-14
 ---
 
+**Link: [Some great links for  12/15/2019](None):** ""
+
+
+
   * [Why NUKEMAP isn't on Google Maps anymore | Restricted Data](<http://blog.nuclearsecrecy.com/2019/12/13/why-nukemap-isnt-on-google-maps-anymore/>)
 
 A great article if you are looking to use mapping and visualization in your
@@ -18,4 +22,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  12/15/2019](None)**

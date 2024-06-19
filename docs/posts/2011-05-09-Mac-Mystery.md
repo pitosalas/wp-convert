@@ -7,6 +7,10 @@ tags:
     - safari
 ---
 
+**Link: [Mac Mystery](None):** ""
+
+
+
 Just reaching out you mac experts. I used to think I was one, but this one has
 me stumped.
 
@@ -22,4 +26,3 @@ pixels. This is something else.
 I can't figure it out and neither can google. Do you know?
 
 
-* **Link to site:** **[Mac Mystery](None)**

@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2020-08-29
 ---
 
+**Link: [Some great links for  08/30/2020](None):** ""
+
+
+
   * [Ruby style guide from Shopify. ](<https://shopify.github.io/ruby-style-guide/>)
 
 Great, I think I agree with all of it. We should all be able to live with
@@ -48,4 +52,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  08/30/2020](None)**

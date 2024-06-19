@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2023-05-19
 ---
 
+**Link: [Daily ChatGPT: Solve a simple network traversal](None):** ""
+
+
+
 Tell me how this is simple word completion. Can this be broadened to a more
 complicated network. Could it be used for some kind of semi-intelligent
 navigation?
@@ -47,4 +51,3 @@ The best route from Node A to Node F is Path 1 (A -> C -> F) with a total cost
 of 55.
 
 
-* **Link to site:** **[Daily ChatGPT: Solve a simple network traversal](None)**

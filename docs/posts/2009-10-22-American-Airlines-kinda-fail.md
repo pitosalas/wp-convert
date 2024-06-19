@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2009-10-22
 ---
 
+**Link: [American Airlines kinda-fail](None):** ""
+
+
+
 I am traveling on my _usually_ favorite Airline; and of course everyone knows
 that they are suffering, right? And yes, the flight to L.A. is ridiculously
 inexpensive. But still, let's say these raised my eyebrows:
@@ -17,4 +21,3 @@ What, I should be grateful that they fly Boston to L.A. at all?
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-* **Link to site:** **[American Airlines kinda-fail](None)**

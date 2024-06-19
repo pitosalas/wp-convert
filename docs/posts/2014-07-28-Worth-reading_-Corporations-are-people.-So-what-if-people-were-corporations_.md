@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2014-07-28
 ---
 
+**Link: [Worth reading: Corporations are people. So what if people were corporations?](None):** ""
+
+
+
 ![](https://i0.wp.com/salas.com/wp-
 content/uploads/2014/07/a15f5-1406547544949.jpg?w=584&ssl=1)
 
@@ -13,4 +17,3 @@ not entitle me to a tax inversion like the big US companies are getting.
 Thanks for nothing IRS.” That got me thinking.
 
 
-* **Link to site:** **[Worth reading: Corporations are people. So what if people were corporations?](None)**

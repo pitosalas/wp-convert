@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-06-12
 ---
 
-I shoulda known…
+**Link: [BlogBridge Beta, part deux](None):** ""
+
+
+>>
+
+>> I shoulda known…
 
 >>
 
@@ -42,4 +47,3 @@ features. As usual, if you want to be a beta tester, please send email to
 beta@blogbridge.com and we'll see if we can fit you in.
 
 
-* **Link to site:** **[BlogBridge Beta, part deux](None)**

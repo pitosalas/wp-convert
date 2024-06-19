@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-07-12
 ---
 
-[Continuing my complaints ](</weblogs/archives/000457.html>)about Java Web
+**Link: [Scary Software, Part Deux](None):** ""
+
+
+>>
+
+>> [Continuing my complaints ](</weblogs/archives/000457.html>)about Java Web
 Start, as if the message displayed on Windows under Java 1.5 isn't bad enough,
 here's what a slightly older version of Java displays on Linux:
 
@@ -22,4 +27,3 @@ signed by R. Pito Salas and Associates", and that would assure people who know
 me personally. I would hope my user base grows beyond that 🙂
 
 
-* **Link to site:** **[Scary Software, Part Deux](None)**

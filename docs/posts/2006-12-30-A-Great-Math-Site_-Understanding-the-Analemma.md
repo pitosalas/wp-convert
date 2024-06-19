@@ -4,7 +4,11 @@ author: Pito Salas
 date: 2006-12-30
 ---
 
-<!-  
+**Link: [A Great Math Site: Understanding the Analemma](None):** ""
+
+
+>
+> <!-  
 >  body { font-style: normal; font-size: 11pt; line-height: normal; font-
 > family: Lucida Grande; font-weight: normal; font-variant: normal }  
 >  ->
@@ -49,4 +53,3 @@ date: 2006-12-30
 > Analemma](<http://scienceblogs.com/goodmath/2006/12/a_great_math_site_understandin.php>))
 
 
-* **Link to site:** **[A Great Math Site: Understanding the Analemma](None)**

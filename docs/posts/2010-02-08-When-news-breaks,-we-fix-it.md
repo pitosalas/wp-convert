@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2010-02-08
 ---
 
+**Link: [When news breaks, we fix it](None):** ""
+
+
+
 That was the old slogan of [Jon Stewart's Daily
 Show](<http://www.thedailyshow.com/>). This morning, while I was in a meeting,
 my cell phone reported the following 'breaking news' from
@@ -26,4 +30,3 @@ confirmed independently by one, maybe two other sources.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-* **Link to site:** **[When news breaks, we fix it](None)**

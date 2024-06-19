@@ -8,6 +8,10 @@ tags:
     - terroir
 ---
 
+**Link: [First useful info from Twitter for me :)](None):** ""
+
+
+
 After sending an email to [Terroir Coffee](<http://www.terroircoffee.com/>)
 asking them to explain the roastiness terminology that they use for all their
 coffee. It's obscure and not mentioned on the web site. No response.
@@ -32,4 +36,3 @@ little people' will fall by the wayside. I mean where's Jeff Bezos on Twitter?
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-* **Link to site:** **[First useful info from Twitter for me :)](None)**

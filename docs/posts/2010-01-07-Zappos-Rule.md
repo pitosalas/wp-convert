@@ -8,6 +8,10 @@ tags:
     - zappos
 ---
 
+**Link: [Zappos Rule](None):** ""
+
+
+
 I don't own or buy many shoes. Recently I needed to replace a shoe and visited
 my previously favorite shoe store, twice (they had to get the right size from
 the other store, or something…) but left not satisfied. This is a really good
@@ -33,4 +37,3 @@ service. Nice. Too bad I buy shoes only once every 2 or 3 years 🙂
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-* **Link to site:** **[Zappos Rule](None)**

@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2020-10-04
 ---
 
+**Link: [Some great links for  10/05/2020](None):** ""
+
+
+
   * [One-liner introduction - Ruby one-liners cookbook](<https://learnbyexample.github.io/learn_ruby_oneliners/one-liner-introduction.html>)
 
 One liners are always fun to learn.
@@ -16,4 +20,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  10/05/2020](None)**

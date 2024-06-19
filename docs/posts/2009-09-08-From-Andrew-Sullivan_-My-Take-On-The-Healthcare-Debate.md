@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2009-09-08
 ---
 
+**Link: [From Andrew Sullivan: My Take On The Healthcare Debate](None):** ""
+
+
+
 I agree with this point from the post [My Take On The Healthcare
 Debate](<http://www.pheedcontent.com/click.phdo?i=3427a348815a338daa7346e55a0001d7>)
 from [Daily Dish (Andrew
@@ -14,4 +18,3 @@ Sullivan)](<http://feeds.feedburner.com/andrewsullivan/rApM>):
 > serious conversation about curtailing healthcare costs."_
 
 
-* **Link to site:** **[From Andrew Sullivan: My Take On The Healthcare Debate](None)**

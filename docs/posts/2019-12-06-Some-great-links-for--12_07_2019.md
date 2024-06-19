@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-12-06
 ---
 
+**Link: [Some great links for  12/07/2019](None):** ""
+
+
+
   * [A High-Level Grammar of Interactive Graphics | Vega-Lite](<https://vega.github.io/vega-lite/>)
 
 Looks really useful
@@ -43,4 +47,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  12/07/2019](None)**

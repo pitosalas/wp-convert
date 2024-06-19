@@ -4,9 +4,21 @@ author: Pito Salas
 date: 2006-04-09
 ---
 
-_So, what happened to Alfred E. Newman?_ ![Alfredenewman George
+**Link: [An easy target…. funny](None):** ""
+
+
+>>
+
+>> _So, what happened to Alfred E. Newman?_
+
+>>
+
+>> ![Alfredenewman George
 Bush](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/images/AlfredENewman%2520George%2520Bush.gif?w=584)
-<!-  
+
+>>
+
+>> <!-  
 > google_ad_client = "pub-7907243313795006";  
 > google_alternate_ad_url = "http://www.blogbridge.com";  
 > google_ad_width = 468;  
@@ -21,8 +33,9 @@ Bush](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/web
 > google_color_text = ["000000″,"000000″,"000000″,"333333"];  
 > //->  
 > <script type="text/javascript"  
->  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"> Technorati
-> Tags: [funny](<http://www.technorati.com/tag/funny>)
+>  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+>>
+
+>> Technorati Tags: [funny](<http://www.technorati.com/tag/funny>)
 
 
-* **Link to site:** **[An easy target…. funny](None)**

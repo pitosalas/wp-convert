@@ -11,6 +11,10 @@ tags:
     - ux
 ---
 
+**Link: [Did someone actually have to invent that?](None):** ""
+
+
+
 ![NewImage](https://i0.wp.com/salas.com/wp-
 content/uploads/2013/02/2cb42-newimage.png?resize=190%2C169&ssl=1)
 
@@ -34,4 +38,3 @@ invention!](<http://www.nytimes.com/2013/02/09/business/john-e-karlin-who-led-
 the-way-to-all-digit-dialing-dies-at-94.html>)
 
 
-* **Link to site:** **[Did someone actually have to invent that?](None)**

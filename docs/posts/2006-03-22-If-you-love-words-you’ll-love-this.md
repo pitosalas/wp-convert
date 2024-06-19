@@ -4,13 +4,29 @@ author: Pito Salas
 date: 2006-03-22
 ---
 
-All the words of the english language, ordered by frequency, coupled with some
-really nifty graphic design and ajaxian coding.
-[Enjoy](<http://www.wordcount.org/main.php>)! This is the work of Jonathan
-Harris. [Here are some](<http://www.number27.org/>) of his other projects.
-Quite cool! **Correction:** In fact as several readers have said, this site is
-**not** Ajax, it's Flash! Which again proves why everyone's obsession with
-Ajax is almost as bad as their our obsession with Web 2.0 <!-  
+**Link: [If you love words you’ll love this](None):** ""
+
+
+>>
+
+>> All the words of the english language, ordered by frequency, coupled with
+some really nifty graphic design and ajaxian coding.
+[Enjoy](<http://www.wordcount.org/main.php>)!
+
+>>
+
+>> This is the work of Jonathan Harris. [Here are
+some](<http://www.number27.org/>) of his other projects. Quite cool!
+
+>>
+
+>> **Correction:** In fact as several readers have said, this site is **not**
+Ajax, it's Flash! Which again proves why everyone's obsession with Ajax is
+almost as bad as their our obsession with Web 2.0
+
+>>
+
+>> <!-  
 > google_ad_client = "pub-7907243313795006";  
 > google_alternate_ad_url = "http://www.blogbridge.com";  
 > google_ad_width = 468;  
@@ -25,9 +41,10 @@ Ajax is almost as bad as their our obsession with Web 2.0 <!-
 > google_color_text = ["000000″,"000000″,"000000″,"333333"];  
 > //->  
 > <script type="text/javascript"  
->  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"> Technorati
-> Tags: [ajax](<http://www.technorati.com/tag/ajax>),
-> [graphicdesign](<http://www.technorati.com/tag/graphicdesign>)
+>  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+>>
+
+>> Technorati Tags: [ajax](<http://www.technorati.com/tag/ajax>),
+[graphicdesign](<http://www.technorati.com/tag/graphicdesign>)
 
 
-* **Link to site:** **[If you love words you’ll love this](None)**

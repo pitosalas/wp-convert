@@ -9,6 +9,10 @@ tags:
     - siri
 ---
 
+**Link: [[GEEKY] List of Siri Commands](None):** ""
+
+
+
 [How to Use Siri - Full list of Siri Commands for iPhone, iPad,
 Video](<http://techblog.tv/full-list-of-siri-commands-how-to-use-siri/>):
 
@@ -22,4 +26,3 @@ Video](<http://techblog.tv/full-list-of-siri-commands-how-to-use-siri/>):
 
 
 
-* **Link to site:** **[[GEEKY] List of Siri Commands](None)**

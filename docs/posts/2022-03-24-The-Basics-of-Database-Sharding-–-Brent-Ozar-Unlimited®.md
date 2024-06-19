@@ -6,6 +6,10 @@ tags:
     - scaling
 ---
 
+**Link: [The Basics of Database Sharding – Brent Ozar Unlimited®](None):** ""
+
+
+
 [ The Basics of Database Sharding - Brent Ozar
 Unlimited®](<https://www.brentozar.com/archive/2013/05/the-basics-of-database-
 sharding/>)
@@ -19,4 +23,3 @@ basic techniques, and shares some of the pitfalls. This…
 March 24, 2022 at 03:03PM
 
 
-* **Link to site:** **[The Basics of Database Sharding – Brent Ozar Unlimited®](None)**

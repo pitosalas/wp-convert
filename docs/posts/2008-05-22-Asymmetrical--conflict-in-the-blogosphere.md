@@ -6,6 +6,10 @@ tags:
     - blogging-fairness
 ---
 
+**Link: [Asymmetrical  conflict in the blogosphere](None):** ""
+
+
+
 I met with a potential client the other day who was on red alert because there
 were a lot of **nasty things** being said about them on blogs, comments and
 forums. And I thought of the concept of asymmetrical conflict as we have
@@ -39,4 +43,3 @@ side** of all the good that we get from the internet. But I know I personally
 will **think twice before zipping off a blog post or comment in anger.**
 
 
-* **Link to site:** **[Asymmetrical  conflict in the blogosphere](None)**

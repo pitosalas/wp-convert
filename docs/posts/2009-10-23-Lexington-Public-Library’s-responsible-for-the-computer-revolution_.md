@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2009-10-23
 ---
 
+**Link: [Lexington Public Library’s responsible for the computer revolution?](None):** ""
+
+
+
 Did you know of the Lexington Public Library's role in the founding of DEC
 (Digital Equipment Corporation) and so part of the creation of the computer
 revolution we've been living through the last 50 of so years?
@@ -12,7 +16,7 @@ revolution we've been living through the last 50 of so years?
 > their collection of business books, our experience had been limited to
 > making budgets for engineering expenses at Lincoln.  These did not, of
 > course, include things like overhead, income, sales expense, accounts
-> receivable, cash flow, balance sheets, etc." (**from** [Harlan Anderson's
+> receivable, cash flow, balance sheets, etc." ( **from** [Harlan Anderson's
 > blog](<http://harlaneanderson.com/2009/08/24/bitten-by-the-idea-of-starting-
 > digital-equipment-corporation/>))
 
@@ -21,4 +25,3 @@ Harlan Anderson was one of the founders of DEC.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-* **Link to site:** **[Lexington Public Library’s responsible for the computer revolution?](None)**

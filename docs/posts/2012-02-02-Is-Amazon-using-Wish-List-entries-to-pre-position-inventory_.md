@@ -9,6 +9,10 @@ tags:
     - wishlist
 ---
 
+**Link: [Is Amazon using Wish List entries to pre-position inventory?](None):** ""
+
+
+
 This happened: I had a book on my Amazon wish list for several months.
 
 **Yesterday** , I finally **placed** the order at around **3pm** and **today**
@@ -37,4 +41,3 @@ the publishers you could **distribute** it according to this forecast.
 Or it was just a **fluke** … Still I am pretty **impressed**.
 
 
-* **Link to site:** **[Is Amazon using Wish List entries to pre-position inventory?](None)**

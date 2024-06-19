@@ -4,6 +4,8 @@ author: Pito Salas
 date: 2006-08-03
 ---
 
+**Link: [The role of RSS in Science Publishing](None):** ""
+
 This article: [The Role of RSS in Science Publishing: Syndication and
 Annotation on the
 Web](<http://www.dlib.org/dlib/december04/hammond/12hammond.html> "The Role of
@@ -12,4 +14,3 @@ interesting survey of RSS and issues that folks in the Science community have
 to be aware of.
 
 
-* **Link to site:** **[The role of RSS in Science Publishing](None)**

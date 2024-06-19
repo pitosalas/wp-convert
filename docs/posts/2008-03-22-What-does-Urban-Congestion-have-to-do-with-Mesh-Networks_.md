@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-03-22
 ---
 
+**Link: [What does Urban Congestion have to do with Mesh Networks?](None):** ""
+
+
+
 ![](https://i0.wp.com/www.baselinemag.com/images/stories/ArticleImages/BL_2008_03/TrafficChrt1.jpg?w=584)Check
 out this very interesting [article that suggests that placing mesh network
 nodes in cars is a far better way to implement congestion
@@ -22,4 +26,3 @@ and-Wireless/Chasing-Away-Urban-Congestion/>) to follow the chain of reasoning
 but it's quite interesting.
 
 
-* **Link to site:** **[What does Urban Congestion have to do with Mesh Networks?](None)**

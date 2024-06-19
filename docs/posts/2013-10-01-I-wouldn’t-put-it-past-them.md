@@ -9,6 +9,10 @@ tags:
     - obamacare
 ---
 
+**Link: [I wouldn’t put it past them](None):** ""
+
+
+
 How much do you want to bet that somewhere someone in this country a malware
 or other attack is being launched against the new ["Obamacare" Web
 site?](<http://www.healthcare.gov>)
@@ -30,4 +34,3 @@ front of all the world.
 I really really hope this isn't true, but, I wouldn't put it past them.
 
 
-* **Link to site:** **[I wouldn’t put it past them](None)**

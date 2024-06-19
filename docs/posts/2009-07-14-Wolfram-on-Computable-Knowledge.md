@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2009-07-14
 ---
 
+**Link: [Wolfram on Computable Knowledge](None):** ""
+
+
+
 [Stephen Wolfram](<http://en.wikipedia.org/wiki/Stephen_Wolfram>) is a
 [genius](<http://en.wikipedia.org/wiki/Genius>). (Ok, he's also a bit
 grandiose, self-promoting and arrogant, but I think he's amazing. Kind of like
@@ -28,4 +32,3 @@ Tags: [mathematics](<http://technorati.com/tag/mathematics>),
 [stephenwolfram](<http://technorati.com/tag/stephenwolfram>)
 
 
-* **Link to site:** **[Wolfram on Computable Knowledge](None)**

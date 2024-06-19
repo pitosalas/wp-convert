@@ -9,6 +9,10 @@ tags:
     - texting
 ---
 
+**Link: [Texting: Left and Right Hand of Government](None):** ""
+
+
+
 Do you agree that prohibiting texting while driving is **contradictory** to
 texting as a way to deliver of major emergency messages?
 
@@ -18,7 +22,7 @@ texting as a way to deliver of major emergency messages?
 > Government is establishing a system to push Emergency Broadcast Alerts to
 > our Cell Phones and other electronic widgets. The second is the banning of
 > using Cell Phones while in a vehicle, so we could not get them while
-> moving." (**from** [Software Safety
+> moving." ( **from** [Software Safety
 > Net)](<http://blog.softwaresafety.net/2010/11/emergency-broadcast-alerts-
 > coming-to.html>)
 
@@ -29,4 +33,3 @@ phone rings while I am driving, I do answer it… Hmm. Need to rethink that
 part.
 
 
-* **Link to site:** **[Texting: Left and Right Hand of Government](None)**

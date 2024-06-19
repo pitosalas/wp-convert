@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-11-06
 ---
 
+**Link: [Barack Obama](None):** ""
+
+
+
 [![](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-
 content/uploads/2008/11/photo0019-300x225.jpg?resize=300%2C225)On Tuesday,
 Chris and I volunteered for Barack Obama. I got a very interesting perspective
@@ -65,4 +69,3 @@ sheriff stopped by to make sure that all was orderly.
 Anyway, it was a fantastic experience.
 
 
-* **Link to site:** **[Barack Obama](None)**

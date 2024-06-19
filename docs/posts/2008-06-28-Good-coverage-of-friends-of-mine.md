@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-06-28
 ---
 
+**Link: [Good coverage of friends of mine](None):** ""
+
+
+
 Recently three friends of mine got nice press coverage, so I thought I'd share
 them:
 
@@ -16,4 +20,3 @@ them:
 So in fact, there IS cool tech stuff going on in Boston 🙂
 
 
-* **Link to site:** **[Good coverage of friends of mine](None)**

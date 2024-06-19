@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-04-27
 ---
 
+**Link: [Are you blind to a great bargain?](None):** ""
+
+
+
 Here's a column that I can really relate to, and a topic that I've written
 about more than once before.
 
@@ -19,4 +23,3 @@ article](<http://online.wsj.com/article_print/SB117700152496775717.html>),
 it's really interesting!
 
 
-* **Link to site:** **[Are you blind to a great bargain?](None)**

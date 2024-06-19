@@ -4,8 +4,13 @@ author: Pito Salas
 date: 2004-09-14
 ---
 
-Ok, guys, we have another beta release with lots of great new goodies! It will
-be up on the web site tomorrow hopefully. It sports lots of new features,
+**Link: [BlogBridge Beta 4: Sept 15, 2004](None):** ""
+
+
+>>
+
+>> Ok, guys, we have another beta release with lots of great new goodies! It
+will be up on the web site tomorrow hopefully. It sports lots of new features,
 which I will be describing when I have some more time to do it. For now,
 please go to the BlogBridge web site and look around. Some links of interest:
 
@@ -59,4 +64,3 @@ the opposite order: good / unread / total.
 >> **Try the new beta. I hope you like it. Let me know!**
 
 
-* **Link to site:** **[BlogBridge Beta 4: Sept 15, 2004](None)**

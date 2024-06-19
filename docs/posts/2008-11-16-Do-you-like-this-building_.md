@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-11-16
 ---
 
+**Link: [Do you like this building?](None):** ""
+
+
+
 ![](http://www.triplemint.com/.a/6a00d834517dbc69e2010534a36f66970b-pi)I came
 across this ad in the New York Times magazine. I should say, I was riveted by
 this ad. Is this a real building? Is it built yet? You have to take a look at
@@ -20,4 +24,3 @@ with the question of whether this is an architectural/engineering/construction
 tour the force which in the end will not much improve the world.
 
 
-* **Link to site:** **[Do you like this building?](None)**

@@ -7,6 +7,10 @@ tags:
     - groupon-tag
 ---
 
+**Link: [Check out CityPockets](None):** ""
+
+
+
 I've been using various Groupon-ish web sites to **great advantage.** Whether
 it's [Groupon](<http://www.groupon.com>) itself, or
 [LivingSocial](<http://livingsocial.com>),
@@ -25,4 +29,3 @@ Free, useful and saves money too. I **recommend**
 [CityPockets](<http://www.citypockets.com/>)!
 
 
-* **Link to site:** **[Check out CityPockets](None)**

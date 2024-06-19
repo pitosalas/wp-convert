@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-04-04
 ---
 
+**Link: [Interesting links for 04/04/2018](None):** ""
+
+
+
   * [1.10. Decision Trees — scikit-learn 0.19.1 documentation](<http://scikit-learn.org/stable/modules/tree.html>)
 
   * [From Rails to Clojure, then to Java, then back to Rails - Engineering Management](<https://engineering-management.space/post/from-rails-to-clojure-to-java-to-rails/>)
@@ -14,4 +18,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Interesting links for 04/04/2018](None)**

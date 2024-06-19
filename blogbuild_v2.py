@@ -109,7 +109,7 @@ class BlogBuild:
                 )
                 continue
             tags = self.tags_to_markdown(post["tags"])
-            self.save_individual_post(title, content, date, tags, None, None)
+            self.save_individual_post(title, content, date, tags, None, None, "")
             # print(f"Adding Post {title}")
             count += 1
         print(f"""blogbuild_v2: Total: {count} wp Posts Generated""")
@@ -136,6 +136,8 @@ class BlogBuild:
         for index, (drop_title, drop) in enumerate(self.drops.items()):
             title = drop_title
             content = self.fix_drop_content(drop)
+            exerpt = drop["excerpt"]
+
             date = self.fix_drop_date(drop["created"])
             url = drop["url"]
             cover = drop["cover"]
@@ -153,7 +155,7 @@ class BlogBuild:
             else:
                 tags_str = ""
             self.save_individual_post(
-                title, content, date, tags_str, url, cover
+                title, content, date, tags_str, url, cover, exerpt
             )
             count += 1
         print(f"""blogbuild_v2: total: {count} Drop Posts Generated""")
@@ -167,8 +169,6 @@ class BlogBuild:
 
         """
         content = f"""{drop['note']}"""
-        if drop["excerpt"] != "":
-            content += f"""\n\n* **Web site excerpt:** {drop['excerpt']}\n"""
         return content
 
     def fix_drop_tags(self, tags):
@@ -211,7 +211,7 @@ class BlogBuild:
             tags_string = f"\ntags:{tags_string}"
         return tags_string
 
-    def save_individual_post(self, title, content, date, tags, url, cover):
+    def save_individual_post(self, title, content, date, tags, url, cover, excerpt):
         if cover is not None:
             cover_markdown = f"""<img class="cover" src={cover}>\n"""
             cover_text = f"""\ncover: "{cover}" """
@@ -233,8 +233,9 @@ author: Pito Salas{url_text}{cover_text}
 date: {date}{tags}
 ---
 {cover_markdown}
+**Link: [{title}]({url}):** "{excerpt}"
+
 {content}
-* **Link to site:** **[{title}]({url})**
 """
             file.write(markdown)
 

@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2009-06-03
 ---
 
+**Link: [[GEEKY] A DSL for Image Analysis](None):** ""
+
+
+
 I have been working quite a lot on **Election Reform**   over the last few
 weeks, at least from the technology side.
 
@@ -80,4 +84,3 @@ Technorati Tags: [dsl](<http://technorati.com/tag/dsl>),
 [ballots](<http://technorati.com/tag/ballots>)
 
 
-* **Link to site:** **[[GEEKY] A DSL for Image Analysis](None)**

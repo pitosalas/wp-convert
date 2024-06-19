@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-06-15
 ---
 
+**Link: [Some great links for  06/16/2019](None):** ""
+
+
+
   * [Ten Reasons Why I Don't Like Golang](<https://www.teamten.com/lawrence/writings/why-i-dont-like-go.html>)
 
 I thought I wanted to learn golang, now I am not so sure…
@@ -34,4 +38,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  06/16/2019](None)**

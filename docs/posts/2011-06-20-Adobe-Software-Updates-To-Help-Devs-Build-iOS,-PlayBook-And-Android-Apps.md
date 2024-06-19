@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2011-06-20
 ---
 
+**Link: [Adobe Software Updates To Help Devs Build iOS, PlayBook And Android Apps](None):** ""
+
+
+
 As you (don't) know, I am [teaching a course at Brandeis University about
 mobile and game development](<https://sites.google.com/site/jbs2011mobile/>).
 So I follow stories about how to more easily create cross platform mobile apps
@@ -18,4 +22,3 @@ Apps](<http://feedproxy.google.com/~r/Techcrunch/~3/xrYpUUH5Vi0/>) from
 > support for the Android platform (added last April).
 
 
-* **Link to site:** **[Adobe Software Updates To Help Devs Build iOS, PlayBook And Android Apps](None)**

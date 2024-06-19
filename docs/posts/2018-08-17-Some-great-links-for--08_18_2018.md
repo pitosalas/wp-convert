@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-08-17
 ---
 
+**Link: [Some great links for  08/18/2018](None):** ""
+
+
+
   * [thisredone/rb](<https://github.com/thisredone/rb?utm_source=hackernewsletter&utm_medium=email&utm_term=code>)
 
 This is very interesting and cool way to use ruby for fancy cli scripts, like
@@ -26,4 +30,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  08/18/2018](None)**

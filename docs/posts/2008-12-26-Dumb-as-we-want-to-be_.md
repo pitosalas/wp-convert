@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-12-26
 ---
 
+**Link: [Dumb as we want to be?](None):** ""
+
+
+
 Thomas Friedman with another thought provoking column. I know not everyone
 likes his perspective but I find myself in violent agreement more often than
 not:
@@ -21,4 +25,3 @@ Time To Reboot? [Read the whole article, please.
 ](<http://www.nytimes.com/2008/12/24/opinion/24friedman.html?_r=1&ref=todayspaper>)
 
 
-* **Link to site:** **[Dumb as we want to be?](None)**

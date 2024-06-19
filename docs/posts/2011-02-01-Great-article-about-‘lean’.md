@@ -6,6 +6,10 @@ tags:
     - lean-startups
 ---
 
+**Link: [Great article about ‘lean’](None):** ""
+
+
+
 [I recommend this article, "Fatboy in A Lean
 World"](<http://www.oreillygmt.eu/interview/fatboy-in-a-lean-world/>), (by
 [Gordon Guthrie](<http://www.oreillygmt.eu/author/gordon-guthrie/>)) if you
@@ -16,15 +20,15 @@ About why lean production is becoming so hot among us software entrepreneurs:
 > The great transformation of the industry over the last 10 years has been the
 > availability of already-written (and battle tested) software which has
 > slashed the size of a team that can build a functioning product and the
-> crash in price of hardware. (**from**[ Fatboy in a Lean
+> crash in price of hardware. ( **from**[ Fatboy in a Lean
 > World](<http://www.oreillygmt.eu/interview/fatboy-in-a-lean-world/>))
 
 About Y-Combinator's philosophy:
 
 > The YCombinator slogan is build things people want. Lean production is the
-> double negative of that: don’t build things people don’t want.
-> (**from**[Fatboy in a Lean
-> World](<http://www.oreillygmt.eu/interview/fatboy-in-a-lean-world/>))
+> double negative of that: don’t build things people don’t want. (
+> **from**[Fatboy in a Lean World](<http://www.oreillygmt.eu/interview/fatboy-
+> in-a-lean-world/>))
 
 About one of the key concepts of lean, the "minimum viable product" or MVP:
 
@@ -52,7 +56,7 @@ About one of the key concepts of lean, the "minimum viable product" or MVP:
 > right here, right now. An MVP, after all, is a Minimum Viable Product. If
 > your users are not your users (but your product) you should be thinking how
 > do I get enough users to ‘sell’ to whoever your customers are (lead
-> generation, advertisers, market information, whatever). (**from**[Fatboy in
+> generation, advertisers, market information, whatever). ( **from**[Fatboy in
 > a Lean World](<http://www.oreillygmt.eu/interview/fatboy-in-a-lean-world/>)
 
 Read the article: [Fatboy in a Lean
@@ -60,4 +64,3 @@ World](<http://www.oreillygmt.eu/interview/fatboy-in-a-lean-world/>) and also
 check out the links in the footnotes. More good stuff.
 
 
-* **Link to site:** **[Great article about ‘lean’](None)**

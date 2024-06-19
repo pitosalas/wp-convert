@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-06-30
 ---
 
+**Link: [Some great links for  06/30/2018](None):** ""
+
+
+
   * [[EN][Keynote] Parallel and Thread-Safe Ruby at High-Speed with TruffleRuby / Benoit Daloze @eregontp](<https://m.youtube.com/watch?v=mRKjWrNJ8DI>)
 
 tags: [performance](<https://www.diigo.com/user/pitosalas/performance>)
@@ -38,4 +42,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  06/30/2018](None)**

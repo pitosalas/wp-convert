@@ -4,8 +4,13 @@ author: Pito Salas
 date: 2004-05-28
 ---
 
-Struggling with debugging hairy focus and other UI problems in Swing (Java)?
-Here's a handy little tip that I just found out about:
+**Link: [[Geek] Debugging focus problems](None):** ""
+
+
+>>
+
+>> Struggling with debugging hairy focus and other UI problems in Swing
+(Java)? Here's a handy little tip that I just found out about:
 
 >>
 
@@ -21,4 +26,3 @@ people off. My new standard is that I will precede the title with [geek] to
 give early warning and allow people to skip it.
 
 
-* **Link to site:** **[[Geek] Debugging focus problems](None)**

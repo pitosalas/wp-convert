@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2009-02-07
 ---
 
+**Link: [The Secret in Building 26](None):** ""
+
+
+
 Dave writes an enthousiastic review of this book: [The Secret in Building
 26](<http://davedupre.com/2009/02/05/the-secret-in-building-26/>):
 
@@ -16,10 +20,9 @@ Dave writes an enthousiastic review of this book: [The Secret in Building
 > British, but this book details how it was much more of a partnership between
 > the British and Americans. Most of this stuff is only recently declassified,
 > and most is still classified. However, the information available is a great
-> introduction to the dawn of the electronic computer." (**from:** from [Big
+> introduction to the dawn of the electronic computer." ( **from:** from [Big
 > Dave's Blog](<http://davedupre.com/feed/>))
 
 …
 
 
-* **Link to site:** **[The Secret in Building 26](None)**

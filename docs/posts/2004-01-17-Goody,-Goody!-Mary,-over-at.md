@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-01-17
 ---
 
-**Goody, Goody!**[Mary, over at
+**Link: [Goody, Goody! Mary, over at](None):** ""
+
+
+>>
+
+>> **Goody, Goody!**[Mary, over at
 LockerGnome](<http://channels.lockergnome.com/news/archives/008603.phtml>)
 notes: "…to look like a Windows application. With JGoodies you can give them
 what they want, and a whole lot more besides!". This is in reference to a
@@ -22,4 +27,3 @@ lately](<http://www.blogbridge.com>) has been using
 WindowsXP looking UI with Swing actually possible. No small feat.
 
 
-* **Link to site:** **[Goody, Goody! Mary, over at](None)**

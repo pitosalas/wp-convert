@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2020-12-25
 ---
 
+**Link: [Some great links for  12/26/2020](None):** ""
+
+
+
   * [This Could Be the New Java](<https://link.medium.com/S6fWoGZpvcb>)
 
 I thought Kotlin was the natural heir. This makes a good case for Scala!
@@ -18,4 +22,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  12/26/2020](None)**

@@ -4,11 +4,17 @@ author: Pito Salas
 date: 2004-02-01
 ---
 
-**I 'm not *that* geeky: **I am totally fascinated and entralled with what's
-going on on Mars right now. I've followed all sorts of sources and recently
-came across this [blog by Susan Kitchens](<http://discuss.2020hindsight.org/>)
-who has very detailed posts about what's going on. I don't know who she is or
-how she's connected, but it's a pretty comprehensive way to keep up.
+**Link: [I’m not *that* geeky: I](None):** ""
+
+
+>>
+
+>> **I 'm not *that* geeky: **I am totally fascinated and entralled with
+what's going on on Mars right now. I've followed all sorts of sources and
+recently came across this [blog by Susan
+Kitchens](<http://discuss.2020hindsight.org/>) who has very detailed posts
+about what's going on. I don't know who she is or how she's connected, but
+it's a pretty comprehensive way to keep up.
 
 >>
 
@@ -32,7 +38,7 @@ amusing:
 >
 >>>
 
->>> _" Backing up the Mars Rover Mission: _[_Computerworld has the
+>>>  _" Backing up the Mars Rover Mission: _[_Computerworld has the
 story_](<http://www.computerworld.com/hardwaretopics/storage/story/0,10801,89629,00.html>)
 _. They also_[
 _covered_](<http://www.computerworld.com/governmenttopics/government/story/0,10801,88734,00.html>)
@@ -54,4 +60,3 @@ site of their own](<http://marsrovers.jpl.nasa.gov/home/index.html>) with news
 and some amazing animations.
 
 
-* **Link to site:** **[I’m not *that* geeky: I](None)**

@@ -4,9 +4,13 @@ author: Pito Salas
 date: 2006-09-28
 ---
 
-[![](https://i0.wp.com/static.flickr.com/102/253257472_3983c0ba56_m.jpg?w=584)](<http://www.flickr.com/photos/98431073@N00/253257472/>
-"photo sharing")
+**Link: [Bryce Canyon National Park](None):** ""
 
+
+>
+>
+> [![](https://i0.wp.com/static.flickr.com/102/253257472_3983c0ba56_m.jpg?w=584)](<http://www.flickr.com/photos/98431073@N00/253257472/>
+> "photo sharing")
 >
 > [Bryce Canyon National
 > Park](<http://www.flickr.com/photos/98431073@N00/253257472/>)
@@ -47,4 +51,3 @@ date: 2006-09-28
 >  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 
 
-* **Link to site:** **[Bryce Canyon National Park](None)**

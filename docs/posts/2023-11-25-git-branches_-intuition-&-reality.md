@@ -8,9 +8,12 @@ tags:
     - git
 ---
 
+**Link: [git branches: intuition & reality](None):** ""
+
+
+
 [ git branches: intuition & reality](<
 https://jvns.ca/blog/2023/11/23/branches-intuition-
 reality/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav>) –
 
 
-* **Link to site:** **[git branches: intuition & reality](None)**

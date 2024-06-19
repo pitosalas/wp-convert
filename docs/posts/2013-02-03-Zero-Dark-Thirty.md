@@ -7,6 +7,10 @@ tags:
     - zero-dark-thirty
 ---
 
+**Link: [Zero Dark Thirty](None):** ""
+
+
+
 I saw this movie last night and really thought it was great. I had read some[
 negative commentary about Zero Dark
 Thirty](<http://www.nybooks.com/articles/archives/2013/feb/07/disturbing-
@@ -29,7 +33,7 @@ You have to be a **very observant** movie watcher (catching the many
 unfamiliar names that are rattled off) to truly have an impression that
 torture played a **key role** in the information that led to USM's demise.
 
-Also you have to have **missed** TV shows like '**24** ' and '**Homeland** '
+Also you have to have **missed** TV shows like ' **24** ' and ' **Homeland** '
 to be overly shocked by the depictions of torture. There was no blood, and the
 hitting was quite mild really.
 
@@ -42,4 +46,3 @@ See the movie. It's really **interesting** while being a **edge-of-your-seat**
 story.
 
 
-* **Link to site:** **[Zero Dark Thirty](None)**

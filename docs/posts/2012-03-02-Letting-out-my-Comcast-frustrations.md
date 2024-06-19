@@ -10,6 +10,10 @@ tags:
     - verizon-tag
 ---
 
+**Link: [Letting out my Comcast frustrations](None):** ""
+
+
+
 > "Dear Kelley
 >
 > I've had a very bad two days with Comcast, and if you check my account you
@@ -49,4 +53,3 @@ tags:
 > Bye Bye. Pito Salas"
 
 
-* **Link to site:** **[Letting out my Comcast frustrations](None)**

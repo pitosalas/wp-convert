@@ -4,7 +4,11 @@ author: Pito Salas
 date: 2006-12-07
 ---
 
-<!-  
+**Link: [Ask Lifehacker: The gift of a pre-loaded iPod](None):** ""
+
+
+>
+> <!-  
 >  body { font-size: 11pt; font-family: Tahoma; font-weight: normal; line-
 > height: normal; font-style: normal; font-variant: normal }  
 >  ->
@@ -21,4 +25,3 @@ date: 2006-12-07
 > This is a really good idea! I will use it this holiday season!
 
 
-* **Link to site:** **[Ask Lifehacker: The gift of a pre-loaded iPod](None)**

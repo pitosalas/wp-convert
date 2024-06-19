@@ -10,6 +10,10 @@ tags:
     - inno-tagvation-tag
 ---
 
+**Link: [[EDUCATION] Sign of change in the universe](None):** ""
+
+
+
 I would love to see this trend accelerate:
 
 > "The five-year-old [Innovation, Creativity and Entrepreneurship] program,
@@ -30,7 +34,7 @@ Fairly exhausting for everyone involved, but worth it.
 
 I wish all college students, especially in my field, Computer Science, were
 thought learn theory and critical thinking, **but also got exposed** (and were
-even required) to learn what I like to call "**critical doing "**. Working in
+even required) to learn what I like to call " **critical doing "**. Working in
 teams, inventing and creating things that others could benefit of, could touch
 and feel, and could have an impact in the real world.
 
@@ -39,4 +43,3 @@ there is signs that the students and parents (the customers after all) are
 demanding this. Change is slow, but it is coming.
 
 
-* **Link to site:** **[[EDUCATION] Sign of change in the universe](None)**

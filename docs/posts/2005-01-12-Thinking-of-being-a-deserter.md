@@ -4,6 +4,8 @@ author: Pito Salas
 date: 2005-01-12
 ---
 
+**Link: [Thinking of being a deserter](None):** ""
+
 I'm seriously thinking about starting to use a Macintosh for my day to day
 work computer instead of a PC! Can you believe it? Why?
 
@@ -23,11 +25,19 @@ really nice, I think OS X is just a little bit nicer.
 
 >>
 
-BTW, Not that that Mac is without fault - it certainly has its share of brain
-dead usability "features', but all in all it's just easier on the eyes. But
-what do you care about what I use for development. The real excuse for this
-post is to quote you a hilarious comment that someone on the Java mailing list
-said when I posed the question about the trade-offs between Mac and Windows:
+>>
+
+>>
+
+>> BTW, Not that that Mac is without fault - it certainly has its share of
+brain dead usability "features', but all in all it's just easier on the eyes.
+
+>>
+
+>> But what do you care about what I use for development. The real excuse for
+this post is to quote you a hilarious comment that someone on the Java mailing
+list said when I posed the question about the trade-offs between Mac and
+Windows:
 
 >>
 
@@ -39,4 +49,3 @@ mine for a year after he switched. He loved it. I switched a year after him. I
 feel the same."
 
 
-* **Link to site:** **[Thinking of being a deserter](None)**

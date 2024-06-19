@@ -7,6 +7,10 @@ tags:
     - washington-tagpost
 ---
 
+**Link: [Enjoyable article about BO in the Washington Post](None):** ""
+
+
+
 > "Each morning when he arrives at the Oval Office, President Obama asks his
 > staff to deliver him a package containing 10 letters. It is a mere sampling
 > of the 40,000 or so that Americans send to the White House every day -- a
@@ -23,4 +27,3 @@ made me feel **good** about what's going on.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-* **Link to site:** **[Enjoyable article about BO in the Washington Post](None)**

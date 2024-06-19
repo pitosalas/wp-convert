@@ -7,6 +7,10 @@ tags:
     - orthodox
 ---
 
+**Link: [Orthodoxy](None):** ""
+
+
+
 I'd be the last one to wade into commentary on religious topics, so I just
 [share this link](<http://joshyuter.com/2011/12/06/judaism/the-selective-
 sanctimony-of-orthodox-judaism/>) because for me it was interesting reading:
@@ -21,4 +25,3 @@ sanctimony-of-orthodox-judaism/>) because for me it was interesting reading:
 > of-orthodox-judaism/>)
 
 
-* **Link to site:** **[Orthodoxy](None)**

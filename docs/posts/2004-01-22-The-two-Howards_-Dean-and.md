@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-01-22
 ---
 
-**The two Howards: Dean and Stern.** Everyone is **wringing their hands**
+**Link: [The two Howards: Dean and](None):** ""
+
+
+>>
+
+>> **The two Howards: Dean and Stern.** Everyone is **wringing their hands**
 about the way Howard Dean acted out on the night of the Iowa Caucuses. I heard
 well known pundits talk about **' the defining moment of Dean's campaign**.'
 What a bunch of **nonsense**. This was a non-event, a crazy moment at the end
@@ -28,4 +33,3 @@ you here, but either use your imagination, or take my word for it: it was one
 of the **all time funiest moments on Radio**.
 
 
-* **Link to site:** **[The two Howards: Dean and](None)**

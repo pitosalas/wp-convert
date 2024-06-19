@@ -10,13 +10,17 @@ tags:
     - mit
 ---
 
+**Link: [[EDUCATION] Is the innovators’ dilemma coming to higher ed?](None):** ""
+
+
+
 An interesting fact:
 
 > "In the last years of the nineteenth century, Charles Dow created an index
 > of 12 leading industrial companies. Almost none of them exist today….[…]…
 > Four years after Dow invented his average, a group of 14 leading research
 > institutions created the Association of American Universities. All of them
-> exist today." (**from**[The Higher Education Monopoly is Crumbling As We
+> exist today." ( **from**[The Higher Education Monopoly is Crumbling As We
 > Speak)](<http://www.tnr.com/article/politics/101620/higher-education-
 > accreditation-MIT-university>)
 
@@ -28,8 +32,8 @@ from:
 > economy, their crucial role in upper-middle class acculturation, our
 > peculiar national enthusiasm for college sports—but the single greatest
 > asset held by traditional colleges and universities is their exclusive
-> franchise for the production and sale of higher education credentials.
-> (**from**[The Higher Education Monopoly is Crumbling As We
+> franchise for the production and sale of higher education credentials. (
+> **from**[The Higher Education Monopoly is Crumbling As We
 > Speak)](<http://www.tnr.com/article/politics/101620/higher-education-
 > accreditation-MIT-university>)
 
@@ -51,4 +55,3 @@ Speak)](<http://www.tnr.com/article/politics/101620/higher-education-
 accreditation-MIT-university>)
 
 
-* **Link to site:** **[[EDUCATION] Is the innovators’ dilemma coming to higher ed?](None)**

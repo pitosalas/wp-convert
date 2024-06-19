@@ -7,6 +7,10 @@ tags:
     - design
 ---
 
+**Link: [What about that iWatch? It’s about the Software!](None):** ""
+
+
+
 I've seen commentary that it's ["disappointingly
 familiar"](<https://twitter.com/tomgara/status/509418078523121664?_ga=1.69942866.337543244.1409238690>),
 i.e. it looks just like several other computer watches, like the
@@ -38,4 +42,3 @@ like. But it is a foundation on which will set the standard for wearables for
 a long time.
 
 
-* **Link to site:** **[What about that iWatch? It’s about the Software!](None)**

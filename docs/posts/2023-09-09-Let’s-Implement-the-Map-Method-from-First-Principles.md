@@ -10,6 +10,10 @@ tags:
     - ruby
 ---
 
+**Link: [Let’s Implement the Map Method from First Principles](None):** ""
+
+
+
 [ Let's Implement the Map Method from First Principles](<
 https://www.akshaykhot.com/map-from-first-principles/?ref=akshays-blog-
 newsletter>) –Those new to functional programming often wonder when to use
@@ -18,4 +22,3 @@ post, we'll implement the map method from scratch, in turn gaining an
 intuitive understanding of higher-order functions and when to use them.
 
 
-* **Link to site:** **[Let’s Implement the Map Method from First Principles](None)**

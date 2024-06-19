@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-03-23
 ---
 
-  
+**Link: [CBS News’ Bob Schieffer](None):** ""
+
+
+>>
+
+>>  
 >
 >>
 
@@ -13,4 +18,3 @@ Should be interesting. [Here's the schedule of the Cambridge
 Forum.](<http://www.cambridgeforum.org/cfweb/cfschedule.html>)
 
 
-* **Link to site:** **[CBS News’ Bob Schieffer](None)**

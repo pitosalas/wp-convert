@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-09-01
 ---
 
+**Link: [Some great links for  09/02/2018](None):** ""
+
+
+
   * [westonganger (Weston Ganger)](<https://github.com/westonganger>)
 
 A gem containing functionality to represent, import and export spreadsheets
@@ -27,4 +31,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  09/02/2018](None)**

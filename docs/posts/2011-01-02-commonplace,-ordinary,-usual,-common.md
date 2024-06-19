@@ -8,6 +8,10 @@ tags:
     - solitude
 ---
 
+**Link: [commonplace, ordinary, usual, common](None):** ""
+
+
+
 I just came across an excellent speech given by William Deresiewics (I didn't
 know who he was either) to the plebe class at the United States Military
 Academy at West Point. The title of the speech is [Solitude and
@@ -44,4 +48,3 @@ Education](<http://www.theamericanscholar.org/the-disadvantages-of-an-elite-
 education/>) by William Deresiewicz.
 
 
-* **Link to site:** **[commonplace, ordinary, usual, common](None)**

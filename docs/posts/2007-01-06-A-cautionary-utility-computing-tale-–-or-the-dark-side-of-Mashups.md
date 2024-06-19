@@ -4,9 +4,13 @@ author: Pito Salas
 date: 2007-01-06
 ---
 
-Check out [this post](<http://feeds.feedburner.com/~r/zdnet/BTL/~3/71375022/>)
-from [Between the Lines](<http://blogs.zdnet.com/BTL>):
+**Link: [A cautionary utility computing tale – or the dark side of Mashups](None):** ""
 
+
+>
+> Check out [this
+> post](<http://feeds.feedburner.com/~r/zdnet/BTL/~3/71375022/>) from [Between
+> the Lines](<http://blogs.zdnet.com/BTL>):
 >
 
 >> [snip…] "Yesterday Amazon's S3 service suffered an outage that lasted more
@@ -51,4 +55,3 @@ tale](<http://feeds.feedburner.com/~r/zdnet/BTL/~3/71375022/>))
 > [web2.0](<http://www.technorati.com/tag/web2.0>)
 
 
-* **Link to site:** **[A cautionary utility computing tale – or the dark side of Mashups](None)**

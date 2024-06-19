@@ -8,7 +8,11 @@ tags:
     - guidestar
 ---
 
-[**Note** : don't assume you know what a Charitable Mutual Fund is. It's an
+**Link: [Charitable Mutual Funds (updated)](None):** ""
+
+
+
+[ **Note** : don't assume you know what a Charitable Mutual Fund is. It's an
 evocative but really misleading name but I don't have a better handle for it
 yet. This is not an investment vehicle, it does not return any money. It is
 way to allow a donor to donate to one or more causes that match certain
@@ -37,7 +41,7 @@ With that information I sent in a check for say $1,000.00. They would
 one or more donations on my behalf. If I wanted to do this say annually, they
 would could manage that as well.
 
-I call this a "**Charitable Mutual Fund** " because, like a mutual fund, a
+I call this a " **Charitable Mutual Fund** " because, like a mutual fund, a
 entrust a third party to 'invest' my funds according to a certain guideline
 that I give it. And I empower them to adjust the donations based on their
 judgement of the individual causes.
@@ -47,10 +51,10 @@ totally wrong. **It implies investment and appreciation. What I am describing
 here is not an investment vehicle at all and would actually not hold on to any
 funds at all, nor would it have any returns for donors.
 
-Charitable Mutual Funds could either be "**actively managed** ", where a
+Charitable Mutual Funds could either be " **actively managed** ", where a
 presumably smart board of advisors would determine the best and most deserving
-charities that matched my particular focus, or they could operate like an
-"**index fund** " where an algorithm would simply grab the 10 or 50 highest
+charities that matched my particular focus, or they could operate like an "
+**index fund** " where an algorithm would simply grab the 10 or 50 highest
 rated charities and distribute donated funds pro-rata.
 
 **Does this already exist?** I did a quick web search and saw no evidence of
@@ -84,4 +88,3 @@ to.
 So there are good ways to overcome this objection.
 
 
-* **Link to site:** **[Charitable Mutual Funds (updated)](None)**

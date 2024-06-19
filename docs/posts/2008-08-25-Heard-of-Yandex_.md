@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-08-25
 ---
 
+**Link: [Heard of Yandex?](None):** ""
+
+
+
 From TimesOnline, a good reminder to not forget that we do live in a USA
 bubble sometimes, and don't pay enough attention to the rest of the world:
 
@@ -32,4 +36,3 @@ topic. ](</2008/07/28/cuil-vs-google/>)
 Can you spell "echo chamber?"
 
 
-* **Link to site:** **[Heard of Yandex?](None)**

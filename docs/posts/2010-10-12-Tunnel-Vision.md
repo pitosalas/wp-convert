@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2010-10-12
 ---
 
+**Link: [Tunnel Vision](None):** ""
+
+
+
 This [article by David Brooks in the New York
 Times](<http://www.nytimes.com/2010/10/12/opinion/12brooks.html>) addresses a
 problem that I was wondering about too. New Jersey cancelled the building of a
@@ -24,11 +28,10 @@ Times](<http://www.nytimes.com/2010/10/12/opinion/12brooks.html>):
 > in the fat years and then are careful to placate the unions by raising
 > future pension benefits in the lean ones. Even if cost-conscious leaders are
 > elected, they find their hands tied by pension commitments and employee
-> contracts." (**from** [article by David Brooks in the New York
+> contracts." ( **from** [article by David Brooks in the New York
 > Times](<http://www.nytimes.com/2010/10/12/opinion/12brooks.html>))
 
 Read the whole [article by David Brooks in the New York
 Times](<http://www.nytimes.com/2010/10/12/opinion/12brooks.html>).
 
 
-* **Link to site:** **[Tunnel Vision](None)**

@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-10-01
 ---
 
+**Link: [Lotus alums getting acquired left and right: Zingku and Buzzsaw](None):** ""
+
+
+
 In recent weeks there have been two exciting announcements of acquisitions of
 companies started by friends of mine, and not coincidentally, ex-[Lotus
 Development Corporation](<http://en.wikipedia.org/wiki/Lotus_Software>) folks.
@@ -20,4 +24,3 @@ agreemenet to acquire Virtual Ubiquity](<http://blog.virtub.com/>), makers of
 Way to go!!!
 
 
-* **Link to site:** **[Lotus alums getting acquired left and right: Zingku and Buzzsaw](None)**

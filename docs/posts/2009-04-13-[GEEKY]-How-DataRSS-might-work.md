@@ -11,6 +11,10 @@ tags:
     - webservices
 ---
 
+**Link: [[GEEKY] How DataRSS might work](None):** ""
+
+
+
 **Editors Note (that 's me, Pito): I've decided to change the name of this
 thing to "Decentralized Data Discovery - DDD" because I learned from more than
 one person that calling it Data RSS was misleading and confusing. I need to go
@@ -32,9 +36,9 @@ labeled [GEEKY]. Here's some of what I cover in part 3:
 > implemented in any programming language.
 >
 > Importantly, the Publisher and Accessor software need not know (can not
-> know) what language the _counterparties_ software is written in. " (**from**
-> [DataRSS: Technical Overview](<http://www.scribd.com/doc/14136777/DataRss-
-> Tech-Overview>))
+> know) what language the _counterparties_ software is written in. " (
+> **from** [DataRSS: Technical
+> Overview](<http://www.scribd.com/doc/14136777/DataRss-Tech-Overview>))
 
 and
 
@@ -46,7 +50,7 @@ and
 >
 > The Accessor wants to write an application program that accesses and does
 > something useful with data coming from any Publisher. Accessor and Publisher
-> don’t know each other. " (**from** [DataRSS: Technical
+> don’t know each other. " ( **from** [DataRSS: Technical
 > Overview](<http://www.scribd.com/doc/14136777/DataRss-Tech-Overview>))
 
 **Delicious** isn't it? One final tease, I also have worked out some detailed
@@ -56,4 +60,3 @@ API](<http://www.sunlightfoundation.com/>) and with the [Follow The Money API.
 ](<http://www.followthemoney.org/>)
 
 
-* **Link to site:** **[[GEEKY] How DataRSS might work](None)**

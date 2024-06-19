@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2009-08-10
 ---
 
+**Link: [More weapons of civic mass destruction](None):** ""
+
+
+
 A while ago I wrote about [weapons of civic mass
 destruction](</2009/04/25/weapons-of-civic-mass-destruction-2522/>). I think
 it is very disturbing to see and hear the way [Town Hall meetings being
@@ -24,4 +28,3 @@ hollering at you. How do you respond to this without actually killing
 discourse?
 
 
-* **Link to site:** **[More weapons of civic mass destruction](None)**

@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-05-10
 ---
 
+**Link: [[GEEKY] Some good Rails resources](None):** ""
+
+
+
 Just a few handy links that, if you are a Rails developer you may be
 interested in:
 
@@ -15,4 +19,3 @@ interested in:
 I have found each of these a great resource, and I recommend them to you!
 
 
-* **Link to site:** **[[GEEKY] Some good Rails resources](None)**

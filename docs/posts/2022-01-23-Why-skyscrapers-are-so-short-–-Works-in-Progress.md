@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2022-01-23
 ---
 
+**Link: [Why skyscrapers are so short – Works in Progress](None):** ""
+
+
+
 [ Why skyscrapers are so short - Works in
 Progress](<https://www.worksinprogress.co/issue/why-skyscrapers-are-so-
 short/>)
@@ -15,4 +19,3 @@ can do it.
 January 23, 2022 at 03:44PM
 
 
-* **Link to site:** **[Why skyscrapers are so short – Works in Progress](None)**

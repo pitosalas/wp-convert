@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2010-05-23
 ---
 
+**Link: [Wall Street Traders == Hackers](None):** ""
+
+
+
 [Mark Cuban comes up with a very plausible
 analogy:](<http://www.businessinsider.com/what-business-is-wall-street-
 in-2010-5>)
@@ -15,8 +19,8 @@ in-2010-5>)
 > wants to jump in front of your trade and then sell that stock to you. A
 > hacker will tell you that they are serving a purpose by identifying the weak
 > links in your system. A trader will tell you they deserve the pennies they
-> are making on the trade because they provide liquidity to the market.
-> (**From** [Wall Street Insider](<http://www.businessinsider.com/what-
+> are making on the trade because they provide liquidity to the market. (
+> **From** [Wall Street Insider](<http://www.businessinsider.com/what-
 > business-is-wall-street-in-2010-5#ixzz0ol7t5GO0>))
 
 The [Sunday New York Times today suggests a similar conclusion but not the
@@ -32,9 +36,8 @@ perfect analogy:
 > [Harvard](<http://topics.nytimes.com/top/reference/timestopics/organizations/h/harvard_university/index.html?inline=nyt-
 > org> "More articles about Harvard University.").  
 >  “Whatever law they design today, if it’s not updated in 15 or so years,  
->  it will be completely ineffective, completely irrelevant.” (**From** [New
+>  it will be completely ineffective, completely irrelevant.” ( **From** [New
 > York Times: Rule 1 - Make Money by Avoiding the
 > Rules"](<http://www.nytimes.com/2010/05/23/weekinreview/23goodman.html>))
 
 
-* **Link to site:** **[Wall Street Traders == Hackers](None)**

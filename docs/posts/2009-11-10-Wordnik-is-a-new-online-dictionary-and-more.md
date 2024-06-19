@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2009-11-10
 ---
 
+**Link: [Wordnik is a new online dictionary and more](None):** ""
+
+
+
 Just came across [Wordnik](<http://www.wordnik.com>), what looks like a
 [mega](<http://www.wordnik.com/words/mega>) dictionary. Maybe it's more of a
 [meta](<http://www.wordnik.com/words/meta>) dictionary. It's part of the
@@ -13,4 +17,3 @@ might [like](<http://www.wordnik.com/words/like>) it.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-* **Link to site:** **[Wordnik is a new online dictionary and more](None)**

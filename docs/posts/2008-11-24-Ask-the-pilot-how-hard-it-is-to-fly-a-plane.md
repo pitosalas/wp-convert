@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-11-24
 ---
 
+**Link: [Ask the pilot how hard it is to fly a plane](None):** ""
+
+
+
 Ask The Pilot is a regular Salon column. Recently there was a good one,
 essentially about [how hard or easy it is to fly and land a
 plane](<http://www.salon.com/tech/col/smith/2008/11/14/askthepilot298/index.html>)
@@ -35,4 +39,3 @@ terror](<http://www.salon.com/tech/col/smith/2008/11/14/askthepilot298/index.htm
 askthepilot](<http://technorati.com/tag/pilot%20flying%20airplanes%20askthepilot>)
 
 
-* **Link to site:** **[Ask the pilot how hard it is to fly a plane](None)**

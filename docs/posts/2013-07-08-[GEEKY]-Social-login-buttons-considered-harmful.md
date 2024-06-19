@@ -11,6 +11,10 @@ tags:
     - user-experience
 ---
 
+**Link: [[GEEKY] Social login buttons considered harmful](None):** ""
+
+
+
 You probably don't know what a social login button is so forgive this bit of
 geekyness. I am sure you've seen them: "login with facebook or twitter?" If an
 app or a site wants to "save you the trouble" of registering a username and
@@ -20,7 +24,8 @@ has been that this is a user requirement, and plus beneficial to the business
 as well. Here's an interesting article that refutes that belief, at least in
 certain significant scenarios.
 
-[Social Login Buttons Aren't Worth It | MailChimp Email Marketing Blog](<http://blog.mailchimp.com/social-login-buttons-arent-worth-it/>):
+[Social Login Buttons Aren't Worth It | MailChimp Email Marketing
+Blog](<http://blog.mailchimp.com/social-login-buttons-arent-worth-it/>):
 
 > I was, um, not super happy to get that email. I presented my data, and made
 > the case for keeping the buttons, but Ben wasn't moved. Even though the
@@ -33,4 +38,3 @@ certain significant scenarios.
  Yea
 
 
-* **Link to site:** **[[GEEKY] Social login buttons considered harmful](None)**

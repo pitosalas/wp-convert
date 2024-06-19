@@ -6,6 +6,10 @@ tags:
     - econ-tagomy-michaellewis-finance-meltdown
 ---
 
+**Link: [It’s even worse than you think](None):** ""
+
+
+
 Michael Lewis writes a [great article in Portfolio online about the, let's
 say, inevitability, of what's happened to economy, or wall street, or the
 markets](<http://www.portfolio.com/news-markets/national-
@@ -61,4 +65,3 @@ It's a [good, but depressing article.](<http://www.portfolio.com/news-
 markets/national-news/portfolio/2008/11/11/The-End-of-Wall-Streets-Boom>)
 
 
-* **Link to site:** **[It’s even worse than you think](None)**

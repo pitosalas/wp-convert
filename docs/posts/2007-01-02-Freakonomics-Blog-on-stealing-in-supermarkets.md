@@ -4,7 +4,11 @@ author: Pito Salas
 date: 2007-01-02
 ---
 
-<!-  
+**Link: [Freakonomics Blog on stealing in supermarkets](None):** ""
+
+
+>
+> <!-  
 >  body { font-variant: normal; font-weight: normal; font-size: 11pt; font-
 > style: normal; font-family: Lucida Grande; line-height: normal }  
 >  ->
@@ -32,9 +36,8 @@ date: 2007-01-02
 >  increase in theft rates."
 >
 
->> (**Read the whole thing**! [Stealing  
+>> ( **Read the whole thing**! [Stealing  
 >  in
 > Supermarkets](<http://feeds.feedburner.com/~r/FreakonomicsBlog/~3/69311101/>))
 
 
-* **Link to site:** **[Freakonomics Blog on stealing in supermarkets](None)**

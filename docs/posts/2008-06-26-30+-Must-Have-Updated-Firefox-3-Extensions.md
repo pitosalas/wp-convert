@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-06-26
 ---
 
+**Link: [30+ Must-Have Updated Firefox 3 Extensions](None):** ""
+
+
+
 Check this post [30+ Must-Have Updated Firefox 3
 Extensions](<http://mashable.com/2008/06/26/firefox-3-extensions/>) from
 [Mashable!](<http://feeds.feedburner.com/mashable>):
@@ -16,4 +20,3 @@ Extensions](<http://mashable.com/2008/06/26/firefox-3-extensions/>) from
 Lots of good stuff there if you are a FireFox 3 user. Check 'em out!
 
 
-* **Link to site:** **[30+ Must-Have Updated Firefox 3 Extensions](None)**

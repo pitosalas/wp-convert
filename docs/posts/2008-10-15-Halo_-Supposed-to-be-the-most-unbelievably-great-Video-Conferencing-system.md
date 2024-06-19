@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-10-15
 ---
 
+**Link: [Halo: Supposed to be the most unbelievably great Video Conferencing system](None):** ""
+
+
+
 [Halo, from HP. Really?](<http://www.hp.com/halo/what_is.html>)
 
 Unfortunately it is outrageously expensive. Can't find the number online but I
@@ -16,4 +20,3 @@ heard 50-100K.
 > [Introducing Halo](<http://www.hp.com/halo/introducing.html>))
 
 
-* **Link to site:** **[Halo: Supposed to be the most unbelievably great Video Conferencing system](None)**

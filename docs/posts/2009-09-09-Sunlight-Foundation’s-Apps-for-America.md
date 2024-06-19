@@ -7,6 +7,10 @@ tags:
     - sunlightfoundation-tag
 ---
 
+**Link: [Sunlight Foundation’s Apps for America](None):** ""
+
+
+
 Sunlight Foundation is a very cool organization that I've been close to. They
 are involved with many efforts to further government transparency and
 accountability, often using technology, but not only.
@@ -53,4 +57,3 @@ Very cool!
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-* **Link to site:** **[Sunlight Foundation’s Apps for America](None)**

@@ -13,5 +13,6 @@ tags:
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fpackaging.python.org%2Fen%2Flatest%2Ftutorials%2Fpackaging-projects%2F>
 
+**Link: [Packaging Python Projects — Python Packaging User Guide](https://packaging.python.org/en/latest/tutorials/packaging-projects/):** ""
+
 Really good instructions for packaging Python packages.
-* **Link to site:** **[Packaging Python Projects — Python Packaging User Guide](https://packaging.python.org/en/latest/tutorials/packaging-projects/)**

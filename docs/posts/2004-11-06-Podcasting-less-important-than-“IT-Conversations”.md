@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-11-06
 ---
 
-I was working out, listening an [IT Conversations
+**Link: [Podcasting less important than “IT Conversations”](None):** ""
+
+
+>>
+
+>> I was working out, listening an [IT Conversations
 ](<http://www.itconversations.com/>)interview with [Joel
 Spolsky](<http://www.joelonsoftware.com/>). It was **interesting** and passed
 the time.
@@ -33,4 +38,3 @@ have been at **least as much** devoted to sites like IT Conversation, which as
 far as I know is the **only one of its kind.**
 
 
-* **Link to site:** **[Podcasting less important than “IT Conversations”](None)**

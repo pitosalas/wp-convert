@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-03-27
 ---
 
+**Link: [Some great links for  03/28/2019](None):** ""
+
+
+
   * [Stop using so many divs! An intro to semantic HTML](<https://dev.to/kenbellows/stop-using-so-many-divs-an-intro-to-semantic-html-3i9i?utm_source=Newsletter+Subscribers&utm_campaign=7ca8819422-EMAIL_CAMPAIGN_2019_03_25_01_56&utm_medium=email&utm_term=0_d8f11d5d1e-7ca8819422-154877025>)
 
 This makes a ton of sense. Wait a minute while I go edit my html files, ok.
@@ -37,4 +41,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  03/28/2019](None)**

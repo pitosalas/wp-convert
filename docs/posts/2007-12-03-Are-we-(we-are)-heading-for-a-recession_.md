@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-12-03
 ---
 
+**Link: [Are we (we are) heading for a recession?](None):** ""
+
+
+
 Just check out this well argued, detailed piece, "[Wake up to the dangers of a
 deepening crisis", by Lawrence
 Summers](<http://www.ft.com/cms/s/0/b56079a8-9b71-11dc-8aad-0000779fd2ac,dwp_uuid=95e85a0c-68fd-11db-b4c2-0000779e2340,print=yes.html>):
@@ -17,7 +21,7 @@ Summers](<http://www.ft.com/cms/s/0/b56079a8-9b71-11dc-8aad-0000779fd2ac,dwp_uui
 > US recession that slows growth significantly on a global basis. Without
 > stronger policy responses than have been observed to date, moreover, there
 > is the risk that the adverse impacts will be felt for the rest of this
-> decade and beyond." (**from** [Financial Times](</wp-
+> decade and beyond." ( **from** [Financial Times](</wp-
 > admin/post.php?action=edit&post=1901>))
 
 This gloom and doom view is echoed by much of the commentary I've come across
@@ -33,4 +37,3 @@ over the last month, for example, this from today's New York Times,
 You be the judge. I'm calling my broker 🙂
 
 
-* **Link to site:** **[Are we (we are) heading for a recession?](None)**

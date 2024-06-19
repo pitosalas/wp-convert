@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-03-21
 ---
 
+**Link: [Verizon opening up it’s network somewhat](None):** ""
+
+
+
 I am starting to follow the world of [mesh
 networks](<http://del.icio.us/tag/meshnetworks>) and things related to that.
 
@@ -25,4 +29,3 @@ Does this allow the creation of a new class of device placed in homes or cars
 or what-not that uses the cell network as it's backbone?
 
 
-* **Link to site:** **[Verizon opening up it’s network somewhat](None)**

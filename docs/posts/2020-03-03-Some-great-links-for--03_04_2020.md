@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2020-03-03
 ---
 
+**Link: [Some great links for  03/04/2020](None):** ""
+
+
+
   * [Ruby on Rails Mistakes that could kill Your Production Servers](<https://pawelurbanek.com/rails-mistakes-downtime>)
 
 Specific good advice on rails performance and scale.
@@ -18,4 +22,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  03/04/2020](None)**

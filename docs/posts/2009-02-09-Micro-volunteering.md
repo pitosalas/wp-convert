@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2009-02-09
 ---
 
+**Link: [Micro volunteering](None):** ""
+
+
+
 A very interesting article about [volunteering, and applying the wikipedia
 philosophy to
 volunteering](<http://www.techpresident.com/blog/entry/33677/information_age_volunteerism_open_sourced_crowdsourced>).
@@ -49,4 +53,3 @@ a new audience and putting a new spin on them, and that in itself is positive
 contribution that should be applauded.
 
 
-* **Link to site:** **[Micro volunteering](None)**

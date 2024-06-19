@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-01-10
 ---
 
+**Link: [It was inevitable: Sex comes to iLike](None):** ""
+
+
+
 ![iLike iTunes
 ](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-
 content/uploads/imagewell//ilikesex.jpg?w=584)iLike is this really cool,
@@ -21,4 +25,3 @@ And then, it shows me nice litte pictures of other iLike users who listen to
 Beethoven or whoever.
 
 
-* **Link to site:** **[It was inevitable: Sex comes to iLike](None)**

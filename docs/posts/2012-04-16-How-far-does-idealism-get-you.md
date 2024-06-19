@@ -9,6 +9,10 @@ tags:
     - sam-spade
 ---
 
+**Link: [How far does idealism get you](None):** ""
+
+
+
 [David Brooks of the New York Times, in an article about (my interpretation)
 the limits of idealism:](<http://www.nytimes.com/2012/04/13/opinion/brooks-
 sam-spade-at-starbucks.html?_r=1&partner=rssnyt&emc=rss>)
@@ -31,9 +35,8 @@ Maltese Falcon.** "
 
 Anyway, that's off topic.
 
-This article makes the case that if you are not happy with the ways
-"**things** " (the world, your town, your company) are run, you can't make
-fundamental change other than engaging with "**the system "**.
+This article makes the case that if you are not happy with the ways "
+**things** " (the world, your town, your company) are run, you can't make
+fundamental change other than engaging with " **the system "**.
 
 
-* **Link to site:** **[How far does idealism get you](None)**

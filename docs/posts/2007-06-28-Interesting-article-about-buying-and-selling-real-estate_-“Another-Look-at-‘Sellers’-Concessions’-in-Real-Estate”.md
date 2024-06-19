@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-06-28
 ---
 
+**Link: [Interesting article about buying and selling real estate: “Another Look at ‘Sellers’ Concessions’ in Real Estate”](None):** ""
+
+
+
 Check out [this
 post](<http://feeds.feedburner.com/~r/FreakonomicsBlog/~3/128698530/>) from
 [Freakonomics Blog](<http://www.freakonomics.com/blog>):
@@ -17,10 +21,9 @@ post](<http://feeds.feedburner.com/~r/FreakonomicsBlog/~3/128698530/>) from
 > in making their mortgage payments since their life savings is invested in
 > the home from Day 1.
 >
-> (**from** : [Another Look at “Sellers’ Concessions” in Real
+> ( **from** : [Another Look at “Sellers’ Concessions” in Real
 > Estate](<http://feeds.feedburner.com/~r/FreakonomicsBlog/~3/128698530/>))
 
 Read the article, it poses an interesting connundrum.
 
 
-* **Link to site:** **[Interesting article about buying and selling real estate: “Another Look at ‘Sellers’ Concessions’ in Real Estate”](None)**

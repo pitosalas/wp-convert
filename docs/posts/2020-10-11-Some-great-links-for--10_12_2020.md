@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2020-10-11
 ---
 
+**Link: [Some great links for  10/12/2020](None):** ""
+
+
+
   * [Hello from Kuby | Kuby](<https://getkuby.io>)
 
 Looks like another wonderful rails deployment solution. Definitely will check
@@ -19,4 +23,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  10/12/2020](None)**

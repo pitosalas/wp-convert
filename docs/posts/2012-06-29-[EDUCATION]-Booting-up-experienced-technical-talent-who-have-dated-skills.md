@@ -9,6 +9,10 @@ tags:
     - nyt
 ---
 
+**Link: [[EDUCATION] Booting up experienced technical talent who have dated skills](None):** ""
+
+
+
 As you may know, I've been working on launching [**Bootup
 Academy**](<http://www.webbootup.com/>), which will offer applied computer
 science or engineering programs to college students who want to supplement
@@ -37,10 +41,9 @@ positions.html?src=me&ref=business>):
 > qualified people with technical backgrounds. “If you’re a professional
 > developer, Web designer or online marketing specialist, you can pick the
 > company you work for,” Mr. Shaoolian said. “There is a shortage where demand
-> severely outstrips supply.” (**from** [The New York
+> severely outstrips supply.” ( **from** [The New York
 > Times)](<http://www.nytimes.com/2012/06/28/business/smallbusiness/even-with-
 > high-unemployment-some-small-businesses-struggle-to-fill-
 > positions.html?src=me&ref=business>)
 
 
-* **Link to site:** **[[EDUCATION] Booting up experienced technical talent who have dated skills](None)**

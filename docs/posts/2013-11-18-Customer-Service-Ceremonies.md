@@ -10,6 +10,10 @@ tags:
     - telephon-tage
 ---
 
+**Link: [Customer Service Ceremonies](None):** ""
+
+
+
 Nowadays, when I am done talking to telephone suport of any company, they seem
 to be trained to go through a long ceremony before letting me go:
 
@@ -32,4 +36,3 @@ complete? Say "Yes, Thanks" and then hang up? Or am I being a rude, impatient,
 always in a hurry northeasterner?
 
 
-* **Link to site:** **[Customer Service Ceremonies](None)**

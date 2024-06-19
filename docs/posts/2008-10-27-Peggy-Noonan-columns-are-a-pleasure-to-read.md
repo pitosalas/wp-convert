@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-10-27
 ---
 
+**Link: [Peggy Noonan columns are a pleasure to read](None):** ""
+
+
+
 ![](https://i0.wp.com/s.wsj.net/public/resources/images/OB-
 CI045_noonan_D_20080912160135.jpg?resize=155%2C102)I've been a [Peggy
 Noonan](<http://online.wsj.com/public/page/peggy-noonan.html>) fan for a
@@ -27,4 +31,3 @@ great](<http://online.wsj.com/search/aggregate.html?article-doc-
 type=%7BDeclarations%7D>), even when I don't agree with her.
 
 
-* **Link to site:** **[Peggy Noonan columns are a pleasure to read](None)**

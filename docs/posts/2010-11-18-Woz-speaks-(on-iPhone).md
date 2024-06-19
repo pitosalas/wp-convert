@@ -8,6 +8,10 @@ tags:
     - iphon-tage
 ---
 
+**Link: [Woz speaks (on iPhone)](None):** ""
+
+
+
 I happen to be reading iWoz, which is Steve Wozniak's
 memoir/biography/whatever. It's a very breezy easy read and fun if you follow
 this kind of thing. So naturally this caught my eye:
@@ -27,4 +31,3 @@ would have liked, because he also lavished praise on the iPhone saying it has
 terms of quality, the iPhone is leading."
 
 
-* **Link to site:** **[Woz speaks (on iPhone)](None)**

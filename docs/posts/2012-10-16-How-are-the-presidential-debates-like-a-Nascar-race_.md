@@ -10,6 +10,10 @@ tags:
     - president
 ---
 
+**Link: [How are the presidential debates like a Nascar race?](None):** ""
+
+
+
 I am looking forward to watching the Presidential debates tonight. But for all
 the **wrong** reasons.
 
@@ -44,4 +48,3 @@ Preview"](<http://www.esquire.com/blogs/politics/second-presidential-
 debate-2012-13764625?click=pp>))
 
 
-* **Link to site:** **[How are the presidential debates like a Nascar race?](None)**

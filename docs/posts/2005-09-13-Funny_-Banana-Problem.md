@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2005-09-13
 ---
 
-This is from a dictionary:
+**Link: [Funny: Banana Problem](None):** ""
+
+
+>>
+
+>> This is from a dictionary:
 
 >>
 
@@ -49,4 +54,3 @@ problems would constitute more complex activities."
 >> Technorati Tags: [funny](<http://www.technorati.com/tag/funny>)
 
 
-* **Link to site:** **[Funny: Banana Problem](None)**

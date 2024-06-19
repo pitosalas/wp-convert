@@ -6,6 +6,10 @@ tags:
     - aaron-tag-swartz
 ---
 
+**Link: [Aaron Swartz Links](None):** ""
+
+
+
 If you are in the tech community you've likely heard that Aaron Swartz
 committed suicide yesterday in New York. I didn't know him but I was in the
 same room with him, at conferences or conversations a few times about 10 years
@@ -27,4 +31,3 @@ Swartz](<http://www.zephoria.org/thoughts/archives/2013/01/13/aaron-
 swartz.html>)
 
 
-* **Link to site:** **[Aaron Swartz Links](None)**

@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-02-26
 ---
 
-**Amazing little rover "calculates its own location in the universe…..on
+**Link: [Amazing little rover “calculates its](None):** ""
+
+
+>>
+
+>> **Amazing little rover "calculates its own location in the universe…..on
 Mars": **I just can't get enough of this [amazing bit of engineering called
 the Mars Rover](<http://marsrovers.jpl.nasa.gov/mission/status.html>). Get
 this:
@@ -38,4 +43,3 @@ basic science that determines the core algorithms. Hats off to the team who
 built it.
 
 
-* **Link to site:** **[Amazing little rover “calculates its](None)**

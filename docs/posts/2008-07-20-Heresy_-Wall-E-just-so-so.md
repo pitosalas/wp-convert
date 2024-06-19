@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-07-20
 ---
 
+**Link: [Heresy: Wall-E just so-so](None):** ""
+
+
+
 Yeah I know all the [reviews have been
 raving](<http://www.rottentomatoes.com/m/wall_e/>) - "Best movie this year" -
 "[Will change your
@@ -13,4 +17,3 @@ wonderful "Star Wars"-class visuals but as an overall story and movie
 experience, well, it was fine. Not even as good as Toy Story. Sorry.
 
 
-* **Link to site:** **[Heresy: Wall-E just so-so](None)**

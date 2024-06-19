@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-11-27
 ---
 
+**Link: [[geeky] Dang – I was looking for one of these just last week](None):** ""
+
+
+
 [13 port USB hub](<http://www.coolest-gadgets.com/20071126/13-port-usb-hub-
 keeps-everything-connected/>)
 
@@ -24,4 +28,3 @@ In fact who knows if internal to the 13 port hubs there are 2 7 port hubs,
 **daisy chained**. Anyone know?
 
 
-* **Link to site:** **[[geeky] Dang – I was looking for one of these just last week](None)**

@@ -11,6 +11,10 @@ tags:
     - setup
 ---
 
+**Link: [GitHub – gregmolnar/prepper: Prepper is a simple server provisioning tool, built on top of SSHKit. You can use it to script your server build process.](None):** ""
+
+
+
 [ GitHub - gregmolnar/prepper: Prepper is a simple server provisioning tool,
 built on top of SSHKit. You can use it to script your server build process.](<
 https://github.com/gregmolnar/prepper?utm_source=substack&utm_medium=email>)
@@ -24,4 +28,3 @@ your server build process. - GitHub - gregmolnar/prepper: Prepper is a simple
 server provisioning tool…”
 
 
-* **Link to site:** **[GitHub – gregmolnar/prepper: Prepper is a simple server provisioning tool, built on top of SSHKit. You can use it to script your server build process.](None)**

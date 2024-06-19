@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2009-03-16
 ---
 
+**Link: [“Society doesn’t need newspapers. What we need is journalism”](None):** ""
+
+
+
 [Clay Shirkey writes an article called "Newspapers and Thinking the
 Unthinkable".](<http://www.shirky.com/weblog/2009/03/newspapers-and-thinking-
 the-unthinkable/>) I thought this was an excellent discussion about a topic
@@ -27,4 +31,3 @@ magazine, but as a blog post!)
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-* **Link to site:** **[“Society doesn’t need newspapers. What we need is journalism”](None)**

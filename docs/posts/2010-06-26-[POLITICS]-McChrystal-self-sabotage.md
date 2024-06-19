@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2010-06-26
 ---
 
+**Link: [[POLITICS] McChrystal self-sabotage](None):** ""
+
+
+
 You can't have missed the [whole General Stanley McChrystal
 affair,](<http://www.washingtonpost.com/wp-
 dyn/content/article/2010/06/25/AR2010062504087_pf.html>) where a decorated
@@ -34,4 +38,3 @@ scheme. I just have a hard time swallowing that McChrystal and his team didn't
 know exactly what they were doing.
 
 
-* **Link to site:** **[[POLITICS] McChrystal self-sabotage](None)**

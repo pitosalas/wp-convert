@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2009-05-18
 ---
 
+**Link: [Maldives looking for new land](None):** ""
+
+
+
 A while back I wrote a post saying that it was "[Official: The Maldives is the
 most beautiful place on earth.](</2005/07/20/ok-its-official-the-maldives-is-
 the-most-beautiful-place-on-earth/>)" So you know I have a warm spot for it
@@ -18,10 +22,9 @@ saying](<http://www.nytimes.com/2009/05/10/magazine/10MALDIVES-t.html>):
 > present to establish a sovereign wealth fund with which he could buy a new
 > country — or at least part of one — in the future. “We can do nothing to
 > stop climate change on our own, and so we have to buy land elsewhere,”
-> Nasheed said in November.[…]" (**from** ["A new home for my
+> Nasheed said in November.[…]" ( **from** ["A new home for my
 > country"](<http://www.nytimes.com/2009/05/10/magazine/10MALDIVES-t.html>))
 
 Wow.
 
 
-* **Link to site:** **[Maldives looking for new land](None)**

@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-01-19
 ---
 
+**Link: [Some great links for  01/20/2019](None):** ""
+
+
+
   * [Download Trial | SimpleDiagrams](<https://www.simplediagrams.com/trial>)
 
 Another interesting diagramming and sketching tool.
@@ -40,4 +44,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  01/20/2019](None)**

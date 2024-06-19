@@ -4,6 +4,8 @@ author: Pito Salas
 date: 2005-02-25
 ---
 
+**Link: [[BlogBridge] New Weekly Release – 0.11](None):** ""
+
 Just a quick note that we've updated the weekly build to 0.11. Given that we
 are wrapping things up for our 1.0 Release, which is imminent, changes are
 going to be mostly on internals - bug fixes and performance. Still there are a
@@ -23,7 +25,8 @@ subscribe to them as a new Feed.
 
 >>   * There are various other, even smaller items, not worth listing here.
 
-Enjoy!
+>>
+
+>> Enjoy!
 
 
-* **Link to site:** **[[BlogBridge] New Weekly Release – 0.11](None)**

@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-03-16
 ---
 
+**Link: [[GEEKY] The Most Popular Anchor Phrases for Your Site](None):** ""
+
+
+
 Useful and interesting information from Google for Webmasters. Chec out [this
 post](<http://googlesystem.blogspot.com/2007/03/most-popular-anchor-texts-for-
 your-site.html>) from [Google Operating
@@ -19,4 +23,3 @@ System](<http://googlesystem.blogspot.com/index.html>):
 > for-your-site.html>))
 
 
-* **Link to site:** **[[GEEKY] The Most Popular Anchor Phrases for Your Site](None)**

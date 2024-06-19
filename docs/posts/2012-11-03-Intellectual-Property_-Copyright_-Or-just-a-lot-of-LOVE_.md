@@ -11,6 +11,10 @@ tags:
     - robert-indiana
 ---
 
+**Link: [Intellectual Property? Copyright? Or just a lot of LOVE?](None):** ""
+
+
+
 I was rather proud of the art I designed for a t-shirt this summer. It's cool
 but of course it's a direct ripoff, um, no, I mean, it was inspired by a well
 known piece. If I show you my design, below:
@@ -71,4 +75,3 @@ Will I be asked to take it down (and destroy the 16 one-of-a-kind t-shirts.)
 And will I win the case in court, because, "everyone else is copying it"?
 
 
-* **Link to site:** **[Intellectual Property? Copyright? Or just a lot of LOVE?](None)**

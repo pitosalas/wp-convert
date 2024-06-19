@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-07-10
 ---
 
+**Link: [Some great links for  07/10/2018](None):** ""
+
+
+
   * [LaTeX Tips n Tricks for Conference Papers](<http://gurmeet.net/computer-science/latex-tips-n-tricks-for-conference-papers/>)
 
 tags: [latex](<https://www.diigo.com/user/pitosalas/latex>)
@@ -28,4 +32,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  07/10/2018](None)**

@@ -8,6 +8,10 @@ tags:
     - wallstreet
 ---
 
+**Link: [“The Real Housewives of Wall Street”](None):** ""
+
+
+
 Mike Taibi writes in [Rolling Stone about some fairly outrageous doings
 between Washington D.C. and Wall Street during the various
 'bailouts](<http://www.rollingstone.com/politics/news/the-real-housewives-of-
@@ -20,9 +24,8 @@ wall-street-look-whos-cashing-in-on-the-bailout-20110411>)':
 > philanthropic experiences. Yet the Federal Reserve handed them both low-
 > interest loans of nearly a quarter of a billion dollars through a
 > complicated bailout program that virtually guaranteed them millions in risk-
-> free income." (**from** [The Real Housewives of Wall
+> free income." ( **from** [The Real Housewives of Wall
 > Street](<http://www.rollingstone.com/politics/news/the-real-housewives-of-
 > wall-street-look-whos-cashing-in-on-the-bailout-20110411>))
 
 
-* **Link to site:** **[“The Real Housewives of Wall Street”](None)**

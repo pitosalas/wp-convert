@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-02-13
 ---
 
+**Link: [From Demo 2008: Cool research site – SiloBreaker](None):** ""
+
+
+
 Take a look at [SiloBreaker](<http://www.silobreaker.com/>) (don't ask me why
 it's called that; is it supposed to break down silos?)
 
@@ -18,4 +22,3 @@ quotes, and lots of semi structured analysis.
 It's a hard site to describe but looks like a unique and useful research tool.
 
 
-* **Link to site:** **[From Demo 2008: Cool research site – SiloBreaker](None)**

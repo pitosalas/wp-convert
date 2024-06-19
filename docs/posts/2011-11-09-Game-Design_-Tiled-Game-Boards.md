@@ -8,6 +8,10 @@ tags:
     - tiledgames
 ---
 
+**Link: [Game Design: Tiled Game Boards](None):** ""
+
+
+
 I've spent the last few weeks in dribs and drabs building a new game for
 Android. Lately I got deeper on what it means to have a 'tiled' game space
 display where you construct the appearance of the game space by arranging a
@@ -37,4 +41,3 @@ content/uploads/2011/11/63af6-12439792-15047898-thumbnail.jpg?w=584&ssl=1)](<Y.S
 generation
 
 
-* **Link to site:** **[Game Design: Tiled Game Boards](None)**

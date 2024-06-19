@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-03-19
 ---
 
+**Link: [Casinos in Mass? Please, No!](None):** ""
+
+
+
 [youtube http://www.youtube.com/watch?v=ZfWsfDweeM4&hl=en]I found my way onto
 Robin Chase's blog, [Network Musings](<http://networkmusings.blogspot.com/>).
 She writes about lots of stuff I am interested in. Starting with the top post
@@ -24,4 +28,3 @@ mot](<http://en.wiktionary.org/wiki/bon_mot>):
 > to pay for our first addiction: low cost driving"
 
 
-* **Link to site:** **[Casinos in Mass? Please, No!](None)**

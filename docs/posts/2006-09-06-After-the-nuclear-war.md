@@ -4,10 +4,14 @@ author: Pito Salas
 date: 2006-09-06
 ---
 
-Actually this is a fascinating photo essay of an abandoned city in the Soviet
-Union, left to gradually die off while the USSR collapsed. Check out  An
-Abandoned City" href="http://englishrussia.com/?p=276″>An Abandoned City
+**Link: [After the nuclear war](None):** ""
 
+Actually this is a fascinating photo essay of an abandoned city in the Soviet
+Union, left to gradually die off while the USSR collapsed.
+
+>
+> Check out  An Abandoned City" href="http://englishrussia.com/?p=276″>An
+> Abandoned City
 >
 
 >> Here is a little photo-session of an abandoned city. When the Soviet Union
@@ -18,4 +22,3 @@ places terminated after the army decided that they now don't have money to
 support those objects.
 
 
-* **Link to site:** **[After the nuclear war](None)**

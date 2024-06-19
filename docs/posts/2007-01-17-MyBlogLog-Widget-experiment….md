@@ -4,7 +4,10 @@ author: Pito Salas
 date: 2007-01-17
 ---
 
-How do you like this:
+**Link: [MyBlogLog Widget experiment…](None):** ""
 
 
-* **Link to site:** **[MyBlogLog Widget experiment…](None)**
+>
+> How do you like this:
+
+

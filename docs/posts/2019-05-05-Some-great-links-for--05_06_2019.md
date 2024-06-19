@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-05-05
 ---
 
+**Link: [Some great links for  05/06/2019](None):** ""
+
+
+
   * [How to Schedule Cron Jobs in Ruby With the Whenever Gem](<https://www.rubyguides.com/2019/04/ruby-whenever-gem/>)
 
 Useful gem to have in your toolbox.
@@ -27,4 +31,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  05/06/2019](None)**

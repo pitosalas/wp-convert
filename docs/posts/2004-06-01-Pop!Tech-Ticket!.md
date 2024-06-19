@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-06-01
 ---
 
-[Pop!Tech](<http://www.poptech.com/>) is [one of my all time favorite
+**Link: [Pop!Tech Ticket!](None):** ""
+
+
+>>
+
+>> [Pop!Tech](<http://www.poptech.com/>) is [one of my all time favorite
 conferences](</weblogs/archives/000264.html>). So favorite that I bought a
 ticket for this year's event way in advance. I have hit an insurmountable
 schedule problem and so I have to miss it this year. So, I have a ticket that
@@ -14,4 +19,3 @@ because of when I bought it. If you are interested please contact me directly
 by email.
 
 
-* **Link to site:** **[Pop!Tech Ticket!](None)**

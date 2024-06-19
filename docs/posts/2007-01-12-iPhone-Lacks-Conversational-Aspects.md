@@ -4,7 +4,11 @@ author: Pito Salas
 date: 2007-01-12
 ---
 
-<!-  
+**Link: [iPhone Lacks Conversational Aspects](None):** ""
+
+
+>
+> <!-  
 >  body { font-size: 11pt; font-weight: normal; font-family: Lucida Grande;
 > font-variant: normal; font-style: normal; line-height: normal }  
 >  ->
@@ -35,4 +39,3 @@ date: 2007-01-12
 >  use."
 
 
-* **Link to site:** **[iPhone Lacks Conversational Aspects](None)**

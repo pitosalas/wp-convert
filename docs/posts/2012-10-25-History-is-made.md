@@ -9,6 +9,10 @@ tags:
     - windows
 ---
 
+**Link: [History is made](None):** ""
+
+
+
 The first personal **computer actually made by Microsoft**! That's
 **history**. They've made mice, and X-boxes, but never desktops, laptops, or
 tablets.
@@ -30,4 +34,3 @@ the tablets have a built in 'kick-stand' for standing it upright. Cool again!
 **Well done Microsoft!**
 
 
-* **Link to site:** **[History is made](None)**

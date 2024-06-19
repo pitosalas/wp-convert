@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-04-15
 ---
 
+**Link: [Some great links for  04/15/2018](None):** ""
+
+
+
   * [JupyterLab is Ready for Users – Jupyter Blog](<https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906?source=userActivityShare-d383785221d0-1523740866>)
 
 tags: [python](<https://www.diigo.com/user/pitosalas/python>)
@@ -39,4 +43,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  04/15/2018](None)**

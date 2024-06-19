@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-11-13
 ---
 
+**Link: [Some great links for  11/14/2019](None):** ""
+
+
+
   * [PathFinding.js](<https://qiao.github.io/PathFinding.js/visual/>)
 
 A fantastic visualization of various path finding algorithms
@@ -17,4 +21,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  11/14/2019](None)**

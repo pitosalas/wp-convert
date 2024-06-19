@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2021-02-03
 ---
 
+**Link: [Some great links for  02/04/2021](None):** ""
+
+
+
   * [10 Ultimate Programming Jokes](<https://link.medium.com/gybRfn32zdb>)
 
 Groan but ok, funny
@@ -18,4 +22,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  02/04/2021](None)**

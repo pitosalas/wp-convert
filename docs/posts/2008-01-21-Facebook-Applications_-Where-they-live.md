@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-01-21
 ---
 
+**Link: [Facebook Applications: Where they live](None):** ""
+
+
+
 I've been learning and thinking about Facebook applications, which everyone
 else is also writing and thinking about… I will be posting about some of the
 interesting facts and insights as they come up.
@@ -44,4 +48,3 @@ apparently through Facebook. Not the same as what I am talking about above,
 but relevant.
 
 
-* **Link to site:** **[Facebook Applications: Where they live](None)**

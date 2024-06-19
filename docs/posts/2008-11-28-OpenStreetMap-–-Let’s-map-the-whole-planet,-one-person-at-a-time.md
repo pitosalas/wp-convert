@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-11-28
 ---
 
+**Link: [OpenStreetMap – Let’s map the whole planet, one person at a time](None):** ""
+
+
+
 Another crazy-brilliant site, [OpenStreetMap.org, is aiming to get all of us
 to annotate maps of all places on the
 planet](<http://www.openstreetmap.org/index.html>). In other words, I know my
@@ -30,4 +34,3 @@ And very likely the results will be more up to date, more detailed and more
 accurate.
 
 
-* **Link to site:** **[OpenStreetMap – Let’s map the whole planet, one person at a time](None)**

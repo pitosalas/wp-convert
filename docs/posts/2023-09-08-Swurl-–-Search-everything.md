@@ -8,9 +8,12 @@ tags:
     - search
 ---
 
+**Link: [Swurl – Search everything](None):** ""
+
+
+
 [ Swurl - Search everything](< https://swurl.com>) –Search Google, YouTube,
 Instagram, TikTok, Twitter, Reddit, Amazon, Images, News, & more. See all
 results by swiping — no clicking.
 
 
-* **Link to site:** **[Swurl – Search everything](None)**

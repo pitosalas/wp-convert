@@ -14,5 +14,6 @@ tags:
 ---
 <img class="cover" src=https://docs.opencv.org/4.x/nms.jpg>
 
+**Link: [OpenCV: Canny Edge Detection](https://docs.opencv.org/4.x/da/d22/tutorial_py_canny.html):** ""
 
-* **Link to site:** **[OpenCV: Canny Edge Detection](https://docs.opencv.org/4.x/da/d22/tutorial_py_canny.html)**
+

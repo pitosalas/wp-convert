@@ -4,9 +4,14 @@ author: Pito Salas
 date: 2004-11-07
 ---
 
-In response to a query from Andrew Watt and Danny Ayers about what they called
-next-generation infromation aggregators, I wrote this, and I thought I'd share
-it here too.
+**Link: [Is BlogBridge a ‘next generation’ Feed Reader?](None):** ""
+
+
+>>
+
+>> In response to a query from Andrew Watt and Danny Ayers about what they
+called next-generation infromation aggregators, I wrote this, and I thought
+I'd share it here too.
 
 >>
 
@@ -96,4 +101,3 @@ Any follow up questions are welcome and you can of course also download and
 play with the current beta.
 
 
-* **Link to site:** **[Is BlogBridge a ‘next generation’ Feed Reader?](None)**

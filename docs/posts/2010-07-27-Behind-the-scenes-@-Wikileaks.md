@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2010-07-27
 ---
 
+**Link: [Behind the scenes @ Wikileaks](None):** ""
+
+
+
 There's a lot of buzz right now about the leaked documents related to the war
 in Afghanistan. I am not clear myself [whether they teach us anything new
 ](<http://www.nytimes.com/2010/07/27/opinion/27exum.html?_r=1&ref=wikileaks>)-
@@ -24,7 +28,7 @@ for example:
 > "… What we have here is a high profile ex-hacker trawling for $600K
 > operating expenses. Anyone with a few bucks can buy into Assange's snake
 > oil, including fronts for any government agency anywhere. From that moment
-> on audited accounts don't seem to be available…." (**from**
+> on audited accounts don't seem to be available…." ( **from**
 > [Cryptome.org](<http://cryptome.org/0001/wikileaks-dream.htm>))
 
 Also see [this link](<http://cryptome.org/0001/wikileaks-mess.htm>) for a
@@ -40,4 +44,3 @@ documents on Wikileaks are real? It seems totally possible that there's a
 Let's see some in depth hard reporting on that organization.
 
 
-* **Link to site:** **[Behind the scenes @ Wikileaks](None)**

@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-12-19
 ---
 
+**Link: [Some great links for  12/20/2018](None):** ""
+
+
+
   * [Stop Learning Frameworks – Lifehacks for Developers by Eduards Sizovs](<https://sizovs.net/2018/12/17/stop-learning-frameworks/>)
 
 Without reading this, I know I totally agree!
@@ -35,4 +39,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  12/20/2018](None)**

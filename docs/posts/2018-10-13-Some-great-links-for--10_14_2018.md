@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-10-13
 ---
 
+**Link: [Some great links for  10/14/2018](None):** ""
+
+
+
   * [Creating Powerful Command Line Tools in Ruby - via @codeship | via @codeship](<https://blog.codeship.com/creating-powerful-command-line-tools-in-ruby/>)
 
 Another great article about creating a well behaved cli
@@ -63,4 +67,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  10/14/2018](None)**

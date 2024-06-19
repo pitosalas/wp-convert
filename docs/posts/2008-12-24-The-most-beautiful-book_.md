@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-12-24
 ---
 
+**Link: [The most beautiful book?](None):** ""
+
+
+
 Now here's a recommendation:
 
 > "I recently got a hold of what I consider to be the nicest mathematical book
@@ -16,4 +20,3 @@ Now here's a recommendation:
 That goes right onto my wish list!
 
 
-* **Link to site:** **[The most beautiful book?](None)**

@@ -8,6 +8,10 @@ tags:
     - radioshack
 ---
 
+**Link: [Free iPhone 3GS upgrade to iPhone 4?](None):** ""
+
+
+
 So [Radioshack is offering $50 off the price of an
 iPhone](<http://gigaom.com/apple/save-up-to-175-on-iphone-at-radioshack/>) 4
 for the next several days. As far as I can tell, the difference between the
@@ -26,4 +30,3 @@ old phone, it's a free upgrade. My remaining question is, who the heck is
 CashForiPhones.com and can I trust them?
 
 
-* **Link to site:** **[Free iPhone 3GS upgrade to iPhone 4?](None)**

@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-08-11
 ---
 
+**Link: [Some great links for  08/12/2018](None):** ""
+
+
+
   * [Webmentions: Enabling Better Communication on the Internet](<https://alistapart.com/article/webmentions-enabling-better-communication-on-the-internet>)
 
 Very interesting underused feature in web communication
@@ -64,4 +68,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  08/12/2018](None)**

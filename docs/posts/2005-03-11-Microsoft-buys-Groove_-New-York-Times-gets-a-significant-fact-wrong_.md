@@ -4,6 +4,8 @@ author: Pito Salas
 date: 2005-03-11
 ---
 
+**Link: [Microsoft buys Groove: New York Times gets a significant fact wrong?](None):** ""
+
 Scoble (and everyone else)
 [comments](<http://radio.weblogs.com/0001011/2005/03/10.html#a9587>):
 
@@ -27,4 +29,3 @@ Vaskevitch and Craig Mundie"
 it wrong?
 
 
-* **Link to site:** **[Microsoft buys Groove: New York Times gets a significant fact wrong?](None)**

@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-05-03
 ---
 
+**Link: [[GEEKY] Twitter and Ruby on Rails](None):** ""
+
+
+
 TechCrunch:
 
 > "We’re hearing this from multiple sources: After nearly two years of
@@ -22,7 +26,7 @@ whether 'Rails will Scale'. Here are my quick thoughts:
 
   1. First of all, is the rumor true? See comment at the bottom of the post referenced above:   
 
-> "**Update:** Regarding Evan Williams’ statement
+> " **Update:** Regarding Evan Williams’ statement
 > [here](<http://twitter.com/ev/statuses/801530348>), all I can say is that
 > multiple sources claim that Twitter is telling people they are planning on
 > moving away from Ruby on Rails. This is not the first time a company has
@@ -33,4 +37,3 @@ whether 'Rails will Scale'. Here are my quick thoughts:
   4. Most important: Designing, building and operating a system to achieve good performance at Twitter scale is really really hard no matter what language or framework you use. Using Java or PHP or C# or whatever you like doesn't change this basic fact. Consequently changing language of framework would not be a likely cure for a scaling problem.
 
 
-* **Link to site:** **[[GEEKY] Twitter and Ruby on Rails](None)**

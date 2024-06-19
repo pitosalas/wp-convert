@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2020-03-01
 ---
 
+**Link: [Some great links for  03/02/2020](None):** ""
+
+
+
   * [Google Interviewing Process for Software Developer Role in 2020 / Habr](<https://habr.com/en/post/489698/>)
 
 The madness of interviewing at google. OMG!
@@ -28,4 +32,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  03/02/2020](None)**

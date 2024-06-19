@@ -8,6 +8,10 @@ tags:
     - research
 ---
 
+**Link: [Mathematical Foundations of Consciousness?](None):** ""
+
+
+
 Say what? I came across this paper; [Mathematical Foundations of
 Consciousness](<http://arxiv.org/pdf/0810.4339>). I generally love this stuff:
 Mathematics and writings on the nature of consciousness. When I saw this paper
@@ -22,7 +26,7 @@ level is definitely uneven.)
 > address Schrödinger’s critique by assembling and extending such development
 > thereby putting self-reference as a form of awareness into theory. In this
 > way we shall frame mathematical foundations for a theory of consciousness."
-> (**from** [Mathematical Foundations of
+> ( **from** [Mathematical Foundations of
 > Consciousnes](<http://arxiv.org/pdf/0810.4339>))
 
 As I said, my math is weak, so I am not appreciating it, but to me this paper
@@ -30,4 +34,3 @@ came across as a bunch of fancy mathematics with only peripheral thinking
 about consciousness.
 
 
-* **Link to site:** **[Mathematical Foundations of Consciousness?](None)**

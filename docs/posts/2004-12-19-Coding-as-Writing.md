@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-12-19
 ---
 
-If you read this blog at all, you know that I've been working on a piece of
+**Link: [Coding as Writing](None):** ""
+
+
+>>
+
+>> If you read this blog at all, you know that I've been working on a piece of
 software ([BlogBridge](<http://www.blogbridge.com>)) which at this point I am
 pretty excited about, even though I don't know where it will go or end up.
 
@@ -70,4 +75,3 @@ likely outcomes, and each approach applicable to some projects and not others.
 I've chosen.
 
 
-* **Link to site:** **[Coding as Writing](None)**

@@ -12,5 +12,6 @@ tags:
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fmarklodato.github.io%2Fvisual-git-guide%2Findex-en.html>
 
+**Link: [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html):** ""
 
-* **Link to site:** **[A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)**
+

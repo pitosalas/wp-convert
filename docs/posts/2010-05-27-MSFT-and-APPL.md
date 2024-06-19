@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2010-05-27
 ---
 
+**Link: [MSFT and APPL](None):** ""
+
+
+
 I saw this bit today: "[Apple: Will Steve Balmer Show Up At The WWDC
 Keynote?".](<http://blogs.barrons.com/techtraderdaily/2010/05/26/apple-will-
 steve-ballmer-show-up-at-the-wwdc-keynote/>) Interesting… It leads me to
@@ -16,4 +20,3 @@ service, decides to move native support of the iPhone mapping app from Google
 Maps to Microsoft Maps? Good theory?
 
 
-* **Link to site:** **[MSFT and APPL](None)**

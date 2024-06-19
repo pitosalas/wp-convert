@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-03-11
 ---
 
+**Link: [30% to Apple for folks selling iPhone apps??](None):** ""
+
+
+
 Check out [this
 post](<http://feeds.feedburner.com/%7Er/jutopia/%7E3/247128668/>) from [Planet
 RubyOnRails](<http://www.planetrubyonrails.org/>):
@@ -27,4 +31,3 @@ to the thread) there is no other way to get a 3d party app onto the iPhone -
 you have to do it through Apple.
 
 
-* **Link to site:** **[30% to Apple for folks selling iPhone apps??](None)**

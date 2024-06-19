@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-07-14
 ---
 
+**Link: [Some great links for  07/15/2019](None):** ""
+
+
+
   * [styd/apexcharts.rb](<https://github.com/styd/apexcharts.rb>)
 
 This is an AMAZING collection of graphs. Great to have a ruby binding. Haven’t
@@ -38,4 +42,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  07/15/2019](None)**

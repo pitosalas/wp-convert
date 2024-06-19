@@ -8,6 +8,10 @@ tags:
     - TV
 ---
 
+**Link: [Mad Men Going Nuts](None):** ""
+
+
+
 Do you watch Mad Men? I know it's very good. I always watch it. But sometimes,
 it doesn't make sense, and I wonder, have I been sucked into a reality
 distortion field myself? Is it really good?
@@ -29,4 +33,3 @@ Men-Episode-8-The-Crash->):
 
 
 
-* **Link to site:** **[Mad Men Going Nuts](None)**

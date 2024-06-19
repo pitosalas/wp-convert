@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2010-06-21
 ---
 
+**Link: [[GEEKY] Nuances about REST](None):** ""
+
+
+
 While teaching at Brandeis University this summer (see [Cosi JBS Web
 Site](<http://iceland.cs.brandeis.edu/webapps/FrontPage?from=navigationbox>))
 I've come to think a lot more deeply about the often cliche'd 'REST' approach
@@ -68,4 +72,3 @@ part of a much broader and general topic of 'Web Services and Cloud
 Computing." Next time.)
 
 
-* **Link to site:** **[[GEEKY] Nuances about REST](None)**

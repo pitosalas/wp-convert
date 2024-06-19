@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-02-16
 ---
 
+**Link: [Some great links for  02/17/2019](None):** ""
+
+
+
   * [Opinion | No, You Can’t Ignore Email. It’s Rude.](<https://nyti.ms/2EcopxB?smid=nytcore-ios-share>)
 
 True statement about emails. I agree although I know some people who
@@ -24,4 +28,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  02/17/2019](None)**

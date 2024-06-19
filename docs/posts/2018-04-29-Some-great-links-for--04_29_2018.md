@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-04-29
 ---
 
+**Link: [Some great links for  04/29/2018](None):** ""
+
+
+
   * [Essential RubyOnRails patterns — part 4: Form Objects](<https://medium.com/selleo/essential-rubyonrails-patterns-form-objects-b199aada6ec9?source=userActivityShare-d383785221d0-1524917094>)
 
 tags: [ruby](<https://www.diigo.com/user/pitosalas/ruby>)
@@ -45,4 +49,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  04/29/2018](None)**

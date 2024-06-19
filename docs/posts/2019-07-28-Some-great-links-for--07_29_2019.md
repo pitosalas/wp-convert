@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-07-28
 ---
 
+**Link: [Some great links for  07/29/2019](None):** ""
+
+
+
   * [Scripting and automating git processes](<https://stackoverflow.com/questions/3878624/how-do-i-programmatically-determine-if-there-are-uncommitted-changes/41646552>)
 
 This one is pretty eclectic but if you find yourself writing a script in ruby
@@ -21,4 +25,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  07/29/2019](None)**

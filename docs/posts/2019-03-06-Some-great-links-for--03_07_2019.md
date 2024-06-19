@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-03-06
 ---
 
+**Link: [Some great links for  03/07/2019](None):** ""
+
+
+
   * [Optimize animated GIF](<https://ezgif.com/optimize/ezgif-5-bca12753301f.gif>)
 
 Really good site for creating animated gifs from videos and lots lots more.
@@ -65,4 +69,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  03/07/2019](None)**

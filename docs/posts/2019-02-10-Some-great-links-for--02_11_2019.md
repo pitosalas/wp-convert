@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-02-10
 ---
 
+**Link: [Some great links for  02/11/2019](None):** ""
+
+
+
   * [How to be more productive on GitHub – freeCodeCamp.org](<https://medium.freecodecamp.org/how-to-be-more-productive-on-github-c3cedab043e3>)
 
 Some real power user tips for github
@@ -27,4 +31,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  02/11/2019](None)**

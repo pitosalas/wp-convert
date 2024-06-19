@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-03-11
 ---
 
+**Link: [Some great links for  03/12/2019](None):** ""
+
+
+
   * [An introduction to Redis data types and abstractions – Redis](<https://redis.io/topics/data-types-intro>)
 
 Great overview of how Redis works, all the types and concepts
@@ -25,4 +29,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  03/12/2019](None)**

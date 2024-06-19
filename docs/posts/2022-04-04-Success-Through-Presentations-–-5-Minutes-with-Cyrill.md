@@ -7,6 +7,10 @@ tags:
     - video
 ---
 
+**Link: [Success Through Presentations – 5 Minutes with Cyrill](None):** ""
+
+
+
 [ Success Through Presentations - 5 Minutes with
 Cyrill](<https://youtube.com/watch?v=nU6NPuxkQck&feature=share>)
 
@@ -23,4 +27,3 @@ Intro music by The Brothers Records
 April 4, 2022 at 02:54PM
 
 
-* **Link to site:** **[Success Through Presentations – 5 Minutes with Cyrill](None)**

@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2010-06-09
 ---
 
+**Link: [Safari now has Scribefire](None):** ""
+
+
+
 Yay! One reason holding me to using FireFox on Mac was that I rely heavily on
 [Scribefire](<http://www.scribefire.com/2010/06/07/scribefire-and-safari-
 sitting-in-a-tree/>) which was not really working on Safari. I am using it now
@@ -17,4 +21,3 @@ Google again, reinventing the wheel. Gmail doesn't have folders, it has tags.
 And now Chrome has funny tabs instead of ones that look 'normal'
 
 
-* **Link to site:** **[Safari now has Scribefire](None)**

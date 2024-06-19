@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-08-21
 ---
 
+**Link: [Democrat vs. Democratic](None):** ""
+
+
+
 I wonder about this.
 
 Why is it considered a slur to use [Democrat as an
@@ -16,4 +20,3 @@ can't put my finger on why.
 Just wondering…
 
 
-* **Link to site:** **[Democrat vs. Democratic](None)**

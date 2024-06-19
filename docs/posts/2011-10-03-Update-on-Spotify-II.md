@@ -8,6 +8,10 @@ tags:
     - spotify
 ---
 
+**Link: [Update on Spotify II](None):** ""
+
+
+
 I have become a total Spotify addict. I have almost totally stopped
 downloading MP3s and am gradually locating all my favorite music on Spotify. I
 posed a couple of semi-sceptical notes when I first started using Spotify and
@@ -62,4 +66,3 @@ music. As soon as I wake up the music goes on.
 Anyway, all in all, Spotify is great and is now my primary music service.
 
 
-* **Link to site:** **[Update on Spotify II](None)**

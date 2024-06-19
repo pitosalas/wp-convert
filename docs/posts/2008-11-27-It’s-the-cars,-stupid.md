@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-11-27
 ---
 
+**Link: [It’s the cars, stupid](None):** ""
+
+
+
 Robert X. Cringely's  [prescription for Detroit
 automakers](<http://www.pbs.org/cringely/pulpit/2008/pulpit_20081126_005507.html>):
 
@@ -15,4 +19,3 @@ automakers](<http://www.pbs.org/cringely/pulpit/2008/pulpit_20081126_005507.html
 > Detroit](<http://www.pbs.org/cringely/pulpit/2008/pulpit_20081126_005507.html>))
 
 
-* **Link to site:** **[It’s the cars, stupid](None)**

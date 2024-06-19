@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-12-15
 ---
 
+**Link: [How come are these two swindlers also huge philanthropists?](None):** ""
+
+
+
 The irony and paradox confounds:
 
 > "[…] Mr. Dreier, who grew up on Long Island, the son of a refugee from  
@@ -26,4 +30,3 @@ Oh well.
 [charity swindlers](<http://technorati.com/tag/charity%20swindlers>)
 
 
-* **Link to site:** **[How come are these two swindlers also huge philanthropists?](None)**

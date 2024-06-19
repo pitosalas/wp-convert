@@ -8,6 +8,10 @@ tags:
     - socialnetworks
 ---
 
+**Link: [Trade-off: Facebook vs. Ning](None):** ""
+
+
+
 I am advising a client who is interested in reaching out to a huge existing
 community of folks who they, historically and today, can count as their
 natural constituency.The problem is, they don't have their names or email
@@ -32,4 +36,3 @@ Those are some of my insights in assessing the trade-offs. Please tell me all
 the things I am missing!
 
 
-* **Link to site:** **[Trade-off: Facebook vs. Ning](None)**

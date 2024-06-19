@@ -9,6 +9,10 @@ tags:
     - software
 ---
 
+**Link: [Is your software developer any good?](None):** ""
+
+
+
 Are you thinking about hiring a software developer to build your system? Here
 are "[8 Things You Ought to Know If You Do Not Know Anything About Hiring a
 Software Developer](<http://blog.8thlight.com/angelique-
@@ -25,4 +29,3 @@ martin/2012/01/19/8-thing-you-ought-to-know.html>)". He says:
 Can I be your friend?
 
 
-* **Link to site:** **[Is your software developer any good?](None)**

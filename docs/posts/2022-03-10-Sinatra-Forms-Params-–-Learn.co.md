@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2022-03-10
 ---
 
+**Link: [Sinatra Forms Params – Learn.co](None):** ""
+
+
+
 [ Sinatra Forms Params - Learn.co](<https://learn.co/lessons/sinatra-forms-
 params-readme-walkthrough>)
 
@@ -13,4 +17,3 @@ developer tools on Learn.co.
 March 10, 2022 at 02:45PM
 
 
-* **Link to site:** **[Sinatra Forms Params – Learn.co](None)**

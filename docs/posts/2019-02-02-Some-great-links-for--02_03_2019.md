@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-02-02
 ---
 
+**Link: [Some great links for  02/03/2019](None):** ""
+
+
+
   * [20 Docker commands use cases for developers](<https://dev.to/alex_barashkov/20-docker-commands-use-cases-for-developers-2d9g?utm_source=Newsletter+Subscribers&utm_campaign=d828837cd6-EMAIL_CAMPAIGN_2019_01_28_01_37&utm_medium=email&utm_term=0_d8f11d5d1e-d828837cd6-154336497>)
 
 Finally I’ve joined the docker bandwagon
@@ -37,4 +41,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  02/03/2019](None)**

@@ -8,6 +8,10 @@ tags:
     - saas
 ---
 
+**Link: [Affordable Care Act Software Fiasco: A Special Report](None):** ""
+
+
+
 I came across this video by Armando Fox with his views of what went wrong with
 the Obamacare website, from a deep technical perspective. It's part of a
 [University of California at Berkley course on SAAS Software
@@ -17,4 +21,3 @@ It's very very good!
 [youtube http://www.youtube.com/watch?v=Rl5WFz6Gi28&w=420&h=315]
 
 
-* **Link to site:** **[Affordable Care Act Software Fiasco: A Special Report](None)**

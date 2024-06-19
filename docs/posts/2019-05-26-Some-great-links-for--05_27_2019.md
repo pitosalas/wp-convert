@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-05-26
 ---
 
+**Link: [Some great links for  05/27/2019](None):** ""
+
+
+
   * [On not using ROS for your robotics startup | The Construct](<http://www.theconstructsim.com/not-using-ros-robotics-product/?utm_source=Robot+Ignite+Academy&utm_campaign=c6fa9a1dbf-AUTOMATION__3&utm_medium=email&utm_term=0_5f17ebd98f-c6fa9a1dbf-222285501>)
 
 Excellent article outlining the case for and against using ROS.
@@ -17,4 +21,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  05/27/2019](None)**

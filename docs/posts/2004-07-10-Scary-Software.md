@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-07-10
 ---
 
-**I love those security guys** just as much as the next guy but this
+**Link: [Scary Software](None):** ""
+
+
+>>
+
+>> **I love those security guys** just as much as the next guy but this
 certificate crazyness is ridiculous. Look at this message that a poor
 unsuspecting user sees when they try to run a downloaded java application:
 
@@ -32,4 +37,3 @@ you? It's a big farce built upon beautiful and elegant mathematics and
 cryptography which is **correct** and yet **impotent**
 
 
-* **Link to site:** **[Scary Software](None)**

@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-10-06
 ---
 
-No, **not** Eastern Daylight Time, the Swing **Event Dispatch Thread**.
+**Link: [[GEEK] Undrestanding and getting around EDT](None):** ""
+
+
+>>
+
+>> No, **not** Eastern Daylight Time, the Swing **Event Dispatch Thread**.
 **Duh**. If the abbreviation EDT doesn't send shivers up your spine you're not
 really a Java Geek. Or maybe you are an **uber-geek**.
 
@@ -16,4 +21,3 @@ them. It is the SPIN project which implements a **way-esoteric-PhD-level**
 technique to make it easier to work with the EDT.
 
 
-* **Link to site:** **[[GEEK] Undrestanding and getting around EDT](None)**

@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-04-29
 ---
 
-In the accompanying photo you can see one of the **ubiquitous TV screens**
+**Link: [Windows, Windows, Windows Everywhere](None):** ""
+
+
+>>
+
+>> In the accompanying photo you can see one of the **ubiquitous TV screens**
 sprinkled all around the Spanish subway system. They display up-to-the-minute
 information about arrivals and departures, in real-time, also ads and other
 commercial announcements. **Very useful!**
@@ -22,4 +27,3 @@ middle of the screen! If you look really closely, you can tell it's in
 Spanish!
 
 
-* **Link to site:** **[Windows, Windows, Windows Everywhere](None)**

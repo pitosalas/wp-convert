@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-11-24
 ---
 
+**Link: [The System Administrators Song](None):** ""
+
+
+
 > ["A song about those very special people that make sure your computer works.
 > They are called System
 > Administrators."](<http://video.google.com/videoplay?docid=-7193470719293309352>)["….
@@ -16,4 +20,3 @@ Funny!
 Technorati Tags: [funny](<http://www.technorati.com/tag/funny>)
 
 
-* **Link to site:** **[The System Administrators Song](None)**

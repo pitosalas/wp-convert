@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-12-16
 ---
 
+**Link: [Some great links for  12/17/2019](None):** ""
+
+
+
   * [The Lesson to Unlearn](<http://paulgraham.com/lesson.html>)
 
 "The most damaging thing you learned in school wasn't something you learned in
@@ -17,4 +21,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  12/17/2019](None)**

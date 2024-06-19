@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-09-23
 ---
 
+**Link: [Some great links for  09/24/2018](None):** ""
+
+
+
   * [rlabbe/Kalman-and-Bayesian-Filters-in-Python](<https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python>)
 
 I’m trying to get smart about Kalman filters. This is a great resource
@@ -19,4 +23,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  09/24/2018](None)**

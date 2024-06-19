@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-11-13
 ---
 
+**Link: [Some great links for  11/14/2018](None):** ""
+
+
+
   * [Getafix: How Facebook tools learn to fix bugs automatically - Facebook Code](<https://code.fb.com/developer-tools/getafix-how-facebook-tools-learn-to-fix-bugs-automatically/>)
 
 Amazing automated bug discovery and fixing tool
@@ -17,4 +21,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  11/14/2018](None)**

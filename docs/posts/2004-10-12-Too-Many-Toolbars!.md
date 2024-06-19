@@ -4,8 +4,13 @@ author: Pito Salas
 date: 2004-10-12
 ---
 
-Everyone wants to give me a toolbar! I've successfully fought back Yahoo's and
-am a happy user of [Google's Toolbar](<http://toolbar.google.com/>).
+**Link: [Too Many Toolbars!](None):** ""
+
+
+>>
+
+>> Everyone wants to give me a toolbar! I've successfully fought back Yahoo's
+and am a happy user of [Google's Toolbar](<http://toolbar.google.com/>).
 
 >>
 
@@ -36,4 +41,3 @@ order. It's only 1.5% (or so 🙂 but still **if you order a lot of books, it
 could add up!**
 
 
-* **Link to site:** **[Too Many Toolbars!](None)**

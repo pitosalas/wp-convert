@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-01-13
 ---
 
-**[David Isenberg's WTF
+**Link: [David Isenberg’s WTF Conference: This](None):** ""
+
+
+>>
+
+>> **[David Isenberg's WTF
 Conference](<http://www.isen.com/blog/archives/2004_01_01_archive.html>):**
 This is from David's newsletter, [SMART Letter](<http://isen.com/>):
 
@@ -18,7 +23,7 @@ This is from David's newsletter, [SMART Letter](<http://isen.com/>):
 >
 >>>
 
->>> _…. Here's the idea -- an instant, bottom-up meeting. WTF.  Let's get
+>>>  _…. Here's the idea -- an instant, bottom-up meeting. WTF.  Let's get
 together face to face. Let's talk about the end of telephony and the beginning
 of communication, about the end-to-end principle and its enemies, about smart
 people and dumb companies, intellectual property and creative commons, digital
@@ -37,4 +42,3 @@ heads behind podiums….._
 >> [David](<http://www.isen.com/blog/>), count me **IN!**
 
 
-* **Link to site:** **[David Isenberg’s WTF Conference: This](None)**

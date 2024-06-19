@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-03-26
 ---
 
+**Link: [How GPS devices are being used to detect and avoid traffic](None):** ""
+
+
+
 This is relevant to the discussion about [congestion pricing, mesh networks
 and avoiding traffic jams](</2008/03/22/what-does-urban-congestion-have-to-do-
 with-mesh-networks/>), a topic that I am getting interested in as you could
@@ -23,4 +27,3 @@ cell phones as well as verbal reports can get integrated together into an
 overall picture of where the traffic is and how to avoid it.
 
 
-* **Link to site:** **[How GPS devices are being used to detect and avoid traffic](None)**

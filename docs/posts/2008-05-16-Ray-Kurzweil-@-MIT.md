@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-05-16
 ---
 
+**Link: [Ray Kurzweil @ MIT](None):** ""
+
+
+
 Went to hear Ray Kurzweil yesterday at MIT, at an [event jointly sponsored by
 IEEE and GBC/ACM Robotics
 Sigs](<http://www.ieeeboston.org/robotics_and_automation.htm>). The blurb
@@ -37,4 +41,3 @@ brilliant guy with a deadpan, monotonic delivery which at first is deadening,
 but after a while is amusing and even compelling to listen to.
 
 
-* **Link to site:** **[Ray Kurzweil @ MIT](None)**

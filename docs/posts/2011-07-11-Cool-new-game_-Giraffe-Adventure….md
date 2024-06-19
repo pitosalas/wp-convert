@@ -8,6 +8,10 @@ tags:
     - gaming
 ---
 
+**Link: [Cool new game? Giraffe Adventure…](None):** ""
+
+
+
 If you're interested in computer games for Android, see what you think of this
 one's potential… Coming soon to an Android near you according to some friends
 of mine.
@@ -19,4 +23,3 @@ Mindless and unique. Let them know what you think!
 you!](<http://unbouncepages.com/giraffe-adventure/>)
 
 
-* **Link to site:** **[Cool new game? Giraffe Adventure…](None)**

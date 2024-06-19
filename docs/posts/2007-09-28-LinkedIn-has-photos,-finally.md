@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-09-28
 ---
 
+**Link: [LinkedIn has photos, finally](None):** ""
+
+
+
 Finally, [welcome to the 20th  century,
 [tag]LinkedIn[/tag]](<http://www.techcrunch.com/2007/09/27/picture-this-
 linkedin-adds-profile-photos/>):
@@ -17,4 +21,3 @@ linkedin-adds-profile-photos/>):
 > ‘we can be as friendly-looking as Facebook too guys’."
 
 
-* **Link to site:** **[LinkedIn has photos, finally](None)**

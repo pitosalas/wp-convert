@@ -4,9 +4,15 @@ author: Pito Salas
 date: 2005-04-18
 ---
 
-> "They stripped Mr Kumaran naked and left him by the side of the road - but
-> not before **cutting off the end** of his index finger with a machete. (from
-> the [BBC)](<http://news.bbc.co.uk/2/hi/asia-pacific/4396831.stm>)"
+**Link: [Losing a finger over biometrics](None):** ""
+
+
+>>
+
+>>> "They stripped Mr Kumaran naked and left him by the side of the road - but
+not before **cutting off the end** of his index finger with a machete. (from
+the [BBC)](<http://news.bbc.co.uk/2/hi/asia-pacific/4396831.stm>)"
+
 >>
 
 >> There, I got your **attention** , didn't I? That's from the always
@@ -43,4 +49,3 @@ Journal)](<http://www.cs.brown.edu/courses/cs024/min_report/wall_st_jrnl.htm>)
 >> Technorati Tags: [biometrics](<http://technorati.com/tag/biometrics>)
 
 
-* **Link to site:** **[Losing a finger over biometrics](None)**

@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-03-28
 ---
 
+**Link: [Use Google to enhance your conference experience](None):** ""
+
+
+
 I'm at the [O'Reilly Emerging Technology
 Conference](<http://conferences.oreillynet.com/etech/>), aka "ETech"… really
 interesting. One 'trick' that just occurred to me is working well. When
@@ -29,4 +33,3 @@ But anyway, despite some very non-descriptive session titles, thanks to
 google, I now know what which one I want to go to.
 
 
-* **Link to site:** **[Use Google to enhance your conference experience](None)**

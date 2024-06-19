@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2009-06-08
 ---
 
+**Link: [Exploding head scene](None):** ""
+
+
+
 An amusing article in Newsweek about Peter Arnell, self-styled renaissance
 man, inventor of the "[Peapod](<http://www.gizmag.com/chrysler-introduces-gem-
 peapod-neighborhood-electric-vehicle/10060/>)", a "a mix of Darth Vader, a
@@ -19,7 +23,7 @@ bullet train, and a Citroën deux chevaux":
 > fragrance inserts that create an aromatherapy experience while you drive. "I
 > would argue this business could be hundreds and hundreds of millions of
 > dollars," he says. His counterpart at the meeting, a veteran Chrysler
-> engineer, just nods and says, **" Uh huh."** (**from** [Newsweek Mad
+> engineer, just nods and says, **" Uh huh."** ( **from** [Newsweek Mad
 > Man](<http://www.newsweek.com/id/191396/output/print>)")
 
 And the promised [exploding head scene from the same
@@ -40,4 +44,3 @@ article](<http://www.newsweek.com/id/191396/output/print>):
 I don't know… I thought it was an interesting/funny article.
 
 
-* **Link to site:** **[Exploding head scene](None)**

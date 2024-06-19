@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-04-19
 ---
 
+**Link: [Some great links for  04/19/2018](None):** ""
+
+
+
   * [Write tests. Not too many. Mostly integration. – kentcdodds](<https://blog.kentcdodds.com/write-tests-not-too-many-mostly-integration-5e8c7fff591c?source=userActivityShare-d383785221d0-1524048950>)
 
 Great subtitle. Most readers won’t get it!
@@ -34,4 +38,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  04/19/2018](None)**

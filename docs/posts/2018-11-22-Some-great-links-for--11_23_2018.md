@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-11-22
 ---
 
+**Link: [Some great links for  11/23/2018](None):** ""
+
+
+
   * [TabNine | Install TabNine](<https://tabnine.com/install>)
 
 Looks really cool. ML auto completion for any programming language. Must try.
@@ -32,4 +36,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  11/23/2018](None)**

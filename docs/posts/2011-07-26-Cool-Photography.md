@@ -7,6 +7,10 @@ tags:
     - photography
 ---
 
+**Link: [Cool Photography](None):** ""
+
+
+
 ![NewImage](https://i0.wp.com/salas.com/wp-
 content/uploads/2011/07/98d63-newimage.png?resize=584%2C390&ssl=1)
 
@@ -24,4 +28,3 @@ and-after-shots-of-jogg>)
 > jogg>)
 
 
-* **Link to site:** **[Cool Photography](None)**

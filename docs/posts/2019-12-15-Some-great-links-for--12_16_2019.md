@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-12-15
 ---
 
+**Link: [Some great links for  12/16/2019](None):** ""
+
+
+
   * [Git: Cheat Sheet (advanced) - DEV Community ](<https://dev.to/maxpou/git-cheat-sheet-advanced-3a17>)
 
 A really nice diagram worth the cost of admission by itself.
@@ -25,4 +29,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  12/16/2019](None)**

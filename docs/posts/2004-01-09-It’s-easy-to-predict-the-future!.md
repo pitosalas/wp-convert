@@ -7,7 +7,12 @@ tags:
     - prediction-tags
 ---
 
-**It 's easy to predict the future. **Tim Bray has just concluded an
+**Link: [It’s easy to predict the future!](None):** ""
+
+
+>>
+
+>> **It 's easy to predict the future. **Tim Bray has just concluded an
 interesting series of postings on what he calls [TPSM or Technology Predictor
 Success Matrix.](<http://www.tbray.org/ongoing/When/200x/2004/01/03/TPM1>)
 I've had a [belief for a while](<//2003/10/04.html>) that actually it's easier
@@ -55,9 +60,7 @@ hard of course is to predict _**when.**_
 
 >>
 
->> So the first question to try to pin down a prognosticator is
-_When?_**Without that, the prediction is more or less useless.** What do you
-think?
+>> So the first question to try to pin down a prognosticator is _When?_
+**Without that, the prediction is more or less useless.** What do you think?
 
 
-* **Link to site:** **[It’s easy to predict the future!](None)**

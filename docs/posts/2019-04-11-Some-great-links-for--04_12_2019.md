@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-04-11
 ---
 
+**Link: [Some great links for  04/12/2019](None):** ""
+
+
+
   * [Don’t confuse Ruby’s ‘throw’ statement with ‘raise’ (Example)](<https://coderwall.com/p/lhkkug/don-t-confuse-ruby-s-throw-statement-with-raise>)
 
 Wow this is a really good one. I didn't know and have to make sure I clear
@@ -36,4 +40,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  04/12/2019](None)**

@@ -8,6 +8,10 @@ tags:
     - security
 ---
 
+**Link: [BillGuard](None):** ""
+
+
+
 This [site looks really good](<http://www.billguard.com/>), but I am not
 signing up yet.
 
@@ -26,4 +30,3 @@ blog.](<http://feedproxy.google.com/~r/AVc/~3/Rw41-xc_4ps/billguard.html>)
 Maybe he's an investor? I don't know. But for now, I am holding off.
 
 
-* **Link to site:** **[BillGuard](None)**

@@ -8,6 +8,10 @@ tags:
     - strategy
 ---
 
+**Link: [[EDUCATION] Crowd Sourcing your Strategy](None):** ""
+
+
+
 The other day I referenced an [article questioning the motivation and
 effectiveness of large scale strategic planning exercises in universities
 today.](</imported-20111103233638/2012/5/4/education-strategic-plans-are-they-
@@ -31,8 +35,7 @@ by employing some good old crowd sourcing.
 >
 > Through the launch of several special projects and the continued work of
 > self-organizing teams dedicated to specific proposals, the vision laid out
-> in the strategic plan is now unfolding." (**from** [The Social Side of
+> in the strategic plan is now unfolding." ( **from** [The Social Side of
 > Strategy](<https://www.mckinseyquarterly.com/Strategy/Strategy_in_Practice/The_social_side_of_strategy_2965>))
 
 
-* **Link to site:** **[[EDUCATION] Crowd Sourcing your Strategy](None)**

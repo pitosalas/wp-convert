@@ -6,6 +6,10 @@ tags:
     - dilbert-funny-scottadams
 ---
 
+**Link: [What’s Your Best Dilbert Punch Line?](None):** ""
+
+
+
 Amazing idea from Scott Adams. Dilbert Mashups. Check this post [What’s Your
 Best Dilbert Punch Line?](<http://mashable.com/2008/04/21/dilbert-mashups/>)
 from [Mashable!](<http://feeds.feedburner.com/mashable>):
@@ -18,4 +22,3 @@ from [Mashable!](<http://feeds.feedburner.com/mashable>):
 > for the current day’s comic strip." Check it out!
 
 
-* **Link to site:** **[What’s Your Best Dilbert Punch Line?](None)**

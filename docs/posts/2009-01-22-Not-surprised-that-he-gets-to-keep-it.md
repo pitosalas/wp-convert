@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2009-01-22
 ---
 
+**Link: [Not surprised that he gets to keep it](None):** ""
+
+
+
 There's been some back and forth silliness about whether Barack Obama can keep
 his Blackberry. All the pundits said "no way" but I thought, geez, the guy is
 President (did you hear?) all he has to do is say: 'make it so':
@@ -17,4 +21,3 @@ President (did you hear?) all he has to do is say: 'make it so':
 But, he won't be allowed to use IM 🙂
 
 
-* **Link to site:** **[Not surprised that he gets to keep it](None)**

@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-05-10
 ---
 
-Here's a handy bit of esoterica: To force Log4J to report on it's
+**Link: [[GEEK] Is Log4J not doing what you expect, or not finding its properties?](None):** ""
+
+
+>>
+
+>> Here's a handy bit of esoterica: To force Log4J to report on it's
 initialization sequence do this:
 
 >>
@@ -17,4 +22,3 @@ initialization sequence do this:
 facility, but some of the libraries I like still use log4j.)
 
 
-* **Link to site:** **[[GEEK] Is Log4J not doing what you expect, or not finding its properties?](None)**

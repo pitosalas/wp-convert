@@ -14,10 +14,8 @@ tags:
 ---
 <img class="cover" src=https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png>
 
-
-
-* **Web site excerpt:** We present YOLO, a new approach to object detection. Prior work on object
+**Link: [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640):** "We present YOLO, a new approach to object detection. Prior work on object
 detection repurposes classifiers to perform detection. Instead, we frame object
-detection as a regression problem to...
+detection as a regression problem to..."
 
-* **Link to site:** **[You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)**
+

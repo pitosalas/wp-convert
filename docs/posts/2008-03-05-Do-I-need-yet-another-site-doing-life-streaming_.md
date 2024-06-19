@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-03-05
 ---
 
+**Link: [Do I need yet another site doing life streaming?](None):** ""
+
+
+
 First it was [Facebook](<https://www.facebook.com>), then (I think) it was
 [Plaxo](<http://pulse.plaxo.com/pulse/>), then LinkedIn, and now
 [MyBlogLog](<http://www.mybloglog.com/>) is offering me a way to publicize all
@@ -24,4 +28,3 @@ from [ReadWriteWeb](<http://www.readwriteweb.com/>):
 > Overhaul](<http://feeds.feedburner.com/~r/readwriteweb/~3/243203058/lifestreaming_comes_to_yahoo.php>))
 
 
-* **Link to site:** **[Do I need yet another site doing life streaming?](None)**

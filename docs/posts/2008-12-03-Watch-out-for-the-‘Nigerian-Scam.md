@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-12-03
 ---
 
+**Link: [Watch out for the ‘Nigerian Scam](None):** ""
+
+
+
 Yes, some people do fall for it
 
 > "So how did this otherwise lucid, intelligent woman end up sending  
@@ -18,4 +22,3 @@ Central](<http://timesonline.typepad.com/technology/2008/11/this-woman-
 sent.html>). Amazing!
 
 
-* **Link to site:** **[Watch out for the ‘Nigerian Scam](None)**

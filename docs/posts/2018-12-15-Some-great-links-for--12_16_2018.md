@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-12-15
 ---
 
+**Link: [Some great links for  12/16/2018](None):** ""
+
+
+
   * [Introducing Action Mailbox for Rails 6](<https://weblog.rubyonrails.org/2018/12/13/introducing-action-mailbox-for-rails-6/>)
 
 Rails keeps on marching on. Another great addition. Supports an intelligent
@@ -43,4 +47,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  12/16/2018](None)**

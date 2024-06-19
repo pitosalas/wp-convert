@@ -8,6 +8,10 @@ tags:
     - search
 ---
 
+**Link: [Greplin, actually a rather cool product!](None):** ""
+
+
+
 After attending the [Lean Startup Machine
 weekend](<http://boston.theleanstartupmachine.com/>) a few days ago, I pay
 more attention to these 'I created this startup in 3 hours' stories. So when I
@@ -34,4 +38,3 @@ it life changing because I don't know yet how often I actually need to search
 there, but still, a very interesting product. I would check it out!
 
 
-* **Link to site:** **[Greplin, actually a rather cool product!](None)**

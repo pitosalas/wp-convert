@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2009-01-30
 ---
 
+**Link: [What Life Asks of Us](None):** ""
+
+
+
 A column in the NYTimes that offers a very different perspective from what we
 might think of as the goal of a liberal education:
 
@@ -44,4 +48,3 @@ amazon.com/e/ir?t=blogbridge-20&l=as2&o=1&a=1594512965)
 [institutions](<http://technorati.com/tag/institutions>)
 
 
-* **Link to site:** **[What Life Asks of Us](None)**

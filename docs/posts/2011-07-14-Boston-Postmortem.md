@@ -7,6 +7,10 @@ tags:
     - waltham
 ---
 
+**Link: [Boston Postmortem](None):** ""
+
+
+
 We just got back from the monthly meeting of "[Boston
 Postmortem](<http://www.bostonpostmortem.org/>)".
 
@@ -53,4 +57,3 @@ and "game studio" seems to mean simply, company that develops games. For
 example, are there "indie software development shops" or "indie programmers"?
 
 
-* **Link to site:** **[Boston Postmortem](None)**

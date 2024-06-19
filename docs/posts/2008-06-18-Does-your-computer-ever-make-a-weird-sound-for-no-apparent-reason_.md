@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-06-18
 ---
 
+**Link: [Does your computer ever make a weird sound for no apparent reason?](None):** ""
+
+
+
 I am on a Mac and I have lots of odd little things running, doing backups,
 syncs, who knows what. Every so often my computer goes "boink!" with no error
 message or display and I wonder, hmm, I wonder what just happened?
@@ -14,4 +18,3 @@ all those files (oh wait, maybe that's a "bing" not a "boing") Or might it be
 something else totally?
 
 
-* **Link to site:** **[Does your computer ever make a weird sound for no apparent reason?](None)**

@@ -8,6 +8,10 @@ tags:
     - website
 ---
 
+**Link: [Sharing Web Site Designs](None):** ""
+
+
+
 Recently I wanted to get feedback on one of several ideas for the design of
 the new [BlogBridge](<http://www.blogbridge.com/>) web site. I had selected 6
 product web sites that had a nice look and wanted to somehow visually compare
@@ -24,4 +28,3 @@ site](<http://pinterest.com/pitosalas/blogbridge-web-site-ideas/>).
 Oh and if you care to, please weigh in on the design you like the best 🙂
 
 
-* **Link to site:** **[Sharing Web Site Designs](None)**

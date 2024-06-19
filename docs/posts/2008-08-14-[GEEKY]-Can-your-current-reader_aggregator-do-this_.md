@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-08-14
 ---
 
+**Link: [[GEEKY] Can your current reader/aggregator do this?](None):** ""
+
+
+
 Check out the [latest summary of amazing feats
 ](<http://www.blogbridge.com/products-services/blogbridge/visual-tour/>)by
 BlogBridge. I don't want to be too cheeky, but there are some pretty cool
@@ -18,4 +22,3 @@ it!](<http://www.blogbridge.com/look>)
 Originally posted on Sep 25, 2007. Reprinted courtesy of ReRuns plug-in.
 
 
-* **Link to site:** **[[GEEKY] Can your current reader/aggregator do this?](None)**

@@ -10,6 +10,10 @@ tags:
     - xmarks
 ---
 
+**Link: [XMarks is the only thing that will sync Safari with Firefox](None):** ""
+
+
+
 And, it's leaving us:
 
 > "The past four years have been a wild ride for us: growing something from
@@ -33,4 +37,3 @@ accomplishment, even if it didn't lead to a sustainable business. Kudos and
 all the best to the team.
 
 
-* **Link to site:** **[XMarks is the only thing that will sync Safari with Firefox](None)**

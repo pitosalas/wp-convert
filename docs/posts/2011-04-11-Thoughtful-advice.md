@@ -11,6 +11,10 @@ tags:
     - steal
 ---
 
+**Link: [Thoughtful advice](None):** ""
+
+
+
 No need to paraphrase or editorialize. Just read the whole thing, will ya?
 Lots of good advice that I wish I had gotten years ago.
 
@@ -43,4 +47,3 @@ artist-and-relax-nothing-is-original>)
 Wow, from the **bible**. Who knew.
 
 
-* **Link to site:** **[Thoughtful advice](None)**

@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-08-19
 ---
 
+**Link: [Some great links for  08/20/2018](None):** ""
+
+
+
   * [How a Kalman filter works, in pictures](<https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/>)
 
 Kalman filters are a mathematical process for smoothing out a noisy signal
@@ -19,4 +23,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  08/20/2018](None)**

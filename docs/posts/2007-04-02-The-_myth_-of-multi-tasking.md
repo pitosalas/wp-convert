@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-04-02
 ---
 
+**Link: [The *myth* of multi-tasking](None):** ""
+
+
+
 I sometimes feel like I don't multi-task quite as well as "everyone else". So
 I was interested in [this
 post](<http://feeds.feedburner.com/~r/43Folders/~3/104476049/>) from [43
@@ -48,4 +52,3 @@ said.
 > “multitasking”](<http://feeds.feedburner.com/~r/43Folders/~3/104476049/>))
 
 
-* **Link to site:** **[The *myth* of multi-tasking](None)**

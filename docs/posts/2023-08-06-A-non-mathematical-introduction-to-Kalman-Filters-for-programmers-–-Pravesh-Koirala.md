@@ -10,6 +10,10 @@ tags:
     - robotics
 ---
 
+**Link: [A non-mathematical introduction to Kalman Filters for programmers – Pravesh Koirala](None):** ""
+
+
+
 [ A non-mathematical introduction to Kalman Filters for programmers - Pravesh
 Koirala](< https://praveshkoirala.com/2023/06/13/a-non-mathematical-
 introduction-to-kalman-filters-for-
@@ -20,4 +24,3 @@ Kalman Filters? Kalman filters are ingenius. If you have never heard of them,
 then a very intuitive (and arguably reductive) way to think about them is to
 
 
-* **Link to site:** **[A non-mathematical introduction to Kalman Filters for programmers – Pravesh Koirala](None)**

@@ -4,10 +4,13 @@ author: Pito Salas
 date: 2007-01-05
 ---
 
-Notwithstanding the fact that Mike Arrington, an investor, doesn't like
-[DayLife](<http://www.daylife.com/topstories>) too much, I just spend a few
-minutes looking, and I think it's very very nice.
+**Link: [DayLife: very nice new News Site](None):** ""
 
+
+>
+> Notwithstanding the fact that Mike Arrington, an investor, doesn't like
+> [DayLife](<http://www.daylife.com/topstories>) too much, I just spend a few
+> minutes looking, and I think it's very very nice.
 >
 > I'd say it's definitely worth a look.
 >
@@ -26,4 +29,3 @@ minutes looking, and I think it's very very nice.
 > Check out [DayLife itself](<http://www.daylife.com/topstories>) 🙂
 
 
-* **Link to site:** **[DayLife: very nice new News Site](None)**

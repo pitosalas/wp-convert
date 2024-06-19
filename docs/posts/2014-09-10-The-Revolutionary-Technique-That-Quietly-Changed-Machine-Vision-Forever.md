@@ -7,6 +7,10 @@ tags:
     - machine-vision-tag
 ---
 
+**Link: [The Revolutionary Technique That Quietly Changed Machine Vision Forever](None):** ""
+
+
+
 In the world of machine vision, the equivalent goal is to win the ImageNet
 Large-Scale Visual Recognition Challenge. This is a competition that has run
 every year since 2010 to evaluate image recognition algorithms. (It is
@@ -16,4 +20,3 @@ article.](<http://www.technologyreview.com/view/530561/the-revolutionary-
 technique-that-quietly-changed-machine-vision-forever/>)
 
 
-* **Link to site:** **[The Revolutionary Technique That Quietly Changed Machine Vision Forever](None)**

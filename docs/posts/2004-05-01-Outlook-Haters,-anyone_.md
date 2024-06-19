@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-05-01
 ---
 
-[David Coursey writes an interesting bit
+**Link: [Outlook Haters, anyone?](None):** ""
+
+
+>>
+
+>> [David Coursey writes an interesting bit
 ](<http://blog.ziffdavis.com/coursey/archive/2004/04/28/739.aspx>)about how
 the competitors to Microft Office (i.e. Star Office, Word Perfect, what not)
 need to get themselves an Outlook competitor, because that's the only (or
@@ -35,4 +40,3 @@ someone's free-busy information. These are incredibly important integrations:
 the three functions (email, calendar and addressbook) **belong together.**
 
 
-* **Link to site:** **[Outlook Haters, anyone?](None)**

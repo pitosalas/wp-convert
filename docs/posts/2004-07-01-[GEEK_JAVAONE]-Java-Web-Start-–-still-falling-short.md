@@ -4,9 +4,15 @@ author: Pito Salas
 date: 2004-07-01
 ---
 
-Java Web Start is a piece of Java platform that's meant to ease the deployment
-and updating of Java applications. It's a great idea, but disappointingly
-implemented. There were several JavaOne sessions about Web Start.
+**Link: [[GEEK/JAVAONE] Java Web Start – still falling short](None):** ""
+
+
+>>
+
+>> Java Web Start is a piece of Java platform that's meant to ease the
+deployment and updating of Java applications. It's a great idea, but
+disappointingly implemented. There were several JavaOne sessions about Web
+Start.
 
 >>
 
@@ -47,4 +53,3 @@ we are talking about. We'll consider it for the next release."
 >> With 1.5 to 2.5 year release cycle this is not really good enough
 
 
-* **Link to site:** **[[GEEK/JAVAONE] Java Web Start – still falling short](None)**

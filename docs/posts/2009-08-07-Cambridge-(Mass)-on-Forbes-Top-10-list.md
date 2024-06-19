@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2009-08-07
 ---
 
+**Link: [Cambridge (Mass) on Forbes Top 10 list](None):** ""
+
+
+
 Pretty cool report via Boston Globe, but see my minor complaint about it at
 the end:
 
@@ -11,8 +15,8 @@ the end:
 offer young folks. According to [Forbes.com](<http://forbes.com/>), the
 second-best place in the country for young college grads is none other than
 Cambridge, or more specifically the Cambridge-Newton-Framingham area, which
-ranks behind only San Jose among metro areas with over 1 million people."
-(**from** [Boston
+ranks behind only San Jose among metro areas with over 1 million people." (
+**from** [Boston
 Globe](<http://www.boston.com/bostonglobe/editorial_opinion/editorials/articles/2009/08/07/cambridge_the_land_of_tech_and_honey/>))
 
 It's actually quite interesting to see the underlying detail of how the study
@@ -29,4 +33,3 @@ Forbes article that you're quoting? The link you provide is to the overall
 Forbes site, not the actul article, which is actually not easy to find!
 
 
-* **Link to site:** **[Cambridge (Mass) on Forbes Top 10 list](None)**

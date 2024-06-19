@@ -7,6 +7,10 @@ tags:
     - tips
 ---
 
+**Link: [100 Tips for a Better Life – LessWrong](None):** ""
+
+
+
 [ 100 Tips for a Better Life - LessWrong](<
 https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-
 life?utm_campaign=Recomendo&utm_medium=email&utm_source=Revue%20newsletter>) –
@@ -15,4 +19,3 @@ thread based on Jacobian’s from last year! If you know a source for one of
 these, shout and I’ll edit it in. “
 
 
-* **Link to site:** **[100 Tips for a Better Life – LessWrong](None)**

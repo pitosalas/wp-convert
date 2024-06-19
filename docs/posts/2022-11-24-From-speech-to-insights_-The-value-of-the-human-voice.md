@@ -15,8 +15,6 @@ tags:
 ---
 <img class="cover" src=https://www.mckinsey.com/~/media/mckinsey/business%20functions/operations/our%20insights/from%20speech%20to%20insights%20the%20value%20of%20the%20human%20voice/from%20speech%20to%20insights_1308903390_thumb_1536x1536.jpg>
 
+**Link: [From speech to insights: The value of the human voice](https://www.mckinsey.com/capabilities/operations/our-insights/from-speech-to-insights-the-value-of-the-human-voice):** "Live voice contacts are essential for customer experience. In this McKinsey article, we explore how new speech analytics technology is driving lasting results."
 
 
-* **Web site excerpt:** Live voice contacts are essential for customer experience. In this McKinsey article, we explore how new speech analytics technology is driving lasting results.
-
-* **Link to site:** **[From speech to insights: The value of the human voice](https://www.mckinsey.com/capabilities/operations/our-insights/from-speech-to-insights-the-value-of-the-human-voice)**

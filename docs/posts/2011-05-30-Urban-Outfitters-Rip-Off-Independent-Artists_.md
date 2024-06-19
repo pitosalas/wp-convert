@@ -7,6 +7,10 @@ tags:
     - urban-outfitters
 ---
 
+**Link: [Urban Outfitters Rip Off Independent Artists?](None):** ""
+
+
+
 This article, "[Anatomy of a Trending Topic: How Twitter & the crafting
 community put the smackdown on Urban
 Outfitters](<http://www.myaimistrue.com/2011/05/urban-outfitters-ripoff-
@@ -26,4 +30,3 @@ original design was truly original.
 Things are never as simple as they appear…
 
 
-* **Link to site:** **[Urban Outfitters Rip Off Independent Artists?](None)**

@@ -8,10 +8,13 @@ tags:
     - shopping
 ---
 
+**Link: [SuperMagnetMan – Neodymium Magnets, Many Shapes & Sizes!](None):** ""
+
+
+
 [ SuperMagnetMan - Neodymium Magnets, Many Shapes & Sizes!](<
 https://supermagnetman.com/>) –Large Selection of strong and powerful
 neodymium magnets. Great Prices. Discs, Rings, Cones, Cylinders, Arcs, Cubes,
 Rectangles, Squares, and much more.
 
 
-* **Link to site:** **[SuperMagnetMan – Neodymium Magnets, Many Shapes & Sizes!](None)**

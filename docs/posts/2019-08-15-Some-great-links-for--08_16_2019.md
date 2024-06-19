@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-08-15
 ---
 
+**Link: [Some great links for  08/16/2019](None):** ""
+
+
+
   * [Advanced multi-db techniques in Rails 6](<https://prathamesh.tech/2019/08/13/rails-6-multi-database-part-two/>)
 
 Great new features in rails 6 — support of multi database models
@@ -26,4 +30,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  08/16/2019](None)**

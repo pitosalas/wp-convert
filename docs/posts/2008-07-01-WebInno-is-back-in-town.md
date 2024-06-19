@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-07-01
 ---
 
+**Link: [WebInno is back in town](None):** ""
+
+
+
 If you live in the Boston area and are in the tech business you should check
 out the more or less monthly Web Innovators gathering sometimes referred to in
 shorthand as WebInno. Here is the [WebInnot
@@ -20,8 +24,7 @@ the coordinates:
 >
 > As usual, the doors officially open at 6:30pm at the Grand Ballroom in the
 > Cambridge Royal Sonesta, with the “main dish” presentations to the entire
-> crowd starting at 7pm." (**from**
+> crowd starting at 7pm." ( **from**
 > [WebInno](<http://www.webinnovatorsgroup.com/category/blog/>))
 
 
-* **Link to site:** **[WebInno is back in town](None)**

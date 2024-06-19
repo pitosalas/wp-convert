@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-09-18
 ---
 
+**Link: [Scott Adams is still funny: Suing God](None):** ""
+
+
+
 Scott Adams of course is the evil genius behind Dilbert, which as you know I
 am a big fan of. Scott also has a really funny blog. As proof, this is from
 [the latest
@@ -19,4 +23,3 @@ Blog](<http://dilbertblog.typepad.com/the_dilbert_blog/>):
 > god.html>))
 
 
-* **Link to site:** **[Scott Adams is still funny: Suing God](None)**

@@ -8,6 +8,10 @@ tags:
     - rube-goldberg
 ---
 
+**Link: [Kluge: Is that an obsolete term?](None):** ""
+
+
+
 I was amazed today when in a group of 25 undergraduate engineering students,
 only three had heard the word
 [kluge](<http://www.urbandictionary.com/define.php?term=kluge>). When I
@@ -20,4 +24,3 @@ Query: Is the word
 obsolete among the geek community?
 
 
-* **Link to site:** **[Kluge: Is that an obsolete term?](None)**

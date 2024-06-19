@@ -4,15 +4,21 @@ author: Pito Salas
 date: 2004-04-29
 ---
 
-Several people asked me about what the security situation in Spain felt like.
-I have to admit it did give me pause to be going to Spain little more than a
-month after the terrorist attack on the trains in Madrid. In fact our travel
-plans included several long train rides. I checked with friends who live in
-Spain, and also looked at the various State Department notices, and all in all
-decided that the risk wouldn't be major. I did expect to see a major security
-presence -- you know, soldiers with machine guns in the airports, etc. But
-otherwise I wasn't especially worried, but curious what we'd find. I remember
-how shell shocked we were in the U.S. two months after 9/11.
+**Link: [Spain Security Situation](None):** ""
+
+
+>>
+
+>> Several people asked me about what the security situation in Spain felt
+like. I have to admit it did give me pause to be going to Spain little more
+than a month after the terrorist attack on the trains in Madrid. In fact our
+travel plans included several long train rides. I checked with friends who
+live in Spain, and also looked at the various State Department notices, and
+all in all decided that the risk wouldn't be major. I did expect to see a
+major security presence -- you know, soldiers with machine guns in the
+airports, etc. But otherwise I wasn't especially worried, but curious what
+we'd find. I remember how shell shocked we were in the U.S. two months after
+9/11.
 
 >>
 
@@ -40,4 +46,3 @@ Square in New York.
 >> I was pleasantly surprised. Friends here that hear that story are amazed.
 
 
-* **Link to site:** **[Spain Security Situation](None)**

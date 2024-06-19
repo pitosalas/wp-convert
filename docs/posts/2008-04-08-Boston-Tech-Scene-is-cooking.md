@@ -6,6 +6,10 @@ tags:
     - boston-tag-techno-taglogy-gatherings
 ---
 
+**Link: [Boston Tech Scene is cooking](None):** ""
+
+
+
 Last week I went to the monthly ["WebInno" - web innovators group -
 ](<http://www.webinnovatorsgroup.com/>)meeting at the Sonesta in Cambridge,
 Massachusetts (USA). I am **quite impressed** with the attendance and the
@@ -34,4 +38,3 @@ So for all you "Boston is cool but I wish I lived in silcon valley" types, I
 say, stop it already, there's a lot lot going on here. You just have to look!
 
 
-* **Link to site:** **[Boston Tech Scene is cooking](None)**

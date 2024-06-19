@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-12-13
 ---
 
+**Link: [Old wives tale, once more, turns out to be true](None):** ""
+
+
+
 Have you had this debate? Does cold weather cause people to catch colds more
 easily or not? Well here's an interesting article that says there is
 'scientific' proof that flu infections do in fact spread more during cold
@@ -30,4 +34,3 @@ However in fairness:
 interesting.](<http://www.nytimes.com/2007/12/05/health/research/05flu.html?em&ex=1197090000&en=2b44d54a8b2870e1&ei=5087%0A>)
 
 
-* **Link to site:** **[Old wives tale, once more, turns out to be true](None)**

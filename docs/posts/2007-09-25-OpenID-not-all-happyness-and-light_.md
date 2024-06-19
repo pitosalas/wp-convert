@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-09-25
 ---
 
+**Link: [OpenID not all happyness and light?](None):** ""
+
+
+
 I don't follow the Identify world that closely and like everyone I've now come
 across services who suggest that you log into them with an [[tag]OpenId[/tag]
 account](<http://openid.net/>). So I have one now too. It's free. It's
@@ -40,4 +44,3 @@ actual article, but here's a nice laundry list to get you going:
 > Corner)](<http://www.idcorner.org/?s=openid>)
 
 
-* **Link to site:** **[OpenID not all happyness and light?](None)**

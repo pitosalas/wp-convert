@@ -4,8 +4,13 @@ author: Pito Salas
 date: 2004-03-08
 ---
 
-**[Flipstart](<http://www.flipstartpc.com/>) from Vulcan (Demo 2004 Series -
-9): **This is a **weird little** device. It's essentially a Windows XP
+**Link: [Flipstart from Vulcan (Demo 2004](None):** ""
+
+
+>>
+
+>> **[Flipstart](<http://www.flipstartpc.com/>) from Vulcan (Demo 2004 Series
+- 9): **This is a **weird little** device. It's essentially a Windows XP
 computer using thumb keyboard. The dimensions are (from memory, now 4″ x 6″ x
 1″) It has a 30Gig disk, and fast chip. It also has built in Wi-Fi. It has a
 port replicator allowing full size keyboard and screen to be attached. The
@@ -64,4 +69,3 @@ founder, with Bill Gates, of Microsoft. At least that's how I read the
 geneology.
 
 
-* **Link to site:** **[Flipstart from Vulcan (Demo 2004](None)**

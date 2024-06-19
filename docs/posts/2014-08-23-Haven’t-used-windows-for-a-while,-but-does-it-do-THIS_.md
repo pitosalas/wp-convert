@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2014-08-23
 ---
 
+**Link: [Haven’t used windows for a while, but does it do THIS?](None):** ""
+
+
+
 ![](https://i0.wp.com/salas.com/wp-
 content/uploads/2014/08/87c29-screenshot2014-08-23at4-55-45pm-45pm.png?w=584&ssl=1)
 
@@ -11,4 +15,3 @@ content/uploads/2014/08/87c29-screenshot2014-08-23at4-55-45pm-45pm.png?w=584&ssl
 Does Windows do this?
 
 
-* **Link to site:** **[Haven’t used windows for a while, but does it do THIS?](None)**

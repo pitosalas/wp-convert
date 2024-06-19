@@ -4,10 +4,15 @@ author: Pito Salas
 date: 2005-03-05
 ---
 
+**Link: [I read Dowbrigade for the articles](None):** ""
+
 Do you know [Dowbrigade?](<http://blogs.law.harvard.edu/dowbrigade/>) An
 almost always interesting blog, intellectually stimulating and thought
-provoking. [Check it out!](<http://blogs.law.harvard.edu/dowbrigade/>) Wait,
-read more closely. There's good stuff there:
+provoking. [Check it out!](<http://blogs.law.harvard.edu/dowbrigade/>)
+
+>>
+
+>> Wait, read more closely. There's good stuff there:
 
 >>
 
@@ -22,4 +27,3 @@ decided to exercise a little creative licence, at the end of the story.."
 >> What I want to know is where is Michael's secret stash of iPod photographs?
 
 
-* **Link to site:** **[I read Dowbrigade for the articles](None)**

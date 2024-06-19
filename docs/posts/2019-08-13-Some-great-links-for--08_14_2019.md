@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-08-13
 ---
 
+**Link: [Some great links for  08/14/2019](None):** ""
+
+
+
   * [A Complete Guide to the Ruby Programming World - Learn Worthy](<https://learnworthy.net/a-complete-guide-to-the-ruby-programming-world/>)
 
 A nice comprehensive review of the world of the ruby programming language, my
@@ -18,4 +22,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  08/14/2019](None)**

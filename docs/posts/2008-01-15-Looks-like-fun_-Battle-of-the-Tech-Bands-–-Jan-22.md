@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-01-15
 ---
 
+**Link: [Looks like fun: Battle of the Tech Bands – Jan 22](None):** ""
+
+
+
 ![](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-
 content/uploads/imagewell/battle_640.jpg?w=584)  
 I just came across this announcement for the ['Battle of the Tech
@@ -17,4 +21,3 @@ Sounds like fun! [Check out the Battle of the Tech Bands
 here!](<http://www.xconomy.com/2007/12/04/xconomys-battle-of-the-tech-bands/>)
 
 
-* **Link to site:** **[Looks like fun: Battle of the Tech Bands – Jan 22](None)**

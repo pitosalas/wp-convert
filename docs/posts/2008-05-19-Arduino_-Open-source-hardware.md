@@ -6,6 +6,10 @@ tags:
     - arduino-tag-techno-taglogy-hardware-opensource
 ---
 
+**Link: [Arduino: Open source hardware](None):** ""
+
+
+
 Check out [Arduino](<http://www.arduino.cc/>), a totally cool tiny embedded
 computer suitable for creating smart things - art, robotics, sensors and
 controllers. You program it on your laptop, and download the program to the
@@ -24,4 +28,3 @@ Talk"](<https://www.amazon.com/s/ref=nb_ss_?url=search-alias%3Daps&field-
 keywords=physical+computing&x=0&y=0>).
 
 
-* **Link to site:** **[Arduino: Open source hardware](None)**

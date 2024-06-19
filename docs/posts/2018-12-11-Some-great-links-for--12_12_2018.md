@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-12-11
 ---
 
+**Link: [Some great links for  12/12/2018](None):** ""
+
+
+
   * [Teaching Robotics With ROS | The Construct](<http://www.theconstructsim.com/teaching-robotics-ros/>)
 
 Really good article about a way to teach robotics and pros
@@ -16,4 +20,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  12/12/2018](None)**

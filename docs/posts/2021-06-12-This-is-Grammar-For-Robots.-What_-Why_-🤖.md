@@ -17,8 +17,6 @@ tags:
 ---
 <img class="cover" src=https://i.ytimg.com/vi/rSPwOeX46UA/maxresdefault.jpg>
 
+**Link: [This is Grammar For Robots. What? Why? 🤖](https://www.youtube.com/watch?v=rSPwOeX46UA):** "https://lambdalabs.com/papers📝 The paper "RoboGrammar: Graph Grammar for Terrain-Optimized Robot designer. Very intersting paper !"
 
 
-* **Web site excerpt:** https://lambdalabs.com/papers📝 The paper "RoboGrammar: Graph Grammar for Terrain-Optimized Robot designer. Very intersting paper !
-
-* **Link to site:** **[This is Grammar For Robots. What? Why? 🤖](https://www.youtube.com/watch?v=rSPwOeX46UA)**

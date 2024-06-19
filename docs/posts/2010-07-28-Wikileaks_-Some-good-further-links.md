@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2010-07-28
 ---
 
+**Link: [Wikileaks: Some good further links](None):** ""
+
+
+
 Continuing the post from the other day about Wikileaks, I found some excellent
 further links that might interest you:
 
@@ -12,4 +16,3 @@ further links that might interest you:
   * [No Secrets - Profile in the New Yorker Magazine](<http://www.newyorker.com/reporting/2010/06/07/100607fa_fact_khatchadourian>)
 
 
-* **Link to site:** **[Wikileaks: Some good further links](None)**

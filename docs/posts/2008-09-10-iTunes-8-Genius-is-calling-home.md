@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-09-10
 ---
 
+**Link: [iTunes 8 Genius is calling home](None):** ""
+
+
+
 I just downloaded the new ITunes 8. It has this new thing called the iTunes
 Genius which seems like it is going to help me create play lists or something.
 Maybe it's gonna out Pandora Pandora or Last.FM. Don't know exactly what I am
@@ -29,4 +33,3 @@ Anyone?
 colonoscopy](<http://technorati.com/tag/itunes%20tags%20playlists%20colonoscopy>)
 
 
-* **Link to site:** **[iTunes 8 Genius is calling home](None)**

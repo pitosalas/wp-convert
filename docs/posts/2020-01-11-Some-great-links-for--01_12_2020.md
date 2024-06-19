@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2020-01-11
 ---
 
+**Link: [Some great links for  01/12/2020](None):** ""
+
+
+
   * [Broot](<https://dystroy.org/broot/>)
 
 Looks like this might be useful.
@@ -17,4 +21,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  01/12/2020](None)**

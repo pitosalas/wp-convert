@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2009-06-13
 ---
 
+**Link: [Check out TheRentables.com](None):** ""
+
+
+
 I was shown a promising new site called
 [TheRentables](<http://www.therentables.com/about.php>), for people (I know at
 least 3) who are looking to rent an apartment. They say:
@@ -23,4 +27,3 @@ information.Technorati Tags:
 [startups](<http://technorati.com/tag/startups>)
 
 
-* **Link to site:** **[Check out TheRentables.com](None)**

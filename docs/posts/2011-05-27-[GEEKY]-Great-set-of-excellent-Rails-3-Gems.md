@@ -7,6 +7,10 @@ tags:
     - rails3
 ---
 
+**Link: [[GEEKY] Great set of excellent Rails 3 Gems](None):** ""
+
+
+
 Just a quick read of this post showed me several great gems that I want to try
 right away! If you're a Rails programmer this is going to be of great
 interest: [Rails 3: Fully
@@ -22,4 +26,3 @@ without hacking the hell out of the logic that is built in. I will definitely
 try it.
 
 
-* **Link to site:** **[[GEEKY] Great set of excellent Rails 3 Gems](None)**

@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-11-30
 ---
 
+**Link: [Some great links for  12/01/2019](None):** ""
+
+
+
   * [Markov Localization for Mobile Robots in Dynamic Environments](<http://www.cs.cmu.edu/afs/cs/project/jair/pub/volume11/fox99a-html/jair-localize.html>)
 
 A seminal paper on the Markov Localization Algorithm
@@ -51,4 +55,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  12/01/2019](None)**

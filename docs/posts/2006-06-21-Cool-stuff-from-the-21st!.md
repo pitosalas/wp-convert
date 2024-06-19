@@ -4,6 +4,8 @@ author: Pito Salas
 date: 2006-06-21
 ---
 
+**Link: [Cool stuff from the 21st!](None):** ""
+
 Some cool stuff
 
 >>
@@ -14,6 +16,8 @@ For my friends who are interns or know an intern. Some decent advice! (tags:
 [internship](<http://del.icio.us/pitosalas/internship>)
 [funny](<http://del.icio.us/pitosalas/funny>))
 
+>>
+
 >>   * [the LOOSE wire blog: Watching the World Cup on a
 Widget](<http://www.loosewireblog.com/2006/06/watching_the_wo.html>). Watching
 the world cup online - but it looks like all these ideas give scoreboards not
@@ -23,5 +27,6 @@ a live TV pic (tags: [soccer](<http://del.icio.us/pitosalas/soccer>)
 
 >>
 
+>>
 
-* **Link to site:** **[Cool stuff from the 21st!](None)**
+

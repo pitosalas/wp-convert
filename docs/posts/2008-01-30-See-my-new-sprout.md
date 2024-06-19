@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-01-30
 ---
 
+**Link: [See my new sprout](None):** ""
+
+
+
 <http://farm.sproutbuilder.com/2341/load/cACdIgrQADCA209Z.swf>![](https://i0.wp.com/counters.gigya.com/wildfire/CIMP/Jmx*PTEyMDE2NzEwODc1NDgmcHQ9MTIwMTY3MTA5ODU4NiZwPTEyMDc*MSZkPTI3Nzkmbj*=.jpg?resize=0%2C0)
 
 The widget to the left was created using
@@ -30,4 +34,3 @@ and even include actions which get measured separately.
 The possibilities are **great**!
 
 
-* **Link to site:** **[See my new sprout](None)**

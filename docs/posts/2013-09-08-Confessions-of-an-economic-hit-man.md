@@ -10,6 +10,10 @@ tags:
     - war
 ---
 
+**Link: [Confessions of an economic hit man](None):** ""
+
+
+
 You should read this book: [Confessions of an Economic Hit
 Man](<http://www.amazon.com/gp/product/0452287081/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0452287081&linkCode=as2&tag=blogbridge-20>)![](http://ir-
 na.amazon-adsystem.com/e/ir?t=blogbridge-20&l=as2&o=1&a=0452287081).  It's
@@ -39,4 +43,3 @@ flush-with-defense-industry-cash/>):
 
 
 
-* **Link to site:** **[Confessions of an economic hit man](None)**

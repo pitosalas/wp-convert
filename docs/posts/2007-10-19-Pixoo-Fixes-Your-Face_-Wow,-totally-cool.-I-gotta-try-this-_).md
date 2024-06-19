@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-10-19
 ---
 
+**Link: [Pixoo Fixes Your Face: Wow, totally cool. I gotta try this :)](None):** ""
+
+
+
 Check out [this post](<http://mashable.com/2007/10/18/pixoo/>) from
 [Mashable!](<http://mashable.com>):
 
@@ -15,4 +19,3 @@ Check out [this post](<http://mashable.com/2007/10/18/pixoo/>) from
 > (from: [Pixoo Fixes Your Face](<http://mashable.com/2007/10/18/pixoo/>))
 
 
-* **Link to site:** **[Pixoo Fixes Your Face: Wow, totally cool. I gotta try this :)](None)**

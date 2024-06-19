@@ -7,6 +7,10 @@ tags:
     - econ-tagomy
 ---
 
+**Link: [An interesting stat: Is it true?](None):** ""
+
+
+
 [Kirk McDonald: Sorry, College Grads, I Probably Won't Hire You -
 WSJ.com](<http://online.wsj.com/article/SB10001424127887323744604578470900844821388.html?mod=itp>):
 
@@ -20,4 +24,3 @@ if you are teaching computer science then it's a pretty sobering statistic. I
 am going to try digging deeper to see if I can find the source.
 
 
-* **Link to site:** **[An interesting stat: Is it true?](None)**

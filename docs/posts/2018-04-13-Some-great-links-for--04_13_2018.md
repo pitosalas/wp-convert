@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-04-13
 ---
 
+**Link: [Some great links for  04/13/2018](None):** ""
+
+
+
   * [TechRabbit: Makara: a read-write splitting adapter for Active Record](<http://tech.taskrabbit.com/blog/2013/01/02/makara/>)
 
 An alternative to Octopus as a solution to shard databases
@@ -18,4 +22,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  04/13/2018](None)**

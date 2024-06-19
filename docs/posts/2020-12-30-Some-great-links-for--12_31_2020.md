@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2020-12-30
 ---
 
+**Link: [Some great links for  12/31/2020](None):** ""
+
+
+
   * [Git Commands to Live By](<https://link.medium.com/sbnKSHQCDcb>)
 
 A great collection of semi- advanced git commands. Super useful!
@@ -17,4 +21,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  12/31/2020](None)**

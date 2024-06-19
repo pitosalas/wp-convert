@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2009-07-20
 ---
 
+**Link: [Transparency is the new objectivity: Really good post from David Weinberger](None):** ""
+
+
+
 Check this excerpt from a post by [David
 Weinberger](<http://en.wikipedia.org/wiki/David_Weinberger>) called
 [Transparency is the new
@@ -19,7 +23,7 @@ Blog](<http://www.hyperorg.com/blogger/feed/>):
 > anything but an aspiration, and even that aspiration is looking pretty
 > sketchy. The problem with objectivity is that it tries to show what the
 > world looks like from no particular point of view, which is like wondering
-> what something looks like in the dark." (**from:**[Transparency is the New
+> what something looks like in the dark." ( **from:**[Transparency is the New
 > Objectivity) ](<http://www.hyperorg.com/blogger/2009/07/19/transparency-is-
 > the-new-objectivity/>)
 
@@ -45,4 +49,3 @@ Objectivity](<http://www.hyperorg.com/blogger/2009/07/19/transparency-is-the-
 new-objectivity/>) tells a fascinating part of the story; you should read it.
 
 
-* **Link to site:** **[Transparency is the new objectivity: Really good post from David Weinberger](None)**

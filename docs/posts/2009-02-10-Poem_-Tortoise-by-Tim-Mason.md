@@ -8,6 +8,10 @@ tags:
     - timmason-tag
 ---
 
+**Link: [Poem: Tortoise by Tim Mason](None):** ""
+
+
+
 **Tortoise**  
 by [Tim Mason](<http://www.timothydmason.com/tortoise.shtml>)
 
@@ -39,4 +43,3 @@ under the hard shell
 I show the world.
 
 
-* **Link to site:** **[Poem: Tortoise by Tim Mason](None)**

@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-03-11
 ---
 
+**Link: [[GEEKY] Firefox angst](None):** ""
+
+
+
 On Mac, I've been using only FireFox for a while now. But lately I've seen
 some things that have made me nervous. More than once I've seen FireFox peg
 the CPU for no apparent reason. Recently I had bad experiences with the latest
@@ -25,4 +29,3 @@ Dear readers: have you seen FireFox pegging the CPU from time to time? Any
 fixes or explanations?
 
 
-* **Link to site:** **[[GEEKY] Firefox angst](None)**

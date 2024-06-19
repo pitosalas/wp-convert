@@ -9,6 +9,10 @@ tags:
     - rightofcenter
 ---
 
+**Link: [Lake Wobegon and Politics](None):** ""
+
+
+
 Have you ever heard a politician or pundit say, with self-assurance, America
 is a **Right of Center** country. Think [Newt
 Gingrich.](<http://www.newt.org/>)
@@ -21,4 +25,3 @@ Isn't this a lot like [Lake Wobegon](<http://prairiehome.publicradio.org/>),
 I'm just sayin'…
 
 
-* **Link to site:** **[Lake Wobegon and Politics](None)**

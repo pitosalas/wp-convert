@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-04-27
 ---
 
+**Link: [Ray Ozzie on Mesh](None):** ""
+
+
+
 You might have missed the announcement of Microsoft Mesh. Cycnical me: these
 grand strategies come and go. I believe this is the second or perhaps third
 major iteration of Microsoft's strategy in this area, in each case without an
@@ -21,4 +25,3 @@ from [ReadWriteWeb](<http://www.readwriteweb.com/rss.xml>):
 > ways through which they‟ve become intermixed and mutually reinforcing."
 
 
-* **Link to site:** **[Ray Ozzie on Mesh](None)**

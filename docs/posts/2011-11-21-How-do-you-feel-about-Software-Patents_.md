@@ -8,6 +8,10 @@ tags:
     - software
 ---
 
+**Link: [How do you feel about Software Patents?](None):** ""
+
+
+
 I am not dead set against software patents, although I've been on both sides
 of the issue.
 
@@ -24,10 +28,9 @@ attack>)
 > "…But IV is not buying inventions. It's buying patents. And most software
 > engineers will tell you, at least when it comes to software, a patent and an
 > invention are not the same. Lots of patents cover things that people who
-> write software for a living wouldn't consider inventions at all…
-> (**from**[When Patents
+> write software for a living wouldn't consider inventions at all… (
+> **from**[When Patents
 > Attack)](<http://www.npr.org/blogs/money/2011/07/26/138576167/when-patents-
 > attack>)
 
 
-* **Link to site:** **[How do you feel about Software Patents?](None)**

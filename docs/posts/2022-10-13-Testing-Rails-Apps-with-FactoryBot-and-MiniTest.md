@@ -15,8 +15,6 @@ tags:
 ---
 <img class="cover" src=http://fuzzyblog.io/blog/assets/scott_johnson.jpg>
 
+**Link: [Testing Rails Apps with FactoryBot and MiniTest](https://fuzzyblog.io/blog/rails/2022/07/27/testing-rails-apps-with-factorybot-and-minitest.html):** "This blog post looks at testing rails apps with FactoryBot and MiniTest – the default test framework which ships with Rails...."
 
 
-* **Web site excerpt:** This blog post looks at testing rails apps with FactoryBot and MiniTest – the default test framework which ships with Rails....
-
-* **Link to site:** **[Testing Rails Apps with FactoryBot and MiniTest](https://fuzzyblog.io/blog/rails/2022/07/27/testing-rails-apps-with-factorybot-and-minitest.html)**

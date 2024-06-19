@@ -9,6 +9,10 @@ tags:
     - startups
 ---
 
+**Link: [New Book: Founder’s Dilemmas](None):** ""
+
+
+
 This book looks good: "Founder's Dilemmas: Anticipating and Avoiding the
 pitfalls that can sink a startup". I came across it in the "Startup Lessons
 Learned" Blog, which may be the best blog about leann startups.
@@ -25,7 +29,7 @@ for them as time goes on:
 > matching it as closely as possible thefoundersâ past contributions,
 > opportunity costs, future contributions, and motivationsâit is equally
 > important to keep it right; that is, to be able to adjust the split as
-> circumstances change." (**from**[Founder's Dilemmas: Equity
+> circumstances change." ( **from**[Founder's Dilemmas: Equity
 > Splits)](<http://www.startuplessonslearned.com/>)
 
 I think I will be getting the book.
@@ -33,4 +37,3 @@ I think I will be getting the book.
 _p.s. not to be a scrooge, but shouldn 't the title be "Founders' Dilemmas"?_
 
 
-* **Link to site:** **[New Book: Founder’s Dilemmas](None)**

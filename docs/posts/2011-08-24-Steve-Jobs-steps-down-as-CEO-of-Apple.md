@@ -7,6 +7,10 @@ tags:
     - steve-jobs
 ---
 
+**Link: [Steve Jobs steps down as CEO of Apple](None):** ""
+
+
+
 This news saddens me:
 
 > "Apple CEO and co-founder Steve Jobs resigned today as chief executive
@@ -18,4 +22,3 @@ This news saddens me:
 I hope he's doing alright and is with us for many many years to come.
 
 
-* **Link to site:** **[Steve Jobs steps down as CEO of Apple](None)**

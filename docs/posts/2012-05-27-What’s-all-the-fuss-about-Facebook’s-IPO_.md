@@ -10,6 +10,10 @@ tags:
     - stocks
 ---
 
+**Link: [What’s all the fuss about Facebook’s IPO?](None):** ""
+
+
+
 I totally agree with Frank Bruni's account of the Facebook's IPO. It seems to
 me that if the current price of FB is pretty close to the offering price, then
 the bankers were doing their job.
@@ -25,9 +29,8 @@ I think that's just what happened! Good on them. From Frank Bruni's Article:
 
 > "Instead, virtually everyone who bought Facebook on that first day was
 > making a one-day, get-rich-quick calculation. It didn't work out. Too bad."
-> (**from** [Facebook's Brilliant Disaster -
+> ( **from** [Facebook's Brilliant Disaster -
 > NYT](<http://www.nytimes.com/2012/05/26/opinion/nocera-facebooks-brilliant-
 > disaster.html>))
 
 
-* **Link to site:** **[What’s all the fuss about Facebook’s IPO?](None)**

@@ -8,6 +8,10 @@ tags:
     - jobs-rails
 ---
 
+**Link: [Ruby and Rails job boards in Boston](None):** ""
+
+
+
 I get asked from time to time to recommend ruby, rails, and other developers
 in the Boston area, either for full time or part time gigs. I'm developing a
 list of good local job resources - started so far with the help of pal [Brian
@@ -24,4 +28,3 @@ D:](<http://hybernaut.com/>)
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-* **Link to site:** **[Ruby and Rails job boards in Boston](None)**

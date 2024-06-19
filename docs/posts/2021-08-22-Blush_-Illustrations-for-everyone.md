@@ -14,8 +14,6 @@ tags:
 ---
 <img class="cover" src=https://blush.design/og-image.png>
 
+**Link: [Blush: Illustrations for everyone](https://blush.design/):** "Blush makes it easy to add free illustrations to your designs. Play with fully customizable graphics made by artists across the globe."
 
 
-* **Web site excerpt:** Blush makes it easy to add free illustrations to your designs. Play with fully customizable graphics made by artists across the globe.
-
-* **Link to site:** **[Blush: Illustrations for everyone](https://blush.design/)**

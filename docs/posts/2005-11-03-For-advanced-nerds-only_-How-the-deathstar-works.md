@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2005-11-03
 ---
 
-From **[How Stuff Works](<http://www.howstuffworks.com/>)** :
+**Link: [For advanced nerds only: How the deathstar works](None):** ""
+
+
+>>
+
+>> From **[How Stuff Works](<http://www.howstuffworks.com/>)** :
 
 >>
 
@@ -16,7 +21,11 @@ Empire's solution to order is the **Death Star**."
 >>
 
 >>> [Read the whole thing](<http://science.howstuffworks.com/death-
-star.htm/printable>)! How Stuff Works has come a long way, with sections on
+star.htm/printable>)!
+
+>>>
+
+>>> How Stuff Works has come a long way, with sections on
 [Science](<http://science.howstuffworks.com/>),
 [Health](<http://health.howstuffworks.com/>),
 [Entertainment](<http://entertainment.howstuffworks.com/>) etc. Check it out!
@@ -26,4 +35,3 @@ star.htm/printable>)! How Stuff Works has come a long way, with sections on
 >> Technorati Tags: [cool](<http://www.technorati.com/tag/cool>)
 
 
-* **Link to site:** **[For advanced nerds only: How the deathstar works](None)**

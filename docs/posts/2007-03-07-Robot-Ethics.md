@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-03-07
 ---
 
+**Link: [Robot Ethics](None):** ""
+
+
+
 Isaac Asimov was a visonary don't you think?
 
 > "South Korea's obsession with technology has led it to consider what may be
@@ -11,4 +15,3 @@ Isaac Asimov was a visonary don't you think?
 > Telegraph](<http://www.telegraph.co.uk/core/Content/displayPrintable.jhtml;jsessionid=2RJPCERC15CLHQFIQMFSFF4AVCBQ0IV0?xml=/news/2007/03/07/wkorea107.xml&site=5&page=0>))
 
 
-* **Link to site:** **[Robot Ethics](None)**

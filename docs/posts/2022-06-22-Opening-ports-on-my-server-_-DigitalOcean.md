@@ -1,0 +1,17 @@
+---
+title: "Opening ports on my server | DigitalOcean"
+author: Pito Salas
+url: "https://www.digitalocean.com/community/questions/opening-ports-on-my-server" 
+link: "https://www.digitalocean.com/community/questions/opening-ports-on-my-server" 
+cover: "https://images.prismic.io/digitalocean/ca12c951cc76f33037f3384bba9942545d160d82_iaan_illo.jpg?auto=compress,format" 
+date: 2022-06-22
+tags:
+    - kube
+    - firewall
+    - k3s
+---
+<img class="cover" src=https://images.prismic.io/digitalocean/ca12c951cc76f33037f3384bba9942545d160d82_iaan_illo.jpg?auto=compress,format>
+
+**Link: [Opening ports on my server | DigitalOcean](https://www.digitalocean.com/community/questions/opening-ports-on-my-server):** ""
+
+

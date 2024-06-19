@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-09-21
 ---
 
+**Link: [[geeky] Google Groups missing key functionality](None):** ""
+
+
+
 I've been living inside a couple of [tag]Google groups[/tag] lately, posting
 questions and waiting for answers. (Which ones? [Ruby on Rails:
 Talk](<http://groups.google.com/group/rubyonrails-talk>) and [[tag]Active
@@ -17,4 +21,3 @@ to checking manually every day or so. (You can see it annoyed me sufficiently
 to bother writing this 🙂
 
 
-* **Link to site:** **[[geeky] Google Groups missing key functionality](None)**

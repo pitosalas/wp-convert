@@ -7,6 +7,10 @@ tags:
     - software
 ---
 
+**Link: [Is Software Eating the World](None):** ""
+
+
+
 Marc Andreeson has a [really good, optimistic article in the Wall Street
 Journal about the future foundational role of Software in all industries of
 the world's
@@ -44,4 +48,3 @@ You must have a deep, illogical, passionate belief in your company and then
 you have to actually be really really good at execution.
 
 
-* **Link to site:** **[Is Software Eating the World](None)**

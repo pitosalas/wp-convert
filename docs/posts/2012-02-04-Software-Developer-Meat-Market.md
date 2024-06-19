@@ -9,6 +9,10 @@ tags:
     - software
 ---
 
+**Link: [Software Developer Meat Market](None):** ""
+
+
+
 An interesting article in Forbes about Software Developers and Development in
 general, [The Rise of
 Developeronomics](<http://www.forbes.com/sites/venkateshrao/2011/12/05/the-
@@ -29,7 +33,7 @@ just not appreciating their craft. In any event, [Venkatesh Rao
 > have money and you happen to find a talented developer who seems to like you
 > and wants to work with you, you should give him/her your money to build
 > something, anything, even if you have no really good product ideas (those
-> are cheap; Iâll sell you a dozen for a dollar)." (**from** [The Rise of
+> are cheap; Iâll sell you a dozen for a dollar)." ( **from** [The Rise of
 > Developeronomics)](<http://www.forbes.com/sites/venkateshrao/2011/12/05/the-
 > rise-of-developeronomics/>)
 
@@ -41,8 +45,8 @@ Wow. And a little further on he warns:
 > their advantage. Which means others find a way to do so. In capitalism,
 > every human is either a capitalist, somebody elseâs capital, or
 > economically worthless. Today, this abstract point specifically translates
-> to: people who can invest in developers, developers, and everybody else.
-> (**from** [The Rise of
+> to: people who can invest in developers, developers, and everybody else. (
+> **from** [The Rise of
 > Developeronomics)](<http://www.forbes.com/sites/venkateshrao/2011/12/05/the-
 > rise-of-developeronomics/>)
 
@@ -51,4 +55,3 @@ Developeronomics](<http://www.forbes.com/sites/venkateshrao/2011/12/05/the-
 rise-of-developeronomics/>).
 
 
-* **Link to site:** **[Software Developer Meat Market](None)**

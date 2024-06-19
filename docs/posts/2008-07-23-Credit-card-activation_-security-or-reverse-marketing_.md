@@ -6,6 +6,10 @@ tags:
     - discover-spam-marketing
 ---
 
+**Link: [Credit card activation: security or reverse marketing?](None):** ""
+
+
+
 So I received two new **Discover cards** , with supposed enhanced security
 features. I didn't ask for them, they just sent them to me. I got a new
 account number which is a pain because various merchants directly bill my
@@ -22,4 +26,3 @@ started selling me something.
 How annoying. Tricked **me** into calling **them** to get their sales pitch.
 
 
-* **Link to site:** **[Credit card activation: security or reverse marketing?](None)**

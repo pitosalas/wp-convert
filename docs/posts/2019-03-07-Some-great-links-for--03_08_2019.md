@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-03-07
 ---
 
+**Link: [Some great links for  03/08/2019](None):** ""
+
+
+
   * [End-to-End Arguments in System Design | the morning paper](<https://blog.acolyer.org/2014/11/14/end-to-end-arguments-in-system-design/>)
 
 tags: [en-to-end](<https://www.diigo.com/user/pitosalas/en-to-end>)
@@ -21,4 +25,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  03/08/2019](None)**

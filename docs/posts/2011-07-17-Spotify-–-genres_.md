@@ -7,6 +7,10 @@ tags:
     - spotify
 ---
 
+**Link: [Spotify – genres?](None):** ""
+
+
+
 Ok a few hours into it, I've located what looks like a major weakness in
 Spotify. One of the fun things about Rhapsody is discovering new music. What
 are the top albums in "Piano Jazz". Had to look and look for a similar feature
@@ -24,4 +28,3 @@ Whoops. Piano Jazz is not a real genre, so it doesn't work.
 Any one know any tips?
 
 
-* **Link to site:** **[Spotify – genres?](None)**

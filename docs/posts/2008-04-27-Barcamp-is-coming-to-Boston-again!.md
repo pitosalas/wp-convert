@@ -6,6 +6,10 @@ tags:
     - barcamp-foocamp-boston-tag
 ---
 
+**Link: [Barcamp is coming to Boston again!](None):** ""
+
+
+
 Well it's not really 'coming' - it was here all along, just dormant. Here's
 the down-lo:
 
@@ -24,9 +28,8 @@ the down-lo:
 > the future of technology.
 >
 > More information and free registration at:  
-> [**http://barcampboston.org/**](<http://barcampboston.org/>)
+> [ **http://barcampboston.org/**](<http://barcampboston.org/>)
 
 **I 'm coming. Are you?**
 
 
-* **Link to site:** **[Barcamp is coming to Boston again!](None)**

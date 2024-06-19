@@ -7,6 +7,10 @@ tags:
     - humor
 ---
 
+**Link: [Funny: Are computers boys or are they girls?](None):** ""
+
+
+
 A SPANISH Teacher was explaining to her class that in Spanish, unlike English,
 nouns are designated as either masculine or feminine.
 
@@ -50,4 +54,3 @@ longer, you could have gotten a better model.
 The women won.
 
 
-* **Link to site:** **[Funny: Are computers boys or are they girls?](None)**

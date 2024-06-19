@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-09-27
 ---
 
+**Link: [Google Maps Causes US Navy To Change Its Swastika Building](None):** ""
+
+
+
 Check out [this
 post](<http://feeds.searchengineland.com/~r/searchengineland/~3/162031302/070927-113222.php>)
 from [Search Engine Land: News About Search Engines & Search
@@ -21,8 +25,7 @@ Marketing](<http://searchengineland.com/>):
 > the swastika building got known, discussed, and now is being
 > camouflaged.[snip…]"
 >
-> (**from** : [Google Maps Causes US Navy To Change Its Swastika
+> ( **from** : [Google Maps Causes US Navy To Change Its Swastika
 > Building](<http://feeds.searchengineland.com/~r/searchengineland/~3/162031302/070927-113222.php>))
 
 
-* **Link to site:** **[Google Maps Causes US Navy To Change Its Swastika Building](None)**

@@ -15,8 +15,6 @@ tags:
 ---
 <img class="cover" src=>
 
+**Link: [Tutorial on how to write basic udev rules in Linux](https://linuxconfig.org/tutorial-on-how-to-write-basic-udev-rules-in-linux):** "Another tutorial on these hairy udev rules! Getting the base concepts about udev rules"
 
 
-* **Web site excerpt:** Another tutorial on these hairy udev rules! Getting the base concepts about udev rules
-
-* **Link to site:** **[Tutorial on how to write basic udev rules in Linux](https://linuxconfig.org/tutorial-on-how-to-write-basic-udev-rules-in-linux)**

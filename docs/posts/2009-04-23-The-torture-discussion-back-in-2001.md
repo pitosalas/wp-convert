@@ -4,10 +4,14 @@ author: Pito Salas
 date: 2009-04-23
 ---
 
+**Link: [The torture discussion back in 2001](None):** ""
+
+
+
 Recently of course, because of the 'torture memos', the topic is all over the
 papers and cable 'news' programs. It's brought back to mind a discussion that
 was raging hot and heavy, starting back in 2001, about the idea of allowing
-the issuance of '**Torture Warrants** '.
+the issuance of ' **Torture Warrants** '.
 
 [Alan Dershowitz](<http://en.wikipedia.org/wiki/Alan_Dershowitz>), famous
 Harvard Law Professor first espoused that in 2001 (as best I can determine) in
@@ -49,4 +53,3 @@ see the point he's making. Technorati Tags:
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-* **Link to site:** **[The torture discussion back in 2001](None)**

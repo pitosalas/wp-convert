@@ -9,6 +9,10 @@ tags:
     - overload
 ---
 
+**Link: [Information Diet: Focus](None):** ""
+
+
+
 While I am in the mood to reveal some of my weaknesses ([see post on Dieting
 ](</imported-20111103233638/2012/1/21/secret-trick-for-losing-weight.html>)two
 days ago) let's talk about information overload.
@@ -37,9 +41,8 @@ but I hadn't thought about it **this way:**
 > "Turn off all desktop notifications on your computer. If you're an Outlook
 > user, turn its desktop alerts off. If you're an OS X User, and have somehow
 > ended up with Growl installed on your computer, turn off all notifications."
-> (**from[How to start your information
+> ( **from[How to start your information
 > diet](<http://www.informationdiet.com/blog/read/how-to-start-your-
 > information-diet>).)**
 
 
-* **Link to site:** **[Information Diet: Focus](None)**

@@ -7,6 +7,10 @@ tags:
     - ettiquette
 ---
 
+**Link: [When no response means “no”](None):** ""
+
+
+
 Here's a tiny social conundrum. When someone writes you, calls you and leave a
 message, calls and doesn't, or even texts you, what is your obligation to
 respond? If the question is "are you free for lunch today" and you know you
@@ -34,4 +38,3 @@ are the 'externalities' to such a decision, like developing the reputation of
 being a business that's hard to live with.
 
 
-* **Link to site:** **[When no response means “no”](None)**

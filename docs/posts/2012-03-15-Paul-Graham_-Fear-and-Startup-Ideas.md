@@ -10,6 +10,10 @@ tags:
     - startups
 ---
 
+**Link: [Paul Graham: Fear and Startup Ideas](None):** ""
+
+
+
 Paul Graham's new essay is "[Frighteningly Ambitious Startup
 Ideas."](<http://www.paulgraham.com/ambitious.html>) From my reading of it, it
 talks about great startup ideas, fear and cynicism. The meat of the article is
@@ -17,7 +21,7 @@ a series of shall we say audacious startup ideas, most of which you've had
 yourself and in each case you may have thought: "You'd have to be crazy to try
 this!".
 
-I once read, "_If you 're not a little bit nervous, you're not pushing
+I once read, " _If you 're not a little bit nervous, you're not pushing
 yourself enough". _I like that mantra. It works for me. This essay is related
 to that thought:
 
@@ -49,4 +53,3 @@ Paul Graham goes a step further:
 Read the article. It will inspire you!
 
 
-* **Link to site:** **[Paul Graham: Fear and Startup Ideas](None)**

@@ -8,6 +8,10 @@ tags:
     - university
 ---
 
+**Link: [University Teaching – homework, tests and grades?](None):** ""
+
+
+
 I am about a week from beginning teaching my course at Brandeis University.
 The curriculum is a little different from last year, focusing on **mobile
 software engineering** and **game development**. This is different from last
@@ -30,8 +34,8 @@ article about higher ed in the New York Times:
 >
 > The average student spent only about 12 to 13 hours per week studying —
 > about half the time a full-time college student in 1960 spent studying,
-> according to the labor economists Philip S. Babcock and Mindy S. Marks.
-> (**from** [The New York
+> according to the labor economists Philip S. Babcock and Mindy S. Marks. (
+> **from** [The New York
 > Times](<http://www.nytimes.com/2011/05/15/opinion/15arum.html?_r=1>))
 
 There are serious questions about how much homework is **enough** or **too
@@ -62,4 +66,3 @@ spend time on things that seem to lead to the greatest learning.
 (remember, I'm a **newbie** 🙂 )
 
 
-* **Link to site:** **[University Teaching – homework, tests and grades?](None)**

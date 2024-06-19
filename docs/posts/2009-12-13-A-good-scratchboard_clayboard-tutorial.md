@@ -7,6 +7,10 @@ tags:
     - clayboard
 ---
 
+**Link: [A good scratchboard/clayboard tutorial](None):** ""
+
+
+
 In my graphic design work I've gotten to know scratchboard (aka clayboard.)
 It's a very cool material that I've had a lot of success with. Here's an early
 example.
@@ -22,4 +26,3 @@ very informative.
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-* **Link to site:** **[A good scratchboard/clayboard tutorial](None)**

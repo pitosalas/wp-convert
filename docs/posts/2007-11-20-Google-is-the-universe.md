@@ -6,6 +6,10 @@ tags:
     - pagerank-countermeasures-colossus-mon-tagey-ecommerce
 ---
 
+**Link: [Google is the universe](None):** ""
+
+
+
 As you may have heard, I've been learning all about Search Engine Optimization
 (SEO) lately. I just came across this amazing little service called the
 [DigPageRank Pagerank Checker](<http://digpagerank.com/index.php>). The story
@@ -52,4 +56,3 @@ up" and become the global consciousness, hack into the military computers
 around the world on it's own initiative and black mail … _oh forget it._
 
 
-* **Link to site:** **[Google is the universe](None)**

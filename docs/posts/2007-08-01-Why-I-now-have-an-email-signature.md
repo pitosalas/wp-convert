@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-08-01
 ---
 
+**Link: [Why I now have an email signature](None):** ""
+
+
+
 We've been on an **SEO** binge over the last 4-6 weeks. I've been educating
 myself by listening and reading to everything I can find my hands on.
 
@@ -30,9 +34,9 @@ SEO is the science and art of…
 
   3. _… getting your site to come up when people who have never heard of your site are searching and **getting them to look** at it…_
 
-  4. _…_ _getting your site to come up when people who have never heard of your site are searching, not any time but specifically when they are in**a mindset to act** , and getting them to look…_
+  4. _…_ _getting your site to come up when people who have never heard of your site are searching, not any time but specifically when they are in **a mindset to act** , and getting them to look…_
 
-  5. _…_ _getting your site to come up when people who have never heard of your site are searching and in a mindset to act, and getting them to look, and then actually**place an order** , sign up, or whatever it is you want them to do…_
+  5. _…_ _getting your site to come up when people who have never heard of your site are searching and in a mindset to act, and getting them to look, and then actually **place an order** , sign up, or whatever it is you want them to do…_
 
 If you bother to actually read those repetitive sentences, each one is a
 logical and common sense step beyond the preceding one, but many people -
@@ -54,4 +58,3 @@ little signature line at the end of it:
 Check this out: http://www.blogbridge.com/look`
 
 
-* **Link to site:** **[Why I now have an email signature](None)**

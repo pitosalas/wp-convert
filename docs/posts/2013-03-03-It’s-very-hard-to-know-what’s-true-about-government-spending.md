@@ -8,6 +8,10 @@ tags:
     - spending
 ---
 
+**Link: [It’s very hard to know what’s true about government spending](None):** ""
+
+
+
 I saw this in the Boston Globe this morning and I jotted it down because yet
 again a bit of totally counterintuitive and confusing info:
 
@@ -17,7 +21,7 @@ again a bit of totally counterintuitive and confusing info:
 > readiness. It is a question of readiness to do what? _The ­defense budget is
 > twice what it was before Sept. 11th and we have half as many enemies._ A lot
 > of this is theater. Let them sequester and they will see that nothing
-> happens.” (**from** [The Boston
+> happens.” ( **from** [The Boston
 > Globe)](<http://bostonglobe.com/news/nation/2013/03/03/spending-cuts-
 > trigger-many-say-nation-security-won-suffer-
 > feared/yWzYWIH5psHBpq6S3Nj7sO/story.html>)
@@ -32,4 +36,3 @@ to judge true or false.
 No wonder I am confuted
 
 
-* **Link to site:** **[It’s very hard to know what’s true about government spending](None)**

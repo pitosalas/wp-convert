@@ -6,6 +6,10 @@ tags:
     - mac-osx-virus
 ---
 
+**Link: [Mac OS X Virus?](None):** ""
+
+
+
 ![](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-
 content/uploads/imagewell/macvirus.jpg?w=584)
 
@@ -16,4 +20,3 @@ Anyone know what's going on? I just told someone today that Mac's NEVER have
 viruses!
 
 
-* **Link to site:** **[Mac OS X Virus?](None)**

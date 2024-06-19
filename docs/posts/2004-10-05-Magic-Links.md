@@ -4,8 +4,13 @@ author: Pito Salas
 date: 2004-10-05
 ---
 
-Here's a really cool idea (via [Boing Boing ](<http://www.boingboing.net/>)-
-see their
+**Link: [Magic Links](None):** ""
+
+
+>>
+
+>> Here's a really cool idea (via [Boing Boing
+](<http://www.boingboing.net/>)- see their
 [story](<http://www.boingboing.net/2004/10/04/bbc_news_proxy_makes.html>)) -
 Creating a web site, identical to an existing one, except that certain words
 have been changed to links. A very powerful idea. [Read the [article
@@ -20,7 +25,7 @@ highlights of keywords](</weblogs/archives/000494.html>). That is, you can
 specify a set of words or phrases you care about, and BlogBridge will
 [highlight them ](</weblogs/archives/screen.jpg>)whenever they occur in a Blog
 posting.  
-> **  
+>  **  
 > What if:** in addition to preprocessing words for highlighting we also
 > **preprocessed them for magic links**. In other words, automatically certain
 > words in a blog posting would be turned into links. Wow!
@@ -51,4 +56,3 @@ to that!
 >> **It boggles the mind**. Food for thought.
 
 
-* **Link to site:** **[Magic Links](None)**

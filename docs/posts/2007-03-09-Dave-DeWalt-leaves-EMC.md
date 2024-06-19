@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-03-09
 ---
 
+**Link: [Dave DeWalt leaves EMC](None):** ""
+
+
+
 I guess that many of you who read this blog are eRoom, Documentum and EMC
 alums so you'd be interested in reading what [John Newton, co-founder of
 Documentum has to say about the departure of Dave DeWalt from
@@ -25,4 +29,3 @@ Salas"](<http://www.google.com/search?q=balls+pito+salas&ie=utf-8&oe=utf-8&aq=t&
 US:official&client=firefox-a>)
 
 
-* **Link to site:** **[Dave DeWalt leaves EMC](None)**

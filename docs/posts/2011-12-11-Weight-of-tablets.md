@@ -12,6 +12,10 @@ tags:
     - weight
 ---
 
+**Link: [Weight of tablets](None):** ""
+
+
+
 I've been playing around with each of the major tablets while considering 'my
 next move' 🙂
 
@@ -27,4 +31,3 @@ notes on this vital topic.
   * Amazon Kindle 4: 5.9 oz
 
 
-* **Link to site:** **[Weight of tablets](None)**

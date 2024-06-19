@@ -7,6 +7,10 @@ tags:
     - iphon-tage
 ---
 
+**Link: [People forgot about iPhone 1.0](None):** ""
+
+
+
 Funny to read this:
 
 > "The story started in 2007, with the release of the first iPhone. Led by its
@@ -17,7 +21,7 @@ Funny to read this:
 > buy things](<http://venturebeat.com/2009/04/13/why-developers-are-more-
 > excited-about-the-iphone/>) through the iPhone’s App Store. This bypassed
 > the control of the carriers, which had long dictated what phones featured on
-> their “decks.” (**from** [How HTML5 will kill the native
+> their “decks.” ( **from** [How HTML5 will kill the native
 > app](<http://venturebeat.com/2011/04/07/how-html5-will-kill-the-native-
 > app/>))
 
@@ -35,4 +39,3 @@ October 1, 2007:
 > Paradise](<http://news.cnet.com/8301-13579_3-9788616-37.html?tag=mncol;txt>)")
 
 
-* **Link to site:** **[People forgot about iPhone 1.0](None)**

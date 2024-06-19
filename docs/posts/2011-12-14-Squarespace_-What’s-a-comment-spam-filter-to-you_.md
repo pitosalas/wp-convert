@@ -8,6 +8,10 @@ tags:
     - support
 ---
 
+**Link: [Squarespace: What’s a comment spam filter to you?](None):** ""
+
+
+
 You may have noticed that this Blog is now hosted on
 [SquareSpace](<http://www.squarespace.com/>). I've been pretty happy with it
 so far. While it is kind of a closed system, there are extensive customization
@@ -22,7 +26,7 @@ spam-filtering-epic-fail.html>) says:
 >
 >   * **Extremely fast** , my tickets are addressed within minutes.
 >   * **Extremely useless** , canned answers constantly suggest trivial but
-> vastly unsatisfying solutions." (**from** [Joannes Vermorel's
+> vastly unsatisfying solutions." ( **from** [Joannes Vermorel's
 > Blog)](<http://vermorel.com/journal/2011/6/29/squarespace-and-blog-spam-
 > filtering-epic-fail.html>)
 >
@@ -48,8 +52,8 @@ filtering-epic-fail.html>) also says:
 > This is rather frustrating esperience to delete about 10 spam comments on a
 > daily basis just because Squarespace can't manage to do things right in this
 > area. Worse, people have been quitting Squarespace for years for this very
-> reason - spam comment being the No1 reason quoted for the change." (**from**
-> [Joannes Vermorel's
+> reason - spam comment being the No1 reason quoted for the change." (
+> **from** [Joannes Vermorel's
 > Blog)](<http://vermorel.com/journal/2011/6/29/squarespace-and-blog-spam-
 > filtering-epic-fail.html>)
 
@@ -61,4 +65,3 @@ from the same site, each with the same title and text. **Clearly SquareSpace
 's spam filter isn't doing its job eh?**
 
 
-* **Link to site:** **[Squarespace: What’s a comment spam filter to you?](None)**

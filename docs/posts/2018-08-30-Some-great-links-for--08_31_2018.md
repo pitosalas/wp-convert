@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-08-30
 ---
 
+**Link: [Some great links for  08/31/2018](None):** ""
+
+
+
   * [iridakos - Creating a Linux Desktop application with Ruby](<https://iridakos.com/tutorials/2018/01/25/creating-a-gtk-todo-application-with-ruby.html>)
 
 A really nice tutorial explaining how to write a gui app on Linux using Ruby.
@@ -28,4 +32,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  08/31/2018](None)**

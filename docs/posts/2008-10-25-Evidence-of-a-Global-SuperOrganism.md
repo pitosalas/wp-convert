@@ -6,6 +6,10 @@ tags:
     - kevinkelley-ai
 ---
 
+**Link: [Evidence of a Global SuperOrganism](None):** ""
+
+
+
 Check out this post [Evidence of a Global
 SuperOrganism](<http://www.kk.org/thetechnium/archives/2008/10/evidence_of_a_g.php>):
 
@@ -13,7 +17,7 @@ SuperOrganism](<http://www.kk.org/thetechnium/archives/2008/10/evidence_of_a_g.p
 > internet power lines has been treated as a lyrical metaphor at best, and as
 > a mystical illusion at worst. I’ve decided to treat the idea of a global
 > superorganism seriously, and to see if I could muster a falsifiable claim
-> and evidence for its emergence." (**from:** from [The
+> and evidence for its emergence." ( **from:** from [The
 > Technium](<http://www.kk.org/thetechnium/index.rdf>))
 
 Another great essay by Kevin Kelley. He's such a great writer. Here are some
@@ -50,4 +54,3 @@ other wonderful passages:
 I could go on. It's a great, long, essay. Read it.
 
 
-* **Link to site:** **[Evidence of a Global SuperOrganism](None)**

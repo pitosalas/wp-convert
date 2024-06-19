@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2014-08-22
 ---
 
+**Link: [Worth reading: Don’t BS the American People About Iraq, Syria, and ISIL](None):** ""
+
+
+
 This is worth looking at: The apparent beheading of American journalist James
 Foley by the Islamic State of Iraq and the Levant (ISIL) is a stark reminder
 of the group’s terrible brutality and the seriousness required to counter
@@ -23,4 +27,3 @@ Isil](<http://warontherocks.com/2014/08/dont-bs-the-american-people-about-
 iraq-syria-and-isil/#_>)
 
 
-* **Link to site:** **[Worth reading: Don’t BS the American People About Iraq, Syria, and ISIL](None)**

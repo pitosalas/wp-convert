@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-03-12
 ---
 
+**Link: [Some great links for  03/13/2019](None):** ""
+
+
+
   * [Scalable architecture without magic (and how to build it if you’re not Google)](<https://dev.to/uyouthe/scalable-architecture-without-magic-and-how-to-build-it-if-youre-not-google-336a?utm_source=Newsletter+Subscribers&utm_campaign=4262f7719c-EMAIL_CAMPAIGN_2019_02_25_01_51&utm_medium=email&utm_term=0_d8f11d5d1e-4262f7719c-154336497>)
 
 You can always learn more about scaling!
@@ -25,4 +29,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  03/13/2019](None)**

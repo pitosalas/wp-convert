@@ -7,6 +7,10 @@ tags:
     - spy-agency
 ---
 
+**Link: [Interesting behind-the-scenes look at NSA](None):** ""
+
+
+
 [Zegart joins scholars at NSA for rare briefing on spy agency's woes -
 CISAC](<http://cisac.stanford.edu/news/zegart_joins_scholars_at_nsa_for_rare_briefing_on_spy_agencys_woes_20130926/>):
 
@@ -20,4 +24,3 @@ CISAC](<http://cisac.stanford.edu/news/zegart_joins_scholars_at_nsa_for_rare_bri
 
 
 
-* **Link to site:** **[Interesting behind-the-scenes look at NSA](None)**

@@ -4,9 +4,15 @@ author: Pito Salas
 date: 2004-04-06
 ---
 
-Some say that it’s very important that they be able to use one identity while
-doing one thing, and a different one for another. In ‘cyberspace’ they want to
-be able to express themselves without that expression being tied back to them.
+**Link: [Identities (WTF Series, 1)](None):** ""
+
+
+>>
+
+>> Some say that it’s very important that they be able to use one identity
+while doing one thing, and a different one for another. In ‘cyberspace’ they
+want to be able to express themselves without that expression being tied back
+to them.
 
 >>
 
@@ -36,4 +42,3 @@ willing to do business with you because someone I trust has told me that you
 are a good person.
 
 
-* **Link to site:** **[Identities (WTF Series, 1)](None)**

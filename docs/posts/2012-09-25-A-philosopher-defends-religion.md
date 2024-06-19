@@ -8,6 +8,10 @@ tags:
     - religion-tag
 ---
 
+**Link: [A philosopher defends religion](None):** ""
+
+
+
 I recently subscribed to the New York Review of Books. Not sure this was a
 good decision as the last thing I need is more stuff to read. I came to it
 because I kept seeing interesting articles from the NYRB come up on various
@@ -41,4 +45,3 @@ amazon.com/e/ir?t=blogbridge-20&l=as2&o=1&a=0199812098) ". This sets the tone:
 > defends-religion/?pagination=false>)
 
 
-* **Link to site:** **[A philosopher defends religion](None)**

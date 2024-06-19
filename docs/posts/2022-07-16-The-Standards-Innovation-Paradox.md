@@ -13,8 +13,6 @@ tags:
 ---
 <img class="cover" src=https://miro.medium.com/max/1200/1*dJlc_EMFW4y4OT_63Ce95Q.png>
 
+**Link: [The Standards Innovation Paradox](https://link.medium.com/SbplLmb3Hrb):** "“The great thing about standards is there are so many to pick from!” Thats a joke, get it? Standards, like RSS for podcasts, have enabled emerging technologies to spread far and wide in the information age by making it easy for…"
 
 
-* **Web site excerpt:** “The great thing about standards is there are so many to pick from!” Thats a joke, get it? Standards, like RSS for podcasts, have enabled emerging technologies to spread far and wide in the information age by making it easy for…
-
-* **Link to site:** **[The Standards Innovation Paradox](https://link.medium.com/SbplLmb3Hrb)**

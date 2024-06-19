@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-11-19
 ---
 
-There's this little island in the Caribean called
+**Link: [Curacao in Open Source News?!](None):** ""
+
+
+>>
+
+>> There's this little island in the Caribean called
 [Curacao](<http://en.wikipedia.org/wiki/Cura%E7ao>). I happen to know a lot
 about it because that's where I was born and grew up. Now I live in the United
 States, but continue to keep up with what's going on in there.
@@ -31,4 +36,3 @@ source software users thought they were alone…
 >> _
 
 
-* **Link to site:** **[Curacao in Open Source News?!](None)**

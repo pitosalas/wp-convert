@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2014-08-28
 ---
 
+**Link: [On Being a Female in Venture Capital](None):** ""
+
+
+
 Interesting story…
 
 > "My summer internship was full of many positive experiences. I won’t forget,
@@ -20,4 +24,3 @@ Interesting story…
 -- http://mitsloanblog.typepad.com/mba2015/2014/07/venture-capital-women.html
 
 
-* **Link to site:** **[On Being a Female in Venture Capital](None)**

@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-08-26
 ---
 
+**Link: [Some great links for  08/27/2018](None):** ""
+
+
+
   * [How to configure RSpec in Ruby on Rails](<https://blog.eq8.eu/article/junior-developer-set-up-rails-with-rspec-factorybot-database-cleaner.html>)
 
 I’m not personally an rspec fan, but lots of people are
@@ -46,4 +50,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  08/27/2018](None)**

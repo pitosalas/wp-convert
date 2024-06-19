@@ -7,6 +7,10 @@ tags:
     - gaming
 ---
 
+**Link: [Nice bibliography for game designers](None):** ""
+
+
+
 I got some of this list from [Lee Sheldon's course
 syllabus.](<http://gamingtheclassroom.wordpress.com/syllabus/>) I have not
 read all these books but I want to:
@@ -32,4 +36,3 @@ read all these books but I want to:
   * The Art of Game Design: A book of lenses. Jesse Schell
 
 
-* **Link to site:** **[Nice bibliography for game designers](None)**

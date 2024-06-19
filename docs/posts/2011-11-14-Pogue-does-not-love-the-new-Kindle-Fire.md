@@ -9,6 +9,10 @@ tags:
     - kindle
 ---
 
+**Link: [Pogue does not love the new Kindle Fire](None):** ""
+
+
+
 I was excited to hear about the [Kindle
 Fire.](<http://www.google.com/search?client=safari&rls=en&q=kindle+fire&ie=UTF-8&oe=UTF-8>)
 But I was waiting to read some impartial reviews of one before running off and
@@ -32,8 +36,8 @@ incredibly cheap than the other new models. Here's a short bit:
 > think would be the pride of the Kindle team. Taps sometimes don’t register.
 > There are no progress or “wait” indicators, so you frequently don’t know if
 > the machine has even registered your touch commands. The momentum of the
-> animations hasn’t been calculated right, so the whole thing feels ornery."
-> (**from** [David Pogue in the New York
+> animations hasn’t been calculated right, so the whole thing feels ornery." (
+> **from** [David Pogue in the New York
 > Times)](<http://www.nytimes.com/2011/11/14/technology/personaltech/the-fire-
 > aside-amazons-lower-priced-kindles-also-shine.html>)
 
@@ -42,4 +46,3 @@ reviews](<http://www.engadget.com/2011/11/14/amazon-kindle-fire-review/>) on
 the web today.
 
 
-* **Link to site:** **[Pogue does not love the new Kindle Fire](None)**

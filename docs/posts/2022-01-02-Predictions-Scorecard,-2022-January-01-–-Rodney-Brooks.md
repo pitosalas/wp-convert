@@ -15,5 +15,6 @@ tags:
 ---
 <img class="cover" src=http://rodneybrooks.com/wp-content/themes/rab/images/robots.jpg>
 
+**Link: [Predictions Scorecard, 2022 January 01 – Rodney Brooks](http://rodneybrooks.com/predictions-scorecard-2022-january-01/):** ""
 
-* **Link to site:** **[Predictions Scorecard, 2022 January 01 – Rodney Brooks](http://rodneybrooks.com/predictions-scorecard-2022-january-01/)**
+

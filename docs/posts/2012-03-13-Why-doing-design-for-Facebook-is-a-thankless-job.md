@@ -10,6 +10,10 @@ tags:
     - ux
 ---
 
+**Link: [Why doing design for Facebook is a thankless job](None):** ""
+
+
+
 A friend of mine hates, HATES, the new [Facebook
 timeline.](<https://www.facebook.com/pitosalas>) She wants to turn it off, but
 can't. I happen to think the timeline is really cool, well designed, useful.
@@ -33,4 +37,3 @@ A/B/C/D/E tests. Hundreds of people and thousands of dollars later you
 Bummer.
 
 
-* **Link to site:** **[Why doing design for Facebook is a thankless job](None)**

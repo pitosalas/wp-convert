@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2005-11-28
 ---
 
-[Try this
+**Link: [Very cool illusion](None):** ""
+
+
+>>
+
+>> [Try this
 out](<http://www.patmedia.net/marklevinson/cool/cool_illusion.html>), it
 really worked for me, and is really strange and wonderful!
 
@@ -20,4 +25,3 @@ del.icio.us)
 >> Technorati Tags: [cool](<http://www.technorati.com/tag/cool>)
 
 
-* **Link to site:** **[Very cool illusion](None)**

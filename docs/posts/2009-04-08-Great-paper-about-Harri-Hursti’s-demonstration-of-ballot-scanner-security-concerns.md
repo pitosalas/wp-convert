@@ -8,6 +8,10 @@ tags:
     - security
 ---
 
+**Link: [Great paper about Harri Hursti’s demonstration of ballot scanner security concerns](None):** ""
+
+
+
 I recently saw the movie [Hacking
 Democracy](<http://www.hackingdemocracy.com/>). It's absolutely fascinating
 and basic background for anyone interested in election reform. In it you learn
@@ -47,4 +51,3 @@ way in which he describes what was done.
 [ballots](<http://technorati.com/tag/ballots>)
 
 
-* **Link to site:** **[Great paper about Harri Hursti’s demonstration of ballot scanner security concerns](None)**

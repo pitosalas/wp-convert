@@ -6,6 +6,10 @@ tags:
     - squarespace
 ---
 
+**Link: [What’s wrong with Squarespace Support?](None):** ""
+
+
+
 In moving my blog to Squarespace 6 I've had a lot of contact with their
 support service. They are 'just ok'. Yes, they have the usual boilerplate, "so
 glad you contacted us" and "i think I understand why this is important to
@@ -27,4 +31,3 @@ in support (probably nothing) and what does wordpress.com give in support?
 (probably nothing.)
 
 
-* **Link to site:** **[What’s wrong with Squarespace Support?](None)**

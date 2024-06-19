@@ -9,6 +9,10 @@ tags:
     - loomio
 ---
 
+**Link: [Loomio: Collaborative Decision Making](None):** ""
+
+
+
 [Loomio](<https://www.loomio.org>) is a new app looks quite cool and worth
 checking out:
 
@@ -21,11 +25,10 @@ checking out:
 > down the barriers to participation in decision-making at every level: in
 > neighbourhoods, community organisations, businesses, social movements, and
 > local and national governance.Collaborative decision-making balances
-> individual autonomy with the collective good." (**from**
+> individual autonomy with the collective good." ( **from**
 > [Loomio.com)](<https://www.loomio.org>)
 
 This is an area I am quite interested in! I am planning to [check Loomio
 out.](<https://www.loomio.org>)
 
 
-* **Link to site:** **[Loomio: Collaborative Decision Making](None)**

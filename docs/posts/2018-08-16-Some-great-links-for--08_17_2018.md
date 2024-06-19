@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-08-16
 ---
 
+**Link: [Some great links for  08/17/2018](None):** ""
+
+
+
   * [Python Tuples and Tuple Methods | Codementor](<https://www.codementor.io/mgalarny/python-tuples-and-tuple-methods-m6a1p6lbo?utm_swu=7179>)
 
 Python doesn’t have arrays… but it does have lists and tuples. Actually lists
@@ -18,4 +22,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  08/17/2018](None)**

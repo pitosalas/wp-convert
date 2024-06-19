@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-05-27
 ---
 
-Yes, I guess some of you have never seen American Idol, so you wouldn't
+**Link: [Funny American Idol commentary](None):** ""
+
+
+>>
+
+>> Yes, I guess some of you have never seen American Idol, so you wouldn't
 appreciate this ironic and funny commentary:
 
 >>
@@ -20,4 +25,3 @@ announced our next American president. "
 Wins](<http://www.nytimes.com/2004/05/27/arts/television/27idol.html>)
 
 
-* **Link to site:** **[Funny American Idol commentary](None)**

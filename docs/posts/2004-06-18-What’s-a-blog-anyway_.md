@@ -4,11 +4,16 @@ author: Pito Salas
 date: 2004-06-18
 ---
 
-I am away from home, at my home in Curacao for a reunion of Salas folks from
-around the world. I saw an childhood friend of mine, Raul, who asked me 'So
-what's a blog, anyway'? I was taken aback, because, what would Raul be doing,
-reading my blog, and especially with the rather 'odd' image that I left as the
-top entry before I headed down here?
+**Link: [What’s a blog anyway?](None):** ""
+
+
+>>
+
+>> I am away from home, at my home in Curacao for a reunion of Salas folks
+from around the world. I saw an childhood friend of mine, Raul, who asked me
+'So what's a blog, anyway'? I was taken aback, because, what would Raul be
+doing, reading my blog, and especially with the rather 'odd' image that I left
+as the top entry before I headed down here?
 
 >>
 
@@ -50,4 +55,3 @@ other sources I do get the sense that it's accurate. But for all I know it's
 100% pure propaganda. So you do have to be a careful consumer of this stuff.
 
 
-* **Link to site:** **[What’s a blog anyway?](None)**

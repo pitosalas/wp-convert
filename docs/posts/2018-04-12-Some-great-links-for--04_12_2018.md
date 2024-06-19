@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-04-12
 ---
 
+**Link: [Some great links for  04/12/2018](None):** ""
+
+
+
   * [Micromessaging: Connecting Heroku Microservices w/Redis and RabbitMQ](<https://blog.carbonfive.com/2014/04/28/micromessaging-connecting-heroku-microservices-wredis-and-rabbitmq/>)
 
 A brief article explaining different architectures for Microservices on
@@ -36,4 +40,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  04/12/2018](None)**

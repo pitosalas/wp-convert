@@ -4,7 +4,11 @@ author: Pito Salas
 date: 2007-01-04
 ---
 
-<!-  
+**Link: [FooPlot – looks quite cool!](None):** ""
+
+
+>
+> <!-  
 >  body { font-style: normal; font-family: Lucida Grande; font-weight: normal;
 > font-variant: normal; font-size: 11pt; line-height: normal }  
 >  ->
@@ -42,4 +46,3 @@ content/images/fooplot.png?resize=584%2C298)
 > plotting>))
 
 
-* **Link to site:** **[FooPlot – looks quite cool!](None)**

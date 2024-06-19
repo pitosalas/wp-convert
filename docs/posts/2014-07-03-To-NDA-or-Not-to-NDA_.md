@@ -7,6 +7,10 @@ tags:
     - vc
 ---
 
+**Link: [To NDA or Not to NDA?](None):** ""
+
+
+
 We all have heard more than once that "VCs will NOT sign NDAs, don't even
 ask!". And we've also heard and said many times that "Ideas are cheap" and
 that many first time entrepreneurs are far too precious about their great
@@ -24,4 +28,3 @@ just like them,” he said, “they’ve made the easier and less morally defens
 position — no N.D.A.s — the coin of the realm.”
 
 
-* **Link to site:** **[To NDA or Not to NDA?](None)**

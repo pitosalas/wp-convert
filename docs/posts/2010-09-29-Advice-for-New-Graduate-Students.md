@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2010-09-29
 ---
 
+**Link: [Advice for New Graduate Students](None):** ""
+
+
+
 If you know anyone in graduate school (oops, or if you are in graduate school
 yourself, or planning to go to one), this is interesting reading: [Advice for
 New Graduate Students](<http://freedom-to-tinker.com/blog/jrex/advice-new-
@@ -150,11 +154,10 @@ cast-off cell marooned from the surface of your skin."
 > highly collective (in how you are part of a research group, a discipline,
 > and a larger community). I hope you find both aspects of your time here at
 > Princeton rewarding, and that you also make time to give back to the next
-> group of students who arrive at Princeton after you. (**from:**[Advice for
+> group of students who arrive at Princeton after you. ( **from:**[Advice for
 > New Graduate Students](<http://freedom-to-tinker.com/blog/jrex/advice-new-
 > graduate-students>))
 
 …
 
 
-* **Link to site:** **[Advice for New Graduate Students](None)**

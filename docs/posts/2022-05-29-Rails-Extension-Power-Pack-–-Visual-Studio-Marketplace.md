@@ -6,6 +6,10 @@ tags:
     - rails
 ---
 
+**Link: [Rails Extension Power Pack – Visual Studio Marketplace](None):** ""
+
+
+
 [ Rails Extension Power Pack - Visual Studio
 Marketplace](<https://marketplace.visualstudio.com/items?itemName=andrewmcodes.rails-
 extension-power-
@@ -17,4 +21,3 @@ Rails development in Visual Studio Code
 May 29, 2022 at 05:29PM
 
 
-* **Link to site:** **[Rails Extension Power Pack – Visual Studio Marketplace](None)**

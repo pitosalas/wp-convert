@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-09-28
 ---
 
+**Link: [Some great links for  09/29/2018](None):** ""
+
+
+
   * [ebobby/has-many-with-set](<https://github.com/ebobby/has-many-with-set>)
 
 An interesting variation on how to represent a many to many relationship in
@@ -38,4 +42,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  09/29/2018](None)**

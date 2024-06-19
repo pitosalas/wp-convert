@@ -9,9 +9,13 @@ tags:
     - women
 ---
 
+**Link: [Harvard Business School: No Women Entrepreneurs](None):** ""
+
+
+
 I was surfing around preparing for my class and happened to look at [this page
 on the Harvard Business School web site.](<http://www.hbs.edu/entrepreneurs/>)
-The page is called "**Entrepreneurs** " and it says, among other things:
+The page is called " **Entrepreneurs** " and it says, among other things:
 
 > "A video archive that captures insights from learning members of the
 > School's entrepreneurial community. Entrepreneurs speak on a common set of
@@ -31,4 +35,3 @@ conclude that for some reason HBS isn't generating them or that they were just
 overlooked by whoever made this page?
 
 
-* **Link to site:** **[Harvard Business School: No Women Entrepreneurs](None)**

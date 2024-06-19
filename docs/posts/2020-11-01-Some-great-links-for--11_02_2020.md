@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2020-11-01
 ---
 
+**Link: [Some great links for  11/02/2020](None):** ""
+
+
+
   * [MockMechanics](<https://mockmechanics.com>)
 
 Very cool and clever visual programming.
@@ -18,4 +22,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  11/02/2020](None)**

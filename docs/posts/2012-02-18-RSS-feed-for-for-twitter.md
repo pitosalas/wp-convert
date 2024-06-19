@@ -11,6 +11,10 @@ tags:
     - twitter
 ---
 
+**Link: [RSS feed for for twitter](None):** ""
+
+
+
 A simple question that for some reason does not have a simple answer:
 
 > "I want to follow someone's twitter feed using an RSS reader, where is it?"
@@ -41,4 +45,3 @@ _**Watch this brief video to see how you would do it in BlogBridge:**_
 [youtube http://www.youtube.com/watch?v=rSo5sC3kN3Q]
 
 
-* **Link to site:** **[RSS feed for for twitter](None)**

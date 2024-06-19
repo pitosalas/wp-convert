@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-05-28
 ---
 
+**Link: [AllOfMp3 saga continues](None):** ""
+
+
+
 Regular readers of this blog know about
 A[llOfMp3.com](<http://www.allofmp3.com/>), a Russian music site that sells
 music of all kinds for a ridiculously low price. It's kind of like the
@@ -59,4 +63,3 @@ But if you think about it, it is actually a thinly veiled list of other sites
 you can try instead of AllOfMp3.
 
 
-* **Link to site:** **[AllOfMp3 saga continues](None)**

@@ -6,6 +6,10 @@ tags:
     - BSOD-Apple-Windows-Microsoft
 ---
 
+**Link: [Apple sense of humor](None):** ""
+
+
+
 ![Funny comment by Apple about
 Windoze](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-
 content/uploads/imagewell/applehumor.jpg?w=584)
@@ -18,4 +22,3 @@ on the image of an ugly big CRT monitor. See the
 Who said they don't have a sense of humor?
 
 
-* **Link to site:** **[Apple sense of humor](None)**

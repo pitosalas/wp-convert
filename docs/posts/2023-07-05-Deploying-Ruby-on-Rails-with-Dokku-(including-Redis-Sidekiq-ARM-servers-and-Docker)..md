@@ -9,6 +9,10 @@ tags:
     - rails
 ---
 
+**Link: [Deploying Ruby on Rails with Dokku (including Redis Sidekiq ARM servers and Docker).](None):** ""
+
+
+
 [ Deploying Ruby on Rails with Dokku (including Redis, Sidekiq, ARM servers
 and Docker).](<https://railsnotes.xyz/blog/deploying-ruby-on-rails-with-dokku-
 redis-sidekiq-arm-docker-
@@ -17,4 +21,3 @@ ultimate Dokku + Ruby on Rails guide — I cover running Dokku on x86 and ARM,
 deploying Sidekiq and Redis, dockerizing our Ruby on Rails app, and more…
 
 
-* **Link to site:** **[Deploying Ruby on Rails with Dokku (including Redis Sidekiq ARM servers and Docker).](None)**

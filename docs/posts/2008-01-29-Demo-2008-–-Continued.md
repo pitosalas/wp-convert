@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-01-29
 ---
 
+**Link: [Demo 2008 – Continued](None):** ""
+
+
+
 Getting ready for the next segment, here's my continued Liveblog of the event,
 using [CoverItLive](<http://www.coveritlive>).
 
@@ -13,4 +17,3 @@ using [CoverItLive](<http://www.coveritlive>).
 an email to tell me that you found it useful or fun or whatever!
 
 
-* **Link to site:** **[Demo 2008 – Continued](None)**

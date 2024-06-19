@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2020-03-05
 ---
 
+**Link: [Some great links for  03/06/2020](None):** ""
+
+
+
   * [Library for stubbing and setting expectations on HTTP requests in Ruby.](<https://github.com/bblimke/webmock>)
 
 There are many of these building blocks. Use this to mock a web service that
@@ -20,4 +24,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  03/06/2020](None)**

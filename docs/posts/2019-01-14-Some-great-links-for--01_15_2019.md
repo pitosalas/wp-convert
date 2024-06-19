@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-01-14
 ---
 
+**Link: [Some great links for  01/15/2019](None):** ""
+
+
+
   * [CSS doesn’t suck - Andy Bell](<https://andy-bell.design/wrote/css-doesnt-suck/>)
 
 See previous post. I admit I haven’t built super complicated sites, but I
@@ -34,4 +38,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  01/15/2019](None)**

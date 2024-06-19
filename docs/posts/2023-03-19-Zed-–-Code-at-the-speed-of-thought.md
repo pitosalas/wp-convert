@@ -9,6 +9,10 @@ tags:
     - vscode
 ---
 
+**Link: [Zed – Code at the speed of thought](None):** ""
+
+
+
 [ Zed - Code at the speed of thought](< https://zed.dev/>) –Just to prove that
 theres never the last word on anything, especially programmers editors. I
 thought history ended with vscode. But take a look st this, pretty
@@ -17,4 +21,3 @@ performance, multiplayer code editor from the creators of Atom and Tree-
 sitter.”
 
 
-* **Link to site:** **[Zed – Code at the speed of thought](None)**

@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-07-04
 ---
 
+**Link: [Some great links for  07/04/2018](None):** ""
+
+
+
   * [Editors | Drifting Ruby](<https://www.driftingruby.com/episodes/editors>)
 
 tags: [editors](<https://www.diigo.com/user/pitosalas/editors>)
@@ -20,4 +24,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  07/04/2018](None)**

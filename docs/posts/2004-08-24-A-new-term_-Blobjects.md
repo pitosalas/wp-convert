@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-08-24
 ---
 
-[A very thought provoking speech by Bruce Sterling at SigGraph 2004.
+**Link: [A new term: Blobjects](None):** ""
+
+
+>>
+
+>> [A very thought provoking speech by Bruce Sterling at SigGraph 2004.
 Recommended.](<http://www.boingboing.net/images/blobjects.htm>)
 
 >>
@@ -17,4 +22,3 @@ against everybody else who has that same kind of spime. A spime is a users
 group first, and a physical object second."
 
 
-* **Link to site:** **[A new term: Blobjects](None)**

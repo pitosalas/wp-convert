@@ -7,6 +7,10 @@ tags:
     - security
 ---
 
+**Link: [Security by obscurity and other slogans](None):** ""
+
+
+
 If you've been in computing for any time you may have been hit over the head
 by the slogan "Security by Obscurity is No Security". As I have understood the
 argument it has a few components:
@@ -54,4 +58,3 @@ It makes perfect sense to me that these are state secrets for Google and that
 it's considered a major breach.
 
 
-* **Link to site:** **[Security by obscurity and other slogans](None)**

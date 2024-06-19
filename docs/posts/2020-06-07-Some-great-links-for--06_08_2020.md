@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2020-06-07
 ---
 
+**Link: [Some great links for  06/08/2020](None):** ""
+
+
+
   * [datas-frame – Modern Pandas (Part 2): Method Chaining](<https://tomaugspurger.github.io/method-chaining.html>)
 
 Ive been trying this style and while it looks cool I am not sure it's more
@@ -20,4 +24,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  06/08/2020](None)**

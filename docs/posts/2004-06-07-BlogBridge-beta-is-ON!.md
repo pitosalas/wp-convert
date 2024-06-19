@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-06-07
 ---
 
-Here's the beta invite email that just went out… Wow, this is exciting! 🙂
+**Link: [BlogBridge beta is ON!](None):** ""
+
+
+>>
+
+>> Here's the beta invite email that just went out… Wow, this is exciting! 🙂
 
 >>
 
@@ -85,4 +90,3 @@ sense of how things are and how much work it is to support you all.
 >> Pito Salas and Aleksey Gureev"
 
 
-* **Link to site:** **[BlogBridge beta is ON!](None)**

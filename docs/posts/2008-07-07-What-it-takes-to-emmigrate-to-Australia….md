@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-07-07
 ---
 
+**Link: [What it takes to emmigrate to Australia…](None):** ""
+
+
+
 Aleksey (my colleague on BlogBridge) is planning to move from the Ukraine to
 Australia. Here's a fairly fascinating account of the experience of proving
 that he knows enough English to be permitted to Australia. Check out [this
@@ -20,8 +24,7 @@ adventure:
 > pay approximately USD $2000 for him/her to study the language there in AU
 > upon arrival. Interesting!"
 >
-> (**from** : [Short Report: Living through the IELTS
+> ( **from** : [Short Report: Living through the IELTS
 > Test](<http://feeds.feedburner.com/~r/noizZze/~3/122697961/>))
 
 
-* **Link to site:** **[What it takes to emmigrate to Australia…](None)**

@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-03-31
 ---
 
+**Link: [Interesting Links](None):** ""
+
+
+
   * [5 Tips To Write Idiomatic Pandas Code (article) - DataCamp](<https://www.datacamp.com/community/tutorials/pandas-idiomatic>)
 
   * [Architecting Ruby on Rails Apps as Microservices | Codeship | via @codeship](<https://blog.codeship.com/architecting-rails-apps-as-microservices/>)
@@ -34,4 +38,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Interesting Links](None)**

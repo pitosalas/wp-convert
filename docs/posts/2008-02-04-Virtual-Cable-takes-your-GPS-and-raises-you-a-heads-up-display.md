@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-02-04
 ---
 
+**Link: [Virtual Cable takes your GPS and raises you a heads-up display](None):** ""
+
+
+
 This is really cool! Check out [this
 post](<http://feeds.autoblog.com/~r/weblogsinc/autoblog/~3/202445315/>) from
 [Autoblog](<http://www.autoblog.com>):
@@ -28,4 +32,3 @@ files-patent-for-phantom-car/>). This was from an Engadget article about a
 Microsoft Patent.
 
 
-* **Link to site:** **[Virtual Cable takes your GPS and raises you a heads-up display](None)**

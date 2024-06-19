@@ -7,6 +7,10 @@ tags:
     - olin-college
 ---
 
+**Link: [Control the Sun, really](None):** ""
+
+
+
 [Control The Sun!](<http://www.mylanderpages.com/sunrise_blinds/olin>)
 
 As you know, I am teaching a course at Olin College this spring - alas we are
@@ -20,4 +24,3 @@ Blinds", and answer this super easy
 questionnaire!](<http://www.mylanderpages.com/sunrise_blinds/olin>)
 
 
-* **Link to site:** **[Control the Sun, really](None)**

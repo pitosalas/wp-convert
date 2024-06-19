@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-06-11
 ---
 
+**Link: [I love Madrid!](None):** ""
+
+
+
 [![Events in
 Madrid](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-
 content/uploads/2007/06/apimage.jpg?w=584)](<https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-
@@ -18,4 +22,3 @@ photo](<http://news.yahoo.com/photo/070609/481/do80106091417>) to the left)
 that I didn't experience everything that was going on this weekend though 🙂
 
 
-* **Link to site:** **[I love Madrid!](None)**

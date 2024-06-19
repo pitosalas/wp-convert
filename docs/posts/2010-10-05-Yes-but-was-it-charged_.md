@@ -4,9 +4,13 @@ author: Pito Salas
 date: 2010-10-05
 ---
 
+**Link: [Yes but was it charged?](None):** ""
+
+
+
 Check out [Actor Tony Curtis Was Buried With His
 iPhone](<http://www.iphonedownloadblog.com/2010/10/04/actor-tony-curtis-was-
-buried-with-his-iphone/>)(**from** [iPhone Download
+buried-with-his-iphone/>)( **from** [iPhone Download
 Blog](<http://www.iphonedownloadblog.com/feed/>):
 
 > "
@@ -31,4 +35,3 @@ Blog](<http://www.iphonedownloadblog.com/feed/>):
 > MacAllDay+%289+to+5+Mac+-+Apple+Intelligence%29&utm_content=Google+Reader>)]
 
 
-* **Link to site:** **[Yes but was it charged?](None)**

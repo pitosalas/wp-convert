@@ -4,7 +4,11 @@ author: Pito Salas
 date: 2006-12-09
 ---
 
-My buddies at [wis.dm](<http://wis.dm>) had a real scare  
+**Link: [fire at one broadway](None):** ""
+
+
+>
+> My buddies at [wis.dm](<http://wis.dm>) had a real scare  
 >  today as our offices and the rest of the building was evacuated in a big  
 >  rush due to a terrible and terrifying explosion in the  
 >  basement. I was in California at the time and got word of this when  
@@ -28,4 +32,3 @@ My buddies at [wis.dm](<http://wis.dm>) had a real scare
 >  broadway](<http://hybernaut.com/fire-at-one-broadway>))
 
 
-* **Link to site:** **[fire at one broadway](None)**

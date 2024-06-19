@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2007-12-23
 ---
 
+**Link: [Is Apple trying to buy off “Fake Steve” or is it April 1 in December?](None):** ""
+
+
+
 I wrote [recently about Fake Steve and wondered aloud how he could get away
 with what he gets away with](</2007/11/28/how-does-fake-steve-get-away-with-
 this/>).
@@ -24,4 +28,3 @@ or is it [Fake Daniel
 Lyons](<https://www.blogger.com/comment.g?blogID=32454861&postID=5208247252090415286>)?
 
 
-* **Link to site:** **[Is Apple trying to buy off “Fake Steve” or is it April 1 in December?](None)**

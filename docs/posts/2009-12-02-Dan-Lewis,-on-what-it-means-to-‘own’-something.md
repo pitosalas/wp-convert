@@ -9,6 +9,10 @@ tags:
     - no-tagok
 ---
 
+**Link: [Dan Lewis, on what it means to ‘own’ something](None):** ""
+
+
+
 [This post talks about the difference between owning, possessing and accessing
 a book](<http://dlewis.net/2009/12/01/what-does-it-mean-to-buy-an-e-book/>) or
 anything tangible:
@@ -17,9 +21,9 @@ anything tangible:
 > loan, rent, gift it. If I rent or borrow (”posses”) a book, I don’t, but
 > expect to be able to do things like take it with me on a trip. If I am in
 > your house and flip through (”access”) a book, you being a mensch aside, I
-> probably can’t just walk out the door with it." (**from** [What does it mean
-> to 'buy' an e-book')](<http://dlewis.net/2009/12/01/what-does-it-mean-to-
-> buy-an-e-book/>)
+> probably can’t just walk out the door with it." ( **from** [What does it
+> mean to 'buy' an e-book')](<http://dlewis.net/2009/12/01/what-does-it-mean-
+> to-buy-an-e-book/>)
 
 There's another very practical aspect of physical goods which goes
 unmentioned, but is implied. The existence of a used-goods aftermarket. I was
@@ -43,4 +47,3 @@ my ebook will have **yet another leg up.**
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)
 
 
-* **Link to site:** **[Dan Lewis, on what it means to ‘own’ something](None)**

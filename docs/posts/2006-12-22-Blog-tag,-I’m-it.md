@@ -4,11 +4,14 @@ author: Pito Salas
 date: 2006-12-22
 ---
 
-I've been [tagged in the new fangled blog tag
-game](<http://libraryclips.blogsome.com/2006/12/21/blog-tag-5-things-about-
-me/>), and am now honor bound to reveal 5 things about me that you probably
-don't know yet.
+**Link: [Blog tag, I’m it](None):** ""
 
+
+>
+> I've been [tagged in the new fangled blog tag
+> game](<http://libraryclips.blogsome.com/2006/12/21/blog-tag-5-things-about-
+> me/>), and am now honor bound to reveal 5 things about me that you probably
+> don't know yet.
 >
 >   1. The "R" in R. Pito Salas stands for Ralph
 >   2. My ancestors have been in Curaçao for over three hundred years
@@ -34,4 +37,3 @@ don't know yet.
 > Over to you, pals!
 
 
-* **Link to site:** **[Blog tag, I’m it](None)**

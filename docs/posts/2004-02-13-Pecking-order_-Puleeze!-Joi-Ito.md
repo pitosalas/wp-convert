@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-02-13
 ---
 
-**Pecking order? Puleeze!**[Joi Ito
+**Link: [Pecking order? Puleeze! Joi Ito](None):** ""
+
+
+>>
+
+>> **Pecking order? Puleeze!**[Joi Ito
 writes](<http://joi.ito.com/archives/2004/02/12/pecking_at_etech.html>) with
 apparent confusion about the a comment from [Russel Beattie who commented
 that](<http://www.russellbeattie.com/notebook/1006105.html>): "but boy it
@@ -41,4 +46,3 @@ how about the "Wait here while I go refill my drink, (and never return.)."
 Some day I should write an article!
 
 
-* **Link to site:** **[Pecking order? Puleeze! Joi Ito](None)**

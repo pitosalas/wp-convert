@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-10-15
 ---
 
-Hey, this is **really cool**. BlogBridge made a ["Top 10 Java Web Start
+**Link: [BlogBridge makes top 10 List!](None):** ""
+
+
+>>
+
+>> Hey, this is **really cool**. BlogBridge made a ["Top 10 Java Web Start
 Apps"](<http://jroller.com/page/cardsharp/20041006#top_10_java_web_start>)
 list. I ran across it on ["Cardsharp on
 Software"](<http://jroller.com/page/cardsharp/Weblog?catname=/Java>), a blog
@@ -25,4 +30,3 @@ got picked up by [Java Desktop](<http://community.java.net/javadesktop/>) as a
 >> **Wicked cool** , as they say!
 
 
-* **Link to site:** **[BlogBridge makes top 10 List!](None)**

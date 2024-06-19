@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2018-11-18
 ---
 
+**Link: [Some great links for  11/19/2018](None):** ""
+
+
+
   * [harelba/q](<https://github.com/harelba/q>)
 
 Under the right circumstances this is an amazingly useful tool
@@ -23,4 +27,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  11/19/2018](None)**

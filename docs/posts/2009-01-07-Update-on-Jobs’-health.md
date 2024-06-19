@@ -8,6 +8,10 @@ tags:
     - steve-jobs
 ---
 
+**Link: [Update on Jobs’ health](None):** ""
+
+
+
 In case you didn't see this, [it's kind of interesting if you follow Apple and
 our pal Steve
 Jobs:](<http://www.bloomberg.com/apps/news?pid=20601087&sid=amga5EoJv6DE&refer=home>)
@@ -16,7 +20,7 @@ Jobs:](<http://www.bloomberg.com/apps/news?pid=20601087&sid=amga5EoJv6DE&refer=h
 > to me and my doctors,” Jobs, who turns 54 in February, said today in a
 > statement. “After further testing, my doctors think they have found the
 > cause -- a hormone imbalance that has been ‘robbing’ me of the proteins my
-> body needs to be healthy.” (**from**[Bloomberg
+> body needs to be healthy.” ( **from**[Bloomberg
 > News](<http://www.bloomberg.com/apps/news?pid=20601087&sid=amga5EoJv6DE&refer=home>))
 
 Read the rest of the [article about Steve Jobs
@@ -24,4 +28,3 @@ Health](<http://www.bloomberg.com/apps/news?pid=20601087&sid=amga5EoJv6DE&refer=
 It's basically commentary. The key is the paragraph above.
 
 
-* **Link to site:** **[Update on Jobs’ health](None)**

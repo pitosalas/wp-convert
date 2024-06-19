@@ -6,6 +6,10 @@ tags:
     - iphon-tage-blackberry-nyt-uae
 ---
 
+**Link: [Blackberry network is far more secure!](None):** ""
+
+
+
 I never realized this and I am surprised that BlackBerry and Research In
 Motion advertising have not made a big deal out of it. According to this
 article [BlackBerry communications travel over a highly encrypted channel, not
@@ -23,4 +27,3 @@ internet](<http://www.nytimes.com/2010/08/02/business/global/02berry.html>):
 > Times](<http://www.nytimes.com/2010/08/02/business/global/02berry.html?_r=1>))
 
 
-* **Link to site:** **[Blackberry network is far more secure!](None)**

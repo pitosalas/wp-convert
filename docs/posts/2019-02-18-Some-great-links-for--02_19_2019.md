@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-02-18
 ---
 
+**Link: [Some great links for  02/19/2019](None):** ""
+
+
+
   * [How Microservices Saved the Internet – Hacker Noon](<https://hackernoon.com/how-microservices-saved-the-internet-30cd4b9c6230>)
 
 tags: [scaling](<https://www.diigo.com/user/pitosalas/scaling>)
@@ -32,4 +36,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  02/19/2019](None)**

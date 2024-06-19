@@ -8,6 +8,10 @@ tags:
     - Programming
 ---
 
+**Link: [[GEEKY] Best Tutorial for Android OpenGL](None):** ""
+
+
+
 If you are interested in graphics programming and gaming, let me strongly
 recommend you take a look at this 6 part tutorial on 3D graphics development
 on Android.
@@ -19,4 +23,3 @@ part-i/>)**
 'Nuf said.
 
 
-* **Link to site:** **[[GEEKY] Best Tutorial for Android OpenGL](None)**

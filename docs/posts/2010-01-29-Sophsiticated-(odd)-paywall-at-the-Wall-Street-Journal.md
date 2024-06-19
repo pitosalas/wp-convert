@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2010-01-29
 ---
 
+**Link: [Sophsiticated (odd) paywall at the Wall Street Journal](None):** ""
+
+
+
 So I am trying to decide whether I should renew my subscription to Wall Street
 Journal online. I read an article hear and there in the journal probably every
 day but certainly not the whole paper. So I've been paying a little more
@@ -34,4 +38,3 @@ in.
 Pretty fancy. Are they over thinking it?
 
 
-* **Link to site:** **[Sophsiticated (odd) paywall at the Wall Street Journal](None)**

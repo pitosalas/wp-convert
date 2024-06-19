@@ -8,6 +8,10 @@ tags:
     - photoshop
 ---
 
+**Link: [Photoshopping missles](None):** ""
+
+
+
 I recently saw a Nova episode about Hany Farid about so called "Digital
 Forensics", that is how to detect and discover photos manipulated digitally.
 Here are some useful links if you are interested:
@@ -46,4 +50,3 @@ Ouch. Egg on their face.
 IRAN.jpg?resize=449%2C288)
 
 
-* **Link to site:** **[Photoshopping missles](None)**

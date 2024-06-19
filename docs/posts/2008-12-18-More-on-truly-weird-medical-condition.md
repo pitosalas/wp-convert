@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-12-18
 ---
 
+**Link: [More on truly weird medical condition](None):** ""
+
+
+
 Suddenly when you [learn about something once](</2008/11/18/ever-hear-of-
 teratomas/>), you start seeing it everywhere…
 
@@ -21,4 +25,3 @@ joke about this along the lines of "even worse than putting your foot in your
 MOUTH!" But I would never say that. It would be in such bad taste.
 
 
-* **Link to site:** **[More on truly weird medical condition](None)**

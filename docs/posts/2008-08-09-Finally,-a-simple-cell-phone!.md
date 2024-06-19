@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2008-08-09
 ---
 
+**Link: [Finally, a simple cell phone!](None):** ""
+
+
+
 ![](https://i0.wp.com/www.gizmodo.com/images/Simple.jpg?w=584)
 
 My Treo 600 recently died a hard death. I had to learn a new cell phone, a
@@ -27,4 +31,3 @@ Toshiba](<http://www.3g.co.uk/PR/Sept2005/1904.htm>).
 _Originally posted on Sep 19, 2005. Reprinted courtesy of ReRuns plug-in._
 
 
-* **Link to site:** **[Finally, a simple cell phone!](None)**

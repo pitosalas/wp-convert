@@ -9,6 +9,10 @@ tags:
     - scholarship
 ---
 
+**Link: [Digital Humanities: A fancy word for blogging?](None):** ""
+
+
+
 Here's an interesting [article in "The Opinionator" of the New York Times
 about blogging, scholarly writing and the tension between the
 two.](<http://opinionator.blogs.nytimes.com/2012/01/09/the-digital-humanities-
@@ -39,4 +43,3 @@ a sentence, which I admit having to look up 🙂
 > humanities-and-the-transcending-of-mortality/>)**
 
 
-* **Link to site:** **[Digital Humanities: A fancy word for blogging?](None)**

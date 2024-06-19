@@ -14,5 +14,6 @@ tags:
 ---
 <img class="cover" src=http://www.robogrok.com/images/img0002.png>
 
+**Link: [RoboGrok University-Level Robotics 1 Course](http://www.robogrok.com/Robotics_1.php):** ""
 
-* **Link to site:** **[RoboGrok University-Level Robotics 1 Course](http://www.robogrok.com/Robotics_1.php)**
+

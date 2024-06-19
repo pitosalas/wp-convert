@@ -7,6 +7,10 @@ tags:
     - plugins
 ---
 
+**Link: [30+ Must-Have Updated Firefox 3 Extensions](None):** ""
+
+
+
 Check this post [30+ Must-Have Updated Firefox 3
 Extensions](<http://mashable.com/2008/06/26/firefox-3-extensions/>) from
 [Mashable!](<http://feeds.feedburner.com/mashable>):
@@ -21,4 +25,3 @@ Lots of good stuff there if you are a FireFox 3 user. Check 'em out!
 _Originally posted on Jun 27, 2008. Reprinted courtesy of ReRuns plug-in._
 
 
-* **Link to site:** **[30+ Must-Have Updated Firefox 3 Extensions](None)**

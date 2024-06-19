@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2014-08-13
 ---
 
+**Link: [Worth reading: Motivating Students: Should Effort Count?](None):** ""
+
+
+
 ![](https://i0.wp.com/salas.com/wp-
 content/uploads/2014/08/f41d7-1407946425174.jpg?w=584&ssl=1)
 
@@ -15,4 +19,3 @@ Count?](<http://www.facultyfocus.com/articles/teaching-professor-
 blog/motivating-students-effort-count/>)
 
 
-* **Link to site:** **[Worth reading: Motivating Students: Should Effort Count?](None)**

@@ -6,6 +6,10 @@ tags:
     - scalability
 ---
 
+**Link: [Why you should build on Kubernetes from day one – Stack Overflow Blog](None):** ""
+
+
+
 [ Why you should build on Kubernetes from day one - Stack Overflow
 Blog](<https://stackoverflow.blog/2021/07/21/why-you-should-build-on-
 kubernetes-from-day-one/>)
@@ -18,4 +22,3 @@ would take to refactor your app later on to support containerization.
 August 1, 2021 at 08:24PM
 
 
-* **Link to site:** **[Why you should build on Kubernetes from day one – Stack Overflow Blog](None)**

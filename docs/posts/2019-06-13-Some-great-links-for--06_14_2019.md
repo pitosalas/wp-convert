@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2019-06-13
 ---
 
+**Link: [Some great links for  06/14/2019](None):** ""
+
+
+
   * [Enhanced Shell Scripting with Ruby](<https://www.devdungeon.com/content/enhanced-shell-scripting-ruby>)
 
 Really nice summary of using ruby for scripting.
@@ -18,4 +22,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  06/14/2019](None)**

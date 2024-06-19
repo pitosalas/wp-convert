@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-11-11
 ---
 
-If you haven't heard about
+**Link: [Wikipedia and copyrights](None):** ""
+
+
+>>
+
+>> If you haven't heard about
 [Wikipedia](<http://en.wikipedia.org/wiki/Main_Page>), you should check it
 out. It's a grass roots encyclopedia. It has a huge number of articles,
 contributed in general by anyone who feels like writing an article, presumably
@@ -45,4 +50,3 @@ that. I don't want to make this into a big **conspiracy theory** - there may
 be a perfectly innocent explanation…
 
 
-* **Link to site:** **[Wikipedia and copyrights](None)**

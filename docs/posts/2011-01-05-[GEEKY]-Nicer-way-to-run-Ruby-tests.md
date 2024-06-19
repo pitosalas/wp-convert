@@ -9,6 +9,10 @@ tags:
     - tests
 ---
 
+**Link: [[GEEKY] Nicer way to run Ruby tests](None):** ""
+
+
+
 Just came across this handy-dandy tool to run tests for Ruby and Rails, and
 produce much nicer and readable traces so you have a prayer to sort out what
 is going on when stuff fails.
@@ -23,4 +27,3 @@ output](<https://github.com/TwP/turn?utm_source=feedburner&utm_medium=feed&utm_c
 > immediately instead of at the end of the tests.
 
 
-* **Link to site:** **[[GEEKY] Nicer way to run Ruby tests](None)**

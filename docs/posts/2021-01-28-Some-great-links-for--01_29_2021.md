@@ -4,6 +4,10 @@ author: Pito Salas
 date: 2021-01-28
 ---
 
+**Link: [Some great links for  01/29/2021](None):** ""
+
+
+
   * [How to Get a Software Developer Internship](<https://link.medium.com/jtrlTwwLpdb>)
 
 Good advice for new grads hunting for a position.
@@ -25,4 +29,3 @@ Posted from [Diigo](<https://www.diigo.com>). The rest of my favorite links
 are [here](<https://www.diigo.com/user/pitosalas>).
 
 
-* **Link to site:** **[Some great links for  01/29/2021](None)**

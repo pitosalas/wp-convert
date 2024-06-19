@@ -4,7 +4,12 @@ author: Pito Salas
 date: 2004-08-10
 ---
 
-We just put up **BlogBridge Beta 3**. Check it out. It's got many neat new
+**Link: [BlogBridge Beta 3](None):** ""
+
+
+>>
+
+>> We just put up **BlogBridge Beta 3**. Check it out. It's got many neat new
 features, most particularly the **BlogBridge Service** which I wrote about
 recently.
 
@@ -39,4 +44,3 @@ trick!
 >> **And let me know what you think!**
 
 
-* **Link to site:** **[BlogBridge Beta 3](None)**
