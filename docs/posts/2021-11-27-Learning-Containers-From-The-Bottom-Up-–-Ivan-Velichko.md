@@ -8,8 +8,6 @@ tags:
 
 **Link: [Learning Containers From The Bottom Up – Ivan Velichko](None):** ""
 
-
-
 [ Learning Containers From The Bottom Up - Ivan
 Velichko](<https://iximiuz.com/en/posts/container-learning-path/>)
 

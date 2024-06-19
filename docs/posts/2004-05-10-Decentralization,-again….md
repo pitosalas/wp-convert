@@ -6,13 +6,10 @@ date: 2004-05-10
 
 **Link: [Decentralization, again…](None):** ""
 
-
->>
-
->> Remember when the Berlin wall came down and the Soviet Union ended up
-breaking up? People talked about **the power of decentralizaiton** , about how
-simple faxes were used by individual Soviet citizens to tell the world what
-was going on and topple the ultimate centralized power?
+Remember when the Berlin wall came down and the Soviet Union ended up breaking
+up? People talked about **the power of decentralizaiton** , about how simple
+faxes were used by individual Soviet citizens to tell the world what was going
+on and topple the ultimate centralized power?
 
 >>
 

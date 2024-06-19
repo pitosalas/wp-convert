@@ -9,8 +9,6 @@ tags:
 
 **Link: [Why don’t they ask you for identification before letting you vote?](None):** ""
 
-
-
 Every time there's an election it seems like someone brings up the odd fact
 that you are not asked for ID here in Massachusetts before being allowed to
 cast your ballot. It seems to me that this is especially surprising to people
@@ -32,9 +30,9 @@ The gist of it is here:
 > In my experience as a pollworker in Virginia, the answer is clearly “no”.
 > There are two basic problems – the rules for acceptable IDs are so broad (so
 > as to avoid disenfranchisement) as to be useless, and pollworkers are given
-> no training as to how to verify an ID." ( **from** [Do Photo IDs help
-> prevent vote fraud?](<http://freedom-to-tinker.com/blog/jeremyepstein/do-
-> photo-ids-help-prevent-vote-fraud>))
+> no training as to how to verify an ID." (**from** [Do Photo IDs help prevent
+> vote fraud?](<http://freedom-to-tinker.com/blog/jeremyepstein/do-photo-ids-
+> help-prevent-vote-fraud>))
 
 Interesting, eh?
 

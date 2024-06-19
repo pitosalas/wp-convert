@@ -11,8 +11,6 @@ tags:
 
 **Link: [Sandra Fluke Testimony: Compelling](None):** ""
 
-
-
 [youtube http://www.youtube.com/watch?v=xlRC0nsjtKQ&w=420&h=315]
 
 

@@ -10,8 +10,6 @@ tags:
 
 **Link: [Facebook and Twitter Hacking](None):** ""
 
-
-
 I guess it's not surprising that people's [Facebook and twitter accounts are
 getting
 compromised](<http://www.nytimes.com/2009/12/14/technology/internet/14virus.html?_r=1&ref=todayspaper>).
@@ -25,7 +23,7 @@ From the New York Times:
 > people’s accounts and sending out messages to all of their friends and
 > followers. The result is that people are inadvertently telling their co-
 > workers and loved ones how to raise their I.Q.’s or make money instantly, or
-> urging them to watch an awesome new video in which they star." ( **from**
+> urging them to watch an awesome new video in which they star." (**from**
 > [From Viral Crooks, Social Networks are Prime
 > Targets](<http://www.nytimes.com/2009/12/14/technology/internet/14virus.html?_r=1&ref=todayspaper>))
 

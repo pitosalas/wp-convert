@@ -6,12 +6,9 @@ date: 2004-07-22
 
 **Link: [Mac OSX not easy to use!](None):** ""
 
-
->>
-
->> Years ago I was a hardcore Mac fanatic. I was one of the creators of a
-long-gone early Macintosh application called Jazz. I programmed on a Lisa in
-68000 assembly language. As I said, a long time ago 🙂
+Years ago I was a hardcore Mac fanatic. I was one of the creators of a long-
+gone early Macintosh application called Jazz. I programmed on a Lisa in 68000
+assembly language. As I said, a long time ago 🙂
 
 >>
 

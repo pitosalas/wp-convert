@@ -9,8 +9,6 @@ tags:
 
 **Link: [30+ Must-Have Updated Firefox 3 Extensions](None):** ""
 
-
-
 Check this post [30+ Must-Have Updated Firefox 3
 Extensions](<http://mashable.com/2008/06/26/firefox-3-extensions/>) from
 [Mashable!](<http://feeds.feedburner.com/mashable>):

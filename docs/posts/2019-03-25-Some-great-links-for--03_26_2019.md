@@ -6,8 +6,6 @@ date: 2019-03-25
 
 **Link: [Some great links for  03/26/2019](None):** ""
 
-
-
   * [Drawing Graphs using Dot and Graphviz](<http://tonyballantyne.com/graphs.html>)
 
 Another great overview and cheatsheet for Dot

@@ -6,8 +6,6 @@ date: 2007-10-18
 
 **Link: [Steve Jobs’ Change of Heart: iPhone SDK on its Way!](None):** ""
 
-
-
 Check out [this post](<http://mashable.com/2007/10/17/apple-iphone-itouch-
 sdk/>) from [Mashable!](<http://mashable.com>):
 

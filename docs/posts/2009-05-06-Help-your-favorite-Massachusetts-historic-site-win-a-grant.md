@@ -6,8 +6,6 @@ date: 2009-05-06
 
 **Link: [Help your favorite Massachusetts historic site win a grant](None):** ""
 
-
-
 The National Trust of Historic Preservation and American Express are giving
 away $100,000.00 to a Massachusetts historic site. All you have to do is to
 exercise your left mouse finger to increase the chances of your site.

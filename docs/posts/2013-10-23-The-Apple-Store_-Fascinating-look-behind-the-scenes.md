@@ -10,8 +10,6 @@ tags:
 
 **Link: [The Apple Store: Fascinating look behind the scenes](None):** ""
 
-
-
 This was a fun read with lots of cool insights. If your blood pressure surges
 and adrenalin courses through your veins as you approach the big white
 electronic temple then read on. Here's an excerpt from: [Retail Therapy:

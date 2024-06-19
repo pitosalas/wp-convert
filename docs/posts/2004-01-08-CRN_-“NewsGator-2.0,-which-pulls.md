@@ -6,10 +6,7 @@ date: 2004-01-08
 
 **Link: [CRN: “NewsGator 2.0, which pulls](None):** ""
 
-
->>
-
->> **[CRN:"NewsGator 2.0, which pulls news freeds in RSS or Atom
+**[CRN:"NewsGator 2.0, which pulls news freeds in RSS or Atom
 …":](<http://www.crn.com/sections/BreakingNews/dailyarchives.asp?ArticleID=47057>)
 **First Time I've seen a commercial announcement of Atom support. Full Quote:
 

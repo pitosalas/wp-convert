@@ -6,10 +6,7 @@ date: 2005-05-23
 
 **Link: [Very Cool: iTunes supports Podcasting!](None):** ""
 
-
->>
-
->> Nothing to add:
+Nothing to add:
 
 >>
 

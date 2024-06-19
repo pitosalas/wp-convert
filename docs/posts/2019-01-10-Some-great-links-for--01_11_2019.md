@@ -6,8 +6,6 @@ date: 2019-01-10
 
 **Link: [Some great links for  01/11/2019](None):** ""
 
-
-
   * [Bindings and Lexical Scope in Ruby](<https://blog.appsignal.com/2019/01/08/ruby-magic-bindings-and-lexical-scope.html>)
 
 Ruby is such an elegant language!

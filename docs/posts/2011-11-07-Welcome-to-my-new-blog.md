@@ -11,8 +11,6 @@ tags:
 
 **Link: [Welcome to my new blog](None):** ""
 
-
-
 So after some trouble porting the content I am now running my blog on
 [Squarespace](<http://www.squarespace.com>). My main motivation is to get out
 of the server management business and also clean up my messier and messier

@@ -10,8 +10,6 @@ tags:
 
 **Link: [Instead of giving out grades in a class, give out experience points](None):** ""
 
-
-
 If you watched (or didn't) the preceding video by [Jesse Schell
 ](<http://www.schellgames.com/>)you might have caught one throw away idea
 mentioned that really intrigued me: **Eliminate grades** and instead adopt a
@@ -21,13 +19,13 @@ Sheldon](<http://www.escapistmagazine.com/news/view/99224-Professor-Abandons-
 Grades-for-Experience-Points>). Here's the [link to his course, Gaming the
 Classroom.](<http://gamingtheclassroom.wordpress.com/syllabus/>)
 
-_In my teaching at Brandeis, deciding how to handle grading is one of the
-**trickier problems** to solve. While my experience teaching so far is quite
-limited I have come to believe you need to be aware that your students'
+_In my teaching at Brandeis, deciding how to handle grading is one of
+the**trickier problems** to solve. While my experience teaching so far is
+quite limited I have come to believe you need to be aware that your students'
 expectations about what 'counts' towards the grade will **heavily influence**
 their behavior._
 
-_Whether you like it our not that which they feel will help their grade **they
+_Whether you like it our not that which they feel will help their grade**they
 will do more** of and less of the latter. Yeah I would say that they are
 sincerely there to learn and do their best given all the circumstances. But
 it's **human nature:** when it's 2am and they need to decide whether to tackle

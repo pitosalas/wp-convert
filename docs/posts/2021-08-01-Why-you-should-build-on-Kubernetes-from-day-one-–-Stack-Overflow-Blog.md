@@ -8,8 +8,6 @@ tags:
 
 **Link: [Why you should build on Kubernetes from day one – Stack Overflow Blog](None):** ""
 
-
-
 [ Why you should build on Kubernetes from day one - Stack Overflow
 Blog](<https://stackoverflow.blog/2021/07/21/why-you-should-build-on-
 kubernetes-from-day-one/>)

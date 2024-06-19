@@ -6,8 +6,6 @@ date: 2007-03-28
 
 **Link: [Use Google to enhance your conference experience](None):** ""
 
-
-
 I'm at the [O'Reilly Emerging Technology
 Conference](<http://conferences.oreillynet.com/etech/>), aka "ETech"… really
 interesting. One 'trick' that just occurred to me is working well. When

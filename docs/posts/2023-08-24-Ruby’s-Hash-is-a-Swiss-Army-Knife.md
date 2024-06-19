@@ -11,8 +11,6 @@ tags:
 
 **Link: [Ruby’s Hash is a Swiss-Army Knife](None):** ""
 
-
-
 [ Ruby's Hash is a Swiss-Army Knife](< https://www.akshaykhot.com/ruby-hash-
 is-a-swiss-army-knife/?ref=akshays-blog-newsletter>) –A Hash is a built-in
 data structure in Ruby that maps values to keys and has a constant-time O(1)

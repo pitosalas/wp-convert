@@ -13,8 +13,6 @@ tags:
 
 **Link: [Did someone actually have to invent that?](None):** ""
 
-
-
 ![NewImage](https://i0.wp.com/salas.com/wp-
 content/uploads/2013/02/2cb42-newimage.png?resize=190%2C169&ssl=1)
 

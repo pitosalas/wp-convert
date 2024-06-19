@@ -6,10 +6,7 @@ date: 2004-06-12
 
 **Link: [BlogBridge Beta, part deux](None):** ""
 
-
->>
-
->> I shoulda known…
+I shoulda known…
 
 >>
 

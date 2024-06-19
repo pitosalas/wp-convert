@@ -6,8 +6,6 @@ date: 2007-06-29
 
 **Link: [From the WSJ: A Summer Myth Debunked](None):** ""
 
-
-
 Check out [this
 post](<http://feeds.wsjonline.com/~r/wsj/health/feed/~3/128465127/>) from
 [WSJ.com: Health Blog](<http://blogs.wsj.com/health>):

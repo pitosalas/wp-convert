@@ -6,8 +6,6 @@ date: 2007-03-09
 
 **Link: [Dave DeWalt leaves EMC](None):** ""
 
-
-
 I guess that many of you who read this blog are eRoom, Documentum and EMC
 alums so you'd be interested in reading what [John Newton, co-founder of
 Documentum has to say about the departure of Dave DeWalt from

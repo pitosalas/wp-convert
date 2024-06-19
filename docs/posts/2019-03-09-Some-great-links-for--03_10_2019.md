@@ -6,8 +6,6 @@ date: 2019-03-09
 
 **Link: [Some great links for  03/10/2019](None):** ""
 
-
-
   * [David Dollar](<http://blog.daviddollar.org/2011/05/06/introducing-foreman.html>)
 
 A tool to allow me to launch multiple apps locally to get a new SOA service

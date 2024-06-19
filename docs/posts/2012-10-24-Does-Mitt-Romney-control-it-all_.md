@@ -11,8 +11,6 @@ tags:
 
 **Link: [Does Mitt Romney control it all?](None):** ""
 
-
-
 [Another conspiracy](<http://truth-out.org/news/item/12204-does-the-romney-
 family-now-own-your-e-vote>) story claiming that Romney through several levels
 of company, controls a company that makes a type of voting machine that is

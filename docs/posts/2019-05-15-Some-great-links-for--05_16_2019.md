@@ -6,8 +6,6 @@ date: 2019-05-15
 
 **Link: [Some great links for  05/16/2019](None):** ""
 
-
-
   * [How the Boeing 737 Max Disaster Looks to a Software Developer](<https://spectrum.ieee.org/aerospace/aviation/how-the-boeing-737-max-disaster-looks-to-a-software-developer>)
 
 A great analysis of this terrible example of the impact of bugs

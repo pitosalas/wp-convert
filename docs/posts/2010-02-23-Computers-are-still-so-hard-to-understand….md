@@ -6,8 +6,6 @@ date: 2010-02-23
 
 **Link: [Computers are still so hard to understand…](None):** ""
 
-
-
 [Dave Winer wrote a bit recently called "What we don't understand" that lists
 all the ways in which computers are still so
 confusing](<http://www.scripting.com/stories/2010/02/20/whatWeDontUnderstand.html>),
@@ -26,7 +24,7 @@ margins in your favorite editor/wordprocessor.
 
 So I won't rehash Mr. Winer's argument.
 
-But let me ask this: it seems to me that there's a real (and **large** )
+But let me ask this: it seems to me that there's a real (and **large**)
 **market** for a device that does email, text editing (which is part of email)
 and web surfing. Specifically designed for people over say 60 or anyone who
 could care less how to tweak all the dials.
@@ -39,7 +37,7 @@ for it.
 
 And by the way:
 
-  * No, it's not an **iPad** (it has no keyboard and is way too **precious** ). 
+  * No, it's not an **iPad** (it has no keyboard and is way too **precious**). 
   * It's not an **iPhone** : Forget about multi touch for this audience
   * No, it's not a **Mac** (see above.)
   * No its not **Windows** 7 (OMG)

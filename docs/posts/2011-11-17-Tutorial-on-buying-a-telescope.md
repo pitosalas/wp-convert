@@ -10,8 +10,6 @@ tags:
 
 **Link: [Tutorial on buying a telescope](None):** ""
 
-
-
 Out of left (star) field. Here's a succinct tutorial on buying a telescope
 that my friend [Ben Gomes Casseres
 ](<http://www.linkedin.com/profile/view?id=2741471&authType=name&authToken=8vju&locale=en_US&pvs=pp&trk=ppro_viewmore>)emailed

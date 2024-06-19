@@ -6,10 +6,7 @@ date: 2004-07-13
 
 **Link: [[JAVA ONE]Sun answers my question](None):** ""
 
-
->>
-
->> In [several ](</weblogs/archives/000449.html>)previous [posts
+In [several ](</weblogs/archives/000449.html>)previous [posts
 ](</weblogs/archives/000446.html>)I've wondered aloud: "I can see that Sun
 spends a ton of money on Java. It must be astronomical. What's the strategy
 behind that? How do they make money on that?"
@@ -33,7 +30,7 @@ and compelling vision.
 
 >> In contrast, at Java One, I felt Sun basically appologetic: "No, Java
 _really is_ fast" and "See, _it is possible_ to write real time applications
-in Java" and, " _Who said_ you can't make great desktop apps in Java?".
+in Java" and, "_Who said_ you can't make great desktop apps in Java?".
 
 >>
 

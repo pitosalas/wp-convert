@@ -6,10 +6,7 @@ date: 2004-08-20
 
 **Link: [BlogBridge Starz!](None):** ""
 
-
->>
-
->> Finally. Ever since we started working on
+Finally. Ever since we started working on
 [BlogBridge](<http://www.blogbridge.com>), I've been talking about helping a
 user slice and dice and **sort through a ton of blogs** and other channels,
 finding the good from the bad, the interesting from the boring.
@@ -23,7 +20,7 @@ next beta you will **see the initial instantiation of this idea**.
 >>
 
 >> Channels (Blogs and other feeds) in BlogBridge are **rated with from one to
-five stars** (unique, isn't it?) These stars will tell you how interesting
+five stars**(unique, isn't it?) These stars will tell you how interesting
 these Channels are to you.
 
 >>
@@ -39,7 +36,7 @@ and flexible.
 
 >>
 
->> For each Blog, BlogBridge figures out **4 different metrics:**
+>> For each Blog, BlogBridge figures out**4 different metrics:**
 
 >>
 

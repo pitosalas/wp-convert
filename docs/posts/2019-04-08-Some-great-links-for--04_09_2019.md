@@ -6,8 +6,6 @@ date: 2019-04-08
 
 **Link: [Some great links for  04/09/2019](None):** ""
 
-
-
   * [codercom/code-server](<https://github.com/codercom/code-server>)
 
 I don’t quite understand this, nor have I tried it. But the claim is pretty

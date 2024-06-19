@@ -6,10 +6,7 @@ date: 2004-10-15
 
 **Link: [BlogBridge makes top 10 List!](None):** ""
 
-
->>
-
->> Hey, this is **really cool**. BlogBridge made a ["Top 10 Java Web Start
+Hey, this is **really cool**. BlogBridge made a ["Top 10 Java Web Start
 Apps"](<http://jroller.com/page/cardsharp/20041006#top_10_java_web_start>)
 list. I ran across it on ["Cardsharp on
 Software"](<http://jroller.com/page/cardsharp/Weblog?catname=/Java>), a blog

@@ -6,8 +6,6 @@ date: 2018-12-16
 
 **Link: [Some great links for  12/17/2018](None):** ""
 
-
-
   * [typicode/json-server](<https://github.com/typicode/json-server>)
 
 Useful faker for rest apis.

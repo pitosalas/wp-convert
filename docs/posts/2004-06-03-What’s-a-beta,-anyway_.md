@@ -6,10 +6,7 @@ date: 2004-06-03
 
 **Link: [What’s a beta, anyway?](None):** ""
 
-
->>
-
->> [BlogBridge ](<http://www.blogbridge.com>)is getting ready to go into a
+[BlogBridge ](<http://www.blogbridge.com>)is getting ready to go into a
 limited beta test. The purpose is to get some early feedback on the basic User
 Interface model and the overall product vision. If you are interested in
 participating, please send an email to email@blogbridge.com.

@@ -6,10 +6,9 @@ date: 2006-11-19
 
 **Link: [If you’ve ever had to carve the Thanksgiving turkey, this will be funny](None):** ""
 
+Yes, every year some wag writes a funny article about carving a turkey, but
+this one is _really_ funny! Among the many chuckles:
 
->
-> Yes, every year some wag writes a funny article about carving a turkey, but
-> this one is _really_ funny! Among the many chuckles:
 >
 
 >> All conversation dies when he picks up his weapons. The festive warmth  

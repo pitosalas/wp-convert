@@ -10,8 +10,6 @@ tags:
 
 **Link: [Epistemological Modesty… What?](None):** ""
 
-
-
 I was listening to an interview with David Brooks the other day. The interview
 was conducted by, of all people, Alec Baldwin on "Here's the Thing", a show I
 discovered on public radio.
@@ -32,14 +30,14 @@ something that makes a lot of sense to me:
 > which would make a fine vanity license plate.
 >
 > The idea is that the world is too complex for us to know, and therefore
-> policies should be designed that take account of our ignorance." ( **from**
+> policies should be designed that take account of our ignorance." (**from**
 > "[The American
 > Scene",](<http://theamericanscene.com/2009/02/20/epistemological-modesty>) a
 > blog I stumbled across when googling the phrase "Epistemological Modesty")
 
 Here is the David Brooks quote where I first encountered the phrase:
 
-> " **David Brooks:** Yeah, so I was a lefty and I was assigned a book called
+> "**David Brooks:** Yeah, so I was a lefty and I was assigned a book called
 > "The Reflections of the Revolution in France" by Edmund Burke. And here is a
 > guy saying you really shouldn't think for yourself. The power of reason is
 > weak. What you should do is rely on the just prejudices that have survived
@@ -51,7 +49,7 @@ Here is the David Brooks quote where I first encountered the phrase:
 > he's right. Our power of reason is weak. And part of the core of my
 > conservatism is the phrase 'epistemological modesty;' the world is
 > incredibly complicated; we can’t know much about it. We should be very
-> suspicious that we can plan." ( **from** [Here's the Thing: David Brooks
+> suspicious that we can plan." (**from** [Here's the Thing: David Brooks
 > Transcript](<http://www.wnyc.org/shows/heresthething/2012/oct/08/transcript/>))
 
 Anyway, it's kind of **dangerous** to be linking to blogs I never heard of or

@@ -6,8 +6,6 @@ date: 2010-09-04
 
 **Link: [The Effect of Snakeoil Security: wheels within wheels](None):** ""
 
-
-
 As you can imagine I've been reading and learning more about security with my
 work in Elections (http://www.trustthevote.org). It's a hall of mirrors and I
 struggle to really grasp when a possible threat is worse than the cure for it
@@ -24,8 +22,8 @@ lab](<http://ha.ckers.org/blog/feed/>):
 > works if there are two people and you only encounter one bear. In a true
 > ecosystem you have many many people in the same business, and you have many
 > attackers. If you leave your competitor(s) out to dry that may seem good for
-> you in the short term, but in reality you’re feeding your attacker(s). (
-> **from:**[The Effect of Snakeoil
+> you in the short term, but in reality you’re feeding your attacker(s).
+> (**from:**[The Effect of Snakeoil
 > Security](<http://ha.ckers.org/blog/20100904/the-effect-of-snakeoil-
 > security/>))
 

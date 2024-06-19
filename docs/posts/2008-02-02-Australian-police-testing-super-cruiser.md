@@ -6,8 +6,6 @@ date: 2008-02-02
 
 **Link: [Australian police testing super cruiser](None):** ""
 
-
-
 Check out [this
 post](<http://feeds.autoblog.com/~r/weblogsinc/autoblog/~3/210114751/>) from
 [Autoblog](<http://www.autoblog.com>):
@@ -43,15 +41,7 @@ post](<http://feeds.autoblog.com/~r/weblogsinc/autoblog/~3/210114751/>) from
 >
 >  
 >
->
-> [Read](<http://www.news.com.au/couriermail/story/0,23739,22955879-3102,00.html>)
-> | [Permalink](<http://www.autoblog.com/2008/01/02/australian-police-testing-
-> super-cruiser/> "Permanent link to this entry") | [Email
-> this](<http://www.autoblog.com/forward/1075598/> "Send this entry to a
-> friend via email") |
-> [Comments](<http://www.autoblog.com/2008/01/02/australian-police-testing-
-> super-cruiser/#comments> "View reader comments on this entry")
-> [![](http://feeds.autoblog.com/~f/weblogsinc/autoblog?i=yf9xHed)](<http://feeds.autoblog.com/~f/weblogsinc/autoblog?a=yf9xHed>)[![](http://feeds.autoblog.com/~f/weblogsinc/autoblog?i=Vajf33d)](<http://feeds.autoblog.com/~f/weblogsinc/autoblog?a=Vajf33d>)![](http://feeds.autoblog.com/~r/weblogsinc/autoblog/~4/210114751)
+> [Read](<http://www.news.com.au/couriermail/story/0,23739,22955879-3102,00.html>) | [Permalink](<http://www.autoblog.com/2008/01/02/australian-police-testing-super-cruiser/> "Permanent link to this entry") | [Email this](<http://www.autoblog.com/forward/1075598/> "Send this entry to a friend via email") | [Comments](<http://www.autoblog.com/2008/01/02/australian-police-testing-super-cruiser/#comments> "View reader comments on this entry") [![](http://feeds.autoblog.com/~f/weblogsinc/autoblog?i=yf9xHed)](<http://feeds.autoblog.com/~f/weblogsinc/autoblog?a=yf9xHed>)[![](http://feeds.autoblog.com/~f/weblogsinc/autoblog?i=Vajf33d)](<http://feeds.autoblog.com/~f/weblogsinc/autoblog?a=Vajf33d>)![](http://feeds.autoblog.com/~r/weblogsinc/autoblog/~4/210114751)
 >
 > (from: [Australian police testing super
 > cruiser](<http://feeds.autoblog.com/~r/weblogsinc/autoblog/~3/210114751/>))

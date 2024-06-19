@@ -11,8 +11,6 @@ tags:
 
 **Link: [We’re not going back to the moon](None):** ""
 
-
-
 This is kind of depressing, but I don't know why - but NASA administrator
 Bolden says that NASA has no plans to lead another mission to the moon within
 our lifetime:
@@ -23,7 +21,7 @@ our lifetime:
 > project probably in my lifetime. And the reason is, we can only do so many
 > things.” Instead, he said the focus would remain on human missions to
 > asteroids and to Mars. “We intend to do that, and we think it can be done.”
-> ( **from** [SpacePolitics.com and several other
+> (**from** [SpacePolitics.com and several other
 > places.](<http://www.spacepolitics.com/2013/04/05/back-to-the-moon-not-any-
 > time-soon-says-bolden/>))
 

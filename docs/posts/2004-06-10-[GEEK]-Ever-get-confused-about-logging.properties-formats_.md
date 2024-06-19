@@ -6,10 +6,7 @@ date: 2004-06-10
 
 **Link: [[GEEK] Ever get confused about logging.properties formats?](None):** ""
 
-
->>
-
->> I know I do! Here's a very concise summary of the syntax that will jog your
+I know I do! Here's a very concise summary of the syntax that will jog your
 memory when it needs to be jogged!
 
 >>

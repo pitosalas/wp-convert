@@ -10,8 +10,6 @@ tags:
 
 **Link: [The Impending Flash Crisis?](None):** ""
 
-
-
 An interesting article about this [impending
 crisis.](<http://blog.vivekhaldar.com/>) Although it's impending, I had never
 heard about before, despite the claim that "This impending “flash crisis” is

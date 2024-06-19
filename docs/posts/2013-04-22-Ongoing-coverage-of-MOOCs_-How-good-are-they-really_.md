@@ -12,8 +12,6 @@ tags:
 
 **Link: [Ongoing coverage of MOOCs: How good are they really?](None):** ""
 
-
-
 This trend is now unstoppable - massive open online courses - or MOOCs - are
 constantly in the news. The angle often seems to be about whether or how or
 how much they will impact higher education and education in general. It's a
@@ -42,7 +40,7 @@ His telling comments about the convenience factor:
 > Philosophy” and “The Modern World: Global History since 1760.” (Well, to be
 > honest, I’m not quite done with history — I’m still stuck in the 1980s.) Not
 > coincidentally, these were two courses with lighter workloads and less
-> jargon." ( **from** NYT: [Grading the MOOC
+> jargon." (**from** NYT: [Grading the MOOC
 > University](<http://www.nytimes.com/2013/04/21/opinion/sunday/grading-the-
 > mooc-university.html?pagewanted=3&ref=todayspaper&pagewanted=all>))
 

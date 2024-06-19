@@ -6,8 +6,6 @@ date: 2007-09-23
 
 **Link: [State department has a blog team](None):** ""
 
-
-
 Apparently the US State Department has a team of bloggers who get into
 discussions on boards and blogs around the world, taking an interesting
 alternative approach to the usual formal, high level diplomacy:

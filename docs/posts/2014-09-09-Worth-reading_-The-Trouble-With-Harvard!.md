@@ -6,8 +6,6 @@ date: 2014-09-09
 
 **Link: [Worth reading: The Trouble With Harvard!](None):** ""
 
-
-
 The most-read article in the history of [The New Republic] is not about war,
 politics, or great works of art. It’s about the admissions policies of a
 handful of elite universities, most prominently my employer, Harvard, which is

@@ -6,11 +6,8 @@ date: 2004-09-14
 
 **Link: [BlogBridge Beta 4: Sept 15, 2004](None):** ""
 
-
->>
-
->> Ok, guys, we have another beta release with lots of great new goodies! It
-will be up on the web site tomorrow hopefully. It sports lots of new features,
+Ok, guys, we have another beta release with lots of great new goodies! It will
+be up on the web site tomorrow hopefully. It sports lots of new features,
 which I will be describing when I have some more time to do it. For now,
 please go to the BlogBridge web site and look around. Some links of interest:
 

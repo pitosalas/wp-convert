@@ -6,8 +6,6 @@ date: 2009-10-13
 
 **Link: [The Change Formula: Rule](None):** ""
 
-
-
 I attended [BIF-5 (The Business Information Factory's Annual
 Summit)](<http://www.businessinnovationfactory.com/bif-5>) last week, a great
 and stimulating experience. One of the speakers was Alan M. Weber taking some
@@ -25,7 +23,7 @@ replace a product they own for the latest model:
 > "The rational way to think about your purchases, says V. Seenu Srinivasan, a
 > Stanford business school professor, is to replace a product when the
 > benefits of a new version outweigh the costs — financial and psychological —
-> of upgrading." ( **from** [New York
+> of upgrading." (**from** [New York
 > Times](<http://www.nytimes.com/2009/10/11/business/11every.html>))
 
 Sounds **obvious** , doesn't it? _Think about it._
@@ -34,7 +32,7 @@ Well it contradicts Rule #5 which is more subtle but I think upon reflection,
 more accurate. Rule #5 says,
 
 > "Change happens when the **cost of the status** **quo** is greater than the
-> **risk of change**."  ( **from** [Rules of Thumb, a book by Alan
+> **risk of change**."  (**from** [Rules of Thumb, a book by Alan
 > Weber.)](<http://rulesofthumbbook.blogspot.com/>)
 
 Think about that; does it in fact contradict the first formulation? He further
@@ -42,7 +40,7 @@ says:
 
 > "If you do your math right and you figure out how to allocate the true costs
 > of the status quo while driving down the risks of change, you may discover
-> some new allies you can bring to your side…" ( **from** [Rules of Thumb, a
+> some new allies you can bring to your side…" (**from** [Rules of Thumb, a
 > book by Alan Weber.)](<http://rulesofthumbbook.blogspot.com/>)
 
 Based on this formulation, I guess your focus is **not** on persuading a

@@ -6,8 +6,6 @@ date: 2020-11-09
 
 **Link: [Some great links for  11/10/2020](None):** ""
 
-
-
   * [Bilgin's Blog | Kalman Filter For Dummies](<http://bilgin.esme.org/BitsAndBytes/KalmanFilterforDummies>)
 
 More Kalman Filter links. This one is one of the best.

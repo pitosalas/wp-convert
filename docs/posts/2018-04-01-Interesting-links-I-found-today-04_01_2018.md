@@ -6,8 +6,6 @@ date: 2018-04-01
 
 **Link: [Interesting links I found today 04/01/2018](None):** ""
 
-
-
   * [FIND3 Overview · FIND3](<https://www.internalpositioning.com/doc/overview.md>)
 
   * [LKML: Linus Torvalds: Re: detecting integer constant expressions in macros](<https://lkml.org/lkml/2018/3/20/845>)

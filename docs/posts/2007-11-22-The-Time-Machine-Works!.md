@@ -6,8 +6,6 @@ date: 2007-11-22
 
 **Link: [The Time Machine Works!](None):** ""
 
-
-
 Check out [this post](<http://blog.payne.org/2007/11/15/involuntary-test-of-
 time-machine/>) from [blog.payne.org](<http://blog.payne.org>):
 

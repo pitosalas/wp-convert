@@ -13,8 +13,6 @@ tags:
 
 **Link: [Design Thinking vs. Lean Startup](None):** ""
 
-
-
 ### Point
 
 [Solving Problems for Real World, Using Design -

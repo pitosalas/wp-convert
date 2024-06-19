@@ -6,8 +6,6 @@ date: 2020-03-07
 
 **Link: [Some great links for  03/08/2020](None):** ""
 
-
-
   * [Integrate Bootstrap 4 and Font Awesome 5 in Rails 6](<https://medium.com/swlh/integrate-bootstrap-4-and-font-awesome-5-in-rails-6-fec52ee51753>)
 
 This can always be a paining the butt. And now that Rails4 uses all this new

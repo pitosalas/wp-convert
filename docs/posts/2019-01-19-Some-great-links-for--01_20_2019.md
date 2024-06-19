@@ -6,8 +6,6 @@ date: 2019-01-19
 
 **Link: [Some great links for  01/20/2019](None):** ""
 
-
-
   * [Download Trial | SimpleDiagrams](<https://www.simplediagrams.com/trial>)
 
 Another interesting diagramming and sketching tool.

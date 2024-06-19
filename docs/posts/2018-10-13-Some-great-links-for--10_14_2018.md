@@ -6,8 +6,6 @@ date: 2018-10-13
 
 **Link: [Some great links for  10/14/2018](None):** ""
 
-
-
   * [Creating Powerful Command Line Tools in Ruby - via @codeship | via @codeship](<https://blog.codeship.com/creating-powerful-command-line-tools-in-ruby/>)
 
 Another great article about creating a well behaved cli

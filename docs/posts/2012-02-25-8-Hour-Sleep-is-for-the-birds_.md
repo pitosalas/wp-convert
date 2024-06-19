@@ -9,8 +9,6 @@ tags:
 
 **Link: [8 Hour Sleep is for the birds?](None):** ""
 
-
-
 Do you believe that you require 8 hours of sleep to be rested and effective.
 Well, in this really interesting [article in the BBC News it seems like that
 pattern might not really be the most natural.
@@ -29,7 +27,7 @@ came up with some interesting findings:
 > Though sleep scientists were impressed by the study, among the general
 > public the idea that we must sleep for eight consecutive hours persists.
 > More recently, the theory that humans slept in two distinct chunks has
-> resurfaced, but in the rather less likely field of history." ( **from** [The
+> resurfaced, but in the rather less likely field of history." (**from** [The
 > Myth of 8 hour sleep)](<http://www.bbc.co.uk/news/magazine-16964783>)
 
 If you are intrigued, [here's the whole

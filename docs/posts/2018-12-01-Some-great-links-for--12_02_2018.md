@@ -6,8 +6,6 @@ date: 2018-12-01
 
 **Link: [Some great links for  12/02/2018](None):** ""
 
-
-
   * <https://link.medium.com/Cd6lBUGriS>
 
 InterSystems perspectives on being a researcher and scientist

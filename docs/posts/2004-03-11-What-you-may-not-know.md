@@ -6,10 +6,7 @@ date: 2004-03-11
 
 **Link: [What you may not know](None):** ""
 
-
->>
-
->> **What you may not know about Eclipse. (Demo 2004 Series 10)** If you are a
+**What you may not know about Eclipse. (Demo 2004 Series 10)** If you are a
 Java developer and you haven't checked out the Eclipse Development tool from
 [www.eclipse.org](<http://www.eclipse.org>), then you owe yourself a treat.
 Who knows if you get excited about that kind of thing, but it gives me
@@ -104,10 +101,10 @@ this post. **
 >
 >>
 
->>  **Back at Demo** 2004 **,**[mValent](<http://www.mvalent.com>)
-demonstrated a unique tool for the **configuration and change management** of
-complex of n-tier enterprise system deployments. An arcane area to be sure,
-but a great product.
+>> **Back at Demo** 2004**,**[mValent](<http://www.mvalent.com>) demonstrated
+a unique tool for the **configuration and change management** of complex of
+n-tier enterprise system deployments. An arcane area to be sure, but a great
+product.
 
 >>
 
@@ -122,7 +119,7 @@ but a great product.
 >
 >>
 
->>  **Back to Eclipse though:** For me this product is especially interesting
+>> **Back to Eclipse though:** For me this product is especially interesting
 to me because it illustrates a unique and **little known capability** of the
 Eclipse system, which is it's use as a wonderful application framework.
 They've done this by abstracting the IDE model to a level where it can be used
@@ -136,7 +133,7 @@ from scratch.
 >>
 
 >>  
->  **mValent**  is the existance proof: Here's a **sophisticated** application
+> **mValent**  is the existance proof: Here's a **sophisticated** application
 > which uses the Eclipse Framework – and which itself is not an IDE!
 > **Beautiful**!
 

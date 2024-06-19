@@ -8,8 +8,6 @@ tags:
 
 **Link: [Lecture 3 2: Hector Mapping – Simultaneous Localization and Mapping](None):** ""
 
-
-
 [ Lecture 3 2: Hector Mapping - Simultaneous Localization and
 Mapping](<https://www.youtube.com/watch?v=Q4qM-Uzj1SI&t=34s>)
 

@@ -6,10 +6,7 @@ date: 2004-07-12
 
 **Link: [Scary Software, Part Deux](None):** ""
 
-
->>
-
->> [Continuing my complaints ](</weblogs/archives/000457.html>)about Java Web
+[Continuing my complaints ](</weblogs/archives/000457.html>)about Java Web
 Start, as if the message displayed on Windows under Java 1.5 isn't bad enough,
 here's what a slightly older version of Java displays on Linux:
 

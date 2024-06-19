@@ -6,8 +6,6 @@ date: 2007-02-17
 
 **Link: [Is desktop search over? 20 years late!](None):** ""
 
-
-
 People are really crowing about Vista's new "instant serach" and how wonderful
 it is and better than the old Windows XP Search functionality. Yeah I can't
 disagree, but it's amazing how it's 20 years on before that glaring-glaring-

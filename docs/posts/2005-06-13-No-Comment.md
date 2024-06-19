@@ -6,15 +6,9 @@ date: 2005-06-13
 
 **Link: [No Comment](None):** ""
 
-
->>
-
->> [States Ranked: Smartest to
+[States Ranked: Smartest to
 Dumbest.](<http://cnn.netscape.cnn.com/news/package.jsp?name=fte/smartstates/smartstates>)
-No Comment.
-
->>
-
->> Technorati Tags: [interesting](<http://technorati.com/tag/interesting>)
+No Comment. Technorati Tags:
+[interesting](<http://technorati.com/tag/interesting>)
 
 

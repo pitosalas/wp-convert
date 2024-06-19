@@ -8,8 +8,6 @@ tags:
 
 **Link: [Aaron Swartz Links](None):** ""
 
-
-
 If you are in the tech community you've likely heard that Aaron Swartz
 committed suicide yesterday in New York. I didn't know him but I was in the
 same room with him, at conferences or conversations a few times about 10 years

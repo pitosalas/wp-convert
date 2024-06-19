@@ -6,8 +6,6 @@ date: 2008-10-27
 
 **Link: [In Defense of Raising Money: a Manifesto for NonProfit CEOs](None):** ""
 
-
-
 Check out this post [In Defense of Raising Money: a Manifesto for NonProfit
 CEOs:](<http://feeds.feedburner.com/~r/typepad/sethsmainblog/~3/433458182/in-
 defense-of-r.html>)
@@ -21,7 +19,7 @@ defense-of-r.html>)
 > change. And if you can lend some of your smarts to the change I’m trying to
 > make, well that’s even better. But most of the time, we both keep on doing
 > what we’re best at, and if we keep on working together the world will be a
-> better place." ( **from:** from [Seth's
+> better place." (**from:** from [Seth's
 > Blog](<http://sethgodin.typepad.com/seths_blog/index.rdf>))
 
 Very well put. I think this notion applies more broadly than just non-profit

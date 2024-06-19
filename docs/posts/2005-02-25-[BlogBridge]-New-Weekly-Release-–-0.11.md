@@ -25,8 +25,6 @@ subscribe to them as a new Feed.
 
 >>   * There are various other, even smaller items, not worth listing here.
 
->>
-
->> Enjoy!
+Enjoy!
 
 

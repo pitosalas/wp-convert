@@ -12,8 +12,6 @@ tags:
 
 **Link: [“What’s next in tech” event in Boston in June](None):** ""
 
-
-
 If you live in the Boston area and somehow connected to technology professions
 you should be interested in this meeting being put on in June:
 
@@ -47,7 +45,7 @@ driven but I say it's a **growth business** , just like enterprise software
 was a few years ago. I hope there's discussion of that too at this cool event.
 
 If you are a Boston area entrepreneur, techie, student with a big idea, **or
-all of the above** , you should definitely **[come to this
+all of the above** , you should definitely**[come to this
 event](<http://whatsnext.eventbrite.com/>).**
 
 

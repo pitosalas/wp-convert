@@ -6,8 +6,6 @@ date: 2018-10-14
 
 **Link: [Some great links for  10/15/2018](None):** ""
 
-
-
   * [Ruby goes Serverless! - Apache OpenWhisk adds native support for Ruby](<https://medium.com/openwhisk/ruby-goes-serverless-apache-openwhisk-adds-native-support-for-ruby-7134faee14e>)
 
 Title says it all.

@@ -6,8 +6,6 @@ date: 2022-03-18
 
 **Link: [Calibrating a Monocular Camera with ROS – Robotics with ROS](None):** ""
 
-
-
 [ Calibrating a Monocular Camera with ROS - Robotics with ROS](<https://ros-
 developer.com/2017/04/23/camera-calibration-with-ros/>)
 

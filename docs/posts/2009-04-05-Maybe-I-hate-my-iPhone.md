@@ -8,8 +8,6 @@ tags:
 
 **Link: [Maybe I hate my iPhone](None):** ""
 
-
-
 [This is from today's New York Times
 Magazine](<http://www.nytimes.com/2009/04/05/magazine/05wwln-
 medium-t.html?ref=technology>). I didn't know [Virginia

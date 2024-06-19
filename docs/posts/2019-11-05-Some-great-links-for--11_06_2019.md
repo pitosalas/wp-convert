@@ -6,8 +6,6 @@ date: 2019-11-05
 
 **Link: [Some great links for  11/06/2019](None):** ""
 
-
-
   * [Finite State Machines are dead. Long life Behavior Trees](<https://www.youtube.com/watch?v=22KUPktetzg&feature=youtu.be>)
 
 Very nice explanation of behavior trees

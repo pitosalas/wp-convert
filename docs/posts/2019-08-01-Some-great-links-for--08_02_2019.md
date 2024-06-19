@@ -6,8 +6,6 @@ date: 2019-08-01
 
 **Link: [Some great links for  08/02/2019](None):** ""
 
-
-
   * [piotrmurach/tty-box](<https://github.com/piotrmurach/tty-box>)
 
 Everything old is new again

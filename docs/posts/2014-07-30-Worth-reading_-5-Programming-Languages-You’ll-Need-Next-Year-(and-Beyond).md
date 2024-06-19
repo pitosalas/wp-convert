@@ -6,8 +6,6 @@ date: 2014-07-30
 
 **Link: [Worth reading: 5 Programming Languages You’ll Need Next Year (and Beyond)](None):** ""
 
-
-
 ![](https://i0.wp.com/salas.com/wp-
 content/uploads/2014/07/97a17-1406745406424.jpg?w=584&ssl=1)
 

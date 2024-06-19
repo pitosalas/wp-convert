@@ -11,8 +11,6 @@ tags:
 
 **Link: [TrustTheVote project](None):** ""
 
-
-
 I've been part of the core tech team of the [TrustTheVote
 project](<http://www.trustthevote.org>) and recently have been blogging over
 there too. [You can find today's post about Open Source e-Voting

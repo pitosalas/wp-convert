@@ -6,10 +6,7 @@ date: 2004-06-07
 
 **Link: [BlogBridge beta is ON!](None):** ""
 
-
->>
-
->> Here's the beta invite email that just went out… Wow, this is exciting! 🙂
+Here's the beta invite email that just went out… Wow, this is exciting! 🙂
 
 >>
 

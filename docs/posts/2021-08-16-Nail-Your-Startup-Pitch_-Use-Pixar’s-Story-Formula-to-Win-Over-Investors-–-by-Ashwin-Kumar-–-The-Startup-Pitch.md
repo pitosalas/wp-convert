@@ -8,8 +8,6 @@ tags:
 
 **Link: [Nail Your Startup Pitch: Use Pixar’s Story Formula to Win Over Investors – by Ashwin Kumar – The Startup Pitch](None):** ""
 
-
-
 [ Nail Your Startup Pitch: Use Pixar's Story Formula to Win Over Investors -
 by Ashwin Kumar - The Startup
 Pitch](<https://startuppitch.substack.com/p/nail-your-startup-pitch-use-

@@ -6,10 +6,7 @@ date: 2004-05-08
 
 **Link: [Programming Esoterica](None):** ""
 
-
->>
-
->> As I delve into programming esoterica, in the past I've written down little
+As I delve into programming esoterica, in the past I've written down little
 handy items of information that I discover through a lot of work, for possible
 future reference. 6 months later, the details will have escaped me, and so I
 have my written notes to refer back to. Well, I thought, why not use my blog

@@ -6,9 +6,7 @@ date: 2007-01-20
 
 **Link: [Funny rant about internet advertising](None):** ""
 
-
->
-> <!-  
+<!-  
 >  body { font-family: Lucida Grande; font-style: normal; font-size: 11pt;
 > font-variant: normal; line-height: normal; font-weight: normal }  
 >  ->

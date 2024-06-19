@@ -9,8 +9,6 @@ tags:
 
 **Link: [A good scratchboard/clayboard tutorial](None):** ""
 
-
-
 In my graphic design work I've gotten to know scratchboard (aka clayboard.)
 It's a very cool material that I've had a lot of success with. Here's an early
 example.

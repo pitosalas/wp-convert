@@ -8,8 +8,6 @@ tags:
 
 **Link: [Go See “The Cry of the Reed” right now](None):** ""
 
-
-
 I just came back from the theatre, the [Huntington Theatre, Boston's,
 production of a brand new play called "The Cry of the Reed"
 ](<http://www.huntingtontheatre.org/season/production.aspx?id=4012&src=t>)by

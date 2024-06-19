@@ -6,8 +6,6 @@ date: 2018-09-10
 
 **Link: [Some great links for  09/11/2018](None):** ""
 
-
-
   * [Ruby one-liners](<http://benoithamelin.tumblr.com/ruby1line/>)
 
 tags: [code](<https://www.diigo.com/user/pitosalas/code>)

@@ -6,10 +6,7 @@ date: 2005-03-28
 
 **Link: [Web Radio is not the same as Podcasting](None):** ""
 
-
->>
-
->> [Here's a really interesting
+[Here's a really interesting
 article](<http://www.boston.com/business/personaltech/articles/2005/03/28/web_radio_quickly_finding_niche_markets/>)
 by Hiawatha Bray of the Boston Globe about Web Radio, reminding us that
 there's a whole other world out there that is related to but quite different

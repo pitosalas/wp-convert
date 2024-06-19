@@ -6,8 +6,6 @@ date: 2009-01-29
 
 **Link: [Going, going, gone…](None):** ""
 
-
-
 You've heard me bemoan the death of magazines, newspapers, and other valuable
 things (radio? small software products) that we are killing by demanding and
 expecting them to become cheaper and cheaper, and eventually free. And after

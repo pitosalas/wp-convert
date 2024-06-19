@@ -6,8 +6,6 @@ date: 2022-01-28
 
 **Link: [Raspberry Pi Arduino Serial Communication – Everything You Need To Know – The Robotics Back-End](None):** ""
 
-
-
 [ Raspberry Pi Arduino Serial Communication - Everything You Need To Know -
 The Robotics Back-End](<https://roboticsbackend.com/raspberry-pi-arduino-
 serial-communication/>)

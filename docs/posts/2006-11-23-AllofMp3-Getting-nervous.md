@@ -6,12 +6,11 @@ date: 2006-11-23
 
 **Link: [AllofMp3 Getting nervous](None):** ""
 
+I've written about [AllOfMp3.com](<http://www.allofmp3.com>) before. I can't
+say other than it's a pirated music site. You can buy mp3's of music of all
+kinds, from a nice catalog, at ridiculously low prices (like $3 or less for a
+complete album.)
 
->
-> I've written about [AllOfMp3.com](<http://www.allofmp3.com>) before. I can't
-> say other than it's a pirated music site. You can buy mp3's of music of all
-> kinds, from a nice catalog, at ridiculously low prices (like $3 or less for
-> a complete album.)
 >
 > Some wags have suggested that [AllofMp3](<http://www.allofmp3.com>) proves
 > that people are totally willing to pay for downloaded music as long as the

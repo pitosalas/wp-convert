@@ -6,8 +6,6 @@ date: 2009-10-10
 
 **Link: [High Reactives](None):** ""
 
-
-
 What are high reactives?
 
 > "Temperament is a complex, multilayered thing, and for the sake of clarity,
@@ -18,7 +16,7 @@ What are high reactives?
 > toddlers, that the most edgy infants were more likely to grow up to be
 > inhibited, shy and anxious. Eager to take a peek at the early results, he
 > grabbed the videotapes of the first babies in the study, looking for the
-> irritable behavior he would later call high-reactive." ( **from**
+> irritable behavior he would later call high-reactive." (**from**
 > [Understanding the Anxious
 > Mind](<http://www.nytimes.com/2009/10/04/magazine/04anxiety-t.html?em=&pagewanted=all>))
 
@@ -36,7 +34,7 @@ This is from the conclusion:
 > per> "More articles about T.S. Eliot.") suffered from anxiety, and that
 > biographies indicate that he was a typical high-reactive baby. “That line ‘I
 > will show you fear in a handful of dust’ — he couldn’t have written that
-> without feeling the tension and dysphoria he did,” Kagan said." ( **from**
+> without feeling the tension and dysphoria he did,” Kagan said." (**from**
 > [Understanding the Anxious
 > Mind](<http://www.nytimes.com/2009/10/04/magazine/04anxiety-t.html?em=&pagewanted=all>))
 

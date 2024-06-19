@@ -8,8 +8,6 @@ tags:
 
 **Link: [Should he have signed the letter?](None):** ""
 
-
-
 Ok this is a bit irreverent.
 
 There's been a spat relating to the note that Barack Obama wrote and left in

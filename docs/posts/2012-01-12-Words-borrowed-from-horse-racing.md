@@ -10,8 +10,6 @@ tags:
 
 **Link: [Words borrowed from horse racing](None):** ""
 
-
-
 I just finished reading the book
 [Seabiscuit](<http://www.amazon.com/Seabiscuit-American-Legend-Laura-
 Hillenbrand/dp/0449005615>). I previously had no interest (and no respect) for

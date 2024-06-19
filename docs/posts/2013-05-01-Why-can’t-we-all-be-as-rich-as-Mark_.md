@@ -12,8 +12,6 @@ tags:
 
 **Link: [Why can’t we all be as rich as Mark?](None):** ""
 
-
-
 [In Venture Capital Deals, Not Every Founder Will Be a Zuckerberg -
 NYTimes.com](<http://dealbook.nytimes.com/2013/04/30/in-venture-capital-deals-
 not-every-founder-will-be-a-zuckerberg/?ref=technology>):

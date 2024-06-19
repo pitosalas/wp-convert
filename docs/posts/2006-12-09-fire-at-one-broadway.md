@@ -6,9 +6,7 @@ date: 2006-12-09
 
 **Link: [fire at one broadway](None):** ""
 
-
->
-> My buddies at [wis.dm](<http://wis.dm>) had a real scare  
+My buddies at [wis.dm](<http://wis.dm>) had a real scare  
 >  today as our offices and the rest of the building was evacuated in a big  
 >  rush due to a terrible and terrifying explosion in the  
 >  basement. I was in California at the time and got word of this when  

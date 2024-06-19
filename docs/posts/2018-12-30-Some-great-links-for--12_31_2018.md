@@ -6,8 +6,6 @@ date: 2018-12-30
 
 **Link: [Some great links for  12/31/2018](None):** ""
 
-
-
   * [learn PID without a PhD!](<https://www.diigo.com/item/pdf/7lk/d24fdf37>)
 
 I’ve read so many PID tutorials. One more w t hurt. Until I have a deep

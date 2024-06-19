@@ -10,14 +10,9 @@ tags:
 
 **Link: [GPS Free car tracking](None):** ""
 
-
-
 Very clever!
 
-[An Automated GPS-Free Location System For Cars | IdeaFeed | Big
-Think](<http://bigthink.com/ideafeed/an-automated-gps-free-location-system-
-for-cars?utm_source=Daily+Ideafeed+Newsletter&utm_campaign=d7380e98dd-
-Daily_Ideafeed_July_11_2013&utm_medium=email&utm_term=0_625217e121-d7380e98dd-38648045>):
+[An Automated GPS-Free Location System For Cars | IdeaFeed | Big Think](<http://bigthink.com/ideafeed/an-automated-gps-free-location-system-for-cars?utm_source=Daily+Ideafeed+Newsletter&utm_campaign=d7380e98dd-Daily_Ideafeed_July_11_2013&utm_medium=email&utm_term=0_625217e121-d7380e98dd-38648045>):
 
 > It works through the use of two simple cameras, which collect video data
 > that is then compared to an OpenStreetMap area map. Through a process of

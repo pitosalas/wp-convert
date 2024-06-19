@@ -6,8 +6,6 @@ date: 2008-10-21
 
 **Link: [Good judgement?](None):** ""
 
-
-
 This has been picked up all over the place, so you might have already seen it.
 I thought it was good. There are many sections that are quotable, I pick just
 one. You should just read the whole thing, as I said, [picked

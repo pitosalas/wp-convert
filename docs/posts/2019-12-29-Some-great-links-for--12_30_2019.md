@@ -6,8 +6,6 @@ date: 2019-12-29
 
 **Link: [Some great links for  12/30/2019](None):** ""
 
-
-
   * [Altair: Declarative Visualization in Python](<https://altair-viz.github.io/index.html>)
 
 Amazing pretty visualizations in Python based on vega-lite platform

@@ -6,8 +6,6 @@ date: 2014-07-26
 
 **Link: [Worth Reading: Where Restaurant Reservations Come From](None):** ""
 
-
-
 ![](https://i0.wp.com/salas.com/wp-
 content/uploads/2014/07/e9a79-1406377587840.jpg?w=584&ssl=1)
 

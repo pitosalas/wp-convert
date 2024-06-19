@@ -9,8 +9,6 @@ tags:
 
 **Link: [GitHub – public-api-lists/public-api-lists: A collective list of free APIs for use in software and web development 🚀](None):** ""
 
-
-
 [ GitHub - public-api-lists/public-api-lists: A collective list of free APIs
 for use in software and web development 🚀](<https://github.com/public-api-
 lists/public-api-lists>)

@@ -6,8 +6,6 @@ date: 2007-12-06
 
 **Link: [Once more, why dos’t thou blog?](None):** ""
 
-
-
 [Recently there was a comment to one of my post asking the perennial
 question](</2007/11/26/the-f-word/#comments>) that non-bloggers ask of
 bloggers, (and bloggers ask of themselve all the time too 🙂

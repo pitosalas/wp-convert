@@ -6,8 +6,6 @@ date: 2020-01-19
 
 **Link: [Some great links for  01/20/2020](None):** ""
 
-
-
   * [My Favorite Macbook Tools](<https://switowski.com/blog/favorite-mac-tools>)
 
 These lists come and go all the time. I learned a couple of new ones so chance

@@ -6,8 +6,6 @@ date: 2008-02-09
 
 **Link: [About Yahoo / Microsoft and an easier way to get $2B in revenue annually](None):** ""
 
-
-
 You can read all about the potential acquisition of Yahoo by Microsoft, here
 for example, where Marc Andreessen writes:
 
@@ -24,7 +22,7 @@ agree with this conclusion:
 > [snip…]
 >
 > Or, reduced to a phrase: _the best way to get bought is to not be for sale._
-> " ( **from** [Silicon Valley after a Microsoft/Yahoo
+> " (**from** [Silicon Valley after a Microsoft/Yahoo
 > merger](<http://blog.pmarca.com/2008/02/silicon-valley.html>))
 
 _Good stuff_ , especially that last conclusion.

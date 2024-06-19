@@ -9,8 +9,6 @@ tags:
 
 **Link: [Warning Facebook users: Socialcam is dangerous](None):** ""
 
-
-
 On Facebook you may see something like "George Harrison is **watching a video
 on Socialcam** " followed by a video.
 

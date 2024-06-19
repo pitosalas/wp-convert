@@ -6,8 +6,6 @@ date: 2007-09-25
 
 **Link: [OpenID not all happyness and light?](None):** ""
 
-
-
 I don't follow the Identify world that closely and like everyone I've now come
 across services who suggest that you log into them with an [[tag]OpenId[/tag]
 account](<http://openid.net/>). So I have one now too. It's free. It's

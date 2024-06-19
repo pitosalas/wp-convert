@@ -6,8 +6,6 @@ date: 2008-04-26
 
 **Link: [Twitter mania continues, unabated, now claiming bodies, Story at 11](None):** ""
 
-
-
 Check this post [Twitter’s Lead Architect Leaves: It’s Not You, It’s
 Me](<http://mashable.com/2008/04/23/twitter-lead-architect-resigns/>) from
 [Mashable!](<http://feeds.feedburner.com/mashable>):

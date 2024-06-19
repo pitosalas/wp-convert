@@ -6,10 +6,7 @@ date: 2006-03-26
 
 **Link: [Open Source: the space between Corporation and Commune?](None):** ""
 
-
->>
-
->> In [The
+In [The
 Economist](<http://www.economist.com/business/displaystory.cfm?story_id=5624944>),
 there's an interesting overview of Open Source, what it is, strengths,
 weaknesses, and what's in store for it. It introduces the catchy metaphor (or
@@ -27,10 +24,7 @@ Economist](<http://www.economist.com/business/displaystory.cfm?story_id=5624944>
 
 >> Read the [whole
 thing](<http://www.economist.com/business/displaystory.cfm?story_id=5624944>),
-it's interesting.
-
->>
-
->> Technorati Tags: [opensource](<http://www.technorati.com/tag/opensource>)
+it's interesting. Technorati Tags:
+[opensource](<http://www.technorati.com/tag/opensource>)
 
 

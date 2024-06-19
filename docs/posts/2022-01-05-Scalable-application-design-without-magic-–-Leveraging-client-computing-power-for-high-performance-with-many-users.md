@@ -9,8 +9,6 @@ tags:
 
 **Link: [Scalable application design without magic – Leveraging client computing power for high performance with many users](None):** ""
 
-
-
 [ Scalable application design without magic - Leveraging client computing
 power for high performance with many
 users](<https://willem.com/blog/2020-05-11_scalable-application-design-

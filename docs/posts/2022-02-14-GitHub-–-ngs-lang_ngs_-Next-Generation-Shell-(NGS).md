@@ -6,8 +6,6 @@ date: 2022-02-14
 
 **Link: [GitHub – ngs-lang/ngs: Next Generation Shell (NGS)](None):** ""
 
-
-
 [ GitHub - ngs-lang/ngs: Next Generation Shell (NGS)](<https://github.com/ngs-
 lang/ngs/>)
 

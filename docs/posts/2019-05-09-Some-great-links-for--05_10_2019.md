@@ -6,8 +6,6 @@ date: 2019-05-09
 
 **Link: [Some great links for  05/10/2019](None):** ""
 
-
-
   * [Podcast: Can Machine Learning Solve the Challenges of Cloud Computing? | Graduate School of Arts and Sciences (GSAS) | Brandeis University](<http://www.brandeis.edu/gsas/news/news-stories/cloud-computing-and-machine-learning.html>)
 
 Good introduction to Cloud Computing and Machine Learning

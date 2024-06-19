@@ -6,8 +6,6 @@ date: 2018-12-25
 
 **Link: [Some great links for  12/26/2018](None):** ""
 
-
-
   * [Everything I've learned in 10 years of Blogging](<https://ferrucc.io/posts/starting-a-blog/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav&mc_cid=7c5ca3f9cd&mc_eid=694db8ca58>)
 
 I don’t do this myself but maybe you will find it useful

@@ -11,8 +11,6 @@ tags:
 
 **Link: [Oh, great, now I have to choose between lowering cholesterol and exercise](None):** ""
 
-
-
 [Can Cholesterol Drugs Undo Exercise Benefits? -
 NYTimes.com](<http://well.blogs.nytimes.com/2013/05/22/can-statins-curb-the-
 benefits-of-exercise/?src=me&ref=general>):

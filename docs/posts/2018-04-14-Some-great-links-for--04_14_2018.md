@@ -6,8 +6,6 @@ date: 2018-04-14
 
 **Link: [Some great links for  04/14/2018](None):** ""
 
-
-
   * [Build a Text Classification Program: An NLP Tutorial](<https://www.toptal.com/machine-learning/nlp-tutorial-text-classification?utm_campaign=Toptal%20Engineering%20Blog&utm_source=hs_email&utm_medium=email&utm_content=62089346&_hsenc=p2ANqtz--gEkRMBaymhGJImEFjbSnMg5bLtVzt7dY99Bg5nRGgXetEr7zb7PICia0ib64PbVSntAX6o9HdLnCUyFZrJdZnI5EZBw&_hsmi=62089346>)
 
 A little difficult but one can follow and try this out.

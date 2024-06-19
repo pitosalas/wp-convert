@@ -6,8 +6,6 @@ date: 2007-12-31
 
 **Link: [Space Shuttle Software: YERO](None):** ""
 
-
-
 Who would think that our advanced space fairing craft have a YERO (Year End
 Rollover) problem?
 

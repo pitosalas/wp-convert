@@ -6,8 +6,6 @@ date: 2022-02-03
 
 **Link: [laser_pipeline/Tutorials/IntroductionToWorkingWithLaserScannerData – ROS Wiki](None):** ""
 
-
-
 [ laser_pipeline/Tutorials/IntroductionToWorkingWithLaserScannerData - ROS
 Wiki](<http://wiki.ros.org/laser_pipeline/Tutorials/IntroductionToWorkingWithLaserScannerData>)
 

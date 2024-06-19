@@ -6,8 +6,6 @@ date: 2020-05-31
 
 **Link: [Some great links for  06/01/2020](None):** ""
 
-
-
   * [GGather](<https://ggather.com>)
 
 Looks like a really good one.

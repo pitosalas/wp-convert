@@ -6,8 +6,6 @@ date: 2008-05-28
 
 **Link: [Big Search, Mechanical Turk and why Amazon is at least as cool as Google](None):** ""
 
-
-
 [Adam Green](<http://darwinianweb.com/archive/2005/1127.html#9:31AM>) points
 to Scoble who re-discover and discover, respectively, Amazon's street by
 street, address by address, photographic coverage of the map of, **what, the
@@ -18,14 +16,14 @@ some nuggets:
 
 > "Will I use it? Hell, yeah, it is damn useful. I can point you to Border
 > Cafe in Harvard Square, which just happens to be one of the best college
-> student dives in the country." ( **from** [Darwinian
+> student dives in the country." (**from** [Darwinian
 > Web](<http://darwinianweb.com/archive/2005/1127.html#9:31AM>), Adam's new
 > blog)
 
 and…
 
 > "But, if you need to know what a store looks like before going there, Amazon
-> is definitely something you should check out." ( **from**
+> is definitely something you should check out." (**from**
 > [Scobelizer](<http://scobleizer.wordpress.com/2005/11/26/amazon-maps-have-
 > block-by-block-views/>))
 
@@ -33,7 +31,7 @@ and…
 
 > "Is your house on their map? It’s pretty creepy to have pictures of your
 > neighborhood on line. Intellectually, it makes perfect sense, but it still
-> creeps me out." ( **from a comment** to [Scoble's
+> creeps me out." (**from a comment** to [Scoble's
 > post](<http://scobleizer.wordpress.com/2005/11/26/amazon-maps-have-block-by-
 > block-views/>))
 

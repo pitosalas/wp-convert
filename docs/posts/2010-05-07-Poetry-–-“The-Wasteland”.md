@@ -10,8 +10,6 @@ tags:
 
 **Link: [Poetry – “The Wasteland”](None):** ""
 
-
-
 I'm ok with poetry - like it from time to time, but certainly not one of my
 main interests. Who knew that [an hour lecture about a single poem, "The
 Wasteland" by T.S.

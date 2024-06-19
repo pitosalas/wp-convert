@@ -10,8 +10,6 @@ tags:
 
 **Link: [What happened to Americans Elect?](None):** ""
 
-
-
 Over the last year I mentioned "Americans Elect" several times: [Americans
 Elect: Another
 Opinion](<http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0CCoQFjAB&url=http%3A%2F%2Fwww.salas.com%2Fimported-20111103233638%2F2012%2F4%2F6%2Famericans-

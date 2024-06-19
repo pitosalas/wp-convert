@@ -6,14 +6,11 @@ date: 2004-04-06
 
 **Link: [Virtual People? (WTF Series, 2)](None):** ""
 
-
->>
-
->> One of the reason that society needs people to transact with each other
-using real identities, maybe, is that in the end, virtual digital persona
-can’t own and transfer ownership. I can’t buy or sell or trade with a virtual
-digital persona. Corporations in fact are virtual people in some sense, and
-indeed they are legally regulated much like people are.  
+One of the reason that society needs people to transact with each other using
+real identities, maybe, is that in the end, virtual digital persona can’t own
+and transfer ownership. I can’t buy or sell or trade with a virtual digital
+persona. Corporations in fact are virtual people in some sense, and indeed
+they are legally regulated much like people are.  
 >
 >>
 

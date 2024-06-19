@@ -6,8 +6,6 @@ date: 2020-05-27
 
 **Link: [Some great links for  05/28/2020](None):** ""
 
-
-
   * [Very impressive data transformation tool](<https://www.visidata.org/install/>)
 
 It claims to be able to convert, transform and massage data in css, json and

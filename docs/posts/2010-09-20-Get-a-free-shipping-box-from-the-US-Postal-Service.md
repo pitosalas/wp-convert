@@ -6,8 +6,6 @@ date: 2010-09-20
 
 **Link: [Get a free shipping box from the US Postal Service](None):** ""
 
-
-
 Just go to this link.
 
 [United States Postal Service: Free Shipping

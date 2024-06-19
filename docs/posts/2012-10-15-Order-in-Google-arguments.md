@@ -10,8 +10,6 @@ tags:
 
 **Link: [Order in Google arguments](None):** ""
 
-
-
 Does Google give a different answer if you reorder the words in the search?
 What? A trivial question? Have you ever tried to refine a search by reordering
 the words? Wouldn't it be useful if you knew for sure that it would or would

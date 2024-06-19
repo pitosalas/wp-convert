@@ -7,9 +7,6 @@ date: 2006-07-07
 **Link: [Soccer Fever!](None):** ""
 
 [youtube http://www.youtube.com/watch?v=xrShK-NVMIU]  
->
->>
-
->> Technorati Tags: [funny](<http://www.technorati.com/tag/funny>)
+>  Technorati Tags: [funny](<http://www.technorati.com/tag/funny>)
 
 

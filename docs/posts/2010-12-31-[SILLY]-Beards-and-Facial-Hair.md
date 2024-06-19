@@ -10,8 +10,6 @@ tags:
 
 **Link: [[SILLY] Beards and Facial Hair](None):** ""
 
-
-
 ![beard20084.jpg](https://i0.wp.com/www.dyers.org/images/beard2008/beard20084.jpg?w=584)
 
 I was amused by these two, maybe because I myself am unable to achieve any of

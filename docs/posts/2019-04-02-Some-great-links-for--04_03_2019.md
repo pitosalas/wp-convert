@@ -6,8 +6,6 @@ date: 2019-04-02
 
 **Link: [Some great links for  04/03/2019](None):** ""
 
-
-
   * [Architecting Ruby on Rails Apps as Microservices | Codeship | via @codeship](<http://blog.codeship.com/architecting-rails-apps-as-microservices/?utm_source=rubyweekly&utm_medium=email>)
 
 Great article about Service Oriented Architectures

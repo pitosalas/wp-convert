@@ -6,8 +6,6 @@ date: 2008-11-20
 
 **Link: [Bummer for Whole Foods](None):** ""
 
-
-
 Not than anyone is buying any stocks these days (are you?) but I happened to
 have a very small number of Whole Foods shares, so [this bit of news explains
 why Whole Foods have been

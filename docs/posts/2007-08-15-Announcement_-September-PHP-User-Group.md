@@ -6,8 +6,6 @@ date: 2007-08-15
 
 **Link: [Announcement: September PHP User Group](None):** ""
 
-
-
 On September 11, 2007, the [tag]Boston PHP User Group[/tag] is meeting about
 "Building the PHP-stack for the [tag]enterprise[/tag]":
 

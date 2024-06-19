@@ -6,8 +6,6 @@ date: 2010-07-25
 
 **Link: [Strictly Platonic](None):** ""
 
-
-
 An interesting article in the [New York Times Magazine today about 'Strictly
 Platonic Relationships](<http://www.nytimes.com/2010/07/25/magazine/25FOB-
 Medium-t.html>)', according to Craigs' List denizens:

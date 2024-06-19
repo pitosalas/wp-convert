@@ -6,8 +6,6 @@ date: 2007-06-09
 
 **Link: [Marc Andreesen with a simple lucid explanation…](None):** ""
 
-
-
 This is an explanation (part 1 of 2) of why and who should seek VC for their
 new business. From what I know of the way the world is and works, I generally
 agree with his article. Heres a bit from the [this

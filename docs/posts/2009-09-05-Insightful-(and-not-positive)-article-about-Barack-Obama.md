@@ -6,8 +6,6 @@ date: 2009-09-05
 
 **Link: [Insightful (and not positive) article about Barack Obama](None):** ""
 
-
-
 [Peggy
 Noonan](<http://online.wsj.com/article/SB10001424052970204731804574391153099885242.html>)
 is always a favorite of mine. Here's another good op-ed piece, and this time,
@@ -19,8 +17,8 @@ contains some useful insights 🙂
 > pull off well. The president will be talking, essentially, to three groups:
 > the political elites of both parties and the media, his supporters on the
 > ground, and highly informed citizens who are already either for or against
-> the plan but want to hear, ponder and form an opinion on the speech." (
-> **from** [Peggy
+> the plan but want to hear, ponder and form an opinion on the speech."
+> (**from** [Peggy
 > Noonan](<http://online.wsj.com/article/SB10001424052970204731804574391153099885242.html>))
 
 ![](https://i0.wp.com/img.zemanta.com/pixy.gif?w=584)

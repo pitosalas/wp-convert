@@ -8,8 +8,6 @@ tags:
 
 **Link: [GitHub – mgdm/htmlq: Like jq, but for HTML.](None):** ""
 
-
-
 [ GitHub - mgdm/htmlq: Like jq, but for
 HTML.](<https://github.com/mgdm/htmlq>)
 

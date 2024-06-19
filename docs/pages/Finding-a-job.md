@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2020-01-29
 ---
 
-
->>
-
->> It happens from time to time that someone asks me to help them in their job
+It happens from time to time that someone asks me to help them in their job
 search, or ask me if I know anyone who has openings, or just gives me their
 resume. I tend to give the same advice so I thought I would write it down. As
 usual this is one person's idiosyncratic opinion, not scientifically proven

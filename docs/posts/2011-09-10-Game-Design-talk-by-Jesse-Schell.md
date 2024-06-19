@@ -9,8 +9,6 @@ tags:
 
 **Link: [Game Design talk by Jesse Schell](None):** ""
 
-
-
 If you are interested in Game Design you have probably seen this video… I
 finally watched it and thought it was really worth sharing. I definitely
 recommend it. [Jesse Schell](<http://www.schellgames.com/>) is funny and

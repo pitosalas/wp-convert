@@ -6,8 +6,6 @@ date: 2021-05-25
 
 **Link: [How to build just one package using catkin_make? – ROS Answers: Open Source Q&A Forum](None):** ""
 
-
-
 [ How to build just one package using catkin_make? - ROS Answers: Open Source
 Q&A Forum](<https://answers.ros.org/question/54178/how-to-build-just-one-
 package-using-catkin_make/>)

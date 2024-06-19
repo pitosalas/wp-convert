@@ -13,8 +13,6 @@ tags:
 
 **Link: [The dark side of low prices](None):** ""
 
-
-
 I spent over an frustrating hour on the phone yesterday with Bank Of America
 and Paypal trying to sort out what a charge that was showing up on my credit
 card. All of $4,200.00. So nothing small. It turned out that it was correct,

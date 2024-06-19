@@ -6,8 +6,6 @@ date: 2020-02-25
 
 **Link: [Some great links for  02/26/2020](None):** ""
 
-
-
   * [jq - CLI for JSON files](<https://stedolan.github.io/jq/>)
 
 This is an amazing tool when you need it. Do queries, merges, filters on json

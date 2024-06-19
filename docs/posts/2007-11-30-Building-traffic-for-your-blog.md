@@ -6,8 +6,6 @@ date: 2007-11-30
 
 **Link: [Building traffic for your blog](None):** ""
 
-
-
 If you're a regular reader you know that I've been studying Search Engine
 Optimization. As I've said before, it's one of those topics that sounds like
 all [common sense](</2007/08/01/why-i-now-have-an-email-signature/> "Common

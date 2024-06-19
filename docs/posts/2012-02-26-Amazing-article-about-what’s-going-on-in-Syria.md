@@ -13,8 +13,6 @@ tags:
 
 **Link: [Amazing article about what’s going on in Syria](None):** ""
 
-
-
 ![MarieColvin](https://i0.wp.com/www.havantchildrensuniversity.co.uk/public/images/logos-
 small/sunday-times-logo.gif?w=584)
 

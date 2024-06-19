@@ -6,8 +6,6 @@ date: 2019-08-13
 
 **Link: [Some great links for  08/14/2019](None):** ""
 
-
-
   * [A Complete Guide to the Ruby Programming World - Learn Worthy](<https://learnworthy.net/a-complete-guide-to-the-ruby-programming-world/>)
 
 A nice comprehensive review of the world of the ruby programming language, my

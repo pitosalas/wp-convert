@@ -6,8 +6,6 @@ date: 2009-07-29
 
 **Link: [Let’s give GPSs the EMOTION feature](None):** ""
 
-
-
 Maybe it's because I just arrived from a long drive and stay in New York where
 I was guided by the nose by my TomTom GPS lady.
 

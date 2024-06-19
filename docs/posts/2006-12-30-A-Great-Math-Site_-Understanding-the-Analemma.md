@@ -6,9 +6,7 @@ date: 2006-12-30
 
 **Link: [A Great Math Site: Understanding the Analemma](None):** ""
 
-
->
-> <!-  
+<!-  
 >  body { font-style: normal; font-size: 11pt; line-height: normal; font-
 > family: Lucida Grande; font-weight: normal; font-variant: normal }  
 >  ->

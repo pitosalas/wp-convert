@@ -10,8 +10,6 @@ tags:
 
 **Link: [Pivotal Tracker, watch out for Trajectory](None):** ""
 
-
-
 I've been an avid user and recommender of [Pivotal
 Tracker](<https://www.pivotaltracker.com>), an excellent, simple to use, Scrum
 based project manager. I still love it a lot. ![Screen Shot 2011 07 29 at 4 49

@@ -9,8 +9,6 @@ tags:
 
 **Link: [Plato: “Be Kind, for Everyone You Meet is Fighting a Great Battle.”](None):** ""
 
-
-
 That's a great quote. And no, it's not AT ALL autobiographical. It's just
 something that I've thought about for a long time and I loved seeing the
 nicely put pithy quote. [I googled it and this was the first hit I

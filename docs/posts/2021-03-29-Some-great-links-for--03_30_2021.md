@@ -6,8 +6,6 @@ date: 2021-03-29
 
 **Link: [Some great links for  03/30/2021](None):** ""
 
-
-
   * [15 Incredible Agile Project Management Statistics to Know](<https://blog.capterra.com/agile-project-management-statistics-for-2018/>)
 
 Another article about project management techniques and tools!

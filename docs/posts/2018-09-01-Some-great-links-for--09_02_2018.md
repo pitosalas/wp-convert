@@ -6,8 +6,6 @@ date: 2018-09-01
 
 **Link: [Some great links for  09/02/2018](None):** ""
 
-
-
   * [westonganger (Weston Ganger)](<https://github.com/westonganger>)
 
 A gem containing functionality to represent, import and export spreadsheets

@@ -8,11 +8,8 @@ date: 2005-03-05
 
 Do you know [Dowbrigade?](<http://blogs.law.harvard.edu/dowbrigade/>) An
 almost always interesting blog, intellectually stimulating and thought
-provoking. [Check it out!](<http://blogs.law.harvard.edu/dowbrigade/>)
-
->>
-
->> Wait, read more closely. There's good stuff there:
+provoking. [Check it out!](<http://blogs.law.harvard.edu/dowbrigade/>) Wait,
+read more closely. There's good stuff there:
 
 >>
 

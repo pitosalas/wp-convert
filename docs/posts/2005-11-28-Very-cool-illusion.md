@@ -6,10 +6,7 @@ date: 2005-11-28
 
 **Link: [Very cool illusion](None):** ""
 
-
->>
-
->> [Try this
+[Try this
 out](<http://www.patmedia.net/marklevinson/cool/cool_illusion.html>), it
 really worked for me, and is really strange and wonderful!
 

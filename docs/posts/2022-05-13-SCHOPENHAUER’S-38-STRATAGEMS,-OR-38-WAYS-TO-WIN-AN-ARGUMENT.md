@@ -6,8 +6,6 @@ date: 2022-05-13
 
 **Link: [SCHOPENHAUER’S 38 STRATAGEMS, OR 38 WAYS TO WIN AN ARGUMENT](None):** ""
 
-
-
 [ SCHOPENHAUER'S 38 STRATAGEMS, OR 38 WAYS TO WIN AN
 ARGUMENT](<http://mnei.nl/schopenhauer/38-stratagems.htm>)
 

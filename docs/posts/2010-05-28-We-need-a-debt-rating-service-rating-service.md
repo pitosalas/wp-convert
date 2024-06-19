@@ -6,8 +6,6 @@ date: 2010-05-28
 
 **Link: [We need a debt rating service rating service](None):** ""
 
-
-
 Very meta. Who rates the rating services?
 
 I saw this in the [Wall Street Journal, an article today called Stocks Wind
@@ -18,8 +16,8 @@ May:](<http://online.wsj.com/article/SB10001424052748704596504575272002400905196
 > lowered its rating on Spain's debt to AA+ from AAA, but said the country's
 > outlook is stable. The downgrade came despite this week's passage of
 > austerity measures by the Spanish government—a move that bulls had hoped
-> would help the country avoid struggles similar to those of Greece." (
-> **from** [The Wall Street
+> would help the country avoid struggles similar to those of Greece."
+> (**from** [The Wall Street
 > Journal](<http://online.wsj.com/article/SB10001424052748704596504575272002400905196.html?mod=WSJ_hpp_MIDDLETopStories>))
 
 And I thought, who is this [Fitch Ratings

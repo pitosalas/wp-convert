@@ -9,8 +9,6 @@ tags:
 
 **Link: [Find A Good Movie To Watch](None):** ""
 
-
-
 [ Find A Good Movie To Watch](< https://agoodmovietowatch.com/all/>) –A
 different movie recommender, which seems to help me find movies I like which I
 never heard of.

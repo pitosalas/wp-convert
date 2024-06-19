@@ -6,8 +6,6 @@ date: 2008-10-25
 
 **Link: [Field notes from a Nature Conservancy meeting](None):** ""
 
-
-
 Check out this post [Field notes from a Nature Conservancy
 meeting](<http://www.realclimate.org/index.php/archives/2008/10/field-notes-
 from-a-nature-conservancy-meeting/>):
@@ -27,7 +25,7 @@ from-a-nature-conservancy-meeting/>):
 > projections, as best they can. But they have also decided that the risks of
 > climate change to the world's ecosystems are too large to simply adapt to:
 > hence their interest in helping to push governments to enact policies that
-> will help mitigate it." ( **from:** from
+> will help mitigate it." (**from:** from
 > [RealClimate)](<http://www.realclimate.org/index.php/feed/>)
 
 > The Nature Conservency is a great organization. This article gives a lot of

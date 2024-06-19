@@ -10,8 +10,6 @@ tags:
 
 **Link: [Space Geeks: Fantastic slow motion video of Shuttle Launch](None):** ""
 
-
-
 I've always been a major space travel fan and geek. This video linked from
 Engadget incredibly had me glued to my seat for almost 40 minutes. Some
 fantastic super slow motion footage of the launch.

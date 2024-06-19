@@ -6,10 +6,7 @@ date: 2004-09-26
 
 **Link: [BlogBridge Usability Victims](None):** ""
 
-
->>
-
->> We are **looking for a few people** who would be willing to give verbal
+We are **looking for a few people** who would be willing to give verbal
 feedback on BlogBridge usability. I think it would take at most 1/2 hour of
 your time, and you'd have a chance to have a very direct impact on the
 direction of the product. Please call Pito or email me at pitoatblogbridge.com

@@ -7,11 +7,8 @@ date: 2005-03-21
 **Link: [Blogging and journalism … again?](None):** ""
 
 If you are a blog aficionado then you've followed this debate, ad _something_.
-
->>
-
->> I don't have any pearls of wisdom to add, but did [come across this quite
-good article](<http://sfgate.com/cgi-
+I don't have any pearls of wisdom to add, but did [come across this quite good
+article](<http://sfgate.com/cgi-
 bin/article.cgi?file=/c/a/2005/03/08/BLOGGERS.TMP>) discussing the issues (via
 [MacNetJournal](<http://www.whiterabbits.com/MacNetJournal/March2005.html#note_3088>))
 

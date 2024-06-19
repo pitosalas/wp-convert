@@ -6,8 +6,6 @@ date: 2018-10-05
 
 **Link: [Some great links for  10/06/2018](None):** ""
 
-
-
   * [ngrok - secure introspectable tunnels to localhost](<https://ngrok.com/pricing>)
 
 This looks like an amazing tool to surface a local server on the open web. I

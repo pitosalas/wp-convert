@@ -6,8 +6,6 @@ date: 2018-12-11
 
 **Link: [Some great links for  12/12/2018](None):** ""
 
-
-
   * [Teaching Robotics With ROS | The Construct](<http://www.theconstructsim.com/teaching-robotics-ros/>)
 
 Really good article about a way to teach robotics and pros

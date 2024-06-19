@@ -6,8 +6,6 @@ date: 2009-08-17
 
 **Link: [Insightful tying together of the Health Care “debate”, Woodstock, Kennedy and Mad Men](None):** ""
 
-
-
 Check out this [insightful editorial in Sunday's New York by Frank
 Rich](<http://www.nytimes.com/2009/08/16/opinion/16rich.html?pagewanted=2&_r=1>).
 I thought it was really good. Here's an excerpt:
@@ -23,7 +21,7 @@ I thought it was really good. Here's an excerpt:
 > fear of Barack Obama, whose political ascension dramatizes the coming
 > demographic order that will relegate whites to the American minority. In our
 > uncharted new frontier, even the most reliable fixture for a half-century of
-> American public life, the Kennedy family, is crumbling." ( **from** [Mad Men
+> American public life, the Kennedy family, is crumbling." (**from** [Mad Men
 > Crashes Woodstock's
 > Birthday](<http://www.nytimes.com/2009/08/16/opinion/16rich.html?pagewanted=2&_r=1>))
 

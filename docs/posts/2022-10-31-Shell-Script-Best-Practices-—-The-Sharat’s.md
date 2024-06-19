@@ -11,8 +11,6 @@ tags:
 
 **Link: [Shell Script Best Practices — The Sharat’s](None):** ""
 
-
-
 [ Shell Script Best Practices — The Sharat's](<
 https://sharats.me/posts/shell-script-best-practices/>) –This article is about
 a few quick thumb rules I use when writing shell scripts that I’ve come to

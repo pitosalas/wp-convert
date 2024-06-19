@@ -6,8 +6,6 @@ date: 2019-05-16
 
 **Link: [Some great links for  05/17/2019](None):** ""
 
-
-
   * [We Can Do Better Than SQL](<https://edgedb.com/blog/we-can-do-better-than-sql/>)
 
 Interesting account of all the ways that SQL sucks and of course a proposed

@@ -11,8 +11,6 @@ tags:
 
 **Link: [Bluetooth Powered Speakers](None):** ""
 
-
-
 I am considering these Bluetooth Wireless Powered Speakers… which should I
 get?
 

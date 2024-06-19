@@ -6,8 +6,6 @@ date: 2018-10-24
 
 **Link: [Some great links for  10/25/2018](None):** ""
 
-
-
   * <https://link.medium.com/0oNpyGJ4gR>
 
 Excellent detailed article about benchmarking a rails app and then introducing

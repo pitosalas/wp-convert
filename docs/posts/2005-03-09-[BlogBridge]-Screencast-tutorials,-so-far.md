@@ -21,9 +21,7 @@ highlight words and phrases in green (link to a feed I am already following),
 red (link to a feed that is new to me) or blue (specific words or phrases
 which are interesting to me.)
 
->>
-
->> Let me know what you think. Useful? Does it work with your browser on your
+Let me know what you think. Useful? Does it work with your browser on your
 platform?
 
 

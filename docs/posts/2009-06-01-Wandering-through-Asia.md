@@ -6,8 +6,6 @@ date: 2009-06-01
 
 **Link: [Wandering through Asia](None):** ""
 
-
-
 My friend Amy just recently arrived from an incredible trip through Asia. If
 you are curious, check out [Amy's
 blog](<http://asquires.blogspot.com/2009_01_01_archive.html>):
@@ -20,7 +18,7 @@ blog](<http://asquires.blogspot.com/2009_01_01_archive.html>):
 > asked to be put together but there were no changes allowed so we spent the
 > evening sleeping with strangers. This is not a recommended bus experience
 > but we arrived in one piece at our destination and I suppose that's all you
-> need." ( **from** one of many 'interesting' posts in
+> need." (**from** one of many 'interesting' posts in
 > [Wanderlust](<http://asquires.blogspot.com/2009_01_01_archive.html>))
 
 I am reminded of this by [Nicholas Kristof's column from today's New York
@@ -32,7 +30,7 @@ if it had come out 5 months ago:
 > guns, you have something to hand over. I keep $40 in my decoy wallet, along
 > with an old library card and frequent-flier card. (But don’t begrudge the
 > wallet: when my travel buddy was pickpocketed in Peru, we tried to jump the
-> pickpocket, who turned out to be backed by an entire gang … )" ( **from**
+> pickpocket, who turned out to be backed by an entire gang … )" (**from**
 > [Cum Laude in Evading
 > Bandits](<http://www.nytimes.com/2009/05/31/opinion/31kristof.html?_r=1&ref=opinion>))
 

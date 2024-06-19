@@ -6,8 +6,6 @@ date: 2007-08-14
 
 **Link: [“The Most Expensive Bidder”](None):** ""
 
-
-
 [tag]Funny[/tag]!
 
 I saw this in Dilbert this weekend.

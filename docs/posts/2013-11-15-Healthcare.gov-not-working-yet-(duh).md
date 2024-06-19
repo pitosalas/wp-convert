@@ -10,8 +10,6 @@ tags:
 
 **Link: [Healthcare.gov not working yet (duh)](None):** ""
 
-
-
 I feel really bad for President Obama and I am still a big fan. But. As we all
 know now, this is a total disaster, on a lot of levels. For first hand
 experience, I tried to create an account on Healthcare.gov about the middle of

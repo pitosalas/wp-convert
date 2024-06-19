@@ -6,8 +6,6 @@ date: 2010-12-14
 
 **Link: [Wikileaks, continued](None):** ""
 
-
-
 I continue to be fascinated by this. Is WikiLeaks a good guy or a bad guy? I
 don't know how I feel yet, so I continue to read. Here are more articles that
 have impressed me:

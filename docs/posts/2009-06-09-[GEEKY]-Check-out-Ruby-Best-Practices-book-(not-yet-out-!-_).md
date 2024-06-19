@@ -6,8 +6,6 @@ date: 2009-06-09
 
 **Link: [[GEEKY] Check out Ruby Best Practices book (not yet out ! :)](None):** ""
 
-
-
 As you know from a previous post, I've been working on a "domain specific
 language" for election ballot processing. In my search for information I got a
 pointer to a book called: [Ruby Best

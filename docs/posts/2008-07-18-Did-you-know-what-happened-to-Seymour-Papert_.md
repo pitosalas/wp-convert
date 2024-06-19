@@ -6,8 +6,6 @@ date: 2008-07-18
 
 **Link: [Did you know what happened to Seymour Papert?](None):** ""
 
-
-
 ![](https://i0.wp.com/farm1.static.flickr.com/95/209335822_ff4026fe2e.jpg?w=584)The
 other day I came across this article in the Boston Globe about one of the
 greats of Computer Science, Seymour Papert, inventor of the seminal Logo

@@ -6,8 +6,6 @@ date: 2022-01-03
 
 **Link: [STICKY: Is your Pi not booting? (The Boot Problems Sticky) – Raspberry Pi Forums](None):** ""
 
-
-
 [ STICKY: Is your Pi not booting? (The Boot Problems Sticky) - Raspberry Pi
 Forums](<https://forums.raspberrypi.com/viewtopic.php?f=28&t=58151>)
 

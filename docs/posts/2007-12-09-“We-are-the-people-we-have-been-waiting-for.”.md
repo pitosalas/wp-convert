@@ -6,8 +6,6 @@ date: 2007-12-09
 
 **Link: [“We are the people we have been waiting for.”](None):** ""
 
-
-
 Tom Friedman recently had a good column about global warming ("global climate
 change") and what is, or should be being done about it, where he quotes the
 Onion:

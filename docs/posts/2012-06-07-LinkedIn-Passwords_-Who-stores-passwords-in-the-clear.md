@@ -10,8 +10,6 @@ tags:
 
 **Link: [LinkedIn Passwords: Who stores passwords in the clear](None):** ""
 
-
-
 I am a pretty regular LinkedIn user, so the [news that some unspecified number
 of LinkedIn users had their passwords
 compromised](<http://blog.linkedin.com/2012/06/06/linkedin-member-passwords-
@@ -23,7 +21,7 @@ Here's what a recent post on their blog says:
 > passwords. We can confirm that some of the passwords that were compromised
 > correspond to LinkedIn accounts. We are continuing to investigate this
 > situation and here is what we are pursuing as far as next steps for the
-> compromised accounts…." ( **from** [LinkedIn
+> compromised accounts…." (**from** [LinkedIn
 > Blog)](<http://blog.linkedin.com/2012/06/06/linkedin-member-passwords-
 > compromised/>)
 

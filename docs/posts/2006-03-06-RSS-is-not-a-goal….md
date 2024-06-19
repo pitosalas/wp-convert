@@ -6,19 +6,12 @@ date: 2006-03-06
 
 **Link: [RSS is not a goal…](None):** ""
 
-
->>
-
->> [glenn](<http://www.furia.com/page.cgi?type=log>) has been busy today. A
+[glenn](<http://www.furia.com/page.cgi?type=log>) has been busy today. A
 series of very intriguing posts, all made today, a Sunday no less. I can
 remember when glenn insisted on keeping his Sunday's clear of anything non-
 recreational. You should check out his
 [blog](<http://www.furia.com/page.cgi?type=log>), there's lots of good stuff
-there.
-
->>
-
->> This one caught my eye - "[RSS is not a
+there. This one caught my eye - "[RSS is not a
 goal](<http://www.furia.com/page.cgi?type=log&id=205>)" wherein I encountered
 this especially meaningful (to me) paragraph:
 
@@ -33,7 +26,7 @@ of people using the imperfect tools it has to work with right now, but would
 improve the lives of people even more efficiently if the world in which it
 operates were itself improved. Sometimes a broken window demands plywood, but
 as a tool-maker I dream of making something you won't just throw away after
-this crisis passes." ( **from** "RSS is not a goal")
+this crisis passes." (**from** "RSS is not a goal")
 
 >>
 
@@ -42,15 +35,9 @@ this crisis passes." ( **from** "RSS is not a goal")
 compelling, at the same time I **agree** that RSS, aggregators, Feeds, Blogs,
 OPML, and all dat stuf are transitionary. They are definitely doing something
 that humans find very useful, but the whole thing is too much of a
-**hairball**.
-
->>
-
->> **There still is work to be done**. Lots of it. glenn, want to help?
-
->>
-
->> Technorati Tags: [blogbridge](<http://www.technorati.com/tag/blogbridge>),
+**hairball**. **There still is work to be done**. Lots of it. glenn, want to
+help? Technorati Tags:
+[blogbridge](<http://www.technorati.com/tag/blogbridge>),
 [RSS](<http://www.technorati.com/tag/RSS>)
 
 

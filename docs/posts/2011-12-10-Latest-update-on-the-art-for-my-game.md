@@ -11,8 +11,6 @@ tags:
 
 **Link: [Latest update on the art for my game](None):** ""
 
-
-
 I continue to spend spare time on developing my Android tablet game. As you
 may remember from my last post, it involves a top view of a city. I've taken
 the time to learn a lot of Adobe Illustrator so I am used slightly more

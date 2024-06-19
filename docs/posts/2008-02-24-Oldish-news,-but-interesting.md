@@ -6,8 +6,6 @@ date: 2008-02-24
 
 **Link: [Oldish news, but interesting](None):** ""
 
-
-
 I came across this note that the fairly famous spat between Apple Gossip site
 Think Secret and Apple Inc. has been settled:
 

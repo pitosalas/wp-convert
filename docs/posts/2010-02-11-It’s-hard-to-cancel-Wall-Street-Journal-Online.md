@@ -10,8 +10,6 @@ tags:
 
 **Link: [It’s hard to cancel Wall Street Journal Online](None):** ""
 
-
-
 Who would think that an august publication like the [Wall Street
 Journal](<http://www.wsj.com>) would pull something like this: I was paying
 for access to their online edition. I decided to cancel it. Their very rich

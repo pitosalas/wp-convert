@@ -6,10 +6,7 @@ date: 2005-09-13
 
 **Link: [Funny: Banana Problem](None):** ""
 
-
->>
-
->> This is from a dictionary:
+This is from a dictionary:
 
 >>
 

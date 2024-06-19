@@ -6,8 +6,6 @@ date: 2009-11-12
 
 **Link: [News about BlogBridge for iPhone](None):** ""
 
-
-
 I just [posted an update on our work on BlogBridge for the
 iPhone](<http://www.blogbridge.com/2009/11/12/blogbridge-for-iphone/>). In
 summary, we got many many responses to our survey and the prevailing feedback

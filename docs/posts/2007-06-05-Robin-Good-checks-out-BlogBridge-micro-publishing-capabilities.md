@@ -6,8 +6,6 @@ date: 2007-06-05
 
 **Link: [Robin Good checks out BlogBridge micro publishing capabilities](None):** ""
 
-
-
 Today a major review came out in [Robin Good's influential Master New Media
 blog](<http://www.masternewmedia.org/>). It's great to see this kind of
 detailed information about the work we are doing over at

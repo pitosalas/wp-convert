@@ -11,8 +11,6 @@ tags:
 
 **Link: [Teaching at Olin College next year](None):** ""
 
-
-
 ![College photo 10842 130x0](https://i0.wp.com/salas.com/wp-
 content/uploads/2012/11/83b41-college-
 photo_10842-_130x0.jpg?resize=130%2C94&ssl=1)I'm excited to tell you that I
@@ -29,7 +27,7 @@ college:](<http://www.wickedlocal.com/needham/news/x1831588790/A-gamble-in-
 higher-ed-Olin-College-celebrates-10-years?zc_p=0#axzz2DCB97NPR>) it just
 celebrated its 10th year!
 
-I'll be teaching Entrepreneurship in a course called " **The Tech Startup** "
+I'll be teaching Entrepreneurship in a course called "**The Tech Startup** "
 (at least I think that will be the name of the course.)
 
 As you might know, I was teaching at[ Brandeis

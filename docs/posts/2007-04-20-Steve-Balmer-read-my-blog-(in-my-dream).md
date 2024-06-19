@@ -6,8 +6,6 @@ date: 2007-04-20
 
 **Link: [Steve Balmer read my blog (in my dream)](None):** ""
 
-
-
 I've been setting up a new Windows Vista notebook over the last few days for
 use by a non technical user. What a **basket case**. What a disaster. And I am
 referring to Vista not the user 🙂

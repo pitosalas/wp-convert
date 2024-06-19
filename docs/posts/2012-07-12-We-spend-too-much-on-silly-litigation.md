@@ -10,8 +10,6 @@ tags:
 
 **Link: [We spend too much on silly litigation](None):** ""
 
-
-
 Lucky Me! After **tortured litigation** and lots of legal fees (not mine, of
 course), I am receiving a check for $0.47 as my **payout** for the litigation
 between Hanson and Google.

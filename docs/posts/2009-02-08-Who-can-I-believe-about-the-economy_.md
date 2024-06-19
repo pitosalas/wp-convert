@@ -6,8 +6,6 @@ date: 2009-02-08
 
 **Link: [Who can I believe about the economy?](None):** ""
 
-
-
 The problems in our economy right now are real, I believe. Tons of people have
 lost jobs, and my investment accounts also prove it. I guess there's no debate
 about that. But the question is, what to do about it.
@@ -40,7 +38,7 @@ prescriptions:
 > last two weeks, what should have been a deadly serious debate about how to
 > save an economy in desperate straits turned, instead, into hackneyed
 > political theater, with Republicans spouting all the old clichés about
-> wasteful government spending and the wonders of tax cuts." ( **from** "[On
+> wasteful government spending and the wonders of tax cuts." (**from** "[On
 > the Edge](<http://>)")
 
 and
@@ -51,7 +49,7 @@ and
 > the Obama plan would certainly improve our odds. And that’s why the efforts
 > of Republicans to make the plan smaller and less effective — to turn it into
 > little more than another round of Bush-style tax cuts — are so destructive.
-> " ( **from** "[On the Edge](<http://>)")
+> " (**from** "[On the Edge](<http://>)")
 
 And then in the end I also fall back on the common sense approach: "If you
 find that you've dug yourself into a big hole, the first thing to do is **STOP

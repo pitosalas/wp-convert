@@ -6,8 +6,6 @@ date: 2019-09-15
 
 **Link: [Some great links for  09/16/2019](None):** ""
 
-
-
   * [Ganbreeder](<http://www.artbreeder.com/models>)
 
 Pretty interesting example of generative art and AI deepfakes related

@@ -6,8 +6,6 @@ date: 2014-08-28
 
 **Link: [On Being a Female in Venture Capital](None):** ""
 
-
-
 Interesting story…
 
 > "My summer internship was full of many positive experiences. I won’t forget,

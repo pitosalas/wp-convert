@@ -6,8 +6,6 @@ date: 2008-02-19
 
 **Link: [5 things to keep in mind when relying on S3 and similar SAAS services](None):** ""
 
-
-
 On a project I worked on recently, I asked myself whether I should make one or
 more of Amazon's awesome web services (AWS - Awesome Web Services) a mission
 critical part of the infrastructure of the product. I wrote yesterday about
@@ -26,7 +24,7 @@ me:
 center is fairly well understood, as well as the contingency plans to deal
 with hardware and software failures.
 
-**On the other hand** (using S3, the storage service as an example,) the
+**On the other hand**(using S3, the storage service as an example,) the
 expected reliability is more or less unknown - although preliminary data is
 highly positive - and S3 is the only service of it's kind, so that there is a
 certain unavoidable amount of lock in.

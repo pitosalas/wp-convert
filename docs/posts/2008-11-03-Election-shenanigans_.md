@@ -6,8 +6,6 @@ date: 2008-11-03
 
 **Link: [Election shenanigans?](None):** ""
 
-
-
 I am **not at all sure** what to make of this. But a friend of mine pointed me
 to some of the following postings and reports which are interesting, and if
 true, **highly disturbing**.

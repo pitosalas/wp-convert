@@ -6,8 +6,6 @@ date: 2019-08-15
 
 **Link: [Some great links for  08/16/2019](None):** ""
 
-
-
   * [Advanced multi-db techniques in Rails 6](<https://prathamesh.tech/2019/08/13/rails-6-multi-database-part-two/>)
 
 Great new features in rails 6 — support of multi database models

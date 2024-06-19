@@ -8,15 +8,8 @@ date: 2004-12-25
 
 Yes I have to admit it's something that I too have wondered about, and now,
 there's a study about it. It just struck me as amusing (click on the map to
-enlarge it)
-
->>
-
->> [![](https://i0.wp.com/www.popvssoda.com/countystats/total-
+enlarge it) [![](https://i0.wp.com/www.popvssoda.com/countystats/total-
 county.gif?w=450)](<http://www.popvssoda.com/countystats/total-county.html>)
-
->>
-
->> p.s.: Merry Christmas!
+p.s.: Merry Christmas!
 
 

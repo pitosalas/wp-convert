@@ -8,8 +8,6 @@ tags:
 
 **Link: [navigation/Troubleshooting – ROS Wiki](None):** ""
 
-
-
 [ navigation/Troubleshooting - ROS
 Wiki](<https://wiki.ros.org/navigation/Troubleshooting>)
 

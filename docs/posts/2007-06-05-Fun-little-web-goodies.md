@@ -6,8 +6,6 @@ date: 2007-06-05
 
 **Link: [Fun little web goodies](None):** ""
 
-
-
 Check out "[Forget Photoshop: 15 Online Graphics
 Generators](<http://mashable.com/2007/05/28/generators/>)":
 

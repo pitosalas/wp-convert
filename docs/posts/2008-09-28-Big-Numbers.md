@@ -6,8 +6,6 @@ date: 2008-09-28
 
 **Link: [Big Numbers](None):** ""
 
-
-
 Like everyone else, I've been following the drama on Wall Street, Main Street,
 Washington DC and so on.
 

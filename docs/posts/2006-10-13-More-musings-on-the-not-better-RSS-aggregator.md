@@ -6,13 +6,12 @@ date: 2006-10-13
 
 **Link: [More musings on the not-better-RSS-aggregator](None):** ""
 
+One **correspondent** **asked** : "Isn't this what bb:library is about or
+Technorati Blog Directory or egs. like [Corante Web
+Hub](<http://web.corante.com/>), [Global
+Voices](<http://www.globalvoicesonline.org/>), [World
+Changing](<http://www.worldchanging.com/>)?"
 
->
-> One **correspondent** **asked** : "Isn't this what bb:library is about or
-> Technorati Blog Directory or egs. like [Corante Web
-> Hub](<http://web.corante.com/>), [Global
-> Voices](<http://www.globalvoicesonline.org/>), [World
-> Changing](<http://www.worldchanging.com/>)?"
 >
 > Well, it might be a **reinvention of those wheels**. I don't know yet. I
 > know I am **not interested** in reinventing wheels. But let me play some

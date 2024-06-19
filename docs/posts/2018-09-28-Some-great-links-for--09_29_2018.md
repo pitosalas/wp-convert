@@ -6,8 +6,6 @@ date: 2018-09-28
 
 **Link: [Some great links for  09/29/2018](None):** ""
 
-
-
   * [ebobby/has-many-with-set](<https://github.com/ebobby/has-many-with-set>)
 
 An interesting variation on how to represent a many to many relationship in

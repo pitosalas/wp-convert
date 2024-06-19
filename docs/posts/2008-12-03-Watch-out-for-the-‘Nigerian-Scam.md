@@ -6,8 +6,6 @@ date: 2008-12-03
 
 **Link: [Watch out for the ‘Nigerian Scam](None):** ""
 
-
-
 Yes, some people do fall for it
 
 > "So how did this otherwise lucid, intelligent woman end up sending  

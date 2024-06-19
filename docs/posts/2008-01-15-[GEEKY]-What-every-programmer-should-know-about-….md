@@ -6,8 +6,6 @@ date: 2008-01-15
 
 **Link: [[GEEKY] What every programmer should know about …](None):** ""
 
-
-
 It's just the title of this post that caught my eye: "[What Every Programmer
 Should Know About Memory, Part 1″:](<http://lwn.net/Articles/250967/>)
 

@@ -8,8 +8,6 @@ tags:
 
 **Link: [The Basics of Database Sharding – Brent Ozar Unlimited®](None):** ""
 
-
-
 [ The Basics of Database Sharding - Brent Ozar
 Unlimited®](<https://www.brentozar.com/archive/2013/05/the-basics-of-database-
 sharding/>)

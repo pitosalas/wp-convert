@@ -6,8 +6,6 @@ date: 2019-11-01
 
 **Link: [Some great links for  11/02/2019](None):** ""
 
-
-
   * [PyRobot: An Open Source Robotics Research Platform](<https://github.com/facebookresearch/pyrobot?utm_source=share&utm_medium=ios_app&utm_name=iossmf>)
 
 Very nice python interface to control a robot that hides a lot of the

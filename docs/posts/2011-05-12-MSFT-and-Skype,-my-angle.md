@@ -6,8 +6,6 @@ date: 2011-05-12
 
 **Link: [MSFT and Skype, my angle](None):** ""
 
-
-
 Check this post [Why Microsoft bought
 Skype](<http://www.cringely.com/2011/05/why-microsoft-bought-skype/>) from [I,
 Cringely](<http://www.cringely.com/feed/>):

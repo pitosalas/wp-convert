@@ -6,12 +6,9 @@ date: 2004-07-23
 
 **Link: [Will Wikis Rule the World?](None):** ""
 
-
->>
-
->> I was recently asked by a VC friend of mine what I thought of a certain
-Wiki product. I thought my response to him (with specific product and people
-references removed) might be interesting. He asked me, " _Have you kept track
+I was recently asked by a VC friend of mine what I thought of a certain Wiki
+product. I thought my response to him (with specific product and people
+references removed) might be interesting. He asked me, "_Have you kept track
 of what 's going on in Wiki-land, and what do you think?"_
 
 >>

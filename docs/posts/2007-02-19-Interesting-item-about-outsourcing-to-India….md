@@ -6,8 +6,6 @@ date: 2007-02-19
 
 **Link: [Interesting item about outsourcing to India…](None):** ""
 
-
-
 Check out [this post](<http://feeds.feedburner.com/~r/OmMalik/~3/92632691/>)
 from [GigaOM](<http://gigaom.com>):
 

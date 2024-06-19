@@ -6,11 +6,9 @@ date: 2007-01-06
 
 **Link: [A cautionary utility computing tale – or the dark side of Mashups](None):** ""
 
+Check out [this post](<http://feeds.feedburner.com/~r/zdnet/BTL/~3/71375022/>)
+from [Between the Lines](<http://blogs.zdnet.com/BTL>):
 
->
-> Check out [this
-> post](<http://feeds.feedburner.com/~r/zdnet/BTL/~3/71375022/>) from [Between
-> the Lines](<http://blogs.zdnet.com/BTL>):
 >
 
 >> [snip…] "Yesterday Amazon's S3 service suffered an outage that lasted more

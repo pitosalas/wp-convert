@@ -8,8 +8,6 @@ tags:
 
 **Link: [It’s even worse than you think](None):** ""
 
-
-
 Michael Lewis writes a [great article in Portfolio online about the, let's
 say, inevitability, of what's happened to economy, or wall street, or the
 markets](<http://www.portfolio.com/news-markets/national-

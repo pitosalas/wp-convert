@@ -6,8 +6,6 @@ date: 2020-07-05
 
 **Link: [Some great links for  07/06/2020](None):** ""
 
-
-
   * [Welcome to Streamlit — Streamlit 0.62.1 documentation](<https://docs.streamlit.io/en/stable/>)
 
 Very nice and free visualization tool in python.

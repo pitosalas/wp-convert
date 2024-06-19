@@ -6,8 +6,6 @@ date: 2007-04-11
 
 **Link: [interesting stuff in the paper today](None):** ""
 
-
-
 Here are some random goodies that caught my eye this morning. Don' t count on
 my being your clipping service from now on, -- these just caught my eye 🙂
 

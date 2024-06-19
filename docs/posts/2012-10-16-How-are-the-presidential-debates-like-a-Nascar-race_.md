@@ -12,8 +12,6 @@ tags:
 
 **Link: [How are the presidential debates like a Nascar race?](None):** ""
 
-
-
 I am looking forward to watching the Presidential debates tonight. But for all
 the **wrong** reasons.
 

@@ -6,29 +6,19 @@ date: 2005-03-29
 
 **Link: [Attention.xml](None):** ""
 
-
->>
-
->> [Steve Gilmor muses](<http://blogs.zdnet.com/Gillmor/index.php?p=74>) about
+[Steve Gilmor muses](<http://blogs.zdnet.com/Gillmor/index.php?p=74>) about
 the history of the Attention.xml spec in his
 [blog](<http://blogs.zdnet.com/Gillmor/>). Steve thought up [Atttention.
 xml](<http://developers.technorati.com/wiki/attentionxml>) as way to capture
 what feeds and items people do and don't spend time (their attention) on,
 collecting, aggregating and then mining this information for all kinds of
 purposes. (This is my interpretation, but I think it's pretty accurate.)
-
->>
-
->> [BlogBridge](<http://www.blogbridge.com> "BlogBridge") is a feed reader
-with a **primary goal** to save the reader's time by collecting and using any
+[BlogBridge](<http://www.blogbridge.com> "BlogBridge") is a feed reader with a
+**primary goal** to save the reader's time by collecting and using any
 information possible to help the user focus on what will be useful to them and
 ignoring the rest. So there's an excellent alignment between BlogBridge's
 goals and what Steve is trying to accomplish with Attention.xml. **BlogBridge
-will support attention.xml.**
-
->>
-
->> The section in [Steve's post
+will support attention.xml.** The section in [Steve's post
 ](<http://blogs.zdnet.com/Gillmor/index.php?p=74>)that is particularly
 interesting to me (and to BlogBridge) are his ideas on how to use Attention
 information to triage information being displayed in a feed reader - basically

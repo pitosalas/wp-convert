@@ -6,8 +6,6 @@ date: 2010-07-21
 
 **Link: [[GEEKY] Something wrong with this picture?](None):** ""
 
-
-
 This is from my OSX Activity Monitor.app. See how it shows that one process is
 using 659.9% of the CPU? Well I think I have two cores in this computer, but
 do I have 7??? I don't think so…

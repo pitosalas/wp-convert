@@ -6,10 +6,7 @@ date: 2004-06-28
 
 **Link: [[JAVAONE] What’s going on with Java version numbers?](None):** ""
 
-
->>
-
->> What’s going on with Java version numbers?
+What’s going on with Java version numbers?
 
 >>
 

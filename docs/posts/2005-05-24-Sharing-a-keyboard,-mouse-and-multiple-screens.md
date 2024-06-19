@@ -6,10 +6,7 @@ date: 2005-05-24
 
 **Link: [Sharing a keyboard, mouse and multiple screens](None):** ""
 
-
->>
-
->> Check out [Synergy](<http://synergy2.sourceforge.net/>):
+Check out [Synergy](<http://synergy2.sourceforge.net/>):
 
 >>
 
@@ -20,10 +17,7 @@ computers on their desk since each system uses its own monitor(s)."
 
 >>
 
->> Cool!
-
->>
-
->> Technorati Tags: [interesting](<http://technorati.com/tag/interesting>)
+>> Cool! Technorati Tags:
+[interesting](<http://technorati.com/tag/interesting>)
 
 

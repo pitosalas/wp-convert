@@ -6,15 +6,8 @@ date: 2005-05-03
 
 **Link: [Too much good stuff: makes me feel inadequate :-)](None):** ""
 
-
->>
-
->>
 [![](https://i0.wp.com/online.wsj.com/public/resources/images/Google1_05042805022005145321.jpg?w=584)](<http://www.marumushi.com/apps/newsmap/newsmap.cfm>)
-
->>
-
->> I saw this in the Wall Street Journal:
+I saw this in the Wall Street Journal:
 
 >>
 
@@ -27,11 +20,7 @@ business and entertainment." - Wall Street Journal, subscription needed.
 
 >>
 
->> What a totally cool idea, and beautifully implemented!
-
->>
-
->> Technorati Tags: [cool](<http://technorati.com/tag/cool>),
-[UI](<http://technorati.com/tag/UI>)
+>> What a totally cool idea, and beautifully implemented! Technorati Tags:
+[cool](<http://technorati.com/tag/cool>), [UI](<http://technorati.com/tag/UI>)
 
 

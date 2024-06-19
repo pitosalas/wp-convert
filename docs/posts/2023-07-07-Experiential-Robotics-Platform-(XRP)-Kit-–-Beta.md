@@ -10,8 +10,6 @@ tags:
 
 **Link: [Experiential Robotics Platform (XRP) Kit – Beta](None):** ""
 
-
-
 [ Experiential Robotics Platform (XRP) Kit -
 Beta](<https://www.sparkfun.com/products/22230>) –The XRP Robotics Platform is
 a hands-on, comprehensive robotics platform and includes everything needed to

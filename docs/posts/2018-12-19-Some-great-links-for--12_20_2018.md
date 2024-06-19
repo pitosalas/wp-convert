@@ -6,8 +6,6 @@ date: 2018-12-19
 
 **Link: [Some great links for  12/20/2018](None):** ""
 
-
-
   * [Stop Learning Frameworks – Lifehacks for Developers by Eduards Sizovs](<https://sizovs.net/2018/12/17/stop-learning-frameworks/>)
 
 Without reading this, I know I totally agree!

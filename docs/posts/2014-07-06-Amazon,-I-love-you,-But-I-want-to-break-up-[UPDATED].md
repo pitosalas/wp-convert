@@ -10,8 +10,6 @@ tags:
 
 **Link: [Amazon, I love you, But I want to break up [UPDATED]](None):** ""
 
-
-
 Email I just sent to Amazon.
 
 > Dear Amazon: I can't believe you stoop as low as that and hide the ability

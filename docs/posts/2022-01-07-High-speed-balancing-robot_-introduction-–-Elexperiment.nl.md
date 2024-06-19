@@ -6,8 +6,6 @@ date: 2022-01-07
 
 **Link: [High speed balancing robot: introduction – Elexperiment.nl](None):** ""
 
-
-
 [ High speed balancing robot: introduction -
 Elexperiment.nl](<https://elexperiment.nl/2018/11/high-speed-balancing-robot-
 introduction/>)

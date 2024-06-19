@@ -6,8 +6,6 @@ date: 2020-08-23
 
 **Link: [Some great links for  08/24/2020](None):** ""
 
-
-
   * [Rodauth: A Refreshing Authentication Solution for Ruby | Janko's Blog](<https://janko.io/rodauth-a-refreshing-authentication-solution-for-ruby/>)
 
 Always nice to see alternatives to devise but this is just as complicated. I

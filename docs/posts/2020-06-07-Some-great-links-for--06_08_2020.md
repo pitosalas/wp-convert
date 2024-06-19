@@ -6,8 +6,6 @@ date: 2020-06-07
 
 **Link: [Some great links for  06/08/2020](None):** ""
 
-
-
   * [datas-frame – Modern Pandas (Part 2): Method Chaining](<https://tomaugspurger.github.io/method-chaining.html>)
 
 Ive been trying this style and while it looks cool I am not sure it's more

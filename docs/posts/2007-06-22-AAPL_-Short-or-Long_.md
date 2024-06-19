@@ -6,8 +6,6 @@ date: 2007-06-22
 
 **Link: [AAPL: Short or Long?](None):** ""
 
-
-
 With all the unbelievable hoopla around the imminent release of the iPhone my
 thinking turns to the APPL stock price. Right now the [Apple stock
 price](<http://finance.yahoo.com/q?d=t&s=AAPL>) at an all time high of $123.00

@@ -6,8 +6,6 @@ date: 2007-08-19
 
 **Link: [Would this have saved JFK Jr?](None):** ""
 
-
-
 Check out [this
 post](<http://jamesfallows.theatlantic.com/archives/2007/08/would_this_have_saved_jfk_jr.php>)
 from [James Fallows](<http://jamesfallows.theatlantic.com/>):

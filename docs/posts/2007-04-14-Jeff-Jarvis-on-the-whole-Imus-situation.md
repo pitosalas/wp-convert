@@ -6,8 +6,6 @@ date: 2007-04-14
 
 **Link: [Jeff Jarvis on the whole Imus situation](None):** ""
 
-
-
 Check out [this post](<http://www.buzzmachine.com/2007/04/13/on-imus/>) from
 [BuzzMachine](<http://www.buzzmachine.com>):
 
@@ -22,6 +20,6 @@ Check out [this post](<http://www.buzzmachine.com/2007/04/13/on-imus/>) from
 > politics and the nation by the tyranny of the gotcha moment. I will also
 > warn of the danger of life in the age of offense.[snip…]"
 >
-> ( **from** : [On Imus](<http://www.buzzmachine.com/2007/04/13/on-imus/>))
+> (**from** : [On Imus](<http://www.buzzmachine.com/2007/04/13/on-imus/>))
 
 

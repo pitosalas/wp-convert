@@ -6,8 +6,6 @@ date: 2009-06-10
 
 **Link: [Just when I was thinking about stopping my NetFlix subscription](None):** ""
 
-
-
 [TIVO keeps on getting cooler and
 cooler:](<http://online.wsj.com/article/SB122533284014583011.html?mod=djemTECH>)
 

@@ -6,8 +6,6 @@ date: 2009-11-04
 
 **Link: [Follow-up up Wall Street Journal about Super Freakonomics Dustup](None):** ""
 
-
-
 I [wrote the other day about the 'amusing' dust-up between](</2009/10/30/oh-
 snap-detailed-take-down-of-steve-levitt-of-superfreakonimics/>) the
 [RealClimate blog](<http://www.realclimate.org/index.php/archives/2009/10/an-

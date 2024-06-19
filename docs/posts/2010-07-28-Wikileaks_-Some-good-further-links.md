@@ -6,8 +6,6 @@ date: 2010-07-28
 
 **Link: [Wikileaks: Some good further links](None):** ""
 
-
-
 Continuing the post from the other day about Wikileaks, I found some excellent
 further links that might interest you:
 

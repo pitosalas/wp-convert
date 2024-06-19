@@ -6,8 +6,6 @@ date: 2020-11-11
 
 **Link: [Some great links for  11/12/2020](None):** ""
 
-
-
   * [App Downloads – GeoGebra](<http://Amazing trigonometry visual calculator>)
 
 Ok you don't need this more than once every decade, but if you do need help in

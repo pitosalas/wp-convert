@@ -6,8 +6,6 @@ date: 2011-08-26
 
 **Link: [One More Thing…](None):** ""
 
-
-
 Check this post [One More
 Thing…](<http://feedproxy.google.com/~r/Techcrunch/~3/ag8UJf5_HY4/>) from
 [TechCrunch](<http://feeds.feedburner.com/Techcrunch>):
@@ -17,7 +15,7 @@ Thing…](<http://feedproxy.google.com/~r/Techcrunch/~3/ag8UJf5_HY4/>) from
 > More came today. I kept reading. Slowly, two things struck me. First, I’ve
 > never seen anything quite like the outpouring of emotion that people are
 > showing in response to this news. Second, what we’re witnessing right now is
-> Jobs’ final masterstroke." ( **from:**
+> Jobs’ final masterstroke." (**from:**
 > [TechCrunch)](<http://feeds.feedburner.com/Techcrunch>)
 
 A really good article about the topic that everyone is writing about. There

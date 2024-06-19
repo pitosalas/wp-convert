@@ -10,8 +10,6 @@ tags:
 
 **Link: [It’s probably not cool to say, but I am not sure about “Mayday.Us”](None):** ""
 
-
-
 "We’re kickstarting a Super PAC big enough to make it possible to win a
 Congress committed to fundamental reform by 2016. We set fundraising goals and
 then crowdfund those goals."

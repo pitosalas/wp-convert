@@ -6,8 +6,6 @@ date: 2019-04-01
 
 **Link: [Some great links for  04/02/2019](None):** ""
 
-
-
   * [Untangling Ruby Threads](<https://thoughtbot.com/blog/untangling-ruby-threads>)
 
 Dealing with Ruby Threads is tricky. And add to that understanding the GIL,

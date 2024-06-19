@@ -6,8 +6,6 @@ date: 2007-08-07
 
 **Link: [BlogBridge release 5.10 now with more vitamins](None):** ""
 
-
-
 Over on BlogBridge we just announced that [release 5.10 just came
 out](<http://www.blogbridge.com/2007/08/06/blogbridge-510-announced/>), you
 should [try BlogBridge

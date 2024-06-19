@@ -11,8 +11,6 @@ tags:
 
 **Link: [Yeah, I’m Dutch :)](None):** ""
 
-
-
 [youtube http://www.youtube.com/watch?v=Hjqf5F7PPGw]
 
 

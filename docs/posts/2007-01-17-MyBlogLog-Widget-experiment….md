@@ -6,8 +6,6 @@ date: 2007-01-17
 
 **Link: [MyBlogLog Widget experiment…](None):** ""
 
-
->
-> How do you like this:
+How do you like this:
 
 

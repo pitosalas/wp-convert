@@ -6,8 +6,6 @@ date: 2018-06-24
 
 **Link: [Some great links for  06/24/2018](None):** ""
 
-
-
   * [Active Job Basics — Ruby on Rails Guides](<http://guides.rubyonrails.org/active_job_basics.html>)
 
 tags: [active](<https://www.diigo.com/user/pitosalas/active>)

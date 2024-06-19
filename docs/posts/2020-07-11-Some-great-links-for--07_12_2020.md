@@ -6,8 +6,6 @@ date: 2020-07-11
 
 **Link: [Some great links for  07/12/2020](None):** ""
 
-
-
   * [PEP 622 -- Structural Pattern Matching | Python.org](<https://www.python.org/dev/peps/pep-0622/>)
 
 A pretty nice concept for patterns in python.

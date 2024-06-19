@@ -6,8 +6,6 @@ date: 2009-05-08
 
 **Link: [Manny being Manny](None):** ""
 
-
-
 Check this post [Thank you Jason
 Bay](<http://38pitches.weei.com/sports/boston/baseball/curt-
 schilling/general/thank-you-jason-bay/>) from [38
@@ -29,8 +27,8 @@ Pitches](<http://38pitches.com/feed/>):
 > you, and for that 30 seconds to 5 minutes you have absolutely no thought,
 > care or concern about the product? A step recognized as vital to strength
 > gain, or recovery, a step to setup the acceleration of your recovery or
-> magnification of gains from your hours of work and you just go dumb? (
-> **from:[Thank you Jason
+> magnification of gains from your hours of work and you just go dumb?
+> (**from:[Thank you Jason
 > Bay](<http://38pitches.weei.com/sports/boston/baseball/curt-
 > schilling/general/thank-you-jason-bay/>)**)
 

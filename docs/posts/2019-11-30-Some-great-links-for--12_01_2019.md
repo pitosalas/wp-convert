@@ -6,8 +6,6 @@ date: 2019-11-30
 
 **Link: [Some great links for  12/01/2019](None):** ""
 
-
-
   * [Markov Localization for Mobile Robots in Dynamic Environments](<http://www.cs.cmu.edu/afs/cs/project/jair/pub/volume11/fox99a-html/jair-localize.html>)
 
 A seminal paper on the Markov Localization Algorithm

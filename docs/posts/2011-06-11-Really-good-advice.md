@@ -9,8 +9,6 @@ tags:
 
 **Link: [Really good advice](None):** ""
 
-
-
 [Robert Krulwich gave this graduation
 speech](<http://blogs.discovermagazine.com/notrocketscience/2011/05/12/“there-
 are-some-people-who-don’t-wait-”-robert-krulwich-on-the-future-of-

@@ -6,8 +6,6 @@ date: 2007-03-05
 
 **Link: [Our software sucks](None):** ""
 
-
-
 [Dave
 Winer](<http://stories.scripting.com/2007/03/05/wordpressIsShittySoftware.html>)
 says it well (as usual): "Here's another reason why WordPress is so popular --

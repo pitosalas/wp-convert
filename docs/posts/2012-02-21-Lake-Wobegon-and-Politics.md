@@ -11,8 +11,6 @@ tags:
 
 **Link: [Lake Wobegon and Politics](None):** ""
 
-
-
 Have you ever heard a politician or pundit say, with self-assurance, America
 is a **Right of Center** country. Think [Newt
 Gingrich.](<http://www.newt.org/>)

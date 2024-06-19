@@ -6,8 +6,6 @@ date: 2021-03-02
 
 **Link: [Some great links for  03/03/2021](None):** ""
 
-
-
   * [Standard Deviation is an Inferior Measurement*](<https://link.medium.com/gbpcSJtCieb>)
 
 Interesting bit of statistics esoterica…

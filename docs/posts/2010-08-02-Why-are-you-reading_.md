@@ -8,8 +8,6 @@ tags:
 
 **Link: [Why are you reading?](None):** ""
 
-
-
 If you are a hardcore blog reader like I am, and like [BlogBridge
 fans](<http://www.blogbridge.com> "Best blog reader for financial analysts,
 researchers, investors, fund managers") are, it's worth giving a little

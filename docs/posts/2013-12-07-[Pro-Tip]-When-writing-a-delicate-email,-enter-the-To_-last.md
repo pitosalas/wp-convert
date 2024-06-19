@@ -9,8 +9,6 @@ tags:
 
 **Link: [[Pro-Tip] When writing a delicate email, enter the To: last](None):** ""
 
-
-
 So, if you are writing one of those emails that you have to get right, and you
 plan to check and proof and think about, then don't start by typing the To:.
 As long as you don't type the To: you can't accidentally send it out before

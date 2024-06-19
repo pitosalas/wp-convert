@@ -6,8 +6,6 @@ date: 2018-08-26
 
 **Link: [Some great links for  08/27/2018](None):** ""
 
-
-
   * [How to configure RSpec in Ruby on Rails](<https://blog.eq8.eu/article/junior-developer-set-up-rails-with-rspec-factorybot-database-cleaner.html>)
 
 I’m not personally an rspec fan, but lots of people are

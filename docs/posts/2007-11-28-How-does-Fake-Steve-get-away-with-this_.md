@@ -6,8 +6,6 @@ date: 2007-11-28
 
 **Link: [How does Fake Steve get away with this?](None):** ""
 
-
-
 Everyone by now has heard that the Diary of [Fake Steve Jobs is actually
 written](<http://tech.monstersandcritics.com/news/article_1339469.php>) by
 [Daniel Lyons, a Senior Editor at
@@ -24,7 +22,7 @@ catty:
 > they're really making Negroponte look like a _donkey_ -- and right on Page
 > One of the world's biggest business publication.
 >
-> Nice.[…snip]" ( **from** [The Secret Diary of Steve Jobs: Give one, get one,
+> Nice.[…snip]" (**from** [The Secret Diary of Steve Jobs: Give one, get one,
 > right in the ass](<http://fakesteve.blogspot.com/2007/11/give-one-get-one-
 > right-in-ass.html>))
 

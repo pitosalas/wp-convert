@@ -9,8 +9,6 @@ tags:
 
 **Link: [Update about Spotify](None):** ""
 
-
-
 So I have now been using Spotify for about a week after sumarily deserting
 Rhapsody (no stickyness at all!) Here's my summary:
 

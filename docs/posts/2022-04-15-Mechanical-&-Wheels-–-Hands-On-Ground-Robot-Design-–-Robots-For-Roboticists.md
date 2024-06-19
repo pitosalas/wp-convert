@@ -9,8 +9,6 @@ tags:
 
 **Link: [Mechanical & Wheels – Hands On Ground Robot Design – Robots For Roboticists](None):** ""
 
-
-
 [ Mechanical & Wheels - Hands On Ground Robot Design - Robots For
 Roboticists](<https://www.robotsforroboticists.com/mechanical-wheels-hands-on-
 ground-robot-design/>)

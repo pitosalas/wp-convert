@@ -10,8 +10,6 @@ tags:
 
 **Link: [88% of spreadsheets have errors — Still!](None):** ""
 
-
-
 A long long time ago there was a product called [Lotus
 Improv](<http://en.wikipedia.org/wiki/Lotus_Improv>). Our premise was that
 complex spreadsheets were very difficult to maintain, to audit and to modify.
@@ -32,7 +30,7 @@ tolerated. From an article in MarketWatch:
 > case of a math error in a Harvard economics study. By failing to include
 > certain spreadsheet cells in its calculations, the study by Harvard
 > economists Carmen Reinhart and Kenneth Rogoff may have overstated the impact
-> that debt burdens have on a nation’s economic growth." ( **from**
+> that debt burdens have on a nation’s economic growth." (**from**
 > [MarketWatch "88% of Spreadsheets have
 > errors")](<http://www.marketwatch.com/story/88-of-spreadsheets-have-
 > errors-2013-04-17>)

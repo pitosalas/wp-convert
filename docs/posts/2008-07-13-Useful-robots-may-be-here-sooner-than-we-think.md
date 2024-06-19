@@ -6,8 +6,6 @@ date: 2008-07-13
 
 **Link: [Useful robots may be here sooner than we think](None):** ""
 
-
-
 > "The Most Advanced Quadruped Robot on Earth -- BigDog is the alpha male of
 > the Boston Dynamics family of robots. It is a quadruped robot that walks,
 > runs, and climbs on rough terrain and carries heavy loads. BigDog is powered

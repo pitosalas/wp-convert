@@ -6,11 +6,8 @@ date: 2004-10-12
 
 **Link: [Too Many Toolbars!](None):** ""
 
-
->>
-
->> Everyone wants to give me a toolbar! I've successfully fought back Yahoo's
-and am a happy user of [Google's Toolbar](<http://toolbar.google.com/>).
+Everyone wants to give me a toolbar! I've successfully fought back Yahoo's and
+am a happy user of [Google's Toolbar](<http://toolbar.google.com/>).
 
 >>
 

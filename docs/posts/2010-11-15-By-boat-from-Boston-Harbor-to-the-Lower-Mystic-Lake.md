@@ -6,8 +6,6 @@ date: 2010-11-15
 
 **Link: [By boat from Boston Harbor to the Lower Mystic Lake](None):** ""
 
-
-
 This is very close to where I live, and people are amazed to know that you can
 actually go by boat from Arlington to Boston Harbor. This video is beautiful
 proof of that.

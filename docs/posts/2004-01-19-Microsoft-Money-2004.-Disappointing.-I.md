@@ -6,11 +6,8 @@ date: 2004-01-19
 
 **Link: [Microsoft Money 2004. Disappointing. I](None):** ""
 
-
->>
-
->> **Microsoft Money 2004. Disappointing.** I started preparing my taxes and
-so I thought I might upgrade my Microsoft Money to the 2004 from 2003. I am a
+**Microsoft Money 2004. Disappointing.** I started preparing my taxes and so I
+thought I might upgrade my Microsoft Money to the 2004 from 2003. I am a
 fairly comprehensive user of Microsoft Money, and so every year I do this, and
 frankly almost every year I am disappointed.
 

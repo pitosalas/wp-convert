@@ -11,8 +11,6 @@ tags:
 
 **Link: [The number of pages in a congressional bill](None):** ""
 
-
-
 I have to do a little research. It seems to be a favorite talking point by
 politicians on all sides of a debate to criticize or dismiss a piece of
 legislation based on the number of pages it has. It's an odd bit of criticism:

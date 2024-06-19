@@ -6,10 +6,7 @@ date: 2004-09-10
 
 **Link: [Why Blogs are great, #102](None):** ""
 
-
->>
-
->> I am often asked **what 's so special about blogging**. I always answer,
+I am often asked **what 's so special about blogging**. I always answer,
 technically it's pretty simple, so that's not it. It's that there are people
 in the world, who for their own reasons have chosen to write down their
 thoughts and opinion. I learn things that I would **never have learned**

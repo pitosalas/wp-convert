@@ -10,8 +10,6 @@ tags:
 
 **Link: [JetBlue: Summary cancellation](None):** ""
 
-
-
 I was supposed to fly from San Fransisco to Boston today. Monday (2 days ago)
 I got an email from [JetBlue](<http://www.jetblue.com>) saying, more or less:
 "Sorry to tell you, but your flight has been canceled. Please call 1-800-xxx

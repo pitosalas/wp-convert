@@ -8,8 +8,6 @@ tags:
 
 **Link: [Rails Extension Power Pack – Visual Studio Marketplace](None):** ""
 
-
-
 [ Rails Extension Power Pack - Visual Studio
 Marketplace](<https://marketplace.visualstudio.com/items?itemName=andrewmcodes.rails-
 extension-power-

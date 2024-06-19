@@ -8,8 +8,6 @@ tags:
 
 **Link: [Why should do online check-in when flying?](None):** ""
 
-
-
 This, from American Airlines:
 
 > "Your trip is eligible for check-in now. Save time at the airport and check-

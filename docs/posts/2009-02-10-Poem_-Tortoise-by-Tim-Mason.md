@@ -10,8 +10,6 @@ tags:
 
 **Link: [Poem: Tortoise by Tim Mason](None):** ""
 
-
-
 **Tortoise**  
 by [Tim Mason](<http://www.timothydmason.com/tortoise.shtml>)
 

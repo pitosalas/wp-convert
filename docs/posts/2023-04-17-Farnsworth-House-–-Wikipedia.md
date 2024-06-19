@@ -9,8 +9,6 @@ tags:
 
 **Link: [Farnsworth House – Wikipedia](None):** ""
 
-
-
 [ Farnsworth House - Wikipedia](<
 https://en.wikipedia.org/wiki/Farnsworth_House>) –
 

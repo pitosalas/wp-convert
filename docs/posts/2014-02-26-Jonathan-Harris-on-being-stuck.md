@@ -11,8 +11,6 @@ tags:
 
 **Link: [Jonathan Harris on being stuck](None):** ""
 
-
-
 Jonathan Harris is the creator of several really interesting web sites that in
 very creative ways combine art with computing. From his home page one might
 conclude that he's a bit <xxx>
@@ -28,7 +26,7 @@ conclude that he's a bit <xxx>
 > [talks](<http://number27.org/talks>), write
 > [essays](<http://transom.org/?p=41667>), run a [storytelling
 > community](<http://cowbird.com/>), and obsess about [the number
-> 27](<http://number27.org/27>)" ( **[His web site is
+> 27](<http://number27.org/27>)" (**[His web site is
 > here)](<http://number27.org>)**
 
 Here's a very well written piece in which he talks quite personally about some

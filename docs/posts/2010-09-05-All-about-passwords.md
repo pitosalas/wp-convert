@@ -6,8 +6,6 @@ date: 2010-09-05
 
 **Link: [All about passwords](None):** ""
 
-
-
 Continuing my quest to get into the subtleties of security and measures to
 protect against 'bad guys.' I came across an interesting article in the [New
 York Times, about choosing

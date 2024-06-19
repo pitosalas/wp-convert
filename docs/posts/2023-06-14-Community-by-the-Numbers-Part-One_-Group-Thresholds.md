@@ -10,8 +10,6 @@ tags:
 
 **Link: [Community by the Numbers Part One: Group Thresholds](None):** ""
 
-
-
 [ Community by the Numbers, Part One: Group
 Thresholds](<http://www.lifewithalacrity.com/2008/09/group-threshold.html>) –
 

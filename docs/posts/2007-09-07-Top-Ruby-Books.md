@@ -6,8 +6,6 @@ date: 2007-09-07
 
 **Link: [Top Ruby Books](None):** ""
 
-
-
 ![toprubybooks1.jpg](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-
 content/uploads/2007/09/toprubybooks1.jpg?w=584)
 

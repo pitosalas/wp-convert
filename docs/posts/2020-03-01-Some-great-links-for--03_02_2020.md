@@ -6,8 +6,6 @@ date: 2020-03-01
 
 **Link: [Some great links for  03/02/2020](None):** ""
 
-
-
   * [Google Interviewing Process for Software Developer Role in 2020 / Habr](<https://habr.com/en/post/489698/>)
 
 The madness of interviewing at google. OMG!

@@ -6,8 +6,6 @@ date: 2020-06-10
 
 **Link: [Some great links for  06/11/2020](None):** ""
 
-
-
   * [CS81 Fall 2017](<https://www.cs.swarthmore.edu/~meeden/cs81/f17/>)
 
 Robotics Course that looks great

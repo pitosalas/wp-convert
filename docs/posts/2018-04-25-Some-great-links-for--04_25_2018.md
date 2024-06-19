@@ -6,8 +6,6 @@ date: 2018-04-25
 
 **Link: [Some great links for  04/25/2018](None):** ""
 
-
-
   * [Microservice boundaries: five characteristics to guide your design](<https://codeburst.io/microservice-boundaries-five-characteristics-to-guide-your-design-89312b65cc27?source=userActivityShare-d383785221d0-1524570258>)
 
 tags: [desgin](<https://www.diigo.com/user/pitosalas/desgin>)

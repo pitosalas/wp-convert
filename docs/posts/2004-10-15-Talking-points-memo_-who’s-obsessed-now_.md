@@ -6,13 +6,10 @@ date: 2004-10-15
 
 **Link: [Talking points memo: who’s obsessed now?](None):** ""
 
-
->>
-
->> I'm a huge fan of [Talking Points
-Memo](<http://www.talkingpointsmemo.com/>), Josh Marshall's blog. In fact it's
-my exhibit #1 for people who ask me for a good blog to read (assuming they are
-"liberal." If they are not I point them to Instapundit.)
+I'm a huge fan of [Talking Points Memo](<http://www.talkingpointsmemo.com/>),
+Josh Marshall's blog. In fact it's my exhibit #1 for people who ask me for a
+good blog to read (assuming they are "liberal." If they are not I point them
+to Instapundit.)
 
 >>
 

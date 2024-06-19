@@ -6,8 +6,6 @@ date: 2008-05-21
 
 **Link: [If you like food you might find this amusing…](None):** ""
 
-
-
 [Many more where this one came from](<http://www.fresh99.com/zoomed-in-
 food.htm>). Good for a chuckle 🙂
 

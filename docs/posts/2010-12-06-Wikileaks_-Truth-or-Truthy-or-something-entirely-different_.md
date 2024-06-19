@@ -10,8 +10,6 @@ tags:
 
 **Link: [Wikileaks: Truth or Truthy or something entirely different?](None):** ""
 
-
-
 [David Weinberger](<http://www.hyperorg.com/blogger/>) has, as usual, an
 interesting take, and some interesting links relevant to our perception and
 the defense or offense of Wikileaks. From his post:
@@ -31,7 +29,7 @@ the defense or offense of Wikileaks. From his post:
 > world is round. The world is round.” The same ex-patient would be just as
 > insane if he varied his list of true things as he strolls down the street:
 > “The world is round. Books have weight. Wheels roll. My toenails are
-> growing.” ( **from** [Truth is Not
+> growing.” (**from** [Truth is Not
 > Enough](<http://www.hyperorg.com/blogger/2010/12/05/truth-is-not-enough/>))
 
 

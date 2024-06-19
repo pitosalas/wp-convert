@@ -6,8 +6,6 @@ date: 2009-06-19
 
 **Link: [[Geeky] RMagick and memory leaks](None):** ""
 
-
-
 A [recent post talked about creating a "Domain Specific Language" for image
 processing of ballots](</2009/06/02/geeky-a-dsl-for-image-analysis/>). I've
 made a lot of progress on that project and wanted to give an update.
@@ -28,7 +26,7 @@ which is a comprehensive image processing library, written in C I believe. The
 differences between [RMagick](<http://rmagick.rubyforge.org/>) and Mini Magick
 are:
 
-  1. [RMagick](<http://rmagick.rubyforge.org/>) uses the ImageMagick API and presents a comprehensive 'rubyfication' of the [ImageMagtick](<http://www.imagemagick.org/script/index.php>) api. This is useful but you do find that you jump back and forth between the RMagick doc and the ImageMagick doc to see what methods in one correspond to which ones in the other. [MiniMagick](<http://github.com/probablycorey/mini_magick/tree/master>) on the other hand is a very thin veneer over [ImageMagick](<http://www.imagemagick.org/script/index.php>)'s command line utilities. It generally uses 'method-not-found' to decide to invoke the corresponding C method. This means that the ImageMagick doc is your primary source. The MiniMagick source itself is a single tiny ( **but sophisticated** ) Ruby script.
+  1. [RMagick](<http://rmagick.rubyforge.org/>) uses the ImageMagick API and presents a comprehensive 'rubyfication' of the [ImageMagtick](<http://www.imagemagick.org/script/index.php>) api. This is useful but you do find that you jump back and forth between the RMagick doc and the ImageMagick doc to see what methods in one correspond to which ones in the other. [MiniMagick](<http://github.com/probablycorey/mini_magick/tree/master>) on the other hand is a very thin veneer over [ImageMagick](<http://www.imagemagick.org/script/index.php>)'s command line utilities. It generally uses 'method-not-found' to decide to invoke the corresponding C method. This means that the ImageMagick doc is your primary source. The MiniMagick source itself is a single tiny (**but sophisticated**) Ruby script.
 
   2. [RMagick](<http://rmagick.rubyforge.org/>) creates in memory [ImageMagick](<http://www.imagemagick.org/script/index.php>) ('[malloc](<http://en.wikipedia.org/wiki/Malloc>)') objects and retains pointers to those inside of Ruby structures. Unless those Ruby structures are garbage collected, the ImageMagick objects just hang around and eat memory, hence the memory leak reputation. Because as far as Ruby is concerned, not that much memory has been used yet, natural garbage collections don't occur and your system memory footprint gets bigger and bigger.
 

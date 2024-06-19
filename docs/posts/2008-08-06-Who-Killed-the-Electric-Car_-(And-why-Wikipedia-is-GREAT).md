@@ -6,8 +6,6 @@ date: 2008-08-06
 
 **Link: [Who Killed the Electric Car? (And why Wikipedia is GREAT)](None):** ""
 
-
-
 I just saw the [movie "Who Killed the Electric
 Car"](<http://www.sonyclassics.com/whokilledtheelectriccar/>) which makes a
 **pretty compelling** case that years ago General Motors had a **working and

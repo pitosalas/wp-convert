@@ -6,8 +6,6 @@ date: 2020-12-30
 
 **Link: [Some great links for  12/31/2020](None):** ""
 
-
-
   * [Git Commands to Live By](<https://link.medium.com/sbnKSHQCDcb>)
 
 A great collection of semi- advanced git commands. Super useful!

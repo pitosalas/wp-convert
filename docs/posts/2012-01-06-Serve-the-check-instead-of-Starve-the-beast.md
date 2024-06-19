@@ -11,8 +11,6 @@ tags:
 
 **Link: [Serve-the-check instead of Starve-the-beast](None):** ""
 
-
-
 Here's an interesting article "[Modernizing
 Conservatism"](<http://breakthroughjournal.org/content/issues/issue-2/modernizing-
 conservatism.shtml>), yes, not my typical subject matter. Written from a
@@ -36,7 +34,7 @@ shrinks or dies.**
 The **problem** with this is that we (the people and the leadership) **like
 the benefits of big government** so much that we revert to **deficit
 spending** despite the macro cuts. See for example the **unfunded Iraq war**
-that was explicitly kept ' **off the books** '. And so the beast doesn't
+that was explicitly kept '**off the books** '. And so the beast doesn't
 starve, the bill is just passed on to future generations.
 
 The **Serve The Check** concept says, make sure that everything the government
@@ -60,8 +58,8 @@ electorate, will **insist on shrinking government.**
 >
 > Strikingly, Niskanen's analysis found that lower taxes correlated with
 > higher levels of federal spending. As a result, Niskanen argues that raising
-> taxes may be the most effective way to reduce gov-ernment spending." (
-> **from** [Modernizing
+> taxes may be the most effective way to reduce gov-ernment spending."
+> (**from** [Modernizing
 > Conservatism](<http://breakthroughjournal.org/content/issues/issue-2/modernizing-
 > conservatism.shtml>))
 

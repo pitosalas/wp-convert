@@ -6,8 +6,6 @@ date: 2008-02-23
 
 **Link: [Summing up the history of human affairs](None):** ""
 
-
-
 In the context of the current Wall Street excitement, I received a letter of
 assurance from a mutual fund manager saying, among other things:
 
@@ -20,7 +18,7 @@ assurance from a mutual fund manager saying, among other things:
 >
 > _We have endured similar experiences in the past._
 >
-> _If the **history of human affairs can be summed up in simple terms** , it
+> _If the**history of human affairs can be summed up in simple terms** , it
 > would be by the phrase: “This too shall pass.” In our opinion, the current
 > crisis will end sooner rather than later."_
 

@@ -6,8 +6,6 @@ date: 2008-08-09
 
 **Link: [Finally, a simple cell phone!](None):** ""
 
-
-
 ![](https://i0.wp.com/www.gizmodo.com/images/Simple.jpg?w=584)
 
 My Treo 600 recently died a hard death. I had to learn a new cell phone, a

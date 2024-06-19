@@ -6,8 +6,6 @@ date: 2018-12-04
 
 **Link: [Some great links for  12/05/2018](None):** ""
 
-
-
   * <https://link.medium.com/LzL8HArenS>
 
 A really great list of services to integrate into your application. A bunch

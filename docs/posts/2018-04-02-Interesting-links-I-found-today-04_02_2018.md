@@ -6,8 +6,6 @@ date: 2018-04-02
 
 **Link: [Interesting links I found today 04/02/2018](None):** ""
 
-
-
   * [Rails Refactoring Techniques - Concerns | Best Practice on Ruby on Rails | Hire Ruby on Rails developers](<http://www.agiratech.com/rails-refactoring-techniques-concerns/>)
 
 tags: [Rails](<https://www.diigo.com/user/pitosalas/Rails>)

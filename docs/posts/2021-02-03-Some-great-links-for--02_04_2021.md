@@ -6,8 +6,6 @@ date: 2021-02-03
 
 **Link: [Some great links for  02/04/2021](None):** ""
 
-
-
   * [10 Ultimate Programming Jokes](<https://link.medium.com/gybRfn32zdb>)
 
 Groan but ok, funny

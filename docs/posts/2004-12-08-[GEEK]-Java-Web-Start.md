@@ -6,11 +6,8 @@ date: 2004-12-08
 
 **Link: [[GEEK] Java Web Start](None):** ""
 
-
->>
-
->> You might think it's a bad idea for me to complain about Java Web Start.
-Well the truth is that I really like it and so am really frustrated by it's
+You might think it's a bad idea for me to complain about Java Web Start. Well
+the truth is that I really like it and so am really frustrated by it's
 failures. In my own small way I am hoping to wake up someone at Sun to see the
 importance of this little bit of technology to their grand Java strategy.
 

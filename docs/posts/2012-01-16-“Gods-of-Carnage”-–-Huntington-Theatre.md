@@ -10,8 +10,6 @@ tags:
 
 **Link: [“Gods of Carnage” – Huntington Theatre](None):** ""
 
-
-
 I Just came back from seeing "[Gods Of
 Carnage"](<http://www.huntingtontheatre.org/season/production.aspx?id=10226&src=t>)
 at the [Huntington Theatre (in

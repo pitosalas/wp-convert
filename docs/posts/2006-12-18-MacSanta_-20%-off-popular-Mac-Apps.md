@@ -6,9 +6,7 @@ date: 2006-12-18
 
 **Link: [MacSanta: 20% off popular Mac Apps](None):** ""
 
-
->
-> <!-  
+<!-  
 >  body { line-height: normal; font-family: Lucida Grande; font-style: normal;
 > font-variant: normal; font-weight: normal; font-size: 11pt }  
 >  ->

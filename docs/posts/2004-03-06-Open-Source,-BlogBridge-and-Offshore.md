@@ -6,13 +6,10 @@ date: 2004-03-06
 
 **Link: [Open Source, BlogBridge and Offshore](None):** ""
 
-
->>
-
->> **Open Source, BlogBridge and Offshore Development.** I've been using
-several neat offshore development options in my work on Blog Bridge, a new
-kind of Blog Reader that I've been working on (very) part time. You can read
-all about it: [here](<http://www.blogbridge.com/>).
+**Open Source, BlogBridge and Offshore Development.** I've been using several
+neat offshore development options in my work on Blog Bridge, a new kind of
+Blog Reader that I've been working on (very) part time. You can read all about
+it: [here](<http://www.blogbridge.com/>).
 
 >>
 
@@ -45,13 +42,13 @@ windows .dll. So, real code: again **very reasonably priced**.
 >
 >>
 
->>  _Open Source._ As you may or may not know, Blog Bridge is Open Source.
-I've had several people say, _**it 's open source and your paying someone to
-work on it?** _At first this may sound counter intuitive, but really it's not
-at all. After all, if I personally work on Open Source stuff, I may not be
-paying cash, but I am certainly paying with my time. It's just that I choose
-to make the fruits of my labor freely available to anyone who wants it. **I
-see no contradiction.**
+>> _Open Source._ As you may or may not know, Blog Bridge is Open Source. I've
+had several people say, _**it 's open source and your paying someone to work
+on it?** _At first this may sound counter intuitive, but really it's not at
+all. After all, if I personally work on Open Source stuff, I may not be paying
+cash, but I am certainly paying with my time. It's just that I choose to make
+the fruits of my labor freely available to anyone who wants it. **I see no
+contradiction.**
 
 >>
 
@@ -59,7 +56,7 @@ see no contradiction.**
 >
 >>
 
->>  _How the heck does a small shop like mine get offshore development going?_
+>> _How the heck does a small shop like mine get offshore development going?_
 This is actually quite cool. It turns out that there are **several online
 'markets'** where I can post a functional spec or project description and
 **receive quotes** from contractors who want to take on the project.

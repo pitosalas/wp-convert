@@ -6,8 +6,6 @@ date: 2019-09-17
 
 **Link: [Some great links for  09/18/2019](None):** ""
 
-
-
   * [Listen Notes: The best podcast search engine](<https://www.listennotes.com>)
 
 Really useful tool to find podcasts and episodes. A nice looking podcast

@@ -6,8 +6,6 @@ date: 2018-12-09
 
 **Link: [Some great links for  12/10/2018](None):** ""
 
-
-
   * [Qt 5.12 LTS Released - Qt Blog](<http://blog.qt.io/blog/2018/12/06/qt-5-12-lts-released/>)
 
 QT is a cross platform user interface framework. It’s for building client side

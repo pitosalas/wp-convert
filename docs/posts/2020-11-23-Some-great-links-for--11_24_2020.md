@@ -6,8 +6,6 @@ date: 2020-11-23
 
 **Link: [Some great links for  11/24/2020](None):** ""
 
-
-
   * [Building Your Color Palette](<https://refactoringui.com/previews/building-your-color-palette/>)
 
 Excellent guide to picking good colors in a UI

@@ -13,8 +13,6 @@ tags:
 
 **Link: [Customer vs. Consultant: Excellent advice](None):** ""
 
-
-
 From an article called "[Effective Customer Consultant
 Relationships"](<http://8thlight.github.com/dave-moore/2012/01/20/effective-
 customer-consultant-relationship.html>):

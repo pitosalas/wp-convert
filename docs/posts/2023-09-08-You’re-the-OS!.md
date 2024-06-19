@@ -11,8 +11,6 @@ tags:
 
 **Link: [You’re the OS!](None):** ""
 
-
-
 [ You're the OS!](< https://drfreckles42.itch.io/youre-the-
 os?utm_source=changelog-news>) –Become a computer operating system and try not
 to anger the user!

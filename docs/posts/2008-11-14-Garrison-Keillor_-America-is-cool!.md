@@ -6,8 +6,6 @@ date: 2008-11-14
 
 **Link: [Garrison Keillor: America is cool!](None):** ""
 
-
-
 A neat article in [Salon, by Garrison Keillor - America is cool](</wp-
 admin/post-new.php>):
 

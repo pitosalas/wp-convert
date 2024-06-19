@@ -6,8 +6,6 @@ date: 2010-11-12
 
 **Link: [[GEEKY] RubyConf](None):** ""
 
-
-
 The problem with conferences is knowing what session to go to, right?
 
 Check out this talk called "[ZOMG WHY IS MY CODE SO SLOW? Aaron

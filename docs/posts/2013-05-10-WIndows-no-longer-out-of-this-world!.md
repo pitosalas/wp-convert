@@ -10,12 +10,7 @@ tags:
 
 **Link: [WIndows no longer out of this world!](None):** ""
 
-
-
-[International Space Station switches from Windows to Linux, for improved
-reliability |
-ExtremeTech](<http://www.extremetech.com/extreme/155392-international-space-
-station-switches-from-windows-to-linux-for-improved-reliability>):
+[International Space Station switches from Windows to Linux, for improved reliability | ExtremeTech](<http://www.extremetech.com/extreme/155392-international-space-station-switches-from-windows-to-linux-for-improved-reliability>):
 
 > The United Space Alliance, which manages the computers aboard the
 > International Space Station in association with NASA, has announced that the

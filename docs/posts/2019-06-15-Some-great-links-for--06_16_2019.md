@@ -6,8 +6,6 @@ date: 2019-06-15
 
 **Link: [Some great links for  06/16/2019](None):** ""
 
-
-
   * [Ten Reasons Why I Don't Like Golang](<https://www.teamten.com/lawrence/writings/why-i-dont-like-go.html>)
 
 I thought I wanted to learn golang, now I am not so sure…

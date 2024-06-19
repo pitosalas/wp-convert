@@ -6,8 +6,6 @@ date: 2009-10-14
 
 **Link: [Larry  Lessig: Beyond Transparency, and Net Triumphalism](None):** ""
 
-
-
 As David W. says, there's a lot that's been written in response to the
 provocative article by Larry Lessig. I haven't yet read all of it, but what
 I've seen is very provocative (in a good sense.)All the pointers you might
@@ -26,7 +24,7 @@ Blog](<http://www.hyperorg.com/blogger/feed/>):
 > Ellen Miller and Michael Klein, founders of the Sunlight Foundation, the
 > leading advocate for transparency. (My response is included in that set of
 > four.) Aaron Swartz prefigured Larry’s argument in a piece he posted in
-> April: “Transparency is bunk.” Plenty to chew on." ( **from:**[Larry Lessig:
+> April: “Transparency is bunk.” Plenty to chew on." (**from:**[Larry Lessig:
 > Beyond Transparency, and Net
 > Triumphalism](<http://www.hyperorg.com/blogger/2009/10/13/larry-lessig-
 > beyond-transparency-and-net-triumphalism/>))

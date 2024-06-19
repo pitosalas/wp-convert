@@ -11,8 +11,6 @@ tags:
 
 **Link: [marceloprates/prettymaps: A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.](None):** ""
 
-
-
 [ marceloprates/prettymaps: A small set of Python functions to draw pretty
 maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely
 libraries.](< https://github.com/marceloprates/prettymaps>) –A small set of

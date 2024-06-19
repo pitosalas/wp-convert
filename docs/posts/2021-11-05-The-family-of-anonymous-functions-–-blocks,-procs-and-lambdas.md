@@ -8,8 +8,6 @@ tags:
 
 **Link: [The family of anonymous functions – blocks, procs and lambdas](None):** ""
 
-
-
 [ The family of anonymous functions - blocks, procs and
 lambdas](<https://longliveruby.com/articles/the-family-of-anonymous-
 functions>)

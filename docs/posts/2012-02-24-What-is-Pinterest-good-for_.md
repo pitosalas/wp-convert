@@ -9,8 +9,6 @@ tags:
 
 **Link: [What is Pinterest good for?](None):** ""
 
-
-
 Funny thing, I like many people are trying to figure out what
 [Pinterest](<www.pinterest.com>) is good for. Well I found a use.
 

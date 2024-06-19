@@ -6,8 +6,6 @@ date: 2018-12-31
 
 **Link: [Some great links for  01/01/2019](None):** ""
 
-
-
   * [Rethinking how we interview in Microsoft’s Developer Division](<https://blog.usejournal.com/rethinking-how-we-interview-in-microsofts-developer-division-8f404cfd075a>)
 
 Interesting about how Microsoft interviews and how they updated their process.

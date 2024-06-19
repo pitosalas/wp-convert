@@ -6,8 +6,6 @@ date: 2008-12-17
 
 **Link: [A little more about “Outliers”](None):** ""
 
-
-
 Since I wrote a [somewhat negative post mentioning Outliers and Malcolm
 Gladwell](</2008/12/07/joel-on-software-talks-about-malcolm-gladwell-and-tom-
 friedman/>) the other day, I thought this was a worthwhile follow-up,[ "Lost

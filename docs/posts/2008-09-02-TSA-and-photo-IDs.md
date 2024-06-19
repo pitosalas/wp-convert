@@ -6,8 +6,6 @@ date: 2008-09-02
 
 **Link: [TSA and photo IDs](None):** ""
 
-
-
 An interesting article from Bruce Schneier about why he believes that TSA
 requirement of photo IDs is a waste of time:
 

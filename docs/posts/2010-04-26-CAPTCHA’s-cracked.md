@@ -10,8 +10,6 @@ tags:
 
 **Link: [CAPTCHA’s cracked](None):** ""
 
-
-
 CAPTCHA is the nickname of the venerable (ok only a few years of veneration)
 technique of verifying if the person on the other side of the screen is
 actually a person not a computer. We've all seen them a million times: a very
@@ -32,8 +30,8 @@ in, the, g-u-l-p, New York Times:
 > geo> "More news and information about China.") and other developing
 > countries to tackle the simple tests known as captchas, which ask Web users
 > to type in a string of semiobscured characters to prove they are human
-> beings and not spam-generating robots." ( **from** [Spammers Paying Others
-> to Solve Captchas, from the
+> beings and not spam-generating robots." (**from** [Spammers Paying Others to
+> Solve Captchas, from the
 > NYT.)](<http://www.nytimes.com/2010/04/26/technology/26captcha.html?partner=rss&emc=rss>)
 
 Except I've heard of an even more subversive variation, where spammers put up

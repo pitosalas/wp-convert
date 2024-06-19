@@ -6,8 +6,6 @@ date: 2009-06-16
 
 **Link: [What is the ‘true’ result of an election?](None):** ""
 
-
-
 With what's [going on in Iran right
 now](<http://www.nytimes.com/2009/06/16/world/middleeast/16iran.html?partner=rss&emc=rss>),
 many commentators are wondering whether the elections were fair. That is to
@@ -18,7 +16,7 @@ voted?
 > States is “deeply troubled” by the unrest in Iran and is concerned about
 > allegations of ballot fraud. But he stopped short of condemning the Iran
 > security forces for cracking down on demonstrators and said Washington does
-> not know whether the allegations of fraud are, in fact, true." ( **from**
+> not know whether the allegations of fraud are, in fact, true." (**from**
 > "[Top Cleric Calls for Inquiry as Protesters Defy Ban in
 > Iran](<http://www.nytimes.com/2009/06/16/world/middleeast/16iran.html?partner=rss&emc=rss>)")
 
@@ -58,7 +56,7 @@ they have 'technically' and 'legally' made their ballot invalid. Theoretically
 these ballots should not be counted.
 
 Now here's where it gets **interesting** : in fact the purpose or goal of the
-law is to capture ' **voter intent** ' - what did the voter mean? Even if they
+law is to capture '**voter intent** ' - what did the voter mean? Even if they
 did not follow the instructions precisely, is it clear who they wanted to vote
 for?
 
@@ -72,7 +70,7 @@ recounts can go on and on [and end up in the Supreme Court.
 ](<http://www.huffingtonpost.com/2009/04/20/coleman-appeals-
 election_n_189170.html>) And that's why the question of what the 'true' count
 is of an election in the final analysis doesn't have a real objective answer.
-(Even you can guarantee ( **which you can 't)** that you have all and only the
+(Even you can guarantee (**which you can 't)** that you have all and only the
 legally voted ballots in a particular election, another 'fact' that actually
 doesn't have an objective meaning.)
 

@@ -6,12 +6,9 @@ date: 2004-04-06
 
 **Link: [Some miscellaneous links and pointers (WTF Series, 4)](None):** ""
 
-
->>
-
->> I am at the [WTF conference](<http://www.stupidnet.com/>) (more of a
-retreat.) IN addition to the more cogent posts that follow, here are some
-links and pointers that may be of interest.  
+I am at the [WTF conference](<http://www.stupidnet.com/>) (more of a retreat.)
+IN addition to the more cogent posts that follow, here are some links and
+pointers that may be of interest.  
 >
 >>
 

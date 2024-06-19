@@ -6,8 +6,6 @@ date: 2018-04-17
 
 **Link: [Some great links for  04/17/2018](None):** ""
 
-
-
   * [The Truth About Microservices](<https://codeburst.io/the-truth-about-microservices-8f8124913df4?source=userActivityShare-d383785221d0-1523879046>)
 
 tags: [microservices](<https://www.diigo.com/user/pitosalas/microservices>)

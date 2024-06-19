@@ -6,10 +6,7 @@ date: 2004-06-01
 
 **Link: [Pop!Tech Ticket!](None):** ""
 
-
->>
-
->> [Pop!Tech](<http://www.poptech.com/>) is [one of my all time favorite
+[Pop!Tech](<http://www.poptech.com/>) is [one of my all time favorite
 conferences](</weblogs/archives/000264.html>). So favorite that I bought a
 ticket for this year's event way in advance. I have hit an insurmountable
 schedule problem and so I have to miss it this year. So, I have a ticket that

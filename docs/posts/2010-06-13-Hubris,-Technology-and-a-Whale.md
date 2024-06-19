@@ -6,8 +6,6 @@ date: 2010-06-13
 
 **Link: [Hubris, Technology and a Whale](None):** ""
 
-
-
 A couple of New York Times articles today that point out (what others have
 pointed out too) that the roots of the disaster in the Gulf have a lot in
 common with those of the Economic meltdown last year:
@@ -17,7 +15,7 @@ common with those of the Economic meltdown last year:
 > ingredients include risks that are erroneously thought to be vanishingly
 > small, complex technology that isn’t fully grasped by either top management
 > or regulators, and tricky relationships among companies that are not sure
-> how much they can count on their partners." ( **from** : [Recipes for Ruin,
+> how much they can count on their partners." (**from** : [Recipes for Ruin,
 > in the Gulf or on Wall
 > Street](<http://www.nytimes.com/2010/06/13/business/13view.html?ref=business>))
 
@@ -28,7 +26,7 @@ and out of control than we would like to think:
 > the proto-Modernist one imagined by Melville more than a century and a half
 > ago have sometimes been striking — and painfully illuminating as the spill
 > becomes a daily reminder of the limitations, even now, of man’s ability to
-> harness nature for his needs." ( **from** [The Ahab
+> harness nature for his needs." (**from** [The Ahab
 > Parallax)](<http://www.nytimes.com/2010/06/13/weekinreview/13kennedy.html?ref=weekinreview>)
 
 

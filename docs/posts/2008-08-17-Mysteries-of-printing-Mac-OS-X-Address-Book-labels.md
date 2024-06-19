@@ -6,8 +6,6 @@ date: 2008-08-17
 
 **Link: [Mysteries of printing Mac OS X Address Book labels](None):** ""
 
-
-
 Apple always, or almost always, thinks through the user interface carefully
 and includes all kinds of deft and elegant touches that delight and amaze
 users.

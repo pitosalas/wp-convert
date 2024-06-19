@@ -9,8 +9,6 @@ tags:
 
 **Link: [Faster Rails: Eliminating N+1 queries – Semaphore](None):** ""
 
-
-
 [ Faster Rails: Eliminating N+1 queries -
 Semaphore](<https://semaphoreci.com/blog/2017/08/09/faster-rails-eliminating-
 n-plus-one-queries.html>)

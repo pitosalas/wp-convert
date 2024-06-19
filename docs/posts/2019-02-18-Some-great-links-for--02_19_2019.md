@@ -6,8 +6,6 @@ date: 2019-02-18
 
 **Link: [Some great links for  02/19/2019](None):** ""
 
-
-
   * [How Microservices Saved the Internet – Hacker Noon](<https://hackernoon.com/how-microservices-saved-the-internet-30cd4b9c6230>)
 
 tags: [scaling](<https://www.diigo.com/user/pitosalas/scaling>)

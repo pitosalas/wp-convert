@@ -6,8 +6,6 @@ date: 2021-06-04
 
 **Link: [Netplan network configuration tutorial for beginners – LinuxConfig.org](None):** ""
 
-
-
 [ Netplan network configuration tutorial for beginners -
 LinuxConfig.org](<https://linuxconfig.org/netplan-network-configuration-
 tutorial-for-beginners>)

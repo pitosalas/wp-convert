@@ -6,8 +6,6 @@ date: 2010-09-23
 
 **Link: [This never happened: Russian Spy](None):** ""
 
-
-
 This never happened…
 
 We were working on some piece of software or something and the Russians

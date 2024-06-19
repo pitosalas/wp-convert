@@ -6,8 +6,6 @@ date: 2010-11-11
 
 **Link: [Definitious](None):** ""
 
-
-
 Check out this [cool site developed](<http://definitious.com>) by some
 Brandeis students who participated in the [bootcamp-like
 course](<http://www.brandeis.edu/jbs/r2010programs/websservices/index.html>)

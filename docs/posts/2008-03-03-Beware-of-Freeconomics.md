@@ -6,8 +6,6 @@ date: 2008-03-03
 
 **Link: [Beware of Freeconomics](None):** ""
 
-
-
 The quote below is from [this
 post](<http://feeds.feedburner.com/~r/readwriteweb/~3/241723869/beware_of_freeconomics.php>)
 from [ReadWriteWeb](<http://www.readwriteweb.com/>)
@@ -22,7 +20,7 @@ from [ReadWriteWeb](<http://www.readwriteweb.com/>)
 > incentive to innovate. In addition the middle-man and transactional
 > complexities are the other side effects of this new economic trend.
 >
-> ( **Read the whole thing** : [Beware of
+> (**Read the whole thing** : [Beware of
 > Freeconomics](<http://feeds.feedburner.com/~r/readwriteweb/~3/241723869/beware_of_freeconomics.php>))
 
 It is of course on a topic that I've written a lot about, so I won't comment

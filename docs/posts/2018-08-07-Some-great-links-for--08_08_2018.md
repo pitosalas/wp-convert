@@ -6,8 +6,6 @@ date: 2018-08-07
 
 **Link: [Some great links for  08/08/2018](None):** ""
 
-
-
   * [Javalin - A lightweight Java and Kotlin web framework](<https://javalin.io>)
 
 tags: [kotlin](<https://www.diigo.com/user/pitosalas/kotlin>)

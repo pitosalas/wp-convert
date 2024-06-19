@@ -6,8 +6,6 @@ date: 2007-09-13
 
 **Link: [[GEEKY] Gshell, the web’s own command line](None):** ""
 
-
-
 You remember back in the **stone ages** we all interacted with computers by
 typing [tag]command lines[/tag] at a prompt. Then in the bronze age, the
 [tag]GUI[/tag] was invented and we used mice, menus and windows? (Oh some of

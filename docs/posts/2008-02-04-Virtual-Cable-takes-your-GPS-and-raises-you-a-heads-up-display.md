@@ -6,8 +6,6 @@ date: 2008-02-04
 
 **Link: [Virtual Cable takes your GPS and raises you a heads-up display](None):** ""
 
-
-
 This is really cool! Check out [this
 post](<http://feeds.autoblog.com/~r/weblogsinc/autoblog/~3/202445315/>) from
 [Autoblog](<http://www.autoblog.com>):

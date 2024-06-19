@@ -10,8 +10,6 @@ tags:
 
 **Link: [Advice about listening to yoruself](None):** ""
 
-
-
 A few months ago, a friend of mine told me he was struggling, really
 struggling with a big career decision. Here's what I told him, and what I
 believe and have applied to my own decisions:

@@ -10,8 +10,6 @@ tags:
 
 **Link: [Free pdf of Eric Ries: “The Lean Startup” (huh?)](None):** ""
 
-
-
 I am a big fan of this book, so I was really surprised to find a freely
 downloadable copy of the file in pdf form. I snooped around and the site seems
 legit but it's odd that a very popular book is made available for zero

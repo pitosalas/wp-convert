@@ -6,8 +6,6 @@ date: 2014-06-28
 
 **Link: [Curaçao harbor](None):** ""
 
-
-
 Just playing with my new blogging platform to see if it works ok!
 
 ![](https://i0.wp.com/salas.com/wp-

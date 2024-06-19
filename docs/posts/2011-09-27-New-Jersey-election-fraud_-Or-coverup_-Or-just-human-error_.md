@@ -11,8 +11,6 @@ tags:
 
 **Link: [New Jersey election fraud? Or coverup? Or just human error?](None):** ""
 
-
-
 [Andrew Appel ](<http://www.cs.princeton.edu/~appel/>)is one of the best known
 academics studying and commenting on elections and computer science and
 technology related to elections. He wrote a really interesting report, "[New

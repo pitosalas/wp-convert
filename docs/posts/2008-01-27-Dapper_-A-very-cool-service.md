@@ -6,8 +6,6 @@ date: 2008-01-27
 
 **Link: [Dapper: A very cool service](None):** ""
 
-
-
 It's a little hard to explain and I didn't manage to get it working myself
 yet, but still I am highly intrigued with [Dapper](<http://www.dapper.net>
 "dapper is very cool"). [Dapper](<http://www.dapper.net> "dapper is very

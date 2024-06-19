@@ -6,8 +6,6 @@ date: 2018-10-21
 
 **Link: [Some great links for  10/22/2018](None):** ""
 
-
-
   * [danburzo/percollate](<https://github.com/danburzo/percollate>)
 
 This looks like a super useful tool!

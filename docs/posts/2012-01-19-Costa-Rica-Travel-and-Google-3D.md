@@ -10,8 +10,6 @@ tags:
 
 **Link: [Costa Rica Travel and Google 3D](None):** ""
 
-
-
 We are thinking of planning a trip to Costa Rica. Part of the trip is to get
 from Tabacon to Monteverde, which I gather is a very popular tourist route,
 being between two of the most scenic parts of the country.

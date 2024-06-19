@@ -6,8 +6,6 @@ date: 2007-12-23
 
 **Link: [Is Apple trying to buy off “Fake Steve” or is it April 1 in December?](None):** ""
 
-
-
 I wrote [recently about Fake Steve and wondered aloud how he could get away
 with what he gets away with](</2007/11/28/how-does-fake-steve-get-away-with-
 this/>).

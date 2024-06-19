@@ -6,8 +6,6 @@ date: 2007-03-04
 
 **Link: [[GEEKY] New FireFox add-in for del.icio.us close but not yet](None):** ""
 
-
-
 I was glad to see that the [FireFox add-in for
 del.icio.us](<https://addons.mozilla.org/firefox/3615/>) was revised to
 combine the [features](<https://addons.mozilla.org/firefox/3615/history/>) of

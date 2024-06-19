@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2019-12-11
 ---
 
-
->>
-
->> I recently realized that there's a word for one of the things I do. It's
+I recently realized that there's a word for one of the things I do. It's
 "Public-Interest Technologist". Modeled after the concept of Public-Interest
 Law, I have and will continue to work on behalf of non-profits, charities, and
 other public good organizations _pro-bono_ on anything within my area of
@@ -31,7 +28,7 @@ different people do, but it’s the best umbrella term that covers everyone._
 
 >>>
 
->>>  _[Bruce Schneier](<https://www.schneier.com/>)_ writing in [Public-
+>>> _[Bruce Schneier](<https://www.schneier.com/>)_ writing in [Public-
 Interest Technology Resources](<https://public-interest-tech.com/>)
 
 

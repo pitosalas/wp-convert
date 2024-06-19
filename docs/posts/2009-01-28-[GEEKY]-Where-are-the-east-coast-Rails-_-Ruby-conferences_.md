@@ -11,8 +11,6 @@ tags:
 
 **Link: [[GEEKY] Where are the east coast Rails / Ruby conferences?](None):** ""
 
-
-
 > "So yet another way you can help Ruby and Rails Activism is by attending  
 > (supporting) a conference. Below you’ll find conferences coming up in  
 > the next 6 months. If you think I’ve missed one, or if the information  

@@ -8,8 +8,6 @@ tags:
 
 **Link: [How to Monitor Network and Zoom Performance & Fix “Your Internet Connection is Unstable” on Zoom](None):** ""
 
-
-
 [ How to Monitor Network and Zoom Performance & Fix “Your Internet Connection
 is Unstable” on Zoom](<https://medium.com/obkio/how-to-monitor-network-and-
 zoom-performance-fix-your-internet-connection-is-unstable-on-

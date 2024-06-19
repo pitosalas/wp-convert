@@ -6,8 +6,6 @@ date: 2008-03-05
 
 **Link: [Do I need yet another site doing life streaming?](None):** ""
 
-
-
 First it was [Facebook](<https://www.facebook.com>), then (I think) it was
 [Plaxo](<http://pulse.plaxo.com/pulse/>), then LinkedIn, and now
 [MyBlogLog](<http://www.mybloglog.com/>) is offering me a way to publicize all

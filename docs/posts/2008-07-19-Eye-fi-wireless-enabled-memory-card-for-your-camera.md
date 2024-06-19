@@ -6,8 +6,6 @@ date: 2008-07-19
 
 **Link: [Eye-fi wireless enabled memory card for your camera](None):** ""
 
-
-
 If you haven't seen this and you shoot a lot of digital photos, you will love
 this product; also seems like a great gift: "Upload photos automatically from
 your digital camera to your computer and favorite photo site with the world's

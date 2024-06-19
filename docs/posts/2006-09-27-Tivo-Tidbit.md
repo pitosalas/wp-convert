@@ -6,9 +6,8 @@ date: 2006-09-27
 
 **Link: [Tivo Tidbit](None):** ""
 
+If:
 
->
-> If:
 >
 >   * You happen to have a Tivo
 >

@@ -6,8 +6,6 @@ date: 2007-03-15
 
 **Link: [Costco rental car discount](None):** ""
 
-
-
 I've been a member of [Costco](<http://www.costco.com/>) for years. Yeah, you
 always buy more stuff there than you intended, but it's so much fun!
 

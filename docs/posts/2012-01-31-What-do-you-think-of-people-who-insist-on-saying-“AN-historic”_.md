@@ -10,8 +10,6 @@ tags:
 
 **Link: [What do you think of people who insist on saying “AN historic”?](None):** ""
 
-
-
 I know (at least I believe) that, for example,
 
 "… Scott Brown and I reached an historic agreement…"

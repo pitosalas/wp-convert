@@ -6,8 +6,6 @@ date: 2014-08-12
 
 **Link: [Worth reading: Hillary Clinton: ‘Failure’ to Help Syrian Rebels Led to the Rise of ISIS](None):** ""
 
-
-
 ![](https://i0.wp.com/salas.com/wp-
 content/uploads/2014/08/b66ed-1407848922617.jpg?w=584&ssl=1)
 

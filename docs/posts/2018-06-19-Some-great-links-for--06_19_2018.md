@@ -6,8 +6,6 @@ date: 2018-06-19
 
 **Link: [Some great links for  06/19/2018](None):** ""
 
-
-
   * [Smart Weather Station Indoor Outdoor | Netatmo](<https://www.netatmo.com/en-US/product/weather/weatherstation>)
 
 tags: [weather](<https://www.diigo.com/user/pitosalas/weather>)

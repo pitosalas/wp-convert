@@ -10,8 +10,6 @@ tags:
 
 **Link: [Woz speaks (on iPhone)](None):** ""
 
-
-
 I happen to be reading iWoz, which is Steve Wozniak's
 memoir/biography/whatever. It's a very breezy easy read and fun if you follow
 this kind of thing. So naturally this caught my eye:

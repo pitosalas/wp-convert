@@ -10,8 +10,6 @@ tags:
 
 **Link: [[teaching] A student’s perspective on course selection](None):** ""
 
-
-
 I stumbled across this article while waiting for a meeting to start. It is a
 bit "inside baseball", in this case "inside brandeis" but it was revealing to
 me at least. Students can "shop" for courses for the first two weeks of the

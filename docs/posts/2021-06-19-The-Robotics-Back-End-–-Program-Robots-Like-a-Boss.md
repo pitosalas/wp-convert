@@ -8,8 +8,6 @@ tags:
 
 **Link: [The Robotics Back-End – Program Robots Like a Boss](None):** ""
 
-
-
 [ The Robotics Back-End - Program Robots Like a
 Boss](<https://roboticsbackend.com/>)
 

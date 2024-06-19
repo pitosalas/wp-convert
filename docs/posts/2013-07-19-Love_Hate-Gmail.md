@@ -10,8 +10,6 @@ tags:
 
 **Link: [Love/Hate Gmail](None):** ""
 
-
-
 I've been using Gmail like forever now and have converted many friends and
 family members to using it. It's great and it's ridiculously cheap. Coupled
 with a good ad-suppressor plug-in for Safari (Mac) it works well for me. I do

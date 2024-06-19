@@ -9,8 +9,6 @@ tags:
 
 **Link: [Spotify – genres?](None):** ""
 
-
-
 Ok a few hours into it, I've located what looks like a major weakness in
 Spotify. One of the fun things about Rhapsody is discovering new music. What
 are the top albums in "Piano Jazz". Had to look and look for a similar feature

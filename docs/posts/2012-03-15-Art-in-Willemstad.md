@@ -10,8 +10,6 @@ tags:
 
 **Link: [Art in Willemstad](None):** ""
 
-
-
 An annual event, the streets of [Willemstad (Curaçao)
 ](<http://www.curacao.com/The-Curacao-Difference/Our-Historic-Capital>)are
 covered with art by well known artists:

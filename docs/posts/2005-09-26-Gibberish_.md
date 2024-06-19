@@ -6,10 +6,7 @@ date: 2005-09-26
 
 **Link: [Gibberish?](None):** ""
 
-
->>
-
->> Interesting and **amusing** little article from ACM Queue:
+Interesting and **amusing** little article from ACM Queue:
 
 >>
 
@@ -17,7 +14,7 @@ date: 2005-09-26
 computer program to generate random sequences of technobabble in order to
 confirm their suspicions that papers of dubious academicity were bypassing
 serious, or indeed, any scrutiny. In fact, the students claim ulterior,
-financial motives behind this lack of proper peer review." ( **from** [Call
+financial motives behind this lack of proper peer review." (**from** [Call
 That
 Gibberish?](<http://acmqueue.com/modules.php?name=Content&pa=showpage&pid=325>))
 

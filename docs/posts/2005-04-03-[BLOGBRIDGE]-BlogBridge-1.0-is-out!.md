@@ -6,12 +6,9 @@ date: 2005-04-03
 
 **Link: [[BLOGBRIDGE] BlogBridge 1.0 is out!](None):** ""
 
-
->>
-
->> **It 's here! **We are officially declaring BlogBridge as a 1.0 product!
-The site is updated, the features are solid and we are off to the races. Here
-are some personal tidbits about where we are now and what happens next:
+**It 's here! **We are officially declaring BlogBridge as a 1.0 product! The
+site is updated, the features are solid and we are off to the races. Here are
+some personal tidbits about where we are now and what happens next:
 
 >>
 
@@ -21,16 +18,12 @@ And if by now you don't know - you can read all about **BlogBridge**
 [here](<http://www.blogbridge.com>)and download 1.0
 [here.](<http://www.blogbridge.com/install/weekly/blogbridge.jnlp>)
 
->>
-
 >>   * Meanwhile we are well on the way to the design and planning of
 BlogBridge 2.0. Yes, this isn't the **end** of the line, actually it's the
 very **beginning**. I think of 1.0 as the minimalist "me too" foundation on
 which we can start building the _really cool stuff._ Our focus will be to push
 the envelope on **community** aspects of BlogBridge - both the application and
 the service.
-
->>
 
 >>   * BlogBridge is an **open source projec** t. One thing I've learned first
 hand with this project is that putting the "open source" shingle out doesn't
@@ -41,10 +34,6 @@ bigger plans than resources.
 
 >>
 
->>
-
->>
-
->> Anyway, it's an exciting moment. **Stick with us** : we have HIGH hopes!
+Anyway, it's an exciting moment. **Stick with us** : we have HIGH hopes!
 
 

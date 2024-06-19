@@ -6,15 +6,13 @@ date: 2009-02-11
 
 **Link: [How Corrupt is Our Language in Economic Discourse?](None):** ""
 
-
-
 Check out this post [How Corrupt is Our Language in Economic
 Discourse?](<http://austrianeconomists.typepad.com/weblog/2009/02/how-corrupt-
 is-our-language-in-economic-discourse.html>):
 
 > "And as Deirdre McCloskey has put it, when your intellectual range is from
 > M-N you think you are being open minded when you look at M and you look at
-> N, but you certainly don't see A or Z. " ( **from:** from [The Austrian
+> N, but you certainly don't see A or Z. " (**from:** from [The Austrian
 > Economists](<http://austrianeconomists.typepad.com/weblog/atom.xml>))
 
 So now that I made a point about my

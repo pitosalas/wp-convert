@@ -6,10 +6,7 @@ date: 2004-01-30
 
 **Link: [BlogBridge update: Just a quick](None):** ""
 
-
->>
-
->> **BlogBridge update:** Just a quick note about what's up with
+**BlogBridge update:** Just a quick note about what's up with
 [BlogBridge](<http://www.blogbridge.com>). My time has been severely drained
 by a new consulting project, so progress has slowed down more than I would
 like. The last while I was knee-deep in installation, deployment, upgrade

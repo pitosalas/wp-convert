@@ -10,11 +10,8 @@ If you are interested in blogging you certainly have come across [Robert
 Scoble's blog](<http://scoble.weblogs.com/>), the most prominent blog written
 by a Microsoft employee. Recently [The Economist wrote a story about Robert
 Scoble at Microsoft. Nice article.
-](<http://www.economist.com/people/displayStory.cfm?story_id=3644293>)
-
->>
-
->> Tip o' the hat to Robert Scoble for his [response to this
+](<http://www.economist.com/people/displayStory.cfm?story_id=3644293>) Tip o'
+the hat to Robert Scoble for his [response to this
 column](<http://radio.weblogs.com/0001011/2005/02/11.html#a9393>):
 
 >>

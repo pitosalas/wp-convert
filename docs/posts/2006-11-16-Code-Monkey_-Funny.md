@@ -6,11 +6,10 @@ date: 2006-11-16
 
 **Link: [Code Monkey: Funny](None):** ""
 
+Came across Jonathan Coulton, the songwriter who embarked on a ridiculous
+challenge to write a song each week, for a whole year. Quite a crazy thing,
+but he pulled it off.
 
->
-> Came across Jonathan Coulton, the songwriter who embarked on a ridiculous
-> challenge to write a song each week, for a whole year. Quite a crazy thing,
-> but he pulled it off.
 >
 
 >> "Thing a Week is a project I've been working on since September 2005 in
@@ -18,7 +17,7 @@ which I record and post a song a week as a podcast. It's a way for me to keep
 the creative juices flowing as freely as possible, and a way for me to push
 myself to take risks, work quickly and trust in the creative process. It's
 also a form of protest - I will keep doing this until someone pays me to do
-it." ( **from** [Thing a Week](<http://jonathancoulton>))
+it." (**from** [Thing a Week](<http://jonathancoulton>))
 
 >
 > One of my all time favorites, that you gotta check out, [Code

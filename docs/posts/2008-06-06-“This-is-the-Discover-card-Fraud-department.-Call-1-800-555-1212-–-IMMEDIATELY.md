@@ -6,8 +6,6 @@ date: 2008-06-06
 
 **Link: [“This is the Discover card Fraud department. Call 1-800-555-1212 – IMMEDIATELY](None):** ""
 
-
-
 Sounds ominous, right? So I call them up, and I hear a serious voice telling
 me to please hold on, then I hear the official sounding "you are being
 recorded" beep beep beep.

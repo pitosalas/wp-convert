@@ -10,8 +10,6 @@ tags:
 
 **Link: [Getting the best deals… Check out decide.com](None):** ""
 
-
-
 A **useful** article in the New York Times today, just in time for the
 holidays. A[ new site that tries to forecast the best time to buy that item
 you really want. ](<http://www.nytimes.com/2011/11/25/business/fridays-deals-
@@ -30,7 +28,7 @@ site and if it works, it could be very useful. The site is
 > Washington, has directed his considerable intellect at the American ritual
 > of shopping for bargains on Black Friday. After examining billions of prices
 > of consumer electronics, he has decided to spend the busiest shopping day of
-> the year scuba-diving in Bali." ( **from** [The New York
+> the year scuba-diving in Bali." (**from** [The New York
 > Times)](<http://www.nytimes.com/2011/11/25/business/fridays-deals-may-not-
 > be-the-best.html>)
 

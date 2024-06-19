@@ -6,10 +6,7 @@ date: 2004-10-06
 
 **Link: [[GEEK] Undrestanding and getting around EDT](None):** ""
 
-
->>
-
->> No, **not** Eastern Daylight Time, the Swing **Event Dispatch Thread**.
+No, **not** Eastern Daylight Time, the Swing **Event Dispatch Thread**.
 **Duh**. If the abbreviation EDT doesn't send shivers up your spine you're not
 really a Java Geek. Or maybe you are an **uber-geek**.
 

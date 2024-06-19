@@ -6,9 +6,7 @@ date: 2006-12-09
 
 **Link: [Free book on “Algorithms” highly recommended](None):** ""
 
-
->
-> <!-  
+<!-  
 >  body { font-variant: normal; font-style: normal; font-weight: normal; font-
 > size: 11pt; line-height: normal; font-family: Tahoma }  
 >  ->

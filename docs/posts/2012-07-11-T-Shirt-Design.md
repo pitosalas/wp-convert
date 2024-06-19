@@ -9,8 +9,6 @@ tags:
 
 **Link: [T-Shirt Design](None):** ""
 
-
-
 Code T-Shirt, © Pito Salas, 2012. Let me know if you want to order one!
 
 ![Screen Shot 2012 07 10 at 8 48 00 PM](https://i0.wp.com/salas.com/wp-

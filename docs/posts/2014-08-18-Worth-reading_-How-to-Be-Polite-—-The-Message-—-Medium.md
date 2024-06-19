@@ -6,8 +6,6 @@ date: 2014-08-18
 
 **Link: [Worth reading: How to Be Polite — The Message — Medium](None):** ""
 
-
-
 ![](https://i0.wp.com/salas.com/wp-
 content/uploads/2014/08/5524e-1408365433155.png?w=584&ssl=1)
 

@@ -12,8 +12,6 @@ tags:
 
 **Link: [Super compelling: Narrative of human error leading to catastrophe](None):** ""
 
-
-
 A remarkable [article in Popular Mechanics (remember them?) about the crash of
 Air France
 447.](<http://www.popularmechanics.com/technology/aviation/crashes/what-
@@ -35,7 +33,7 @@ narrative.
 > and then seemed unable to comprehend the nature of the problems they had
 > caused. Neither weather nor malfunction doomed AF447, nor a complex chain of
 > error, but a simple but persistent mistake on the part of one of the
-> pilots." ( **from** [Popular
+> pilots." (**from** [Popular
 > Mechanics](<http://www.popularmechanics.com/technology/aviation/crashes/what-
 > really-happened-aboard-air-france-447-6611877>))
 

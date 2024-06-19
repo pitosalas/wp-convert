@@ -12,8 +12,6 @@ tags:
 
 **Link: [[GEEKY] Even the simplest things are complicated](None):** ""
 
-
-
 I love this article revealing the beautiful hidden complexity of the lowly
 magsafe connector.
 

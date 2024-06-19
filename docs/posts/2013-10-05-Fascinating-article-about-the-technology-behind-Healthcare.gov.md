@@ -10,8 +10,6 @@ tags:
 
 **Link: [Fascinating article about the technology behind Healthcare.gov](None):** ""
 
-
-
 Pretty amazing that the govt is actually placing [all the code for
 healthcare.gov on github for all of us to
 inspect](<https://github.com/CMSgov/healthcare.gov>). There's only one commit,
@@ -22,9 +20,7 @@ information available. ](<https://www.healthcare.gov/developers/>)
 *all* there or how fast it will be updated, but still whatever's there is a
 big step forward from the SOP of the past!
 
-[Open by design: Why the way the new Healthcare.gov was built matters | E
-Pluribus Unum](<http://e-pluribusunum.com/2013/06/22/why-the-way-the-
-healthcare-gov-exchange-was-built-matters/>):
+[Open by design: Why the way the new Healthcare.gov was built matters | E Pluribus Unum](<http://e-pluribusunum.com/2013/06/22/why-the-way-the-healthcare-gov-exchange-was-built-matters/>):
 
 > The people building the new Healthcare.gov are unusual: instead of an
 > obscure sub-contractor in a nameless office park in northern Virginia, a by

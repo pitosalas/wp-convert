@@ -6,8 +6,6 @@ date: 2009-12-07
 
 **Link: [e-Readers: First review I’ve seen of the Barnes and Nobel ‘Nook’](None):** ""
 
-
-
 Here's a nice [detailed review of the Kindle competitor,
 "Nook](<http://technologizer.com/2009/12/06/nook-review/>)". If you are
 thinking of giving or getting one for Christmas or Channukah you [might find

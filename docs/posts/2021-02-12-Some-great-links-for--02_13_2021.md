@@ -6,8 +6,6 @@ date: 2021-02-12
 
 **Link: [Some great links for  02/13/2021](None):** ""
 
-
-
   * [15 Python Packages You Probably Don’t Know Exits](<https://link.medium.com/csSHSvZHOdb>)
 
 Sweet collection of very useful python packages

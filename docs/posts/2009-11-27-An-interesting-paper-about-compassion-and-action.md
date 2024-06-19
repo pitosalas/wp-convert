@@ -6,8 +6,6 @@ date: 2009-11-27
 
 **Link: [An interesting paper about compassion and action](None):** ""
 
-
-
 Ethan Zuckerman's blog is more like a magazine of insightful, well written
 papers. I liked [From compassion to action, from action to
 knowledge](<http://www.ethanzuckerman.com/blog/2009/11/19/from-compassion-to-
@@ -17,7 +15,7 @@ action-from-action-to-knowledge/>). Here's a key bit:
 > possible that doing something – even something that’s ultimately ineffective
 > – could keep us engaged and compassionate? If so, is there an interplay
 > between action and information-gathering that could turn a story into a
-> movement that builds public will?" ( **from** [From compassion to action,
+> movement that builds public will?" (**from** [From compassion to action,
 > from action to
 > knowledge](<http://www.ethanzuckerman.com/blog/2009/11/19/from-compassion-
 > to-action-from-action-to-knowledge/>))

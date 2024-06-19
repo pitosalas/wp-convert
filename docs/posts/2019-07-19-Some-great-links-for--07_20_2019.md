@@ -6,8 +6,6 @@ date: 2019-07-19
 
 **Link: [Some great links for  07/20/2019](None):** ""
 
-
-
   * [Goodbye ActiveRecord! - Inside Aircall - Medium](<https://medium.com/inside-aircall/goodbye-activerecord-e61ce894ed48>)
 
 Always wanted to learn more about this new Orm

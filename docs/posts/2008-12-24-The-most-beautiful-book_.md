@@ -6,8 +6,6 @@ date: 2008-12-24
 
 **Link: [The most beautiful book?](None):** ""
 
-
-
 Now here's a recommendation:
 
 > "I recently got a hold of what I consider to be the nicest mathematical book

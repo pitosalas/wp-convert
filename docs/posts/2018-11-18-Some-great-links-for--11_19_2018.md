@@ -6,8 +6,6 @@ date: 2018-11-18
 
 **Link: [Some great links for  11/19/2018](None):** ""
 
-
-
   * [harelba/q](<https://github.com/harelba/q>)
 
 Under the right circumstances this is an amazingly useful tool

@@ -6,13 +6,10 @@ date: 2004-01-08
 
 **Link: [Wonderful Mars pictures? Unavailable! I](None):** ""
 
-
->>
-
->> **Wonderful Mars pictures? Unavailable!** I was looking around the [Mars
-Rover Web](<http://marsrovers.jpl.nasa.gov/home/index.html>) site for some of
-those amazing pictures, and to my surprise they are now asking for a password
-to get into the ['raw
+**Wonderful Mars pictures? Unavailable!** I was looking around the [Mars Rover
+Web](<http://marsrovers.jpl.nasa.gov/home/index.html>) site for some of those
+amazing pictures, and to my surprise they are now asking for a password to get
+into the ['raw
 images'](<http://marsrovers.jpl.nasa.gov/gallery/all/spirit.html>) area. I've
 got to believe that this is not for security but because their server was
 getting totally beat up by people like me browsing around.

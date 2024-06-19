@@ -6,8 +6,6 @@ date: 2018-05-28
 
 **Link: [Some great links for  05/28/2018](None):** ""
 
-
-
   * [Mainframe on the Macbook – Marianne Bellotti – Medium](<https://medium.com/@bellmar/mainframe-on-the-macbook-51bc1806d869?source=userActivityShare-d383785221d0-1527427174>)
 
 COBOL Mac programming

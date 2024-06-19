@@ -10,8 +10,6 @@ tags:
 
 **Link: [Theory and Practice](None):** ""
 
-
-
 [In theory there is no difference between theory and practice. In practice
 there is. - Yogi Berra at
 BrainyQuote](<http://www.brainyquote.com/quotes/quotes/y/yogiberra141506.html>):

@@ -6,8 +6,6 @@ date: 2008-01-22
 
 **Link: [What is a discontinuity?](None):** ""
 
-
-
 ![Discontinuity](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-
 content/uploads/imagewell//discontinuity.jpg?w=174)This is what a
 **discontinuity** in a graph looks like 🙂

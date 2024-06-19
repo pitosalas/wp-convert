@@ -9,8 +9,6 @@ tags:
 
 **Link: [Google+ – Professional Social Network?](None):** ""
 
-
-
 Some people are starting to wonder whether [Google+ ](</>)will continue to
 grow and become a major social network. Even for Google, it will be **quite an
 achievement** to penetrate the already relatively crowded world of social
@@ -33,7 +31,7 @@ Here's what one pundit said as criticism in a recent article:
 > fact is, very few people have room to manage many multiple social networks …
 > since there is only so much time in the day to waste on the Internet. Add in
 > Google+, effectively a duplicate of Facebook, and there just isn't space for
-> it." ( **from** [Worse than a
+> it." (**from** [Worse than a
 > Ghosttown)](<http://www.pbs.org/mediashift/2011/09/google-social-media-
 > upstart-worse-than-a-ghost-town262.html>)
 

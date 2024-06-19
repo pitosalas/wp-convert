@@ -10,8 +10,6 @@ tags:
 
 **Link: [Ivory Tower or Trade school?](None):** ""
 
-
-
 One of the tensions that I have seen in teaching software engineering is
 whether something should be viewed as legitimate research or part of the craft
 of computer engineering.

@@ -8,8 +8,6 @@ tags:
 
 **Link: [Seven Do’s And Three Don’ts For Creating New Web Products](None):** ""
 
-
-
 [Seven Do’s And Three Don’ts For Creating New Web
 Products](<http://feeds.feedburner.com/~r/WhyDoesEverythingSuck/~3/281422506/seven-
 dos-and-three-donts-for-creating.html>) contains some excellent **Do 's and

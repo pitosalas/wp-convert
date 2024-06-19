@@ -11,8 +11,6 @@ tags:
 
 **Link: [Technology doesn’t contribute to productivity?](None):** ""
 
-
-
 Here's what I think: If economic analysis says that technology does not
 contribute to the overall productivity of the country, check the analysis.
 It's incorrect.

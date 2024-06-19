@@ -6,8 +6,6 @@ date: 2019-11-13
 
 **Link: [Some great links for  11/14/2019](None):** ""
 
-
-
   * [PathFinding.js](<https://qiao.github.io/PathFinding.js/visual/>)
 
 A fantastic visualization of various path finding algorithms

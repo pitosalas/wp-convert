@@ -6,10 +6,7 @@ date: 2004-05-18
 
 **Link: [Words DO matter](None):** ""
 
-
->>
-
->> I was scanning [Jon Udell's
+I was scanning [Jon Udell's
 blog](<http://weblog.infoworld.com/udell/2004/05/17.html>) and came across the
 following:
 

@@ -11,8 +11,6 @@ tags:
 
 **Link: [How to be a “woman programmer”](None):** ""
 
-
-
 [How to Be a 'Woman Programmer' -
 NYTimes.com](<http://www.nytimes.com/2013/05/19/opinion/sunday/how-to-be-a-
 woman-programmer.html?_r=0>):

@@ -6,10 +6,7 @@ date: 2006-08-11
 
 **Link: [James Fallows: “The War on Terror is Over”](None):** ""
 
-
->>
-
->> Another [great
+Another [great
 article](<http://www.theatlantic.com/doc/200609/fallows_victory>) in The
 Atlantic, James Fallows: "[Declaring
 Victory](<http://www.theatlantic.com/doc/200609/fallows_victory>)"
@@ -36,14 +33,10 @@ change is this: because of al-Qaeda's own mistakes, and because of the things
 the United States and its allies have done right, al-Qaeda's ability to
 inflict direct damage in America or on Americans has been sharply reduced. Its
 successor groups in Europe, the Middle East, and elsewhere will continue to
-pose dangers.
-
->>>
-
->>> But its hopes for fundamentally harming the United States now rest
-**less** on what it can do itself than on what it can **trick** , **tempt** ,
-or **goad** us into **doing**. Its destiny is no longer in its own hands."
-(James Fallows, **from** [Declaring
+pose dangers.  But its hopes for fundamentally harming the United States now
+rest **less** on what it can do itself than on what it can **trick** ,
+**tempt** , or **goad** us into **doing**. Its destiny is no longer in its own
+hands." (James Fallows, **from** [Declaring
 Victory](<http://www.theatlantic.com/doc/200609/fallows_victory>))
 
 >>

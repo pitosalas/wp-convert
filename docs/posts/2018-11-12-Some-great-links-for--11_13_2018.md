@@ -6,8 +6,6 @@ date: 2018-11-12
 
 **Link: [Some great links for  11/13/2018](None):** ""
 
-
-
   * [A Safer RuboCop](<https://metaredux.com/posts/2018/10/27/a-safer-rubocop.html>)
 
 Rubocop is a great tool for Ruby programmers

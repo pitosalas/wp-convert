@@ -6,8 +6,6 @@ date: 2008-08-21
 
 **Link: [Democrat vs. Democratic](None):** ""
 
-
-
 I wonder about this.
 
 Why is it considered a slur to use [Democrat as an

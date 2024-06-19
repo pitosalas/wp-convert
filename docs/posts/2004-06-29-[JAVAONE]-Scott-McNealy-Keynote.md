@@ -6,11 +6,8 @@ date: 2004-06-29
 
 **Link: [[JAVAONE] Scott McNealy Keynote](None):** ""
 
-
->>
-
->> I had never heard him speak - He's a lot of fun to listen to - funny and
-with a sense of his audience. This was a shorter keynote then yesterday. This
+I had never heard him speak - He's a lot of fun to listen to - funny and with
+a sense of his audience. This was a shorter keynote then yesterday. This
 wasn't the kind of **rah-rah** motivational speech that I was expecting. He
 did drive home a few points, clearly showing what he was most interested in us
 taking away:

@@ -6,9 +6,7 @@ date: 2006-12-23
 
 **Link: [In-depth analysis of Microsoft content syndication platform patent application](None):** ""
 
-
->
-> <!-  
+<!-  
 >  body { font-weight: normal; line-height: normal; font-family: Lucida
 > Grande; font-variant: normal; font-style: normal; font-size: 11pt }  
 >  ->

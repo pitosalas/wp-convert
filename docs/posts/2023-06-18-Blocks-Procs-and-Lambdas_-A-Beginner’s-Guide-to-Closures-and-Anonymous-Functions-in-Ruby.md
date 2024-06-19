@@ -14,8 +14,6 @@ tags:
 
 **Link: [Blocks Procs and Lambdas: A Beginner’s Guide to Closures and Anonymous Functions in Ruby](None):** ""
 
-
-
 [ Blocks, Procs, and Lambdas: A Beginner's Guide to Closures and Anonymous
 Functions in Ruby](<https://www.akshaykhot.com/ruby-block-proc-lambda-and-
 differences-between-them/>) –Closures and anonymous functions are very useful

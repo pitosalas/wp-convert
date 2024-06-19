@@ -6,8 +6,6 @@ date: 2007-10-25
 
 **Link: [How to Opt Out of Junk Mail and Catalogs: Useful from Chris Pirillo](None):** ""
 
-
-
 Check out [this post](<http://chris.pirillo.com/2007/10/24/how-to-opt-out-of-
 junk-mail-and-catalogs-2/>) from [Chris Pirillo](<http://chris.pirillo.com>):
 

@@ -6,8 +6,6 @@ date: 2009-07-13
 
 **Link: [Microsoft still has some tricks up it’s sleeve: Office 2010](None):** ""
 
-
-
 Now I've been a mac for about 4 years now, so I generally don't pay too much
 attention to Microsoft's new product releases. But take a look at some of
 these videos about Office 2010. There's are some impressive new developments.

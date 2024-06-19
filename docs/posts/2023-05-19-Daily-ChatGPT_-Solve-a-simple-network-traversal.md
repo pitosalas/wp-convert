@@ -6,8 +6,6 @@ date: 2023-05-19
 
 **Link: [Daily ChatGPT: Solve a simple network traversal](None):** ""
 
-
-
 Tell me how this is simple word completion. Can this be broadened to a more
 complicated network. Could it be used for some kind of semi-intelligent
 navigation?

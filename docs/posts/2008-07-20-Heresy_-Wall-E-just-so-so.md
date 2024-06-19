@@ -6,8 +6,6 @@ date: 2008-07-20
 
 **Link: [Heresy: Wall-E just so-so](None):** ""
 
-
-
 Yeah I know all the [reviews have been
 raving](<http://www.rottentomatoes.com/m/wall_e/>) - "Best movie this year" -
 "[Will change your

@@ -6,8 +6,6 @@ date: 2007-12-25
 
 **Link: [What does Roger Clemens have in  common with the Queen of England?](None):** ""
 
-
-
 Youtube!
 
 > [Here is Roger Clemens denying his use of

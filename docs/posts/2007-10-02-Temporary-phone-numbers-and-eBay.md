@@ -6,8 +6,6 @@ date: 2007-10-02
 
 **Link: [Temporary phone numbers and eBay](None):** ""
 
-
-
 When you are selling or buying something on the web, say eBay or Craigslist,
 it always is a question whether to give your 'real' phone number out. I just
 came across Numbr.com (credit

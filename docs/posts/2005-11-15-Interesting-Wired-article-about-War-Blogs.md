@@ -6,10 +6,7 @@ date: 2005-11-15
 
 **Link: [Interesting Wired article about War Blogs](None):** ""
 
-
->>
-
->> I [came across this a
+I [came across this a
 little](<http://www.wired.com/wired/archive/13.08/milblogs.html>) while ago in
 Wired about War Blogs. Pretty amazing stuff:
 
@@ -19,17 +16,14 @@ Wired about War Blogs. Pretty amazing stuff:
 nothing new. But online technology in the combat zone has suddenly given those
 opinions a mass audience and an instantaneous forum for the first time in the
 history of warfare. On the 21st-century battlefield, the campfire glow comes
-from a laptop computer, and it's visible around the world." ( **from**
+from a laptop computer, and it's visible around the world." (**from**
 [Wired](<http://www.wired.com/wired/archive/13.08/milblogs.html>))
 
 >>
 
 >> Read the [whole
 thing](<http://www.wired.com/wired/archive/13.08/milblogs.html>) - it's
-interesting.
-
->>
-
->> Technorati Tags: [corantessa](<http://www.technorati.com/tag/corantessa>)
+interesting. Technorati Tags:
+[corantessa](<http://www.technorati.com/tag/corantessa>)
 
 

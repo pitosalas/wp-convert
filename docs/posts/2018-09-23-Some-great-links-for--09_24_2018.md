@@ -6,8 +6,6 @@ date: 2018-09-23
 
 **Link: [Some great links for  09/24/2018](None):** ""
 
-
-
   * [rlabbe/Kalman-and-Bayesian-Filters-in-Python](<https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python>)
 
 I’m trying to get smart about Kalman filters. This is a great resource

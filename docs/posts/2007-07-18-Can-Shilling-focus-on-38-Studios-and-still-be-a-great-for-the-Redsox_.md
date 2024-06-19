@@ -6,8 +6,6 @@ date: 2007-07-18
 
 **Link: [Can Shilling focus on 38 Studios and still be a great for the Redsox?](None):** ""
 
-
-
 Far be it from me to comment on sports… In fact this is exactly the first
 sports related post for this blog in 4 years.
 

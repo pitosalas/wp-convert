@@ -9,8 +9,6 @@ tags:
 
 **Link: [Paul Simon’s Graceland Album: the back story](None):** ""
 
-
-
 Ethan Zuckerman writes a great piece about how Paul Simon's Graceland album
 came to be, with some of the historical context, backstory and being a
 xenophile. A great read:

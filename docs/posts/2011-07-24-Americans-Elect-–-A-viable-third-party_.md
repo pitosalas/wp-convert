@@ -11,8 +11,6 @@ tags:
 
 **Link: [Americans Elect – A viable third party?](None):** ""
 
-
-
 It's unusual to see [Thomas
 Friedman](<http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/thomaslfriedman/index.html?inline=nyt-
 per>) to throw his weight this thoroughly behind an outside organization:

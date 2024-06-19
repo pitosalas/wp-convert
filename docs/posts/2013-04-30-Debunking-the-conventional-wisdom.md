@@ -11,8 +11,6 @@ tags:
 
 **Link: [Debunking the conventional wisdom](None):** ""
 
-
-
 What do you think, are younger people better programmers? Are they more
 productive, more clever, work longer hours? Or do older people have some
 advantages? Here's a bit of research that says they do!

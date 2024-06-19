@@ -6,8 +6,6 @@ date: 2020-08-25
 
 **Link: [Some great links for  08/26/2020](None):** ""
 
-
-
   * [ajeetdsouza/zoxide](<https://github.com/ajeetdsouza/zoxide>)
 
 A great new tool!

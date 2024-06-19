@@ -6,10 +6,7 @@ date: 2004-05-06
 
 **Link: [New version of iTunes](None):** ""
 
-
->>
-
->> Good evening sportsfans. There's a new version (4.5) of iTunes for Windows.
+Good evening sportsfans. There's a new version (4.5) of iTunes for Windows.
 All I can see after a quick look-over is a new feature called "Party Shuffle"
 that appears to create a quasi-random mix, based on a few parameters. Suitable
 for parties, I guess 🙂

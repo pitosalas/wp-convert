@@ -6,8 +6,6 @@ date: 2009-08-18
 
 **Link: [Canada’s cellphone rates among the highest, USA even higher!](None):** ""
 
-
-
 Did you think you pay a lot for cellphone coverage? An [article in the Globe
 and Mail about cellphone
 rates](<http://www.theglobeandmail.com/news/technology/canadas-cellphone-

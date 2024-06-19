@@ -11,8 +11,6 @@ tags:
 
 **Link: [Quote about improvisation (from David Byrne’s new book)](None):** ""
 
-
-
 I picked up David Byrne's new book: [How Music
 Works](<http://www.amazon.com/gp/product/1936365537/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1936365537&linkCode=as2&tag=blogbridge-20>)![](http://www.assoc-
 amazon.com/e/ir?t=blogbridge-20&l=as2&o=1&a=1936365537) while waiting around

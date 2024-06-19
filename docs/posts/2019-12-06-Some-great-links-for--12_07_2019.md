@@ -6,8 +6,6 @@ date: 2019-12-06
 
 **Link: [Some great links for  12/07/2019](None):** ""
 
-
-
   * [A High-Level Grammar of Interactive Graphics | Vega-Lite](<https://vega.github.io/vega-lite/>)
 
 Looks really useful

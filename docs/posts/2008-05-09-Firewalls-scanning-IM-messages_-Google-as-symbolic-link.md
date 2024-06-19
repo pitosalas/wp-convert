@@ -8,8 +8,6 @@ tags:
 
 **Link: [Firewalls scanning IM messages: Google as symbolic link](None):** ""
 
-
-
 Here's something I **hadn 't seen before:** I IM'd a friend of mine at a Big
 Company and the message got **rejected** because it included a **URL**. I have
 to suppose that it's any URL that gets bounced, but who knows?

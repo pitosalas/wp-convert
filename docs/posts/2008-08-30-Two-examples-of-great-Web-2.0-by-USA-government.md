@@ -6,9 +6,7 @@ date: 2008-08-30
 
 **Link: [Two examples of great Web 2.0 by USA government](None):** ""
 
-
-
-Who said "y **our TSA don 't dance and your USPTO don't rock and roll**?" (One
+Who said "y**our TSA don 't dance and your USPTO don't rock and roll**?" (One
 free copy of BlogBridge for all of you who get the reference without using
 Wikipedia)
 
@@ -21,7 +19,7 @@ From their blurb:
 
 > "This blog is sponsored by the Transportation Security Administration to
 > facilitate an ongoing dialogue on innovations in security, technology and
-> the checkpoint screening process." ( **from** The [Evolution of
+> the checkpoint screening process." (**from** The [Evolution of
 > Security](<http://www.tsa.gov/blog/>))
 
 By the way, a plea: please name your blogs in a way that it doesn't take a
@@ -34,7 +32,7 @@ But it is quite interesting, for example, from a few days ago:
 > machine saw two razor blades in what appeared to be a book in someone's
 > carry-on bag. During the bag check, the razor blades were found inside the
 > pages of a Bible, and bag belonged to… a priest. Can't make this stuff up."
-> ( **from** [Saturday Morning, Strange But
+> (**from** [Saturday Morning, Strange But
 > True…"](<http://www.tsa.gov/blog/2008/02/saturday-morning-strange-but-
 > true.html>))
 

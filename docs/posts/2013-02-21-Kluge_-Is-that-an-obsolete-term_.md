@@ -10,8 +10,6 @@ tags:
 
 **Link: [Kluge: Is that an obsolete term?](None):** ""
 
-
-
 I was amazed today when in a group of 25 undergraduate engineering students,
 only three had heard the word
 [kluge](<http://www.urbandictionary.com/define.php?term=kluge>). When I

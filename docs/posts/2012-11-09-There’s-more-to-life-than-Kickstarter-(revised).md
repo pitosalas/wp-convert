@@ -10,8 +10,6 @@ tags:
 
 **Link: [There’s more to life than Kickstarter (revised)](None):** ""
 
-
-
 Everyone (almost) has heard of [Kickstarter](<http://www.kickstarter.com>),
 right? It's the best known (I think) of the so-called **Crowd Funding**
 services. Let's say you have a project - it can be anything - a record, a

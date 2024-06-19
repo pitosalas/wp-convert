@@ -6,8 +6,6 @@ date: 2007-08-20
 
 **Link: [An interesting paper about social networks](None):** ""
 
-
-
 The [guy who created [tag]Live Journal[/tag]](<http://www.bradfitz.com/>)
 (Brad Fitzpatrick) has a manifesto of sorts regarding what needs to happen
 next in the world of [tag]social networking[/tag]. He is certainly not the

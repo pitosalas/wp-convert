@@ -6,8 +6,6 @@ date: 2020-01-14
 
 **Link: [Some great links for  01/15/2020](None):** ""
 
-
-
   * [Academic Torrents](<http://academictorrents.com>)
 
 If you’re looking for data for your research project, this is an impressive

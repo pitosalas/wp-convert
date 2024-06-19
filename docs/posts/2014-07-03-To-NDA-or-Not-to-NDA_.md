@@ -9,8 +9,6 @@ tags:
 
 **Link: [To NDA or Not to NDA?](None):** ""
 
-
-
 We all have heard more than once that "VCs will NOT sign NDAs, don't even
 ask!". And we've also heard and said many times that "Ideas are cheap" and
 that many first time entrepreneurs are far too precious about their great

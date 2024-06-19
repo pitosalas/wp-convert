@@ -10,8 +10,6 @@ tags:
 
 **Link: [Nerdwallet.com is not the site I have been looking for](None):** ""
 
-
-
 I've been using mint.com for years now but every month I hate it a little bit
 more. It's too big, too slow, and too buggy. But it's solving a problem that I
 need solved which is a comprehensive cloud based personal finance tool that

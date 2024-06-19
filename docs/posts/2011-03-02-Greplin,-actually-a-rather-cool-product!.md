@@ -10,8 +10,6 @@ tags:
 
 **Link: [Greplin, actually a rather cool product!](None):** ""
 
-
-
 After attending the [Lean Startup Machine
 weekend](<http://boston.theleanstartupmachine.com/>) a few days ago, I pay
 more attention to these 'I created this startup in 3 hours' stories. So when I

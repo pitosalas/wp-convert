@@ -6,8 +6,6 @@ date: 2009-06-08
 
 **Link: [Open Government: Remixing Government Data](None):** ""
 
-
-
 I found this article to be a good primer on what's going on with open
 government data. [Remixing Government Data: Through mashups and Web apps,
 third parties are making innovative use of agencies'

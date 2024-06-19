@@ -6,11 +6,10 @@ date: 2007-01-22
 
 **Link: [Dreaming in code](None):** ""
 
+I heard about this book, ["Dreaming in
+Code"](<http://www.dreamingincode.com/>)… it looks really interesting but kind
+of depressing to read which is why I didn't run out to buy it.
 
->
-> I heard about this book, ["Dreaming in
-> Code"](<http://www.dreamingincode.com/>)… it looks really interesting but
-> kind of depressing to read which is why I didn't run out to buy it.
 >
 > Building software is just really really hard and for some reason no matter
 > how smart and experienced we are, projects still can easily run themselves

@@ -8,8 +8,6 @@ tags:
 
 **Link: [(1) ULTIMATE GUITAR TABS – 1,100,000 songs catalog with free Chords, Guitar Tabs, Bass Tabs, Ukulele Chords and Guitar Pro Tabs!](None):** ""
 
-
-
 [ (1) ULTIMATE GUITAR TABS - 1,100,000 songs catalog with free Chords, Guitar
 Tabs, Bass Tabs, Ukulele Chords and Guitar Pro Tabs!](<https://www.ultimate-
 guitar.com/>)

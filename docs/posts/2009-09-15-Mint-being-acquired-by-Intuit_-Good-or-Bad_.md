@@ -11,8 +11,6 @@ tags:
 
 **Link: [Mint being acquired by Intuit: Good or Bad?](None):** ""
 
-
-
 I am a fairly avid fan of Mint.com. So it's with mixed emotions that I read
 that [Mint is being acquired by Intuit](<http://www.mint.com/blog/updates/why-
 mint-com-plus-intuit-is-a-big-

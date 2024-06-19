@@ -6,8 +6,6 @@ date: 2018-08-11
 
 **Link: [Some great links for  08/12/2018](None):** ""
 
-
-
   * [Webmentions: Enabling Better Communication on the Internet](<https://alistapart.com/article/webmentions-enabling-better-communication-on-the-internet>)
 
 Very interesting underused feature in web communication

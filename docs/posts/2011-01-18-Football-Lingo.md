@@ -11,8 +11,6 @@ tags:
 
 **Link: [Football Lingo](None):** ""
 
-
-
 As a naturalized citizen who's lived here for most of his life, Football used
 to be foreign to me. I grew up knowing soccer and baseball but for the first
 years Football was a mystery.
@@ -28,7 +26,7 @@ Globe.](<http://www.boston.com/sports/football/patriots/articles/2011/01/18/oh_d
 
 > "On the first 12 plays of the game, the Jets ran four plays each out of
 > their base 3-4, their nickel package (four linemen, two linebackers), and
-> their dime package (six defensive backs)." ( **from** [The Boston
+> their dime package (six defensive backs)." (**from** [The Boston
 > Globe](<http://www.boston.com/sports/football/patriots/articles/2011/01/18/oh_did_this_unit_of_the_patriots_struggle_against_jets/>)
 
 Now I have some questions. Nickel to me means **five**. So how does that turn

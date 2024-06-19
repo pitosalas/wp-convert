@@ -6,8 +6,6 @@ date: 2008-12-26
 
 **Link: [Dumb as we want to be?](None):** ""
 
-
-
 Thomas Friedman with another thought provoking column. I know not everyone
 likes his perspective but I find myself in violent agreement more often than
 not:

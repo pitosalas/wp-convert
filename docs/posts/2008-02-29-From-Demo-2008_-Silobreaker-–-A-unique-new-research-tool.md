@@ -6,8 +6,6 @@ date: 2008-02-29
 
 **Link: [From Demo 2008: Silobreaker – A unique new research tool](None):** ""
 
-
-
 Joining the ranks of the growing number of **news aggregation and research**
 sites is [Silobreaker](<http://www.silobreaker.com>), which I first met at
 Demo 2008. **Two things** catch my interest with Silobreaker - try it by

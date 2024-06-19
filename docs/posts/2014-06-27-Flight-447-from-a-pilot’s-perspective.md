@@ -6,8 +6,6 @@ date: 2014-06-27
 
 **Link: [Flight 447 from a pilot’s perspective](None):** ""
 
-
-
 Interesting article: [The media loves the "wrong speed" theory, but a
 lightning strike and electrical failure are more likely
 culprits.](<http://www.salon.com/tech/col/smith/2009/06/08/storm/print.html>)  

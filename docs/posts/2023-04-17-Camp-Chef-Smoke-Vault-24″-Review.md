@@ -12,8 +12,6 @@ tags:
 
 **Link: [Camp Chef Smoke Vault 24″ Review](None):** ""
 
-
-
 [ Camp Chef Smoke Vault 24″ Review](< https://amazingribs.com/smoker/camp-
 chef-smoke-vault-24-review/>) –Many gas smokers have limited temperature range
 and can't get down and hold low and slow temps of 225⁰. We reviewed this big

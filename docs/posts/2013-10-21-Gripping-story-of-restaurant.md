@@ -10,8 +10,6 @@ tags:
 
 **Link: [Gripping story of restaurant](None):** ""
 
-
-
 Who knew that a story about behind-the-scenes of a big restaurant could be
 gripping, but this one is. I guess it's a combination of a fascinating
 operation with outstanding writing. Check it out.

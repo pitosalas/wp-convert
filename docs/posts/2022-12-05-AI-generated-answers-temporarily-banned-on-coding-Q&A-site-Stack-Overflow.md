@@ -13,8 +13,6 @@ tags:
 
 **Link: [AI-generated answers temporarily banned on coding Q&A site Stack Overflow](None):** ""
 
-
-
 [ AI-generated answers temporarily banned on coding Q&A site Stack Overflow](<
 https://www.theverge.com/2022/12/5/23493932/chatgpt-ai-generated-answers-
 temporarily-banned-stack-overflow-llms-dangers>) –I'm interested what's going

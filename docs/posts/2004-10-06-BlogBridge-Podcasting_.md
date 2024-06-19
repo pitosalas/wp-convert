@@ -6,10 +6,7 @@ date: 2004-10-06
 
 **Link: [BlogBridge Podcasting?](None):** ""
 
-
->>
-
->> There's a site called [IT Conversations](<http://www.itconversations.com/>)
+There's a site called [IT Conversations](<http://www.itconversations.com/>)
 that has a collection of interviews, recorded on mp3s with some very
 interesting people. Also included are lectures, debates and panels. It is an
 excellent site, **I recommend it.**

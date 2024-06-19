@@ -6,8 +6,6 @@ date: 2009-03-30
 
 **Link: [How easy is it to cheat?](None):** ""
 
-
-
 I've gotten very interested in Election Reform lately, and I've delved into
 how the overall voting system works, technically but also politically and
 procedurally. There are so many simple and not so simple ways in which

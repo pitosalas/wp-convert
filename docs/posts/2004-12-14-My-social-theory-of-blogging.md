@@ -6,13 +6,10 @@ date: 2004-12-14
 
 **Link: [My social theory of blogging](None):** ""
 
-
->>
-
->> We all love reading blogs **(right?),** and some of us even use their
-valuable time writing blogs. In my evangelism of blogging, a common question
-is **" Why?." **Why would you spend your time writing, for a small (for most
-of us) mostly anonymous audience, for free?
+We all love reading blogs **(right?),** and some of us even use their valuable
+time writing blogs. In my evangelism of blogging, a common question is **"
+Why?." **Why would you spend your time writing, for a small (for most of us)
+mostly anonymous audience, for free?
 
 >>
 

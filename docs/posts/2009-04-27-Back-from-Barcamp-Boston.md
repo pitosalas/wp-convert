@@ -6,8 +6,6 @@ date: 2009-04-27
 
 **Link: [Back from Barcamp Boston](None):** ""
 
-
-
 [![](https://i0.wp.com/farm4.static.flickr.com/3569/3480291552_47e25d7520_m.jpg?resize=240%2C118)](<http://www.flickr.com/photos/xxv/3480291552/sizes/o/>)
 
 This weekend I had a chance to attend BarCamp Boston (4). As usual it was fun

@@ -6,8 +6,6 @@ date: 2019-05-21
 
 **Link: [Some great links for  05/22/2019](None):** ""
 
-
-
   * [Plotly | Make charts and dashboards online](<https://plot.ly/#/>)
 
 An amazing graphing and plotting web site

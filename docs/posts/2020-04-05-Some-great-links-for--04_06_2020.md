@@ -6,8 +6,6 @@ date: 2020-04-05
 
 **Link: [Some great links for  04/06/2020](None):** ""
 
-
-
   * [The Art of Command Line](<https://github.com/jlevy/the-art-of-command-line/blob/master/README.md>)
 
 We all live in the shell. (Yes, if you're not geekish that sentence makes no

@@ -6,8 +6,6 @@ date: 2009-05-10
 
 **Link: [Comedian in chief](None):** ""
 
-
-
 You've heard about (or maybe you haven't) President Obama's turn as a comedian
 at the White House Correspondents' Association Dinner. [I was looking for, and
 I found the full video of his

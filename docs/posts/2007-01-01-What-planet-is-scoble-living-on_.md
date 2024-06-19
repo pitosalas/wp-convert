@@ -6,9 +6,7 @@ date: 2007-01-01
 
 **Link: [What planet is scoble living on?](None):** ""
 
-
->
-> <!-  
+<!-  
 >  body { font-style: normal; font-size: 11pt; font-family: Lucida Grande;
 > line-height: normal; font-weight: normal; font-variant: normal }  
 >  ->

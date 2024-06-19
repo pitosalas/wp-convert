@@ -6,8 +6,6 @@ date: 2007-10-24
 
 **Link: [Facebook, the new America Online?](None):** ""
 
-
-
 [Doc Searls has a new post about
 Facebook](<http://blogs.law.harvard.edu/doc/2007/10/23/too-much-facebook-
 time/>) which I came across in [ Scoble's Link
@@ -73,7 +71,7 @@ Here's Doc Searls take on it and what got me thinking:
 > Anyway, lif’e’s too short, and this list of stuff is too long. If you’re
 > waiting for me to respond to a poke or an invitation,or a burp or any of
 > that other stuff, don’t hold your breath. Or take offense. I’ve got, forgive
-> me, better things to do." ( **from** : [Too much face(book)
+> me, better things to do." (**from** : [Too much face(book)
 > time](<http://blogs.law.harvard.edu/doc/2007/10/23/too-much-facebook-
 > time/>))
 

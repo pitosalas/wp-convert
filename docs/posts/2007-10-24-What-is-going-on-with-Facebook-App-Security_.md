@@ -6,8 +6,6 @@ date: 2007-10-24
 
 **Link: [What is going on with Facebook App Security?](None):** ""
 
-
-
 Here's what my iLike Facebook application is showing me… Now what's Mark
 Zuckerberg's name doing there???
 

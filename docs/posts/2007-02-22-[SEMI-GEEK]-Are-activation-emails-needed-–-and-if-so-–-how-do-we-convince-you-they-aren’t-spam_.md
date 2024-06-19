@@ -6,8 +6,6 @@ date: 2007-02-22
 
 **Link: [[SEMI-GEEK] Are activation emails needed – and if so – how do we convince you they aren’t spam?](None):** ""
 
-
-
 Here's an odd but important problem, at least for us here at BlogBridge.
 
 When you sign up for a BlogBridge account, we, like many other sites, send you

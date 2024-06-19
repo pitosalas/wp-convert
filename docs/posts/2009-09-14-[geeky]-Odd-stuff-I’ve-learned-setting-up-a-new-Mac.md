@@ -10,8 +10,6 @@ tags:
 
 **Link: [[geeky] Odd stuff I’ve learned setting up a new Mac](None):** ""
 
-
-
 I've been in the process of setting up a new computer and in the process, as
 is expected, discovering long lost files and stuff that is easier or harder to
 move over. I thought I would capture some of the tidbits because there might

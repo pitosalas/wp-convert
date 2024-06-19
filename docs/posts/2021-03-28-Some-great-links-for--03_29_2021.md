@@ -6,8 +6,6 @@ date: 2021-03-28
 
 **Link: [Some great links for  03/29/2021](None):** ""
 
-
-
   * [create regexp from a set of examples](<https://github.com/pemistahl/grex>)
 
 tags: [howto](<https://www.diigo.com/user/pitosalas/howto>)

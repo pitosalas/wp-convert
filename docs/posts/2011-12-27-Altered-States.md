@@ -11,8 +11,6 @@ tags:
 
 **Link: [Altered States](None):** ""
 
-
-
 I saw this movie, [Altered States,](<http://www.imdb.com/title/tt0080360/>)
 again last night. It's even better than I remembered and it's my third or
 fourth time seeing it! It's weird and scary (still) but really compelling. An

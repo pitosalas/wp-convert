@@ -6,11 +6,8 @@ date: 2004-01-14
 
 **Link: [I want RSS to disappear.](None):** ""
 
-
->>
-
->> **I want RSS to disappear.** The question was posed, "What do users want
-from RSS"? I thought long and hard about this and here's where I come out.
+**I want RSS to disappear.** The question was posed, "What do users want from
+RSS"? I thought long and hard about this and here's where I come out.
 
 >>
 

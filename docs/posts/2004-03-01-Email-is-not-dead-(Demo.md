@@ -6,12 +6,9 @@ date: 2004-03-01
 
 **Link: [Email is not dead (Demo](None):** ""
 
-
->>
-
->> **Email is not dead (Demo 2004 Series - 7) **I continue to be an avid
-follower of what's going on in the email space. Why? Here are some things to
-think about:
+**Email is not dead (Demo 2004 Series - 7) **I continue to be an avid follower
+of what's going on in the email space. Why? Here are some things to think
+about:
 
 >>
 
@@ -46,7 +43,7 @@ successfully overcome that barrier. I want to learn from that.
 >
 >>
 
->>  **Second reason:** I've observed that the tools we use to work with email
+>> **Second reason:** I've observed that the tools we use to work with email
 (the general striucture email applications, email protocols, email use models)
 basically were laid down in the 1970's. And yet, in the past 30 years (!)
 email's role in society has totally changed, the volume of email has totally
@@ -85,7 +82,7 @@ something perhaps more appropriate to the new world of email?
 >
 >>
 
->>  **Anyway, back to Demo 2004.** There were some interesting email "related"
+>> **Anyway, back to Demo 2004.** There were some interesting email "related"
 applications launched at Demo.
 
 >>
@@ -101,7 +98,7 @@ applications launched at Demo.
 >
 >>
 
->>  **Bloomba Email Client** : [Bloomba 2.0](<http://www.statalabs.com/>) is,
+>> **Bloomba Email Client** : [Bloomba 2.0](<http://www.statalabs.com/>) is,
 believe it or not, an Outlook replacement that is worth a look. They are
 literally and knowingly going head to head with Microsoft. They have a heavy
 emphasis on searching within the email, which as you know, I think is super
@@ -121,7 +118,7 @@ and as I say, worth a look.
 >
 >>
 
->>  **[MailBlocks Web Based Email client:](<http://about.mailblocks.com/>)
+>> **[MailBlocks Web Based Email client:](<http://about.mailblocks.com/>)
 **This is a very interesting integration of email, calendar and contact
 information. I believe that there is also fancy spam filtering technology. But
 the neatest (and useful to me) feature is the automatic parsing of emails to

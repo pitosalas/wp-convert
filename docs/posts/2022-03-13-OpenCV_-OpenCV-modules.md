@@ -6,8 +6,6 @@ date: 2022-03-13
 
 **Link: [OpenCV: OpenCV modules](None):** ""
 
-
-
 [ OpenCV: OpenCV modules](<https://docs.opencv.org/4.x/>)
 
 March 14, 2022 at 01:28AM

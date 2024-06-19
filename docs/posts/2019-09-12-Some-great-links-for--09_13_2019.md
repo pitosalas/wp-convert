@@ -6,8 +6,6 @@ date: 2019-09-12
 
 **Link: [Some great links for  09/13/2019](None):** ""
 
-
-
   * [Best Free Bootstrap UI Kits of All Time - DEV Community ](<https://dev.to/bootstrap/ui-kits-4ik5?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email>)
 
 Always good to have more free things!

@@ -12,8 +12,6 @@ tags:
 
 **Link: [I don’t ‘get’ iTunes match](None):** ""
 
-
-
 What I don't get is the price. First I had to have bought the music (from
 Apple or someone else) and now I have to pay again ($24.95 per year) in order
 to make it all available over iCloud. I think I will stick with my new
@@ -56,7 +54,7 @@ Mossberg:](<http://online.wsj.com/article/SB100014240529702041905045770401105118
 > value. It doesn't just add color to the Kindle, it adds a robust ability to
 > store and stream music, TV shows and movies--and a weaker ability to store
 > and display color photos. And it offers about 8,500 apps at launch,
-> including Netflix, Angry Birds and QuickOffice." ( **from** [Wall Street
+> including Netflix, Angry Birds and QuickOffice." (**from** [Wall Street
 > Journal)](<http://online.wsj.com/article/SB10001424052970204190504577040110511886588.html?mod=djemptech_t>)
 
 

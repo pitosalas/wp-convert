@@ -9,8 +9,6 @@ tags:
 
 **Link: [Wikipedia’s tenets](None):** ""
 
-
-
 Flying back home yesterday I read this article about Wikipedia in the New York
 Times: [Wikipedia, What Does Judith Newman Have to Do to Get a Page? -
 NYTimes.com](<http://www.nytimes.com/2014/01/09/fashion/Wikipedia-Judith-

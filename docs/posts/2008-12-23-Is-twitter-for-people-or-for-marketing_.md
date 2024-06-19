@@ -6,8 +6,6 @@ date: 2008-12-23
 
 **Link: [Is twitter for people or for marketing?](None):** ""
 
-
-
 As you may have noticed, I am using [Twitter](<http://www.twitter.com>) a
 little more often now. As much as anything it is to learn more about what it's
 like, because we are working on full Twitter support in

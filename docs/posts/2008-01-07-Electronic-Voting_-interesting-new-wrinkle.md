@@ -6,8 +6,6 @@ date: 2008-01-07
 
 **Link: [Electronic Voting: interesting new wrinkle](None):** ""
 
-
-
 A lot has been written about electronic voting machines and their
 vulnerabilities.
 

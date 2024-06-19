@@ -6,8 +6,6 @@ date: 2019-03-16
 
 **Link: [Some great links for  03/17/2019](None):** ""
 
-
-
   * [Presenting XXH3](<https://fastcompression.blogspot.com/2019/03/presenting-xxh3.html?m=1>)
 
 Always interesting to see major improvements in classic algorithms

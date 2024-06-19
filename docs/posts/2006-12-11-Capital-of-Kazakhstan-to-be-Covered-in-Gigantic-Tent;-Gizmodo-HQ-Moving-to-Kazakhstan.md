@@ -6,9 +6,7 @@ date: 2006-12-11
 
 **Link: [Capital of Kazakhstan to be Covered in Gigantic Tent; Gizmodo HQ Moving to Kazakhstan](None):** ""
 
-
->
-> <!-  
+<!-  
 >  body { font-size: 11pt; font-family: Lucida Grande; font-style: normal;
 > font-variant: normal; font-weight: normal; line-height: normal }  
 >  ->

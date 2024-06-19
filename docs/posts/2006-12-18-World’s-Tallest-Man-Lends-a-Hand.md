@@ -6,9 +6,7 @@ date: 2006-12-18
 
 **Link: [World’s Tallest Man Lends a Hand](None):** ""
 
-
->
-> <!-  
+<!-  
 >  body { line-height: normal; font-family: Lucida Grande; font-style: normal;
 > font-variant: normal; font-weight: normal; font-size: 11pt }  
 >  ->
@@ -27,13 +25,9 @@ date: 2006-12-18
 >  the aquarium after experts failed to surgically remove  
 >  unidentified objects from the stomachs of two dolphins. Bao was  
 >  able to reach in and retrieve the objects, which turned out to  
->  be pieces of plastic from their pool surround.
->>
-
->> (from: [World's  
+>  be pieces of plastic from their pool surround.  (from: [World's  
 >  Tallest Man Lends a
 > Hand](<http://www.wftv.com/slideshow/news/2691965/detail.html?qs=;s=1;w=480>))  
->>  
 >> ---
 
 

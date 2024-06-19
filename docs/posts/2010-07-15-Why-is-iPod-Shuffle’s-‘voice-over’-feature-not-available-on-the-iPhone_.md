@@ -6,8 +6,6 @@ date: 2010-07-15
 
 **Link: [Why is iPod Shuffle’s ‘voice over’ feature not available on the iPhone?](None):** ""
 
-
-
 Just wonderin' -- the iPod Shuffle has a really cool feature where a
 synthesized voice will announce the name of a song over the earphones upon
 request. Super useful feature on any iPod, right? Then how come is it not

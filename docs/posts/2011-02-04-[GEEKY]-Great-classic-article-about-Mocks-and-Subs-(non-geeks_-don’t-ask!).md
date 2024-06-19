@@ -12,8 +12,6 @@ tags:
 
 **Link: [[GEEKY] Great classic article about Mocks and Subs (non-geeks: don’t ask!)](None):** ""
 
-
-
 A seminal article about an [advanced topic in software testing: Mocks aren't
 Subs](<http://martinfowler.com/articles/mocksArentStubs.html>)
 
@@ -24,7 +22,7 @@ Subs](<http://martinfowler.com/articles/mocksArentStubs.html>)
 > test object, one that enables a different style of testing. In this article
 > I'll explain how mock objects work, how they encourage testing based on
 > behavior verification, and how the community around them uses them to
-> develop a different style of testing." ( **from** [Mocks aren't Subs by
+> develop a different style of testing." (**from** [Mocks aren't Subs by
 > Martin Fowler](<http://martinfowler.com/articles/mocksArentStubs.html>))
 
 

@@ -10,8 +10,6 @@ tags:
 
 **Link: [When Twitter becomes a  blogging platform](None):** ""
 
-
-
 I have been noticing more and more **serialized tweets**. In other words,
 someone tweets several times in a row because what they have to say will not
 fit into 140 characters. They number them and fire them off one after the

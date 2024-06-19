@@ -6,8 +6,6 @@ date: 2009-09-08
 
 **Link: [[GEEKY] Best 24″ Flat Panel Display for a Mac Pro?](None):** ""
 
-
-
 I was looking at the [Apple LED Cinema Display
 24](<http://store.apple.com/us/product/MB382LL/A?fnode=MTY1NDA5OQ&mco=Nzk2MDk4NQ>)"
 which, of course, looks **gorgeous** in the store. But it's a little expensive

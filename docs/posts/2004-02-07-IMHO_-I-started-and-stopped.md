@@ -6,14 +6,11 @@ date: 2004-02-07
 
 **Link: [IMHO: I started and stopped](None):** ""
 
-
->>
-
->> **IMHO:** I **started and stopped** writing this two days ago, mostly
-because I didn't feel like I knew any of the people or issues involved well
-enough to have the right to a meaningful opinion, not to mention that I would
-be seens as **sucking up** (people are so quick to **judge - **but what the
-hell, here goes…)
+**IMHO:** I **started and stopped** writing this two days ago, mostly because
+I didn't feel like I knew any of the people or issues involved well enough to
+have the right to a meaningful opinion, not to mention that I would be seens
+as **sucking up**(people are so quick to **judge - **but what the hell, here
+goes…)
 
 >>
 

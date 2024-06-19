@@ -6,8 +6,6 @@ date: 2007-08-27
 
 **Link: [Out of body experiences](None):** ""
 
-
-
 A really interesting experiment reported in various places trigger the
 sensation of an [tag]out of body experience[/tag]. I read about it first in
 the New York Times: ["Scientists induce Out-of-Body

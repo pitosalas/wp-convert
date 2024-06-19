@@ -6,8 +6,6 @@ date: 2007-09-29
 
 **Link: [Enterprise 2.0 – What’s in it for you?](None):** ""
 
-
-
 [Enterprise 2.0](<http://en.wikipedia.org/wiki/Enterprise_2.0>) is one of
 those terms that is being bandied about by various people. In the [Portals and
 KM Blog, Bill Ives](<http://billives.typepad.com/portals_and_km/>) has written

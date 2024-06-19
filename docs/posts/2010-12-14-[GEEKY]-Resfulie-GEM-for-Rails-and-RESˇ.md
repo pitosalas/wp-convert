@@ -10,8 +10,6 @@ tags:
 
 **Link: [[GEEKY] Resfulie GEM for Rails and RESˇ](None):** ""
 
-
-
 This is really nice: [Restfulie - Rest from
 Scratch](<http://restfulie.caelum.com.br/>). It's a package of code for
 creating REST clients and servers with built in content type negotiation and

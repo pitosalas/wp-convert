@@ -6,10 +6,7 @@ date: 2004-08-26
 
 **Link: [What’s wrong with Feed Readers?](None):** ""
 
-
->>
-
->> Here are two very interesting posts on the question of Feed Readers:
+Here are two very interesting posts on the question of Feed Readers:
 
 >>
 

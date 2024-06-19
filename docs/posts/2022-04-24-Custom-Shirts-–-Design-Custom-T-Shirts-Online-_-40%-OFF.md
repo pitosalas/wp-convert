@@ -6,10 +6,7 @@ date: 2022-04-24
 
 **Link: [Custom Shirts – Design Custom T-Shirts Online | 40% OFF](None):** ""
 
-
-
-[ Custom Shirts - Design Custom T-Shirts Online | 40%
-OFF](<https://www.alliedshirts.com/>)
+[ Custom Shirts - Design Custom T-Shirts Online | 40% OFF](<https://www.alliedshirts.com/>)
 
 Custom Shirts! #1 Leader in Custom T-Shirts. Create custom t-shirts for your
 team, business, school, event and more. FREE SHIPPING!

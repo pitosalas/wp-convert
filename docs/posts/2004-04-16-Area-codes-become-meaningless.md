@@ -6,10 +6,7 @@ date: 2004-04-16
 
 **Link: [Area codes become meaningless](None):** ""
 
-
->>
-
->> A [good little insight from Rafe Needleman ](<http://reviews-
+A [good little insight from Rafe Needleman ](<http://reviews-
 zdnet.com.com/AnchorDesk/4520-7297_16-5129645.html>)in his new column over at
 ZDNet.
 

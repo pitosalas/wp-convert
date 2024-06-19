@@ -11,16 +11,12 @@ tags:
 
 **Link: [Politics and the soul](None):** ""
 
-
-
 An interesting post from my pal Peter Miller about how we all view the world
 through our own biases and it's hard to disentangle those from what might feel
 like clear eyed reasoning. (See Peter, I summarized your article in one
 sentence 🙂
 
-[Politics and the Soul |
-ZeitgeistSurfer](<http://zeitgeistsurfer.wordpress.com/2013/05/31/politics-
-and-the-soul/>):
+[Politics and the Soul | ZeitgeistSurfer](<http://zeitgeistsurfer.wordpress.com/2013/05/31/politics-and-the-soul/>):
 
 > Every thoughtful conservative believes that liberals see the world through a
 > distorting lens whose inner structure has been formed by their desire for a

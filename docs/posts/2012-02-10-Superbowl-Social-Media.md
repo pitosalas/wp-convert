@@ -10,8 +10,6 @@ tags:
 
 **Link: [Superbowl Social Media](None):** ""
 
-
-
 Here's a really interesting [article about how the Superbowl used Social Media
 ](<http://socialmediatoday.com/elizabeth-lupfer/440875/exclusive-look-why-
 super-bowl-s-social-media-command-center-scores-winning-t>)to enhance the
@@ -19,7 +17,7 @@ experience:
 
 > "An exclusive, in-depth look into the Super Bowlâs first ever social media
 > command center, the folks who ran it, and how the convergence of technology
-> and people created the ultimate online Super Bowl experience." ( **from**
+> and people created the ultimate online Super Bowl experience." (**from**
 > [Why the Super Bowl's Mission Command Center Scores a Winning
 > Touchdown](<http://socialmediatoday.com/elizabeth-lupfer/440875/exclusive-
 > look-why-super-bowl-s-social-media-command-center-scores-winning-t>))
@@ -34,7 +32,7 @@ number one. What they say:
 > recommendations, and anything that could be considered suspicious behavior
 > or malevolent. Additionally, should a crisis situation present itself, the
 > command center will disseminate information for Homeland Security and public
-> safety command centers." ( **from** [Why the Super Bowl's Mission Command
+> safety command centers." (**from** [Why the Super Bowl's Mission Command
 > Center Scores a Winning Touchdown](<http://socialmediatoday.com/elizabeth-
 > lupfer/440875/exclusive-look-why-super-bowl-s-social-media-command-center-
 > scores-winning-t>))
@@ -48,7 +46,7 @@ very high praise int he article:
 > page>). After test driving many different social monitoring systems,
 > Raidious chose Awareness Inc's Social Media Marketing Hub for publishing,
 > monitoring and analyzing conversation streams. Raidious chose Awareness, Inc
-> because of its capabilities and user interface…" ( **from** [Why the Super
+> because of its capabilities and user interface…" (**from** [Why the Super
 > Bowl's Mission Command Center Scores a Winning
 > Touchdown](<http://socialmediatoday.com/elizabeth-lupfer/440875/exclusive-
 > look-why-super-bowl-s-social-media-command-center-scores-winning-t>))

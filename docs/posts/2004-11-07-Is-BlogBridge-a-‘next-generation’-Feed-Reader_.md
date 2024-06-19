@@ -6,12 +6,9 @@ date: 2004-11-07
 
 **Link: [Is BlogBridge a ‘next generation’ Feed Reader?](None):** ""
 
-
->>
-
->> In response to a query from Andrew Watt and Danny Ayers about what they
-called next-generation infromation aggregators, I wrote this, and I thought
-I'd share it here too.
+In response to a query from Andrew Watt and Danny Ayers about what they called
+next-generation infromation aggregators, I wrote this, and I thought I'd share
+it here too.
 
 >>
 

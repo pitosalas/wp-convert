@@ -8,8 +8,6 @@ tags:
 
 **Link: [Great coverage of Enterprise 2.0](None):** ""
 
-
-
 In the Portals and KM blog, a pair of great articles about "Enterprise 2.0".
 Bill Ives has been following and covering Enterprise 2.0, which I've seen
 [defined as "the Application of Web 2.0 technologies to workers using network

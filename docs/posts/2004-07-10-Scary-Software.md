@@ -6,10 +6,7 @@ date: 2004-07-10
 
 **Link: [Scary Software](None):** ""
 
-
->>
-
->> **I love those security guys** just as much as the next guy but this
+**I love those security guys** just as much as the next guy but this
 certificate crazyness is ridiculous. Look at this message that a poor
 unsuspecting user sees when they try to run a downloaded java application:
 

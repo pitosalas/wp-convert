@@ -6,8 +6,6 @@ date: 2011-09-29
 
 **Link: [My New EXCLUSIVE at Salon: National Security Lab Hacks Diebold Touch-Screen Voting Machine by Remote Control With $26 in Computer Parts](None):** ""
 
-
-
 Continuing my linking to Election related news, check out this post [Diebold
 Touch-Screen Voting Machine Hacked by Remote Control With $26 in Computer
 Parts](<http://www.bradblog.com/?p=8785>) from [The BRAD

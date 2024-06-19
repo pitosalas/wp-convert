@@ -10,8 +10,6 @@ tags:
 
 **Link: [“We might as well have a good time while we’re here, don’t you think?”](None):** ""
 
-
-
 This is from a play we saw last year at the [Huntington
 Theatre.](<http://www.huntingtontheatre.org>) The play is [Prelude to a Kiss
 by Craig Lucas](<http://en.wikipedia.org/wiki/Prelude_to_a_Kiss_\(play\)>). It

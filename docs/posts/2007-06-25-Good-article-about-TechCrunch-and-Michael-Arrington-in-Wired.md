@@ -6,8 +6,6 @@ date: 2007-06-25
 
 **Link: [Good article about TechCrunch and Michael Arrington in Wired](None):** ""
 
-
-
 I haven't seen anyone pointing to this [article about TechCrunch and Professor
 Arrington](<http://www.wired.com/techbiz/people/magazine/15-07/ff_arrington#>),
 but it's very interesting. I remember when it was first starting and how he

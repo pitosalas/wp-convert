@@ -6,8 +6,6 @@ date: 2008-11-29
 
 **Link: [What I am reading this morning](None):** ""
 
-
-
 A few really quick links:
 
   * [Responsible Tweeting](<http://www.poynter.org/column.asp?id=31&aid=154820>), about the role of Twitter 'news' in influencing real world events.

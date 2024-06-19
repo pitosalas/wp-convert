@@ -6,9 +6,8 @@ date: 2007-01-20
 
 **Link: [Really interesting interview with Jonathan Schwartz](None):** ""
 
+Who is he? The CEO of Sun Microsystems. Check out the video:
 
->
-> Who is he? The CEO of Sun Microsystems. Check out the video:
 >
 > <http://www.podtech.net/player/podtech-player.swf?bc=3F34K2L1>
 >

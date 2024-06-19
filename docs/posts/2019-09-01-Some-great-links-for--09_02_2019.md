@@ -6,8 +6,6 @@ date: 2019-09-01
 
 **Link: [Some great links for  09/02/2019](None):** ""
 
-
-
   * [WTF :: WTF - the terminal dashboard](<https://wtfutil.com>)
 
 A kind of crazy cool dashboard for all kinds of info all in text suitable for

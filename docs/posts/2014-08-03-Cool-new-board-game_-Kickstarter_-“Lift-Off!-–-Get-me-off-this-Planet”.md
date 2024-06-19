@@ -6,8 +6,6 @@ date: 2014-08-03
 
 **Link: [Cool new board game: Kickstarter: “Lift Off! – Get me off this Planet”](None):** ""
 
-
-
 ![](https://i0.wp.com/salas.com/wp-
 content/uploads/2014/08/38776-6e5f42de5ca397bd9e6bab8675854f6e_large.jpg?w=584&ssl=1)
 

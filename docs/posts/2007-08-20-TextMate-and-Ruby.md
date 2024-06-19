@@ -6,8 +6,6 @@ date: 2007-08-20
 
 **Link: [TextMate and Ruby](None):** ""
 
-
-
 I'm an on and off [tag]Ruby[/tag] developer, and recently I've been trying to
 decide whether I should use Eclipse for Ruby development or whether TextMate
 (I am on a Mac) is better.

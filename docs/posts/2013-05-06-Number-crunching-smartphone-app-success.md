@@ -12,8 +12,6 @@ tags:
 
 **Link: [Number crunching smartphone app success](None):** ""
 
-
-
 Here's my five-step plan for world domination:
 
 1\. I am creating a **comprehensive taxonomy** of characteristics of

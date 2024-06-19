@@ -10,8 +10,6 @@ tags:
 
 **Link: [Tripadvisor Certificate of Excellence](None):** ""
 
-
-
 We were on vacation in Greece and Turkey a few weeks ago and I noticed many
 TripAdvisor Certificate of this or that, hanging in windows of random shops on
 remote islands (and big cities) and I got to thinking, are these for real? Is

@@ -6,8 +6,6 @@ date: 2009-06-03
 
 **Link: [[GEEKY] A DSL for Image Analysis](None):** ""
 
-
-
 I have been working quite a lot on **Election Reform**   over the last few
 weeks, at least from the technology side.
 

@@ -11,8 +11,6 @@ tags:
 
 **Link: [On the importance of learning to work in teams](None):** ""
 
-
-
 David Colletta shared [this link in
 comments](<http://www.evanjones.ca/farewell-mit.html>) to my [recent post
 about team work](</imported-20111103233638/2012/1/4/teaching-group-
@@ -33,7 +31,7 @@ Here's an excerpt from it:
 > else's idea, or convince someone to work on your idea. Ideally, when you
 > find a really great collaborator, you will discuss and revise a concept
 > until you find a version that you both like. I think making these sacrifices
-> is worth it, and in retrospect, I should have done more of it." ( **from**
+> is worth it, and in retrospect, I should have done more of it." (**from**
 > [Farewell to MIT)](<http://www.evanjones.ca/farewell-mit.html>)
 
 I am a passionate believer that a solid undergraduate education must include

@@ -11,8 +11,6 @@ tags:
 
 **Link: [Amazon reminds me of Raiders of the Lost Ark](None):** ""
 
-
-
 The only difference is that Amazon seems to know exactly every little item is
 in this crazy warehouse. Look [here for a bunch more amazing
 pictures!](<http://imgur.com/gallery/uHZbW>)

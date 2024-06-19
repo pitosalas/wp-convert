@@ -4,10 +4,7 @@ author: Pito Salas
 date: 2019-07-17
 ---
 
-
->>
-
->> I get this question a lot, in fact near the end of the spring semester they
+I get this question a lot, in fact near the end of the spring semester they
 come in droves. I would like to answer your questions about the process. The
 overall theme here will be that my recommendation will be only as good as the
 information you supply to me.

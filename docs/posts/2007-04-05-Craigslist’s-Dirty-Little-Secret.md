@@ -6,8 +6,6 @@ date: 2007-04-05
 
 **Link: [Craigslist’s Dirty Little Secret](None):** ""
 
-
-
 I love Craig's List. If you've heard of it (!) and are interested in online
 factoids, you'll may be interested in [this
 post](<http://feeds.feedburner.com/~r/CompeteBlog/~3/106882473/>) from
@@ -18,7 +16,7 @@ post](<http://feeds.feedburner.com/~r/CompeteBlog/~3/106882473/>) from
 > always twice as many as the next ranking category, averaging 265,000 people
 > per city."
 >
-> ( **from** : [Craigslist’s Dirty Little
+> (**from** : [Craigslist’s Dirty Little
 > Secret](<http://feeds.feedburner.com/~r/CompeteBlog/~3/106882473/>))
 
 

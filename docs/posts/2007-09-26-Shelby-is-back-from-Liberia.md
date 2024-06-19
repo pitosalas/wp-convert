@@ -6,8 +6,6 @@ date: 2007-09-26
 
 **Link: [Shelby is back from Liberia](None):** ""
 
-
-
 My friend Shelby has been living and blogging from Africa over the last year
 or so. From reading it you can tell what a unique experience she has had, and
 that she comes back a changed person. Welcome back, Shelby!

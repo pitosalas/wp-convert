@@ -6,8 +6,6 @@ date: 2020-03-03
 
 **Link: [Some great links for  03/04/2020](None):** ""
 
-
-
   * [Ruby on Rails Mistakes that could kill Your Production Servers](<https://pawelurbanek.com/rails-mistakes-downtime>)
 
 Specific good advice on rails performance and scale.

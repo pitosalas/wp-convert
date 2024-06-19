@@ -6,8 +6,6 @@ date: 2007-03-20
 
 **Link: [Interesting: Best Buy Still Using Its Secret Website](None):** ""
 
-
-
 Check out [this post](<http://consumerist.com/consumer/best-buy/update-best-
 buy-still-using-its-secret-website-245216.php>) from
 [Consumerist](<http://www.consumerist.com>):

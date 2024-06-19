@@ -13,8 +13,6 @@ tags:
 
 **Link: [About intellectual property and other things](None):** ""
 
-
-
 I came across a wonderful quote about intellectual property. I am not sure I
 agree with it myself but wanted to share it. It is from [Carsie Blanton's blog
 post "New Rules for the Music Business"](<http://blog.carsieblanton.com>) and

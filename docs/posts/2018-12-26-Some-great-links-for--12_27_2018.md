@@ -6,8 +6,6 @@ date: 2018-12-26
 
 **Link: [Some great links for  12/27/2018](None):** ""
 
-
-
   * [Deep Rails: How to use Abstract Classes](<https://link.medium.com/qwR3chzoYS>)
 
 Interesting Rails abstract classes feature

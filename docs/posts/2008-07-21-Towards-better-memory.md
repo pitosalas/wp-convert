@@ -6,8 +6,6 @@ date: 2008-07-21
 
 **Link: [Towards better memory](None):** ""
 
-
-
 An interesting, quirky, though-provoking -- memorable article in [Wired about
 Memory](<http://www.wired.com/medtech/health/magazine/16-05/ff_wozniak?currentPage=all>):
 

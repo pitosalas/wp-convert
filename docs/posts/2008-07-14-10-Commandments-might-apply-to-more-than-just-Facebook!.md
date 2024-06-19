@@ -6,8 +6,6 @@ date: 2008-07-14
 
 **Link: [10 Commandments might apply to more than just Facebook!](None):** ""
 
-
-
 Check out these [10 Commandments for Facebook
 Applications](<http://facereviews.com/2007/12/27/10-commandments-for-facebook-
 applications/>). They are pretty good commandments for software in general. I

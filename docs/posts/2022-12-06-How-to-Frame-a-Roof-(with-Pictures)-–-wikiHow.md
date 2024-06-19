@@ -13,8 +13,6 @@ tags:
 
 **Link: [How to Frame a Roof (with Pictures) – wikiHow](None):** ""
 
-
-
 [ How to Frame a Roof (with Pictures) - wikiHow](<
 https://www.wikihow.com/Frame-a-Roof>) –How did this particular link end up
 here? I am learning to construct small wooden models. Currently I am making a

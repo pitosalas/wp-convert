@@ -8,10 +8,7 @@ tags:
 
 **Link: [Civitas Learning | Student Success Platform & Services – Civitas Learning](None):** ""
 
-
-
-[ Civitas Learning | Student Success Platform & Services - Civitas
-Learning](<https://www.civitaslearning.com/>)
+[ Civitas Learning | Student Success Platform & Services - Civitas Learning](<https://www.civitaslearning.com/>)
 
 We equip higher ed with actionable insights, connected workflow, and services
 to improve enrollment, course success, persistence and graduation.

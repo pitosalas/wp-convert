@@ -6,8 +6,6 @@ date: 2018-11-14
 
 **Link: [Some great links for  11/15/2018](None):** ""
 
-
-
   * [Home | web.dev](<https://web.dev>)
 
 An interesting google tool for checking a web sites performance and other

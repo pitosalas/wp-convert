@@ -6,13 +6,10 @@ date: 2004-07-07
 
 **Link: [Technical tweak to this blog](None):** ""
 
-
->>
-
->> In tracking down a 'bug' in BlogBridge I discovered that my RSS feed for
-this blog has abbreviated items, that is, without html and limited to a
-certain number of words. That's not what I wanted so with this new posting I
-should have full items.
+In tracking down a 'bug' in BlogBridge I discovered that my RSS feed for this
+blog has abbreviated items, that is, without html and limited to a certain
+number of words. That's not what I wanted so with this new posting I should
+have full items.
 
 >>
 

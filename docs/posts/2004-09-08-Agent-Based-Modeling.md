@@ -6,10 +6,7 @@ date: 2004-09-08
 
 **Link: [Agent Based Modeling](None):** ""
 
-
->>
-
->> And now for something completely different. I was reading this book: "[It's
+And now for something completely different. I was reading this book: "[It's
 Alive](<http://www.amazon.com/exec/obidos/tg/detail/-/1400046416/102-3202368-3881736?v=glance>)"
 over the weekend. Particularly of interest to me was all the discussion about
 so-called "Agent Based Modeling." Agent based modeling is **a big word** for

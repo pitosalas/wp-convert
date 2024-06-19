@@ -6,8 +6,6 @@ date: 2019-03-11
 
 **Link: [Some great links for  03/12/2019](None):** ""
 
-
-
   * [An introduction to Redis data types and abstractions – Redis](<https://redis.io/topics/data-types-intro>)
 
 Great overview of how Redis works, all the types and concepts

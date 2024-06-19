@@ -11,8 +11,6 @@ tags:
 
 **Link: [[GEEKY] Nicer way to run Ruby tests](None):** ""
 
-
-
 Just came across this handy-dandy tool to run tests for Ruby and Rails, and
 produce much nicer and readable traces so you have a prayer to sort out what
 is going on when stuff fails.

@@ -8,8 +8,6 @@ tags:
 
 **Link: [Galapagos article from one my my fellow travelers](None):** ""
 
-
-
 Last year we went with National Geographic to the Galapagos islands for an
 amazing journey of discovery. The Galapagos are a set of islands, part of
 Ecuador, that I had heard about all my life, but never thought of as somewhere

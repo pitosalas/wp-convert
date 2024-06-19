@@ -6,8 +6,6 @@ date: 2018-08-19
 
 **Link: [Some great links for  08/20/2018](None):** ""
 
-
-
   * [How a Kalman filter works, in pictures](<https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/>)
 
 Kalman filters are a mathematical process for smoothing out a noisy signal

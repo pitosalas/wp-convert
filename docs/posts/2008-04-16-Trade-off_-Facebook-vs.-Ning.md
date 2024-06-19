@@ -10,8 +10,6 @@ tags:
 
 **Link: [Trade-off: Facebook vs. Ning](None):** ""
 
-
-
 I am advising a client who is interested in reaching out to a huge existing
 community of folks who they, historically and today, can count as their
 natural constituency.The problem is, they don't have their names or email

@@ -8,8 +8,6 @@ tags:
 
 **Link: [Removing sensitive data from a repository – GitHub Docs](None):** ""
 
-
-
 [ Removing sensitive data from a repository - GitHub
 Docs](<https://docs.github.com/en/github/authenticating-to-github/keeping-
 your-account-and-data-secure/removing-sensitive-data-from-a-repository>)

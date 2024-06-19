@@ -6,20 +6,13 @@ date: 2005-06-17
 
 **Link: [Making money with aggregators](None):** ""
 
-
->>
-
->> [Francois](<http://www.emergencemarketing.com/>), reacting to something
+[Francois](<http://www.emergencemarketing.com/>), reacting to something
 [written by Jason
 Calcanis](<http://calacanis.weblogsinc.com/entry/1234000760046672/>), makes a
 [very good point
 in](<http://www.blogbridge.com/archives/2005/06/can_an_aggregat.php>) this
 discussion about feed and blog aggregators needing to have a way to make
-money:
-
->>
-
->> [Jason](<http://calacanis.weblogsinc.com/entry/1234000760046672/>):
+money: [Jason](<http://calacanis.weblogsinc.com/entry/1234000760046672/>):
 
 >>
 

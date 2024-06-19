@@ -13,8 +13,6 @@ tags:
 
 **Link: [Americans Elect: Another Opinion](None):** ""
 
-
-
 A month or two ago I read an [article by Thomas Friedman introducing Americans
 Elect,](<http://www.nytimes.com/2011/07/24/opinion/sunday/24friedman.html?_r=1>)
 an innovative concept for bringing a third major presidential candidate to the
@@ -35,7 +33,7 @@ worst-idea.html?_r=1>):
 > flattering way: We the people are good and pure, and if only we were allowed
 > to just pick the best person, everything else would fall into place. And, of
 > course, the best person cannot be the choice of one of the parties, since
-> the parties are … the problem. ( **from** [Time to Elect the Worst
+> the parties are … the problem. (**from** [Time to Elect the Worst
 > Idea)](<http://www.nytimes.com/2012/03/31/opinion/collins-time-to-elect-the-
 > worst-idea.html?_r=1>)
 

@@ -10,8 +10,6 @@ tags:
 
 **Link: [Is Skype “Full Duplex”?](None):** ""
 
-
-
 What an antiquated term: Full Duplex. I don't know if that term is used
 anymore but what i mean is this:
 

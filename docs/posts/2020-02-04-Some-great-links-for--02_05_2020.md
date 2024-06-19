@@ -6,8 +6,6 @@ date: 2020-02-04
 
 **Link: [Some great links for  02/05/2020](None):** ""
 
-
-
   * [How to Fake a Traffic Jam on Google Maps - VICE](<https://www.vice.com/en_us/article/9393w7/this-man-created-traffic-jams-on-google-maps-using-a-red-wagon-full-of-phones?utm_source=reddit.com>)
 
 This is really interesting and cute. Maybe too cute. Urban legend?

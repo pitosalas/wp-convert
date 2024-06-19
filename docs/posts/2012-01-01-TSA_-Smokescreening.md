@@ -12,8 +12,6 @@ tags:
 
 **Link: [TSA: Smokescreening](None):** ""
 
-
-
 An interesting and fun to read [article in Vanity Fair about the security
 check procedures](<http://www.vanityfair.com/culture/features/2011/12/tsa-
 insanity-201112>) established by the TSA:
@@ -24,7 +22,7 @@ insanity-201112>) established by the TSA:
 > explosives elsewhere. Focusing on specific threats like shoe bombs or
 > snow-globe bombs simply induces the bad guys to do something else. You end
 > up spending a lot on the screening and you haven't reduced the total
-> threat." ( **from:**[Vanity
+> threat." (**from:**[Vanity
 > Fair)](<http://www.vanityfair.com/culture/features/2011/12/tsa-
 > insanity-201112>)
 

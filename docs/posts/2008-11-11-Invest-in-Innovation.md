@@ -6,8 +6,6 @@ date: 2008-11-11
 
 **Link: [Invest in Innovation](None):** ""
 
-
-
 Jim Manzi (of Lotus fame) has an interesting article in "The Nation" about
 [our need, as a nation, to invest just a little bit more in
 innovation](<http://www.thenation.com/doc/20081117/henry_manzi>):
@@ -27,7 +25,6 @@ cycle of innovation and product development might be generated.'). Also
 innovations…')
 
 [Good article, worth reading.
-
 ](<http://www.thenation.com/doc/20081117/henry_manzi>)
 
 

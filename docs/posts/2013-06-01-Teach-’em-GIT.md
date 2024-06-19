@@ -11,8 +11,6 @@ tags:
 
 **Link: [Teach ’em GIT](None):** ""
 
-
-
 I don't agree that it's a "major problem for computer science" - by a long
 shot. But still it is odd that often Computer Science students are not exposed
 to 'modern' source control management systems or version management systems,

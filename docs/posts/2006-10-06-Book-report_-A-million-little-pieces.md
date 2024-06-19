@@ -6,14 +6,13 @@ date: 2006-10-06
 
 **Link: [Book report: A million little pieces](None):** ""
 
+I don't know if you followed the spat a few months ago. This [book, "A million
+little pieces" by James Frey](<http://www.amazon.com/Million-Little-Pieces-
+James-Frey/dp/0307276902>) was chosen by Ms. "O" (Oprah) for her book club. A
+lot of fanfare, a lot of press. It's a memoir about one man's experiences as a
+totally out of control addict, then joining a rehab program and getting on the
+road to recovery.
 
->
-> I don't know if you followed the spat a few months ago. This [book, "A
-> million little pieces" by James Frey](<http://www.amazon.com/Million-Little-
-> Pieces-James-Frey/dp/0307276902>) was chosen by Ms. "O" (Oprah) for her book
-> club. A lot of fanfare, a lot of press. It's a memoir about one man's
-> experiences as a totally out of control addict, then joining a rehab program
-> and getting on the road to recovery.
 >
 > The problem is / was that after Oprah made all this fuss about James Frey,
 > it [turned out that certain details of the book were

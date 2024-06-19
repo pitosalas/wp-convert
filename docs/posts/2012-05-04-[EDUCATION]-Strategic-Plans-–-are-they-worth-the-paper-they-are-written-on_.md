@@ -12,8 +12,6 @@ tags:
 
 **Link: [[EDUCATION] Strategic Plans – are they worth the paper they are written on?](None):** ""
 
-
-
 I came across a very [provocative article about why and how universities seem
 to often get buried in a time consuming and torturous process of strategic
 planning](<http://chronicle.com/article/The-Strategic-Plan-Neither/128227/>).
@@ -45,7 +43,7 @@ Here's the conclusion from the article:
 > The plan is not a blueprint for the future. It is, instead, a management
 > tool for the present. The ubiquity of planning at America's colleges and
 > universities is another reflection and reinforcement of the continuing
-> growth of administrative power." ( **from** [The Strategic Plan: Neither
+> growth of administrative power." (**from** [The Strategic Plan: Neither
 > Strategy Nor Plan…"](<http://chronicle.com/article/The-Strategic-Plan-
 > Neither/128227/>)
 

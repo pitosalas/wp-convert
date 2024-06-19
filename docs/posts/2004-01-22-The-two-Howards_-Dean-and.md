@@ -6,10 +6,7 @@ date: 2004-01-22
 
 **Link: [The two Howards: Dean and](None):** ""
 
-
->>
-
->> **The two Howards: Dean and Stern.** Everyone is **wringing their hands**
+**The two Howards: Dean and Stern.** Everyone is **wringing their hands**
 about the way Howard Dean acted out on the night of the Iowa Caucuses. I heard
 well known pundits talk about **' the defining moment of Dean's campaign**.'
 What a bunch of **nonsense**. This was a non-event, a crazy moment at the end

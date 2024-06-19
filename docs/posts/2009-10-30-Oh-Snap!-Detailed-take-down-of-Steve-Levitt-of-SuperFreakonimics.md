@@ -6,8 +6,6 @@ date: 2009-10-30
 
 **Link: [Oh Snap! Detailed take down of Steve Levitt of SuperFreakonimics](None):** ""
 
-
-
 I can't vouch for the accuracy, but it is fun to see a [major league cat-fight
 errupting between
 academics](<http://www.realclimate.org/index.php/archives/2009/10/an-open-
@@ -17,7 +15,7 @@ letter-to-steve-levitt/>). Here's the conclusion:
 > time you take on the topic of climate change, or would like to have a chat
 > about why aerosol geoengineering might not be a cure-all, or just need a
 > critical but informed opponent to bounce ideas off of, you don’t have to go
-> very far…." ( **from** [An Open Letter To Steve
+> very far…." (**from** [An Open Letter To Steve
 > Levitt](<http://www.realclimate.org/index.php/archives/2009/10/an-open-
 > letter-to-steve-levitt/>))
 >

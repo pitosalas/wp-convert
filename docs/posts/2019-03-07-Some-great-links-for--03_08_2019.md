@@ -6,8 +6,6 @@ date: 2019-03-07
 
 **Link: [Some great links for  03/08/2019](None):** ""
 
-
-
   * [End-to-End Arguments in System Design | the morning paper](<https://blog.acolyer.org/2014/11/14/end-to-end-arguments-in-system-design/>)
 
 tags: [en-to-end](<https://www.diigo.com/user/pitosalas/en-to-end>)

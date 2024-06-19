@@ -6,16 +6,13 @@ date: 2004-05-21
 
 **Link: [Fair Use of Share-your-OPML?](None):** ""
 
-
->>
-
->> One of the core goals of [BlogBridge ](<http://www.blogbridge.com>)is to
-give a newbie a quick and delicious taste of the world of blogs. One of the
-very first steps of course is to decide what feeds to follow. Other blog
-readers come with an initial set of feeds built in or offer the user to pick
-from a bunch of them. (I hear that the authors of those readers, once they
-become at all well known, are inundated with bloggers who would like their
-particular blog to be in the built-in initial list.
+One of the core goals of [BlogBridge ](<http://www.blogbridge.com>)is to give
+a newbie a quick and delicious taste of the world of blogs. One of the very
+first steps of course is to decide what feeds to follow. Other blog readers
+come with an initial set of feeds built in or offer the user to pick from a
+bunch of them. (I hear that the authors of those readers, once they become at
+all well known, are inundated with bloggers who would like their particular
+blog to be in the built-in initial list.
 
 >>
 

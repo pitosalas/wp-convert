@@ -4,13 +4,10 @@ author: Pito Salas
 date: 2018-04-08
 ---
 
-
->>
-
->> I get this question fairly often from students who have just completed
-their first or second semester programming course at Brandeis and would like
-to continue on their own. How do I keep up with my field? How do you, Pito,
-Keep up?
+I get this question fairly often from students who have just completed their
+first or second semester programming course at Brandeis and would like to
+continue on their own. How do I keep up with my field? How do you, Pito, Keep
+up?
 
 >>
 
@@ -149,10 +146,10 @@ Approach/dp/0932633021/ref=nav_custrec_signin?crid=1THXTG7HQ8X5T&keywords=becomi
 development team lead or who is a first time manager of technical people.
 
 >>   * [Accelerate](<https://amzn.to/3Chvvz7>) by **Jez Humble and Gene Kim**.
-The subtitle of this book is " _Building and Scaling High Performing
-Technology Organizations_ ". It is a great summary of current thinking about
-Software Engineering processes and has the added advantage of being backed by
-research that seems credible.
+The subtitle of this book is "_Building and Scaling High Performing Technology
+Organizations_ ". It is a great summary of current thinking about Software
+Engineering processes and has the added advantage of being backed by research
+that seems credible.
 
 >>
 

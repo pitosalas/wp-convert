@@ -6,10 +6,7 @@ date: 2004-05-29
 
 **Link: [[Geek] Getting ftp task to work in Ant / Eclipse](None):** ""
 
-
->>
-
->> Note to self:
+Note to self:
 
 >>
 
@@ -24,7 +21,7 @@ net.jar** , which I believe is the Ant interface to commons-net.jar.
 
 >> In other words, you need them both, in ant_homelib. If they are not both
 there you can a ridiculously cryptic error message.  
->  **  
+> **  
 > p.s. Didn 't I say "GEEK" ?**Dave, thanks for the words of encouragement.
 
 

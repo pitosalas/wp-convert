@@ -6,10 +6,7 @@ date: 2004-09-10
 
 **Link: [Patterns from the master](None):** ""
 
-
->>
-
->> [I came across a fascinating article,
+[I came across a fascinating article,
 ](<http://www.patternlanguage.com/archive/ieee/ieeetext.htm>)a transcript of a
 speech by **Christopher Alexander** , architect and author of "A Pattern
 Language."

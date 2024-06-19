@@ -6,8 +6,6 @@ date: 2008-05-17
 
 **Link: [Amusing: French words missing in English](None):** ""
 
-
-
 "No language is perfect, and English is no exception. There are always words
 or expressions that cannot be rendered from one language to another. English
 supposedly has the largest vocabulary of any languages in the world (7x more

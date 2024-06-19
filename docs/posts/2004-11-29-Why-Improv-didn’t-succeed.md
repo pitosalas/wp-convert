@@ -6,10 +6,7 @@ date: 2004-11-29
 
 **Link: [Why Improv didn’t succeed](None):** ""
 
-
->>
-
->> It's been a while.
+It's been a while.
 
 >>
 
@@ -21,7 +18,7 @@ he said:
 >>
 
 >>> _  
-> Consider the **spreadsheet**. It is a protean, sloppy, plastic, flexible
+> Consider the**spreadsheet**. It is a protean, sloppy, plastic, flexible
 > medium that is, ironically, the despair of all accountants and auditors
 > because it is virtually impossible to reliably understand a truly complex
 > and rich spreadsheet.

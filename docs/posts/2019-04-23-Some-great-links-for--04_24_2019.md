@@ -6,8 +6,6 @@ date: 2019-04-23
 
 **Link: [Some great links for  04/24/2019](None):** ""
 
-
-
   * [Microsoft Launches Bosque: An Open Source Programming Language](<https://www.technotification.com/2019/04/microsoft-launches-bosque-programming-language.html>)
 
 Interesting to see a brand new language come out of research.

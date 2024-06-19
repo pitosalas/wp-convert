@@ -11,8 +11,6 @@ tags:
 
 **Link: [Who sets the price for Über rides?](None):** ""
 
-
-
 ![](https://i0.wp.com/salas.com/wp-content/uploads/2013/03/692dd-wizard-of-
 ozbehindthecurtain.jpg?w=584&ssl=1)
 

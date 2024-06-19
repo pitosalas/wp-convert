@@ -8,8 +8,6 @@ tags:
 
 **Link: [[GEEKY] Too much authentication goodness](None):** ""
 
-
-
 It seems like nowadays, to be a cool, 21st century kind of application, you
 need to allow me to use my facebook, or google, or yahoo, or twitter, or …
 account to access a site. Ok, sounds like a fine idea, don't you think?

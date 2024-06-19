@@ -8,8 +8,6 @@ tags:
 
 **Link: [Mac OS X Virus?](None):** ""
 
-
-
 ![](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-
 content/uploads/imagewell/macvirus.jpg?w=584)
 

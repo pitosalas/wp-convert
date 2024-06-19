@@ -6,10 +6,7 @@ date: 2005-06-21
 
 **Link: [Distributed philanthropy network](None):** ""
 
-
->>
-
->> I came across a good story about
+I came across a good story about
 [ModestNeeds.org](<http://www.modestneeds.org/>) from [Deborah Finn's
 blog](<http://blog.deborah.elizabeth.finn.com/blog/_archives/2005/6/12/931346.html>),
 where she says:
@@ -24,10 +21,7 @@ ModestNeeds phenomenon and its implications." (from Deborah Finn)
 
 >>
 
->> Check it out: [ModestNeeds.org](<http://www.modestneeds.org/>)
-
->>
-
->> Technorati Tags: [philantropy](<http://technorati.com/tag/philantropy>)
+>> Check it out: [ModestNeeds.org](<http://www.modestneeds.org/>) Technorati
+Tags: [philantropy](<http://technorati.com/tag/philantropy>)
 
 

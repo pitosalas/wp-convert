@@ -6,8 +6,6 @@ date: 2014-08-22
 
 **Link: [Worth reading: At Burning Man, the Tech Elite One-Up One Another](None):** ""
 
-
-
 ![](https://i0.wp.com/salas.com/wp-
 content/uploads/2014/08/b07d2-1408723086316.jpg?w=584&ssl=1)
 

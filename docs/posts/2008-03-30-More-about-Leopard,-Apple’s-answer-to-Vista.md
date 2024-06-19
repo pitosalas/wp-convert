@@ -6,8 +6,6 @@ date: 2008-03-30
 
 **Link: [More about Leopard, Apple’s answer to Vista](None):** ""
 
-
-
 For you slow pokes who have not yet upgraded to Leopard, my continuing
 experience might be of interest (then again it may not.) If you are a real
 slow poke you may not know that Leopard is Apple's new generation operating

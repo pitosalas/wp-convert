@@ -12,8 +12,6 @@ tags:
 
 **Link: [[GEEKY] Sublime Text surpassing TextMate?](None):** ""
 
-
-
 I've been doing some more coding these days in Ruby.
 
 I've had great success and fun (especially when debugging) using

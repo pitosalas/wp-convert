@@ -6,10 +6,7 @@ date: 2004-02-26
 
 **Link: [Amazing little rover “calculates its](None):** ""
 
-
->>
-
->> **Amazing little rover "calculates its own location in the universe…..on
+**Amazing little rover "calculates its own location in the universe…..on
 Mars": **I just can't get enough of this [amazing bit of engineering called
 the Mars Rover](<http://marsrovers.jpl.nasa.gov/mission/status.html>). Get
 this:

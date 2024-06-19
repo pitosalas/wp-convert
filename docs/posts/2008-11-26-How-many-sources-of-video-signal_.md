@@ -6,8 +6,6 @@ date: 2008-11-26
 
 **Link: [How many sources of video signal?](None):** ""
 
-
-
 [Netflix has a box to stream video](<http://www.roku.com/netflixplayer/>) into
 my living room. TIVO has a deal with Amazon to do the same. [Blockbuster is
 just coming out with their set-

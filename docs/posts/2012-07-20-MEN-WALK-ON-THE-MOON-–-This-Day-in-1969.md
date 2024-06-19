@@ -10,8 +10,6 @@ tags:
 
 **Link: [MEN WALK ON THE MOON – This Day in 1969](None):** ""
 
-
-
 ![](https://i0.wp.com/graphics8.nytimes.com/images/section/learning/general/onthisday/big/0720_big.gif?w=584)
 
 

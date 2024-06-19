@@ -6,10 +6,7 @@ date: 2004-05-12
 
 **Link: [BlogBridge – Quiet but Busy!](None):** ""
 
-
->>
-
->> It's been quiet but we've been busy. We are getting ready to put up a major
+It's been quiet but we've been busy. We are getting ready to put up a major
 new revision of BlogBridge with goodies such as drag and drop of Channels,
 Collapse/Expand groups of articles, based on age, Next Unread processing, a
 bunch of new User Preferences. Also we are doing a bit of a reorganization of

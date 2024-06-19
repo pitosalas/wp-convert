@@ -6,8 +6,6 @@ date: 2009-03-07
 
 **Link: [A (fairly) understandable explanation of the math behind the market meltdown](None):** ""
 
-
-
 This [article is somewhat
 mathematical](<http://www.wired.com/techbiz/it/magazine/17-03/wp_quant>) but I
 am sure it still hugely simplifies the logic that led us astray. If you are a

@@ -6,8 +6,6 @@ date: 2009-02-28
 
 **Link: [Twitter Week on Portals and KM](None):** ""
 
-
-
 Bill Ives has been running "twitter week" this week on his blog [Portals and
 KM](<http://billives.typepad.com/portals_and_km/index.rdf>). Here something
 from his concluding post: [Concluding Twitter Week: Predictions on How Twitter
@@ -19,7 +17,7 @@ items about the influence of twitter on blog design:
 > "To conclude Twitter week on Portals and KM, I want to share 10 Ways Twitter
 > Will Change Blog Design in 2009 by Rachel Cunliffe on Mashable. I am
 > reorganizing her content to reflect its availability and then providing my
-> thoughts in most cases." ( **from** [Portals and
+> thoughts in most cases." (**from** [Portals and
 > KM](<http://billives.typepad.com/portals_and_km/index.rdf>))
 
 

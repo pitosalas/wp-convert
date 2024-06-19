@@ -14,8 +14,6 @@ tags:
 
 **Link: [A Nibble of Geohashes in Go – by Kurt – Get Code](None):** ""
 
-
-
 [ A Nibble of Geohashes in Go - by Kurt - Get Code](<
 https://getcode.substack.com/p/a-nibble-of-geohashes-in-
 go?utm_source=substack&utm_medium=email>) –This is a really cool algorithm

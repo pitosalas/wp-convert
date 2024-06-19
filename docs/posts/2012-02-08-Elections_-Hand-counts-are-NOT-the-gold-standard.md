@@ -12,8 +12,6 @@ tags:
 
 **Link: [Elections: Hand counts are NOT the gold standard](None):** ""
 
-
-
 There is always a good deal of **controversy** surrounding elections and in
 particular, whether an election is 'fair' or not. As I have been working on a
 project with the [Open Source Digital Voting Foundation
@@ -27,7 +25,7 @@ computer involved anywhere.
 
 Others say that the act of looking at a ballot and determining the votes cast
 should only done by people, working in well organized teams with carefully
-designed procedures. They refer to this as the ' **gold standard '** of
+designed procedures. They refer to this as the '**gold standard '** of
 counting, the only way to be really sure that we are counting votes correctly.
 
 That is **not** quite as far fetched. But also **not** self evident. Here
@@ -39,8 +37,8 @@ ballots. They say:
 > capitalize on advanced statistical procedures that can help ensure that
 > final election results better match what is actually on the ballots. It is
 > important that we become aware of the limitations of current methods and
-> develop alternative ways to improve the accuracy of election results."' (
-> **from** [Rice
+> develop alternative ways to improve the accuracy of election results."'
+> (**from** [Rice
 > University)](<http://www.media.rice.edu/media/NewsBot.asp?MODE=VIEW&ID=16725&SnID=1526014862>)
 
 The bottom line result that they found was that "Hand counting of votes in
@@ -55,7 +53,7 @@ Bruce Schneier (a highly respected cryptography and security expert) says:
 > there that elections are perfectly accurate, down to the single vote.
 > They're not. If the vote is within a few percentage points, they're likely a
 > statistical tie. (The problem, of course, is that elections must produce a
-> single winner.)" ( **see** [Bruce Schneier's
+> single winner.)" (**see** [Bruce Schneier's
 > Blog)](<http://www.schneier.com/blog/archives/2012/02/error_rates_of.html>)
 
 

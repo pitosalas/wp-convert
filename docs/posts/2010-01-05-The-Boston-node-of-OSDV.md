@@ -14,8 +14,6 @@ tags:
 
 **Link: [The Boston node of OSDV](None):** ""
 
-
-
 I've been working quite a bit on the [Open Source Digital Voting
 foundation](<http://www.osdv.org>) project over the last 9 months or so. It's
 really weird but I've turned myself into a mini-expert on how elections are

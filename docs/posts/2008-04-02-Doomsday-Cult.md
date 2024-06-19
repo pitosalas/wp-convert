@@ -6,8 +6,6 @@ date: 2008-04-02
 
 **Link: [Doomsday Cult](None):** ""
 
-
-
 Scott Adams as usual is hillarious in this post [Doomsday
 Cult](<http://dilbertblog.typepad.com/the_dilbert_blog/2008/04/doomsday-
 cult.html>) from [The Dilbert

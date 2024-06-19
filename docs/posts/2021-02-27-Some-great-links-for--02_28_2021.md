@@ -6,8 +6,6 @@ date: 2021-02-27
 
 **Link: [Some great links for  02/28/2021](None):** ""
 
-
-
   * [Different Ways to Handle JSON in a Linux Shell](<https://link.medium.com/9FvuL4gneeb>)
 
 If you work with json at all, this is a super useful article, introducing

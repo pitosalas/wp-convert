@@ -10,14 +10,12 @@ tags:
 
 **Link: [More than Charisma](None):** ""
 
-
-
 From [Bob Herbert, in today's New York
 Times](<http://www.nytimes.com/2009/01/24/opinion/24herbert.html?_r=1&scp=2&sq=clownish&st=cse>):
 
 > "… [we've witnessed] the almost desperate hunger in this country for mature
 > leadership, for someone who is not recless and clownish, shortsighted and
-> self-absorbed." ( **from** [The New York
+> self-absorbed." (**from** [The New York
 > Times](<http://www.nytimes.com/2009/01/24/opinion/24herbert.html?_r=1&scp=2&sq=clownish&st=cse>))
 
 Someone asked said to me the other day, 'you're really political aren't you?'

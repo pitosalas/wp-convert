@@ -6,8 +6,6 @@ date: 2007-03-28
 
 **Link: [Bush on TV, quoting two blogs](None):** ""
 
-
-
 Is this a sign of the times? President Bush is on TV right now giving a speech
 about why he's right about Iraq. To bolster his case, he quotes two bloggers
 located in Baghdad! (Jokingly: "yeah, they have bloggers in Baghdad too, heh,

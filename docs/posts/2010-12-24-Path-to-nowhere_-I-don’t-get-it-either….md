@@ -6,8 +6,6 @@ date: 2010-12-24
 
 **Link: [Path to nowhere? I don’t get it either…](None):** ""
 
-
-
 I've seen **Path** , the new "un social" network (limit 50 friends) plugged by
 pundits and journalists. I tried it and **just didn 't get it**. Didn't know
 what it was for, who it was for, and **why it was getting attention**. So I am

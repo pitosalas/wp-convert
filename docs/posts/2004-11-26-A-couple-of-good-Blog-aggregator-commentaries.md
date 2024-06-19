@@ -6,11 +6,8 @@ date: 2004-11-26
 
 **Link: [A couple of good Blog aggregator commentaries](None):** ""
 
-
->>
-
->> Here are two interesting bits that look at all the aggregators and have
-some interesting comments about capabilities and futures.
+Here are two interesting bits that look at all the aggregators and have some
+interesting comments about capabilities and futures.
 
 >>
 

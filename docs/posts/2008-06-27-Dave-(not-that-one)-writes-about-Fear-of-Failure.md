@@ -6,8 +6,6 @@ date: 2008-06-27
 
 **Link: [Dave (not that one) writes about Fear of Failure](None):** ""
 
-
-
 I just came across [Dave Dupre's blog](<http://davedupre.com>). Some good
 reading there, for example:
 

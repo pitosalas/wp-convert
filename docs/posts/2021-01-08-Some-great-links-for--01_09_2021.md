@@ -6,8 +6,6 @@ date: 2021-01-08
 
 **Link: [Some great links for  01/09/2021](None):** ""
 
-
-
   * [Python Code Tips: 4 Ways to Debug Your Python Code Without IDE](<https://link.medium.com/ZTFY7yszScb>)
 
 A few good reminders. Nothing too new. Except I didn’t know pdb. On the other

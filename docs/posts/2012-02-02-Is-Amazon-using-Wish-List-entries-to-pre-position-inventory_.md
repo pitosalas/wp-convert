@@ -11,8 +11,6 @@ tags:
 
 **Link: [Is Amazon using Wish List entries to pre-position inventory?](None):** ""
 
-
-
 This happened: I had a book on my Amazon wish list for several months.
 
 **Yesterday** , I finally **placed** the order at around **3pm** and **today**

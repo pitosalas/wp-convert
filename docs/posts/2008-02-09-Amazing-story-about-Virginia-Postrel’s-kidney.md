@@ -6,8 +6,6 @@ date: 2008-02-09
 
 **Link: [Amazing story about Virginia Postrel’s kidney](None):** ""
 
-
-
 This is a [dramatic and well told story of one patient's patient search for a
 kidney donor.
 ](<http://www.nytimes.com/2007/12/16/magazine/16kidney-t.html?pagewanted=1&_r=1&ei=5088&en=e108bed2fbda912e&ex=1356930000&partner=rssnyt&emc=rss>)

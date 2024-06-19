@@ -11,8 +11,6 @@ tags:
 
 **Link: [Upcoming Web Innovators Group meeting](None):** ""
 
-
-
 Just found out that the [WebInno group](<http://www.eventbrite.com/contact-
 organizer?eid=389656473>) is back in session after a summer hiatus. This is
 one of the best open meetings for techies and entrepreneurs to meet and talk

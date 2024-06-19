@@ -6,8 +6,6 @@ date: 2020-02-10
 
 **Link: [Some great links for  02/11/2020](None):** ""
 
-
-
   * [SSL Cert Rotation with Runbook | dev/blesi](<http://patrick.ble.si/ssl-cert-rotation-with-runbook>)
 
 More about Runbook my favorite automation tool so far!

@@ -12,8 +12,6 @@ tags:
 
 **Link: [Bartender 4 – Take control of your Menu bar](None):** ""
 
-
-
 [ Bartender 4 - Take control of your Menu bar](<
 https://www.macbartender.com/>) –
 

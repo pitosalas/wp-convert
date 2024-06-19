@@ -6,9 +6,7 @@ date: 2007-01-16
 
 **Link: [Really cool new site: MyPunchBowl](None):** ""
 
-
->
-> <!-  
+<!-  
 >  body { font-variant: normal; font-style: normal; font-weight: normal; line-
 > height: normal; font-size: 11pt; font-family: Tahoma }  
 >  ->

@@ -8,8 +8,6 @@ tags:
 
 **Link: [How are the New England Patriots like the United States Post Office?](None):** ""
 
-
-
 I've gotten more interested in logos and graphic design lately so I guess I am
 noticing stuff like this more than before…
 

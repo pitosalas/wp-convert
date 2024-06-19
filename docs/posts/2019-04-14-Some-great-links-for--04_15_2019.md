@@ -6,8 +6,6 @@ date: 2019-04-14
 
 **Link: [Some great links for  04/15/2019](None):** ""
 
-
-
   * [How do I know whether my Rails app is thread-safe or not?](<https://bearmetal.eu/theden/how-do-i-know-whether-my-rails-app-is-thread-safe-or-not>)
 
 Quite good explanation of thread safety in Ruby apps

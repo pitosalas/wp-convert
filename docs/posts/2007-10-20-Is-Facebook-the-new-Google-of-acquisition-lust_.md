@@ -6,8 +6,6 @@ date: 2007-10-20
 
 **Link: [Is Facebook the new Google of acquisition-lust?](None):** ""
 
-
-
 In the past, clever **[tag]entrepreneurs[/tag]** (yours truly not included,
 alas) have built companies and products with a very specific plan or desire or
 hope or scheme to be acquired by some deep pocketed parent-to-be.

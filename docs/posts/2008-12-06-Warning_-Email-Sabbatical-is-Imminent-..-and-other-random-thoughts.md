@@ -6,8 +6,6 @@ date: 2008-12-06
 
 **Link: [Warning: Email Sabbatical is Imminent .. and other random thoughts](None):** ""
 
-
-
 I really like this approach to vacation. I think I will try it: Check out this
 post [Warning: Email Sabbatical is Imminent .. and other random
 thoughts](<http://feeds.feedburner.com/~r/zephoria/thoughts/~3/476456764/warning_email_s.html>):
@@ -21,7 +19,7 @@ thoughts](<http://feeds.feedburner.com/~r/zephoria/thoughts/~3/476456764/warning
 > away (however lovingly you intend it) and I come home to a clean INBOX.
 > Don't worry… if you forget, you'll get a nice note from my INBOX telling you
 > to shove off, respect danah's deeply needed vacation time, and try again
-> after January 19." ( **from:** from
+> after January 19." (**from:** from
 > [apophenia](<http://feeds.feedburner.com/zephoria/thoughts>))
 
 …

@@ -12,8 +12,6 @@ tags:
 
 **Link: [How do you fit a 365 day calendar on an index card?](None):** ""
 
-
-
 [![](https://i0.wp.com/salas.com/wp-
 content/uploads/2013/01/8dd58-12439792-21674846-thumbnail.png?w=584&ssl=1)](<Y.Squarespace.Utils.lightboxAsset\('53a8d947e4b0457dcd6e2751'\);>)I
 designed the calendar to the right to help me keep track of my piano practice.

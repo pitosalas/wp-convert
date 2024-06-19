@@ -6,8 +6,6 @@ date: 2007-05-15
 
 **Link: [Leaving my friends – Twitterspam](None):** ""
 
-
-
 I've been **de-friending** one person after another on Twitter. Why? Because
 many of them are A-listers who 'generously 'accepted my friendship and are now
 **spamming** me via Twitter with their latest exploits. Dull.

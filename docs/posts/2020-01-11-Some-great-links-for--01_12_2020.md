@@ -6,8 +6,6 @@ date: 2020-01-11
 
 **Link: [Some great links for  01/12/2020](None):** ""
 
-
-
   * [Broot](<https://dystroy.org/broot/>)
 
 Looks like this might be useful.

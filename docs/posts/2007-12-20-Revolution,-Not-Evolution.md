@@ -6,11 +6,7 @@ date: 2007-12-20
 
 **Link: [Revolution, Not Evolution](None):** ""
 
-
-
-Check out [this
-post](<http://www.pbs.org/cringely/pulpit/2007/pulpit_20071214_003618.html>)
-from [I, Cringely . The Pulpit | PBS](<http://www.pbs.org/cringely/pulpit/>):
+Check out [this post](<http://www.pbs.org/cringely/pulpit/2007/pulpit_20071214_003618.html>) from [I, Cringely . The Pulpit | PBS](<http://www.pbs.org/cringely/pulpit/>):
 
 > A couple months have passed since I announced Team Cringely, my plan to
 > [**win the Google Lunar X Prize**](<http://www.googlelunarxprize.org/>) by

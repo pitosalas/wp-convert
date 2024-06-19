@@ -6,8 +6,6 @@ date: 2008-09-08
 
 **Link: [Ambient Awareness: on being ‘digitally’ close](None):** ""
 
-
-
 A [good article in the New York Times Magazine about the so-called 'ambient
 awareness'
 phenomenon](<http://www.nytimes.com/2008/09/07/magazine/07awareness-t.html>):

@@ -11,8 +11,6 @@ tags:
 
 **Link: [Startup vs. Company](None):** ""
 
-
-
 **" Oh yeah, I've started 6 companies, and right now I have 3 startups going.
 I just love starting companies. I don't know what's wrong with me…."**
 
@@ -43,13 +41,13 @@ Companies hard.", in which he says, among other things:
 > startups. Maybe it's because it costs more to live here, but we're trying to
 > put food on the table, not be on the [cover of Business
 > Week](<http://37signals.com/svn/archives2/dont_believe_businessweeks_bubblemath.php>
-> "Business Week")." ( **from** [Startup vs.
+> "Business Week")." (**from** [Startup vs.
 > Company](<http://spencerfry.com/startup-vs-company>))
 
 (It will make [Scott
 Kirsner's](<http://www.boston.com/business/technology/innoeco/>) heart beat
 faster when he realizes that the conversation being quoted above was between
-Spencer Fry, from **New York** , and ' **two guys from San Fransisco** " about
+Spencer Fry, from **New York** , and '**two guys from San Fransisco** " about
 the meaning of the word 'Startup')
 
 I take Spencer Fry's side in this debate. The term 'startup' and 'company', at
@@ -64,7 +62,7 @@ least in the mouths of our community, have experienced serious devaluation:
 > Building a business is mind numbing when you think about it. You have to be
 > a little insane to venture down this path. Your chances of succeeding are
 > slim, and even if you do succeed you have to continue to innovate or you'll
-> be obsolete in eighteen months." ( **from** [Startup vs.
+> be obsolete in eighteen months." (**from** [Startup vs.
 > Company](<http://spencerfry.com/startup-vs-company>))
 
 Just something to keep in mind the next time you say or hear a statement like

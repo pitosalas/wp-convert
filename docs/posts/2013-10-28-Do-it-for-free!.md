@@ -12,8 +12,6 @@ tags:
 
 **Link: [Do it for free!](None):** ""
 
-
-
 Tim Kreider's essay could apply as easily to all those people who complain
 that an iPhone app is not free, or is so so expensive at $5.99. Not too long
 ago a piece of software would get $99 or $495. Makes you wonder how long Adobe
@@ -28,7 +26,7 @@ here's a bit of the article:
 > evidently, to pay one cent for it. "Unfortunately we don't have the budget
 > to offer compensation to our contributors…" is how the pertinent line
 > usually starts. But just as often, they simply omit any mention of payment."
-> ( **from:[Slaves of the Internet, Unite! -
+> (**from:[Slaves of the Internet, Unite! -
 > NYTimes.com](<http://www.nytimes.com/2013/10/27/opinion/sunday/slaves-of-
 > the-internet-unite.html?_r=0>))**
 

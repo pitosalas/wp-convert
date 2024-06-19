@@ -6,8 +6,6 @@ date: 2020-05-25
 
 **Link: [Some great links for  05/26/2020](None):** ""
 
-
-
   * [The Definitive Guide to Python import Statements | Chris Yeh](<https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html>)
 
 Another good article about Python modularity

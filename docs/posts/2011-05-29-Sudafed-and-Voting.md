@@ -9,8 +9,6 @@ tags:
 
 **Link: [Sudafed and Voting](None):** ""
 
-
-
 A theme that I have followed in this blog is the question of whether it's a
 good idea to require a picture ID of some kind before permitting a citizen to
 vote. In another [article in the New York Times called "Republican Legislators

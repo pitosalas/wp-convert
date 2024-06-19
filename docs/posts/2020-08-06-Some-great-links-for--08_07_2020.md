@@ -6,8 +6,6 @@ date: 2020-08-06
 
 **Link: [Some great links for  08/07/2020](None):** ""
 
-
-
   * [Noticed Gem: Notifications for Ruby on Rails applications](<https://github.com/excid3/noticed>)
 
 very useful gem to send all kinds of notification from Rails. Haven't tested

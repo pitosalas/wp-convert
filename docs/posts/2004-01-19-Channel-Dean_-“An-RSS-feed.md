@@ -6,13 +6,10 @@ date: 2004-01-19
 
 **Link: [Channel Dean: “An RSS feed](None):** ""
 
-
->>
-
->> **[Channel Dean](<http://archive.scripting.com/2004/01/19#channelDeanDay>):
-"An RSS **[**feed**](<http://xml.deanforamerica.com/channelDean.xml>) **that
-'s like a clipping service for people interested in US politics." **[Dave
-Winer and some co-
+**[Channel Dean](<http://archive.scripting.com/2004/01/19#channelDeanDay>):
+"An RSS **[**feed**](<http://xml.deanforamerica.com/channelDean.xml>)**that 's
+like a clipping service for people interested in US politics." **[Dave Winer
+and some co-
 conspiritors](<http://blogs.law.harvard.edu/tech/howChannelDeanCameToBe>) have
 created something really cool: a new feed which brings together a series of
 feeds that all relate to US Politics. As I've said before, **hats off** to

@@ -10,8 +10,6 @@ tags:
 
 **Link: [How to Post to Mastodon From Anything Using IFTTT – K²R](None):** ""
 
-
-
 [ How to Post to Mastodon From Anything Using IFTTT - K²R](<
 https://hyperborea.org/journal/2017/12/mastodon-ifttt/>) –I finally managed to
 hook up IFTTT to Mastodon to auto-post from another site! I use IFTTT as glue
