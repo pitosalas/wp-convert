@@ -27,9 +27,9 @@ plugins:
   - blog:
       blog_dir: .
       blog_toc: true
-      # post_slugify: !!python/object/apply:ext.slugs.slugify
-      #   kwds:
-      #     short: true
+      post_slugify: !!python/object/apply:ext.slugs.slugify
+        kwds:
+          short: true
 
   - tags:
       enabled: true
