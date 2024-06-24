@@ -6,7 +6,7 @@ link: "https://github.com/pantor/ros-control-center"
 cover: "https://opengraph.githubassets.com/b85f25201c7ba966776946ab85e53e64b40399ddae8bf05185b498c7c5c3ebb5/pantor/ros-control-center" 
 date: 2024-05-04
 tags:
-    - howto
+    - how-to
     - ros
     - control-panel
     - web

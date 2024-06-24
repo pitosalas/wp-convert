@@ -11,7 +11,7 @@ tags:
     - structure
     - data
     - tool
-    - cooltool
+    - cool-tools
     - gem
 ---
 <img class="cover" src=https://opengraph.githubassets.com/9c26f47991a9ef8f0113e2c55b05245d56f9fe4bf3c23e0b538442a5a817737f/roidrage/lograge>

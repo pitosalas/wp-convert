@@ -6,7 +6,7 @@ link: "https://foxglove.dev/product"
 cover: "https://foxglove.dev/images/og-image.jpeg" 
 date: 2024-05-04
 tags:
-    - howto
+    - how-to
     - ros
     - web
     - control-panel

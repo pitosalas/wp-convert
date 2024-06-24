@@ -9,7 +9,10 @@ tags:
     - rails
     - deploy
     - heroku
-    - scale deploy build rails docker howto
+    - scale
+    - build
+    - docker
+    - how-to
 ---
 <img class="cover" src=https://www.hivegrid.dev/cover.png>
 

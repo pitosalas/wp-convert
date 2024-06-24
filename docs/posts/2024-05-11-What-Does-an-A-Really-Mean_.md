@@ -9,7 +9,7 @@ tags:
     - teaching
     - grading
     - higher-education
-    - howto
+    - how-to
     - learn
 ---
 <img class="cover" src=https://chronicle.brightspotcdn.com/dims4/default/619a8ce/2147483647/strip/true/crop/3300x1732+0+595/resize/1200x630!/quality/90/?url=http%3A%2F%2Fchronicle-brightspot.s3.us-east-1.amazonaws.com%2F29%2Fe4%2F8859cc8b44c1be7b5d30b31ef58d%2Fsupiano-gettingana-0410-6603-meritocracy-wong-revised.jpg>

@@ -12,7 +12,7 @@ tags:
     - rviz
     - web
     - data
-    - cooltool
+    - cool-tools
     - visualize
 ---
 <img class="cover" src=https://docs.foxglove.dev/img/docusaurus-social-card.jpg>

@@ -6,7 +6,7 @@ link: "https://github.com/EESC-LabRoM/rosweb"
 cover: "https://opengraph.githubassets.com/db912cae2fcbfdd96af3fb30727e3b569c9220ef5f14e6d03a7c66a374b34735/EESC-LabRoM/rosweb" 
 date: 2024-05-04
 tags:
-    - howto
+    - how-to
     - web
     - ros
     - control-panel

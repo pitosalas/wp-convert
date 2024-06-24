@@ -7,7 +7,7 @@ cover: "https://learnsql.com/blog/practical-sql-cte-examples/cover.png"
 date: 2024-05-07
 tags:
     - sql
-    - cooltool
+    - cool-tools
     - tool
     - cte
     - example

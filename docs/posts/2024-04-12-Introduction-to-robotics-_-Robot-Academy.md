@@ -10,7 +10,7 @@ tags:
     - resource
     - library
     - content-collection
-    - educationa
+    - education
 ---
 <img class="cover" src=https://robotacademy.net.au/wp-content/uploads/2017/03/IRL1_masterclass_tile.jpg>
 

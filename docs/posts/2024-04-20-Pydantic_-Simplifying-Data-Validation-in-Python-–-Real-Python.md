@@ -9,7 +9,7 @@ tags:
     - python
     - data
     - data-validation
-    - cooltool
+    - cool-tools
     - pydantic
     - python-package
 ---

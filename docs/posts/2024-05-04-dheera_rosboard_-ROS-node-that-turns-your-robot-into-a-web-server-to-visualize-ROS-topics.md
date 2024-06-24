@@ -6,7 +6,7 @@ link: "https://github.com/dheera/rosboard"
 cover: "https://opengraph.githubassets.com/212c324af6dab455736303d1a80d731c57dd1002d77c1ec883c5af4b142057dc/dheera/rosboard" 
 date: 2024-05-04
 tags:
-    - howto
+    - how-to
     - ros
     - control-panel
     - web

@@ -8,7 +8,7 @@ date: 2024-04-24
 tags:
     - python
     - package
-    - cooltool
+    - cool-tools
     - table
     - display
     - beautiful

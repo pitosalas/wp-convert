@@ -9,7 +9,7 @@ tags:
     - python
     - ruby
     - object-oriented
-    - comparo
+    - compare
     - opinion
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fsgt.hootr.club%2Fmolten-matter%2Fmaybe-i-like-python-now%2F>

@@ -6,7 +6,7 @@ link: "https://gagor.pro/2024/02/how-i-stopped-worrying-and-loved-makefiles/?utm
 cover: "https://gagor.pro/2024/02/how-i-stopped-worrying-and-loved-makefiles/images/cover.webp" 
 date: 2024-05-02
 tags:
-    - howto
+    - how-to
     - make
     - linux
     - tool

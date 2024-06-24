@@ -9,7 +9,7 @@ tags:
     - excel
     - api
     - python-api
-    - howto
+    - how-to
 ---
 <img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.python-excel.org%2F>
 

@@ -8,7 +8,6 @@ date: 2024-05-19
 tags:
     - software-engineering
     - python
-    - jupyter
     - jupyter-notebook
 ---
 <img class="cover" src=https://marimo.io/api/og?title=Lessons+learned+reinventing+the+Python+notebook&description=Designing+a+notebook+that+can+be+shared+as+an+app%2C+run+as+a+script%2C+versioned+with+git%2C+and+more>

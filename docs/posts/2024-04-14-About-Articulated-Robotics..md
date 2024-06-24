@@ -9,8 +9,8 @@ tags:
     - ros
     - ros1
     - ros2
-    - howto
-    - cooltool
+    - how-to
+    - cool-tools
     - hot
     - best-bet
     - tutorial
