@@ -4,18 +4,20 @@ from raindrop_utils import *
 from typing import Any, Dict
 
 TAGS_PLAN_FILE = "data/tag_rules.json"
-MAX_DROP_READ = 100
-MAX_TAG_REPAIR = 1
+MAX_DROP_READ = 20000
+MAX_TAG_REPAIR = 250
 
 class DropTagRepair:
 
     def __init__(self):
-        self.tags_repaired = 0
+        self.tags_repaired_count = 0
 
-    def process_drop(self, drop): 
+    def process_drop(self, drop) -> bool:
         tags_array = self.get_tags_as_str_array(drop)
         tags_repaired = self.repair_tags(tags_array)
         self.update_drop_tags(drop, tags_array, tags_repaired)
+        print(f"Repaired count {self.tags_repaired_count}, max tag achieved? {self.tags_repaired_count >= MAX_TAG_REPAIR}")
+        return self.tags_repaired_count < MAX_TAG_REPAIR
 
     def get_tags_as_str_array(self, drop):
         tag_array = drop['tags']
@@ -31,9 +33,13 @@ class DropTagRepair:
                 continue
             elif isinstance(self.tag_rules[tag], str):
                 repaired_tags.append(self.tag_rules[tag])
+            elif isinstance(self.tag_rules[tag], list):
+                array_of_words = self.tag_rules[tag]
+                repaired_tags.extend(array_of_words)
             else:
                 array_of_words = self.multi_word_split(tag)
                 repaired_tags.append(array_of_words)
+
         return self.flat_list(repaired_tags)
 
     def multi_word_split(self, tag: str) -> list[str]:
@@ -62,9 +68,7 @@ class DropTagRepair:
     def update_drop_tags(self, drop, original_tags, updated_tags):
         if original_tags == updated_tags:
             return
-        if self.tags_repaired > MAX_TAG_REPAIR:
-            return
-        self.tags_repaired += 1
+        self.tags_repaired_count += 1
         update_drop(self.headers, drop, updated_tags)
         print(f"Found {drop['title']}: \n    {original_tags} => \n    {updated_tags}")
 
