@@ -1,4 +1,7 @@
-# Tagsimport
+# Tagsimport is a script that retrieves tags from a wordpress site and saves them
+# as a json file. The tags are cleaned up by removing special characters, changing
+# spaces to dashes and more.
+
 import json
 import requests
 import re
