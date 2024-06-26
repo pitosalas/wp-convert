@@ -9,10 +9,10 @@ tags:
     - ros
     - camera
     - calibrate
-    - howto
+    - how-to
     - package
 ---
-<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwiki.ros.org%2Fcamera_calibration>
+<img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fwiki.ros.org%2Fcamera_calibration">
 
 **Link: [camera_calibration - ROS Wiki](http://wiki.ros.org/camera_calibration):** ""
 

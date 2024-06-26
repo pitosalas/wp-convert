@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Sittercity
 ---
-<img class="cover" src=>
+<img class="cover" src="">
 
 **Link: [Tips for Working with Controls | Balsamiq](http://support.balsamiq.com/customer/portal/articles/107987-tips-for-working-with-controls-):** ""
 

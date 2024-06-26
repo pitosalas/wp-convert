@@ -9,10 +9,10 @@ tags:
     - jq
     - json
     - cli
-    - howto
-    - cooltool
+    - how-to
+    - cool-tools
 ---
-<img class="cover" src=https://earthly.dev/blog/generated/assets/images/jq-select/header-800-9692dfee3.jpg>
+<img class="cover" src="https://earthly.dev/blog/generated/assets/images/jq-select/header-800-9692dfee3.jpg">
 
 **Link: [An Introduction to JQ](https://earthly.dev/blog/jq-select/):** "In this article, I’m going to go over the basics building blocks of jq in enough depth that you will be able to understand how jq works."
 

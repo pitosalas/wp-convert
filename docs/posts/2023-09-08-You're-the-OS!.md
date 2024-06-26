@@ -11,7 +11,7 @@ tags:
     - teaching
     - learn
 ---
-<img class="cover" src=https://img.itch.zone/aW1nLzEyOTgzMzY1LnBuZw==/original/Ib6g02.png>
+<img class="cover" src="https://img.itch.zone/aW1nLzEyOTgzMzY1LnBuZw==/original/Ib6g02.png">
 
 **Link: [You're the OS!](https://drfreckles42.itch.io/youre-the-os?utm_source=changelog-news):** "Become a computer operating system and try not to anger the user!"
 

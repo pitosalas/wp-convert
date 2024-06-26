@@ -10,7 +10,7 @@ tags:
     - search
     - google
 ---
-<img class="cover" src=https://swurl.com/img/swurl.com-screenshot.png>
+<img class="cover" src="https://swurl.com/img/swurl.com-screenshot.png">
 
 **Link: [Swurl - Search everything](https://swurl.com):** "Search Google, YouTube, Instagram, TikTok, Twitter, Reddit, Amazon, Images, News, & more. See all results by swiping — no clicking."
 

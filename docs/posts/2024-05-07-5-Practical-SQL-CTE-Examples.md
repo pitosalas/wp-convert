@@ -12,7 +12,7 @@ tags:
     - cte
     - example
 ---
-<img class="cover" src=https://learnsql.com/blog/practical-sql-cte-examples/cover.png>
+<img class="cover" src="https://learnsql.com/blog/practical-sql-cte-examples/cover.png">
 
 **Link: [5 Practical SQL CTE Examples](https://learnsql.com/blog/practical-sql-cte-examples/):** "In this article, we’ll go through several examples to see how SQL CTEs can help you with complex calculations and hierarchical data structures."
 

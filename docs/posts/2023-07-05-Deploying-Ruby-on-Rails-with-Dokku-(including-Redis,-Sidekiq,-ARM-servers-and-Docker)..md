@@ -12,9 +12,12 @@ tags:
     - heroku
     - cloud
     - deploy
-    - scale deploy build rails docker howto
+    - scale
+    - build
+    - docker
+    - how-to
 ---
-<img class="cover" src=https://railsnotes.xyz/static/images/deploying-ruby-on-rails-with-dokku-redis-sidekiq-arm-docker-hetzner/cover.png>
+<img class="cover" src="https://railsnotes.xyz/static/images/deploying-ruby-on-rails-with-dokku-redis-sidekiq-arm-docker-hetzner/cover.png">
 
 **Link: [Deploying Ruby on Rails with Dokku (including Redis, Sidekiq, ARM servers and Docker).](https://railsnotes.xyz/blog/deploying-ruby-on-rails-with-dokku-redis-sidekiq-arm-docker-hetzner?utm_source=shortruby&utm_campaign=shortruby_0049):** "This is the ultimate Dokku + Ruby on Rails guide — I cover running Dokku on x86 and ARM, deploying Sidekiq and Redis, dockerizing our Ruby on Rails app, and more..."
 

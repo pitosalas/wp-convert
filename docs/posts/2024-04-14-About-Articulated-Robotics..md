@@ -16,7 +16,7 @@ tags:
     - tutorial
     - robotics
 ---
-<img class="cover" src=https://articulatedrobotics.xyz/assets/images/logo2.png>
+<img class="cover" src="https://articulatedrobotics.xyz/assets/images/logo2.png">
 
 **Link: [About Articulated Robotics.](https://articulatedrobotics.xyz/about/):** "Mini lessons in robotics"
 

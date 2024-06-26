@@ -6,13 +6,13 @@ link: "https://levelup.gitconnected.com/gpt-engineer-build-an-entire-app-with-a-
 cover: "https://miro.medium.com/v2/resize:fit:1200/0*nfKmcfuzpVYPxfXg" 
 date: 2023-07-07
 tags:
-    - cooltool
+    - cool-tools
     - programming
     - python
     - automation
     - chatgpt
 ---
-<img class="cover" src=https://miro.medium.com/v2/resize:fit:1200/0*nfKmcfuzpVYPxfXg>
+<img class="cover" src="https://miro.medium.com/v2/resize:fit:1200/0*nfKmcfuzpVYPxfXg">
 
 **Link: [GPT Engineer: Build an Entire App with a Single Prompt](https://levelup.gitconnected.com/gpt-engineer-build-an-entire-app-with-a-single-prompt-14a1bbf4aeb6):** "Have an idea. Enter a prompt. Get an app."
 

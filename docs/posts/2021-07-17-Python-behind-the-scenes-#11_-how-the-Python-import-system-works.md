@@ -13,7 +13,7 @@ tags:
     - in-depth
     - python-package
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Ftenthousandmeters.com%2Fblog%2Fpython-behind-the-scenes-11-how-the-python-import-system-works%2F>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Ftenthousandmeters.com%2Fblog%2Fpython-behind-the-scenes-11-how-the-python-import-system-works%2F">
 
 **Link: [Python behind the scenes #11: how the Python import system works](https://tenthousandmeters.com/blog/python-behind-the-scenes-11-how-the-python-import-system-works/):** "If you ask me to name the most misunderstood aspect of Python, I will answer without a second thought: the Python import system. Just remember how..."
 

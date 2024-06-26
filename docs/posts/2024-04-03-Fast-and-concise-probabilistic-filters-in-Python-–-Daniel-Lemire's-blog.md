@@ -10,7 +10,7 @@ tags:
     - bloom-filter
     - fuse-filter
 ---
-<img class="cover" src=>
+<img class="cover" src="">
 
 **Link: [Fast and concise probabilistic filters in Python – Daniel Lemire's blog](https://lemire.me/blog/2024/03/31/fast-and-concise-probabilistic-filters-in-python/):** ""
 

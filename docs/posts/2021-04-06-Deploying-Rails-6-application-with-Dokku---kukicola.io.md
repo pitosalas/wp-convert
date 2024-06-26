@@ -6,15 +6,17 @@ link: "https://kukicola.io/posts/deploying-rails-6-application-with-dokku"
 cover: "https://kukicola.io/assets/img/photo.jpg" 
 date: 2021-04-06
 tags:
-    - howto
+    - how-to
     - scale
     - dokku
     - explainer
     - rails
-    - scale deploy build rails docker howto
+    - deploy
+    - build
+    - docker
     - application
 ---
-<img class="cover" src=https://kukicola.io/assets/img/photo.jpg>
+<img class="cover" src="https://kukicola.io/assets/img/photo.jpg">
 
 **Link: [Deploying Rails 6 application with Dokku - kukicola.io](https://kukicola.io/posts/deploying-rails-6-application-with-dokku):** "I’ve been researching a lot of devops/server deployment automation concepts and approaches. This is one of them."
 

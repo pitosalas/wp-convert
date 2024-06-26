@@ -13,7 +13,7 @@ tags:
     - equity
     - entrepreneurship
 ---
-<img class="cover" src=https://www.stefantheard.com/content/images/size/w1200/2024/06/wework-1-1.webp>
+<img class="cover" src="https://www.stefantheard.com/content/images/size/w1200/2024/06/wework-1-1.webp">
 
 **Link: [Silicon Valley’s Best Kept Secret: Founder Liquidity](https://www.stefantheard.com/silicon-valleys-best-kept-secret-founder-liquidity/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav):** "Ask most venture-backed founders why they get 10x more equity than employee #1, 100x more equity than employee #5, and 1000x more equity than employee #15, and you'll get the same answer: "I'M TAKING SO MUCH RISK, IT'S SO HARD TO START A COMPANY, I MADE A BIG MOVE!!!" And"
 

@@ -11,7 +11,7 @@ tags:
     - python-api
     - how-to
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.python-excel.org%2F>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fwww.python-excel.org%2F">
 
 **Link: [Python Resources for working with Excel - Working with Excel Files in Python](https://www.python-excel.org/):** ""
 

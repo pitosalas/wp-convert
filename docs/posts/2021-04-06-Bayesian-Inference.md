@@ -10,7 +10,7 @@ tags:
     - theory
     - inference
 ---
-<img class="cover" src=http://students.brown.edu/seeing-theory/img/share/5.png>
+<img class="cover" src="http://students.brown.edu/seeing-theory/img/share/5.png">
 
 **Link: [Bayesian Inference](https://seeing-theory.brown.edu/bayesian-inference/index.html):** "This is pretty amazing. Need to play with this more!"
 

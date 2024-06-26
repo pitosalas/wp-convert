@@ -10,7 +10,7 @@ tags:
     - paulgraham
     - life
 ---
-<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fpaulgraham.com%2Fnft.html>
+<img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fpaulgraham.com%2Fnft.html">
 
 **Link: [An NFT That Saves Lives](http://paulgraham.com/nft.html):** "oora has been saving lives for 7 years. They run programs in hospitals in South Asia to teach new mothers how to take care of their babies once they get home. They're in 165 hospitals now. And because they know the numbers before and after they start at a new hospital, they can measure the impact they have."
 

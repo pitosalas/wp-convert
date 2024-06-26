@@ -6,9 +6,13 @@ link: "https://dev.to/ptuladhar3/linux-commands-for-developers-17j"
 cover: "https://dev.to/social_previews/article/439975.png" 
 date: 2021-04-06
 tags:
-    - howto linux Cli developers commands
+    - how-to
+    - linux
+    - Cli
+    - developers
+    - commands
 ---
-<img class="cover" src=https://dev.to/social_previews/article/439975.png>
+<img class="cover" src="https://dev.to/social_previews/article/439975.png">
 
 **Link: [Linux Commands for Developers - DEV](https://dev.to/ptuladhar3/linux-commands-for-developers-17j):** "Another one of these lists of commands."
 

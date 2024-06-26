@@ -10,7 +10,7 @@ tags:
     - python
     - how-it-works
 ---
-<img class="cover" src=https://blog.miguelgrinberg.com/static/cards/how-llms-work-explained-without-math.jpg>
+<img class="cover" src="https://blog.miguelgrinberg.com/static/cards/how-llms-work-explained-without-math.jpg">
 
 **Link: [How LLMs Work, Explained Without Math](https://blog.miguelgrinberg.com/post/how-llms-work-explained-without-math):** "I'm sure you agree that it has become impossible to ignore Generative AI (GenAI), as we are constantly bombarded with mainstream news about Large Language Models (LLMs). Very likely you have tried…"
 

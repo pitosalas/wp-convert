@@ -9,10 +9,12 @@ tags:
     - python
     - software-engineering
     - standards
-    - recommendations programming languages
+    - recommendations
+    - programming
+    - languages
     - research
 ---
-<img class="cover" src=https://goodresearch.dev/_images/unicorn.png>
+<img class="cover" src="https://goodresearch.dev/_images/unicorn.png">
 
 **Link: [The Good Research Code Handbook](https://goodresearch.dev/index.html):** "This handbook is for grad students, postdocs and PIs who do a lot of programming as part of their research. It will teach you, in a practical manner, how to organize your code so that it is easy to..."
 

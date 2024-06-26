@@ -6,9 +6,12 @@ link: "https://github.com/piotrmurach/tty-logger"
 cover: "https://repository-images.githubusercontent.com/195463496/b7afba80-2506-11ea-9552-c2af9f89f048" 
 date: 2021-04-06
 tags:
-    - github logging structured terminal
+    - github
+    - logging
+    - structured
+    - terminal
 ---
-<img class="cover" src=https://repository-images.githubusercontent.com/195463496/b7afba80-2506-11ea-9552-c2af9f89f048>
+<img class="cover" src="https://repository-images.githubusercontent.com/195463496/b7afba80-2506-11ea-9552-c2af9f89f048">
 
 **Link: [piotrmurach/tty-logger](https://github.com/piotrmurach/tty-logger):** "Nice loggers"
 

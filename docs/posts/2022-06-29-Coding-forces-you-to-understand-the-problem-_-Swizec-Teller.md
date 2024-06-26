@@ -11,7 +11,7 @@ tags:
     - learn
     - programming-language
 ---
-<img class="cover" src=https://swizec.com/social-cards/coding-forces-you-to-understand-the-problem.png>
+<img class="cover" src="https://swizec.com/social-cards/coding-forces-you-to-understand-the-problem.png">
 
 **Link: [Coding forces you to understand the problem | Swizec Teller](https://swizec.com/blog/coding-forces-you-to-understand-the-problem/):** "Programming translates fuzzy understanding into exacting specifications. That’s why it’s hard. The Illusion of Explanatory Depth reigns supreme"
 

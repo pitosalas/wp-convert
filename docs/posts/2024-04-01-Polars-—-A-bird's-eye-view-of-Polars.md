@@ -14,7 +14,7 @@ tags:
     - query
     - query-optimization
 ---
-<img class="cover" src=https://www.pola.rs/share.jpg>
+<img class="cover" src="https://www.pola.rs/share.jpg">
 
 **Link: [Polars — A bird's eye view of Polars](https://pola.rs/posts/polars_birds_eye_view/):** "DataFrames for the new era"
 

@@ -9,9 +9,9 @@ tags:
     - ros
     - navigation
     - setup
-    - howto
+    - how-to
 ---
-<img class="cover" src=https://automaticaddison.com/wp-content/uploads/2018/11/cropped-logo_sq_240.png>
+<img class="cover" src="https://automaticaddison.com/wp-content/uploads/2018/11/cropped-logo_sq_240.png">
 
 **Link: [How to Set Up the ROS Navigation Stack on a Robot – Automatic Addison](https://automaticaddison.com/how-to-set-up-the-ros-navigation-stack-on-a-robot/):** "Good information about setting up and conviguring navigation"
 

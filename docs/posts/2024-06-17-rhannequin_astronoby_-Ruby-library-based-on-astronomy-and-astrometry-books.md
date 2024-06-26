@@ -10,7 +10,7 @@ tags:
     - math
     - stars
 ---
-<img class="cover" src=https://opengraph.githubassets.com/4a2e3514b89b6f7c4f305d6c02423e1edb972e2d83a095d1460a5424e61ea340/rhannequin/astronoby>
+<img class="cover" src="https://opengraph.githubassets.com/4a2e3514b89b6f7c4f305d6c02423e1edb972e2d83a095d1460a5424e61ea340/rhannequin/astronoby">
 
 **Link: [rhannequin/astronoby: Ruby library based on astronomy and astrometry books](https://github.com/rhannequin/astronoby):** "Ruby library based on astronomy and astrometry books - rhannequin/astronoby"
 

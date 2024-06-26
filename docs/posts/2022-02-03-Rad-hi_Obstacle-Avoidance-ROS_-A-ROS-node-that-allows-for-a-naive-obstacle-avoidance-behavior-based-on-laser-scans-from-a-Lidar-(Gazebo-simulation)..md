@@ -10,9 +10,9 @@ tags:
     - lidar
     - ros
     - obstacle-avoidance
-    - howto
+    - how-to
 ---
-<img class="cover" src=https://opengraph.githubassets.com/833d67d42a1949f6dd1702900926b648a44c8803cfdad9a875820db07a8ac209/Rad-hi/Obstacle-Avoidance-ROS>
+<img class="cover" src="https://opengraph.githubassets.com/833d67d42a1949f6dd1702900926b648a44c8803cfdad9a875820db07a8ac209/Rad-hi/Obstacle-Avoidance-ROS">
 
 **Link: [Rad-hi/Obstacle-Avoidance-ROS: A ROS node that allows for a naive obstacle avoidance behavior based on laser scans from a Lidar (Gazebo simulation).](https://github.com/Rad-hi/Obstacle-Avoidance-ROS):** "A ROS node that allows for a naive obstacle avoidance behavior based on laser scans from a Lidar (Gazebo simulation). - Rad-hi/Obstacle-Avoidance-ROS: A ROS node that allows for a naive obstacle av..."
 

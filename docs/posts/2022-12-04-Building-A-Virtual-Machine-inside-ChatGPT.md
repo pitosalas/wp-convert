@@ -12,7 +12,7 @@ tags:
     - matrix
     - chatgpt
 ---
-<img class="cover" src=https://www.engraved.blog/content/images/2022/12/deepmind-mbq0qL3ynMs-unsplash.jpg>
+<img class="cover" src="https://www.engraved.blog/content/images/2022/12/deepmind-mbq0qL3ynMs-unsplash.jpg">
 
 **Link: [Building A Virtual Machine inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/):** "This is a truly amazing and mind-bending example of something that ChatGPT can do. Wheels within wheels. The Matrix. Check out what the author says: “Unless you have been living under a rock, you have heard of this new ChatGPT assistant made by OpenAI. Did you know, that you can run a whole virtual machine inside of ChatGPT?l"
 

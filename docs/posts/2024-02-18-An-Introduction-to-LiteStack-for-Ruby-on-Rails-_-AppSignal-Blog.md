@@ -11,10 +11,9 @@ tags:
     - scaling
     - rails
     - ruby
-    - howto
-    - scale deploy build rails docker howto
+    - how-to
 ---
-<img class="cover" src=https://ondemand.bannerbear.com/signedurl/Mn62mqoVbWvyB5wgQ1/image.jpg?modifications=W3sibmFtZSI6InRpdGxlIiwidGV4dCI6IkFuIEludHJvZHVjdGlvbiB0byBMaXRlU3RhY2sgZm9yIFJ1Ynkgb24gUmFpbHMifSx7Im5hbWUiOiJpbWFnZSIsImltYWdlX3VybCI6Imh0dHBzOi8vYXBwc2lnbmFsLW5leHRqcy1ibG9nLWE1a2JuYTIyYi1hcHBzaWduYWwudmVyY2VsLmFwcC9pbWFnZXMvYmxvZy8yMDIzLTA5L3AxLWxpdGVzdGFjay5qcGcifSx7Im5hbWUiOiJjYXRlZ29yeV9sb2dvIiwiaW1hZ2VfdXJsIjoiaHR0cHM6Ly9hcHBzaWduYWwtbmV4dGpzLWJsb2ctYTVrYm5hMjJiLWFwcHNpZ25hbC52ZXJjZWwuYXBwL2ltYWdlcy9sb2dvcy9ydWJ5LWxvZ28ucG5nIn1d&s=1faae47375816220637145355f10f8c5b9a9123aad96dd69d49fa2141fba96b1>
+<img class="cover" src="https://ondemand.bannerbear.com/signedurl/Mn62mqoVbWvyB5wgQ1/image.jpg?modifications=W3sibmFtZSI6InRpdGxlIiwidGV4dCI6IkFuIEludHJvZHVjdGlvbiB0byBMaXRlU3RhY2sgZm9yIFJ1Ynkgb24gUmFpbHMifSx7Im5hbWUiOiJpbWFnZSIsImltYWdlX3VybCI6Imh0dHBzOi8vYXBwc2lnbmFsLW5leHRqcy1ibG9nLWE1a2JuYTIyYi1hcHBzaWduYWwudmVyY2VsLmFwcC9pbWFnZXMvYmxvZy8yMDIzLTA5L3AxLWxpdGVzdGFjay5qcGcifSx7Im5hbWUiOiJjYXRlZ29yeV9sb2dvIiwiaW1hZ2VfdXJsIjoiaHR0cHM6Ly9hcHBzaWduYWwtbmV4dGpzLWJsb2ctYTVrYm5hMjJiLWFwcHNpZ25hbC52ZXJjZWwuYXBwL2ltYWdlcy9sb2dvcy9ydWJ5LWxvZ28ucG5nIn1d&s=1faae47375816220637145355f10f8c5b9a9123aad96dd69d49fa2141fba96b1">
 
 **Link: [An Introduction to LiteStack for Ruby on Rails | AppSignal Blog](https://blog.appsignal.com/2023/09/27/an-introduction-to-litestack-for-ruby-on-rails.html):** "In the first part of this series, we'll set up an example Rails application and introduce the basics of LiteStack."
 

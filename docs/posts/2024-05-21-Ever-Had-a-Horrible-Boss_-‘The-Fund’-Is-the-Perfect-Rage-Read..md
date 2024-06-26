@@ -12,7 +12,7 @@ tags:
     - cult
     - megamania
 ---
-<img class="cover" src=https://static01.nyt.com/images/2023/11/12/books/review/07COPELAND/07COPELAND-largeHorizontalJumbo.jpg>
+<img class="cover" src="https://static01.nyt.com/images/2023/11/12/books/review/07COPELAND/07COPELAND-largeHorizontalJumbo.jpg">
 
 **Link: [Ever Had a Horrible Boss? ‘The Fund’ Is the Perfect Rage-Read.](https://www.nytimes.com/2023/11/06/books/review/the-fund-rob-copeland.html?smid=nytcore-ios-share&referringSource=articleShare):** "In Rob Copeland’s “The Fund,” we learn about the notorious hedge-fund giant Ray Dalio — and the manipulative professional hellscape over which he has presided."
 

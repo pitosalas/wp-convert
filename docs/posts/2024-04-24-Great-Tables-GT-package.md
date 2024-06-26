@@ -13,7 +13,7 @@ tags:
     - display
     - beautiful
 ---
-<img class="cover" src=https://posit-dev.github.io/great-tables/assets/tables_from_the_web.png>
+<img class="cover" src="https://posit-dev.github.io/great-tables/assets/tables_from_the_web.png">
 
 **Link: [Great Tables GT package](https://posit-dev.github.io/great-tables/get-started/):** ""
 

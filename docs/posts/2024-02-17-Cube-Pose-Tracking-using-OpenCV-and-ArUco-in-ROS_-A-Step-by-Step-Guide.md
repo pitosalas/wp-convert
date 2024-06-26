@@ -13,7 +13,7 @@ tags:
     - ubiquity-robotics
     - fiducial
 ---
-<img class="cover" src=https://miro.medium.com/v2/da:true/resize:fit:600/1*IJIbqP4vFMK3ODN3dRYd2g.gif>
+<img class="cover" src="https://miro.medium.com/v2/da:true/resize:fit:600/1*IJIbqP4vFMK3ODN3dRYd2g.gif">
 
 **Link: [Cube Pose Tracking using OpenCV and ArUco in ROS: A Step-by-Step Guide](https://medium.com/@ammar.n.abbas/cube-pose-tracking-using-aruco-in-ros-a-step-by-step-guide-1801a82fc546):** "Introduction"
 

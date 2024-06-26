@@ -11,7 +11,7 @@ tags:
     - robotics
     - explainer
 ---
-<img class="cover" src=https://upload.wikimedia.org/wikipedia/commons/1/16/Pneumatische_regelaar.jpg>
+<img class="cover" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Pneumatische_regelaar.jpg">
 
 **Link: [PID controller | Wikiwand](https://www.wikiwand.com/en/PID_controller):** "A proportional–integral–derivative controller is a control loop mechanism employing feedback that is widely used in industrial control systems and a variety of other applications requiring continuously modulated control. A PID controller continuously calculates an error value."
 

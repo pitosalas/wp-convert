@@ -8,11 +8,11 @@ date: 2023-02-07
 tags:
     - design
     - visual
-    - howto
+    - how-to
     - rules-of-thumb
     - graphic-design
 ---
-<img class="cover" src=https://anthonyhobday.com/sideprojects/saferules/images/1.png>
+<img class="cover" src="https://anthonyhobday.com/sideprojects/saferules/images/1.png">
 
 **Link: [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/):** "I love rules of thumb. Here are a set of them for graphic or visual design. I am not a designer but I fancy myself being to tell better design from worse. Anyway, this is a good tool for those of us who are wannabee designers"
 

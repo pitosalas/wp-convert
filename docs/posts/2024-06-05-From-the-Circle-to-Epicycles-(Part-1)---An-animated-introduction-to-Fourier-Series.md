@@ -15,7 +15,7 @@ tags:
     - sine
     - cosine
 ---
-<img class="cover" src=https://www.andreinc.net/assets/images/2024-04-08-from-the-circle-to-epicycles/sinusoida-tetris.png>
+<img class="cover" src="https://www.andreinc.net/assets/images/2024-04-08-from-the-circle-to-epicycles/sinusoida-tetris.png">
 
 **Link: [From the Circle to Epicycles (Part 1) - An animated introduction to Fourier Series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles?utm_source=abyteofcodingnewsletter&utm_medium=newsletter&utm_campaign=a-byte-of-coding-issue-413):** "A visual introduction to Fourier Series"
 

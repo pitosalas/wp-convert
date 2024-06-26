@@ -12,7 +12,7 @@ tags:
     - content-collection
     - education
 ---
-<img class="cover" src=https://robotacademy.net.au/wp-content/uploads/2017/03/IRL1_masterclass_tile.jpg>
+<img class="cover" src="https://robotacademy.net.au/wp-content/uploads/2017/03/IRL1_masterclass_tile.jpg">
 
 **Link: [Introduction to robotics | Robot Academy](https://robotacademy.net.au/masterclass/introduction-to-robotics/?lesson=206):** ""
 

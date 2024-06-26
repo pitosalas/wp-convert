@@ -7,13 +7,13 @@ cover: "https://wheelofnames.com/images/fb-screenshot.png"
 date: 2021-08-22
 tags:
     - cool
-    - cooltool
+    - cool-tools
     - teaching
     - classroom
     - zoom
     - random
 ---
-<img class="cover" src=https://wheelofnames.com/images/fb-screenshot.png>
+<img class="cover" src="https://wheelofnames.com/images/fb-screenshot.png">
 
 **Link: [Wheel of Names](https://wheelofnames.com/#):** "Enter names, spin wheel to pick a random winner. Customize look and feel, save and share wheels."
 

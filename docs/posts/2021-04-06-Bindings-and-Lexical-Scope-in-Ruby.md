@@ -6,9 +6,11 @@ link: "https://blog.appsignal.com/2019/01/08/ruby-magic-bindings-and-lexical-sco
 cover: "https://blog.appsignal.com/images/blog/2019-01/bindings_twitter.jpg" 
 date: 2021-04-06
 tags:
-    - ruby tutorial scope
+    - ruby
+    - tutorial
+    - scope
 ---
-<img class="cover" src=https://blog.appsignal.com/images/blog/2019-01/bindings_twitter.jpg>
+<img class="cover" src="https://blog.appsignal.com/images/blog/2019-01/bindings_twitter.jpg">
 
 **Link: [Bindings and Lexical Scope in Ruby](https://blog.appsignal.com/2019/01/08/ruby-magic-bindings-and-lexical-scope.html):** "Ruby is such an elegant language!"
 

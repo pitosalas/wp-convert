@@ -11,7 +11,7 @@ tags:
     - debug
     - ruby
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fandymaleh.blogspot.com%2F2024%2F05%2Fputs-debuggerer-100-includes-invoked.html>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fandymaleh.blogspot.com%2F2024%2F05%2Fputs-debuggerer-100-includes-invoked.html">
 
 **Link: [Puts Debuggerer 1.0.0 Includes Invoked Class/Method Name](https://andymaleh.blogspot.com/2024/05/puts-debuggerer-100-includes-invoked.html):** "code master oop ruby jruby java jee jse desktop web gui glimmer swt libui tk gtk rails"
 

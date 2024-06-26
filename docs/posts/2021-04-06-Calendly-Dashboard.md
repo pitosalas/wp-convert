@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Brandeis
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fcalendly.com%2Fdashboard>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fcalendly.com%2Fdashboard">
 
 **Link: [Calendly Dashboard](https://calendly.com/dashboard):** ""
 

@@ -9,7 +9,7 @@ tags:
     - Software Engineering
     - scale deploy build rails docker howto
 ---
-<img class="cover" src=https://images.thoughtbot.com/blog-images/social-share-default.png>
+<img class="cover" src="https://images.thoughtbot.com/blog-images/social-share-default.png">
 
 **Link: [Rails on Docker](https://robots.thoughtbot.com/rails-on-docker):** "Develop a Rails app in Docker."
 

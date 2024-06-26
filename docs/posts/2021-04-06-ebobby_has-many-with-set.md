@@ -12,7 +12,7 @@ tags:
     - ruby
     - active-record
 ---
-<img class="cover" src=https://avatars.githubusercontent.com/u/170356?s=400&v=4>
+<img class="cover" src="https://avatars.githubusercontent.com/u/170356?s=400&v=4">
 
 **Link: [ebobby/has-many-with-set](https://github.com/ebobby/has-many-with-set):** "An interesting variation on how to represent a many to many relationship in rails."
 

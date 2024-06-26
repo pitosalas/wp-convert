@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Elections
 ---
-<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.allacademic.com>
+<img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fwww.allacademic.com">
 
 **Link: [All Academic Inc. (Abstract Management, Conference Management and Research Search Engine)](http://www.allacademic.com):** ""
 

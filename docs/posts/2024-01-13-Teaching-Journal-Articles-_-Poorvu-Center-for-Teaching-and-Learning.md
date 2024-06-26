@@ -10,7 +10,7 @@ tags:
     - paper
     - journal
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fpoorvucenter.yale.edu%2Fteaching%2Fideas-teaching%2Fteaching-journal-articles>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fpoorvucenter.yale.edu%2Fteaching%2Fideas-teaching%2Fteaching-journal-articles">
 
 **Link: [Teaching Journal Articles | Poorvu Center for Teaching and Learning](https://poorvucenter.yale.edu/teaching/ideas-teaching/teaching-journal-articles):** ""
 

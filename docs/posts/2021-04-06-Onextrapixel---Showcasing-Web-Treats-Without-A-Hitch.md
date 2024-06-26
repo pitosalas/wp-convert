@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - web
 ---
-<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.onextrapixel.com>
+<img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fwww.onextrapixel.com">
 
 **Link: [Onextrapixel - Showcasing Web Treats Without A Hitch](http://www.onextrapixel.com):** "Web Design and Development Online Magazine"
 

@@ -12,7 +12,7 @@ tags:
     - best-bet
     - favorite
 ---
-<img class="cover" src=https://www.semuconsulting.com/gnsswiki/resources/favicon.ico>
+<img class="cover" src="https://www.semuconsulting.com/gnsswiki/resources/favicon.ico">
 
 **Link: [GNSS Positioning - A Reviser](https://www.semuconsulting.com/gnsswiki/):** "This article reviews the core principles underpinning the global navigation satellite system (GNSS). It references some of the key terminology, outlines the main potential sources of error, and describes how the application of RTK DGPS techniques can mitigate these errors to a large extent."
 

@@ -12,7 +12,7 @@ tags:
     - api
     - web-hooks
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Falephnaughtpix.github.io%2Fdeadjournal%2F2019%2F12%2F16%2Fhow-to-post-instagram-posts-on-mastodon-using-ifttt.html>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Falephnaughtpix.github.io%2Fdeadjournal%2F2019%2F12%2F16%2Fhow-to-post-instagram-posts-on-mastodon-using-ifttt.html">
 
 **Link: [How to post Instagram posts on Mastodon using IFTTT](https://alephnaughtpix.github.io/deadjournal/2019/12/16/how-to-post-instagram-posts-on-mastodon-using-ifttt.html):** "As you can tell, I've been trying this and it is a little squirly. But I think I got it to work. 
 

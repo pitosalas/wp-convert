@@ -10,10 +10,10 @@ tags:
     - academia
     - teaching
     - hiwto
-    - howto
+    - how-to
     - presentation
 ---
-<img class="cover" src=https://i.ytimg.com/vi/nU6NPuxkQck/hqdefault.jpg>
+<img class="cover" src="https://i.ytimg.com/vi/nU6NPuxkQck/hqdefault.jpg">
 
 **Link: [Success Through Presentations - 5 Minutes with Cyrill](https://youtube.com/watch?v=nU6NPuxkQck&feature=share):** "Success through presenting well 
 Series: 5 Minutes with Cyrill

@@ -12,7 +12,7 @@ tags:
     - javascript
     - ruby
 ---
-<img class="cover" src=https://cdn.prod.website-files.com/653245b9527ab8b069794ef7/665d9e952c0d840b2c87d52b_Michal.jpg>
+<img class="cover" src="https://cdn.prod.website-files.com/653245b9527ab8b069794ef7/665d9e952c0d840b2c87d52b_Michal.jpg">
 
 **Link: [Smooth Concurrent Updates with Hotwire Stimulus - Blog - Visuality](https://www.visuality.pl/posts/smooth-concurrent-updates-with-hotwire-stimulus):** "It's time to get familiar with another part of Hotwire: Stimulus! In this article, I'll demonstrate using Stimulus to handle more complex frontend logic."
 

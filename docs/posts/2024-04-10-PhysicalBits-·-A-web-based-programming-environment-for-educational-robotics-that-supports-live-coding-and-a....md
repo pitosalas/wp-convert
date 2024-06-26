@@ -13,7 +13,7 @@ tags:
     - block-programming
     - robotics
 ---
-<img class="cover" src=https://gira.github.io/PhysicalBits/img/logo.png>
+<img class="cover" src="https://gira.github.io/PhysicalBits/img/logo.png">
 
 **Link: [PhysicalBits · A web-based programming environment for educational robotics that supports live coding and a...](https://gira.github.io/PhysicalBits/):** "Physical Bits (formerly known as UziScript) is the only web-based programming environment for educational robotics that supports live coding and au..."
 

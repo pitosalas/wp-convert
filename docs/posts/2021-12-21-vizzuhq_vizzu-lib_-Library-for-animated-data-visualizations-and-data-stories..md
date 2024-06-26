@@ -9,7 +9,7 @@ tags:
     - library
     - visualize
 ---
-<img class="cover" src=https://repository-images.githubusercontent.com/374784415/124b1bbe-23f1-4105-9206-5a3641dba878>
+<img class="cover" src="https://repository-images.githubusercontent.com/374784415/124b1bbe-23f1-4105-9206-5a3641dba878">
 
 **Link: [vizzuhq/vizzu-lib: Library for animated data visualizations and data stories.](https://github.com/vizzuhq/vizzu-lib):** "Library for animated data visualizations and data stories. - vizzuhq/vizzu-lib: Library for animated data visualizations and data stories."
 

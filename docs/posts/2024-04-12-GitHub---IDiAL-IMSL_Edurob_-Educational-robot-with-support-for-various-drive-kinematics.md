@@ -18,7 +18,7 @@ tags:
     - robotics
     - opensource
 ---
-<img class="cover" src=https://opengraph.githubassets.com/b6e491bfcbc45fd2577bf2e32af692fee8a0ede50c0e59ad436795968140caa2/IDiAL-IMSL/Edurob>
+<img class="cover" src="https://opengraph.githubassets.com/b6e491bfcbc45fd2577bf2e32af692fee8a0ede50c0e59ad436795968140caa2/IDiAL-IMSL/Edurob">
 
 **Link: [GitHub - IDiAL-IMSL/Edurob: Educational robot with support for various drive kinematics](https://github.com/IDiAL-IMSL/Edurob):** "Educational robot with support for various drive kinematics - IDiAL-IMSL/Edurob"
 

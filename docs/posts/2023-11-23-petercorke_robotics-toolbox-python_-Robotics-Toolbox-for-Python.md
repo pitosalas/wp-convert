@@ -15,7 +15,7 @@ tags:
     - robot-kit
     - robots
 ---
-<img class="cover" src=https://opengraph.githubassets.com/cd9377f9a1e4fcb461d4d314dfb80b4666d27cd431aeda405ce7a5654930980e/petercorke/robotics-toolbox-python>
+<img class="cover" src="https://opengraph.githubassets.com/cd9377f9a1e4fcb461d4d314dfb80b4666d27cd431aeda405ce7a5654930980e/petercorke/robotics-toolbox-python">
 
 **Link: [petercorke/robotics-toolbox-python: Robotics Toolbox for Python](https://github.com/petercorke/robotics-toolbox-python):** "Robotics Toolbox for Python. Contribute to petercorke/robotics-toolbox-python development by creating an account on GitHub."
 

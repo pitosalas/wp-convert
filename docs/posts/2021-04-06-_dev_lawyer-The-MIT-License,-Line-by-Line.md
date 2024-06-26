@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Softw Entrepreneurship
 ---
-<img class="cover" src=https://writing.kemitchell.com/placeholder-on-white.png>
+<img class="cover" src="https://writing.kemitchell.com/placeholder-on-white.png">
 
 **Link: [/dev/lawyer The MIT License, Line by Line](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html):** "171 words every programmer should understand"
 

@@ -9,10 +9,10 @@ tags:
     - illustration
     - images
     - old
-    - cooltool
+    - cool-tools
     - free
 ---
-<img class="cover" src=https://oldbookillustrations.com/wp-content/high-res/-768.jpg>
+<img class="cover" src="https://oldbookillustrations.com/wp-content/high-res/-768.jpg">
 
 **Link: [Home | Old Book Illustrations](https://www.oldbookillustrations.com/?utm_campaign=Recomendo&utm_medium=email&utm_source=Revue%20newsletter):** "Old Book Illustrations offers a wide range of public domain, royalty-free images scanned from old books. Searchable galleries include animals, plants, techniques, artists names, books titles, and much more..."
 

@@ -11,7 +11,7 @@ tags:
     - learn
     - language
 ---
-<img class="cover" src=https://fermatslibrary.com/fl-card.png>
+<img class="cover" src="https://fermatslibrary.com/fl-card.png">
 
 **Link: [The Consequences of One’s First Programming Language annotated/explained version.](https://fermatslibrary.com/s/the-consequences-of-ones-first-programming-language#email-newsletter):** "Fermat's Library is a platform for illuminating academic papers."
 

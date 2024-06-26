@@ -12,7 +12,7 @@ tags:
     - google-maps
     - python-package
 ---
-<img class="cover" src=https://miro.medium.com/max/1200/1*FIYVG7jKknCncAkIJLAIRQ.jpeg>
+<img class="cover" src="https://miro.medium.com/max/1200/1*FIYVG7jKknCncAkIJLAIRQ.jpeg">
 
 **Link: [5 Python Libraries That You Don’t Know, But Should](https://link.medium.com/xEjq6wILSgb):** "One of the best things about using Python is its infinity of open-source libraries. There is a library for basically anything. If you have read some of my previous blogs, you may have noticed that…"
 

@@ -8,9 +8,9 @@ date: 2021-05-24
 tags:
     - microsd
     - robotics
-    - howto
+    - how-to
 ---
-<img class="cover" src=https://blog.jaimyn.dev/wp-content/uploads/2020/01/microSD-to-SD-1200x900-1.jpg>
+<img class="cover" src="https://blog.jaimyn.dev/wp-content/uploads/2020/01/microSD-to-SD-1200x900-1.jpg">
 
 **Link: [The fastest way to clone an SD card on macOS - Jaimyn's Blog](https://blog.jaimyn.dev/the-fastest-way-to-clone-sd-card-macos/):** "If you have a raspberry pi or other single board computer and would like to make a backup of it, or even clone it to another SD card, then it can take a long time. Your first thought is to probably use the built in “Disk Utility”. Unfortunately this has issues reading linux partitions (well […]"
 

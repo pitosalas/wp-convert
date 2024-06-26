@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Robotics
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Flearn.adafruit.com>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Flearn.adafruit.com">
 
 **Link: [Adafruit Learning System](https://learn.adafruit.com):** ""
 

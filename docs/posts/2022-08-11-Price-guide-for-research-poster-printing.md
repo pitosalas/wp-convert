@@ -14,7 +14,7 @@ tags:
     - service
     - pricing
 ---
-<img class="cover" src=https://www.posterpresentations.com/assets/images/professional-pg-506x340.png>
+<img class="cover" src="https://www.posterpresentations.com/assets/images/professional-pg-506x340.png">
 
 **Link: [Price guide for research poster printing](https://www.posterpresentations.com/price-guide.html):** "Poster printing services and pricing guide."
 

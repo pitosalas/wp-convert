@@ -12,7 +12,7 @@ tags:
     - gui
     - browser
 ---
-<img class="cover" src=https://opengraph.githubassets.com/a941644edce0727c3622b0a3a38f6a64ac24a9b0208bdde02b4253eda41438f5/zauberzeug/nicegui>
+<img class="cover" src="https://opengraph.githubassets.com/a941644edce0727c3622b0a3a38f6a64ac24a9b0208bdde02b4253eda41438f5/zauberzeug/nicegui">
 
 **Link: [zauberzeug/nicegui: Create web-based user interfaces with Python. The nice way.](https://github.com/zauberzeug/nicegui):** "Create web-based user interfaces with Python. The nice way. - zauberzeug/nicegui"
 

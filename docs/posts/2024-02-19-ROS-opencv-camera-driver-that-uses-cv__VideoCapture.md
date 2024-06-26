@@ -11,7 +11,7 @@ tags:
     - camera
     - code
 ---
-<img class="cover" src=https://opengraph.githubassets.com/fd30b94c4fa1db2a164d8fa01f751f4e26e2726d62f8224a04f6c3351fccfaf8/OTL/cv_camera>
+<img class="cover" src="https://opengraph.githubassets.com/fd30b94c4fa1db2a164d8fa01f751f4e26e2726d62f8224a04f6c3351fccfaf8/OTL/cv_camera">
 
 **Link: [ROS opencv camera driver that uses cv::VideoCapture](https://github.com/OTL/cv_camera):** "ROS opencv camera driver that uses cv::VideoCapture - OTL/cv_camera"
 

@@ -6,9 +6,12 @@ link: "https://betterfigures.org/2015/06/23/picking-a-colour-scale-for-scientifi
 cover: "https://betterfigures.files.wordpress.com/2015/06/sequential.png?w=640" 
 date: 2021-04-06
 tags:
-    - graphics colour color palette
+    - graphics
+    - colour
+    - color
+    - palette
 ---
-<img class="cover" src=https://betterfigures.files.wordpress.com/2015/06/sequential.png?w=640>
+<img class="cover" src="https://betterfigures.files.wordpress.com/2015/06/sequential.png?w=640">
 
 **Link: [Picking a colour scale for scientific graphics | Better Figures](https://betterfigures.org/2015/06/23/picking-a-colour-scale-for-scientific-graphics):** "Picking colors is not an obvious thing. This is a good article about this!"
 

@@ -11,7 +11,7 @@ tags:
     - code
     - algorithms
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fbenhoyt.com%2Fwritings%2Fmarkov-chain%2F>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fbenhoyt.com%2Fwritings%2Fmarkov-chain%2F">
 
 **Link: [Using a Markov chain to generate readable nonsense with 20 lines of Python](https://benhoyt.com/writings/markov-chain/):** "Describes a simple Markov chain algorithm to generate reasonable-sounding but utterly nonsensical text, and presents some example outputs as well as a Python implementation."
 

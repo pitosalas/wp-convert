@@ -10,9 +10,9 @@ tags:
     - search
     - match
     - similar
-    - cooltool
+    - cool-tools
 ---
-<img class="cover" src=https://imageapi.same.energy/image?id=x9vCn>
+<img class="cover" src="https://imageapi.same.energy/image?id=x9vCn">
 
 **Link: [Search with 1 image on Same Energy](https://same.energy/):** "Same Energy is a search engine for finding beautiful images."
 

@@ -13,7 +13,7 @@ tags:
     - library
     - datascience
 ---
-<img class="cover" src=https://tryolabs.com/assets/blog/top-python-libraries-2023/python-23-be70c04ae0.png>
+<img class="cover" src="https://tryolabs.com/assets/blog/top-python-libraries-2023/python-23-be70c04ae0.png">
 
 **Link: [Top Python libraries of 2023](https://tryolabs.com/blog/top-python-libraries-2023):** "Exploring the expansive universe of Python libraries in 2023, our curated selection goes beyond the usual suspects to uncover hidden gems and innovative tools. Dive in!"
 

@@ -10,7 +10,7 @@ tags:
     - sql
     - introduction
 ---
-<img class="cover" src=https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi3ht0fgcfuhy4dczqhbl.png>
+<img class="cover" src="https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi3ht0fgcfuhy4dczqhbl.png">
 
 **Link: [Mastering SQL: Comprehensive Guide To Structured Query Language](https://dev.to/louaiboumediene/mastering-sql-comprehensive-guide-to-structured-query-language-4gh):** "Introduction   In the previous blog article we've explored together a comprehensive guide..."
 

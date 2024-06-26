@@ -12,7 +12,7 @@ tags:
     - python-package
     - library
 ---
-<img class="cover" src=https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3jqvgmeatleoonfufpzv.png>
+<img class="cover" src="https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3jqvgmeatleoonfufpzv.png">
 
 **Link: [Enhance Your Project Quality with These Top Python Libraries](https://dev.to/mrkandreev/enhance-your-project-quality-with-these-top-python-libraries-2ln5):** "In the ever-evolving landscape of software development, Python has emerged as a language of choice..."
 

@@ -12,7 +12,7 @@ tags:
     - compare
     - opinion
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fsgt.hootr.club%2Fmolten-matter%2Fmaybe-i-like-python-now%2F>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fsgt.hootr.club%2Fmolten-matter%2Fmaybe-i-like-python-now%2F">
 
 **Link: [Do I not like Ruby anymore?](https://sgt.hootr.club/molten-matter/maybe-i-like-python-now/):** "steenuil's blog"
 

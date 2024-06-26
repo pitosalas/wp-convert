@@ -11,7 +11,7 @@ tags:
     - organiztions
     - business
 ---
-<img class="cover" src=https://effectiviology.com/wp-content/uploads/Shirky-Principle.jpg>
+<img class="cover" src="https://effectiviology.com/wp-content/uploads/Shirky-Principle.jpg">
 
 **Link: [The Shirky Principle: Institutions Try to Preserve the Problem to Which They Are the Solution – Effectiviology](https://effectiviology.com/shirky-principle/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav):** ""
 

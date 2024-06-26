@@ -11,7 +11,7 @@ tags:
     - how-it-works
     - explainer
 ---
-<img class="cover" src=https://jvns.ca/images/git-commit-poll.png>
+<img class="cover" src="https://jvns.ca/images/git-commit-poll.png">
 
 **Link: [Do we think of git commits as diffs, snapshots, and/or histories?](https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/):** "How git commits really work"
 

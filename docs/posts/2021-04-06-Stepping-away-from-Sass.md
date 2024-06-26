@@ -6,10 +6,13 @@ link: "https://cathydutton.co.uk/posts/why-i-stopped-using-sass"
 cover: "https://cathydutton.co.uk/images/profile-image.jpg" 
 date: 2021-04-06
 tags:
-    - coding css sass html
+    - coding
+    - css
+    - sass
+    - html
     - design
 ---
-<img class="cover" src=https://cathydutton.co.uk/images/profile-image.jpg>
+<img class="cover" src="https://cathydutton.co.uk/images/profile-image.jpg">
 
 **Link: [Stepping away from Sass](https://cathydutton.co.uk/posts/why-i-stopped-using-sass):** "I never liked SASS myself."
 

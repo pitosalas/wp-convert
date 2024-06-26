@@ -9,10 +9,10 @@ tags:
     - woodworking
     - wood
     - machines
-    - howto
+    - how-to
     - diy
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwoodgears.ca%2Fmachines.html>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fwoodgears.ca%2Fmachines.html">
 
 **Link: [Wooden machines and contraptions](https://woodgears.ca/machines.html):** ""
 

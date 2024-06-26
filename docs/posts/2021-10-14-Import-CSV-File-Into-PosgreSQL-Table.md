@@ -11,7 +11,7 @@ tags:
     - database
     - postgres
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.postgresqltutorial.com%2Fimport-csv-file-into-posgresql-table%2F>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fwww.postgresqltutorial.com%2Fimport-csv-file-into-posgresql-table%2F">
 
 **Link: [Import CSV File Into PosgreSQL Table](https://www.postgresqltutorial.com/import-csv-file-into-posgresql-table/):** "In this tutorial, we will show various ways to import a CSV file into a PosgreSQL table."
 

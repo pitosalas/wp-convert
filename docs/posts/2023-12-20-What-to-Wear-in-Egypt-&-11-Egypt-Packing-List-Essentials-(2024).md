@@ -11,7 +11,7 @@ tags:
     - clothing
     - packing
 ---
-<img class="cover" src=https://www.theevolista.com/wp-content/uploads/2019/12/What-to-Wear-in-Egypt-10-Things-You-Need-to-Pack.jpg>
+<img class="cover" src="https://www.theevolista.com/wp-content/uploads/2019/12/What-to-Wear-in-Egypt-10-Things-You-Need-to-Pack.jpg">
 
 **Link: [What to Wear in Egypt & 11 Egypt Packing List Essentials (2024)](https://www.theevolista.com/what-to-wear-in-egypt-10-packing-list-essentials/):** ""
 

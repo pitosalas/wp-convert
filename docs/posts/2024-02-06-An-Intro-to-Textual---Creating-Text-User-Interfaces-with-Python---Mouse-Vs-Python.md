@@ -12,7 +12,7 @@ tags:
     - python
     - best-bet
 ---
-<img class="cover" src=https://www.blog.pythonlibrary.org/wp-content/uploads/2023/03/textual_demo-1024x745.png>
+<img class="cover" src="https://www.blog.pythonlibrary.org/wp-content/uploads/2023/03/textual_demo-1024x745.png">
 
 **Link: [An Intro to Textual - Creating Text User Interfaces with Python - Mouse Vs Python](https://www.blog.pythonlibrary.org/2023/03/28/an-intro-to-textual/):** "Textual is a Python package used to create cross-platform Text User Interfaces (TUI). This may sound like you'll be creating a user interface with"
 

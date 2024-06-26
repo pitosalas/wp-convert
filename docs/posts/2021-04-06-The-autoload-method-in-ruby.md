@@ -9,9 +9,9 @@ tags:
     - autoload
     - ruby
     - interesting
-    - howto
+    - how-to
 ---
-<img class="cover" src=https://cdn-images-1.medium.com/fit/t/1914/744/1*gwcAOYpwx1_atfQVAHCGIw.png>
+<img class="cover" src="https://cdn-images-1.medium.com/fit/t/1914/744/1*gwcAOYpwx1_atfQVAHCGIw.png">
 
 **Link: [The autoload method in ruby](https://link.medium.com/XQtB8FcUzT):** "Never new this existed. Looks interesting."
 

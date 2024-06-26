@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - algorithms
 ---
-<img class="cover" src=https://idea-instructions.com/index.png>
+<img class="cover" src="https://idea-instructions.com/index.png">
 
 **Link: [IDEA – nonverbal algorithm assembly instructions](https://idea-instructions.com):** "IDEA is a series of nonverbal algorithm assembly instructions, created by Sándor P. Fekete and Sebastian Morr."
 

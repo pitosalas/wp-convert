@@ -11,7 +11,7 @@ tags:
     - fastapi
     - pure-python
 ---
-<img class="cover" src=https://reflex.dev/previews/index_preview.png>
+<img class="cover" src="https://reflex.dev/previews/index_preview.png">
 
 **Link: [Designing a Pure Python Web Framework · Reflex Blog](https://reflex.dev/blog/2024-03-21-reflex-architecture/):** ""
 

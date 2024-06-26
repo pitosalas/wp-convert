@@ -15,7 +15,7 @@ tags:
     - computer-vision
     - robots
 ---
-<img class="cover" src=http://jderobot.github.io/RoboticsAcademy/assets/images/cover/test_header_shear_3.png>
+<img class="cover" src="http://jderobot.github.io/RoboticsAcademy/assets/images/cover/test_header_shear_3.png">
 
 **Link: [Robotics Academy](https://jderobot.github.io/RoboticsAcademy/):** "A practical and fun way of learning Robotics and Computer Vision"
 

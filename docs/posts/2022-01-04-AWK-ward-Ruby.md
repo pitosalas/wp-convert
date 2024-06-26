@@ -9,9 +9,9 @@ tags:
     - ruby
     - awk
     - regexp
-    - howto
+    - how-to
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Ftomayko.com%2Fblog%2F2011%2Fawkward-ruby>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Ftomayko.com%2Fblog%2F2011%2Fawkward-ruby">
 
 **Link: [AWK-ward Ruby](https://tomayko.com/blog/2011/awkward-ruby):** "From AWK to Ruby"
 

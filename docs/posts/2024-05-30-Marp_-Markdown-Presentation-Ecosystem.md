@@ -11,7 +11,7 @@ tags:
     - web
     - css
 ---
-<img class="cover" src=https://marp.app/assets/og-image.png>
+<img class="cover" src="https://marp.app/assets/og-image.png">
 
 **Link: [Marp: Markdown Presentation Ecosystem](https://marp.app/):** "Marp (also known as the Markdown Presentation Ecosystem) provides an intuitive experience for creating beautiful slide decks. You only have to focus on writing your story in a Markdown document."
 

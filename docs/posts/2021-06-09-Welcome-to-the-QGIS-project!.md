@@ -8,12 +8,12 @@ date: 2021-06-09
 tags:
     - gis
     - otp
-    - howto
+    - how-to
     - map
     - tool
     - visualize
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.qgis.org%2Fen%2Fsite%2F>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fwww.qgis.org%2Fen%2Fsite%2F">
 
 **Link: [Welcome to the QGIS project!](https://www.qgis.org/en/site/):** ""
 

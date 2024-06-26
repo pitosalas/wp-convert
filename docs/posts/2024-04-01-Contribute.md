@@ -13,7 +13,7 @@ tags:
     - robot
     - robot-kit
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Froboticsknowledgebase.com%2Fdocs%2F>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Froboticsknowledgebase.com%2Fdocs%2F">
 
 **Link: [Contribute](https://roboticsknowledgebase.com/docs/):** "The Wiki for Robot Builders."
 

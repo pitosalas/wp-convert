@@ -11,7 +11,7 @@ tags:
     - modeling
     - model
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fjeepersminiatures.com%2Fsiding%2F>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fjeepersminiatures.com%2Fsiding%2F">
 
 **Link: [Dollhouse Miniature Siding | Jeepers Dollhouse Miniatures](https://jeepersminiatures.com/siding/):** ""
 

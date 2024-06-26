@@ -13,7 +13,7 @@ tags:
     - communicating
     - company-culture
 ---
-<img class="cover" src=https://kevinyien.com/img/headshot.png>
+<img class="cover" src="https://kevinyien.com/img/headshot.png">
 
 **Link: [Communication Structures](https://kevinyien.com/blog/communication-structures.html):** "Communication Structures."
 

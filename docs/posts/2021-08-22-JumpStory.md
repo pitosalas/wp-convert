@@ -9,12 +9,12 @@ tags:
     - graphics
     - images
     - library
-    - cooltool
+    - cool-tools
     - clipart
-    - howto
+    - how-to
     - photo
 ---
-<img class="cover" src=https://universe.jumpstory.com/wp-content/uploads/2020/10/image-search-1920x1280-v9.jpg>
+<img class="cover" src="https://universe.jumpstory.com/wp-content/uploads/2020/10/image-search-1920x1280-v9.jpg">
 
 **Link: [JumpStory](https://universe.jumpstory.com/):** "Handy collection of images to use in development and writing"
 

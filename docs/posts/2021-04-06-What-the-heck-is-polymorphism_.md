@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - concepts
 ---
-<img class="cover" src=https://dev.to/social_previews/article/85280.png>
+<img class="cover" src="https://dev.to/social_previews/article/85280.png">
 
 **Link: [What the heck is polymorphism?](https://dev.to/jvanbruegge/what-the-heck-is-polymorphism-nmh):** "A great question for a much ballyhooed term which often is misunderstood"
 

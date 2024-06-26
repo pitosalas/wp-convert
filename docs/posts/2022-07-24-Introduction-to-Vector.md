@@ -10,7 +10,7 @@ tags:
     - package
     - vector
 ---
-<img class="cover" src=https://vector.readthedocs.io/en/latest/_static/vector-logo.png>
+<img class="cover" src="https://vector.readthedocs.io/en/latest/_static/vector-logo.png">
 
 **Link: [Introduction to Vector](https://vector.readthedocs.io/en/develop/usage/intro.html):** "Looks useful so I am saving it, but still does not the meet that I have: "Introduction to Vector  Vector is a Python library for 2D, 3D, and Lorentz vectors, especially arrays of vectors, to solve common physics problems in a NumPy-li""
 

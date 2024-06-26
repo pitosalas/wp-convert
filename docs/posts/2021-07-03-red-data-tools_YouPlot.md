@@ -10,9 +10,9 @@ tags:
     - plot
     - ruby
     - tool
-    - howto
+    - how-to
 ---
-<img class="cover" src=https://repository-images.githubusercontent.com/283230219/5fff5600-3668-11eb-9d1c-bbf88d25b560>
+<img class="cover" src="https://repository-images.githubusercontent.com/283230219/5fff5600-3668-11eb-9d1c-bbf88d25b560">
 
 **Link: [red-data-tools/YouPlot](https://github.com/red-data-tools/YouPlot):** "A command line tool that draw plots on the terminal. - red-data-tools/YouPlot"
 

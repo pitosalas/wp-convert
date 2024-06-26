@@ -7,7 +7,9 @@ cover: "https://i.ytimg.com/vi/rSPwOeX46UA/maxresdefault.jpg"
 date: 2021-06-12
 tags:
     - robots
-    - two minute papers
+    - two
+    - minute
+    - papers
     - grammar
     - design
     - research
@@ -15,7 +17,7 @@ tags:
     - paper
     - robotics
 ---
-<img class="cover" src=https://i.ytimg.com/vi/rSPwOeX46UA/maxresdefault.jpg>
+<img class="cover" src="https://i.ytimg.com/vi/rSPwOeX46UA/maxresdefault.jpg">
 
 **Link: [This is Grammar For Robots. What? Why? 🤖](https://www.youtube.com/watch?v=rSPwOeX46UA):** "https://lambdalabs.com/papers📝 The paper "RoboGrammar: Graph Grammar for Terrain-Optimized Robot designer. Very intersting paper !"
 

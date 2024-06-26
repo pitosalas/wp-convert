@@ -13,7 +13,7 @@ tags:
     - hobby
     - rie2024
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.elecfreaks.com%2Flearn-en%2Findex.html>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fwww.elecfreaks.com%2Flearn-en%2Findex.html">
 
 **Link: [Welcome to ELECFREAKS WIKI — ELECFREAKS WIKI](https://www.elecfreaks.com/learn-en/index.html):** ""
 

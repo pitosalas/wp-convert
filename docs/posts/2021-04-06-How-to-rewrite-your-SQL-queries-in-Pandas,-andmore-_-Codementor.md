@@ -6,7 +6,7 @@ link: "https://www.codementor.io/irinatruong/how-to-rewrite-your-sql-queries-in-
 cover: "https://cdn.filestackcontent.com/Rr6U4pImQjmVCFGljPNd" 
 date: 2021-04-06
 ---
-<img class="cover" src=https://cdn.filestackcontent.com/Rr6U4pImQjmVCFGljPNd>
+<img class="cover" src="https://cdn.filestackcontent.com/Rr6U4pImQjmVCFGljPNd">
 
 **Link: [How to rewrite your SQL queries in Pandas, and more | Codementor](https://www.codementor.io/irinatruong/how-to-rewrite-your-sql-queries-in-pandas-and-more-hoa9l8z4k):** "Introduction to Pandas, for developers already familiar with SQL."
 

@@ -13,7 +13,7 @@ tags:
     - clang
     - golang
 ---
-<img class="cover" src=https://res.cloudinary.com/practicaldev/image/fetch/s---FUEaSFb--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://www.rust-lang.org/static/images/rust-social-wide.jpg>
+<img class="cover" src="https://res.cloudinary.com/practicaldev/image/fetch/s---FUEaSFb--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://www.rust-lang.org/static/images/rust-social-wide.jpg">
 
 **Link: [So I tried Rust for the first time.](https://dev.to/martinhaeusler/so-i-tried-rust-for-the-first-time-4jdb):** "My first attempt at writing a program in rust."
 

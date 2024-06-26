@@ -13,7 +13,7 @@ tags:
     - twitter
     - explainer
 ---
-<img class="cover" src=https://s0.wp.com/i/blank.jpg>
+<img class="cover" src="https://s0.wp.com/i/blank.jpg">
 
 **Link: [Why did the #TwitterMigration fail?](https://blog.bloonface.com/2023/06/12/why-did-the-twittermigration-fail/):** "I’ve been using fediverse stuff (Mastodon and, most recently, Calckey – I’m just going to use “Mastodon” as shorthand here, purists can bite me) for over a year now, a…"
 

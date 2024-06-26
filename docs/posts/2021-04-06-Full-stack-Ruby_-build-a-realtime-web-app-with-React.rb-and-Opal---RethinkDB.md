@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - ruby realtime db
 ---
-<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Frethinkdb.com%2Fblog%2Fruby-opal>
+<img class="cover" src="https://rdl.ink/render/http%3A%2F%2Frethinkdb.com%2Fblog%2Fruby-opal">
 
 **Link: [Full-stack Ruby: build a realtime web app with React.rb and Opal - RethinkDB](http://rethinkdb.com/blog/ruby-opal):** ""
 

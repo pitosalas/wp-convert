@@ -6,7 +6,7 @@ link: "https://www.teacherease.com/standards-based-grading.aspx"
 cover: "https://rdl.ink/render/https%3A%2F%2Fwww.teacherease.com%2Fstandards-based-grading.aspx" 
 date: 2023-06-29
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.teacherease.com%2Fstandards-based-grading.aspx>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fwww.teacherease.com%2Fstandards-based-grading.aspx">
 
 **Link: [What is Standards-based Grading? - TeacherEase](https://www.teacherease.com/standards-based-grading.aspx):** ""
 

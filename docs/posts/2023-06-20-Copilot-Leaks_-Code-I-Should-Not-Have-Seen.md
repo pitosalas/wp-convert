@@ -11,7 +11,7 @@ tags:
     - trade-secrets
     - LLM
 ---
-<img class="cover" src=https://miro.medium.com/v2/resize:fit:1080/1*MxrKfkxHJdUXDyTFdEAeqA.png>
+<img class="cover" src="https://miro.medium.com/v2/resize:fit:1080/1*MxrKfkxHJdUXDyTFdEAeqA.png">
 
 **Link: [Copilot Leaks: Code I Should Not Have Seen](https://link.medium.com/hIQS1PoDMAb):** "The number of leaked information from Copilot were surprising. I’ll show you what it his and how to prevent it your code from leaking."
 

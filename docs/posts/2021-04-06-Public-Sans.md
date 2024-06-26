@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - font
 ---
-<img class="cover" src=https://public-sans.digital.gov/assets/img/public-hi.png>
+<img class="cover" src="https://public-sans.digital.gov/assets/img/public-hi.png">
 
 **Link: [Public Sans](https://public-sans.digital.gov):** "Could be useful!"
 

@@ -13,7 +13,7 @@ tags:
     - explainer
     - misconceptions
 ---
-<img class="cover" src=https://www.zainrizvi.io/content/images/2020/10/pasted-image-0--1--1.png>
+<img class="cover" src="https://www.zainrizvi.io/content/images/2020/10/pasted-image-0--1--1.png">
 
 **Link: [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/):** "I decided to make a time zone converter. It had seemed like an easy project, but I was horribly mistaken"
 

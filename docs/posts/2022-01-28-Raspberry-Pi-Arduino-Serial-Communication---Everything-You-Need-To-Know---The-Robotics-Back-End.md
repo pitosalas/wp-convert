@@ -11,7 +11,7 @@ tags:
     - raspberry-pi
     - trouble-shooting
 ---
-<img class="cover" src=https://roboticsbackend.com/wp-content/uploads/2019/11/raspberrypi_arduino_uno_serial_usb-1024x378.png>
+<img class="cover" src="https://roboticsbackend.com/wp-content/uploads/2019/11/raspberrypi_arduino_uno_serial_usb-1024x378.png">
 
 **Link: [Raspberry Pi Arduino Serial Communication - Everything You Need To Know - The Robotics Back-End](https://roboticsbackend.com/raspberry-pi-arduino-serial-communication/):** "Raspberry Pi Arduino Serial communication - with complete Python code example. Learn how to connect your boards together, setup software, and write code."
 

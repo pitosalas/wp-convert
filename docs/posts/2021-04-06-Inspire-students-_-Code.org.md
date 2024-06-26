@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Java
 ---
-<img class="cover" src=https://code.org/images/default-og-image.png>
+<img class="cover" src="https://code.org/images/default-og-image.png">
 
 **Link: [Inspire students | Code.org](https://code.org/educate/inspire):** ""
 

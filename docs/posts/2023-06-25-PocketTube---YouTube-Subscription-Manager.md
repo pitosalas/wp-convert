@@ -10,7 +10,7 @@ tags:
     - subscriptions
     - productivity
 ---
-<img class="cover" src=https://pockettube.io/img/logo.svg>
+<img class="cover" src="https://pockettube.io/img/logo.svg">
 
 **Link: [PocketTube - YouTube Subscription Manager](https://pockettube.io/):** "The better way to group and organize your Youtube subscriptions"
 

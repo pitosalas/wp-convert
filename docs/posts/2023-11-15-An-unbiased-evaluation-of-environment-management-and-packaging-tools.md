@@ -15,7 +15,7 @@ tags:
     - packaging
     - enviroment
 ---
-<img class="cover" src=https://alpopkes.com/images/author/image_al.jpg>
+<img class="cover" src="https://alpopkes.com/images/author/image_al.jpg">
 
 **Link: [An unbiased evaluation of environment management and packaging tools](https://alpopkes.com/posts/python/packaging_tools/):** "Amazing summary of all the crazy dev tools in the python world."
 

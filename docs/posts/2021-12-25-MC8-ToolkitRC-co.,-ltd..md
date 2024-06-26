@@ -7,13 +7,14 @@ cover: "https://nwzimg.wezhan.net/contents/sitefiles3605/18029379/images/5050450
 date: 2021-12-25
 tags:
     - mc8
-    - smart charger
+    - smart
+    - charger
     - toolkitrc
     - battery
     - power
     - robot
 ---
-<img class="cover" src=https://nwzimg.wezhan.net/contents/sitefiles3605/18029379/images/5050450.png>
+<img class="cover" src="https://nwzimg.wezhan.net/contents/sitefiles3605/18029379/images/5050450.png">
 
 **Link: [MC8-ToolkitRC co., ltd.](https://www.toolkitrc.com/mc8):** "MC8"
 

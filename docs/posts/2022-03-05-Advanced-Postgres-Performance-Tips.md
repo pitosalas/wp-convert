@@ -8,12 +8,12 @@ date: 2022-03-05
 tags:
     - postgres
     - performance
-    - howto
+    - how-to
     - index
     - query
     - tool
 ---
-<img class="cover" src=https://images.thoughtbot.com/blog-vellum-image-uploads/PbDCVAVRWCyg0dnx4KwC_PEV.png>
+<img class="cover" src="https://images.thoughtbot.com/blog-vellum-image-uploads/PbDCVAVRWCyg0dnx4KwC_PEV.png">
 
 **Link: [Advanced Postgres Performance Tips](https://thoughtbot.com/blog/advanced-postgres-performance-tips):** "What do you do when indexes aren’t enough?"
 

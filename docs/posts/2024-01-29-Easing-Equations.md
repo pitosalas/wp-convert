@@ -10,9 +10,9 @@ tags:
     - servo
     - equations
     - smooth
-    - howto
+    - how-to
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fgizma.com%2Feasing%2F>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fgizma.com%2Feasing%2F">
 
 **Link: [Easing Equations](https://gizma.com/easing/):** ""
 

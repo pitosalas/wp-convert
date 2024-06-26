@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Ruby
 ---
-<img class="cover" src=https://imagemagick.org/image/logo.png>
+<img class="cover" src="https://imagemagick.org/image/logo.png">
 
 **Link: [ImageMagick: Convert, Edit, and Compose Images](http://www.imagemagick.org/script/index.php):** "Create, Edit, Compose, or Convert Digital Images"
 

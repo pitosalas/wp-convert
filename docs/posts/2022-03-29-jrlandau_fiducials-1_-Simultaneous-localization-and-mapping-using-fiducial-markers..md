@@ -10,11 +10,11 @@ tags:
     - slam
     - robotics
     - aruco
-    - howto
+    - how-to
     - code
     - details
 ---
-<img class="cover" src=https://opengraph.githubassets.com/b5580f09641297c65254860ce2e6d8811f05830ec435e6beb1668f80476d8663/jrlandau/fiducials-1>
+<img class="cover" src="https://opengraph.githubassets.com/b5580f09641297c65254860ce2e6d8811f05830ec435e6beb1668f80476d8663/jrlandau/fiducials-1">
 
 **Link: [jrlandau/fiducials-1: Simultaneous localization and mapping using fiducial markers.](https://github.com/jrlandau/fiducials-1):** "Simultaneous localization and mapping using fiducial markers. - jrlandau/fiducials-1: Simultaneous localization and mapping using fiducial markers."
 

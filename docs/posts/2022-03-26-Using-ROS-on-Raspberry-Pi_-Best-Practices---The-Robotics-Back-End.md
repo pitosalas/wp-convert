@@ -14,7 +14,7 @@ tags:
     - raspberry-pi
     - robotics
 ---
-<img class="cover" src=https://roboticsbackend.com/wp-content/uploads/2019/07/ROS_For_Beginners_A_Step_by_Step_Course.jpg>
+<img class="cover" src="https://roboticsbackend.com/wp-content/uploads/2019/07/ROS_For_Beginners_A_Step_by_Step_Course.jpg">
 
 **Link: [Using ROS on Raspberry Pi: Best Practices - The Robotics Back-End](https://roboticsbackend.com/using-ros-on-raspberry-pi-best-practices/):** "If you're using ROS on a Raspberry Pi board, check out those useful tips for making more robust, high-performance, and scalable robotics projects!"
 

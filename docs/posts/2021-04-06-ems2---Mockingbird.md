@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Design
 ---
-<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fgomockingbird.com%2Fmockingbird>
+<img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fgomockingbird.com%2Fmockingbird">
 
 **Link: [ems2 - Mockingbird](http://gomockingbird.com/mockingbird):** ""
 

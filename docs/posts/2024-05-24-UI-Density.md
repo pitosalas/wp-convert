@@ -12,7 +12,7 @@ tags:
     - design
     - layout
 ---
-<img class="cover" src=https://matthewstrom.com/images/og/VgNBUq-pg8-1200.jpeg>
+<img class="cover" src="https://matthewstrom.com/images/og/VgNBUq-pg8-1200.jpeg">
 
 **Link: [UI Density](https://matthewstrom.com/writing/ui-density/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav):** "I speak and write about design, front-end code, leadership, and (occasionally) math."
 

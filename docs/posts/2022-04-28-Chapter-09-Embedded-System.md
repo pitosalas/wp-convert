@@ -11,10 +11,10 @@ tags:
     - opencr
     - arduino
     - guide
-    - howto
+    - how-to
     - robotics
 ---
-<img class="cover" src=https://i.ytimg.com/vi/kPzy3fXY7X0/maxresdefault.jpg>
+<img class="cover" src="https://i.ytimg.com/vi/kPzy3fXY7X0/maxresdefault.jpg">
 
 **Link: [Chapter 09 Embedded System](https://www.youtube.com/watch?v=kPzy3fXY7X0):** "▪ ROS Online Course: This ROS course is a ROS robot programming guide based on the experiences we had accumulated from ROS projects like TurtleBot3, OpenCR a..."
 

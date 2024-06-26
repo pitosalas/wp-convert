@@ -8,9 +8,9 @@ date: 2023-06-07
 tags:
     - repl
     - python
-    - cooltool
+    - cool-tools
 ---
-<img class="cover" src=https://bpython-interpreter.org/theme/images/bpython.png>
+<img class="cover" src="https://bpython-interpreter.org/theme/images/bpython.png">
 
 **Link: [Alternate Python REPL - bpython](https://bpython-interpreter.org/):** ""
 

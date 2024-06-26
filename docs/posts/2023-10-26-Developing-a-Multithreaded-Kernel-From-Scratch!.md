@@ -13,7 +13,7 @@ tags:
     - education
     - tutorial
 ---
-<img class="cover" src=https://img-c.udemycdn.com/course/480x270/3721456_d2e9.jpg>
+<img class="cover" src="https://img-c.udemycdn.com/course/480x270/3721456_d2e9.jpg">
 
 **Link: [Developing a Multithreaded Kernel From Scratch!](https://www.udemy.com/course/developing-a-multithreaded-kernel-from-scratch/):** "Build a multitasking operating system and kernel with an interactive shell!"
 

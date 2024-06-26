@@ -11,7 +11,7 @@ tags:
     - marc-andreesen
     - opinion
 ---
-<img class="cover" src=https://a16z.com/wp-content/uploads/2023/06/AI-Saves-The-World_Yoast-FB.jpg>
+<img class="cover" src="https://a16z.com/wp-content/uploads/2023/06/AI-Saves-The-World_Yoast-FB.jpg">
 
 **Link: [Why AI Will Save the World | Andreessen Horowitz](https://a16z.com/2023/06/06/ai-will-save-the-world/):** ""
 

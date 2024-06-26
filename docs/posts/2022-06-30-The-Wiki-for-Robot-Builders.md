@@ -7,7 +7,7 @@ cover: "https://roboticsknowledgebase.com/assets/images/ricardo-gomez-angel-1629
 date: 2022-06-30
 tags:
     - robotics
-    - howto
+    - how-to
     - explainer
     - ros
     - navigation
@@ -15,7 +15,7 @@ tags:
     - robot-kit
     - robots
 ---
-<img class="cover" src=https://roboticsknowledgebase.com/assets/images/ricardo-gomez-angel-162935.jpg>
+<img class="cover" src="https://roboticsknowledgebase.com/assets/images/ricardo-gomez-angel-162935.jpg">
 
 **Link: [The Wiki for Robot Builders](https://roboticsknowledgebase.com/):** "The Robotics Knowledgebase exists to advance knowledge in the robotics discipline."
 

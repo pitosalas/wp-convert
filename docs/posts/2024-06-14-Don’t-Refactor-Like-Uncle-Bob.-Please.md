@@ -11,7 +11,7 @@ tags:
     - refactoring
     - programming
 ---
-<img class="cover" src=https://theaxolot.wordpress.com/wp-content/uploads/2024/05/cropped-1677184869904.jpg?w=200>
+<img class="cover" src="https://theaxolot.wordpress.com/wp-content/uploads/2024/05/cropped-1677184869904.jpg?w=200">
 
 **Link: [Don’t Refactor Like Uncle Bob. Please](https://theaxolot.wordpress.com/2024/05/08/dont-refactor-like-uncle-bob-please/):** "Correction: Throughout this article, I attribute Chapter 2 of Clean Code to Robert Martin, however I was recently informed that this particular chapter was actually authored by Tim Ottinger. That s…"
 

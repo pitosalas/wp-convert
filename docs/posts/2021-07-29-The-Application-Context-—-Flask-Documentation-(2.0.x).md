@@ -9,9 +9,9 @@ tags:
     - flask
     - python
     - api
-    - howto
+    - how-to
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fflask.palletsprojects.com%2Fen%2F2.0.x%2Fappcontext%2F>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fflask.palletsprojects.com%2Fen%2F2.0.x%2Fappcontext%2F">
 
 **Link: [The Application Context — Flask Documentation (2.0.x)](https://flask.palletsprojects.com/en/2.0.x/appcontext/):** ""
 

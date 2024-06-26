@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Ruby
 ---
-<img class="cover" src=>
+<img class="cover" src="">
 
 **Link: [WxRuby Documentation: Class Reference](http://wxruby.rubyforge.org/doc):** ""
 

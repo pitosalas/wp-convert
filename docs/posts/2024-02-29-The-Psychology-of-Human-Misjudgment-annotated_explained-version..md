@@ -12,7 +12,7 @@ tags:
     - best-bet
     - decision-making
 ---
-<img class="cover" src=https://fermatslibrary.com/fl-card.png>
+<img class="cover" src="https://fermatslibrary.com/fl-card.png">
 
 **Link: [The Psychology of Human Misjudgment annotated/explained version.](https://fermatslibrary.com/s/the-psychology-of-human-misdgugement#email-newsletter):** "Charlie Munger"
 

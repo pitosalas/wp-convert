@@ -6,7 +6,7 @@ link: "http://www.thefirstpost.co.uk"
 cover: "https://www.theweek.co.uk/public/logo-theweek.svg" 
 date: 2021-04-06
 ---
-<img class="cover" src=https://www.theweek.co.uk/public/logo-theweek.svg>
+<img class="cover" src="https://www.theweek.co.uk/public/logo-theweek.svg">
 
 **Link: [The First Post:](http://www.thefirstpost.co.uk):** "The Week brings you all you need to know about everything that matters. More than a news digest – it’s an original take on world news as it happens."
 

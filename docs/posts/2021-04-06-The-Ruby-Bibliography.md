@@ -12,7 +12,7 @@ tags:
     - ruby
     - programming
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Frubybib.org>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Frubybib.org">
 
 **Link: [The Ruby Bibliography](https://rubybib.org):** "Fun list of papers, reports, and dissertations related to ruby from academia."
 

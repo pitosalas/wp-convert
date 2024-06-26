@@ -11,7 +11,7 @@ tags:
     - clean-code
     - tidy-code
 ---
-<img class="cover" src=https://martinfowler.com/bliki/images/yagni/sketch.png>
+<img class="cover" src="https://martinfowler.com/bliki/images/yagni/sketch.png">
 
 **Link: [bliki: Yagni](https://martinfowler.com/bliki/Yagni.html):** "Yagni ("You Aren't Gonna Need It") is the principle that we should not build presumptive features. It should not be used as a justification for neglecting internal quality."
 

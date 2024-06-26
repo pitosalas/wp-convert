@@ -11,7 +11,7 @@ tags:
     - linux
     - tool
 ---
-<img class="cover" src=https://gagor.pro/2024/02/how-i-stopped-worrying-and-loved-makefiles/images/cover.webp>
+<img class="cover" src="https://gagor.pro/2024/02/how-i-stopped-worrying-and-loved-makefiles/images/cover.webp">
 
 **Link: [How I stopped worrying and loved Makefiles](https://gagor.pro/2024/02/how-i-stopped-worrying-and-loved-makefiles/?utm_source=abyteofcodingnewsletter&utm_medium=newsletter&utm_campaign=a-byte-of-coding-issue-396):** "First contact with make When I was invited for my first job interview in the IT, I’ve been asked such question:
 How would you typically build a program from sources, what commands will you use?

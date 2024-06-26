@@ -12,7 +12,7 @@ tags:
     - clean-code
     - rules-of-thumb
 ---
-<img class="cover" src=https://codibly.com/wp-content/uploads/2021/01/YAGNI-%E2%80%93-how-to-do-things-WHEN-you-actually-need-them-to-be-done_cover-01-1160x606.png>
+<img class="cover" src="https://codibly.com/wp-content/uploads/2021/01/YAGNI-%E2%80%93-how-to-do-things-WHEN-you-actually-need-them-to-be-done_cover-01-1160x606.png">
 
 **Link: [» YAGNI – how to do things WHEN you actually need them to be done](https://codibly.com/news-insights/yagni-how-to-do-things-when-you-actually-need-them-to-be-done/):** "YAGNI – how to do things WHEN you actually need them to be done"
 

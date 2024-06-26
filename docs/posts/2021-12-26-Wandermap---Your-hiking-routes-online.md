@@ -10,7 +10,7 @@ tags:
     - hike
     - trace
 ---
-<img class="cover" src=http://www.wandermap.net/static/img/logo-share.png>
+<img class="cover" src="http://www.wandermap.net/static/img/logo-share.png">
 
 **Link: [Wandermap - Your hiking routes online](http://www.wandermap.net/en/?tab=new#/z4/54.521081,15.292969/terrain):** "Wandermap is one of the largest collections of hike routes on the web. Hike routes can be mapped or uploaded from GPS devices."
 

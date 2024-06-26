@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - nodes database modeling data Software Engineering
 ---
-<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fnode-modli.github.io%2Fmodli>
+<img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fnode-modli.github.io%2Fmodli">
 
 **Link: [Modli : NodeJS Data Modeling, Versioning and CRUD](http://node-modli.github.io/modli):** "Data modeling, versioning and CRUD made easy"
 

@@ -13,7 +13,7 @@ tags:
     - powtoon
     - tool
 ---
-<img class="cover" src=https://static.powtoon.co/images/powtoon_thumb.jpg>
+<img class="cover" src="https://static.powtoon.co/images/powtoon_thumb.jpg">
 
 **Link: [Powtoon | Create Awesome Videos Yourself](https://www.powtoon.com/index):** "Powtoon gives you everything you need to easily make professional videos and presentations that your clients, colleagues, and friends will love! No design or tech skills are necessary — it’s free, easy, and awesome!"
 

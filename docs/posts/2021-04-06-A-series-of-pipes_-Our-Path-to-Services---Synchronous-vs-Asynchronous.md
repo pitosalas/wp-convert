@@ -6,9 +6,12 @@ link: "http://plumbing.pipelinedeals.com/our-path-to-services-part-2-synchronous
 cover: "" 
 date: 2021-04-06
 tags:
-    - services soa ruby rails
+    - services
+    - soa
+    - ruby
+    - rails
 ---
-<img class="cover" src=>
+<img class="cover" src="">
 
 **Link: [A series of pipes: Our Path to Services - Synchronous vs Asynchronous](http://plumbing.pipelinedeals.com/our-path-to-services-part-2-synchronous-vs-asynchronous):** ""
 

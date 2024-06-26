@@ -11,7 +11,7 @@ tags:
     - platform
     - nocode
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Falan-platform.com%2Fpages%2Ftuts%2Fintroducing.html>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Falan-platform.com%2Fpages%2Ftuts%2Fintroducing.html">
 
 **Link: [Introducing Alan - Alan Application Platform](https://alan-platform.com/pages/tuts/introducing.html):** "Write what look like rich applications while writing very little code. Looks interesting but I’ve not tried it"
 

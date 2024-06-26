@@ -6,9 +6,15 @@ link: "http://plumbing.pipelinedeals.com/our-path-to-services-part-3-synchronous
 cover: "" 
 date: 2021-04-06
 tags:
-    - series services events pipes soar ruby rails
+    - series
+    - services
+    - events
+    - pipes
+    - soar
+    - ruby
+    - rails
 ---
-<img class="cover" src=>
+<img class="cover" src="">
 
 **Link: [A series of pipes: Our Path to Services - Synchronous Events](http://plumbing.pipelinedeals.com/our-path-to-services-part-3-synchronous-events):** ""
 

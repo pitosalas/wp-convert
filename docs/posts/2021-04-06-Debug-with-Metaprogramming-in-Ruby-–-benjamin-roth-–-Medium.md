@@ -9,9 +9,9 @@ tags:
     - ruby
     - metaprogramming
     - advanced
-    - howto
+    - how-to
 ---
-<img class="cover" src=https://miro.medium.com/max/1196/1*qRz0XOPZhdgFy6e85rpnSQ.png>
+<img class="cover" src="https://miro.medium.com/max/1196/1*qRz0XOPZhdgFy6e85rpnSQ.png">
 
 **Link: [Debug with Metaprogramming in Ruby – benjamin roth – Medium](https://medium.com/@apneadiving/metaprogramming-debugging-in-ruby-13c3a5a80667?source=userActivityShare-d383785221d0-1523622204):** "Pretty advanced ideas but an interesting read."
 

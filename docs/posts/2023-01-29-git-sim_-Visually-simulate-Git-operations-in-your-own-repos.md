@@ -8,11 +8,11 @@ date: 2023-01-29
 tags:
     - git
     - learn
-    - howto
+    - how-to
     - explainer
     - git-tips
 ---
-<img class="cover" src=https://initialcommit.com/img/initialcommit/git-sim.jpg>
+<img class="cover" src="https://initialcommit.com/img/initialcommit/git-sim.jpg">
 
 **Link: [git-sim: Visually simulate Git operations in your own repos](https://initialcommit.com/blog/git-sim):** "git-sim: Visually simulate Git operations in your own repos with a single terminal command"
 

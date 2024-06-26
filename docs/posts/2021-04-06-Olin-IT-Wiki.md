@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Olin
 ---
-<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwikis.olin.edu%2Fit%2Fdoku.php>
+<img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fwikis.olin.edu%2Fit%2Fdoku.php">
 
 **Link: [Olin IT Wiki](http://wikis.olin.edu/it/doku.php):** ""
 

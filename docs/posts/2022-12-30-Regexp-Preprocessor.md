@@ -9,9 +9,9 @@ tags:
     - regexp
     - preprocessor
     - pomsky
-    - howto
+    - how-to
 ---
-<img class="cover" src=https://pomsky-lang.org/images/favicon.png>
+<img class="cover" src="https://pomsky-lang.org/images/favicon.png">
 
 **Link: [Regexp Preprocessor](https://pomsky-lang.org/docs/get-started/introduction/):** ""
 

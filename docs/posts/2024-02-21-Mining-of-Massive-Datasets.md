@@ -13,7 +13,7 @@ tags:
     - downloadable
     - computerscience
 ---
-<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.mmds.org%2F%23ver21>
+<img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fwww.mmds.org%2F%23ver21">
 
 **Link: [Mining of Massive Datasets](http://www.mmds.org/#ver21):** ""
 

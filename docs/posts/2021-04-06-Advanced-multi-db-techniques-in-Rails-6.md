@@ -6,9 +6,13 @@ link: "https://prathamesh.tech/2019/08/13/rails-6-multi-database-part-two"
 cover: "https://avatars0.githubusercontent.com/u/621238?s=460&v=4" 
 date: 2021-04-06
 tags:
-    - rails techniques database scalability multi
+    - rails
+    - techniques
+    - database
+    - scalability
+    - multi
 ---
-<img class="cover" src=https://avatars0.githubusercontent.com/u/621238?s=460&v=4>
+<img class="cover" src="https://avatars0.githubusercontent.com/u/621238?s=460&v=4">
 
 **Link: [Advanced multi-db techniques in Rails 6](https://prathamesh.tech/2019/08/13/rails-6-multi-database-part-two):** "Great new features in rails 6 — support of multi database models"
 

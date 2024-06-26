@@ -10,7 +10,7 @@ tags:
     - scalability
     - http
 ---
-<img class="cover" src=https://unixism.net/wp-content/uploads/2019/02/ZeroHTTPd_static.png>
+<img class="cover" src="https://unixism.net/wp-content/uploads/2019/02/ZeroHTTPd_static.png">
 
 **Link: [Linux Applications Performance: Introduction - Unixism](https://unixism.net/2019/04/linux-applications-performance-introduction):** "A comprehensive look at how web (http) servers work"
 

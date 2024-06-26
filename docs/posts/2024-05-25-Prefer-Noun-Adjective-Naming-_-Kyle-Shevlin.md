@@ -10,7 +10,7 @@ tags:
     - naming
     - code-style
 ---
-<img class="cover" src=https://kyleshevlin.com/images/beard-og-image.jpg>
+<img class="cover" src="https://kyleshevlin.com/images/beard-og-image.jpg">
 
 **Link: [Prefer Noun-Adjective Naming | Kyle Shevlin](https://kyleshevlin.com/prefer-noun-adjective-naming/):** "English grammar puts the adjective before the noun, but when it comes to file or function naming, I think you should do the opposite."
 

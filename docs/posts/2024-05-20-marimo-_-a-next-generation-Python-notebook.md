@@ -6,7 +6,7 @@ link: "https://marimo.io/"
 cover: "https://marimo.io/og.png" 
 date: 2024-05-20
 ---
-<img class="cover" src=https://marimo.io/og.png>
+<img class="cover" src="https://marimo.io/og.png">
 
 **Link: [marimo | a next-generation Python notebook](https://marimo.io/):** "Explore data and build apps seamlessly with marimo, a next-generation Python notebook."
 

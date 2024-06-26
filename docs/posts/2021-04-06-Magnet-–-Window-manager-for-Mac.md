@@ -9,7 +9,7 @@ tags:
     - macos
     - howto
 ---
-<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fmagnet.crowdcafe.com>
+<img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fmagnet.crowdcafe.com">
 
 **Link: [Magnet – Window manager for Mac](http://magnet.crowdcafe.com):** ""
 

@@ -12,7 +12,7 @@ tags:
     - kit
     - education
 ---
-<img class="cover" src=https://cdn.shopify.com/s/files/1/0162/8612/files/main_-_classic.jpg?5571031889888631461>
+<img class="cover" src="https://cdn.shopify.com/s/files/1/0162/8612/files/main_-_classic.jpg?5571031889888631461">
 
 **Link: [Makey Makey](https://makeymakey.com/):** "Makey Makey: An Invention Kit for Everyone. Ever played Mario on Play-Doh or Piano on Bananas? Alligator clip to start inventing the future."
 

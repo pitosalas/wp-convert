@@ -6,7 +6,7 @@ link: "https://gorails.com/episodes/json-api-format-and-active-model-serializers
 cover: "https://embed-ssl.wistia.com/deliveries/69ff07a76b3929aabc0290d60c455f5d.jpg" 
 date: 2021-04-06
 ---
-<img class="cover" src=https://embed-ssl.wistia.com/deliveries/69ff07a76b3929aabc0290d60c455f5d.jpg>
+<img class="cover" src="https://embed-ssl.wistia.com/deliveries/69ff07a76b3929aabc0290d60c455f5d.jpg">
 
 **Link: [JSON:API Format and Active Model Serializers (Example) - GoRails](https://gorails.com/episodes/json-api-format-and-active-model-serializers?autoplay=1):** "Learn how to format your API easily using Active Model Serializers and the JSON:API spec"
 

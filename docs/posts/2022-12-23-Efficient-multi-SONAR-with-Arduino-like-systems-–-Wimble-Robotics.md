@@ -9,10 +9,10 @@ tags:
     - robotics
     - ultrasonic
     - cpp
-    - howto
+    - how-to
     - code
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwimblerobotics.wimble.org%2Fwp%2F2022%2F11%2F08%2Fefficient-multi-sonar-with-arduino-like-systems%2F>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fwimblerobotics.wimble.org%2Fwp%2F2022%2F11%2F08%2Fefficient-multi-sonar-with-arduino-like-systems%2F">
 
 **Link: [Efficient multi-SONAR with Arduino-like systems – Wimble Robotics](https://wimblerobotics.wimble.org/wp/2022/11/08/efficient-multi-sonar-with-arduino-like-systems/):** "A bit esoteric Robotics article. It explains how one roboticist handles multiple ultrasonic sensors, using a clever polling and interrupt driven scheme."
 

@@ -7,12 +7,12 @@ cover: "https://jardo.dev/assets/me-63ca9992682663661ecad10807f9694bf0b4e361b401
 date: 2023-08-11
 tags:
     - ruby
-    - howto
+    - how-to
     - explainer
     - service-objects
     - service-oriented-architecture
 ---
-<img class="cover" src=https://jardo.dev/assets/me-63ca9992682663661ecad10807f9694bf0b4e361b4014849c12b01f0786a0a46.jpg>
+<img class="cover" src="https://jardo.dev/assets/me-63ca9992682663661ecad10807f9694bf0b4e361b4014849c12b01f0786a0a46.jpg">
 
 **Link: [Service Objects | Jared Norman](https://jardo.dev/rails-service-objects):** "Service Objects are a popular software design pattern in the Ruby on Rails community. They are used to extract procedural logic away from models and controllers and into their own objects."
 

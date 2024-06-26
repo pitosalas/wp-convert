@@ -14,7 +14,7 @@ tags:
     - robots
     - robotics
 ---
-<img class="cover" src=https://www.aldebaran.com/themes/custom/softbank/images/full-pepper.png.webp>
+<img class="cover" src="https://www.aldebaran.com/themes/custom/softbank/images/full-pepper.png.webp">
 
 **Link: [Pepper the humanoid and programmable robot |Aldebaran](https://www.aldebaran.com/en/pepper):** "Discover Pepper the humanoid robot designed to interact with humans. Standing 120cm tall, Pepper can perceive his environment and speak 15 languages."
 

@@ -10,7 +10,7 @@ tags:
     - navigation
     - setup
 ---
-<img class="cover" src=https://wiki.ros.org/navigation/Tutorials/RobotSetup?action=AttachFile&do=get&target=overview_tf_small.png>
+<img class="cover" src="https://wiki.ros.org/navigation/Tutorials/RobotSetup?action=AttachFile&do=get&target=overview_tf_small.png">
 
 **Link: [navigation/Tutorials/RobotSetup - ROS Wiki](https://wiki.ros.org/navigation/Tutorials/RobotSetup):** "Setting up ROS navigation"
 

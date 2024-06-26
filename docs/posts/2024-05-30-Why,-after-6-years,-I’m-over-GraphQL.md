@@ -11,7 +11,7 @@ tags:
     - facebook
     - rest
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fbessey.dev%2Fblog%2F2024%2F05%2F24%2Fwhy-im-over-graphql%2F>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fbessey.dev%2Fblog%2F2024%2F05%2F24%2Fwhy-im-over-graphql%2F">
 
 **Link: [Why, after 6 years, I’m over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/):** "GraphQL is an incredible piece of technology that has captured a lot of mindshare since I first started slinging it in production in 2018. You won’t have to ..."
 

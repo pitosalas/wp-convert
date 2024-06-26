@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Weather
 ---
-<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Frunbeck.net>
+<img class="cover" src="https://rdl.ink/render/http%3A%2F%2Frunbeck.net">
 
 **Link: [Runbeck Election Services](http://runbeck.net):** "Since 1972, Runbeck Election Services has preserved the integrity of the American democratic process and provided a trusted election experience."
 

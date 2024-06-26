@@ -11,7 +11,7 @@ tags:
     - russian
     - shop
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.poljot24.de>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fwww.poljot24.de">
 
 **Link: [Poljot24 - Russische Qualitätsuhren | Poljot 24](https://www.poljot24.de):** ""
 

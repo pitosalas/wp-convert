@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Weather
 ---
-<img class="cover" src=>
+<img class="cover" src="">
 
 **Link: [Pro Git - Table of Contents](http://progit.org/book):** ""
 

@@ -9,12 +9,12 @@ tags:
     - music
     - language
     - dsl
-    - howto
+    - how-to
     - notes
     - instruments
     - rest
 ---
-<img class="cover" src=https://alda.io/>
+<img class="cover" src="https://alda.io/">
 
 **Link: [Alda tutorial](https://alda.io/tutorial/):** "Alda is a text-based programming language for music composition. It allows you to write and play back music using only a text editor and the command line."
 

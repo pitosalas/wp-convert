@@ -7,11 +7,11 @@ cover: "http://www.getlaura.com/wp-content/uploads/2014/08/Screen-Shot-2014-09-3
 date: 2021-04-06
 tags:
     - sinatra
-    - howto
+    - how-to
     - tips
     - sessions
 ---
-<img class="cover" src=http://www.getlaura.com/wp-content/uploads/2014/08/Screen-Shot-2014-09-30-at-5.34.49-PM.png>
+<img class="cover" src="http://www.getlaura.com/wp-content/uploads/2014/08/Screen-Shot-2014-09-30-at-5.34.49-PM.png">
 
 **Link: [How to Enable Sessions with Sinatra | getLaura](http://www.getlaura.com/how-to-enable-sessions-with-sinatra):** "Useful things to remember about using sessions in Sinatra"
 

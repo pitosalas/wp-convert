@@ -11,7 +11,7 @@ tags:
     - css
     - html
 ---
-<img class="cover" src=https://revealjs.com/images/meta/reveal-twitter-card-1024x512.png>
+<img class="cover" src="https://revealjs.com/images/meta/reveal-twitter-card-1024x512.png">
 
 **Link: [The HTML presentation framework | reveal.js](https://revealjs.com/):** "Documentation and demos for the open source reveal.js HTML presentation framework."
 

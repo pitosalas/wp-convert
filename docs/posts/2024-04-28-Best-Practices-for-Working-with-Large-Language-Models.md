@@ -12,7 +12,7 @@ tags:
     - verify
     - learn
 ---
-<img class="cover" src=https://cdn.thenewstack.io/media/2024/01/74a1a9de-designecologist-nlijl3lyrys-unsplash.jpg>
+<img class="cover" src="https://cdn.thenewstack.io/media/2024/01/74a1a9de-designecologist-nlijl3lyrys-unsplash.jpg">
 
 **Link: [Best Practices for Working with Large Language Models](https://thenewstack.io/7-guiding-principles-for-working-with-llms/):** "Generative AI has revolutionized programming. Based on his own experience, Jon Udell codifies how to partner effectively with LLM assistants."
 

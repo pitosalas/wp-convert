@@ -6,9 +6,12 @@ link: "https://medium.freecodecamp.org/how-to-save-hours-of-debugging-with-logs-
 cover: "https://cdn-media-1.freecodecamp.org/images/1*mdCjm9D20RnHCIIQlgFr1w.jpeg" 
 date: 2021-04-06
 tags:
-    - tips logs overview debugging
+    - tips
+    - logs
+    - overview
+    - debugging
 ---
-<img class="cover" src=https://cdn-media-1.freecodecamp.org/images/1*mdCjm9D20RnHCIIQlgFr1w.jpeg>
+<img class="cover" src="https://cdn-media-1.freecodecamp.org/images/1*mdCjm9D20RnHCIIQlgFr1w.jpeg">
 
 **Link: [How to save hours of debugging with logs – freeCodeCamp.org](https://medium.freecodecamp.org/how-to-save-hours-of-debugging-with-logs-6989cc533370):** "Logs are the boring unsung heroes of quality and debugging."
 

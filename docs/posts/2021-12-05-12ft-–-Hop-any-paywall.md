@@ -10,7 +10,7 @@ tags:
     - web
     - paywall
 ---
-<img class="cover" src=https://12ft.io/og-banner.png>
+<img class="cover" src="https://12ft.io/og-banner.png">
 
 **Link: [12ft – Hop any paywall](https://12ft.io/):** "Show me a 10ft paywall, I’ll show you a 12ft ladder."
 

@@ -12,7 +12,7 @@ tags:
     - kamal
     - deploy
 ---
-<img class="cover" src=https://evilmartians.com/social-cards/chronicles/mrsk-hot-deployment-tool-or-total-game-changer.jpg>
+<img class="cover" src="https://evilmartians.com/social-cards/chronicles/mrsk-hot-deployment-tool-or-total-game-changer.jpg">
 
 **Link: [Kamal: hot deployment tool to watch—or a total game changer?—Martian Chronicles, Evil Martians’ team blog](https://evilmartians.com/chronicles/mrsk-hot-deployment-tool-or-total-game-changer):** "The SRE pros at Evil Martians attempt an objective analysis of the promises, applications, and potential of Kamal (formerly known as MRSK), plus things to watch out for."
 

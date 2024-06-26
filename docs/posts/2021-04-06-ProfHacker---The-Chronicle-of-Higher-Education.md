@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Olin
 ---
-<img class="cover" src=>
+<img class="cover" src="">
 
 **Link: [ProfHacker - The Chronicle of Higher Education](http://chronicle.com/blogs/profhacker):** ""
 

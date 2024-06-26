@@ -11,11 +11,11 @@ tags:
     - feature-switches
     - cosi105
     - software-engineering
-    - howto
+    - how-to
     - explainer
     - engineer
 ---
-<img class="cover" src=https://wp.flickr.net/wp-content/uploads/sites/3/2012/09/code-flickr-com-drawn-header-grey-large.png>
+<img class="cover" src="https://wp.flickr.net/wp-content/uploads/sites/3/2012/09/code-flickr-com-drawn-header-grey-large.png">
 
 **Link: [Flipping Out | code.flickr.com](https://code.flickr.net/2009/12/02/flipping-out/):** "Code switches at Flickr"
 

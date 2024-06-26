@@ -10,7 +10,7 @@ tags:
     - antipattern
     - test
 ---
-<img class="cover" src=http://www.codewithjason.com/wp-content/uploads/2022/06/portrait-2.png>
+<img class="cover" src="http://www.codewithjason.com/wp-content/uploads/2022/06/portrait-2.png">
 
 **Link: [Testing anti-pattern: merged setup data - Code with Jason](https://www.codewithjason.com/testing-anti-pattern-merged-setup-data/):** "In a single test file, there’s often overlap among the setup data needed for the tests in the file. For whatever reasons, perhaps in an effort to improve performance or avoid duplication, test writers often merge the setup code and bring it to the top of the file so it’s available to all test cases. […]"
 

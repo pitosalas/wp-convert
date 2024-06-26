@@ -6,7 +6,7 @@ link: "https://engineering-management.space/post/consultant-interview-markus-sch
 cover: "https://engineering-management.space/img/markus-schirp.jpg" 
 date: 2021-04-06
 ---
-<img class="cover" src=https://engineering-management.space/img/markus-schirp.jpg>
+<img class="cover" src="https://engineering-management.space/img/markus-schirp.jpg">
 
 **Link: [Consultant interview: Markus Schirp](https://engineering-management.space/post/consultant-interview-markus-schirp):** "A really interesting and more or less brand new way to do testing"
 

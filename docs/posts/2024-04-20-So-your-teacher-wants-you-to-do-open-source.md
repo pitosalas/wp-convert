@@ -10,7 +10,7 @@ tags:
     - homework
     - opensource
 ---
-<img class="cover" src=>
+<img class="cover" src="">
 
 **Link: [So your teacher wants you to do open source](https://davidism.com/school-assignment-open-source/):** "If your teacher (or tutorial/video/hackathon/etc) says "go do X in an open source project" and then sends you off unsupervised, they haven't adequately prepa..."
 

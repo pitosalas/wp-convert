@@ -6,9 +6,11 @@ link: "https://florisvanbreugel.wordpress.com/2018/03/23/installing-ubuntu-on-an
 cover: "https://florisvanbreugel.files.wordpress.com/2018/03/v2_erase_untitled.png?w=640" 
 date: 2021-04-06
 tags:
-    - dualboot ubuntu ssd
+    - dualboot
+    - ubuntu
+    - ssd
 ---
-<img class="cover" src=https://florisvanbreugel.files.wordpress.com/2018/03/v2_erase_untitled.png?w=640>
+<img class="cover" src="https://florisvanbreugel.files.wordpress.com/2018/03/v2_erase_untitled.png?w=640">
 
 **Link: [Installing Ubuntu on an external SSD drive on a Macbook – Floris van Breugel](https://florisvanbreugel.wordpress.com/2018/03/23/installing-ubuntu-on-an-external-ssd-drive-on-a-macbook):** "This is harder than you think. I've messed with many different instructions for this and some work and some dont."
 

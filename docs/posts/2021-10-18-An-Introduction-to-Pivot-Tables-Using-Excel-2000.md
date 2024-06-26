@@ -11,7 +11,7 @@ tags:
     - pivottables
     - excel
 ---
-<img class="cover" src=https://image2.slideserve.com/4596057/an-introduction-to-pivot-tables-using-excel-2000-n.jpg>
+<img class="cover" src="https://image2.slideserve.com/4596057/an-introduction-to-pivot-tables-using-excel-2000-n.jpg">
 
 **Link: [An Introduction to Pivot Tables Using Excel 2000](https://www.slideserve.com/vince/an-introduction-to-pivot-tables-using-excel-2000):** "An Introduction to Pivot Tables Using Excel 2000. What are Pivot Tables?. The Pivot Tables facility is a feature of Excel which is used for summarising data in a spreadsheet or database – e.g. by adding, averaging or counting without having to create formulae."
 

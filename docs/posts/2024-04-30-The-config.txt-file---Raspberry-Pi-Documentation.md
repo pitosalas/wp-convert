@@ -13,7 +13,7 @@ tags:
     - FOOBAR
     - config
 ---
-<img class="cover" src=https://www.raspberrypi.com/documentation/images/opensocial.png>
+<img class="cover" src="https://www.raspberrypi.com/documentation/images/opensocial.png">
 
 **Link: [The config.txt file - Raspberry Pi Documentation](https://www.raspberrypi.com/documentation/computers/config_txt.html#hdmi_mode):** "The official documentation for Raspberry Pi computers and microcontrollers"
 

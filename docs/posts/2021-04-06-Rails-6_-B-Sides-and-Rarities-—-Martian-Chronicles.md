@@ -13,7 +13,7 @@ tags:
     - active-record
     - active-storage
 ---
-<img class="cover" src=https://cdn.evilmartians.com/front/posts/rails-6-b-sides-and-rarities/cover-6eb462a.png>
+<img class="cover" src="https://cdn.evilmartians.com/front/posts/rails-6-b-sides-and-rarities/cover-6eb462a.png">
 
 **Link: [Rails 6: B-Sides and Rarities — Martian Chronicles](https://evilmartians.com/chronicles/rails-6-b-sides-and-rarities):** "Another nice trip through upgrades to Rails for 6.0"
 

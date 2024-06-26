@@ -11,7 +11,7 @@ tags:
     - explainer
     - types
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Ffullspeedpython.com%2Farticles%2Funderstanding-numeric-data-types%2F>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Ffullspeedpython.com%2Farticles%2Funderstanding-numeric-data-types%2F">
 
 **Link: [Understanding numeric data types in python](https://fullspeedpython.com/articles/understanding-numeric-data-types/):** ""
 

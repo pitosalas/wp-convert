@@ -12,7 +12,7 @@ tags:
     - llm
     - chatgpt
 ---
-<img class="cover" src=https://cdn.ssrn.com/ssrn-global-header/11589acb53bc518aa22929bf19add113.svg>
+<img class="cover" src="https://cdn.ssrn.com/ssrn-global-header/11589acb53bc518aa22929bf19add113.svg">
 
 **Link: [Ideas are Dimes a Dozen: Large Language Models for Idea Generation in Innovation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4526071):** "Large language models (LLMs) such as OpenAI's GPT series have shown remarkable capabilities in generating fluent and coherent text in various domains. We compar"
 

@@ -12,7 +12,7 @@ tags:
     - diagram
     - visualize
 ---
-<img class="cover" src=https://excalidraw.com/og-image-2.png>
+<img class="cover" src="https://excalidraw.com/og-image-2.png">
 
 **Link: [Excalidraw — Collaborative whiteboarding made easy](https://excalidraw.com/):** "Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them."
 

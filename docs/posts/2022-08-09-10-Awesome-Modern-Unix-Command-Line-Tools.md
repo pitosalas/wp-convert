@@ -8,10 +8,10 @@ date: 2022-08-09
 tags:
     - unix
     - cli
-    - cooltool
-    - howto
+    - cool-tools
+    - how-to
 ---
-<img class="cover" src=https://miro.medium.com/max/1200/1*3kZodl-XR1Aum4W3fzRk-A.png>
+<img class="cover" src="https://miro.medium.com/max/1200/1*3kZodl-XR1Aum4W3fzRk-A.png">
 
 **Link: [10 Awesome Modern Unix Command-Line Tools](https://link.medium.com/lyhom9jkmsb):** "Are you Using Linux or Terminal in macOS? If so, here are some of the cool Command-Line Tools you can use for better productivity and…"
 

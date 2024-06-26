@@ -6,9 +6,12 @@ link: "https://brandonhilkert.com/blog/a-path-to-services-part-1-start-small"
 cover: "http://brandonhilkert.com/images/brandon-hilkert.jpg" 
 date: 2021-04-06
 tags:
-    - soa services ruby rails
+    - soa
+    - services
+    - ruby
+    - rails
 ---
-<img class="cover" src=http://brandonhilkert.com/images/brandon-hilkert.jpg>
+<img class="cover" src="http://brandonhilkert.com/images/brandon-hilkert.jpg">
 
 **Link: [A Path to Services - Part 1 - Start Small | Brandon Hilkert](https://brandonhilkert.com/blog/a-path-to-services-part-1-start-small):** "July 27th, 2015 A Path to Services - Part 1 - Start Small microservices, rails, ruby, sidekiq This article was originally posted on the PipelineDeals Engineering Blog The PipelineDeals web …"
 

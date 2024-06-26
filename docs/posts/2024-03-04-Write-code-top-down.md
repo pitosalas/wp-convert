@@ -13,7 +13,7 @@ tags:
     - how-to
     - opinion
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.teamten.com%2Flawrence%2Fprogramming%2Fwrite-code-top-down.html%3Futm_source%3Dabyteofcodingnewsletter%26utm_medium%3Dnewsletter%26utm_campaign%3Da-byte-of-coding-issue-361>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fwww.teamten.com%2Flawrence%2Fprogramming%2Fwrite-code-top-down.html%3Futm_source%3Dabyteofcodingnewsletter%26utm_medium%3Dnewsletter%26utm_campaign%3Da-byte-of-coding-issue-361">
 
 **Link: [Write code top-down](https://www.teamten.com/lawrence/programming/write-code-top-down.html?utm_source=abyteofcodingnewsletter&utm_medium=newsletter&utm_campaign=a-byte-of-coding-issue-361):** ""
 

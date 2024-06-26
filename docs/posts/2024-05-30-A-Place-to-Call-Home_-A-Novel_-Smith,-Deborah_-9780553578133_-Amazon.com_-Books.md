@@ -11,7 +11,7 @@ tags:
     - book
     - films
 ---
-<img class="cover" src=https://m.media-amazon.com/images/I/71xdLPR+poL._SY522_.jpg>
+<img class="cover" src="https://m.media-amazon.com/images/I/71xdLPR+poL._SY522_.jpg">
 
 **Link: [A Place to Call Home: A Novel: Smith, Deborah: 9780553578133: Amazon.com: Books](https://www.amazon.com/Place-Call-Home-Novel/dp/0553578138?dplnkId=c5eaacec-848c-446b-bd00-b560cc4abe54&nodl=1):** "A Place to Call Home: A Novel [Smith, Deborah] on Amazon.com. *FREE* shipping on qualifying offers. A Place to Call Home: A Novel"
 

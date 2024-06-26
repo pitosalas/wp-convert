@@ -16,7 +16,7 @@ tags:
     - robot-kit
     - robots
 ---
-<img class="cover" src=https://heartroboticsproject.eu/wp-content/uploads/2022/06/HEART2.png>
+<img class="cover" src="https://heartroboticsproject.eu/wp-content/uploads/2022/06/HEART2.png">
 
 **Link: [Robotics in Education Database from HEART project](https://heartroboticsproject.eu/database):** "A comprehensive resource with information about robotics resources"
 

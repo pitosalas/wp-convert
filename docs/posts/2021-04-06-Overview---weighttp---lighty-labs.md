@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - load
 ---
-<img class="cover" src=>
+<img class="cover" src="">
 
 **Link: [Overview - weighttp - lighty labs](http://redmine.lighttpd.net/projects/weighttp):** ""
 

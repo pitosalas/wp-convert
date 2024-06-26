@@ -14,7 +14,7 @@ tags:
     - pyenv
     - python-package
 ---
-<img class="cover" src=>
+<img class="cover" src="">
 
 **Link: [Python Packaging, One Year Later: A Look Back at 2023 in Python Packag](https://chriswarrick.com/blog/2024/01/15/python-packaging-one-year-later/):** "Are there still fourteen tools, or are there even more? Has Python packaging improved in a year?"
 

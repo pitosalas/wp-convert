@@ -11,7 +11,7 @@ tags:
     - teaching
     - teams
 ---
-<img class="cover" src=https://www.zdnet.com/a/img/resize/3133341c2438c9aba6f91e1afed230df3073b8fa/2021/09/09/9db753db-480f-4472-b5e5-79000de90f8f/microsoftlinkedinhybridupdate.jpg?width=770&height=578&fit=crop&auto=webp>
+<img class="cover" src="https://www.zdnet.com/a/img/resize/3133341c2438c9aba6f91e1afed230df3073b8fa/2021/09/09/9db753db-480f-4472-b5e5-79000de90f8f/microsoftlinkedinhybridupdate.jpg?width=770&height=578&fit=crop&auto=webp">
 
 **Link: [Microsoft readies more Teams hybrid meeting features; frees up more LinkedIn remote-work courses | ZDNet](https://www.zdnet.com/article/microsoft-readies-more-teams-hybrid-meeting-features-frees-up-more-linkedin-remote-work-courses/):** "Microsoft is continuing to look for ways to make hybrid work better via Teams, Outlook, LinkedIn courses and more. Meanwhile, Microsoft's U.S. employees will continue to work primarily remotely for the foreseeable future."
 

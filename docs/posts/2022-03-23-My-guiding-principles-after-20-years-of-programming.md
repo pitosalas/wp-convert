@@ -12,7 +12,7 @@ tags:
     - programming
     - programming-language
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Flink.medium.com%2FTBEn3DfbDob>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Flink.medium.com%2FTBEn3DfbDob">
 
 **Link: [My guiding principles after 20 years of programming](https://link.medium.com/TBEn3DfbDob):** "I’ve been programming since 1999. This year I’ve officially coded for 20+ years. I’ve started with Basic but soon jumped into Pascal and C…"
 

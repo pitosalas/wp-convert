@@ -10,7 +10,7 @@ tags:
     - rails
     - actioncable
 ---
-<img class="cover" src=https://www.herokucdn.com/images/og.png>
+<img class="cover" src="https://www.herokucdn.com/images/og.png">
 
 **Link: [Real-Time Rails: Implementing WebSockets in Rails 5 with Action Cable | Heroku](https://blog.heroku.com/real_time_rails_implementing_websockets_in_rails_5_with_action_cable):** "And another Actioncable resource!"
 

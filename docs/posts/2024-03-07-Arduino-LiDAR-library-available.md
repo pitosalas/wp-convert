@@ -11,7 +11,7 @@ tags:
     - hardware
     - listing
 ---
-<img class="cover" src=https://kaia.ai/assets/images/webp/lidar_sensors.webp>
+<img class="cover" src="https://kaia.ai/assets/images/webp/lidar_sensors.webp">
 
 **Link: [Arduino LiDAR library available](https://kaia.ai/blog/arduino-lidar-library/):** "Developer Update - I have combined support for various spinning LiDAR/LDS sensors into an Arduino LDS library with a single platform API. You can install this library from the Arduino Library Manager GUI."
 

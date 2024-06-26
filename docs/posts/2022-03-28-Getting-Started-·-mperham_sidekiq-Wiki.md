@@ -10,11 +10,11 @@ tags:
     - asynchronous
     - FOOBAR
     - queueing
-    - howto
+    - how-to
     - scaling
     - performance
 ---
-<img class="cover" src=https://repository-images.githubusercontent.com/3195124/9c297005-12fc-49fd-853e-67bba879a6f2>
+<img class="cover" src="https://repository-images.githubusercontent.com/3195124/9c297005-12fc-49fd-853e-67bba879a6f2">
 
 **Link: [Getting Started · mperham/sidekiq Wiki](https://github.com/mperham/sidekiq/wiki/Getting-Started):** "Simple, efficient background processing for Ruby. Contribute to mperham/sidekiq development by creating an account on GitHub."
 

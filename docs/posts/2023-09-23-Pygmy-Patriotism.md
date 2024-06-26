@@ -10,9 +10,8 @@ tags:
     - oppenheimer
     - nuclear
     - history
-    - history journalism newspapers
 ---
-<img class="cover" src=https://cdn.theatlantic.com/static/theatlantic/img/lacroix-default-thumbnail.png>
+<img class="cover" src="https://cdn.theatlantic.com/static/theatlantic/img/lacroix-default-thumbnail.png">
 
 **Link: [Pygmy Patriotism](https://www.theatlantic.com/magazine/archive/1969/11/pygmy-patriotism/659281/):** "None"
 

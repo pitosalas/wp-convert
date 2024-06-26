@@ -8,11 +8,11 @@ date: 2021-04-06
 tags:
     - json
     - too
-    - howto
+    - how-to
     - jq
-    - cooltool
+    - cool-tools
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fstedolan.github.io%2Fjq>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fstedolan.github.io%2Fjq">
 
 **Link: [jq - CLI for JSON files](https://stedolan.github.io/jq):** "This is an amazing tool when you need it. Do queries, merges, filters on json files. You only need it once or twice a year but when you need it, it's a life saver!"
 

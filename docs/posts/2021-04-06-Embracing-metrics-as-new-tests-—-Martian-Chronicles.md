@@ -6,9 +6,11 @@ link: "https://evilmartians.com/chronicles/embracing-metrics-as-new-tests"
 cover: "https://cdn.evilmartians.com/front/posts/embracing-metrics-as-new-tests/cover-5f65e06.png" 
 date: 2021-04-06
 tags:
-    - performance ruby metrics
+    - performance
+    - ruby
+    - metrics
 ---
-<img class="cover" src=https://cdn.evilmartians.com/front/posts/embracing-metrics-as-new-tests/cover-5f65e06.png>
+<img class="cover" src="https://cdn.evilmartians.com/front/posts/embracing-metrics-as-new-tests/cover-5f65e06.png">
 
 **Link: [Embracing metrics as new tests — Martian Chronicles](https://evilmartians.com/chronicles/embracing-metrics-as-new-tests):** "Nice simple tool for instrumenting code."
 

@@ -12,7 +12,7 @@ tags:
     - try-before-you-buy
     - software-engineering
 ---
-<img class="cover" src=https://en.gravatar.com/userimage/4935940/3f36deb2aefc09c0bcd985db2458f2b5.png>
+<img class="cover" src="https://en.gravatar.com/userimage/4935940/3f36deb2aefc09c0bcd985db2458f2b5.png">
 
 **Link: [Software Needs To Be More Expensive](https://blog.glyph.im/2024/03/software-needs-to-be-more-expensive.html):** "Software, like coffee, is too artificially cheap, and we need to make it more expensive. I have one suggestion for how to do that."
 

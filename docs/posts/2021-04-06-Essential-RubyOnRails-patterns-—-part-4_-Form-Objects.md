@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - formobjects
 ---
-<img class="cover" src=https://miro.medium.com/max/1200/1*gDebplxiXaJJg38YraHcgg.jpeg>
+<img class="cover" src="https://miro.medium.com/max/1200/1*gDebplxiXaJJg38YraHcgg.jpeg">
 
 **Link: [Essential RubyOnRails patterns — part 4: Form Objects](https://medium.com/selleo/essential-rubyonrails-patterns-form-objects-b199aada6ec9?source=userActivityShare-d383785221d0-1524917094):** "as seen by RubyOnRails Developers @ Selleo"
 

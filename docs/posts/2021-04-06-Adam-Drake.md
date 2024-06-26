@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - data hadoop programming performance
 ---
-<img class="cover" src=>
+<img class="cover" src="">
 
 **Link: [Adam Drake](http://aadrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html):** ""
 

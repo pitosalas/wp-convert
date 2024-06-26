@@ -8,11 +8,11 @@ date: 2022-03-28
 tags:
     - github
     - url
-    - howto
+    - how-to
     - ssh
     - tips
 ---
-<img class="cover" src=https://github.githubassets.com/images/modules/open_graph/github-logo.png>
+<img class="cover" src="https://github.githubassets.com/images/modules/open_graph/github-logo.png">
 
 **Link: [Managing remote repositories - GitHub Docs](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories):** "Learn to work with your local repositories on your computer and remote repositories hosted on GitHub."
 

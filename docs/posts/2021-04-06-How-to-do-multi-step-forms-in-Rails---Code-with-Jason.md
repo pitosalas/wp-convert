@@ -7,12 +7,12 @@ cover: "http://www.codewithjason.com/wp-content/uploads/2020/03/multi-step-form.
 date: 2021-04-06
 tags:
     - rails
-    - howto
+    - how-to
     - forms
     - multi-step
     - pattern
 ---
-<img class="cover" src=http://www.codewithjason.com/wp-content/uploads/2020/03/multi-step-form.png>
+<img class="cover" src="http://www.codewithjason.com/wp-content/uploads/2020/03/multi-step-form.png">
 
 **Link: [How to do multi-step forms in Rails - Code with Jason](https://www.codewithjason.com/rails-multi-step-forms):** "Really good simple explanation of making a multi step form in Rails."
 

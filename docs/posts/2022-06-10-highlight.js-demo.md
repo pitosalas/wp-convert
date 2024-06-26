@@ -12,7 +12,7 @@ tags:
     - html
     - css
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fhighlightjs.org%2Fstatic%2Fdemo%2F>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fhighlightjs.org%2Fstatic%2Fdemo%2F">
 
 **Link: [highlight.js demo](https://highlightjs.org/static/demo/):** ""
 

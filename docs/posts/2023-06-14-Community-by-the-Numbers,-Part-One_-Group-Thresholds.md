@@ -10,7 +10,7 @@ tags:
     - group-size
     - dunbar
 ---
-<img class="cover" src=http://www.lifewithalacrity.com/previous/images/2008/09/22/circle_of_hands.jpg>
+<img class="cover" src="http://www.lifewithalacrity.com/previous/images/2008/09/22/circle_of_hands.jpg">
 
 **Link: [Community by the Numbers, Part One: Group Thresholds](http://www.lifewithalacrity.com/2008/09/group-threshold.html):** ""
 

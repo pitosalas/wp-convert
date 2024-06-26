@@ -9,7 +9,7 @@ tags:
     - programming
     - programming-language
 ---
-<img class="cover" src=https://crystal-lang.org/images/icon.png>
+<img class="cover" src="https://crystal-lang.org/images/icon.png">
 
 **Link: [The Crystal Programming Language](https://crystal-lang.org):** "A language for humans and computers"
 

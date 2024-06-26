@@ -13,7 +13,7 @@ tags:
     - slides
     - web
 ---
-<img class="cover" src=https://www.decksetapp.com/static/images/og-image.png>
+<img class="cover" src="https://www.decksetapp.com/static/images/og-image.png">
 
 **Link: [Deckset for Mac: Presentations from Markdown in No Time](https://www.deckset.com/):** "Write down your thoughts in your favourite text editor, and Deckset will turn them into beautiful presentations."
 

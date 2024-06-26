@@ -12,9 +12,9 @@ tags:
     - cli
     - github
     - tips
-    - howto
+    - how-to
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fgitpython.readthedocs.io%2Fen%2Fstable%2Fintro.html>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fgitpython.readthedocs.io%2Fen%2Fstable%2Fintro.html">
 
 **Link: [Overview / Install — GitPython 3.1.37 documentation](https://gitpython.readthedocs.io/en/stable/intro.html):** "null"
 

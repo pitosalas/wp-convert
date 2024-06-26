@@ -13,7 +13,7 @@ tags:
     - image
     - tool
 ---
-<img class="cover" src=https://www.mostlypython.com/content/images/size/w1200/2024/05/pycon_speaking-1.png>
+<img class="cover" src="https://www.mostlypython.com/content/images/size/w1200/2024/05/pycon_speaking-1.png">
 
 **Link: [Generating code snippets](https://www.mostlypython.com/generating-code-snippets/?ref=mostly-python-newsletter):** "MP 97: My approach to generating code snippets for presentations.
 

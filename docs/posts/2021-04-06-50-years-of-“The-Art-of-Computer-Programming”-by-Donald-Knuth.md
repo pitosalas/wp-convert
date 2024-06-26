@@ -6,10 +6,13 @@ link: "https://dentondaily.com/donald-knuth-reflects-on-50-years-of-the-art-of-c
 cover: "" 
 date: 2021-04-06
 tags:
-    - computer-science donaldknuth book theory
+    - computer-science
+    - donaldknuth
+    - book
+    - theory
     - programming
 ---
-<img class="cover" src=>
+<img class="cover" src="">
 
 **Link: [50 years of “The Art of Computer Programming” by Donald Knuth](https://dentondaily.com/donald-knuth-reflects-on-50-years-of-the-art-of-computer-programming):** "A classic - the books and the guy"
 

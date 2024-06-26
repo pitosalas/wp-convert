@@ -10,7 +10,7 @@ tags:
     - example
     - programming-language
 ---
-<img class="cover" src=https://static.miraheze.org/rosettacodewiki/d/d3/RosettaCodeTitle.png>
+<img class="cover" src="https://static.miraheze.org/rosettacodewiki/d/d3/RosettaCodeTitle.png">
 
 **Link: [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code):** "Rosetta Code is a programming chrestomathy site. The idea is to present solutions to the same task in as many different languages as possible, to demonstrate how..."
 

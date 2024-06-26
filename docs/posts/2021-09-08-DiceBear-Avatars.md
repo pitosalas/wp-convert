@@ -12,7 +12,7 @@ tags:
     - tool
     - rest
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Favatars.dicebear.com%2F>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Favatars.dicebear.com%2F">
 
 **Link: [DiceBear Avatars](https://avatars.dicebear.com/):** ""
 

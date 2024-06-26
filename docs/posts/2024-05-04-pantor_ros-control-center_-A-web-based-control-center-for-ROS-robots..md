@@ -13,7 +13,7 @@ tags:
     - robotics
     - visualize
 ---
-<img class="cover" src=https://opengraph.githubassets.com/b85f25201c7ba966776946ab85e53e64b40399ddae8bf05185b498c7c5c3ebb5/pantor/ros-control-center>
+<img class="cover" src="https://opengraph.githubassets.com/b85f25201c7ba966776946ab85e53e64b40399ddae8bf05185b498c7c5c3ebb5/pantor/ros-control-center">
 
 **Link: [pantor/ros-control-center: A web-based control center for ROS robots.](https://github.com/pantor/ros-control-center):** "A web-based control center for ROS robots. Contribute to pantor/ros-control-center development by creating an account on GitHub."
 

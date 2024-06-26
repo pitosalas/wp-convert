@@ -13,7 +13,7 @@ tags:
     - teaching
     - education
 ---
-<img class="cover" src=https://teachablemachine.withgoogle.com/assets/img/Hero_image_16x9.jpg>
+<img class="cover" src="https://teachablemachine.withgoogle.com/assets/img/Hero_image_16x9.jpg">
 
 **Link: [Teachable Machine](https://teachablemachine.withgoogle.com/):** "Train a computer to recognize your own images, sounds, & poses.
                 A fast, easy way to create machine learning models for your sites, apps, and more – no expertise or coding required."

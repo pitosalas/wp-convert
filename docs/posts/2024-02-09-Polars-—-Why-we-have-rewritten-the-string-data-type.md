@@ -11,7 +11,7 @@ tags:
     - rust
     - pandas
 ---
-<img class="cover" src=https://www.pola.rs/umbra_strings2.png>
+<img class="cover" src="https://www.pola.rs/umbra_strings2.png">
 
 **Link: [Polars — Why we have rewritten the string data type](https://pola.rs/posts/polars-string-type/):** "DataFrames for the new era"
 

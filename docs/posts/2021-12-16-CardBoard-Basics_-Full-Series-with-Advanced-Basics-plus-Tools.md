@@ -11,7 +11,7 @@ tags:
     - cardboard
     - youtube
 ---
-<img class="cover" src=https://i.ytimg.com/vi/Pk2wHf4ub3c/mqdefault.jpg>
+<img class="cover" src="https://i.ytimg.com/vi/Pk2wHf4ub3c/mqdefault.jpg">
 
 **Link: [CardBoard Basics: Full Series with Advanced Basics plus Tools](https://youtube.com/watch?v=Pk2wHf4ub3c&feature=share):** "All three cardboard videos in One, adjusted sound, new footage and all new footage and voice over and music for the tools section.
 

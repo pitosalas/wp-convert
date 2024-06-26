@@ -8,10 +8,9 @@ date: 2021-04-06
 tags:
     - Rails
     - rails
-    - rails ruby
     - ruby
 ---
-<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.railsinside.com>
+<img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fwww.railsinside.com">
 
 **Link: [Rails Inside: Rails Blog Featuring News, Tips and Links](http://www.railsinside.com):** "Ruby on Rails related news, tips and reviews."
 

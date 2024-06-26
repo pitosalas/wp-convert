@@ -6,9 +6,11 @@ link: "https://docs.stadiamaps.com"
 cover: "https://rdl.ink/render/https%3A%2F%2Fdocs.stadiamaps.com" 
 date: 2021-04-06
 tags:
-    - maps stadia googlemaps
+    - maps
+    - stadia
+    - googlemaps
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fdocs.stadiamaps.com>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fdocs.stadiamaps.com">
 
 **Link: [Home - Stadia Maps Documentation](https://docs.stadiamaps.com):** "Great alternative for google maps"
 

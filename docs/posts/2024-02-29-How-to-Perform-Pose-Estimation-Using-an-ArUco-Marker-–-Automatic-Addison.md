@@ -14,7 +14,7 @@ tags:
     - code
     - fiducial
 ---
-<img class="cover" src=https://automaticaddison.com/wp-content/uploads/2018/11/cropped-logo_sq_240.png>
+<img class="cover" src="https://automaticaddison.com/wp-content/uploads/2018/11/cropped-logo_sq_240.png">
 
 **Link: [How to Perform Pose Estimation Using an ArUco Marker – Automatic Addison](https://automaticaddison.com/how-to-perform-pose-estimation-using-an-aruco-marker/):** ""
 

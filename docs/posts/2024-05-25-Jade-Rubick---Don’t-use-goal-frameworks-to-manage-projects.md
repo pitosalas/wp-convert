@@ -11,7 +11,7 @@ tags:
     - goals
     - leadership
 ---
-<img class="cover" src=https://rubick.com/static/10569ef5ff8416f578fc3cea0082aa6a/14b42/goal.jpg>
+<img class="cover" src="https://rubick.com/static/10569ef5ff8416f578fc3cea0082aa6a/14b42/goal.jpg">
 
 **Link: [Jade Rubick - Don’t use goal frameworks to manage projects](https://www.rubick.com/advice-for-using-goal-frameworks/?utm_source=convertkit&utm_medium=email&utm_campaign=Don%27t%20use%20goal%20frameworks%20to%20manage%20projects%20-%204537177):** "Goal frameworks like OKRs are a popular way to coordinate the work across an organization. One of the most common anti-patterns is to use it to run projects in engineering. This describes why that is a problem and better alternatives."
 

@@ -9,9 +9,9 @@ tags:
     - ros
     - lidar
     - point-cloud
-    - howto
+    - how-to
 ---
-<img class="cover" src=http://wiki.ros.org/laser_pipeline/Tutorials/IntroductionToWorkingWithLaserScannerData?action=AttachFile&do=get&target=rviz_base_small.png>
+<img class="cover" src="http://wiki.ros.org/laser_pipeline/Tutorials/IntroductionToWorkingWithLaserScannerData?action=AttachFile&do=get&target=rviz_base_small.png">
 
 **Link: [laser_pipeline/Tutorials/IntroductionToWorkingWithLaserScannerData - ROS Wiki](http://wiki.ros.org/laser_pipeline/Tutorials/IntroductionToWorkingWithLaserScannerData):** ""
 

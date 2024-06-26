@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - research
 ---
-<img class="cover" src=>
+<img class="cover" src="">
 
 **Link: [Sci-Hub: removing barriers in the way of science](https://sci-hub.ac):** ""
 

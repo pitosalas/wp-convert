@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - Software Engineering
 ---
-<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fidiosyncratic-ruby.com%2F5-constant-shadows.html>
+<img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fidiosyncratic-ruby.com%2F5-constant-shadows.html">
 
 **Link: [Idiosyncratic Ruby: Constant Shadows](http://idiosyncratic-ruby.com/5-constant-shadows.html):** "Documenting All Ruby Specialities."
 

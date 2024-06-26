@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - visualize
 ---
-<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fwww.cs.usfca.edu%2F~galles%2Fvisualization%2FAlgorithms.html>
+<img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fwww.cs.usfca.edu%2F~galles%2Fvisualization%2FAlgorithms.html">
 
 **Link: [Data Structure Visualization](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html):** ""
 

@@ -11,7 +11,7 @@ tags:
     - visitors
     - cool-tools
 ---
-<img class="cover" src=https://clicky.com/media/screenshots/landing/dashboard-xl.png>
+<img class="cover" src="https://clicky.com/media/screenshots/landing/dashboard-xl.png">
 
 **Link: [Privacy-friendly Website Analytics | GDPR-compliant, Real-time, Google Analytics alternative | Clicky](https://clicky.com/):** "Clicky's privacy-friendly, real-time website analytics service is simply the best way to monitor, analyze, and react to your website's traffic in real time."
 

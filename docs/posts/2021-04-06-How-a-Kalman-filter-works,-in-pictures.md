@@ -11,7 +11,7 @@ tags:
     - robotics
     - kalmanfilters
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.bzarg.com%2Fp%2Fhow-a-kalman-filter-works-in-pictures>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fwww.bzarg.com%2Fp%2Fhow-a-kalman-filter-works-in-pictures">
 
 **Link: [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures):** "Kalman filters are a mathematical process for smoothing out a noisy signal (its more complicated than that ) its a central algorithm in robotics and real time sensing systems in general."
 

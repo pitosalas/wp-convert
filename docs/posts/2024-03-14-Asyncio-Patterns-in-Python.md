@@ -15,7 +15,7 @@ tags:
     - synchronization
     - asynchronous
 ---
-<img class="cover" src=https://miro.medium.com/v2/da:true/resize:fit:1200/0*IIswVyp9-CzmFnR8>
+<img class="cover" src="https://miro.medium.com/v2/da:true/resize:fit:1200/0*IIswVyp9-CzmFnR8">
 
 **Link: [Asyncio Patterns in Python](https://levelup.gitconnected.com/asyncio-patterns-in-python-4d6760c6f145):** "Recently I needed to run millions of API calls to an internal service. API calls are IO blocking. This means that when my service calls the…"
 

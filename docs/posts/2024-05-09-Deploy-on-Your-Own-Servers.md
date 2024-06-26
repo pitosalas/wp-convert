@@ -14,7 +14,7 @@ tags:
     - docker
     - how-to
 ---
-<img class="cover" src=https://www.hivegrid.dev/cover.png>
+<img class="cover" src="https://www.hivegrid.dev/cover.png">
 
 **Link: [Deploy on Your Own Servers](https://www.hivegrid.dev/):** "Fastest way to deploy a Rails app!"
 

@@ -9,7 +9,7 @@ tags:
     - crystal programming language ruby
     - programming-language
 ---
-<img class="cover" src=https://crystal-lang.org/images/icon.png>
+<img class="cover" src="https://crystal-lang.org/images/icon.png">
 
 **Link: [Introduction | Crystal Programming Language](https://crystal-lang.org/docs/index.html):** "A compiled language with Ruby like syntax and type inference"
 

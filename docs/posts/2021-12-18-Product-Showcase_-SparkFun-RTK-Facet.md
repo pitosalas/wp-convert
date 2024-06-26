@@ -12,7 +12,7 @@ tags:
     - robotics
     - hardware
 ---
-<img class="cover" src=https://i.ytimg.com/vi/-0vlPDOZx7A/mqdefault.jpg>
+<img class="cover" src="https://i.ytimg.com/vi/-0vlPDOZx7A/mqdefault.jpg">
 
 **Link: [Product Showcase: SparkFun RTK Facet](https://youtube.com/watch?v=-0vlPDOZx7A&feature=share):** "Find it here: https://www.sparkfun.com/products/19029
 

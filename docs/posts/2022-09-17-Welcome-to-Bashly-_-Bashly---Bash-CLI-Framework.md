@@ -9,10 +9,10 @@ tags:
     - cli
     - bash
     - code-generator
-    - howto
-    - cooltool
+    - how-to
+    - cool-tools
 ---
-<img class="cover" src=https://bashly.dannyb.co/assets/cast.svg>
+<img class="cover" src="https://bashly.dannyb.co/assets/cast.svg">
 
 **Link: [Welcome to Bashly | Bashly - Bash CLI Framework](https://bashly.dannyb.co/):** "Bashly is a command line application (written in Ruby) that lets you generate feature-rich bash command line tools."
 

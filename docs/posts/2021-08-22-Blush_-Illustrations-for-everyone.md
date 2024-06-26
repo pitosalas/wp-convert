@@ -9,10 +9,10 @@ tags:
     - images
     - custom
     - clipart
-    - howto
-    - cooltool
+    - how-to
+    - cool-tools
 ---
-<img class="cover" src=https://blush.design/og-image.png>
+<img class="cover" src="https://blush.design/og-image.png">
 
 **Link: [Blush: Illustrations for everyone](https://blush.design/):** "Blush makes it easy to add free illustrations to your designs. Play with fully customizable graphics made by artists across the globe."
 

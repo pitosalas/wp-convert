@@ -11,12 +11,12 @@ tags:
     - course
     - online
     - video
-    - howto
+    - how-to
     - robot
     - robot-kit
     - robots
 ---
-<img class="cover" src=https://robotacademy.net.au/wp-content/uploads/2017/05/OG-Image-main.jpg>
+<img class="cover" src="https://robotacademy.net.au/wp-content/uploads/2017/05/OG-Image-main.jpg">
 
 **Link: [QUT Robot Academy](https://robotacademy.net.au/):** "University-level, short video lessons and full online courses to help you understand and prepare for this technology of the future."
 

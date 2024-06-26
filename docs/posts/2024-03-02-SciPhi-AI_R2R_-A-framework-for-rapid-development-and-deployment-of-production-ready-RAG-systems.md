@@ -11,7 +11,7 @@ tags:
     - ai
     - github
 ---
-<img class="cover" src=https://opengraph.githubassets.com/dd439a5d8191ba1e294ef3cf8c82abaa56f032356625fd479cbc55e766ef4243/SciPhi-AI/R2R>
+<img class="cover" src="https://opengraph.githubassets.com/dd439a5d8191ba1e294ef3cf8c82abaa56f032356625fd479cbc55e766ef4243/SciPhi-AI/R2R">
 
 **Link: [SciPhi-AI/R2R: A framework for rapid development and deployment of production-ready RAG systems](https://github.com/SciPhi-AI/R2R):** "A framework for rapid development and deployment of production-ready RAG systems - SciPhi-AI/R2R"
 

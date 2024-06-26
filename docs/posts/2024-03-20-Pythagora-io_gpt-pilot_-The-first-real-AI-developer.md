@@ -10,12 +10,11 @@ tags:
     - ai
     - automation
     - coding
-    - artificial-intelligence
     - python
     - gpt
     - tool
 ---
-<img class="cover" src=https://opengraph.githubassets.com/ce8bac61dae1f17019b0be3c59782b7f211b315adba68935265753d136ecdfed/Pythagora-io/gpt-pilot>
+<img class="cover" src="https://opengraph.githubassets.com/ce8bac61dae1f17019b0be3c59782b7f211b315adba68935265753d136ecdfed/Pythagora-io/gpt-pilot">
 
 **Link: [Pythagora-io/gpt-pilot: The first real AI developer](https://github.com/Pythagora-io/gpt-pilot?b=main):** "The first real AI developer. Contribute to Pythagora-io/gpt-pilot development by creating an account on GitHub."
 

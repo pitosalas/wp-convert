@@ -13,7 +13,7 @@ tags:
     - software-engineering
     - unit-test
 ---
-<img class="cover" src=https://world.hey.com/dhh/avatar-fb368b1ee9b185dc2a09b03eabdb61678dd55244>
+<img class="cover" src="https://world.hey.com/dhh/avatar-fb368b1ee9b185dc2a09b03eabdb61678dd55244">
 
 **Link: [System tests have failed](https://world.hey.com/dhh/system-tests-have-failed-d90af718):** "When we introduced a default setup for system tests in Rails 5.1 back in 2016, I had high hopes. In theory, system tests, which drive a headless browser through your actual interface, offer greater confidence that the entire machine is working as it ought. And because it runs in a black-box fashion, it should be more resilient to imple..."
 

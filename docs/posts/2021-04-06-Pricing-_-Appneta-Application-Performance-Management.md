@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - ruby scalability performance
 ---
-<img class="cover" src=https://www.appneta.com/images/graphics/appneta-social.jpg>
+<img class="cover" src="https://www.appneta.com/images/graphics/appneta-social.jpg">
 
 **Link: [Pricing | Appneta Application Performance Management](https://www.appneta.com):** "AppNeta's award-winning suite of network monitoring tools allow unparalleled SaaS-based application end-user performance monitoring for 100% delivery confidence. Request a free demo!"
 

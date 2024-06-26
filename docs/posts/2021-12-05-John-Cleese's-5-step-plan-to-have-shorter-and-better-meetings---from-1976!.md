@@ -11,7 +11,7 @@ tags:
     - people
     - time
 ---
-<img class="cover" src=https://i.ytimg.com/vi/Ff9V0mISmtk/mqdefault.jpg>
+<img class="cover" src="https://i.ytimg.com/vi/Ff9V0mISmtk/mqdefault.jpg">
 
 **Link: [John Cleese's 5-step plan to have shorter and better meetings - from 1976!](https://youtube.com/watch?v=Ff9V0mISmtk&feature=share):** "John Cleese (Monty Python) nails it in this classic 1976 work “Meetings, Bloody Meetings”, and his hilarious portrayal of meeting culture seems worryingly accurate today.
 

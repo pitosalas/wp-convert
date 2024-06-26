@@ -9,9 +9,9 @@ tags:
     - csv
     - data
     - cli
-    - cooltool
+    - cool-tools
 ---
-<img class="cover" src=https://www.visidata.org/images/meta/og.jpg>
+<img class="cover" src="https://www.visidata.org/images/meta/og.jpg">
 
 **Link: [Open-source data multitool | VisiData](https://www.visidata.org/?utm_source=substack&utm_medium=email):** "Command-line interactive multitool for tabular data."
 

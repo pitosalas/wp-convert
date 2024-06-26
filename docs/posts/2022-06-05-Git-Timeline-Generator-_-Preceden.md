@@ -10,10 +10,10 @@ tags:
     - commits
     - free
     - tool
-    - howto
+    - how-to
     - visualize
 ---
-<img class="cover" src=https://www.preceden.com/assets/gitviz-twitter-0885a80133b893170916f5a5ce9733a535fd7b27a25ec57bce4a0b58b2bf1b38.png>
+<img class="cover" src="https://www.preceden.com/assets/gitviz-twitter-0885a80133b893170916f5a5ce9733a535fd7b27a25ec57bce4a0b58b2bf1b38.png">
 
 **Link: [Git Timeline Generator | Preceden](https://www.preceden.com/git):** "Create a visual timeline of any codebase's contribution history."
 

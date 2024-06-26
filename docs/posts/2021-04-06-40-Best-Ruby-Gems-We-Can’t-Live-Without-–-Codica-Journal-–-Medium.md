@@ -6,11 +6,11 @@ link: "https://medium.com/codica/40-best-ruby-gems-we-cant-live-without-8ccf314f
 cover: "https://miro.medium.com/max/1200/1*noIpLrV0tDraeR9P69WlKw.jpeg" 
 date: 2021-04-06
 tags:
-    - ruby gems
+    - ruby
+    - gems
     - rails
-    - rails ruby
 ---
-<img class="cover" src=https://miro.medium.com/max/1200/1*noIpLrV0tDraeR9P69WlKw.jpeg>
+<img class="cover" src="https://miro.medium.com/max/1200/1*noIpLrV0tDraeR9P69WlKw.jpeg">
 
 **Link: [40 Best Ruby Gems We Can’t Live Without – Codica Journal – Medium](https://medium.com/codica/40-best-ruby-gems-we-cant-live-without-8ccf314fcd38):** "A great list of some of the best, well known gems for ruby and for rails."
 

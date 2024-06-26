@@ -10,7 +10,7 @@ tags:
     - navigation
     - tutorial
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwiki.ros.org%2Fnavigation%2FTroubleshooting>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fwiki.ros.org%2Fnavigation%2FTroubleshooting">
 
 **Link: [navigation/Troubleshooting - ROS Wiki](https://wiki.ros.org/navigation/Troubleshooting):** ""
 

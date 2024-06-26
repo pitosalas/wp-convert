@@ -13,7 +13,7 @@ tags:
     - instruments
     - rie2024
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fselfdeterminationtheory.org%2Fintrinsic-motivation-inventory%2F>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fselfdeterminationtheory.org%2Fintrinsic-motivation-inventory%2F">
 
 **Link: [Intrinsic Motivation Inventory (IMI) – selfdeterminationtheory.org](https://selfdeterminationtheory.org/intrinsic-motivation-inventory/):** ""
 

@@ -11,7 +11,7 @@ tags:
     - relative-path
     - Path
 ---
-<img class="cover" src=https://static.ghost.org/v5.0.0/images/publication-cover.jpgcontent/images/size/w1200>
+<img class="cover" src="https://static.ghost.org/v5.0.0/images/publication-cover.jpgcontent/images/size/w1200">
 
 **Link: [Calculated file paths](https://www.mostlypython.com/calculated-file-paths/?ref=mostly-python-newsletter):** "MP 87: What are they, and why should you use them?
 

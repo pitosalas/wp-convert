@@ -10,7 +10,7 @@ tags:
     - twitch
     - rpc
 ---
-<img class="cover" src=https://opengraph.githubassets.com/a06576928b5e520b9eb1d04378f78a5ec60f535a19826a3de0de8346372bea06/collectiveidea/twirp-rails>
+<img class="cover" src="https://opengraph.githubassets.com/a06576928b5e520b9eb1d04378f78a5ec60f535a19826a3de0de8346372bea06/collectiveidea/twirp-rails">
 
 **Link: [Twirp: Make serving a Twirp RPC Services as easy and familiar as Rails controllers.](https://github.com/collectiveidea/twirp-rails/):** "Make serving a Twirp RPC Services as easy and familiar as Rails controllers. - collectiveidea/twirp-rails"
 

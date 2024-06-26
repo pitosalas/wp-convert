@@ -9,10 +9,10 @@ tags:
     - docker
     - python
     - kubernetes
-    - howto
+    - how-to
     - explainer
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fhead-first-kubernetes.github.io%2F>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fhead-first-kubernetes.github.io%2F">
 
 **Link: [Head-First Kubernetes](https://head-first-kubernetes.github.io/):** "A Kubernetes tutorial for complete beginners."
 

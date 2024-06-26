@@ -9,7 +9,7 @@ tags:
     - microservices fowler architecture
     - service-oriented-architecture
 ---
-<img class="cover" src=https://martinfowler.com/articles/microservices/images/card.png>
+<img class="cover" src="https://martinfowler.com/articles/microservices/images/card.png">
 
 **Link: [Microservices](http://martinfowler.com/articles/microservices.html):** "Defining the microservices architectural style by describing their nine common characteristics"
 

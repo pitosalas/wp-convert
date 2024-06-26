@@ -8,10 +8,10 @@ date: 2022-11-13
 tags:
     - mastodon
     - introduction
-    - howto
+    - how-to
     - social-media
 ---
-<img class="cover" src=https://joinmastodon.org/preview.png>
+<img class="cover" src="https://joinmastodon.org/preview.png">
 
 **Link: [Mastodon - Decentralized social media](https://joinmastodon.org/):** "Learn more about Mastodon, the radically different, free and open-source decentralized social media platform."
 

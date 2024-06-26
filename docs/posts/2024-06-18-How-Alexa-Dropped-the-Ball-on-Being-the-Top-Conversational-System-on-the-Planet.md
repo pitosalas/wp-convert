@@ -6,14 +6,14 @@ link: "https://www.mihaileric.com/posts/how-alexa-dropped-the-ball-conversationa
 cover: "https://cdn.searchenginejournal.com/wp-content/uploads/2021/08/20-awesome-sources-of-free-data-612c26257336f-sej.jpg" 
 date: 2024-06-18
 tags:
-    - artificial-intelligence
+    - ai
     - alexa
     - strategy
     - llm
     - amazon
     - apple-maps
 ---
-<img class="cover" src=https://cdn.searchenginejournal.com/wp-content/uploads/2021/08/20-awesome-sources-of-free-data-612c26257336f-sej.jpg>
+<img class="cover" src="https://cdn.searchenginejournal.com/wp-content/uploads/2021/08/20-awesome-sources-of-free-data-612c26257336f-sej.jpg">
 
 **Link: [How Alexa Dropped the Ball on Being the Top Conversational System on the Planet](https://www.mihaileric.com/posts/how-alexa-dropped-the-ball-conversational-ai/?utm_source=changelog-news):** "I discuss why Alexa missed the opportunity to take the lead and become the dominant player in the conversational AI market."
 

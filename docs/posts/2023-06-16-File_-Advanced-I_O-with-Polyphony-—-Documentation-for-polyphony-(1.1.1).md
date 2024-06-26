@@ -14,7 +14,7 @@ tags:
     - performance
     - splice
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.rubydoc.info%2Fgems%2Fpolyphony%2Ffile%2Fdocs%2Fadvanced-io.md>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fwww.rubydoc.info%2Fgems%2Fpolyphony%2Ffile%2Fdocs%2Fadvanced-io.md">
 
 **Link: [File: Advanced I/O with Polyphony — Documentation for polyphony (1.1.1)](https://www.rubydoc.info/gems/polyphony/file/docs/advanced-io.md):** ""
 

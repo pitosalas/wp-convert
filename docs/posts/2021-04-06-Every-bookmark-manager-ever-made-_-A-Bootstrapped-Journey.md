@@ -10,7 +10,7 @@ tags:
     - library
     - collection
 ---
-<img class="cover" src=https://bookmarkos.com/blog/assets/images/posts/every-bookmark-manager.png>
+<img class="cover" src="https://bookmarkos.com/blog/assets/images/posts/every-bookmark-manager.png">
 
 **Link: [Every bookmark manager ever made | A Bootstrapped Journey](https://bookmarkos.com/every-bookmark-manager-ever-made):** "Amazing list of all bookmaker managers. I currently use Diigo. I might change."
 

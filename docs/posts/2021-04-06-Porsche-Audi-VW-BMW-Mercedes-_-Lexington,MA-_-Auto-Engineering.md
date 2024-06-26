@@ -12,7 +12,7 @@ tags:
     - lexington
     - auto
 ---
-<img class="cover" src=https://www.autoengineering.com/wp-content/uploads/2019/12/apr_logo_cmyk_red-300x60.png>
+<img class="cover" src="https://www.autoengineering.com/wp-content/uploads/2019/12/apr_logo_cmyk_red-300x60.png">
 
 **Link: [Porsche Audi VW BMW Mercedes | Lexington,MA | Auto Engineering](https://www.autoengineering.com):** "Looking for German Auto Repair Near Me? Auto Engineering specializes in Porsche, Audi, BMW, & Mercedes repairs & services in Lexington MA."
 

@@ -11,7 +11,7 @@ tags:
     - programming
     - memory
 ---
-<img class="cover" src=https://rdl.ink/render/https%3A%2F%2Fwww.rerun.io%2Fblog%2Fwhy-rust>
+<img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fwww.rerun.io%2Fblog%2Fwhy-rust">
 
 **Link: [Why Rust? — Rerun](https://www.rerun.io/blog/why-rust):** "A nice overview of rust and its pros and cons."
 

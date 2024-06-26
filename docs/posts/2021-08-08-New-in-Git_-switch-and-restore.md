@@ -10,9 +10,9 @@ tags:
     - github
     - checkout
     - new-feature
-    - howto
+    - how-to
 ---
-<img class="cover" src=https://www.banterly.net/content/images/2021/07/1200px-Git-logo.svg.png>
+<img class="cover" src="https://www.banterly.net/content/images/2021/07/1200px-Git-logo.svg.png">
 
 **Link: [New in Git: switch and restore](https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/):** "To my surprise, I recently found out about 2 new additions to the list of high-level commands: git restore and git switch"
 

@@ -12,7 +12,7 @@ tags:
     - control-panel
     - visualize
 ---
-<img class="cover" src=https://foxglove.dev/images/og-image.jpeg>
+<img class="cover" src="https://foxglove.dev/images/og-image.jpeg">
 
 **Link: [Product - Robotics Observability - Foxglove](https://foxglove.dev/product):** ""
 

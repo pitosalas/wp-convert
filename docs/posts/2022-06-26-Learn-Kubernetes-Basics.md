@@ -8,9 +8,9 @@ date: 2022-06-26
 tags:
     - kubernetes
     - basics
-    - howto
+    - how-to
 ---
-<img class="cover" src=https://kubernetes.io/images/favicon.png>
+<img class="cover" src="https://kubernetes.io/images/favicon.png">
 
 **Link: [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/):** "Production-Grade Container Orchestration. One of many writeups on how to work with K8S and friends!"
 

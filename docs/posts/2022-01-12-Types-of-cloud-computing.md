@@ -12,7 +12,7 @@ tags:
     - classification
     - explain
 ---
-<img class="cover" src=https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_179x109.png>
+<img class="cover" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_179x109.png">
 
 **Link: [Types of cloud computing](https://aws.amazon.com/types-of-cloud-computing/):** ""
 

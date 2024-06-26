@@ -15,7 +15,7 @@ tags:
     - cool-tools
     - visualize
 ---
-<img class="cover" src=https://docs.foxglove.dev/img/docusaurus-social-card.jpg>
+<img class="cover" src="https://docs.foxglove.dev/img/docusaurus-social-card.jpg">
 
 **Link: [Introduction | Foxglove | Docs](https://docs.foxglove.dev/docs/introduction):** "Foxglove helps teams explore, collaborate on, and ultimately make sense of their data more efficiently."
 

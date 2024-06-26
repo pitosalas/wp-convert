@@ -8,7 +8,7 @@ date: 2021-04-06
 tags:
     - orm javascript nodejs
 ---
-<img class="cover" src=https://avatars.githubusercontent.com/u/600935?s=400&v=4>
+<img class="cover" src="https://avatars.githubusercontent.com/u/600935?s=400&v=4">
 
 **Link: [mapbox/node-sqlite3](https://github.com/mapbox/node-sqlite3):** "Asynchronous, non-blocking SQLite3 bindings for Node.js - mapbox/node-sqlite3"
 
