@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-02-05
 ---
 
-**Link: [I was away when Boston and Fox both embarassed themselves](None):** ""
+
 
 <!-  
 >  body { font-style: normal; font-size: 11pt; font-variant: normal; font-

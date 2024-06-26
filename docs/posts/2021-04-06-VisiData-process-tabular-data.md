@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fwww.visidata.org%2Finstall">
 
-**Link: [VisiData process tabular data](https://www.visidata.org/install):** "brew tap saulpw/vd And run it by just typing vd"
+**Link: [VisiData process tabular data](https://www.visidata.org/install):** "brew tap saulpw/vd And run it by just typing vd" 
 
 

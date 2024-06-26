@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-08-03
 ---
 
-**Link: [Joel on API Wars](None):** ""
+
 
 [Joel writes a good
 analysis](<http://www.joelonsoftware.com/articles/APIWar.html>) of some of the

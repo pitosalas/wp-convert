@@ -8,7 +8,7 @@ tags:
     - rubygems
 ---
 
-**Link: [[GEEKY] Using bundler to create and publish a gem](None):** ""
+
 
 A really useful link. For Ruby programmers only.
 

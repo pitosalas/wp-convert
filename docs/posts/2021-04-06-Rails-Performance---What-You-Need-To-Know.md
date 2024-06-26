@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="">
 
-**Link: [Rails Performance - What You Need To Know](https://www.airpair.com/ruby-on-rails/performance):** ""
+**Link: [Rails Performance - What You Need To Know](https://www.airpair.com/ruby-on-rails/performance):** "" 
 
 

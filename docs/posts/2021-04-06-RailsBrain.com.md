@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Frailsbrain.com">
 
-**Link: [RailsBrain.com](http://railsbrain.com):** ""
+**Link: [RailsBrain.com](http://railsbrain.com):** "" 
 
 

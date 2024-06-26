@@ -7,7 +7,7 @@ tags:
     - spotify
 ---
 
-**Link: [Cancelled Rhapsody, Trying Spotify](None):** ""
+
 
 As I said in the previous post, I am a bit of a promiscuous signer upper. From
 a cursory look, Rhapsody and Spotify are fairly similar. They both charge $10

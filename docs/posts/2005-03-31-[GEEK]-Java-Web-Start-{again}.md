@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-03-31
 ---
 
-**Link: [[GEEK] Java Web Start {again}](None):** ""
+
 
 There's [another flame-
 up](<http://www.clientjava.com/blog/2005/03/28/1112029988215.html>) on the

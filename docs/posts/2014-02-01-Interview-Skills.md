@@ -8,7 +8,7 @@ tags:
     - jobs
 ---
 
-**Link: [Interview Skills](None):** ""
+
 
 This article: [The Only Interview Question That
 Matters](<http://www.inc.com/lou-adler/best-interview-question-ever.html>)"

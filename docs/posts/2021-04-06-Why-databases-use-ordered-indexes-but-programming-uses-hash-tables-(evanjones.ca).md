@@ -14,6 +14,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fwww.evanjones.ca%2Fordered-vs-unordered-indexes.html">
 
-**Link: [Why databases use ordered indexes but programming uses hash tables (evanjones.ca)](https://www.evanjones.ca/ordered-vs-unordered-indexes.html):** "A great analysis about a question that I had not thought of but is pretty interesting now that you mention it!"
+**Link: [Why databases use ordered indexes but programming uses hash tables (evanjones.ca)](https://www.evanjones.ca/ordered-vs-unordered-indexes.html):** "A great analysis about a question that I had not thought of but is pretty interesting now that you mention it!" 
 
 

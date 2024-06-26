@@ -14,6 +14,6 @@ tags:
 ---
 <img class="cover" src="https://dev.to/social_previews/article/439975.png">
 
-**Link: [Linux Commands for Developers - DEV](https://dev.to/ptuladhar3/linux-commands-for-developers-17j):** "Another one of these lists of commands."
+**Link: [Linux Commands for Developers - DEV](https://dev.to/ptuladhar3/linux-commands-for-developers-17j):** "Another one of these lists of commands." 
 
 

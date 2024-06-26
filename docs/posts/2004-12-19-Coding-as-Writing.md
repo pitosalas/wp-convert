@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-12-19
 ---
 
-**Link: [Coding as Writing](None):** ""
+
 
 If you read this blog at all, you know that I've been working on a piece of
 software ([BlogBridge](<http://www.blogbridge.com>)) which at this point I am

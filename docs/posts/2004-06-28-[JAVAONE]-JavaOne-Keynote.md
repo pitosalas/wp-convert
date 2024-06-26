@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-06-28
 ---
 
-**Link: [[JAVAONE] JavaOne Keynote](None):** ""
+
 
 As you know I am attending the JavaOne conference. I jotted down my key
 takeaways during the keynote for myself, which I thought I’d share here. The

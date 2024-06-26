@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fqiao.github.io%2FPathFinding.js%2Fvisual">
 
-**Link: [PathFinding.js](https://qiao.github.io/PathFinding.js/visual):** "A fantastic visualization of various path finding algorithms"
+**Link: [PathFinding.js](https://qiao.github.io/PathFinding.js/visual):** "A fantastic visualization of various path finding algorithms" 
 
 

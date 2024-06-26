@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-12-01
 ---
 
-**Link: [Wikipedia on a map](None):** ""
+
 
 ![Wikipedia
 Vision](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-

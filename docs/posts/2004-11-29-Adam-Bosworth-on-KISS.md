@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-11-29
 ---
 
-**Link: [Adam Bosworth on KISS](None):** ""
+
 
 [Adam Bosworth's speech](<http://www.adambosworth.net/archives/000031.html>)
 

@@ -1,0 +1,16 @@
+---
+title: "Splunk Storm | Cloud Data Analysis and Log Management"
+author: Pito Salas
+url: "https://www.splunkstorm.com" 
+link: "https://www.splunkstorm.com" 
+cover: "" 
+date: 2021-04-06
+tags:
+    - statistics logfiles data
+    - data-analysis
+---
+<img class="cover" src="">
+
+**Link: [Splunk Storm | Cloud Data Analysis and Log Management](https://www.splunkstorm.com):** "Data and log file analysis" 
+
+

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-04-27
 ---
 
-**Link: [Back from spain](None):** ""
+
 
 So as not to leave you hanging, I just want to report that we are back and had
 a great time in Spain. We went from Granada to Sevilla to Madrid, by plane and

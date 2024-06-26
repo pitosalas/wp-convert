@@ -14,6 +14,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fwww.labri.fr%2Fperso%2Fnrougier%2Ffrom-python-to-numpy">
 
-**Link: [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy):** "A beautiful book about numpy."
+**Link: [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy):** "A beautiful book about numpy." 
 
 

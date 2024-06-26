@@ -8,7 +8,7 @@ tags:
     - nyt
 ---
 
-**Link: [I never remember anything](None):** ""
+
 
 Finally [someone writes about something
 ](<http://www.nytimes.com/2010/09/19/books/review/Collins-t.html?_r=1&pagewanted=all>)that

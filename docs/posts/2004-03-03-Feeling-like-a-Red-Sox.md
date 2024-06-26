@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-03-03
 ---
 
-**Link: [Feeling like a Red Sox](None):** ""
+
 
 **Feeling like a Red Sox Fan.** Kerry seems to have won the Democratic
 nomination, and convincingly. I'm rooting for him in the Big Show in November,

@@ -9,7 +9,7 @@ tags:
     - teaching
 ---
 
-**Link: [Teaching at Olin College next year](None):** ""
+
 
 ![College photo 10842 130x0](https://i0.wp.com/salas.com/wp-
 content/uploads/2012/11/83b41-college-

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-05-21
 ---
 
-**Link: [Boston is thinking about city-wide wi-fi access](None):** ""
+
 
 Michael Feldman of [Dowbrigade](<http://blogs.law.harvard.edu/dowbrigade/>)
 has a [really

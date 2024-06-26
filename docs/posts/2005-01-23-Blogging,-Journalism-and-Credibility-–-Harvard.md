@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-01-23
 ---
 
-**Link: [Blogging, Journalism and Credibility – Harvard](None):** ""
+
 
 I was lucky enough to be able to participate in a [conference on Blogging,
 Journalism and Credibility](<http://cyber.law.harvard.edu/webcred/>) at

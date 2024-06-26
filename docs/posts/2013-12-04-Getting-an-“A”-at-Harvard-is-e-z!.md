@@ -8,7 +8,7 @@ tags:
     - higher-education-tag
 ---
 
-**Link: [Getting an “A” at Harvard is e-z!](None):** ""
+
 
 Unfortunately students can be quite focused on their grades, and as a result I
 end up paying more attention to grading than I would like. By the way let me

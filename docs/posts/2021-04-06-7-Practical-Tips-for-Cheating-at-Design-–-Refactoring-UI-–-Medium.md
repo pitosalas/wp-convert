@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://miro.medium.com/max/1200/1*2YuCOOCjdMEJxg-Lb6G2FA.png">
 
-**Link: [7 Practical Tips for Cheating at Design – Refactoring UI – Medium](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886?source=userActivityShare-d383785221d0-1524177305):** "Awesome useful tips for pretty design!"
+**Link: [7 Practical Tips for Cheating at Design – Refactoring UI – Medium](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886?source=userActivityShare-d383785221d0-1524177305):** "Awesome useful tips for pretty design!" 
 
 

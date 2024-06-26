@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2010-02-18
 ---
 
-**Link: [[insert your title here]](None):** ""
+
 
 "I am so disappointed in the government"  
 "Are we driving off a cliff with two sets of hands on the steering wheel?"  

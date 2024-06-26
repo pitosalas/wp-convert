@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-11-04
 ---
 
-**Link: [Wiki as in Wikipedia](None):** ""
+
 
 I assume you know about [Wikis](<http://en.wikipedia.org/wiki/Wiki>) and the
 [Wikipedia](<http://www.wikipedia.org/>). If not,

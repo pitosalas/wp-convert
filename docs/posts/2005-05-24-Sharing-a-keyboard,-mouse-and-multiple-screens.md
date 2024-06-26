@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-05-24
 ---
 
-**Link: [Sharing a keyboard, mouse and multiple screens](None):** ""
+
 
 Check out [Synergy](<http://synergy2.sourceforge.net/>):
 

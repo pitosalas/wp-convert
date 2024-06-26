@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-11-03
 ---
 
-**Link: [More Long Now Clockery](None):** ""
+
 
 If you were intrigued by my previous post about the Clock of the Long Now, I
 came across a [nice, philosophical and instructive

@@ -6,7 +6,7 @@ tags:
     - theatre-boston-tag-huntington-tag
 ---
 
-**Link: [Go See “The Cry of the Reed” right now](None):** ""
+
 
 I just came back from the theatre, the [Huntington Theatre, Boston's,
 production of a brand new play called "The Cry of the Reed"

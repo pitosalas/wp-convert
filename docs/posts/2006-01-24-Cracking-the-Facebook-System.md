@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-01-24
 ---
 
-**Link: [Cracking the Facebook System](None):** ""
+
 
 So we've all heard about [Facebook](<http://www.facebook.com/>) but only the
 ones of us who have a .edu email address can get an account. This was a

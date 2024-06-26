@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="">
 
-**Link: [Defakto Vektor Standard](https://www.defakto-watches.com/watches/vektor/standard/632):** ""
+**Link: [Defakto Vektor Standard](https://www.defakto-watches.com/watches/vektor/standard/632):** "" 
 
 

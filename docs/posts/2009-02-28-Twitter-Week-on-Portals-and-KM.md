@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-02-28
 ---
 
-**Link: [Twitter Week on Portals and KM](None):** ""
+
 
 Bill Ives has been running "twitter week" this week on his blog [Portals and
 KM](<http://billives.typepad.com/portals_and_km/index.rdf>). Here something

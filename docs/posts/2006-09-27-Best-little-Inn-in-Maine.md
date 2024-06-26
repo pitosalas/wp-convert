@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-09-27
 ---
 
-**Link: [Best little Inn in Maine](None):** ""
+
 
 If you're looking for a really wonderful place to stay while in Bar Harbor,
 you should check out the Bass Cottage Inn! Here's a

@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://www.akshaykhot.com/content/images/2023/01/code_long-1.png">
 
-**Link: [The Difference Between load, autoload, require, and require_relative in Ruby 📖](https://www.akshaykhot.com/difference-between-load-autoload-require-in-ruby/):** "An oldy but goodie source of confusion in Ruby. Author says: "Loading external files can get tricky in Ruby, but it doesn't have to be. This post explains the usage of Ruby's load, require, and require_relative methods, and when to use each.""
+**Link: [The Difference Between load, autoload, require, and require_relative in Ruby 📖](https://www.akshaykhot.com/difference-between-load-autoload-require-in-ruby/):** "An oldy but goodie source of confusion in Ruby. Author says: "Loading external files can get tricky in Ruby, but it doesn't have to be. This post explains the usage of Ruby's load, require, and require_relative methods, and when to use each."" 
 
 

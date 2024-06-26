@@ -8,7 +8,7 @@ tags:
     - website
 ---
 
-**Link: [Sharing Web Site Designs](None):** ""
+
 
 Recently I wanted to get feedback on one of several ideas for the design of
 the new [BlogBridge](<http://www.blogbridge.com/>) web site. I had selected 6

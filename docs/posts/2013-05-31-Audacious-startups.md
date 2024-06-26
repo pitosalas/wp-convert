@@ -10,7 +10,7 @@ tags:
     - startups
 ---
 
-**Link: [Audacious startups](None):** ""
+
 
 I remember when this project was first announced and 'PR'd. It's just another
 good reminder about the unpredictability of these world-changing projects. Sad

@@ -9,7 +9,7 @@ tags:
     - senators
 ---
 
-**Link: [What I told my Congressman and Senators](None):** ""
+
 
 "Dear Congressman,
 

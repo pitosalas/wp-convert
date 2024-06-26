@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-04-19
 ---
 
-**Link: [Really interesting story about why good used cars don’t sell](None):** ""
+
 
 Ok it's not exactly about that, but the answer to that question is answered.
 Check out [this

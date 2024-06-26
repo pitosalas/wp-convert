@@ -7,7 +7,7 @@ tags:
     - photography
 ---
 
-**Link: [Ideas that work! Not for me, but some great gift ideas](None):** ""
+
 
 I know my own Christmas/Channukah gifts have already been purchased by Santa.
 So this is not for me, but I saw a bunch of cool ideas on this list, so I

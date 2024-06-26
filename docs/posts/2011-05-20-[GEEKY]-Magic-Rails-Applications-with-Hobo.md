@@ -9,7 +9,7 @@ tags:
     - railscon-tagf
 ---
 
-**Link: [[GEEKY] Magic Rails Applications with Hobo](None):** ""
+
 
 Another tidbit I came across at RailsConf is
 [Hobo](<http://www.hobocentral.net/about/>). I haven't tried it myself but did

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-02-14
 ---
 
-**Link: [[Demo 2005] The Enron Corpus](None):** ""
+
 
 The demos at this year's DEMO are quite good. One interesting thing I noticed
 is that there are

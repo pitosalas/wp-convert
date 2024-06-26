@@ -8,7 +8,7 @@ tags:
     - spreadsheets
 ---
 
-**Link: [88% of spreadsheets have errors — Still!](None):** ""
+
 
 A long long time ago there was a product called [Lotus
 Improv](<http://en.wikipedia.org/wiki/Lotus_Improv>). Our premise was that

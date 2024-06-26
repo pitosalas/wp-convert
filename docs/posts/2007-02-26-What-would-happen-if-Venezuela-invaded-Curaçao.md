@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-02-26
 ---
 
-**Link: [What would happen if Venezuela invaded Curaçao](None):** ""
+
 
 Yeah a weird thought. So when I came across an [analysis called The Dutch
 Defend Their World

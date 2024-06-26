@@ -8,7 +8,7 @@ tags:
     - subscription-tags
 ---
 
-**Link: [Dear Consumer Reports](None):** ""
+
 
 From an email I sent, just because:
 

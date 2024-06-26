@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-05-11
 ---
 
-**Link: [All you never wanted to know about colonoscopies](None):** ""
+
 
 Our friend Dave Weinberger
 [shares](<http://www.hyperorg.com/blogger/mtarchive/colonoscopy_more_than_you_want.html>):

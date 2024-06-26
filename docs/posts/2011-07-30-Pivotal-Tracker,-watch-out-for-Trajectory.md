@@ -8,7 +8,7 @@ tags:
     - stories
 ---
 
-**Link: [Pivotal Tracker, watch out for Trajectory](None):** ""
+
 
 I've been an avid user and recommender of [Pivotal
 Tracker](<https://www.pivotaltracker.com>), an excellent, simple to use, Scrum

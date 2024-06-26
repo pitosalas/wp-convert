@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-07-20
 ---
 
-**Link: [YCombinator startup application form](None):** ""
+
 
 I came across this very cool and simple set of [criteria or rules to apply for
 funding from YCombinator](<http://ycombinator.com/w2008.html>). Not sure how

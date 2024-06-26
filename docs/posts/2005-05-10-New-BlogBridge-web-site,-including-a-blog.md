@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-05-10
 ---
 
-**Link: [New BlogBridge web site, including a blog](None):** ""
+
 
 Good morning sports-fans. We recently [totally revamped the
 BlogBridge](<http://www.blogbridge.com/>) web site. Take a look, and let me

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-04-16
 ---
 
-**Link: [Blogging is “essential” to a good career](None):** ""
+
 
 Boy, blogs sure are **hot** , aren't they? I've been noticing the New York
 Times regularly quoting bloggers as legitimate sources side by side with

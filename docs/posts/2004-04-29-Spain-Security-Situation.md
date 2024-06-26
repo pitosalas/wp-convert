@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-04-29
 ---
 
-**Link: [Spain Security Situation](None):** ""
+
 
 Several people asked me about what the security situation in Spain felt like.
 I have to admit it did give me pause to be going to Spain little more than a

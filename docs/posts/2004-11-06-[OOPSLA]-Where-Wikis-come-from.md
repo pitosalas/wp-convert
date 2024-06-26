@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-11-06
 ---
 
-**Link: [[OOPSLA] Where Wikis come from](None):** ""
+
 
 I was lucky enough to meet and spend some time with [**Ward
 Cunningham**](<http://c2.com/cgi/wiki?WardCunningham>)at [OOPSLA

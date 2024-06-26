@@ -9,7 +9,7 @@ tags:
     - security
 ---
 
-**Link: [Securing or attacking Industrial Control Systems](None):** ""
+
 
 It turns out that Kaspersky Labs is developing a [brand new operating system
 specifically designed to be used in embedded industrial systems and industrial

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-09-05
 ---
 
-**Link: [Insightful (and not positive) article about Barack Obama](None):** ""
+
 
 [Peggy
 Noonan](<http://online.wsj.com/article/SB10001424052970204731804574391153099885242.html>)

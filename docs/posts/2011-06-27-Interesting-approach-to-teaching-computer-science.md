@@ -8,7 +8,7 @@ tags:
     - university
 ---
 
-**Link: [Interesting approach to teaching computer science](None):** ""
+
 
 Fun article about Ben Hescott who has some unique - and **impressive** -
 approaches to teaching an abstract topic:

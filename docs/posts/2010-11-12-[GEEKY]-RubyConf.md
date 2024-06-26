@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2010-11-12
 ---
 
-**Link: [[GEEKY] RubyConf](None):** ""
+
 
 The problem with conferences is knowing what session to go to, right?
 

@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fwww.jqplot.com">
 
-**Link: [jqPlot Charts and Graphs for jQuery](http://www.jqplot.com):** ""
+**Link: [jqPlot Charts and Graphs for jQuery](http://www.jqplot.com):** "" 
 
 

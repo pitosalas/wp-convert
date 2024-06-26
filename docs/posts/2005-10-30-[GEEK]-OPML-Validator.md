@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-10-30
 ---
 
-**Link: [[GEEK] OPML Validator](None):** ""
+
 
 I just came across [Dave Winer's](<http://www.scripting.com/>) new, [beta,
 OPML Validator](<http://www.opml.org/2005/10/28#a85>), which is a welcome

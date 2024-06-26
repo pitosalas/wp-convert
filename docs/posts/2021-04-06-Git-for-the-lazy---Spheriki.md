@@ -11,6 +11,6 @@ tags:
 ---
 <img class="cover" src="">
 
-**Link: [Git for the lazy - Spheriki](http://www.spheredev.org/wiki/Git_for_the_lazy):** ""
+**Link: [Git for the lazy - Spheriki](http://www.spheredev.org/wiki/Git_for_the_lazy):** "" 
 
 

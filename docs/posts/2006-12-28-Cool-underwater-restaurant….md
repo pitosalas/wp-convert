@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-12-28
 ---
 
-**Link: [Cool underwater restaurant…](None):** ""
+
 
 <!-  
 >  body { font-size: 11pt; line-height: normal; font-weight: normal; font-

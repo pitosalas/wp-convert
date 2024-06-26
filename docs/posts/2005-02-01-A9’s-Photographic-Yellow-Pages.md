@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-02-01
 ---
 
-**Link: [A9’s Photographic Yellow Pages](None):** ""
+
 
 [Quite a bit](<http://blogs.linux.ie/xeer/2005/01/27/a9com-yellow-pages-
 copyrighted-buildings/>) [has been

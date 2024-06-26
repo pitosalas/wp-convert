@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-10-26
 ---
 
-**Link: [You have an MP3 and I have an IPod](None):** ""
+
 
 You have an MP3 and I have an IPod. I want to listen to that MP3 while
 driving, walking, or working out. Anything that will facilitate and make it

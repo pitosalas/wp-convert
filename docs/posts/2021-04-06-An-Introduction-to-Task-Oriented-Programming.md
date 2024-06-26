@@ -15,6 +15,6 @@ tags:
 ---
 <img class="cover" src="https://b.thumbs.redditmedia.com/YtHG-5z4IJ-EUK7TMTuBH9YEIVFOJWjCM14V6t-kyXA.jpg">
 
-**Link: [An Introduction to Task-Oriented Programming](https://www.reddit.com/r/technology/comments/eemo94/an_introduction_to_taskoriented_programming):** "Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues."
+**Link: [An Introduction to Task-Oriented Programming](https://www.reddit.com/r/technology/comments/eemo94/an_introduction_to_taskoriented_programming):** "Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues." 
 
 

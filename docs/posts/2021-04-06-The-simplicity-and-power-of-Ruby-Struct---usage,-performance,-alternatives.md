@@ -11,6 +11,6 @@ tags:
 ---
 <img class="cover" src="">
 
-**Link: [The simplicity and power of Ruby Struct - usage, performance, alternatives](http://pdabrowski.com/blog/ruby/ruby-struct):** "Interesting esoteric info about ruby, structs, hashes and more!"
+**Link: [The simplicity and power of Ruby Struct - usage, performance, alternatives](http://pdabrowski.com/blog/ruby/ruby-struct):** "Interesting esoteric info about ruby, structs, hashes and more!" 
 
 

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-08-20
 ---
 
-**Link: [BlogBridge Starz!](None):** ""
+
 
 Finally. Ever since we started working on
 [BlogBridge](<http://www.blogbridge.com>), I've been talking about helping a

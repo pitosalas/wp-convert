@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-04-13
 ---
 
-**Link: [Cool map of undersea cables](None):** ""
+
 
 This is just a really cool map.
 

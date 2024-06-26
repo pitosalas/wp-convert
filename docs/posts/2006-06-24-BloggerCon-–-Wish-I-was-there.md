@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-06-24
 ---
 
-**Link: [BloggerCon – Wish I was there](None):** ""
+
 
 BloggerCon IV is going on right now, in California. This is Dave Winer's
 original '[UnConference](<http://en.wikipedia.org/wiki/Unconference>)'. It's

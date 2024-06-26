@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-10-19
 ---
 
-**Link: [Pop!Tech starts tonight](None):** ""
+
 
 [Pop!Tech](<http://www.poptech.org/>) is my favorite conference, and it starts
 tonight, in Camden Maine. I've been 4 or 5 times and have always thoroughly

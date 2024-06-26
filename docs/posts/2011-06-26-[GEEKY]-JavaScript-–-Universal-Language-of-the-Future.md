@@ -8,7 +8,7 @@ tags:
     - Programming
 ---
 
-**Link: [[GEEKY] JavaScript – Universal Language of the Future](None):** ""
+
 
 JavaScript is the language of the future. Why do I say this?
 

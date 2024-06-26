@@ -10,7 +10,7 @@ tags:
     - women
 ---
 
-**Link: [Provocative article about a sensitive topic](None):** ""
+
 
 [Eric Ries ](<http://www.crunchbase.com/person/eric-ries>)is locally famous as
 being one of the strong promoters of the [Lean

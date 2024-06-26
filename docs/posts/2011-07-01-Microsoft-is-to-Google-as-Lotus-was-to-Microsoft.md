@@ -10,7 +10,7 @@ tags:
     - microsoft
 ---
 
-**Link: [Microsoft is to Google as Lotus was to Microsoft](None):** ""
+
 
 This isn't a huge new insight but it's interesting to see **history kind of
 repeating itself**.

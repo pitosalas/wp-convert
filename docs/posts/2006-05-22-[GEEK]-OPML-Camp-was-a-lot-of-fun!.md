@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-05-22
 ---
 
-**Link: [[GEEK] OPML Camp was a lot of fun!](None):** ""
+
 
 [OPML Camp](<http://www.opmlcamp.com/>) was yesterday and today, so it's over
 now. We had **good attendance** and some really **good discussions** and

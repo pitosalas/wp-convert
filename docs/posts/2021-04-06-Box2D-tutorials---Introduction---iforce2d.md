@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fwww.iforce2d.net%2Fb2dtut">
 
-**Link: [Box2D tutorials - Introduction - iforce2d](http://www.iforce2d.net/b2dtut):** ""
+**Link: [Box2D tutorials - Introduction - iforce2d](http://www.iforce2d.net/b2dtut):** "" 
 
 

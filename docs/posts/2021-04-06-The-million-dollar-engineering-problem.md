@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://segment.com/site-assets/images/og-home.jpg">
 
-**Link: [The million dollar engineering problem](https://segment.com/blog/the-million-dollar-eng-problem):** "The Segment team's latest thinking on all things data, product, marketing, and growth."
+**Link: [The million dollar engineering problem](https://segment.com/blog/the-million-dollar-eng-problem):** "The Segment team's latest thinking on all things data, product, marketing, and growth." 
 
 

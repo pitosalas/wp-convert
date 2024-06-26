@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-09-26
 ---
 
-**Link: [BlogBridge Usability Victims](None):** ""
+
 
 We are **looking for a few people** who would be willing to give verbal
 feedback on BlogBridge usability. I think it would take at most 1/2 hour of

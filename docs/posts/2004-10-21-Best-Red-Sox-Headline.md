@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-10-21
 ---
 
-**Link: [Best Red Sox Headline](None):** ""
+
 
 **Isn 't it sweet! **Did you know you could get a big collection of front
 pages of newspapers at the

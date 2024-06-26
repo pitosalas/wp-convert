@@ -14,6 +14,6 @@ tags:
 ---
 <img class="cover" src="https://avatars0.githubusercontent.com/u/621238?s=460&v=4">
 
-**Link: [Advanced multi-db techniques in Rails 6](https://prathamesh.tech/2019/08/13/rails-6-multi-database-part-two):** "Great new features in rails 6 — support of multi database models"
+**Link: [Advanced multi-db techniques in Rails 6](https://prathamesh.tech/2019/08/13/rails-6-multi-database-part-two):** "Great new features in rails 6 — support of multi database models" 
 
 

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2010-06-13
 ---
 
-**Link: [Hubris, Technology and a Whale](None):** ""
+
 
 A couple of New York Times articles today that point out (what others have
 pointed out too) that the roots of the disaster in the Gulf have a lot in

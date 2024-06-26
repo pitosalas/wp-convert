@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-03-08
 ---
 
-**Link: [Flipstart from Vulcan (Demo 2004](None):** ""
+
 
 **[Flipstart](<http://www.flipstartpc.com/>) from Vulcan (Demo 2004 Series -
 9): **This is a **weird little** device. It's essentially a Windows XP

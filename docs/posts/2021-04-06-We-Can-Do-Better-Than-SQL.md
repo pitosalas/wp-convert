@@ -11,6 +11,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fedgedb.com%2Fblog%2Fwe-can-do-better-than-sql">
 
-**Link: [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql):** "Interesting account of all the ways that SQL sucks and of course a proposed fix!"
+**Link: [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql):** "Interesting account of all the ways that SQL sucks and of course a proposed fix!" 
 
 

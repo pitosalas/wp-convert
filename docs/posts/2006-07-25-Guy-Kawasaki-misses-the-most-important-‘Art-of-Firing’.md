@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-07-25
 ---
 
-**Link: [Guy Kawasaki misses the most important ‘Art of Firing’](None):** ""
+
 
 [http://rcm.amazon.com/e/cm?t=blogbridge-20&o=1&p=8&l=as1&asins=1591840562&IS1=1&nou=1&fc1=000000&lt1=_blank&lc1=0000ff&bc1=ffffff&bg1=ffffff&f=ifr](<http://rcm.amazon.com/e/cm?t=blogbridge-20&o=1&p=8&l=as1&asins=1591840562&IS1=1&nou=1&fc1=000000&lt1=_blank&lc1=0000ff&bc1=ffffff&bg1=ffffff&f=ifr>)Guy
 is one of my heroes and [his blog is one of my

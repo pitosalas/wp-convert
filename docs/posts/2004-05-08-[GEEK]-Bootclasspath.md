@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-05-08
 ---
 
-**Link: [[GEEK] Bootclasspath](None):** ""
+
 
 In order to debug a hairy problem, I need to step into some Java system  
 > classes (hashmap.java) HashMap.class is to be found in rt.jar, part of the  

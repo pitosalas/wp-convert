@@ -14,6 +14,6 @@ tags:
 ---
 <img class="cover" src="https://miro.medium.com/max/1200/0*qakJ08-RFUuvGqfR.">
 
-**Link: [Event Sourcing made Simple – Kickstarter Engineering](https://kickstarter.engineering/event-sourcing-made-simple-4a2625113224):** "tl;dr: Event Sourcing is to data what Git is to code. We’ve implemented a minimal event sourcing framework at Kickstarter to power d.rip…"
+**Link: [Event Sourcing made Simple – Kickstarter Engineering](https://kickstarter.engineering/event-sourcing-made-simple-4a2625113224):** "tl;dr: Event Sourcing is to data what Git is to code. We’ve implemented a minimal event sourcing framework at Kickstarter to power d.rip…" 
 
 

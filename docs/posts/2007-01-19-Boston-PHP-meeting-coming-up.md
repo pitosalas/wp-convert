@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-01-19
 ---
 
-**Link: [Boston PHP meeting coming up](None):** ""
+
 
 A quick reminder of the upcoming BostonPHP meeting: [BostonPHP will host a
 panel](<//www.bostonphp.org/component/option,com_gigcal/task,details/gigcal_gigs_id,24/>)

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-02-01
 ---
 
-**Link: [BlogBridge T-shirts](None):** ""
+
 
 This may be a first! [Get your cool BlogBridge t-shirts
 here!](<http://www.cafepress.com/blogbridge>)

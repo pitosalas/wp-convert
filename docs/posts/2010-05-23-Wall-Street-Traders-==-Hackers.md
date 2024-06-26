@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2010-05-23
 ---
 
-**Link: [Wall Street Traders == Hackers](None):** ""
+
 
 [Mark Cuban comes up with a very plausible
 analogy:](<http://www.businessinsider.com/what-business-is-wall-street-

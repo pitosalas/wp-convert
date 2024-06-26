@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-12-22
 ---
 
-**Link: [Blog tag, I’m it](None):** ""
+
 
 I've been [tagged in the new fangled blog tag
 game](<http://libraryclips.blogsome.com/2006/12/21/blog-tag-5-things-about-

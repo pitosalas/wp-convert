@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-03-10
 ---
 
-**Link: [Once more confirming my cynicism](None):** ""
+
 
 Sorry, but for some reason it seems that the
 [cynics](<http://en.wikipedia.org/wiki/Cynicism>) win out once more:

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-07-08
 ---
 
-**Link: [Pandora is saved!](None):** ""
+
 
 [Pandora is one of my favorite music sites](</2009/02/01/subscribe-to-
 pandora/>). It's a quick way to get an infinite play list built around a song

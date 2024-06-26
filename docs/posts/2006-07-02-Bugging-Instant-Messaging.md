@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-07-02
 ---
 
-**Link: [Bugging Instant Messaging](None):** ""
+
 
 I just walked by a room full of people working on computers during a [break
 between presentations ](<http://www.gnomedex.com/>)and over in a corner I saw

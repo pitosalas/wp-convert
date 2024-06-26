@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2010-09-29
 ---
 
-**Link: [Advice for New Graduate Students](None):** ""
+
 
 If you know anyone in graduate school (oops, or if you are in graduate school
 yourself, or planning to go to one), this is interesting reading: [Advice for

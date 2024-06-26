@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-10-04
 ---
 
-**Link: [Scoble’s conundrum](None):** ""
+
 
 His conundrum is that he loves both Web services (browser based applications)
 and Windows applications and can't seem to pick a one-size-fits-all

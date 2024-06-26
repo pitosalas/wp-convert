@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-04-01
 ---
 
-**Link: [“We make it up in volume”](None):** ""
+
 
 There's a new **[meme
 floating](<http://avc.blogs.com/a_vc/2006/03/my_favorite_bus.html>)** around,

@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fwikis.olin.edu%2Fit%2Fdoku.php">
 
-**Link: [Olin IT Wiki](http://wikis.olin.edu/it/doku.php):** ""
+**Link: [Olin IT Wiki](http://wikis.olin.edu/it/doku.php):** "" 
 
 

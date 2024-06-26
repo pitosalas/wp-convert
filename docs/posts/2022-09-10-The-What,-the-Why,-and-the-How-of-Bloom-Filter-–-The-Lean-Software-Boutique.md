@@ -9,7 +9,7 @@ tags:
     - set
 ---
 
-**Link: [The What, the Why, and the How of Bloom Filter – The Lean Software Boutique](None):** ""
+
 
 [ The What, the Why, and the How of Bloom Filter - The Lean Software
 Boutique](< https://www.ombulabs.com/blog/systemdesign/ruby/bloom-filter-and-

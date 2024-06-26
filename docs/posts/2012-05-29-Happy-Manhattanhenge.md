@@ -7,7 +7,7 @@ tags:
     - nyc
 ---
 
-**Link: [Happy Manhattanhenge](None):** ""
+
 
 ![ManhattanSunset Small](//pending/E6BF01EC-1313-4179-B16B-505AC16EB3D7/)Today
 (May 29) is Manhattenhenge. One of two days every year when sunrise and sunset

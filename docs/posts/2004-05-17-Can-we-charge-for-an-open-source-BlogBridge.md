@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-05-17
 ---
 
-**Link: [Can we charge for an open source BlogBridge](None):** ""
+
 
 As you know we are developing [BlogBridge](<http://www.blogbridge.com>), "a
 new kind of blog reader." As you may know, BlogBridge is [open source

@@ -10,7 +10,7 @@ tags:
     - politics
 ---
 
-**Link: [Family Values](None):** ""
+
 
 [youtube http://www.youtube.com/watch?v=FSQQK2Vuf9Q&w=560&h=315]
 

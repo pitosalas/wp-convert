@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://cdn.theatlantic.com/static/theatlantic/img/lacroix-default-thumbnail.png">
 
-**Link: [Pygmy Patriotism](https://www.theatlantic.com/magazine/archive/1969/11/pygmy-patriotism/659281/):** "None"
+**Link: [Pygmy Patriotism](https://www.theatlantic.com/magazine/archive/1969/11/pygmy-patriotism/659281/):** "None" 
 
 More interesting history about Oppenheimer and the bomb

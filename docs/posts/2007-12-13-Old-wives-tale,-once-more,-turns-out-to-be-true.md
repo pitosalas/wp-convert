@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-12-13
 ---
 
-**Link: [Old wives tale, once more, turns out to be true](None):** ""
+
 
 Have you had this debate? Does cold weather cause people to catch colds more
 easily or not? Well here's an interesting article that says there is

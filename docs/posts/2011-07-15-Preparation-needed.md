@@ -10,7 +10,7 @@ tags:
     - students
 ---
 
-**Link: [Preparation needed](None):** ""
+
 
 I've been thinking a lot lately about what kind of preparation college
 students need as they graduate to pursue their futures. Thomas Friedman writes

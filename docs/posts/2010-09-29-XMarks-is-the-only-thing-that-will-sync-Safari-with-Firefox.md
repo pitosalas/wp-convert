@@ -10,7 +10,7 @@ tags:
     - xmarks
 ---
 
-**Link: [XMarks is the only thing that will sync Safari with Firefox](None):** ""
+
 
 And, it's leaving us:
 

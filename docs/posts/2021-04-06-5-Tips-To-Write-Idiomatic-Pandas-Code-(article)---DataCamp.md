@@ -8,6 +8,6 @@ date: 2021-04-06
 ---
 <img class="cover" src="">
 
-**Link: [5 Tips To Write Idiomatic Pandas Code (article) - DataCamp](https://www.datacamp.com/community/tutorials/pandas-idiomatic):** ""
+**Link: [5 Tips To Write Idiomatic Pandas Code (article) - DataCamp](https://www.datacamp.com/community/tutorials/pandas-idiomatic):** "" 
 
 

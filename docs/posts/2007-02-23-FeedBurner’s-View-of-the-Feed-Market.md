@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-02-23
 ---
 
-**Link: [FeedBurner’s View of the Feed Market](None):** ""
+
 
 If you are a blogger then you probably keep an eye out on the 'circulation' of
 your blog. It's a black art full of subjetivity and highly detailed technical

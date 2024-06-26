@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-06-17
 ---
 
-**Link: [Distributed network of service providers](None):** ""
+
 
 Not computer service providers, but folks like carpenters and plumbers…. I
 came across [ServiceMagic](<http://www.servicemagic.com/>), which is a pretty

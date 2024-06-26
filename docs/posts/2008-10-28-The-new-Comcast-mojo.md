@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-10-28
 ---
 
-**Link: [The new Comcast mojo](None):** ""
+
 
 I am  not sure I am reading this right, but it looks like Comcast is giving my
 home internet connection a nice speed boost!

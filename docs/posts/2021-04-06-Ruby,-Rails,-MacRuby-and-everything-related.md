@@ -8,6 +8,6 @@ date: 2021-04-06
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fmerbist.com">
 
-**Link: [Ruby, Rails, MacRuby and everything related](http://merbist.com):** ""
+**Link: [Ruby, Rails, MacRuby and everything related](http://merbist.com):** "" 
 
 

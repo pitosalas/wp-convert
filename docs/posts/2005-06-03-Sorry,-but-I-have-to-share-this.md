@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-06-03
 ---
 
-**Link: [Sorry, but I have to share this](None):** ""
+
 
 What system is this from?
 ![Funnyinstructions-1](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/funnyinstructions.jpg?resize=314%2C104)

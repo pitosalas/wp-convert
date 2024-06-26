@@ -9,7 +9,7 @@ tags:
     - nand
 ---
 
-**Link: [NandGame – Build a computer from scratch.](None):** ""
+
 
 [ NandGame - Build a computer from scratch.](< https://nandgame.com>) –An
 educational puzzle game. Solve a series of tasks where you build increasingly

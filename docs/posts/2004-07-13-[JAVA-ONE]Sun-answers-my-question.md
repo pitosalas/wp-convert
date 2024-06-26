@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-07-13
 ---
 
-**Link: [[JAVA ONE]Sun answers my question](None):** ""
+
 
 In [several ](</weblogs/archives/000449.html>)previous [posts
 ](</weblogs/archives/000446.html>)I've wondered aloud: "I can see that Sun

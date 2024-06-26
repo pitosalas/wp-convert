@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-07-15
 ---
 
-**Link: [Blogging 101 article in NYT](None):** ""
+
 
 [Scripting News:
 7/15/2005](<http://archive.scripting.com/2005/07/15#When:9:36:10AM>): Dave

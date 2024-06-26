@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://www.jimdo.comundefined/">
 
-**Link: [Pricing - Jimdo](http://www.jimdo.com/pricing):** "See what's possible with some fantastic website examples built with Jimdo for all types of people & businesses, and start you own today!"
+**Link: [Pricing - Jimdo](http://www.jimdo.com/pricing):** "See what's possible with some fantastic website examples built with Jimdo for all types of people & businesses, and start you own today!" 
 
 

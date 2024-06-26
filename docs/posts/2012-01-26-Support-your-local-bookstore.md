@@ -8,7 +8,7 @@ tags:
     - independent
 ---
 
-**Link: [Support your local bookstore](None):** ""
+
 
 I have a **warm spot** in my heart for independent bookstores, as such a store
 **paid for my college education.** My family business was a bookstore. It is

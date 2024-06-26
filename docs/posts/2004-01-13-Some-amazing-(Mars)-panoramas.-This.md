@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-01-13
 ---
 
-**Link: [Some amazing (Mars) panoramas. This](None):** ""
+
 
 **[Some amazing (Mars)
 panoramas](<http://www.panoramas.dk/fullscreen3/f2_mars.html>). **This is via

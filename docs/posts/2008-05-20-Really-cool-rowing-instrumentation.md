@@ -6,7 +6,7 @@ tags:
     - rowing-metrics
 ---
 
-**Link: [Really cool rowing instrumentation](None):** ""
+
 
 If there are any rowing fanatics out there, or competitive rowing coaches,
 [take a look at this cool in-

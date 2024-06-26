@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-02-20
 ---
 
-**Link: [[GEEKY] Solution to something that has annoyed me](None):** ""
+
 
 Check out the "[article: Getting "Open With" back under
 control](<http://blog.pastie.org/2009/01/getting-open-with-back-under-

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-11-15
 ---
 
-**Link: [On the importance of confidence in voting systems](None):** ""
+
 
 I was following a series of articles about the Brazilian e-voting system,
 which apparently underwent a white-hat hack test and survived. It started with

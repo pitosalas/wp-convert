@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-12-14
 ---
 
-**Link: [How Seinfeld as shaped popular culture](None):** ""
+
 
 In this morning's Blog reading, I saw two references to Seinfeld episodes, in
 each case the reference was just thrown into a headline without further

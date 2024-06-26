@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2010-06-26
 ---
 
-**Link: [[POLITICS] McChrystal self-sabotage](None):** ""
+
 
 You can't have missed the [whole General Stanley McChrystal
 affair,](<http://www.washingtonpost.com/wp-

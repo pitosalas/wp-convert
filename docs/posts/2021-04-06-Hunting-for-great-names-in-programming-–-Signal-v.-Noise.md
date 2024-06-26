@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://i1.wp.com/m.signalvnoise.com/wp-content/uploads/2019/01/cropped-svn-icon.gif?fit=240%2C240&ssl=1">
 
-**Link: [Hunting for great names in programming – Signal v. Noise](https://m.signalvnoise.com/hunting-for-great-names-in-programming-16f624c8fc03#.z0fqch6iu):** "One of the real delights of programming is picking great variable, method, and class names. But an even greater treat is when you can name pairs, or even whole narratives, that fit just right. And …"
+**Link: [Hunting for great names in programming – Signal v. Noise](https://m.signalvnoise.com/hunting-for-great-names-in-programming-16f624c8fc03#.z0fqch6iu):** "One of the real delights of programming is picking great variable, method, and class names. But an even greater treat is when you can name pairs, or even whole narratives, that fit just right. And …" 
 
 

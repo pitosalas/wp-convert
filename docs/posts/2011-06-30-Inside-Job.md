@@ -9,7 +9,7 @@ tags:
     - wallstreet
 ---
 
-**Link: [Inside Job](None):** ""
+
 
 It's hard to comprehend people who feel that it is reasonable (let alone
 ethical, let alone bankers) to get paid on the order of $50 MILLION a year.

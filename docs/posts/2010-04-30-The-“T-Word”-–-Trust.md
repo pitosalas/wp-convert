@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2010-04-30
 ---
 
-**Link: [The “T Word” – Trust](None):** ""
+
 
 I am not sure exactly what this [article about
 Trust](<http://www.cringely.com/2010/04/the-t-word/>) means exactly, but it's

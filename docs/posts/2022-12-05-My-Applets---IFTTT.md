@@ -11,6 +11,6 @@ tags:
 ---
 <img class="cover" src="https://web-assets.ifttt.com/packs/media/shared/ifttt-banner-517eb7015c41a6670370.png">
 
-**Link: [My Applets - IFTTT](https://ifttt.com/my_applets):** "Manage your IFTTT Applets."
+**Link: [My Applets - IFTTT](https://ifttt.com/my_applets):** "Manage your IFTTT Applets." 
 
 

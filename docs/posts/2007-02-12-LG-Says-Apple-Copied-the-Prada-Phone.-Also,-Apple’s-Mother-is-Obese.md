@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-02-12
 ---
 
-**Link: [LG Says Apple Copied the Prada Phone. Also, Apple’s Mother is Obese](None):** ""
+
 
 Actually the funniest part of this was the headline… **" Also, Apple's Mother
 is Obese"**

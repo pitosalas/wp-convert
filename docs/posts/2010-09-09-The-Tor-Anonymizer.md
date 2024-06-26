@@ -14,7 +14,7 @@ tags:
     - tor
 ---
 
-**Link: [The Tor Anonymizer](None):** ""
+
 
 Have you heard of this thing, the Tor Anonymizer? Ok again admittedly another
 highly geeky system, but pretty fascinating. Makes you think that the

@@ -9,7 +9,7 @@ tags:
     - software
 ---
 
-**Link: [Software Developer Meat Market](None):** ""
+
 
 An interesting article in Forbes about Software Developers and Development in
 general, [The Rise of

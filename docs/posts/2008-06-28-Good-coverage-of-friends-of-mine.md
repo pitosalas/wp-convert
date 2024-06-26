@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-06-28
 ---
 
-**Link: [Good coverage of friends of mine](None):** ""
+
 
 Recently three friends of mine got nice press coverage, so I thought I'd share
 them:

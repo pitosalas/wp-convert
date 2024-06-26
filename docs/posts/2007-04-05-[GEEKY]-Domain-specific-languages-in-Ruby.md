@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-04-05
 ---
 
-**Link: [[GEEKY] Domain specific languages in Ruby](None):** ""
+
 
 This is a topic that I've gotten somewhat interested in. If you search for
 Ruby Domain Specific Languages in google, you will find a ton of hits. Here

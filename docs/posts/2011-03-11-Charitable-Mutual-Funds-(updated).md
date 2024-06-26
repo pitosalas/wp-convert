@@ -8,7 +8,7 @@ tags:
     - guidestar
 ---
 
-**Link: [Charitable Mutual Funds (updated)](None):** ""
+
 
 [**Note** : don't assume you know what a Charitable Mutual Fund is. It's an
 evocative but really misleading name but I don't have a better handle for it

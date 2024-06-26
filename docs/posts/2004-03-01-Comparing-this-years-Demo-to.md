@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-03-01
 ---
 
-**Link: [Comparing this years Demo to](None):** ""
+
 
 **Comparing this years Demo to previous years (Demo 2004 Series - 7A)  **As
 I've been writing these little Demo reports from my notes, I realized  that as

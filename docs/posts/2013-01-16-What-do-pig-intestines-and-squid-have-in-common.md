@@ -11,7 +11,7 @@ tags:
     - this-american-life
 ---
 
-**Link: [What do pig intestines and squid have in common](None):** ""
+
 
 This is just funny. Ok it's also a little scary as I love Calamari!
 

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-01-31
 ---
 
-**Link: [[GEEKY] Check out WebGen](None):** ""
+
 
 Sites that have to support a huge amount of traffic tend to want to be static
 html. No matter how fast PHP or perl is, in the end, static pages win. So

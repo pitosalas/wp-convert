@@ -6,7 +6,7 @@ tags:
     - xcon-tagomy-bands-music-boston-tag
 ---
 
-**Link: [XConomy’s Battle of the bands](None):** ""
+
 
 As a favor I am posting this notice about an [event that looks like it might
 be fun:](<http://www.xconomy.com/boston/2008/11/05/battle-of-the-tech-

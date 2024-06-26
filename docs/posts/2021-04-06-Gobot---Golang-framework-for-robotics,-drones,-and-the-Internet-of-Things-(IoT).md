@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fgobot.io">
 
-**Link: [Gobot - Golang framework for robotics, drones, and the Internet of Things (IoT)](https://gobot.io):** "Gobot is a framework for robotics, drones, and the Internet of Things (IoT), written in the Go programming language."
+**Link: [Gobot - Golang framework for robotics, drones, and the Internet of Things (IoT)](https://gobot.io):** "Gobot is a framework for robotics, drones, and the Internet of Things (IoT), written in the Go programming language." 
 
 

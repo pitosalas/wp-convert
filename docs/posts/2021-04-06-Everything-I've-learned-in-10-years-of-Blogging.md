@@ -11,6 +11,6 @@ tags:
 ---
 <img class="cover" src="https://ferrucc.io/starting-a-blog/secrets.png">
 
-**Link: [Everything I've learned in 10 years of Blogging](https://ferrucc.io/posts/starting-a-blog?mc_cid=7c5ca3f9cd&mc_eid=694db8ca58):** "I don’t do this myself but maybe you will find it useful"
+**Link: [Everything I've learned in 10 years of Blogging](https://ferrucc.io/posts/starting-a-blog?mc_cid=7c5ca3f9cd&mc_eid=694db8ca58):** "I don’t do this myself but maybe you will find it useful" 
 
 

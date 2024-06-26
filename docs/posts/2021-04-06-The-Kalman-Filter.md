@@ -14,6 +14,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fwww.cs.unc.edu%2F~welch%2Fkalman">
 
-**Link: [The Kalman Filter](http://www.cs.unc.edu/~welch/kalman):** "Major resource page for the Kalman Filter"
+**Link: [The Kalman Filter](http://www.cs.unc.edu/~welch/kalman):** "Major resource page for the Kalman Filter" 
 
 

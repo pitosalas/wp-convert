@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-11-08
 ---
 
-**Link: [Learning about Open Source](None):** ""
+
 
 ![Moldave](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/images/moldave.jpg?resize=74%2C114)[Peter
 Moldave](<http://opensourcelegal.org/>), a friend of mine who has helped me

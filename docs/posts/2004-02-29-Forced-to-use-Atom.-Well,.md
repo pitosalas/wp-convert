@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-02-29
 ---
 
-**Link: [Forced to use Atom. Well,](None):** ""
+
 
 **Forced to use Atom.** Well, it's happening… My friend [Paul
 English](<http://www.paulenglish.com/>) has been using Blogger for the longest

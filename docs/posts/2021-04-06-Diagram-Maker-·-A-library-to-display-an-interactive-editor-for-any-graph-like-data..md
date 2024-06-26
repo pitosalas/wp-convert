@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fawslabs.github.io%2Fdiagram-maker">
 
-**Link: [Diagram Maker · A library to display an interactive editor for any graph-like data.](https://awslabs.github.io/diagram-maker):** "Looks like a useful addition to the various diagram makers."
+**Link: [Diagram Maker · A library to display an interactive editor for any graph-like data.](https://awslabs.github.io/diagram-maker):** "Looks like a useful addition to the various diagram makers." 
 
 

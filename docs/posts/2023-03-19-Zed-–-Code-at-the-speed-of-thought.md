@@ -9,7 +9,7 @@ tags:
     - vscode
 ---
 
-**Link: [Zed – Code at the speed of thought](None):** ""
+
 
 [ Zed - Code at the speed of thought](< https://zed.dev/>) –Just to prove that
 theres never the last word on anything, especially programmers editors. I

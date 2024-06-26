@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://miro.medium.com/max/600/0*7asj1rKS8d2mead_.png">
 
-**Link: [what’s new in ruby 2.7](https://link.medium.com/OdICjvPgc2):** "Some fun new features in ruby, some immediately useful, others controversial!"
+**Link: [what’s new in ruby 2.7](https://link.medium.com/OdICjvPgc2):** "Some fun new features in ruby, some immediately useful, others controversial!" 
 
 

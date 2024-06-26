@@ -6,7 +6,7 @@ tags:
     - windows
 ---
 
-**Link: [Introduction – Docs – Foxglove Studio](None):** ""
+
 
 [ Introduction - Docs - Foxglove Studio](<https://foxglove.dev/docs/studio>)
 

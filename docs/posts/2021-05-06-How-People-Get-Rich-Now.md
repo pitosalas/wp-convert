@@ -14,6 +14,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fpaulgraham.com%2Frichnow.html">
 
-**Link: [How People Get Rich Now](http://paulgraham.com/richnow.html):** "Every year since 1982, Forbes magazine has published a list of the richest Americans. If we compare the 100 richest people in 1982 to the 100 richest in 2020, we notice some big differences!"
+**Link: [How People Get Rich Now](http://paulgraham.com/richnow.html):** "Every year since 1982, Forbes magazine has published a list of the richest Americans. If we compare the 100 richest people in 1982 to the 100 richest in 2020, we notice some big differences!" 
 
 

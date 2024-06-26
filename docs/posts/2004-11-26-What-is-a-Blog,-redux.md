@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-11-26
 ---
 
-**Link: [What is a Blog, redux](None):** ""
+
 
 I just [came across a good
 summary](<http://www.portalsmag.com/articles/default.asp?ArticleID=6159>) on

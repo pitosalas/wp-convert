@@ -10,7 +10,7 @@ tags:
     - music
 ---
 
-**Link: [Designing a game soundtrack – kind of like we first got to pick the fonts in our documents](None):** ""
+
 
 Can you compose crappy music? I had a field day today 'designing' a bit of
 music for my "Game Of Life" Android game. In the old old days, when computers

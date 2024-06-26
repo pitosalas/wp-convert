@@ -28,6 +28,6 @@ CREDITS:
 © Video Arts Limited (1976)
 Director: Peter Robinson
 Writers: John Cleese, Antony Jay
-Stars: John Cleese, Robert Hardy, Timothy West"
+Stars: John Cleese, Robert Hardy, Timothy West" 
 
 

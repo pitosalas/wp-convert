@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="">
 
-**Link: [Cal (Brandeis Google)](https://calendar.google.com/calendar/b/1/render#main_7):** ""
+**Link: [Cal (Brandeis Google)](https://calendar.google.com/calendar/b/1/render#main_7):** "" 
 
 

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-10-09
 ---
 
-**Link: [I am convinced by this](None):** ""
+
 
 Sergey Brin of Google has an op-ed in today's [New York
 Times](<http://www.nytimes.com/2009/10/09/opinion/09brin.html?_r=1&partner=rss&emc=rss>),

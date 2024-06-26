@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-08-09
 ---
 
-**Link: [More on the Electric Car](None):** ""
+
 
 After an [interesting comment](</2008/08/06/who-killed-the-electric-car-and-
 why-wikipedia-is-great/#comment-41711>) on [my previous post on Electric Cars

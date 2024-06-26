@@ -10,7 +10,7 @@ tags:
     - smoker
 ---
 
-**Link: [Camp Chef Smoke Vault 24″ Review](None):** ""
+
 
 [ Camp Chef Smoke Vault 24″ Review](< https://amazingribs.com/smoker/camp-
 chef-smoke-vault-24-review/>) –Many gas smokers have limited temperature range

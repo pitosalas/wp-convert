@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-08-19
 ---
 
-**Link: [[GEEK] More tips for the 40 year old virgin](None):** ""
+
 
 Here's something **funny** I came across: "Sex Tips for Geeks: How to be Sexy"
 where we learn such gems as:

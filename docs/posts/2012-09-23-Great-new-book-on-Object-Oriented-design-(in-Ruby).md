@@ -8,7 +8,7 @@ tags:
     - ruby
 ---
 
-**Link: [Great new book on Object Oriented design (in Ruby)](None):** ""
+
 
 I first came across Sandy Metz in this video:
 

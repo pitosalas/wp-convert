@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-04-30
 ---
 
-**Link: [Thoughts about software licensing](None):** ""
+
 
 [Dan Bricklin's written a bit on a topic that's been indirectly on my mind
 lately](<http://www.bricklin.com/licensingthinking.htm>). It has to do with

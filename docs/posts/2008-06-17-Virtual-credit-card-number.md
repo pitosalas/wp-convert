@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-06-17
 ---
 
-**Link: [Virtual credit card number](None):** ""
+
 
 My Citibank MasterCard allows me to generate a virtual credit card number,
 pretty simply, using a fairly ugly web interface. But a few clicks and you get

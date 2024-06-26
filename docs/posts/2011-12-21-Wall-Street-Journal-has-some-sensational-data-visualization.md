@@ -10,7 +10,7 @@ tags:
     - wsj
 ---
 
-**Link: [Wall Street Journal has some sensational data visualization](None):** ""
+
 
 I don't know if you need [an account to see the amazingly useful, elegant and
 well implemented bit of data visualization in the Wall Street

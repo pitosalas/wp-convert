@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://switowski.com/assets/img/card-post_2020-01-09-mac-tools.jpg">
 
-**Link: [My Favorite Macbook Tools](https://switowski.com/blog/favorite-mac-tools):** "These lists come and go all the time. I learned a couple of new ones so chance it out!"
+**Link: [My Favorite Macbook Tools](https://switowski.com/blog/favorite-mac-tools):** "These lists come and go all the time. I learned a couple of new ones so chance it out!" 
 
 

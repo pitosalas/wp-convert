@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-12-07
 ---
 
-**Link: [Long tail UI Widget](None):** ""
+
 
 ![Picture
 8-2](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/images/Picture%25208-2.png?resize=302%2C137)

@@ -14,6 +14,6 @@ tags:
 ---
 <img class="cover" src="https://miro.medium.com/max/797/1*sq1oigRgSKIkZ5N3fNbKMA.png">
 
-**Link: [Deploying Flask App with WSGI and Apache Server on Ubuntu 20.04](https://asdkazmi.medium.com/deploying-flask-app-with-wsgi-and-apache-server-on-ubuntu-20-04-396607e0e40f):** "Description"
+**Link: [Deploying Flask App with WSGI and Apache Server on Ubuntu 20.04](https://asdkazmi.medium.com/deploying-flask-app-with-wsgi-and-apache-server-on-ubuntu-20-04-396607e0e40f):** "Description" 
 
 

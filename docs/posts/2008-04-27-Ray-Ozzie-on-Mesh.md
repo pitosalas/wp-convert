@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-04-27
 ---
 
-**Link: [Ray Ozzie on Mesh](None):** ""
+
 
 You might have missed the announcement of Microsoft Mesh. Cycnical me: these
 grand strategies come and go. I believe this is the second or perhaps third

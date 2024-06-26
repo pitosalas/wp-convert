@@ -10,7 +10,7 @@ tags:
     - statistics
 ---
 
-**Link: [Number crunching smartphone app success](None):** ""
+
 
 Here's my five-step plan for world domination:
 

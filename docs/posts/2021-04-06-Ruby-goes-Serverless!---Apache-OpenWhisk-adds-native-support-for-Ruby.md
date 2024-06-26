@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fmedium.com%2Fopenwhisk%2Fruby-goes-serverless-apache-openwhisk-adds-native-support-for-ruby-7134faee14e">
 
-**Link: [Ruby goes Serverless! - Apache OpenWhisk adds native support for Ruby](https://medium.com/openwhisk/ruby-goes-serverless-apache-openwhisk-adds-native-support-for-ruby-7134faee14e):** "Title says it all."
+**Link: [Ruby goes Serverless! - Apache OpenWhisk adds native support for Ruby](https://medium.com/openwhisk/ruby-goes-serverless-apache-openwhisk-adds-native-support-for-ruby-7134faee14e):** "Title says it all." 
 
 

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-08-11
 ---
 
-**Link: [Check out Findory](None):** ""
+
 
 I was talking about search engines [the other
 day](</weblogs/archives/000805.html>). I guess Findory includes a search

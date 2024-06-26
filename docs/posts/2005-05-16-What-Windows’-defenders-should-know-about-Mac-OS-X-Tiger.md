@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-05-16
 ---
 
-**Link: [What Windows’ defenders should know about Mac OS X Tiger](None):** ""
+
 
 I often hear folks beat up Microsoft Windows for being a breeding ground for
 viruses, spyware, and all sorts of malware. Bad Microsoft for being so sloppy!

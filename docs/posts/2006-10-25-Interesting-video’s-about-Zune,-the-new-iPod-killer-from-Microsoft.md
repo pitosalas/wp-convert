@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-10-25
 ---
 
-**Link: [Interesting video’s about Zune, the new iPod killer from Microsoft](None):** ""
+
 
 Scoble [writes about the
 Zune](<http://scobleizer.wordpress.com/2006/10/24/microsoft-zune-in-depth/>).

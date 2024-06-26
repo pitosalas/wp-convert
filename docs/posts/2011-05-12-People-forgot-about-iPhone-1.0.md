@@ -7,7 +7,7 @@ tags:
     - iphon-tage
 ---
 
-**Link: [People forgot about iPhone 1.0](None):** ""
+
 
 Funny to read this:
 

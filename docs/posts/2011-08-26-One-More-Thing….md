@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2011-08-26
 ---
 
-**Link: [One More Thing…](None):** ""
+
 
 Check this post [One More
 Thing…](<http://feedproxy.google.com/~r/Techcrunch/~3/ag8UJf5_HY4/>) from

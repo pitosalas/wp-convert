@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-02-14
 ---
 
-**Link: [New BlogBridge Web Site and other changes](None):** ""
+
 
 Happy Valentines Day. As you can see, there is a new web site design. This one
 was created by a designer in China. I just thought I wanted something a little

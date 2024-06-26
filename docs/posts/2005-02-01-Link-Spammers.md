@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-02-01
 ---
 
-**Link: [Link Spammers](None):** ""
+
 
 I used to have comments enabled on this blog until I got overrun by link spam.
 With comments my readers could post responses to my Blog musings. I've since

@@ -14,6 +14,6 @@ tags:
 ---
 <img class="cover" src="https://res.cloudinary.com/practicaldev/image/fetch/s--oB9b7JTI--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/ykjxdtadmyysn1vh62pw.png">
 
-**Link: [The Ultimate Guide to MERN Stack - DEV Community](https://dev.to/itsnitinr/the-ultimate-guide-to-mern-stack-1051):** "Is the MERN stack really the future of web applications? Is it used for real products or just toys?"
+**Link: [The Ultimate Guide to MERN Stack - DEV Community](https://dev.to/itsnitinr/the-ultimate-guide-to-mern-stack-1051):** "Is the MERN stack really the future of web applications? Is it used for real products or just toys?" 
 
 

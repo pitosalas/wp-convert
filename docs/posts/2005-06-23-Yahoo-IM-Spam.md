@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-06-23
 ---
 
-**Link: [Yahoo IM Spam](None):** ""
+
 
 I have IM accounts on Yahoo, AOL and MSN. Actually I use the AOL by far the
 most, but I have an occasional correspondent on Yahoo and MSN. By the way, on

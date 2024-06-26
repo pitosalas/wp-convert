@@ -9,7 +9,7 @@ tags:
     - techno-taglogy
 ---
 
-**Link: [Groupon success catastrophe](None):** ""
+
 
 I bought a Groupon for a local restaurant. About 1 week before it expired I
 went to make a dinner reservation and it turned out that they were booked up

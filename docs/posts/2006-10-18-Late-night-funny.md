@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-10-18
 ---
 
-**Link: [Late night funny](None):** ""
+
 
 Ok so I am getting ready to wrap up and came [across this fun tool
 ](<http://www.churchsigngenerator.com/>)for your enjoyment..

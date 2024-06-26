@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-03-12
 ---
 
-**Link: [BlogBridge update. In the last](None):** ""
+
 
 **[BlogBridge](<http://www.blogbridge.com>)update. **In the last few days I've
 made some reasonable progress on BlogBridge, both from my own personal efforts

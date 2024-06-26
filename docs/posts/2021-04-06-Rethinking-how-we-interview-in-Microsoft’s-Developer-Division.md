@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://miro.medium.com/max/1200/1*okG1H4H0_PMkZ_9f9r9A7Q.jpeg">
 
-**Link: [Rethinking how we interview in Microsoft’s Developer Division](https://blog.usejournal.com/rethinking-how-we-interview-in-microsofts-developer-division-8f404cfd075a):** "Interesting about how Microsoft interviews and how they updated their process."
+**Link: [Rethinking how we interview in Microsoft’s Developer Division](https://blog.usejournal.com/rethinking-how-we-interview-in-microsofts-developer-division-8f404cfd075a):** "Interesting about how Microsoft interviews and how they updated their process." 
 
 

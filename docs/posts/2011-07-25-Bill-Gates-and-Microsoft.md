@@ -7,7 +7,7 @@ tags:
     - microsoft
 ---
 
-**Link: [Bill Gates and Microsoft](None):** ""
+
 
 I still **don 't love Microsoft**. I used to, actually, use Windows day in and
 day out, for years. But I am known to **frown** a the thought of sitting down

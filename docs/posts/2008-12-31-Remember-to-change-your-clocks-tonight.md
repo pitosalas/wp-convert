@@ -8,7 +8,7 @@ tags:
     - time
 ---
 
-**Link: [Remember to change your clocks tonight](None):** ""
+
 
 > "Revelers will have an extra second to enjoy the New Year celebrations.
 >

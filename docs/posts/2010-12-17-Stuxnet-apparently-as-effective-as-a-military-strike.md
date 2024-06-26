@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2010-12-17
 ---
 
-**Link: [Stuxnet apparently as effective as a military strike](None):** ""
+
 
 Check out [Stuxnet apparently as effective as a military
 strike](<http://arstechnica.com/tech-policy/news/2010/12/stuxnet-apparently-

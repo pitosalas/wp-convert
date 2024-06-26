@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2010-10-12
 ---
 
-**Link: [Tunnel Vision](None):** ""
+
 
 This [article by David Brooks in the New York
 Times](<http://www.nytimes.com/2010/10/12/opinion/12brooks.html>) addresses a

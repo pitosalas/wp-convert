@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-06-24
 ---
 
-**Link: [Amusing junk mail story](None):** ""
+
 
 About 3 months ago I subscribed to [Atlantic
 Magazine](<http://www.theatlantic.com/>), which I really like, by the way. On

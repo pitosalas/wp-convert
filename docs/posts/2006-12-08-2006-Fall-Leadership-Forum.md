@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-12-08
 ---
 
-**Link: [2006 Fall Leadership Forum](None):** ""
+
 
 I am at the [2006 Fall Leadership
 Forum](<http://www.guidewiregroup.com/site/fallforum/>) in Sonoma, CA. Wine is

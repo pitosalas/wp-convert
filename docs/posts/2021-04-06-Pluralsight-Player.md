@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="">
 
-**Link: [Pluralsight Player](http://pluralsight.com/training/Player?author=yasser-shohoud&clip=0&course=fb-platform&mode=live&name=fb-m01-applications):** ""
+**Link: [Pluralsight Player](http://pluralsight.com/training/Player?author=yasser-shohoud&clip=0&course=fb-platform&mode=live&name=fb-m01-applications):** "" 
 
 

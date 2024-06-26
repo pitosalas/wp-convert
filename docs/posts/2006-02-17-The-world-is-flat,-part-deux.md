@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-02-17
 ---
 
-**Link: [The world is flat, part deux](None):** ""
+
 
 Funny.
 [![](https://i0.wp.com/www.bobcongdon.net/images/sinking.jpg?w=584)](<http://www.bobcongdon.net/media/sinking.mpg>)

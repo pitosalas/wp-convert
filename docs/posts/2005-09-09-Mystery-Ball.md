@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-09-09
 ---
 
-**Link: [Mystery Ball](None):** ""
+
 
 Yesterday, this appeared on my Mac desktop: ![Picture
 2-5](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/weblog/images/Picture%25202-5.png?resize=386%2C281)

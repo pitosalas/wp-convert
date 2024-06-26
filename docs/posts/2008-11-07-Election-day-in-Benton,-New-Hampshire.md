@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-11-07
 ---
 
-**Link: [Election day in Benton, New Hampshire](None):** ""
+
 
 My post about Barack Obama's election was getting a bit long, so I thought I'd
 break it up and get some more blog miles out of the story.

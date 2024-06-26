@@ -8,7 +8,7 @@ tags:
     - robots
 ---
 
-**Link: [Get someone to clean your gutters for you](None):** ""
+
 
 I am not being metaphorical, in fact, I am talking about gutters on your roof.
 A few years ago I wasn't regularly cleaning my gutters and had a close call

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-02-08
 ---
 
-**Link: [[BlogBridge Tip] New Weekly Build Available](None):** ""
+
 
 We just put up a new weekly build of BlogBridge with many new features. Here
 are some of the more interesting ones:

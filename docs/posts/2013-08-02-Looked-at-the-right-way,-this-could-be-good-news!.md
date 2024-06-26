@@ -10,7 +10,7 @@ tags:
     - travel
 ---
 
-**Link: [Looked at the right way, this could be good news!](None):** ""
+
 
 I came across this article a few days ago. [The Ticktock of the Death Clock -
 NYTimes.com](<http://well.blogs.nytimes.com/2013/08/01/the-tick-tock-of-the-

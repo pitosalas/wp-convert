@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-11-07
 ---
 
-**Link: [Ultimate baby name choser](None):** ""
+
 
 [![Picture
 3-4](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/images/Picture%25203-4-tm.jpg?resize=230%2C160)](<https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/images/Picture%25203-4.png>)This

@@ -9,7 +9,7 @@ tags:
     - steve-wozniak
 ---
 
-**Link: [Designed in California, Made in China](None):** ""
+
 
 James Dyson (the vacuum cleaner guy) said something which may seem obvious but
 is nonetheless very controversial:

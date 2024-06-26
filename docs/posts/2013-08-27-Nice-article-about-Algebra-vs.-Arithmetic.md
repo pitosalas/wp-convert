@@ -9,7 +9,7 @@ tags:
     - mathematics
 ---
 
-**Link: [Nice article about Algebra vs. Arithmetic](None):** ""
+
 
 If you are anything like me, this is something you've try to articulate.
 Here's a great article on that arcane topic!

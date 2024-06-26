@@ -17,6 +17,6 @@ tags:
 ---
 <img class="cover" src="https://roboticsknowledgebase.com/assets/images/ricardo-gomez-angel-162935.jpg">
 
-**Link: [The Wiki for Robot Builders](https://roboticsknowledgebase.com/):** "The Robotics Knowledgebase exists to advance knowledge in the robotics discipline."
+**Link: [The Wiki for Robot Builders](https://roboticsknowledgebase.com/):** "The Robotics Knowledgebase exists to advance knowledge in the robotics discipline." 
 
 

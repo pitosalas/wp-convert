@@ -8,7 +8,7 @@ tags:
     - superbowl
 ---
 
-**Link: [Superbowl Social Media](None):** ""
+
 
 Here's a really interesting [article about how the Superbowl used Social Media
 ](<http://socialmediatoday.com/elizabeth-lupfer/440875/exclusive-look-why-

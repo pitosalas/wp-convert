@@ -7,7 +7,7 @@ tags:
     - needleinahaystack
 ---
 
-**Link: [Two fun (to me) articles about arcane mathematical topics](None):** ""
+
 
 Ok, probably to a mathematician these are not arcane, but to normal people
 (oops, sorry, I love mathematicians) I think they might be. Anyway, read and

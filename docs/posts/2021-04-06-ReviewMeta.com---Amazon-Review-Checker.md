@@ -8,6 +8,6 @@ date: 2021-04-06
 ---
 <img class="cover" src="https://d1kmhjlvxp8o6o.cloudfront.net/public/imgs/reviewmeta/og-img.png">
 
-**Link: [ReviewMeta.com - Amazon Review Checker](https://reviewmeta.com):** ""
+**Link: [ReviewMeta.com - Amazon Review Checker](https://reviewmeta.com):** "" 
 
 

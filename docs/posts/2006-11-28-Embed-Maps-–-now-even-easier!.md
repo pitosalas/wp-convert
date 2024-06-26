@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-11-28
 ---
 
-**Link: [Embed Maps – now even easier!](None):** ""
+
 
 I wrote about this a little while back, but now it's even easier! Do you want
 to embed a map of something or other on your site or your blog? [Take a look

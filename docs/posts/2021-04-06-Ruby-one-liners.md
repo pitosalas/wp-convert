@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fbenoithamelin.tumblr.com%2Fruby1line">
 
-**Link: [Ruby one-liners](http://benoithamelin.tumblr.com/ruby1line):** ""
+**Link: [Ruby one-liners](http://benoithamelin.tumblr.com/ruby1line):** "" 
 
 

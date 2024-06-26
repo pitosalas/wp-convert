@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-01-02
 ---
 
-**Link: [Adam Green’s Podcasts](None):** ""
+
 
 I came [across a cool series of podcasts](<http://www.adamgreen.org/>), done
 by **Adam Green** , on the history of the personal computer software industry.

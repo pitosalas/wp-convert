@@ -8,7 +8,7 @@ tags:
     - type-hints
 ---
 
-**Link: [20 Type Hinting Techniques and Tools for Better Python Code](None):** ""
+
 
 [ 20 Type Hinting Techniques and Tools for Better Python Code](<
 https://betterprogramming.pub/twenty-type-hinting-techniques-and-tools-for-

@@ -14,6 +14,6 @@ tags:
 ---
 <img class="cover" src="https://cathydutton.co.uk/images/profile-image.jpg">
 
-**Link: [Stepping away from Sass](https://cathydutton.co.uk/posts/why-i-stopped-using-sass):** "I never liked SASS myself."
+**Link: [Stepping away from Sass](https://cathydutton.co.uk/posts/why-i-stopped-using-sass):** "I never liked SASS myself." 
 
 

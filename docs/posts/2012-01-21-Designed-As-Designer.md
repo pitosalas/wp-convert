@@ -9,7 +9,7 @@ tags:
     - software
 ---
 
-**Link: [Designed As Designer](None):** ""
+
 
 If you are interested in design and especially design and architecture of
 software, and you have a philosophical bent, you will enjoy this essay… I

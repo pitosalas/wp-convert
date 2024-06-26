@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://avatars.githubusercontent.com/u/13629408?s=400&v=4">
 
-**Link: [Do not simplify this code!](https://github.com/kubernetes/kubernetes/blob/ec2e767e59395376fa191d7c56a74f53936b7653/pkg/controller/volume/persistentvolume/pv_controller.go?mc_cid=258334395b&mc_eid=694db8ca58):** "Crazy code, interesting to look at!"
+**Link: [Do not simplify this code!](https://github.com/kubernetes/kubernetes/blob/ec2e767e59395376fa191d7c56a74f53936b7653/pkg/controller/volume/persistentvolume/pv_controller.go?mc_cid=258334395b&mc_eid=694db8ca58):** "Crazy code, interesting to look at!" 
 
 

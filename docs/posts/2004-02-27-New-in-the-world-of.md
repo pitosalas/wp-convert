@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-02-27
 ---
 
-**Link: [New in the world of](None):** ""
+
 
 **New in the world of Digital Photography (Demo 2004 Series - 4) **The beat
 goes on in the world of Digital Photography. Two very nice (and one less nice)

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-07-14
 ---
 
-**Link: [Danah Boyd on Facebook and Myspace](None):** ""
+
 
 A really interesting [article for anyone interested in social
 networks](<http://www.danah.org/papers/essays/ClassDivisions.html>) and their

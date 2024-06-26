@@ -6,7 +6,7 @@ tags:
     - BSOD-Apple-Windows-Microsoft
 ---
 
-**Link: [Apple sense of humor](None):** ""
+
 
 ![Funny comment by Apple about
 Windoze](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-

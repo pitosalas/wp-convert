@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-06-21
 ---
 
-**Link: [Cool stuff from the 21st!](None):** ""
+
 
 Some cool stuff
 

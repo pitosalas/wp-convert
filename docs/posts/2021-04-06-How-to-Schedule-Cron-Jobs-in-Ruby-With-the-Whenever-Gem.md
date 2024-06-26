@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://i0.wp.com/www.rubyguides.com/wp-content/uploads/2019/04/ruby-cron-whenever-gem.png?fit=600%2C337&ssl=1">
 
-**Link: [How to Schedule Cron Jobs in Ruby With the Whenever Gem](https://www.rubyguides.com/2019/04/ruby-whenever-gem):** "Useful gem to have in your toolbox."
+**Link: [How to Schedule Cron Jobs in Ruby With the Whenever Gem](https://www.rubyguides.com/2019/04/ruby-whenever-gem):** "Useful gem to have in your toolbox." 
 
 

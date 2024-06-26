@@ -9,7 +9,7 @@ tags:
     - storage
 ---
 
-**Link: [A Nibble of Git’s Object Store](None):** ""
+
 
 [ A Nibble of Git's Object Store](< https://getcode.substack.com/p/a-nibble-
 of-gits-object-store?utm_source=post-email-

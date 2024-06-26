@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-03-23
 ---
 
-**Link: [CBS News’ Bob Schieffer](None):** ""
+
 
   
 >

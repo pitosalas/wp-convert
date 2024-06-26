@@ -9,7 +9,7 @@ tags:
     - USA
 ---
 
-**Link: [We’re not going back to the moon](None):** ""
+
 
 This is kind of depressing, but I don't know why - but NASA administrator
 Bolden says that NASA has no plans to lead another mission to the moon within

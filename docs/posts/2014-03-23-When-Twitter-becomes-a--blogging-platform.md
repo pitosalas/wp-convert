@@ -8,7 +8,7 @@ tags:
     - twitter
 ---
 
-**Link: [When Twitter becomes a  blogging platform](None):** ""
+
 
 I have been noticing more and more **serialized tweets**. In other words,
 someone tweets several times in a row because what they have to say will not

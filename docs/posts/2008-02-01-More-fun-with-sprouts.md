@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-02-01
 ---
 
-**Link: [More fun with sprouts](None):** ""
+
 
 <http://farm.sproutbuilder.com/2341/load/5QDs6GRmAGexSWMQ.swf>  
 ![](https://i0.wp.com/counters.gigya.com/wildfire/CIMP/Jmx*PTEyMDE4MzQyMTgwMjAmcHQ9MTIwMTgzNDM*MDQ4OSZwPTEyMDc*MSZkPTI1NjczJm49.jpg?resize=0%2C0)

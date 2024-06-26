@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-02-16
 ---
 
-**Link: [The downside of free software](None):** ""
+
 
 Yesterday the [New York Times had an interesting article about our expectation
 that software (and web sites and web applications) all should be

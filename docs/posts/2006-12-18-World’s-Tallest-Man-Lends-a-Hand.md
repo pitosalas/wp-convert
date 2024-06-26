@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-12-18
 ---
 
-**Link: [World’s Tallest Man Lends a Hand](None):** ""
+
 
 <!-  
 >  body { line-height: normal; font-family: Lucida Grande; font-style: normal;

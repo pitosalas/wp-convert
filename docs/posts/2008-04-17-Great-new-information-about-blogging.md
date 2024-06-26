@@ -6,7 +6,7 @@ tags:
     - Website-blog-definition-tag-glossary
 ---
 
-**Link: [Great new information about blogging](None):** ""
+
 
 I just wrote a few brief tutorials that I thought might be of interest to you
 and, well, everyone. Please check them out - if you find them useful, please

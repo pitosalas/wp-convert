@@ -9,7 +9,7 @@ tags:
     - rightofcenter
 ---
 
-**Link: [Lake Wobegon and Politics](None):** ""
+
 
 Have you ever heard a politician or pundit say, with self-assurance, America
 is a **Right of Center** country. Think [Newt

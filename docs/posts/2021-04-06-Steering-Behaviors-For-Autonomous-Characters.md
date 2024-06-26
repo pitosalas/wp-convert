@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fwww.red3d.com%2Fcwr%2Fsteer">
 
-**Link: [Steering Behaviors For Autonomous Characters](http://www.red3d.com/cwr/steer):** ""
+**Link: [Steering Behaviors For Autonomous Characters](http://www.red3d.com/cwr/steer):** "" 
 
 

@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="http://www.aiga.org/Static/images/AIGA_logo_300.png">
 
-**Link: [Ballot and polling place design guidelines](https://www.aiga.org/design-for-democracy-eac-reports):** "Design standards for legible ballots"
+**Link: [Ballot and polling place design guidelines](https://www.aiga.org/design-for-democracy-eac-reports):** "Design standards for legible ballots" 
 
 

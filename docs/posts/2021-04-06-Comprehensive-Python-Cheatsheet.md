@@ -14,6 +14,6 @@ tags:
 ---
 <img class="cover" src="https://gto76.github.io/python-cheatsheet/web/image_social_3.png">
 
-**Link: [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet):** "Looks very useful!"
+**Link: [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet):** "Looks very useful!" 
 
 

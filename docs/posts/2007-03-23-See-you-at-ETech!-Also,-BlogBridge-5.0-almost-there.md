@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-03-23
 ---
 
-**Link: [See you at ETech! Also, BlogBridge 5.0 almost there](None):** ""
+
 
 Look for our [BlogBridge Release 5.0](<http://www.blogbridge.com>) in the next
 several days. You will get automatically updated, so just sit back and enjoy

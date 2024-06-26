@@ -14,6 +14,6 @@ tags:
 ---
 <img class="cover" src="https://martinfowler.com/logo-sq.png">
 
-**Link: [Testing Guide](https://martinfowler.com/testing):** "Martin Fowler always has interesting views and recommendations"
+**Link: [Testing Guide](https://martinfowler.com/testing):** "Martin Fowler always has interesting views and recommendations" 
 
 

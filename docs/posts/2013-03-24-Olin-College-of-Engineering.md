@@ -8,7 +8,7 @@ tags:
     - teaching
 ---
 
-**Link: [Olin College of Engineering](None):** ""
+
 
 ![](https://i0.wp.com/c.o0bg.com/rf/image_960w/Boston/2011-2020/2013/03/12/BostonGlobe.com/Regional/Images/21weolin_2.jpg?w=584)
 

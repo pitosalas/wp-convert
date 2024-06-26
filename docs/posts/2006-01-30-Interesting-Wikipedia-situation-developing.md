@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-01-30
 ---
 
-**Link: [Interesting Wikipedia situation developing](None):** ""
+
 
 Wikipedia appears to have banned all contributions and edits coming from the
 US Congress!

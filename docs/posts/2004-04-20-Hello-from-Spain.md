@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-04-20
 ---
 
-**Link: [Hello from Spain](None):** ""
+
 
 Geeking out from an Internet Cafe in Granada, Spain. We´re here for a short
 vacation, and we have a little time to kill this afternoon so I thought I´d

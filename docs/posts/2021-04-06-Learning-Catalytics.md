@@ -8,6 +8,6 @@ date: 2021-04-06
 ---
 <img class="cover" src="">
 
-**Link: [Learning Catalytics](https://learningcatalytics.com/courses):** ""
+**Link: [Learning Catalytics](https://learningcatalytics.com/courses):** "" 
 
 

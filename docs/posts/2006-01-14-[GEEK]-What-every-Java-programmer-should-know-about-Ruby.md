@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-01-14
 ---
 
-**Link: [[GEEK] What every Java programmer should know about Ruby](None):** ""
+
 
 Heard a lot about Ruby? Ruby on Rails? Wonder what the heck it is? [Here's a
 good intro](<http://onestepback.org/articles/10things/index.html>).

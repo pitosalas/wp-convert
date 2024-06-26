@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://cdn.sstatic.net/Sites/superuser/Img/apple-touch-icon@2.png?v=e869e4459439">
 
-**Link: [Super User](http://superuser.com):** "Q&A for computer enthusiasts and power users"
+**Link: [Super User](http://superuser.com):** "Q&A for computer enthusiasts and power users" 
 
 

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-05-08
 ---
 
-**Link: [Government Efficiency](None):** ""
+
 
 Check this post [Government
 Efficiency](<http://dilbert.com/blog/entry/government_efficiency/>) from

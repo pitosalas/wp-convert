@@ -10,7 +10,7 @@ tags:
     - writing
 ---
 
-**Link: [Do it for free!](None):** ""
+
 
 Tim Kreider's essay could apply as easily to all those people who complain
 that an iPhone app is not free, or is so so expensive at $5.99. Not too long

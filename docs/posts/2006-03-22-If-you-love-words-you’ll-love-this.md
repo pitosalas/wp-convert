@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-03-22
 ---
 
-**Link: [If you love words you’ll love this](None):** ""
+
 
 All the words of the english language, ordered by frequency, coupled with some
 really nifty graphic design and ajaxian coding.

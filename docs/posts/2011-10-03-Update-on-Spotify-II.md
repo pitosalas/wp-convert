@@ -8,7 +8,7 @@ tags:
     - spotify
 ---
 
-**Link: [Update on Spotify II](None):** ""
+
 
 I have become a total Spotify addict. I have almost totally stopped
 downloading MP3s and am gradually locating all my favorite music on Spotify. I

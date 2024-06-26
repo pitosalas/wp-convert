@@ -14,6 +14,6 @@ tags:
 ---
 <img class="cover" src="https://miro.medium.com/max/470/1*644CsOHPOIOfgJ2KZA2uTg.png">
 
-**Link: [Goodbye ActiveRecord! - Inside Aircall - Medium](https://medium.com/inside-aircall/goodbye-activerecord-e61ce894ed48):** "Always wanted to learn more about this new Orm"
+**Link: [Goodbye ActiveRecord! - Inside Aircall - Medium](https://medium.com/inside-aircall/goodbye-activerecord-e61ce894ed48):** "Always wanted to learn more about this new Orm" 
 
 

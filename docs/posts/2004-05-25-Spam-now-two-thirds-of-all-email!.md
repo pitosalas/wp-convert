@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-05-25
 ---
 
-**Link: [Spam now two thirds of all email!](None):** ""
+
 
 It's even worse than you thought: "E-mail security firm MessageLabs' filtering
 statistics for April, which were published on Monday, show that 67.6 percent

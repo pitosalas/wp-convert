@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-05-09
 ---
 
-**Link: [Link to Susan Senator!](None):** ""
+
 
 ![Mpwacover300](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/mpwacover300.jpg?resize=93%2C136)
 [Susan Senator](<http://susansenator.com/>) has published a book: "Making

@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://www.redditstatic.com/new-icon.png">
 
-**Link: [Concurrent Ruby with Tasks](https://www.reddit.com/r/ruby/comments/9sda4c/concurrent_ruby_with_tasks?sh=00d70b86&st=JNUDGQFF):** "Posted in r/ruby by u/drewolson • 27 points and 8 comments"
+**Link: [Concurrent Ruby with Tasks](https://www.reddit.com/r/ruby/comments/9sda4c/concurrent_ruby_with_tasks?sh=00d70b86&st=JNUDGQFF):** "Posted in r/ruby by u/drewolson • 27 points and 8 comments" 
 
 

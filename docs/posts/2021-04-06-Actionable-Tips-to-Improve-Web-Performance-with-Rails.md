@@ -11,6 +11,6 @@ tags:
 ---
 <img class="cover" src="https://www.monterail.com/hubfs/webperformance.png#keepProtocol">
 
-**Link: [Actionable Tips to Improve Web Performance with Rails](https://www.monterail.com/blog/actionable-tips-to-improve-web-performance-with-rails):** "Web performance is an extremely important metric in the digital world. Learn tools and tricks for its improvement and enjoy both better Rails-related and General Web performance."
+**Link: [Actionable Tips to Improve Web Performance with Rails](https://www.monterail.com/blog/actionable-tips-to-improve-web-performance-with-rails):** "Web performance is an extremely important metric in the digital world. Learn tools and tricks for its improvement and enjoy both better Rails-related and General Web performance." 
 
 

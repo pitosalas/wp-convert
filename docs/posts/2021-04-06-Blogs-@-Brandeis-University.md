@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fblogs.brandeis.edu">
 
-**Link: [Blogs @ Brandeis University](http://blogs.brandeis.edu):** ""
+**Link: [Blogs @ Brandeis University](http://blogs.brandeis.edu):** "" 
 
 

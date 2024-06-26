@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-07-15
 ---
 
-**Link: [[GEEKY] Using OPML for master lists of feeds](None):** ""
+
 
 I encounter more and more organizations or people who are collecting lists of
 feeds or blogs for one purpose or another. With BlogBridge we have the

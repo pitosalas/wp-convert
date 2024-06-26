@@ -6,7 +6,7 @@ tags:
     - books
 ---
 
-**Link: [My review of A Reliable Wife](None):** ""
+
 
 [![A Reliable
 Wife](https://i0.wp.com/photo.goodreads.com/books/1267035347m/4929705.jpg?w=584)](<http://www.goodreads.com/book/show/4929705-a-reliable-

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-03-09
 ---
 
-**Link: [[BlogBridge] Screencast tutorials, so far](None):** ""
+
 
 There are two very brief audio-visual overviews of 'cool' BlogBridge features.
 

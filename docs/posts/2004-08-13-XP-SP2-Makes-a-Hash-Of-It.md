@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-08-13
 ---
 
-**Link: [XP SP2 Makes a Hash Of It](None):** ""
+
 
 As you know, [I am quite impressed with Microsoft's ability to build and ship
 and deploy and sell and support software at an absolutely mass

@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Ffili.pp.ru%2Fleaky-constants.html">
 
-**Link: [Leaky constants](https://fili.pp.ru/leaky-constants.html):** "Good to know!"
+**Link: [Leaky constants](https://fili.pp.ru/leaky-constants.html):** "Good to know!" 
 
 

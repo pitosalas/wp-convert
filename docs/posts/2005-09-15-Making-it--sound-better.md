@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-09-15
 ---
 
-**Link: [Making it  sound better](None):** ""
+
 
 Ever notice in restaurant menus how the dish descriptions are made to sound
 fancier and fancier by adding adjective? "green beans" are not as good as

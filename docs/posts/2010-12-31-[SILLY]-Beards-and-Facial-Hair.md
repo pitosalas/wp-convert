@@ -8,7 +8,7 @@ tags:
     - silly
 ---
 
-**Link: [[SILLY] Beards and Facial Hair](None):** ""
+
 
 ![beard20084.jpg](https://i0.wp.com/www.dyers.org/images/beard2008/beard20084.jpg?w=584)
 

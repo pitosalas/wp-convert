@@ -8,7 +8,7 @@ tags:
     - railscon-tagf
 ---
 
-**Link: [[GEEKY] Devise Gem – current favorite for authentication of Rails Applications](None):** ""
+
 
 How to build authentication into Rails applications? Well, at least at
 RailsConf 2011, the buzz was around a new [Authentication gem called

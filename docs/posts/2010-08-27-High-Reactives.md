@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2010-08-27
 ---
 
-**Link: [High Reactives](None):** ""
+
 
 What are high reactives?
 

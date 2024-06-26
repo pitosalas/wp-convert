@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-02-21
 ---
 
-**Link: [Very cool new idea for travel web sites](None):** ""
+
 
 You probably already follow TechCrunch but if you don't take a look at Flyspy,
 a very clever new idea for adding very useful information to booking flights

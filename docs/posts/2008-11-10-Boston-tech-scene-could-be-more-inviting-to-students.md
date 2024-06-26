@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-11-10
 ---
 
-**Link: [Boston tech scene could be more inviting to students](None):** ""
+
 
 Scott Kirsner of the [Innovation Economy](<http://www.innoeco.com>) blog, as
 well of the [Boston

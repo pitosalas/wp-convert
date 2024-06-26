@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-06-10
 ---
 
-**Link: [Fascinating history of Wikipedia](None):** ""
+
 
 If you are interested and fascinated with the
 [Wikipedia](<http://en.wikipedia.org/wiki/Main_Page>), how it came to be, why

@@ -16,7 +16,7 @@ tags:
 ---
 <img class="cover" src="https://automaticaddison.com/wp-content/uploads/2018/11/cropped-logo_sq_240.png">
 
-**Link: [How to Perform Pose Estimation Using an ArUco Marker – Automatic Addison](https://automaticaddison.com/how-to-perform-pose-estimation-using-an-aruco-marker/):** ""
+**Link: [How to Perform Pose Estimation Using an ArUco Marker – Automatic Addison](https://automaticaddison.com/how-to-perform-pose-estimation-using-an-aruco-marker/):** "" 
 
 One of many articles helping with the math of computing pose from aruco markers. Unfortunately the algorithms are different and give different results.
 

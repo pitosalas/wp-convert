@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2011-08-05
 ---
 
-**Link: [[GEEKY] Why I am not yet developing for iOS](None):** ""
+
 
 Check this post [A strong argument for why iOS development is
 winning](<http://feedproxy.google.com/~r/TheAppleBlog/~3/krBkGLrizAY/>)

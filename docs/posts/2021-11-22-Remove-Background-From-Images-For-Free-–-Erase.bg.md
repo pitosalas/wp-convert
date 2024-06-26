@@ -15,6 +15,6 @@ tags:
 ---
 <img class="cover" src="https://cdn-1.erase.bg/assets/erasebg_background.png">
 
-**Link: [Remove Background From Images For Free – Erase.bg](https://www.erase.bg/en/):** "Remove background from images of humans, animals or objects and download high-resolution images for free. You can also edit and resize images as you like."
+**Link: [Remove Background From Images For Free – Erase.bg](https://www.erase.bg/en/):** "Remove background from images of humans, animals or objects and download high-resolution images for free. You can also edit and resize images as you like." 
 
 

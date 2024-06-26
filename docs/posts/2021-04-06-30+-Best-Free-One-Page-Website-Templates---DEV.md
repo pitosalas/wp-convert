@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://dev.to/social_previews/article/475327.png">
 
-**Link: [30+ Best Free One Page Website Templates - DEV](https://dev.to/templates/free-one-page-website-templates-1j25):** "I need a new template for campus rover.org"
+**Link: [30+ Best Free One Page Website Templates - DEV](https://dev.to/templates/free-one-page-website-templates-1j25):** "I need a new template for campus rover.org" 
 
 

@@ -16,7 +16,7 @@ tags:
 ---
 <img class="cover" src="https://furhatrobotics.com/wp-content/uploads/2021/10/furhat-robotics.jpg">
 
-**Link: [Get Furhat - Furhat Robotics](https://furhatrobotics.com/get-furhat/):** "Want to buy the world's most advanced social robot? Furhat, the human face of AI, is already being used all around the world."
+**Link: [Get Furhat - Furhat Robotics](https://furhatrobotics.com/get-furhat/):** "Want to buy the world's most advanced social robot? Furhat, the human face of AI, is already being used all around the world." 
 
 One of the robots used in research. Judged to be somewhat "creepy" in one study I saw. But check out the price for this! I think the manufactururs are the ones that are getting the most of this trend of robotics research!
 

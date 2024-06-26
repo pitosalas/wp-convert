@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-07-21
 ---
 
-**Link: [Microsoft bought one Bridge, maybe they’ll buy another](None):** ""
+
 
 Check this out: [Microsoft Announces Plans to Acquire
 FrontBridge](<http://www.microsoft.com/presspass/features/2005/jul05/07-20ManagedMessaging.mspx>)…

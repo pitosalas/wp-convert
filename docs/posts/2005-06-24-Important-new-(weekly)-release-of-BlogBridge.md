@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-06-24
 ---
 
-**Link: [Important new (weekly) release of BlogBridge](None):** ""
+
 
 Just in the unlikely event that you didn't pick it up, a couple of days ago we
 released BlogBridge 1.8 as a weekly release. The major new thing is

@@ -8,7 +8,7 @@ tags:
     - nyt
 ---
 
-**Link: [Doing exercise makes you smarter. Finally!](None):** ""
+
 
 From the New York Times, [How Exercise Benefits the
 Brain:](<http://well.blogs.nytimes.com/2011/11/30/how-exercise-benefits-the-

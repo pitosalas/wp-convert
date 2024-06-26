@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Frubyreferences.github.io%2Frubyref">
 
-**Link: [Introduction - Ruby Reference](https://rubyreferences.github.io/rubyref):** "Great, if complete and accurate"
+**Link: [Introduction - Ruby Reference](https://rubyreferences.github.io/rubyref):** "Great, if complete and accurate" 
 
 

@@ -15,6 +15,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fdabit-industries.github.io%2Fturtlebot2-tutorials%2F14b-OpenCV2_Python.html">
 
-**Link: [OpenCV with ROS using Python](https://dabit-industries.github.io/turtlebot2-tutorials/14b-OpenCV2_Python.html):** ""
+**Link: [OpenCV with ROS using Python](https://dabit-industries.github.io/turtlebot2-tutorials/14b-OpenCV2_Python.html):** "" 
 
 

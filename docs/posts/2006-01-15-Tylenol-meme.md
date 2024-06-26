@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-01-15
 ---
 
-**Link: [Tylenol meme](None):** ""
+
 
 [Amusingly](<http://doc.weblogs.com/2006/01/15#coincidence>),
 [several](<http://doc.weblogs.com/2006/01/14#aTylenolTestimonial>)

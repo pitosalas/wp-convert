@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="">
 
-**Link: [IT Ticket Portal](https://help.brandeis.edu/help/servicedesk/customer/portal/1/create/50):** ""
+**Link: [IT Ticket Portal](https://help.brandeis.edu/help/servicedesk/customer/portal/1/create/50):** "" 
 
 

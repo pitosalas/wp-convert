@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-04-23
 ---
 
-**Link: [The torture discussion back in 2001](None):** ""
+
 
 Recently of course, because of the 'torture memos', the topic is all over the
 papers and cable 'news' programs. It's brought back to mind a discussion that

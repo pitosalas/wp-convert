@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-02-09
 ---
 
-**Link: [Two really interesting bits missed by MSM](None):** ""
+
 
 ![capt.rom10501301246.vatican_pope_rom105.jpg](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/shirtfront/capt.rom10501301246.vatican_pope_rom105.jpg?w=584)
 Here are two practical examples of how mainstream media ("MSM") sometimes

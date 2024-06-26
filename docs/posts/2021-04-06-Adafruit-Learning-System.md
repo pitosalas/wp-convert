@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Flearn.adafruit.com">
 
-**Link: [Adafruit Learning System](https://learn.adafruit.com):** ""
+**Link: [Adafruit Learning System](https://learn.adafruit.com):** "" 
 
 

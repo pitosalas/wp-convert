@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-11-29
 ---
 
-**Link: [Why Improv didn’t succeed](None):** ""
+
 
 It's been a while.
 

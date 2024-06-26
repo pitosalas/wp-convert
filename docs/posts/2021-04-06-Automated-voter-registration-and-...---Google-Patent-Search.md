@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="">
 
-**Link: [Automated voter registration and ... - Google Patent Search](http://www.google.com/patents/about?dq=Koumoutseas&id=LmiDAAAAEBAJ):** ""
+**Link: [Automated voter registration and ... - Google Patent Search](http://www.google.com/patents/about?dq=Koumoutseas&id=LmiDAAAAEBAJ):** "" 
 
 

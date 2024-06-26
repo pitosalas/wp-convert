@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-08-10
 ---
 
-**Link: [BlogBridge Beta 3](None):** ""
+
 
 We just put up **BlogBridge Beta 3**. Check it out. It's got many neat new
 features, most particularly the **BlogBridge Service** which I wrote about

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-07-09
 ---
 
-**Link: [Two books that look good…](None):** ""
+
 
 I saw these two books in Barnes and Noble. They look quite interesting. I
 might get them. <iframe

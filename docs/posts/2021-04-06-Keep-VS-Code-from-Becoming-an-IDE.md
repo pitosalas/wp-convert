@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://res.cloudinary.com/practicaldev/image/fetch/s--aPp01yi9--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/6dncsd01jt6rm8ipx2sd.png">
 
-**Link: [Keep VS Code from Becoming an IDE](https://dev.to/rpalo/keep-vs-code-from-becoming-an-ide-570l):** "I like quick, light text editors and terminals, not big IDE's. This is how I keep VS Code how I like it."
+**Link: [Keep VS Code from Becoming an IDE](https://dev.to/rpalo/keep-vs-code-from-becoming-an-ide-570l):** "I like quick, light text editors and terminals, not big IDE's. This is how I keep VS Code how I like it." 
 
 

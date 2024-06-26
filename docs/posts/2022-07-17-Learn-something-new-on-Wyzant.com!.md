@@ -16,6 +16,6 @@ tags:
 ---
 <img class="cover" src="https://www.wyzant.com/images/facebook/og-image-logo.gif">
 
-**Link: [Learn something new on Wyzant.com!](https://www.wyzant.com/):** "There are things that i learned in college that i need brusing up, and there are things that i need now that i never learned. I am going tontry this! “With over 10 million hours of instruction provided since 2005, Wyzant.com is the nation&#39;s largest marketplace for in-person”"
+**Link: [Learn something new on Wyzant.com!](https://www.wyzant.com/):** "There are things that i learned in college that i need brusing up, and there are things that i need now that i never learned. I am going tontry this! “With over 10 million hours of instruction provided since 2005, Wyzant.com is the nation&#39;s largest marketplace for in-person”" 
 
 

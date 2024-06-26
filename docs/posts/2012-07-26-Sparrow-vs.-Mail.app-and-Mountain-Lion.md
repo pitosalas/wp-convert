@@ -11,7 +11,7 @@ tags:
     - sparrow
 ---
 
-**Link: [Sparrow vs. Mail.app and Mountain Lion](None):** ""
+
 
 Did you hear that [Google bought Sparrow?](<http://sparrowmailapp.com>)
 Sparrow is a really cool email client that I for one have been using very

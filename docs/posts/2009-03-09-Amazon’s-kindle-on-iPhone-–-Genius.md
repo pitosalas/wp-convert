@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-03-09
 ---
 
-**Link: [Amazon’s kindle on iPhone – Genius](None):** ""
+
 
 The other day, [Amazon released a free application on the iPhone (and iPod
 Touch.) On the surface, just another ebook application.

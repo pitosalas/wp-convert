@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-09-17
 ---
 
-**Link: [Patriots win, I am souring on Football and the NFL](None):** ""
+
 
 Reading this article about [The Casualties Of the NFL, in Men's
 Journal](<http://www.mensjournal.com/feature/M162/M162_CasualtiesoftheNFL.html>)

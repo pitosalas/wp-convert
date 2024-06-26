@@ -11,6 +11,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fwww.orangecomputers.com%2Fnode">
 
-**Link: [Orange Computers - HP ProLiant and Dell PowerEdge Servers](https://www.orangecomputers.com/node):** "Buy professionally refurbished custom built servers - Orange Computers - HP ProLiant and Dell PowerEdge Servers"
+**Link: [Orange Computers - HP ProLiant and Dell PowerEdge Servers](https://www.orangecomputers.com/node):** "Buy professionally refurbished custom built servers - Orange Computers - HP ProLiant and Dell PowerEdge Servers" 
 
 

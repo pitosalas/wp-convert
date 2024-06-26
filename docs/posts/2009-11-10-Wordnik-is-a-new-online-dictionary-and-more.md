@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-11-10
 ---
 
-**Link: [Wordnik is a new online dictionary and more](None):** ""
+
 
 Just came across [Wordnik](<http://www.wordnik.com>), what looks like a
 [mega](<http://www.wordnik.com/words/mega>) dictionary. Maybe it's more of a

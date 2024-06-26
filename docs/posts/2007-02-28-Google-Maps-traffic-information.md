@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-02-28
 ---
 
-**Link: [Google Maps traffic information](None):** ""
+
 
 One more reason to Love Google! Check out [this
 post](<http://lifehacker.com/software/google-maps/google-maps-traffic-

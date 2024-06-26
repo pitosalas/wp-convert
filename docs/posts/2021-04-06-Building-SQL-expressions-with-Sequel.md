@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://bits.theorem.co/images/theroem-logo.png">
 
-**Link: [Building SQL expressions with Sequel](https://bits.citrusbyte.com/building-sql-expressions-with-sequel):** "A very detailed explanation of writing queries with sequel which is an alternative to ActiveRecord."
+**Link: [Building SQL expressions with Sequel](https://bits.citrusbyte.com/building-sql-expressions-with-sequel):** "A very detailed explanation of writing queries with sequel which is an alternative to ActiveRecord." 
 
 

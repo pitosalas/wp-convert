@@ -8,7 +8,7 @@ tags:
     - israel
 ---
 
-**Link: [Really cool automated parking lot](None):** ""
+
 
 
 

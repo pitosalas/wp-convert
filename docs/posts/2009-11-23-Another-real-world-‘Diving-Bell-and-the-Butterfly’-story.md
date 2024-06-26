@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-11-23
 ---
 
-**Link: [Another real-world ‘Diving Bell and the Butterfly’ story](None):** ""
+
 
 Did you read the book ["The Diving Bell and The
 Butterfly"](<http://www.amazon.com/Diving-Bell-Butterfly-Memoir-

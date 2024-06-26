@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-08-02
 ---
 
-**Link: [Dirty Little Secrets About VCs](None):** ""
+
 
 Scott Kirsner writes about VC's [this
 post](<http://www.innoeco.com/2007/08/dirty-little-secrets-about-vcs.html>) in

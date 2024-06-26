@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-06-29
 ---
 
-**Link: [[JAVAONE] Scott McNealy Keynote](None):** ""
+
 
 I had never heard him speak - He's a lot of fun to listen to - funny and with
 a sense of his audience. This was a shorter keynote then yesterday. This

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2010-02-24
 ---
 
-**Link: [The Semantic Web, RDF, Freebase and now, DBpedia](None):** ""
+
 
 I was talking with [Noah Mendelsohn](<http://www.arcanedomain.com/>) this
 morning and we got into a discussion about [RDF](<http://www.w3.org/RDF/>) and

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2010-04-28
 ---
 
-**Link: [Bring me different rocks](None):** ""
+
 
 Scott Kirsner summarizes a new book "[Mastering the VC
 game](<http://www.jeffbussgang.com/>)" and [re-tells a funny VC

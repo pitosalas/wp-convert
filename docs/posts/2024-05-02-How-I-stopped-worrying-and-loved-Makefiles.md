@@ -18,6 +18,6 @@ How would you typically build a program from sources, what commands will you use
 I answered:
 It’s obvious:
 ./configure make make install Those times belong to the past now and nowadays not many programmers use GNU Make1. Try asking this question and you will see disgust at best.
-For many it’s the fist contact with make and often the last one, but not for me 😉"
+For many it’s the fist contact with make and often the last one, but not for me 😉" 
 
 Great reminders on how and why to use the ancient and ubiquitous “make” tool. 

@@ -8,7 +8,7 @@ tags:
     - software
 ---
 
-**Link: [Rules of Thumb for Software Engineers](None):** ""
+
 
 Based on my own experience, some of my favorite books and blog posts, and
 advice from friends, I've come up with this. What do you think? What should I

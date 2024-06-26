@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-08-16
 ---
 
-**Link: [Facebook joins the API crowd](None):** ""
+
 
 It is said that you can't be a true [Web 2.0
 ](<http://en.wikipedia.org/wiki/Web2.0>)application without an API to enable

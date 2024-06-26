@@ -11,7 +11,7 @@ tags:
     - price
 ---
 
-**Link: [The dark side of low prices](None):** ""
+
 
 I spent over an frustrating hour on the phone yesterday with Bank Of America
 and Paypal trying to sort out what a charge that was showing up on my credit

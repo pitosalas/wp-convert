@@ -9,7 +9,7 @@ tags:
     - worldseries
 ---
 
-**Link: [Channukah is like the World Series, Christmas like the superbowl](None):** ""
+
 
 Ned Batchelder, my pal, points out that:
 

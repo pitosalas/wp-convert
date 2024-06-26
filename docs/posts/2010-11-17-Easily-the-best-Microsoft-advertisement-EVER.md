@@ -8,7 +8,7 @@ tags:
     - microsoft
 ---
 
-**Link: [Easily the best Microsoft advertisement EVER](None):** ""
+
 
 And, maybe, better than any ad that Apple has ever done….
 

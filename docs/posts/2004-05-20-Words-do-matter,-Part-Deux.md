@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-05-20
 ---
 
-**Link: [Words do matter, Part Deux](None):** ""
+
 
 I don't know, this seems to be a topic near and dear to my heart! Thanks to
 [Eric Heels ](<http://www.lawlawlaw.com/000429.html>)for pointing to this

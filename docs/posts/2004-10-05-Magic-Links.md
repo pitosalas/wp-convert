@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-10-05
 ---
 
-**Link: [Magic Links](None):** ""
+
 
 Here's a really cool idea (via [Boing Boing ](<http://www.boingboing.net/>)-
 see their

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2014-08-28
 ---
 
-**Link: [On Being a Female in Venture Capital](None):** ""
+
 
 Interesting story…
 

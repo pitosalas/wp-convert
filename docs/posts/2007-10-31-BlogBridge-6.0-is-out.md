@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-10-31
 ---
 
-**Link: [BlogBridge 6.0 is out](None):** ""
+
 
 We just released [BlogBridge
 6.0](<http://www.blogbridge.com/2007/10/19/blogbridge-60-on-our-shelves-right-

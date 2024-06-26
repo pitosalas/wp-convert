@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-01-12
 ---
 
-**Link: [I am becoming a headhunter](None):** ""
+
 
 No, just kidding, I am **not.** Some of my best friends are headhunters and I
 wouldn't want to compete with them.** But** I do **often** find out about

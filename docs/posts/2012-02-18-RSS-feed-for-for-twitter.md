@@ -11,7 +11,7 @@ tags:
     - twitter
 ---
 
-**Link: [RSS feed for for twitter](None):** ""
+
 
 A simple question that for some reason does not have a simple answer:
 

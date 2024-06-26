@@ -8,7 +8,7 @@ tags:
     - healthcare
 ---
 
-**Link: [Fascinating article about the technology behind Healthcare.gov](None):** ""
+
 
 Pretty amazing that the govt is actually placing [all the code for
 healthcare.gov on github for all of us to

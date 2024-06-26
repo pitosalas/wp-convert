@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-06-04
 ---
 
-**Link: [Dan Bricklin doing some interesting podcasting](None):** ""
+
 
 I just came off listening to [Dan Bricklin's first podcast, an interview with
 Linda

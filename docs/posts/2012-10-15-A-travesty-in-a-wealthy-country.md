@@ -8,7 +8,7 @@ tags:
     - nyt
 ---
 
-**Link: [A travesty in a wealthy country](None):** ""
+
 
 From the New York Times, an [article by Nick Kristof, describing a real-life
 story of a friend of his and health

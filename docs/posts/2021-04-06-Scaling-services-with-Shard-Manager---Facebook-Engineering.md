@@ -14,6 +14,6 @@ tags:
 ---
 <img class="cover" src="https://engineering.fb.com/wp-content/uploads/2020/08/SHARD_manager_hero_01.jpg">
 
-**Link: [Scaling services with Shard Manager - Facebook Engineering](https://engineering.fb.com/production-engineering/scaling-services-with-shard-manager):** "Really interesting and detailed look behind the curtain at Facebook about how they handle scale and sharing."
+**Link: [Scaling services with Shard Manager - Facebook Engineering](https://engineering.fb.com/production-engineering/scaling-services-with-shard-manager):** "Really interesting and detailed look behind the curtain at Facebook about how they handle scale and sharing." 
 
 

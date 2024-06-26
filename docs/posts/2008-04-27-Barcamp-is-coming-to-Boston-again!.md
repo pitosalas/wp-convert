@@ -6,7 +6,7 @@ tags:
     - barcamp-foocamp-boston-tag
 ---
 
-**Link: [Barcamp is coming to Boston again!](None):** ""
+
 
 Well it's not really 'coming' - it was here all along, just dormant. Here's
 the down-lo:

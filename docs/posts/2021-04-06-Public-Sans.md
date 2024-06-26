@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://public-sans.digital.gov/assets/img/public-hi.png">
 
-**Link: [Public Sans](https://public-sans.digital.gov):** "Could be useful!"
+**Link: [Public Sans](https://public-sans.digital.gov):** "Could be useful!" 
 
 

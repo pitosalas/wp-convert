@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fwww.pjrc.com%2Fteensy%2Findex.html">
 
-**Link: [Teensy USB Development Board](https://www.pjrc.com/teensy/index.html):** ""
+**Link: [Teensy USB Development Board](https://www.pjrc.com/teensy/index.html):** "" 
 
 

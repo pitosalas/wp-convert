@@ -8,7 +8,7 @@ tags:
     - intelligence
 ---
 
-**Link: [Insightful article about education](None):** ""
+
 
 An insightful article about higher education in the USA: [The Disadvantages of
 an Elite Education](<http://www.theamericanscholar.org/the-disadvantages-of-

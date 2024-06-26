@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-04-10
 ---
 
-**Link: [Vista is out-of-sight (not necessarily in a good way)](None):** ""
+
 
 I just had the pleasure of going through the initial set up of Windows Vista
 on a brand new HP notebook. Here are some of  my impressions:

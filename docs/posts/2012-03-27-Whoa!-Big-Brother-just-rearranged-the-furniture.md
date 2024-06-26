@@ -7,7 +7,7 @@ tags:
     - google
 ---
 
-**Link: [Whoa! Big Brother just rearranged the furniture](None):** ""
+
 
 That's my Gmail window. The black bar is Google's toolbar.
 

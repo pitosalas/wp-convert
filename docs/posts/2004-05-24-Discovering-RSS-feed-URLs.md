@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-05-24
 ---
 
-**Link: [Discovering RSS feed URLs](None):** ""
+
 
 [Scoble ](<http://scoble.weblogs.com/>)bemoans the fact that folks aren't all
 using the XML Icon, and he cites [Random Bytes.](<http://www.byte.org/blog>)

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-12-18
 ---
 
-**Link: [More on truly weird medical condition](None):** ""
+
 
 Suddenly when you [learn about something once](</2008/11/18/ever-hear-of-
 teratomas/>), you start seeing it everywhere…

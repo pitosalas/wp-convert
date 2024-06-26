@@ -11,6 +11,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fzetcode.com%2Fwxpython">
 
-**Link: [The wxPython tutorial](http://zetcode.com/wxpython):** "This is wxPython tutorial. In this tutorial, we will learn the basics of GUI programming in wxPython."
+**Link: [The wxPython tutorial](http://zetcode.com/wxpython):** "This is wxPython tutorial. In this tutorial, we will learn the basics of GUI programming in wxPython." 
 
 

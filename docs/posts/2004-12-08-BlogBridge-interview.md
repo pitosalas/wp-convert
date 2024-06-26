@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-12-08
 ---
 
-**Link: [BlogBridge interview](None):** ""
+
 
 Yesterday I was interviewed about BlogBridge by
 [ClientJava.com](<http://www.clientjava.com/blog/>), a _very useful_ Web site

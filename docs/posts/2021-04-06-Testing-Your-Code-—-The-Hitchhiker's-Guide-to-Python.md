@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://docs.python-guide.org/_static/social-card.jpg">
 
-**Link: [Testing Your Code — The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/writing/tests):** ""
+**Link: [Testing Your Code — The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/writing/tests):** "" 
 
 

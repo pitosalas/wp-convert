@@ -8,7 +8,7 @@ tags:
     - typography
 ---
 
-**Link: [[DESIGN] Typography Cheat Sheet](None):** ""
+
 
 If you are into fonts and typography, you might enjoy this [Infographic that
 will help you

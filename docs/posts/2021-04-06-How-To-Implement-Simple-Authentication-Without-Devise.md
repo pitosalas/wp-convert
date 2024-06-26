@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fwww.rubypigeon.com%2Fposts%2Fhow-to-implement-simple-authentication-without-devise">
 
-**Link: [How To Implement Simple Authentication Without Devise](http://www.rubypigeon.com/posts/how-to-implement-simple-authentication-without-devise):** "Almost every web app requires a sign in form.In Ruby, the popular choice is the Devise gem for Rails."
+**Link: [How To Implement Simple Authentication Without Devise](http://www.rubypigeon.com/posts/how-to-implement-simple-authentication-without-devise):** "Almost every web app requires a sign in form.In Ruby, the popular choice is the Devise gem for Rails." 
 
 

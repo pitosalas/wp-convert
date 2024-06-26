@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-12-18
 ---
 
-**Link: [Lightbulb about Podcasting (“Some stuff I just figured out”)](None):** ""
+
 
 I attended a Podcasting meeting at [Berkman
 ](<http://cyber.law.harvard.edu/home/>)a [couple of days ago

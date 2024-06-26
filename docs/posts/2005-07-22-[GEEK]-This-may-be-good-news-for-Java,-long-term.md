@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-07-22
 ---
 
-**Link: [[GEEK] This may be good news for Java, long term](None):** ""
+
 
 > "IBM has announced that it will be joining the Harmony open source Java
 > project. Although right now, IBM's role is limited to providing thoughts and

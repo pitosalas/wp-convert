@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2010-06-04
 ---
 
-**Link: [Don Dodge on your creative genius](None):** ""
+
 
 I came across this [good post from Don
 Dodge](<http://dondodge.typepad.com/the_next_big_thing/2010/05/how-to-unlock-

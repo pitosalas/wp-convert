@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-11-27
 ---
 
-**Link: [Big Search, Mechanical Turk and why Amazon is at least as cool as Google](None):** ""
+
 
 [Adam Green](<http://darwinianweb.com/archive/2005/1127.html#9:31AM>) points
 to Scoble who re-discover and discover, respectively, Amazon's street by

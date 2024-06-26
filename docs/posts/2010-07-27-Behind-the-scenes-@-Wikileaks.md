@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2010-07-27
 ---
 
-**Link: [Behind the scenes @ Wikileaks](None):** ""
+
 
 There's a lot of buzz right now about the leaked documents related to the war
 in Afghanistan. I am not clear myself [whether they teach us anything new

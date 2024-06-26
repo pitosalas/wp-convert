@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-10-22
 ---
 
-**Link: [More iPod stuff](None):** ""
+
 
 Continuing my [iPod thoughts](</weblogs/archives/000895.php>), today I read
 that a [lawsuit has been brought

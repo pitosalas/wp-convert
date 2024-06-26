@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Favdi.codes%2F%3Fns_url%3D12B%26mid%3D3695">
 
-**Link: [ActivityPub RFC](https://avdi.codes/?ns_url=12B&mid=3695):** "The ActivityPub protocol is a decentralized social networking protocol         based upon the [ActivityStreams] 2.0 data format.         It provides a client to server API for creating, updating and deleting         content, as well as a federated server to server API for delivering         notifications and content."
+**Link: [ActivityPub RFC](https://avdi.codes/?ns_url=12B&mid=3695):** "The ActivityPub protocol is a decentralized social networking protocol         based upon the [ActivityStreams] 2.0 data format.         It provides a client to server API for creating, updating and deleting         content, as well as a federated server to server API for delivering         notifications and content." 
 
 

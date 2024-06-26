@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fwww.crockford.com%2Fwrrrld%2Fcolor.html">
 
-**Link: [CSS Color Names](http://www.crockford.com/wrrrld/color.html):** ""
+**Link: [CSS Color Names](http://www.crockford.com/wrrrld/color.html):** "" 
 
 

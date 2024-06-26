@@ -16,6 +16,6 @@ tags:
 ---
 <img class="cover" src="https://dev.to/social_previews/article/109505.png">
 
-**Link: [CSS Flexbox Nav Bar - Building a Blog, Part 1](https://dev.to/njericooper/flexbox-blog-part-1-the-nav-bar-442l):** "Flex box is a newish css feature that is subtle but very useful. Of course, all of css is subtle!"
+**Link: [CSS Flexbox Nav Bar - Building a Blog, Part 1](https://dev.to/njericooper/flexbox-blog-part-1-the-nav-bar-442l):** "Flex box is a newish css feature that is subtle but very useful. Of course, all of css is subtle!" 
 
 

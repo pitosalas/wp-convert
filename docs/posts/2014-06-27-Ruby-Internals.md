@@ -7,7 +7,7 @@ tags:
     - ruby
 ---
 
-**Link: [Ruby Internals](None):** ""
+
 
 Here's an interesting article about how Ruby (the programming language not the
 gem) is interpretted or compiled. (It's funny to contemplate what that

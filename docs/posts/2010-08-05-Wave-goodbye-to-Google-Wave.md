@@ -7,7 +7,7 @@ tags:
     - wave
 ---
 
-**Link: [Wave goodbye to Google Wave](None):** ""
+
 
 Google leaves products in Beta forever, they say.
 

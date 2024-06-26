@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-01-12
 ---
 
-**Link: [Thinking of being a deserter](None):** ""
+
 
 I'm seriously thinking about starting to use a Macintosh for my day to day
 work computer instead of a PC! Can you believe it? Why?

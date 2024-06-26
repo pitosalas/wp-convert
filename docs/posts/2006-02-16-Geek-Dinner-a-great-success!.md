@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-02-16
 ---
 
-**Link: [Geek Dinner a great success!](None):** ""
+
 
 ![100319926
 6Bac19F6Bc](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/100319926_6bac19f6bc.jpg?resize=200%2C133)

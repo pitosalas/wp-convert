@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-08-10
 ---
 
-**Link: [More weapons of civic mass destruction](None):** ""
+
 
 A while ago I wrote about [weapons of civic mass
 destruction](</2009/04/25/weapons-of-civic-mass-destruction-2522/>). I think

@@ -12,7 +12,7 @@ tags:
     - latlon-tagg
 ---
 
-**Link: [A Nibble of Geohashes in Go – by Kurt – Get Code](None):** ""
+
 
 [ A Nibble of Geohashes in Go - by Kurt - Get Code](<
 https://getcode.substack.com/p/a-nibble-of-geohashes-in-

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-02-19
 ---
 
-**Link: [Article about Podcasting in the New York Times](None):** ""
+
 
 If you haven't heard about Podcasting (what, are you living under a rock?) the
 New York Times has a good introduction:

@@ -8,7 +8,7 @@ tags:
     - zappos
 ---
 
-**Link: [Zappos Rule](None):** ""
+
 
 I don't own or buy many shoes. Recently I needed to replace a shoe and visited
 my previously favorite shoe store, twice (they had to get the right size from

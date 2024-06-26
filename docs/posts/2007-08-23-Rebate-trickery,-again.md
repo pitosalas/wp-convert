@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-08-23
 ---
 
-**Link: [Rebate trickery, again](None):** ""
+
 
 Many consumer products, like cell phones, computers, and so on seem to come
 with some kind of a [tag]rebate[/tag]. Buy now and get $50 back, and so on. I

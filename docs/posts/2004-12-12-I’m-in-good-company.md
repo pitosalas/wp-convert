@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-12-12
 ---
 
-**Link: [I’m in good company](None):** ""
+
 
 A week or so ago [I posted an amusing
 picture](</weblogs/archives/000523.html>), supposedly from Popular Mechanics.

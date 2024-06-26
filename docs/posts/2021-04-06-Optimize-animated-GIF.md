@@ -14,6 +14,6 @@ tags:
 ---
 <img class="cover" src="https://ezgif.com/images/ezgif-optimize.png">
 
-**Link: [Optimize animated GIF](https://ezgif.com/optimize/ezgif-5-bca12753301f.gif):** "Really good site for creating animated gifs from videos and lots lots more."
+**Link: [Optimize animated GIF](https://ezgif.com/optimize/ezgif-5-bca12753301f.gif):** "Really good site for creating animated gifs from videos and lots lots more." 
 
 

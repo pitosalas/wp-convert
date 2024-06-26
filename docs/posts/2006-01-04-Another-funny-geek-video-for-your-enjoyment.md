@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-01-04
 ---
 
-**Link: [Another funny geek video for your enjoyment](None):** ""
+
 
 ["Every OS Crashes because Every OS
 Sucks"](<http://www.deadtroll.com/index2.html?/video/ossuckscable.html~content>)

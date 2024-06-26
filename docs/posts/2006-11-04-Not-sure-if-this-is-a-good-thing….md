@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-11-04
 ---
 
-**Link: [Not sure if this is a good thing…](None):** ""
+
 
 For those of you who avidly follow Curaçao politics, yes, all two of you, and
 I know who you are, do you think [this is a good

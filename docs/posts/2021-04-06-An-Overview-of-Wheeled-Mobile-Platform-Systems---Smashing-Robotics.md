@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://i2.wp.com/www.smashingrobotics.com/wp-content/uploads/2012/07/5gewrg22.png?fit=600%2C423&ssl=1">
 
-**Link: [An Overview of Wheeled Mobile Platform Systems - Smashing Robotics](https://www.smashingrobotics.com/an-overview-of-wheeled-mobile-platform-systems):** "An overview of a variety of techniques to steering in Robots. Good but not exhaustive."
+**Link: [An Overview of Wheeled Mobile Platform Systems - Smashing Robotics](https://www.smashingrobotics.com/an-overview-of-wheeled-mobile-platform-systems):** "An overview of a variety of techniques to steering in Robots. Good but not exhaustive." 
 
 

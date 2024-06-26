@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://avatars.githubusercontent.com/u/576701?s=400&v=4">
 
-**Link: [A collection of awesome Ruby libraries, tools, frameworks and software](https://github.com/markets/awesome-ruby):** "Always looking for the best possible rub tools? Here you go!"
+**Link: [A collection of awesome Ruby libraries, tools, frameworks and software](https://github.com/markets/awesome-ruby):** "Always looking for the best possible rub tools? Here you go!" 
 
 

@@ -11,7 +11,7 @@ tags:
     - logo
 ---
 
-**Link: [Crowdsourcing a new BlogBridge icon](None):** ""
+
 
 Well, it's been about 5 years with the same (lovely) BlogBridge application
 icon and as we are redesigning the web site and releasing a major new release

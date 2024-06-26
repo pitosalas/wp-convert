@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-03-27
 ---
 
-**Link: [Finally updating to Leopard](None):** ""
+
 
 Usually more on the bleeding edge than this, I decided to wait until now to
 upgrade my macs to Leopard which is the name of the new Mac OS X release. If

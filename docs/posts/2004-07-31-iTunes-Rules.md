@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-07-31
 ---
 
-**Link: [iTunes Rules](None):** ""
+
 
 Here's a nice bit of **civic participation** : the iTunes Music Store is
 offering single click, **FREE** , downloads of the 9/11 Commision Report's

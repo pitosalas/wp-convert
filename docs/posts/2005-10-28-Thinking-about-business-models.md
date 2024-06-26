@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-10-28
 ---
 
-**Link: [Thinking about business models](None):** ""
+
 
 [Inquisitor is a really cool](<http://www.inquisitorx.com/safari/>) program
 that augments the search box in Safari (which for you **heathens** out there

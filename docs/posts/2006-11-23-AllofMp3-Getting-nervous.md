@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-11-23
 ---
 
-**Link: [AllofMp3 Getting nervous](None):** ""
+
 
 I've written about [AllOfMp3.com](<http://www.allofmp3.com>) before. I can't
 say other than it's a pirated music site. You can buy mp3's of music of all

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-08-03
 ---
 
-**Link: [MSN Sandbox](None):** ""
+
 
 I just came across this - [MSN Sandbox](<http://sandbox.msn.com/>) - where you
 can find **various Microsoft goodies** which are otherwise not available.

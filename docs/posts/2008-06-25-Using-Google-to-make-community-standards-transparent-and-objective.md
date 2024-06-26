@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-06-25
 ---
 
-**Link: [Using Google to make community standards transparent and objective](None):** ""
+
 
 This New York Times article, "[What's Obscene? Google Could Have an
 Answer"](<http://www.nytimes.com/2008/06/24/technology/24obscene.html?_r=1&ref=technology&oref=slogin>)

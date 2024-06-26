@@ -14,6 +14,6 @@ tags:
 ---
 <img class="cover" src="https://streamlit.io/sharing-image-facebook.jpg">
 
-**Link: [Streamlit • The fastest way to build and share data apps](https://streamlit.io/):** "Streamlit is an open-source app framework for Machine Learning and Data Science teams. Create beautiful web apps in minutes."
+**Link: [Streamlit • The fastest way to build and share data apps](https://streamlit.io/):** "Streamlit is an open-source app framework for Machine Learning and Data Science teams. Create beautiful web apps in minutes." 
 
 

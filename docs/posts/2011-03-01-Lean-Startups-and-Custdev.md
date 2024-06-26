@@ -8,7 +8,7 @@ tags:
     - lean-startups
 ---
 
-**Link: [Lean Startups and Custdev](None):** ""
+
 
 I had the interesting experience this weekend to attend the "[Lean Startup
 Machine" weekend at the Microsoft

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-06-21
 ---
 
-**Link: [What if we all vote on the truth, part 3](None):** ""
+
 
 Just a final follow up on this [interesting](</weblogs/archives/000753.html>)
 [story](<http://www.buzzmachine.com/archives/2005_06_21.html#009908>)

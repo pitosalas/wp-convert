@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-12-20
 ---
 
-**Link: [Revolution, Not Evolution](None):** ""
+
 
 Check out [this post](<http://www.pbs.org/cringely/pulpit/2007/pulpit_20071214_003618.html>) from [I, Cringely . The Pulpit | PBS](<http://www.pbs.org/cringely/pulpit/>):
 

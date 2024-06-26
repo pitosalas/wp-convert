@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-12-23
 ---
 
-**Link: [Netherlands Antilles set to be dissolved](None):** ""
+
 
 I don't know how I [missed this
 article](<http://www.miami.com/mld/miamiherald/news/13271891.htm>), but it

@@ -9,7 +9,7 @@ tags:
     - youth
 ---
 
-**Link: [Why You Want To Be A Learn-it-All](None):** ""
+
 
 A provocatively titled article ([Why Youth Has an Advantage In
 Innovation)](<http://abovethecrowd.com/2012/03/26/why-youth-has-an-advantage-

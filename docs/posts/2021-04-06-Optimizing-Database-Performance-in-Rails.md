@@ -17,6 +17,6 @@ tags:
 ---
 <img class="cover" src="https://www.herokucdn.com/images/og.png">
 
-**Link: [Optimizing Database Performance in Rails](https://blog.heroku.com/rails-database-optimization):** "Good tips on basic dB optimization. Especially for Heroku and Postgres"
+**Link: [Optimizing Database Performance in Rails](https://blog.heroku.com/rails-database-optimization):** "Good tips on basic dB optimization. Especially for Heroku and Postgres" 
 
 

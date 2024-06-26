@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2010-06-09
 ---
 
-**Link: [Safari now has Scribefire](None):** ""
+
 
 Yay! One reason holding me to using FireFox on Mac was that I rely heavily on
 [Scribefire](<http://www.scribefire.com/2010/06/07/scribefire-and-safari-

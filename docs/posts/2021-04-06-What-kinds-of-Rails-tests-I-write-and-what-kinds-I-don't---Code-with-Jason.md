@@ -14,6 +14,6 @@ tags:
 ---
 <img class="cover" src="https://www.codewithjason.com/wp-content/uploads/2018/06/jason-swett.jpg">
 
-**Link: [What kinds of Rails tests I write and what kinds I don't - Code with Jason](https://www.codewithjason.com/kinds-rails-tests-write-kinds-dont):** "A very important topic. Learn how to write tests and then .... do it!"
+**Link: [What kinds of Rails tests I write and what kinds I don't - Code with Jason](https://www.codewithjason.com/kinds-rails-tests-write-kinds-dont):** "A very important topic. Learn how to write tests and then .... do it!" 
 
 

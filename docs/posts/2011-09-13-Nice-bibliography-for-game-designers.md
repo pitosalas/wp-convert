@@ -7,7 +7,7 @@ tags:
     - gaming
 ---
 
-**Link: [Nice bibliography for game designers](None):** ""
+
 
 I got some of this list from [Lee Sheldon's course
 syllabus.](<http://gamingtheclassroom.wordpress.com/syllabus/>) I have not

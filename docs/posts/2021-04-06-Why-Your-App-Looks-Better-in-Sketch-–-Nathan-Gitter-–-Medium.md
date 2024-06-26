@@ -11,6 +11,6 @@ tags:
 ---
 <img class="cover" src="https://miro.medium.com/max/1200/1*MOcAlyqfmddQ0Ytpjw6ORA.jpeg">
 
-**Link: [Why Your App Looks Better in Sketch – Nathan Gitter – Medium](https://medium.com/@nathangitter/why-your-app-looks-better-in-sketch-3a01b22c43d7?source=userActivityShare-d383785221d0-1524309251):** "Exploring rendering differences between Sketch and iOS"
+**Link: [Why Your App Looks Better in Sketch – Nathan Gitter – Medium](https://medium.com/@nathangitter/why-your-app-looks-better-in-sketch-3a01b22c43d7?source=userActivityShare-d383785221d0-1524309251):** "Exploring rendering differences between Sketch and iOS" 
 
 

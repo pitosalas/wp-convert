@@ -6,7 +6,7 @@ tags:
     - con-taggestion-tagpricing-nyc-meshnetworks-gps
 ---
 
-**Link: [More on congestion pricing…](None):** ""
+
 
 From a few previous posts you know that I have a [curiosity about
 congestion](</2008/03/26/how-gps-devices-are-being-used-to-detect-and-avoid-

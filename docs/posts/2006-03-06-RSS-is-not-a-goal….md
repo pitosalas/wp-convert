@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-03-06
 ---
 
-**Link: [RSS is not a goal…](None):** ""
+
 
 [glenn](<http://www.furia.com/page.cgi?type=log>) has been busy today. A
 series of very intriguing posts, all made today, a Sunday no less. I can

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-12-29
 ---
 
-**Link: [Kevin Kelly writes about pervasive (or is it ubiquitous) screens](None):** ""
+
 
 I always love [Kevin Kelly's
 writing](<http://www.nytimes.com/2008/11/23/magazine/23wwln-

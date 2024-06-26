@@ -9,7 +9,7 @@ tags:
     - robots
 ---
 
-**Link: [A closer look at Acorn, our open source precision farming rover – Research Blog – Twisted Fields community](None):** ""
+
 
 [ A closer look at Acorn, our open source precision farming rover - Research
 Blog - Twisted Fields community](<

@@ -14,6 +14,6 @@ tags:
 ---
 <img class="cover" src="https://iximiuz.com/container-learning-path/docker-containerd-runc-2000-opt.png">
 
-**Link: [Learning Containers From The Bottom Up - Ivan Velichko](https://iximiuz.com/en/posts/container-learning-path/):** "What is a Container? Container vs. VM? Docker vs. Kubernetes. How to organize the learning efficiently?"
+**Link: [Learning Containers From The Bottom Up - Ivan Velichko](https://iximiuz.com/en/posts/container-learning-path/):** "What is a Container? Container vs. VM? Docker vs. Kubernetes. How to organize the learning efficiently?" 
 
 

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-10-25
 ---
 
-**Link: [Pop!Tech Memes](None):** ""
+
 
 [Pop!Tech 2005](<http://www.poptech.org/>) was a great conference, again. I
 made notes only when something struck me as interesting or memorable or

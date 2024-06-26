@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fmoodgym.anu.edu.au%2Fwelcome">
 
-**Link: [MoodGYM Training Program](https://moodgym.anu.edu.au/welcome):** "moodgym is an interactive self-help program that provides cognitive behaviour therapy (CBT) training to help users prevent and cope with depression and anxiety."
+**Link: [MoodGYM Training Program](https://moodgym.anu.edu.au/welcome):** "moodgym is an interactive self-help program that provides cognitive behaviour therapy (CBT) training to help users prevent and cope with depression and anxiety." 
 
 

@@ -9,7 +9,7 @@ tags:
     - sanfrancisco
 ---
 
-**Link: [Launch Conference, Day Two](None):** ""
+
 
 Yesterday was great. The buzz in the place is unbelievable. This place is the
 Launch Conference. Organized and run beautifully by [Jason Calacanis

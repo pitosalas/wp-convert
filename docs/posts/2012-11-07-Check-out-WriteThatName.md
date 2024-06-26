@@ -9,7 +9,7 @@ tags:
     - writethatname
 ---
 
-**Link: [Check out WriteThatName](None):** ""
+
 
 I've been using a app called
 "[WriteThatName](<https://writethat.name/live/webapp/en/settings.html?pin=1941955007.5125032531&o=7&t=en-

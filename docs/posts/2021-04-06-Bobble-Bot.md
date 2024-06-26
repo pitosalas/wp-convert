@@ -14,6 +14,6 @@ tags:
 ---
 <img class="cover" src="https://cdn.hackaday.io/images/resize/600x600/1676871569643715651.png">
 
-**Link: [Bobble-Bot](https://hackaday.io/project/164992-bobble-bot):** "A really fun project! I wonder if this could be for an independent study?"
+**Link: [Bobble-Bot](https://hackaday.io/project/164992-bobble-bot):** "A really fun project! I wonder if this could be for an independent study?" 
 
 

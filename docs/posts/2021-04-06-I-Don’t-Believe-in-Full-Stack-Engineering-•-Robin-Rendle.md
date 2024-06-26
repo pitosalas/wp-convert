@@ -14,6 +14,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Frobinrendle.com%2Fnotes%2Fi-dont-believe-in-full-stack-engineering">
 
-**Link: [I Don’t Believe in Full-Stack Engineering • Robin Rendle](https://robinrendle.com/notes/i-dont-believe-in-full-stack-engineering):** "I’m a designer at Sentry and a writer at CSS-Tricks."
+**Link: [I Don’t Believe in Full-Stack Engineering • Robin Rendle](https://robinrendle.com/notes/i-dont-believe-in-full-stack-engineering):** "I’m a designer at Sentry and a writer at CSS-Tricks." 
 
 

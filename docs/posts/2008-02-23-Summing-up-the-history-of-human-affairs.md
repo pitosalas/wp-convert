@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-02-23
 ---
 
-**Link: [Summing up the history of human affairs](None):** ""
+
 
 In the context of the current Wall Street excitement, I received a letter of
 assurance from a mutual fund manager saying, among other things:

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-03-05
 ---
 
-**Link: [David Coursey’s back! Well, I](None):** ""
+
 
 **David Coursey 's back! **Well, I guess I may have been the last to notice.
 David wrote what was my favorite punditry column when he was at Anchordesk.

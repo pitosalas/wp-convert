@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-02-14
 ---
 
-**Link: [I fear for the gullible user](None):** ""
+
 
 I received this email from "Bank of America". It obviously a phishing attack
 but it sounds so legitimate and straightforward that I can easily see lots of

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2010-01-29
 ---
 
-**Link: [Sophsiticated (odd) paywall at the Wall Street Journal](None):** ""
+
 
 So I am trying to decide whether I should renew my subscription to Wall Street
 Journal online. I read an article hear and there in the journal probably every

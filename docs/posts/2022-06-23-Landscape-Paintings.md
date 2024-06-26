@@ -11,6 +11,6 @@ tags:
 ---
 <img class="cover" src="https://images.discerningassets.com/image/upload/q_auto/c_fit,h_600,w_600/v1626382754/_DSC5487_rpg4ts.jpg">
 
-**Link: [Landscape Paintings](https://www.jonathankeeton.com/landscape-paintings/albums/test):** "Portfolio is a web page that can be viewed at jonathankeeton."
+**Link: [Landscape Paintings](https://www.jonathankeeton.com/landscape-paintings/albums/test):** "Portfolio is a web page that can be viewed at jonathankeeton." 
 
 

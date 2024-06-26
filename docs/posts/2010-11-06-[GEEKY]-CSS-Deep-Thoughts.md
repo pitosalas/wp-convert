@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2010-11-06
 ---
 
-**Link: [[GEEKY] CSS Deep Thoughts](None):** ""
+
 
 I feel that I am finally mastering CSS and in doing so I am seeing some
 interesting patterns. It seems to me that it's very easy to get into a

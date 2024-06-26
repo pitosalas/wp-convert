@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-10-30
 ---
 
-**Link: [Oh Snap! Detailed take down of Steve Levitt of SuperFreakonimics](None):** ""
+
 
 I can't vouch for the accuracy, but it is fun to see a [major league cat-fight
 errupting between

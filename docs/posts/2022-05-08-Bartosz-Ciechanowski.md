@@ -16,6 +16,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fciechanow.ski%2F">
 
-**Link: [Bartosz Ciechanowski](https://ciechanow.ski/):** "Interactive articles about physics, math, and engineering. Amazing explanations. Watches. Gears. Gps."
+**Link: [Bartosz Ciechanowski](https://ciechanow.ski/):** "Interactive articles about physics, math, and engineering. Amazing explanations. Watches. Gears. Gps." 
 
 

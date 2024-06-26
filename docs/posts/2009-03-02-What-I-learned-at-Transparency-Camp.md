@@ -8,7 +8,7 @@ tags:
     - transparencycamp
 ---
 
-**Link: [What I learned at Transparency Camp](None):** ""
+
 
 There are people in our government who are **strongly pushing** for more
 openness and who are very focused on delivering better, more modern, service

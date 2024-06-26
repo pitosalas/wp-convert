@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2010-02-19
 ---
 
-**Link: [Ebert, in his own words](None):** ""
+
 
 A [beautifully written comment (positive) by Roger
 Ebert](<http://blogs.suntimes.com/ebert/2010/02/roger_eberts_last_words_cont.html>)

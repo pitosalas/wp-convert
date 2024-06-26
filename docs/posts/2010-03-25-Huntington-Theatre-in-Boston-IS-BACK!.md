@@ -8,7 +8,7 @@ tags:
     - theater
 ---
 
-**Link: [Huntington Theatre in Boston IS BACK!](None):** ""
+
 
 They may not like me to say this, but as a longtime subscriber, I've been very
 disappointed for the last several seasons at the [Huntington Theater in

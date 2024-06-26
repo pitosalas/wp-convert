@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-10-01
 ---
 
-**Link: [[GEEK] Playing with Ruby on Mac](None):** ""
+
 
 I'm getting a little **fascinated** with **Ruby** and **Rails** so I've been
 getting acquainted with it. Just want to [share a handy

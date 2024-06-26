@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-04-03
 ---
 
-**Link: [Three on getting a job](None):** ""
+
 
 Check this post [Three on getting a
 job](<http://feeds.feedburner.com/~r/NewmarksDoor/~3/261854454/three-on-

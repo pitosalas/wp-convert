@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-05-13
 ---
 
-**Link: [Best leather cases for Treo 600 and others](None):** ""
+
 
 **Scott Kirsner** turned me on to [Vaja Leather
 Products](<http://www.vajacases.com/>). This outfit supplies what look to be

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2010-10-22
 ---
 
-**Link: [[GEEKY] Mac will be discontinuing support of Java](None):** ""
+
 
 This is a weird development. Java is a super well established language, why
 would Apple decide to stop developing it:

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-02-14
 ---
 
-**Link: [Harper’s on torture](None):** ""
+
 
 Came across this [interesting
 article](<http://harpers.org/archive/2007/12/hbc-90001917>). You may agree or

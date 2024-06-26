@@ -8,6 +8,6 @@ date: 2021-04-06
 ---
 <img class="cover" src="https://miro.medium.com/max/1086/1*EnBiu2uA-Miq6P2HAS25Rg.jpeg">
 
-**Link: [Mainframe on the Macbook – Marianne Bellotti – Medium](https://medium.com/@bellmar/mainframe-on-the-macbook-51bc1806d869?source=userActivityShare-d383785221d0-1527427174):** "COBOL Mac programming"
+**Link: [Mainframe on the Macbook – Marianne Bellotti – Medium](https://medium.com/@bellmar/mainframe-on-the-macbook-51bc1806d869?source=userActivityShare-d383785221d0-1527427174):** "COBOL Mac programming" 
 
 

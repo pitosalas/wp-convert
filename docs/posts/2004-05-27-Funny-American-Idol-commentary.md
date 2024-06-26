@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-05-27
 ---
 
-**Link: [Funny American Idol commentary](None):** ""
+
 
 Yes, I guess some of you have never seen American Idol, so you wouldn't
 appreciate this ironic and funny commentary:

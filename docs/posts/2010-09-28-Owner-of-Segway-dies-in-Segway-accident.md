@@ -7,7 +7,7 @@ tags:
     - segway
 ---
 
-**Link: [Owner of Segway dies in Segway accident](None):** ""
+
 
 This is just a weird weird happening:
 

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2022-01-11
 ---
 
-**Link: [ServoCity – Servos, Actobotics, Gears, Motors and More!](None):** ""
+
 
 [ ServoCity - Servos, Actobotics, Gears, Motors and
 More!](<https://www.servocity.com/>)

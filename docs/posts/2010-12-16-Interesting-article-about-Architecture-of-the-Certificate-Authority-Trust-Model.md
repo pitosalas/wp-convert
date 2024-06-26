@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2010-12-16
 ---
 
-**Link: [Interesting article about Architecture of the Certificate Authority Trust Model](None):** ""
+
 
 Check out [The Flawed Legal Architecture of the Certificate Authority Trust
 Model](<http://freedom-to-tinker.com/blog/sroosa/flawed-legal-architecture-

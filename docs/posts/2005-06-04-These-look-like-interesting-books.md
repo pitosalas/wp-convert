@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-06-04
 ---
 
-**Link: [These look like interesting books](None):** ""
+
 
 I just saw references to these two books. I am putting them on my reading
 list.

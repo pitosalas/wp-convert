@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://mathspp.com/blog/minimax-algorithm-and-alpha-beta-pruning/thumbnail.png">
 
-**Link: [Minimax algorithm and alpha-beta pruning](https://mathspp.com/blog/minimax-algorithm-and-alpha-beta-pruning):** "This article will teach you about the minimax algorithm and alpha-beta pruning, from a beginner's perspective."
+**Link: [Minimax algorithm and alpha-beta pruning](https://mathspp.com/blog/minimax-algorithm-and-alpha-beta-pruning):** "This article will teach you about the minimax algorithm and alpha-beta pruning, from a beginner's perspective." 
 
 

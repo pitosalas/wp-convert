@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-03-15
 ---
 
-**Link: [[ETECH] A9 as a search portal – Amazon defines “Searchlets”](None):** ""
+
 
 Jeff Bezos talked about a new feature of A9 which allows the basic A9 Search
 Page to be extended by anyone, using what I am calling "**Searchlets**."

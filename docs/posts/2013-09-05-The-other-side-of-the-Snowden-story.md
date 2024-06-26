@@ -9,7 +9,7 @@ tags:
     - topsecret
 ---
 
-**Link: [The other side of the Snowden story](None):** ""
+
 
 [What Did Edward Snowden Get Wrong? Everything | RAND](<http://m.rand.org/commentary/2013/08/10/LAT.html>):
 

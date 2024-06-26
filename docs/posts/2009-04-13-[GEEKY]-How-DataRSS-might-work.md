@@ -11,7 +11,7 @@ tags:
     - webservices
 ---
 
-**Link: [[GEEKY] How DataRSS might work](None):** ""
+
 
 **Editors Note (that 's me, Pito): I've decided to change the name of this
 thing to "Decentralized Data Discovery - DDD" because I learned from more than

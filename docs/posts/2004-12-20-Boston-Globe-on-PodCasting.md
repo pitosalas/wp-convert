@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-12-20
 ---
 
-**Link: [Boston Globe on PodCasting](None):** ""
+
 
 The Boston[ Globe writes an insightful
 article](<http://www.boston.com/news/nation/articles/2004/12/20/through_ipod_technology_anyone_can_be_a_broadcaster/>)

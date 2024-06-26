@@ -11,7 +11,7 @@ tags:
     - user-interface
 ---
 
-**Link: [Fun article about faux-physical UI metaphors](None):** ""
+
 
 Ok, that's my own curious headline for this interesting article in the [New
 York Times](<http://www.nytimes.com/2010/08/15/magazine/15FOB-medium-t.html>):

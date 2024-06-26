@@ -11,6 +11,6 @@ tags:
 ---
 <img class="cover" src="https://res.infoq.com/articles/dependency-oriented-thinking-1/en/smallimage/logo2.jpg">
 
-**Link: [Why SOA Should Be Viewed As “Dependency-Oriented Thinking”](http://www.infoq.com/articles/dependency-oriented-thinking-1):** "Ganesh Prasad proposes minimizing service dependencies in a SOA implementation rather than avoiding point-to-point connections in order to obtain a more flexible system that can evolve over time."
+**Link: [Why SOA Should Be Viewed As “Dependency-Oriented Thinking”](http://www.infoq.com/articles/dependency-oriented-thinking-1):** "Ganesh Prasad proposes minimizing service dependencies in a SOA implementation rather than avoiding point-to-point connections in order to obtain a more flexible system that can evolve over time." 
 
 

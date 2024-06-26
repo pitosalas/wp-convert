@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://miro.medium.com/max/1200/1*VBoB1xkrAHenqX6NwFiWhw.png">
 
-**Link: [Ruby’s New Exception Keyword Arguments – Square Corner Blog – Medium](https://medium.com/square-corner-blog/rubys-new-exception-keyword-arguments-4d5bbb504d37):** "`exception: false` and `exception: true`"
+**Link: [Ruby’s New Exception Keyword Arguments – Square Corner Blog – Medium](https://medium.com/square-corner-blog/rubys-new-exception-keyword-arguments-4d5bbb504d37):** "`exception: false` and `exception: true`" 
 
 

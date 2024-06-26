@@ -9,7 +9,7 @@ tags:
     - obamacare
 ---
 
-**Link: [[FUNNY] Congress investigates problems with healthcare.gove](None):** ""
+
 
 Really, this is NO JOKING MATTER
 

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2010-05-28
 ---
 
-**Link: [Interesting article about technology and risk](None):** ""
+
 
 [David Brooks of the New York Times writes about technology and
 risk](<http://www.nytimes.com/2010/05/28/opinion/28brooks.html>), in the

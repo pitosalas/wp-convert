@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-08-08
 ---
 
-**Link: [A bit of personal PR (at least I labeled it so you can skip it)](None):** ""
+
 
 Hey, I just came across this:
 

@@ -6,7 +6,7 @@ tags:
     - galapagos
 ---
 
-**Link: [Galapagos article from one my my fellow travelers](None):** ""
+
 
 Last year we went with National Geographic to the Galapagos islands for an
 amazing journey of discovery. The Galapagos are a set of islands, part of

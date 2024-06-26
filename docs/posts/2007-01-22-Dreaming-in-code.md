@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-01-22
 ---
 
-**Link: [Dreaming in code](None):** ""
+
 
 I heard about this book, ["Dreaming in
 Code"](<http://www.dreamingincode.com/>)… it looks really interesting but kind

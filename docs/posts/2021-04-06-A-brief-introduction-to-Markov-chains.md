@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://miro.medium.com/max/1200/1*wPXC1ubOTE1MJteG4cKL7Q.jpeg">
 
-**Link: [A brief introduction to Markov chains](https://towardsdatascience.com/brief-introduction-to-markov-chains-2c8cab9c98ab):** "Definitions, properties and PageRank example."
+**Link: [A brief introduction to Markov chains](https://towardsdatascience.com/brief-introduction-to-markov-chains-2c8cab9c98ab):** "Definitions, properties and PageRank example." 
 
 

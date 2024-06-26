@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="http://bradfrost.com/wp-content/uploads/2019/02/ooijScreenshot-2019-02-13-14.54.08.png">
 
-**Link: [Don't Get Clever with Login Forms](http://bradfrost.com/blog/post/dont-get-clever-with-login-forms):** "Some incredibly useful practical tips for a good login form"
+**Link: [Don't Get Clever with Login Forms](http://bradfrost.com/blog/post/dont-get-clever-with-login-forms):** "Some incredibly useful practical tips for a good login form" 
 
 

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-05-04
 ---
 
-**Link: [Great new OS X Software Releases](None):** ""
+
 
 **_Two of my all time favorite Mac OS X applications just came out with new
 releases:_** **[Adium X](<http://www.adiumx.com/>)** is a beautiful multi-IM-

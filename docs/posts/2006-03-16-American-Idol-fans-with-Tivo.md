@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-03-16
 ---
 
-**Link: [American Idol fans with Tivo](None):** ""
+
 
 [Tivo](<http://www.tivo.com/0.0.asp>) has been doing more and more cool things
 with their little box.  **See** , it's actually a Linux computer, with a 80Gig

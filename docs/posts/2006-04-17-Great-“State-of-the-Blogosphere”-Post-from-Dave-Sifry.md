@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-04-17
 ---
 
-**Link: [Great “State of the Blogosphere” Post from Dave Sifry](None):** ""
+
 
 Dave Sifry, of [Technorati](<http://www.technorati.com/>), periodically
 reports **interesting statistics** about how the world of blogging is growing

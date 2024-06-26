@@ -7,7 +7,7 @@ tags:
     - the-lean-startup
 ---
 
-**Link: [“The Lean Startup” doesn’t have the word “market” in its index](None):** ""
+
 
 I am a really big fan of the book [The Lean Startup: How Today's Entrepreneurs
 Use Continuous Innovation to Create Radically Successful

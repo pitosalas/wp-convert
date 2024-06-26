@@ -15,6 +15,6 @@ tags:
 ---
 <img class="cover" src="https://avatars.githubusercontent.com/u/68670575?s=280&v=4">
 
-**Link: [Neural Magic](https://github.com/neuralmagic):** "Neural Magic helps developers in accelerating deep learning performance using automated model sparsification technologies and a CPU inference engine. - Neural Magic"
+**Link: [Neural Magic](https://github.com/neuralmagic):** "Neural Magic helps developers in accelerating deep learning performance using automated model sparsification technologies and a CPU inference engine. - Neural Magic" 
 
 

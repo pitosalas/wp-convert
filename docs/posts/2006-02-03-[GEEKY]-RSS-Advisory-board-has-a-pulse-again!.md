@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-02-03
 ---
 
-**Link: [[GEEKY] RSS Advisory board has a pulse again!](None):** ""
+
 
 For those of you (like me) who have [lots of
 dependency](<http://www.blogbridge.com/>) on RSS, this is exciting (geeky)

@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="">
 
-**Link: [Shane - Independent Study Proposal](https://docs.google.com/document/d/1q4bI01VrSyuo6XivKfqBp4B9cl7xI0I2QX_cdueI5Uc/edit):** ""
+**Link: [Shane - Independent Study Proposal](https://docs.google.com/document/d/1q4bI01VrSyuo6XivKfqBp4B9cl7xI0I2QX_cdueI5Uc/edit):** "" 
 
 

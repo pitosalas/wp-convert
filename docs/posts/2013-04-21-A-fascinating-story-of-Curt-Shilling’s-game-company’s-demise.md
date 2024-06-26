@@ -11,7 +11,7 @@ tags:
     - venture-capital
 ---
 
-**Link: [A fascinating story of Curt Shilling’s game company’s demise](None):** ""
+
 
 This is from the [New York Time's article about Curt Shilling's ill fated game
 company "38 Studios":](<http://www.nytimes.com/2013/04/21/business/curt-

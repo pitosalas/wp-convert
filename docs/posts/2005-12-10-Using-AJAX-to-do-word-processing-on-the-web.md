@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-12-10
 ---
 
-**Link: [Using AJAX to do word processing on the web](None):** ""
+
 
 You may not have heard of this, but we are now starting to see quite decent
 word processing applications implemented directly in the browser, using a

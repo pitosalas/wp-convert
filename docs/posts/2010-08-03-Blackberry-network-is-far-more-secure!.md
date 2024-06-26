@@ -6,7 +6,7 @@ tags:
     - iphon-tage-blackberry-nyt-uae
 ---
 
-**Link: [Blackberry network is far more secure!](None):** ""
+
 
 I never realized this and I am surprised that BlackBerry and Research In
 Motion advertising have not made a big deal out of it. According to this

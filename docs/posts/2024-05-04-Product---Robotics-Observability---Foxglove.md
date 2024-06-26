@@ -14,6 +14,6 @@ tags:
 ---
 <img class="cover" src="https://foxglove.dev/images/og-image.jpeg">
 
-**Link: [Product - Robotics Observability - Foxglove](https://foxglove.dev/product):** ""
+**Link: [Product - Robotics Observability - Foxglove](https://foxglove.dev/product):** "" 
 
 Another web based ROS control panel. These are useful to watch and control your Robot from another computer including a tablet.

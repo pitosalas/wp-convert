@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://blog-cdn.longnow.org/wp-content/uploads/2019/01/0_Db-LhI9UfyMj06-k.jpg">
 
-**Link: [The 26,000-Year Astronomical Monument Hidden in Plain Sight](http://blog.longnow.org/02019/01/29/the-26000-year-astronomical-monument-hidden-in-plain-sight):** "Good geeky info about a monument near the Hoover dam..."
+**Link: [The 26,000-Year Astronomical Monument Hidden in Plain Sight](http://blog.longnow.org/02019/01/29/the-26000-year-astronomical-monument-hidden-in-plain-sight):** "Good geeky info about a monument near the Hoover dam..." 
 
 

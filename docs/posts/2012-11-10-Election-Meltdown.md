@@ -10,7 +10,7 @@ tags:
     - web
 ---
 
-**Link: [Election Meltdown](None):** ""
+
 
 I was a **volunteer** for the Democratic Committee in Arlington Mass. They
 have an **impressive** operation, just like what you've heard. For example,

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-06-20
 ---
 
-**Link: [What if we all vote on the  truth, part 2](None):** ""
+
 
 I [wrote a few days](</weblogs/archives/000753.html>) ago about the coming LA
 Times initiative to create something they are calling "Wikitorials." Well

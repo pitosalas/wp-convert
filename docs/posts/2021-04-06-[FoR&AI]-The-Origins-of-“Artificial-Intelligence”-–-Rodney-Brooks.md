@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Frodneybrooks.com%2Fforai-the-origins-of-artificial-intelligence">
 
-**Link: [[FoR&AI] The Origins of “Artificial Intelligence” – Rodney Brooks](http://rodneybrooks.com/forai-the-origins-of-artificial-intelligence):** ""
+**Link: [[FoR&AI] The Origins of “Artificial Intelligence” – Rodney Brooks](http://rodneybrooks.com/forai-the-origins-of-artificial-intelligence):** "" 
 
 

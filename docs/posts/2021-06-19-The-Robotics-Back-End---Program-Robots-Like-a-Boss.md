@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Froboticsbackend.com%2F">
 
-**Link: [The Robotics Back-End - Program Robots Like a Boss](https://roboticsbackend.com/):** "Program Robots Like a Boss. Lots of good robotics resources"
+**Link: [The Robotics Back-End - Program Robots Like a Boss](https://roboticsbackend.com/):** "Program Robots Like a Boss. Lots of good robotics resources" 
 
 

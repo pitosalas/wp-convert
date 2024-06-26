@@ -8,7 +8,7 @@ tags:
     - war
 ---
 
-**Link: [Losing Our Way](None):** ""
+
 
 This [New York Times Op-Ed piece by Bob
 Herbert](<http://www.nytimes.com/2011/03/26/opinion/26herbert.html?_r=1&ref=bobherbert>)

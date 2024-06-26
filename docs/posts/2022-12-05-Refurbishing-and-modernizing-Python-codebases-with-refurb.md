@@ -11,7 +11,7 @@ tags:
     - tool
 ---
 
-**Link: [Refurbishing and modernizing Python codebases with refurb](None):** ""
+
 
 [ Refurbishing and modernizing Python codebases with refurb](<
 https://link.medium.com/6agwPv3Mvvb>) –I havent tried this tool. If it works

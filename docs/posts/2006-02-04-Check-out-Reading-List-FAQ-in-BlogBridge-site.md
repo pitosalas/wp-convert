@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-02-04
 ---
 
-**Link: [Check out Reading List FAQ in BlogBridge site](None):** ""
+
 
 I just
 [posted](<http://www.blogbridge.com/archives/2006/02/what_is_a_blogb.php>) an

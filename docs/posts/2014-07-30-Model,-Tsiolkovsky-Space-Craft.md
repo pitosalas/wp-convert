@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2014-07-30
 ---
 
-**Link: [Model, Tsiolkovsky Space Craft](None):** ""
+
 
 Check out some really cool images: Soviet model makers built this spacecraft
 based on the designs and notes of Konstantin Tsiolkovsky. Late in his life,

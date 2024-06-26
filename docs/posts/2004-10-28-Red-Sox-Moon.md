@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-10-28
 ---
 
-**Link: [Red Sox Moon](None):** ""
+
 
 In honor of the **Red Sox** , the moon will turn red tonight. It will start
 melting into the dark sky around 9.15. Between 10.23 and 11.44, it will be

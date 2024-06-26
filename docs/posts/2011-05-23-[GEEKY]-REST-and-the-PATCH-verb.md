@@ -10,7 +10,7 @@ tags:
     - put
 ---
 
-**Link: [[GEEKY] REST and the PATCH verb](None):** ""
+
 
 Last year when teaching [REST](<http://www.packetizer.com/ws/rest.html>)
 concepts at Brandeis University I proved the truism that there's no better way

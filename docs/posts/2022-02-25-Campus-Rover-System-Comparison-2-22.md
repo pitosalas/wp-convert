@@ -13,6 +13,6 @@ date: 2022-02-25
 
 System Picture,System Name, Base Cost , Includes ,ROS,Assembled, LIDAR  ,SONAR,Rain, Outside ,Open Hardware ,Open Software,Payload
 Self Driving Car, $ 1,000 , Car base, motor encoders,  LIDAR Camera, Sonar,   3-distance sensors ,yes,No, yes ,yes,Yes, Yes ,yes,yes,35kg
-DFROBOT  HCR plus C..."
+DFROBOT  HCR plus C..." 
 
 

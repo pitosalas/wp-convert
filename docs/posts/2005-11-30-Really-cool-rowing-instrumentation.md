@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-11-30
 ---
 
-**Link: [Really cool rowing instrumentation](None):** ""
+
 
 If there are any rowing fanatics out there, or competitive rowing coaches,
 [take a look at this cool in-

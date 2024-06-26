@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-05-06
 ---
 
-**Link: [A new kind of EVIL Spyware](None):** ""
+
 
 One of my computers has gone totally haywire with spyware, popups popping all
 over the place, and more. Here's the new spin, which I hadn't seen before.

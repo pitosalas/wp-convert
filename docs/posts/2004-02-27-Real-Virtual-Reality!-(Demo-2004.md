@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-02-27
 ---
 
-**Link: [Real Virtual Reality! (Demo 2004](None):** ""
+
 
 **Real Virtual Reality! (Demo 2004 Series - 6)** I am not clear as to whether
 [Total Immersion](<http://www.t-immersion.com/>) is a product, company,

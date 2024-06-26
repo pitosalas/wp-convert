@@ -8,7 +8,7 @@ tags:
     - robotics
 ---
 
-**Link: [Experiential Robotics Platform (XRP) Kit – Beta](None):** ""
+
 
 [ Experiential Robotics Platform (XRP) Kit -
 Beta](<https://www.sparkfun.com/products/22230>) –The XRP Robotics Platform is

@@ -14,6 +14,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fmockmechanics.com">
 
-**Link: [MockMechanics](https://mockmechanics.com):** "Very cool and clever visual programming."
+**Link: [MockMechanics](https://mockmechanics.com):** "Very cool and clever visual programming." 
 
 

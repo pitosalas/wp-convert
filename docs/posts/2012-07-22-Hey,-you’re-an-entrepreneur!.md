@@ -9,7 +9,7 @@ tags:
     - sillicon-tagvalley
 ---
 
-**Link: [Hey, you’re an entrepreneur!](None):** ""
+
 
 I like this quote:
 

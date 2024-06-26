@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-01-13
 ---
 
-**Link: [Grey Gardens, on broadway](None):** ""
+
 
 Here's a [show with a plot that](<http://www.greygardensthemusical.com/>) is
 quite unusual, set as a musical, on  Broadway. I enjoyed it immensely --

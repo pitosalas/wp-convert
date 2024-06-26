@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fvegardstikbakke.com%2Funix">
 
-**Link: [Problem solving with Unix commands](http://vegardstikbakke.com/unix):** "Just proves yet again that with the Unix command line you can do anything!"
+**Link: [Problem solving with Unix commands](http://vegardstikbakke.com/unix):** "Just proves yet again that with the Unix command line you can do anything!" 
 
 

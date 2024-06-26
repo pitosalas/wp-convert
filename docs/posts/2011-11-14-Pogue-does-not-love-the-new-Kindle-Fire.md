@@ -9,7 +9,7 @@ tags:
     - kindle
 ---
 
-**Link: [Pogue does not love the new Kindle Fire](None):** ""
+
 
 I was excited to hear about the [Kindle
 Fire.](<http://www.google.com/search?client=safari&rls=en&q=kindle+fire&ie=UTF-8&oe=UTF-8>)

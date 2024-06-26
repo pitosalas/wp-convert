@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://flatironschool-static.s3.amazonaws.com/learn-social.png">
 
-**Link: [Sinatra Forms Params - Learn.co](https://learn.co/lessons/sinatra-forms-params-readme-walkthrough):** "Learn about Sinatra Forms Params  . Start learning to code for free with real developer tools on Learn.co."
+**Link: [Sinatra Forms Params - Learn.co](https://learn.co/lessons/sinatra-forms-params-readme-walkthrough):** "Learn about Sinatra Forms Params  . Start learning to code for free with real developer tools on Learn.co." 
 
 

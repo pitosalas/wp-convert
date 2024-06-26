@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-01-11
 ---
 
-**Link: [Madoff Scammed His Sister, Too!](None):** ""
+
 
 Check out this post [Madoff Scammed His Sister,
 Too!](<http://feedproxy.google.com/~r/clusterstock/~3/KELgiVoP4P0/madoff-

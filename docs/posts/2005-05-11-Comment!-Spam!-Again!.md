@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-05-11
 ---
 
-**Link: [Comment! Spam! Again!](None):** ""
+
 
 A really [interesting
 article](<http://www.thebishop.net/geodog/archives/2004/09/18/anatomy_of_comment_spam_script_vendors_emil_kacperski_eugene_blagodarny_and_corporate_helpers.html>)

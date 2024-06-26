@@ -10,7 +10,7 @@ tags:
     - gaming
 ---
 
-**Link: [[GAMING] Article about game designer Jonathan Blow](None):** ""
+
 
 A good [article in the Atlantic about game designer Jonathan
 Blow](<http://www.theatlantic.com/magazine/archive/2012/05/the-most-dangerous-

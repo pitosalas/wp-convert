@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-06-12
 ---
 
-**Link: [Looks like I’ve beat comment spam — for now!](None):** ""
+
 
 You've heard me [complain](<http://weblogs>) about
 [comment](</weblogs/archives/000570.html>) spam before haven't you? Comment

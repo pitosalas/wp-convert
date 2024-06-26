@@ -7,7 +7,7 @@ tags:
     - ux
 ---
 
-**Link: [Case Study of User Experience Design and Lean Methodology](None):** ""
+
 
 A good read if you are interested in [fast iteration in user experience design
 and redesign:](<http://www.startuplessonslearned.com/2011/01/case-study-ux-

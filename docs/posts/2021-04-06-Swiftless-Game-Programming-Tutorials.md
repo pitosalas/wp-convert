@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fwww.swiftless.com">
 
-**Link: [Swiftless Game Programming Tutorials](http://www.swiftless.com):** "Welcome to Swiftless Tutorials. We have been around on the internet for the better part of 10 years! We are slowly getting the site back up after it had"
+**Link: [Swiftless Game Programming Tutorials](http://www.swiftless.com):** "Welcome to Swiftless Tutorials. We have been around on the internet for the better part of 10 years! We are slowly getting the site back up after it had" 
 
 

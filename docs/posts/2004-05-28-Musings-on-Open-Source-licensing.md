@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-05-28
 ---
 
-**Link: [Musings on Open Source licensing](None):** ""
+
 
 As I continue to make rapid progress on
 [BlogBridge](<http://www.blogbridge.com/>), now with a significant amount of

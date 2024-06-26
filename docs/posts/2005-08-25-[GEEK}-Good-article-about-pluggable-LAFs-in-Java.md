@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-08-25
 ---
 
-**Link: [[GEEK} Good article about pluggable LAFs in Java](None):** ""
+
 
 One of the **hairier** and most interesting parts of **Swing** (Java's GUI
 layer) are the so-called pluggable look and feels (or is it looks and feel?.)

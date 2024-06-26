@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2010-08-21
 ---
 
-**Link: [Ray Kurzweil Responds](None):** ""
+
 
 You may not have followed the discussion that ensued when Ray Kurzweil was
 reported to '[not understand the

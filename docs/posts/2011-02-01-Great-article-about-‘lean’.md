@@ -6,7 +6,7 @@ tags:
     - lean-startups
 ---
 
-**Link: [Great article about ‘lean’](None):** ""
+
 
 [I recommend this article, "Fatboy in A Lean
 World"](<http://www.oreillygmt.eu/interview/fatboy-in-a-lean-world/>), (by

@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://uploads-ssl.webflow.com/5f1ef7e94b1ce615152895da/5f2197b0689e3c2acfb984e1_1990223_orig.jpeg">
 
-**Link: [How I Almost Destroyed a £50 million War Plane and The Normalisation of Deviance.](https://fastjetperformance.com/podcasts/how-i-almost-destroyed-a-50-million-war-plane-when-display-flying-goes-wrong-and-the-normalisation-of-deviance):** "Unusual article not about computers, still with some excellent lessons."
+**Link: [How I Almost Destroyed a £50 million War Plane and The Normalisation of Deviance.](https://fastjetperformance.com/podcasts/how-i-almost-destroyed-a-50-million-war-plane-when-display-flying-goes-wrong-and-the-normalisation-of-deviance):** "Unusual article not about computers, still with some excellent lessons." 
 
 

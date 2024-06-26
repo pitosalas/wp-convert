@@ -8,7 +8,7 @@ tags:
     - wallstreet
 ---
 
-**Link: [“The Real Housewives of Wall Street”](None):** ""
+
 
 Mike Taibi writes in [Rolling Stone about some fairly outrageous doings
 between Washington D.C. and Wall Street during the various

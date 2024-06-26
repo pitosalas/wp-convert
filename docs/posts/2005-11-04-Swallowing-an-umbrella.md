@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-11-04
 ---
 
-**Link: [Swallowing an umbrella](None):** ""
+
 
 > "The sword passes within millimetres of the heart, aorta, and other vitals
 > but, surprisingly, few deaths related to sword swallowing have been

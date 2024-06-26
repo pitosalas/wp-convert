@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fminitest.rubystyle.guide">
 
-**Link: [The Minitest Style Guide](https://minitest.rubystyle.guide):** "Very useful tool for ruby programmers."
+**Link: [The Minitest Style Guide](https://minitest.rubystyle.guide):** "Very useful tool for ruby programmers." 
 
 

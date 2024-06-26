@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-09-09
 ---
 
-**Link: [Seth Godin has good insights](None):** ""
+
 
 Check out [this
 post](<http://feeds.feedburner.com/~r/typepad/sethsmainblog/~3/153853886/how-

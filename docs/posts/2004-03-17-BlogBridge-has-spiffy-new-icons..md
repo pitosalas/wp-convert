@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-03-17
 ---
 
-**Link: [BlogBridge has spiffy new icons.](None):** ""
+
 
 **[BlogBridge](<http://www.blogbridge.com>) has spiffy new icons. **More
 progress the last week or so, with the addition of [some nicenew eye

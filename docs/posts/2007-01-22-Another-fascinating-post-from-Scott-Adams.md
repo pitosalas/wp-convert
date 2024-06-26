@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-01-22
 ---
 
-**Link: [Another fascinating post from Scott Adams](None):** ""
+
 
 <!-  
 >  body { font-style: normal; font-variant: normal; line-height: normal; font-

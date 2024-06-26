@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-04-08
 ---
 
-**Link: [[GEEK] Web Rich Text Editors (Apropos of nothing)](None):** ""
+
 
 I've had occasion to look into what kinds of rich text editors are availble
 out there, and I thought I'd use this as a place to record the results, for

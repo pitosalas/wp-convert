@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://javalin.io/img/javalin.png">
 
-**Link: [Javalin - A lightweight Java and Kotlin web framework](https://javalin.io):** ""
+**Link: [Javalin - A lightweight Java and Kotlin web framework](https://javalin.io):** "" 
 
 

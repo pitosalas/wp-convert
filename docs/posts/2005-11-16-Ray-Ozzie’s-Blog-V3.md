@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-11-16
 ---
 
-**Link: [Ray Ozzie’s Blog V3](None):** ""
+
 
 Glad to see that [Ray is blogging
 again](<http://spaces.msn.com/members/rayozzie/>). Now that he is at Microsoft

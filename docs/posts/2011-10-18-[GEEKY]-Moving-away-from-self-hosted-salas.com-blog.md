@@ -9,7 +9,7 @@ tags:
     - wordpresscom
 ---
 
-**Link: [[GEEKY] Moving away from self-hosted salas.com blog](None):** ""
+
 
 Running my own Linux server has lost it's sex appeal. Now I am going for
 simplicity and so I am exploring simply not having my own server but using one

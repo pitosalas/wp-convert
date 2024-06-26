@@ -11,6 +11,6 @@ tags:
 ---
 <img class="cover" src="https://images.thoughtbot.com/blog-images/social-share-default.png">
 
-**Link: [Rails on Docker](https://robots.thoughtbot.com/rails-on-docker):** "Develop a Rails app in Docker."
+**Link: [Rails on Docker](https://robots.thoughtbot.com/rails-on-docker):** "Develop a Rails app in Docker." 
 
 

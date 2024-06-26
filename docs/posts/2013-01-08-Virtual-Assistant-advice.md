@@ -6,7 +6,7 @@ tags:
     - virtual-assistant
 ---
 
-**Link: [Virtual Assistant advice](None):** ""
+
 
 I have a regular need for a small project to be done, a little bit of
 research, some following up on projects and so on. I've thought about using a

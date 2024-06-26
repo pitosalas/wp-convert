@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-12-19
 ---
 
-**Link: [Support Club Passim in Harvard Square!!!](None):** ""
+
 
 Hey! If you live in Boston or Cambridge, and you like music, especially Folk
 music, then you've probably been to [Club Passim in

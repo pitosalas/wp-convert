@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-08-17
 ---
 
-**Link: [eBay to assist in setting BlogBridge Price](None):** ""
+
 
 So, some day we will consider [BlogBridge
 ](<http://www.blogbridge.com>)complete enough to actually be worth a few

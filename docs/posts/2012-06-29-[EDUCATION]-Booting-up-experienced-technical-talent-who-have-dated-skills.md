@@ -9,7 +9,7 @@ tags:
     - nyt
 ---
 
-**Link: [[EDUCATION] Booting up experienced technical talent who have dated skills](None):** ""
+
 
 As you may know, I've been working on launching [**Bootup
 Academy**](<http://www.webbootup.com/>), which will offer applied computer

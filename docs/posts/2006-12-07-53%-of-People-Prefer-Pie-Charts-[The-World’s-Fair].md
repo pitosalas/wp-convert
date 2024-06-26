@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-12-07
 ---
 
-**Link: [53% of People Prefer Pie Charts [The World’s Fair]](None):** ""
+
 
 Check out [this  
 >

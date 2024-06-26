@@ -10,7 +10,7 @@ tags:
     - wharton-tag
 ---
 
-**Link: [Give more to receive more](None):** ""
+
 
 ![](https://i0.wp.com/blog.kidsemail.org/wp-
 content/uploads/2012/11/gifts.jpg?w=584)

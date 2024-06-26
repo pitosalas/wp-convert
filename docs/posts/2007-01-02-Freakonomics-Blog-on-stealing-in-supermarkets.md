@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-01-02
 ---
 
-**Link: [Freakonomics Blog on stealing in supermarkets](None):** ""
+
 
 <!-  
 >  body { font-variant: normal; font-weight: normal; font-size: 11pt; font-

@@ -9,7 +9,7 @@ tags:
     - scalability
 ---
 
-**Link: [MapReduce Patterns and Examples](None):** ""
+
 
 Great review article:
 

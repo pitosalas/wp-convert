@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-04-25
 ---
 
-**Link: [Weapons of civic mass destruction](None):** ""
+
 
 I am struck by how broken our political process is. I'm not the first nor the
 last to make this observation, How did we get here and what are the underlying

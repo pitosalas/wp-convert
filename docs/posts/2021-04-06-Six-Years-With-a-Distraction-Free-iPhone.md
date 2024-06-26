@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://cdn-images-1.medium.com/fit/t/10240/5760/1*1Qf-6TTXTakMjU1aJ2qfIA.png">
 
-**Link: [Six Years With a Distraction-Free iPhone](https://link.medium.com/l1TFQWJXWS):** "Do me you dare?"
+**Link: [Six Years With a Distraction-Free iPhone](https://link.medium.com/l1TFQWJXWS):** "Do me you dare?" 
 
 

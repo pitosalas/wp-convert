@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-09-22
 ---
 
-**Link: [Interesting article  about Open Source in the Financial Times](None):** ""
+
 
 And in classic **Blogosphere** form, you can find a [report on the
 report](<http://www.worldchanging.com/archives/003522.html>) from Nicole-Ann

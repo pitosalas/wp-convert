@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-07-16
 ---
 
-**Link: [Sibelius and the meaning of ‘available’](None):** ""
+
 
 There aren't many good options for Music notation software.
 [Sibelius](<http://www.sibelius.com/home/index_flash.html>) is in my opinion

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-09-11
 ---
 
-**Link: [[QUASI-GEEK]A trip to the market](None):** ""
+
 
 Do you follow [Ben Hyde's blog](<http://enthusiasm.cozy.org/>)? I
 **recommend** it - he has always fascinating intellectual tours-de-force.  I

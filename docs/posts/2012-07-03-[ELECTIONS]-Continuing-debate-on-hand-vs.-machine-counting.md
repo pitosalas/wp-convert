@@ -9,7 +9,7 @@ tags:
     - voting
 ---
 
-**Link: [[ELECTIONS] Continuing debate on hand vs. machine counting](None):** ""
+
 
 Just from today's New York Times:
 

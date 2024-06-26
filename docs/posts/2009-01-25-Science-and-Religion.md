@@ -9,7 +9,7 @@ tags:
     - science
 ---
 
-**Link: [Science and Religion](None):** ""
+
 
 Now there's a big topic, eh? A magazine that I don't normally read has a
 [good, in depth, thoughtful article about the debate between Religion and

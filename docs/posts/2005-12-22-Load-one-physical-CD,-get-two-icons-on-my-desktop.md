@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-12-22
 ---
 
-**Link: [Load one physical CD, get two icons on my desktop](None):** ""
+
 
 ![Picture
 1-24](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/images/Picture%25201-24.png?resize=114%2C209)

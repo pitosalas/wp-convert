@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-11-06
 ---
 
-**Link: [At least we have the Redsox](None):** ""
+
 
 Ok, I am adjusting to the new reality of the lost election. The amount of
 coverage in the blogs I frequent is huge so I won't add to the noise, except

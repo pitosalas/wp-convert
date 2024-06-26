@@ -9,7 +9,7 @@ tags:
     - teaching
 ---
 
-**Link: [ChatGPT Can’t Kill Anything Worth Preserving](None):** ""
+
 
 [ ChatGPT Can't Kill Anything Worth Preserving](<
 https://biblioracle.substack.com/p/chatgpt-cant-kill-anything-worth>) –If you,

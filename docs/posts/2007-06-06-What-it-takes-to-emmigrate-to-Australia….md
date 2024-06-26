@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-06-06
 ---
 
-**Link: [What it takes to emmigrate to Australia…](None):** ""
+
 
 Aleksey (my colleague on BlogBridge) is planning to move from the Ukraine to
 Australia. Here's a fairly fascinating account of the experience of proving

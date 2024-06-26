@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-06-04
 ---
 
-**Link: [[GEEK] Good bit about code commenting](None):** ""
+
 
 Another neat link I was shown:
 

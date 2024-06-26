@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-03-02
 ---
 
-**Link: [Slim down your wallet with Just One Club Card](None):** ""
+
 
 This looks kind of neat - check out [this
 post](<http://lifehacker.com/software/wallet/slim-down-your-wallet-with-just-

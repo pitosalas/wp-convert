@@ -10,7 +10,7 @@ tags:
     - new-york-times
 ---
 
-**Link: [Android Inventor – not ready for prime time](None):** ""
+
 
 The other day I wrote a post where I [mentioned Google's App
 Inventor](</2010/08/05/david-weinberger-has-flat-feet-programming/>), and I

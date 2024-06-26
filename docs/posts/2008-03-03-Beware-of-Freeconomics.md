@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-03-03
 ---
 
-**Link: [Beware of Freeconomics](None):** ""
+
 
 The quote below is from [this
 post](<http://feeds.feedburner.com/~r/readwriteweb/~3/241723869/beware_of_freeconomics.php>)

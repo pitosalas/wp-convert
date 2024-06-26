@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-06-10
 ---
 
-**Link: [The Day After Tomorrow](None):** ""
+
 
 Occassionally, I will have either an incredibly **positive** or **negative**
 reaction to a book, play or movie and I will be moved, who knows why, to write

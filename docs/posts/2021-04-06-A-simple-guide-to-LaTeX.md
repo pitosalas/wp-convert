@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fwww.latex-tutorial.com%2Ftutorials">
 
-**Link: [A simple guide to LaTeX](https://www.latex-tutorial.com/tutorials):** "Learn about LaTeX in short lessons with full code examples. A comprehensive guide to basic and advanced features. These tutorials, provide a hands-on introduction to LaTeX. You will see, the"
+**Link: [A simple guide to LaTeX](https://www.latex-tutorial.com/tutorials):** "Learn about LaTeX in short lessons with full code examples. A comprehensive guide to basic and advanced features. These tutorials, provide a hands-on introduction to LaTeX. You will see, the" 
 
 

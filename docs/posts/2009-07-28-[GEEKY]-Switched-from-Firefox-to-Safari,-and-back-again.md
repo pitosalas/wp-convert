@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-07-28
 ---
 
-**Link: [[GEEKY] Switched from Firefox to Safari, and back again](None):** ""
+
 
 About a week ago the new version of the Safari Browser came out for Mac OS X.
 I was swayed by the promotion and decided to use it for a while instead of

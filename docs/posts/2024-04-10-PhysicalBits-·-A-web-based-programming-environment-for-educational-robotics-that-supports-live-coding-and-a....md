@@ -15,6 +15,6 @@ tags:
 ---
 <img class="cover" src="https://gira.github.io/PhysicalBits/img/logo.png">
 
-**Link: [PhysicalBits · A web-based programming environment for educational robotics that supports live coding and a...](https://gira.github.io/PhysicalBits/):** "Physical Bits (formerly known as UziScript) is the only web-based programming environment for educational robotics that supports live coding and au..."
+**Link: [PhysicalBits · A web-based programming environment for educational robotics that supports live coding and a...](https://gira.github.io/PhysicalBits/):** "Physical Bits (formerly known as UziScript) is the only web-based programming environment for educational robotics that supports live coding and au..." 
 
 i saw this at a conference. it's a very nice tool and I think it's been used for real teaching applications

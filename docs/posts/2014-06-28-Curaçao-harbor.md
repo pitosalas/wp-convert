@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2014-06-28
 ---
 
-**Link: [Curaçao harbor](None):** ""
+
 
 Just playing with my new blogging platform to see if it works ok!
 

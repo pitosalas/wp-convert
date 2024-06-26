@@ -8,7 +8,7 @@ tags:
     - techno-taglogy
 ---
 
-**Link: [Software Technology hotspots in the USA](None):** ""
+
 
 Where in the US is hottest for Cloud Computing, or for Big Data, or for No
 Sql? Curious? Yeah, then you're a geek. Here's a quick interesting set of

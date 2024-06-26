@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://cdn.evilmartians.com/front/posts/embracing-metrics-as-new-tests/cover-5f65e06.png">
 
-**Link: [Embracing metrics as new tests — Martian Chronicles](https://evilmartians.com/chronicles/embracing-metrics-as-new-tests):** "Nice simple tool for instrumenting code."
+**Link: [Embracing metrics as new tests — Martian Chronicles](https://evilmartians.com/chronicles/embracing-metrics-as-new-tests):** "Nice simple tool for instrumenting code." 
 
 

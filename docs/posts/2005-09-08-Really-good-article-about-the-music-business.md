@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-09-08
 ---
 
-**Link: [Really good article about the music business](None):** ""
+
 
 [Robin Good](<http://www.masternewmedia.org/>) [points
 to:](<http://www.masternewmedia.org/independent_music/independent_music_publishing/indie_music_online_distribution_service_Mperia_20050908.htm>)

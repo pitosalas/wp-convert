@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2010-02-23
 ---
 
-**Link: [Computers are still so hard to understand…](None):** ""
+
 
 [Dave Winer wrote a bit recently called "What we don't understand" that lists
 all the ways in which computers are still so

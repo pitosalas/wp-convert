@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-03-22
 ---
 
-**Link: [Congratulations Antonio, Ned, and the rest of the Tabblo guys!](None):** ""
+
 
 I just stumbled (get it?) across this:
 

@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://cssreference.io/images/css-reference-share.png">
 
-**Link: [Animations - CSS Reference](http://cssreference.io/animations):** "Learn how Animations works in CSS."
+**Link: [Animations - CSS Reference](http://cssreference.io/animations):** "Learn how Animations works in CSS." 
 
 

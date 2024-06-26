@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-02-09
 ---
 
-**Link: [Micro volunteering](None):** ""
+
 
 A very interesting article about [volunteering, and applying the wikipedia
 philosophy to

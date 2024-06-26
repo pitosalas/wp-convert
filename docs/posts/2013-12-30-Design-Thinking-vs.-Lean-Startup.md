@@ -11,7 +11,7 @@ tags:
     - uocd
 ---
 
-**Link: [Design Thinking vs. Lean Startup](None):** ""
+
 
 ### Point
 

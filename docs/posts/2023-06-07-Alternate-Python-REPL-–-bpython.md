@@ -8,7 +8,7 @@ tags:
     - repl
 ---
 
-**Link: [Alternate Python REPL – bpython](None):** ""
+
 
 [ Alternate Python REPL - bpython](< https://bpython-interpreter.org/>) –
 

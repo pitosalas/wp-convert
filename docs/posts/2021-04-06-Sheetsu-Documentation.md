@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://sheetsu.com/lp-assets/image/og-image.png">
 
-**Link: [Sheetsu Documentation](https://docs.sheetsu.com):** "Get data from Google Spreadsheet in a matter of seconds. You can copy the HTML Snippet and paste it into your website without any code. If you are developer, you can use one of many languages or frameworks Sheetsu supports like Ruby, Node, React, JavaScript Python, PHP, JQuery, C#, Swift, or R."
+**Link: [Sheetsu Documentation](https://docs.sheetsu.com):** "Get data from Google Spreadsheet in a matter of seconds. You can copy the HTML Snippet and paste it into your website without any code. If you are developer, you can use one of many languages or frameworks Sheetsu supports like Ruby, Node, React, JavaScript Python, PHP, JQuery, C#, Swift, or R." 
 
 

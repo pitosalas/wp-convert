@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-12-28
 ---
 
-**Link: [Joel on Software on bribing and ethics](None):** ""
+
 
 <!-  
 >  body { font-size: 11pt; line-height: normal; font-weight: normal; font-

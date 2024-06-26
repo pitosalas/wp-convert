@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2022-03-10
 ---
 
-**Link: [Sinatra Forms Params – Learn.co](None):** ""
+
 
 [ Sinatra Forms Params - Learn.co](<https://learn.co/lessons/sinatra-forms-
 params-readme-walkthrough>)

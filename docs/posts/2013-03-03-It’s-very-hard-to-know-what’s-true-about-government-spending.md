@@ -8,7 +8,7 @@ tags:
     - spending
 ---
 
-**Link: [It’s very hard to know what’s true about government spending](None):** ""
+
 
 I saw this in the Boston Globe this morning and I jotted it down because yet
 again a bit of totally counterintuitive and confusing info:

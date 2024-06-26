@@ -8,7 +8,7 @@ tags:
     - telescope
 ---
 
-**Link: [Tutorial on buying a telescope](None):** ""
+
 
 Out of left (star) field. Here's a succinct tutorial on buying a telescope
 that my friend [Ben Gomes Casseres

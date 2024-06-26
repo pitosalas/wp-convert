@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2021-12-26
 ---
 
-**Link: [Wandermap – Your hiking routes online](None):** ""
+
 
 [ Wandermap - Your hiking routes
 online](<http://www.wandermap.net/en/?tab=new#/z4/54.521081,15.292969/terrain>)

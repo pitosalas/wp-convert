@@ -8,7 +8,7 @@ tags:
     - seabiscuit
 ---
 
-**Link: [Words borrowed from horse racing](None):** ""
+
 
 I just finished reading the book
 [Seabiscuit](<http://www.amazon.com/Seabiscuit-American-Legend-Laura-

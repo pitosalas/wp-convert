@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2023-09-23
 ---
 
-**Link: [What We Propose](None):** ""
+
 
 [ What We Propose](<
 https://www.theatlantic.com/magazine/archive/1946/07/what-we-propose/656703/>)

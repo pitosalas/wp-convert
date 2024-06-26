@@ -14,6 +14,6 @@ tags:
 ---
 <img class="cover" src="https://opensourcerails.org/android-chrome-512x512.png">
 
-**Link: [OpenSourceRails.org](https://opensourcerails.org/):** "A comprehensive, curated list of open-source Ruby on Rails applications."
+**Link: [OpenSourceRails.org](https://opensourcerails.org/):** "A comprehensive, curated list of open-source Ruby on Rails applications." 
 
 

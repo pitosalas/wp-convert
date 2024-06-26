@@ -15,7 +15,7 @@ tags:
 ---
 <img class="cover" src="https://posit-dev.github.io/great-tables/assets/tables_from_the_web.png">
 
-**Link: [Great Tables GT package](https://posit-dev.github.io/great-tables/get-started/):** ""
+**Link: [Great Tables GT package](https://posit-dev.github.io/great-tables/get-started/):** "" 
 
 Extremely useful package for creating pretty tables for display and publication. Just look at the examples!
 

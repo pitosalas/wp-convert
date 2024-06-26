@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-10-27
 ---
 
-**Link: [I’m a neat person, but, THIS, is ridiculous](None):** ""
+
 
 Check out this weird new practice called 5S:
 

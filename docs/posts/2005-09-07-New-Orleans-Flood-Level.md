@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-09-07
 ---
 
-**Link: [New Orleans Flood Level](None):** ""
+
 
 [![](https://i0.wp.com/static.flickr.com/29/41024989_ae9f18d3fd_m.jpg?w=584)](<http://www.flickr.com/photos/earthhopper/41024989/>
 "photo sharing")  

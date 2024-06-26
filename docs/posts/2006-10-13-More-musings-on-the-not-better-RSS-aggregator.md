@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-10-13
 ---
 
-**Link: [More musings on the not-better-RSS-aggregator](None):** ""
+
 
 One **correspondent** **asked** : "Isn't this what bb:library is about or
 Technorati Blog Directory or egs. like [Corante Web

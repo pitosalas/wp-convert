@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-01-17
 ---
 
-**Link: [Improv in Wikipedia](None):** ""
+
 
 I got many comments from people about my [postings
 ](</weblogs/archives/000524.html>)[recently

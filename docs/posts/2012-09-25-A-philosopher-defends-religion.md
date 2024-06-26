@@ -8,7 +8,7 @@ tags:
     - religion-tag
 ---
 
-**Link: [A philosopher defends religion](None):** ""
+
 
 I recently subscribed to the New York Review of Books. Not sure this was a
 good decision as the last thing I need is more stuff to read. I came to it

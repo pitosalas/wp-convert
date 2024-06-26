@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-10-18
 ---
 
-**Link: [I am my own PR agency](None):** ""
+
 
 Over the last week or so I've been working around the clock preparing for
 [BlogBridge's ](<http://www.blogonevent.com/>)appearance at the BlogOn 2005

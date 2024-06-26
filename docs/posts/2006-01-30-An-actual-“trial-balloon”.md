@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-01-30
 ---
 
-**Link: [An actual “trial balloon”](None):** ""
+
 
 A company that was launched at the Demo conference (which i am going to this
 year) is deploying in North Dakota:

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-01-16
 ---
 
-**Link: [Peggy Noonan on Media](None):** ""
+
 
 Peggy Noonan is a great, albeit a little on the conservative side, columnist
 that I read whenever I can.

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-03-23
 ---
 
-**Link: [Even Paul Krugman has to wait for the cable guy](None):** ""
+
 
 Check out this post [Incommunicado,
 probably](<http://krugman.blogs.nytimes.com/2009/03/23/incommunicado-

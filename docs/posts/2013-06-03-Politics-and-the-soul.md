@@ -9,7 +9,7 @@ tags:
     - politics
 ---
 
-**Link: [Politics and the soul](None):** ""
+
 
 An interesting post from my pal Peter Miller about how we all view the world
 through our own biases and it's hard to disentangle those from what might feel

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-01-26
 ---
 
-**Link: [[BlogBridge Tip] Activate your BlogBridge service account](None):** ""
+
 
 _(If you are not a BlogBridge you will not find this very interesting)_ We
 notice many of you have requested a BlogBridge account but not activated it.

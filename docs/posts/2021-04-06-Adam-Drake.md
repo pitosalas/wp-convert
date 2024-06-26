@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="">
 
-**Link: [Adam Drake](http://aadrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html):** ""
+**Link: [Adam Drake](http://aadrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html):** "" 
 
 

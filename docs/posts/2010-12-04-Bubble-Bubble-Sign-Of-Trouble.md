@@ -9,7 +9,7 @@ tags:
     - mon-tagey
 ---
 
-**Link: [Bubble Bubble Sign Of Trouble](None):** ""
+
 
 The thing about a bubble is that while people worry about it, no one is
 actually sure whether they are in one, and especially when it will be over.

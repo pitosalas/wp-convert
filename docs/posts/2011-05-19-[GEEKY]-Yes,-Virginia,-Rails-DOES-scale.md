@@ -8,7 +8,7 @@ tags:
     - scaling
 ---
 
-**Link: [[GEEKY] Yes, Virginia, Rails DOES scale](None):** ""
+
 
 Why doesn't every one **love Rails**? I am surprised when I run into someone
 (Pat?) who's not so sure about Rails. Usually it's about scalability.

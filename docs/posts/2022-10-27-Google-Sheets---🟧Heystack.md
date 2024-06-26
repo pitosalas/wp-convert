@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://heystacks.com/banner.jpg">
 
-**Link: [Google Sheets - 🟧Heystack](https://heystacks.com/?type=sheets):** "Discover the best public Google docs"
+**Link: [Google Sheets - 🟧Heystack](https://heystacks.com/?type=sheets):** "Discover the best public Google docs" 
 
 

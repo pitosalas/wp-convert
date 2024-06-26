@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-08-14
 ---
 
-**Link: [Demographically insensitive user interface](None):** ""
+
 
 ![Picture
 1-1](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/images/Picture%25201-1.png?resize=320%2C160)  

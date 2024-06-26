@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://res.cloudinary.com/practicaldev/image/fetch/s--EvPYKfzv--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/ni67jvkaxclrf5e0lob9.jpg">
 
-**Link: [Why I can't recommend Clean Architecture by Robert C Martin](https://dev.to/bosepchuk/why-i-cant-recommend-clean-architecture-by-robert-c-martin-ofd):** "Software architecture is an important topic. Let me explain why you might want to skip reading Clean Architecture and what you should read instead."
+**Link: [Why I can't recommend Clean Architecture by Robert C Martin](https://dev.to/bosepchuk/why-i-cant-recommend-clean-architecture-by-robert-c-martin-ofd):** "Software architecture is an important topic. Let me explain why you might want to skip reading Clean Architecture and what you should read instead." 
 
 

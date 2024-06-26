@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-11-29
 ---
 
-**Link: [What I am reading this morning](None):** ""
+
 
 A few really quick links:
 

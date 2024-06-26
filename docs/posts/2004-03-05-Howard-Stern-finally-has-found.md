@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-03-05
 ---
 
-**Link: [Howard Stern finally has found](None):** ""
+
 
 **Howard Stern finally has found his match.** You know I am a Howard Stern
 fan. It [looks

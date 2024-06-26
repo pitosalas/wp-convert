@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-03-30
 ---
 
-**Link: [Amazing(ly unpleasant) story about a car](None):** ""
+
 
 My friend [Francois](<http://www.emergencemarketing.com>) posts a [horrifying
 real-life

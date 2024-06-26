@@ -10,7 +10,7 @@ tags:
     - text
 ---
 
-**Link: [Shale – Ruby object mapper and serializer for XML, JSON, TOML and YAML](None):** ""
+
 
 [ Shale - Ruby object mapper and serializer for XML, JSON, TOML and YAML](<
 https://www.shalerb.org/>) –Shale - Ruby object mapper and serializer for XML,

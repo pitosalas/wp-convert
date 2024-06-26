@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-08-11
 ---
 
-**Link: [Color laser printers consume lots of consumables](None):** ""
+
 
 Color laser printers are **wonderful**. The one I use is a [Konica Minolta QMS
 2200](<http://www.amazon.com/exec/obidos/tg/detail/-/B0000560EZ/002-5618550-4992858?v=glance>).

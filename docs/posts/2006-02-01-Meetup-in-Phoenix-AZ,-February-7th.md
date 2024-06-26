@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-02-01
 ---
 
-**Link: [Meetup in Phoenix AZ, February 7th](None):** ""
+
 
 I'm trying something - organize a [bloggie
 meetup](<http://www.blogbridge.com/archives/2006/01/meetup_in_phoen_1.php>)

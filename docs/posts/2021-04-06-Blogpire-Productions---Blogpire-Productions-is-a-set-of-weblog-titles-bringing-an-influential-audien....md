@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fwww.blogpire.com">
 
-**Link: [Blogpire Productions - Blogpire Productions is a set of weblog titles bringing an influential audien...](http://www.blogpire.com):** "The owner of this domain has not yet uploaded their website."
+**Link: [Blogpire Productions - Blogpire Productions is a set of weblog titles bringing an influential audien...](http://www.blogpire.com):** "The owner of this domain has not yet uploaded their website." 
 
 

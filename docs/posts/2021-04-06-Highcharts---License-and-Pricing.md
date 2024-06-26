@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fhighcharts.com%2Flicense">
 
-**Link: [Highcharts - License and Pricing](http://highcharts.com/license):** ""
+**Link: [Highcharts - License and Pricing](http://highcharts.com/license):** "" 
 
 

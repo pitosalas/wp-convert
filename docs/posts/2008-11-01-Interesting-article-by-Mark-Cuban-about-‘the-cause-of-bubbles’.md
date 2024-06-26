@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-11-01
 ---
 
-**Link: [Interesting article by Mark Cuban about ‘the cause of bubbles’](None):** ""
+
 
 Whether you agree or not, it is [thoughtful and thought provoking discussion
 of Bubbles and Financial Engineering](<http://blogmaverick.com/2008/10/11/the-

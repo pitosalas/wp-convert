@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fwww.insteon.com%2Fleak-sensor">
 
-**Link: [Leak Sensor — Insteon](http://www.insteon.com/leak-sensor):** ""
+**Link: [Leak Sensor — Insteon](http://www.insteon.com/leak-sensor):** "" 
 
 

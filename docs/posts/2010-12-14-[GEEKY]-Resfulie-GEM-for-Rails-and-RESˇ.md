@@ -8,7 +8,7 @@ tags:
     - rest
 ---
 
-**Link: [[GEEKY] Resfulie GEM for Rails and RESˇ](None):** ""
+
 
 This is really nice: [Restfulie - Rest from
 Scratch](<http://restfulie.caelum.com.br/>). It's a package of code for

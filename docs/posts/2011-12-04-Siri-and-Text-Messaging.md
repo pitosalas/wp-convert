@@ -10,7 +10,7 @@ tags:
     - voice
 ---
 
-**Link: [Siri and Text Messaging](None):** ""
+
 
 A lot has been written about [Siri (the new voice activated assistant in the
 iPhone 4s)](<http://www.apple.com/iphone/features/siri.html>). I have to say

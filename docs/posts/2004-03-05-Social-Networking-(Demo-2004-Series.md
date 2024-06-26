@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-03-05
 ---
 
-**Link: [Social Networking (Demo 2004 Series](None):** ""
+
 
 **Social Networking (Demo 2004 Series - 8) **[I've written a few
 times](</2004/01/24.html#a155>) about Orkut and LinkedIn and **the kind-of-

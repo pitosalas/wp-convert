@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-01-09
 ---
 
-**Link: [It’s official global “bow-down-and-genuflect-while-facing-cupertino” day](None):** ""
+
 
 I say it's the Newton of the 21st century. I love my mac as much as the next
 guy, but [mac

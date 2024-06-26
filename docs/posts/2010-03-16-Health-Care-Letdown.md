@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2010-03-16
 ---
 
-**Link: [Health Care Letdown](None):** ""
+
 
 I stopped posting thoughts about the mess that all of congress has made of
 health care reform. There are daily articles in the news to confirm the

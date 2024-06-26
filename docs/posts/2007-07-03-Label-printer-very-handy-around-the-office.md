@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-07-03
 ---
 
-**Link: [Label printer very handy around the office](None):** ""
+
 
 A few years ago I got the idea to get myself a [label
 printer](<http://en.wikipedia.org/wiki/Label_printer>) for around the office.

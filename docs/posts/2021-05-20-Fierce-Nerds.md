@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fpaulgraham.com%2Ffn.html">
 
-**Link: [Fierce Nerds](http://paulgraham.com/fn.html):** ""
+**Link: [Fierce Nerds](http://paulgraham.com/fn.html):** "" 
 
 

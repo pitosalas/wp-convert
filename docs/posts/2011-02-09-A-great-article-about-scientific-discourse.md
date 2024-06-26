@@ -9,7 +9,7 @@ tags:
     - software
 ---
 
-**Link: [A great article about scientific discourse](None):** ""
+
 
 This article is called ["Fact and Folklore In Software Engineering"
 ](<http://morendil.github.com/folklore.html>) and while it is about that, the

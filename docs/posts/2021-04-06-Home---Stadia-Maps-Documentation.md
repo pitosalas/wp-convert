@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fdocs.stadiamaps.com">
 
-**Link: [Home - Stadia Maps Documentation](https://docs.stadiamaps.com):** "Great alternative for google maps"
+**Link: [Home - Stadia Maps Documentation](https://docs.stadiamaps.com):** "Great alternative for google maps" 
 
 

@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fjsonapi.org">
 
-**Link: [JSON API — A specification for building APIs in JSON](http://jsonapi.org):** ""
+**Link: [JSON API — A specification for building APIs in JSON](http://jsonapi.org):** "" 
 
 

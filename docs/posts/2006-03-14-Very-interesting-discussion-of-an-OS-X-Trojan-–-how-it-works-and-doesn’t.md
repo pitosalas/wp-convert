@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-03-14
 ---
 
-**Link: [Very interesting discussion of an OS X Trojan – how it works and doesn’t](None):** ""
+
 
 [Via MetaFilter](<http://www.metafilter.com/mefi/49232>): "Barbarians are at
 the gates, testing the locks, again." As [I've commented

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-10-26
 ---
 
-**Link: [You say tomato – I say tomahto](None):** ""
+
 
 The street filled with tomatoes, midday, summer, light is halved like a
 tomato, its juice runs through the streets. In December, unabated, the tomato

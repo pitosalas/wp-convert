@@ -8,7 +8,7 @@ tags:
     - steve-jobs
 ---
 
-**Link: [Update on Jobs’ health](None):** ""
+
 
 In case you didn't see this, [it's kind of interesting if you follow Apple and
 our pal Steve

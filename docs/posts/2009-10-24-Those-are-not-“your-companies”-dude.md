@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-10-24
 ---
 
-**Link: [Those are not “your companies” dude](None):** ""
+
 
 Check out [It’s Not My
 Company](<http://feedproxy.google.com/~r/FeldThoughts/~3/PyHZOmRdMI4/its-not-

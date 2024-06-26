@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-12-29
 ---
 
-**Link: [All I need is a pair of pants](None):** ""
+
 
 Check out [this
 post](<http://feeds.feedburner.com/~r/zephoria/thoughts/~3/207694274/all_i_need_is_a.html>)

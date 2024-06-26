@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-02-03
 ---
 
-**Link: [Decorating tip](None):** ""
+
 
 Hanging a picture on the wall? The perennial question, "how high should it
 be"? Here's the formula, handed down from the decorating gods: 60″ \+ height

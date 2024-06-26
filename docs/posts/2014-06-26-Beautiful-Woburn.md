@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2014-06-26
 ---
 
-**Link: [Beautiful Woburn](None):** ""
+
 
 I bet you didn't know there was a forest like this in Woburn!
 

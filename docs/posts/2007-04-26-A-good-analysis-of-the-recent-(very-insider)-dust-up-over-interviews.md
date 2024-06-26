@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-04-26
 ---
 
-**Link: [A good analysis of the recent (very insider) dust-up over interviews](None):** ""
+
 
 Check out [this post](<http://www.buzzmachine.com/2007/04/26/the-obsolete-
 interview/>) from [BuzzMachine](<http://www.buzzmachine.com>):

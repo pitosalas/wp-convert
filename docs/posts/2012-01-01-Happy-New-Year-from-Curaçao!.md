@@ -9,7 +9,7 @@ tags:
     - video
 ---
 
-**Link: [Happy New Year from Curaçao!](None):** ""
+
 
 It felt like a war zone without the danger!
 

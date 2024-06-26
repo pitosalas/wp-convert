@@ -8,7 +8,7 @@ tags:
     - tools
 ---
 
-**Link: [It’s Time to Say Goodbye to These Obsolete Python Libraries](None):** ""
+
 
 [ It's Time to Say Goodbye to These Obsolete Python Libraries](<
 https://martinheinz.dev/blog/77>) –p  

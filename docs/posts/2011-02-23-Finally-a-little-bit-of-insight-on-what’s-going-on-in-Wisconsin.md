@@ -7,7 +7,7 @@ tags:
     - wiscon-tagsin
 ---
 
-**Link: [Finally a little bit of insight on what’s going on in Wisconsin](None):** ""
+
 
 I've seen several interviews with [Scott
 Walker](<http://en.wikipedia.org/wiki/Scott_Walker_\(politician\)>), the

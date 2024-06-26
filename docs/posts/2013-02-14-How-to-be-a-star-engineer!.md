@@ -9,7 +9,7 @@ tags:
     - myths
 ---
 
-**Link: [How to be a star engineer!](None):** ""
+
 
 We all want to be star engineers, right? Here's an intriguing article from
 about ten years ago engineers from top companies helped to [dispel the myths

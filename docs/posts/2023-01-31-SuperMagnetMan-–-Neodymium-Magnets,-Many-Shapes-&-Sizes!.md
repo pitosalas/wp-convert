@@ -8,7 +8,7 @@ tags:
     - shopping
 ---
 
-**Link: [SuperMagnetMan – Neodymium Magnets, Many Shapes & Sizes!](None):** ""
+
 
 [ SuperMagnetMan - Neodymium Magnets, Many Shapes & Sizes!](<
 https://supermagnetman.com/>) –Large Selection of strong and powerful

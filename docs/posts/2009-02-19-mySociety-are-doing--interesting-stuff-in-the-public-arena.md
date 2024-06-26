@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-02-19
 ---
 
-**Link: [mySociety are doing  interesting stuff in the public arena](None):** ""
+
 
 A british organization (or should I say organisation?) called mySociety has
 done some **really cool** publically minded open source projects.

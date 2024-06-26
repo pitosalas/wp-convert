@@ -7,7 +7,7 @@ tags:
     - visualization-tag
 ---
 
-**Link: [Visualizing Algorithms](None):** ""
+
 
 Check out this really interesting article plus lovely animations. I have to go
 find out how it actually implements the animations. Even though the examples

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-09-01
 ---
 
-**Link: [New Orleans](None):** ""
+
 
 I've been away for several days, while following the catastrophe in the gulf
 unfolding, via TV and radio. I (yes oddly) didn't have internet access but

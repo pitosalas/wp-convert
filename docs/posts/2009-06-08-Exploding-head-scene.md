@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-06-08
 ---
 
-**Link: [Exploding head scene](None):** ""
+
 
 An amusing article in Newsweek about Peter Arnell, self-styled renaissance
 man, inventor of the "[Peapod](<http://www.gizmag.com/chrysler-introduces-gem-

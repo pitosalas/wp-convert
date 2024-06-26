@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fdefman.me%2Fblog%2Fsinatra-app">
 
-**Link: [Sinatra + Rack + Rake + ActiveRecord](https://defman.me/blog/sinatra-app):** "How to build an application with Sinatra, Rack and ActiveRecord?"
+**Link: [Sinatra + Rack + Rake + ActiveRecord](https://defman.me/blog/sinatra-app):** "How to build an application with Sinatra, Rack and ActiveRecord?" 
 
 

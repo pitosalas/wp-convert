@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-12-21
 ---
 
-**Link: [Keep an eye on Inquisix](None):** ""
+
 
 Here's an interesting new product, just into beta:
 [Inquisix](<http://inquisix.com/>). This is a service for **sales people** who

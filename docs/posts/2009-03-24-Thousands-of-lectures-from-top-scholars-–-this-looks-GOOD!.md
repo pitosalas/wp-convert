@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-03-24
 ---
 
-**Link: [Thousands of lectures from top scholars – this looks GOOD!](None):** ""
+
 
 I spent 5 minutes [perusing this site, and it looks really
 good.](<http://academicearth.org/>) Wow, makes me want to be back in college.

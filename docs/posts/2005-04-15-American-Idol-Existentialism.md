@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-04-15
 ---
 
-**Link: [American Idol Existentialism](None):** ""
+
 
 For you closet viewers of American Idol ([the TV
 Show](<http://idolonfox.com/>)), I thought you'd be amused by this new [TV

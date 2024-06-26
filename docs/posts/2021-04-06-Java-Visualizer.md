@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fpythontutor.com%2Fvisualize.html%23mode%3Ddisplay">
 
-**Link: [Java Visualizer](http://pythontutor.com/visualize.html#mode=display):** ""
+**Link: [Java Visualizer](http://pythontutor.com/visualize.html#mode=display):** "" 
 
 

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-04-06
 ---
 
-**Link: [Identities (WTF Series, 1)](None):** ""
+
 
 Some say that it’s very important that they be able to use one identity while
 doing one thing, and a different one for another. In ‘cyberspace’ they want to

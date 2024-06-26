@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-02-21
 ---
 
-**Link: [Insights on the world of mashups](None):** ""
+
 
 [Adam Green](<//www.darwinianweb.com/>) has two very insightful posts about
 Mashups inspired at [Mashup Camp](<http://www.mashupcamp.com/>):

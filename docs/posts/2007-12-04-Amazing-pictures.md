@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-12-04
 ---
 
-**Link: [Amazing pictures](None):** ""
+
 
 ![Amazing
 pictures](https://i0.wp.com/2photo.ru/uploads/posts/4268/20071018/alexandre_duretlutz/18_10_2007_0416438001192653208_alexandre_duretlutz.jpg?resize=205%2C154)

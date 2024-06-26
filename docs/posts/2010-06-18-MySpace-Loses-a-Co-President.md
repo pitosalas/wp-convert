@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2010-06-18
 ---
 
-**Link: [MySpace Loses a Co-President](None):** ""
+
 
 Check out [MySpace Loses a Co-
 President](<http://feedproxy.google.com/~r/Mashable/~3/sbmubZGXukQ/>)(**from**

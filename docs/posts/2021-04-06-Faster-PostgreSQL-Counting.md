@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://www.citusdata.com/assets/images/twitter/vintage-calculator-1200x630.jpg">
 
-**Link: [Faster PostgreSQL Counting](https://www.citusdata.com/blog/2016/10/12/count-performance):** "More abo!ut performance of Postgres"
+**Link: [Faster PostgreSQL Counting](https://www.citusdata.com/blog/2016/10/12/count-performance):** "More abo!ut performance of Postgres" 
 
 

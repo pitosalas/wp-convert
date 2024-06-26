@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-10-26
 ---
 
-**Link: [Pop!Tech 2007 – notes and thoughts](None):** ""
+
 
 My purely biased view of the most memorable presenters, quotes and associated
 links:

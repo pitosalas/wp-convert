@@ -76,19 +76,6 @@ class BlogBuild:
                 print(f"blogbuild_v2: Failed to copy {file_path}. Reason: {e}")
         print(f"""blogbuild_v2Total: {count} files copied""")
 
-    def run(self):
-        self.create_or_empty_directory(POSTS_DIRECTORY)
-        self.create_or_empty_directory(PAGES_DIRECTORY)
-        self.retrieve_api_drops_from_file()
-        self.retrieve_tags_from_file()
-        self.retrieve_wp_posts_from_file()
-        self.retrieve_wp_pages_from_file()
-        self.generate_drop_posts()
-        self.generate_wp_posts()
-        self.generate_wp_pages()
-        self.incorporate_original_pages()
-        self.incorporate_original_posts()
-
     def incorporate_original_pages(self):
         self.copy_all_files(ORIGINAL_PAGES_DIRECTORY, PAGES_DIRECTORY)
 
@@ -110,7 +97,6 @@ class BlogBuild:
                 continue
             tags = self.tags_to_markdown(post["tags"])
             self.save_individual_post(title, content, date, tags, None, None, "")
-            # print(f"Adding Post {title}")
             count += 1
         print(f"""blogbuild_v2: Total: {count} wp Posts Generated""")
 
@@ -193,7 +179,7 @@ class BlogBuild:
     def tags_to_markdown(self, tags):
         """Given list of tag IDs as input and converts them into a markdown-
         formatted string.  It retrieves the corresponding tag text from a dictionary and appends it
-        to the markdown string. If a tag ID does not have a corresponding tag
+        to the markdown string. If a tag fID does not have a corresponding tag
         text, it uses the string "none" instead. The function then returns the
         markdown string containing the tags.
         """
@@ -211,7 +197,7 @@ class BlogBuild:
             tags_string = f"\ntags:{tags_string}"
         return tags_string
 
-    def save_individual_post(self, title, content, date, tags, url, cover, excerpt):
+    def save_individual_post(self, title, content, date, tags, url, cover, excerpt) -> None:
         if cover is not None:
             cover_markdown = f"""<img class="cover" src="{cover}">\n"""
             cover_text = f"""\ncover: "{cover}" """
@@ -226,6 +212,7 @@ class BlogBuild:
             POSTS_DIRECTORY,
             self.sanitize_filename(date, title),
         )
+        link_markdown = "" if url is None else f"""**Link: [{title}]({url}):** "{excerpt}" """
         with open(file_path, "w", encoding="utf-8") as file:
             markdown = f"""---
 title: "{title}"
@@ -233,7 +220,7 @@ author: Pito Salas{url_text}{cover_text}
 date: {date}{tags}
 ---
 {cover_markdown}
-**Link: [{title}]({url}):** "{excerpt}"
+{link_markdown}
 
 {content}
 """
@@ -268,8 +255,8 @@ date: {date}
     def sanitize_filename(self, date, title):
         filename = f"{date}-{title.replace(' ', '-')}.md"
         filename = re.sub(
-            r'[\\/*?:"<>|]', "_", filename
-        )  # Replace forbidden characters with underscore
+            r'[\\/*?:"<>|]', "-", filename
+        )  # Replace forbidden characters with dash
         filename = re.sub(
             r"\s+", "", filename.strip()
         )  # Replace spaces or consecutive spaces with dash
@@ -293,6 +280,28 @@ date: {date}
         else:
             # Create the directory if it doesn't exist
             os.makedirs(dir_path)
+
+    def run(self) -> None:
+        """
+        Executes the main functionality of the blog builder.
+
+        This method performs a series of steps to build a blog. It creates or empties the necessary directories,
+        retrieves data from files, generates posts and pages, and incorporates original pages and posts.
+
+        Returns:
+            None
+        """
+        self.create_or_empty_directory(POSTS_DIRECTORY)
+        self.create_or_empty_directory(PAGES_DIRECTORY)
+        self.retrieve_api_drops_from_file()
+        self.retrieve_tags_from_file()
+        self.retrieve_wp_posts_from_file()
+        self.retrieve_wp_pages_from_file()
+        self.generate_drop_posts()
+        self.generate_wp_posts()
+        self.generate_wp_pages()
+        self.incorporate_original_pages()
+        self.incorporate_original_posts()
 
 
 # Main program

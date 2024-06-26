@@ -9,7 +9,7 @@ tags:
     - public
 ---
 
-**Link: [Amazon provides free hosting for public data sets](None):** ""
+
 
 If you work with non-profit projects that collect or disseminate large amounts
 of public data, you would find this interesting.

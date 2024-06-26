@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-11-24
 ---
 
-**Link: [Goodnight Irene – Huddie Ledbetter, aka Leadbelly](None):** ""
+
 
 Chorus: Irene goodnight, Irene goodnight Goodnight Irene, goodnight Irene I'll
 see you in my dreams Last Saturday night I got married Me and my wife settled

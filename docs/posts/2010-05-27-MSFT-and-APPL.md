@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2010-05-27
 ---
 
-**Link: [MSFT and APPL](None):** ""
+
 
 I saw this bit today: "[Apple: Will Steve Balmer Show Up At The WWDC
 Keynote?".](<http://blogs.barrons.com/techtraderdaily/2010/05/26/apple-will-

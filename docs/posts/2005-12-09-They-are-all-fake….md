@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-12-09
 ---
 
-**Link: [They are all fake…](None):** ""
+
 
 Check out these amusing images which I came across on the [Advertising/Design
 Goodness Blog](<http://www.frederiksamuel.com/blog/2005/12/truck-art.html>).

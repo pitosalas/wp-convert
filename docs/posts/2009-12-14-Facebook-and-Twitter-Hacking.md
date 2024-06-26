@@ -8,7 +8,7 @@ tags:
     - twitter
 ---
 
-**Link: [Facebook and Twitter Hacking](None):** ""
+
 
 I guess it's not surprising that people's [Facebook and twitter accounts are
 getting

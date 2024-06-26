@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-09-10
 ---
 
-**Link: [The Long Tail of Facebook Applications](None):** ""
+
 
 Check out [this post](<http://herot.typepad.com/cherot/2007/09/the-long-
 tail-o.html>) about the distribution of Facebook applications on [Christopher

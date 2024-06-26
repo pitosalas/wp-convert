@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://avatars.githubusercontent.com/u/6845884?s=400&v=4">
 
-**Link: [justinfrench's formtastic at master - GitHub](http://github.com/justinfrench/formtastic):** "A Rails form builder plugin with semantically rich and accessible markup. - formtastic/formtastic"
+**Link: [justinfrench's formtastic at master - GitHub](http://github.com/justinfrench/formtastic):** "A Rails form builder plugin with semantically rich and accessible markup. - formtastic/formtastic" 
 
 

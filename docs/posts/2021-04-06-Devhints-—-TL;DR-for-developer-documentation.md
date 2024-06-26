@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://assets.devhints.io/previews/index.jpg?t=20210316010446">
 
-**Link: [Devhints — TL;DR for developer documentation](https://devhints.io):** "An amazing set of cheat sheets from a prolific developer in the philippines"
+**Link: [Devhints — TL;DR for developer documentation](https://devhints.io):** "An amazing set of cheat sheets from a prolific developer in the philippines" 
 
 

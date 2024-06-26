@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fcode.google.com%2Fp%2Ftokland%2Fwiki%2FRubyIdioms">
 
-**Link: [RubyIdioms - tokland - Ruby conventions and idioms - My personal repository for code and documentation - Google Project Hosting](http://code.google.com/p/tokland/wiki/RubyIdioms):** "Very nice list of idioms"
+**Link: [RubyIdioms - tokland - Ruby conventions and idioms - My personal repository for code and documentation - Google Project Hosting](http://code.google.com/p/tokland/wiki/RubyIdioms):** "Very nice list of idioms" 
 
 

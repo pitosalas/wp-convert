@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-09-10
 ---
 
-**Link: [Simulation is hot!](None):** ""
+
 
 Here's an interesting link that continues on the theme from my previous post
 on Agent Based Modeling. This isn't agent based, but it is kind of the most

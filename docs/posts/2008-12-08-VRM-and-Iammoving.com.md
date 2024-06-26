@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-12-08
 ---
 
-**Link: [VRM and Iammoving.com](None):** ""
+
 
 VRM is a concept that's been floating around for a while. Evangelized (and
 perhaps coined) by [Doc Searls](<http://blogs.law.harvard.edu/doc/>), it has

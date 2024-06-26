@@ -8,7 +8,7 @@ tags:
     - rails
 ---
 
-**Link: [[GEEKY] Capistrano Colors](None):** ""
+
 
 A random, highly specific and geeky tip:
 

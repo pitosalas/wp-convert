@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-03-30
 ---
 
-**Link: [RSS Alley Geek Dinner II – A great time was had by all!](None):** ""
+
 
 Last night's event was a **lot of fun**. A ton of energy in the room, people
 huddling around comparing notes, even doing some demos. The place was nice and

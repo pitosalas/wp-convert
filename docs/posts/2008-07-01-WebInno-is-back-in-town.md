@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-07-01
 ---
 
-**Link: [WebInno is back in town](None):** ""
+
 
 If you live in the Boston area and are in the tech business you should check
 out the more or less monthly Web Innovators gathering sometimes referred to in

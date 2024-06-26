@@ -7,7 +7,7 @@ tags:
     - steve-jobs
 ---
 
-**Link: [Steve Jobs steps down as CEO of Apple](None):** ""
+
 
 This news saddens me:
 

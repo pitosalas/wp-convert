@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fwww.saturnflyer.com%2Fblog%2Fworking-later-bridging-your-code-with-the-background">
 
-**Link: [How I fixed my biggest mistake with implementing background jobs — Saturn Flyer](https://www.saturnflyer.com/blog/working-later-bridging-your-code-with-the-background):** ""
+**Link: [How I fixed my biggest mistake with implementing background jobs — Saturn Flyer](https://www.saturnflyer.com/blog/working-later-bridging-your-code-with-the-background):** "" 
 
 

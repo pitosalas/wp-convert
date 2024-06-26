@@ -7,7 +7,7 @@ tags:
     - USA
 ---
 
-**Link: [Hilarious blog post teaching Israelis how to adapt to living in the USA](None):** ""
+
 
 This is too funny. Here's a taste, but you should read the whole article
 saying [how an Israeli should adapt to living in the United

@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://miro.medium.com/focal/1200/632/23/47/1*jDDDzcjb2blWLSN68q3l2A.png">
 
-**Link: [Git Commands to Live By](https://link.medium.com/sbnKSHQCDcb):** "A great collection of semi- advanced git commands. Super useful!"
+**Link: [Git Commands to Live By](https://link.medium.com/sbnKSHQCDcb):** "A great collection of semi- advanced git commands. Super useful!" 
 
 

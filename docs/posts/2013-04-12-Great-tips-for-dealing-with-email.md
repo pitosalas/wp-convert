@@ -8,7 +8,7 @@ tags:
     - new-york-times
 ---
 
-**Link: [Great tips for dealing with email](None):** ""
+
 
 This is a tired topic but this [article from the New York Times does have some
 good tips on managing your avalanche of

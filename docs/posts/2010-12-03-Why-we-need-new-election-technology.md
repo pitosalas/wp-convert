@@ -8,7 +8,7 @@ tags:
     - trustthevote
 ---
 
-**Link: [Why we need new election technology](None):** ""
+
 
 I work at the [Open Source Digital Voting Foundation](<http://www.osdv.org>),
 where we are creating new, modern, open source, and publicly owned technology

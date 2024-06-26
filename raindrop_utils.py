@@ -1,7 +1,6 @@
 from time import sleep
 from typing import Any, Dict, Callable
 import os
-
 import requests
 
 def setup_raindrop_header():

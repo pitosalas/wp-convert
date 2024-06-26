@@ -8,7 +8,7 @@ tags:
     - weightloss
 ---
 
-**Link: [Secret trick for losing weight](None):** ""
+
 
 I am going to share my **secret technology** for losing weight. It's a mental
 exercise that really works. It is inspired by the neuro-economics concept of

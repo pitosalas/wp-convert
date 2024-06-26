@@ -7,7 +7,7 @@ tags:
     - drawing
 ---
 
-**Link: [Little children’s drawings turned into art – COOL!](None):** ""
+
 
 Check [this link out, there are lots of really fun
 drawings](<http://www.linkinn.com/wiki_101.php?add=&id=3192&select=All>). The

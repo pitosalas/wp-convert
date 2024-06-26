@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-06-30
 ---
 
-**Link: [Good space shuttle writing](None):** ""
+
 
 If you, like me, are a space buff, you will find these pieces about space-
 shuttle safety very interesting (and follow the links too.) So check these

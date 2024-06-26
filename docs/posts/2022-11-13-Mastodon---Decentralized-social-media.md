@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://joinmastodon.org/preview.png">
 
-**Link: [Mastodon - Decentralized social media](https://joinmastodon.org/):** "Learn more about Mastodon, the radically different, free and open-source decentralized social media platform."
+**Link: [Mastodon - Decentralized social media](https://joinmastodon.org/):** "Learn more about Mastodon, the radically different, free and open-source decentralized social media platform." 
 
 

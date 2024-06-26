@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-08-13
 ---
 
-**Link: [XP SP2 Shows Why Microsoft Is A Great Company](None):** ""
+
 
 I've said (and believe) that there's **no other company on earth** that has
 the capability to develop, debug, beta test, deliver software on a massive

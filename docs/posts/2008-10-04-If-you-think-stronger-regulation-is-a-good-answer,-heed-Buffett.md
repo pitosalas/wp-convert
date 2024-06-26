@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-10-04
 ---
 
-**Link: [If you think stronger regulation is a good answer, heed Buffett](None):** ""
+
 
 Check out this post [If you think stronger regulation is a good answer, heed
 Buffett](<http://feeds.feedburner.com/~r/NewmarksDoor/~3/409097728/if-you-

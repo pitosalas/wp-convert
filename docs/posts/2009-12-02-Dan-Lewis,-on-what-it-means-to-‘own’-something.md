@@ -9,7 +9,7 @@ tags:
     - no-tagok
 ---
 
-**Link: [Dan Lewis, on what it means to ‘own’ something](None):** ""
+
 
 [This post talks about the difference between owning, possessing and accessing
 a book](<http://dlewis.net/2009/12/01/what-does-it-mean-to-buy-an-e-book/>) or

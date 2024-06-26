@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Foverreacted.io%2Fgoodbye-clean-code">
 
-**Link: [Goodbye, Clean Code — Overreacted](https://overreacted.io/goodbye-clean-code):** "DRY. Everything in moderation. On rules and knowing when to break them."
+**Link: [Goodbye, Clean Code — Overreacted](https://overreacted.io/goodbye-clean-code):** "DRY. Everything in moderation. On rules and knowing when to break them." 
 
 

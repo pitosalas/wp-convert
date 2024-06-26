@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="">
 
-**Link: [Olin Course Schedules](https://sis.olin.edu/cgi-bin/faculty/frame.cgi):** ""
+**Link: [Olin Course Schedules](https://sis.olin.edu/cgi-bin/faculty/frame.cgi):** "" 
 
 

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-12-02
 ---
 
-**Link: [Why Improv didn’t succeed, Part Deux](None):** ""
+
 
 Seems like a dredged up some "old" (you know who you are) **Improv fans** with
 [my earlier posting](</weblogs/archives/000522.html>), so I thought an

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-12-23
 ---
 
-**Link: [In-depth analysis of Microsoft content syndication platform patent application](None):** ""
+
 
 <!-  
 >  body { font-weight: normal; line-height: normal; font-family: Lucida

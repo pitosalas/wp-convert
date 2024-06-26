@@ -8,7 +8,7 @@ tags:
     - tax
 ---
 
-**Link: [Boo for me! Yay! for Massachusetts](None):** ""
+
 
 Today my first Amazon order with sales tax. Too bad for me, but good for our
 state!![](https://i0.wp.com/salas.com/wp-

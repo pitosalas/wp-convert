@@ -6,7 +6,7 @@ tags:
     - pagerank-countermeasures-colossus-mon-tagey-ecommerce
 ---
 
-**Link: [Google is the universe](None):** ""
+
 
 As you may have heard, I've been learning all about Search Engine Optimization
 (SEO) lately. I just came across this amazing little service called the

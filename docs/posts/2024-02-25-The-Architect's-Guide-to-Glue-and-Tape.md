@@ -16,7 +16,7 @@ tags:
 ---
 <img class="cover" src="https://youngarchitect.com/wp-content/uploads/2014/10/Instagram.jpg">
 
-**Link: [The Architect's Guide to Glue and Tape](https://youngarchitect.com/architecture-model-glue-tape/):** "A comprensive guide to all the different options of glue and tape available for architecture model building."
+**Link: [The Architect's Guide to Glue and Tape](https://youngarchitect.com/architecture-model-glue-tape/):** "A comprensive guide to all the different options of glue and tape available for architecture model building." 
 
 Everything you want to know -- well I am exaggerating -- about sticky things. I discovered this while working on mounting photographs.
 

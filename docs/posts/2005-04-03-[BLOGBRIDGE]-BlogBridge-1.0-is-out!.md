@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-04-03
 ---
 
-**Link: [[BLOGBRIDGE] BlogBridge 1.0 is out!](None):** ""
+
 
 **It 's here! **We are officially declaring BlogBridge as a 1.0 product! The
 site is updated, the features are solid and we are off to the races. Here are

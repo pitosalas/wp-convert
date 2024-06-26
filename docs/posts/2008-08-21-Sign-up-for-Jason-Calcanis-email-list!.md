@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-08-21
 ---
 
-**Link: [Sign up for Jason Calcanis email list!](None):** ""
+
 
 [Jason Calcanis has stopped
 blogging](<http://www.calacanis.com/2008/08/18/updates/>) and instead is doing

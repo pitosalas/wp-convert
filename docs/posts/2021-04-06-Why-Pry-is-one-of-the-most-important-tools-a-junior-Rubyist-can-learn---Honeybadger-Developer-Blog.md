@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://www.honeybadger.io/images/pull_image.png">
 
-**Link: [Why Pry is one of the most important tools a junior Rubyist can learn - Honeybadger Developer Blog](https://www.honeybadger.io/blog/debugging-ruby-with-pry):** "Everyone loves pry."
+**Link: [Why Pry is one of the most important tools a junior Rubyist can learn - Honeybadger Developer Blog](https://www.honeybadger.io/blog/debugging-ruby-with-pry):** "Everyone loves pry." 
 
 

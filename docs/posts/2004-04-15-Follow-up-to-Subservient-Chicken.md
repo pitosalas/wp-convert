@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-04-15
 ---
 
-**Link: [Follow-up to Subservient Chicken](None):** ""
+
 
 The true story comes out about the most excellent subservient chicken gimick.
 [I mentioned it ](</weblogs/archives/000385.html>)a few days ago when I first

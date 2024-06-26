@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-04-05
 ---
 
-**Link: [Wow! Google rocks!](None):** ""
+
 
 [![Picture
 1-2](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/weblogs/images/Picture%25201-2-tm.jpg?resize=200%2C198)](<https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/weblogs/images/Picture%25201-2.jpg>)Google

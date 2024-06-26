@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-06-17
 ---
 
-**Link: [Making money with aggregators](None):** ""
+
 
 [Francois](<http://www.emergencemarketing.com/>), reacting to something
 [written by Jason

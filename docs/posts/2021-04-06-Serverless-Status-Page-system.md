@@ -11,6 +11,6 @@ tags:
 ---
 <img class="cover" src="https://lambstatus.github.io/logos/logo-metatag.png">
 
-**Link: [Serverless Status Page system](https://lambstatus.github.io):** "Seems like a great idea!"
+**Link: [Serverless Status Page system](https://lambstatus.github.io):** "Seems like a great idea!" 
 
 

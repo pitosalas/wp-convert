@@ -7,7 +7,7 @@ tags:
     - twitter
 ---
 
-**Link: [Big announcement about twitter](None):** ""
+
 
 Actually it's about [Twitter Support in
 BlogBridge](<http://www.blogbridge.com/2011/07/18/new-twitter-support-now-

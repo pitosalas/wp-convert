@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://www.macbartender.com/Bartender4/img/Icon-1024.png">
 
-**Link: [Bartender 4 - Take control of your Menu bar](https://www.macbartender.com/):** ""
+**Link: [Bartender 4 - Take control of your Menu bar](https://www.macbartender.com/):** "" 
 
 

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-09-27
 ---
 
-**Link: [Mars Rover tracks seen from space](None):** ""
+
 
 You know I am a fan of the cool **little Mars Rovers**. Here's an interesting
 little bit from Nasa:

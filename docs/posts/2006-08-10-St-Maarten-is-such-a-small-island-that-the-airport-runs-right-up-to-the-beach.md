@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-08-10
 ---
 
-**Link: [St Maarten is such a small island that the airport runs right up to the beach](None):** ""
+
 
 Check out [this picture!
 ](<http://www.airliners.net/open.file?id=0385938&WxsIERv=Obrvat%20747-406&Wm=0&WdsYXMg=XYZ%20-%20Eblny%20Qhgpu%20Nveyvarf&QtODMg=Cuvyvcfohet%20%2F%20Fg.%20Znnegra%20-%20Cevaprff%20Whyvnan%20%28FKZ%20%2F%20GAPZ%29&ERDLTkt=Argureynaqf%20Nagvyyrf&ktODMp=Whar%2026%2C%202003&BP=1&WNEb25u=Nevp%20Gunyzna&xsIERvdWdsY=CU-

@@ -10,7 +10,7 @@ tags:
     - performance
 ---
 
-**Link: [MacBook Performance comparison](None):** ""
+
 
 Due to an unusual set of coincidences I have 3 different Macintosh computers
 in my office today so I could run performance comparisons. After a brief bit

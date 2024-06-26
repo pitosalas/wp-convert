@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-01-12
 ---
 
-**Link: [Scott Kirsner of the Boston](None):** ""
+
 
 **[Scott Kirsner of the Boston
 Globe:](<http://www.boston.com/business/technology/articles/2004/01/12/tech_negativity_bubble_begins_to_deflate/>)

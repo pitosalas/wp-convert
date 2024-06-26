@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://martinfowler.com/articles/oss-lockin/locks_card.jpg">
 
-**Link: [Don't get locked up into avoiding lock-in](https://martinfowler.com/articles/oss-lockin.html):** "All the flabors of lockin explained."
+**Link: [Don't get locked up into avoiding lock-in](https://martinfowler.com/articles/oss-lockin.html):** "All the flabors of lockin explained." 
 
 

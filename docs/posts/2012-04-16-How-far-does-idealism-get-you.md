@@ -9,7 +9,7 @@ tags:
     - sam-spade
 ---
 
-**Link: [How far does idealism get you](None):** ""
+
 
 [David Brooks of the New York Times, in an article about (my interpretation)
 the limits of idealism:](<http://www.nytimes.com/2012/04/13/opinion/brooks-

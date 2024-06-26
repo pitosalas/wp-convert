@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-12-17
 ---
 
-**Link: [Holiday gift for the geek who has everything](None):** ""
+
 
 ![](https://i0.wp.com/www.bathsheba.com/sculpt/mg/mg.jpg?w=584)Everyone has a
 column or article these days of gift suggestions. Here's mine for all of you

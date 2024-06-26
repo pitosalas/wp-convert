@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-05-08
 ---
 
-**Link: [Manny being Manny](None):** ""
+
 
 Check this post [Thank you Jason
 Bay](<http://38pitches.weei.com/sports/boston/baseball/curt-

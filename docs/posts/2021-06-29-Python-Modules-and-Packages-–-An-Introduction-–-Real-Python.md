@@ -15,6 +15,6 @@ tags:
 ---
 <img class="cover" src="https://files.realpython.com/media/Python-Modules-and-Packages-An-Introduction_Watermarked.20936240a94d.jpg">
 
-**Link: [Python Modules and Packages – An Introduction – Real Python](https://realpython.com/python-modules-packages/):** "This article explores Python modules and Python packages, two mechanisms that facilitate modular programming."
+**Link: [Python Modules and Packages – An Introduction – Real Python](https://realpython.com/python-modules-packages/):** "This article explores Python modules and Python packages, two mechanisms that facilitate modular programming." 
 
 

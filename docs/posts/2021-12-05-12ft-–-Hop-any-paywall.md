@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://12ft.io/og-banner.png">
 
-**Link: [12ft – Hop any paywall](https://12ft.io/):** "Show me a 10ft paywall, I’ll show you a 12ft ladder."
+**Link: [12ft – Hop any paywall](https://12ft.io/):** "Show me a 10ft paywall, I’ll show you a 12ft ladder." 
 
 

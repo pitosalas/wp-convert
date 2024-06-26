@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-08-05
 ---
 
-**Link: [BlogBridge open source license](None):** ""
+
 
 I've done a little research about what the Open Source really means, legally,
 when it comes to [BlogBridge](<http://www.blogbridge.com>). I wrote about this

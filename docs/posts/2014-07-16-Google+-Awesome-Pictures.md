@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2014-07-16
 ---
 
-**Link: [Google+ Awesome Pictures](None):** ""
+
 
 A very little known feature of Google+ Is the "auto awesome" feature. I want
 to sing its praises!

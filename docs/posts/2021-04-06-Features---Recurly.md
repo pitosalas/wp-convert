@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://recurly.com/img2/og-image.gif">
 
-**Link: [Features - Recurly](http://recurly.com/features):** "Recurly provides enterprise-class subscription management for thousands of businesses worldwide."
+**Link: [Features - Recurly](http://recurly.com/features):** "Recurly provides enterprise-class subscription management for thousands of businesses worldwide." 
 
 

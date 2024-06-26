@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-02-28
 ---
 
-**Link: [Content Management Systems just don’t work.](None):** ""
+
 
 I am often asked what technology someone should use to create their web
 presence. I know Ruby on Rails well, but I often also recommend checking out

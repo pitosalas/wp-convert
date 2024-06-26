@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://hackernoon.com/hn-images/1*apO3HjeMwi8ZX4LzSCzkOg.png">
 
-**Link: [The Practical Guide to Using ActionCable – Hacker Noon](https://hackernoon.com/the-practical-guide-to-using-actioncable-30d570d8988c):** "Rails Actioncable is really complicated. Here's another link"
+**Link: [The Practical Guide to Using ActionCable – Hacker Noon](https://hackernoon.com/the-practical-guide-to-using-actioncable-30d570d8988c):** "Rails Actioncable is really complicated. Here's another link" 
 
 

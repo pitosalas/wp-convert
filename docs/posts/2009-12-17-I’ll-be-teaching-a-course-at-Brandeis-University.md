@@ -12,7 +12,7 @@ tags:
     - web
 ---
 
-**Link: [I’ll be teaching a course at Brandeis University](None):** ""
+
 
 **Follow along as I develop the course:**[Brandeis University Web App Dev,
 Mobile App Dev and

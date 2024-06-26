@@ -6,7 +6,7 @@ tags:
     - security-mint-financial-pogue
 ---
 
-**Link: [MINT and security](None):** ""
+
 
 I have a new favorite web service: [Mint](<http://www.mint.com/>). It's a
 really nice implementation of kind of a "Quicken" online, but with a few

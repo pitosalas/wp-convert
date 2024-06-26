@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-01-15
 ---
 
-**Link: [Scott Adams writres about Spasmodic Dysphonia…](None):** ""
+
 
 <!-  
 >  body { font-size: 11pt; line-height: normal; font-family: Lucida Grande;

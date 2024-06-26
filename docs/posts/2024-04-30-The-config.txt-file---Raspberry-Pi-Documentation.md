@@ -15,6 +15,6 @@ tags:
 ---
 <img class="cover" src="https://www.raspberrypi.com/documentation/images/opensocial.png">
 
-**Link: [The config.txt file - Raspberry Pi Documentation](https://www.raspberrypi.com/documentation/computers/config_txt.html#hdmi_mode):** "The official documentation for Raspberry Pi computers and microcontrollers"
+**Link: [The config.txt file - Raspberry Pi Documentation](https://www.raspberrypi.com/documentation/computers/config_txt.html#hdmi_mode):** "The official documentation for Raspberry Pi computers and microcontrollers" 
 
 A very useful documenation of various pre-boot config files for Rasberry Pi

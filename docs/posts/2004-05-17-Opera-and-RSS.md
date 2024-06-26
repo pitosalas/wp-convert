@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-05-17
 ---
 
-**Link: [Opera and RSS](None):** ""
+
 
 [Various people
 ](<http://channels.lockergnome.com/rss/archives/software/010330.phtml>)are

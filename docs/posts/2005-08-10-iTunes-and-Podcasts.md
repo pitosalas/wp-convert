@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-08-10
 ---
 
-**Link: [iTunes and Podcasts](None):** ""
+
 
 This is just a quickie: did you know that you can just drag and drop the URL
 of a Podcast RSS feed (a.k.a. an RSS Feed with enclosures) onto the Podcasts

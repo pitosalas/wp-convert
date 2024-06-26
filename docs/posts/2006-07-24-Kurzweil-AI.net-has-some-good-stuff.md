@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-07-24
 ---
 
-**Link: [Kurzweil AI.net has some good stuff](None):** ""
+
 
 I knew about [this site](<http://www.kurzweilai.net/>) but recently came
 across a link to another quite interesting article, "Why We Can be Confident

@@ -9,7 +9,7 @@ tags:
     - windows
 ---
 
-**Link: [History is made](None):** ""
+
 
 The first personal **computer actually made by Microsoft**! That's
 **history**. They've made mice, and X-boxes, but never desktops, laptops, or

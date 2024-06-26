@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-03-17
 ---
 
-**Link: [Open Source Icons and BlogBridge](None):** ""
+
 
 The beat goes on. Now that we have Unread working, the time was ripe to add
 several new commands to the user interface. With the help of Everaldo, I am

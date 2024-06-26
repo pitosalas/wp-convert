@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="">
 
-**Link: [Getting started with Autotest - Continuous Testing](http://ph7spot.com/musings/getting-started-with-autotest):** ""
+**Link: [Getting started with Autotest - Continuous Testing](http://ph7spot.com/musings/getting-started-with-autotest):** "" 
 
 

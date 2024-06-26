@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://evrone.com/sites/default/files/n-fields/cases/71531306_2656002431177544_8447687255136403456_o.jpg">
 
-**Link: [Yukihiro Matsumoto interview for Evrone company (in English)](https://evrone.com/yukihiro-matsumoto-interview):** "An interesting interview with Matz, the inventor and author of ruby."
+**Link: [Yukihiro Matsumoto interview for Evrone company (in English)](https://evrone.com/yukihiro-matsumoto-interview):** "An interesting interview with Matz, the inventor and author of ruby." 
 
 

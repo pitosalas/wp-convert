@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-06-09
 ---
 
-**Link: [June in Paradise](None):** ""
+
 
 ![](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-
 content/uploads/imagewell//paradise.jpg?resize=198%2C331)I just returned from

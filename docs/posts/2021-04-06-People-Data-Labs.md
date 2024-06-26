@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fwww.peopledatalabs.com">
 
-**Link: [People Data Labs](https://www.peopledatalabs.com):** "A fairly amazing service api if it works. Check it out and let us know!"
+**Link: [People Data Labs](https://www.peopledatalabs.com):** "A fairly amazing service api if it works. Check it out and let us know!" 
 
 

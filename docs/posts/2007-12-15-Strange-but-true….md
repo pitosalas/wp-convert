@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-12-15
 ---
 
-**Link: [Strange but true…](None):** ""
+
 
 Just a curious fact from [Scientific
 American](<http://www.sciam.com/article.cfm?id=strange-but-true-humans-carry-

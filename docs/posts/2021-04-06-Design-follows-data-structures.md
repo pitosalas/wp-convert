@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="http://www.tedinski.com/assets/share-image.jpg">
 
-**Link: [Design follows data structures](https://www.tedinski.com/2019/01/29/data-structures-are-fundamental.html):** "If you’re interested in algorithms, optimization and big-O you will like this."
+**Link: [Design follows data structures](https://www.tedinski.com/2019/01/29/data-structures-are-fundamental.html):** "If you’re interested in algorithms, optimization and big-O you will like this." 
 
 

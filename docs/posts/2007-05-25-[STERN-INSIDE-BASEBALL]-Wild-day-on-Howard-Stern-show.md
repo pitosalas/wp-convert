@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-05-25
 ---
 
-**Link: [[STERN INSIDE BASEBALL] Wild day on Howard Stern show](None):** ""
+
 
 Hey Stern fans, can you believe what kind of a day it was today? What a soap
 opera, but riveting.

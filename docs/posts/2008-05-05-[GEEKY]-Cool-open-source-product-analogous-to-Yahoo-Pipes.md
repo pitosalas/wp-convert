@@ -6,7 +6,7 @@ tags:
     - Snaplogic-opensource-rest
 ---
 
-**Link: [[GEEKY] Cool open source product analogous to Yahoo Pipes](None):** ""
+
 
 [SnapLogic](<http://www.snaplogic.com>) is an open source product (at least in
 it's base edition) providing tools to construct pipelines that deliver and

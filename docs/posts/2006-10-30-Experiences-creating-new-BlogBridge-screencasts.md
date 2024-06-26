@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-10-30
 ---
 
-**Link: [Experiences creating new BlogBridge screencasts](None):** ""
+
 
 Over on our new BlogBridge site, we've been working on a new set of
 Screencasts. We discovered various problems with what we had done before and

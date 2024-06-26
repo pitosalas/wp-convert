@@ -8,7 +8,7 @@ tags:
     - teaching
 ---
 
-**Link: [Instead of giving out grades in a class, give out experience points](None):** ""
+
 
 If you watched (or didn't) the preceding video by [Jesse Schell
 ](<http://www.schellgames.com/>)you might have caught one throw away idea

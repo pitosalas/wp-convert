@@ -6,7 +6,7 @@ tags:
     - enterprise-20-techno-taglogy-blogbridge-km-portals
 ---
 
-**Link: [Great coverage of Enterprise 2.0](None):** ""
+
 
 In the Portals and KM blog, a pair of great articles about "Enterprise 2.0".
 Bill Ives has been following and covering Enterprise 2.0, which I've seen

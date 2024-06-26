@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-07-15
 ---
 
-**Link: [[GEEKY] Interesting article about code leaks](None):** ""
+
 
 [Check out this interesting case study of how one awful memory leak was
 tracked down and killed](<http://codehappy.wordpress.com/2007/01/17/tracking-

@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fwinnipesaukeegateway.org">
 
-**Link: [Lake Winnipesaukee Gateway](http://winnipesaukeegateway.org):** ""
+**Link: [Lake Winnipesaukee Gateway](http://winnipesaukeegateway.org):** "" 
 
 

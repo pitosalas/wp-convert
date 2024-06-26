@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-05-16
 ---
 
-**Link: [Ray Kurzweil @ MIT](None):** ""
+
 
 Went to hear Ray Kurzweil yesterday at MIT, at an [event jointly sponsored by
 IEEE and GBC/ACM Robotics

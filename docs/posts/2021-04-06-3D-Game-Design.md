@@ -8,6 +8,6 @@ date: 2021-04-06
 ---
 <img class="cover" src="https://sites.google.com/a/brandeis.edu/3d-game-design/_/rsrc/1354635393195/unit-0-creating-worlds/basic-world-creation/buildingbridges.png?height=125&width=200">
 
-**Link: [3D Game Design](https://sites.google.com/a/brandeis.edu/3d-game-design/home):** ""
+**Link: [3D Game Design](https://sites.google.com/a/brandeis.edu/3d-game-design/home):** "" 
 
 

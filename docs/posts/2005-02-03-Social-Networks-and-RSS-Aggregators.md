@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-02-03
 ---
 
-**Link: [Social Networks and RSS Aggregators](None):** ""
+
 
 [Dave Winer says](<http://archive.scripting.com/2005/02/02#When:8:05:26PM>)
 that there's a bit of buzz about social networks and RSS aggregators. I

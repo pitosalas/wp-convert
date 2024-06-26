@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-10-01
 ---
 
-**Link: [Esther Dyson on the Coming Ad Revolution](None):** ""
+
 
 [Esther Dyson](<http://www.edventure.com/>) wrote this very interesting [Wall
 Street Journal article about how online advertising is

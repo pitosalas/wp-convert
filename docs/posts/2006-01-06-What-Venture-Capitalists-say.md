@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-01-06
 ---
 
-**Link: [What Venture Capitalists say](None):** ""
+
 
 Guy Kawasaki writes a nice little bit about VCs (some of my best friends are
 VCs) and about entrepreneurs. It rings very true to me. Here's some of what he

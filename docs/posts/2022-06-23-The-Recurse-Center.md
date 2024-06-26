@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://d29xw0ra2h4o4u.cloudfront.net/assets/logo_square-7ec6e03a06121fd8e5bd156dd7b1044b78e6cc67f65aec39e5a8b75795519d3e.png">
 
-**Link: [The Recurse Center](https://www.recurse.com/):** "The Recurse Center is a self-directed, community-driven educational retreat for programmers in New York City."
+**Link: [The Recurse Center](https://www.recurse.com/):** "The Recurse Center is a self-directed, community-driven educational retreat for programmers in New York City." 
 
 

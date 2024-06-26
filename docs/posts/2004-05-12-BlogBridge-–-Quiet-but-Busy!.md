@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-05-12
 ---
 
-**Link: [BlogBridge – Quiet but Busy!](None):** ""
+
 
 It's been quiet but we've been busy. We are getting ready to put up a major
 new revision of BlogBridge with goodies such as drag and drop of Channels,

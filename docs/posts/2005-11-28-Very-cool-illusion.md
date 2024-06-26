@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-11-28
 ---
 
-**Link: [Very cool illusion](None):** ""
+
 
 [Try this
 out](<http://www.patmedia.net/marklevinson/cool/cool_illusion.html>), it

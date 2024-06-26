@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fwww.coursebuilder.com.au">
 
-**Link: [Course Builder - The Logistics Of Learning](http://www.coursebuilder.com.au):** ""
+**Link: [Course Builder - The Logistics Of Learning](http://www.coursebuilder.com.au):** "" 
 
 

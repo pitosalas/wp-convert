@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-02-02
 ---
 
-**Link: [Australian police testing super cruiser](None):** ""
+
 
 Check out [this
 post](<http://feeds.autoblog.com/~r/weblogsinc/autoblog/~3/210114751/>) from

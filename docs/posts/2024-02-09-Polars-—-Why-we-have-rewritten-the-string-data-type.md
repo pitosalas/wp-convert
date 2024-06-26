@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://www.pola.rs/umbra_strings2.png">
 
-**Link: [Polars — Why we have rewritten the string data type](https://pola.rs/posts/polars-string-type/):** "DataFrames for the new era"
+**Link: [Polars — Why we have rewritten the string data type](https://pola.rs/posts/polars-string-type/):** "DataFrames for the new era" 
 
 Interesting quasi replacement for pandas (?). Worth looking into. 

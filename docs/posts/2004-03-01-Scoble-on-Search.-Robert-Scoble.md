@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-03-01
 ---
 
-**Link: [Scoble on Search. Robert Scoble](None):** ""
+
 
 **Scoble on Search.** Robert Scoble (of Microsoft fame) [writes about a new
 search utility](<http://radio.weblogs.com/0001011/2004/02/29.html#a6730>)

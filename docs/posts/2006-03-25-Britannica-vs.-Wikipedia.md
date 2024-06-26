@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-03-25
 ---
 
-**Link: [Britannica vs. Wikipedia](None):** ""
+
 
 I'm a big fan of Wikipedia, and of course traditionally (like anyone) have
 been an admirer of the Encyclopedia Britannica.  Recently the highly respected

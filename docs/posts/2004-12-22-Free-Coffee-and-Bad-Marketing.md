@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-12-22
 ---
 
-**Link: [Free Coffee and Bad Marketing](None):** ""
+
 
 First the **punchline** : [go to this link, fill out a short
 questionaire,](<http://www.successandyou.net/RAC/>) and receive a $15

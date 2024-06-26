@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-09-09
 ---
 
-**Link: [Sign the letter!](None):** ""
+
 
 Maybe this is one [more of the futile
 petitions](<http://www.pgpf.org/getinvolved/letter-to-candidates/>) that we

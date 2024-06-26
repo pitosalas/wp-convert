@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-09-26
 ---
 
-**Link: [BlogBridge releases coming fast and furious](None):** ""
+
 
 BlogBridge is going **" Great Guns"** as I told my friend David in answer to
 "What's going on with BlogBridge?" Well I don't really know what the heck that

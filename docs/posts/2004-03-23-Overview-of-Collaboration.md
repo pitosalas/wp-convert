@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-03-23
 ---
 
-**Link: [Overview of Collaboration](None):** ""
+
 
 I had the opportunity to be a guest lecturer at Brandeis University today,
 which was fun. Brandeis of course is my Alma Mater, so I was quite at home

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-08-26
 ---
 
-**Link: [Falling woman](None):** ""
+
 
 One more in the category of 'you can find everything on the internet' check
 out this ["falling woman"](<http://xoxma.com.ua/img/flash/00001.swf>) flash

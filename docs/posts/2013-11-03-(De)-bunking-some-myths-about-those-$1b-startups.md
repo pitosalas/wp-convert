@@ -8,7 +8,7 @@ tags:
     - startups
 ---
 
-**Link: [(De) bunking some myths about those $1b startups](None):** ""
+
 
 I want to direct your attention ton interesting article about $1 Billion
 Startups - "Unicorns" - on TechCrunch today. Some myths debunked and others

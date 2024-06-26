@@ -9,7 +9,7 @@ tags:
     - stevejobs
 ---
 
-**Link: [Experts are clueless](None):** ""
+
 
 One of the [lessons that Guy Kawasaki learned from Steve
 Jobs](<http://blog.guykawasaki.com/2011/10/what-i-learned-from-steve-

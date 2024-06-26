@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-10-18
 ---
 
-**Link: [Interesting analysis of accuracy](None):** ""
+
 
 Bloggers and others are notoriously  obcessed with metrics: how many hits,
 what's my rank etc. As a result there are numerous services which try to

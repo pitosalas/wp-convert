@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://www.codeotaku.com/journal/2018-11/fibers-are-the-right-solution/preview.jpg">
 
-**Link: [Fibers Are the Right Solution](https://www.codeotaku.com/journal/2018-11/fibers-are-the-right-solution/index):** "Good description of how to use fibers in ruby."
+**Link: [Fibers Are the Right Solution](https://www.codeotaku.com/journal/2018-11/fibers-are-the-right-solution/index):** "Good description of how to use fibers in ruby." 
 
 

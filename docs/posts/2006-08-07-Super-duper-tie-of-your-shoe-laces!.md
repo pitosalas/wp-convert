@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-08-07
 ---
 
-**Link: [Super duper tie of your shoe laces!](None):** ""
+
 
 Ever have your shoe laces come undone, over and over again? The usual mommy
 double know doesn't work that well for me. Here's an alternative: [ Ian's

@@ -9,7 +9,7 @@ tags:
     - pipes
 ---
 
-**Link: [llm ttok and strip-tagsCLI tools for working with ChatGPT and other LLMs](None):** ""
+
 
 [ llm, ttok and strip-tags—CLI tools for working with ChatGPT and other
 LLMs](<https://simonwillison.net/2023/May/18/cli-tools-for-llms/>) –I’ve been

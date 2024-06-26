@@ -15,6 +15,6 @@ tags:
 ---
 <img class="cover" src="https://kevinyien.com/img/headshot.png">
 
-**Link: [Communication Structures](https://kevinyien.com/blog/communication-structures.html):** "Communication Structures."
+**Link: [Communication Structures](https://kevinyien.com/blog/communication-structures.html):** "Communication Structures." 
 
 Insights about communication across layers in an organization. Pretty sensible advice.

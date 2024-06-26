@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-05-19
 ---
 
-**Link: [[BLOGBRIDGE] BlogBridge tracks unread articles!](None):** ""
+
 
 One of the cool things about BlogBridge's (free) companion service, is that
 keeps track for you what you have and have not read, _even if you are using

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-05-31
 ---
 
-**Link: [Counting blog impact](None):** ""
+
 
 Interesting article about counting blogs makes a **good point** right off the
 bat:

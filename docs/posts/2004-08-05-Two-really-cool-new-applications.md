@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-08-05
 ---
 
-**Link: [Two really cool new applications](None):** ""
+
 
 Today I was introduced by two totally different people to **two really cool
 little utilities**.

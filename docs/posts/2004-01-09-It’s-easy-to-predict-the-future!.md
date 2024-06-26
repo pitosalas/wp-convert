@@ -7,7 +7,7 @@ tags:
     - prediction-tags
 ---
 
-**Link: [It’s easy to predict the future!](None):** ""
+
 
 **It 's easy to predict the future. **Tim Bray has just concluded an
 interesting series of postings on what he calls [TPSM or Technology Predictor

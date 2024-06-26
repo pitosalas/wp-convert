@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-10-12
 ---
 
-**Link: [Hackers and the elections](None):** ""
+
 
 In [New Scientist Tech](<http://technology.newscientist.com/home.ns>), an
 interesting article about [hackers and the

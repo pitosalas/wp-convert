@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-05-28
 ---
 
-**Link: [AllOfMp3 saga continues](None):** ""
+
 
 Regular readers of this blog know about
 A[llOfMp3.com](<http://www.allofmp3.com/>), a Russian music site that sells

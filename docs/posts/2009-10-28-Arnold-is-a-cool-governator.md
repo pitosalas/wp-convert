@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-10-28
 ---
 
-**Link: [Arnold is a cool governator](None):** ""
+
 
 Check out [Schwarzenegger Gives California Legislature A Hidden Finger
 ](<http://feedproxy.google.com/~r/Techcrunch/~3/4oTAz5xglu0/>)(**from**

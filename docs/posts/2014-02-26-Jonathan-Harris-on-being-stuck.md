@@ -9,7 +9,7 @@ tags:
     - writing
 ---
 
-**Link: [Jonathan Harris on being stuck](None):** ""
+
 
 Jonathan Harris is the creator of several really interesting web sites that in
 very creative ways combine art with computing. From his home page one might

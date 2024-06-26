@@ -9,7 +9,7 @@ tags:
     - tripwow
 ---
 
-**Link: [Video made by and for robots](None):** ""
+
 
 <http://images.travelpod.com/bin/tripwow/flash/tripwow.swf>
 

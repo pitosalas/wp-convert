@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-11-21
 ---
 
-**Link: [Big news from Iraq, if it’s true…](None):** ""
+
 
 Zarqawi probably killed! according to [Iraq the
 Model.](<http://iraqthemodel.blogspot.com/2005/11/zarqawi-probably-

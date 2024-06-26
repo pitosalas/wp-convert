@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://miro.medium.com/max/1200/1*cKZ7MlP2o3M-IeB1SVcFoA.jpeg">
 
-**Link: [Introduction to Concurrency Models with Ruby. Part I](https://engineering.universe.com/introduction-to-concurrency-models-with-ruby-part-i-550d0dbb970):** "In this first post, I would like to describe the differences between Processes, Threads, what the GIL is, EventMachine and Fibers in Ruby."
+**Link: [Introduction to Concurrency Models with Ruby. Part I](https://engineering.universe.com/introduction-to-concurrency-models-with-ruby-part-i-550d0dbb970):** "In this first post, I would like to describe the differences between Processes, Threads, what the GIL is, EventMachine and Fibers in Ruby." 
 
 

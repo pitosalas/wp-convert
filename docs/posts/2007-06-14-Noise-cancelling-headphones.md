@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-06-14
 ---
 
-**Link: [Noise cancelling headphones](None):** ""
+
 
 I've been doing quite a bit of traveling lately and have been experimenting
 with those noise cancelling headphones. Actually I couldn't convince myself to

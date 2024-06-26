@@ -7,7 +7,7 @@ tags:
     - zero-dark-thirty
 ---
 
-**Link: [Zero Dark Thirty](None):** ""
+
 
 I saw this movie last night and really thought it was great. I had read some[
 negative commentary about Zero Dark

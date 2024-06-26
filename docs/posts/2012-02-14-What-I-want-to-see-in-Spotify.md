@@ -10,7 +10,7 @@ tags:
     - spotify
 ---
 
-**Link: [What I want to see in Spotify](None):** ""
+
 
 As you know, I am a big big fan of Spotify. Lately I've been playing with the
 Last.FM integration. It's a handy way for me to see what new music or artists

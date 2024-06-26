@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="">
 
-**Link: [Brandeis Calendar](https://www.google.com/calendar/b/1/render#main_7):** ""
+**Link: [Brandeis Calendar](https://www.google.com/calendar/b/1/render#main_7):** "" 
 
 

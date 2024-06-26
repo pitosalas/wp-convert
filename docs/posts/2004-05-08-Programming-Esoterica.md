@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-05-08
 ---
 
-**Link: [Programming Esoterica](None):** ""
+
 
 As I delve into programming esoterica, in the past I've written down little
 handy items of information that I discover through a lot of work, for possible

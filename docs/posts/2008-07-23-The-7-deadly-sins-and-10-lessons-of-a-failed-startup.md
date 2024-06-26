@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-07-23
 ---
 
-**Link: [The 7 deadly sins and 10 lessons of a failed startup](None):** ""
+
 
 Check this post [The 7 deadly sins and 10 lessons of a failed
 startup](<http://feeds.feedburner.com/~r/TheNextBigThing/~3/340000873/the-7-deadly-

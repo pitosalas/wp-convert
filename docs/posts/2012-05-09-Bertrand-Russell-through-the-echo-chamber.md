@@ -8,7 +8,7 @@ tags:
     - echo-chamber
 ---
 
-**Link: [Bertrand Russell through the echo chamber](None):** ""
+
 
 I saw this in [Marginal
 Revolution](<http://marginalrevolution.com/marginalrevolution/2012/05/bertrand-

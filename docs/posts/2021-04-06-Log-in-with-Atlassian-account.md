@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fsittercity.jira.com">
 
-**Link: [Log in with Atlassian account](https://sittercity.jira.com):** "Log in to Jira, Confluence, and all other Atlassian Cloud products here. Not an Atlassian user? Sign up for free."
+**Link: [Log in with Atlassian account](https://sittercity.jira.com):** "Log in to Jira, Confluence, and all other Atlassian Cloud products here. Not an Atlassian user? Sign up for free." 
 
 

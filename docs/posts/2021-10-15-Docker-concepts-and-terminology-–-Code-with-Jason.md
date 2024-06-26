@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2021-10-15
 ---
 
-**Link: [Docker concepts and terminology – Code with Jason](None):** ""
+
 
 [ Docker concepts and terminology - Code with
 Jason](<https://www.codewithjason.com/docker-concepts-terminology/>)

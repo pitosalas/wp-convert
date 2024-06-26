@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://paletton.com/img/paletton-preview-20140414.png">
 
-**Link: [Color Scheme Designer 3](http://colorschemedesigner.com):** "In love with colors, since 2002. A designer tool for creating color combinations that work together well. Formerly known as Color Scheme Designer. Use the color wheel to create great color palettes."
+**Link: [Color Scheme Designer 3](http://colorschemedesigner.com):** "In love with colors, since 2002. A designer tool for creating color combinations that work together well. Formerly known as Color Scheme Designer. Use the color wheel to create great color palettes." 
 
 

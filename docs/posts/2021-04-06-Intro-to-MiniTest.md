@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://blog.teamtreehouse.com/wp-content/uploads/2014/08/clipboard.jpg">
 
-**Link: [Intro to MiniTest](http://blog.teamtreehouse.com/short-introduction-minitest):** "There are some compelling features of MiniTest that make it a viable option as a testing library."
+**Link: [Intro to MiniTest](http://blog.teamtreehouse.com/short-introduction-minitest):** "There are some compelling features of MiniTest that make it a viable option as a testing library." 
 
 

@@ -8,7 +8,7 @@ tags:
     - woodyallen
 ---
 
-**Link: [Blue Jasmine – Woody Allen](None):** ""
+
 
 I just saw Blue Jasmine, the latest Woody Allen movie. It is excellent and I
 recommend it. I also happened to read [Nicholas Kristof's column in the New

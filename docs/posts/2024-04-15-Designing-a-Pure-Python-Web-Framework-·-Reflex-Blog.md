@@ -13,7 +13,7 @@ tags:
 ---
 <img class="cover" src="https://reflex.dev/previews/index_preview.png">
 
-**Link: [Designing a Pure Python Web Framework · Reflex Blog](https://reflex.dev/blog/2024-03-21-reflex-architecture/):** ""
+**Link: [Designing a Pure Python Web Framework · Reflex Blog](https://reflex.dev/blog/2024-03-21-reflex-architecture/):** "" 
 
 Another web app stack written in pure python. Claim to fame seems to be that it compiles pure python into a react front and and a FastAPI back end. Programmer does not need to know JavaScript, html, css etc. Which is nice. But for me personally it’s not the kind of structure I would want. But still worth a look I think!
 

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2010-10-08
 ---
 
-**Link: [[PRETTY-GEEKY] Interesting article about secure elections](None):** ""
+
 
 Check out [Fort Knox vs. the Barking
 Dog](<http://benlog.com/articles/2010/10/06/fort-knox-vs-the-barking-

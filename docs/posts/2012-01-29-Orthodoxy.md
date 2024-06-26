@@ -7,7 +7,7 @@ tags:
     - orthodox
 ---
 
-**Link: [Orthodoxy](None):** ""
+
 
 I'd be the last one to wade into commentary on religious topics, so I just
 [share this link](<http://joshyuter.com/2011/12/06/judaism/the-selective-

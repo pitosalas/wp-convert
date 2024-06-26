@@ -8,7 +8,7 @@ tags:
     - poker
 ---
 
-**Link: [[GEEKY] Poker AI](None):** ""
+
 
 An interesting article about how to think about [designing Artificial
 Intelligence for playing

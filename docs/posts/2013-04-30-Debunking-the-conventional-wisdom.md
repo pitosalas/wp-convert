@@ -9,7 +9,7 @@ tags:
     - research
 ---
 
-**Link: [Debunking the conventional wisdom](None):** ""
+
 
 What do you think, are younger people better programmers? Are they more
 productive, more clever, work longer hours? Or do older people have some

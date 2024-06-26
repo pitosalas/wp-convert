@@ -7,7 +7,7 @@ tags:
     - university
 ---
 
-**Link: [[edtech] Who knew there was “university in a box” software!](None):** ""
+
 
 I stumbled across this web site. I can't say anything about their status or
 quality but I was suprised that someone developed what looks like a complete

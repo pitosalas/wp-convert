@@ -9,7 +9,7 @@ tags:
     - self-hosted
 ---
 
-**Link: [Home – Coder v1 v1.32 docs](None):** ""
+
 
 [ Home - Coder v1 v1.32 docs](< https://coder.com/docs/coder/latest>) –This
 looks pretty interesting. Sort of what I've been trying to home grow. "Coder

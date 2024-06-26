@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-10-24
 ---
 
-**Link: [It’s not all love and kisses](None):** ""
+
 
 We all love [Wikipedia](<http://www.wikipedia.org/>) - I know I do. I've sung
 it's praises to lots of people and have personally often looked stuff up in it

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-03-07
 ---
 
-**Link: [This is not a religious blog](None):** ""
+
 
 I thought [this was an interesting
 article](<http://www.secularhumanism.org/library/fi/dawkins_18_3.html>) even

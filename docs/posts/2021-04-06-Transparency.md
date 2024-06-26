@@ -8,6 +8,6 @@ date: 2021-04-06
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fcobtransparency.herokuapp.com">
 
-**Link: [Transparency](https://cobtransparency.herokuapp.com):** ""
+**Link: [Transparency](https://cobtransparency.herokuapp.com):** "" 
 
 

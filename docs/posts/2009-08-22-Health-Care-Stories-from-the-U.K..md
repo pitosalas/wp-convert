@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-08-22
 ---
 
-**Link: [Health Care Stories from the U.K.](None):** ""
+
 
 Sure, one isolated story doesn't prove anything, but then our health care
 debate often seems to be carried on the basis of isolated stories, so [here's

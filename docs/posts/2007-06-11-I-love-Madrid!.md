@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-06-11
 ---
 
-**Link: [I love Madrid!](None):** ""
+
 
 [![Events in
 Madrid](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-

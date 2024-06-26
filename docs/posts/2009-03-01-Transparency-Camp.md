@@ -8,7 +8,7 @@ tags:
     - transparency
 ---
 
-**Link: [Transparency Camp](None):** ""
+
 
 Everything's a camp today, Foo Camp, Bar Camp and now [Transparency
 Camp](<http://barcamp.pbwiki.com/TransparencyCamp>). I am attending this

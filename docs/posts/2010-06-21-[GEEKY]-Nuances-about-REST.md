@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2010-06-21
 ---
 
-**Link: [[GEEKY] Nuances about REST](None):** ""
+
 
 While teaching at Brandeis University this summer (see [Cosi JBS Web
 Site](<http://iceland.cs.brandeis.edu/webapps/FrontPage?from=navigationbox>))

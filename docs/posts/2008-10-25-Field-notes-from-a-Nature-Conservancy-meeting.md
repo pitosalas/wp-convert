@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-10-25
 ---
 
-**Link: [Field notes from a Nature Conservancy meeting](None):** ""
+
 
 Check out this post [Field notes from a Nature Conservancy
 meeting](<http://www.realclimate.org/index.php/archives/2008/10/field-notes-

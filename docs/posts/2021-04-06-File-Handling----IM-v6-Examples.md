@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fwww.imagemagick.org%2FUsage%2Ffiles%23massive">
 
-**Link: [File Handling -- IM v6 Examples](http://www.imagemagick.org/Usage/files#massive):** ""
+**Link: [File Handling -- IM v6 Examples](http://www.imagemagick.org/Usage/files#massive):** "" 
 
 

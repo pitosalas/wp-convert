@@ -7,7 +7,7 @@ tags:
     - security
 ---
 
-**Link: [Facebook security](None):** ""
+
 
 [![screen-shot-2010-11-23-at-84149-pm](https://i0.wp.com/salas.com/wp-
 content/uploads/2010/11/dd648-screen-

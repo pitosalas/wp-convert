@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fsittercity.jira.com%2Fsecure%2FRapidBoard.jspa%3FrapidView%3D36%26view%3Dplanning">
 
-**Link: [Empire - Data Migration - Agile Board - Atlassian JIRA](https://sittercity.jira.com/secure/RapidBoard.jspa?rapidView=36&view=planning):** "Log in to Jira, Confluence, and all other Atlassian Cloud products here. Not an Atlassian user? Sign up for free."
+**Link: [Empire - Data Migration - Agile Board - Atlassian JIRA](https://sittercity.jira.com/secure/RapidBoard.jspa?rapidView=36&view=planning):** "Log in to Jira, Confluence, and all other Atlassian Cloud products here. Not an Atlassian user? Sign up for free." 
 
 

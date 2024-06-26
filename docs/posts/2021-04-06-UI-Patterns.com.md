@@ -11,6 +11,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fui-patterns.com">
 
-**Link: [UI-Patterns.com](http://ui-patterns.com):** "User Interface Design Pattern Library. UI patterns for web designers. See screenshot examples and learn how to do great design like the pros."
+**Link: [UI-Patterns.com](http://ui-patterns.com):** "User Interface Design Pattern Library. UI patterns for web designers. See screenshot examples and learn how to do great design like the pros." 
 
 

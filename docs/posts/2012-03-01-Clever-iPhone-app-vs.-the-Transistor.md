@@ -9,7 +9,7 @@ tags:
     - transistor
 ---
 
-**Link: [Clever iPhone app vs. the Transistor](None):** ""
+
 
 This interesting, and I think, correct [article, makes the argument that the
 word 'innovation' is being watered down

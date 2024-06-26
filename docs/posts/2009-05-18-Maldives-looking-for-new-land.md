@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-05-18
 ---
 
-**Link: [Maldives looking for new land](None):** ""
+
 
 A while back I wrote a post saying that it was "[Official: The Maldives is the
 most beautiful place on earth.](</2005/07/20/ok-its-official-the-maldives-is-

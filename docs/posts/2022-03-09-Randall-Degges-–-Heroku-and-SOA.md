@@ -6,7 +6,7 @@ tags:
     - design
 ---
 
-**Link: [Randall Degges – Heroku and SOA](None):** ""
+
 
 [ Randall Degges - Heroku and SOA](<https://www.rdegges.com/2014/heroku-and-
 soa/>)

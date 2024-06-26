@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-09-20
 ---
 
-**Link: [Interesting pointer from Francois on the marketing potential of Facebook et al](None):** ""
+
 
 Check out [this
 post](<http://feeds.feedburner.com/~r/EmergenceMarketing/~3/159010618/what_is_the_marketing_pot.php>)

@@ -9,7 +9,7 @@ tags:
     - voting
 ---
 
-**Link: [Vote Buying measures and countermeasures](None):** ""
+
 
 An interesting question, and an expert answer from a friend of mine. If you
 are interested in elections and voting and how they can and cannot be bought,

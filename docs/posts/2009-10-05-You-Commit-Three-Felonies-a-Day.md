@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-10-05
 ---
 
-**Link: [You Commit Three Felonies a Day](None):** ""
+
 
 [Interesting
 commentary](<http://online.wsj.com/article/SB20001424052748704471504574438900830760842.html>)

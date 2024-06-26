@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-09-29
 ---
 
-**Link: [Web Services gone wild](None):** ""
+
 
 Here's a **cool** idea: using the web services of **Google** and
 **Technorati** together to find other, related blogs. Here's the idea:

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-03-11
 ---
 
-**Link: [What you may not know](None):** ""
+
 
 **What you may not know about Eclipse. (Demo 2004 Series 10)** If you are a
 Java developer and you haven't checked out the Eclipse Development tool from

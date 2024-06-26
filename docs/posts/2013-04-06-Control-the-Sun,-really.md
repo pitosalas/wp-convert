@@ -7,7 +7,7 @@ tags:
     - olin-college
 ---
 
-**Link: [Control the Sun, really](None):** ""
+
 
 [Control The Sun!](<http://www.mylanderpages.com/sunrise_blinds/olin>)
 

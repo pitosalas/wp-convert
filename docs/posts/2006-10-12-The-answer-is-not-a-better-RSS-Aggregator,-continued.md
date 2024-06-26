@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-10-12
 ---
 
-**Link: [The answer is not a better RSS Aggregator, continued](None):** ""
+
 
 Yesterday's post drew some interesting comments and emails. Several people
 wondered what the heck I was talking about. More about that later. First:

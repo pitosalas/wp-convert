@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://s3.amazonaws.com/refactoring-ui/book-twitter-card.png">
 
-**Link: [Building Your Color Palette](https://refactoringui.com/previews/building-your-color-palette):** "Excellent guide to picking good colors in a UI"
+**Link: [Building Your Color Palette](https://refactoringui.com/previews/building-your-color-palette):** "Excellent guide to picking good colors in a UI" 
 
 

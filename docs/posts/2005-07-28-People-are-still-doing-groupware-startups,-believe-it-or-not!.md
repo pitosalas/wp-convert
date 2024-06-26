@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-07-28
 ---
 
-**Link: [People are still doing groupware startups, believe it or not!](None):** ""
+
 
 Being a veteran of the groupware movement (worked at Lotus for years, and co-
 founded eRoom Technology) this item caught my eye:

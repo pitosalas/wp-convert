@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-06-01
 ---
 
-**Link: [Portland OR smokes](None):** ""
+
 
 I'm in Portland Oregon for a few days for a conference, and this may be an
 unfair sample, but I was amazed to see how many more people seem to be smoking

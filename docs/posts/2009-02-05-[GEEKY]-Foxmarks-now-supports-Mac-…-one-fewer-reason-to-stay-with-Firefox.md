@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-02-05
 ---
 
-**Link: [[GEEKY] Foxmarks now supports Mac … one fewer reason to stay with Firefox](None):** ""
+
 
 I read in [Personal Technology (Wall Street Journal) today that Foxmarks, the
 handy, free utility that synchronizes my Firefox bookmarks between several

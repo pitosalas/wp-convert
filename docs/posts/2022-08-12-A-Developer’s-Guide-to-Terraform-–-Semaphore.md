@@ -9,7 +9,7 @@ tags:
     - terraform
 ---
 
-**Link: [A Developer’s Guide to Terraform – Semaphore](None):** ""
+
 
 [ A Developer's Guide to Terraform - Semaphore](<
 https://semaphoreci.com/blog/terraform>) –Terraform is one of the most popular

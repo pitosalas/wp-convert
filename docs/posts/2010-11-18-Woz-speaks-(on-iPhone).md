@@ -8,7 +8,7 @@ tags:
     - iphon-tage
 ---
 
-**Link: [Woz speaks (on iPhone)](None):** ""
+
 
 I happen to be reading iWoz, which is Steve Wozniak's
 memoir/biography/whatever. It's a very breezy easy read and fun if you follow

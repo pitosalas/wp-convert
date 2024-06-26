@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-08-03
 ---
 
-**Link: [The role of RSS in Science Publishing](None):** ""
+
 
 This article: [The Role of RSS in Science Publishing: Syndication and
 Annotation on the

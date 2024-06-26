@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://www.semanticscholar.org/img/semantic_scholar_og.png">
 
-**Link: [Semantic Scholar](https://www.semanticscholar.org):** "Semantic Scholar uses groundbreaking AI and engineering to understand the semantics of scientific literature to help Scholars discover relevant research."
+**Link: [Semantic Scholar](https://www.semanticscholar.org):** "Semantic Scholar uses groundbreaking AI and engineering to understand the semantics of scientific literature to help Scholars discover relevant research." 
 
 

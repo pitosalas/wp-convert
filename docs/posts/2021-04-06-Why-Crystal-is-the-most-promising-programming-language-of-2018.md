@@ -14,6 +14,6 @@ tags:
 ---
 <img class="cover" src="https://miro.medium.com/max/1200/1*rHm4XkrFFvAJDHinuBo3Sg.png">
 
-**Link: [Why Crystal is the most promising programming language of 2018](https://medium.com/@DuroSoft/why-crystal-is-the-most-promising-programming-language-of-2018-aad669d8344f):** "I am really fascinated with this language. Ruby-like syntax and semantics, but fully compiled."
+**Link: [Why Crystal is the most promising programming language of 2018](https://medium.com/@DuroSoft/why-crystal-is-the-most-promising-programming-language-of-2018-aad669d8344f):** "I am really fascinated with this language. Ruby-like syntax and semantics, but fully compiled." 
 
 

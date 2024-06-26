@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-04-30
 ---
 
-**Link: [Using a cell phone while out of the USA](None):** ""
+
 
 Lately, for some crazy reason, I've found myself, multiple times, in Toronto,
 Canada, and Willemstad Curaçao. My Sprint phone doesn't work in either place.

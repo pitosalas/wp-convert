@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-03-21
 ---
 
-**Link: [Behavior Signature Analysis (Demo Series](None):** ""
+
 
 **Behavior Signature Analysis (Demo Series 10)** This is a little arcane but I
 thought it was an interesting pattern among several products launched at Demo

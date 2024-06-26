@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="">
 
-**Link: [ProfHacker - The Chronicle of Higher Education](http://chronicle.com/blogs/profhacker):** ""
+**Link: [ProfHacker - The Chronicle of Higher Education](http://chronicle.com/blogs/profhacker):** "" 
 
 

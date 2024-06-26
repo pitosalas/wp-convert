@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-05-17
 ---
 
-**Link: [Moving from Radio to Movable Type](None):** ""
+
 
 I've seen [some discussion
 ](<http://www.intertwingly.net/blog/2004/05/16/Freedom-0-1-x2148>)on [the

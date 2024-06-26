@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-04-01
 ---
 
-**Link: [Talking about RSS Aggregators](None):** ""
+
 
 Doctor Scoble poses a provocative question: "Which aggregator do you like
 best"? Quite an amazing variety of aggregators are mentioned.[ It might be the

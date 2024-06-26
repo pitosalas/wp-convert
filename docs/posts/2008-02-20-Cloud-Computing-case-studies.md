@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-02-20
 ---
 
-**Link: [Cloud Computing case studies](None):** ""
+
 
 I've written about some of the [considerations that go into the choice between
 physical infrastructure and new SAAS services such as Amazon's S3 and

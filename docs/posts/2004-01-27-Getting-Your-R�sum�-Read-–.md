@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-01-27
 ---
 
-**Link: [Getting Your R�sum� Read –](None):** ""
+
 
 **[Getting Your R©sum© Read- From Joel
 Spolsky](<http://www.joelonsoftware.com/articles/ResumeRead.html>). **Joel

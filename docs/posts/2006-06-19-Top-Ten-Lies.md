@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-06-19
 ---
 
-**Link: [Top Ten Lies](None):** ""
+
 
 Guy Kawasaki with [another one of his great
 posts](<http://blog.guykawasaki.com/2006/05/the_top_ten_lie_1.html>). He's

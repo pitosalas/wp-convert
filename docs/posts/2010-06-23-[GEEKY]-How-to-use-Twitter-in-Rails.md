@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2010-06-23
 ---
 
-**Link: [[GEEKY] How to use Twitter in Rails](None):** ""
+
 
 This looks like a really nice and detailed [tutorial on how to use Twitter in
 Rails](<http://pedromtavares.wordpress.com/2010/06/21/integrating-rails-with-

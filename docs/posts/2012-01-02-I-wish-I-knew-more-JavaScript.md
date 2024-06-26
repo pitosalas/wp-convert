@@ -11,7 +11,7 @@ tags:
     - Programming
 ---
 
-**Link: [I wish I knew more JavaScript](None):** ""
+
 
 I know basic Javascript. I think I will be learning more soon. I think
 JavaScript is the language of the (near) future. Predicting what the language

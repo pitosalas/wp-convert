@@ -6,7 +6,7 @@ tags:
     - api
 ---
 
-**Link: [The Anatomy of a GraphQL Query – Apollo GraphQL Blog](None):** ""
+
 
 [ The Anatomy of a GraphQL Query - Apollo GraphQL
 Blog](<https://www.apollographql.com/blog/graphql/basics/the-anatomy-of-a-

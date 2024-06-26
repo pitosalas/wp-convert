@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-10-23
 ---
 
-**Link: [Apple Video iPod Strategy](None):** ""
+
 
 For you Apple and iPod afficionados, [here's an **interesting** article
 ](<http://www.apcmag.com/apc/v3.nsf/dir/ipodvideo>)about what Apple might be

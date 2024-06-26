@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://florisvanbreugel.files.wordpress.com/2018/03/v2_erase_untitled.png?w=640">
 
-**Link: [Installing Ubuntu on an external SSD drive on a Macbook – Floris van Breugel](https://florisvanbreugel.wordpress.com/2018/03/23/installing-ubuntu-on-an-external-ssd-drive-on-a-macbook):** "This is harder than you think. I've messed with many different instructions for this and some work and some dont."
+**Link: [Installing Ubuntu on an external SSD drive on a Macbook – Floris van Breugel](https://florisvanbreugel.wordpress.com/2018/03/23/installing-ubuntu-on-an-external-ssd-drive-on-a-macbook):** "This is harder than you think. I've messed with many different instructions for this and some work and some dont." 
 
 

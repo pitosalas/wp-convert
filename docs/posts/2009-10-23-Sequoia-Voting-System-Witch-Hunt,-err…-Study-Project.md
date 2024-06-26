@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-10-23
 ---
 
-**Link: [Sequoia Voting System Witch Hunt, err… Study Project](None):** ""
+
 
 Check this post [Sequoia Voting System Witch Hunt, err… Study
 Project](<http://www.codersrevolution.com/index.cfm/2009/10/21/Sequoia-Voting-

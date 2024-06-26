@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-11-20
 ---
 
-**Link: [Dilbert Torture](None):** ""
+
 
 [According to Dilbert (or is it Scott
 Adams](<http://dilbertblog.typepad.com/the_dilbert_blog/2005/11/interrogation_t.html>))

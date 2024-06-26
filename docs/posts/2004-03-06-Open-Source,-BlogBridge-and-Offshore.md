@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-03-06
 ---
 
-**Link: [Open Source, BlogBridge and Offshore](None):** ""
+
 
 **Open Source, BlogBridge and Offshore Development.** I've been using several
 neat offshore development options in my work on Blog Bridge, a new kind of

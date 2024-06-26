@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://longliveruby.herokuapp.com/assets/longliveruby.jpg">
 
-**Link: [The family of anonymous functions - blocks, procs and lambdas](https://longliveruby.com/articles/the-family-of-anonymous-functions):** "Anonymous functions are an integral part of Ruby’s identity and provide flexibility. This article is a deep dive into blocks, procs, and lambdas."
+**Link: [The family of anonymous functions - blocks, procs and lambdas](https://longliveruby.com/articles/the-family-of-anonymous-functions):** "Anonymous functions are an integral part of Ruby’s identity and provide flexibility. This article is a deep dive into blocks, procs, and lambdas." 
 
 

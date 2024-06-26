@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-09-03
 ---
 
-**Link: [[GEEKY] RSS is about as dead as XML or 120V AC](None):** ""
+
 
 I've seen a couple of "[RSS is dead](<http://www.pehub.com/49053/rss-is-dead-
 so-is-the-rss-fund/>)" headlines in the last few days, and even though I am on

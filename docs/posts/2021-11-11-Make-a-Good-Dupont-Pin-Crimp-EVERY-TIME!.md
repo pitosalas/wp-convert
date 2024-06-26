@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://content.instructables.com/ORIG/FFQ/HCD8/JAMTV7UH/FFQHCD8JAMTV7UH.jpg?auto=webp&frame=1&width=2100">
 
-**Link: [Make a Good Dupont Pin-Crimp EVERY TIME!](https://www.instructables.com/Make-a-Good-Dupont-Pin-Crimp-EVERY-TIME/):** "Make a Good Dupont Pin-Crimp EVERY TIME!: Anyone working with an Arduino, Raspberry PI, Beagle Bone, or any other multi-circuit-board project has become familiar with .025 X .025 in, square post pins and their mating connectors.  The male pins are usually mounted to the circuit board with b…"
+**Link: [Make a Good Dupont Pin-Crimp EVERY TIME!](https://www.instructables.com/Make-a-Good-Dupont-Pin-Crimp-EVERY-TIME/):** "Make a Good Dupont Pin-Crimp EVERY TIME!: Anyone working with an Arduino, Raspberry PI, Beagle Bone, or any other multi-circuit-board project has become familiar with .025 X .025 in, square post pins and their mating connectors.  The male pins are usually mounted to the circuit board with b…" 
 
 

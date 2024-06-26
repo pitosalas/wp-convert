@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-03-01
 ---
 
-**Link: [Email is not dead (Demo](None):** ""
+
 
 **Email is not dead (Demo 2004 Series - 7) **I continue to be an avid follower
 of what's going on in the email space. Why? Here are some things to think

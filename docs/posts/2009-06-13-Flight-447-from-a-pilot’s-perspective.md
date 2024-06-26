@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-06-13
 ---
 
-**Link: [Flight 447 from a pilot’s perspective](None):** ""
+
 
 Interesting article: [The media loves the "wrong speed" theory, but a
 lightning strike and electrical failure are more likely

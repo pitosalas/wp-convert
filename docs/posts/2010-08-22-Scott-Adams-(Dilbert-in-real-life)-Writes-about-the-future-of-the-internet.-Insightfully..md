@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2010-08-22
 ---
 
-**Link: [Scott Adams (Dilbert in real life) Writes about the future of the internet. Insightfully.](None):** ""
+
 
 Check out this post [Chefs and
 Editors](<http://dilbert.com/blog/entry/chefs_and_editors/>) from [Dilbert.com

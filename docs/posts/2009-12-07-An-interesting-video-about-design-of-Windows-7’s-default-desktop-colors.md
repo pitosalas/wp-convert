@@ -8,7 +8,7 @@ tags:
     - windows7
 ---
 
-**Link: [An interesting video about design of Windows 7’s default desktop colors](None):** ""
+
 
 If you're interested in design and illustration, you might like this video of
 how Microsoft went about [designing the default desktop for Windows

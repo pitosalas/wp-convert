@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="">
 
-**Link: [Pro Git - Table of Contents](http://progit.org/book):** ""
+**Link: [Pro Git - Table of Contents](http://progit.org/book):** "" 
 
 

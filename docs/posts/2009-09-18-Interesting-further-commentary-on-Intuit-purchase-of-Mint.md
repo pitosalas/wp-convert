@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-09-18
 ---
 
-**Link: [Interesting further commentary on Intuit purchase of Mint](None):** ""
+
 
 I [wrote about the Mint/Intuit deal](</2009/09/15/mint-being-acquired-by-
 intuit-good-or-bad/>) the other day. Being an avid user, I had mixed feelings

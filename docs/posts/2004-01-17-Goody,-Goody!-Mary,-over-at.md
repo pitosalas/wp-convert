@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-01-17
 ---
 
-**Link: [Goody, Goody! Mary, over at](None):** ""
+
 
 **Goody, Goody!**[Mary, over at
 LockerGnome](<http://channels.lockergnome.com/news/archives/008603.phtml>)

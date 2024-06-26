@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://setosa.io/ev/principal-component-analysis/fb-thumb.png">
 
-**Link: [Principal Component Analysis explained visually](http://setosa.io/ev/principal-component-analysis):** ""
+**Link: [Principal Component Analysis explained visually](http://setosa.io/ev/principal-component-analysis):** "" 
 
 

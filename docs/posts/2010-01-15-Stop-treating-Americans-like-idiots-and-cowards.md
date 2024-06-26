@@ -7,7 +7,7 @@ tags:
     - security
 ---
 
-**Link: [Stop treating Americans like idiots and cowards](None):** ""
+
 
 An [excellent article in the Wall Street Journal about the way the media and
 politicians want us to react to the recent Christmas Day attempted terrorist

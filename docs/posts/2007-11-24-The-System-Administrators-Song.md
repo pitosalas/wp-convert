@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-11-24
 ---
 
-**Link: [The System Administrators Song](None):** ""
+
 
 > ["A song about those very special people that make sure your computer works.
 > They are called System

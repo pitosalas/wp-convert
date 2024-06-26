@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-05-16
 ---
 
-**Link: [Noah and Tabblo (Water in Arlington Mass)](None):** ""
+
 
 ![Picture
 1-34](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/images/Picture%25201-34.png?resize=200%2C150)As

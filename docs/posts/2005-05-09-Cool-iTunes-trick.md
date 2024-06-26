@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-05-09
 ---
 
-**Link: [Cool iTunes trick](None):** ""
+
 
 I like to come across music from my collection of CDs that I haven't listened
 to in a while. Here's what I do:

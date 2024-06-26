@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fhyperstack.org">
 
-**Link: [Hyperstack.org](https://hyperstack.org):** "Writing ruby to generate js and html!"
+**Link: [Hyperstack.org](https://hyperstack.org):** "Writing ruby to generate js and html!" 
 
 

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2010-10-21
 ---
 
-**Link: [Robot wars](None):** ""
+
 
 Two very contrasting ways of looking at our **relationship with Pakistan.** I
 don't know where I stand, to be honest.

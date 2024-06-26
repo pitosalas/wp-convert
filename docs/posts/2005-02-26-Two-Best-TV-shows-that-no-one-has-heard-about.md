@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-02-26
 ---
 
-**Link: [Two Best TV shows that no one has heard about](None):** ""
+
 
 There are two TV shows that it seems no one knows about, and yet, I think, are
 the very best on TV today. Better than West Wing. Better than CSI:xyz. Without

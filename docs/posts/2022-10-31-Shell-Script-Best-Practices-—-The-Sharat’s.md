@@ -9,7 +9,7 @@ tags:
     - shell
 ---
 
-**Link: [Shell Script Best Practices — The Sharat’s](None):** ""
+
 
 [ Shell Script Best Practices — The Sharat's](<
 https://sharats.me/posts/shell-script-best-practices/>) –This article is about

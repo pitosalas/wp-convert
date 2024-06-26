@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-04-29
 ---
 
-**Link: [Windows, Windows, Windows Everywhere](None):** ""
+
 
 In the accompanying photo you can see one of the **ubiquitous TV screens**
 sprinkled all around the Spanish subway system. They display up-to-the-minute

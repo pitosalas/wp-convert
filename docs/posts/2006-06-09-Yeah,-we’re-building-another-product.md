@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-06-09
 ---
 
-**Link: [Yeah, we’re building another product](None):** ""
+
 
 I couldn't **resist** , and so who knows why, we (Aleksey and I) have **built
 a new product** in the BlogBridge family. We call it **BlogBridge: Library**.

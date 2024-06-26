@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-09-21
 ---
 
-**Link: [[geeky] Google Groups missing key functionality](None):** ""
+
 
 I've been living inside a couple of [tag]Google groups[/tag] lately, posting
 questions and waiting for answers. (Which ones? [Ruby on Rails:

@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="http://awesome-ruby.com/images/logo_l.png">
 
-**Link: [Awesome Ruby](http://awesome-ruby.com/#awesome-ruby-abstraction):** "A collection of awesome Ruby libraries, tools, frameworks and software. The essential Ruby to build modern Apps and Web Apps."
+**Link: [Awesome Ruby](http://awesome-ruby.com/#awesome-ruby-abstraction):** "A collection of awesome Ruby libraries, tools, frameworks and software. The essential Ruby to build modern Apps and Web Apps." 
 
 

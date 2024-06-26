@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-05-14
 ---
 
-**Link: [BlogBridge – coming along!](None):** ""
+
 
 It's been quiet but we've been busy. We are getting ready to put up a major
 new revision of [BlogBridge ](<http://www.blogbridge.com>)with goodies such as

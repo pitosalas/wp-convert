@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fblog.codeminer42.com%2Fmigrating-from-paperclip-to-activestorage-b37ef187fb17">
 
-**Link: [Migrating from Paperclip to ActiveStorage – The Miners](https://blog.codeminer42.com/migrating-from-paperclip-to-activestorage-b37ef187fb17):** ""
+**Link: [Migrating from Paperclip to ActiveStorage – The Miners](https://blog.codeminer42.com/migrating-from-paperclip-to-activestorage-b37ef187fb17):** "" 
 
 

@@ -10,7 +10,7 @@ tags:
     - story
 ---
 
-**Link: [Never go on deck alone](None):** ""
+
 
 This is just a great read.
 

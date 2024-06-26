@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-06-01
 ---
 
-**Link: [Pop!Tech Ticket!](None):** ""
+
 
 [Pop!Tech](<http://www.poptech.com/>) is [one of my all time favorite
 conferences](</weblogs/archives/000264.html>). So favorite that I bought a

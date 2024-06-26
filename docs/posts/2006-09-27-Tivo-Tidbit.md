@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-09-27
 ---
 
-**Link: [Tivo Tidbit](None):** ""
+
 
 If:
 

@@ -13,7 +13,7 @@ tags:
 ---
 <img class="cover" src="https://i.ytimg.com/vi/AbKX3fPAFXg/maxresdefault.jpg">
 
-**Link: [How To Code A Mac Game - Best Learning Tutorials - GameDev Academy](https://gamedevacademy.org/how-to-code-a-mac-game-best-learning-tutorials/):** "If you've ever dreamt of developing your own Mac game but haven't been sure where to start, you're in the right place. In this article, we're going to"
+**Link: [How To Code A Mac Game - Best Learning Tutorials - GameDev Academy](https://gamedevacademy.org/how-to-code-a-mac-game-best-learning-tutorials/):** "If you've ever dreamt of developing your own Mac game but haven't been sure where to start, you're in the right place. In this article, we're going to" 
 
 Trying to make coding a simple game more approachable. 
 

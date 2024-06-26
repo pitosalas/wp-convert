@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-06-27
 ---
 
-**Link: [[JAVAONE] Worldwide gathering of the Java faithful](None):** ""
+
 
 ![47385231_153147920_0\[1\].jpg](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/archives/weblogs/image/47385231_153147920_0%5B1%5D.jpg?resize=250%2C250)
 What a difference this conference is from the ones I usually go to. Ten

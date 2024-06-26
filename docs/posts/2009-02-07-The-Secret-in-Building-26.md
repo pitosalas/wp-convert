@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-02-07
 ---
 
-**Link: [The Secret in Building 26](None):** ""
+
 
 Dave writes an enthousiastic review of this book: [The Secret in Building
 26](<http://davedupre.com/2009/02/05/the-secret-in-building-26/>):

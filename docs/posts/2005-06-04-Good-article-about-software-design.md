@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-06-04
 ---
 
-**Link: [Good article about software design](None):** ""
+
 
 Just add [this one](<http://www.martinfowler.com/articles/designDead.html>) to
 your reading list:

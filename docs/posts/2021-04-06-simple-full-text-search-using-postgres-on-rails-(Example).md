@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://coderwall-assets-0.s3.amazonaws.com/uploads/user/avatar/55418/9c6165b107059ea5dfa2e81985fe8272.jpeg">
 
-**Link: [simple full text search using postgres on rails (Example)](https://coderwall.com/p/vngr0a/simple-full-text-search-using-postgres-on-rails):** "If you are doing full text search using Postgres, this could be game changing"
+**Link: [simple full text search using postgres on rails (Example)](https://coderwall.com/p/vngr0a/simple-full-text-search-using-postgres-on-rails):** "If you are doing full text search using Postgres, this could be game changing" 
 
 

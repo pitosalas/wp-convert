@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-11-20
 ---
 
-**Link: [New BlogBridge Alpha](None):** ""
+
 
 Hey, sorry if you aren't a BlogBridge user yet, but I just can't resist some
 news here.

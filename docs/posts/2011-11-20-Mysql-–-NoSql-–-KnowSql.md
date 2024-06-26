@@ -8,7 +8,7 @@ tags:
     - no-tagsql
 ---
 
-**Link: [Mysql – NoSql – KnowSql](None):** ""
+
 
 A catchy headline, but is it true? "[Facebook Trapped in MySql 'a fate worse
 than death'. ](<http://gigaom.com/cloud/facebook-trapped-in-mysql-fate-worse-

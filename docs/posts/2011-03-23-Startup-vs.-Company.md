@@ -9,7 +9,7 @@ tags:
     - vc
 ---
 
-**Link: [Startup vs. Company](None):** ""
+
 
 **" Oh yeah, I've started 6 companies, and right now I have 3 startups going.
 I just love starting companies. I don't know what's wrong with me…."**

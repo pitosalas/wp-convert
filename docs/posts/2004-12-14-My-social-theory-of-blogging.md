@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-12-14
 ---
 
-**Link: [My social theory of blogging](None):** ""
+
 
 We all love reading blogs **(right?),** and some of us even use their valuable
 time writing blogs. In my evangelism of blogging, a common question is **"

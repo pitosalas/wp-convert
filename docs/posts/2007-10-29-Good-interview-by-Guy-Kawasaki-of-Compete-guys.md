@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-10-29
 ---
 
-**Link: [Good interview by Guy Kawasaki of Compete guys](None):** ""
+
 
 If you are interested in SEO, there are some good facts and factoids in this
 [interview by Guy Kawasaki of Compete

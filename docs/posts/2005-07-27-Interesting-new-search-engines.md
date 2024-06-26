@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-07-27
 ---
 
-**Link: [Interesting new search engines](None):** ""
+
 
 There was a recent [interesting article in the New York
 Times](<http://www.nytimes.com/2005/06/12/business/yourmoney/12techno.html>)

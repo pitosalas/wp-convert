@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-02-07
 ---
 
-**Link: [Venezuela’s lost human capital](None):** ""
+
 
 Really interesting article about what is going on in Venezuela and the impact
 of Hugo Chavez' policies…

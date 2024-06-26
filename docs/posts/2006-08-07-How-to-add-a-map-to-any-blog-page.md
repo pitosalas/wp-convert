@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-08-07
 ---
 
-**Link: [How to add a map to any blog page](None):** ""
+
 
 I came across this interesting bit in [LifeHacker:
 ](<http://www.lifehacker.com>) [WikiMapia - The geographical wikipedia -

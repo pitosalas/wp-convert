@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-11-16
 ---
 
-**Link: [All you ever wanted to know about Crypto](None):** ""
+
 
 Looks like this is [practically an online
 book](<http://www.garykessler.net/library/crypto.html>) on the topic. Also,

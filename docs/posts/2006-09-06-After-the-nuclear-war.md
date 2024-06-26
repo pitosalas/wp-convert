@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-09-06
 ---
 
-**Link: [After the nuclear war](None):** ""
+
 
 Actually this is a fascinating photo essay of an abandoned city in the Soviet
 Union, left to gradually die off while the USSR collapsed. Check out  An

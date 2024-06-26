@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-03-14
 ---
 
-**Link: [Mars Avalanche photos](None):** ""
+
 
 ![](https://i0.wp.com/space.newscientist.com/data/images/ns/cms/dn13407/dn13407-1_250.jpg?w=584)
 

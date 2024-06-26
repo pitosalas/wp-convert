@@ -8,6 +8,6 @@ date: 2021-04-06
 ---
 <img class="cover" src="https://media4.s-nbcnews.com/j/newscms/2019_01/2705191/nbc-social-default_b6fa4fef0d31ca7e8bc7ff6d117ca9f4.nbcnews-fp-1024-512.png">
 
-**Link: [Newsvine - Get Smarter Here](http://www.newsvine.com):** "Go to NBCNews.com for breaking news, videos, and the latest top stories in world news, business, politics, health and pop culture."
+**Link: [Newsvine - Get Smarter Here](http://www.newsvine.com):** "Go to NBCNews.com for breaking news, videos, and the latest top stories in world news, business, politics, health and pop culture." 
 
 

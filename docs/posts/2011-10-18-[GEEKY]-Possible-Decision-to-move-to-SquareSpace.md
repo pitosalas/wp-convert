@@ -7,7 +7,7 @@ tags:
     - wordpresscom
 ---
 
-**Link: [[GEEKY] Possible Decision to move to SquareSpace](None):** ""
+
 
 I finally got my new blog on [WordPress.com](<http://www.wordpress.com>)
 working. That should have been the simplest but their automatic spam detector

@@ -11,6 +11,6 @@ tags:
 ---
 <img class="cover" src="https://miro.medium.com/max/1200/1*MykufWg6D_3BWuV8lG2xbg.jpeg">
 
-**Link: [Top 5 Contemporary Software Engineering Books – KI labs Engineering – Medium](https://medium.com/ki-labs-engineering/top-5-contemporary-software-engineering-books-8b5ca6a28e83?source=userActivityShare-d383785221d0-1539780770):** "Intro"
+**Link: [Top 5 Contemporary Software Engineering Books – KI labs Engineering – Medium](https://medium.com/ki-labs-engineering/top-5-contemporary-software-engineering-books-8b5ca6a28e83?source=userActivityShare-d383785221d0-1539780770):** "Intro" 
 
 

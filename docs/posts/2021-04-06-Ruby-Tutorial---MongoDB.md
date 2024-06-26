@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="">
 
-**Link: [Ruby Tutorial - MongoDB](http://www.mongodb.org/display/DOCS/Ruby+Tutorial):** ""
+**Link: [Ruby Tutorial - MongoDB](http://www.mongodb.org/display/DOCS/Ruby+Tutorial):** "" 
 
 

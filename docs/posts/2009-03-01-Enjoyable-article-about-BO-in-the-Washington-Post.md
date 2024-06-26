@@ -7,7 +7,7 @@ tags:
     - washington-tagpost
 ---
 
-**Link: [Enjoyable article about BO in the Washington Post](None):** ""
+
 
 > "Each morning when he arrives at the Oval Office, President Obama asks his
 > staff to deliver him a package containing 10 letters. It is a mere sampling

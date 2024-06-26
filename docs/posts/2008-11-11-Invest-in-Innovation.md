@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-11-11
 ---
 
-**Link: [Invest in Innovation](None):** ""
+
 
 Jim Manzi (of Lotus fame) has an interesting article in "The Nation" about
 [our need, as a nation, to invest just a little bit more in

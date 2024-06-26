@@ -14,6 +14,6 @@ tags:
 ---
 <img class="cover" src="https://miro.medium.com/max/1200/1*NNGQKrDrn1u9C0mbNlzr-g.png">
 
-**Link: [15 Python Packages You Probably Don’t Know Exits](https://link.medium.com/csSHSvZHOdb):** "Sweet collection of very useful python packages"
+**Link: [15 Python Packages You Probably Don’t Know Exits](https://link.medium.com/csSHSvZHOdb):** "Sweet collection of very useful python packages" 
 
 

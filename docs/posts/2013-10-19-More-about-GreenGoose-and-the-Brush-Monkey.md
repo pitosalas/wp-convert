@@ -9,7 +9,7 @@ tags:
     - startups
 ---
 
-**Link: [More about GreenGoose and the Brush Monkey](None):** ""
+
 
 Amazing story of a great looking product, and awesome demo, on the spot
 investment of $100,000 and still… **It didn 't work.** The story was told by

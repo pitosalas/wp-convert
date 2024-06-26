@@ -11,6 +11,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fwww.the-paper-trail.org">
 
-**Link: [The Paper Trail](https://www.the-paper-trail.org):** "Cool web site about computer science papers"
+**Link: [The Paper Trail](https://www.the-paper-trail.org):** "Cool web site about computer science papers" 
 
 

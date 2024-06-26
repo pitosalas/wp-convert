@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-10-11
 ---
 
-**Link: [The answer is not a better RSS Aggregator](None):** ""
+
 
 Before I discuss this new product idea I am turning over in my mind, I want to
 say a few things about why I keep working in this area. I mean there are so

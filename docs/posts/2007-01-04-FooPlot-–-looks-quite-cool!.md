@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-01-04
 ---
 
-**Link: [FooPlot – looks quite cool!](None):** ""
+
 
 <!-  
 >  body { font-style: normal; font-family: Lucida Grande; font-weight: normal;

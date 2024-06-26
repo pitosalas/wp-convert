@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fwww-cs-students.stanford.edu%2F~amitp%2Fgameprog.html">
 
-**Link: [Amit’s Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html):** ""
+**Link: [Amit’s Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html):** "" 
 
 

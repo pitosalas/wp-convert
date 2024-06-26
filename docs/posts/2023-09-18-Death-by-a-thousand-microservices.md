@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://renegadeotter.com/img/complexity/og.jpg">
 
-**Link: [Death by a thousand microservices](https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html?utm_source=changelog-news):** "The software industry is learning once again that complexity kills"
+**Link: [Death by a thousand microservices](https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html?utm_source=changelog-news):** "The software industry is learning once again that complexity kills" 
 
 I couldn’t agree more!

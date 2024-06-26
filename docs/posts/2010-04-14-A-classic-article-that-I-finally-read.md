@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2010-04-14
 ---
 
-**Link: [A classic article that I finally read](None):** ""
+
 
 The article "[Reflections on Trusting Trust](<http://cm.bell-
 labs.com/who/ken/trust.html>)" is often mentioned in conversation and cited. I

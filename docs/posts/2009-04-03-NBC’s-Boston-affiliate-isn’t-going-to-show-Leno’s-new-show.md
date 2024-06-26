@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-04-03
 ---
 
-**Link: [NBC’s Boston affiliate isn’t going to show Leno’s new show](None):** ""
+
 
 Check out this post [NBC's Boston affiliate isn't going to show Leno's new
 show](<http://feedproxy.google.com/~r/weblogsinc/tvsquad/~3/H6YZRExCcKI/>):

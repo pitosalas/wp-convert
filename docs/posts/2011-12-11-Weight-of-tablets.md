@@ -12,7 +12,7 @@ tags:
     - weight
 ---
 
-**Link: [Weight of tablets](None):** ""
+
 
 I've been playing around with each of the major tablets while considering 'my
 next move' 🙂

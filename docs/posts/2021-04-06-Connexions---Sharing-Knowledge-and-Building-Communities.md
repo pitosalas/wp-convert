@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fcnx.org">
 
-**Link: [Connexions - Sharing Knowledge and Building Communities](http://cnx.org):** ""
+**Link: [Connexions - Sharing Knowledge and Building Communities](http://cnx.org):** "" 
 
 

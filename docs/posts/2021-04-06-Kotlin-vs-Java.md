@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fwww.kotlinvsjava.com">
 
-**Link: [Kotlin vs Java](https://www.kotlinvsjava.com):** "Kotlin is so superior to Java!"
+**Link: [Kotlin vs Java](https://www.kotlinvsjava.com):** "Kotlin is so superior to Java!" 
 
 

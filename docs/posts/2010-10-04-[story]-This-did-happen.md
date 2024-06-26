@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2010-10-04
 ---
 
-**Link: [[story] This did happen](None):** ""
+
 
 PART 1: THE ELDERS
 

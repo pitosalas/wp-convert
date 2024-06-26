@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-02-05
 ---
 
-**Link: [Great magazine articles](None):** ""
+
 
 I was going to wait until I had read each of these great articles that all won
 the ["Sidney

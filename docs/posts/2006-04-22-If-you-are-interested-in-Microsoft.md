@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-04-22
 ---
 
-**Link: [If you are interested in Microsoft](None):** ""
+
 
 A friend of mine who used to work at **Microsoft** sent me a link to a [very
 interesting

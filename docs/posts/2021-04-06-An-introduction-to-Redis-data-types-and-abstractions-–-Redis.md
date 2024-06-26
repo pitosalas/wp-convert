@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fredis.io%2Ftopics%2Fdata-types-intro">
 
-**Link: [An introduction to Redis data types and abstractions – Redis](https://redis.io/topics/data-types-intro):** "Great overview of how Redis works, all the types and concepts"
+**Link: [An introduction to Redis data types and abstractions – Redis](https://redis.io/topics/data-types-intro):** "Great overview of how Redis works, all the types and concepts" 
 
 

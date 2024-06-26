@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-01-28
 ---
 
-**Link: [Lamps, Lamps, Lamps](None):** ""
+
 
 This is pretty mundane, but if you happen to be looking for a lamp, [this is
 the most comprehensive](<http://www.lampsplus.com/>) collection that I've seen

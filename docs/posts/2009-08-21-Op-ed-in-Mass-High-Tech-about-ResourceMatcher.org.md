@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-08-21
 ---
 
-**Link: [Op-ed in Mass High Tech about ResourceMatcher.org](None):** ""
+
 
 [Gavin Murphy](<http://www.linkedin.com/in/gavinmurphy>) (of
 [Annkissam](<http://www.annkissam.com/>)) and I have been talking about the

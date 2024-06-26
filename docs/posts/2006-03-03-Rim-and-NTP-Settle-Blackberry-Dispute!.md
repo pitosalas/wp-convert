@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-03-03
 ---
 
-**Link: [Rim and NTP Settle Blackberry Dispute!](None):** ""
+
 
 From the [Wall Street
 Journal](<http://online.wsj.com/article/SB114142276287788965.html?mod=home_whats_news_us>):

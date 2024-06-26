@@ -10,7 +10,7 @@ tags:
     - sql
 ---
 
-**Link: [Lago Blog – ORMs are criticized for the wrong reasons](None):** ""
+
 
 [ Lago Blog - ORMs are criticized for the wrong
 reasons](<https://www.getlago.com/blog/orms-are-criticized-for-the-wrong-

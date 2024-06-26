@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-07-18
 ---
 
-**Link: [On the business impact of Web 2.0](None):** ""
+
 
 [Bill Ives of the Portals and KM Blog](<http://billives.typepad.com/>) writes
 an interesting two-part article on the business impact of Web 2.0:

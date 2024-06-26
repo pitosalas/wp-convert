@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://img.huffingtonpost.com/asset/5f3448f32200001eb13888de.jpg">
 
-**Link: [The Huffington Post - Breaking News and Opinion](http://www.huffingtonpost.com):** "Read the latest headlines, news stories, and opinion from Politics, Entertainment, Life, Perspectives, and more."
+**Link: [The Huffington Post - Breaking News and Opinion](http://www.huffingtonpost.com):** "Read the latest headlines, news stories, and opinion from Politics, Entertainment, Life, Perspectives, and more." 
 
 

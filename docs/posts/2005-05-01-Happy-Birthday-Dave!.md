@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-05-01
 ---
 
-**Link: [Happy Birthday Dave!](None):** ""
+
 
 ![Picture
 1-3](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/images/Snoopy.jpg?w=584)

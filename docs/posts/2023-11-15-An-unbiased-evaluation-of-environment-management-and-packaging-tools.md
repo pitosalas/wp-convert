@@ -17,6 +17,6 @@ tags:
 ---
 <img class="cover" src="https://alpopkes.com/images/author/image_al.jpg">
 
-**Link: [An unbiased evaluation of environment management and packaging tools](https://alpopkes.com/posts/python/packaging_tools/):** "Amazing summary of all the crazy dev tools in the python world."
+**Link: [An unbiased evaluation of environment management and packaging tools](https://alpopkes.com/posts/python/packaging_tools/):** "Amazing summary of all the crazy dev tools in the python world." 
 
 Why oh why are there so many overlaps?

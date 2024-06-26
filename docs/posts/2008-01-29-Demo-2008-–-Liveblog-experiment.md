@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-01-29
 ---
 
-**Link: [Demo 2008 – Liveblog experiment](None):** ""
+
 
 I'm at the Demo 2008 Conference today. Ever heard of Live Blogging? It's when
 some crazy person decides to type a narrative of an event in real time. For

@@ -10,7 +10,7 @@ tags:
     - verizon-tag
 ---
 
-**Link: [Letting out my Comcast frustrations](None):** ""
+
 
 > "Dear Kelley
 >

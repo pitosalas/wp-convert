@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fb.socrative.com">
 
-**Link: [Socrative](https://b.socrative.com):** ""
+**Link: [Socrative](https://b.socrative.com):** "" 
 
 

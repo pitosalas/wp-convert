@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-06-08
 ---
 
-**Link: [Creepy article!](None):** ""
+
 
 Get this:
 

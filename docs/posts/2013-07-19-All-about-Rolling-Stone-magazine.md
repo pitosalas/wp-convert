@@ -8,7 +8,7 @@ tags:
     - rollingston-tage
 ---
 
-**Link: [All about Rolling Stone magazine](None):** ""
+
 
 About a year ago I started reading Rolling Stone magazine. It's true what
 Taibbi says, it's definitely not People or EW magazine. Yes it does have good

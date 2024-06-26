@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-02-29
 ---
 
-**Link: [BlogBridge latest](None):** ""
+
 
 Just a quick note about what's up with BlogBridge. My time has been severely
 drained by a new consulting project, so progress has slowed down more than I

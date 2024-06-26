@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-03-15
 ---
 
-**Link: [Stewart Alsop ” the best](None):** ""
+
 
 **Stewart Alsop " the best political columnist of the past century": **Well,
 that's high praise from [William Safire in a New York Times

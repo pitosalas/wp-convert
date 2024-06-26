@@ -7,7 +7,7 @@ tags:
     - tips
 ---
 
-**Link: [100 Tips for a Better Life – LessWrong](None):** ""
+
 
 [ 100 Tips for a Better Life - LessWrong](<
 https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-

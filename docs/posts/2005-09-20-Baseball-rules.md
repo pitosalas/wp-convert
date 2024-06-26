@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-09-20
 ---
 
-**Link: [Baseball rules](None):** ""
+
 
 I guess it's the time of year, but I came across [this site for Baseball
 umpires](<http://www.macroweb.com/ibrules/>) which is a fun entertainment if

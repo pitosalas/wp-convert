@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2010-11-13
 ---
 
-**Link: [Overreaction](None):** ""
+
 
 I tend to agree with this writer that:
 

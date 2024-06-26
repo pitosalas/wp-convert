@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-05-02
 ---
 
-**Link: [A touching piece by Curt Schilling](None):** ""
+
 
 This is from his blog:
 

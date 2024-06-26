@@ -9,7 +9,7 @@ tags:
     - patriots
 ---
 
-**Link: [Football Lingo](None):** ""
+
 
 As a naturalized citizen who's lived here for most of his life, Football used
 to be foreign to me. I grew up knowing soccer and baseball but for the first

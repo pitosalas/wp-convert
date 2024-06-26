@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-10-07
 ---
 
-**Link: [Follow-up on my iPod Rant](None):** ""
+
 
 After [my rant a few days ago](</weblogs/archives/000891.php>) about the
 **quality** of new-fangled electronic **gizmos** I got various emails. Most

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-04-12
 ---
 
-**Link: [Agenda for OPML Camp coming together](None):** ""
+
 
 [Adam's](<http://www.darwinianweb.com/>) been busy moving the plans for [OPML
 Camp](<http://www.opmlcamp.com/>) forward. Looks like it's going to be

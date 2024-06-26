@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-05-07
 ---
 
-**Link: [All the logos](None):** ""
+
 
 Pretty neat little web site, via [Ned
 Batchelder](<http://www.nedbatchelder.com/blog/>): [AllTheLogos.com - Gif and

@@ -8,7 +8,7 @@ tags:
     - USA
 ---
 
-**Link: [Internet in a suitcase](None):** ""
+
 
 The [U.S. government is helping create parallel internets
 ](<http://www.nytimes.com/2011/06/12/world/12internet.html>)and cell phone

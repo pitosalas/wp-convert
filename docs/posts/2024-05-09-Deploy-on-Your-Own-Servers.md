@@ -16,6 +16,6 @@ tags:
 ---
 <img class="cover" src="https://www.hivegrid.dev/cover.png">
 
-**Link: [Deploy on Your Own Servers](https://www.hivegrid.dev/):** "Fastest way to deploy a Rails app!"
+**Link: [Deploy on Your Own Servers](https://www.hivegrid.dev/):** "Fastest way to deploy a Rails app!" 
 
 Once Heroku got rid of their free tier, we all wanted alternatives. Doku is one of them. It lets you create your very own Heroku service on top of a cheap Digitial Ocean partition.

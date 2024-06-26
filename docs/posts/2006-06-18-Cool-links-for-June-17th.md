@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-06-18
 ---
 
-**Link: [Cool links for June 17th](None):** ""
+
 
   * [ Guy Kawasaki -- Bona tempora volvantu](<http://blog.guykawasaki.com/index.rdf>) Guy Kawasaki's blog always has good stuff! (tags: [feed](<http://del.icio.us/pitosalas/feed>) [soflow](<http://del.icio.us/pitosalas/soflow>) [interesting](<http://del.icio.us/pitosalas/interesting>))
 >>   * [TIME.com Print Page: Nation -- Exclusive Book Excerpt: How an Al-Qaeda

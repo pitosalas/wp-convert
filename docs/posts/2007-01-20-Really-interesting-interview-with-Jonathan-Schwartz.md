@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-01-20
 ---
 
-**Link: [Really interesting interview with Jonathan Schwartz](None):** ""
+
 
 Who is he? The CEO of Sun Microsystems. Check out the video:
 

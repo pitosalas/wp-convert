@@ -7,7 +7,7 @@ tags:
     - userinterface
 ---
 
-**Link: [Facebook – Group your Place on a List and Put it on A page … or something](None):** ""
+
 
 I am a big fan of Facebook. They are doing so many things well. They have
 become so pervasive that if anyone is doing anything that involves a group of

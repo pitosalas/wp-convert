@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-02-25
 ---
 
-**Link: [Giving till it hurts](None):** ""
+
 
 Do you get fund raising / spam phone calls from very persistent, insistent
 callers asking for money to 'Support our Veterans'? I've gotten them more than

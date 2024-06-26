@@ -9,7 +9,7 @@ tags:
     - teamwork
 ---
 
-**Link: [On the importance of learning to work in teams](None):** ""
+
 
 David Colletta shared [this link in
 comments](<http://www.evanjones.ca/farewell-mit.html>) to my [recent post

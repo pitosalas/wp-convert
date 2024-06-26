@@ -14,7 +14,7 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fgizma.com%2Feasing%2F">
 
-**Link: [Easing Equations](https://gizma.com/easing/):** ""
+**Link: [Easing Equations](https://gizma.com/easing/):** "" 
 
 I know it seems that all I am doing these days is noting servo easing equations!
 

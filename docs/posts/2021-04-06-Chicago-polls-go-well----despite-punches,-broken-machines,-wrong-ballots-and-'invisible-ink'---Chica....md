@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://chicagotribune.newspapers.com/i/papergroup-fsnp.png">
 
-**Link: [Chicago polls go well -- despite punches, broken machines, wrong ballots and 'invisible ink' - Chica...](http://archives.chicagotribune.com/2008/feb/06/local/chi-vote_06feb06):** "Find historical newspapers from Chicago Tribune."
+**Link: [Chicago polls go well -- despite punches, broken machines, wrong ballots and 'invisible ink' - Chica...](http://archives.chicagotribune.com/2008/feb/06/local/chi-vote_06feb06):** "Find historical newspapers from Chicago Tribune." 
 
 

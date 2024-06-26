@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-02-09
 ---
 
-**Link: [Amazing story about Virginia Postrel’s kidney](None):** ""
+
 
 This is a [dramatic and well told story of one patient's patient search for a
 kidney donor.

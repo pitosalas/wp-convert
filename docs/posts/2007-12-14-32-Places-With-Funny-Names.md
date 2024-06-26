@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-12-14
 ---
 
-**Link: [32 Places With Funny Names](None):** ""
+
 
 I discovered a new funny blog: it's the List of Lists blog. For example, check
 out [this post](<http://www.alistoflists.com/places-events/32-places-with-

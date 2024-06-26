@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-07-11
 ---
 
-**Link: [[GEEKY] Google page rank patent](None):** ""
+
 
 This is not about patents, it's about technology. In Google's recent patent
 application they reveal some interesting and possibly surprising tidbits of

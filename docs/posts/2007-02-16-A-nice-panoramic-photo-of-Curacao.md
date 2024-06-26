@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-02-16
 ---
 
-**Link: [A nice panoramic photo of Curacao](None):** ""
+
 
 This is the Seaquarium beach area. It's very beautiful as you can see. Click
 on the photo if you dare. It's huge but impressive.

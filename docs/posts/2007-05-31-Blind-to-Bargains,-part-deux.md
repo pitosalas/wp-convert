@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-05-31
 ---
 
-**Link: [Blind to Bargains, part deux](None):** ""
+
 
 I follow [Chris Pirillo's blog](<http://chris.pirillo.com/>) and other
 writings religiously. Two recent, contrasting posts really caught my eye

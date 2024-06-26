@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-10-22
 ---
 
-**Link: [American Airlines kinda-fail](None):** ""
+
 
 I am traveling on my _usually_ favorite Airline; and of course everyone knows
 that they are suffering, right? And yes, the flight to L.A. is ridiculously

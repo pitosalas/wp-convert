@@ -8,7 +8,7 @@ tags:
     - iphon-tage
 ---
 
-**Link: [The funny thing about iPhone apps](None):** ""
+
 
 So a friend of mine told me of his iPhone app, called
 [Etude](<http://etudeapp.com/>). He sung the praises, it sounds really cool to

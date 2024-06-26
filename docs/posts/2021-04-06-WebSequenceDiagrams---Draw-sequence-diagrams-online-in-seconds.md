@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fwww.websequencediagrams.com">
 
-**Link: [WebSequenceDiagrams - Draw sequence diagrams online in seconds](https://www.websequencediagrams.com):** "Draw sequence diagrams in seconds using this free online tool."
+**Link: [WebSequenceDiagrams - Draw sequence diagrams online in seconds](https://www.websequencediagrams.com):** "Draw sequence diagrams in seconds using this free online tool." 
 
 

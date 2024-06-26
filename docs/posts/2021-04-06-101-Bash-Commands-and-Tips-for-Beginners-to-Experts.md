@@ -14,6 +14,6 @@ tags:
 ---
 <img class="cover" src="https://res.cloudinary.com/practicaldev/image/fetch/s--7vliutG8--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/mhlzt5ctquamg3z9i2r7.jpg">
 
-**Link: [101 Bash Commands and Tips for Beginners to Experts](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je):** "Always looking for new productivity in the shell!"
+**Link: [101 Bash Commands and Tips for Beginners to Experts](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je):** "Always looking for new productivity in the shell!" 
 
 

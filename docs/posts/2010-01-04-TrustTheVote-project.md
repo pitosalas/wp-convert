@@ -9,7 +9,7 @@ tags:
     - trustthevote
 ---
 
-**Link: [TrustTheVote project](None):** ""
+
 
 I've been part of the core tech team of the [TrustTheVote
 project](<http://www.trustthevote.org>) and recently have been blogging over

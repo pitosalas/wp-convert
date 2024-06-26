@@ -10,7 +10,7 @@ tags:
     - inno-tagvation-tag
 ---
 
-**Link: [[EDUCATION] Sign of change in the universe](None):** ""
+
 
 I would love to see this trend accelerate:
 

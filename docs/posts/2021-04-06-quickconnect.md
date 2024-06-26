@@ -8,6 +8,6 @@ date: 2021-04-06
 ---
 <img class="cover" src="">
 
-**Link: [quickconnect](http://quickconnect.to/pitosalas):** ""
+**Link: [quickconnect](http://quickconnect.to/pitosalas):** "" 
 
 

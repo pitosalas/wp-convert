@@ -10,7 +10,7 @@ tags:
     - python-tag
 ---
 
-**Link: [0008 – Guide to overloading in Python](None):** ""
+
 
 [ 0008 - Guide to overloading in
 Python](<https://ceayo.neocities.org/posts/0008---guide-to-overloading-in-

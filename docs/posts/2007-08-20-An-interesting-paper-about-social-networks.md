@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-08-20
 ---
 
-**Link: [An interesting paper about social networks](None):** ""
+
 
 The [guy who created [tag]Live Journal[/tag]](<http://www.bradfitz.com/>)
 (Brad Fitzpatrick) has a manifesto of sorts regarding what needs to happen

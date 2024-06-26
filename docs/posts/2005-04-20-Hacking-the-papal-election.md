@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-04-20
 ---
 
-**Link: [Hacking the papal election](None):** ""
+
 
 I have to admit to being **fascinated** with the Vatican, and the **ancient**
 , elaborate **traditions** and **rules** that surround the papacy.  Bruce

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-08-02
 ---
 
-**Link: [New York Times from the future](None):** ""
+
 
 Look closely at this screen grab off the New York Times site. It was published
 on August 6, 2006. Look at the calendar on the wall. It's only August 2, at

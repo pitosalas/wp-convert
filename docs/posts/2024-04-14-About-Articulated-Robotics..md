@@ -18,7 +18,7 @@ tags:
 ---
 <img class="cover" src="https://articulatedrobotics.xyz/assets/images/logo2.png">
 
-**Link: [About Articulated Robotics.](https://articulatedrobotics.xyz/about/):** "Mini lessons in robotics"
+**Link: [About Articulated Robotics.](https://articulatedrobotics.xyz/about/):** "Mini lessons in robotics" 
 
 I just came across this set of tutorials and ROS1 and 2 tutorials. From a sample of a few I can say that they are really excellent!
 

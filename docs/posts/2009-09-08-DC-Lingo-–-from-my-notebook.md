@@ -8,7 +8,7 @@ tags:
     - transparencycamp
 ---
 
-**Link: [DC Lingo – from my notebook](None):** ""
+
 
 More stuff that I learned at [Transparency
 camp](<http://www.transparencycamp.org/>).

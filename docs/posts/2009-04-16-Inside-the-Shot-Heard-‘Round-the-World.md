@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-04-16
 ---
 
-**Link: [Inside the Shot Heard ‘Round the World](None):** ""
+
 
 Did you wonder how those snipers were able to shoot those pirates when both
 groups were on boats on the open sea? Check out this post [Inside the Shot

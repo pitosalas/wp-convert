@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://blog.appsignal.com/images/blog/2019-01/bindings_twitter.jpg">
 
-**Link: [Bindings and Lexical Scope in Ruby](https://blog.appsignal.com/2019/01/08/ruby-magic-bindings-and-lexical-scope.html):** "Ruby is such an elegant language!"
+**Link: [Bindings and Lexical Scope in Ruby](https://blog.appsignal.com/2019/01/08/ruby-magic-bindings-and-lexical-scope.html):** "Ruby is such an elegant language!" 
 
 

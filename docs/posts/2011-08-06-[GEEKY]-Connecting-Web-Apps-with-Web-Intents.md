@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2011-08-06
 ---
 
-**Link: [[GEEKY] Connecting Web Apps with Web Intents](None):** ""
+
 
 Check this post [Connecting Web Apps with Web
 Intents](<http://blog.chromium.org/2011/08/connecting-web-apps-with-web-

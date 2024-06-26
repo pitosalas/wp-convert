@@ -7,7 +7,7 @@ tags:
     - tshirt
 ---
 
-**Link: [T-Shirt Design](None):** ""
+
 
 Code T-Shirt, © Pito Salas, 2012. Let me know if you want to order one!
 

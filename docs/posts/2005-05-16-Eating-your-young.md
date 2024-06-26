@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-05-16
 ---
 
-**Link: [Eating your young](None):** ""
+
 
 I came [across this
 bit](<http://techdirt.com/articles/20050516/0032240_F.shtml>):

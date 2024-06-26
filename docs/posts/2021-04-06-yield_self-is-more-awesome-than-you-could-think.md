@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fzverok.github.io%2Fblog%2F2018-01-24-yield_self.html">
 
-**Link: [yield_self is more awesome than you could think](https://zverok.github.io/blog/2018-01-24-yield_self.html):** "…the name still sucks, tho"
+**Link: [yield_self is more awesome than you could think](https://zverok.github.io/blog/2018-01-24-yield_self.html):** "…the name still sucks, tho" 
 
 

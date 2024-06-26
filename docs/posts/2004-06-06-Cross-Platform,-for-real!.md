@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-06-06
 ---
 
-**Link: [Cross Platform, for real!](None):** ""
+
 
 We are busy getting [BlogBridge ](<http://www.blogbridge.com>)ready for beta
 (send email if you want to participate.) I hope we are only days away.

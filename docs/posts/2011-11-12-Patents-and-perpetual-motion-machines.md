@@ -9,7 +9,7 @@ tags:
     - science
 ---
 
-**Link: [Patents and perpetual motion machines](None):** ""
+
 
 An [interesting commentary on a couple of patents that issued from the US
 Patent Office:](<http://gailly.net/05533051.html>)

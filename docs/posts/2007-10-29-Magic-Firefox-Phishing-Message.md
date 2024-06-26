@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-10-29
 ---
 
-**Link: [Magic Firefox Phishing Message](None):** ""
+
 
 Pleasantly surprised to see this, and I didn't even know it was checking for
 me:

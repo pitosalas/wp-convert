@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-03-22
 ---
 
-**Link: [[ETECH] Taxonomy of Folksonomies](None):** ""
+
 
 There's been a lot of talk about tags, folksonomies, taxonomies, etc. Trying
 to make sense out of this can be confusing. At the recent ETech conference

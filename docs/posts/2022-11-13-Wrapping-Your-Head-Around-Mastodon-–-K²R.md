@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2022-11-13
 ---
 
-**Link: [Wrapping Your Head Around Mastodon – K²R](None):** ""
+
 
 [ Wrapping Your Head Around Mastodon - K²R](<
 https://hyperborea.org/journal/2022/11/mastodon-what/>) –More introduction to

@@ -12,7 +12,7 @@ tags:
     - ruby-on-tag-rails
 ---
 
-**Link: [Rails initializers you don’t know about – Inflections](None):** ""
+
 
 [ Rails initializers you don't know about - Inflections](<
 https://blog.saeloun.com/2023/02/09/rails-initializers-you-dont-know-about-

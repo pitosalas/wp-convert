@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fsmithcsrobot.weebly.com%2Fuploads%2F6%2F0%2F9%2F5%2F60954939%2Fpid_control_document.pdf">
 
-**Link: [Pid control document](http://smithcsrobot.weebly.com/uploads/6/0/9/5/60954939/pid_control_document.pdf):** "Excellent tips and ideas"
+**Link: [Pid control document](http://smithcsrobot.weebly.com/uploads/6/0/9/5/60954939/pid_control_document.pdf):** "Excellent tips and ideas" 
 
 One of several tips on how to tune PID controllers. PID Controllers are algorithms used in all sorts of control circuits. In my case for the control of a robot motor.

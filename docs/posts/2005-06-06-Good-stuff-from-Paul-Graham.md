@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-06-06
 ---
 
-**Link: [Good stuff from Paul Graham](None):** ""
+
 
 If you work with software developers you'll **appreciate** these two pieces by
 **Paul Graham** , author of [Hackers and

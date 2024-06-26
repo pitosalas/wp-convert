@@ -14,6 +14,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fpaulgraham.com%2Flesson.html">
 
-**Link: [The Lesson to Unlearn](http://paulgraham.com/lesson.html):** ""The most damaging thing you learned in school wasn't something you learned in any specific class. It was learning to get good grades.""
+**Link: [The Lesson to Unlearn](http://paulgraham.com/lesson.html):** ""The most damaging thing you learned in school wasn't something you learned in any specific class. It was learning to get good grades."" 
 
 

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-06-21
 ---
 
-**Link: [Distributed philanthropy network](None):** ""
+
 
 I came across a good story about
 [ModestNeeds.org](<http://www.modestneeds.org/>) from [Deborah Finn's

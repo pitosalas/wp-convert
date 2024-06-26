@@ -8,7 +8,7 @@ tags:
     - solitude
 ---
 
-**Link: [commonplace, ordinary, usual, common](None):** ""
+
 
 I just came across an excellent speech given by William Deresiewics (I didn't
 know who he was either) to the plebe class at the United States Military

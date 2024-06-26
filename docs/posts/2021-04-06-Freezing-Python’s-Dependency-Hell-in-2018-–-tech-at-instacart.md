@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://miro.medium.com/max/492/0*7ezJOtYUkI5zyqWU.png">
 
-**Link: [Freezing Python’s Dependency Hell in 2018 – tech-at-instacart](https://tech.instacart.com/freezing-pythons-dependency-hell-in-2018-f1076d625241):** "One of the many reasons I prefer Ruby over Python. Not to say I don’t use python when I need to. Data Science, Robotics, etc."
+**Link: [Freezing Python’s Dependency Hell in 2018 – tech-at-instacart](https://tech.instacart.com/freezing-pythons-dependency-hell-in-2018-f1076d625241):** "One of the many reasons I prefer Ruby over Python. Not to say I don’t use python when I need to. Data Science, Robotics, etc." 
 
 

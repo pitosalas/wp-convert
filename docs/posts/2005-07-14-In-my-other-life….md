@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-07-14
 ---
 
-**Link: [In my other life…](None):** ""
+
 
 I just updated this site a little to have some more up to date information
 about my consulting business. Yes, you know about this blog, and you know

@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://miro.medium.com/max/1200/1*dKDpmdpQABsXbWIRWsRy2A.png">
 
-**Link: [A Modern Prometheus – Processing Foundation – Medium](https://medium.com/processing-foundation/a-modern-prometheus-59aed94abe85):** "The History of Processing by Casey Reas and Ben Fry"
+**Link: [A Modern Prometheus – Processing Foundation – Medium](https://medium.com/processing-foundation/a-modern-prometheus-59aed94abe85):** "The History of Processing by Casey Reas and Ben Fry" 
 
 

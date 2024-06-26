@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fgomockingbird.com%2Fmockingbird">
 
-**Link: [ems2 - Mockingbird](http://gomockingbird.com/mockingbird):** ""
+**Link: [ems2 - Mockingbird](http://gomockingbird.com/mockingbird):** "" 
 
 

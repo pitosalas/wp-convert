@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fdocs.moodle.org%2F28%2Fen%2FMain_page">
 
-**Link: [MoodleDocs](https://docs.moodle.org/28/en/Main_page):** ""
+**Link: [MoodleDocs](https://docs.moodle.org/28/en/Main_page):** "" 
 
 

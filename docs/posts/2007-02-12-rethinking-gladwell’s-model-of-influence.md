@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-02-12
 ---
 
-**Link: [rethinking gladwell’s model of influence](None):** ""
+
 
 Check out [this post](<http://www.influxinsights.com/index.php?id=1165>) from
 [Influx Insights Weblog](<http://www.influxinsights.com>): [rethinking

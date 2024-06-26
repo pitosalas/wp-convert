@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-12-07
 ---
 
-**Link: [Hacking Reputation in MySpace and Facebook](None):** ""
+
 
 Check out [this  
 > post](<http://www.schneier.com/blog/archives/2006/12/hacking_reputat.html>)

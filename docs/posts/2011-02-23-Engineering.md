@@ -7,7 +7,7 @@ tags:
     - failure
 ---
 
-**Link: [Engineering](None):** ""
+
 
 Some choice quotes to introduce a good [lecture about
 Engineering](<http://sunnyday.mit.edu/16.355/Augustine.htm>):

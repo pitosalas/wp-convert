@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-10-13
 ---
 
-**Link: [Stewart Alsop blogging!](None):** ""
+
 
 ![](https://i0.wp.com/salsop.typepad.com/westernstewart.jpg?w=584)[Stewart
 Alsop](<http://www.stewartalsop.com/>) (the III'd I think), according to his

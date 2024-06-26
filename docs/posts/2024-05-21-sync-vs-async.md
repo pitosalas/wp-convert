@@ -9,7 +9,7 @@ tags:
     - synchronous
     - asynchronous
 ---
-**By [Perplexity.ai](www.perplexity.ai)**
+**By [Perplexity.ai](http://www.perplexity.ai)**
 
 As the landscape of education continues to evolve, the debate between synchronous and asynchronous remote learning has intensified. With advancements in internet connectivity and online learning platforms, synchronous remote learning is poised to become the dominant mode of education. This article presents a compelling case for why synchronous remote learning will outstrip asynchronous methods, supported by detailed references and data.
 

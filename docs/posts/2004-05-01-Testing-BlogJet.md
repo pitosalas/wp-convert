@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-05-01
 ---
 
-**Link: [Testing BlogJet](None):** ""
+
 
 I have installed an interesting application -
 [BlogJet](<http://blogjet.com/>). It's a cool Windows client for my blog tool

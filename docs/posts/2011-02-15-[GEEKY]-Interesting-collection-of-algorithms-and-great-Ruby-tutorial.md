@@ -8,7 +8,7 @@ tags:
     - ruby
 ---
 
-**Link: [[GEEKY] Interesting collection of algorithms and great Ruby tutorial](None):** ""
+
 
 Over the last several months I've been following a series of blog postings by
 [Jamis Buck ](<http://weblog.jamisbuck.org/>)on the esoteric and quirky topic

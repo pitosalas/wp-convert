@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-02-27
 ---
 
-**Link: [Adobe Enterprise document control technology](None):** ""
+
 
 **Adobe Enterprise document control technology (Demo 2004 Series - 5) **They
 have come up with a policy server to control and log access to pdf documents.

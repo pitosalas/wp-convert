@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-03-04
 ---
 
-**Link: [Pandora helps me discover Beth Nielsen Chapman](None):** ""
+
 
 I've experimented with all kinds of novel music related services and products.
 My favorite is [Pandora](<http://www.pandora.com/>). This is a a site that

@@ -14,6 +14,6 @@ tags:
 ---
 <img class="cover" src="https://agoodmovietowatch.com/assets/agmtw_logo.png">
 
-**Link: [What To Watch On Streaming - A Good Movie To Watch](https://agoodmovietowatch.com):** "agoodmovietowatch is the world’s first portal of highly-rated but little-known movies and shows. Curated by humans and not algorithms."
+**Link: [What To Watch On Streaming - A Good Movie To Watch](https://agoodmovietowatch.com):** "agoodmovietowatch is the world’s first portal of highly-rated but little-known movies and shows. Curated by humans and not algorithms." 
 
 Excellent and very smart. Movie recommendation engine.

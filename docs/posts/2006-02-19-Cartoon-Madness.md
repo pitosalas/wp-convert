@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-02-19
 ---
 
-**Link: [Cartoon Madness](None):** ""
+
 
 The [Freakonomics blog](<http://www.freakonomics.com/>) often has good stuff
 in it, even if you haven't read the book, which also has good stuff in it.

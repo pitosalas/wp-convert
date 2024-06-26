@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-02-04
 ---
 
-**Link: [Did you know how closely](None):** ""
+
 
 **Did you know how closely you were being watched by your TIVO?** A by-product
 of the Janet Jackson flap, was that [Tivo announced through a press

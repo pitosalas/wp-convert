@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-02-05
 ---
 
-**Link: [Neat Bank of America site security feature doesn’t do anything !](None):** ""
+
 
 If you use the Bank of America online banking site you've seen what they call
 the 'Site Identity' feature that is supposed to save you from being phished:

@@ -11,7 +11,7 @@ tags:
     - search
 ---
 
-**Link: [Swurl – Search everything instantly](None):** ""
+
 
 [ Swurl - Search everything instantly](< https://swurl.com/>) –Played with
 this a little. While google already searches all those other sources still i

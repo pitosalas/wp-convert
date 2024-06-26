@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-08-30
 ---
 
-**Link: [Two examples of great Web 2.0 by USA government](None):** ""
+
 
 Who said "y**our TSA don 't dance and your USPTO don't rock and roll**?" (One
 free copy of BlogBridge for all of you who get the reference without using

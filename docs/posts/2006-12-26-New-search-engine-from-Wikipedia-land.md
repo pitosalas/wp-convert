@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-12-26
 ---
 
-**Link: [New search engine from Wikipedia-land](None):** ""
+
 
 If you keep up, you may have heard abou this. A new search engine coming from
 Wikipedia founder Jimmy Wales. Check out [this

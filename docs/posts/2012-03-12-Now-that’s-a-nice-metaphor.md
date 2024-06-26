@@ -8,7 +8,7 @@ tags:
     - nyt
 ---
 
-**Link: [Now that’s a nice metaphor](None):** ""
+
 
 I love this metaphor - or is it a simile - or a malapropism - who knows:
 

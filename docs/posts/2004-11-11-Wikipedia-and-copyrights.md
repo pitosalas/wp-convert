@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-11-11
 ---
 
-**Link: [Wikipedia and copyrights](None):** ""
+
 
 If you haven't heard about
 [Wikipedia](<http://en.wikipedia.org/wiki/Main_Page>), you should check it

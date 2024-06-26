@@ -13,7 +13,7 @@ tags:
 ---
 <img class="cover" src="https://hrc.contentdm.oclc.org/digital/api/singleitem/collection/p15878coll84/id/5004/thumbnail">
 
-**Link: [Browse - Harry Ransom Center Digital Collections](https://hrc.contentdm.oclc.org/digital/collection/p15878coll84/search):** ""
+**Link: [Browse - Harry Ransom Center Digital Collections](https://hrc.contentdm.oclc.org/digital/collection/p15878coll84/search):** "" 
 
 Huge collection of movie posters. It looks like they are free to download, that is, without copyright!
 

@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://miro.medium.com/max/1200/0*cF-7zKh4jqldcDf2">
 
-**Link: [10 Signs You Will Suck at Programming – Noteworthy - The Journal Blog](https://blog.usejournal.com/10-signs-you-will-suck-at-programming-5497a6a52c5c):** "It’s good to know if you have some of the traits of a good programmer!"
+**Link: [10 Signs You Will Suck at Programming – Noteworthy - The Journal Blog](https://blog.usejournal.com/10-signs-you-will-suck-at-programming-5497a6a52c5c):** "It’s good to know if you have some of the traits of a good programmer!" 
 
 

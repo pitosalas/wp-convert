@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-01-09
 ---
 
-**Link: [When I was younger I used to admire Ayn Rand](None):** ""
+
 
 I really love her major novels although I haven't looked at them in years. You
 know how you remember a novel to be great, but upon looking at it again 20

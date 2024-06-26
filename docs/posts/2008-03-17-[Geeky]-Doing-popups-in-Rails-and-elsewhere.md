@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-03-17
 ---
 
-**Link: [[Geeky] Doing popups in Rails and elsewhere](None):** ""
+
 
 So my little toy pedagogical application needed a pretty popup box. Actually I
 wanted one so I could see close up some of the alternatives. In the process I

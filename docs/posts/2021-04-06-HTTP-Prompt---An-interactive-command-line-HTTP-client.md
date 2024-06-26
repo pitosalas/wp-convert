@@ -15,6 +15,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fhttp-prompt.com">
 
-**Link: [HTTP Prompt - An interactive command-line HTTP client](http://http-prompt.com):** "If you’re getting a web api to work, this seems like a great alternative,"
+**Link: [HTTP Prompt - An interactive command-line HTTP client](http://http-prompt.com):** "If you’re getting a web api to work, this seems like a great alternative," 
 
 

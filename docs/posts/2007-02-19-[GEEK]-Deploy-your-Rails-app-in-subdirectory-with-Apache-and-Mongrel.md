@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-02-19
 ---
 
-**Link: [[GEEK] Deploy your Rails app in subdirectory with Apache and Mongrel](None):** ""
+
 
 If you are a Ruby On Rails developer you might want to check out [this
 post](<http://www.dzone.com/rsslinks/deploy_your_rails_app_in_subdirectory_with_apache.html>)

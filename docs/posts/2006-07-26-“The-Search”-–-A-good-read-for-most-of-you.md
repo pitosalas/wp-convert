@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-07-26
 ---
 
-**Link: [“The Search” – A good read for most of you](None):** ""
+
 
 If you read my blog chances are you'll **really enjoy** John Batelle's book
 [The Search: How Google and Its Rivals Rewrote the Rules of Business and

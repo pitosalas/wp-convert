@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-03-03
 ---
 
-**Link: [Google Coolness. Well those wacky](None):** ""
+
 
 **Google Coolness.** Well those **wacky guys and gals** at Google keep on
 coming out with **neat new stuff**. Check out

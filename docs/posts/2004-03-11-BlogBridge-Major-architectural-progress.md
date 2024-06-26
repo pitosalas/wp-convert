@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-03-11
 ---
 
-**Link: [BlogBridge Major architectural progress](None):** ""
+
 
 We made some major new progress since the last update.
 

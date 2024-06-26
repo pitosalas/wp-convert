@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-08-06
 ---
 
-**Link: [Atlantic Magazine on Wikipedia](None):** ""
+
 
 A really great article in [The Atlantic](<http://www.theatlantic.com>) about
 Wikipedia. Very relevant during this Wikimania weekend.

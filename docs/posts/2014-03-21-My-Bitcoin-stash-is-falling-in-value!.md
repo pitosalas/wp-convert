@@ -8,7 +8,7 @@ tags:
     - wsj
 ---
 
-**Link: [My Bitcoin stash is falling in value!](None):** ""
+
 
 Yes, I have about $100 in Bitcoin and today was a bad day. It droppped from
 around $630 to around $580. Am I a speculator? I guess, but my excuse is that

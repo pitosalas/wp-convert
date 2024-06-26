@@ -14,6 +14,6 @@ tags:
 ---
 <img class="cover" src="https://i.ytimg.com/vi/22KUPktetzg/mqdefault.jpg">
 
-**Link: [Finite State Machines are dead. Long life Behavior Trees](https://www.youtube.com/watch?feature=youtu.be&v=22KUPktetzg):** "Very nice explanation of behavior trees"
+**Link: [Finite State Machines are dead. Long life Behavior Trees](https://www.youtube.com/watch?feature=youtu.be&v=22KUPktetzg):** "Very nice explanation of behavior trees" 
 
 

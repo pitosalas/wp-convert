@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-03-27
 ---
 
-**Link: [[GEEK] Interesting OS X article](None):** ""
+
 
 Ever wonder how Mac's OS X program launch and execution works? No? Hmm.
 Anyway, [here's a fascinating](<http://0xfe.blogspot.com/2006/03/how-os-x-

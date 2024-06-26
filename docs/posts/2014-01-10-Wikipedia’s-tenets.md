@@ -7,7 +7,7 @@ tags:
     - wikipedia
 ---
 
-**Link: [Wikipedia’s tenets](None):** ""
+
 
 Flying back home yesterday I read this article about Wikipedia in the New York
 Times: [Wikipedia, What Does Judith Newman Have to Do to Get a Page? -

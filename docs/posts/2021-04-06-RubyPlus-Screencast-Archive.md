@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fwww.rubyplus.org%2Fepisodes%2Farchive">
 
-**Link: [RubyPlus Screencast Archive](http://www.rubyplus.org/episodes/archive):** ""
+**Link: [RubyPlus Screencast Archive](http://www.rubyplus.org/episodes/archive):** "" 
 
 

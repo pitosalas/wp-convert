@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-12-08
 ---
 
-**Link: [[GEEK] Java Web Start](None):** ""
+
 
 You might think it's a bad idea for me to complain about Java Web Start. Well
 the truth is that I really like it and so am really frustrated by it's

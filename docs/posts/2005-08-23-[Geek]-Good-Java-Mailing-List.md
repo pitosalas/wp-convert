@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-08-23
 ---
 
-**Link: [[Geek] Good Java Mailing List](None):** ""
+
 
 I've [subscribed to this list](<http://www.ociweb.com/jnb/index.html>) from
 [OCI](<http://www.ociweb.com/>) ("Object Computing Inc.") for a while now.

@@ -8,7 +8,7 @@ tags:
     - strategy
 ---
 
-**Link: [[EDUCATION] Crowd Sourcing your Strategy](None):** ""
+
 
 The other day I referenced an [article questioning the motivation and
 effectiveness of large scale strategic planning exercises in universities

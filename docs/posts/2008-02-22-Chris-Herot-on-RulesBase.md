@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-02-22
 ---
 
-**Link: [Chris Herot on RulesBase](None):** ""
+
 
 Chris Herot writes about a new product called RulesBase: Check out [this
 post](<http://herot.typepad.com/cherot/2008/02/rulesbase.html>) from

@@ -11,6 +11,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fyoshikoder.sourceforge.net%2Findex.html">
 
-**Link: [Yoshikoder - Homepage](http://yoshikoder.sourceforge.net/index.html):** ""
+**Link: [Yoshikoder - Homepage](http://yoshikoder.sourceforge.net/index.html):** "" 
 
 

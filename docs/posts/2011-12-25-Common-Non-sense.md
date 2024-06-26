@@ -7,7 +7,7 @@ tags:
     - obvious
 ---
 
-**Link: [Common Non-sense](None):** ""
+
 
 I just finished reading a great book, "[Everything Is Obvious: *Once You Know
 the

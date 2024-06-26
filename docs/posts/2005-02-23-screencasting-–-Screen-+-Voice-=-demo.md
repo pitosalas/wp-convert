@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-02-23
 ---
 
-**Link: [screencasting – Screen + Voice = demo](None):** ""
+
 
 [Jon Udell](<http://weblog.infoworld.com/udell/>) [coins a
 term](<http://weblog.infoworld.com/udell/2005/02/21.html#a1182>),

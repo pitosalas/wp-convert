@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-02-14
 ---
 
-**Link: [Saving the newspapers. A modest proposal.](None):** ""
+
 
 ![](https://i0.wp.com/img.timeinc.net/time/magazine/archive/covers/2009/1101090216_400.jpg?resize=200%2C265)You
 know I am a fan of the Newspapers. I've written about it several times,

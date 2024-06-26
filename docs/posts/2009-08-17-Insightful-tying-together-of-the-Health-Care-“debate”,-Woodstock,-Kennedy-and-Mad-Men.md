@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-08-17
 ---
 
-**Link: [Insightful tying together of the Health Care “debate”, Woodstock, Kennedy and Mad Men](None):** ""
+
 
 Check out this [insightful editorial in Sunday's New York by Frank
 Rich](<http://www.nytimes.com/2009/08/16/opinion/16rich.html?pagewanted=2&_r=1>).

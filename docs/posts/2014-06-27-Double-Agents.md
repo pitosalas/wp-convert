@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2014-06-27
 ---
 
-**Link: [Double Agents](None):** ""
+
 
 I am reading a really cool book right now: [Review & Outlook: Loose Lips on
 Syria -

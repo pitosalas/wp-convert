@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-08-27
 ---
 
-**Link: [[QUASI-GEEK] Dan Bricklin describes how fiber to the home is installed in the real world](None):** ""
+
 
 At a level of detail **only a geek could love** reading (or bother
 **writing**), Dan Bricklin gives us an interesting and fun illustrated story

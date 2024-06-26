@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-03-08
 ---
 
-**Link: [Dilbert blog does it again (photo added)](None):** ""
+
 
 ![](https://i0.wp.com/mdn.mainichi.jp/national/news/images/20080304p2a00m0na027000p_size5.jpg?resize=208%2C250)
 Check out [this funny

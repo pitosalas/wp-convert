@@ -10,7 +10,7 @@ tags:
     - vc
 ---
 
-**Link: [“What’s next in tech” event in Boston in June](None):** ""
+
 
 If you live in the Boston area and somehow connected to technology professions
 you should be interested in this meeting being put on in June:

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-11-15
 ---
 
-**Link: [Interesting Wired article about War Blogs](None):** ""
+
 
 I [came across this a
 little](<http://www.wired.com/wired/archive/13.08/milblogs.html>) while ago in

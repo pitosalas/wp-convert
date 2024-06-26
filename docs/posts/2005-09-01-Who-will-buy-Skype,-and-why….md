@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-09-01
 ---
 
-**Link: [Who will buy Skype, and why…](None):** ""
+
 
 Robert Cringely has a relatively little known **quasi blog** , for some reason
 on www.pbs.org. The stuff is generally very good, and little noted. Given

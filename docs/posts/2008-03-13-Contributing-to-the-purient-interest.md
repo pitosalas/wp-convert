@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-03-13
 ---
 
-**Link: [Contributing to the purient interest](None):** ""
+
 
 No less an authority as the **Freakonomics dudes** offer an article about "[A
 Call Girl's View of the Spitzer

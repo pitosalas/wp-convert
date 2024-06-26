@@ -9,7 +9,7 @@ tags:
     - iphon-tage
 ---
 
-**Link: [I wonder when this will come to iPhone!](None):** ""
+
 
 This is a very unusual Android app that I came across. It looks like they are
 just starting so it's a bit crude, but highly intriguing…

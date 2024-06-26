@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-03-07
 ---
 
-**Link: [Robot Ethics](None):** ""
+
 
 Isaac Asimov was a visonary don't you think?
 

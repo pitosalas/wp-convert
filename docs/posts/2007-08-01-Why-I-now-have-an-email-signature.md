@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-08-01
 ---
 
-**Link: [Why I now have an email signature](None):** ""
+
 
 We've been on an **SEO** binge over the last 4-6 weeks. I've been educating
 myself by listening and reading to everything I can find my hands on.

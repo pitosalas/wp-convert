@@ -10,7 +10,7 @@ tags:
     - techno-taglogy
 ---
 
-**Link: [Lies people tell themselves](None):** ""
+
 
 [Michael Arrington ](<http://en.wikipedia.org/wiki/Michael_Arrington>)is a
 famous Tech-pundit-commentator-blogger who recently left or got fired from AOL

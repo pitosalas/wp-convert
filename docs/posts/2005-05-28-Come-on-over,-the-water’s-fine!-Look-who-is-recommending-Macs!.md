@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-05-28
 ---
 
-**Link: [Come on over, the water’s fine! Look who is recommending Macs!](None):** ""
+
 
 I love my **Mac** , as y'all know. I was amused to read about **Intel CEO**
 **Paul Otellini** who publicly **recommended** getting a Mac. He was being

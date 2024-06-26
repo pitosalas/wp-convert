@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-03-29
 ---
 
-**Link: [Attention.xml](None):** ""
+
 
 [Steve Gilmor muses](<http://blogs.zdnet.com/Gillmor/index.php?p=74>) about
 the history of the Attention.xml spec in his

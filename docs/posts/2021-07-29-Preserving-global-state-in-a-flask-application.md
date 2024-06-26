@@ -18,6 +18,6 @@ tags:
 As far as I understand it, the Application Context, in particular the flask.g object should be used for this.
 Setup:
 
-import flask ..."
+import flask ..." 
 
 

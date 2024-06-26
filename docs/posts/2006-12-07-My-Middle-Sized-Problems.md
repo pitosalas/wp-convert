@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-12-07
 ---
 
-**Link: [My Middle-Sized Problems](None):** ""
+
 
 Check out [this  
 >

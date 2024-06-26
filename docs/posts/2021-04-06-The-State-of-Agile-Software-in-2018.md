@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://martinfowler.com/articles/agile-aus-2018/card.jpg">
 
-**Link: [The State of Agile Software in 2018](https://martinfowler.com/articles/agile-aus-2018.html):** "Fowler discusses real and so called faux agile."
+**Link: [The State of Agile Software in 2018](https://martinfowler.com/articles/agile-aus-2018.html):** "Fowler discusses real and so called faux agile." 
 
 

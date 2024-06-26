@@ -7,7 +7,7 @@ tags:
     - politics
 ---
 
-**Link: [The flaw in the deal](None):** ""
+
 
 I am assuming that you've followed the nonsense that has been going on in
 Washington D.C. about our so-called debt ceiling. If not this post will be

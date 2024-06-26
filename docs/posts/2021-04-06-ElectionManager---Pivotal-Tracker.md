@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fwww.pivotaltracker.com%2Fprojects%2F53877">
 
-**Link: [ElectionManager - Pivotal Tracker](http://www.pivotaltracker.com/projects/53877):** ""
+**Link: [ElectionManager - Pivotal Tracker](http://www.pivotaltracker.com/projects/53877):** "" 
 
 

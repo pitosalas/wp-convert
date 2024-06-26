@@ -10,7 +10,7 @@ tags:
     - sitting
 ---
 
-**Link: [Stand up! No, Sit Down!](None):** ""
+
 
 You know the old joke that today they say something is good for you, tomorrow
 it's bad, and the day after it's good again? Recently there was a lot of press

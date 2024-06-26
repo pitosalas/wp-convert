@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-05-21
 ---
 
-**Link: [Dowbrigade and Bridge BlogBridge](None):** ""
+
 
 Just a quick note of the **very nice** mention of BlogBridge by almost-famous
 [Dowbrigade](<http://blogs.law.harvard.edu/dowbrigade/>) blog by the

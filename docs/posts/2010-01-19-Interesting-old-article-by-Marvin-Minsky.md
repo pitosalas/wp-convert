@@ -9,7 +9,7 @@ tags:
     - thinking
 ---
 
-**Link: [Interesting old article by Marvin Minsky](None):** ""
+
 
 Just came across this odd link somewhere. He's a good and clear writer,
 enjoyable to read whether you agree or not: [Why People Think Computers Can't

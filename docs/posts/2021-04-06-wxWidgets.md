@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Fwxwidgets.org">
 
-**Link: [wxWidgets](http://wxwidgets.org):** ""
+**Link: [wxWidgets](http://wxwidgets.org):** "" 
 
 

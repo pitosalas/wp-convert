@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://news.mit.edu/sites/default/files/images/201901/MIT-Vault-Cryptocurrency.jpg">
 
-**Link: [A faster, more efficient cryptocurrency](http://news.mit.edu/2019/vault-faster-more-efficient-cryptocurrency-0124):** "It is going to be hard to see a brand new cryptocurrency vault over bitcoin, but, who knows!?"
+**Link: [A faster, more efficient cryptocurrency](http://news.mit.edu/2019/vault-faster-more-efficient-cryptocurrency-0124):** "It is going to be hard to see a brand new cryptocurrency vault over bitcoin, but, who knows!?" 
 
 

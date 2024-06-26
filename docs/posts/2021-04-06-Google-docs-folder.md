@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="">
 
-**Link: [Google docs folder](https://drive.google.com/#folders/0B_r8qvL1EWeceGVsMTVmNjRSVUk):** ""
+**Link: [Google docs folder](https://drive.google.com/#folders/0B_r8qvL1EWeceGVsMTVmNjRSVUk):** "" 
 
 

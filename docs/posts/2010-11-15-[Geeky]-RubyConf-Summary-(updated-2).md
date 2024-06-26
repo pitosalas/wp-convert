@@ -9,7 +9,7 @@ tags:
     - rubycon-tagf
 ---
 
-**Link: [[Geeky] RubyConf Summary (updated 2)](None):** ""
+
 
 RubyConf 2010 was excellent. It was my first and probably not my last. Some
 general thoughts and then a master list of links (the real meat.)

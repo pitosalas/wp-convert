@@ -6,7 +6,7 @@ tags:
     - ios-iphon-tage-ipad-user-interface
 ---
 
-**Link: [Useful document about design for iOS (iPad and IPhone)](None):** ""
+
 
 [Starters Guide to iOS Design](<http://taybenlor.com/2013/05/21/designing-for-
 ios.html>):

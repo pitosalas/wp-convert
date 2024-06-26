@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://wp.apollographql.com/wp-content/uploads/2020/03/1_yI_ZuOy0-22q6pdgVlytCA-1024x380.png">
 
-**Link: [The Anatomy of a GraphQL Query - Apollo GraphQL Blog](https://www.apollographql.com/blog/graphql/basics/the-anatomy-of-a-graphql-query/):** ""
+**Link: [The Anatomy of a GraphQL Query - Apollo GraphQL Blog](https://www.apollographql.com/blog/graphql/basics/the-anatomy-of-a-graphql-query/):** "" 
 
 

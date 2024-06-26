@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2010-06-21
 ---
 
-**Link: [TIvo has an outrageous sale going on](None):** ""
+
 
 Right now, take a look at [Tivo's
 Site](<https://www3.tivo.com/store/clearance.do?WT.ac=tivohome_clearancecenter_HD29_content_body>).

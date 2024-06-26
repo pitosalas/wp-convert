@@ -10,7 +10,7 @@ tags:
     - spotify
 ---
 
-**Link: [I don’t ‘get’ iTunes match](None):** ""
+
 
 What I don't get is the price. First I had to have bought the music (from
 Apple or someone else) and now I have to pay again ($24.95 per year) in order

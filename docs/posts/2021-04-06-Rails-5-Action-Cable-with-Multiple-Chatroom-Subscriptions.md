@@ -11,6 +11,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fwww.thegreatcodeadventure.com%2Frails-5-action-cable-with-multiple-chatroom-subscriptions">
 
-**Link: [Rails 5 Action Cable with Multiple Chatroom Subscriptions](https://www.thegreatcodeadventure.com/rails-5-action-cable-with-multiple-chatroom-subscriptions):** "Rails Actioncable is complicated. Here are a series of links about it."
+**Link: [Rails 5 Action Cable with Multiple Chatroom Subscriptions](https://www.thegreatcodeadventure.com/rails-5-action-cable-with-multiple-chatroom-subscriptions):** "Rails Actioncable is complicated. Here are a series of links about it." 
 
 

@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://yuml.me/images/twitter_card_home_preview.jpg">
 
-**Link: [Create UML diagrams online in seconds, no special tools needed.](http://yuml.me/diagram/scruffy/class/draw):** "Create simple UML diagrams online in seconds. Then share them in your blogs, wikis, issue trackers and chat clients."
+**Link: [Create UML diagrams online in seconds, no special tools needed.](http://yuml.me/diagram/scruffy/class/draw):** "Create simple UML diagrams online in seconds. Then share them in your blogs, wikis, issue trackers and chat clients." 
 
 

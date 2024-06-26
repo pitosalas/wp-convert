@@ -9,7 +9,7 @@ tags:
     - learning
 ---
 
-**Link: [Good Grades Certainly Don’t Hurt](None):** ""
+
 
 [How to Get a Job at Google - NYTimes.com](<http://nyti.ms/1jTJavh>):
 

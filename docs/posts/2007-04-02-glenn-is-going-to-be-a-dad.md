@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-04-02
 ---
 
-**Link: [glenn is going to be a dad](None):** ""
+
 
 Read this essay describing the feelings of someone who will soon be a first
 time parent. It sounds like many of the things I was thinking when I was in

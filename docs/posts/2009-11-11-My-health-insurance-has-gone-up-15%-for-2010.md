@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-11-11
 ---
 
-**Link: [My health insurance has gone up 15% for 2010](None):** ""
+
 
 Yeah, I just received the renewal paperwork for health insurance, and i**t 's
 up**. This is with [Blue Cross Blue Shield of

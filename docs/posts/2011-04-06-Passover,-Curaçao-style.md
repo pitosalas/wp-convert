@@ -8,7 +8,7 @@ tags:
     - haroza
 ---
 
-**Link: [Passover, Curaçao style](None):** ""
+
 
 Here's how we make Garoza (Charoset) in Curaçao.
 

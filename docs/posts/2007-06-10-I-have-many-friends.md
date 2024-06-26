@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-06-10
 ---
 
-**Link: [I have many friends](None):** ""
+
 
 A funny article in the New York Times the other day:
 

@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Frpubs.com%2Fbradleyboehmke%2Fdata_wrangling">
 
-**Link: [RPubs - Data Processing with dplyr & tidyr](https://rpubs.com/bradleyboehmke/data_wrangling):** ""
+**Link: [RPubs - Data Processing with dplyr & tidyr](https://rpubs.com/bradleyboehmke/data_wrangling):** "" 
 
 

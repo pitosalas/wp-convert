@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://miro.medium.com/max/1200/1*X68DND6Lh8GFvM3i49KOhA.png">
 
-**Link: [7 Rules for Creating Gorgeous UI (Part 1) – Erik D. Kennedy – Medium](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda?source=userActivityShare-d383785221d0-1524310222):** "Great actionable tips"
+**Link: [7 Rules for Creating Gorgeous UI (Part 1) – Erik D. Kennedy – Medium](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda?source=userActivityShare-d383785221d0-1524310222):** "Great actionable tips" 
 
 

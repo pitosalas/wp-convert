@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-02-16
 ---
 
-**Link: [Optical illusion fun](None):** ""
+
 
 I got this in an email, not sure exactly where it came from but it's pretty
 cool. The image looks like it's moving, doesn't it? But actually it's not an

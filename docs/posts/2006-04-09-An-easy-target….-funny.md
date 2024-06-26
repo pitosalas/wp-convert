@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-04-09
 ---
 
-**Link: [An easy target…. funny](None):** ""
+
 
 _So, what happened to Alfred E. Newman?_ ![Alfredenewman George
 Bush](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/images/AlfredENewman%2520George%2520Bush.gif?w=584)

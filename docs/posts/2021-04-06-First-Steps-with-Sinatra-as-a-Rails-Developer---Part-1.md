@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://www.netguru.com/hubfs/Codestories/max-nelson-492729-unsplash.jpg">
 
-**Link: [First Steps with Sinatra as a Rails Developer - Part 1](https://www.netguru.co/codestories/first-steps-sinatra-1):** "First Steps with Sinatra from Rails' perspective. How to start with Sinatra framework? Basic configuration of the new app using Sinatra framework."
+**Link: [First Steps with Sinatra as a Rails Developer - Part 1](https://www.netguru.co/codestories/first-steps-sinatra-1):** "First Steps with Sinatra from Rails' perspective. How to start with Sinatra framework? Basic configuration of the new app using Sinatra framework." 
 
 

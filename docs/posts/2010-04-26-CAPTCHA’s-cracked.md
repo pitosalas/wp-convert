@@ -8,7 +8,7 @@ tags:
     - security
 ---
 
-**Link: [CAPTCHA’s cracked](None):** ""
+
 
 CAPTCHA is the nickname of the venerable (ok only a few years of veneration)
 technique of verifying if the person on the other side of the screen is

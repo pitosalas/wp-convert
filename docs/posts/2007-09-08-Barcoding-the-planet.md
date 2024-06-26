@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-09-08
 ---
 
-**Link: [Barcoding the planet](None):** ""
+
 
 [![picture-1.png](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-
 content/uploads/2007/09/picture-1.png?w=584)](<http://www.semapedia.org/>

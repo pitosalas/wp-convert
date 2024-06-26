@@ -8,7 +8,7 @@ tags:
     - ups
 ---
 
-**Link: [Google’s servers](None):** ""
+
 
 From an article about Google's hardware:
 

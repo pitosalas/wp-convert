@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-05-10
 ---
 
-**Link: [eHarmony should use their own matching algorithm](None):** ""
+
 
 This just struck me ironic because I just finished reading an interesting
 article in [The Atlantic about eHarmony

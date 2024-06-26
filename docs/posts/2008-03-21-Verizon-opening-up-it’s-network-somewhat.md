@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-03-21
 ---
 
-**Link: [Verizon opening up it’s network somewhat](None):** ""
+
 
 I am starting to follow the world of [mesh
 networks](<http://del.icio.us/tag/meshnetworks>) and things related to that.

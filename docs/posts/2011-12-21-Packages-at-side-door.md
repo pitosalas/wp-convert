@@ -8,7 +8,7 @@ tags:
     - ups
 ---
 
-**Link: [Packages at side door](None):** ""
+
 
 For no apparent reason, my Holiday packages are being **delivered to our side
 door**. We've had that side door for 10 years and no one has ever used it,

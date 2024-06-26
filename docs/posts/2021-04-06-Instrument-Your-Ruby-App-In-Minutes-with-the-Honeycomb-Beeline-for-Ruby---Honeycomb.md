@@ -15,6 +15,6 @@ tags:
 ---
 <img class="cover" src="https://www.honeycomb.io/wp-content/uploads/2019/04/web-og-image.png">
 
-**Link: [Instrument Your Ruby App In Minutes with the Honeycomb Beeline for Ruby - Honeycomb](https://www.honeycomb.io/blog/instrument-your-ruby-app-in-minutes-with-the-honeycomb-beeline-for-ruby):** "This is another package of performance monitoring scaling tools. There are several out there, maybe this one has some cool differences."
+**Link: [Instrument Your Ruby App In Minutes with the Honeycomb Beeline for Ruby - Honeycomb](https://www.honeycomb.io/blog/instrument-your-ruby-app-in-minutes-with-the-honeycomb-beeline-for-ruby):** "This is another package of performance monitoring scaling tools. There are several out there, maybe this one has some cool differences." 
 
 

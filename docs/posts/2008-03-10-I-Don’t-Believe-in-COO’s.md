@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-03-10
 ---
 
-**Link: [I Don’t Believe in COO’s](None):** ""
+
 
 I agree with [this
 post](<http://feeds.feedburner.com/~r/FeldThoughts/~3/247383503/i_dont_believe.html>)

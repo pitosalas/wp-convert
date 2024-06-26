@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-03-23
 ---
 
-**Link: [Cheney watches Fox and Only Fox](None):** ""
+
 
 This is just silly-funny. [Here are what
 ](<http://www.thesmokinggun.com/archive/0322061cheney1.html>)our VP expects to

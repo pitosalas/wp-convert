@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-06-19
 ---
 
-**Link: [[Geeky] RMagick and memory leaks](None):** ""
+
 
 A [recent post talked about creating a "Domain Specific Language" for image
 processing of ballots](</2009/06/02/geeky-a-dsl-for-image-analysis/>). I've

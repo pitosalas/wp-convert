@@ -6,7 +6,7 @@ tags:
     - quotidian
 ---
 
-**Link: [Quotidian Quotidian Quotidian](None):** ""
+
 
 This word "QUOTIDIAN" seems to have become popular suddenly. Did you notice?
 

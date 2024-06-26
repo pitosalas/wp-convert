@@ -9,7 +9,7 @@ tags:
     - nyt
 ---
 
-**Link: [What they teach in lawschool](None):** ""
+
 
 This article gives a [fascinating perspective on the disconnect between what
 they teach in law school and what knowledge is required to actually be an

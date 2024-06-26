@@ -10,7 +10,7 @@ tags:
     - syntax
 ---
 
-**Link: [Ruby’s Switch Statement is More Flexible Than You Thought](None):** ""
+
 
 [ Ruby's Switch Statement is More Flexible Than You Thought](<
 https://www.akshaykhot.com/ruby-switch-statement/>) –Ruby's switch statement

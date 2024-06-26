@@ -11,7 +11,7 @@ tags:
     - science-and-philosophy
 ---
 
-**Link: [Future of the university](None):** ""
+
 
 I saw an article in the New York Times and other places about the future of
 the University, and even the End of the University. I have a bit of a

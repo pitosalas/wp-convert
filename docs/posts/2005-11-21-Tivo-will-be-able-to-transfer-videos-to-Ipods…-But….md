@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-11-21
 ---
 
-**Link: [Tivo will be able to transfer videos to Ipods… But…](None):** ""
+
 
 Hot news for Tivo and iPod Fans. Coming soon to a computer near you!
 

@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://cms.qz.com/wp-content/uploads/2015/07/tory-burch.jpg?quality=75&strip=all&w=1200&h=630&crop=1">
 
-**Link: [Entrepreneurs don’t have a special gene for risk—they come from families with money - Quartz](http://qz.com/455109/entrepreneurs-dont-have-a-special-gene-for-risk-they-come-from-families-with-money):** "The cult of the entrepreneur teaches us the wrong lesson."
+**Link: [Entrepreneurs don’t have a special gene for risk—they come from families with money - Quartz](http://qz.com/455109/entrepreneurs-dont-have-a-special-gene-for-risk-they-come-from-families-with-money):** "The cult of the entrepreneur teaches us the wrong lesson." 
 
 

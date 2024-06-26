@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-09-26
 ---
 
-**Link: [Shelby is back from Liberia](None):** ""
+
 
 My friend Shelby has been living and blogging from Africa over the last year
 or so. From reading it you can tell what a unique experience she has had, and

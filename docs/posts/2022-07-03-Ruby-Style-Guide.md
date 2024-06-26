@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fruby-style-guide.shopify.dev%2F">
 
-**Link: [Ruby Style Guide](https://ruby-style-guide.shopify.dev/):** "This is a very reasonable, rational, practical style guide. “Shopify's  Ruby Style Guide. Always useful to see how the ruby experts do it!”"
+**Link: [Ruby Style Guide](https://ruby-style-guide.shopify.dev/):** "This is a very reasonable, rational, practical style guide. “Shopify's  Ruby Style Guide. Always useful to see how the ruby experts do it!”" 
 
 

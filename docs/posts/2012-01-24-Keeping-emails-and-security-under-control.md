@@ -9,7 +9,7 @@ tags:
     - twitter
 ---
 
-**Link: [Keeping emails and security under control](None):** ""
+
 
 Do you receive tons of notification emails form your various subscriptions or
 social sites like Twitter and Facebook and the others? Have you thought about

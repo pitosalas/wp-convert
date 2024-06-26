@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-11-24
 ---
 
-**Link: [Ask the pilot how hard it is to fly a plane](None):** ""
+
 
 Ask The Pilot is a regular Salon column. Recently there was a good one,
 essentially about [how hard or easy it is to fly and land a

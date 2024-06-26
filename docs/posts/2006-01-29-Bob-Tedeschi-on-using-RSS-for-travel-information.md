@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-01-29
 ---
 
-**Link: [Bob Tedeschi on using RSS for travel information](None):** ""
+
 
 Here's an [interesting
 article](<http://www.nytimes.com/2006/01/29/travel/29prac.html?ei=5088&en=ccb135d1ead1e480&ex=1296190800&adxnnl=1&partner=rssnyt&emc=rss&adxnnlx=1138540124-7iEb+OfxwPPWunCmchZ5ng>)

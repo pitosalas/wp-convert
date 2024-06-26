@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-01-29
 ---
 
-**Link: [Top bookstores around the world](None):** ""
+
 
 You like [Barnes and Noble](<http://www.barnesandnoble.com/> "bookstore")? How
 about [Border's?](<http://www.amazon.com/exec/obidos/tg/browse/-/577394>

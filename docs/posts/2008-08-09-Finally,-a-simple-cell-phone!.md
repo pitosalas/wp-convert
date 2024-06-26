@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-08-09
 ---
 
-**Link: [Finally, a simple cell phone!](None):** ""
+
 
 ![](https://i0.wp.com/www.gizmodo.com/images/Simple.jpg?w=584)
 

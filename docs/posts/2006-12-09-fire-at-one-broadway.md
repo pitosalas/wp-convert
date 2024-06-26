@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-12-09
 ---
 
-**Link: [fire at one broadway](None):** ""
+
 
 My buddies at [wis.dm](<http://wis.dm>) had a real scare  
 >  today as our offices and the rest of the building was evacuated in a big  

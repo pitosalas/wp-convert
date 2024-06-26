@@ -11,7 +11,7 @@ tags:
     - ros
 ---
 
-**Link: [roslocate – ROS Wiki](None):** ""
+
 
 [ roslocate - ROS Wiki](< http://wiki.ros.org/roslocate>) –ROS tool to locate
 the source file for ROS packages. This is a little esoteric unless you are

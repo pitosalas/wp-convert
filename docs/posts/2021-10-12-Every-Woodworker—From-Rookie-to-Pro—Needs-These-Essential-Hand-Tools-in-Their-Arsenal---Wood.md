@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://c.apple.news/AgEXQTVtLTZtbDFZUWpTS21nTjc2S3RSMFEAMA">
 
-**Link: [Every Woodworker—From Rookie to Pro—Needs These Essential Hand Tools in Their Arsenal - Wood](https://apple.news/A5m-6ml1YQjSKmgN76KtR0Q):** "For finesse and fine work, hand tools get the job done. Here’s where to start."
+**Link: [Every Woodworker—From Rookie to Pro—Needs These Essential Hand Tools in Their Arsenal - Wood](https://apple.news/A5m-6ml1YQjSKmgN76KtR0Q):** "For finesse and fine work, hand tools get the job done. Here’s where to start." 
 
 

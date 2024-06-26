@@ -6,7 +6,7 @@ tags:
     - kevinkelley-ai
 ---
 
-**Link: [Evidence of a Global SuperOrganism](None):** ""
+
 
 Check out this post [Evidence of a Global
 SuperOrganism](<http://www.kk.org/thetechnium/archives/2008/10/evidence_of_a_g.php>):

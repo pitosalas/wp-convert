@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="https://kinsta.com/wp-content/uploads/2016/03/website-page-speed-optimization.png">
 
-**Link: [A Beginner’s Guide to Website Speed Optimization by Kinsta](https://kinsta.com/learn/page-speed):** "In-depth website speed optimization guide that shows you how important it is to have a snappy website. DIY instructions and tricks to improve load times."
+**Link: [A Beginner’s Guide to Website Speed Optimization by Kinsta](https://kinsta.com/learn/page-speed):** "In-depth website speed optimization guide that shows you how important it is to have a snappy website. DIY instructions and tricks to improve load times." 
 
 

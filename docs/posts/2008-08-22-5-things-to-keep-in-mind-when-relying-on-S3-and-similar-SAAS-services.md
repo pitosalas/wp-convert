@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2008-08-22
 ---
 
-**Link: [5 things to keep in mind when relying on S3 and similar SAAS services](None):** ""
+
 
 On a project I worked on recently, I asked myself whether I should make one or
 more of Amazon's awesome web services (AWS - Awesome Web Services) a mission

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-08-24
 ---
 
-**Link: [Incogruous](None):** ""
+
 
 [![](https://i0.wp.com/photos29.flickr.com/36772773_19828cc1b6_m.jpg?w=584)](<http://www.flickr.com/photos/claesk/36772773/>
 "photo sharing")  

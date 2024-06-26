@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-08-15
 ---
 
-**Link: [Compelling, in a weird kind of way](None):** ""
+
 
 Just take a good look at these
 [pictures!](<http://www.horyma.ru/str_tr/svetographika_santa1.htm> "HoryMa

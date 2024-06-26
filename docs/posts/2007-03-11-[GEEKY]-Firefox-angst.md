@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2007-03-11
 ---
 
-**Link: [[GEEKY] Firefox angst](None):** ""
+
 
 On Mac, I've been using only FireFox for a while now. But lately I've seen
 some things that have made me nervous. More than once I've seen FireFox peg

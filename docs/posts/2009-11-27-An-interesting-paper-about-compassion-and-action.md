@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-11-27
 ---
 
-**Link: [An interesting paper about compassion and action](None):** ""
+
 
 Ethan Zuckerman's blog is more like a magazine of insightful, well written
 papers. I liked [From compassion to action, from action to

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-01-03
 ---
 
-**Link: [Elephants are cool!](None):** ""
+
 
 I just finished watching "Lord of the Rings: The Return of the King" which had
 some really cool scenes with these warrior elephants. So here is a case of

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-06-29
 ---
 
-**Link: [The myth of the safety of signed code](None):** ""
+
 
 This is **commonly accepted wisdom** : When I download and install an
 application on my computer (any platform) it is a accepted wisdom that if the

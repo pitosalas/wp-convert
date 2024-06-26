@@ -9,7 +9,7 @@ tags:
     - republican
 ---
 
-**Link: [Serve-the-check instead of Starve-the-beast](None):** ""
+
 
 Here's an interesting article "[Modernizing
 Conservatism"](<http://breakthroughjournal.org/content/issues/issue-2/modernizing-

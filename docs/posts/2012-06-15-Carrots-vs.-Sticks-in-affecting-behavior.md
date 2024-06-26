@@ -10,7 +10,7 @@ tags:
     - traffic
 ---
 
-**Link: [Carrots vs. Sticks in affecting behavior](None):** ""
+
 
 Instead of charging extra ('congestion pricing') to drive your car during rush
 hour, how about giving me a reward (a lottery ticket) for driving using less

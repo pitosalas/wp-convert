@@ -13,7 +13,7 @@ tags:
     - Yogile
 ---
 
-**Link: [Photo sharing thoughts](None):** ""
+
 
 I just returned from my mother's birthday party with about 300 photos - I
 would say 70% of them are no good, so I selected about 40 of the best ones and

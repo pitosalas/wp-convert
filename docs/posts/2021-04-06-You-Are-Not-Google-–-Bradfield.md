@@ -11,6 +11,6 @@ tags:
 ---
 <img class="cover" src="https://miro.medium.com/max/512/1*58fByP3ysdAKFlbH_KAWRQ.jpeg">
 
-**Link: [You Are Not Google – Bradfield](https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb):** "Software engineers go crazy for the most ridiculous things. We like to think that we’re hyper-rational, but when we have to choose a…"
+**Link: [You Are Not Google – Bradfield](https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb):** "Software engineers go crazy for the most ridiculous things. We like to think that we’re hyper-rational, but when we have to choose a…" 
 
 

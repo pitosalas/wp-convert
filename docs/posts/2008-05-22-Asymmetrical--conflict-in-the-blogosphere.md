@@ -6,7 +6,7 @@ tags:
     - blogging-fairness
 ---
 
-**Link: [Asymmetrical  conflict in the blogosphere](None):** ""
+
 
 I met with a potential client the other day who was on red alert because there
 were a lot of **nasty things** being said about them on blogs, comments and

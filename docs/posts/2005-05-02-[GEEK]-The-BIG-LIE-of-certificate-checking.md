@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-05-02
 ---
 
-**Link: [[GEEK] The BIG LIE of certificate checking](None):** ""
+
 
 [![](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/archives/Screenshot-1.png?resize=250%2C250)](<https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/archives/Screenshot-1.png>)Maybe
 you've read or heard my rants about what has become known as the "Scary Dialog

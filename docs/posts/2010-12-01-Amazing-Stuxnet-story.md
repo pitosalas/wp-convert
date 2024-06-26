@@ -10,7 +10,7 @@ tags:
     - stuxnet
 ---
 
-**Link: [Amazing Stuxnet story](None):** ""
+
 
 With apologies for quoting a [Foxnews](<http://www.foxnews.com>) story, and
 with thanks to [Scott Adams](<http://dilbert.com/blog/>) for the link, here's

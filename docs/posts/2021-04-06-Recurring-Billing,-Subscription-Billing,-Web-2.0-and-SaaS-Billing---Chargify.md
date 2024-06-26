@@ -11,6 +11,6 @@ tags:
 ---
 <img class="cover" src="https://www.chargify.com/images/opengraph-7143f2e4.png">
 
-**Link: [Recurring Billing, Subscription Billing, Web 2.0 and SaaS Billing - Chargify](http://chargify.com):** "Chargify is the best online billing software for all of your Recurring Billing needs. Learn more about simplifying your Subscription Billing today."
+**Link: [Recurring Billing, Subscription Billing, Web 2.0 and SaaS Billing - Chargify](http://chargify.com):** "Chargify is the best online billing software for all of your Recurring Billing needs. Learn more about simplifying your Subscription Billing today." 
 
 

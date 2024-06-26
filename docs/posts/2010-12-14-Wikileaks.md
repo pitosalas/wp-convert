@@ -9,7 +9,7 @@ tags:
     - wikileaks
 ---
 
-**Link: [Wikileaks](None):** ""
+
 
 Like many, I don't know yet whether I **support or condemn** the Wikileaks
 action that has been discussed and debated at length on all fora. You have to

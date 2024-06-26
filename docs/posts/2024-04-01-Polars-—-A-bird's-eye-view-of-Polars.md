@@ -16,6 +16,6 @@ tags:
 ---
 <img class="cover" src="https://www.pola.rs/share.jpg">
 
-**Link: [Polars — A bird's eye view of Polars](https://pola.rs/posts/polars_birds_eye_view/):** "DataFrames for the new era"
+**Link: [Polars — A bird's eye view of Polars](https://pola.rs/posts/polars_birds_eye_view/):** "DataFrames for the new era" 
 
 Interesting but so high level that I am not sure it is super useful. 

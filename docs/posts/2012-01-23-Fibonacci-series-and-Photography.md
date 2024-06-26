@@ -10,7 +10,7 @@ tags:
     - photography
 ---
 
-**Link: [Fibonacci series and Photography](None):** ""
+
 
 You can't be a self-respecting computer or science geek and not have heard
 about the Fibonacci series. You know, 1-1-2-3-5-8… etc. How about Fibonacci's

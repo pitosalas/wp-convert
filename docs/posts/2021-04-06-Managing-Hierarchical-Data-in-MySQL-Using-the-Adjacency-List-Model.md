@@ -13,6 +13,6 @@ tags:
 ---
 <img class="cover" src="http://www.mysqltutorial.org/wp-content/uploads/2017/06/mysql-adjacency-list.png">
 
-**Link: [Managing Hierarchical Data in MySQL Using the Adjacency List Model](http://www.mysqltutorial.org/mysql-adjacency-list-tree):** "Database design concepts and ideas in a well explained article"
+**Link: [Managing Hierarchical Data in MySQL Using the Adjacency List Model](http://www.mysqltutorial.org/mysql-adjacency-list-tree):** "Database design concepts and ideas in a well explained article" 
 
 

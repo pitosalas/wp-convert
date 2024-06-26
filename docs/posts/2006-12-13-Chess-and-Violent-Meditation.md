@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2006-12-13
 ---
 
-**Link: [Chess and Violent Meditation](None):** ""
+
 
 <!-  
 >  body { font-family: Tahoma; font-size: 11pt; line-height: normal; font-

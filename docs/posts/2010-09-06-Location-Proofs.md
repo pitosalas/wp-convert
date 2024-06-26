@@ -9,7 +9,7 @@ tags:
     - security
 ---
 
-**Link: [Location Proofs](None):** ""
+
 
 The more businesses reward me for showing up at their establishments, the more
 likely it will be that a bad guy would want to pretend that they were there to

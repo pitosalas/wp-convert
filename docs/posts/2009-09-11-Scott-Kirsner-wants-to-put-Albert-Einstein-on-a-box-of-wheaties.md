@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2009-09-11
 ---
 
-**Link: [Scott Kirsner wants to put Albert Einstein on a box of wheaties](None):** ""
+
 
 [This is actually a pretty cool
 idea](<http://www.boston.com/business/technology/innoeco/2009/09/dear_general_mills_why_not_put.html>)!

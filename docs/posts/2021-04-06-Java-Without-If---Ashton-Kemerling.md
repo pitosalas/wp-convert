@@ -10,6 +10,6 @@ tags:
 ---
 <img class="cover" src="">
 
-**Link: [Java Without If - Ashton Kemerling](http://ashtonkemerling.com/blog/2017/01/26/java-without-if):** ""
+**Link: [Java Without If - Ashton Kemerling](http://ashtonkemerling.com/blog/2017/01/26/java-without-if):** "" 
 
 

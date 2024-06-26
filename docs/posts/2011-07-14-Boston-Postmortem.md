@@ -7,7 +7,7 @@ tags:
     - waltham
 ---
 
-**Link: [Boston Postmortem](None):** ""
+
 
 We just got back from the monthly meeting of "[Boston
 Postmortem](<http://www.bostonpostmortem.org/>)".

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-02-20
 ---
 
-**Link: [Letter to all BlogBridge users](None):** ""
+
 
 Dear users, ex-users, and future users of BlogBridge, As we are approaching
 our 1.0 release, we are starting to plan what comes next! It is a good time to

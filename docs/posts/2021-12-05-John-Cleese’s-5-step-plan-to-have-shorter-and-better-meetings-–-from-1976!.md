@@ -6,7 +6,7 @@ tags:
     - time
 ---
 
-**Link: [John Cleese’s 5-step plan to have shorter and better meetings – from 1976!](None):** ""
+
 
 [ John Cleese's 5-step plan to have shorter and better meetings - from
 1976!](<https://youtube.com/watch?v=Ff9V0mISmtk&feature=share>)

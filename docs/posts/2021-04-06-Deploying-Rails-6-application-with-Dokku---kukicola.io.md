@@ -18,6 +18,6 @@ tags:
 ---
 <img class="cover" src="https://kukicola.io/assets/img/photo.jpg">
 
-**Link: [Deploying Rails 6 application with Dokku - kukicola.io](https://kukicola.io/posts/deploying-rails-6-application-with-dokku):** "I’ve been researching a lot of devops/server deployment automation concepts and approaches. This is one of them."
+**Link: [Deploying Rails 6 application with Dokku - kukicola.io](https://kukicola.io/posts/deploying-rails-6-application-with-dokku):** "I’ve been researching a lot of devops/server deployment automation concepts and approaches. This is one of them." 
 
 

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2004-08-15
 ---
 
-**Link: [This Is Rumor Control](None):** ""
+
 
 [This is a really interesting new site
 ](<http://thisisrumorcontrol.org/>)where the posters, apparently [well

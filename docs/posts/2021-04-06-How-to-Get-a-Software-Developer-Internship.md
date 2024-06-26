@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://miro.medium.com/max/1200/0*f_Y7Fx-iYLs-pS7B">
 
-**Link: [How to Get a Software Developer Internship](https://link.medium.com/jtrlTwwLpdb):** "Good advice for new grads hunting for a position."
+**Link: [How to Get a Software Developer Internship](https://link.medium.com/jtrlTwwLpdb):** "Good advice for new grads hunting for a position." 
 
 

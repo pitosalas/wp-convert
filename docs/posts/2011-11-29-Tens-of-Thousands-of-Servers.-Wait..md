@@ -10,7 +10,7 @@ tags:
     - web
 ---
 
-**Link: [Tens of Thousands of Servers. Wait.](None):** ""
+
 
 Just one phrase that jumped out of the [new missive from Zuck about
 privacy:](<http://blog.facebook.com/blog.php?post=10150378701937131>)

@@ -4,7 +4,7 @@ author: Pito Salas
 date: 2005-04-18
 ---
 
-**Link: [Losing a finger over biometrics](None):** ""
+
 
 > "They stripped Mr Kumaran naked and left him by the side of the road - but
 > not before **cutting off the end** of his index finger with a machete. (from

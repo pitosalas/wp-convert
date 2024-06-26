@@ -7,7 +7,7 @@ tags:
     - video
 ---
 
-**Link: [Success Through Presentations – 5 Minutes with Cyrill](None):** ""
+
 
 [ Success Through Presentations - 5 Minutes with
 Cyrill](<https://youtube.com/watch?v=nU6NPuxkQck&feature=share>)

@@ -8,6 +8,6 @@ date: 2021-04-06
 ---
 <img class="cover" src="https://rdl.ink/render/http%3A%2F%2Frodneybrooks.com%2Fforai-steps-toward-super-intelligence-ii-beyond-the-turing-test">
 
-**Link: [[FoR&AI] Steps Toward Super Intelligence II, Beyond the Turing Test – Rodney Brooks](http://rodneybrooks.com/forai-steps-toward-super-intelligence-ii-beyond-the-turing-test):** ""
+**Link: [[FoR&AI] Steps Toward Super Intelligence II, Beyond the Turing Test – Rodney Brooks](http://rodneybrooks.com/forai-steps-toward-super-intelligence-ii-beyond-the-turing-test):** "" 
 
 

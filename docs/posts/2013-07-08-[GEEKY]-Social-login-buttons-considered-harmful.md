@@ -11,7 +11,7 @@ tags:
     - user-experience
 ---
 
-**Link: [[GEEKY] Social login buttons considered harmful](None):** ""
+
 
 You probably don't know what a social login button is so forgive this bit of
 geekyness. I am sure you've seen them: "login with facebook or twitter?" If an

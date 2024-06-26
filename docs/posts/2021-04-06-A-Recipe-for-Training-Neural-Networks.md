@@ -12,6 +12,6 @@ tags:
 ---
 <img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fkarpathy.github.io%2F2019%2F04%2F25%2Frecipe">
 
-**Link: [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe):** "Very good article for anyone using Neural Networks"
+**Link: [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe):** "Very good article for anyone using Neural Networks" 
 
 

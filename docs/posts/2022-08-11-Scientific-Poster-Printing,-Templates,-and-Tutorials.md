@@ -14,6 +14,6 @@ tags:
 ---
 <img class="cover" src="https://cdn.makesigns.com/image/makesigns/home-poster-tubes.png">
 
-**Link: [Scientific Poster Printing, Templates, and Tutorials](https://www.makesigns.com/):** "Makesigns is a scientific poster printing company with a focus on a simple ordering process and unbeatable customer service. We also offer free templates and tutorials to help you make your research poster."
+**Link: [Scientific Poster Printing, Templates, and Tutorials](https://www.makesigns.com/):** "Makesigns is a scientific poster printing company with a focus on a simple ordering process and unbeatable customer service. We also offer free templates and tutorials to help you make your research poster." 
 
 

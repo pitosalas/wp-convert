@@ -19,7 +19,7 @@ tags:
 
 Note: I've been busy at PyCon this past week. The ongoing series about building a Django project from a single file will continue next week.
 
-I gave a talk at PyCon in Pittsburgh this weekend, and one interesting task was"
+I gave a talk at PyCon in Pittsburgh this weekend, and one interesting task was" 
 
 Very useful tutorial on how to turn bits of source code into nice images suitable for presentations. 
 

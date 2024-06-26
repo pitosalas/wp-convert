@@ -7,7 +7,7 @@ tags:
     - security
 ---
 
-**Link: [Security by obscurity and other slogans](None):** ""
+
 
 If you've been in computing for any time you may have been hit over the head
 by the slogan "Security by Obscurity is No Security". As I have understood the
