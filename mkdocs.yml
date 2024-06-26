@@ -35,12 +35,6 @@ plugins:
       enabled: true
       tags: true
       tags_file: tags.md
-  - rss:
-      date_from_meta:
-        as_creation: date
-      categories:
-        - tags
-      image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/128px-Feed-icon.svg.png
       
 nav:
   - Blog:
