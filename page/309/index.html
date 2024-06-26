@@ -476,6 +476,24 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#rss-feed-for-for-twitter" class="md-nav__link">
+    <span class="md-ellipsis">
+      RSS feed for for twitter
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mapreduce-patterns-and-examples" class="md-nav__link">
+    <span class="md-ellipsis">
+      MapReduce Patterns and Examples
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#what-i-want-to-see-in-spotify" class="md-nav__link">
     <span class="md-ellipsis">
       What I want to see in Spotify
@@ -542,24 +560,6 @@
   <a href="#software-developer-meat-market" class="md-nav__link">
     <span class="md-ellipsis">
       Software Developer Meat Market
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#customer-vs-consultant-excellent-advice" class="md-nav__link">
-    <span class="md-ellipsis">
-      Customer vs. Consultant: Excellent advice
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#is-your-software-developer-any-good" class="md-nav__link">
-    <span class="md-ellipsis">
-      Is your software developer any good?
     </span>
   </a>
   
@@ -1210,6 +1210,24 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#rss-feed-for-for-twitter" class="md-nav__link">
+    <span class="md-ellipsis">
+      RSS feed for for twitter
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mapreduce-patterns-and-examples" class="md-nav__link">
+    <span class="md-ellipsis">
+      MapReduce Patterns and Examples
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#what-i-want-to-see-in-spotify" class="md-nav__link">
     <span class="md-ellipsis">
       What I want to see in Spotify
@@ -1281,24 +1299,6 @@
   
 </li>
       
-        <li class="md-nav__item">
-  <a href="#customer-vs-consultant-excellent-advice" class="md-nav__link">
-    <span class="md-ellipsis">
-      Customer vs. Consultant: Excellent advice
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#is-your-software-developer-any-good" class="md-nav__link">
-    <span class="md-ellipsis">
-      Is your software developer any good?
-    </span>
-  </a>
-  
-</li>
-      
     </ul>
   
 </nav>
@@ -1313,6 +1313,166 @@
       <header class="md-typeset">
         <h1 id="index">Index</h1>
       </header>
+      
+        <!--
+  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Post excerpt -->
+<article class="md-post md-post--excerpt">
+  <header class="md-post__header">
+
+    <!-- Post authors -->
+    
+
+    <!-- Post metadata -->
+    <div class="md-post__meta md-meta">
+      <ul class="md-meta__list">
+
+        <!-- Post date -->
+        <li class="md-meta__item">
+          <time datetime="2012-02-18 00:00:00">February 18, 2012</time></li>
+
+        <!-- Post categories -->
+        
+
+        <!-- Post readtime -->
+        
+        
+        <li class="md-meta__item">
+          
+          1 min read
+          
+        </li>
+        
+      </ul>
+
+      <!-- Draft marker -->
+      
+    </div>
+  </header>
+  <div>
+
+    <!-- Post content -->
+    <div class="md-post__content md-typeset">
+      <h2 id="rss-feed-for-for-twitter"><a class="toclink" href="../../2012/02/18/rss-feed-for-for-twitter/">RSS feed for for twitter</a></h2>
+<p>A simple question that for some reason does not have a simple answer:</p>
+<blockquote>
+<p>"I want to follow someone's twitter feed using an RSS reader, where is it?"</p>
+</blockquote>
+<p>Well it seems that for some reason Twitter has quite hidden it but as a public
+service I will share the results of my research with you.</p>
+<p>You will find it at:</p>
+<pre><code>https://api.twitter.com/1/statuses/user_timeline.rss?screen_name=username
+</code></pre>
+<p>So, for my twitter feed it is:</p>
+<pre><code>&lt;https://api.twitter.com/1/statuses/user_timeline.rss?screen_name=pitosalas&gt;[  
+](&lt;https://api.twitter.com/1/statuses/user_timeline.rss?screen_name=pitosalas&gt;)
+</code></pre>
+<p>Of course, users of <a href="http://www.blogbridge.com/look">BlogBridge</a> have a much
+easier time and have many more options. With BlogBridge you can subscribe to a
+person, to a list, or even to a general Twitter query, like "Object Oriented
+Marketing".</p>
+<p><em><strong>Watch this brief video to see how you would do it in BlogBridge:</strong></em></p>
+<p>[youtube http://www.youtube.com/watch?v=rSo5sC3kN3Q]</p>
+    </div>
+</article>
+      
+        <!--
+  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Post excerpt -->
+<article class="md-post md-post--excerpt">
+  <header class="md-post__header">
+
+    <!-- Post authors -->
+    
+
+    <!-- Post metadata -->
+    <div class="md-post__meta md-meta">
+      <ul class="md-meta__list">
+
+        <!-- Post date -->
+        <li class="md-meta__item">
+          <time datetime="2012-02-17 00:00:00">February 17, 2012</time></li>
+
+        <!-- Post categories -->
+        
+
+        <!-- Post readtime -->
+        
+        
+        <li class="md-meta__item">
+          
+          1 min read
+          
+        </li>
+        
+      </ul>
+
+      <!-- Draft marker -->
+      
+    </div>
+  </header>
+  <div>
+
+    <!-- Post content -->
+    <div class="md-post__content md-typeset">
+      <h2 id="mapreduce-patterns-and-examples"><a class="toclink" href="../../2012/02/17/mapreduce-patterns-and-examples/">MapReduce Patterns and Examples</a></h2>
+<p>Great review article:</p>
+<blockquote>
+<p>"In this article I digested a number of MapReduce patterns and algorithms to
+give a systematic view of the different techniques that can be found in the
+web or scientific articles. Several practical case studies are also
+provided. All descriptions and code snippets use the standard Hadoopâs
+MapReduce model with Mappers, Reduces, Combiners, Partitioners, and sorting.
+This framework is depicted in the figure below." (<strong>from</strong> <a href="http://highlyscalable.wordpress.com/2012/02/01/mapreduce-
+patterns/">Highly
+Scalable)</a></p>
+</blockquote>
+<p><strong>Worth reading</strong> if you are interested in how Hadoop and friends might apply
+to the problems that you are trying to solve: "<a href="http://highlyscalable.wordpress.com/2012/02/01/mapreduce-patterns/">MapReduce Patterns,
+Algorithms, and Use
+Cases"</a></p>
+    </div>
+</article>
       
         <!--
   Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
@@ -1374,7 +1534,6 @@
     <!-- Post content -->
     <div class="md-post__content md-typeset">
       <h2 id="what-i-want-to-see-in-spotify"><a class="toclink" href="../../2012/02/14/what-i-want-to-see/">What I want to see in Spotify</a></h2>
-<p><strong>Link: <a href="None">What I want to see in Spotify</a>:</strong> ""</p>
 <p>As you know, I am a big big fan of Spotify. Lately I've been playing with the
 Last.FM integration. It's a handy way for me to see what new music or artists
 I might like to listen to. I've discovered plenty of new music that way, it's
@@ -1449,7 +1608,6 @@ am washing dishes. You get the idea.</p>
     <!-- Post content -->
     <div class="md-post__content md-typeset">
       <h2 id="brilliant-response-to-when-your-site-gets-hacked"><a class="toclink" href="../../2012/02/13/brilliant-response-to-when-your/">Brilliant response to when your site gets hacked</a></h2>
-<p><strong>Link: <a href="None">Brilliant response to when your site gets hacked</a>:</strong> ""</p>
 <p>[youtube http://www.youtube.com/watch?v=ILhiW76B3H8&amp;w=560&amp;h=315]</p>
     </div>
 </article>
@@ -1514,7 +1672,6 @@ am washing dishes. You get the idea.</p>
     <!-- Post content -->
     <div class="md-post__content md-typeset">
       <h2 id="do-you-have-a-favorite-mustard-i-do"><a class="toclink" href="../../2012/02/12/do-you-have-a-favorite/">Do you have a favorite mustard? I do!</a></h2>
-<p><strong>Link: <a href="None">Do you have a favorite mustard? I do!</a>:</strong> ""</p>
 <p><img alt="41drc4B3yOL._SL500_AA300_.jpg" src="https://i0.wp.com/ecx.images-
 amazon.com/images/I/41drc4B3yOL._SL500_AA300_.jpg?w=584" /></p>
     </div>
@@ -1580,7 +1737,6 @@ amazon.com/images/I/41drc4B3yOL._SL500_AA300_.jpg?w=584" /></p>
     <!-- Post content -->
     <div class="md-post__content md-typeset">
       <h2 id="selling-course-notes-a-market-solution"><a class="toclink" href="../../2012/02/10/selling-course-notes-a-market/">Selling course notes: a market solution</a></h2>
-<p><strong>Link: <a href="None">Selling course notes: a market solution</a>:</strong> ""</p>
 <p>Should it be ok for students to <strong>take notes</strong> during a class and turn them
 into a marketable product that they <strong>make money on</strong>?</p>
 <p>If I am teaching the same class again this year, students could buy the course
@@ -1661,7 +1817,6 @@ Bainbridge.com)</a></p>
     <!-- Post content -->
     <div class="md-post__content md-typeset">
       <h2 id="superbowl-social-media"><a class="toclink" href="../../2012/02/10/superbowl-social-media/">Superbowl Social Media</a></h2>
-<p><strong>Link: <a href="None">Superbowl Social Media</a>:</strong> ""</p>
 <p>Here's a really interesting <a href="http://socialmediatoday.com/elizabeth-lupfer/440875/exclusive-look-why-
 super-bowl-s-social-media-command-center-scores-winning-t">article about how the Superbowl used Social Media
 </a>to enhance the
@@ -1766,7 +1921,6 @@ Touchdown</a>)</p>
     <!-- Post content -->
     <div class="md-post__content md-typeset">
       <h2 id="compelling-23-and-12-hours"><a class="toclink" href="../../2012/02/08/compelling-23-and-12-hours/">Compelling: 23 and 1/2 hours</a></h2>
-<p><strong>Link: <a href="None">Compelling: 23 and 1/2 hours</a>:</strong> ""</p>
 <p>[youtube http://www.youtube.com/watch?v=aUaInS6HIGo&amp;w=560&amp;h=315]</p>
     </div>
 </article>
@@ -1831,7 +1985,6 @@ Touchdown</a>)</p>
     <!-- Post content -->
     <div class="md-post__content md-typeset">
       <h2 id="elections-hand-counts-are-not-the-gold-standard"><a class="toclink" href="../../2012/02/08/elections-hand-counts-are-not/">Elections: Hand counts are NOT the gold standard</a></h2>
-<p><strong>Link: <a href="None">Elections: Hand counts are NOT the gold standard</a>:</strong> ""</p>
 <p>There is always a good deal of <strong>controversy</strong> surrounding elections and in
 particular, whether an election is 'fair' or not. As I have been working on a
 project with the <a href="http://www.osdv.org">Open Source Digital Voting Foundation
@@ -1935,7 +2088,6 @@ Blog)</a></p>
     <!-- Post content -->
     <div class="md-post__content md-typeset">
       <h2 id="software-developer-meat-market"><a class="toclink" href="../../2012/02/04/software-developer-meat-market/">Software Developer Meat Market</a></h2>
-<p><strong>Link: <a href="None">Software Developer Meat Market</a>:</strong> ""</p>
 <p>An interesting article in Forbes about Software Developers and Development in
 general, <a href="http://www.forbes.com/sites/venkateshrao/2011/12/05/the-
 rise-of-developeronomics/">The Rise of
@@ -1976,164 +2128,6 @@ Developeronomics)</a></p>
 <p>Read the whole of <a href="http://www.forbes.com/sites/venkateshrao/2011/12/05/the-
 rise-of-developeronomics/">The Rise of
 Developeronomics</a>.</p>
-    </div>
-</article>
-      
-        <!--
-  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Post excerpt -->
-<article class="md-post md-post--excerpt">
-  <header class="md-post__header">
-
-    <!-- Post authors -->
-    
-
-    <!-- Post metadata -->
-    <div class="md-post__meta md-meta">
-      <ul class="md-meta__list">
-
-        <!-- Post date -->
-        <li class="md-meta__item">
-          <time datetime="2012-02-03 00:00:00">February 3, 2012</time></li>
-
-        <!-- Post categories -->
-        
-
-        <!-- Post readtime -->
-        
-        
-        <li class="md-meta__item">
-          
-          1 min read
-          
-        </li>
-        
-      </ul>
-
-      <!-- Draft marker -->
-      
-    </div>
-  </header>
-  <div>
-
-    <!-- Post content -->
-    <div class="md-post__content md-typeset">
-      <h2 id="customer-vs-consultant-excellent-advice"><a class="toclink" href="../../2012/02/03/customer-vs-consultant-excellent-advice/">Customer vs. Consultant: Excellent advice</a></h2>
-<p><strong>Link: <a href="None">Customer vs. Consultant: Excellent advice</a>:</strong> ""</p>
-<p>From an article called "<a href="http://8thlight.github.com/dave-moore/2012/01/20/effective-
-customer-consultant-relationship.html">Effective Customer Consultant
-Relationships"</a>:</p>
-<blockquote>
-<p>"As a customer, how can you get the most out of your consultants? As a
-consultant, how can you deliver what your customers really want? I have been
-on both sides of this relationship and experienced both successful and
-unsuccessful results. In this post, I will go through the typical aspects of
-these types of relationships and identify action items that I have used to
-forge effective and lasting customer consultant relationships for both
-parties." (from "<a href="http://8thlight.github.com/dave-moore/2012/01/20/effective-
-customer-consultant-relationship.html">Effective Customer Consultant
-Relationships"</a>)</p>
-</blockquote>
-<p>If you are a tech consultant or are thinking of hiring one, this article has
-some excellent advice.</p>
-    </div>
-</article>
-      
-        <!--
-  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Post excerpt -->
-<article class="md-post md-post--excerpt">
-  <header class="md-post__header">
-
-    <!-- Post authors -->
-    
-
-    <!-- Post metadata -->
-    <div class="md-post__meta md-meta">
-      <ul class="md-meta__list">
-
-        <!-- Post date -->
-        <li class="md-meta__item">
-          <time datetime="2012-02-03 00:00:00">February 3, 2012</time></li>
-
-        <!-- Post categories -->
-        
-
-        <!-- Post readtime -->
-        
-        
-        <li class="md-meta__item">
-          
-          1 min read
-          
-        </li>
-        
-      </ul>
-
-      <!-- Draft marker -->
-      
-    </div>
-  </header>
-  <div>
-
-    <!-- Post content -->
-    <div class="md-post__content md-typeset">
-      <h2 id="is-your-software-developer-any-good"><a class="toclink" href="../../2012/02/03/is-your-software-developer-any/">Is your software developer any good?</a></h2>
-<p><strong>Link: <a href="None">Is your software developer any good?</a>:</strong> ""</p>
-<p>Are you thinking about hiring a software developer to build your system? Here
-are "<a href="http://blog.8thlight.com/angelique-
-martin/2012/01/19/8-thing-you-ought-to-know.html">8 Things You Ought to Know If You Do Not Know Anything About Hiring a
-Software Developer</a>". He says:</p>
-<blockquote>
-<p>"I did not come to this industry with a software background. I studied math,
-physics, business, then finance. But over the past 12 years or so, I have
-learned quite a bit about how to pick a software… “friend”. So let me share
-with you 8 things I would want to know if I was starting afresh." (from "<a href="http://blog.8thlight.com/angelique-martin/2012/01/19/8-thing-
-you-ought-to-know.html">8
-Things You Ought to Know If You Do Not Know Anything About Hiring a Software
-Developer</a>")</p>
-</blockquote>
-<p>Can I be your friend?</p>
     </div>
 </article>
       

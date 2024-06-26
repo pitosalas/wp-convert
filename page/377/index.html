@@ -476,6 +476,24 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#5-questions-to-ask-when-deciding-whether-to-rely-on-s3-et-al" class="md-nav__link">
+    <span class="md-ellipsis">
+      5 Questions to ask when deciding whether to rely on S3 et al
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-downside-of-free-software" class="md-nav__link">
+    <span class="md-ellipsis">
+      The downside of free software
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#mysteries-of-printing-mac-os-x-address-book-labels" class="md-nav__link">
     <span class="md-ellipsis">
       Mysteries of printing Mac OS X Address Book labels
@@ -542,24 +560,6 @@
   <a href="#great-magazine-articles" class="md-nav__link">
     <span class="md-ellipsis">
       Great magazine articles
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#virtual-cable-takes-your-gps-and-raises-you-a-heads-up-display" class="md-nav__link">
-    <span class="md-ellipsis">
-      Virtual Cable takes your GPS and raises you a heads-up display
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#australian-police-testing-super-cruiser" class="md-nav__link">
-    <span class="md-ellipsis">
-      Australian police testing super cruiser
     </span>
   </a>
   
@@ -1210,6 +1210,24 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#5-questions-to-ask-when-deciding-whether-to-rely-on-s3-et-al" class="md-nav__link">
+    <span class="md-ellipsis">
+      5 Questions to ask when deciding whether to rely on S3 et al
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-downside-of-free-software" class="md-nav__link">
+    <span class="md-ellipsis">
+      The downside of free software
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#mysteries-of-printing-mac-os-x-address-book-labels" class="md-nav__link">
     <span class="md-ellipsis">
       Mysteries of printing Mac OS X Address Book labels
@@ -1281,24 +1299,6 @@
   
 </li>
       
-        <li class="md-nav__item">
-  <a href="#virtual-cable-takes-your-gps-and-raises-you-a-heads-up-display" class="md-nav__link">
-    <span class="md-ellipsis">
-      Virtual Cable takes your GPS and raises you a heads-up display
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#australian-police-testing-super-cruiser" class="md-nav__link">
-    <span class="md-ellipsis">
-      Australian police testing super cruiser
-    </span>
-  </a>
-  
-</li>
-      
     </ul>
   
 </nav>
@@ -1313,6 +1313,202 @@
       <header class="md-typeset">
         <h1 id="index">Index</h1>
       </header>
+      
+        <!--
+  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Post excerpt -->
+<article class="md-post md-post--excerpt">
+  <header class="md-post__header">
+
+    <!-- Post authors -->
+    
+
+    <!-- Post metadata -->
+    <div class="md-post__meta md-meta">
+      <ul class="md-meta__list">
+
+        <!-- Post date -->
+        <li class="md-meta__item">
+          <time datetime="2008-02-18 00:00:00">February 18, 2008</time></li>
+
+        <!-- Post categories -->
+        
+
+        <!-- Post readtime -->
+        
+        
+        <li class="md-meta__item">
+          
+          1 min read
+          
+        </li>
+        
+      </ul>
+
+      <!-- Draft marker -->
+      
+    </div>
+  </header>
+  <div>
+
+    <!-- Post content -->
+    <div class="md-post__content md-typeset">
+      <h2 id="5-questions-to-ask-when-deciding-whether-to-rely-on-s3-et-al"><a class="toclink" href="../../2008/02/18/5-questions-to-ask-when/">5 Questions to ask when deciding whether to rely on S3 et al</a></h2>
+<p>Several products I've worked on recently have relied on Amazon's really
+impressive web services. I've written before about how much <a href="/2008/01/11/rumorville-microsoft-amazon/">I admire services
+such as S3 and EC2, solid, commercial quality infrastructure
+services</a>.</p>
+<p>They address (and? or? solve) a big problem that application builders have:</p>
+<blockquote>
+<p>"How many servers will I need, how many users will I have, how much storage
+will I need … and in the end, how much will all that cost?".</p>
+</blockquote>
+<p>They solve this by offering key components of infrastructure as a "software as
+a service", SAAS. Starting with permanent storage, which is delivered by S3,
+followed by <a href="http://www.amazon.com/b/ref=sc_fe_l_2?ie=UTF8&amp;node=201590011&amp;no=3435361&amp;me=A36L942TSJ2AJA">computes or servers, delivered by
+EC2</a>,
+and further followed by a growing variety of other infrastuctural services.</p>
+<p>Let's look at what questions to ask when deciding to use any of these
+services. For example, when deciding to depend on <a href="http://www.amazon.com/S3-AWS-home-page-
+Money/b/ref=sc_fe_l_2?ie=UTF8&amp;node=16427261&amp;no=3435361&amp;me=A36L942TSJ2AJA">Amazon's S3 storage
+service</a>
+(delivered over the internet, no hardware required) <strong>instead of</strong> buying a
+series of file and database servers (hardware) you need to consider the trade-
+offs:</p>
+<ol>
+<li>
+<p>Given my expected growth, what is the comparable cost?</p>
+</li>
+<li>
+<p>What are my options in each case if my growth doesn't actually develop as I expect?</p>
+</li>
+<li>
+<p>What is the comparable performance?</p>
+</li>
+<li>
+<p>What is the comparable reliability?</p>
+</li>
+<li>
+<p>If the whole scheme doesn't work out, how hard is it to switch?</p>
+</li>
+</ol>
+<p>You see that you end up with a fairly tricky decision matrix. More tomorrow on
+how I solved this dilemma.</p>
+    </div>
+</article>
+      
+        <!--
+  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Post excerpt -->
+<article class="md-post md-post--excerpt">
+  <header class="md-post__header">
+
+    <!-- Post authors -->
+    
+
+    <!-- Post metadata -->
+    <div class="md-post__meta md-meta">
+      <ul class="md-meta__list">
+
+        <!-- Post date -->
+        <li class="md-meta__item">
+          <time datetime="2008-02-16 00:00:00">February 16, 2008</time></li>
+
+        <!-- Post categories -->
+        
+
+        <!-- Post readtime -->
+        
+        
+        <li class="md-meta__item">
+          
+          1 min read
+          
+        </li>
+        
+      </ul>
+
+      <!-- Draft marker -->
+      
+    </div>
+  </header>
+  <div>
+
+    <!-- Post content -->
+    <div class="md-post__content md-typeset">
+      <h2 id="the-downside-of-free-software"><a class="toclink" href="../../2008/02/16/the-downside-of-free-software/">The downside of free software</a></h2>
+<p>Yesterday the <a href="http://www.nytimes.com/2008/02/09/technology/09free.html?_r=1&amp;oref=slogin">New York Times had an interesting article about our expectation
+that software (and web sites and web applications) all should be
+free</a>.
+I've <a href="/weblogs/archives/001008.php">written about this before</a> so I won't
+belabor it again. From the article:</p>
+<blockquote>
+<p>A growing number of consumers are paying just that — nothing. This is the
+Internet’s latest phase: people using freely distributed applications, from
+e-mail and word processing programs to spreadsheets, games and financial
+management tools. They run on distant, massive and shared data centers, and
+users of the services pay with their attention to ads, not cash. (<strong>from</strong>
+<a href="http://www.nytimes.com/2008/02/09/technology/09free.html?_r=1&amp;oref=slogin">New York
+Times</a>)</p>
+</blockquote>
+<p>I have more than a passing interest in this because as you may know I am the
+proprietor of BlogBridge, which is an open source application plus service
+which is available free. We modestly offer a few enhanced services for not-
+free, and the reality is that the majority of our customers opt for the free
+choice. You can understand why the topic of free and not free software is
+interesting to me.</p>
+<p>Last month, a really great and popular web based application, after a few
+years of free service, decided it had to close it's doors. From the final post
+by Greg Linden, it's intrepid leader:</p>
+<blockquote>
+<p>"Findory turned off its last webserver today. Sadness." (<strong>from</strong> <a href="http://glinden.blogspot.com/2007/12/findory-turns-
+off-lights.html">Findory
+turns off the lights</a>)</p>
+</blockquote>
+<p>As it turns out, "We give it away free, and make it up in volume" doesn't
+always work.</p>
+    </div>
+</article>
       
         <!--
   Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
@@ -1374,7 +1570,6 @@
     <!-- Post content -->
     <div class="md-post__content md-typeset">
       <h2 id="mysteries-of-printing-mac-os-x-address-book-labels"><a class="toclink" href="../../2008/02/15/mysteries-of-printing-mac-os/">Mysteries of printing Mac OS X Address Book labels</a></h2>
-<p><strong>Link: <a href="None">Mysteries of printing Mac OS X Address Book labels</a>:</strong> ""</p>
 <p>Apple always, or almost always, thinks through the user interface carefully
 and includes all kinds of deft and elegant touches that delight and amaze
 users.</p>
@@ -1445,7 +1640,6 @@ baffling.</p>
     <!-- Post content -->
     <div class="md-post__content md-typeset">
       <h2 id="harpers-on-torture"><a class="toclink" href="../../2008/02/14/harpers-on-torture/">Harper’s on torture</a></h2>
-<p><strong>Link: <a href="None">Harper’s on torture</a>:</strong> ""</p>
 <p>Came across this <a href="http://harpers.org/archive/2007/12/hbc-90001917">interesting
 article</a>. You may agree or
 not, but it's definitely interesting:</p>
@@ -1521,7 +1715,6 @@ Magazine</a>)</p>
     <!-- Post content -->
     <div class="md-post__content md-typeset">
       <h2 id="from-demo-2008-cool-research-site-silobreaker"><a class="toclink" href="../../2008/02/13/from-demo-2008-cool-research/">From Demo 2008: Cool research site – SiloBreaker</a></h2>
-<p><strong>Link: <a href="None">From Demo 2008: Cool research site – SiloBreaker</a>:</strong> ""</p>
 <p>Take a look at <a href="http://www.silobreaker.com/">SiloBreaker</a> (don't ask me why
 it's called that; is it supposed to break down silos?)</p>
 <p>Try typing something into the search box, say "Pakistan". You will see that it
@@ -1594,7 +1787,6 @@ quotes, and lots of semi structured analysis.</p>
     <!-- Post content -->
     <div class="md-post__content md-typeset">
       <h2 id="whos-your-friend"><a class="toclink" href="../../2008/02/12/whos-your-friend/">Who’s your friend?</a></h2>
-<p><strong>Link: <a href="None">Who’s your friend?</a>:</strong> ""</p>
 <p>I just looked through my friend list and I see some people who's name I
 recognize but don't know exactly the context where I knew them from, and then
 there are mysteriously who I really don't think I've ever known, so I can't
@@ -1667,7 +1859,6 @@ one on the computer. See one of my favorite new terms,
     <!-- Post content -->
     <div class="md-post__content md-typeset">
       <h2 id="about-yahoo-microsoft-and-an-easier-way-to-get-2b-in-revenue-annually"><a class="toclink" href="../../2008/02/09/about-yahoo--microsoft-and/">About Yahoo / Microsoft and an easier way to get $2B in revenue annually</a></h2>
-<p><strong>Link: <a href="None">About Yahoo / Microsoft and an easier way to get $2B in revenue annually</a>:</strong> ""</p>
 <p>You can read all about the potential acquisition of Yahoo by Microsoft, here
 for example, where Marc Andreessen writes:</p>
 <blockquote>
@@ -1759,7 +1950,6 @@ and get a nice $2,000 million revenue stream annually, forever.</p>
     <!-- Post content -->
     <div class="md-post__content md-typeset">
       <h2 id="amazing-story-about-virginia-postrels-kidney"><a class="toclink" href="../../2008/02/09/amazing-story-about-virginia-postrels/">Amazing story about Virginia Postrel’s kidney</a></h2>
-<p><strong>Link: <a href="None">Amazing story about Virginia Postrel’s kidney</a>:</strong> ""</p>
 <p>This is a <a href="http://www.nytimes.com/2007/12/16/magazine/16kidney-t.html?pagewanted=1&amp;_r=1&amp;ei=5088&amp;en=e108bed2fbda912e&amp;ex=1356930000&amp;partner=rssnyt&amp;emc=rss">dramatic and well told story of one patient's patient search for a
 kidney donor.
 </a></p>
@@ -1830,7 +2020,6 @@ generous act herself.</p>
     <!-- Post content -->
     <div class="md-post__content md-typeset">
       <h2 id="mr-spock-reveals-the-origins-of-the-vulcan-greeting"><a class="toclink" href="../../2008/02/06/mr-spock-reveals-the-origins/">Mr. Spock reveals the origins of the Vulcan greeting</a></h2>
-<p><strong>Link: <a href="None">Mr. Spock reveals the origins of the Vulcan greeting</a>:</strong> ""</p>
 <p>Huh? Don't know who Mr. Spock is? Don't know about the Vulcan greeting?
 Please! How dare you to be reading this blog! Anyway for the other 99.999% of
 you, <a href="http://www.youtube.com/watch?v=G1d83XOORP0">here's Mr. Spock's great revelation!
@@ -1898,7 +2087,6 @@ you, <a href="http://www.youtube.com/watch?v=G1d83XOORP0">here's Mr. Spock's gre
     <!-- Post content -->
     <div class="md-post__content md-typeset">
       <h2 id="great-magazine-articles"><a class="toclink" href="../../2008/02/05/great-magazine-articles/">Great magazine articles</a></h2>
-<p><strong>Link: <a href="None">Great magazine articles</a>:</strong> ""</p>
 <p>I was going to wait until I had read each of these great articles that all won
 the <a href="http://www.nytimes.com/2007/12/25/opinion/25brooks.html?_r=1&amp;ref=opinion&amp;oref=slogin" title="great magazine publishing">"Sidney
 Awards"</a> but this post was getting stale. And then <a href="http://www.nytimes.com/2007/12/28/opinion/28brooks.html?_r=1&amp;ref=opinion&amp;oref=slogin">part
@@ -1933,187 +2121,6 @@ religion</a></p>
 Shumpeter</a></p>
 <p><a href="http://www.city-
 journal.org/html/17_3_urbanities-regietheater.html">City Journa: The abduction of opera</a></p>
-    </div>
-</article>
-      
-        <!--
-  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Post excerpt -->
-<article class="md-post md-post--excerpt">
-  <header class="md-post__header">
-
-    <!-- Post authors -->
-    
-
-    <!-- Post metadata -->
-    <div class="md-post__meta md-meta">
-      <ul class="md-meta__list">
-
-        <!-- Post date -->
-        <li class="md-meta__item">
-          <time datetime="2008-02-04 00:00:00">February 4, 2008</time></li>
-
-        <!-- Post categories -->
-        
-
-        <!-- Post readtime -->
-        
-        
-        <li class="md-meta__item">
-          
-          1 min read
-          
-        </li>
-        
-      </ul>
-
-      <!-- Draft marker -->
-      
-    </div>
-  </header>
-  <div>
-
-    <!-- Post content -->
-    <div class="md-post__content md-typeset">
-      <h2 id="virtual-cable-takes-your-gps-and-raises-you-a-heads-up-display"><a class="toclink" href="../../2008/02/04/virtual-cable-takes-your-gps/">Virtual Cable takes your GPS and raises you a heads-up display</a></h2>
-<p><strong>Link: <a href="None">Virtual Cable takes your GPS and raises you a heads-up display</a>:</strong> ""</p>
-<p>This is really cool! Check out <a href="http://feeds.autoblog.com/~r/weblogsinc/autoblog/~3/202445315/">this
-post</a> from
-<a href="http://www.autoblog.com">Autoblog</a>:</p>
-<blockquote>
-<p>Filed under: Safety, TechTwo things plague GPS users: being forced to deal
-with dubious direction vocalizations and the amount of time spent looking at
-the screen when you should be paying attention to the road. MVS is
-developing a solution and it's likely the most revolutionary concept to
-date.</p>
-<p>The system is comprised of a series of mirrors that project a three-
-dimensional line onto the windshield giving drivers a heads-up display of
-their intended path of travel.</p>
-<p>(from: <a href="http://feeds.autoblog.com/~r/weblogsinc/autoblog/~3/202445315/">Virtual Cable takes your GPS and raises you a heads-up
-display</a>)</p>
-</blockquote>
-<p>The other really cool idea I have seen for making it easier to follow a route
-computed by the GPS is to <a href="http://www.engadget.com/2005/08/19/microsoft-
-files-patent-for-phantom-car/">project a virtual car on your windscreen which you
-are supposed to just follow</a>. This was from an Engadget article about a
-Microsoft Patent.</p>
-    </div>
-</article>
-      
-        <!--
-  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Post excerpt -->
-<article class="md-post md-post--excerpt">
-  <header class="md-post__header">
-
-    <!-- Post authors -->
-    
-
-    <!-- Post metadata -->
-    <div class="md-post__meta md-meta">
-      <ul class="md-meta__list">
-
-        <!-- Post date -->
-        <li class="md-meta__item">
-          <time datetime="2008-02-02 00:00:00">February 2, 2008</time></li>
-
-        <!-- Post categories -->
-        
-
-        <!-- Post readtime -->
-        
-        
-        <li class="md-meta__item">
-          
-          2 min read
-          
-        </li>
-        
-      </ul>
-
-      <!-- Draft marker -->
-      
-    </div>
-  </header>
-  <div>
-
-    <!-- Post content -->
-    <div class="md-post__content md-typeset">
-      <h2 id="australian-police-testing-super-cruiser"><a class="toclink" href="../../2008/02/02/australian-police-testing-super-cruiser/">Australian police testing super cruiser</a></h2>
-<p><strong>Link: <a href="None">Australian police testing super cruiser</a>:</strong> ""</p>
-<p>Check out <a href="http://feeds.autoblog.com/~r/weblogsinc/autoblog/~3/210114751/">this
-post</a> from
-<a href="http://www.autoblog.com">Autoblog</a>:</p>
-<blockquote>
-<p>Filed under: <a href="http://www.autoblog.com/category/conceptcars/">Concept
-Cars</a>,
-<a href="http://www.autoblog.com/category/government-legal/">Government/Legal</a>,
-<a href="http://www.autoblog.com/category/holden/">Holden</a>,
-<a href="http://www.autoblog.com/category/police-
-emergency/">Police/Emergency</a><a href="http://www.news.com.au/couriermail/story/0,23739,22955879-3102,00.html"><img alt="" src="https://i0.wp.com/www.blogsmithmedia.com/www.autoblog.com/media/2008/01/aussie_police_battlecruiser.jpg?resize=450%2C371" /></a>The
-transformation from police cruiser to police destroyer is almost complete.
-Researchers at Australia's National Safety Agency, along with Holden,
-Motorola and the Monash University Accident Research Center, have created an
-Emergency Services Concept Car that is not your standard black-and-white.</p>
-<p>They claim the development of the car was necessitated by overheating issues
-in current cruisers and adequate power management. Emergency services
-personnel had so much technology crammed into their vehicles that they
-needed a better way to keep things cool and in control. We guess that once
-they replaced most of the peripherals with one central, voice-activated
-computer, they realized all the other stuff they could stuff inside.</p>
-<p>So they added a license-plate reading camera that can process 5,000 to 8,000
-license plates in ten hours. There are three additional cameras to keep
-track of, well, everything. There's a device for police to be able to send
-messages over another vehicle's car stereo. And there's also an item called
-"Starcatch" that fires a GPS dart into a vehicle that the police want to
-follow. It's only a concept vehicle for now, but the Aussie authorities are
-showing interest.</p>
-<p>[Source: Courier Mail via <a href="http://jalopnik.com/339433/hello-kitt-
-aussie-cops-testing-super-police-cruiser">Jalopnik</a>]</p>
-<p><a href="http://www.news.com.au/couriermail/story/0,23739,22955879-3102,00.html">Read</a> | <a href="http://www.autoblog.com/2008/01/02/australian-police-testing-super-cruiser/" title="Permanent link to this entry">Permalink</a> | <a href="http://www.autoblog.com/forward/1075598/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.autoblog.com/2008/01/02/australian-police-testing-super-cruiser/#comments" title="View reader comments on this entry">Comments</a> <a href="http://feeds.autoblog.com/~f/weblogsinc/autoblog?a=yf9xHed"><img alt="" src="http://feeds.autoblog.com/~f/weblogsinc/autoblog?i=yf9xHed" /></a><a href="http://feeds.autoblog.com/~f/weblogsinc/autoblog?a=Vajf33d"><img alt="" src="http://feeds.autoblog.com/~f/weblogsinc/autoblog?i=Vajf33d" /></a><img alt="" src="http://feeds.autoblog.com/~r/weblogsinc/autoblog/~4/210114751" /></p>
-<p>(from: <a href="http://feeds.autoblog.com/~r/weblogsinc/autoblog/~3/210114751/">Australian police testing super
-cruiser</a>)</p>
-</blockquote>
     </div>
 </article>
       

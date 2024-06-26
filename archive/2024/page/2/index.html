@@ -541,6 +541,24 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#jade-rubick-implementing-amazons-single-threaded-owner-model-a-retrospective" class="md-nav__link">
+    <span class="md-ellipsis">
+      Jade Rubick - Implementing Amazon's single threaded owner model a retrospective
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-i-found-a-55-year-old-bug-in-the-first-lunar-lander-game" class="md-nav__link">
+    <span class="md-ellipsis">
+      How I Found A 55 Year Old Bug In The First Lunar Lander Game
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#the-design-decisions-and-evolution-of-a-method-definition-ruby-case-study" class="md-nav__link">
     <span class="md-ellipsis">
       The design decisions and evolution of a method definition - Ruby case study
@@ -607,24 +625,6 @@
   <a href="#silicon-valleys-best-kept-secret-founder-liquidity" class="md-nav__link">
     <span class="md-ellipsis">
       Silicon Valley’s Best Kept Secret: Founder Liquidity
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#teo" class="md-nav__link">
-    <span class="md-ellipsis">
-      TEO
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#how-to-annotate-a-graph-with-matplotlib-and-python-mouse-vs-python" class="md-nav__link">
-    <span class="md-ellipsis">
-      How to Annotate a Graph with Matplotlib and Python - Mouse Vs Python
     </span>
   </a>
   
@@ -1212,6 +1212,24 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#jade-rubick-implementing-amazons-single-threaded-owner-model-a-retrospective" class="md-nav__link">
+    <span class="md-ellipsis">
+      Jade Rubick - Implementing Amazon's single threaded owner model a retrospective
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-i-found-a-55-year-old-bug-in-the-first-lunar-lander-game" class="md-nav__link">
+    <span class="md-ellipsis">
+      How I Found A 55 Year Old Bug In The First Lunar Lander Game
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#the-design-decisions-and-evolution-of-a-method-definition-ruby-case-study" class="md-nav__link">
     <span class="md-ellipsis">
       The design decisions and evolution of a method definition - Ruby case study
@@ -1283,24 +1301,6 @@
   
 </li>
       
-        <li class="md-nav__item">
-  <a href="#teo" class="md-nav__link">
-    <span class="md-ellipsis">
-      TEO
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#how-to-annotate-a-graph-with-matplotlib-and-python-mouse-vs-python" class="md-nav__link">
-    <span class="md-ellipsis">
-      How to Annotate a Graph with Matplotlib and Python - Mouse Vs Python
-    </span>
-  </a>
-  
-</li>
-      
     </ul>
   
 </nav>
@@ -1315,6 +1315,138 @@
       <header class="md-typeset">
         <h1 id="2024">2024</h1>
       </header>
+      
+        <!--
+  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Post excerpt -->
+<article class="md-post md-post--excerpt">
+  <header class="md-post__header">
+
+    <!-- Post authors -->
+    
+
+    <!-- Post metadata -->
+    <div class="md-post__meta md-meta">
+      <ul class="md-meta__list">
+
+        <!-- Post date -->
+        <li class="md-meta__item">
+          <time datetime="2024-06-22 00:00:00">June 22, 2024</time></li>
+
+        <!-- Post categories -->
+        
+
+        <!-- Post readtime -->
+        
+        
+        <li class="md-meta__item">
+          
+          1 min read
+          
+        </li>
+        
+      </ul>
+
+      <!-- Draft marker -->
+      
+    </div>
+  </header>
+  <div>
+
+    <!-- Post content -->
+    <div class="md-post__content md-typeset">
+      <h2 id="jade-rubick-implementing-amazons-single-threaded-owner-model-a-retrospective"><a class="toclink" href="../../../../2024/06/22/jade-rubick---implementing/">Jade Rubick - Implementing Amazon's single threaded owner model a retrospective</a></h2>
+<p><img class="cover" src="https://rubick.com/static/0f17f157956741b1c9cd638c6651566f/14b42/thread.jpg"></p>
+<p><strong>Link: <a href="https://www.rubick.com/implementing-amazons-single-threaded-owner-model/?utm_source=convertkit&amp;utm_medium=email&amp;utm_campaign=Implementing%20Amazon%27s%20single%20threaded%20owner%20model,%20a%20retrospective%20-%204537069">Jade Rubick - Implementing Amazon's single threaded owner model a retrospective</a>:</strong> "A Single Threaded Owner (STO), is a single leader that is completely responsible for their area of the product. I share my experiences implementing this model, including the tradeoffs and challenges. And I give the nuts and bolts of how we implemented it and what we learned." </p>
+<p>The attached article describes an org structure apparently originated at Amazon, called “single threaded owner” or STO. In a company with multiple products, one common setup is to have separate dev, pm and design groups each covering all products. STO says to have a separate, single manager for each product, the STO. Interesting idea. </p>
+    </div>
+</article>
+      
+        <!--
+  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Post excerpt -->
+<article class="md-post md-post--excerpt">
+  <header class="md-post__header">
+
+    <!-- Post authors -->
+    
+
+    <!-- Post metadata -->
+    <div class="md-post__meta md-meta">
+      <ul class="md-meta__list">
+
+        <!-- Post date -->
+        <li class="md-meta__item">
+          <time datetime="2024-06-21 00:00:00">June 21, 2024</time></li>
+
+        <!-- Post categories -->
+        
+
+        <!-- Post readtime -->
+        
+        
+        <li class="md-meta__item">
+          
+          1 min read
+          
+        </li>
+        
+      </ul>
+
+      <!-- Draft marker -->
+      
+    </div>
+  </header>
+  <div>
+
+    <!-- Post content -->
+    <div class="md-post__content md-typeset">
+      <h2 id="how-i-found-a-55-year-old-bug-in-the-first-lunar-lander-game"><a class="toclink" href="../../../../2024/06/21/how-i-found-a-55/">How I Found A 55 Year Old Bug In The First Lunar Lander Game</a></h2>
+<p><img class="cover" src="https://martincmartin.com/wp-content/uploads/2024/06/screenshot-2024-06-13-at-1.24.32e280afpm.png"></p>
+<p><strong>Link: <a href="https://martincmartin.com/2024/06/14/how-i-found-a-55-year-old-bug-in-the-first-lunar-lander-game/?utm_source=hackernewsletter&amp;utm_medium=email&amp;utm_term=fav">How I Found A 55 Year Old Bug In The First Lunar Lander Game</a>:</strong> "Update: This kinda blew up! Featured in Hacker News, Ars Technica and PC Gamer, among others. Just months after Neil Armstrong’s historic moonwalk, Jim Storer, a Lexington High School student…" </p>
+<p>The linked article is most interesting to me because I know Jim Storer. He’s a colleague at Brandeis University. </p>
+    </div>
+</article>
       
         <!--
   Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
@@ -1377,7 +1509,7 @@
     <div class="md-post__content md-typeset">
       <h2 id="the-design-decisions-and-evolution-of-a-method-definition-ruby-case-study"><a class="toclink" href="../../../../2024/06/21/the-design-decisions-and-evolution/">The design decisions and evolution of a method definition - Ruby case study</a></h2>
 <p><img class="cover" src="https://zverok.space/img/2024-06-13/cover.png"></p>
-<p><strong>Link: <a href="https://zverok.space/blog/2024-06-14-method-evolution.html">The design decisions and evolution of a method definition - Ruby case study</a>:</strong> "Episode 01 of studying Ruby programming language design decisions, how they evolved with time, and how they look in a wider context."</p>
+<p><strong>Link: <a href="https://zverok.space/blog/2024-06-14-method-evolution.html">The design decisions and evolution of a method definition - Ruby case study</a>:</strong> "Episode 01 of studying Ruby programming language design decisions, how they evolved with time, and how they look in a wider context." </p>
 <p>Attached is a great article that dissects subtle Ruby design decisions, the trade offs made, the decisions, comparison with other languages. Here the focus is just on method arguments. </p>
     </div>
 </article>
@@ -1443,7 +1575,7 @@
     <div class="md-post__content md-typeset">
       <h2 id="how-alexa-dropped-the-ball-on-being-the-top-conversational-system-on-the-planet"><a class="toclink" href="../../../../2024/06/18/how-alexa-dropped-the-ball/">How Alexa Dropped the Ball on Being the Top Conversational System on the Planet</a></h2>
 <p><img class="cover" src="https://cdn.searchenginejournal.com/wp-content/uploads/2021/08/20-awesome-sources-of-free-data-612c26257336f-sej.jpg"></p>
-<p><strong>Link: <a href="https://www.mihaileric.com/posts/how-alexa-dropped-the-ball-conversational-ai/?utm_source=changelog-news">How Alexa Dropped the Ball on Being the Top Conversational System on the Planet</a>:</strong> "I discuss why Alexa missed the opportunity to take the lead and become the dominant player in the conversational AI market."</p>
+<p><strong>Link: <a href="https://www.mihaileric.com/posts/how-alexa-dropped-the-ball-conversational-ai/?utm_source=changelog-news">How Alexa Dropped the Ball on Being the Top Conversational System on the Planet</a>:</strong> "I discuss why Alexa missed the opportunity to take the lead and become the dominant player in the conversational AI market." </p>
 <p>Here is a very interesting retrospective on Alexa's AI features and how essentially they blew their lead. Same can be said of Siri. The differnce is that it looks like Apple is doubling down and Amazon? When I say they blew the lead: Alexa was the unchallenged dominant product in the space of home voice activated assistants. There was no other. Read the story...</p>
     </div>
 </article>
@@ -1509,7 +1641,7 @@
     <div class="md-post__content md-typeset">
       <h2 id="erikberngit-of-theseus-analyze-how-a-git-repo-grows-over-time"><a class="toclink" href="../../../../2024/06/17/erikberngit-of-theseus-analyze-how/">erikbern/git-of-theseus: Analyze how a Git repo grows over time</a></h2>
 <p><img class="cover" src="https://opengraph.githubassets.com/a446c76fa1a32fa2ea839f1c064f651ed59356af6c192ecaa9292b66d23ba8f8/erikbern/git-of-theseus"></p>
-<p><strong>Link: <a href="https://github.com/erikbern/git-of-theseus">erikbern/git-of-theseus: Analyze how a Git repo grows over time</a>:</strong> "Analyze how a Git repo grows over time."</p>
+<p><strong>Link: <a href="https://github.com/erikbern/git-of-theseus">erikbern/git-of-theseus: Analyze how a Git repo grows over time</a>:</strong> "Analyze how a Git repo grows over time." </p>
 <p>Look at this interesting graph showing code “survival” over time. It reflects an almost too “textbook” pattern, with older code getting refactored out of existence. The chart comes from the tool linked here. </p>
     </div>
 </article>
@@ -1575,7 +1707,7 @@
     <div class="md-post__content md-typeset">
       <h2 id="rhannequinastronoby-ruby-library-based-on-astronomy-and-astrometry-books"><a class="toclink" href="../../../../2024/06/17/rhannequinastronoby-ruby-library-based-on/">rhannequin/astronoby: Ruby library based on astronomy and astrometry books</a></h2>
 <p><img class="cover" src="https://opengraph.githubassets.com/4a2e3514b89b6f7c4f305d6c02423e1edb972e2d83a095d1460a5424e61ea340/rhannequin/astronoby"></p>
-<p><strong>Link: <a href="https://github.com/rhannequin/astronoby">rhannequin/astronoby: Ruby library based on astronomy and astrometry books</a>:</strong> "Ruby library based on astronomy and astrometry books - rhannequin/astronoby"</p>
+<p><strong>Link: <a href="https://github.com/rhannequin/astronoby">rhannequin/astronoby: Ruby library based on astronomy and astrometry books</a>:</strong> "Ruby library based on astronomy and astrometry books - rhannequin/astronoby" </p>
 <p>This is for you #astronomy geeks out there. A package containing  a bunch of technical algorithms used in astronomy. If you’re writing the next best solar eclipse automation app, this is for you!</p>
     </div>
 </article>
@@ -1641,7 +1773,7 @@
     <div class="md-post__content md-typeset">
       <h2 id="system-tests-have-failed"><a class="toclink" href="../../../../2024/06/16/system-tests-have-failed/">System tests have failed</a></h2>
 <p><img class="cover" src="https://world.hey.com/dhh/avatar-fb368b1ee9b185dc2a09b03eabdb61678dd55244"></p>
-<p><strong>Link: <a href="https://world.hey.com/dhh/system-tests-have-failed-d90af718">System tests have failed</a>:</strong> "When we introduced a default setup for system tests in Rails 5.1 back in 2016, I had high hopes. In theory, system tests, which drive a headless browser through your actual interface, offer greater confidence that the entire machine is working as it ought. And because it runs in a black-box fashion, it should be more resilient to imple..."</p>
+<p><strong>Link: <a href="https://world.hey.com/dhh/system-tests-have-failed-d90af718">System tests have failed</a>:</strong> "When we introduced a default setup for system tests in Rails 5.1 back in 2016, I had high hopes. In theory, system tests, which drive a headless browser through your actual interface, offer greater confidence that the entire machine is working as it ought. And because it runs in a black-box fashion, it should be more resilient to imple..." </p>
 <p>DHH declares system tests to be a failed experiment in the attached document. This is surprising to me but then not surprising. Surprised because intuitively it seems that system tests should be better for the stated reasons. And politically because it seems that the Ruby world had accepted that unit tests are easy to write but too brittle. And system tests were more real-life and robust. But not surprised because I have always found system tests a pain to write. But I don’t have large scale experience with that so I tended to agree with the world that system tests (aka end-to-end tests) were better. So here comes #DHH to argue that system tests have failed!</p>
     </div>
 </article>
@@ -1707,7 +1839,7 @@
     <div class="md-post__content md-typeset">
       <h2 id="smooth-concurrent-updates-with-hotwire-stimulus-blog-visuality"><a class="toclink" href="../../../../2024/06/15/smooth-concurrent-updates-with-hotwire/">Smooth Concurrent Updates with Hotwire Stimulus - Blog - Visuality</a></h2>
 <p><img class="cover" src="https://cdn.prod.website-files.com/653245b9527ab8b069794ef7/665d9e952c0d840b2c87d52b_Michal.jpg"></p>
-<p><strong>Link: <a href="https://www.visuality.pl/posts/smooth-concurrent-updates-with-hotwire-stimulus">Smooth Concurrent Updates with Hotwire Stimulus - Blog - Visuality</a>:</strong> "It's time to get familiar with another part of Hotwire: Stimulus! In this article, I'll demonstrate using Stimulus to handle more complex frontend logic."</p>
+<p><strong>Link: <a href="https://www.visuality.pl/posts/smooth-concurrent-updates-with-hotwire-stimulus">Smooth Concurrent Updates with Hotwire Stimulus - Blog - Visuality</a>:</strong> "It's time to get familiar with another part of Hotwire: Stimulus! In this article, I'll demonstrate using Stimulus to handle more complex frontend logic." </p>
 <p>I admit I get confused by the various packages in this family of related low or no JavaScript goodies released by DHH. Hotwire, Stimulus, Hotwire Stimulus (something different, I guess). Some come with rails, some compete with each other. No matter, I love them all. I love the idea of not having to write and debug JavaScript. Here’s an article with code that shows a great use case. </p>
     </div>
 </article>
@@ -1773,7 +1905,7 @@
     <div class="md-post__content md-typeset">
       <h2 id="dont-refactor-like-uncle-bob-please"><a class="toclink" href="../../../../2024/06/14/dont-refactor-like-uncle-bob/">Don’t Refactor Like Uncle Bob. Please</a></h2>
 <p><img class="cover" src="https://theaxolot.wordpress.com/wp-content/uploads/2024/05/cropped-1677184869904.jpg?w=200"></p>
-<p><strong>Link: <a href="https://theaxolot.wordpress.com/2024/05/08/dont-refactor-like-uncle-bob-please/">Don’t Refactor Like Uncle Bob. Please</a>:</strong> "Correction: Throughout this article, I attribute Chapter 2 of Clean Code to Robert Martin, however I was recently informed that this particular chapter was actually authored by Tim Ottinger. That s…"</p>
+<p><strong>Link: <a href="https://theaxolot.wordpress.com/2024/05/08/dont-refactor-like-uncle-bob-please/">Don’t Refactor Like Uncle Bob. Please</a>:</strong> "Correction: Throughout this article, I attribute Chapter 2 of Clean Code to Robert Martin, however I was recently informed that this particular chapter was actually authored by Tim Ottinger. That s…" </p>
 <p>A nice deconstruction of a refactoring gone bad. The article makes good points and I agree that Uncle Bob’s (tm) refactoring is not great. Oh but apparently a ghost writer wrote that chapter. Now in defense of the book, it was written many years ago and we’ve all gotten a lot smarter about what it means to write Clean Code (tm). Here’s the article:</p>
     </div>
 </article>
@@ -1839,140 +1971,8 @@
     <div class="md-post__content md-typeset">
       <h2 id="silicon-valleys-best-kept-secret-founder-liquidity"><a class="toclink" href="../../../../2024/06/14/silicon-valleys-best-kept-secret/">Silicon Valley’s Best Kept Secret: Founder Liquidity</a></h2>
 <p><img class="cover" src="https://www.stefantheard.com/content/images/size/w1200/2024/06/wework-1-1.webp"></p>
-<p><strong>Link: <a href="https://www.stefantheard.com/silicon-valleys-best-kept-secret-founder-liquidity/?utm_source=hackernewsletter&amp;utm_medium=email&amp;utm_term=fav">Silicon Valley’s Best Kept Secret: Founder Liquidity</a>:</strong> "Ask most venture-backed founders why they get 10x more equity than employee #1, 100x more equity than employee #5, and 1000x more equity than employee #15, and you'll get the same answer: "I'M TAKING SO MUCH RISK, IT'S SO HARD TO START A COMPANY, I MADE A BIG MOVE!!!" And"</p>
+<p><strong>Link: <a href="https://www.stefantheard.com/silicon-valleys-best-kept-secret-founder-liquidity/?utm_source=hackernewsletter&amp;utm_medium=email&amp;utm_term=fav">Silicon Valley’s Best Kept Secret: Founder Liquidity</a>:</strong> "Ask most venture-backed founders why they get 10x more equity than employee #1, 100x more equity than employee #5, and 1000x more equity than employee #15, and you'll get the same answer: "I'M TAKING SO MUCH RISK, IT'S SO HARD TO START A COMPANY, I MADE A BIG MOVE!!!" And" </p>
 <p>Another reason why I believe being the founder of a well funded startup is not risky. If the startup is indeed well funded then you as a founder or employee can count on your salary for say between one and three years. No matter what revenue or earnings are, because they are not expected at the very start. Compare that with a job at an established company where layoffs can come out of nowhere and affect anyone.  Not sure which is riskier … it depends … but in my opinion the startup is not clearly riskier. See the attached article for an explanation of one factor, but not the only factor. </p>
-    </div>
-</article>
-      
-        <!--
-  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Post excerpt -->
-<article class="md-post md-post--excerpt">
-  <header class="md-post__header">
-
-    <!-- Post authors -->
-    
-
-    <!-- Post metadata -->
-    <div class="md-post__meta md-meta">
-      <ul class="md-meta__list">
-
-        <!-- Post date -->
-        <li class="md-meta__item">
-          <time datetime="2024-06-14 00:00:00">June 14, 2024</time></li>
-
-        <!-- Post categories -->
-        
-
-        <!-- Post readtime -->
-        
-        
-        <li class="md-meta__item">
-          
-          1 min read
-          
-        </li>
-        
-      </ul>
-
-      <!-- Draft marker -->
-      
-    </div>
-  </header>
-  <div>
-
-    <!-- Post content -->
-    <div class="md-post__content md-typeset">
-      <h2 id="teo"><a class="toclink" href="../../../../2024/06/14/teo/">TEO</a></h2>
-<p><img class="cover" src="https://teodev.io/images/code.png?imwidth=1200"></p>
-<p><strong>Link: <a href="https://teodev.io/">TEO</a>:</strong> "TEO is the schema-driven web server framework native to Rust, Node.js and Python. It reduces developing time and improves developers' life experience."</p>
-<p>Wow a brand new web framework! Where did this spring from, apparently fully formed, out of nowhere? Or am I not hanging out in the right neighborhood? Take a look at the attached site!</p>
-    </div>
-</article>
-      
-        <!--
-  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Post excerpt -->
-<article class="md-post md-post--excerpt">
-  <header class="md-post__header">
-
-    <!-- Post authors -->
-    
-
-    <!-- Post metadata -->
-    <div class="md-post__meta md-meta">
-      <ul class="md-meta__list">
-
-        <!-- Post date -->
-        <li class="md-meta__item">
-          <time datetime="2024-06-12 00:00:00">June 12, 2024</time></li>
-
-        <!-- Post categories -->
-        
-
-        <!-- Post readtime -->
-        
-        
-        <li class="md-meta__item">
-          
-          1 min read
-          
-        </li>
-        
-      </ul>
-
-      <!-- Draft marker -->
-      
-    </div>
-  </header>
-  <div>
-
-    <!-- Post content -->
-    <div class="md-post__content md-typeset">
-      <h2 id="how-to-annotate-a-graph-with-matplotlib-and-python-mouse-vs-python"><a class="toclink" href="../../../../2024/06/12/how-to-annotate-a-graph/">How to Annotate a Graph with Matplotlib and Python - Mouse Vs Python</a></h2>
-<p><img class="cover" src="https://www.blog.pythonlibrary.org/wp-content/uploads/2024/05/annotated_graph-1024x843.jpg"></p>
-<p><strong>Link: <a href="https://www.blog.pythonlibrary.org/2024/05/13/how-to-annotate-a-graph-with-matplotlib-and-python/">How to Annotate a Graph with Matplotlib and Python - Mouse Vs Python</a>:</strong> "The Matplotlib package is great for visualizing data. One of its many features is the ability to annotate points on your graph. You can use annotations to"</p>
-<p>The attached article shows nice code examples on how to put arrows pointing at specific points in your graph</p>
     </div>
 </article>
       
