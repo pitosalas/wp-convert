@@ -256,7 +256,7 @@ date: {date}
         filename = f"{date}-{title.replace(' ', '-')}.md"
         filename = re.sub(
             r'[\\/*?:"<>|]', "-", filename
-        )  # Replace forbidden characters with dash
+        )  # Replace forbidden characters with dash.
         filename = re.sub(
             r"\s+", "", filename.strip()
         )  # Replace spaces or consecutive spaces with dash
