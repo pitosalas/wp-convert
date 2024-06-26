@@ -1,5 +1,5 @@
 ---
-title: "Recurring Billing, Subscription Billing, Web 2.0 and SaaS Billing - Chargify"
+title: "Recurring Billing, Subscription Billing, Web 2.0 and SaaS Billing"
 author: Pito Salas
 url: "http://chargify.com" 
 link: "http://chargify.com" 
@@ -9,8 +9,6 @@ tags:
     - Sittercity
 ---
 <img class="cover" src=https://www.chargify.com/images/opengraph-7143f2e4.png>
-
-
 
 * **Web site excerpt:** Chargify is the best online billing software for all of your Recurring Billing needs. Learn more about simplifying your Subscription Billing today.
 

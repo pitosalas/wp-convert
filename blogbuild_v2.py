@@ -213,7 +213,7 @@ class BlogBuild:
 
     def save_individual_post(self, title, content, date, tags, url, cover, excerpt):
         if cover is not None:
-            cover_markdown = f"""<img class="cover" src={cover}>\n"""
+            cover_markdown = f"""<img class="cover" src="{cover}">\n"""
             cover_text = f"""\ncover: "{cover}" """
         else:
             cover_markdown = ""
