@@ -1,6 +1,3 @@
-[tool.black]
-line-length = 75
-
 [tool.docformatter]
 recursive = true
 wrap-summaries = 82

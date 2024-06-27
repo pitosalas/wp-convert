@@ -2,6 +2,7 @@ import csv
 import json
 from tagsimport import clean_tag
 
+
 class RaindropImport:
     def __init__(self):
         self.drops = {}
@@ -22,18 +23,15 @@ class RaindropImport:
     def clean_drops(self):
         for key in self.drops:
             self.drops[key]['tags'] = clean_tag(self.drops[key]['tags'])
-                
+
     def run(self):
         self.retrieve_drops()
         self.clean_drops()
         self.save_drops()
 
+
 # Main program
-if __name__ == "__main__":
+if __name__ == '__main__':
     wp_conv = RaindropImport()
     wp_conv.run()
-    print("raindropimport: done")
-
-                    
-
-
+    print('raindropimport: done')

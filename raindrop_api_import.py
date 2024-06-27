@@ -2,35 +2,41 @@ import json
 from time import sleep
 import requests
 import os
+
+
 class RaindropApiImport:
     def __init__(self):
-        self.sec_token: str = str(os.getenv("RAINDROP_TOKEN"))
+        self.sec_token: str = str(os.getenv('RAINDROP_TOKEN'))
         print(self.sec_token)
         self.headers = {
             'Accept': 'application/json',
             'User-Agent': 'Safari',
-            'Authorization': "Bearer " + self.sec_token        
+            'Authorization': 'Bearer ' + self.sec_token,
         }
         self.drops = {}
         self.topcolid = None
 
     def retrieve_top_collection_id(self):
-        url = "https://api.raindrop.io/rest/v1/collections"
+        url = 'https://api.raindrop.io/rest/v1/collections'
         response = requests.get(url, headers=self.headers)
         print(response)
         resp_json = response.json()['items'][0]
-        self.topcolid = resp_json["_id"]
-
+        self.topcolid = resp_json['_id']
 
     def retrieve_drops(self):
-        url = f"https://api.raindrop.io/rest/v1/raindrops/{self.topcolid}"
+        url = f'https://api.raindrop.io/rest/v1/raindrops/{self.topcolid}'
         page = 0
         drops = 0
         while True:
-            params = { 'page': page }
+            params = {'page': page}
             response = requests.get(url, headers=self.headers, params=params)
-            if response.status_code != 200 or len(response.json()["items"]) == 0:
-                print(f"""raindrop_api_import: Breaking loop after: {page} pages and {drops} drops""")
+            if (
+                response.status_code != 200
+                or len(response.json()['items']) == 0
+            ):
+                print(
+                    f"""raindrop_api_import: Breaking loop after: {page} pages and {drops} drops"""
+                )
                 break
             sleep(0.25)
             page += 1
@@ -41,21 +47,20 @@ class RaindropApiImport:
                 # Removing the name key-value pair as it's already used as a dictionary key
                 del drop['title']
                 self.drops[key] = drop
-            # print(f"""Page: {page} drop: {drops} retrieved""") 
-            
+            # print(f"""Page: {page} drop: {drops} retrieved""")
+
     def save_drops(self):
         with open('data/api_drops.json', 'w') as json_file:
             json.dump(self.drops, json_file)
-
-
 
     def run(self):
         self.retrieve_top_collection_id()
         self.retrieve_drops()
         self.save_drops()
 
+
 # Main program
-if __name__ == "__main__":
+if __name__ == '__main__':
     rain = RaindropApiImport()
     rain.run()
-    print("logbuild_v2: done")
+    print('logbuild_v2: done')

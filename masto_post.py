@@ -7,23 +7,25 @@ import os
 from typing import Union
 import ext.slugs
 
-MASTO_URL_FILE = "data/masto_url_list.json"
+MASTO_URL_FILE = 'data/masto_url_list.json'
 SAFE_MODE = False
 MASTO_MAX_POST_PER_RUN = 2
 MASTO_MAX_STATUS_LENGTH = 510
 
 JsonValue = Union[str, dict[str, str]]
+
+
 class MastoPost:
     def __init__(self):
-        self.sec_token: str = os.getenv("MASTO_TOKEN", "")
-        if self.sec_token == "":
-            raise ValueError("MASTO_TOKEN environment variable is not set")
+        self.sec_token: str = os.getenv('MASTO_TOKEN', '')
+        if self.sec_token == '':
+            raise ValueError('MASTO_TOKEN environment variable is not set')
 
         self.masto_urls: list[str] = []
         self.headers: dict[str, str] = {
             'Accept': 'application/json',
             'User-Agent': 'Safari',
-            'Authorization': "Bearer " + self.sec_token        
+            'Authorization': 'Bearer ' + self.sec_token,
         }
         self.masto_post_count: int = 0
 
@@ -33,24 +35,24 @@ class MastoPost:
 
     def load_masto_url_file(self) -> None:
         if not os.path.exists(MASTO_URL_FILE):
-            with open(MASTO_URL_FILE, "w") as json_file:
+            with open(MASTO_URL_FILE, 'w') as json_file:
                 json.dump({}, json_file)
                 self.masto_urls: list[str] = []
         with open(MASTO_URL_FILE) as json_file:
             loaded_file: dict = json.load(json_file)
-            self.masto_urls: list[str] = loaded_file.get("urls", [])
-            
+            self.masto_urls: list[str] = loaded_file.get('urls', [])
+
     def save_masto_url_file(self):
         if SAFE_MODE:
             return
-        with open(MASTO_URL_FILE, "w") as json_file:
-            urls_dict = {"urls" : self.masto_urls}
+        with open(MASTO_URL_FILE, 'w') as json_file:
+            urls_dict = {'urls': self.masto_urls}
             json.dump(urls_dict, json_file, indent=4)
 
     def fix_drop_content(self, drop):
         content = f"""{drop['note']}"""
         return content
-    
+
     def choose_random_drop(self) -> bool:
         return random.randint(1, 10000) == 1
 
@@ -64,62 +66,83 @@ class MastoPost:
             content = self.fix_drop_content(drop)
             date = fix_drop_date(drop['created'])
             url = drop['url']
-            tags_str: str = ""
+            tags_str: str = ''
             cover = drop['cover']
             rawtags = fix_drop_tags(drop['tags'])
             if rawtags not in ['', 'None', [''], []]:
-                tags_str = ""
+                tags_str = ''
                 for tag in rawtags:
                     tags_str += f"""#{tag} """
             else:
-                tags_str = ""
+                tags_str = ''
             self.create_masto_post(title, content, date, tags_str, url, cover)
             count += 1
-        print(f"""masto_post {count} Drop Posts Processed, {self.masto_post_count} masto posts performed""")
+        print(
+            f"""masto_post {count} Drop Posts Processed, {self.masto_post_count} masto posts performed"""
+        )
 
     def get_salas_url_with_slug(self, title, date_str):
-        slug = ext.slugs._make_slug_short(title, "-", kwargs={'short' : True})
-        date_str = date_str.replace("-", "/")
-        url_with_slug = f"https://salas.com/{date_str}/{slug}/"
+        slug = ext.slugs._make_slug_short(title, '-', kwargs={'short': True})
+        date_str = date_str.replace('-', '/')
+        url_with_slug = f'https://salas.com/{date_str}/{slug}/'
         return url_with_slug
-    
-    def create_masto_post(self, title: str, content: str, date: str, tags_str: str, url: str, cover: str) -> None:
+
+    def create_masto_post(
+        self,
+        title: str,
+        content: str,
+        date: str,
+        tags_str: str,
+        url: str,
+        cover: str,
+    ) -> None:
         if url in self.masto_urls:
             print(f"""masto_post: skipping previously added {title}""")
             return
         if self.masto_post_count >= MASTO_MAX_POST_PER_RUN:
             print(f"""masto_post: reached maximum, so skipped {title} """)
             return
-        rest_url: str = "https://ruby.social/api/v1/statuses"
+        rest_url: str = 'https://ruby.social/api/v1/statuses'
         salas_url_with_slug = self.get_salas_url_with_slug(title, date)
-        content_max_length = MASTO_MAX_STATUS_LENGTH - len(tags_str) - len(url) - len(title) - 20
-        abbreviated_content = content if len(content) <= content_max_length else content[:content_max_length] + "..."
-#       status = f"""{abbreviated_content} {tags_str}:from: "{title}"({url})"""
-#        status = f""" {abbreviated_content} {tags_str} ({salas_url_with_slug}):
-#
-#"{title}"({url})"""
-        status = f"""{abbreviated_content}{salas_url_with_slug}{tags_str} """ 
-        json_data_dict: dict[str, JsonValue] = {"status": status}
+        content_max_length = (
+            MASTO_MAX_STATUS_LENGTH - len(tags_str) - len(url) - len(title) - 20
+        )
+        abbreviated_content = (
+            content
+            if len(content) <= content_max_length
+            else content[:content_max_length] + '...'
+        )
+        #       status = f"""{abbreviated_content} {tags_str}:from: "{title}"({url})"""
+        #        status = f""" {abbreviated_content} {tags_str} ({salas_url_with_slug}):
+        #
+        # "{title}"({url})"""
+        status = f"""{abbreviated_content}{salas_url_with_slug}{tags_str} """
+        json_data_dict: dict[str, JsonValue] = {'status': status}
         if SAFE_MODE:
-            print(f"masto_post: fake mode posting {title}")
+            print(f'masto_post: fake mode posting {title}')
         else:
-            response = requests.post(rest_url, headers=self.headers, data=json_data_dict)
+            response = requests.post(
+                rest_url, headers=self.headers, data=json_data_dict
+            )
             if response.status_code == 200:
                 self.masto_post_count += 1
                 self.masto_urls.append(url)
-                print(f"masto_post: successful posting {title}")
+                print(f'masto_post: successful posting {title}')
             else:
-                print(f"masto_post: error posting: {response.status_code} on {title}[{len(status)}]")
+                print(
+                    f'masto_post: error posting: {response.status_code} on {title}[{len(status)}]'
+                )
 
     def run(self):
         self.retrieve_api_drops_from_file()
         self.load_masto_url_file()
         self.write_api_drops_to_masto()
-        self.save_masto_url_file()       
+        self.save_masto_url_file()
+
 
 # Main program
-if __name__ == "__main__":
-    print("masto_post: start")
+if __name__ == '__main__':
+    print('masto_post: start')
     masto = MastoPost()
     masto.run()
-    print("masto_post: done")
+    print('masto_post: done')
