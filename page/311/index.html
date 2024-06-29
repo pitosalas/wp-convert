@@ -476,6 +476,15 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#windows-8-getting-a-new-filesystem" class="md-nav__link">
+    <span class="md-ellipsis">
+      Windows 8: Getting a new filesystem
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#support-your-local-bookstore" class="md-nav__link">
     <span class="md-ellipsis">
       Support your local bookstore
@@ -551,15 +560,6 @@
   <a href="#netflix-in-curacao-the-hour-the-bbc-and-content-licensing" class="md-nav__link">
     <span class="md-ellipsis">
       Netflix in Curaçao: “The Hour”, the BBC, and content licensing
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#words-borrowed-from-horse-racing" class="md-nav__link">
-    <span class="md-ellipsis">
-      Words borrowed from horse racing
     </span>
   </a>
   
@@ -1210,6 +1210,15 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#windows-8-getting-a-new-filesystem" class="md-nav__link">
+    <span class="md-ellipsis">
+      Windows 8: Getting a new filesystem
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#support-your-local-bookstore" class="md-nav__link">
     <span class="md-ellipsis">
       Support your local bookstore
@@ -1290,15 +1299,6 @@
   
 </li>
       
-        <li class="md-nav__item">
-  <a href="#words-borrowed-from-horse-racing" class="md-nav__link">
-    <span class="md-ellipsis">
-      Words borrowed from horse racing
-    </span>
-  </a>
-  
-</li>
-      
     </ul>
   
 </nav>
@@ -1313,6 +1313,108 @@
       <header class="md-typeset">
         <h1 id="index">Index</h1>
       </header>
+      
+        <!--
+  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Post excerpt -->
+<article class="md-post md-post--excerpt">
+  <header class="md-post__header">
+
+    <!-- Post authors -->
+    
+
+    <!-- Post metadata -->
+    <div class="md-post__meta md-meta">
+      <ul class="md-meta__list">
+
+        <!-- Post date -->
+        <li class="md-meta__item">
+          <time datetime="2012-01-27 00:00:00">January 27, 2012</time></li>
+
+        <!-- Post categories -->
+        
+
+        <!-- Post readtime -->
+        
+        
+        <li class="md-meta__item">
+          
+          2 min read
+          
+        </li>
+        
+      </ul>
+
+      <!-- Draft marker -->
+      
+    </div>
+  </header>
+  <div>
+
+    <!-- Post content -->
+    <div class="md-post__content md-typeset">
+      <h2 id="windows-8-getting-a-new-filesystem"><a class="toclink" href="../../2012/01/27/windows-8-getting-a-new/">Windows 8: Getting a new filesystem</a></h2>
+<p>I don't pay much attention to Microsoft and Windows these days. I admit it, I
+am a hardcore Mac and Linux user, more comfortable in the unix shell than I
+ever was at a Dos prompt.</p>
+<p>It's easy to forget the layers and layers and layers of complexity that exist
+in any operating system nowadays, even a little Android tablet (which I am
+spending lots of time with lately.)</p>
+<p>So this article is a <strong>good reminder</strong> of what's happening up in Redmond. It
+describes the "<a href="http://blogs.msdn.com/b/b8/archive/2012/01/16/building-the-next-
+generation-file-system-for-windows-refs.aspx">next generation file system for
+Windows</a>":</p>
+<blockquote>
+<p>"Our design attributes are closely related to our goals. As we go through
+these attributes, keep in mind the history of producing file systems used by
+hundreds of millions of devices scaling from the smallest footprint machines
+to the largest data centers, from the smallest storage format to the largest
+multi-spindle format, from solid state storage to the largest drives and
+storage systems available. Yet at the same time,</p>
+<p>Windows file systems are accessed by the widest array of application and
+system software anywhere. ReFS takes that learning and builds on it. We
+didnât start from scratch, but reimagined it where it made sense and built
+on the right parts of NTFS where that made sense. Above all, we are
+delivering this in a pragmatic manner consistent with the delivery of a
+major file systemâsomething only Microsoft has done at this scale.
+(<strong>from</strong><a href="http://blogs.msdn.com/b/b8/archive/2012/01/16/building-the-next-
+generation-file-system-for-windows-refs.aspx">Building the Next Generation File System for Windows:
+ReFS)</a></p>
+</blockquote>
+<p>Reading the article is not as satisfying as the build up. I guess not
+surprisingly, given that by definition the article has to over simplify and
+really hide the wheels within wheels.</p>
+<p>I have written many times about Microsoft's <a href="/imported-20111103233638/2005/1/22/day-of-reckoning-coming-for-
+microsoft.html">amazing ability to build complex
+products and support a user base across a crazy variety of versions, hardware,
+software, countries, eras and so on.
+</a> The challenge that they take on with Windows 8, apparently
+massively changing the on-disk structures of their file system while
+preserving API compatibility is daunting.</p>
+<p>So while I am not a Microsoft fan or booster, I still have enormous respect
+for them.</p>
+    </div>
+</article>
       
         <!--
   Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
@@ -2086,91 +2188,6 @@ of.</p>
 <p>Here's a final twist. When I got back to the US, I went onto
 <a href="http://movies.netflix.com/WiMovie/The_Hour/70203479?trkid=2361637">Netflix</a>
 to find The Hour NOT available on Netflix!</p>
-    </div>
-</article>
-      
-        <!--
-  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Post excerpt -->
-<article class="md-post md-post--excerpt">
-  <header class="md-post__header">
-
-    <!-- Post authors -->
-    
-
-    <!-- Post metadata -->
-    <div class="md-post__meta md-meta">
-      <ul class="md-meta__list">
-
-        <!-- Post date -->
-        <li class="md-meta__item">
-          <time datetime="2012-01-12 00:00:00">January 12, 2012</time></li>
-
-        <!-- Post categories -->
-        
-
-        <!-- Post readtime -->
-        
-        
-        <li class="md-meta__item">
-          
-          1 min read
-          
-        </li>
-        
-      </ul>
-
-      <!-- Draft marker -->
-      
-    </div>
-  </header>
-  <div>
-
-    <!-- Post content -->
-    <div class="md-post__content md-typeset">
-      <h2 id="words-borrowed-from-horse-racing"><a class="toclink" href="../../2012/01/12/words-borrowed-from-horse-racing/">Words borrowed from horse racing</a></h2>
-<p>I just finished reading the book
-<a href="http://www.amazon.com/Seabiscuit-American-Legend-Laura-
-Hillenbrand/dp/0449005615">Seabiscuit</a>. I previously had no interest (and no respect) for
-<a href="http://en.wikipedia.org/wiki/Horse_racing">Horse Racing</a>. The book changed
-that. It was quite interesting in human and racing terms.</p>
-<p>Now that I think about it I am also a big fan of the <a href="http://en.wikipedia.org/wiki/Dick_Francis">Dick Francis mystery
-series.</a> Unfortunately he's no
-longer with us, and I think I've read all of them. They are more about British
-<a href="http://en.wikipedia.org/wiki/Steeplechase">steeplechase</a>, but still, about
-horses. So I guess there was a latent interest there 🙂</p>
-<p>Anyway, one take away was how many <strong>every day English words</strong> and expressions
-in daily use come from the <strong>Racing World.</strong> See how many surprise you!</p>
-<ul>
-<li>track record</li>
-<li>neck-a-neck</li>
-<li>by a nose</li>
-<li>also ran</li>
-<li>dead heat</li>
-<li>photo finish</li>
-<li>tongue tied</li>
-<li>down to the wire</li>
-</ul>
     </div>
 </article>
       
