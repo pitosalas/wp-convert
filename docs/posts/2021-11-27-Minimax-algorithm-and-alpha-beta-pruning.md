@@ -1,18 +1,19 @@
 ---
 title: "Minimax algorithm and alpha-beta pruning"
 author: Pito Salas
-url: "https://mathspp.com/blog/minimax-algorithm-and-alpha-beta-pruning" 
-link: "https://mathspp.com/blog/minimax-algorithm-and-alpha-beta-pruning" 
-cover: "https://mathspp.com/blog/minimax-algorithm-and-alpha-beta-pruning/thumbnail.png" 
 date: 2021-11-27
 tags:
-    - minimax
-    - explainer
-    - python
-    - algorithms
+    - algorithm
 ---
-<img class="cover" src="https://mathspp.com/blog/minimax-algorithm-and-alpha-beta-pruning/thumbnail.png">
 
-**Link: [Minimax algorithm and alpha-beta pruning](https://mathspp.com/blog/minimax-algorithm-and-alpha-beta-pruning):** "This article will teach you about the minimax algorithm and alpha-beta pruning, from a beginner's perspective." 
+
+
+[ Minimax algorithm and alpha-beta pruning](<https://mathspp.com/blog/minimax-
+algorithm-and-alpha-beta-pruning>)
+
+This article will teach you about the minimax algorithm and alpha-beta
+pruning, from a beginner's perspective.
+
+November 27, 2021 at 07:32PM
 
 
