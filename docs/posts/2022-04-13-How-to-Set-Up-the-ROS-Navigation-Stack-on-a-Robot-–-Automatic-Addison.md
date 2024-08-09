@@ -1,19 +1,18 @@
 ---
 title: "How to Set Up the ROS Navigation Stack on a Robot – Automatic Addison"
 author: Pito Salas
+url: "https://automaticaddison.com/how-to-set-up-the-ros-navigation-stack-on-a-robot/" 
+link: "https://automaticaddison.com/how-to-set-up-the-ros-navigation-stack-on-a-robot/" 
+cover: "https://automaticaddison.com/wp-content/uploads/2018/11/cropped-logo_sq_240.png" 
 date: 2022-04-13
 tags:
-    - navigation-tag
+    - ros
+    - navigation
+    - setup
+    - how-to
 ---
+<img class="cover" src="https://automaticaddison.com/wp-content/uploads/2018/11/cropped-logo_sq_240.png">
 
-
-
-[ How to Set Up the ROS Navigation Stack on a Robot – Automatic
-Addison](<https://automaticaddison.com/how-to-set-up-the-ros-navigation-stack-
-on-a-robot/>)
-
-Good information about setting up and conviguring navigation
-
-April 13, 2022 at 10:25PM
+**Link: [How to Set Up the ROS Navigation Stack on a Robot – Automatic Addison](https://automaticaddison.com/how-to-set-up-the-ros-navigation-stack-on-a-robot/):** "Good information about setting up and conviguring navigation" 
 
 
