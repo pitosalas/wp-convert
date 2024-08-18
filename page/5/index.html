@@ -476,6 +476,24 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#jade-rubick-implementing-amazons-single-threaded-owner-model-a-retrospective" class="md-nav__link">
+    <span class="md-ellipsis">
+      Jade Rubick - Implementing Amazon's single threaded owner model a retrospective
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-i-found-a-55-year-old-bug-in-the-first-lunar-lander-game" class="md-nav__link">
+    <span class="md-ellipsis">
+      How I Found A 55 Year Old Bug In The First Lunar Lander Game
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#the-design-decisions-and-evolution-of-a-method-definition-ruby-case-study" class="md-nav__link">
     <span class="md-ellipsis">
       The design decisions and evolution of a method definition - Ruby case study
@@ -542,24 +560,6 @@
   <a href="#silicon-valleys-best-kept-secret-founder-liquidity" class="md-nav__link">
     <span class="md-ellipsis">
       Silicon Valley’s Best Kept Secret: Founder Liquidity
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#teo" class="md-nav__link">
-    <span class="md-ellipsis">
-      TEO
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#how-to-annotate-a-graph-with-matplotlib-and-python-mouse-vs-python" class="md-nav__link">
-    <span class="md-ellipsis">
-      How to Annotate a Graph with Matplotlib and Python - Mouse Vs Python
     </span>
   </a>
   
@@ -1210,6 +1210,24 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#jade-rubick-implementing-amazons-single-threaded-owner-model-a-retrospective" class="md-nav__link">
+    <span class="md-ellipsis">
+      Jade Rubick - Implementing Amazon's single threaded owner model a retrospective
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-i-found-a-55-year-old-bug-in-the-first-lunar-lander-game" class="md-nav__link">
+    <span class="md-ellipsis">
+      How I Found A 55 Year Old Bug In The First Lunar Lander Game
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#the-design-decisions-and-evolution-of-a-method-definition-ruby-case-study" class="md-nav__link">
     <span class="md-ellipsis">
       The design decisions and evolution of a method definition - Ruby case study
@@ -1281,24 +1299,6 @@
   
 </li>
       
-        <li class="md-nav__item">
-  <a href="#teo" class="md-nav__link">
-    <span class="md-ellipsis">
-      TEO
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#how-to-annotate-a-graph-with-matplotlib-and-python-mouse-vs-python" class="md-nav__link">
-    <span class="md-ellipsis">
-      How to Annotate a Graph with Matplotlib and Python - Mouse Vs Python
-    </span>
-  </a>
-  
-</li>
-      
     </ul>
   
 </nav>
@@ -1313,6 +1313,138 @@
       <header class="md-typeset">
         <h1 id="index">Index</h1>
       </header>
+      
+        <!--
+  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Post excerpt -->
+<article class="md-post md-post--excerpt">
+  <header class="md-post__header">
+
+    <!-- Post authors -->
+    
+
+    <!-- Post metadata -->
+    <div class="md-post__meta md-meta">
+      <ul class="md-meta__list">
+
+        <!-- Post date -->
+        <li class="md-meta__item">
+          <time datetime="2024-06-22 00:00:00">June 22, 2024</time></li>
+
+        <!-- Post categories -->
+        
+
+        <!-- Post readtime -->
+        
+        
+        <li class="md-meta__item">
+          
+          1 min read
+          
+        </li>
+        
+      </ul>
+
+      <!-- Draft marker -->
+      
+    </div>
+  </header>
+  <div>
+
+    <!-- Post content -->
+    <div class="md-post__content md-typeset">
+      <h2 id="jade-rubick-implementing-amazons-single-threaded-owner-model-a-retrospective"><a class="toclink" href="../../2024/06/22/jade-rubick---implementing/">Jade Rubick - Implementing Amazon's single threaded owner model a retrospective</a></h2>
+<p><img class="cover" src="https://rubick.com/static/0f17f157956741b1c9cd638c6651566f/14b42/thread.jpg"></p>
+<p><strong>Link: <a href="https://www.rubick.com/implementing-amazons-single-threaded-owner-model/?utm_source=convertkit&amp;utm_medium=email&amp;utm_campaign=Implementing%20Amazon%27s%20single%20threaded%20owner%20model,%20a%20retrospective%20-%204537069">Jade Rubick - Implementing Amazon's single threaded owner model a retrospective</a>:</strong> "A Single Threaded Owner (STO), is a single leader that is completely responsible for their area of the product. I share my experiences implementing this model, including the tradeoffs and challenges. And I give the nuts and bolts of how we implemented it and what we learned." </p>
+<p>The attached article describes an org structure apparently originated at Amazon, called “single threaded owner” or STO. In a company with multiple products, one common setup is to have separate dev, pm and design groups each covering all products. STO says to have a separate, single manager for each product, the STO. Interesting idea. </p>
+    </div>
+</article>
+      
+        <!--
+  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Post excerpt -->
+<article class="md-post md-post--excerpt">
+  <header class="md-post__header">
+
+    <!-- Post authors -->
+    
+
+    <!-- Post metadata -->
+    <div class="md-post__meta md-meta">
+      <ul class="md-meta__list">
+
+        <!-- Post date -->
+        <li class="md-meta__item">
+          <time datetime="2024-06-21 00:00:00">June 21, 2024</time></li>
+
+        <!-- Post categories -->
+        
+
+        <!-- Post readtime -->
+        
+        
+        <li class="md-meta__item">
+          
+          1 min read
+          
+        </li>
+        
+      </ul>
+
+      <!-- Draft marker -->
+      
+    </div>
+  </header>
+  <div>
+
+    <!-- Post content -->
+    <div class="md-post__content md-typeset">
+      <h2 id="how-i-found-a-55-year-old-bug-in-the-first-lunar-lander-game"><a class="toclink" href="../../2024/06/21/how-i-found-a-55/">How I Found A 55 Year Old Bug In The First Lunar Lander Game</a></h2>
+<p><img class="cover" src="https://martincmartin.com/wp-content/uploads/2024/06/screenshot-2024-06-13-at-1.24.32e280afpm.png"></p>
+<p><strong>Link: <a href="https://martincmartin.com/2024/06/14/how-i-found-a-55-year-old-bug-in-the-first-lunar-lander-game/?utm_source=hackernewsletter&amp;utm_medium=email&amp;utm_term=fav">How I Found A 55 Year Old Bug In The First Lunar Lander Game</a>:</strong> "Update: This kinda blew up! Featured in Hacker News, Ars Technica and PC Gamer, among others. Just months after Neil Armstrong’s historic moonwalk, Jim Storer, a Lexington High School student…" </p>
+<p>The linked article is most interesting to me because I know Jim Storer. He’s a colleague at Brandeis University. </p>
+    </div>
+</article>
       
         <!--
   Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
@@ -1839,138 +1971,6 @@
 <p><img class="cover" src="https://www.stefantheard.com/content/images/size/w1200/2024/06/wework-1-1.webp"></p>
 <p><strong>Link: <a href="https://www.stefantheard.com/silicon-valleys-best-kept-secret-founder-liquidity/?utm_source=hackernewsletter&amp;utm_medium=email&amp;utm_term=fav">Silicon Valley’s Best Kept Secret: Founder Liquidity</a>:</strong> "Ask most venture-backed founders why they get 10x more equity than employee #1, 100x more equity than employee #5, and 1000x more equity than employee #15, and you'll get the same answer: "I'M TAKING SO MUCH RISK, IT'S SO HARD TO START A COMPANY, I MADE A BIG MOVE!!!" And" </p>
 <p>Another reason why I believe being the founder of a well funded startup is not risky. If the startup is indeed well funded then you as a founder or employee can count on your salary for say between one and three years. No matter what revenue or earnings are, because they are not expected at the very start. Compare that with a job at an established company where layoffs can come out of nowhere and affect anyone.  Not sure which is riskier … it depends … but in my opinion the startup is not clearly riskier. See the attached article for an explanation of one factor, but not the only factor. </p>
-    </div>
-</article>
-      
-        <!--
-  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Post excerpt -->
-<article class="md-post md-post--excerpt">
-  <header class="md-post__header">
-
-    <!-- Post authors -->
-    
-
-    <!-- Post metadata -->
-    <div class="md-post__meta md-meta">
-      <ul class="md-meta__list">
-
-        <!-- Post date -->
-        <li class="md-meta__item">
-          <time datetime="2024-06-14 00:00:00">June 14, 2024</time></li>
-
-        <!-- Post categories -->
-        
-
-        <!-- Post readtime -->
-        
-        
-        <li class="md-meta__item">
-          
-          1 min read
-          
-        </li>
-        
-      </ul>
-
-      <!-- Draft marker -->
-      
-    </div>
-  </header>
-  <div>
-
-    <!-- Post content -->
-    <div class="md-post__content md-typeset">
-      <h2 id="teo"><a class="toclink" href="../../2024/06/14/teo/">TEO</a></h2>
-<p><img class="cover" src="https://teodev.io/images/code.png?imwidth=1200"></p>
-<p><strong>Link: <a href="https://teodev.io/">TEO</a>:</strong> "TEO is the schema-driven web server framework native to Rust, Node.js and Python. It reduces developing time and improves developers' life experience." </p>
-<p>Wow a brand new web framework! Where did this spring from, apparently fully formed, out of nowhere? Or am I not hanging out in the right neighborhood? Take a look at the attached site!</p>
-    </div>
-</article>
-      
-        <!--
-  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Post excerpt -->
-<article class="md-post md-post--excerpt">
-  <header class="md-post__header">
-
-    <!-- Post authors -->
-    
-
-    <!-- Post metadata -->
-    <div class="md-post__meta md-meta">
-      <ul class="md-meta__list">
-
-        <!-- Post date -->
-        <li class="md-meta__item">
-          <time datetime="2024-06-12 00:00:00">June 12, 2024</time></li>
-
-        <!-- Post categories -->
-        
-
-        <!-- Post readtime -->
-        
-        
-        <li class="md-meta__item">
-          
-          1 min read
-          
-        </li>
-        
-      </ul>
-
-      <!-- Draft marker -->
-      
-    </div>
-  </header>
-  <div>
-
-    <!-- Post content -->
-    <div class="md-post__content md-typeset">
-      <h2 id="how-to-annotate-a-graph-with-matplotlib-and-python-mouse-vs-python"><a class="toclink" href="../../2024/06/12/how-to-annotate-a-graph/">How to Annotate a Graph with Matplotlib and Python - Mouse Vs Python</a></h2>
-<p><img class="cover" src="https://www.blog.pythonlibrary.org/wp-content/uploads/2024/05/annotated_graph-1024x843.jpg"></p>
-<p><strong>Link: <a href="https://www.blog.pythonlibrary.org/2024/05/13/how-to-annotate-a-graph-with-matplotlib-and-python/">How to Annotate a Graph with Matplotlib and Python - Mouse Vs Python</a>:</strong> "The Matplotlib package is great for visualizing data. One of its many features is the ability to annotate points on your graph. You can use annotations to" </p>
-<p>The attached article shows nice code examples on how to put arrows pointing at specific points in your graph</p>
     </div>
 </article>
       
