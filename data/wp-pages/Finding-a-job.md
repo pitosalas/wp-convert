@@ -32,7 +32,7 @@ nor guaranteed to be the best way to go.
 Networking with people is the lifeblood of your professional life and your job
 hunt.
 
-* Join LinkedIn immediately if you haven't yet. And request a link to everyone professional that you know who are even peripherally in your field. Professors, Managers, CEOs, bosses, speakers. 
+* Join LinkedIn immediately if you haven't yet. And request a link to everyone professional that you know who are even peripherally in your field. Professors, Managers, CEOs, bosses, speakers.
 * In any professional situation (or often even in social situations) be bold when you encounter someone who is further along in their career than you, someone who you kind of admire or look up to. Go up to them and introduce yourself and trade emails or Linkedin.
 
 ## Hierarchy of targets
@@ -61,7 +61,22 @@ do this, from least effective to most effective.
 7. Just sound like a person, talk to them respectfully but don't sound like a robot. (from Evalyn)
 
 Finally: Just do not give up! If you really want to work at a certain place,
-keep reminding them that you are interested, and reapply for new opportunities
-there, if you see them. Even multiple times!
+keep reminding them that you are interested, and reapply for new opportunities there, if you see them. Even multiple times!
 
+### Insights from Industry Experts About Leetcode and inteviews:
 
+To a new grad preparing for software development interviews, consider the following advice based on industry insights:
+
+1. **Balance Coding Practice with Real Projects**: While practicing coding problems on platforms like LeetCode can help you prepare for technical screenings, it's vital to work on real projects. Side projects or contributions to open-source projects demonstrate practical skills and genuine interest ([Jon Burdo](https://www.linkedin.com/in/jon-burdo-59730a83/), [Pito Salas](https://www.linkedin.com/in/pitosalas/)).
+
+2. **Emphasize Communication and Problem-Solving**: Interviews should assess your ability to communicate and solve problems collaboratively. Practice explaining your thought process and decision-making during coding exercises ([Peter Harris](https://www.linkedin.com/in/peter-harris-ab6276/), [Ryan Marcus](https://www.linkedin.com/in/ryancmarcus/)).
+
+3. **Understand the Role of Coding Tests**: Coding tests are often used as initial screens, especially at large companies. They serve as a basic check of technical skills but shouldn't be the sole focus of your preparation ([Barry Briggs](https://www.linkedin.com/in/barrybriggs/), [John Langton](https://www.linkedin.com/in/johnlangton/)).
+
+4. **Showcase Your Work**: Be prepared to discuss projects you've worked on, focusing on the choices you made and the challenges you overcame. This can provide deeper insights into your capabilities than standard coding tests ([Mike Skrzypczak](https://www.linkedin.com/in/mszak50/)).
+
+5. **Practice with a Purpose**: Instead of solving numerous random problems, focus on understanding fundamental data structures and algorithms. Use curated lists like the "Blind 75" to guide your preparation ([Arya Boudaie](https://www.linkedin.com/in/aboudaie/)).
+
+6. **Consider the Company Culture**: Be aware that some companies prioritize coding challenges, while others may focus on different skills. Tailor your preparation to align with the company's interview style ([Kevin Breidenbach](https://www.linkedin.com/in/kevinbreidenbach/)).
+
+By following these practices, you'll be better equipped to navigate the interview process and showcase your strengths effectively.
