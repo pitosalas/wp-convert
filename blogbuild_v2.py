@@ -28,12 +28,10 @@ def fix_drop_tags(tags):
         print(f"""blogbuild_v2 fixed {tags} -> {ret_tag}""")
     return ret_tag
 
-
 def fix_drop_date(date_string):
     parsed_date = datetime.fromisoformat(date_string.rstrip('Z'))
     parsed_date.replace(tzinfo=None)
     return parsed_date.strftime('%Y-%m-%d')
-
 
 class BlogBuild:
     def __init__(self):
