@@ -124,6 +124,13 @@ Credit cards are accepted almost everywhere. Again there you can say what curren
 
 Tipping is not as mandatory as in the USA. I tried to tip 10% for decent service in restaurants which I think is typical. Note that often the credit card machine does not offer a "tip" option. You need to remind the server that you want to put a tip on your card so they bring the "right" credit card macbhine to your table. You can always leave a cash tip.
 
+## Renting a car
+
+In my opionion you really should rent a car. It depends a little on how long you will be there. You might think of walking to certain places because the distances can seem short, a mile or two. But it gets very hot and walking quickly becomes unpleasant. There are also large and interesting parts of the island that you can only get to driving.
+
+I suggest using a name brand car rental that has a desk at the airport itself. You might be able to save a few bucks looking for a company whose office is not at the airport itself but I have not had good luck with those. Also there may be discounts if you rent through Costco or Expedia or similar.
+
+
 ## Web Sites and Resources
 
 These are some excellent resources for knowing what's going on. 
