@@ -33,13 +33,7 @@ hunt.
 
 ## Hierarchy of targets
 
-You need to focus your search a little. If you are sending out 10 resumes an
-hour, your doing it wrong. Try to think about what kind of place or what
-specific place you would like to work. Large company or small? East or West
-Coast or don't you care? Consumer or Enterprise? Etc. Then use google and
-LinkedIn to create a prioritized list of companies that fit the bill. Work
-through the list and send in your applications. Here are the different ways to
-do this, from least effective to most effective.
+You need to focus your search a little. If you are sending out 10 resumes an hour, your doing it wrong. Try to think about what kind of place or what specific place you would like to work. Large company or small? East or West Coast or don't you care? Consumer or Enterprise? Etc. Then use google and LinkedIn to create a prioritized list of companies that fit the bill. Work through the list and send in your applications. Here are the different ways to do this, from least effective to most effective.
 
 1. (lowest) jobs@bigco.com. This is where all the losers send their resumes. Imagine that scene at the end of the original raiders of the lost ark. That's where your resume will be stored.
 2. Use LinkedIn to discover people who are in your cohort (alumni of your college, people who you worked with in the past, family members) who work at your target company. You can expect that even someone you don't know at all will be willing to help out someone from their extended "tribe". You would to, wouldn't you?
