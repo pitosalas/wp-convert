@@ -20,7 +20,7 @@
       
       
       <link rel="icon" href="../../images/icons/bhslogo.png">
-      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.34">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.35">
     
     
       
@@ -476,6 +476,15 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#jon-udell-on-bloglines" class="md-nav__link">
+    <span class="md-ellipsis">
+      Jon Udell on Bloglines
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#announcing-the-blogbridge-service-" class="md-nav__link">
     <span class="md-ellipsis">
       Announcing… The BlogBridge Service ;-)
@@ -551,15 +560,6 @@
   <a href="#oddpost-sold-to-yahoo" class="md-nav__link">
     <span class="md-ellipsis">
       Oddpost Sold to Yahoo!
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#scary-software" class="md-nav__link">
-    <span class="md-ellipsis">
-      Scary Software
     </span>
   </a>
   
@@ -1210,6 +1210,15 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#jon-udell-on-bloglines" class="md-nav__link">
+    <span class="md-ellipsis">
+      Jon Udell on Bloglines
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#announcing-the-blogbridge-service-" class="md-nav__link">
     <span class="md-ellipsis">
       Announcing… The BlogBridge Service ;-)
@@ -1290,15 +1299,6 @@
   
 </li>
       
-        <li class="md-nav__item">
-  <a href="#scary-software" class="md-nav__link">
-    <span class="md-ellipsis">
-      Scary Software
-    </span>
-  </a>
-  
-</li>
-      
     </ul>
   
 </nav>
@@ -1313,6 +1313,111 @@
       <header class="md-typeset">
         <h1 id="index">Index</h1>
       </header>
+      
+        <!--
+  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Post excerpt -->
+<article class="md-post md-post--excerpt">
+  <header class="md-post__header">
+
+    <!-- Post authors -->
+    
+
+    <!-- Post metadata -->
+    <div class="md-post__meta md-meta">
+      <ul class="md-meta__list">
+
+        <!-- Post date -->
+        <li class="md-meta__item">
+          <time datetime="2004-07-26 00:00:00">July 26, 2004</time></li>
+
+        <!-- Post categories -->
+        
+
+        <!-- Post readtime -->
+        
+        
+        <li class="md-meta__item">
+          
+          2 min read
+          
+        </li>
+        
+      </ul>
+
+      <!-- Draft marker -->
+      
+    </div>
+  </header>
+  <div>
+
+    <!-- Post content -->
+    <div class="md-post__content md-typeset">
+      <h2 id="jon-udell-on-bloglines"><a class="toclink" href="../../2004/07/26/jon-udell-on-bloglines/">Jon Udell on Bloglines</a></h2>
+<p><a href="http://weblog.infoworld.com/udell/2004/07/25.html">Jon (and many others) really like Bloglines a lot; I recommend his article -
+there's a lot to learn
+there.</a></p>
+<blockquote>
+<blockquote>
+<p>I want to address just one point, which is Jon's prediction of the coming
+world domination by web apps. There's an interesting <strong>paradox</strong> ,
+<strong>inconsistency</strong> or <strong>contradiction</strong> here, if you look at the following
+qoutes from his piece:</p>
+<ul>
+<li>
+<p>"Web applications such as Gmail and Bloglines are already hard to beat.
+With a touch of alchemy they just might become <strong>unstoppable</strong>. "</p>
+</li>
+<li>
+<p>"… that Bloglines, like Zope, handles foldering about as well as you
+can in a Web UI -- which is to say, <strong>well enough</strong>. With an intelligent local
+cache it could be really good; more on that later."</p>
+</li>
+<li>
+<p>"Finally, I'd love it if Bloglines cached everything in a local
+database, not only for offline reading but also to make the <strong>UI more
+responsive</strong> and to accelerate queries that reach back into the archive."</p>
+</li>
+</ul>
+<p>Is there a way to have our <strong>cake and eat it too</strong>? Is it possible to have
+the user experience of a real application with the universal access of a web
+application?</p>
+<p>That's the <strong>BlogBridge experiment</strong> : a total inversion of the Web
+Application scheme. BlogBridge has a thick client (Java based) with the local
+cache and the flashy responsive UI and offline operation.</p>
+<p>And we are about to launch the <strong>BlogBridge Service</strong> which is a Web
+Service (XML-RPC) allowing BlogBridge to synchronize both your feeds and
+folders as well as their unread status periodically.</p>
+<p>In other words, you run the BlogBridge application and <strong>periodically</strong> it
+talks to the service (behind the scenes) and uploads your latest feeds,
+folders and unread state. If you run BlogBridge somewhere else, you BlogBridge
+talks to the service and grabs your latest info and you <strong>continue where you
+left off</strong>.</p>
+<p>What do you think?</p>
+</blockquote>
+</blockquote>
+    </div>
+</article>
       
         <!--
   Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
@@ -2069,86 +2174,6 @@ about the <strong>divergence of standards</strong>.</p>
     </div>
 </article>
       
-        <!--
-  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Post excerpt -->
-<article class="md-post md-post--excerpt">
-  <header class="md-post__header">
-
-    <!-- Post authors -->
-    
-
-    <!-- Post metadata -->
-    <div class="md-post__meta md-meta">
-      <ul class="md-meta__list">
-
-        <!-- Post date -->
-        <li class="md-meta__item">
-          <time datetime="2004-07-10 00:00:00">July 10, 2004</time></li>
-
-        <!-- Post categories -->
-        
-
-        <!-- Post readtime -->
-        
-        
-        <li class="md-meta__item">
-          
-          1 min read
-          
-        </li>
-        
-      </ul>
-
-      <!-- Draft marker -->
-      
-    </div>
-  </header>
-  <div>
-
-    <!-- Post content -->
-    <div class="md-post__content md-typeset">
-      <h2 id="scary-software"><a class="toclink" href="../../2004/07/10/scary-software/">Scary Software</a></h2>
-<p><strong>I love those security guys</strong> just as much as the next guy but this
-certificate crazyness is ridiculous. Look at this message that a poor
-unsuspecting user sees when they try to run a downloaded java application:</p>
-<blockquote>
-<blockquote>
-<p><img alt="scary.JPG" src="https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/archives/scary.JPG?resize=432%2C284" /></p>
-<p>Inspires confidence, doesn't it? The absurd part is this: I can go out and
-spend several hundred dollars to get an actual official certificate which
-certifies tht I am indeed BlogBridge Inc. How <strong>does that help</strong> anyone?</p>
-<p>A guy in Kansas sees that Microsoft or Sun promises me that Verisign
-promises me that this software is really from BlogBridge, Inc. <strong>Big Deal</strong>!
-Who the <strong>heck</strong> is BlogBridge Inc?</p>
-<p>Unless you are Microsoft or General Electric, who knows if they can trust
-you? It's a big farce built upon beautiful and elegant mathematics and
-cryptography which is <strong>correct</strong> and yet <strong>impotent</strong></p>
-</blockquote>
-</blockquote>
-    </div>
-</article>
-      
       
         
           
@@ -2221,7 +2246,7 @@ cryptography which is <strong>correct</strong> and yet <strong>impotent</strong>
     </div>
     
     
-    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.footer", "navigation.tabs", "search.suggest", "navigation.expand"], "search": "../../assets/javascripts/workers/search.07f07601.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.footer", "navigation.tabs", "search.suggest", "navigation.expand"], "search": "../../assets/javascripts/workers/search.6ce7567c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
     
     
       <script src="../../assets/javascripts/bundle.56dfad97.min.js"></script>
