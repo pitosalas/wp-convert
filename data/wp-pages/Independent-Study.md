@@ -3,28 +3,13 @@ title: "Independent Study"
 author: Pito Salas
 date: 2020-12-14
 ---
-
-
-
 ## FAQ
 
-**Context - **Faculty members have different approaches to independent
-studies. These are my guidelines for students doing independent studies under
-my direction.
+**Context; Faculty members have different approaches to independent studies. These are my guidelines for students doing independent studies under my direction.
 
-**How do I sign up?** There is no set procedure. Generally a student who is
-interested in doing an independent study will speak to a faculty member that
-they know from a class (and that they like 🙂 and discuss the possibility. It
-is best if you come with a project in mind or if you are interested int he
-same kind of things that the professor is interested in. The important thing
-is that it is all in your hands and you have to take the initiative.
+**How do I sign up?** There is no set procedure. Generally a student who is interested in doing an independent study will speak to a faculty member that they know from a class (and that they like 🙂 and discuss the possibility. It is best if you come with a project in mind or if you are interested int he same kind of things that the professor is interested in. The important thing is that it is all in your hands and you have to take the initiative.
 
-**Appropriate Projects** - An independent study is not just some hacking fest
-for credit. You need to demonstrate at the end that you actually studied and
-learned something new and that it is interesting and deserving of credit and
-that you can present the results. An independent study can be about something
-I am passionate about (see below) or something that you are passionate about.
-There is a lot of flexibility.
+**Appropriate Projects** - An independent study is not just some hacking fest for credit. You need to demonstrate at the end that you actually studied and learned something new and that it is interesting and deserving of credit and that you can present the results. An independent study can be about something I am passionate about (see below) or something that you are passionate about. There is a lot of flexibility.
 
 **Proposal - **Before the term begins you need to develop a proposal, which
 would be 1-2 pages max. It should include:
