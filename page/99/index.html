@@ -476,6 +476,42 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#preserving-global-state-in-a-flask-application" class="md-nav__link">
+    <span class="md-ellipsis">
+      Preserving global state in a flask application
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-application-context-flask-documentation-20x" class="md-nav__link">
+    <span class="md-ellipsis">
+      The Application Context — Flask Documentation (2.0.x)
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#structuring-a-large-production-flask-application" class="md-nav__link">
+    <span class="md-ellipsis">
+      Structuring a Large Production Flask Application
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-to-speed-up-python-application-startup-time" class="md-nav__link">
+    <span class="md-ellipsis">
+      How to speed up Python application startup time
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#bolt-depot-nuts-and-bolts-screws-and-fasteners-online" class="md-nav__link">
     <span class="md-ellipsis">
       Bolt Depot - Nuts and Bolts, Screws and Fasteners online
@@ -524,42 +560,6 @@
   <a href="#how-to-install-the-apache-web-server-on-ubuntu-2004-digitalocean" class="md-nav__link">
     <span class="md-ellipsis">
       How To Install the Apache Web Server on Ubuntu 20.04 | DigitalOcean
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#lofi-hip-hop-radio-beats-to-relaxstudy-to" class="md-nav__link">
-    <span class="md-ellipsis">
-      lofi hip hop radio - beats to relax/study to
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#lofi-hip-hop-radio-beats-to-relaxstudy-to" class="md-nav__link">
-    <span class="md-ellipsis">
-      lofi hip hop radio – beats to relax/study to
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#movie-posters-collection-harry-ransom-center-digital-collections" class="md-nav__link">
-    <span class="md-ellipsis">
-      Movie Posters Collection - Harry Ransom Center Digital Collections
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#movie-posters-collection-harry-ransom-center-digital-collections" class="md-nav__link">
-    <span class="md-ellipsis">
-      Movie Posters Collection – Harry Ransom Center Digital Collections
     </span>
   </a>
   
@@ -1210,6 +1210,42 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#preserving-global-state-in-a-flask-application" class="md-nav__link">
+    <span class="md-ellipsis">
+      Preserving global state in a flask application
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-application-context-flask-documentation-20x" class="md-nav__link">
+    <span class="md-ellipsis">
+      The Application Context — Flask Documentation (2.0.x)
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#structuring-a-large-production-flask-application" class="md-nav__link">
+    <span class="md-ellipsis">
+      Structuring a Large Production Flask Application
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-to-speed-up-python-application-startup-time" class="md-nav__link">
+    <span class="md-ellipsis">
+      How to speed up Python application startup time
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#bolt-depot-nuts-and-bolts-screws-and-fasteners-online" class="md-nav__link">
     <span class="md-ellipsis">
       Bolt Depot - Nuts and Bolts, Screws and Fasteners online
@@ -1263,42 +1299,6 @@
   
 </li>
       
-        <li class="md-nav__item">
-  <a href="#lofi-hip-hop-radio-beats-to-relaxstudy-to" class="md-nav__link">
-    <span class="md-ellipsis">
-      lofi hip hop radio - beats to relax/study to
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#lofi-hip-hop-radio-beats-to-relaxstudy-to" class="md-nav__link">
-    <span class="md-ellipsis">
-      lofi hip hop radio – beats to relax/study to
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#movie-posters-collection-harry-ransom-center-digital-collections" class="md-nav__link">
-    <span class="md-ellipsis">
-      Movie Posters Collection - Harry Ransom Center Digital Collections
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#movie-posters-collection-harry-ransom-center-digital-collections" class="md-nav__link">
-    <span class="md-ellipsis">
-      Movie Posters Collection – Harry Ransom Center Digital Collections
-    </span>
-  </a>
-  
-</li>
-      
     </ul>
   
 </nav>
@@ -1313,6 +1313,269 @@
       <header class="md-typeset">
         <h1 id="index">Index</h1>
       </header>
+      
+        <!--
+  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Post excerpt -->
+<article class="md-post md-post--excerpt">
+  <header class="md-post__header">
+
+    <!-- Post authors -->
+    
+
+    <!-- Post metadata -->
+    <div class="md-post__meta md-meta">
+      <ul class="md-meta__list">
+
+        <!-- Post date -->
+        <li class="md-meta__item">
+          <time datetime="2021-07-29 00:00:00">July 29, 2021</time></li>
+
+        <!-- Post categories -->
+        
+
+        <!-- Post readtime -->
+        
+        
+        <li class="md-meta__item">
+          
+          1 min read
+          
+        </li>
+        
+      </ul>
+
+      <!-- Draft marker -->
+      
+    </div>
+  </header>
+  <div>
+
+    <!-- Post content -->
+    <div class="md-post__content md-typeset">
+      <h2 id="preserving-global-state-in-a-flask-application"><a class="toclink" href="../../2021/07/29/preserving-global-state-in-a/">Preserving global state in a flask application</a></h2>
+<p><img class="cover" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded"></p>
+<p><strong>Link: <a href="https://stackoverflow.com/questions/19277280/preserving-global-state-in-a-flask-application?answertab=votes#tab-top">Preserving global state in a flask application</a>:</strong> "I am trying to save a cache dictionary in my flask application.</p>
+<p>As far as I understand it, the Application Context, in particular the flask.g object should be used for this.
+Setup:</p>
+<p>import flask ..." </p>
+    </div>
+</article>
+      
+        <!--
+  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Post excerpt -->
+<article class="md-post md-post--excerpt">
+  <header class="md-post__header">
+
+    <!-- Post authors -->
+    
+
+    <!-- Post metadata -->
+    <div class="md-post__meta md-meta">
+      <ul class="md-meta__list">
+
+        <!-- Post date -->
+        <li class="md-meta__item">
+          <time datetime="2021-07-29 00:00:00">July 29, 2021</time></li>
+
+        <!-- Post categories -->
+        
+
+        <!-- Post readtime -->
+        
+        
+        <li class="md-meta__item">
+          
+          1 min read
+          
+        </li>
+        
+      </ul>
+
+      <!-- Draft marker -->
+      
+    </div>
+  </header>
+  <div>
+
+    <!-- Post content -->
+    <div class="md-post__content md-typeset">
+      <h2 id="the-application-context-flask-documentation-20x"><a class="toclink" href="../../2021/07/29/the-application-context--flask/">The Application Context — Flask Documentation (2.0.x)</a></h2>
+<p><img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fflask.palletsprojects.com%2Fen%2F2.0.x%2Fappcontext%2F"></p>
+<p><strong>Link: <a href="https://flask.palletsprojects.com/en/2.0.x/appcontext/">The Application Context — Flask Documentation (2.0.x)</a>:</strong> "" </p>
+    </div>
+</article>
+      
+        <!--
+  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Post excerpt -->
+<article class="md-post md-post--excerpt">
+  <header class="md-post__header">
+
+    <!-- Post authors -->
+    
+
+    <!-- Post metadata -->
+    <div class="md-post__meta md-meta">
+      <ul class="md-meta__list">
+
+        <!-- Post date -->
+        <li class="md-meta__item">
+          <time datetime="2021-07-26 00:00:00">July 26, 2021</time></li>
+
+        <!-- Post categories -->
+        
+
+        <!-- Post readtime -->
+        
+        
+        <li class="md-meta__item">
+          
+          1 min read
+          
+        </li>
+        
+      </ul>
+
+      <!-- Draft marker -->
+      
+    </div>
+  </header>
+  <div>
+
+    <!-- Post content -->
+    <div class="md-post__content md-typeset">
+      <h2 id="structuring-a-large-production-flask-application"><a class="toclink" href="../../2021/07/26/structuring-a-large-production-flask/">Structuring a Large Production Flask Application</a></h2>
+<p><img class="cover" src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png"></p>
+<p><strong>Link: <a href="https://levelup.gitconnected.com/structuring-a-large-production-flask-application-7a0066a65447">Structuring a Large Production Flask Application</a>:</strong> "In the world of Python web frameworks Flask and Django are considered the two major frameworks. Flask is a micro-framework and is…" </p>
+    </div>
+</article>
+      
+        <!--
+  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Post excerpt -->
+<article class="md-post md-post--excerpt">
+  <header class="md-post__header">
+
+    <!-- Post authors -->
+    
+
+    <!-- Post metadata -->
+    <div class="md-post__meta md-meta">
+      <ul class="md-meta__list">
+
+        <!-- Post date -->
+        <li class="md-meta__item">
+          <time datetime="2021-07-24 00:00:00">July 24, 2021</time></li>
+
+        <!-- Post categories -->
+        
+
+        <!-- Post readtime -->
+        
+        
+        <li class="md-meta__item">
+          
+          1 min read
+          
+        </li>
+        
+      </ul>
+
+      <!-- Draft marker -->
+      
+    </div>
+  </header>
+  <div>
+
+    <!-- Post content -->
+    <div class="md-post__content md-typeset">
+      <h2 id="how-to-speed-up-python-application-startup-time"><a class="toclink" href="../../2021/07/24/how-to-speed-up-python/">How to speed up Python application startup time</a></h2>
+<p><img class="cover" src="https://res.cloudinary.com/practicaldev/image/fetch/s--RG_5UInO--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://cl.ly/0W1c1u1F3602/Image%25202018-01-21%2520at%252011.59.32%2520AM.png"></p>
+<p><strong>Link: <a href="https://dev.to/methane/how-to-speed-up-python-application-startup-time-nkf">How to speed up Python application startup time</a>:</strong> "Introduction of Python 3.7's new feature to measure import time" </p>
+    </div>
+</article>
       
         <!--
   Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
@@ -1706,270 +1969,6 @@ shipping and a 100% guarantee</p>
       <h2 id="how-to-install-the-apache-web-server-on-ubuntu-2004-digitalocean"><a class="toclink" href="../../2021/07/15/how-to-install-the-apache/">How To Install the Apache Web Server on Ubuntu 20.04 | DigitalOcean</a></h2>
 <p><img class="cover" src="https://www.digitalocean.com/assets/community/illustrations/DigitalOcean_Community-e00e73a18df20667c3117725e727f3ade330204dff619ad8153050ded7341627.jpg"></p>
 <p><strong>Link: <a href="https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-20-04">How To Install the Apache Web Server on Ubuntu 20.04 | DigitalOcean</a>:</strong> "The Apache HTTP server is the most widely-used web server in the world. It provides many powerful features including dynamically loadable modules, robust media support, and extensive integration with other popular software. In this guide, we'll explai" </p>
-    </div>
-</article>
-      
-        <!--
-  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Post excerpt -->
-<article class="md-post md-post--excerpt">
-  <header class="md-post__header">
-
-    <!-- Post authors -->
-    
-
-    <!-- Post metadata -->
-    <div class="md-post__meta md-meta">
-      <ul class="md-meta__list">
-
-        <!-- Post date -->
-        <li class="md-meta__item">
-          <time datetime="2021-07-15 00:00:00">July 15, 2021</time></li>
-
-        <!-- Post categories -->
-        
-
-        <!-- Post readtime -->
-        
-        
-        <li class="md-meta__item">
-          
-          1 min read
-          
-        </li>
-        
-      </ul>
-
-      <!-- Draft marker -->
-      
-    </div>
-  </header>
-  <div>
-
-    <!-- Post content -->
-    <div class="md-post__content md-typeset">
-      <h2 id="lofi-hip-hop-radio-beats-to-relaxstudy-to"><a class="toclink" href="../../2021/07/15/lofi-hip-hop-radio-/">lofi hip hop radio - beats to relax/study to</a></h2>
-<p><img class="cover" src="https://i.ytimg.com/vi/5qap5aO4i9A/maxresdefault_live.jpg"></p>
-<p><strong>Link: <a href="https://www.youtube.com/watch?v=5qap5aO4i9A">lofi hip hop radio - beats to relax/study to</a>:</strong> "🤗 Thank you for listening, I hope you will have a good time here✔️ | This music is free to use in your livestreams &amp; videos→  https://bit.ly/lofigirl-usethe..." </p>
-    </div>
-</article>
-      
-        <!--
-  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Post excerpt -->
-<article class="md-post md-post--excerpt">
-  <header class="md-post__header">
-
-    <!-- Post authors -->
-    
-
-    <!-- Post metadata -->
-    <div class="md-post__meta md-meta">
-      <ul class="md-meta__list">
-
-        <!-- Post date -->
-        <li class="md-meta__item">
-          <time datetime="2021-07-15 00:00:00">July 15, 2021</time></li>
-
-        <!-- Post categories -->
-        
-
-        <!-- Post readtime -->
-        
-        
-        <li class="md-meta__item">
-          
-          1 min read
-          
-        </li>
-        
-      </ul>
-
-      <!-- Draft marker -->
-      
-    </div>
-  </header>
-  <div>
-
-    <!-- Post content -->
-    <div class="md-post__content md-typeset">
-      <h2 id="lofi-hip-hop-radio-beats-to-relaxstudy-to"><a class="toclink" href="../../2021/07/15/lofi-hip-hop-radio-/">lofi hip hop radio – beats to relax/study to</a></h2>
-<p><a href="https://www.youtube.com/watch?v=5qap5aO4i9A"> lofi hip hop radio - beats to relax/study
-to</a></p>
-<p>🤗 Thank you for listening, I hope you will have a good time here✔️ | This music is free to use in your livestreams &amp; videos→ https://bit.ly/lofigirl-usethe…</p>
-<p>July 16, 2021 at 12:01AM</p>
-    </div>
-</article>
-      
-        <!--
-  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Post excerpt -->
-<article class="md-post md-post--excerpt">
-  <header class="md-post__header">
-
-    <!-- Post authors -->
-    
-
-    <!-- Post metadata -->
-    <div class="md-post__meta md-meta">
-      <ul class="md-meta__list">
-
-        <!-- Post date -->
-        <li class="md-meta__item">
-          <time datetime="2021-07-11 00:00:00">July 11, 2021</time></li>
-
-        <!-- Post categories -->
-        
-
-        <!-- Post readtime -->
-        
-        
-        <li class="md-meta__item">
-          
-          1 min read
-          
-        </li>
-        
-      </ul>
-
-      <!-- Draft marker -->
-      
-    </div>
-  </header>
-  <div>
-
-    <!-- Post content -->
-    <div class="md-post__content md-typeset">
-      <h2 id="movie-posters-collection-harry-ransom-center-digital-collections"><a class="toclink" href="../../2021/07/11/movie-posters-collection--/">Movie Posters Collection - Harry Ransom Center Digital Collections</a></h2>
-<p><img class="cover" src="https://rdl.ink/render/https%3A%2F%2Fhrc.contentdm.oclc.org%2Fdigital%2Fcollection%2Fp15878coll84%3Futm_campaign%3DRecomendo%26utm_medium%3Demail%26utm_source%3DRevue%2520newsletter"></p>
-<p><strong>Link: <a href="https://hrc.contentdm.oclc.org/digital/collection/p15878coll84?utm_campaign=Recomendo&amp;utm_medium=email&amp;utm_source=Revue%20newsletter">Movie Posters Collection - Harry Ransom Center Digital Collections</a>:</strong> "Massive collection of images of old movie posters" </p>
-    </div>
-</article>
-      
-        <!--
-  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Post excerpt -->
-<article class="md-post md-post--excerpt">
-  <header class="md-post__header">
-
-    <!-- Post authors -->
-    
-
-    <!-- Post metadata -->
-    <div class="md-post__meta md-meta">
-      <ul class="md-meta__list">
-
-        <!-- Post date -->
-        <li class="md-meta__item">
-          <time datetime="2021-07-11 00:00:00">July 11, 2021</time></li>
-
-        <!-- Post categories -->
-        
-
-        <!-- Post readtime -->
-        
-        
-        <li class="md-meta__item">
-          
-          1 min read
-          
-        </li>
-        
-      </ul>
-
-      <!-- Draft marker -->
-      
-    </div>
-  </header>
-  <div>
-
-    <!-- Post content -->
-    <div class="md-post__content md-typeset">
-      <h2 id="movie-posters-collection-harry-ransom-center-digital-collections"><a class="toclink" href="../../2021/07/11/movie-posters-collection--harry/">Movie Posters Collection – Harry Ransom Center Digital Collections</a></h2>
-<p><a href="https://hrc.contentdm.oclc.org/digital/collection/p15878coll84?utm_campaign=Recomendo&amp;utm_medium=email&amp;utm_source=Revue%20newsletter"> Movie Posters Collection - Harry Ransom Center Digital
-Collections</a></p>
-<p>Massive collection of images of old movie posters</p>
-<p>July 11, 2021 at 01:23PM</p>
     </div>
 </article>
       
