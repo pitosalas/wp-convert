@@ -1,19 +1,21 @@
 ---
 title: "Effective Queries with Rails and PostgreSQL"
 author: Pito Salas
-url: "https://www.honeybadger.io/blog/rails-postgresql-queries/" 
-link: "https://www.honeybadger.io/blog/rails-postgresql-queries/" 
-cover: "https://ondemand.bannerbear.com/signedurl/nZ52rq9EkQ6V3bp1Lj/image.jpg?modifications=W3sibmFtZSI6InRpdGxlIiwidGV4dCI6IkVmZmVjdGl2ZSBRdWVyaWVzIHdpdGggUmFpbHMgYW5kIFBvc3RncmVTUUwiLCJjb2xvciI6bnVsbCwiYmFja2dyb3VuZCI6bnVsbH0seyJuYW1lIjoiaGVhZHNob3QiLCJpbWFnZV91cmwiOiJodHRwczovL3d3dy5ob25leWJhZGdlci5pby9pbWFnZXMvaGVhZHNob3RzL3BhdmVsdGthY2hlbmtvLnBuZyJ9LHsibmFtZSI6InN1bW1hcnkiLCJ0ZXh0IjoiR2V0dGluZyBkYXRhICppbnRvKiB5b3VyIGRhdGFiYXNlIGlzIGVhc3ksIGJ1dCBxdWVyeWluZyBsYXJnZSBkYXRhc2V0cyBpcyBjaGFsbGVuZ2luZ-KAlGVzcGVjaWFsbHkgd2l0aG91dCB0aGUgcmlnaHQgaW5kZXhlcy4gUGF2ZWwgVGthY2hlbmtvIHRlYWNoZXMgaG93IHRvIHdyaXRlIHBlcmZvcm1hbnQgU1FMIHF1ZXJpZXMgd2l0aCBFWFBMQUlOIGFuZCBBTkFMWVpFLiIsImNvbG9yIjpudWxsLCJiYWNrZ3JvdW5kIjpudWxsfSx7Im5hbWUiOiJhdXRob3IiLCJ0ZXh0IjoiQnkgKlBhdmVsIFRrYWNoZW5rbyoiLCJjb2xvciI6bnVsbCwiYmFja2dyb3VuZCI6bnVsbH0seyJuYW1lIjoidGFncyIsInRleHQiOiIjcnVieSAjcmFpbHMgI3Bvc3RncmVzcWwiLCJjb2xvciI6bnVsbCwiYmFja2dyb3VuZCI6bnVsbH1d&s=330a6e0f313cc37946c0d8e22635ea9169b20df34da06cb61da0f58f3345968d" 
 date: 2022-09-10
 tags:
-    - postgres
     - database
-    - sql
-    - ndex
     - index
+    - ndex
+    - postgres
+    - sql
 ---
-<img class="cover" src="https://ondemand.bannerbear.com/signedurl/nZ52rq9EkQ6V3bp1Lj/image.jpg?modifications=W3sibmFtZSI6InRpdGxlIiwidGV4dCI6IkVmZmVjdGl2ZSBRdWVyaWVzIHdpdGggUmFpbHMgYW5kIFBvc3RncmVTUUwiLCJjb2xvciI6bnVsbCwiYmFja2dyb3VuZCI6bnVsbH0seyJuYW1lIjoiaGVhZHNob3QiLCJpbWFnZV91cmwiOiJodHRwczovL3d3dy5ob25leWJhZGdlci5pby9pbWFnZXMvaGVhZHNob3RzL3BhdmVsdGthY2hlbmtvLnBuZyJ9LHsibmFtZSI6InN1bW1hcnkiLCJ0ZXh0IjoiR2V0dGluZyBkYXRhICppbnRvKiB5b3VyIGRhdGFiYXNlIGlzIGVhc3ksIGJ1dCBxdWVyeWluZyBsYXJnZSBkYXRhc2V0cyBpcyBjaGFsbGVuZ2luZ-KAlGVzcGVjaWFsbHkgd2l0aG91dCB0aGUgcmlnaHQgaW5kZXhlcy4gUGF2ZWwgVGthY2hlbmtvIHRlYWNoZXMgaG93IHRvIHdyaXRlIHBlcmZvcm1hbnQgU1FMIHF1ZXJpZXMgd2l0aCBFWFBMQUlOIGFuZCBBTkFMWVpFLiIsImNvbG9yIjpudWxsLCJiYWNrZ3JvdW5kIjpudWxsfSx7Im5hbWUiOiJhdXRob3IiLCJ0ZXh0IjoiQnkgKlBhdmVsIFRrYWNoZW5rbyoiLCJjb2xvciI6bnVsbCwiYmFja2dyb3VuZCI6bnVsbH0seyJuYW1lIjoidGFncyIsInRleHQiOiIjcnVieSAjcmFpbHMgI3Bvc3RncmVzcWwiLCJjb2xvciI6bnVsbCwiYmFja2dyb3VuZCI6bnVsbH1d&s=330a6e0f313cc37946c0d8e22635ea9169b20df34da06cb61da0f58f3345968d">
 
-**Link: [Effective Queries with Rails and PostgreSQL](https://www.honeybadger.io/blog/rails-postgresql-queries/):** "Getting data *into* your database is easy, but querying large datasets is challenging—especially without the right indexes. Pavel Tkachenko teaches how to write performant SQL queries with EXPLAIN and ANALYZE." 
+
+
+[ Effective Queries with Rails and PostgreSQL](<
+https://www.honeybadger.io/blog/rails-postgresql-queries/>) –Getting data
+*into* your database is easy, but querying large datasets is
+challenging—especially without the right indexes. Pavel Tkachenko teaches how
+to write performant SQL queries with EXPLAIN and ANALYZE.
 
 
