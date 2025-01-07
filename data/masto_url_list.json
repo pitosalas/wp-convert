@@ -111,6 +111,7 @@
         "https://github.com/RightTyper/RightTyper",
         "https://treyhunner.com/2024/12/lazy-self-installing-python-scripts-with-uv/",
         "https://github.com/ghostty-org/ghostty?utm_source=tldrnewsletter",
-        "http://robogrok.com/"
+        "http://robogrok.com/",
+        "https://www.bugsink.com/blog/using-raise-from-none-in-python/"
     ]
 }
