@@ -16,7 +16,7 @@
       
       
       
-        <link rel="next" href="../../archive/2024/">
+        <link rel="next" href="../../archive/2025/">
       
       
       <link rel="icon" href="../../images/icons/bhslogo.png">
@@ -476,6 +476,15 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#geek-unified-name-space-for-aggregator-extensions-for-opml" class="md-nav__link">
+    <span class="md-ellipsis">
+      [GEEK] Unified name space for aggregator extensions for OPML?
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#very-cool-illusion" class="md-nav__link">
     <span class="md-ellipsis">
       Very cool illusion
@@ -556,15 +565,6 @@
   
 </li>
       
-        <li class="md-nav__item">
-  <a href="#web-20-mash-ups-kayak-and-nude-beaches" class="md-nav__link">
-    <span class="md-ellipsis">
-      Web 2.0 — mash ups — Kayak — and nude beaches ?!
-    </span>
-  </a>
-  
-</li>
-      
     </ul>
   
 </nav>
@@ -613,6 +613,29 @@
             Archive
           </label>
           <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../archive/2025/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2025
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
             
               
                 
@@ -1210,6 +1233,15 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#geek-unified-name-space-for-aggregator-extensions-for-opml" class="md-nav__link">
+    <span class="md-ellipsis">
+      [GEEK] Unified name space for aggregator extensions for OPML?
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#very-cool-illusion" class="md-nav__link">
     <span class="md-ellipsis">
       Very cool illusion
@@ -1290,15 +1322,6 @@
   
 </li>
       
-        <li class="md-nav__item">
-  <a href="#web-20-mash-ups-kayak-and-nude-beaches" class="md-nav__link">
-    <span class="md-ellipsis">
-      Web 2.0 — mash ups — Kayak — and nude beaches ?!
-    </span>
-  </a>
-  
-</li>
-      
     </ul>
   
 </nav>
@@ -1313,6 +1336,159 @@
       <header class="md-typeset">
         <h1 id="index">Index</h1>
       </header>
+      
+        <!--
+  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Post excerpt -->
+<article class="md-post md-post--excerpt">
+  <header class="md-post__header">
+
+    <!-- Post authors -->
+    
+
+    <!-- Post metadata -->
+    <div class="md-post__meta md-meta">
+      <ul class="md-meta__list">
+
+        <!-- Post date -->
+        <li class="md-meta__item">
+          <time datetime="2005-11-29 00:00:00+00:00">November 29, 2005</time></li>
+
+        <!-- Post categories -->
+        
+
+        <!-- Post readtime -->
+        
+        
+        <li class="md-meta__item">
+          
+          2 min read
+          
+        </li>
+        
+      </ul>
+
+      <!-- Draft marker -->
+      
+    </div>
+  </header>
+  <div>
+
+    <!-- Post content -->
+    <div class="md-post__content md-typeset">
+      <h2 id="geek-unified-name-space-for-aggregator-extensions-for-opml"><a class="toclink" href="../../2005/11/29/geek-unified-name-space-for/">[GEEK] Unified name space for aggregator extensions for OPML?</a></h2>
+<p>There's <a href="http://nick.typepad.com/blog/2005/11/an_attention_na_1.html">been</a>
+a <a href="http://www.feedblog.org/2005/11/opml_attention_.html">lot</a> of
+<a href="http://blogs.msdn.com/alexbarn/archive/2005/11/23/496170.aspx">discussion</a>
+(follow these links for more links) of late about how to <strong>extend OPML</strong> ,
+including <a href="http://www.blogbridge.com/archives/2005/11/geek_preliminar.php">what I
+wrote</a> about
+some common <strong>aggregation related</strong> OPML attributes. From reading the
+discussions and thinking about it, I am thinking that a course correction
+might be better. Much of the discussion has been about an <a href="http://nick.typepad.com/blog/2005/11/an_attention_na_1.html">Attention namespace
+for OPML</a>. I
+totally <strong>support</strong> this and will participate in that discussion.  <strong>Yet</strong>
+there are clearly some information that many aggregators need to store with
+the OPML, which is not part of the core OPML standard, and also not really
+connected to Attention.  Faced with this question an aggregator developer can
+do one of several things:</p>
+<blockquote>
+<blockquote>
+<ul>
+<li>
+<p>They can just create a product specific namespace (e.g. blogbridge:
+xxx)</p>
+</li>
+<li>
+<p>Or they can just include regular non namespace attributes in their OPML
+(which will in turn cause either the validator or other aggregators to choke.)</p>
+</li>
+</ul>
+</blockquote>
+</blockquote>
+<p>What if instead we try to define a <strong>general set</strong> of <strong>a</strong> ggregator <strong>r</strong>
+elated <strong>e</strong> xtensions (are:xxx) to OPML? We could do an informal canvas and
+try to figure out a small set of really obvious attributes to put into this
+ARE name space.  To start you thinking about this, here is a collection of
+attributes derived from what BlogBridge and FeedDemon each store in their
+OPML. I've identified two sets of attributes:  The following have to do with
+bookkeeping and the operation of the aggregator:</p>
+<blockquote>
+<blockquote>
+<ul>
+<li>
+<p>are:autoPurgeMaxitems - number of items that should be stored locally</p>
+</li>
+<li>
+<p>are:autoUpdateFrequency - how often this feed polled</p>
+</li>
+<li>
+<p>are:numUnread - number of items currently unread</p>
+</li>
+<li>
+<p>are:numFlagged - number of items currently flagged</p>
+</li>
+<li>
+<p>are:numVisits - How often a user has visited this feed</p>
+</li>
+<li>
+<p>are:firstPostDate - Date of the first post</p>
+</li>
+</ul>
+</blockquote>
+</blockquote>
+<p>And the following have to do with local user overrides of information that can
+also be specified in RSS.</p>
+<blockquote>
+<blockquote>
+<ul>
+<li>
+<p>are:userRating - user supplied rating of how 'good' this feed is</p>
+</li>
+<li>
+<p>are:userTitle - user supplied override to the title or name of this
+feed</p>
+</li>
+<li>
+<p>are:userCreator - user supplied override to the creator of this feed</p>
+</li>
+<li>
+<p>are:userDescription - user supplied override to the description of this
+feed</p>
+</li>
+</ul>
+</blockquote>
+</blockquote>
+<p>I'm sure these are already too many. My top level question to those of us
+responsible for OPML import and export within Aggregators of all kinds, what
+do you think? <strong>Shall we try to do this</strong>? Is it a good idea? Or shall we all
+just create our little parochial namespaces with different words for the same
+thing? Technorati Tags:
+<a href="http://www.technorati.com/tag/blogbridge">blogbridge</a>,
+<a href="http://www.technorati.com/tag/feeddemon">feeddemon</a>,
+<a href="http://www.technorati.com/tag/OPML">OPML</a></p>
+    </div>
+</article>
       
         <!--
   Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
@@ -2089,82 +2265,6 @@ it out</a>.</p>
     </div>
 </article>
       
-        <!--
-  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Post excerpt -->
-<article class="md-post md-post--excerpt">
-  <header class="md-post__header">
-
-    <!-- Post authors -->
-    
-
-    <!-- Post metadata -->
-    <div class="md-post__meta md-meta">
-      <ul class="md-meta__list">
-
-        <!-- Post date -->
-        <li class="md-meta__item">
-          <time datetime="2005-11-18 00:00:00+00:00">November 18, 2005</time></li>
-
-        <!-- Post categories -->
-        
-
-        <!-- Post readtime -->
-        
-        
-        <li class="md-meta__item">
-          
-          1 min read
-          
-        </li>
-        
-      </ul>
-
-      <!-- Draft marker -->
-      
-    </div>
-  </header>
-  <div>
-
-    <!-- Post content -->
-    <div class="md-post__content md-typeset">
-      <h2 id="web-20-mash-ups-kayak-and-nude-beaches"><a class="toclink" href="../../2005/11/18/web-20--mash-ups/">Web 2.0 — mash ups — Kayak — and nude beaches ?!</a></h2>
-<p><a href="http://www.kayak.com/h/buzz/flights?code=BOS&amp;rc=c&amp;ac=nude">Did you know that Curacao is the 7th
-favorite</a> place
-that travelers from Boston consider when they are looking for nude beaches in
-the Caribean? Miami is the first, Aruba the second. This important bulletin
-brought to you by Kayak Buzz, a neat web-2.0-kayak-mashup-with-google that I
-just came across. You can look at the URL above to see how it's formed. The
-<strong>funny thing</strong> is that the nude beach search isn't available unless you
-include the <strong>magic</strong> , secret "&amp;ac=nude" clause. You should <a href="http://www.kayak.com/">check out
-Kayak</a>, it's a <strong>really good travel search</strong> site
-that automates what <strong>you know</strong> you are <strong>already doing</strong> - which is to visit
-all the other travel sites with the same itinerary to see who has the best
-deal at this moment. Technorati Tags:
-<a href="http://www.technorati.com/tag/travel">travel</a></p>
-    </div>
-</article>
-      
       
         
           
@@ -2193,13 +2293,13 @@ deal at this moment. Technorati Tags:
         
         
           
-          <a href="../../archive/2024/" class="md-footer__link md-footer__link--next" aria-label="Next: 2024">
+          <a href="../../archive/2025/" class="md-footer__link md-footer__link--next" aria-label="Next: 2025">
             <div class="md-footer__title">
               <span class="md-footer__direction">
                 Next
               </span>
               <div class="md-ellipsis">
-                2024
+                2025
               </div>
             </div>
             <div class="md-footer__button md-icon">
